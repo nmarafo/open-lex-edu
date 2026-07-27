@@ -1,6 +1,349 @@
 version: '1.0'
-total_normas: 343
+total_normas: 381
 normas:
+  norm-and-d154-2022:
+    id: norm-and-d154-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 154/2022, de 9 de agosto, por el que se establece la estructura
+      orgánica de la Consejería de Desarrollo Educativo y Formación Profesional
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-08-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Estructura de la Consejería
+    tags:
+    - estructura_organica
+    - consejeria_educacion
+    - junta_de_andalucia
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md
+  norm-and-l17-2007:
+    id: norm-and-l17-2007
+    codigo_sintetizado: ''
+    titulo: Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2007-12-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 01_marco_normativo_general_y_organico
+    subcategoria: Marco normativo general
+    tags:
+    - lea
+    - ley_educacion_andalucia
+    - sistema_educativo_andaluz
+    - equidad
+    path: autonómica/andalucía/01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md
+  norm-and-l1-2020:
+    id: norm-and-l1-2020
+    codigo_sintetizado: ''
+    titulo: Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas
+      y ambientales de los centros educativos andaluces mediante técnicas bioclimáticas
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2020-07-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Instalaciones y prevención de riesgos
+    tags:
+    - bioclimatizacion
+    - centros_educativos
+    - infraestructuras
+    - andalucia
+    path: autonómica/andalucía/02_gestion_y_administracion_centros/L1_2020_bioclimatizacion_condiciones_ambientales_centros_andalucia.md
+  norm-and-d100-2023:
+    id: norm-and-d100-2023
+    codigo_sintetizado: ''
+    titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma
+      de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - eso
+    - curriculo_lomloe
+    - ordenacion_academica
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D100_2023_ordenacion_curriculo_educacion_secundaria_obligatoria_andalucia.md
+  norm-and-d101-2023:
+    id: norm-and-d101-2023
+    codigo_sintetizado: ''
+    titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - educacion_infantil
+    - curriculo_lomloe
+    - ordenacion_academica
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D101_2023_ordenacion_curriculo_educacion_infantil_andalucia.md
+  norm-and-d102-2023:
+    id: norm-and-d102-2023
+    codigo_sintetizado: ''
+    titulo: Decreto 102/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo de la Educación Primaria en la Comunidad Autónoma de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - educacion_primaria
+    - curriculo_lomloe
+    - ordenacion_academica
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D102_2023_ordenacion_curriculo_educacion_primaria_andalucia.md
+  norm-and-d103-2023:
+    id: norm-and-d103-2023
+    codigo_sintetizado: ''
+    titulo: Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación
+      y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2023-05-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - curriculo_lomloe
+    - ordenacion_academica
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D103_2023_ordenacion_curriculo_bachillerato_andalucia.md
+  norm-and-d164-2024:
+    id: norm-and-d164-2024
+    codigo_sintetizado: ''
+    titulo: Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación
+      de la Formación Profesional en la Comunidad Autónoma de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-08-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - fp_dual
+    - ordenacion_academica
+    - andalucia
+    path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/D164_2024_ordenacion_formacion_profesional_andalucia.md
+  norm-and-d162-2009:
+    id: norm-and-d162-2009
+    codigo_sintetizado: ''
+    titulo: Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de
+      la Inspección Educativa de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2009-05-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Inspección Educativa
+    tags:
+    - inspeccion_educativa
+    - reglamento_inspeccion
+    - supervision_educativa
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D162_2009_reglamento_inspeccion_educativa_andalucia.md
+  norm-and-d327-2010:
+    id: norm-and-d327-2010
+    codigo_sintetizado: ''
+    titulo: Decreto 327/2010, de 13 de julio, por el que se aprueba el Reglamento
+      Orgánico de los Institutos de Educación Secundaria
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-07-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Reglamentos Orgánicos de Centro (ROC)
+    tags:
+    - roc
+    - institutos_secundaria
+    - ies
+    - organizacion_escolar
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D327_2010_reglamento_organico_institutos_educacion_secundaria_andalucia.md
+  norm-and-d328-2010:
+    id: norm-and-d328-2010
+    codigo_sintetizado: ''
+    titulo: Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento
+      Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación
+      primaria y de los colegios de educación infantil y primaria
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2010-07-16'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Reglamentos Orgánicos de Centro (ROC)
+    tags:
+    - roc
+    - escuelas_infantiles
+    - colegios_primaria
+    - ceip
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md
+  norm-and-l4-1984:
+    id: norm-and-l4-1984
+    codigo_sintetizado: ''
+    titulo: Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1984-01-13'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Órganos de gobierno y participación
+    tags:
+    - consejo_escolar
+    - participacion_educativa
+    - centros_docentes
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md
+  norm-and-dl1-2017:
+    id: norm-and-dl1-2017
+    codigo_sintetizado: ''
+    titulo: Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer
+      la escolarización en el primer ciclo de la educación infantil en Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto-ley
+    fecha_publicacion: '2017-03-31'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - primer_ciclo_infantil
+    - gratuidad_infantil
+    - escolarizacion
+    - andalucia
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL1_2017_escolarizacion_gratuidad_primer_ciclo_educacion_infantil_andalucia.md
+  norm-and-dl2-2021:
+    id: norm-and-dl2-2021
+    codigo_sintetizado: ''
+    titulo: Decreto-ley 2/2021, de 2 de febrero, por el que se regulan los procedimientos
+      de admisión del alumnado en los centros docentes públicos y privados concertados
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto-ley
+    fecha_publicacion: '2021-02-04'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - admision_de_alumnos
+    - escolarizacion
+    - baremo
+    - andalucia
+    path: autonómica/andalucía/05_alumnado_y_servicios_escolares/DL2_2021_procedimientos_admision_alumnado_centros_docentes_andalucia.md
+  norm-and-d147-2002:
+    id: norm-and-d147-2002
+    codigo_sintetizado: ''
+    titulo: Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación
+      de la atención educativa al alumnado con necesidades educativas especiales
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2002-05-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Educación Especial y NEAE
+    tags:
+    - neae
+    - educacion_especial
+    - atencion_a_la_diversidad
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/D147_2002_atencion_educativa_alumnado_necesidades_educativas_especiales_andalucia.md
+  norm-and-l9-1999:
+    id: norm-and-l9-1999
+    codigo_sintetizado: ''
+    titulo: Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '1999-12-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Medidas de atención a la diversidad
+    tags:
+    - solidaridad_educativa
+    - neae
+    - compensacion_educativa
+    - andalucia
+    path: autonómica/andalucía/06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md
+  norm-and-d19-2007:
+    id: norm-and-d19-2007
+    codigo_sintetizado: ''
+    titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la
+      promoción de la cultura de paz y la mejora de la convivencia en los centros
+      educativos
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2007-02-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar y disciplina
+    tags:
+    - convivencia_escolar
+    - cultura_de_paz
+    - derechos_y_deberes
+    - andalucia
+    path: autonómica/andalucía/07_convivencia_bienestar_y_protocolos/D19_2007_promocion_cultura_paz_mejora_convivencia_centros_andalucia.md
+  norm-and-l3-2021:
+    id: norm-and-l3-2021
+    codigo_sintetizado: ''
+    titulo: Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública
+      del profesorado en la Comunidad Autónoma de Andalucía
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Ley
+    fecha_publicacion: '2021-07-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Funcionarios de carrera
+    tags:
+    - autoridad_docente
+    - profesorado
+    - presuncion_de_veracidad
+    - andalucia
+    path: autonómica/andalucía/08_personal_docente/L3_2021_reconocimiento_autoridad_publica_profesorado_andalucia.md
   norm-can-d-123-2023:
     id: norm-can-d-123-2023
     codigo_sintetizado: D123/2023 Estructura Organica del Gobierno de Canarias
@@ -4518,541 +4861,823 @@ normas:
     - personal-no-docente
     - roc
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R30_1_2007_relativa_registro_deposito_publicacion_acuerdo_comision.md
-  norm-mad-d-61-2019:
-    id: norm-mad-d-61-2019
-    codigo_sintetizado: Decreto BOCM 61/2019
-    titulo: Decreto 61/2019, de 9 de julio, del Consejo de Gobierno, por el que se
-      regula la estructura orgánica de la Consejería de Educación y Juventud de la
-      Comunidad de Madrid (BOCM n.º 163, de 11 de julio).
+  norm-mad-d29-2013:
+    id: norm-mad-d29-2013
+    codigo_sintetizado: ''
+    titulo: Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad
+      de elección de centro escolar en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Estructura de la Consejería
-    tags:
-    - admision-alumnado
-    - consejeria-educacion
-    - curriculo
-    - educacion-infantil
-    - educacion-primaria
-    - ensenanzas-universitarias
-    - equipos-directivos
-    - eso
-    - estructura-organica
-    - evaluacion
-    - formacion-profesional
-    - funcion-publica
-    - marco-normativo-general
-    - oposiciones
-    - ordenacion-escolar
-    - procedimiento-administrativo
-    path: autonómica/madrid/01_marco_normativo_general_y_organico/D61_2019_reglamento_organico_consejeria_educacion.md
-  norm-mad-l-1-2022:
-    id: norm-mad-l-1-2022
-    codigo_sintetizado: Ley Madrid 1/2022
-    titulo: Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa
-      de la Comunidad de Madrid (BOCM n.º 38, de 14 de febrero; BOE n.º 90, de 15
-      de abril).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Ley
-    fecha_publicacion: ''
+    fecha_publicacion: '2013-04-12'
     estado: Vigente
     redaccion: original
     categoria_canonica: 01_marco_normativo_general_y_organico
     subcategoria: Marco normativo general
     tags:
-    - admision-alumnado
-    - conciertos-educativos
-    - equipos-directivos
-    - ideario-educativo
-    - libertad-de-eleccion
-    - libertad-de-ensenanza
-    - marco-normativo-general
-    - zona-unica
-    path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa.md
-  norm-mad-l-4-1998:
-    id: norm-mad-l-4-1998
-    codigo_sintetizado: Ley Madrid 4/1998
-    titulo: Ley 4/1998, de 8 de abril, de Consejos Escolares de la Comunidad de Madrid
-      (BOCM n.º 91, de 18 de abril; BOE n.º 142, de 15 de junio).
+    - libertad_eleccion
+    - centros_docentes
+    - madrid
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md
+  norm-mad-l1-2022:
+    id: norm-mad-l1-2022
+    codigo_sintetizado: ''
+    titulo: Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa
+      de la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Ley
-    fecha_publicacion: ''
+    fecha_publicacion: '2022-02-15'
     estado: Vigente
     redaccion: original
     categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Órganos colegiados
+    subcategoria: Marco normativo general
     tags:
-    - comunidad-educativa
-    - consejo-escolar
-    - consejos-escolares-municipales
-    - equipos-directivos
-    - organos-consultivos
-    - participacion-educativa
-    path: autonómica/madrid/01_marco_normativo_general_y_organico/L4_1998_consejos_escolares_comunidad_madrid.md
-  norm-mad-l-6-1995:
-    id: norm-mad-l-6-1995
-    codigo_sintetizado: Ley Madrid 6/1995
-    titulo: Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia
-      y la Adolescencia en la Comunidad de Madrid (BOCM n.º 85, de 10 de abril; BOE
-      n.º 184, de 2 de agosto).
+    - libertad_de_eleccion
+    - derecho_a_la_educacion
+    - concierto_educativo
+    - comunidad_de_madrid
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md
+  norm-mad-l2-2010:
+    id: norm-mad-l2-2010
+    codigo_sintetizado: ''
+    titulo: Ley 2/2010, de 15 de junio, de Autoridad del Profesor en la Comunidad
+      de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Ley
-    fecha_publicacion: ''
+    fecha_publicacion: '2010-06-25'
     estado: Vigente
     redaccion: original
     categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Protección jurídica de menores
+    subcategoria: Funcionarios de carrera
     tags:
-    - absentismo-escolar
-    - bienestar-infantil
-    - comision-de-tutela
-    - derechos-de-los-menores
-    - infancia-y-adolescencia
-    - proteccion-menores
-    - tutela-y-guarda
-    path: autonómica/madrid/01_marco_normativo_general_y_organico/L6_1995_garantias_derechos_infancia_adolescencia.md
-  norm-mad-o-20-1-2021:
-    id: norm-mad-o-20-1-2021
-    codigo_sintetizado: Orden BOCM 20/1/2021
-    titulo: Orden de 20 de enero de 2021, del Consejero de Educación y Juventud, por
-      la que se delegan determinadas competencias en los titulares de las Direcciones
-      de Área Territorial (BOCM n.º 23, de 28 de enero).
+    - autoridad_profesor
+    - profesorado
+    - comunidad_de_madrid
+    - presuncion_de_veracidad
+    path: autonómica/madrid/01_marco_normativo_general_y_organico/L2_2010_autoridad_profesor_comunidad_madrid.md
+  norm-mad-d149-2000:
+    id: norm-mad-d149-2000
+    codigo_sintetizado: ''
+    titulo: Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico
+      de la autonomía de gestión de los centros docentes públicos no universitarios
+      de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2000-06-28'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Autonomía de gestión y presupuestos
+    tags:
+    - autonomia_de_gestion
+    - gestion_economica
+    - centros_publicos
+    - presupuesto_escolar
+    - comunidad_de_madrid
+    path: autonómica/madrid/02_gestion_y_administracion_centros/D149_2000_regimen_juridico_autonomia_gestion_centros_docentes_madrid.md
+  norm-mad-d15-2016:
+    id: norm-mad-d15-2016
+    codigo_sintetizado: ''
+    titulo: Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que
+      se aprueba el Reglamento marco de organización y funcionamiento de los centros
+      públicos de Educación Infantil de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2016-02-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 02_gestion_y_administracion_centros
+    subcategoria: Reglamentos orgánicos de centro
+    tags:
+    - educacion_infantil
+    - escuelas_infantiles
+    - organizacion_centros
+    - comunidad_de_madrid
+    path: autonómica/madrid/02_gestion_y_administracion_centros/D15_2016_reglamento_marco_centros_educacion_infantil_madrid.md
+  norm-mad-o1312-2021:
+    id: norm-mad-o1312-2021
+    codigo_sintetizado: ''
+    titulo: Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud,
+      por la que se establece el calendario escolar para los centros docentes no universitarios
+      de la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 01_marco_normativo_general_y_organico
-    subcategoria: Estructura de la Consejería
-    tags:
-    - admision-alumnado
-    - delegacion-de-competencias
-    - direcciones-area-territorial
-    - estructura-organica
-    - funcion-publica
-    - interinos
-    - organizacion-administrativa
-    - profesorado
-    path: autonómica/madrid/01_marco_normativo_general_y_organico/O20_1_2021_delegacion_competencias_direcciones_area_territorial.md
-  norm-mad-d-86-2017:
-    id: norm-mad-d-86-2017
-    codigo_sintetizado: Decreto BOCM 86/2017
-    titulo: Decreto 86/2017, de 17 de octubre, del Consejo de Gobierno, por el que
-      se regula el modelo de autonomía de gestión de los centros docentes públicos
-      no universitarios de la Comunidad de Madrid (BOCM n.º 248, de 18 de octubre).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: ''
+    fecha_publicacion: '2021-05-18'
     estado: Vigente
     redaccion: original
     categoria_canonica: 02_gestion_y_administracion_centros
-    subcategoria: Gestión económica e infraestructuras
+    subcategoria: Calendario escolar y jornada
     tags:
-    - admision-alumnado
-    - autonomia-centro
-    - contratacion-menor
-    - gestion-economica
-    - presupuestos-escolares
-    - profesorado
-    - proteccion-menores
-    - proyectos-educativos
-    path: autonómica/madrid/02_gestion_y_administracion_centros/D86_2017_reglamento_autonomia_gestion_centros_docentes.md
-  norm-mad-r-15-3-2022:
-    id: norm-mad-r-15-3-2022
-    codigo_sintetizado: Resolución BOCM 15/3/2022
-    titulo: Resolución de 15 de marzo de 2022, de la Dirección General de Infraestructuras
-      y Servicios, por la que se dictan instrucciones para la gestión económica de
-      los gastos de funcionamiento de los centros docentes públicos (BOCM n.º 72,
-      de 25 de marzo).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Resolución
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 02_gestion_y_administracion_centros
-    subcategoria: Gestión económica e infraestructuras
-    tags:
-    - autonomia-centro
-    - contratacion-menor
-    - equipos-directivos
-    - gastos-de-funcionamiento
-    - gestion-economica
-    - presupuestos-escolares
-    path: autonómica/madrid/02_gestion_y_administracion_centros/R15_3_2022_instrucciones_gestion_economica_centros_publicos.md
-  norm-mad-d-23-2023:
-    id: norm-mad-d-23-2023
-    codigo_sintetizado: Decreto BOCM 23/2023
-    titulo: Decreto 23/2023, de 22 de marzo, del Consejo de Gobierno, por el que se
-      regula la ordenación y el currículo de la Educación Secundaria Obligatoria en
-      la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
+    - calendario_escolar
+    - jornada_lectiva
+    - madrid
+    path: autonómica/madrid/02_gestion_y_administracion_centros/O1312_2021_calendario_escolar_centros_docentes_madrid.md
+  norm-mad-d36-2022:
+    id: norm-mad-d36-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 36/2022, de 8 de junio, por el que se establece la ordenación
+      y el currículo de la Educación Infantil en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: ESO
-    tags:
-    - curriculo
-    - eso
-    - evaluacion
-    - ordenacion-academica
-    - promocion
-    - titulacion
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D23_2023_ordenacion_curriculo_educacion_secundaria_obligatoria.md
-  norm-mad-d-61-2022:
-    id: norm-mad-d-61-2022
-    codigo_sintetizado: Decreto BOCM 61/2022
-    titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se
-      establece para la Comunidad de Madrid la ordenación y el currículo de la Educación
-      Primaria (BOCM n.º 167, de 15 de julio).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Educación Primaria
-    tags:
-    - competencias-clave
-    - curriculo
-    - educacion-primaria
-    - ensenanzas-artisticas
-    - evaluacion
-    - formacion-profesional
-    - igualdad-genero
-    - ordenacion-academica
-    - procedimiento-administrativo
-    - titulacion
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria.md
-  norm-mad-d-64-2022:
-    id: norm-mad-d-64-2022
-    codigo_sintetizado: Decreto BOCM 64/2022
-    titulo: Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se
-      establece para la Comunidad de Madrid la ordenación y el currículo de la Educación
-      Infantil (BOCM n.º 173, de 22 de julio).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: ''
+    fecha_publicacion: '2022-06-09'
     estado: Vigente
     redaccion: original
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Infantil
     tags:
-    - admision-alumnado
-    - curriculo
-    - educacion-infantil
-    - ordenacion-academica
-    - primer-ciclo
-    - segundo-ciclo
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D64_2022_ordenacion_curriculo_educacion_infantil.md
-  norm-mad-d-64-2023:
-    id: norm-mad-d-64-2023
-    codigo_sintetizado: Decreto BOCM 64/2023
-    titulo: Decreto 64/2023, de 17 de mayo, del Consejo de Gobierno, por el que se
-      establece la ordenación y el currículo del Bachillerato en la Comunidad de Madrid
-      (BOCM n.º 118, de 19 de mayo).
+    - educacion_infantil
+    - curriculo_lomloe
+    - ordenacion_academica
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D36_2022_ordenacion_curriculo_educacion_infantil_madrid.md
+  norm-mad-d61-2022:
+    id: norm-mad-d61-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se
+      establece para la Comunidad de Madrid la ordenación y el currículo de la Educación
+      Primaria
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-    subcategoria: Bachillerato
-    tags:
-    - admision-alumnado
-    - bachillerato
-    - curriculo
-    - ensenanzas-artisticas
-    - ensenanzas-universitarias
-    - eso
-    - evaluacion
-    - modalidades-bachillerato
-    - ordenacion-academica
-    - profesorado
-    - prueba-acceso-universidad
-    - titulacion
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D64_2023_ordenacion_curriculo_bachillerato.md
-  norm-mad-o-2096-2022:
-    id: norm-mad-o-2096-2022
-    codigo_sintetizado: Orden BOCM 2096/2022
-    titulo: Orden 2096/2022, de 22 de julio, del Consejero de Educación, Universidades,
-      Ciencia y Portavocía, por la que se regulan la evaluación y la promoción en
-      la Educación Primaria en la Comunidad de Madrid (BOCM n.º 177, de 27 de julio).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2022-07-18'
     estado: Vigente
     redaccion: original
     categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
     subcategoria: Educación Primaria
     tags:
-    - actas-de-evaluacion
-    - criterios-de-evaluacion
-    - educacion-primaria
-    - evaluacion
-    - profesorado
-    - promocion
-    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2096_2022_evaluacion_educacion_primaria.md
-  norm-mad-d-14-2010:
-    id: norm-mad-d-14-2010
-    codigo_sintetizado: Decreto BOCM 14/2010
-    titulo: Decreto 14/2010, de 18 de marzo, del Consejo de Gobierno, por el que se
-      regula la autonomía organizativa de los Institutos de Educación Secundaria de
-      la Comunidad de Madrid (BOCM n.º 71, de 24 de marzo).
+    - educacion_primaria
+    - curriculo_lomloe
+    - ordenacion_academica
+    - asignacion_horaria
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D61_2022_ordenacion_curriculo_educacion_primaria_madrid.md
+  norm-mad-d64-2022:
+    id: norm-mad-d64-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 64/2022, de 20 de julio, por el que se establece la ordenación
+      y el currículo del Bachillerato en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
+    fecha_publicacion: '2022-07-21'
     estado: Vigente
     redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Organización de centros de secundaria
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
     tags:
-    - autonomia-centro
-    - comision-coordinacion-pedagogica
-    - convivencia-escolar
-    - departamentos-didacticos
+    - bachillerato
+    - curriculo_lomloe
+    - ordenacion_academica
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D64_2022_ordenacion_curriculo_bachillerato_madrid.md
+  norm-mad-d65-2022:
+    id: norm-mad-d65-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 65/2022, de 20 de julio, por el que se establece la ordenación
+      y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-21'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
     - eso
-    - ies
-    - organizacion-escolar
-    - orientacion-educativa
-    - profesorado
-    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/D14_2010_reglamento_autonomia_organizativa_centros_secundaria.md
-  norm-mad-o-2494-2017:
-    id: norm-mad-o-2494-2017
-    codigo_sintetizado: Orden BOCM 2494/2017
-    titulo: Orden 2494/2017, de 10 de julio, de la Consejería de Educación, Juventud
-      y Deporte, por la que se regula la jornada escolar en los centros docentes públicos
-      que imparten Educación Infantil y Primaria en la Comunidad de Madrid (BOCM n.º
-      166, de 14 de julio).
+    - curriculo_lomloe
+    - ordenacion_academica
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/D65_2022_ordenacion_curriculo_educacion_secundaria_obligatoria_madrid.md
+  norm-mad-o130-2023:
+    id: norm-mad-o130-2023
+    codigo_sintetizado: ''
+    titulo: Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa,
+      por la que se regulan la organización, el funcionamiento y la evaluación en
+      la etapa de Educación Primaria en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2023-01-31'
     estado: Vigente
     redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Calendario y jornada escolar
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
     tags:
-    - educacion-infantil
-    - educacion-primaria
-    - ensenanzas-deportivas
-    - horario-lectivo
-    - jornada-escolar
-    - organizacion-escolar
-    - servicios-complementarios
-    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O2494_2017_organizacion_jornada_escolar_centros_educativos.md
-  norm-mad-d-29-2013:
-    id: norm-mad-d-29-2013
-    codigo_sintetizado: Decreto BOCM 29/2013
-    titulo: Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, por el que se
-      establece la libertad de elección de centro escolar en la Comunidad de Madrid
-      (BOCM n.º 86, de 12 de abril).
+    - educacion_primaria
+    - evaluacion
+    - organizacion
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O130_2023_organizacion_funcionamiento_evaluacion_educacion_primaria_madrid.md
+  norm-mad-o1338-2023:
+    id: norm-mad-o1338-2023
+    codigo_sintetizado: ''
+    titulo: Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe
+      en centros docentes de Educación Primaria de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-05-05'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - bilinguismo
+    - educacion_primaria
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O1338_2023_programa_bilingue_educacion_primaria_madrid.md
+  norm-mad-o1712-2023:
+    id: norm-mad-o1712-2023
+    codigo_sintetizado: ''
+    titulo: Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación
+      en Educación Secundaria Obligatoria en Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-05-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - eso
+    - evaluacion
+    - organizacion_escolar
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O1712_2023_organizacion_funcionamiento_evaluacion_eso_madrid.md
+  norm-mad-o1736-2023:
+    id: norm-mad-o1736-2023
+    codigo_sintetizado: ''
+    titulo: Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias
+      optativas en ESO y Bachillerato
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-05-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - materias_optativas
+    - eso
+    - bachillerato
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O1736_2023_catalogo_materias_optativas_eso_bachillerato_madrid.md
+  norm-mad-o190-2023:
+    id: norm-mad-o190-2023
+    codigo_sintetizado: ''
+    titulo: Orden 190/2023, de 25 de enero, por la que se regula la diversificación
+      curricular en Educación Secundaria Obligatoria
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Secundaria Obligatoria (ESO)
+    tags:
+    - diversificacion_curricular
+    - eso
+    - atencion_a_la_diversidad
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O190_2023_diversificacion_curricular_eso_madrid.md
+  norm-mad-o2067-2023:
+    id: norm-mad-o2067-2023
+    codigo_sintetizado: ''
+    titulo: Orden 2067/2023, de 11 de junio, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regulan la organización, el funcionamiento
+      y la evaluación en la etapa de Bachillerato en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-06-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - evaluacion
+    - organizacion
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2067_2023_organizacion_funcionamiento_evaluacion_bachillerato_madrid.md
+  norm-mad-o2356-2023:
+    id: norm-mad-o2356-2023
+    codigo_sintetizado: ''
+    titulo: Orden 2356/2023, de 6 de julio, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se fijan las normas relativas a la evaluación,
+      promoción y titulación en Bachillerato en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-07-14'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - evaluacion
+    - titulacion
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O2356_2023_organizacion_evaluacion_bachillerato_madrid.md
+  norm-mad-o266-2023:
+    id: norm-mad-o266-2023
+    codigo_sintetizado: ''
+    titulo: Orden 266/2023, de 6 de febrero, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se desarrollan aspectos de la evaluación y
+      promoción en la Educación Primaria en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-15'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Primaria
+    tags:
+    - educacion_primaria
+    - evaluacion
+    - promocion
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O266_2023_evaluacion_promocion_educacion_primaria_madrid.md
+  norm-mad-o457-2023:
+    id: norm-mad-o457-2023
+    codigo_sintetizado: ''
+    titulo: Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización
+      en el Bachillerato
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Bachillerato
+    tags:
+    - bachillerato
+    - autonomia_pedagogica
+    - organizacion_escolar
+    - comunidad_de_madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O457_2023_autonomia_pedagogica_organizativa_bachillerato_madrid.md
+  norm-mad-o460-2023:
+    id: norm-mad-o460-2023
+    codigo_sintetizado: ''
+    titulo: Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento
+      y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2023-02-27'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+    subcategoria: Educación Infantil
+    tags:
+    - educacion_infantil
+    - evaluacion
+    - organizacion
+    - madrid
+    path: autonómica/madrid/03_ordenacion_curricular_y_ensenanzas/O460_2023_organizacion_funcionamiento_evaluacion_educacion_infantil_madrid.md
+  norm-mad-d21-2025:
+    id: norm-mad-d21-2025
+    codigo_sintetizado: ''
+    titulo: Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación
+      del Sistema de Formación Profesional en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
+    fecha_publicacion: '2025-05-22'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - fp_dual
+    - grados_a_e
+    - comunidad_de_madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/D21_2025_ordenacion_sistema_formacion_profesional_madrid.md
+  norm-mad-o3413-2022:
+    id: norm-mad-o3413-2022
+    codigo_sintetizado: ''
+    titulo: Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación
+      y matrícula en Formación Profesional
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-11-23'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - evaluacion
+    - madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O3413_2022_modificacion_evaluacion_formacion_profesional_madrid.md
+  norm-mad-o3536-2025:
+    id: norm-mad-o3536-2025
+    codigo_sintetizado: ''
+    titulo: Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo
+      de módulos profesionales optativos en los ciclos formativos de Grado Medio y
+      de Grado Superior de Formación Profesional en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-08-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - modulos_optativos
+    - grado_medio
+    - grado_superior
+    - comunidad_de_madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O3536_2025_catalogo_modulos_profesionales_optativos_fp_madrid.md
+  norm-mad-o3537-2025:
+    id: norm-mad-o3537-2025
+    codigo_sintetizado: ''
+    titulo: Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se regulan los currículos de los módulos profesionales
+      transversales en Formación Profesional en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-08-20'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - modulos_transversales
+    - madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O3537_2025_curriculo_modulos_transversales_formacion_profesional_madrid.md
+  norm-mad-o893-2022:
+    id: norm-mad-o893-2022
+    codigo_sintetizado: ''
+    titulo: Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación,
+      matrícula y acreditación académica en las enseñanzas de Formación Profesional
+      en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-04-29'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - evaluacion
+    - matricula
+    - madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md
+  norm-mad-r23-6-2025:
+    id: norm-mad-r23-6-2025
+    codigo_sintetizado: ''
+    titulo: Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado
+      D en modalidad semipresencial
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-06-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - formacion_profesional
+    - fp_semipresencial
+    - grado_d
+    - comunidad_de_madrid
+    path: autonómica/madrid/04_organizacion_escolar_y_funcionamiento/R23_6_2025_oferta_ensenanzas_fp_grado_d_semipresencial_madrid.md
+  norm-mad-d43-2024:
+    id: norm-mad-d43-2024
+    codigo_sintetizado: ''
+    titulo: Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el
+      que se regulan los procesos de adscripción y admisión de alumnos en centros
+      docentes sostenidos con fondos públicos
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2024-10-01'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - admision_de_alumnos
+    - libre_eleccion
+    - baremo
+    - comunidad_de_madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/D43_2024_admision_alumnado_centros_docentes_madrid.md
+  norm-mad-o123-2015:
+    id: norm-mad-o123-2015
+    codigo_sintetizado: ''
+    titulo: Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo
+      de Educación Infantil
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2015-02-05'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - admision_infantil
+    - primer_ciclo_infantil
+    - escuelas_infantiles
+    - comunidad_de_madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O123_2015_admision_alumnos_primer_ciclo_educacion_infantil_madrid.md
+  norm-mad-o1240-2013:
+    id: norm-mad-o1240-2013
+    codigo_sintetizado: ''
+    titulo: Orden 1240/2013, de 17 de abril, de la Consejería de Educación, Juventud
+      y Deporte, por la que se establece el procedimiento para la admisión de alumnos
+      en centros docentes sostenidos con fondos públicos de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2013-04-22'
     estado: Vigente
     redaccion: original
     categoria_canonica: 05_alumnado_y_servicios_escolares
     subcategoria: Admisión de alumnado
     tags:
-    - admision-alumnado
-    - bachillerato
-    - baremo-admision
-    - educacion-infantil
-    - educacion-primaria
-    - equipos-directivos
-    - escolarizacion
-    - eso
-    - libertad-de-eleccion
-    - personal-no-docente
-    - profesorado
-    - proteccion-menores
-    - zona-unica
-    path: autonómica/madrid/05_alumnado_y_servicios_escolares/D29_2013_libertad_eleccion_centro_escolar.md
-  norm-mad-o-2882-2023:
-    id: norm-mad-o-2882-2023
-    codigo_sintetizado: Orden BOCM 2882/2023
-    titulo: Orden 2882/2023, de 8 de septiembre, de la Consejería de Educación, Ciencia
-      y Universidades, por la que se regula la prestación del servicio de transporte
-      escolar en la Comunidad de Madrid (BOCM n.º 218, de 13 de septiembre).
+    - admision_alumnado
+    - centros_publicos
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md
+  norm-mad-o2808-2023:
+    id: norm-mad-o2808-2023
+    codigo_sintetizado: ''
+    titulo: Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia
+      y Universidades, por la que se regula la gestión telemática y desarrollo del
+      proceso de admisión de alumnos en ESO y Bachillerato
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2023-08-08'
     estado: Vigente
     redaccion: original
     categoria_canonica: 05_alumnado_y_servicios_escolares
-    subcategoria: Transporte escolar
+    subcategoria: Admisión de alumnado
     tags:
-    - acompanantes-de-transporte
-    - educacion-infantil
-    - educacion-primaria
+    - admision_alumnado
     - eso
-    - gratuidad
-    - proteccion-menores
-    - rutas-escolares
-    - servicios-complementarios
-    - transporte-escolar
-    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O2882_2023_regulacion_servicio_transporte_escolar.md
-  norm-mad-d-89-2014:
-    id: norm-mad-d-89-2014
-    codigo_sintetizado: Decreto BOCM 89/2014
-    titulo: Decreto 89/2014, de 24 de julio, del Consejo de Gobierno, por el que se
-      establece la ordenación e impartición de la educación para alumnos con necesidades
-      educativas especiales en la Comunidad de Madrid (BOCM n.º 176, de 25 de julio).
+    - bachillerato
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O2808_2023_proceso_admision_alumnado_eso_bachillerato_madrid.md
+  norm-mad-o592-2022:
+    id: norm-mad-o592-2022
+    codigo_sintetizado: ''
+    titulo: Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se modifica la Orden 1240/2013 en relación
+      con los criterios de baremación en la admisión de alumnos
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-03-24'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión de alumnado
+    tags:
+    - admision_alumnado
+    - baremacion
+    - madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O592_2022_modificacion_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md
+  norm-mad-o6116-2025:
+    id: norm-mad-o6116-2025
+    codigo_sintetizado: ''
+    titulo: Orden 6116/2025, de 22 de diciembre, de becas para ciclos formativos de
+      FP de Grado D en centros privados
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2025-12-30'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Becas, ayudas y subvenciones
+    tags:
+    - becas_fp
+    - centros_privados
+    - ayudas_al_estudio
+    - comunidad_de_madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/O6116_2025_convocatoria_becas_ciclos_formativos_fp_grado_d_privados_madrid.md
+  norm-mad-r2-12-2025:
+    id: norm-mad-r2-12-2025
+    codigo_sintetizado: ''
+    titulo: Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión
+      de alumnos para el curso 2026-2027
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Resolución
+    fecha_publicacion: '2025-12-09'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 05_alumnado_y_servicios_escolares
+    subcategoria: Admisión y escolarización del alumnado
+    tags:
+    - admision_de_alumnos
+    - calendario_escolar
+    - baremo
+    - comunidad_de_madrid
+    path: autonómica/madrid/05_alumnado_y_servicios_escolares/R9_12_2025_instrucciones_admision_alumnado_curso_escolar_madrid.md
+  norm-mad-d23-2023:
+    id: norm-mad-d23-2023
+    codigo_sintetizado: ''
+    titulo: Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las
+      diferencias individuales de los alumnos en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Decreto
-    fecha_publicacion: ''
+    fecha_publicacion: '2023-03-24'
     estado: Vigente
     redaccion: original
     categoria_canonica: 06_atencion_diversidad_y_orientacion
-    subcategoria: Atención a la diversidad y NEAE
+    subcategoria: Medidas de atención a la diversidad
     tags:
-    - adaptaciones-curriculares
-    - admision-alumnado
-    - atencion-diversidad
-    - educacion-especial
-    - escolarizacion
-    - evaluacion
+    - atencion_a_la_diversidad
     - neae
-    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D89_2014_atencion_alumnado_necesidades_educativas_especiales.md
-  norm-mad-d-32-2019:
-    id: norm-mad-d-32-2019
-    codigo_sintetizado: Decreto BOCM 32/2019
-    titulo: Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se
-      establece el Marco Regulador de la Convivencia en los centros docentes sostenidos
-      con fondos públicos de la Comunidad de Madrid (BOCM n.º 88, de 13 de abril).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 07_convivencia_bienestar_y_protocolos
-    subcategoria: Convivencia y disciplina
-    tags:
-    - acoso-escolar
-    - admision-alumnado
-    - convivencia-escolar
-    - derechos-y-deberes
-    - oposiciones
-    - sanciones
-    - uso-dispositivos-moviles
-    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros.md
-  norm-mad-o-2767-2023:
-    id: norm-mad-o-2767-2023
-    codigo_sintetizado: Orden BOCM 2767/2023
-    titulo: Orden 2767/2023, de 28 de julio, de la Consejería de Educación, Ciencia
-      y Universidades, por la que se aprueba el protocolo de actuación ante situaciones
-      de acoso escolar en los centros docentes de la Comunidad de Madrid (BOCM n.º
-      182, de 2 de agosto).
+    - inclusion_educativa
+    - comunidad_de_madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md
+  norm-mad-o1149-2018:
+    id: norm-mad-o1149-2018
+    codigo_sintetizado: ''
+    titulo: Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación,
+      por la que se regula la organización y el funcionamiento de los centros públicos
+      de Educación Especial en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2018-04-16'
     estado: Vigente
     redaccion: original
-    categoria_canonica: 07_convivencia_bienestar_y_protocolos
-    subcategoria: Protocolos de protección y bienestar
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Educación especial
     tags:
-    - acoso-escolar
-    - ciberacoso
-    - convivencia-escolar
-    - equipos-directivos
-    - inspeccion-educativa
-    - orientacion-educativa
-    - prevencion-riesgos-laborales
-    - proteccion-de-menores
-    - proteccion-menores
-    - protocolo-de-actuacion
-    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/O2767_2023_protocolo_actuacion_prevencion_acoso_escolar.md
-  norm-mad-d-187-2021:
-    id: norm-mad-d-187-2021
-    codigo_sintetizado: Decreto BOCM 187/2021
-    titulo: Decreto 187/2021, de 21 de julio, del Consejo de Gobierno, por el que
-      se regula la formación permanente del profesorado de enseñanzas no universitarias
-      en la Comunidad de Madrid (BOCM n.º 174, de 23 de julio).
-    jurisdiccion: Madrid
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: ''
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 08_personal_docente
-    subcategoria: Formación del profesorado
-    tags:
-    - acreditacion-competencias
-    - ensenanzas-universitarias
-    - formacion-permanente
-    - profesorado
-    - proyectos-de-innovacion
-    - red-de-formacion
-    - titulacion
-    path: autonómica/madrid/08_personal_docente/D187_2021_formacion_permanente_profesorado.md
-  norm-mad-o-1308-2021:
-    id: norm-mad-o-1308-2021
-    codigo_sintetizado: Orden BOCM 1308/2021
-    titulo: Orden 1308/2021, de 12 de mayo, de la Consejería de Educación y Juventud,
-      por la que se regula la selección, nombramiento y cese de los funcionarios interinos
-      de los cuerpos docentes no universitarios en la Comunidad de Madrid (BOCM n.º
-      119, de 20 de mayo).
+    - educacion_especial
+    - centros_educativos
+    - madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O1149_2018_organizacion_funcionamiento_centros_educacion_especial_madrid.md
+  norm-mad-o1493-2015:
+    id: norm-mad-o1493-2015
+    codigo_sintetizado: ''
+    titulo: Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud
+      y Deporte, por la que se regula la evaluación de los alumnos con necesidades
+      específicas de apoyo educativo en la Comunidad de Madrid
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2015-06-02'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 06_atencion_diversidad_y_orientacion
+    subcategoria: Necesidades específicas de apoyo educativo
+    tags:
+    - neae
+    - atencion_diversidad
+    - evaluacion
+    - madrid
+    path: autonómica/madrid/06_atencion_diversidad_y_orientacion/O1493_2015_evaluacion_alumnado_necesidades_especificas_apoyo_educativo_madrid.md
+  norm-mad-d32-2019:
+    id: norm-mad-d32-2019
+    codigo_sintetizado: ''
+    titulo: Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador
+      de la convivencia en los centros docentes de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2019-04-11'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Convivencia escolar y disciplina
+    tags:
+    - convivencia_escolar
+    - disciplina
+    - derechos_y_deberes
+    - comunidad_de_madrid
+    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D32_2019_marco_regulador_convivencia_centros_docentes_madrid.md
+  norm-mad-d64-2025:
+    id: norm-mad-d64-2025
+    codigo_sintetizado: ''
+    titulo: Decreto 64/2025, de 23 de julio, por el que se regula y limita el uso
+      de dispositivos digitales en centros educativos sostenidos con fondos públicos
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2025-07-25'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Instrucciones de organización y funcionamiento
+    tags:
+    - dispositivos_digitales
+    - moviles_en_clase
+    - organizacion_escolar
+    - comunidad_de_madrid
+    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/D64_2025_regulacion_limitacion_uso_dispositivos_digitales_centros_madrid.md
+  norm-mad-o2742-2022:
+    id: norm-mad-o2742-2022
+    codigo_sintetizado: ''
+    titulo: Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación
+      ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: '2022-09-26'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 07_convivencia_bienestar_y_protocolos
+    subcategoria: Protocolos de acoso escolar
+    tags:
+    - acoso_escolar
+    - convivencia
+    - protocolo
+    - madrid
+    path: autonómica/madrid/07_convivencia_bienestar_y_protocolos/O2742_2022_protocolo_actuacion_acoso_escolar_centros_docentes_madrid.md
+  norm-mad-d126-2017:
+    id: norm-mad-d126-2017
+    codigo_sintetizado: ''
+    titulo: Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que
+      se aprueba el Reglamento de selección de funcionarios docentes interinos y provisión
+      de puestos de trabajo en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2017-10-25'
     estado: Vigente
     redaccion: original
     categoria_canonica: 08_personal_docente
-    subcategoria: Profesorado interino
+    subcategoria: Personal docente interino
     tags:
-    - baremo-interinos
+    - personal_docente
     - interinos
-    - listas-de-reserva
-    - nombramientos
-    - plantillas-docentes
-    - profesorado
-    path: autonómica/madrid/08_personal_docente/O1308_2021_regulacion_listas_aspirantes_interinos.md
-  norm-mad-o-3410-2022:
-    id: norm-mad-o-3410-2022
-    codigo_sintetizado: Orden BOCM 3410/2022
-    titulo: Orden 3410/2022, de 16 de noviembre, de la Consejería de Economía, Hacienda
-      y Empleo, por la que se dispone la publicación del Acuerdo del Convenio Colectivo
-      del Personal Laboral de la Comunidad de Madrid (BOCM n.º 278, de 21 de noviembre).
+    - seleccion_docente
+    - listas_de_aspirantes
+    - comunidad_de_madrid
+    path: autonómica/madrid/08_personal_docente/D126_2017_reglamento_seleccion_provision_puestos_docentes_interinos_madrid.md
+  norm-mad-o2532-2022:
+    id: norm-mad-o2532-2022
+    codigo_sintetizado: ''
+    titulo: Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades,
+      Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes
+      a interinidades en cuerpos docentes no universitarios
     jurisdiccion: Madrid
     ambito: Autonómico
     tipo_disposicion: Orden
-    fecha_publicacion: ''
+    fecha_publicacion: '2022-09-07'
+    estado: Vigente
+    redaccion: original
+    categoria_canonica: 08_personal_docente
+    subcategoria: Personal interino
+    tags:
+    - interinos
+    - listas_aspirantes
+    - madrid
+    path: autonómica/madrid/08_personal_docente/O2532_2022_procedimiento_seleccion_listas_aspirantes_interinidades_madrid.md
+  norm-mad-d43-2022:
+    id: norm-mad-d43-2022
+    codigo_sintetizado: ''
+    titulo: Decreto 43/2022, de 29 de junio, por el que se establecen los precios
+      públicos por estudios universitarios en la Comunidad de Madrid
+    jurisdiccion: Madrid
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: '2022-07-01'
     estado: Vigente
     redaccion: original
     categoria_canonica: 09_personal_laboral_y_no_docente
-    subcategoria: Convenio colectivo del personal laboral
+    subcategoria: Enseñanzas universitarias y de régimen especial
     tags:
-    - convenio-colectivo
-    - educadores-infantiles
-    - personal-auxiliar
-    - personal-laboral
-    - personal-no-docente
-    - titulacion
-    path: autonómica/madrid/09_personal_laboral_y_no_docente/O3410_2022_convenio_colectivo_personal_laboral_comunidad_madrid.md
+    - tasas_universitarias
+    - precios_publicos
+    - universidades
+    - comunidad_de_madrid
+    path: autonómica/madrid/09_personal_laboral_y_no_docente/D43_2022_precios_publicos_estudios_universitarios_madrid.md
   norm-es-ce-1978:
     id: norm-es-ce-1978
     codigo_sintetizado: CE_1978 Constitucion Espanola
@@ -17046,166 +17671,6 @@ relaciones_grafo:
 - origen: norm-can-res-boc-2007-036-147
   tipo: fundamentado_en
   destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-61-2019
-  tipo: desarrollado_por
-  destino: norm-mad-o-20-1-2021
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-61-2019
-  tipo: fundamentado_en
-  destino: norm-es-l-40-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-l-1-2022
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-l-4-1998
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-l-6-1995
-  tipo: desarrolla
-  destino: norm-es-lo-1-1996
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-20-1-2021
-  tipo: desarrolla
-  destino: norm-mad-d-61-2019
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-20-1-2021
-  tipo: fundamentado_en
-  destino: norm-es-l-40-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-86-2017
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-86-2017
-  tipo: desarrollado_por
-  destino: norm-mad-r-15-3-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-r-15-3-2022
-  tipo: desarrolla
-  destino: norm-mad-d-86-2017
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-23-2023
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-61-2022
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-61-2022
-  tipo: desarrolla
-  destino: norm-es-rd-157-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-61-2022
-  tipo: desarrollado_por
-  destino: norm-mad-o-2096-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-64-2022
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-64-2022
-  tipo: desarrolla
-  destino: norm-es-rd-95-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-64-2023
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-64-2023
-  tipo: desarrolla
-  destino: norm-es-rd-243-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2096-2022
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2096-2022
-  tipo: desarrolla
-  destino: norm-mad-d-61-2022
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-14-2010
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2494-2017
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-29-2013
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2882-2023
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-89-2014
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-32-2019
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-32-2019
-  tipo: desarrollado_por
-  destino: norm-mad-o-2767-2023
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2767-2023
-  tipo: desarrolla
-  destino: norm-es-lo-8-2021
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-2767-2023
-  tipo: desarrolla
-  destino: norm-mad-d-32-2019
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-d-187-2021
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-1308-2021
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-mad-o-3410-2022
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
   articulos_origen: []
   articulos_destino: []
 - origen: norm-es-ce-1978

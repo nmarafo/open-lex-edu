@@ -29,6 +29,7 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 JUEVES 9 DE JUNIO DE 2022B.O.C.M. Núm. 136 Pág. 1
 SUMARIO
 BOLETÍN OFICIAL
@@ -636,11 +637,11 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 el formato del premio a otorgar, la posibilidad de otorgar menciones especiales con arreglo
 a la calidad técnica de los trabajos presentados, así como la facultad de declarar el premio
 desierto si fuera necesario.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Habilitación de desarrollo
 Se habilita al titular de la consejería con competencias en materia de justicia para aprobar
 las bases por las que se regula la convocatoria y la concesión del premio creado por esta norma.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-
@@ -1105,13 +1106,13 @@ ria de Educación, comprenderá un mínimo de 175 días lectivos para la etapa d
 Infantil.
 JUEVES 9 DE JUNIO DE 2022B.O.C.M. Núm. 136 Pág. 23
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Exposición a una lengua extranjera en el primer ciclo
 En el primer ciclo de la etapa podrán desarrollarse experiencias educativas de primer
 contacto a una lengua extranjera, que se incluirán entre las situaciones de aprendizaje pro-
 gramadas y dispuestas en las unidades de programación de la propuesta pedagógica de cada
 centro.
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Permanencia de un año más en la etapa
 1. La intervención educativa debe contemplar como principio la diversidad del
 alumnado, por lo que se debe adaptar la práctica educativa a las características personales,
@@ -1127,20 +1128,20 @@ libertad y flexibilidad.
 3. El procedimiento de solicitud y autorización de la permanencia de un año más en
 la etapa de Educación Infantil se regulará mediante orden del consejero competente en ma-
 teria de Educación.
-## DISPOSICIÓN TRANSITORIA PRIMERA.
+## Disposición TRANSITORIA PRIMERA.
 Aplicación del Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno,
 por el que se desarrollan para la Comunidad de Madrid las enseñanzas
 de la Educación Infantil
 El Decreto 17/2008, de 6 de marzo, del Consejo de Gobierno, por el que se desarrollan
 para la Comunidad de Madrid las enseñanzas de la Educación Infantil, mantendrá sus efec-
 tos y será de aplicación hasta el fin del curso escolar 2021-2022.
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Vigencia de otras normas sobre la materia
 En las materias para cuya regulación remite el presente decreto a ulteriores disposicio-
 nes, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de ese
 rango vigentes a la fecha de entrada en vigor de este decreto, siempre que no se opongan a
 lo en él dispuesto.
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 1. A partir de la total implantación de las enseñanzas reguladas en el presente decre-
 to, quedan derogadas las normas de igual o inferior rango que se opongan a lo establecido
@@ -1150,15 +1151,15 @@ sejo de Gobierno, por el que se desarrollan para la Comunidad de Madrid las ense
 la Educación Infantil.
 JUEVES 9 DE JUNIO DE 2022Pág. 24 B.O.C.M. Núm. 136
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Calendario de implantación
 El currículo establecido en el presente Decreto se implantará para toda la etapa en el
 curso escolar 2022-2023.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Habilitación para el desarrollo normativo
 Se habilita al titular de la consejería con competencias en materia de Educación para dic-
 tar cuantas disposiciones sean necesarias para el desarrollo de lo dispuesto en este decreto.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B OLE-
 TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
@@ -3885,7 +3886,7 @@ DE MADRID de 10 de junio de 2002), el Consejo de Administración del Organismo d
 en el Director-Gerente, entre otras, la competencia para adoptar los acuerdos de gestión y
 administración de bienes inmuebles.
 A la vista de lo expuesto, de conformidad con la normativa aplicable, en particular los
-artículos 61 y 62 de la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de
+## Artículo 61 y 62 de la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de
 Madrid, y los artículos 105 y 107 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de
 las Administraciones Públicas, y a propuesta de la Dirección de Área Económica y de Pro-
 moción y Rehabilitación, esta Dirección-Gerencia
@@ -4651,7 +4652,7 @@ oferta, conforme al orden de clasificación realizado, en virtud de lo estableci
 JUEVES 9 DE JUNIO DE 2022Pág. 98 B.O.C.M. Núm. 136
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-artículo 150 de la LCSP, atendiendo a los criterios de adjudicación establecidos en el
+## Artículo 150 de la LCSP, atendiendo a los criterios de adjudicación establecidos en el
 apartado 9 de la cláusula 1 del Pliego de Cláusulas Administrativas Particulares.
 Madrid, a 24 de mayo de 2022.—El Secretario General Técnico, Juan Revuelta
 González.
@@ -6787,7 +6788,7 @@ za Urbana, y en cuya disposición transitoria única concede un plazo de 6 meses
 publicación para que los ayuntamientos que tuvieran establecido el impuesto en cuestión
 procedan a adaptar sus ordenanzas fiscales a lo dispuesto en dicho real decreto ley. En cum-
 plimiento de lo establecido en dicha disposición transitoria se procede a modificar tanto el
-artículo 10 de la ordenanza fiscal reguladora del impuesto sobre el incremento del valor de
+## Artículo 10 de la ordenanza fiscal reguladora del impuesto sobre el incremento del valor de
 los terrenos de naturaleza urbana, en el que se regula la base imponible del impuesto, como
 a introducir en el artículo 4 de esa misma ordenanza un nuevo supuesto de no sujeción re-
 lativo a las transmisiones que pongan de manifiesto una pérdida del valor del terreno.
@@ -7039,11 +7040,11 @@ te en las oficinas del Registro de la Propiedad en impreso facilitado a tal efec
 “A los efectos anteriores, la solicitud de la prórroga del plazo para el pago, en el caso
 de las transmisiones mortis-causa, no podrá equipararse a la declaración tributaria a que se
 refiere la letra b)”.
-## DISPOSICIÓN DEROGATORIA
+## Disposición DEROGATORIA
 Derogación normativa
 Quedan derogadas cuantas disposiciones se opongan, contradigan o resulten incompa-
 tibles con lo establecido en la presente ordenanza.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 # Título Título
 Esta ordenanza se dicta en el ejercicio de las facultades atribuidas a los ayuntamientos
 por los artículos 4 y 106 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régi-
@@ -7054,12 +7055,12 @@ Régimen Especial de Madrid.
 JUEVES 9 DE JUNIO DE 2022Pág. 154 B.O.C.M. Núm. 136
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Interpretación y desarrollo de la ordenanza
 De conformidad con lo dispuesto en los Estatutos de la Agencia Tributaria Madrid, co-
 rresponde a la persona que ostente, en cada momento, la dirección del organismo autóno-
 mo, la interpretación de las normas tributarias propias del Ayuntamiento.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Publicación, entrada en vigor y comunicación
 De conformidad con lo establecido en los artículos 48.3, letras e) y f), y 54 de la
 Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid, la publica-
@@ -7876,13 +7877,13 @@ ORDENANZA FISCAL REGULADORA DE LAS TASA DE CEMENTERIO
 Y SERVICIOS FUNERARIOS
 Fundamento y naturaleza
 ## Artículo 1. En ejercicio de la potestad tributaria otorgada, con carácter general, por los
-artículo 133.2 y 142 de la Constitución y 106.1 de la Ley 7/1985, de 2 de abril, de Bases de Ré-
+## Artículo 133.2 y 142 de la Constitución y 106.1 de la Ley 7/1985, de 2 de abril, de Bases de Ré-
 gimen Local, y la que en particular concede, respecto a las tasas, los artículos 15 a 27 y 57 del
 Texto Refundido de la Ley Reguladora de las Haciendas Locales aprobado por RDL 2/2004
 de 5 de marzo, este Ayuntamiento establece las tasas por la prestación del servicio de cemen-
 terio municipal y servicios funerarios, que se regirá por la presente Ordenanza Fiscal.
 Hecho imponible
-Art. 2. Constituye el hecho imponible de la tasa la prestación de los servicios de ce-
+## Artículo 2. Constituye el hecho imponible de la tasa la prestación de los servicios de ce-
 menterio municipal, tales como: concesión de unidades de enterramiento en el cementerio
 municipal, prestación por el Ayuntamiento de los servicios de inhumación, exhumación, re-
 ducción de restos, depósito, conservación, la construcción de panteones o sepulturas, mo-
@@ -7891,31 +7892,31 @@ difuntos y cualquiera otros que, de conformidad con las prescripciones de las di
 legales o reglamentarias de policía sanitaria y mortuoria, sean procedentes o se autoricen a
 instancia de parte.
 Sujetos pasivos
-Art. 3. Son sujetos pasivos de las tasas en concepto de contribuyentes los solicitan-
+## Artículo 3. Son sujetos pasivos de las tasas en concepto de contribuyentes los solicitan-
 tes de la concesión de la autorización o de la prestación del servicio, y en su caso, los titu-
 lares de la concesión o autorización concedida.
 Responsables
-Art. 4. 1. Responderán solidariamente de las obligaciones tributarias del sujeto pasi-
+## Artículo 4. 1. Responderán solidariamente de las obligaciones tributarias del sujeto pasi-
 vo las personas físicas y jurídicas a que se refiere el artículo 42 de la Ley General Tributaria.
 2. Serán responsables subsidiarios las personas o entidades o entidades a que se re-
 fiere el artículo 43 de la Ley General Tributaria.
 Devengo
-Art. 5. Estas tasas se devengan y nace la obligación de contribuir cuando se inicie la
+## Artículo 5. Estas tasas se devengan y nace la obligación de contribuir cuando se inicie la
 actividad municipal que constituye el hecho imponible, entendiéndose, a estos efectos, que
 dicha iniciación se produce con la solicitud de la prestación del servicio.
 JUEVES 9 DE JUNIO DE 2022Pág. 174 B.O.C.M. Núm. 136
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Supuestos de no sujeción
-Art. 6. No estarán sujetos a esta tasa los servicios que se presten con ocasión de:
+## Artículo 6. No estarán sujetos a esta tasa los servicios que se presten con ocasión de:
 a) Los enterramientos de cadáveres de personas indigentes y pobres de solemnidad,
 lo cual deberá estar acreditado mediante el oportuno informe de los Servicios So-
 ciales.
 b) Las inhumaciones que ordene la Autoridad judicial y que se efectúen en fosa común.
 Base imponible
-Art. 7. La base imponible y liquidable viene determinada por la clase o naturaleza de
+## Artículo 7. La base imponible y liquidable viene determinada por la clase o naturaleza de
 los distintos servicios solicitados.
 Cuota tributaria
-Art. 8. La cuota de las tasas a pagar se determinará conforme a las tarifas siguientes:
+## Artículo 8. La cuota de las tasas a pagar se determinará conforme a las tarifas siguientes:
 A) SERVICIOS FUNERARIOS  
 EPÍGRAFE 1º. ASIGNACIÓN DE SEPULTURAS, NICHOS Y COLUMBARIOS IMPORTE € 
 A)  Sepulturas de 3 cuerpos en patios nuevos, ordenados con espacios libres, paseos pavimentados y jardinería y los 
@@ -8037,14 +8038,14 @@ que suponga ningún derecho de reserva, cuando se acredite que una unidad de ent
 to está asignada a un familiar directo, podrá solicitarse y asignarse la unidad inmediatamen-
 te contigua.
 Régimen de gestión
-Art. 9. Las tasas se exigirán en régimen de autoliquidación, y el pago deberá efec-
+## Artículo 9. Las tasas se exigirán en régimen de autoliquidación, y el pago deberá efec-
 tuarse al solicitar la correspondiente autorización o licencia.
 Infracciones y sanciones
-Art. 10. En todo lo relativo a la calificación de las infracciones tributarias, así como
+## Artículo 10. En todo lo relativo a la calificación de las infracciones tributarias, así como
 a la determinación de las sanciones que por las mismas correspondan en cada caso, se apli-
 cará el régimen regulado en la Ley General Tributaria y en las disposiciones que la comple-
 mentan y desarrollan.
-## DISPOSICIÓN FINAL
+## Disposición FINAL
 La presente Ordenanza Fiscal modificada por el Pleno de este Ayuntamiento en sesión
 celebrada el 31 de marzo de 2022, entrara en vigor a partir del día siguiente de su publica-
 ción definitiva en el B
@@ -8082,8 +8083,8 @@ Local, y de acuerdo con lo establecido en los artículos 15 a 19, y 59.2 del RDL
 de marzo, por el que se aprueba de Texto Refundido de la Ley Reguladora de las Hacien-
 das Locales, establece el Impuesto sobre el Incremento del Valor de los Terrenos de Natu-
 raleza Urbana, que se regulará por la presente Ordenanza, conforme a lo dispuesto en los
-artículos 104 a 110 del citado RDL 2/2004.
-Art. 2. Hecho imponible.—1. Constituye el hecho imponible del impuesto el incre-
+## Artículo 104 a 110 del citado RDL 2/2004.
+## Artículo 2. Hecho imponible.—1. Constituye el hecho imponible del impuesto el incre-
 mento del valor que experimentan los terrenos de naturaleza urbana y que se ponga de ma-
 nifiesto a consecuencia de la transmisión de su propiedad por cualquier título o de la cons-
 titución o transmisión de cualquier derecho real de goce, limitativo del dominio, sobre los
@@ -8099,7 +8100,7 @@ d) Enajenación en subasta pública.
 e) Expropiación forzosa.
 f) Actos de constitución y transmisión de derechos reales, tales como usufructos,
 censos, usos y habitación, derechos de superficie.
-Art. 3. Supuestos de no sujeción.— 1. No está sujeto a este impuesto el incremento
+## Artículo 3. Supuestos de no sujeción.— 1. No está sujeto a este impuesto el incremento
 de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del
 Impuesto sobre Bienes Inmuebles. En consecuencia, con ello, está sujeto el incremento de
 valor que experimenten los terrenos que deban tener la consideración de urbanos, a efectos
@@ -8179,7 +8180,7 @@ riodo de generación del incremento la de adquisición de la nuda propiedad por 
 transmitente.
 JUEVES 9 DE JUNIO DE 2022B.O.C.M. Núm. 136 Pág. 179
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 4. Exenciones.—1. Estarán exentos de este impuesto los incrementos de valor
+## Artículo 4. Exenciones.—1. Estarán exentos de este impuesto los incrementos de valor
 que se manifiesten como consecuencia de los siguientes actos:
 a) La constitución y transmisión de derechos de servidumbre.
 b) Las transmisiones de bienes que se encuentren dentro del perímetro delimitado
@@ -8246,7 +8247,7 @@ o convenios internacionales.
 3. Quienes consideren aplicable alguna exención en este impuesto deberán hacerlo
 constar al Ayuntamiento, con expresa mención del supuesto en que se encuentra incluido,
 acompañado en su caso de la documentación que lo acredite.
-Art. 5. Sujetos pasivos.—1. Es sujeto pasivo del impuesto a título de contribuyente:
+## Artículo 5. Sujetos pasivos.—1. Es sujeto pasivo del impuesto a título de contribuyente:
 a) En las transmisiones de terrenos o en la constitución o transmisión de derechos
 reales de goce limitativos del dominio a título lucrativo, la persona física o jurídi-
 ca, o la entidad a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciem-
@@ -8262,7 +8263,7 @@ sideración de sujeto pasivo sustituto del contribuyente, la persona física o j
 tidad a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tri-
 butaria, que adquiera el terreno o a cuyo favor se constituya o transmita el derecho real de
 que se trate, cuando el contribuyente sea una persona física no residente en España.
-Art. 6. Base imponible.— 1. La base imponible de este impuesto está constituida
+## Artículo 6. Base imponible.— 1. La base imponible de este impuesto está constituida
 por el incremento del valor de los terrenos puesto de manifiesto en el momento del deven-
 go y experimentado a lo largo de un periodo máximo de veinte años, y se determinará, sin
 perjuicio de lo dispuesto en el apartado 5 de este artículo, por el método de estimación ob-
@@ -8376,12 +8377,12 @@ nada conforme al método de estimación objetivo previsto en los apartados anter
 artículo, se tomará como base imponible el importe de dicho incremento de valor.
 De no ser solicitado por el interesado el cálculo del impuesto con el método de incre-
 mento real, la base imponible se determinará de acuerdo al método de estimación objetivo.
-Art. 7. Tipo de gravamen y cuota.— La cuota íntegra de este impuesto será el resul-
+## Artículo 7. Tipo de gravamen y cuota.— La cuota íntegra de este impuesto será el resul-
 tado de aplicar a la base imponible, o en su caso bases imponibles el tipo de gravamen úni-
 co del 30 por 100.
 La cuota líquida del impuesto será el resultado de aplicar sobre la cuota íntegra, en su
 caso, las bonificaciones previstas en el artículo siguiente.
-Art. 8. Bonificaciones.—Cuando el incremento de valor se manifieste a título lucra-
+## Artículo 8. Bonificaciones.—Cuando el incremento de valor se manifieste a título lucra-
 tivo por causa de muerte, respecto de la transmisión de la vivienda habitual del causante, o
 de la constitución o transmisión de un derecho real de goce limitativo de dominio sobre la
 misma, a favor de los descendientes en línea directa y adoptados, cónyuge, adoptantes y as-
@@ -8415,7 +8416,7 @@ tuadas fuera de los plazos establecidos para la presentación.
 A los efectos del disfrute de la bonificación, se equipara al cónyuge a quien hubiere
 convivido con el causante con análoga relación de afectividad y lo acredite mediante certi-
 ficado de inscripción en algún Registro Oficial de Uniones de Hecho.
-Art. 9. Devengo.—1. El impuesto se devenga:
+## Artículo 9. Devengo.—1. El impuesto se devenga:
 a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o gratuito, en-
 tre vivos o por causa de muerte, en la fecha de la transmisión.
 b) Cuando se constituya o transmita cualquier derecho real de goce limitativo del do-
@@ -8437,7 +8438,7 @@ pietarios originariamente aportantes de los terrenos, la de protocolización del
 de reparcelación.
 JUEVES 9 DE JUNIO DE 2022B.O.C.M. Núm. 136 Pág. 183
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 10. Nulidad, rescisión o resolución contractual. Actos o contratos sujetos a con-
+## Artículo 10. Nulidad, rescisión o resolución contractual. Actos o contratos sujetos a con-
 dición.—1. Cuando se declare o reconozca judicial o administrativamente por resolución
 firme haber tenido lugar la nulidad, rescisión o resolución del acto o contrato determinante
 de la transmisión del terreno o de la constitución o transmisión del derecho real de goce so-
@@ -8458,7 +8459,7 @@ arreglo a las prescripciones contenidas en el Código Civil. Si fuese suspensiva
 dará el impuesto hasta que esta se cumpla. Si la condición fuese resolutoria, se exigirá el
 impuesto desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna de-
 volución según la regla del apartado 1 anterior.
-Art. 11. Gestión tributaria del impuesto.— 1. Los sujetos pasivos vendrán obliga-
+## Artículo 11. Gestión tributaria del impuesto.— 1. Los sujetos pasivos vendrán obliga-
 dos a presentar declaración-autoliquidación ante este Ayuntamiento, según el modelo de-
 terminado por el mismo, conteniendo los elementos imprescindibles de la relación tributa-
 ria, que deberá acompañarse de los documentos en los que consten los actos, hechos o
@@ -8509,21 +8510,21 @@ Los notarios advertirán expresamente a los comparecientes en los documentos que
 toricen sobre el plazo dentro del cual están obligados los interesados a presentar declara-
 ción por el impuesto y, asimismo, sobre las responsabilidades en que incurran por la falta
 de presentación de declaraciones.
-Art. 12. Comprobaciones.—Este Ayuntamiento, como administración tributaria, po-
+## Artículo 12. Comprobaciones.—Este Ayuntamiento, como administración tributaria, po-
 drá, por cualquiera de los medios admitidos en derecho comprobar el valor de los elemen-
 tos del hecho imponible.
-Art. 13. Inspección.—La inspección se realizará según lo dispuesto en la Ley Gene-
+## Artículo 13. Inspección.—La inspección se realizará según lo dispuesto en la Ley Gene-
 ral Tributaria y en las disposiciones dictadas para su desarrollo.
-Art. 14. Infracciones y sanciones.—En todo lo relativo a la calificación de las infrac-
+## Artículo 14. Infracciones y sanciones.—En todo lo relativo a la calificación de las infrac-
 ciones tributarias, así como a la determinación de las sanciones que por las mismas corres-
 pondan en cada caso, se aplicará el régimen regulado en la Ley General Tributaria y en las
 disposiciones que la complementan y desarrollan.
-## DISPOSICIÓN ADICIONAL
+## Disposición ADICIONAL
 Para todo lo no expresamente regulado en esta Ordenanza, se estará a lo dispuesto en el
 Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de
 la Ley Reguladora de las Haciendas Locales, la Ley General Tributaria y cualquier otra nor-
 ma de rango legal, así como a las normas contenidas en la Ordenanza Fiscal General.
-## DISPOSICIÓN FINAL
+## Disposición FINAL
 La presente Ordenanza Fiscal modificada por el Pleno de este Ayuntamiento en sesión
 celebrada el 31 de marzo de 2022, entrará en vigor a partir del día siguiente de su publica-
 ción definitiva en el B

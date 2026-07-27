@@ -15,7 +15,7 @@ redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/22/BOCM-20250522-1.PDF"
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: "Formación Profesional"
 tags:
   - formacion_profesional
@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid
 
@@ -243,19 +244,19 @@ munidad de Madrid
 ## Artículo 74. Evaluación y calidad del Sistema de Formación Profesional de la Co-
 munidad de Madrid.
 
-## DISPOSICIÓN ADICIONAL PRIMERA. Otras titulaciones y certificaciones equi-
+## Disposición ADICIONAL PRIMERA. Otras titulaciones y certificaciones equi-
 valentes para el acceso a los grados C.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA Otras titulaciones equivalentes para el ac-
+## Disposición ADICIONAL SEGUNDA Otras titulaciones equivalentes para el ac-
 ceso a los grados D y E.
 
-## DISPOSICIÓN DEROGATORIA ÚNICA. Derogación normativa.
+## Disposición DEROGATORIA ÚNICA. Derogación normativa.
 
-## DISPOSICIÓN FINAL PRIMERA. Implantación de las nuevas ofertas.
+## Disposición FINAL PRIMERA. Implantación de las nuevas ofertas.
 
-## DISPOSICIÓN FINAL SEGUNDA. Habilitación normativa.
+## Disposición FINAL SEGUNDA. Habilitación normativa.
 
-## DISPOSICIÓN FINAL TERCERA. Entrada en vigor.
+## Disposición FINAL TERCERA. Entrada en vigor.
 El artículo 29 de la Ley Orgánica 3/1983, de 25 de febrero, de Estatuto de Autonomía
 de la Comunidad de Madrid, establece que corresponde a la Comunidad Autónoma la com-
 petencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles
@@ -326,7 +327,7 @@ forme previene el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el qu
 aprueba el Texto Refundido de la Ley General de derechos de las personas con discapaci-
 dad y de su inclusión social. Asimismo, hace efectivo el derecho de igualdad de oportuni-
 dades y de trato entre mujeres y hombres en cualquier ámbito de la vida, como dispone el
-artículo 1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+## Artículo 1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
 y hombres.
 La implantación de estas ofertas formativas se produce en el marco del Plan de Recu-
 peración, Transformación y Resiliencia financiado por la Unión Europea – Next Genera-
@@ -664,7 +665,7 @@ rá incluido en los planes de estudios de cada título con una duración mínima
 2. La oferta de módulos optativos profundizará en el desarrollo de las competencias
 transversales o en la aportación de complementos de formación profesional, para facilitar
 la progresión del itinerario formativo individual, de conformidad con lo establecido en el
-artículo 102 del Real Decreto 659/2023, de 18 de julio. El titular de la consejería compe-
+## Artículo 102 del Real Decreto 659/2023, de 18 de julio. El titular de la consejería compe-
 tente en materia de Educación establecerá las condiciones en las que los centros podrán or-
 ganizar esta oferta de optatividad y aprobará el catálogo de módulos optativos que los cen-
 tros podrán incorporar en su oferta formativa.
@@ -2455,7 +2456,7 @@ nidad de Madrid garantizará la existencia de una red de centros sostenidos con 
 blicos de formación profesional, que atienda la programación de la oferta formativa ajusta-
 da a la necesidad y demanda del sector productivo de la Comunidad de Madrid.
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Otras titulaciones y certificaciones equivalentes para el acceso a los grados C
 1. Además de las titulaciones requeridas para el acceso al Grado C de nivel 2 reco-
 gidas en el artículo 27.2, se considerará equivalente para dicho acceso el cumplimiento de
@@ -2475,7 +2476,7 @@ en el anexo IV del Real Decreto 34/2008, de 18 de enero, por el que se regulan l
 certificados de profesionalidad, para cursar con aprovechamiento la formación co-
 rrespondiente al certificado de profesionalidad.
 g) Tener acreditadas las competencias básicas de nivel 3, conforme a lo previsto en el
-artículo 19 del Real Decreto 86/2025, de 11 de febrero, de evaluación y acredita-
+## Artículo 19 del Real Decreto 86/2025, de 11 de febrero, de evaluación y acredita-
 ción de las competencias básicas adquiridas por experiencia laboral, por vías no
 formales de formación y aprendizajes informales.
 2. Además de las titulaciones requeridas para el acceso al Grado C de nivel 3 reco-
@@ -2499,9 +2500,9 @@ h) Tener acreditadas las competencias clave necesarias, de acuerdo con lo recogi
 en el anexo IV del Real Decreto 34/2008, de 18 de enero, para cursar con aprove-
 chamiento la formación correspondiente al certificado de profesionalidad.
 i) Tener acreditadas las competencias básicas de nivel 4, conforme a lo previsto en el
-artículo 19 del Real Decreto 86/2025, de 11 de febrero.
+## Artículo 19 del Real Decreto 86/2025, de 11 de febrero.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Otras titulaciones y certificaciones equivalentes para el acceso a los grados D y E
 1. Podrán acceder a ciclos formativos de grado medio, además de quienes reúnan los
 requisitos recogidos en el artículo 29, quienes reúnan alguna de las siguientes condiciones:
@@ -2555,19 +2556,19 @@ de formación profesional quienes posean titulaciones que hayan sido declaradas 
 tes a efectos académicos por la normativa básica del Estado en esta materia, en las condi-
 ciones que establezca el Gobierno de la nación.
 
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 Queda derogado el Decreto 63/2019, de 16 de julio, del Consejo de Gobierno, por el
 que se regula la ordenación y organización de la formación profesional en la Comunidad de
 Madrid.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Implantación de las nuevas ofertas
 Las ofertas formativas que se determinan en este decreto se implantarán a partir del
 curso escolar 2024-2025 de forma progresiva. En el caso de las ofertas de grados A ,ByC ,
 la implantación comenzará a partir de 2026.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Habilitación normativa
 Se habilita a los titulares de las consejerías competentes en materia de Empleo, para las
 ofertas de grados A ,ByC ,ye n materia de Educación, para las ofertas de grados D y E, a
@@ -2577,7 +2578,7 @@ JUEVES 22 DE MAYO DE 2025Pág. 52 B.O.C.M. Núm. 121
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B OLETÍN
 OFICIAL DE LA COMUNIDAD DE MADRID.

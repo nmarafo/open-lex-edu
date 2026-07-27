@@ -15,7 +15,7 @@ redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2010/06/25/BOCM-20100625-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2010/06/25/BOCM-20100625-1.PDF"
 clasificacion:
-  categoria_canonica: 08_personal_docente
+  categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: "Funcionarios de carrera"
 tags:
   - autoridad_profesor
@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+
 
 Texto consolidado
 : «Última actualización, publicada el 29/06/2010»
@@ -250,7 +251,7 @@ Los principios generales que inspiran esta ley son los siguientes:
 
 
 a) El derecho de todos a la educación consagrado en el 
-artículo 27.1 de la Constitución española
+## Artículo 27.1 de la Constitución española
 .
 
 
@@ -396,7 +397,7 @@ La Administración educativa, respecto a los profesores de los centros escolares
 
 
 En todo caso, gozarán del derecho a la representación y defensa en juicio en los términos establecidos en el 
-artículo 2.2 de la Ley 3/1999, de 30 de marzo
+## Artículo 2.2 de la Ley 3/1999, de 30 de marzo
 , de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
 
 
@@ -416,7 +417,7 @@ Subir
 
 
 De acuerdo con la 
-## disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo
+## Disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo
 , de Educación, los centros podrán recabar de los padres o representantes legales, o en su caso de las instituciones públicas competentes, la colaboración necesaria para la aplicación de las normas que garanticen la convivencia en los centros educativos en relación con la información sobre las circunstancias personales, familiares o sociales que concurran en los alumnos.
 
 

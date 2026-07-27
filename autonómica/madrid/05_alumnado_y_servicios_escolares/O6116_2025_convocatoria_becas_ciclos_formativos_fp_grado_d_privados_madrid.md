@@ -29,6 +29,7 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 VIERNES 19 DE DICIEMBRE DE 2025Pág. 94 B.O.C.M. Núm. 302
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 I. COMUNIDAD DE MADRID
@@ -716,6 +717,8 @@ protección de Datos Personales y del deber de responsab ilidad activa, como, a
 # Título título
 
 ## Preámbulo
+
+## Artículo 1. Objeto
 
 resultados de auditorías, que habrá de poner a disposición del Responsable, a 
 requerimiento de este. Asimismo, durante la vigencia del acuerdo, pondrá a 

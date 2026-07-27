@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato
 
@@ -271,7 +272,7 @@ sal, así como sobre prevención de riesgos laborales y seguridad y salud en el 
 MARTES 30 DE MAYO DE 2023B.O.C.M. Núm. 127 Pág. 15
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Módulo profesional propio CM15-AFD. Lengua extranjera profesional de la Comunidad
 de Madrid, del plan de estudios del ciclo formativo de grado medio en actividades
 ecuestres derivado de la Ley Orgánica 2/2006, de 3 de mayo
@@ -280,7 +281,7 @@ cida en el presente Decreto se impartirá, como norma general, la lengua inglesa
 jería competente en materia de Educación podrá autorizar, excepcionalmente, que la lengua
 impartida sea distinta del inglés, previa solicitud motivada del centro docente.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Autonomía pedagógica de los centros docentes
 1. En el marco de la autonomía pedagógica determinada en el artículo 120 de la Ley
 Orgánica 2/2006, de 3 de mayo, así como en el capítulo V del Decreto 63/2019, de 16 de
@@ -294,17 +295,17 @@ generales, los resultados de aprendizaje, los criterios de evaluación, los cont
 las asignaciones horarias mínimas y la duración total de las enseñanzas establecidas para el
 título en el Real Decreto 652/2017, de 23 de junio.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Implantación del nuevo currículo
 Las enseñanzas que se determinan en el presente Decreto se implantarán a partir del
 curso escolar 2023-2024.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Habilitación para el desarrollo normativo
 Se autoriza al titular de la consejería competente en materia de Educación a dictar las
 disposiciones que sean precisas para el desarrollo de lo dispuesto en este Decreto.
 
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-

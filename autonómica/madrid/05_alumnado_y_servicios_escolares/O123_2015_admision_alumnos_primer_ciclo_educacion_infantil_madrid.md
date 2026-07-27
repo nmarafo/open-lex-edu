@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 MIÉRCOLES 11 DE FEBRERO DE 2015Pág. 58 B.O.C.M. Núm. 35
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
@@ -657,17 +658,17 @@ ción General podrá determinar aquellos centros privados sostenidos con fondos 
 los que la reserva de vacantes será preferente o específica para niños con necesidades edu-
 cativas especiales que requieran un equipamiento singular o una especialización profesio-
 nal de difícil generalización.
-## DISPOSICIÓN ADICIONAL ÚNICA
+## Disposición ADICIONAL ÚNICA
 Representantes legales
 Todas las referencias que en esta Orden y en su Anexo se realizan a los padres de los
 alumnos deben entenderse también realizadas a los representantes legales de los mismos
 que, en su caso, existieran.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Desarrollo
 Se autoriza a las Direcciones Generales competentes en Educación Infantil y en mate-
 ria de centros privados para dictar, en el ámbito de sus respectivas competencias, cuantas re-
 soluciones e instrucciones procedan para la aplicación de lo dispuesto en la presente Orden.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 La presente Orden entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN

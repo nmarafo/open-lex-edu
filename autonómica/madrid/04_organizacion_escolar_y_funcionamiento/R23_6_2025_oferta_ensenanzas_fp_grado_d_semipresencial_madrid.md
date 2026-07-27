@@ -15,7 +15,7 @@ redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/06/30/BOCM-20250630-1.PDF"
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: "Formación Profesional"
 tags:
   - formacion_profesional
@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 MIÉRCOLES 25 DE JUNIO DE 2025B.O.C.M. Núm. 150 Pág. 1
 SUMARIO
@@ -954,7 +955,7 @@ de Presupuestos Generales del Estado.
 La cuantía individualizada del complemento específico se fija por la Comunidad de
 Madrid, en función de la valoración de los puestos de trabajo, sin que en ningún caso pue-
 da asignarse más de un complemento específico.
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Valoración de las condiciones particulares de los puestos de trabajo para la fijación
 del complemento específico
 La asignación del complemento específico de los puestos genéricos, como comple-
@@ -972,7 +973,7 @@ do Sectorial las cantidades a que se refieren los puntos 1y2d ed i c h oa p arta
 crementarse según lo dispuesto en las Leyes de Presupuestos Generales del Estado y de la
 Comunidad de Madrid, no así las cuantías previstas en el punto 3 que también podrán ser
 incrementadas a partir de la finalización del período correspondiente a la última anualidad.
-## DISPOSICIÓN TRANSITORIA PRIMERA
+## Disposición TRANSITORIA PRIMERA
 Procesos de acoplamiento
 Se realizarán los procesos de acoplamiento, de acuerdo con lo previsto en la disposi-
 ción transitoria cuarta de la Ley Orgánica 19/2003, de 23 de diciembre, de modificación de
@@ -982,18 +983,18 @@ Ley de reforma de la legislación procesal para la implantación de la nueva Ofi
 por la que se modifica la Ley Orgánica del Poder Judicial.
 MIÉRCOLES 25 DE JUNIO DE 2025B.O.C.M. Núm. 150 Pág. 21
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Régimen transitorio de destinos
 En tanto no finalice el proceso de acoplamiento y el personal funcionario afectado no
 quede adscrito a los nuevos puestos de trabajo previstos en estas relaciones de puestos de
 trabajo continuará prestando servicios en sus actuales destinos, percibiendo las retribucio-
 nes que les correspondan.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Entrada en vigor
 La presente Resolución entrará en vigor el mismo día de su publicación en el B
 OLETÍN
 OFICIAL DE LA COMUNIDAD DE MADRID.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Recursos
 De conformidad con lo dispuesto en los artículos 115, 121 y 122 de la Ley 39/2015,
 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públi-
@@ -2364,7 +2365,7 @@ Tribunal Coordinador en sustitución de D. a Cristina Díez Jiménez.
 Contra la presente Resolución, las personas interesadas en los procesos relativos al
 personal laboral podrán interponer demanda en el plazo de dos meses ante el Juzgado de lo
 Social de Madrid, de acuerdo con lo establecido en el artículo 10.4.a) en relación con el
-artículo 6.2.b) de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social,
+## Artículo 6.2.b) de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social,
 y en el artículo 69 de la mencionada ley, en la redacción dada por la Ley 39/2015, de 1
 de octubre.
 Dado en Madrid, a 13 de junio de 2025.—La Directora General de Función Pública,
@@ -2424,7 +2425,7 @@ Tribunal Coordinador en sustitución de D. a Cristina Díez Jiménez.
 Contra la presente Resolución, las personas interesadas en los procesos relativos al
 personal laboral podrán interponer demanda en el plazo de dos meses ante el Juzgado de lo
 Social de Madrid, de acuerdo con lo establecido en el artículo 10.4.a) en relación con el
-artículo 6.2.b) de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social,
+## Artículo 6.2.b) de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social,
 y en el artículo 69 de la mencionada ley, en la redacción dada por la Ley 39/2015, de 1 de
 octubre y las personas interesadas en procesos relativos al personal funcionario podrán in-
 MIÉRCOLES 25 DE JUNIO DE 2025B.O.C.M. Núm. 150 Pág. 51
@@ -3550,7 +3551,7 @@ turno libre a la condición de personal estatutario fijo en la categoría de Té
 Farmacia del Servicio Madrileño de Salud de la Comunidad de Madrid.
 Advertido error material en el nombre del Presidente Suplente del Tribunal Califica-
 dor de la categoría de Técnico Auxiliar de Farmacia, y de conformidad con lo dispuesto en
-artículo 109 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común
+## Artículo 109 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común
 de las Administraciones Públicas, se procede a su corrección en los siguientes términos:
 Donde dice:
 Presidente suplente: D. Luis Antonio Pedraza Cedón, DNI ****0152.
@@ -6628,14 +6629,14 @@ les o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilita-
 ción absoluta o especial para empleos o cargos públicos por resolución judi-
 cial, para el acceso a Cuerpos o Escalas de funcionario. No estar incurso en
 causa de incapacidad o incompatibilidad con las funciones a desempeñar.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Entrada en vigor
 La presente Orden entrará en vigor el día siguiente al de su fecha y firma, sin perjui-
 cio de que su aplicación tenga efectos a partir de la constitución de las respectivas Oficinas
 judiciales de cada uno de los Tribunales a los que asisten.
 MIÉRCOLES 25 DE JUNIO DE 2025Pág. 150 B.O.C.M. Núm. 150
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Recursos
 La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
 se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo ór-
@@ -12097,13 +12098,13 @@ Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Ad-
 ministraciones Públicas. El plazo para interponer este recurso será de un mes a con-
 tar desde el día siguiente al de la notificación de dicha Resolución, según lo dispues-
 to en el artículo 122 de la citada Ley.
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Sobre la inclusión de determinadas especies como cazables en el ámbito
 de los Espacios Naturales Protegidos
 Con carácter general se permite la inclusión del corzo, cabra montés y zorro en los Pla-
 nes de Aprovechamiento Cinegético en el ámbito de los Parques regionales de la Comuni-
 dad de Madrid.
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Autorizaciones especiales a cotos para el acceso al cupo regional de la tórtola europea
 La caza de la tórtola se autorizará en aquellos cotos de caza que lo soliciten y cumplan
 las condiciones establecidas mediante resolución de la Dirección General con competen-
@@ -12137,7 +12138,7 @@ ción de autorización de cupos.
 El plazo de solicitud será de 10 días a partir del día siguiente a la publicación de la pre-
 sente orden en el B
 OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Entrada en vigor
 1. La presente orden entrará en vigor el día siguiente al de su publicación en el B O-
 LETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
@@ -12576,7 +12577,7 @@ bases reguladoras y adjuntando toda la documentación requerida según lo establ
 MIÉRCOLES 25 DE JUNIO DE 2025B.O.C.M. Núm. 150 Pág. 347
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-artículo 19 de las mismas, y eligiendo un único tipo de intervención (6881.3 ó 6881.4) por
+## Artículo 19 de las mismas, y eligiendo un único tipo de intervención (6881.3 ó 6881.4) por
 el que presentan solicitud.
 El modelo de solicitud indicado en la convocatoria estará disponible en el portal de in-
 ternet de la Comunidad de Madrid ( www.comunidad.madrid ), en la dirección electrónica:
@@ -13857,7 +13858,7 @@ En fecha 11 de julio de 2024, se suscribió entre la Comunidad de Madrid y el Ay
 tamiento de Villanueva de la Cañada, un convenio de colaboración en materia de Educa-
 ción Infantil con vigencia hasta el 31 de agosto de 2025, previéndose en la cláusula undé-
 cima la posibilidad de prórroga, con las limitaciones temporales establecidas en el
-artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
+## Artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
 mediante la suscripción de adendas en las que podrán incluirse nuevos centros y servicios,
 y en las que se concretarán los compromisos y las aportaciones económicas que cada Admi-
 nistración asumirá durante el correspondiente curso escolar.
@@ -15566,7 +15567,7 @@ En el caso de la instalación de actividades sometidas al Real Decreto 9/2005, d
 enero, por el que se establece la relación de actividades potencialmente contaminantes del
 suelo y los criterios y estándares para la declaración de suelos contaminados, tanto la im-
 plantación de nuevos establecimientos como su clausura se someterán a lo dispuesto en el
-artículo 3.4 del mencionado Real Decreto.
+## Artículo 3.4 del mencionado Real Decreto.
 Los titulares de las actividades potencialmente contaminantes estarán obligados a re-
 mitir periódicamente al órgano competente informes de situación. El contenido y la perio-
 dicidad con que los informes de situación han de ser remitidos serán determinados por el
@@ -16343,7 +16344,7 @@ Los documentos que se publican son los siguientes
 - Ficha del Área Homogénea “Industrial V-1 Európolis”. 
 Epígrafe 3. Uso Industrial y Almacenamiento 
  
-Art. 4.2.6.  Definición  
+## Artículo 4.2.6.  Definición  
 Es uso industrial el que tiene por finalidad llevar a cabo las operaciones de 
 elaboración, transformación, reparación, reciclaje, almacenaje, distribución de 
 productos, industria digital, logística y servicios de información, comunicación, 
@@ -16639,7 +16640,7 @@ En todo caso, en los centros comerciales y/o de ocio serán de aplicación las
 condiciones y determinaciones establecidas al respecto en la Orden de 27 de 
 septiembre de 2001 de la Consejería de Urbanismo. 
 Epígrafe 3.  Condiciones de uso. 
-Art. 10.8.14.9. Uso característico. Industrial y almacenamiento. 
+## Artículo 10.8.14.9. Uso característico. Industrial y almacenamiento. 
 Es uso industrial el que tiene por finalidad llevar a cabo las operaciones de 
 elaboración, transformación, reparación, reciclaje, almacenaje, distribución de 
 productos, industria digital, logística y servicios de información, comunicación, 
@@ -16683,7 +16684,7 @@ Se incluyen como usos asociados al uso Industrial y Almacenamiento las oficinas
 y áreas de exposición industrial, siempre que su superficie no sea superior al 
 20% de la superficie total edificable sobre parcela neta de uso industrial 
 considerada.  
-Art. 10.8.14.10. Usos compatibles y alternativos.  
+## Artículo 10.8.14.10. Usos compatibles y alternativos.  
 Los usos compatibles pueden acompañar al uso característico industrial en 
 proporción máxima del 45% de la edificabilidad consumida. Son los siguientes: 
 /g120 Servicio Terciario en los siguientes grados: 
@@ -16729,7 +16730,7 @@ y condiciones de la edificación de la presente ordenanza, y se remiten a la
 regulación del plan general para el resto de las condiciones propias del uso. 
 A los usos alternativos no se les aplicará el régimen de usos compatibles. 
  
-Art. 10.8.14.11.  Aparcamientos  
+## Artículo 10.8.14.11.  Aparcamientos  
 Con carácter general, la dotación de plazas de aparcamiento será de un mínimo 
 de una plaza por cada 100 metros cuadrados de edificabilidad consumida, a 
 excepción del uso de Taller de Reparación y Servicios de vehículos en los grados 
@@ -16785,7 +16786,7 @@ de aplicación.
 Su gestión se llevará a cabo mediante la formulación de Convenios urbanísticos 
 de ejecución en los cuales se regularán las condiciones y los términos de la 
 gestión y ejecución y, de conservación.  
-Art. 10.8.14.13.  Otras condiciones. 
+## Artículo 10.8.14.13.  Otras condiciones. 
 El tratamiento de fachadas, cubiertas, carpintería exterior y demás elementos 
 que configuran la imagen del Complejo Industrial y Terciario Európolis, deberá 
 preverse dentro de parámetros estéticos y constructivos de calidad, y serán 
@@ -18277,13 +18278,13 @@ ORDENANZA FISCAL DE LA TASA PARA LA RECOGIDA DE RESIDUOS
 ## Artículo 1. Fundamento y naturaleza.—En uso de las facultades concedidas por los ar-
 tículos 133.2 y 142 de la Constitución española, y por el artículo 106 de la Ley 7/1985, de 2
 de abril, Reguladora de las Bases del Régimen Local, de conformidad con lo dispuesto en los
-artículos 15 a 19 y 20 a 27 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se
+## Artículo 15 a 19 y 20 a 27 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se
 aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, y de acuerdo con
 la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, este Ayuntamiento esta-
 blece la tasa por recogida de residuos sólidos urbanos en el Municipio de Villar del Olmo, que
 se regirá por la presente Ordenanza fiscal, cuyas normas atienden a lo dispuesto en el artícu-
 lo 57 del citado texto refundido de la Ley Reguladora de las Haciendas Locales.
-Art. 2. Hecho imponible.—Constituye el hecho imponible de la tasa la prestación y
+## Artículo 2. Hecho imponible.—Constituye el hecho imponible de la tasa la prestación y
 recepción obligatoria del servicio de recogida de residuos sólidos urbanos de viviendas,
 alojamientos y locales o establecimientos donde se ejerza cualquier actividad industrial, co-
 mercial, profesional, artística.
@@ -18295,14 +18296,14 @@ aparatos eléctricos y electrónicos, ropa, pilas, acumuladores, muebles y enser
 Tendrán la consideración de residuos domésticos los residuos procedentes de limpie-
 za de vías públicas, zonas verdes, áreas recreativas y, los animales domésticos muertos y
 los vehículos abandonados.
-Art. 3. Sujeto pasivo.—Son sujetos pasivos de esta tasa, todas las personas físicas o
+## Artículo 3. Sujeto pasivo.—Son sujetos pasivos de esta tasa, todas las personas físicas o
 jurídicas y las entidades, que ocupen o utilicen las viviendas y locales ubicados en los lu-
 gares, plazas, calles o vías públicas en que se preste el servicio, ya sea a título de propieta-
 rio o de usufructuario, habitacionista, arrendatario, o, incluso, de precario.
 Tendrá la consideración de sujeto pasivo sustituto del contribuyente, el propietario de
 las viviendas o locales, que podrá repercutir, en su caso, las cuotas satisfechas sobre los
 usuarios de aquellas, beneficiarios del servicio.
-Art. 4. Responsables.—Responderán de la deuda tributaria los deudores principales
+## Artículo 4. Responsables.—Responderán de la deuda tributaria los deudores principales
 junto a otras personas o entidades. A estos efectos se considerarán deudores principales los
 obligados tributarios del apartado 2 del artículo 35 de la Ley 58/2003, de 17 de diciembre,
 General Tributaria.
@@ -18310,7 +18311,7 @@ Salvo precepto legal expreso en contrario, la responsabilidad será siempre subs
 En relación a la responsabilidad solidaria y subsidiaria de la deuda tributaria se estará
 a lo establecido en los artículos 42 y 43, respectivamente, de la Ley 58/2003, de 17 de di-
 ciembre, General Tributaria.
-Art. 5. Exenciones y bonificaciones.—No se prevé la aplicación de exenciones o bo-
+## Artículo 5. Exenciones y bonificaciones.—No se prevé la aplicación de exenciones o bo-
 nificaciones de la cuota.
 No obstante el Ayuntamiento Pleno, en situaciones de especial necesidad o urgencia
 social, podrá acordar la aplicación de exenciones o bonificaciones temporales a determina
@@ -18324,7 +18325,7 @@ b) Fotocopia de la declaración del IRPF (del solicitante y del cónyuge, y dem�
 sonas empadronadas en ese domicilio) o de la declaración de no estar obligado a
 presentarla.
 c) Informe de servicios sociales.
-Art. 6. Cuota tributaria.— Categorías según usos, tipologías, zona de ordenanza y
+## Artículo 6. Cuota tributaria.— Categorías según usos, tipologías, zona de ordenanza y
 superficies:
 — Categoría 1: Residencial, vivienda individual entre medianeras, zona de ordenanza
 Casco Antiguo (CA) hasta 250 m
@@ -18400,14 +18401,14 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 El servicio extraordinario y ocasional de recogida de residuos domésticos, previa pe-
 tición del interesado u orden de la Alcaldía por motivos de interés público se facturará al
 coste del mismo.
-Art. 7. Devengo.—1. Se devenga la tasa y nace la obligación de contribuir desde el
+## Artículo 7. Devengo.—1. Se devenga la tasa y nace la obligación de contribuir desde el
 momento en que se inicie la prestación del servicio, entendiéndose iniciada, dada la natu-
 raleza de recepción obligatoria del mismo, cuando esté establecido y en funcionamiento el
 servicio municipal de recogida de residuos sólidos en las calles o lugares donde figuren las
 viviendas o locales utilizados por los contribuyentes sujetos a la tasa.
 2. Establecido y en funcionamiento el referido servicio, las cuotas se devengarán el
 primer día de cada semestre natural.
-Art. 8. Normas de gestión.— Dentro de los treinta días hábiles siguientes a la fecha
+## Artículo 8. Normas de gestión.— Dentro de los treinta días hábiles siguientes a la fecha
 en que se devengue por vez primera la tasa, los sujetos pasivos formalizarán su inscripción
 en matrícula, presentando al efecto la correspondiente declaración de alta.
 En los tributos de cobro periódico por recibo, una vez notificada la liquidación corres-
@@ -18430,15 +18431,15 @@ puerta de la calle de la fachada de los edificios, o en el lugar que previamente
 su carga en los vehículos correspondientes. A tal efecto, los usuarios vienen obligados a de-
 positar previamente los residuos en el correspondiente lugar, en recipientes adecuados y en
 el horario que se determine.
-Art. 9. Infracciones y sanciones.— En todo lo referente a infracciones y sanciones,
+## Artículo 9. Infracciones y sanciones.— En todo lo referente a infracciones y sanciones,
 será de aplicación la Ley 58/2003, de 17 de diciembre, General Tributaria, en concreto los
-artículos 181 y siguientes, y los artículos 45 y siguientes de la Ley 22/2011, de 28 de julio,
+## Artículo 181 y siguientes, y los artículos 45 y siguientes de la Ley 22/2011, de 28 de julio,
 de residuos y suelos contaminados. La imposición de sanciones no suspenderá en ningún
 caso la liquidación y cobro de las cuotas devengadas.
 En cuanto a la compatibilidad de sanciones, el abono de la cuota tributaria establecido
 en esta Ordenanza Fiscal no excluye el pago de las sanciones o multas que procedieran por
 infracción de la normativa autonómica o local vigente.
-## DISPOSICIÓN FINAL ÚNICA
+## Disposición FINAL ÚNICA
 La presente Ordenanza fiscal entrará en vigor una vez transcurra el plazo de quince
 días desde la publicación en el B
 OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID del tex-

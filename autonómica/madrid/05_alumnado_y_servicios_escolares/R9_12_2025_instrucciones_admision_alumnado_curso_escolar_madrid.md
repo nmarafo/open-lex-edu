@@ -29,9 +29,12 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 # Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027
 
 ## Preámbulo
+
+## Artículo 1. Objeto
 
 
 MARTES 9 DE DICIEMBRE DE 2025Pág. 118 B.O.C.M. Núm. 293

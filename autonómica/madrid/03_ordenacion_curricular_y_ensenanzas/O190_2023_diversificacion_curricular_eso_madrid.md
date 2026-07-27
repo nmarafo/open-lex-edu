@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 MARTES 7 DE FEBRERO DE 2023B.O.C.M. Núm. 32 Pág. 21
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
@@ -109,7 +110,7 @@ viembre, del Consejo de Gobierno, por el que se establece la estructura orgánic
 sejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid, en
 relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se crea
 la Vicepresidencia, Consejería de Educación y Universidades, así como las atribuidas en el
-artículo 36.6 y la disposición final primera del Decreto 65/2022, de 20 de julio,
+## Artículo 36.6 y la disposición final primera del Decreto 65/2022, de 20 de julio,
 DISPONE
 ## Artículo 1
 Objeto de la norma y ámbito de aplicación
@@ -395,13 +396,13 @@ que constará el número de años cursados y el nivel de adquisición de las com
 ve establecidas en el perfil de salida. Asimismo, estos alumnos podrán obtener el título de
 Graduado en Educación Secundaria Obligatoria en los términos y condiciones establecidos
 en el artículo 23.6 del citado decreto.
-## DISPOSICIÓN ADICIONAL ÚNICA
+## Disposición ADICIONAL ÚNICA
 Centros privados
 Lo establecido en la presente orden en relación con los departamentos de coordinación
 didáctica, con el departamento de orientación y con otras unidades organizativas estableci-
 das para los centros públicos deberá aplicarse en aquellas otras que realicen las mismas fun-
 ciones en los centros privados.
-## DISPOSICIÓN TRANSITORIA ÚNICA
+## Disposición TRANSITORIA ÚNICA
 Profesorado que haya impartido ámbitos en centros públicos
 El profesorado que, de conformidad con la disposición transitoria única de la Or-
 den 3295/2016, de 10 de octubre, de la Consejería de Educación, Juventud y Deporte, por
@@ -419,7 +420,7 @@ Derogación normativa.
 Queda derogada la Orden 3295/2016, de 10 de octubre, de la Consejería de Educación,
 Juventud y Deporte, por la que se regulan para la Comunidad de Madrid los Programas de
 Mejora del Aprendizaje y del Rendimiento en la Educación Secundaria Obligatoria.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Calendario de implantación
 De conformidad con la disposición final primera del Decreto 65/2022, de 20 de julio,
 el primer curso del programa de diversificación curricular se implanta para el alumnado del
@@ -428,12 +429,12 @@ gundo curso del programa de diversificación curricular se implantará para el a
 cuarto curso de la Educación Secundaria Obligatoria en el curso escolar 2023-2024.
 MARTES 7 DE FEBRERO DE 2023Pág. 28 B.O.C.M. Núm. 32
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Habilitación para su aplicación
 Se autoriza al titular de la dirección general con competencias en materia de las ense-
 ñanzas de Educación Secundaria Obligatoria a dictar, en el ámbito de sus competencias,
 cuantas medidas sean precisas para la aplicación de lo dispuesto en la presente orden.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 Esta Orden entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN OFI-

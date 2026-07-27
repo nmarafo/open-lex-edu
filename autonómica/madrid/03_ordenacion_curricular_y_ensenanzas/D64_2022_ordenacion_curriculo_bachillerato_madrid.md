@@ -29,6 +29,7 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1
 SUMARIO
 BOLETÍN OFICIAL
@@ -668,7 +669,7 @@ zar la etapa. Asimismo, el referido real decreto fija, para cada una de las mate
 petencias específicas previstas para la etapa, así como los criterios de evaluación y saberes
 básicos.
 De conformidad con los artículos 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, y el
-artículo 18.3 del Real Decreto 243/2022, de 5 de abril, las Administraciones educativas es-
+## Artículo 18.3 del Real Decreto 243/2022, de 5 de abril, las Administraciones educativas es-
 tablecerán el currículo del Bachillerato, del que formarán parte, en todo caso, las enseñan-
 zas mínimas fijadas en el mismo y que requerirán, en el caso de la Comunidad de Madrid,
 el sesenta por 100 de los horarios escolares. A su vez, de acuerdo con el artículo 18.4, los
@@ -1415,7 +1416,7 @@ ciones obtenidas.
 dos como tales según el procedimiento y en los términos que determine el titular de la Con-
 sejería con competencias en materia de Educación, se podrá flexibilizar de acuerdo con la
 normativa vigente.
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Enseñanzas de religión
 1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo esta-
 blecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
@@ -1448,7 +1449,7 @@ dos los alumnos, las calificaciones que se hubieran obtenido en la evaluación d
 das al estudio en las que deban entrar en concurrencia los expedientes académicos, ni en la
 obtención de la nota media a efectos de admisión de alumnos, cuando hubiera que acudir a
 la nota media para realizar una selección entre los solicitantes.
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Enseñanzas del Bachillerato impartidas en lenguas extranjeras
 1. El titular de la Consejería competente en materia de Educación podrá autorizar
 que una parte de las materias del currículo se impartan en lenguas extranjeras, con la excep-
@@ -1466,7 +1467,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 4. De conformidad con el artículo 86.2 de la Ley Orgánica 2/2006, de 3 de mayo, el
 hecho de que en un centro sostenido con fondos públicos se impartan materias en lenguas
 extranjeras no supondrá, en ningún caso, modificación en los criterios de admisión.
-## DISPOSICIÓN ADICIONAL TERCERA
+## Disposición ADICIONAL TERCERA
 Educación de Personas Adultas
 1. El titular de la Consejería competente en materia de Educación adaptará la oferta
 del Bachillerato al principio de flexibilidad que rige la educación de personas adultas me-
@@ -1495,20 +1496,20 @@ res de veinte años puedan obtener directamente el título de Bachiller. Dichas 
 contarán con las medidas de accesibilidad universal y las adaptaciones que precise todo el
 alumnado con necesidades educativas especiales y se organizarán de manera diferenciada
 según las modalidades del Bachillerato.
-## DISPOSICIÓN ADICIONAL CUARTA
+## Disposición ADICIONAL CUARTA
 Simultaneidad de las enseñanzas profesionales de Música o de Danza y Bachillerato
 La Consejería con competencias en materia de Educación facilitará la posibilidad de
 cursar simultáneamente las enseñanzas profesionales de Música o de Danza y el Bachille-
 rato, para lo que podrá adoptar las oportunas medidas de organización y de ordenación aca-
 démica que podrán incluir, entre otras, las convalidaciones y la creación de centros integra-
 dos, así como cuantas otras medidas contemple la normativa básica de estas enseñanzas.
-## DISPOSICIÓN ADICIONAL QUINTA
+## Disposición ADICIONAL QUINTA
 Obtención de nuevas modalidades de Bachillerato
 Quienes hayan obtenido el título de Bachiller por una modalidad, conforme al currícu-
 lo establecido en el presente decreto, podrán obtenerlo por cualquiera de las otras modali-
 dades mediante la superación de las materias de modalidad de primer y segundo curso que,
 conforme a lo previsto en este decreto, se requieren para la modalidad elegida.
-## DISPOSICIÓN ADICIONAL SEXTA
+## Disposición ADICIONAL SEXTA
 Impartición de modalidades en los centros
 1. Corresponderá al titular de la Consejería competente en materia de Educación au-
 torizar a los centros a impartir las modalidades y, en su caso, vías de Bachillerato previstas
@@ -1520,7 +1521,7 @@ centros públicos y privados concertados puedan impartir cada una de las modalid
 de entre las que tienen autorizadas. Dicha Consejería regulará el procedimiento para hacer
 efectiva esta limitación, que habrá de tener en cuenta las características demográficas y so-
 ciales de cada zona educativa.
-## DISPOSICIÓN ADICIONAL SÉPTIMA
+## Disposición ADICIONAL SÉPTIMA
 Premios Extraordinarios de Bachillerato
 La Consejería con competencias en materia de Educación, en virtud de las competen-
 cias reconocidas a las Comunidades Autónomas en el artículo 89 de la Ley Orgáni-
@@ -1529,7 +1530,7 @@ chillerato en su ámbito territorial. La obtención del Premio Extraordinario de
 por parte de un alumno será consignada en el expediente académico y en el historial acadé-
 mico de Bachillerato, y podrá dar lugar, además, a otro tipo de compensaciones, de acuer-
 do con lo que determine la Consejería con competencias en materia de Educación.
-## DISPOSICIÓN ADICIONAL OCTAVA
+## Disposición ADICIONAL OCTAVA
 Otros programas
 1. La Consejería con competencias en materia de Educación podrá implantar progra-
 mas destinados a los alumnos que finalicen la Educación Secundaria Obligatoria con un
@@ -1540,14 +1541,14 @@ currículo regulados en el Real Decreto 243/2022, de 5 de abril.
 2. Asimismo, el titular de la Consejería competente en materia de Educación podrá
 autorizar otros programas que por su interés formativo específico sean demandados por los
 centros, siempre que respeten los aspectos regulados en el presente decreto.
-## DISPOSICIÓN TRANSITORIA PRIMERA
+## Disposición TRANSITORIA PRIMERA
 Aplicabilidad del Decreto 52/2015, de 21 de mayo, del Consejo de Gobierno,
 por el que se establece para la Comunidad de Madrid el currículo del Bachillerato
 Durante el curso 2022-2023, en el segundo curso del Bachillerato el currículo, la or-
 ganización y los objetivos serán los establecidos en el Decreto 52/2015, de 21 de mayo, del
 Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo del
 Bachillerato.
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Aplicabilidad del Decreto 29/2022, de 18 de mayo, del Consejo de Gobierno,
 por el que se establecen determinados aspectos sobre la evaluación la promoción
 y la titulación en la Educación Secundaria Obligatoria, el Bachillerato
@@ -1563,7 +1564,7 @@ duzcan a la obtención de los títulos de Graduado en Educación Secundaria Obli
 Bachiller.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 31
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 1. Queda derogado el Decreto 52/2015, de 21 de mayo, por el que se establece para
 la Comunidad de Madrid el currículo del Bachillerato.
@@ -1572,15 +1573,15 @@ mayo, por el que se establecen determinados aspectos sobre la evaluación, la pr
 la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profe-
 sional, así como en las enseñanzas de personas adultas que conduzcan a la obtención de los
 títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Calendario de implantación
 Lo dispuesto en este decreto se implantará en Bachillerato para el curso primero en el
 curso escolar 2022-2023, y para el curso segundo en el curso escolar 2023-2024.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Desarrollo normativo
 Se habilita al titular de la Consejería con competencias en materia de Educación para
 dictar cuantas disposiciones sean precisas para el desarrollo de lo dispuesto en este decreto.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-
@@ -1907,7 +1908,7 @@ compete a los centros educativos incorp orará todos los elementos cu rriculares
 mínimas establecidos en el Real  Decreto 243/2022, de 5 de abr il. Los términos ecodependencia, 
 ecofeminismo, ecosocial, perspec tiva de género, sexista y socioafec tivo, entre otros, incluidos en 
 el Real decreto 243/2020, de 5 de  abril, serán de aplicación de acuerdo con lo dispuesto en el 
-artículo 6.4 de la Ley Orgánica de Educación 2/2006, de 3 de mayo, de Educación. 
+## Artículo 6.4 de la Ley Orgánica de Educación 2/2006, de 3 de mayo, de Educación. 
  
 ANÁLISIS MUSICAL 
  
@@ -20673,7 +20674,7 @@ Características generales de la etapa
 gimen ordinario se cursará, con carácter general, entre los doce y los dieciséis años de edad,
 si bien los alumnos tendrán derecho a permanecer en la etapa hasta los dieciocho años de
 edad cumplidos en el año en el que finalice el curso, con las excepciones previstas en los
-artículos 22.6 y 31.5.
+## Artículo 22.6 y 31.5.
 2. La Educación Secundaria Obligatoria es una etapa educativa que constituye, jun-
 to con la Educación Primaria y los ciclos formativos de grado básico, la educación básica.
 La Educación Secundaria Obligatoria comprende cuatro cursos y se organiza en materias y
@@ -21055,7 +21056,7 @@ a) Adoptar experimentaciones, innovaciones pedagógicas y programas educativos.
 b) Establecer formas de organización para completar los itinerarios y orientar al
 alumno en la elección de las opciones a las que se refiere el artículo 8.3, así como
 en la elección de las materias optativas, de conformidad con lo establecido en el
-artículo 9.
+## Artículo 9.
 c) Diseñar planes de trabajo que faciliten implantar métodos pedagógicos y didácti-
 cos propios, así como establecer las normas de convivencia.
 d) Ampliar las horas lectivas correspondientes a las diferentes materias sin que esto
@@ -21244,7 +21245,7 @@ ya que esta medida favorece la adquisición de las competencias clave establecid
 etapa y que, por lo tanto, el alumno tiene expectativas de obtener el título de Graduado en
 Educación Secundaria Obligatoria en el curso siguiente. Cuando se adopte esta decisión ex-
 cepcional se podrá prorrogar en un año la edad máxima de permanencia establecida en el
-artículo 3.1.
+## Artículo 3.1.
 7. En todo caso, la permanencia en el mismo curso se planificará de manera que las
 condiciones curriculares se adapten a las necesidades del alumno y estén orientadas a la su-
 peración de las dificultades detectadas, así como al avance y profundización en los apren-
@@ -21633,12 +21634,12 @@ mitirá obtener el título de Graduado en Educación Secundaria Obligatoria.
 evaluación académica, un informe de idoneidad emitido por los profesionales de la orien-
 tación educativa, y se realizará una vez oído el propio alumno y se cuente con la conformi-
 dad de sus padres o tutores legales, sin exceder los límites de permanencia previstos en los
-artículos 3.1 y 22.6.
+## Artículo 3.1 y 22.6.
 5. Los alumnos con necesidades educativas especiales podrán incorporarse al pro-
 grama de diversificación curricular, siguiendo el mismo procedimiento de incorporación
 que el resto de los alumnos y siempre que esta medida favorezca su progresión. El centro
 adoptará las medidas oportunas de apoyos específicos que necesite este alumnado.
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Enseñanzas de religión
 1. Las enseñanzas de religión se incluirán en la Educación Secundaria Obligatoria,
 de acuerdo con lo establecido en la disposición adicional segunda de la Ley Orgáni-
@@ -21676,7 +21677,7 @@ dos los alumnos, las calificaciones que se hubieran obtenido en la evaluación d
 currencia los expedientes académicos, ni en la obtención de la nota media a efectos de
 admisión de alumnos, cuando hubiera que acudir a ella para realizar una selección entre los
 solicitantes.
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Enseñanzas de la Educación Secundaria Obligatoria impartidas en lenguas extranjeras
 1. La consejería competente en materia de Educación podrá autorizar que una parte
 de las materias del currículo se impartan en lenguas extranjeras, con la excepción de Latín,
@@ -21691,7 +21692,7 @@ términos imprescindibles para garantizar que el alumnado adquiere la terminolog
 de la materia en ambas lenguas.
 4. El titular de la consejería con competencias en materia de Educación regulará el
 procedimiento de autorización del programa de enseñanza bilingüe en los centros docentes.
-## DISPOSICIÓN ADICIONAL TERCERA
+## Disposición ADICIONAL TERCERA
 Educación de Personas Adultas
 1. De acuerdo con lo dispuesto en el artículo 68.1 de la Ley Orgánica 2/2006, de 3 de
 mayo, las personas adultas que quieran adquirir las competencias y los conocimientos co-
@@ -21742,7 +21743,7 @@ partes de las mismas que se considerará que tienen superadas quienes concurran 
 acuerdo con su historia académica previa. Se garantizará que las pruebas cuenten con las
 medidas de accesibilidad universal y las adaptaciones que precisen los alumnos con nece-
 sidades específicas de apoyo educativo.
-## DISPOSICIÓN ADICIONAL CUARTA
+## Disposición ADICIONAL CUARTA
 Simultaneidad de las enseñanzas profesionales de Música
 o de Danza y Educación Secundaria Obligatoria
 La consejería con competencias en materia de Educación facilitará la posibilidad de cursar
@@ -21750,7 +21751,7 @@ simultáneamente las enseñanzas profesionales de Música o de Danza y la Educac
 ria Obligatoria, para lo que podrá adoptar las oportunas medidas de organización y de ordena-
 ción académica que podrán incluir, entre otras, las convalidaciones y la creación de centros in-
 tegrados, así como cuantas otras medidas contemple la normativa básica de estas enseñanzas.
-## DISPOSICIÓN TRANSITORIA PRIMERA
+## Disposición TRANSITORIA PRIMERA
 Aplicabilidad del Decreto 48/2015, de 14 de mayo, del Consejo de Gobierno,
 por el que se establece para la Comunidad de Madrid el currículo de la Educación
 Secundaria Obligatoria
@@ -21760,7 +21761,7 @@ en el Decreto 48/2015, de 14 de mayo, del Consejo de Gobierno, por el que se est
 para la Comunidad de Madrid el currículo de la Educación Secundaria Obligatoria.
 MARTES 26 DE JULIO DE 2022Pág. 418 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Aplicabilidad del Decreto 29/2022, de 18 de mayo, del Consejo de Gobierno, por el que
 se establecen determinados aspectos sobre la evaluación la promoción y la titulación
 en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional,
@@ -21773,7 +21774,7 @@ cen determinados aspectos sobre la evaluación la promoción y la titulación en
 Secundaria Obligatoria, el Bachillerato y la Formación Profesional, así como en las ense-
 ñanzas de personas adultas que conduzcan a la obtención de los títulos de Graduado en Edu-
 cación Secundaria Obligatoria y de Bachiller.
-## DISPOSICIÓN TRANSITORIA TERCERA
+## Disposición TRANSITORIA TERCERA
 Ciclos de formación profesional básica
 1. Hasta la implantación de los ciclos formativos de grado básico de forma regla-
 mentaria y la consiguiente extinción de los ciclos de formación profesional básica, la incor-
@@ -21787,7 +21788,7 @@ los desarrollen. Asimismo, quienes sean propuestos para la obtención del títul
 Básico, al haber superado la totalidad de los módulos del ciclo de formación profesional bá-
 sica correspondiente, lo serán también para la obtención del título de Graduado en Educa-
 ción Secundaria Obligatoria.
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 1. Queda derogado el Decreto 48/2015, de 14 de mayo, del Consejo de Gobierno, por
 el que se establece para la Comunidad de Madrid el currículo de la Educación Secundaria
@@ -21797,7 +21798,7 @@ del Consejo de Gobierno, por el que se establecen determinados aspectos sobre la
 la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la For-
 mación Profesional, así como en las enseñanzas de personas adultas que conduzcan a la ob-
 tención de los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Calendario de implantación
 1. Lo dispuesto en este decreto se implantará para los cursos primero y tercero de la
 Educación Secundaria Obligatoria en el curso escolar 2022-2023, y para los cursos segun-
@@ -21809,11 +21810,11 @@ nal establezca de forma reglamentaria y se desarrollen para su implantación por
 nidad de Madrid.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 419
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Desarrollo normativo
 Se habilita al titular de la consejería con competencias en materia de Educación para
 dictar cuantas disposiciones sean precisas para el desarrollo de lo dispuesto en este decreto.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B OLE-
 TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
@@ -21867,7 +21868,7 @@ Tutoría 1
 Total de horas semanales 30 
 (1) Los alumnos escogerán entre Matemáticas A o Matemáticas B. 
 (2) Los alumnos cursarán tres materia s de entre las recogidas en el 
-artículo 8.2, dos de las materias se agruparán de conformidad con 
+## Artículo 8.2, dos de las materias se agruparán de conformidad con 
 lo dispuesto en el artículo 8.3. 
 (3) Todos los alumnos cursarán una materia optativa. 
   
@@ -40704,7 +40705,7 @@ Asimismo, el precitado Decreto 241/2021, de 22 de diciembre, estipula, en su art
 lo 6, que estos procesos selectivos se convocarán de acuerdo con lo establecido en la dis-
 posición transitoria segunda del texto refundido de la Ley del Estatuto Básico del Emplea-
 do Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, en la
-## disposición adicional octava del Acuerdo Sectorial sobre trabajo del personal funcionario de
+## Disposición adicional octava del Acuerdo Sectorial sobre trabajo del personal funcionario de
 Administración y Servicios de la Administración de la Comunidad de Madrid (2021-2024)
 y en el Decreto 149/2002, de 29 de agosto, por el que se regula el procedimiento para la ad-
 quisición de la condición de funcionario por el personal laboral al servicio de la Adminis-
@@ -41161,7 +41162,7 @@ tablecida en la Ley 39/2015, de 1 de octubre.
 2. Contra la presente Orden, que pone fin a la vía administrativa, las personas interesa-
 das podrán interponer, con carácter potestativo, recurso de reposición, en el plazo de un mes,
 ante la Consejería de Economía, Hacienda y Empleo, de conformidad con lo dispuesto en los
-artículos 123 y 124 de la citada Ley 39/2015, de 1 de octubre, o bien, directamente recurso
+## Artículo 123 y 124 de la citada Ley 39/2015, de 1 de octubre, o bien, directamente recurso
 contencioso-administrativo, en el plazo de dos meses, ante el Tribunal Superior de Justicia de
 Madrid, de acuerdo con lo dispuesto en los artículos 10 y 46.1 de la Ley 29/1998, de 13 de ju-
 lio, de la Jurisdicción Contencioso-Administrativa, ambos plazos contados a partir del día si-
@@ -43148,7 +43149,7 @@ Recursos
 Contra la presente Orden, que pone fin a la vía administrativa, las personas interesa-
 das podrán interponer con carácter potestativo recurso de reposición, en el plazo de un mes,
 ante la Consejería de Economía, Hacienda y Empleo, de conformidad con lo dispuesto en los
-artículos 123 y 124 de la citada Ley 39/2015, de 1 de octubre, o bien, directamente, recurso
+## Artículo 123 y 124 de la citada Ley 39/2015, de 1 de octubre, o bien, directamente, recurso
 contencioso-administrativo, en el plazo de dos meses, ante el Tribunal Superior de Justicia de
 Madrid, de conformidad con lo dispuesto en los artículos 10 y 46.1 de la Ley 29/1998, de 13
 de julio, de la Jurisdicción Contencioso-Administrativa, ambos plazos contados a partir del
@@ -46039,7 +46040,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Secretaría General Técnica de la Consejería de Familia, Juventud y Política Social, en el
 plazo de quince días hábiles a contar desde la fecha de entrada en vigor de esta convocato-
 ria, en el Registro Electrónico de la Comunidad de Madrid o en la forma establecida en el
-artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+## Artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 En el supuesto de que algún funcionario presentase la solicitud de forma presencial
 será requerido para que la subsane a través de su presentación electrónica, en los términos
@@ -46270,7 +46271,7 @@ plazo de quince días hábiles a contar desde la fecha de entrada en vigor de es
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 871
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ria, en el Registro Electrónico de la Comunidad de Madrid o en la forma establecida en el
-artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+## Artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 En el supuesto de que algún funcionario presentase la solicitud de forma presencial
 será requerido para que la subsane a través de su presentación electrónica, en los términos
@@ -47443,7 +47444,7 @@ plazo de quince días hábiles a contar desde la fecha de entrada en vigor de es
 MARTES 26 DE JULIO DE 2022Pág. 896 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ria, en el Registro Electrónico de la Comunidad de Madrid o en la forma establecida en el
-artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+## Artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 En el supuesto de que algún funcionario presentase la solicitud de forma presencial
 será requerido para que la subsane a través de su presentación electrónica, en los términos
@@ -48713,7 +48714,7 @@ Contra la presente convocatoria y las actuaciones que se deriven de la misma pod
 los interesados interponer demanda, en el plazo de dos meses ante el Juzgado de lo Social
 de Madrid, de acuerdo con lo establecido en el artículo 10.4.a) en relación con el artícu-
 lo 6.2.b) de la Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social, y en el
-artículo 69 de la mencionada Ley, en la redacción dada por la Ley 39/2015, de 1 de octu-
+## Artículo 69 de la mencionada Ley, en la redacción dada por la Ley 39/2015, de 1 de octu-
 bre, del Procedimiento Administrativo Común de las Administraciones Públicas.
 Madrid, a 11 de julio de 2022.—La Consejera de Familia, Juventud y Políticas Socia-
 les, P. D. (Orden 555/2021, de 21 de abril; B
@@ -50086,7 +50087,7 @@ alumnos matriculados, su nivel de asistencia, y los resultados académicos obten
 2. Las escuelas oficiales de idiomas remitirán copia de dicho informe a la dirección
 general con competencias en materia de ordenación académica antes del 30 de julio. El aná-
 lisis de los informes recibidos servirá para la actualización del catálogo a que se refiere el
-artículo 14.4.
+## Artículo 14.4.
 ### Capítulo Capítulo
 Proyectos educativos de innovación y experimentación
 ## Artículo 21
@@ -50365,7 +50366,7 @@ Con anterioridad al inicio del plazo de formalización de matrícula, la direcci
 centro deberá informar a los solicitantes y al alumnado acerca de las condiciones de ma-
 trícula y de permanencia recogidas en el presente capítulo, así como de los aspectos didác-
 ticos y metodológicos de las distintas modalidades de enseñanza a que se refiere esta orden.
-## DISPOSICIÓN ADICIONAL ÚNICA
+## Disposición ADICIONAL ÚNICA
 Protección de datos personales
 En lo referente a la obtención de los datos personales del alumnado, a la cesión de los
 mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará a lo
@@ -50377,7 +50378,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 del Consejo , de 27 de abril de 2016, relativo a la protección de personas físicas en lo que
 respecta al tratamiento de datos personales y en lo establecido en la Ley Orgánica 3/2018,
 de 5 de diciembre, de Protección de datos personales y garantía de los derechos digitales.
-## DISPOSICIÓN TRANSITORIA ÚNICA
+## Disposición TRANSITORIA ÚNICA
 Incorporación del alumnado procedente de planes de estudios anteriores
 Sin perjuicio de lo dispuesto en la Disposición transitoria única del Decreto 106/2018,
 de 19 de junio, el alumnado que hubiera cursado las enseñanzas en planes de estudio ante-
@@ -50385,12 +50386,12 @@ riores al establecido por el Real Decreto 1041/2017, de 22 de diciembre, podrá 
 se al primer curso del nivel básico de las enseñanzas del idioma cursado o acceder a otro
 curso y nivel mediante la presentación de certificaciones académicas o mediante la realiza-
 ción de la prueba de clasificación, en los términos establecidos en la presente orden.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Habilitación para la aplicación
 La dirección general con competencias en la ordenación académica de las enseñanzas
 de idiomas de régimen especial adoptará, en el ámbito de sus competencias, cuantas medi-
 das sean precisas para la aplicación de lo dispuesto en la presente orden.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 La presente orden entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN
@@ -52207,7 +52208,7 @@ de la correspondiente auditoría de la aprobación de la gestión presupuestaria
 procedimientos de control relacionados con la utilización de los fondos relacionados con la 
 aplicación de los acuerdos a que se refieren los artículos 15, apartado 2, y 23, apartado 1. En 
 el marco del procedimiento de aprobación de la gestión de la Comisión, de conformidad con el 
-artículo 319 del TFUE, el Mecanismo estará sujeto a la presentación de informes en el marco 
+## Artículo 319 del TFUE, el Mecanismo estará sujeto a la presentación de informes en el marco 
 de la información financiera y de rendición de cuentas integrada a que se refiere el artículo 247 
 del Reglamento Financiero y, en particular, por separado, en el informe anual de gestión y 
 rendimiento».  
@@ -54710,7 +54711,7 @@ Punto de Acceso General, cuya dirección es: http://www.comunidad.madrid/servici
 ministracion-electronica-punto-acceso-general
 4. Las solicitudes se presentarán en el registro electrónico de la Consejería de Fami-
 lia, Juventud y Política Social, así como en los demás Registros electrónicos previstos en el
-artículo 16.4.a) de la Ley 39/2015, de 1 de octubre. Para dicha presentación electrónica será
+## Artículo 16.4.a) de la Ley 39/2015, de 1 de octubre. Para dicha presentación electrónica será
 necesario disponer de uno de los certificados electrónicos reconocidos o cualificados de fir-
 ma electrónica, que sean operativos en la Comunidad de Madrid y expedidos por prestado-
 res incluidos en la “Lista de confianza de prestadores de servicios de certificación” o cual-
@@ -55334,7 +55335,7 @@ ción y, en todo caso, la obtención concurrente de otras subvenciones, ayudas, 
 cursos para la misma finalidad, procedentes de cualesquiera Administraciones o entes pú-
 blicos o privados, nacionales, de la Unión Europea o de organismos internacionales, podrá
 dar lugar a la modificación de la resolución de concesión, de acuerdo con lo previsto en el
-artículo 19.4 de la Ley 38/2003, de 17 de noviembre, y en el artículo 6.5 de la Ley 2/1995,
+## Artículo 19.4 de la Ley 38/2003, de 17 de noviembre, y en el artículo 6.5 de la Ley 2/1995,
 de 8 de marzo.
 Trigésimo sexto
 Imputación presupuestaria
@@ -55516,7 +55517,7 @@ tación:
 o Declaración responsable del representante legal de la entidad exponiendo las
 razones por las que es necesario celebrar el contrato.
 2.o En su caso, los tres presupuestos solicitados de acuerdo con lo dispuesto en el
-artículo 31.3 de la Ley 38/2003, de 17 de noviembre, y justificación del ele-
+## Artículo 31.3 de la Ley 38/2003, de 17 de noviembre, y justificación del ele-
 gido.
 3.
 o Las facturas y documentos acreditativos del pago.
@@ -55778,7 +55779,7 @@ momento del pago de la subvención y en la cuantía fijada en el artículo 32 de
 de 8 de noviembre, Reguladora de la Hacienda de la Comunidad Madrid.
 5. Las entidades beneficiarias estarán sometidas, igualmente, al régimen de infrac-
 ciones y sanciones previsto en el título IV de la Ley 38/2003, de 17 de noviembre, y en los
-artículos 14 y 15 de la Ley 2/1995, de 8 de marzo.
+## Artículo 14 y 15 de la Ley 2/1995, de 8 de marzo.
 6. En los supuestos que no se aportase la documentación recogida en apartado quin-
 to punto 3 de esta Orden, se denegará la participación de la entidad a solicitudes de proyec-
 tos de inversión, en las próximas convocatorias de estas ayudas con cargo al 0.7 por 100 de
@@ -58589,7 +58590,7 @@ art.12 de las Bases Reguladoras)
  2.1 Parte proporcional aplicada al proyecto del im porte de los contratos suscritos con gestores 
 externos y los gastos por la realización de auditorías externas y/o por la implantación de 
 procedimientos de control de calidad, accesibilidad y responsabilidad social (
-art. 13.1 de las 
+## Artículo 13.1 de las 
 Bases Reguladoras) 
 € € € € % 
  2.2 Gastos del personal administrativo o contable de la entidad, siempre que estén directamente 
@@ -59761,7 +59762,7 @@ art.12
  2.1 Parte proporcional aplicada al proyecto del im porte de los contratos suscritos con gestores 
 externos y los gastos por la realización de auditorías externas y/o por la implantación de 
 procedimientos de control de calidad, accesibilidad y responsabilidad social (
-art. 13.1 de las 
+## Artículo 13.1 de las 
 Bases Reguladoras) 
 € € € € % 
  2.2 Gastos del personal administrativo o contable de la entidad, siempre que estén directamente 
@@ -59769,7 +59770,7 @@ vinculados al proyecto subvencionado (art. 13.1 de las Bases Reguladoras) € �
  2.3 Parte proporcional de los gastos de gestión y administración de las entidades solicitantes 
 que presenten la solicitud en nombre y por cuenta de sus entidades miembros o asociadas 
 que sean ejecutantes de los proyectos. (
-art. 13.2 de las Bases Reguladoras) 
+## Artículo 13.2 de las Bases Reguladoras) 
 € € € € % 
   SUBTOTAL GASTOS DE GESTIÓN Y ADMINISTRACIÓN (límite máximo 10% del coste 
 total del proyecto inicial o del reformulado, en su caso, art. 13.3 de las Bases Reguladoras) € € € € % 
@@ -60052,9 +60053,9 @@ establecidos en relación con el proyecto y, en ningún caso, puede comportar un
 De este modo, se procederá a nueva valoración, y por tanto a nueva puntuación (debiendo alcanzar la puntuación mínima requerida  
 establecida en la Orden de convocatoria) si la modificación afecta a los elementos o aspectos recogidos en los apartados: 
 /g120 Artículo 29 de la Orden 1468/2022, de 24 de junio de Bases Reguladoras, punto b) 3, 4, punto e) y punto g) para proyectos del 
-artículo 4. 
+## Artículo 4. 
 /g120 Artículo 30 de la Orden 1468/2022, de 24 de junio de Bases Reguladoras, punto b) 3, punto e) y punto g), para proyectos del 
-artículo 5. 
+## Artículo 5. 
 Tras esta nueva valoración el importe de la cuantía de la subvención podrá verse minorado o aumentado respecto de la propuesta 
 en la Resolución Provisional una vez estudiadas las alegaciones. 
 5.- El importe solicitado en la reformulación deberá coincidir con el importe de la Propuesta de Resolución Provisional una vez  
@@ -60718,9 +60719,9 @@ Como representante legal de la entidad DECLARO RESPONSABLEMENTE:
  
 ☐ Que los gastos arriba relacionados están APLICADOS al proyecto subvencionado y que se acompañan los documentos acreditativos del gasto.  
 6. GASTOS DE VIAJE Y DIETAS (SE ADJUNTARÁ LA DOCUMENTACIÓN PREVISTA EN EL 
-ARTÍCULO 43 DE LA ORDEN 1468/2022, DE 24 DE JUNIO, DE BASES REGULADORAS) 
+## Artículo 43 DE LA ORDEN 1468/2022, DE 24 DE JUNIO, DE BASES REGULADORAS) 
 6.1. Gastos de alojamiento y manutención (se adjuntará la documentación prevista en el 
-artículo 43.a) de la Orden 1468/2022, de 24 de junio de Bases Reguladoras): (NOTA: no 
+## Artículo 43.a) de la Orden 1468/2022, de 24 de junio de Bases Reguladoras): (NOTA: no 
 procede en proyectos de la línea H) 
 N.1 D/D.ª:  Con DNI/NIE nº  
 En el ejercicio de su cargo/función de:   
@@ -62717,7 +62718,7 @@ Pozuelo de Alarcón.
 El presente convenio estará vigente desde la fecha de su firma hasta el día 31 de agos-
 to de 2020.
 Este convenio podrá ser prorrogado, con las limitaciones temporales establecidas en el
-artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
+## Artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
 mediante la suscripción de adendas en las que podrán incluirse nuevos centros y servicios,
 y en las que se concretarán los compromisos y las aportaciones económicas que cada Admi-
 nistración asumirá durante el correspondiente curso escolar.
@@ -62832,7 +62833,7 @@ Pedrezuela.
 El presente convenio estará vigente desde la fecha de su firma hasta el día 31 de agos-
 to de 2020.
 Este convenio podrá ser prorrogado, con las limitaciones temporales establecidas en el
-artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
+## Artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público,
 mediante la suscripción de adendas en las que podrán incluirse nuevos centros y servicios,
 y en las que se concretarán los compromisos y las aportaciones económicas que cada Admi-
 nistración asumirá durante el correspondiente curso escolar.
@@ -63894,7 +63895,7 @@ Vigencia del convenio
 El presente convenio tendrá una vigencia de cuatro años a contar desde la fecha de su
 firma, salvo denuncia expresa de incumplimiento o resolución formulada por cualquiera de
 las partes, sin posibilidad de prórroga de los mismos, de acuerdo con lo establecido en el
-artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+## Artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 La finalización de la vigencia del convenio se entiende sin perjuicio de las actuaciones
 relativas a la justificación del mismo.
 Decimocuarta
@@ -65075,7 +65076,7 @@ firma, salvo denuncia expresa de incumplimiento o resolución formulada por cual
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1269
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 las partes, sin posibilidad de prórroga de los mismos, de acuerdo con lo establecido en el
-artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+## Artículo 49.h) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 La finalización de la vigencia del Convenio se entiende sin perjuicio de las actuacio-
 nes relativas a la justificación del mismo.
 Decimocuarta
@@ -66007,7 +66008,7 @@ j) Compra pública innovadora: No.
 3. Tramitación y procedimiento:
 a) Tramitación: Ordinaria.
 b) Procedimiento: Negociado sin publicidad, de conformidad con lo estipulado en el
-artículo 168.a) 2.
+## Artículo 168.a) 2.
 o de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector
 Público, por la que se transponen al ordenamiento jurídico español las Directivas
 del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febre-
@@ -67126,7 +67127,7 @@ la Ordenanza de Consumo de la Ciudad de Madrid de 30 de marzo de 2011, para señ
 la actuación del Consejo de Consumo se ajustará a lo previsto en su acuerdo de creación, en
 lugar de en su reglamento.
 La ordenanza se dicta en el ejercicio de la potestad de autoorganización prevista en el
-artículo 4.1.a) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local,
+## Artículo 4.1.a) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local,
 y al amparo de las competencias previstas en el artículo 25.2.a), b), j) y o), 69, 70 bis y 72 de
 esta Ley.
 III
@@ -67200,19 +67201,19 @@ de la Ciudad de Madrid y se regula su composición y funcionamiento.
 e) En materia de servicios a los ciudadanos:
 1.o Reglamento de Funcionamiento del Observatorio Municipal contra la Violen-
 cia de Género, de 23 de julio de 2004.
-## DISPOSICIÓN ADICIONAL ÚNICA
+## Disposición ADICIONAL ÚNICA
 Régimen de organización y funcionamiento de los registros. —En el plazo de un mes
 desde la entrada en vigor de esta ordenanza, la Junta de Gobierno, mediante acuerdo, esta-
 blecerá la organización y funcionamiento del Registro de Bienes Inmuebles sujetos a los
 Derechos de Tanteo y Retracto, y del Registro y Archivo de Convenios Urbanísticos.
-## DISPOSICIÓN TRANSITORIA ÚNICA
+## Disposición TRANSITORIA ÚNICA
 Régimen de los consejos sectoriales. —Los consejos sectoriales continuarán rigiéndo-
 se por los reglamentos previstos en la letra d) del artículo único, hasta la aprobación de los
 respectivos acuerdos de la Junta de Gobierno previstos en el artículo 55 del Reglamento Or-
 gánico de Participación Ciudadana, de 31 de mayo de 2004.
 En caso de no haberse aprobado dichos acuerdos antes del 1 de abril de 2024, los re-
 glamentos previstos en la letra d) del artículo único quedarán derogados en tal fecha.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Modificación del Reglamento Orgánico de Participación Ciudadana, de 31 de mayo
 de 2004. —El título IV del Reglamento Orgánico de Participación Ciudadana, de 31 de
 mayo de 2004, queda redactado en los siguientes términos:
@@ -67467,12 +67468,12 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Su composición, competencias y funcionamiento se regirán por la norma de carácter
 orgánico que apruebe el Pleno del Ayuntamiento y supletoriamente por lo previsto en la
 normativa reguladora de las bases del régimen local”.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Modificación de la Ordenanza de Consumo de la Ciudad de Madrid, de 30 de marzo
 de 2011.—En el artículo 53 de la Ordenanza de Consumo de la Ciudad de Madrid, de 30 de
 marzo de 2011, se modifica el apartado 2, que queda redactado en los siguientes términos:
 “2. Su actuación se ajustará a lo previsto en su acuerdo de creación”.
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 # Título Título
 organización prevista en el artículo 4.1.a) de la Ley 7/1985, de 2 de abril, Reguladora de las
 Bases del Régimen Local.
@@ -67502,12 +67503,12 @@ Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local; de la Ley
 de 11 de marzo, de Administración Local de la Comunidad de Madrid; y de la Ley 10/2019,
 de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid, que atri-
 buyen competencias a los municipios en materia de participación ciudadana.
-## DISPOSICIÓN FINAL CUARTA
+## Disposición FINAL CUARTA
 Creación de consejos sectoriales.—La Junta de Gobierno aprobará, antes del 1 de abril
 de 2024, los acuerdos de creación de los distintos consejos sectoriales a los que se refiere
 la letra d) del artículo único, conforme a lo previsto en el artículo 55 del Reglamento Orgá-
 nico de Participación Ciudadana, de 31 de mayo de 2004.
-## DISPOSICIÓN FINAL QUINTA
+## Disposición FINAL QUINTA
 Interpretación y desarrollo de la ordenanza. —El Alcalde y la Junta de Gobierno de-
 terminarán, en su ámbito competencial respectivo, el órgano superior o directivo competen-
 te para:
@@ -67518,7 +67519,7 @@ ter normativo.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1319
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL SEXTA
+## Disposición FINAL SEXTA
 Publicación, entrada en vigor y comunicación. —De conformidad con lo establecido
 en el artículo 48.3.e) y f), y en el 54 de la Ley 22/2006, de 4 de julio, de Capitalidad y de
 Régimen Especial de Madrid, la publicación, entrada en vigor y comunicación de la presen-
@@ -68238,16 +68239,16 @@ cional y legal, transacción.
 al disolverse.
 — Actos de constitución y transmisión de derechos reales, tales como usufructos,
 censos, usos y habitación, derechos de superficie.
-Art. 2.—Tendrá la consideración de terreno de naturaleza urbana aquel que está recogi-
+## Artículo 2.—Tendrá la consideración de terreno de naturaleza urbana aquel que está recogi-
 do como tal en el artículo 7 del texto refundido de la Ley de Catastro Inmobiliario, aprobado
 por Real Decreto Legislativo 1/2004, de 5 de marzo, conjuntamente con lo establecido en el
-artículo 14 de la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid.
+## Artículo 14 de la Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid.
 Se entenderá realizada esta revisión a la normativa de Catastro y Ley de Suelo que se
 encuentre en vigor en cada momento.
 La condición de terreno urbano se tendrá en cuenta en el momento del devengo, es de-
 cir, cuando se efectúe la transmisión, independientemente de la situación habida durante el
 período de generación del incremento de valor.
-Art. 3. Supuestos de no sujeción. —1. No están sujetos a este impuesto el incre-
+## Artículo 3. Supuestos de no sujeción. —1. No están sujetos a este impuesto el incre-
 mento del valor que experimenten los terrenos que tengan la consideración de rústicos a
 efectos del Impuesto sobre Bienes Inmuebles.
 2. No se producirá la sujeción al impuesto en los supuestos de aportaciones de bie-
@@ -68330,7 +68331,7 @@ cláusula o en la disposición adicional segunda de la Ley 27/2017, de 27 de nov
 puesto sobre Sociedades.
 ### Capítulo Capítulo
 Exenciones
-Art. 4. Exenciones objetivas. —Están exentos de este impuesto los incrementos de
+## Artículo 4. Exenciones objetivas. —Están exentos de este impuesto los incrementos de
 valor que se manifiesten como consecuencia de los siguientes actos:
 a) La constitución y transmisión de derechos de servidumbre.
 b) Las transmisiones de bienes que se encuentren dentro del perímetro delimitado
@@ -68364,7 +68365,7 @@ La concurrencia de los requisitos se circunscribe y se acreditará por el transm
 ante esta corporación conforme a lo previsto en el artículo 105.1 c) del texto refundido de
 la Ley Reguladora de Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004,
 de 5 de marzo.
-Art. 5. Exenciones subjetivas.—Asimismo, estarán exentos de este impuesto los co-
+## Artículo 5. Exenciones subjetivas.—Asimismo, estarán exentos de este impuesto los co-
 rrespondientes incrementos de valor cuando la obligación de satisfacer aquel recaiga sobre
 las siguientes personas o entidades:
 a) El Estado, las Comunidades Autónomas y las Entidades Locales a las que perte-
@@ -68387,7 +68388,7 @@ g) Las personas o entidades a cuyo favor se haya reconocido la exención en Trat
 o Convenios Internacionales.
 ### Capítulo Capítulo
 Sujetos pasivos
-Art. 6.—1. Tendrán la c ondición de sujetos pasivos, en concepto de contribuyente:
+## Artículo 6.—1. Tendrán la c ondición de sujetos pasivos, en concepto de contribuyente:
 a) En las transmisiones de terrenos o en la constitución o transmisión de derechos
 reales de goce limitativos del dominio a título lucrativo, la persona física o jurídi-
 ca, o la herencia yacente, comunidad de bienes y demás entidades que, carentes de
@@ -68408,7 +68409,7 @@ separado susceptible de imposición, que adquiera el terreno o a cuyo favor se c
 transmita el derecho real de que se trate.
 ### Capítulo Capítulo
 Base imponible
-Art. 7.—1. La base imponible de este Impuesto está constituida por el incremento
+## Artículo 7.—1. La base imponible de este Impuesto está constituida por el incremento
 del valor de los terrenos de naturaleza urbana puesto de manifiesto en el momento del de-
 vengo y experimentado a lo largo de un período máximo de veinte años.
 2. La base imponible será el resultado de multiplicar el valor del terreno en el mo-
@@ -68466,7 +68467,7 @@ El valor catastral reducido, en ningún caso, podrá ser inferior al valor catas
 rreno antes del procedimiento de valoración colectiva.
 4. Determinado el valor del terreno, se aplicará sobre el mismo el coeficiente que co-
 rresponda al período de generación.
-Art. 8.—1. El período de generación del incremento de valor será el número de años
+## Artículo 8.—1. El período de generación del incremento de valor será el número de años
 a lo largo de los cuales se haya puesto de manifiesto dicho incremento, las que se generen
 en un período superior a 20 años se entenderán generadas, en todo caso, a los 20 años.
 En el cómputo del número de años transcurridos se tomarán años completos, sin tener
@@ -68511,9 +68512,9 @@ chas operaciones.
 Deuda tributaria
 SECCIÓN PRIMERA
 Cuota tributaria
-Art. 9.—La cuota de este impuesto será la resultante de aplicar a la base imponible el
+## Artículo 9.—La cuota de este impuesto será la resultante de aplicar a la base imponible el
 tipo de gravamen del 15 por 100.
-Art. 10. Bonificaciones.—1. Se establece una bonificación del 95 por 100 de la
+## Artículo 10. Bonificaciones.—1. Se establece una bonificación del 95 por 100 de la
 cuota íntegra del Impuesto, en las transmisiones de terrenos, y en la transmisión o constitu-
 ción de derechos reales de goce limitativos de dominio, realizadas a título lucrativo por cau-
 sa de muerte a favor de los descendientes y adoptados, los cónyuges y los ascendientes y
@@ -68549,7 +68550,7 @@ MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1343
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ### Capítulo Capítulo
 Devengo
-Art. 11.—1. El impuesto se devenga:
+## Artículo 11.—1. El impuesto se devenga:
 a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o gratuito, in-
 ter vivos o por causa de muerte, en la fecha de la transmisión.
 b) Cuando se constituya o transmita cualquier derecho real de goce limitativo del do-
@@ -68567,7 +68568,7 @@ f) En el caso de adjudicación de solares que se efectúen por Entidades urbaní
 favor de titulares de derechos o unidades de aprovechamiento distintos de los pro-
 pietarios originariamente aportantes de los terrenos, la protocolización del Acta de
 reparcelación.
-Art. 12.—1. Cuando se d eclare o reconozca judicial, o administrativamente por reso-
+## Artículo 12.—1. Cuando se d eclare o reconozca judicial, o administrativamente por reso-
 lución firme haber tenido lugar la nulidad, rescisión o resolución del acto o contrato determi-
 nante de la transmisión del terreno o de la constitución o transmisión del derecho real de goce
 sobre el mismo, el sujeto pasivo tendrá derecho a la devolución del impuesto satisfecho, siem-
@@ -68590,7 +68591,7 @@ la regla del apartado 1 anterior.
 Gestión del impuesto
 SECCIÓN PRIMERA
 Obligaciones materiales y formales
-Art. 13.—1. Los sujetos pasivos vendrán obligados a presentar ante este Ayun-
+## Artículo 13.—1. Los sujetos pasivos vendrán obligados a presentar ante este Ayun-
 tamiento declaración según el modelo determinado por el mismo que contendrá los elemen-
 tos de la relación tributaria imprescindibles para practicar la liquidación procedente.
 Están igualmente obligados a comunicar al Ayuntamiento la realización del hecho im-
@@ -68614,7 +68615,7 @@ contratos que originan la imposición.
 4. Presentada la declaración, las liquidaciones del impuesto se notificarán íntegra-
 mente a los sujetos pasivos con indicación del plazo de ingreso y expresión de los recursos
 procedentes.
-Art. 14.—Los notarios remitirán al Ayuntamiento dentro de la primera quincena de
+## Artículo 14.—Los notarios remitirán al Ayuntamiento dentro de la primera quincena de
 cada trimestre, relación o índice comprensivo de todos los documentos por ellos autoriza-
 dos en el trimestre anterior, en los que se contengan hechos, actos o negocios jurídicos que
 pongan de manifiesto la realización del hecho imponible de este impuesto, con excepción
@@ -68630,22 +68631,22 @@ Los notarios advertirán expresamente a los comparecientes en los documentos que
 toricen sobre el plazo dentro del cual están obligados los interesados a presentar declara-
 ción por el impuesto y, asimismo, sobre las responsabilidades en que incurran por la falta
 de presentación de declaraciones.
-Art. 15.—Este Ayuntamiento, como administración tributaria, podrá, por cualquiera
+## Artículo 15.—Este Ayuntamiento, como administración tributaria, podrá, por cualquiera
 de los medios previstos en el artículo 57 de la Ley 58/2003, de 17 de diciembre, General
 Tributaria, comprobar el valor de los elementos del hecho imponible.
 SECCIÓN SEGUNDA
 Inspección y recaudación
-Art. 16.—La inspección y recaudación del impuesto se realizarán de acuerdo con lo
+## Artículo 16.—La inspección y recaudación del impuesto se realizarán de acuerdo con lo
 prevenido en la Ley General Tributaria y en las demás leyes del Estado reguladoras de la
 materia, así como en las disposiciones dictadas para su desarrollo, así como a la Ordenan-
 za general de gestión, recaudación e inspección.
 SECCIÓN TERCERA
 Infracciones y sanciones
-Art. 17.—En todo lo relativo a la calificación de las infracciones tributarias, así como
+## Artículo 17.—En todo lo relativo a la calificación de las infracciones tributarias, así como
 a la determinación de las sanciones que por las mismas correspondan en cada caso, se apli-
 cará el régimen regulado en la Ley General Tributaria y en las disposiciones que la comple-
 mentan y desarrollan.
-## DISPOSICIÓN DEROGATORIA
+## Disposición DEROGATORIA
 Queda derogada, a la entrada en vigor de la presente Ordenanza, la anterior Ordenanza
 Fiscal Reguladora del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza
 Urbana, aprobada definitivamente por el Pleno de la Corporación en sesión ordinaria de 5 de
@@ -68657,7 +68658,7 @@ cuanto se opongan o contradigan el contenido de la misma.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1345
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-## DISPOSICIÓN FINAL
+## Disposición FINAL
 En lo no previsto en la presente Ordenanza, serán de aplicación subsidiariamente lo
 previsto en el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por
 Real Decreto Legislativo 2/2004, de 5 de marzo, en la Ley de Presupuestos Generales del
@@ -68713,7 +68714,7 @@ do de aprobación inicial de Ordenanza Fiscal Reguladora del Impuesto del Increm
 Valor de Terrenos de Naturaleza Urbana (expediente 306/2022) adoptado en sesión ordina-
 ria del Pleno del Ayuntamiento de Griñón de 3 de marzo de 2022, y cuyo texto íntegro se
 publica en Anexo, para su general conocimiento y en cumplimiento de lo dispuesto en el
-artículo 70.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.
+## Artículo 70.2 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.
 ANEXO
 ORDENANZA FISCAL REGULADORA DEL IMPUESTO
 SOBRE EL INCREMENTO DE VALOR DE LOS TERRENOS
@@ -68728,13 +68729,13 @@ puesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, que se
 por la presente Ordenanza fiscal, elaborada con arreglo a las normas generales del impues-
 to contempladas en los artículos 104 a 110 del citado texto refundido de la Ley Regulado-
 ra de las Haciendas Locales.
-Art. 2. Ámbito de aplicación.—La presente Ordenanza fiscal reguladora del Impues-
+## Artículo 2. Ámbito de aplicación.—La presente Ordenanza fiscal reguladora del Impues-
 to sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana será de aplicación a
 todo el término municipal.
-Art. 3. Naturaleza tributaria.—El Impuesto sobre el Incremento de Valor de los Te-
+## Artículo 3. Naturaleza tributaria.—El Impuesto sobre el Incremento de Valor de los Te-
 rrenos de Naturaleza Urbana es un tributo directo, de exacción potestativa en las adminis-
 traciones locales y que no tiene carácter periódico.
-Art. 4. Hecho imponible.—Constituye el hecho imponible de este impuesto, el incre-
+## Artículo 4. Hecho imponible.—Constituye el hecho imponible de este impuesto, el incre-
 mento de valor que experimenten los terrenos que deban tener la consideración de urbanos,
 a efectos del Impuesto de Bienes Inmuebles.
 Estará asimismo sujeto a este impuesto, el incremento de valor que experimenten los
@@ -68760,7 +68761,7 @@ cional y legal, transacción
 al disolverse.
 — Actos de constitución y transmisión de derechos reales, tales como usufructos,
 censos, usos y habitación, derechos de superficie.
-Art. 5. Terrenos de naturaleza urbana. —La clasificación del suelo se recoge en el
+## Artículo 5. Terrenos de naturaleza urbana. —La clasificación del suelo se recoge en el
 texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislati-
 vo 1/2004, de 5 de marzo.
 A tales efectos, tendrán la consideración de terrenos de naturaleza urbana:
@@ -68785,7 +68786,7 @@ establezca la legislación urbanística.
 La condición de terreno urbano se tendrá en cuenta en el momento del devengo, es de-
 cir, cuando se efectúe la transmisión, independientemente de la situación habida durante el
 período de generación del incremento de valor.
-Art. 6. Supuestos de no sujeción. —1. No está sujeto a este Impuesto el incremen-
+## Artículo 6. Supuestos de no sujeción. —1. No está sujeto a este Impuesto el incremen-
 to de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos
 del Impuesto sobre Bienes Inmuebles.
 2. No se producirá la sujeción al Impuesto en los supuestos de aportaciones de bie-
@@ -68867,7 +68868,7 @@ Lo dispuesto en este párrafo no será de aplicación en los supuestos de aporta
 misiones de bienes inmuebles que resulten no sujetas en virtud de lo dispuesto en el apar-
 tado 2 de esta cláusula o en la disposición adicional segunda de la Ley 27/2014, de 27 de
 noviembre, del Impuesto sobre Sociedades.
-Art. 7. Exenciones objetivas. —Están exentos de este impuesto los incrementos de
+## Artículo 7. Exenciones objetivas. —Están exentos de este impuesto los incrementos de
 valor que se manifiesten a consecuencia de los actos siguientes:
 a) La constitución y transmisión de cualesquiera derechos de servidumbre.
 b) Las transmisiones de bienes que se encuentren dentro del perímetro delimitado
@@ -68900,7 +68901,7 @@ monio. A estos efectos, se equiparará el matrimonio con la pareja de hecho lega
 La concurrencia de los requisitos se circunscribe y se acreditará por el transmitente ante
 esta corporación conforme a lo previsto en el artículo 105.1 c) del texto refundido de la Ley re-
 guladora de Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo.
-Art. 8. Exenciones subjetivas.—Asimismo, están exentos de este impuesto los incre-
+## Artículo 8. Exenciones subjetivas.—Asimismo, están exentos de este impuesto los incre-
 mentos de valor correspondientes cuando la obligación de satisfacer dicho Impuesto recai-
 ga sobre las siguientes personas o Entidades:
 a) El Estado, las Comunidades Autónomas y las Entidades Locales a las que perte-
@@ -68919,7 +68920,7 @@ afectos a las mismas.
 f) La Cruz Roja Española.
 g) Las personas o Entidades a cuyo favor se haya reconocido la exención en Tratados
 o Convenios Internacionales.
-Art. 9. Sujetos pasivos.—1. Tendrán la condición de sujetos pasivos, en concepto
+## Artículo 9. Sujetos pasivos.—1. Tendrán la condición de sujetos pasivos, en concepto
 de contribuyente:
 a) En las transmisiones de terrenos o en la constitución o transmisión de derechos
 reales de goce limitativos del dominio a título lucrativo, la persona física o jurídi-
@@ -68939,10 +68940,10 @@ En estos supuestos, cuando el sujeto pasivo sea una persona física no residente
 ña, será sujeto pasivo sustituto la persona física o jurídica, o la herencia yacente, comunidad
 de bienes y demás entidad que, carente de personalidad jurídica, que adquiera el terreno o a
 cuyo favor se constituya o transmita el derecho real de que se trate.
-Art. 10. Base imponible.—La base imponible de este Impuesto está constituida por
+## Artículo 10. Base imponible.—La base imponible de este Impuesto está constituida por
 el incremento del valor de los terrenos de naturaleza urbana puesto de manifiesto en el mo-
 mento del devengo y experimentado a lo largo de un período máximo de veinte años.
-Art. 11. Cálculo de la base imponible. —1. La base imponible de este impuesto
+## Artículo 11. Cálculo de la base imponible. —1. La base imponible de este impuesto
 será el resultado de multiplicar el valor del terreno en el momento del devengo por el coe-
 ficiente que corresponda al período de generación conforme a los coeficientes previstos en
 el 107.4 del texto refundido de la Ley Reguladora de Haciendas Locales, aprobado por Real
@@ -69048,19 +69049,19 @@ El requerimiento del obligado tributario solicitando el cálculo de la base impo
 datos reales deberá efectuarse aportando la documentación señalada y al tiempo de presentar
 la declaración o, en su defecto, durante el período previsto en la legislación para plantear re-
 curso de reposición de la misma.
-Art. 12. Tipo de gravamen. Cuota íntegra y cuota líquida. —El tipo de gravamen del
+## Artículo 12. Tipo de gravamen. Cuota íntegra y cuota líquida. —El tipo de gravamen del
 impuesto será 26 por 100.
 La cuota íntegra del impuesto será el resultado de aplicar a la base imponible el tipo
 de gravamen.
 La cuota líquida del impuesto será el resultado de aplicar sobre la cuota íntegra, en su
 caso, las bonificaciones a que se refiere el artículo 8 de la presente Ordenanza.
-Art. 13. Bonificaciones.—Se establece una bonificación de 85 por 100 de la cuota ín-
+## Artículo 13. Bonificaciones.—Se establece una bonificación de 85 por 100 de la cuota ín-
 tegra del Impuesto, en las transmisiones de terrenos, y en la transmisión o constitución de
 MARTES 26 DE JULIO DE 2022Pág. 1352 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Derechos Reales de goce limitativos del dominio, realizadas a título lucrativo por causa de
 muerte a favor de los descendientes y adoptados, los cónyuges y los ascendientes y adoptantes.
-Art. 14. Devengo del impuesto.—El impuesto se devenga:
+## Artículo 14. Devengo del impuesto.—El impuesto se devenga:
 a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o gratuito, ín-
 ter vivos o mortis causa, en la fecha de la transmisión.
 b) Cuando se constituya o transmita cualquier derecho real de goce limitativo del do-
@@ -69077,7 +69078,7 @@ f) En el caso de adjudicación de solares que se efectúen por Entidades urbaní
 favor de titulares de derechos o unidades de aprovechamiento distintos de los pro-
 pietarios originariamente aportantes de los terrenos, la protocolización del Acta de
 reparcelación.
-Art. 15. Gestión del impuesto.—1. Los sujetos vendrán obligados a presentar ante
+## Artículo 15. Gestión del impuesto.—1. Los sujetos vendrán obligados a presentar ante
 el Ayuntamiento la correspondiente declaración, según modelo normalizado determinado
 por el mismo.
 Están igualmente obligados a comunicar al Ayuntamiento la realización del hecho im-
@@ -69103,7 +69104,7 @@ rrespondiente al último ejercicio.
 — En caso de transmisiones lucrativas, recibo del Impuesto de Sucesiones y Donaciones.
 Presentada la declaración, las liquidaciones del impuesto se notificarán íntegramente a los
 sujetos pasivos con indicación del plazo de ingreso y expresión de los recursos procedentes.
-Art. 16. Información notarial.—Los notarios remitirán al Ayuntamiento dentro de la
+## Artículo 16. Información notarial.—Los notarios remitirán al Ayuntamiento dentro de la
 primera quincena de cada trimestre, relación o índice comprensivo de todos los documen-
 tos por ellos autorizados en el trimestre anterior, en los que se contengan hechos, actos o
 negocios jurídicos que pongan de manifiesto la realización del hecho imponible de este Im-
@@ -69122,7 +69123,7 @@ Los notarios advertirán expresamente a los comparecientes en los documentos que
 toricen sobre el plazo dentro del cual están obligados los interesados a presentar declara-
 ción por el impuesto y, asimismo, sobre las responsabilidades en que incurran por la falta
 de presentación de declaraciones.
-## DISPOSICIÓN FINAL
+## Disposición FINAL
 La presente Ordenanza Fiscal entrará en vigor en el momento de su publicación ínte-
 gra en el B
 OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, permaneciendo en vigor has-
@@ -69476,7 +69477,7 @@ lo previsto en la Constitución y las Leyes.
 2. Las obligaciones de publicidad activa y los derechos de información pública de la
 ciudadanía no son objeto de regulación en este Reglamento, rigiéndose por su normativa
 específica.
-Art. 2. Ámbito de aplicación.— 1. El ámbito de aplicación de este Reglamento, en
+## Artículo 2. Ámbito de aplicación.— 1. El ámbito de aplicación de este Reglamento, en
 los términos establecidos en cada caso, incluye a los ciudadanos y ciudadanas, vecinos y
 vecinas del municipio de Parla, así como a las entidades ciudadanas domiciliadas y acredi-
 tadas en el mismo.
@@ -69492,10 +69493,10 @@ legación en el municipio de Parla y que se encuentren inscritas en el registro 
 visto en este Reglamento. Además, se regula la figura del colectivo ciudadano, entendido
 como grupo de personas que, aun sin estar constituidas formalmente como asociación, de-
 fienden intereses generales o sectoriales del Municipio.
-Art. 3. Finalidad.—El Ayuntamiento de Parla, a través de este Reglamento, persigue
+## Artículo 3. Finalidad.—El Ayuntamiento de Parla, a través de este Reglamento, persigue
 los siguientes objetivos, que servirán, en su caso, como criterios de actuación:
 a) El desarrollo efectivo de la participación ciudadana con arreglo a lo previsto en los
-artículos 9.2 y 23.1 de la Constitución.
+## Artículo 9.2 y 23.1 de la Constitución.
 b) Impulsar la participación de los ciudadanos en los asuntos públicos, estableciendo
 nuevas vías de participación, que garanticen el desarrollo de la democracia parti-
 cipativa, el gobierno abierto y la eficacia de la acción pública.
@@ -69519,19 +69520,19 @@ que persigan mejorar el interés general.
 j) Garantizar que las formas y medios de participación ciudadana lleguen a todas las
 personas y entidades, con independencia de su condición personal, económica,
 social y/o cultural.
-Art. 4. Carácter consultivo.— Todos los medios de participación regulados en este
+## Artículo 4. Carácter consultivo.— Todos los medios de participación regulados en este
 Reglamento tienen carácter consultivo de acuerdo con lo dispuesto en el artículo 69.2 de la
 LRBRL, sin perjuicio de lo cual y, con carácter previo a la realización de cualquier acción
 de participación, el órgano municipal competente para resolver podrá declarar su adhesión
 a los resultados surgidos de cualquiera de estos procesos de participación.
-Art. 5. Universalidad.—El Ayuntamiento adoptará las medidas adecuadas a fin de
+## Artículo 5. Universalidad.—El Ayuntamiento adoptará las medidas adecuadas a fin de
 garantizar la efectiva participación de las personas incluidas en colectivos con dificultades
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1365
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 especiales en atención a su condición individual o social, así como la máxima pluralidad y
 diversidad en la participación y la efectiva igualdad de género en órganos, medios y dere-
 chos regulados en este Reglamento.
-Art. 6. Uso de medios electrónicos.— 1. El Ayuntamiento impulsará la utilización
+## Artículo 6. Uso de medios electrónicos.— 1. El Ayuntamiento impulsará la utilización
 interactiva de las tecnologías de la información y la comunicación para facilitar la partici-
 pación de los vecinos.
 2. Se adoptarán las medidas necesarias que garanticen el derecho de la ciudadanía y
@@ -69543,7 +69544,7 @@ Derechos de participación ciudadana
 ### Capítulo Capítulo
 o
 El Derecho de Petición
-Art. 7. El Derecho de petición.— Toda persona natural o jurídica, de forma indivi-
+## Artículo 7. El Derecho de petición.— Toda persona natural o jurídica, de forma indivi-
 dual o colectiva, podrá ejercer el derecho de petición sobre cualquier asunto o materia de
 competencia del Municipio, con independencia de que afecten exclusivamente al o los pe-
 ticionarios o sean de interés colectivo o general, de conformidad y en los términos y condi-
@@ -69552,12 +69553,12 @@ de Petición.
 ### Capítulo Capítulo
 o
 El derecho a formular quejas, reclamaciones y sugerencias
-Art. 8. Derecho a presentar quejas, reclamaciones y sugerencias.— Toda persona,
+## Artículo 8. Derecho a presentar quejas, reclamaciones y sugerencias.— Toda persona,
 natural o jurídica, de forma individual o colectiva, podrá presentar ante el Ayuntamiento
 quejas, felicitaciones, reclamaciones y sugerencias respecto de cualquier actividad o servi-
 cio de competencia municipal, sin perjuicio del derecho a interponer los recursos adminis-
 trativos o jurisdiccionales pertinentes.
-Art. 9. Medios para presentar quejas, felicitaciones, reclamaciones y sugerencias.—1.
+## Artículo 9. Medios para presentar quejas, felicitaciones, reclamaciones y sugerencias.—1.
 El Ayuntamiento ofrecerá canales tanto telemáticos como presenciales para la presentación
 de quejas, felicitaciones, sugerencias y reclamaciones relativas a las actividades y servicios
 de su competencia, tanto con carácter general como con carácter sectorial para ámbitos es-
@@ -69571,7 +69572,7 @@ ca y presencial.
 4. Los sistemas de presentación de quejas, felicitaciones, sugerencias y reclamacio-
 nes deberán identificar la autoría de las mismas, así como el medio electrónico o presencial
 para darles respuesta.
-Art. 10. Gestión y contestación.— 1. El Ayuntamiento dejará constancia de la re-
+## Artículo 10. Gestión y contestación.— 1. El Ayuntamiento dejará constancia de la re-
 cepción de la queja, felicitación, reclamación y sugerencia y procederá a su contestación o
 tramitación. No obstante, se inadmitirán a trámite en los siguientes supuestos:
 a) Falta de dirección y medio para el contacto con el reclamante.
@@ -69591,7 +69592,7 @@ ciencias u omisiones, se podrá requerir al reclamante para que proceda a la sub
 mejora en plazo de diez días.
 5. La contestación o inadmisión de las quejas, felicitaciones, sugerencias y reclama-
 ciones se deberá realizar en plazo máximo de un mes desde su recepción.
-Art. 11. Análisis e informe anual.—1. El Ayuntamiento realizará un informe anual
+## Artículo 11. Análisis e informe anual.—1. El Ayuntamiento realizará un informe anual
 que recoja el número, tipología, características y tratamiento otorgado al conjunto de las
 quejas, felicitaciones, reclamaciones y sugerencias recibidas por cualquiera de los canales
 existentes con análisis de posibles causas, medidas adoptadas y recomendaciones para la
@@ -69605,7 +69606,7 @@ semestre del ejercicio siguiente, tras el cual se publicará íntegramente en la
 ### Capítulo Capítulo
 o
 El derecho de propuesta ciudadana
-Art. 12. La propuesta ciudadana.—1. La propuesta ciudadana es aquella forma de
+## Artículo 12. La propuesta ciudadana.—1. La propuesta ciudadana es aquella forma de
 participación mediante la cual cualquier persona natural o jurídica de las indicadas en el
 artículo siguiente, puede dirigirse al Ayuntamiento para trasladar propuestas de actuación
 de competencia e interés público municipal, con el objeto de que se lleve a cabo. La pro-
@@ -69614,13 +69615,13 @@ de los canales digitales del Ayuntamiento y, en ella se ha de describir de forma
 consiste y los motivos que la justifican o aconsejan.
 2. No se admitirán propuestas que se limiten a defender derecho o intereses indivi-
 duales o colectivos pero que sean ajenos al interés público local.
-Art. 13. Promotores de la propuesta.— Los promotores de propuestas pueden ser:
+## Artículo 13. Promotores de la propuesta.— Los promotores de propuestas pueden ser:
 a) Cualquier persona mayor de 16 años inscrita en el padrón municipal.
 b) Cualquier entidad ciudadana inscrita en el Registro de Entidades Ciudadanas.
 c) Cualquier asociación empresarial, sindicato o colegio profesional que desarrolle
 actividades en el ámbito municipal.
 d) Cualquier conjunto de vecinos.
-Art. 14. Recepción de apoyos a las propuestas.— 1. Las propuestas, una vez pre-
+## Artículo 14. Recepción de apoyos a las propuestas.— 1. Las propuestas, una vez pre-
 sentadas, y en una primera fase de tratamiento, quedan abiertas a la recepción de apoyos
 por parte de los vecinos y vecinas mayores de dieciséis años.
 2. El apoyo a la propuesta consiste en la manifestación de la conformidad con la ac-
@@ -69632,7 +69633,7 @@ dades, verificará la identidad de las personas con relación de vecindad que ot
 4. Cuando una propuesta alcance un número de apoyos equivalente al 1 por 100 del
 número de vecinos mayores de dieciséis años, será considerada propuesta colectiva, pasan-
 do a la segunda fase.
-Art. 15. Elevación a propuesta colectiva y resolución.— 1. En la segunda fase, el
+## Artículo 15. Elevación a propuesta colectiva y resolución.— 1. En la segunda fase, el
 proponente podrá plantear la propuesta al resto de la ciudadanía a través de los medios fí-
 sicos o telemáticos que el Ayuntamiento ponga a su disposición al objeto de que durante
 quince días puedan presentarse cuantas alegaciones a la misma se estimen oportunas.
@@ -69655,7 +69656,7 @@ razones de interés público local.
 ### Capítulo Capítulo
 o
 La iniciativa popular
-Art. 16. La iniciativa popular.—1. Los vecinos y vecinas que gocen de derecho de
+## Artículo 16. La iniciativa popular.—1. Los vecinos y vecinas que gocen de derecho de
 sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presen-
 tando propuestas de acuerdos, actuaciones o proyectos de reglamentos en materias de com-
 petencia municipal, en los términos regulados en el artículo 70 bis de la LRBRL de 2 de
@@ -69669,7 +69670,7 @@ caso de ser aprobada, se llevará a cabo en los términos establecidos en la reg
 misma.
 4. El Ayuntamiento facilitará la recogida de firmas de las iniciativas populares con
 los recursos municipales de referencia.
-Art. 17. Tramitación y resolución.—1. Las iniciativas deberán ser sometidas a de-
+## Artículo 17. Tramitación y resolución.—1. Las iniciativas deberán ser sometidas a de-
 bate y votación en el Pleno en un plazo máximo de treinta días a contar desde su presenta-
 ción, sin perjuicio de que sean resueltas por el órgano competente por razón de la materia.
 En caso de que incorporen una propuesta de consulta popular local, el acuerdo relativo a la
@@ -69680,7 +69681,7 @@ meses, a contar desde su presentación suscrita por el número de vecinos corres
 ### Capítulo Capítulo
 o
 El derecho a intervenir en los Plenos
-Art. 18. Proposiciones de entidades declaradas de utilidad pública.— 1. Las enti-
+## Artículo 18. Proposiciones de entidades declaradas de utilidad pública.— 1. Las enti-
 dades ciudadanas declaradas de Utilidad Pública Municipal, podrán solicitar la incorporación
 de una proposición en el orden del día de la siguiente sesión ordinaria del Pleno, siempre que
 sea de competencia del citado órgano, a través del Consejo Territorial o Sectorial corres-
@@ -69691,14 +69692,14 @@ de la convocatoria del Pleno ordinario en el que se pretenda tratar.
 3. La entidad ciudadana proponente podrá exponer a través de un único representan-
 te su parecer durante el tiempo que señala la Alcaldía, con anterioridad a la lectura, debate
 y votación de la propuesta incluida en el orden del día.
-Art. 19. Intervenciones de entidades declaradas de utilidad pública en Comisiones
+## Artículo 19. Intervenciones de entidades declaradas de utilidad pública en Comisiones
 Informativas.—1. Los representantes legales de las entidades ciudadanas declaradas de
 Utilidad Pública Municipal, podrán asistir a Comisiones Informativas, convocadas por la
 Presidencia, o a petición de aquellas, para dar su opinión sobre temas concretos de compe-
 tencia de la correspondiente Comisión.
 2. Los representantes legales que asistan a estas Comisiones lo harán con voz y sin
 voto.
-Art. 20. Turno de ruegos y preguntas para el público asistente.— 1. Toda persona
+## Artículo 20. Turno de ruegos y preguntas para el público asistente.— 1. Toda persona
 natural o jurídica puede solicitar intervenir en los plenos ordinarios del Ayuntamiento.
 2. Las solicitudes de intervención han de ser registradas con cuatro días de antela-
 ción a la celebración del Pleno y detallará el asunto a tratar que será de competencia muni-
@@ -69711,13 +69712,13 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 Instrumentos locales de participación
 ### Capítulo Capítulo
 La consulta popular
-Art. 21. La consulta popular.— La Alcaldía, de conformidad con la legislación del
+## Artículo 21. La consulta popular.— La Alcaldía, de conformidad con la legislación del
 Estado y de la Comunidad Autónoma, cuando ésta tenga competencia estatutariamente atri-
 buida para ello, previo acuerdo por mayoría absoluta del Pleno y autorización del Gobierno
 de la Nación, podrá someter a consulta popular aquellos asuntos de la competencia propia
 municipal que sean de especial relevancia para los intereses de los vecinos y las vecinas,
 con excepción de los relativos a la Hacienda local.
-Art. 22. Tramitación.—1. Cuando la iniciación del procedimiento sea consecuen-
+## Artículo 22. Tramitación.—1. Cuando la iniciación del procedimiento sea consecuen-
 cia de una solicitud vecinal incluida en una iniciativa popular, corresponde a la Alcaldía la
 adopción de las medidas procedentes en orden a la comprobación de los requisitos de la ini-
 ciativa, cuya certificación corresponderá a la Secretaría de la Corporación.
@@ -69744,7 +69745,7 @@ sión de la Administración electoral.
 ### Capítulo Capítulo
 o
 Otras consultas ciudadanas
-Art. 23. Definición.—1. Cuando el interés local así lo aconseje, la Alcaldía, de ofi-
+## Artículo 23. Definición.—1. Cuando el interés local así lo aconseje, la Alcaldía, de ofi-
 cio o a propuesta del Consejo Social del Municipio, un Consejo Territorial de Participación,
 un tercio del número legal de miembros de la Corporación o un grupo de ciudadanos o
 ciudadanas, podrá recabar la opinión de la ciudadanía, bien en un determinado ámbito te-
@@ -69753,14 +69754,14 @@ teresados, sobre actuaciones o políticas públicas de competencia municipal.
 2. En el caso de que la iniciativa corresponda a la ciudadanía, la propuesta deberá ir
 suscrita por el diez por ciento de los vecinos censados en el ámbito territorial o afectado por
 el ámbito sectorial de la consulta.
-Art. 24. Legitimados.—Podrán votar en estas consultas las personas mayores de die-
+## Artículo 24. Legitimados.—Podrán votar en estas consultas las personas mayores de die-
 ciséis años inscritas en el padrón del municipio en el ámbito territorial o grupo de interesa-
 dos correspondiente.
-Art. 25. Objeto.—No podrán ser objeto de consulta las preguntas que no sean de
+## Artículo 25. Objeto.—No podrán ser objeto de consulta las preguntas que no sean de
 competencia municipal, puedan afectar, limitar o restringir los derechos y las libertades
 fundamentales de la sección primera del capítulo II del título I de la Constitución ni a asun-
 tos relativos a la Hacienda Local.
-Art. 26. Convocatoria y campaña informativa.— 1. La convocatoria tendrá el si-
+## Artículo 26. Convocatoria y campaña informativa.— 1. La convocatoria tendrá el si-
 guiente contenido mínimo:
 a) Pregunta o preguntas sometidas a votación.
 b) Campaña informativa indicando plazos y medios de información sobre las dife-
@@ -69782,19 +69783,19 @@ entre las diferentes posiciones interesadas.
 4. El Ayuntamiento publicará a través de medios electrónicos los informes técnicos
 asociados a los temas de consulta, la agenda de eventos sobre la iniciativa y los informes de
 seguimiento e incidencias del proceso.
-Art. 27. Votación.—1. La votación se realizará preferentemente por medios elec-
+## Artículo 27. Votación.—1. La votación se realizará preferentemente por medios elec-
 trónicos, admitiéndose, asimismo, la votación presencial en los lugares que así se determi-
 ne en la convocatoria.
 2. Los procedimientos y sistemas de voto garantizarán la identificación de los votan-
 tes y así como que cada votante solo pueda realizarlo una vez y la segregación entre votan-
 te y sentido del voto.
-Art. 28. Comisión de Seguimiento.—1. Es el órgano responsable de velar por la im-
+## Artículo 28. Comisión de Seguimiento.—1. Es el órgano responsable de velar por la im-
 parcialidad, transparencia y eficacia del proceso de consulta. El acuerdo de convocatoria
 deberá prever su constitución e incorporará a personas responsables del Ayuntamiento y
 representantes de las entidades territoriales o sectoriales interesadas y de los solicitantes.
 2. Estará formado por un número impar de personas con un mínimo de cinco, sien-
 do la mayoría representantes municipales.
-Art. 29. Escrutinio y publicación de los resultados.— 1. Finalizado el período de
+## Artículo 29. Escrutinio y publicación de los resultados.— 1. Finalizado el período de
 votación, el Ayuntamiento llevará a cabo el escrutinio, procediendo a su publicación en la
 web municipal y tablón de edictos municipal en plazo máximo de cinco días.
 2. El resultado será trasladado, asimismo, a los órganos locales competentes por ra-
@@ -69803,7 +69804,7 @@ adoptar acuerdo al respecto en el plazo máximo de tres meses.
 ### Capítulo Capítulo
 o
 La audiencia pública
-Art. 30. La audiencia pública.—En cuestiones especialmente significativas de la ac-
+## Artículo 30. La audiencia pública.—En cuestiones especialmente significativas de la ac-
 ción municipal, la Alcaldía podrá constituir un espacio de deliberación participativa, prefe-
 rentemente de carácter telemático, a fin de dar a conocer a la ciudadanía iniciativas muni-
 cipales y promover la opinión y debate por parte de la ciudadanía. En todo caso, la
@@ -69813,11 +69814,11 @@ cándose resumen de las mismas en la web municipal.
 ### Capítulo Capítulo
 o
 El Foro Ciudadano
-Art. 31. El Foro Ciudadano.—El Foro Ciudadano es el encuentro, principalmente de
+## Artículo 31. El Foro Ciudadano.—El Foro Ciudadano es el encuentro, principalmente de
 carácter presencial, en una o varias fechas determinadas, de los o las responsables munici-
 pales con la ciudadanía para que ésta pueda recibir información, presentar y debatir propues-
 tas con relación a una determinada actuación pública, actividad o programa de actuación.
-Art. 32. Iniciativa y convocatoria.—1. El foro ciudadano será convocada por la Al-
+## Artículo 32. Iniciativa y convocatoria.—1. El foro ciudadano será convocada por la Al-
 caldía por propia iniciativa o a petición de:
 a) El Consejo Social de la Ciudad.
 b) El Consejo Territorial de Participación.
@@ -69835,7 +69836,7 @@ diar un plazo de quince días.
 4. La convocatoria será realizada por medios electrónicos, mediante anuncio en el ta-
 blón de edictos y en la web municipal, sin perjuicio de la utilización de otros medios com-
 plementarios de comunicación.
-Art. 33. Desarrollo.—1. El acto de desarrollo del foro ciudadano estará presidida
+## Artículo 33. Desarrollo.—1. El acto de desarrollo del foro ciudadano estará presidida
 por la Alcaldía o persona en quien delegue, ejerciendo las funciones de secretaría el Secre-
 tario o Secretaría de la Corporación o persona en quien delegue, quien levantará acta de la
 reunión.
@@ -69855,7 +69856,7 @@ quien delegue, con el visto bueno de la Alcaldía, será publicada en la web del
 ### Capítulo Capítulo
 o
 La consulta en la elaboración de ordenanzas y reglamentos
-Art. 34. Participación en la elaboración de las normas.— 1. De conformidad con
+## Artículo 34. Participación en la elaboración de las normas.— 1. De conformidad con
 el artículo 133 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Co-
 mún de las Administraciones Públicas, con carácter previo a la elaboración de las normas
 reglamentarias locales se sustanciará una consulta pública a través del portal web del Ayun-
@@ -69886,7 +69887,7 @@ MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1371
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 ### Capítulo Capítulo
 Los procesos participativos
-Art. 35. Definición y fases.—1. El proceso participativo es una secuencia de actos,
+## Artículo 35. Definición y fases.—1. El proceso participativo es una secuencia de actos,
 delimitados en el tiempo, dirigidos a promover el debate y el contraste de argumentos en-
 tre la ciudadanía o entre ésta y los responsables municipales, a fin de recoger sus opiniones
 respecto de una determinada actuación pública de competencia municipal.
@@ -69908,14 +69909,14 @@ sión por parte del órgano de gobierno municipal competente.
 4. Las memorias participativas recogerán los acuerdos y propuestas en los diferentes
 espacios de participación creados y las actas de los distintos órganos de participación con-
 sultados.
-Art. 36. Iniciativa.—Los procesos participativos serán convocados por la Alcaldía o
+## Artículo 36. Iniciativa.—Los procesos participativos serán convocados por la Alcaldía o
 Concejal o Concejala en quien delegue, a iniciativa propia o de:
 a) El Consejo Social del Municipio.
 b) El Consejo Territorial de Participación.
 c) Un cinco por ciento de los vecinos y vecinas.
 d) Un número de asociaciones o grupos no inferior al diez por ciento del total de las
 inscritas entre el Registro de Entidades Ciudadanas y el censo de colectivos.
-Art. 37. Convocatoria.—1. La resolución de convocatoria del proceso participati-
+## Artículo 37. Convocatoria.—1. La resolución de convocatoria del proceso participati-
 vo deberá contener los siguientes aspectos:
 a) Órgano responsable de la gestión del proceso.
 b) El objeto del proceso, que incluya una exposición detallada del asunto.
@@ -69943,7 +69944,7 @@ tada en plazo máximo de tres meses a contar desde su solicitud. La resolución 
 la celebración del proceso participativo deberá ser motivada.
 MARTES 26 DE JULIO DE 2022Pág. 1372 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 38. Instrumentos y objetivos del debate.—1. El proceso de participación se po-
+## Artículo 38. Instrumentos y objetivos del debate.—1. El proceso de participación se po-
 drá desarrollar mediante los medios que mejor se ajuste a las necesidades y objetivos de la
 temática a tratar, como foros de discusión, talleres, presentación telemática de opiniones,
 videoconferencias o cualquier otro método que asegure la libre expresión de las opiniones
@@ -69955,7 +69956,7 @@ a) Alcanzar un diagnóstico sobre la situación de partida de una determinada pr
 mática, como base para el diseño de una política pública destinada a tal fin.
 b) Mejorar, ampliar, reformar o innovar una determinada actuación, política, proyecto
 o servicio municipal.
-Art. 39. Dinamización y recogida de resultados.— 1. La convocatoria del proceso
+## Artículo 39. Dinamización y recogida de resultados.— 1. La convocatoria del proceso
 habrá de señalar a la unidad organizativa responsable de la dinamización, ordenación y re-
 cogida de aportaciones en los debates.
 2. El debate público se realizará, en todo caso, por los medios de participación elec-
@@ -69966,20 +69967,20 @@ ciliación e intercambio de información entre la vía presencial y telemática.
 de los medios utilizados a los fines propuestos, los resultados obtenidos, la utilidad y viabi-
 lidad de los mismos y cualquier otro extremo que recoja la resolución de la convocatoria.
 4. El informe final será publicado en la web municipal.
-Art. 40. Evaluación y seguimiento de los resultados.— 1. En el plazo máximo de
+## Artículo 40. Evaluación y seguimiento de los resultados.— 1. En el plazo máximo de
 tres meses desde la remisión del informe final, el Ayuntamiento habrá de informar sobre la
 toma en consideración de aquellas propuestas que a su juicio puedan mejorar la cuestión y
 deberá exponer el motivo de aceptación de aquellas, así como de la no incorporación de las
 que se consideren rechazadas.
 2. Se establecerá un sistema de seguimiento de la implementación de las medidas
 aceptadas.
-Art. 41. Comisión de Seguimiento.—1. Es el órgano responsable de velar por la im-
+## Artículo 41. Comisión de Seguimiento.—1. Es el órgano responsable de velar por la im-
 parcialidad, transparencia y eficacia del proceso participativo El acuerdo de convocatoria
 deberá prever su constitución e incorporará a personas responsables del Ayuntamiento y re-
 presentantes de los solicitantes y entidades territoriales o sectoriales interesadas.
 2. Estará formado por un número impar de personas con un mínimo de cinco, siendo
 la mayoría representantes municipales.
-Art. 42. Promoción de procesos participativos o procesos obligatorios.— En todo
+## Artículo 42. Promoción de procesos participativos o procesos obligatorios.— En todo
 caso, se deberán realizar procesos participativos con ocasión de la tramitación y aproba-
 ción de:
 a) Instrumentos de planeamiento urbanístico y territorial de ordenación estructural.
@@ -69990,10 +69991,10 @@ c) Planes de Acción de ámbito temporal cuatrienal o superior.
 ### Capítulo Capítulo
 o
 Disposiciones generales
-Art. 43. Concepto.—Los órganos de participación son órganos complementarios de
+## Artículo 43. Concepto.—Los órganos de participación son órganos complementarios de
 la organización local, que canalizan, facilitan y fomentan la participación ciudadana en la
 gestión de los asuntos locales.
-Art. 44. Creación.—1. Corresponde al Pleno la creación de órganos de participa-
+## Artículo 44. Creación.—1. Corresponde al Pleno la creación de órganos de participa-
 ción, que se regularán a través de su Reglamento específico.
 2. La modificación o supresión de estos órganos de participación se llevará a cabo
 en la misma forma dispuesta para su creación.
@@ -70006,20 +70007,20 @@ c) La composición concreta y los criterios para la designación de su president
 los restantes miembros.
 d) Las funciones específicas que se les atribuya.
 e) La dotación de los créditos necesarios, en su caso, para su funcionamiento.
-Art. 45. Composición.—1. Los órganos de participación estarán integrados por la
+## Artículo 45. Composición.—1. Los órganos de participación estarán integrados por la
 Presidencia, los Consejeros y /o Consejeras y la Secretaría.
 2. La Presidencia corresponderá en todo caso a un miembro de la Corporación, nom-
 brado y separado libremente por la Alcaldía.
 3. La Secretaría corresponderá al Secretario o Secretaria de la Corporación o el fun-
 cionario o la funcionaria en quien delegue.
-Art. 46. Nombramiento de Consejeros.— 1. Podrán proponerse como Consejeros
+## Artículo 46. Nombramiento de Consejeros.— 1. Podrán proponerse como Consejeros
 y/o Consejeras las personas que no se encuentren incursas en alguna de las causas de ine-
 legibilidad o de incompatibilidad con la condición de Concejal o Concejala que establece
 la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
 2. El nombramiento de Consejeros y/o Consejeras se realizará por el Pleno de la Cor-
 poración, a propuesta de la Alcaldía.
 3. El desempeño del cargo de consejero o consejera no será retribuido.
-Art. 47. Cese de los Consejeros.—1. Serán cesados por el Pleno de la Corporación
+## Artículo 47. Cese de los Consejeros.—1. Serán cesados por el Pleno de la Corporación
 los Consejeros y las Consejeras cuando concurra alguna de las siguientes circunstancias:
 a) Cuando sobrevenga alguna causa de incompatibilidad.
 b) A propuesta de la organización que propuso su nombramiento.
@@ -70029,7 +70030,7 @@ nas. En tal supuesto se dará audiencia al interesado o interesada, previamente 
 resolver sobre el cese.
 2. Salvo en los supuestos de cese, el mandato de las personas integrantes del Consejo
 será coincidente con el de la Corporación.
-Art. 48. Régimen de sesiones.—1. Los órganos colegiados funcionarán en régimen
+## Artículo 48. Régimen de sesiones.—1. Los órganos colegiados funcionarán en régimen
 de Asamblea, celebrando sesiones ordinarias con la periodicidad que se determine para
 cada uno de ellos, mediante convocatoria de la Presidencia realizada con una antelación mí-
 nima de dos días hábiles.
@@ -70052,7 +70053,7 @@ puesta de la Presidencia.
 las sesiones que se celebren, en los términos regulados en la Ley 40/2015, de 1 de octubre,
 de Régimen Jurídico del Sector Público.
 6. Las sesiones serán públicas.
-Art. 49. Acuerdos.—1. Los acuerdos de los órganos colegiados consistirán en in-
+## Artículo 49. Acuerdos.—1. Los acuerdos de los órganos colegiados consistirán en in-
 formes y recomendaciones, y tendrán carácter consultivo para los órganos municipales que
 ostenten la competencia para resolver.
 2. Los informes y recomendaciones se remitirán a las Delegaciones municipales
@@ -70070,12 +70071,12 @@ tuirse por delegación los componentes del órgano colegiado.
 ### Capítulo Capítulo
 o
 El Consejo Social de la Ciudad
-Art. 50. Naturaleza jurídica.—El Consejo Social de la Ciudad de Parla es un órgano
+## Artículo 50. Naturaleza jurídica.—El Consejo Social de la Ciudad de Parla es un órgano
 colegiado permanente de carácter consultivo y de participación, integrado por representan-
 tes de las organizaciones económicas, sociales, culturales, medioambientales, profesiona-
 les y de vecinos más representativas, y que actúa como cauce permanente de diálogo y de-
 liberación sobre los asuntos más relevantes que afectan al municipio.
-Art. 51. Funciones.—1. Las funciones del Consejo Social del Municipio serán de
+## Artículo 51. Funciones.—1. Las funciones del Consejo Social del Municipio serán de
 informe, estudio y propuestas en materias de desarrollo económico local, planificación
 estratégica municipal y grandes proyectos urbanos.
 2. Con carácter enunciativo y no limitativo, se enumeran las siguientes funciones:
@@ -70103,7 +70104,7 @@ J. Emitir informe en el ámbito de sus competencias cuando así sea requerido po
 cualquier órgano municipal.
 K. Promover acuerdos del Pleno Municipal (máximo dos en cada sesión)
 L. Proponer la realización de procesos participativos (máximo dos en cada sesión)
-Art. 52. Composición.— 1. El Consejo Social del Municipio, estará presidido
+## Artículo 52. Composición.— 1. El Consejo Social del Municipio, estará presidido
 por la Alcaldía, o Concejal o Concejala en quien delegue, y compuesto por las personas
 nombradas por el Pleno del Ayuntamiento de conformidad con lo dispuesto en el párra-
 fo siguiente.
@@ -70129,7 +70130,7 @@ mismas.
 ### Capítulo Capítulo
 o
 Los Consejos Territoriales de participación
-Art. 53. Naturaleza.—1. Los Consejos Territoriales se configuran como órganos
+## Artículo 53. Naturaleza.—1. Los Consejos Territoriales se configuran como órganos
 de participación ciudadana, cuya finalidad es acercar la gestión municipal a la ciudadanía,
 facilitando y fomentando la información y el control de la gestión municipal que se ejerce
 en el ámbito territorial correspondiente y propiciando el ejercicio del derecho a la partici-
@@ -70141,7 +70142,7 @@ tamientos de población.
 desconcentrada y, por tanto, no les será de aplicación en ningún caso lo establecido para es-
 tos últimos en el artículo 24.1 de la LRBL.
 4. Estos se coordinarán a través de la Concejalía de Participación Ciudadana.
-Art. 54. Composición.—1. Estará integrado por las organizaciones ciudadanas y
+## Artículo 54. Composición.—1. Estará integrado por las organizaciones ciudadanas y
 los vecinos y vecinas de un ámbito territorial determinado, para la defensa de los intereses
 comunitarios, siendo sus propuestas no vinculantes.
 2. Los Consejos Territoriales de Participación estarán integrados por la Presidencia,
@@ -70172,7 +70173,7 @@ conforme a la normativa reguladora del procedimiento administrativo común, ele-
 gidos aleatoriamente entre el listado de personas que hayan manifestado previa-
 mente su interés en pertenecer a dicho órgano, o de manera aleatoria del padrón
 municipal.
-Art. 55. Funciones.—1. Las funciones de los Consejos Territoriales de Participación
+## Artículo 55. Funciones.—1. Las funciones de los Consejos Territoriales de Participación
 serán de informe, estudio y propuestas en materias relacionadas con su ámbito territorial.
 2. Con carácter enunciativo y no limitativo, se enumeran las siguientes funciones:
 a) Fomentar la participación directa y descentralizada de la ciudadanía y entidades
@@ -70206,14 +70207,14 @@ k) Recabar información, previa petición, de los temas de interés para el Cons
 ### Capítulo Capítulo
 o
 Los Consejos Sectoriales
-Art. 56. Naturaleza jurídica.—1. Los Consejos Sectoriales son órganos de partici-
+## Artículo 56. Naturaleza jurídica.—1. Los Consejos Sectoriales son órganos de partici-
 pación, información y propuesta, de carácter consultivo que canalizan la participación de
 los vecinos, las vecinas y sus asociaciones en los sectores o áreas de actuación municipal.
 2. Su finalidad es facilitar asesoramiento y consulta a quienes tienen responsabilidad
 de las distintas áreas de actuación municipal.
 3. Corresponde al Pleno de la Corporación la creación de estos Consejos Sectoriales,
 atendiendo a los sectores de actividad municipal y la realidad social.
-Art. 57. Composición.—1. Estará integrado por las organizaciones ciudadanas y
+## Artículo 57. Composición.—1. Estará integrado por las organizaciones ciudadanas y
 los vecinos y vecinas de un ámbito sectorial de actividad determinado, para la defensa de
 los intereses comunitarios, siendo sus propuestas no vinculantes.
 2. Los Consejos Sectoriales estarán integrados por la Presidencia, y los Consejeros
@@ -70242,7 +70243,7 @@ dimiento administrativo común, elegidos aleatoriamente entre el listado de pers
 nas que hayan manifestado previamente su interés en pertenecer a dicho órgano.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1377
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 58. Funciones.—1. Las funciones de los Consejos Sectoriales serán de infor-
+## Artículo 58. Funciones.—1. Las funciones de los Consejos Sectoriales serán de infor-
 me, estudio y propuestas en materias relacionadas con su ámbito competencial.
 2. Con carácter enunciativo y no limitativo, se enumeran las siguientes funciones:
 a) Fomentar la participación directa de la ciudadanía y entidades en la actividad del
@@ -70273,7 +70274,7 @@ k) Recabar información, previa petición, de los temas de interés para el Cons
 ### Capítulo Capítulo
 o
 Las Asambleas y Foros de Distritos
-Art. 59. Naturaleza.—1. La Asamblea de Distrito es un órgano de participación de
+## Artículo 59. Naturaleza.—1. La Asamblea de Distrito es un órgano de participación de
 la ciudadanía en los Distritos creados en el municipio, que actúa como observatorio de las
 vecinas, vecinos y personas jurídicas que residen en el ámbito territorial del distrito.
 2. La principal función de la Asamblea será recabar la opinión ciudadana sobre el
@@ -70288,7 +70289,7 @@ d) Elegir, cada cuatro años, a los representantes vecinales necesarios para rep
 al Distrito en otros Órganos municipales tales como las Juntas Municipales de
 Distrito, el Consejo Social de la Ciudad, o cualquier otro de nueva creación que
 así lo exija.
-Art. 60. Composición.—1. La Asamblea de Distrito estará presidida por la Alcal-
+## Artículo 60. Composición.—1. La Asamblea de Distrito estará presidida por la Alcal-
 día o Concejal o Concejala en quien delegue y coordinada por el concejal o concejala de
 Participación Ciudadana, y estará abierta a la participación de las personas y demás enti-
 dades a las que se refiere este Reglamento que residan, desarrollen su labor en el distrito
@@ -70296,7 +70297,7 @@ o tengan interés en el mismo.
 2. Las funciones de secretaría serán realizadas por el Secretario o Secretaria de la
 Corporación, o funcionario en quien delegue, y la administración, organización y asesora-
 miento técnico, serán desarrolladas por personal municipal.
-Art. 61. Funcionamiento.—1. La Asamblea de Distrito se reunirá, al menos, una
+## Artículo 61. Funcionamiento.—1. La Asamblea de Distrito se reunirá, al menos, una
 vez al año. La convocatoria la realizará la Alcaldía y se publicará con al menos quince días
 de antelación en los canales de difusión disponibles, especificando fechas, horarios y con-
 tenido de la misma, así como las normas y. los mecanismos de inscripción.
@@ -70315,9 +70316,9 @@ elegidos en la Asamblea y que será abierta al resto de vecinos. Esta Mesa, se r
 análisis de la realidad del Distrito y proporcionará un listado de temas objeto de dialogo en
 el Distrito que se irán abordando con la prioridad que se estime conveniente a través de los
 Foros de Distrito regulados en este Capítulo.
-Art. 62. Sede Virtual de las Asambleas de Distrito.— Todas las actas, acuerdos y do-
+## Artículo 62. Sede Virtual de las Asambleas de Distrito.— Todas las actas, acuerdos y do-
 cumentos generados en el seno de dichos órganos serán publicados en la web municipal.
-Art. 63. Foros de Distrito. Naturaleza.—1. Los Foros de Distrito son el espacio de
+## Artículo 63. Foros de Distrito. Naturaleza.—1. Los Foros de Distrito son el espacio de
 trabajo y conversación abierto de los vecinos de cada distrito. Su función principal es apor-
 tar la visión vecinal a los temas que sean de interés para el mismo, propuestos en Asamblea
 o para los que sean convocados.
@@ -70334,7 +70335,7 @@ trito y/o Junta Municipal de Distrito.
 3. El espacio de trabajo de este grupo será de carácter presencial, con el apoyo de una
 sede virtual que facilitará la participación, el debate y el intercambio de información entre
 las personas que la componen y los vecinos que deseen participar a distancia.
-Art. 64. Composición.—1. Cada Foro de Distrito estará compuesto por los vecinos
+## Artículo 64. Composición.—1. Cada Foro de Distrito estará compuesto por los vecinos
 y vecinas del Distrito mayores de dieciséis años y demás interesados que deseen formar par-
 te del mismo y estará presidido por el correspondiente Concejal de Distrito o persona en
 quien delegue.
@@ -70348,7 +70349,7 @@ participar con voz, pero sin voto si el objeto de la misma se enmarca en el Dist
 pondiente
 5. Los representantes de Grupos Políticos con representación en el Pleno Municipal
 podrán asistir con voz, pero sin voto.
-Art. 65. Funcionamiento.—1. Las sesiones de cada Foro de Distrito, estarán abier-
+## Artículo 65. Funcionamiento.—1. Las sesiones de cada Foro de Distrito, estarán abier-
 tas a la participación de otros vecinos interesados en colaborar, ya sea de manera presencial
 o a través de la plataforma virtual que se creará para el desarrollo de su trabajo y con el co-
 rrespondiente registro previo.
@@ -70356,7 +70357,7 @@ rrespondiente registro previo.
 blecerá, en caso de ser necesario por la duración de la misma, sus normas básicas de fun-
 cionamiento interno y la periodicidad de sus reuniones, así como las que regulen la activi-
 dad de su sede virtual.
-Art. 66. Sede Virtual de los Foros de Distrito.— 1. Los Foros de Distrito contarán
+## Artículo 66. Sede Virtual de los Foros de Distrito.— 1. Los Foros de Distrito contarán
 con su reflejo en una sede virtual permanente mientras dure el mismo, que facilitará el de-
 bate y el intercambio de información entre las personas que lo componen y los vecinos que
 deseen participar, el seguimiento de las tareas y el intercambio de información durante los
@@ -70372,7 +70373,7 @@ generados en el seno de dichos órganos serán publicados en la web municipal.
 Las entidades ciudadanas
 ### Capítulo Capítulo
 Disposiciones generales
-Art. 67. Apoyo a las asociaciones y entidades.— 1. El Ayuntamiento promoverá y
+## Artículo 67. Apoyo a las asociaciones y entidades.— 1. El Ayuntamiento promoverá y
 facilitará el desarrollo de las asociaciones y federaciones, confederaciones, uniones de aso-
 ciaciones y entidades que persigan finalidades de interés general, y del voluntariado, respe-
 tando siempre su libertad y autonomía frente a los poderes públicos.
@@ -70398,7 +70399,7 @@ sarrollo de actividades y proyectos específicos de interés local.
 ### Capítulo Capítulo
 o
 El Registro Municipal de Asociaciones y Entidades Ciudadanas
-Art. 68. El Registro municipal de Asociaciones y Entidades Ciudadanas.—1. El Re-
+## Artículo 68. El Registro municipal de Asociaciones y Entidades Ciudadanas.—1. El Re-
 gistro de Asociaciones y Entidades Ciudadanas tiene las siguientes finalidades:
 a) Reconocer a las entidades inscritas y garantizarles el ejercicio de los derechos re-
 conocidos en este Reglamento y en la legislación vigente.
@@ -70420,7 +70421,7 @@ verificación del área municipal correspondiente. Quienes formen parte de este 
 participar en los distintos órganos municipales de participación, con voz, pero sin voto.
 MARTES 26 DE JULIO DE 2022Pág. 1380 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 69. Solicitud de inscripción.— 1. El Registro, que dependerá de la Secretaría
+## Artículo 69. Solicitud de inscripción.— 1. El Registro, que dependerá de la Secretaría
 General del Ayuntamiento, se llevará en la Delegación que ostente las competencias en ma-
 teria de Participación Ciudadana, y sus datos serán públicos.
 2. Las inscripciones se realizarán a solicitud de las asociaciones y entidades intere-
@@ -70443,7 +70444,7 @@ b) Firmar declaración responsable.
 c) Presentación de memoria anual de actividades y/o proyecto anual.
 d) Obtener informe técnico del área correspondiente que verifique que se trata de un
 colectivo representativo del Municipio.
-Art. 70. Resolución de la solicitud.—1. El plazo máximo para resolver sobre la so-
+## Artículo 70. Resolución de la solicitud.—1. El plazo máximo para resolver sobre la so-
 licitud de inscripción será de quince días, a contar desde la presentación de la solicitud,
 acompañada por la documentación exigible, en el registro electrónico del órgano compe-
 tente para tramitar y resolver.
@@ -70453,7 +70454,7 @@ ción o denegación en su caso, motivadamente.
 notificará el número de inscripción asignado.
 4. Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado
 resolución expresa se entenderá que la solicitud ha sido estimada.
-Art. 71. Datos asociativos y de certificación.— 1. En la sede electrónica o página
+## Artículo 71. Datos asociativos y de certificación.— 1. En la sede electrónica o página
 web del Ayuntamiento constará una relación pormenorizada de las asociaciones inscritas.
 2. Los datos obrantes en el Registro podrán ser consultados de conformidad con las
 normas procedimentales establecidas y con las restricciones que en todo momento prevea
@@ -70462,7 +70463,7 @@ de la función estadística pública.
 3. Las certificaciones expedidas sobre los datos registrales serán los únicos docu-
 mentos hábiles para acreditar la inscripción de las asociaciones y entidades en el Registro
 Municipal, así como, en su caso, la naturaleza de las mismas.
-Art. 72. Derechos y deberes de las asociaciones inscritas en el Registro Municipal
+## Artículo 72. Derechos y deberes de las asociaciones inscritas en el Registro Municipal
 de Entidades Ciudadanas.— 1. Las asociaciones y entidades inscritas en el Registro mu-
 nicipal tienen derecho a:
 a) Obtener subvenciones para el desarrollo de sus actividades y funcionamiento, en
@@ -70501,7 +70502,7 @@ inscripción en el Registro, previo trámite de audiencia.
 ### Capítulo Capítulo
 o
 La Declaración de Entidades de Utilidad Pública Municipal
-Art. 73. Entidad de Utilidad Pública Municipal.— Las entidades inscritas en el Re-
+## Artículo 73. Entidad de Utilidad Pública Municipal.— Las entidades inscritas en el Re-
 gistro Municipal de Asociaciones y Entidades cuyos fines estatutarios sean de carácter
 cívico, educativo, científico, cultural, deportivo, sanitario, de promoción de los valores
 constitucionales, de promoción de los derechos humanos, de asistencia social, de coopera-
@@ -70513,7 +70514,7 @@ de exclusión por razones físicas, sociales, económicas o culturales, y cuales
 similar naturaleza, podrán ser declaradas por la Alcaldía o por quien obre por su delegación
 como Entidad de Utilidad Pública Municipal, cuando contribuyan significativamente con
 sus actividades al interés general de la ciudad.
-Art. 74. Procedimiento de declaración.— 1. El procedimiento para ser declarada
+## Artículo 74. Procedimiento de declaración.— 1. El procedimiento para ser declarada
 Entidad de Utilidad Pública Municipal se iniciará instancia de las entidades interesadas,
 mediante solicitud electrónica dirigida al Ayuntamiento, a la que se adjuntará la siguiente
 documentación:
@@ -70562,7 +70563,7 @@ o Inventario valorado de sus bienes inmuebles.
 Seguridad Social.
 9.o Cualquier otro documento que se considere necesario para valorar adecuada-
 mente la procedencia del reconocimiento interesado.
-Art. 75. Criterios fundamentales para valorar la procedencia del reconocimiento de
+## Artículo 75. Criterios fundamentales para valorar la procedencia del reconocimiento de
 Entidad de Utilidad Pública Municipal.— 1. Para valorar la procedencia del reconoci-
 miento como Entidad de Utilidad Pública Municipal, se exigirá como presupuesto indis-
 pensable que la Entidad lleve inscrita en el Registro Municipal de Asociaciones y Entida-
@@ -70588,7 +70589,7 @@ nes y uniones de Asociaciones, como por cada una de las Entidades integradas en 
 4. La declaración de una federación, confederación o unión de Asociaciones como
 Entidad de Utilidad Pública municipal, no supone la declaración simultánea de tal condi-
 ción de cada una de las entidades que la integren.
-Art. 76. Instrucción.—1. En la instrucción del expediente se tomará como base la
+## Artículo 76. Instrucción.—1. En la instrucción del expediente se tomará como base la
 documentación aportada al mismo, a la que se sumarán los informes del Consejo Territo-
 rial de Participación y, en su caso, los de los órganos y áreas municipales, relacionados con
 los fines de la Entidad, pudiendo incorporarse cuantos otros antecedentes se consideren ne-
@@ -70600,7 +70601,7 @@ a contar desde la presentación de la solicitud, acompañada por la documentaci�
 en el registro electrónico del órgano competente para tramitar y resolver.
 4. El vencimiento del plazo sin haberse adoptado resolución expresa tendrá efectos
 desestimatorios.
-Art. 77. Derechos.—La declaración de Entidad de Utilidad Pública Municipal des-
+## Artículo 77. Derechos.—La declaración de Entidad de Utilidad Pública Municipal des-
 plegará efectos únicamente frente al Ayuntamiento, y comportará los beneficios que se de-
 terminen en cada caso, entre los que podrán otorgarse los siguientes:
 a) Utilización de la mención “Declarada de Utilidad Pública Municipal por el Ayun-
@@ -70621,7 +70622,7 @@ g) Utilización puntual de locales e instalaciones municipales para la realizaci
 actividades específicas, siendo responsables del buen uso de las instalaciones.
 h) Preferencia en el uso gratuito temporal de locales e instalaciones municipales
 disponibles.
-Art. 78. Deberes.—La declaración de Entidad de Utilidad Pública Municipal deter-
+## Artículo 78. Deberes.—La declaración de Entidad de Utilidad Pública Municipal deter-
 minará las siguientes obligaciones:
 a) Presentar ante el Registro Municipal de Asociaciones y Entidades documentación
 acreditativa de haber presentado las cuentas anuales de cada ejercicio, así como el
@@ -70632,7 +70633,7 @@ b) Presentar ante dicho Registro la memoria descriptiva de las actividades reali
 el año anterior, conforme a lo previsto en el siguiente artículo.
 c) Facilitar al Ayuntamiento los informes y documentación que éste les requiera en
 relación con las actividades realizadas en cumplimiento de sus fines.
-Art. 79. Requisitos para mantener la condición de Entidad de Utilidad Pública Mu-
+## Artículo 79. Requisitos para mantener la condición de Entidad de Utilidad Pública Mu-
 nicipal y su revocación.— 1. Las entidades declaradas de Utilidad Pública Municipal de-
 berán mantener actualizados sus datos, notificando al Registro Municipal todas las modifi-
 caciones dentro del mes siguiente al que se produzcan, y en el mes de enero de cada año
@@ -70648,7 +70649,7 @@ principio.
 la declaración de Utilidad Pública Municipal, la Alcaldía. El procedimiento a seguir será el
 establecido en la normativa de procedimiento administrativo común, con trámite de audien-
 cia previo a la resolución que se adopte.
-Art. 80. Publicidad de la declaración de Entidad de Utilidad Pública Municipal.—1.
+## Artículo 80. Publicidad de la declaración de Entidad de Utilidad Pública Municipal.—1.
 La declaración de Entidad de Utilidad Pública Municipal se inscribirá de oficio en el Re-
 gistro Municipal de Asociaciones y Entidades.
 2. Asimismo dicha declaración se incluirá en la sede electrónica o web municipal,
@@ -70658,7 +70659,7 @@ Fomento y control de la participación
 ### Capítulo Capítulo
 o
 Otras medidas de fomento
-Art. 81. Participación en los medios de comunicación municipales.— 1. El Ayun-
+## Artículo 81. Participación en los medios de comunicación municipales.— 1. El Ayun-
 tamiento garantizará la presencia de las opiniones, colaboraciones e informaciones de las en-
 tidades ciudadanas declaradas de Utilidad Pública Municipal en los medios de información
 municipales.
@@ -70667,14 +70668,14 @@ municipales de participación, asociaciones y entidades inscritas en el Registro
 e informes y dictámenes relativos a procesos participativos.
 MARTES 26 DE JULIO DE 2022Pág. 1384 B.O.C.M. Núm. 176
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 82. Encuestas y estudios de opinión.— 1. El Ayuntamiento promoverá, en la
+## Artículo 82. Encuestas y estudios de opinión.— 1. El Ayuntamiento promoverá, en la
 medida de sus posibilidades, la realización de sondeos, encuestas y estudios que permitan
 conocer la percepción y opinión de la ciudadanía sobre las políticas públicas, el funciona-
 miento de los servicios públicos y cualquier otra cuestión de interés local, de acuerdo con
 los criterios técnicos y científicos de las ciencias sociales.
 2. Los resultados obtenidos serán publicados en la web municipal y trasladados a los
 órganos de municipales de participación.
-Art. 83. Actuaciones formativas e informativas.— 1. El Ayuntamiento promoverá
+## Artículo 83. Actuaciones formativas e informativas.— 1. El Ayuntamiento promoverá
 acciones informativas y formativas dirigidas a fomentar la participación de los vecinos y
 vecinas y las entidades ciudadanas y el conocimiento y uso de los medios de participación
 contemplados en este Reglamento, así como a desarrollar la utilización de medios electró-
@@ -70682,12 +70683,12 @@ nicos en las relaciones entre estos y las distintas Administraciones Públicas.
 2. El Ayuntamiento promoverá y participará con los ciudadanos y las entidades
 ciudadanas en encuentros y conferencias nacionales e internacionales en materia de par-
 ticipación ciudadana.
-Art. 84. Voluntariado.—El Ayuntamiento adoptará medidas para fomentar y promo-
+## Artículo 84. Voluntariado.—El Ayuntamiento adoptará medidas para fomentar y promo-
 ver el voluntariado organizado a través de entidades asociativas.
 ### Capítulo Capítulo
 o
 Sistema de Garantías
-Art. 85. Comité de Garantías del Reglamento.— 1. Se crea el Comité de Garantías
+## Artículo 85. Comité de Garantías del Reglamento.— 1. Se crea el Comité de Garantías
 del Reglamento como órgano responsable de velar por la eficaz realización de cualquiera
 de los medios de participación.
 2. Estará integrado por:
@@ -70701,7 +70702,7 @@ las dudas o vacíos del Reglamento que puedan surgir, especialmente, en acciones
 a innovación tecnológica y social.
 5. El Comité de Garantías atenderá a las personas, asociaciones o grupos que consi-
 deren vulnerados sus derechos de participación.
-Art. 86. Actividad del Comité de Garantías del Reglamento.—1. El Comité emitirá
+## Artículo 86. Actividad del Comité de Garantías del Reglamento.—1. El Comité emitirá
 informes sobre las solicitudes de actuación recibidas y recomendaciones de interpretación o
 desarrollo del Reglamento.
 2. Anualmente se realizará un informe de valoración de la actividad de participación
@@ -70710,7 +70711,7 @@ to de publicación en la web municipal y se dará cuenta al Pleno municipal ante
 de abril del ejercicio siguiente.
 3. El Ayuntamiento pondrá a disposición del Comité los recursos necesarios para el
 ejercicio de sus funciones.
-## DISPOSICIÓN FINAL ÚNICA
+## Disposición FINAL ÚNICA
 Entrada en vigor y naturaleza orgánica del Reglamento
 El presente Reglamento entrará en vigor de acuerdo con lo establecido en los artícu-
 los 65.2 y 70.2 de la LRBRL, una vez transcurrido el plazo de quince días hábiles desde
@@ -70912,13 +70913,13 @@ to sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, que se reg
 presente Ordenanza fiscal, elaborada con arreglo a las normas generales del impuesto con-
 templadas en los artículos 104 a 110 del citado Texto Refundido de la Ley reguladora de
 las Haciendas Locales.
-Art. 2. Ámbito de aplicación.—La presente Ordenanza fiscal reguladora del Impues-
+## Artículo 2. Ámbito de aplicación.—La presente Ordenanza fiscal reguladora del Impues-
 to sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana será de aplicación a
 todo el término municipal.
-Art. 3. Naturaleza tributaria.—El Impuesto sobre el Incremento de Valor de los Te-
+## Artículo 3. Naturaleza tributaria.—El Impuesto sobre el Incremento de Valor de los Te-
 rrenos de Naturaleza Urbana es un tributo directo, de exacción potestativa en las adminis-
 traciones locales y que no tiene carácter periódico.
-Art. 4. Hecho imponible.—Constituye el hecho imponible de este impuesto, el incre-
+## Artículo 4. Hecho imponible.—Constituye el hecho imponible de este impuesto, el incre-
 mento de valor que experimenten los terrenos que deban tener la consideración de urbanos,
 a efectos del Impuesto de Bienes Inmuebles.
 Estará asimismo sujeto a este impuesto, el incremento de valor que experimenten los
@@ -70948,7 +70949,7 @@ cional y legal, transacción.
 al disolverse.
 — Actos de constitución y transmisión de derechos reales, tales como usufructos,
 censos, usos y habitación, derechos de superficie.
-Art. 5. Terrenos de naturaleza urbana.—Tendrán la consideración de terrenos de na-
+## Artículo 5. Terrenos de naturaleza urbana.—Tendrán la consideración de terrenos de na-
 turaleza urbana:
 a) El clasificado o definido por el planeamiento urbanístico como urbano, urbaniza-
 do o equivalente.
@@ -70971,7 +70972,7 @@ establezca la legislación urbanística.
 La condición de terreno urbano se tendrá en cuenta en el momento del devengo, es de-
 cir, cuando se efectúe la transmisión, independientemente de la situación habida durante el
 periodo de generación del incremento de valor.
-Art. 6. Supuestos de no sujeción.—1. No está sujeto a este Impuesto el incremento
+## Artículo 6. Supuestos de no sujeción.—1. No está sujeto a este Impuesto el incremento
 de valor que experimenten los terrenos que tengan la consideración de rústicos a efectos del
 Impuesto sobre Bienes Inmuebles.
 2. No se producirá la sujeción al Impuesto en los supuestos de aportaciones de bie-
@@ -71057,7 +71058,7 @@ tado 2 de esta cláusula o en la disposición adicional segunda de la Ley 27/201
 noviembre, del Impuesto sobre Sociedades.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 1393
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 7. Exenciones objetivas.— Están exentos de este impuesto los incrementos de
+## Artículo 7. Exenciones objetivas.— Están exentos de este impuesto los incrementos de
 valor que se manifiesten a consecuencia de los actos siguientes:
 a) La constitución y transmisión de cualesquiera derechos de servidumbre.
 b) Las transmisiones de bienes que se encuentren dentro del perímetro delimitado
@@ -71092,7 +71093,7 @@ La concurrencia de los requisitos se circunscribe y se acreditará por el transm
 esta corporación conforme a lo previsto en el artículo 105.1 c) del Texto Refundido de la Ley
 reguladora de Haciendas Locales aprobado por Real Decreto Legislativo 2/2004, de 5 de
 marzo.
-Art. 8. Exenciones subjetivas.—Asimismo, están exentos de este impuesto los incre-
+## Artículo 8. Exenciones subjetivas.—Asimismo, están exentos de este impuesto los incre-
 mentos de valor correspondientes cuando la obligación de satisfacer dicho Impuesto recai-
 ga sobre las siguientes personas o Entidades:
 a) El Estado, las Comunidades Autónomas y las Entidades Locales a las que perte-
@@ -71111,7 +71112,7 @@ afectos a las mismas.
 f) La Cruz Roja Española.
 g) Las personas o Entidades a cuyo favor se haya reconocido la exención en Tratados
 o Convenios Internacionales.
-Art. 9. Sujetos pasivos.—1. Tendrán la condición de sujetos pasivos, en concepto
+## Artículo 9. Sujetos pasivos.—1. Tendrán la condición de sujetos pasivos, en concepto
 de contribuyente:
 a) En las transmisiones de terrenos o en la constitución o transmisión de derechos
 reales de goce limitativos del dominio a título lucrativo, la persona física o jurídi-
@@ -71131,10 +71132,10 @@ el derecho real de que se trate.
 España, será sujeto pasivo sustituto la persona física o jurídica, o la herencia yacente, co-
 munidad de bienes y demás entidad que, carente de personalidad jurídica, que adquiera el
 terreno o a cuyo favor se constituya o transmita el derecho real de que se trate.
-Art. 10. Base imponible.—La base imponible de este Impuesto está constituida por
+## Artículo 10. Base imponible.—La base imponible de este Impuesto está constituida por
 el incremento del valor de los terrenos de naturaleza urbana puesto de manifiesto en el mo-
 mento del devengo y experimentado a lo largo de un período máximo de veinte años.
-Art. 11. Cálculo de la base imponible.— 1. La base imponible de este impuesto
+## Artículo 11. Cálculo de la base imponible.— 1. La base imponible de este impuesto
 será el resultado de multiplicar el valor del terreno en el momento del devengo por el coe-
 ficiente que corresponda al periodo de generación conforme a los coeficientes previstos en
 el artículo 107.4 del Texto Refundido de la Ley reguladora de Haciendas Locales aproba-
@@ -71260,7 +71261,7 @@ El requerimiento del contribuyente al ayuntamiento solicitando el cálculo de la
 imponible sobre datos reales deberá efectuarse aportando la documentación señalada y al
 tiempo de presentar la declaración o, en todo caso, antes de notificarse la liquidación por el
 ayuntamiento.
-Art. 12. Constitución o transmisión de derechos reales de goce limitativos del domi-
+## Artículo 12. Constitución o transmisión de derechos reales de goce limitativos del domi-
 nio.—1. En la constitución o transmisión de derechos reales de goce limitativos del domi-
 nio, su valor vendrá determinado, a su vez, por aplicación, sobre el valor definido en el ar-
 tículo anterior, de un porcentaje estimado según las reglas siguientes:
@@ -71273,13 +71274,13 @@ c) El usufructo constituido a favor de una persona jurídica, si se estableciera
 zo superior a 30 años o por tiempo indeterminado, se considerará fiscalmente
 como transmisión de plena propiedad sujeta a condición resolutoria, estimándose,
 por tanto, su valor igual al 100 por 100 del valor del terreno.
-Art. 13. Tipo de gravamen. Cuota íntegra y cuota líquida.— El tipo de gravamen del
+## Artículo 13. Tipo de gravamen. Cuota íntegra y cuota líquida.— El tipo de gravamen del
 impuesto será del 27 por 100.
 La cuota íntegra del impuesto será el resultado de aplicar a la base imponible el tipo
 de gravamen.
 La cuota líquida del impuesto será el resultado de aplicar sobre la cuota íntegra, en su
 caso, las bonificaciones a que se refiere el artículo 8 de la presente Ordenanza.
-Art. 14. Devengo del impuesto.—1. El Impuesto se devenga:
+## Artículo 14. Devengo del impuesto.—1. El Impuesto se devenga:
 a) Cuando se transmita la propiedad del terreno, ya sea a título oneroso o gratuito, ín-
 ter vivos o mortis causa, en la fecha de la transmisión.
 b) Cuando se constituya o transmita cualquier derecho real de goce limitativo del do-
@@ -71296,7 +71297,7 @@ f) En el caso de adjudicación de solares que se efectúen por Entidades urbaní
 favor de titulares de derechos o unidades de aprovechamiento distintos de los pro-
 pietarios originariamente aportantes de los terrenos, la protocolización del Acta de
 reparcelación].
-Art. 15. Devoluciones.—Cuando se declare o reconozca judicial o administrativa-
+## Artículo 15. Devoluciones.—Cuando se declare o reconozca judicial o administrativa-
 mente por Resolución firme haber tenido lugar la nulidad, rescisión o resolución del acto o
 contrato determinante de la transmisión del terreno o de la constitución o transmisión del
 Derecho Real de goce sobre el mismo, el sujeto pasivo tendrá derecho a la devolución del
@@ -71318,7 +71319,7 @@ arreglo a las prescripciones contenidas en el Código Civil. Si fuese suspensiva
 dará el Impuesto hasta que esta se cumpla. Si la condición fuese resolutoria, se exigirá el
 Impuesto desde luego, a reserva, cuando la condición se cumpla, de hacer la oportuna de-
 volución según la regla del apartado anterior.
-Art. 16. Gestión del impuesto.—Liquidación:
+## Artículo 16. Gestión del impuesto.—Liquidación:
 1. Los sujetos vendrán obligados a presentar ante el ayuntamiento la correspondien-
 te declaración, según modelo normalizado al efecto.
 Están igualmente obligados a comunicar al ayuntamiento la realización del hecho im-
@@ -71365,7 +71366,7 @@ dentes.
 MARTES 26 DE JULIO DE 2022Pág. 1398 B.O.C.M. Núm. 176
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Art. 17. Información notarial.—Los notarios remitirán al ayuntamiento dentro de la
+## Artículo 17. Información notarial.—Los notarios remitirán al ayuntamiento dentro de la
 primera quincena de cada trimestre, relación o índice comprensivo de todos los documen-
 tos por ellos autorizados en el trimestre anterior, en los que se contengan hechos, actos o
 negocios jurídicos que pongan de manifiesto la realización del hecho imponible de este Im-
@@ -71381,14 +71382,14 @@ Los notarios advertirán expresamente a los comparecientes en los documentos que
 toricen sobre el plazo dentro del cual están obligados los interesados a presentar declara-
 ción por el impuesto y, asimismo, sobre las responsabilidades en que incurran por la falta
 de presentación de declaraciones.
-Art. 18. Comprobaciones.—Este ayuntamiento, como administración tributaria, po-
+## Artículo 18. Comprobaciones.—Este ayuntamiento, como administración tributaria, po-
 drá, por cualquiera de los medios previstos en el artículo 57 de la Ley 58/2003, de 17 de di-
 ciembre, General Tributaria comprobar el valor de los elementos del hecho imponible.
 El procedimiento se articulará en los términos del artículo 134 de la Ley General Tri-
 butaria para la comprobación de valores.
-Art. 19. Inspección.—La inspección se realizará según lo dispuesto en la Ley Gene-
+## Artículo 19. Inspección.—La inspección se realizará según lo dispuesto en la Ley Gene-
 ral Tributaria y en las disposiciones dictadas para su desarrollo.
-Art. 20. Infracciones.—En los casos de incumplimiento de las obligaciones estable-
+## Artículo 20. Infracciones.—En los casos de incumplimiento de las obligaciones estable-
 cidas en la presente Ordenanza fiscal, de acuerdo con lo previsto en el artículo 11 del Texto
 Refundido de la Ley reguladora de las Haciendas Locales, aprobado por Real Decreto Le-
 gislativo 2/2004, de 5 de marzo, se aplicará el régimen de infracciones y sanciones regulado
@@ -71403,7 +71404,7 @@ dencia tributaria, de acuerdo con lo dispuesto en los artículos 93 y 94 de la L
 butaria, dicha conducta será asimismo infracción grave y la sanción consistirá en la multa
 pecuniaria a que se refiere el artículo 203.5, sin perjuicio de lo dispuesto en el artículo 186.3,
 ambos de la Ley General Tributaria.
-## DISPOSICIÓN FINAL
+## Disposición FINAL
 La presente Ordenanza Fiscal entrará en vigor en el momento de su publicación ínte-
 gra en el B
 OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, y será de aplicación a partir

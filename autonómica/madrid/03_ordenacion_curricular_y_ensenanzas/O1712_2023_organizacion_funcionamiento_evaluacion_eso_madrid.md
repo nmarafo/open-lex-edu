@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 MIÉRCOLES 31 DE MAYO DE 2023Pág. 90 B.O.C.M. Núm. 128
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
@@ -62,7 +63,7 @@ marco legal para el desarrollo de la materia optativa de proyecto y, entre otros
 termina que el titular de la consejería competente en materia de Educación podrá ampliar el
 catálogo de materias optativas que los centros podrán incorporar en su oferta educativa.
 Por otro lado, la Ley Orgánica 2/2006, de 3 de mayo, respecto al Bachillerato, en su
-artículo 34.7 establece que corresponde a las Administraciones educativas la ordenación de
+## Artículo 34.7 establece que corresponde a las Administraciones educativas la ordenación de
 las materias optativas. El Real Decreto 243/2022, de 5 de abril, por el que se establecen la
 ordenación y las enseñanzas mínimas del Bachillerato dedica su artículo 14 a las materias
 optativas que se ofertarán en esta etapa educativa. Este artículo establece que corresponde
@@ -90,7 +91,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 vas que formarán parte de estos catálogos y carecen de la debida concreción curricular, para
 hacer efectiva la implantación de las mismas en la oferta de los centros.
 La presente orden cumple con los principios de buena regulación que se recogen en el
-artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+## Artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas, y en el artículo 2 del Decreto 52/2021, de 24 de marzo,
 del Consejo de Gobierno, por el que se regula y simplifica el procedimiento de elaboración
 de las disposiciones normativas de carácter general en la Comunidad de Madrid. Asimis-
@@ -130,7 +131,7 @@ viembre, del Consejo de Gobierno, por el que se establece la estructura orgánic
 sejería de Educación, Universidades, Ciencia y Portavocía de la Comunidad de Madrid, en
 relación con el Decreto 38/2022, de 15 de junio, del Consejo de Gobierno, por el que se crea
 la Vicepresidencia, Consejería de Educación y Universidades, así como las atribuidas en el
-artículo 9.3 y la disposición final segunda del Decreto 65/2022, de 20 de julio, y el artícu-
+## Artículo 9.3 y la disposición final segunda del Decreto 65/2022, de 20 de julio, y el artícu-
 lo 13.2 y la disposición final segunda del Decreto 64/2022, de 20 de julio, esta Vicepresi-
 dencia, Consejería de Educación y Universidades
 DISPONE
@@ -391,7 +392,7 @@ tiva podrán cursar esta materia con los alumnos matriculados en la misma como m
 pecífica de modalidad para conformar grupo.
 3. Cada grupo de materia optativa tendrá asignado un único profesor con atribución
 docente para impartirla.
-## DISPOSICIÓN ADICIONAL ÚNICA
+## Disposición ADICIONAL ÚNICA
 Centros privados
 1. Los centros docentes privados adecuarán las referencias a los distintos órganos y
 procedimientos fijados en la presente Orden que se encuentren en el ámbito de su autono-
@@ -399,14 +400,14 @@ mía, a sus normas de organización y funcionamiento.
 2. Los centros docentes privados no concertados podrán ejercer en aquellos aspectos
 en que sea de aplicación la autonomía recogida en el artículo veinticinco de la Ley Orgáni-
 ca 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
-## DISPOSICIÓN TRANSITORIA ÚNICA
+## Disposición TRANSITORIA ÚNICA
 Plazos extraordinarios en el procedimiento iniciado en el curso 2022-2023 para la
 incorporación de la materia optativa de proyecto en la oferta educativa del centro
 correspondiente al curso 2023-2024
 La propuesta curricular, acompañada del informe del director del centro y de la programa-
 ción didáctica de la materia de Proyecto, se remitirá con antelación al 15 de junio de 2023 a la
 Dirección del Área Territorial correspondiente.
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 1. Queda derogada la Orden 2160/2016, de 29 de junio, de la Consejería de Educa-
 ción, Juventud y Deporte, por la que se aprueban materias de libre configuración autonó-
@@ -438,13 +439,13 @@ dad de Madrid para su implantación a partir de 2020-2021, y se modifica la Orde
 de 21 de abril, de la Consejería de Educación, Juventud y Deporte, por la que se establece
 la organización de las enseñanzas para la obtención del título de Graduado en Educación
 Secundaria Obligatoria por personas adultas en la Comunidad de Madrid, a excepción de la
-## disposición final primera.
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición final primera.
+## Disposición FINAL PRIMERA
 Habilitación para su aplicación
 Se autoriza al titular de la dirección general con competencia en materia de Ordena-
 ción Académica de Educación Secundaria a adoptar, en el ámbito de sus competencias,
 cuantas medidas sean necesarias para la aplicación de lo dispuesto en esta orden.
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 Esta orden entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN OFI-

@@ -15,7 +15,7 @@ redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/25/BOCM-20250725-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/07/25/BOCM-20250725-1.PDF"
 clasificacion:
-  categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
   subcategoria: "Instrucciones de organización y funcionamiento"
 tags:
   - dispositivos_digitales
@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Decreto 64/2025, de 23 de julio, por el que se regula y limita el uso de dispositivos digitales en centros educativos sostenidos con fondos públicos
 
@@ -1304,7 +1305,7 @@ Quinta
 El texto íntegro del presente Convenio, una vez suscrito por las partes, será publicado en el Boletín 
 Oficial de la Comunidad de Madrid. 
 
-## DISPOSICIÓN DEROGATORIA 
+## Disposición DEROGATORIA 
 Quedan derogados la totalidad  de Pactos, Convenios y Acu erdos anteriores, así como cuantas 
 instrucciones, acuerdos p arciales y otras disposiciones de igual o in ferior rango que puedan opo-
 nerse, por ser incompatibles o limitar los acuerdos aquí adoptados. 

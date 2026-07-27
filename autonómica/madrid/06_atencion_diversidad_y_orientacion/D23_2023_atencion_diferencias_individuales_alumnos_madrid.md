@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid
 
@@ -463,7 +464,7 @@ j) Otras condiciones personales o de historia escolar.
 der adecuadamente al alumnado con necesidad específica de apoyo educativo se detallan
 en cada una de las secciones de este capítulo.
 3. Los padres o representantes legales de ese alumnado recibirán, de acuerdo con el
-artículo 71.4. de la Ley Orgánica 2/2006, de 3 de mayo, un asesoramiento individualiza-
+## Artículo 71.4. de la Ley Orgánica 2/2006, de 3 de mayo, un asesoramiento individualiza-
 do y la información necesaria que les ayude en la educación de sus hijos, por lo que serán
 informados de las medidas educativas específicas más adecuadas.
 4. A las medidas específicas determinadas en las secciones de este capítulo se aña-
@@ -1176,7 +1177,7 @@ la diversidad y la discapacidad.
 rrollo y difusión de experiencias y buenas prácticas, favoreciendo la reflexión de los cen-
 tros docentes y de las propias administraciones para afrontar cambios educativos.
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Centros privados
 El contenido de esta ley será de aplicación a los centros privados no sostenidos con
 fondos públicos, siempre que no contravenga lo dispuesto en el articulado del título I de la
@@ -1184,7 +1185,7 @@ Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y l
 cias del capítulo III del título IV y del capítulo II del título V de la Ley Orgánica 2/2006,
 de 3 de mayo.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Datos de carácter personal
 1. La obtención y el tratamiento de los datos de carácter personal del alumnado y sus
 familias se someterá a lo dispuesto en la disposición adicional vigésimo tercera de la Ley
@@ -1197,7 +1198,7 @@ tratamiento de datos personales y a la libre circulación de estos datos y por e
 ga la Directiva 95/46/CE (Reglamento General de Protección de Datos), así como la nor-
 mativa posterior que la desarrolle o modifique.
 
-## DISPOSICIÓN ADICIONAL TERCERA
+## Disposición ADICIONAL TERCERA
 Protección del menor
 De acuerdo con el artículo 57.1 de la Ley Orgánica 8/2021, de 4 de junio, de protec-
 ción integral a la infancia y la adolescencia frente a la violencia, será requisito para el ac-
@@ -1210,7 +1211,7 @@ quien pretenda el acceso a tales profesiones, oficios o actividades deberá acre
 cunstancia mediante la aportación de una certificación negativa del Registro Central de de-
 lincuentes sexuales.
 
-## DISPOSICIÓN ADICIONAL CUARTA
+## Disposición ADICIONAL CUARTA
 Atención educativa para la reeducación y reinserción de los menores y jóvenes infractores
 Los menores y jóvenes en cumplimiento de medidas judiciales de internamiento en ré-
 gimen cerrado de entre catorce y veintitrés años, así como los de régimen semiabierto y
@@ -1222,7 +1223,7 @@ dinarios y, por tanto, su historia escolar se vea condicionada por esas medidas,
 tinuar cursando la enseñanza básica y las enseñanzas postobligatorias autorizadas para su
 impartición en un centro educativo específico, creado a tal fin, en la Comunidad de Madrid.
 
-## DISPOSICIÓN TRANSITORIA ÚNICA
+## Disposición TRANSITORIA ÚNICA
 Vigencia de otras normas sobre la materia
 En materias para cuya regulación se remite a posteriores disposiciones, y en tanto es-
 tas no sean dictadas, serán de aplicación, en cada caso, las normas de ese rango vigentes a
@@ -1231,7 +1232,7 @@ la fecha de entrada en vigor de este decreto, siempre que no se opongan a lo dis
 Educación, por la que se establece la sectorización de los equipos de orientación educativa
 y psicopedagógica.
 
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 De manera expresa queda derogada en su totalidad la Orden 1493/2015, de 22 de
 mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evalua-
@@ -1240,7 +1241,7 @@ sen segundo ciclo de Educación Infantil, Educación Primaria y Enseñanza Bási
 toria, así como la flexibilización de la duración de las enseñanzas de los alumnos con altas
 capacidades intelectuales en la Comunidad de Madrid.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Habilitación para el desarrollo normativo
 Se habilita al titular de la consejería con competencia en materia de educación para dic-
 tar cuantas disposiciones sean necesarias para el desarrollo de lo dispuesto en este decreto.
@@ -1250,7 +1251,7 @@ campos de conocimiento de las ciencias que tuvieran relación con aspectos refer
 informe psicopedagógico, así como al ajuste de los mismos a posteriores desarrollos nor-
 mativos.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN

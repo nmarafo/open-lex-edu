@@ -15,7 +15,7 @@ redaccion: original
 fuente_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-1.PDF"
 fuente_pdf_oficial: "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-1.PDF"
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
+  categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: "Enseñanzas universitarias y de régimen especial"
 tags:
   - tasas_universitarias
@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid
 
@@ -463,7 +464,7 @@ taria para ello, conforme a la disposición adicional decimonovena de la Ley Org
 ca 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001, de 21 de diciem-
 bre, de Universidades.
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Comunicación de datos
 Las universidades públicas de la Comunidad de Madrid deberán facilitar a la conseje-
 ría competente en materia de universidades, en el plazo que esta establezca, información
@@ -472,19 +473,19 @@ máster y doctorado, en centros propios y centros adscritos.
 La información se facilitará ajustándose a los formatos de registro de los ficheros de re-
 misión que establezca la consejería competente y que será comunicado a las universidades.
 
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 A la entrada en vigor de este decreto queda derogado el Decreto 83/2016, de 9 de agos-
 to, del Consejo de Gobierno, por el que se establecen los precios públicos por estudios uni-
 versitarios conducentes a títulos oficiales y servicios de naturaleza académica en las univer-
 sidades públicas de la Comunidad de Madrid.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Desarrollo normativo
 Se habilita al titular de la consejería competente en materia de universidades para el
 desarrollo y ejecución de lo dispuesto en este decreto.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-

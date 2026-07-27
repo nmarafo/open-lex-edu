@@ -29,9 +29,12 @@ relaciones:
   afecta_a_articulos: []
 ---
 
+
 # Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
 
 ## Preámbulo
+
+## Artículo 1. Objeto
 
 
 JUEVES 11 DE ABRIL DE 2019Pág. 20 B.O.C.M. Núm. 86
@@ -694,7 +697,7 @@ l) Cualquier otra infracción no incluida en los apartados precedentes, que las 
 legales reguladoras de los transportes terrestres califiquen como grave, de acuerdo
 con los principios del régimen sancionador establecidos en el presente Capítulo”.
 
-## DISPOSICIÓN TRANSITORIA PRIMERA
+## Disposición TRANSITORIA PRIMERA
 Color y distintivos de los vehículos
 Los titulares de vehículos con licencia municipal de autotaxi deberán adecuar sus
 vehículos a lo que se dispone en el artículo 25 en el plazo máximo de dos años, contados
@@ -704,7 +707,7 @@ JUEVES 11 DE ABRIL DE 2019B.O.C.M. Núm. 86 Pág. 31
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Autorización de transporte interurbano
 Los titulares cuyos vehículos autotaxi no cuenten, a la entrada en vigor de este Decre-
 to, con la preceptiva autorización de transporte público discrecional interurbano en automó-
@@ -715,7 +718,7 @@ En el caso de vehículos que, por exceder de dicha antigüedad a la fecha de la 
 en vigor, no se les pudiera adscribir la citada autorización de transporte, se permitirá que
 continúen prestando servicios de carácter urbano hasta su sustitución.
 
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 Queda derogada la Orden de 14 de diciembre de 2012, de la Consejería de Transpor-
 tes, Infraestructuras y Vivienda, por la que se fijan los criterios para autorizar la expedición
@@ -723,18 +726,18 @@ de licencias de autotaxi a las que se le puedan adscribir vehículos de hasta nu
 cluido el conductor, así como cuantas disposiciones de igual o inferior rango se opongan a
 lo establecido en este Decreto.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Adaptación de las Ordenanzas Municipales
 Los municipios deberán adaptar sus Ordenanzas a lo previsto en este Reglamento en el pla-
 zo de seis meses, a contar desde su entrada en vigor, quedando sin efecto las vigentes a la entra-
 da en vigor de este Decreto en todo aquello en lo que se opongan a lo previsto en el mismo.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Habilitación a la Consejería competente en materia de Transportes
 Se habilita al Consejero competente en materia de transportes para dictar cuantas dis-
 posiciones resulten necesarias para el desarrollo y ejecución del presente Decreto.
 
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 Este Decreto entrará en vigor el día siguiente al de su publicación en el B
 OLETÍN OFI-

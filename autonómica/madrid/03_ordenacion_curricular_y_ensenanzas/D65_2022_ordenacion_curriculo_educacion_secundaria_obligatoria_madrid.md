@@ -28,6 +28,7 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+## Preámbulo
 
 # Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid
 
@@ -545,7 +546,7 @@ En estos casos se informará al informante antes de revelar su identidad, remiti
 una explicación escrita de los motivos de la revelación de los datos confidenciales, salvo
 que dicha información pudiera comprometer la investigación o el procedimiento judicial.
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Sistema electrónico seguro para el tratamiento y gestión interna
 de informaciones sobre posibles infracciones
 En el plazo de seis meses desde la entrada en vigor del presente Decreto, la consejería
@@ -560,7 +561,7 @@ nidad de Madrid, así como con aquellos órganos o unidades que, por razón de l
 puedan ponerse en funcionamiento para el conocimiento de informaciones sobre posibles
 infracciones en sus correspondientes ámbitos.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Instrucciones
 Los centros directivos competentes en materia de inspección, así como los órganos y
 unidades puestos en funcionamiento para el conocimiento de informaciones sobre posibles
@@ -576,12 +577,12 @@ JUEVES 21 DE JULIO DE 2022B.O.C.M. Núm. 172 Pág. 23
 http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-## DISPOSICIÓN DEROGATORIA
+## Disposición DEROGATORIA
 Derogación normativa
 Quedan derogadas cuantas disposiciones de igual o inferior rango que contradigan al
 presente Decreto.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Habilitación de desarrollo
 Se habilita al titular de la consejería competente en materia de transparencia y buen go-
 bierno y a los titulares de las consejerías competentes en materia de inspección, así como a
@@ -590,14 +591,14 @@ de informaciones sobre posibles infracciones en sus correspondientes ámbitos, p
 en el plazo máximo de tres meses, cuantas disposiciones sean necesarias para el desarrollo
 del presente Decreto.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Incorporación del derecho comunitario
 El presente Decreto supone la incorporación parcial al ordenamiento autonómico de la
 Directiva (UE) 2019/1937, del Parlamento Europeo y del Consejo, de 23 de octubre de 2019,
 relativa a la protección de personas que informen sobre infracciones del Derecho de la
 Unión.
 
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-
@@ -635,7 +636,7 @@ zar la etapa. Asimismo, el referido real decreto fija, para cada una de las mate
 petencias específicas previstas para la etapa, así como los criterios de evaluación y saberes
 básicos.
 De conformidad con los artículos 6.5 de la Ley Orgánica 2/2006, de 3 de mayo, y el
-artículo 18.3 del Real Decreto 243/2022, de 5 de abril, las Administraciones educativas es-
+## Artículo 18.3 del Real Decreto 243/2022, de 5 de abril, las Administraciones educativas es-
 tablecerán el currículo del Bachillerato, del que formarán parte, en todo caso, las enseñan-
 zas mínimas fijadas en el mismo y que requerirán, en el caso de la Comunidad de Madrid,
 el sesenta por 100 de los horarios escolares. A su vez, de acuerdo con el artículo 18.4, los
@@ -1434,7 +1435,7 @@ dos como tales según el procedimiento y en los términos que determine el titul
 sejería con competencias en materia de Educación, se podrá flexibilizar de acuerdo con la
 normativa vigente.
 
-## DISPOSICIÓN ADICIONAL PRIMERA
+## Disposición ADICIONAL PRIMERA
 Enseñanzas de religión
 1. Las enseñanzas de religión se incluirán en el Bachillerato de acuerdo con lo esta-
 blecido en la disposición adicional segunda de la Ley Orgánica 2/2006, de 3 de mayo.
@@ -1468,7 +1469,7 @@ das al estudio en las que deban entrar en concurrencia los expedientes académic
 obtención de la nota media a efectos de admisión de alumnos, cuando hubiera que acudir a
 la nota media para realizar una selección entre los solicitantes.
 
-## DISPOSICIÓN ADICIONAL SEGUNDA
+## Disposición ADICIONAL SEGUNDA
 Enseñanzas del Bachillerato impartidas en lenguas extranjeras
 1. El titular de la Consejería competente en materia de Educación podrá autorizar
 que una parte de las materias del currículo se impartan en lenguas extranjeras, con la excep-
@@ -1488,7 +1489,7 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 hecho de que en un centro sostenido con fondos públicos se impartan materias en lenguas
 extranjeras no supondrá, en ningún caso, modificación en los criterios de admisión.
 
-## DISPOSICIÓN ADICIONAL TERCERA
+## Disposición ADICIONAL TERCERA
 Educación de Personas Adultas
 1. El titular de la Consejería competente en materia de Educación adaptará la oferta
 del Bachillerato al principio de flexibilidad que rige la educación de personas adultas me-
@@ -1518,7 +1519,7 @@ contarán con las medidas de accesibilidad universal y las adaptaciones que prec
 alumnado con necesidades educativas especiales y se organizarán de manera diferenciada
 según las modalidades del Bachillerato.
 
-## DISPOSICIÓN ADICIONAL CUARTA
+## Disposición ADICIONAL CUARTA
 Simultaneidad de las enseñanzas profesionales de Música o de Danza y Bachillerato
 La Consejería con competencias en materia de Educación facilitará la posibilidad de
 cursar simultáneamente las enseñanzas profesionales de Música o de Danza y el Bachille-
@@ -1526,14 +1527,14 @@ rato, para lo que podrá adoptar las oportunas medidas de organización y de ord
 démica que podrán incluir, entre otras, las convalidaciones y la creación de centros integra-
 dos, así como cuantas otras medidas contemple la normativa básica de estas enseñanzas.
 
-## DISPOSICIÓN ADICIONAL QUINTA
+## Disposición ADICIONAL QUINTA
 Obtención de nuevas modalidades de Bachillerato
 Quienes hayan obtenido el título de Bachiller por una modalidad, conforme al currícu-
 lo establecido en el presente decreto, podrán obtenerlo por cualquiera de las otras modali-
 dades mediante la superación de las materias de modalidad de primer y segundo curso que,
 conforme a lo previsto en este decreto, se requieren para la modalidad elegida.
 
-## DISPOSICIÓN ADICIONAL SEXTA
+## Disposición ADICIONAL SEXTA
 Impartición de modalidades en los centros
 1. Corresponderá al titular de la Consejería competente en materia de Educación au-
 torizar a los centros a impartir las modalidades y, en su caso, vías de Bachillerato previstas
@@ -1547,7 +1548,7 @@ de entre las que tienen autorizadas. Dicha Consejería regulará el procedimient
 efectiva esta limitación, que habrá de tener en cuenta las características demográficas y so-
 ciales de cada zona educativa.
 
-## DISPOSICIÓN ADICIONAL SÉPTIMA
+## Disposición ADICIONAL SÉPTIMA
 Premios Extraordinarios de Bachillerato
 La Consejería con competencias en materia de Educación, en virtud de las competen-
 cias reconocidas a las Comunidades Autónomas en el artículo 89 de la Ley Orgáni-
@@ -1557,7 +1558,7 @@ por parte de un alumno será consignada en el expediente académico y en el hist
 mico de Bachillerato, y podrá dar lugar, además, a otro tipo de compensaciones, de acuer-
 do con lo que determine la Consejería con competencias en materia de Educación.
 
-## DISPOSICIÓN ADICIONAL OCTAVA
+## Disposición ADICIONAL OCTAVA
 Otros programas
 1. La Consejería con competencias en materia de Educación podrá implantar progra-
 mas destinados a los alumnos que finalicen la Educación Secundaria Obligatoria con un
@@ -1569,7 +1570,7 @@ currículo regulados en el Real Decreto 243/2022, de 5 de abril.
 autorizar otros programas que por su interés formativo específico sean demandados por los
 centros, siempre que respeten los aspectos regulados en el presente decreto.
 
-## DISPOSICIÓN TRANSITORIA PRIMERA
+## Disposición TRANSITORIA PRIMERA
 Aplicabilidad del Decreto 52/2015, de 21 de mayo, del Consejo de Gobierno,
 por el que se establece para la Comunidad de Madrid el currículo del Bachillerato
 Durante el curso 2022-2023, en el segundo curso del Bachillerato el currículo, la or-
@@ -1577,7 +1578,7 @@ ganización y los objetivos serán los establecidos en el Decreto 52/2015, de 21
 Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo del
 Bachillerato.
 
-## DISPOSICIÓN TRANSITORIA SEGUNDA
+## Disposición TRANSITORIA SEGUNDA
 Aplicabilidad del Decreto 29/2022, de 18 de mayo, del Consejo de Gobierno,
 por el que se establecen determinados aspectos sobre la evaluación la promoción
 y la titulación en la Educación Secundaria Obligatoria, el Bachillerato
@@ -1595,7 +1596,7 @@ Bachiller.
 MARTES 26 DE JULIO DE 2022B.O.C.M. Núm. 176 Pág. 31
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
 
-## DISPOSICIÓN DEROGATORIA ÚNICA
+## Disposición DEROGATORIA ÚNICA
 Derogación normativa
 1. Queda derogado el Decreto 52/2015, de 21 de mayo, por el que se establece para
 la Comunidad de Madrid el currículo del Bachillerato.
@@ -1605,17 +1606,17 @@ la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la For
 sional, así como en las enseñanzas de personas adultas que conduzcan a la obtención de los
 títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller.
 
-## DISPOSICIÓN FINAL PRIMERA
+## Disposición FINAL PRIMERA
 Calendario de implantación
 Lo dispuesto en este decreto se implantará en Bachillerato para el curso primero en el
 curso escolar 2022-2023, y para el curso segundo en el curso escolar 2023-2024.
 
-## DISPOSICIÓN FINAL SEGUNDA
+## Disposición FINAL SEGUNDA
 Desarrollo normativo
 Se habilita al titular de la Consejería con competencias en materia de Educación para
 dictar cuantas disposiciones sean precisas para el desarrollo de lo dispuesto en este decreto.
 
-## DISPOSICIÓN FINAL TERCERA
+## Disposición FINAL TERCERA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el B
 OLE-
@@ -1947,7 +1948,7 @@ compete a los centros educativos incorp orará todos los elementos cu rriculares
 mínimas establecidos en el Real  Decreto 243/2022, de 5 de abr il. Los términos ecodependencia, 
 ecofeminismo, ecosocial, perspec tiva de género, sexista y socioafec tivo, entre otros, incluidos en 
 el Real decreto 243/2020, de 5 de  abril, serán de aplicación de acuerdo con lo dispuesto en el 
-artículo 6.4 de la Ley Orgánica de Educación 2/2006, de 3 de mayo, de Educación. 
+## Artículo 6.4 de la Ley Orgánica de Educación 2/2006, de 3 de mayo, de Educación. 
  
 ANÁLISIS MUSICAL 
  
