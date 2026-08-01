@@ -36,6 +36,16 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
+  desarrollado_por: []
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-033
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -53,17 +63,6 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-659-2023
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 69/2025, de 4 de febrero, por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones.
 
 La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, pretende una transformación global del Sistema de Formación Profesional, a través de un sistema único e integrado de formación profesional, con la finalidad de regular un régimen de formación y acompañamiento profesionales que, sirviendo al fortalecimiento, la competitividad y la sostenibilidad de la economía española, sea capaz de responder con flexibilidad a los intereses, las expectativas y las aspiraciones de cualificación profesional de las personas a lo largo de su vida y a las competencias demandadas por las nuevas necesidades productivas y sectoriales tanto para el aumento de la productividad como para la generación de empleo.

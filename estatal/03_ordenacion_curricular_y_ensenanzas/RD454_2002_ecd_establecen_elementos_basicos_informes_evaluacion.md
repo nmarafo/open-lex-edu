@@ -37,6 +37,9 @@ relaciones:
   - norma_id: norm-es-2011-12632
   - norma_id: norm-es-2011-15628
   - norma_id: norm-es-2013-10219
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-boc-2019-143-74
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -47,17 +50,6 @@ fundamentos_derecho:
   - '22'
 - norma_id: norm-es-2001-7022
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden ECD/454/2002, de 22 de febrero, por la que se establecen los elementos básicos de los informes de evaluación de las enseñanzas que conducentes a la obtención de titulaciones de técnicos deportivos reguladas por el Real Decreto 1913/1997, de 19 de diciembre, así como los requisitos formales derivados del proceso de evaluación que son necesarios para garantizar la movilidad de los alumnos.
 
 De conformidad con la habilitación que el artículo 3.4 de la [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, confiere al Gobierno, y en desarrollo del articulo 55 de la Ley 10/1990, de 15 de octubre, del Deporte, se dictó el Real Decreto 1913/1997, de 19 de diciembre, que otorga la consideración de Enseñanzas de Régimen Especial a aquellas que conducen a la obtención de los títulos de técnicos deportivos.

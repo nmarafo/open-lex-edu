@@ -29,6 +29,9 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-1-2004
+  desarrollado_por: []
+  fundamento_de:
+  - norma_id: norm-can-res-125
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -41,17 +44,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-lo-1-2004
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
 **FELIPE VI**

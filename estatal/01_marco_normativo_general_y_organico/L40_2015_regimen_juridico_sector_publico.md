@@ -29,6 +29,13 @@ tags:
 relaciones:
   desarrollado_por:
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-res-boc-2019-016-13
   fundamentado_en:
   - norma_id: norm-es-1985-5392
   - norma_id: norm-es-1999-23750
@@ -51,6 +58,49 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-106-2009
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-086
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-res-boc-2026-075-85
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-028
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-boc-2025-061-88
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-d-52-2009
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-res-boc-2026-046-139
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -67,17 +117,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-13756
 - norma_id: norm-es-2013-12632
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
 **FELIPE VI**

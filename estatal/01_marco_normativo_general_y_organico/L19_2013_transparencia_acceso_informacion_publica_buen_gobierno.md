@@ -41,6 +41,8 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-can-o-2023-09-28
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -55,17 +57,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-5392
 - norma_id: norm-es-1999-23750
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 **JUAN CARLOS I**

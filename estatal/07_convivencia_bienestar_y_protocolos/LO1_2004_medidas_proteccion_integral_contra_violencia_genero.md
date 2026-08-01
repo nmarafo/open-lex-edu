@@ -44,6 +44,9 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-o-2023-09-28
+  desarrollado_por:
+  - norma_id: norm-can-l-16-2003
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -53,17 +56,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
 **JUAN CARLOS I**

@@ -38,6 +38,8 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -232,8 +234,7 @@ comunidad educativa.
 Contra el presente acto, que pone fin a la vía administrativa, cabe interponer recurso 
 potestativo de reposición ante la Dirección General de Administración de Centros, 
 Escolarización y Servicios Complementarios, en el plazo de un mes a contar desde el día 
-siguiente al de su publicación, o bien directamente cabe interponer recurso contencioso-
-administrativo ante la Sala de lo Contencioso-administrativo del Tribunal Superior 
+siguiente al de su publicación, o bien directamente cabe interponer recurso contenciosoadministrativo ante la Sala de lo Contencioso-administrativo del Tribunal Superior 
 de Justicia de Canarias en el plazo de dos meses a contar desde el día siguiente al de 
 la publicación de esta Resolución, significándose que en caso de interponerse recurso 
 potestativo de reposición, no se podrá acudir a la vía contencioso-administrativa hasta que 
@@ -1009,9 +1010,7 @@ de acceso, rectificación, supresión, limitación del tratamiento, oposición y
 de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante 
 el Responsable del Tratamiento. Información adicional: puede consultar la información 
 adicional y detallada en: https://www.gobiernodecanarias.org/administracionespublicas/
-tratamientodedatos/tratamientos/eucd/dgcesc/gestion-del-sistema-de-prestamo-de-
-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-
-matriculado-en-educacion-basica-en-centros-sostenidos-con-fondos-publicos/
+tratamientodedatos/tratamientos/eucd/dgcesc/gestion-del-sistema-de-prestamo-delibros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnadomatriculado-en-educacion-basica-en-centros-sostenidos-con-fondos-publicos/
 Duodécimo.- Calendario de actuaciones.
 El Calendario de actuaciones para el curso escolar 2025/2026 será establecido en 
 documentos posteriores que se harán llegar a los centros educativos y se publicará en la 

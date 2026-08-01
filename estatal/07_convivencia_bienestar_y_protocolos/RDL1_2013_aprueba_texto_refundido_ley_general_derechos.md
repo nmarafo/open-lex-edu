@@ -39,6 +39,8 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-d-25-2018
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -50,17 +52,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 Las personas con discapacidad conforman un grupo vulnerable y numeroso al que el modo en que se estructura y funciona la sociedad ha mantenido habitualmente en conocidas condiciones de exclusión. Este hecho ha comportado la restricción de sus derechos básicos y libertades condicionando u obstaculizando su desarrollo personal, así como el disfrute de los recursos y servicios disponibles para toda la población y la posibilidad de contribuir con sus capacidades al progreso de la sociedad.

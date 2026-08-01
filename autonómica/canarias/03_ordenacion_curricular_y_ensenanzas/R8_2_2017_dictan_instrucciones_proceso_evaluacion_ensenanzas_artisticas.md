@@ -30,6 +30,9 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -46,7 +49,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-808.p
 
 # Resolución de 8 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 III. Otras Resoluciones
 Consejería de Educación y Universidades
@@ -88,7 +90,6 @@ Sección Tercera, estableciendo los principios generales, los aspectos fundament
 la organización y, en el artículo 46.2, la definición del contenido y de la evaluación de estas 
 enseñanzas.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 Segundo.- El Real Decreto 1614/2009, de 26 de octubre, por el que se establece la 
 ordenación de las Enseñanzas Artísticas Superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
@@ -132,7 +133,6 @@ Comunidad Autónoma de Canarias (BOC nº 220, de 14 de noviembre).
 Noveno.- La Resolución de la Dirección General de Formación Profesional y Educación 
 de Adultos, de 20 de abril de 2016, por la que se dictan instrucciones para la realización de las 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 Prácticas externas de los estudiantes de Enseñanzas Artísticas Superiores en la Comunidad 
 Autónoma de Canarias (BOC nº 86, de 5 de mayo).
@@ -170,7 +170,6 @@ serán los criterios de evaluación de las asignaturas, que deberán ser estable
 que resulten objetivables y mensurables, de acuerdo con los parámetros indicados en las 
 correspondientes guías docentes y en las programaciones didácticas.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 3. El proceso de evaluación se desarrollará a lo largo de todo el periodo lectivo y será 
 necesario considerar tanto la evaluación del resultado como la evaluación del proceso, 
@@ -210,7 +209,6 @@ las Enseñanzas Artísticas Superiores en la Comunidad Autónoma de Canarias.
 Prácticas externas de los estudiantes de Enseñanzas Artísticas Superiores en la Comunidad 
 Autónoma de Canarias.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 Cuarta.- Desarrollo de la evaluación.
 1. Los centros de enseñanzas artísticas superiores publicarán, antes del comienzo del 
@@ -249,7 +247,6 @@ segunda o tercera matrícula, tanto de este curso como de cursos anteriores, dis
 además de un tercer momento de evaluación que coincidirá con la evaluación final ordinaria 
 del primer semestre. La realización de las pruebas de evaluación para estas asignaturas no 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 supondrá, en ningún caso, la suspensión de clases. El alumnado que se encuentre en esta 
 situación solo podrá presentarse a dos de estos tres momentos de evaluación para hacer uso 
@@ -287,7 +284,6 @@ asignatura cursada por la calificación obtenida en la misma, sumando a continua
 resultado obtenido en todas las asignaturas y dividiendo por el número de créditos ECTS 
 totales cursados por el estudiante.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 4. Según lo establecido en la Resolución de 24 de octubre de 2016, por la que se 
 dictan instrucciones sobre el reconocimiento y transferencia de créditos en las Enseñanzas 
@@ -327,7 +323,6 @@ a) Mayor calificación media del expediente.
 b) Mayor calificación media del cuarto curso.
 c) Mayor calificación en el trabajo fin de estudios.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 4. A los efectos del cálculo de la nota media, tanto si la misma se refiere a un curso como 
 si se refiere a todo el expediente académico del alumnado, se estará a lo dispuesto en la 
@@ -368,7 +363,6 @@ para los estudiantes con dedicación a tiempo completo y de ocho años para los 
 a tiempo parcial. En todos los casos, los años de interrupción de estudios no computarán a 
 efectos de permanencia en los estudios.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 c) Atendiendo a lo establecido en la Orden de 14 de marzo de 2014, si concurrieran 
 circunstancias excepcionales debidamente justificadas, la dirección general competente en 
@@ -405,7 +399,6 @@ a) Para la evaluación de asignaturas en tercera matrícula, el tribunal evaluad
 compuesto por tres profesores del departamento docente correspondiente a la asignatura objeto 
 de evaluación. El profesor que imparta la asignatura no podrá formar parte de dicho tribunal.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 b) Para la evaluación de los trabajos de fin de estudios, se estará a lo establecido en la 
 citada Resolución de 2 de noviembre de 2016.
@@ -445,7 +438,6 @@ y Educación de Adultos, cuya resolución pondrá fin a la vía administrativa.
 fin de estudios se estará a lo dispuesto en la citada Resolución de 2 de noviembre de 2016, 
 por la que se dictan instrucciones para la realización del trabajo fin de estudios.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 Decimotercera.- Documentos de evaluación.
 1. Los documentos oficiales de evaluación de las Enseñanzas Artísticas Superiores 
@@ -483,7 +475,6 @@ Título Superior de Arte Dramático.
 Título Superior de Diseño.
 Título Superior de Música.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 2. Para la obtención del Título Superior de Arte Dramático, Diseño o Música, el estudiante 
 deberá superar la totalidad de las asignaturas, las prácticas programadas, y el trabajo de fin 

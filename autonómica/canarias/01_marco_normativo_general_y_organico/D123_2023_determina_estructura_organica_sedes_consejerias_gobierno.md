@@ -31,11 +31,17 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-4-2023
   - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-res-119
   - norma_id: norm-can-res-boc-2024-049-109
   - norma_id: norm-can-res-boc-2024-117-93
   - norma_id: norm-can-res-boc-2025-044-89
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -52,43 +58,43 @@ ocr_procesado: true
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-140-2355
-Boletín Oficial de Canarias núm. 140
+
 Martes 18 de julio de 2023
 42034
 I. Disposiciones generales
 Presidencia del Gobierno
 2355	 DECRETO 47/2023, de 17 de julio, del Presidente, por el que se modifica el 
-Decreto  41/2023, de 14 de julio, del Presidente, por el que se determinan las 
+Decreto  41/2023, de 14 de julio, del Presidente, por el que se determinan las 
 competencias de la Presidencia y Vicepresidencia, así como el número, denominación, 
 competencias y orden de precedencias de las Consejerías, y se determina la 
 estructura orgánica de la Presidencia del Gobierno.
-La [Ley 4/2023](L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye 
+La [Ley 4/2023](L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y del Gobierno de Canarias, atribuye 
 en su artículo 13.i) al titular de la Presidencia la determinación del número, denominación, 
 competencias y orden de precedencia de las consejerías.
 Habiéndose determinado la reorganización que dote al Gobierno de los órganos 
 necesarios que permitan ejecutar el programa expuesto por el Presidente ante el Parlamento 
 de Canarias y por el que obtuvo la confianza de la Cámara mediante el Decreto 41/2023, 
-de 14 de julio, del Presidente, por el que se determinan las competencias de la Presidencia y 
+de 14 de julio, del Presidente, por el que se determinan las competencias de la Presidencia y 
 Vicepresidencia, así como el número, denominación, competencias y orden de precedencias 
 de las Consejerías, procede realizar ajustes en las competencias de la Presidencia del 
 Gobierno, atribuyéndole las relativas a las telecomunicaciones y las tecnologías de la 
 información, en general, en el ámbito de la Administración Pública de la Comunidad 
 Autónoma de Canarias, de sus organismos y entidades públicas vinculadas o dependientes. 
 Así mismo, la Vicepresidencia continúa con las competencias que tiene atribuidas.
-La letra j) del artículo 13 de la referida [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y 
+La letra j) del artículo 13 de la referida [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la Presidencia y 
 del Gobierno de Canarias, atribuye a la Presidencia la competencia para la aprobación del 
 reglamento orgánico de la Presidencia, por lo que procede determinar la estructura orgánica 
 de dicho departamento.
 Por otra parte, se incluye una disposición adicional por la que se dispone que la 
 Comisión Preparatoria de Asuntos del Gobierno seguirá rigiéndose por lo establecido en el 
-Decreto 37/2012, de 3 de mayo, por el que se regula la Comisión Preparatoria de Asuntos del 
+Decreto 37/2012, de 3 de mayo, por el que se regula la Comisión Preparatoria de Asuntos del 
 Gobierno, con determinadas modificaciones en su composición y apoyo administrativo, en 
-ejercicio de la competencia que se atribuye a la Presidencia por la letra k) del artículo 13 de 
+ejercicio de la competencia que se atribuye a la Presidencia por la letra k) del artículo 13 de 
 la misma Ley de la Presidencia y del Gobierno de Canarias.
 En su virtud,
 D I S P O N G O:
-Artículo 1.- Modificación del Decreto 41/2023, de 14 de julio, del Presidente.
-Se modifica el contenido del artículo 2 del Decreto 41/2023, de 14 de julio, del Presidente, 
+Artículo 1.- Modificación del Decreto 41/2023, de 14 de julio, del Presidente.
+Se modifica el contenido del artículo 2 del Decreto 41/2023, de 14 de julio, del Presidente, 
 por el que se determinan las competencias de la Presidencia y Vicepresidencia, así como 
 el número, denominación, competencias y orden de precedencias de las Consejerías, que 
 queda redactado en los términos siguientes:
@@ -98,7 +104,7 @@ Jurídicos del Gobierno, las relaciones con África y con el Consejo Económico 
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-140-2355
-Boletín Oficial de Canarias núm. 140
+
 Martes 18 de julio de 2023
 42035
 como las relativas a las telecomunicaciones y las tecnologías de la información, en general, 
@@ -130,7 +136,7 @@ r) Dirección General de Análisis y Estudios.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-140-2355
-Boletín Oficial de Canarias núm. 140
+
 Martes 18 de julio de 2023
 42036
 2. Dependen del Presidente o Presidenta del Gobierno los siguientes órganos:
@@ -168,7 +174,7 @@ Públicas, Justicia y Seguridad.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-140-2355
-Boletín Oficial de Canarias núm. 140
+
 Martes 18 de julio de 2023
 42037
 Disposición adicional primera.- Supresión de órganos.
@@ -205,14 +211,14 @@ las demás que se determinen en el Reglamento Orgánico de la Presidencia del Go
 Disposición transitoria única.- Régimen transitorio del Reglamento Orgánico de 
 la Presidencia del Gobierno.
 En tanto no se apruebe por la Presidencia del Gobierno su Reglamento Orgánico, 
-de acuerdo con lo establecido en el artículo 13 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la 
+de acuerdo con lo establecido en el artículo 13 de la [Ley 4/2023](./L4_2023_presidencia_gobierno_canarias.md), de 23 de marzo, de la 
 Presidencia y del Gobierno de Canarias, continuará vigente el Reglamento Orgánico de la 
-Presidencia del Gobierno, aprobado por Decreto 356/2019, de 19 de diciembre, en todo lo 
+Presidencia del Gobierno, aprobado por Decreto 356/2019, de 19 de diciembre, en todo lo 
 que no se oponga o resulte modificado por las disposiciones contenidas en este Decreto.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-140-2355
-Boletín Oficial de Canarias núm. 140
+
 Martes 18 de julio de 2023
 42038
 Disposición derogatoria única.- Derogación normativa.
@@ -220,12 +226,12 @@ Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan,
 contradigan o sean incompatibles con el presente Decreto.
 Disposición final primera.- Comisión Preparatoria de Asuntos del Gobierno.
 La Comisión Preparatoria de Asuntos del Gobierno se rige por lo establecido en el 
-Decreto 37/2012, de 3 de mayo, por el que se regula la Comisión Preparatoria de Asuntos 
+Decreto 37/2012, de 3 de mayo, por el que se regula la Comisión Preparatoria de Asuntos 
 del Gobierno, con las modificaciones siguientes:
 Uno.- La letra d) del apartado 1 del artículo 3 queda con la redacción siguiente:
 “d) Secretaría: la persona titular de la Secretaría General Técnica de la Consejería de 
 Presidencia, Administraciones Públicas, Justicia y Seguridad, con la asistencia de la persona 
-que designe de entre el personal funcionario de su consejería.”
+que designe de entre el personal funcionario de su consejería.”
 Dos.- El apartado 5 del artículo 3 queda redactado en la forma siguiente
 “5. Asistirán a las reuniones, pudiendo participar en las deliberaciones y formular 
 observaciones, las personas titulares de la Viceconsejería del Gabinete de la Presidencia 

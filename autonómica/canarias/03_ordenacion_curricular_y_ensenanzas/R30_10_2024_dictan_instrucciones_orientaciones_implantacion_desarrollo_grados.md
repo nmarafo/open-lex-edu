@@ -29,6 +29,7 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -46,6 +47,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-028
   - norma_id: norm-can-res-032
@@ -1085,8 +1087,7 @@ en relación con las personas con discapacidad.
 investigación de carácter aplicado, con el fin de acercar al alumnado al conocimiento de la 
 manera en que la evolución tecnológica, los procesos avanzados y la transición ecológica 
 modifican el sector productivo de Canarias. Para ello se prestará especial atención a la 
-implantación de metodologías activas como el aprendizaje basado en retos y el aprendizaje-
-servicio con el fin de que los procesos de enseñanza y aprendizaje estén conectados con la 
+implantación de metodologías activas como el aprendizaje basado en retos y el aprendizajeservicio con el fin de que los procesos de enseñanza y aprendizaje estén conectados con la 
 realidad de los sectores productivos y el mundo laboral del archipiélago.
 5. Los centros educativos que impartan formación profesional deberán contar y 
 desarrollar planes de formación vinculados con la innovación tecnológica, la transformación 

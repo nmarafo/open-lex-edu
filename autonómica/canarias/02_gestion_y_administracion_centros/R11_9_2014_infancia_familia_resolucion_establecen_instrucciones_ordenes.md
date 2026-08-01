@@ -29,6 +29,11 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2004-15601
   - norma_id: norm-es-lo-5-2000
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -45,23 +50,19 @@ fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 # Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
 
 Consejería de Cultura, Deportes, Políticas Sociales y Vivienda
-4160	 Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de sep-
-tiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del 
+4160	 Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del 
 Documento 1 “Protocolo de Registros a Personas y Dependencias en los Centros 
 de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad 
 Autónoma de Canarias”, relativo al protocolo de actuación en materia de vigilancia 
 y seguridad interior.
-Existe el mandato constitucional que obliga a los poderes públicos a asegurar la protec-
-ción social, económica y jurídica de los menores de manera especial y efectiva, artículo 39.4 
+Existe el mandato constitucional que obliga a los poderes públicos a asegurar la protección social, económica y jurídica de los menores de manera especial y efectiva, artículo 39.4 
 los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus 
 derechos, especificando como derecho fundamental el artículo 18 el derecho al honor, a la 
 intimidad personal y familiar, y a la propia imagen, derechos que gozan de mayor relevancia 
 si el sujeto es un menor por requerir de una protección de especial intensidad.
-Entendiendo que el respeto de estos derechos estará presente en la delimitación de cual-
-quier tipo de intervención, en particular de la proveniente de los poderes públicos, y dada la 
+Entendiendo que el respeto de estos derechos estará presente en la delimitación de cualquier tipo de intervención, en particular de la proveniente de los poderes públicos, y dada la 
 necesidad de elaborar un Protocolo de Registros a personas y dependencias en los Centros 
-de Internamiento Educativo para menores infractores, en materia de seguridad y vigilan-
-cia interior de los CIEMI, en la reunión de la Comisión de Seguridad y Vigilancia de los 
+de Internamiento Educativo para menores infractores, en materia de seguridad y vigilancia interior de los CIEMI, en la reunión de la Comisión de Seguridad y Vigilancia de los 
 Centros de Internamiento Educativo para Menores Infractores de Canarias, con fecha 11 de 
 febrero de 2014, se presenta propuesta de “borrador de Protocolo de Registros a personas y 
 dependencias en los Centros de Internamiento Educativo para menores infractores”, para su 
@@ -71,11 +72,9 @@ y vigilancia en los Centros de Internamiento Educativo para Menores Infractores,
 dicho borrador de Protocolo para su implantación.
 Dicho Protocolo se debe establecer conforme con los fundamentos jurídicos estatales y 
 autonómicos siguientes:
-Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Res-
-ponsabilidad Penal de Menores ([Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)), corresponde a la Administración Pública 
+Según dispone el artículo 45 de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la Responsabilidad Penal de Menores ([Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)), corresponde a la Administración Pública 
 de la Comunidad Autónoma, establecer, organizar y regular los recursos, servicios y programas 
-necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comu-
-nidad Autónoma de Canarias, mediante el Decreto Territorial 36/2002, de 8 de abril, se aprueba 
+necesarios para la ejecución de medidas judiciales de su competencia. Y a tal fin, en la Comunidad Autónoma de Canarias, mediante el Decreto Territorial 36/2002, de 8 de abril, se aprueba 
 el Reglamento de Organización y Funcionamiento de los centros para la ejecución de medidas 
 de internamiento de menores y jóvenes infractores dictadas por los Juzgados de Menores, en el 
 que se regulan las normas de organización y funcionamiento de los centros para la ejecución de 
@@ -83,22 +82,17 @@ medidas de internamiento, y en el se contienen las normas administrativas confor
 régimen jurídico especial de la actuación de la entidad pública competente en la materia. 
 Acorde con lo dispuesto en el artículo 3 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, 
 de organización de los Departamentos de la Administración Autonómica de Canarias, los 
-órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades admi-
-nistrativas que les estén adscritos o dependan de ellos funcionalmente.
+órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades administrativas que les estén adscritos o dependan de ellos funcionalmente.
 boc-a-2014-188-4160
 
-De conformidad con lo establecido en el artículo 21 de la Ley 30/1992, de 26 de noviem-
-bre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Adminis-
-trativo Común, los órganos administrativos podrán dirigir las actividades de sus órganos 
+De conformidad con lo establecido en el artículo 21 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, los órganos administrativos podrán dirigir las actividades de sus órganos 
 jerárquicamente dependientes mediante instrucciones y órdenes de servicio.
 Según lo preceptuado en el artículo 9, letra D), apartado 2, del Reglamento Orgánico 
 de la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda, aprobado por Decreto 
-64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le co-
-rresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la 
+64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le corresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la 
 ejecución de las medidas de internamiento de menores y jóvenes infractores dictadas por 
 los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del [Real Decreto 
-1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley Or-
-gánica 5/2000, se establecen los principios rectores para la realización de los registros a los 
+1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 5/2000, se establecen los principios rectores para la realización de los registros a los 
 menores y jóvenes, así como a sus bienes, enseres y a las dependencias que ocupan.
 Asimismo, y de acuerdo con la Disposición Final primera de la Orden de 1 de marzo de 
 2011, de la Consejería de Bienestar Social, Juventud y Vivienda, por la que se aprueban las 
@@ -112,8 +106,7 @@ Primero.- Establecer el Protocolo de Actuación en Materia de Vigilancia y Segur
 Interior, Documento 1 “Protocolo de Registros a Personas y Dependencias en los Centros de 
 Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de 
 Canarias”, que figura como anexo de la presente Resolución. 
-Segundo.- Dejar sin efecto cuantas instrucciones se hayan dictado en relación a los pro-
-cedimientos de realización de registros personales y de habitaciones de menores y jóvenes 
+Segundo.- Dejar sin efecto cuantas instrucciones se hayan dictado en relación a los procedimientos de realización de registros personales y de habitaciones de menores y jóvenes 
 en los Centros de Internamiento Educativo para Menores Infractores de Canarias, así como 
 de regulación de las sustancias y objetos prohibidos y del procedimiento para su ocupación, 
 en cuanto se opongan a la presente Resolución.
@@ -121,10 +114,8 @@ Tercero.- Comuníquese la presente Resolución a todos los miembros de la Comisi
 Seguridad y Vigilancia y de la Comisión General de Seguridad, Titulares de los Centros de 
 Menores y publíquese en los tablones de anuncios de los Centros de Menores y en el Boletín 
 Oficial de Canarias.
-Cuarto.- La presente Resolución surtirá efectos desde el día siguiente al de su publica-
-ción en el Boletín Oficial de Canarias.
-Las Palmas de Gran Canaria, a 11 de septiembre de 2014.- El Director General de Depen-
-dencia, Infancia y Familia, José Gilberto Moreno García.
+Cuarto.- La presente Resolución surtirá efectos desde el día siguiente al de su publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 11 de septiembre de 2014.- El Director General de Dependencia, Infancia y Familia, José Gilberto Moreno García.
 boc-a-2014-188-4160
 
 

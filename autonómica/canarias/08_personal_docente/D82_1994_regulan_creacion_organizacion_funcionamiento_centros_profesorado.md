@@ -31,8 +31,13 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -54,7 +59,6 @@ La formación permanente del profesorado exige disponer de infraestructuras espe
 1. Los Centros del Profesorado (CEP) son órganos de la Consejería de Educación destinados al desarrollo de las actividades formativas, de innovación e investigación del personal docente.
 2. Los CEP prestarán apoyo didáctico a los centros públicos de su zona de influencia.
 
-
 ### Artículo 2. Funciones de los CEP.
 1. Los Centros del Profesorado diseñarán el Plan Anual de Formación adaptado a las necesidades de los centros docentes de su ámbito geográfico.
 2. Promoverán proyectos de investigación e innovación educativa y asesorarán a los departamentos didácticos en el desarrollo de la programación docente.
@@ -62,11 +66,9 @@ La formación permanente del profesorado exige disponer de infraestructuras espe
 ### Artículo 3. Estructura de dirección.
 Cada Centro del Profesorado contará con una Dirección, una Asesoría de Formación por etapas educativas y un Consejo de Dirección.
 
-
 ### Artículo 4. Planes anuales de formación.
 1. Los Centros del Profesorado aprobarán anualmente su plan de actuación y memoria final de evaluación.
 2. Coordinarán con las Universidades canarias las actividades de actualización didáctica.
-
 
 ### Artículo 5. Recursos y gestión de sedes.
 1. Los Centros del Profesorado dispondrán de autonomía para gestionar sus partidas presupuestarias anuales asignadas por la Dirección General de Ordenación e Innovación Educativa.

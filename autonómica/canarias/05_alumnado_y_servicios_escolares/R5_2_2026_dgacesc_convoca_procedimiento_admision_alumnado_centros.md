@@ -46,9 +46,12 @@ relaciones:
   - norma_id: norm-es-2024-11613
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-110
   - norma_id: norm-can-res-boc-2026-037-105
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -990,8 +993,7 @@ Ejercicio 2:
 Presentación 
 obras 
 Ejercicio 3:
-Ejercicio armónico-
-contrapuntístico
+Ejercicio armónicocontrapuntístico
 En ___________________________________, a _____ de _________ de 20__
 (Sello)
 El Tribunal Evaluador: (firmas)

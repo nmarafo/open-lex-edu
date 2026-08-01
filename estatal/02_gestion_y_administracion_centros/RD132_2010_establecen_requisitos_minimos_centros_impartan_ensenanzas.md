@@ -46,6 +46,33 @@ relaciones:
   fundamento_de:
   - norma_id: norm-es-2012-5337
   - norma_id: norm-es-rd-476-2013
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-boc-2024-230-25
+  desarrollado_por:
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-d-276-1997
+  - norma_id: norm-can-res-juriscan-22458-15
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2018-220-18
+  - norma_id: norm-can-res-juriscan-63878-20
+  - norma_id: norm-can-res-juriscan-71394-16
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-168-2009
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-boc-2022-138-7
+  - norma_id: norm-can-d-109-1999
+  - norma_id: norm-can-res-boc-2017-235-5
+  - norma_id: norm-can-res-juriscan-58182-8
+  - norma_id: norm-can-res-boc-2018-127-9
+  - norma_id: norm-can-res-juriscan-64885-10
+  - norma_id: norm-can-res-boc-2019-016-12
+  - norma_id: norm-can-res-boc-2019-016-13
+  - norma_id: norm-can-res-boc-2018-220-19
+  - norma_id: norm-can-res-boc-2019-067-11
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-juriscan-75527-17
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -57,17 +84,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes
 
 La [Ley Orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, establece, en su artículo 14, que todos los centros docentes, independientemente de su titularidad, deberán reunir unos requisitos mínimos referidos a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas, y número de puestos escolares, para impartir enseñanzas con garantía de calidad. Por su parte, el artículo 23 de la misma ley condiciona la apertura y funcionamiento de los centros docentes privados al principio de autorización administrativa que se concederá siempre que aquellos reúnan los requisitos mínimos establecidos.

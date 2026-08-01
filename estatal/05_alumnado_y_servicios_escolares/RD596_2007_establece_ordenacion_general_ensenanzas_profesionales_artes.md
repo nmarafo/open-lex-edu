@@ -38,6 +38,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2017-220-70
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -50,17 +54,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 596/2007, de 4 de mayo, por el que se establece la ordenación general de las enseñanzas profesionales de artes plásticas y diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las enseñanzas profesionales de artes plásticas y diseño en su capítulo VI sobre enseñanzas artísticas, y las organiza en ciclos de formación específica cuya finalidad es proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales de las artes plásticas y el diseño.

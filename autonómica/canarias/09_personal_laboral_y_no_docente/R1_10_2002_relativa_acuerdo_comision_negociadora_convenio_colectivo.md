@@ -24,6 +24,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -53,7 +57,7 @@ Anterior
 Siguiente
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 3551 - Dirección General de Trabajo.- Anuncio por el que se hace pública la Resolución de 1 de octubre de 2002, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena.
-Descargar en formato pdf
+
 Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores, así como los Reales Decretos 661/1984, de 25 de enero y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos y el Decreto 329/1995, de 24 de noviembre, por el que se aprueba el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales (B.O.C. nº 159, de 15.12.95), modificado por el Decreto 138/2000, de 10 de julio (B.O.C. nº 108, de 7.8.00), esta Dirección General
 R E S U E L V E:
 Primero.- Ordenar su inscripción en el Registro Oficial de Pactos, con notificación a la Comisión Negociadora.

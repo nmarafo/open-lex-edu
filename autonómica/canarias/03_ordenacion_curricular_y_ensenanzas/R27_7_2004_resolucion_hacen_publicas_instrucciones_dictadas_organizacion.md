@@ -32,6 +32,10 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -64,7 +68,7 @@ Anterior
 Siguiente
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 1380 - Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 27 de julio de 2004, por la que se hacen públicas las instrucciones generales dictadas sobre la organización y funcionamiento de los Centros Superiores de Enseñanzas Artísticas en la Comunidad Autónoma de Canarias para el curso académico 2004-05.
-Descargar en formato pdf
+
 La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, en sus artículos 39.1, letra c), 43.1 y 49, establece las enseñanzas superiores de Música, Danza, Arte Dramático y Artes Plásticas y Diseño, enseñanzas conducentes a las correspondientes titulaciones superiores, equivalentes a los títulos universitarios de Licenciado (Música, Danza, Arte Dramático) y Diplomado (Artes Plásticas y Diseño).
 El Real Decreto 389/1992, de 15 de abril, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas artísticas, en sus artículos 18, 29, 35, Capítulo II y Capítulo III, fija los requisitos referidos a instalaciones y condiciones materiales de los Centros Superiores de Enseñanzas Artísticas.
 La normativa que ha establecido los aspectos básicos de los currículos de las enseñanzas superiores de Música y Arte Dramático y regulado sus correspondientes pruebas de acceso son el Real Decreto 617/1995, por el que se establecen los aspectos básicos del currículo del grado superior de las enseñanzas de Música y la prueba de acceso a estos estudios y el Real Decreto 754/1992, de 26 de junio, por el que se establecen los aspectos básicos del currículo de las enseñanzas de arte dramático y se regula la prueba de acceso a estos estudios.
@@ -204,59 +208,40 @@ A N E X O
 
 B. RÉGIMEN DE ENSEÑANZAS
 B.1. Plan de Estudios.
-1. De conformidad con lo dispuesto en la Dispo-
-sición Transitoria Primera del Decreto 137/2002, de
-23 de septiembre, por el que se crea el Conservato-
-rio Superior de Música de Canarias, hasta tanto se es-
-tablezca el plan de estudios específico para estas en-
-señanzas, en consonancia con la norma básica
-correspondiente, será de aplicación la Orden Minis-
-terial de 25 de junio de 1999, por la que se estable-
-ce el currículo del grado superior de las enseñanzas
+1. De conformidad con lo dispuesto en la Disposición Transitoria Primera del Decreto 137/2002, de
+23 de septiembre, por el que se crea el Conservatorio Superior de Música de Canarias, hasta tanto se establezca el plan de estudios específico para estas enseñanzas, en consonancia con la norma básica
+correspondiente, será de aplicación la Orden Ministerial de 25 de junio de 1999, por la que se establece el currículo del grado superior de las enseñanzas
 de Música.
 2. El currículo vigente de las enseñanzas superiores
-de Arte Dramático en la Comunidad Autónoma de Ca-
-narias es el establecido mediante el Decreto Territo-
-rial 118, de 17 de junio de 1999 (B.O.C. de 17 de ju-
-lio). En este marco, la EAC impartirá estas enseñanzas,
+de Arte Dramático en la Comunidad Autónoma de Canarias es el establecido mediante el Decreto Territorial 118, de 17 de junio de 1999 (B.O.C. de 17 de julio). En este marco, la EAC impartirá estas enseñanzas,
 de acuerdo con la concreción curricular establecida
 en su Proyecto Curricular de Centro.
 B.2. Clasificación de las asignaturas.
 1. Según lo dispuesto en el apartado octavo de la
-Orden Ministerial de 25 de junio de 1999, los con-
-tenidos del currículo de las diversas especialidades
+Orden Ministerial de 25 de junio de 1999, los contenidos del currículo de las diversas especialidades
 se ordenan y distribuyen en tres tipos de asignaturas:
-obligatorias, optativas y de libre elección por el alum-
-nado.
+obligatorias, optativas y de libre elección por el alumnado.
 2. De acuerdo con lo establecido en el artículo 10.7
 del Decreto Territorial 118/1999, de 27 de junio, las
 asignaturas obligatorias del currículo de enseñanzas
 superiores de Arte Dramático podrán ser anuales,
 cuatrimestrales, modulares y de proyectos de fin de
-estudios. Asimismo, el artículo 10.8 del menciona-
-do Decreto contempla la posibilidad de ofertar asig-
-naturas optativas y concertadas con otros Centros.
+estudios. Asimismo, el artículo 10.8 del mencionado Decreto contempla la posibilidad de ofertar asignaturas optativas y concertadas con otros Centros.
 3. En función de la carga lectiva asignada en el
 currículo a cada materia, los períodos lectivos de las
-distintas asignaturas podrán ser anuales y cuatri-
-mestrales. Corresponde a cada Centro Superior fijar,
+distintas asignaturas podrán ser anuales y cuatrimestrales. Corresponde a cada Centro Superior fijar,
 en su Proyecto Curricular de Centro, la duración o
 período lectivo de las materias o asignaturas de las
 distintas especialidades.
 4. Para la autorización de asignaturas optativas en
 los Centros Superiores de Enseñanzas Artísticas, se
-estará a lo dispuesto en la Resolución que la Direc-
-ción General de Formación Profesional y Educación
+estará a lo dispuesto en la Resolución que la Dirección General de Formación Profesional y Educación
 de Adultos establezca, a estos efectos.
-5. Para el establecimiento de las asignaturas de li-
-bre elección, los Centros Superiores suscribirán los
+5. Para el establecimiento de las asignaturas de libre elección, los Centros Superiores suscribirán los
 convenios de colaboración con las Universidades
-canarias y/o con otros Centros Superiores de Ense-
-ñanzas Artísticas.
+canarias y/o con otros Centros Superiores de Enseñanzas Artísticas.
 B.3. Convocatorias.
-1. En cada curso académico se realizarán dos con-
-vocatorias, que se celebrarán en junio y en septiem-
-bre, en los casos en que sea preceptiva la realización
+1. En cada curso académico se realizarán dos convocatorias, que se celebrarán en junio y en septiembre, en los casos en que sea preceptiva la realización
 de un examen con Tribunal para la superación de la
 correspondiente asignatura. En los demás casos, la
 convocatoria tendrá lugar en febrero o junio, según

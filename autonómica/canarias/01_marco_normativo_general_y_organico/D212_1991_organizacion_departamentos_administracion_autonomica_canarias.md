@@ -62,6 +62,13 @@ relaciones:
   - norma_id: norm-can-res-juriscan-65631-68
   - norma_id: norm-can-res-juriscan-65632-66
   - norma_id: norm-can-res-juriscan-71394-16
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-1-1983
 ---

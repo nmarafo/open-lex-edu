@@ -31,6 +31,9 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-d-123-2023
@@ -62,6 +65,9 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-109-92
   - norma_id: norm-can-res-boc-2026-129-26
   - norma_id: norm-can-res-boc-2026-141-29
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -921,8 +927,7 @@ de un texto único o si se incluye la de regularizar, aclarar y armonizar los te
 han de ser refundidos.
 6. El control de la legislación delegada se llevará a cabo en los términos establecidos en 
 el Reglamento del Parlamento de Canarias, sin perjuicio del que le corresponde, según la 
-legislación aplicable, al Tribunal Constitucional y a la jurisdicción de lo contencioso-
-administrativo. Las leyes de delegación podrán establecer, además, otros mecanismos de 
+legislación aplicable, al Tribunal Constitucional y a la jurisdicción de lo contenciosoadministrativo. Las leyes de delegación podrán establecer, además, otros mecanismos de 
 control.
 Artículo 46.  Decretos-leyes.
 1. En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar normas con 
@@ -1132,8 +1137,7 @@ con el procedimiento legalmente establecido.
 Artículo 63.  Control de normas, actos y acuerdos.
 1. Las normas sin rango de ley, los actos y acuerdos emanados de los órganos 
 ejecutivos y administrativos de la Comunidad Autónoma de Canarias serán recurribles en la 
-vía contencioso-administrativa, sin perjuicio de los recursos administrativos y económico-
-administrativos que procedan y de lo establecido en el artículo 153.b) de la Constitución.
+vía contencioso-administrativa, sin perjuicio de los recursos administrativos y económicoadministrativos que procedan y de lo establecido en el artículo 153.b) de la Constitución.
 2. Las normas sin rango de ley de los órganos de la Comunidad Autónoma de Canarias 
 se publicarán, para su plena validez, en el «Boletín Oficial de Canarias».
 TÍTULO III
@@ -2390,8 +2394,7 @@ Página 44
 4. Corresponde a la Comunidad Autónoma de Canarias la competencia de desarrollo 
 legislativo y de ejecución en materia de ordenación farmacéutica, así como la competencia 
 ejecutiva de la legislación estatal en materia de productos farmacéuticos.
-5. Sin perjuicio de la competencia exclusiva del Estado en materia de controles zoo-
-fitosanitarios en puertos y aeropuertos del Archipiélago, se establecerán las medidas de 
+5. Sin perjuicio de la competencia exclusiva del Estado en materia de controles zoofitosanitarios en puertos y aeropuertos del Archipiélago, se establecerán las medidas de 
 cooperación entre la Comunidad Autónoma y el Estado en dicho ámbito que garanticen el 
 nivel sanitario en las islas. Asimismo, en materia de sanidad vegetal, se acordarán los 
 correspondientes mecanismos de colaboración entre la Comunidad Autónoma y el Estado 
@@ -2917,8 +2920,7 @@ competencias en materia de unificación de criterio que le corresponden a la Adm
 General del Estado.
 El órgano competente de la Comunidad Autónoma de Canarias que se determine por su 
 normativa específica conocerá del recurso extraordinario de revisión contra actos firmes de 
-su Administración tributaria y contra resoluciones firmes de sus propios órganos económico-
-administrativos.
+su Administración tributaria y contra resoluciones firmes de sus propios órganos económicoadministrativos.
 A estos efectos, la Comunidad Autónoma de Canarias y la Administración General del 
 Estado podrán, asimismo, acordar los mecanismos de cooperación que sean precisos para 
 el adecuado ejercicio de las funciones de revisión en vía económico-administrativa.

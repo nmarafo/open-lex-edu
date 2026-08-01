@@ -37,22 +37,13 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2026-039-103
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**

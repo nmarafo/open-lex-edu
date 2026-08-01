@@ -31,6 +31,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-81-2010
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-res-boc-2019-069-48
   - norma_id: norm-es-2007-6115
@@ -139,11 +140,11 @@ Las Normas de Gobierno Interior del Parlamento de Canarias (en adelante, NGI), e
 
 Dichas Normas, en el artículo 37.3, establece que: el personal laboral al servicio del Parlamento de Canarias se rige, además de por las presentes normas en lo que les sea de aplicación, por el convenio colectivo que apruebe la Cámara para dicho personal, así como por la legislación laboral y demás disposiciones vigentes que les resulten aplicables. Asimismo, en el artículo 80 regula la valoración de los méritos que se han de tener en cuenta en los concursos de méritos.
 
-El I Convenio Colectivo del Personal Laboral del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009, en adelante, Convenio Colectivo), regula, en el artículo 4, en relación con el régimen de supletoriedad, lo siguiente: las normas contenidas en el presente Convenio regularán las relaciones entre el Parlamento de Canarias y su personal laboral, con carácter preferente y prioritario a otras disposiciones de carácter general. Con carácter supletorio, para lo no previsto en el presente Convenio, se estará, por este orden, a lo dispuesto en el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, que en ningún caso podrá ir en contra de lo establecido en el presente Convenio Colectivo.
+El I Convenio Colectivo del Personal Laboral del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009, en adelante, Convenio Colectivo), regula, en el artículo 4, en relación con el régimen de supletoriedad, lo siguiente: las normas contenidas en el presente Convenio regularán las relaciones entre el Parlamento de Canarias y su personal laboral, con carácter preferente y prioritario a otras disposiciones de carácter general. Con carácter supletorio, para lo no previsto en el presente Convenio, se estará, por este orden, a lo dispuesto en el Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, que en ningún caso podrá ir en contra de lo establecido en el presente Convenio Colectivo.
 
 El artículo 13.3 del Convenio Colectivo regula el régimen de provisión de vacantes y selección del personal laboral fijo, señalando lo siguiente:
 
-… Todas las vacantes de personal laboral fijo se proveerán por los siguientes procedimientos y con arreglo al orden de prelación que se señala:
+… Todas las vacantes de personal laboral fijo se proveerán por los siguientes procedimientos y con arreglo al orden de prelación que se señala:
 
 1.- Concurso de traslado.
 
@@ -163,19 +164,19 @@ En los artículos 16 y siguientes del Convenio Colectivo se regulan las bases de
 
 Por Acuerdo de la Mesa de 8 de septiembre de 2023 se aprobó el anteproyecto de las bases de la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre. Asimismo, las mencionadas bases fueron informadas por el representante de personal laboral y ha sido objeto de negociación en la Mesa de Negociación de Personal Laboral celebrada el 18 de septiembre de 2023.
 
-En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 del I Convenio Colectivo, con el parecer favorable del letrado-secretario general, la Mesa acuerda:
+En virtud de lo expuesto, a la vista de las competencias que tiene atribuida en el artículo 8 del I Convenio Colectivo, con el parecer favorable del letrado-secretario general, la Mesa acuerda:
 
 1.- Aprobar la convocatoria de pruebas selectivas para la provisión, en régimen de contratación laboral fija, de una plaza con la categoría de Jefe/a de Desarrollo (Grupo I) del Parlamento de Canarias, por el sistema de concurso-oposición, turno de acceso libre, en los términos que figuran en el anexo a este Acuerdo.
 
 2.- Publicar el presente Acuerdo en el Boletín Oficial del Parlamento de Canarias y en el Boletín Oficial de Canarias, así como en la página web del Parlamento, portal de transparencia y en la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
 
-En la Sede del Parlamento de Canarias, a 21 de septiembre de 2023.- El Secretario Primero, Mario Cabrera González.-V.º B.º La Presidenta, Astrid María Pérez Batista.
+En la Sede del Parlamento de Canarias, a 21 de septiembre de 2023.- El Secretario Primero, Mario Cabrera González.-V.º B.º La Presidenta, Astrid María Pérez Batista.
 
 ANEXO
 
 ACUERDO DE LA MESA DEL PARLAMENTO DE CANARIAS, DE 21 DE SEPTIEMBRE DE 2023, POR EL QUE SE APRUEBA LA CONVOCATORIA DE PRUEBAS SELECTIVAS PARA LA PROVISIÓN, EN RÉGIMEN DE CONTRATACIÓN LABORAL FIJA, DE UNA PLAZA CON LA CATEGORÍA DE JEFE/A DE DESARROLLO (GRUPO I) DEL PARLAMENTO DE CANARIAS, POR EL SISTEMA DE CONCURSO-OPOSICIÓN, TURNO DE ACCESO LIBRE.
 
-En ejecución de lo dispuesto en la Oferta de Empleo Público ordinaria y de estabilización de empleo temporal para el año 2022 del Parlamento de Canarias, aprobada por Acuerdo de la Mesa del Parlamento de Canarias, de 20 de mayo de 2022, publicado en el BOPC n.º 211, de 24.5.2022, modificado por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2.8.2023, y conforme a lo previsto en los artículos 16 y siguientes del I Convenio Colectivo del Personal del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009) y con carácter supletorio, el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, y previa negociación en la Mesa de Negociación de 18 de septiembre de 2023, la Mesa de la Cámara, en reunión de 21 de septiembre de 2023, acuerda convocar concurso-oposición, turno de acceso libre, con arreglo a las siguientes
+En ejecución de lo dispuesto en la Oferta de Empleo Público ordinaria y de estabilización de empleo temporal para el año 2022 del Parlamento de Canarias, aprobada por Acuerdo de la Mesa del Parlamento de Canarias, de 20 de mayo de 2022, publicado en el BOPC n.º 211, de 24.5.2022, modificado por Acuerdo de la Mesa de la Cámara de 28 de julio de 2023, publicado en el BOPC, n.º 32, de 2.8.2023, y conforme a lo previsto en los artículos 16 y siguientes del I Convenio Colectivo del Personal del Parlamento de Canarias (Boletín Oficial de la Provincia de Santa Cruz de Tenerife, n.º 226, de 18.11.2009) y con carácter supletorio, el [Real Decreto Legislativo 2/2015](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md), de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, en las Normas de Gobierno Interior del Parlamento de Canarias y en el resto de la legislación laboral de obligado cumplimiento, y previa negociación en la Mesa de Negociación de 18 de septiembre de 2023, la Mesa de la Cámara, en reunión de 21 de septiembre de 2023, acuerda convocar concurso-oposición, turno de acceso libre, con arreglo a las siguientes
 
 BASES
 
@@ -257,8 +258,6 @@ Conforme a lo previsto en el artículo 33 del texto refundido de las disposicion
 
 Ver anexo en las páginas 52546-52547 del documento
 
-Descargar
-
 En los casos en que, como consecuencia de la aplicación de una de las exenciones o bonificaciones anteriormente señaladas, no proceda efectuar pago alguno de los derechos de examen para la admisión a las pruebas selectivas o esté bonificado, la persona aspirante, en todo caso, hará constar en el formulario de la sede electrónica del Parlamento de Canarias que se acoge a la exención o bonificación y adjuntará el documento acreditativo de la exención o bonificación aplicada.
 
 Quienes no aporten la documentación acreditativa de la exención o bonificación aplicada perderán su derecho a participar en las pruebas selectivas.
@@ -281,13 +280,13 @@ En ningún caso, la presentación y pago de la tasa de los derechos de examen su
 
 Los errores materiales, de hecho o aritméticos que se adviertan en las solitudes podrán subsanarse de oficio o a instancia de la persona interesada.
 
-7.- Los datos personales recogidos en la solicitud de admisión serán tratados con la única finalidad de la gestión de las pruebas selectivas y las comunicaciones necesarias para ello. El nombre, apellidos y número del documento nacional de identidad se publicarán en la forma que determina la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+7.- Los datos personales recogidos en la solicitud de admisión serán tratados con la única finalidad de la gestión de las pruebas selectivas y las comunicaciones necesarias para ello. El nombre, apellidos y número del documento nacional de identidad se publicarán en la forma que determina la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
 
 Cuarta.- Admisión de las personas aspirantes.
 
 1.- Expirado el plazo de presentación de solicitudes, y a la vista de las presentadas, la Mesa del Parlamento adoptará acuerdo declarando aprobada la relación provisional de las personas aspirantes admitidas y excluidas, con expresión de los motivos de exclusión en cada caso.
 
-En dicho acuerdo, que se publicará en el BOPC y en la página web del Parlamento, portal de transparencia, se concederá un plazo de diez días hábiles, contados a partir del día siguiente al de la publicación en el BOPC, para la presentación de reclamaciones a la citada relación o subsanarse los defectos en que las personas aspirantes hubieran incurrido y que hayan motivado, en su caso, la exclusión, en los términos del artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a través de la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
+En dicho acuerdo, que se publicará en el BOPC y en la página web del Parlamento, portal de transparencia, se concederá un plazo de diez días hábiles, contados a partir del día siguiente al de la publicación en el BOPC, para la presentación de reclamaciones a la citada relación o subsanarse los defectos en que las personas aspirantes hubieran incurrido y que hayan motivado, en su caso, la exclusión, en los términos del artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a través de la sede electrónica del Parlamento de Canarias, en el punto de acceso: https://sede.parcan.es/sede/es/empleo-publico
 
 Quienes dentro del plazo de subsanación de defectos no lo hicieran, serán excluidos del proceso selectivo.
 
@@ -405,7 +404,7 @@ La puntuación máxima de este ejercicio será de 8 puntos, siendo necesario obt
 
 Tercer ejercicio:
 
-Cada uno de los supuestos de carácter práctico se calificará por el Tribunal de 0 a 12 puntos, siendo necesario obtener un mínimo de 6 puntos en cada uno de ellos para superar el ejercicio.
+Cada uno de los supuestos de carácter práctico se calificará por el Tribunal de 0 a 12 puntos, siendo necesario obtener un mínimo de 6 puntos en cada uno de ellos para superar el ejercicio.
 
 La calificación final obtenida en este ejercicio será la media aritmética de las calificaciones obtenidas en cada uno de los tres supuestos.
 
@@ -443,13 +442,9 @@ Cuando el certificado no especifique el número de horas lectivas, se computará
 
 Ver anexo en la página 52553 del documento
 
-Descargar
-
 2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
 
 Ver anexo en la página 52554 del documento
-
-Descargar
 
 No se valorarán en ningún caso, los niveles que hayan sido necesarios superar para la obtención de un nivel superior.
 
@@ -591,7 +586,7 @@ Tema 17.- I Plan de Igualdad de Mujeres y Hombres del Parlamento de Canarias. Á
 
 Tema 18.- La prevención de riesgos laborales. Regulación jurídica. Órganos de control de las medidas de prevención de riesgos en el trabajo. Responsabilidades y sanciones. La prevención de riesgos laborales en las Administraciones Públicas.
 
-Tema 19.- La transparencia de las Administraciones Públicas: [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y la Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública. Implicación de la normativa en materia de transparencia de la actividad pública y del ejercicio del derecho de acceso a la información pública en el Parlamento de Canarias.
+Tema 19.- La transparencia de las Administraciones Públicas: [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, y la Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública. Implicación de la normativa en materia de transparencia de la actividad pública y del ejercicio del derecho de acceso a la información pública en el Parlamento de Canarias.
 
 Tema 20.- El régimen jurídico de la protección de datos de carácter personal: regulación europea, estatal y autonómica. Principios en el tratamiento de los datos personales. La seguridad de los datos. Ejercicio y tutela de los derechos del titular de los datos.
 

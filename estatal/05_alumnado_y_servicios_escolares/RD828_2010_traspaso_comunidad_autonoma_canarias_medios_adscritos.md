@@ -29,6 +29,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -37,17 +41,6 @@ fundamentos_derecho:
   articulos:
   - '136'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 828/2010, de 25 de junio, de traspaso a la Comunidad Autónoma de Canarias de los medios adscritos a la gestión de las prestaciones sanitarias del Seguro Escolar.
 
 La Constitución, en su artículo 43.2, establece la obligación de los poderes públicos para organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. Además, en el artículo 149.1.16.ª y 17.ª reserva al Estado la competencia exclusiva sobre las bases y coordinación general de la sanidad, así como sobre la legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.

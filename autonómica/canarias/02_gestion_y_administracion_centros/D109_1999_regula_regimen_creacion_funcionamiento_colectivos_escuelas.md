@@ -34,9 +34,12 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-090
   - norma_id: norm-can-res-095
@@ -63,11 +66,8 @@ ocr_procesado: true
 9324
 Boletin Oficial de Canarias nim. 79, viernes 18 de junio de 1999
 ANEXO IV
-Primero.- Convocar, por el procedimiento de con-
-curso-oposicion, las plazas vacantes de la plantilla la-
-TABLADE EQUIVALENCIAS
-boral de esta Universidad, que se detallan en el ane-
-xo de la presente Resolucion.
+Primero.- Convocar, por el procedimiento de concurso-oposicion, las plazas vacantes de la plantilla laTABLADE EQUIVALENCIAS
+boral de esta Universidad, que se detallan en el anexo de la presente Resolucion.
 N' NUEVO
 N ANTIGUO
 130204002
@@ -89,31 +89,24 @@ de la Administracion General del Estado, asi como
 Otras Administraciones
 las bases de la convocatoria.
 Universidad de La Laguna
-Tercero.- Los requisitos especificos para la cate-
-goria profesional de las plazas, organos de selec-
+Tercero.- Los requisitos especificos para la categoria profesional de las plazas, organos de selec-
 1007 RESOLUCION de 15 de abril de 1999, por la
 cion, contenido de los ejercicios, y demas bases de
-que se convocan pruebas selectivas para la pro-
-la convocatoria figuran expuestas en los tablones de
-vision de plazas vacantes de la plantilla de per-
-anuncios del Rectorado de la Universidad de La
+que se convocan pruebas selectivas para la prola convocatoria figuran expuestas en los tablones de
+vision de plazas vacantes de la plantilla de peranuncios del Rectorado de la Universidad de La
 sonal laboral de esta Universidad.
 Laguna.
 En cumplimiento de lo dispuesto en los Estatutos
 Cuarto.- El plazo de presentacion de solicitudes
 de esta Universidad, aprobados por Decreto 192/1985,
-es de veinte dias naturales, contados a partir de la pu-
-de 23 de junio (B.0.E. n° 248, de 16 de octubre) y
+es de veinte dias naturales, contados a partir de la pude 23 de junio (B.0.E. n° 248, de 16 de octubre) y
 blicacion de esta convocatoria en el Boletin Oficial
 del vigente Convenio Colectivo para el Personal
 de Canarias.
 Laboral de Universidades Estatales (B.O.E. de 6 de
-octubre de 1990), con el fin de atender las necesida-
-Quinto.- Las relaciones provisionales de admiti-
-des del personal laboral, este Rectorado, en uso de
+octubre de 1990), con el fin de atender las necesidaQuinto.- Las relaciones provisionales de admitides del personal laboral, este Rectorado, en uso de
 dos y excluidos se haran publicas en el Boletin Oficial
-las competencias que le estan atribuidas por los ar-
-de Canarias y en los tablones de anuncios del Rectorado.
+las competencias que le estan atribuidas por los arde Canarias y en los tablones de anuncios del Rectorado.
 ticulos i8 y 49 de la Ley 11/1983, de 25 de agosto,
 de Reforma Universitaria, asi como en los Estatutos
 La Laguna, a 15 de abril de 1999.- El Rector, José

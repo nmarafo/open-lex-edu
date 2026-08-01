@@ -37,22 +37,13 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-o-1-9-2010
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '103.3'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**

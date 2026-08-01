@@ -32,6 +32,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -61,7 +65,7 @@ Anterior
 Siguiente
 III. OTRAS RESOLUCIONES - C.Educación, Cultura y Deportes
 1164 - RESOLUCIÓN de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
-Descargar en formato pdf
+
 Ante la necesidad de regular los aspectos básicos de organización y funcionamiento de las Residencias Escolares, teniendo en cuenta que el carácter propio que identifica a las mismas, es el de actuar como hogar de los alumnos donde se realizan actividades de ocio y estudio dirigido, esta Dirección General de Promoción Educativa dicta las siguientes instrucciones:
 1.- Programación General Anual de la Residencia Escolar.
 1.1. La Programación General Anual de la Residencia Escolar garantizará el desarrollo coordinado de todas las actividades, el correcto ejercicio de los distintos Órganos de Gobierno y la participación de todos los sectores de la Comunidad Educativa Residencial.

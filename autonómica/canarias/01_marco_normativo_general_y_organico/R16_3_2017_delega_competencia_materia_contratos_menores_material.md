@@ -32,6 +32,11 @@ relaciones:
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -49,8 +54,6 @@ ocr_procesado: true
 
 # Resolución de 16 de marzo de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se delega en la Dirección General de Formación Profesional y Educación de Adultos, la competencia en materia de contratos menores de material y equipamiento específico necesario para el desarrollo del Proyecto Enlaza (BOC n.º 61, de 28 de marzo).
 
-Boletín Oficial de Canarias núm. 61
-https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
 8457
 III. Otras Resoluciones
@@ -94,8 +97,6 @@ y su espíritu empresarial mediante una Formación Profesional atractiva, de cal
 adecuada al mercado laboral y a la carrera profesional”.
 boc-a-2017-061-1429
 
-Boletín Oficial de Canarias núm. 61
-https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
 8458
 FUNDAMENTOS DE DERECHO
@@ -137,8 +138,6 @@ la presente Resolución, harán constar esta circunstancia y se considerarán di
 los efectos por el órgano delegante.
 boc-a-2017-061-1429
 
-Boletín Oficial de Canarias núm. 61
-https://sede.gobcan.es/cpji/boc
 Martes 28 de marzo de 2017
 8459
 Tercero.- Publicar la presente resolución en el Boletín Oficial de Canarias, en 

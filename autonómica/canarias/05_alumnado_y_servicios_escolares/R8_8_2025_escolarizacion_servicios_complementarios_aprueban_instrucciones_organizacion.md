@@ -40,6 +40,9 @@ relaciones:
   - norma_id: norm-can-o-25-2-2003
   - norma_id: norm-can-res-boc-2025-061-88
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

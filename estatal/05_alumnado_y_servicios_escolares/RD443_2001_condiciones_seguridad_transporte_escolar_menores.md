@@ -32,23 +32,15 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-es-lo-2-2006
+  desarrollado_por:
+  - norma_id: norm-can-o-2-8-2006
+  fundamento_de: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '80'
   - '82'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 443/2001 sobre condiciones de seguridad en el transporte escolar y de menores
 
 Las normas de seguridad aplicables en el transporte colectivo de menores por carretera estaban recogidas en el Real Decreto 2296/1983, de 25 de agosto, sobre tráfico y circulación de vehículos escolares y de menores.

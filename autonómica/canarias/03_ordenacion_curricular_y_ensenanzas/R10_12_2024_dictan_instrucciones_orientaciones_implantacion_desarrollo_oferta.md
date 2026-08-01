@@ -25,6 +25,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-d-84-2024
@@ -39,6 +40,7 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -251,8 +253,7 @@ centros docentes públicos no universitarios de la Comunidad Autónoma de Canari
 Deportes.
 Segunda.- Características generales.
 1. A los efectos de la presente Resolución, se entenderá por:
-a) Modalidad semipresencial, aquella en la que el desarrollo del proceso de enseñanza-
-aprendizaje se lleva a cabo combinando formación presencial con formación en línea, 
+a) Modalidad semipresencial, aquella en la que el desarrollo del proceso de enseñanzaaprendizaje se lleva a cabo combinando formación presencial con formación en línea, 
 requiriendo un mínimo de asistencia presencial obligatoria del alumnado en el centro 
 educativo del 20 por ciento de la duración total del currículo, exceptuando el periodo de 
 formación en empresa u organismo equiparado (150 horas por cada uno de los cursos 

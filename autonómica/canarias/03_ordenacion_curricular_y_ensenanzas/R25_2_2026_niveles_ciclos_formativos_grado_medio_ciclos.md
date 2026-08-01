@@ -27,6 +27,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -45,6 +46,7 @@ relaciones:
   - norma_id: norm-es-2021-979
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-033
   - norma_id: norm-can-res-034
@@ -2025,8 +2027,7 @@ CAN-1040. Aplicación de aprestos.
 Real Decreto 1591/2011,
 de 4 de noviembre
 • Producción Textil y
-Tratamientos Físico-
-Químicos
+Tratamientos FísicoQuímicos
 CAN-3101A. Confección de artículos textiles para decoración 
 (Se seleccionan Resultados de aprendizaje hasta sumar 96 h)
 RA1 (40 h), RA2 (40 h), RA3 (40 h), RA4 (40 h), RA5 (43 h)

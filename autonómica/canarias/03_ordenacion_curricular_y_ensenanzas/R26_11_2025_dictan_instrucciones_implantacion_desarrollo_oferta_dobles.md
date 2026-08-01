@@ -27,6 +27,7 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -35,6 +36,8 @@ relaciones:
   - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -601,8 +604,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -645,8 +647,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -672,8 +673,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 0302 Montaje y mantenimiento de instalaciones caloríficas 206 6 SÍ
 3 0310 Montaje y mantenimiento de instalaciones de agua* 173 5
 3 0392 Montaje y mantenimiento de instalaciones de energía solar 64 2 SÍ
-3 0393 Montaje y mantenimiento de instalaciones de gas y combusti-
-bles líquidos 96 3 SÍ
+3 0393 Montaje y mantenimiento de instalaciones de gas y combustibles líquidos 96 3 SÍ
 3 1713 Proyecto intermodular 64 2
 3 Módulo profesional optativo 96 3
 DURACIÓN TOTAL DEL TERCER CURSO 872 26
@@ -686,8 +686,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -727,8 +726,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -775,8 +773,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -800,8 +797,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 3 0604 Montado y acabado de calzado 173 5 SÍ
 3 0605 Procesos de elaboración de calzado a medida 96 3 SÍ
-3 0606 Técnicas de fabricación de calzado a medida y ortopé-
-dico 206 6 SÍ
+3 0606 Técnicas de fabricación de calzado a medida y ortopédico 206 6 SÍ
 3 0607 Transformación de calzado para espectáculos 141 4 SÍ
 3 0611 Calzado y tendencias* 96 3
 3 1713 Proyecto intermodular 64 2
@@ -817,8 +813,7 @@ Curso
 Código Real 
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
 (h/semana) (h/semana) (h/semana)
@@ -861,8 +856,7 @@ Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos 
 ECTS
-Duración ho-
-ras anuales
+Duración horas anuales
 1er curso 2º curso 3er curso
 Asociados a 
 ECP
@@ -899,11 +893,9 @@ RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR
 DE DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 
 FAMILIA PROFESIONAL: ARTES GRÁFICAS GRADO: SUPERIOR
-CICLO FORMATIVO: DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA Y DISEÑO Y EDICIÓN DE PU-
-BLICACIONES IMPRESAS Y MULTIMEDIA 
+CICLO FORMATIVO: DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA Y DISEÑO Y EDICIÓN DE PUBLICACIONES IMPRESAS Y MULTIMEDIA 
 Curso
-Código Real De-
-creto
+Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
 Duración horas 
@@ -945,8 +937,7 @@ FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES Y  MARKETING Y PUBLICI -
 DAD
 Curso
-Código Real De-
-creto
+Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
 Duración horas 
@@ -987,8 +978,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: TRANSPORTE Y LOGÍSTICA Y COMERCIO INTERNACIONAL
 Curso
-Código Real De-
-creto
+Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos 
 ECTS
@@ -1186,8 +1176,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 0489 Programación multimedia y dispositivos móviles 7 141 4
 3 0490 Programación de servicios y procesos 5 96 3 SÍ
 3 0491 Sistemas de gestión empresarial 6 96 3 SÍ
-3 0492 Proyecto intermodular de desarrollo de aplicaciones multipla-
-taforma
+3 0492 Proyecto intermodular de desarrollo de aplicaciones multiplataforma
 5 64 2
 3 Módulo profesional optativo 5 96 3
 DURACIÓN TOTAL DEL TERCER CURSO 872 26
@@ -1198,8 +1187,7 @@ FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
 CICLO FORMATIVO: IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR Y  RADIOTERAPIA Y 
 DOSIMETRÍA
 Curso
-Código Real De-
-creto
+Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
 Duración horas 
@@ -1223,8 +1211,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 1354 Técnicas de radiofarmacia 6 64 2 SÍ
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 1355 Proyecto intermodular de imagen para el diagnóstico y medi-
-cina nuclear 5 64 2
+2 1355 Proyecto intermodular de imagen para el diagnóstico y medicina nuclear 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 1359 Simulación del tratamiento 9 170 5
 3 1360 Dosimetría física y clínica 9 138 4 SÍ
@@ -1237,8 +1224,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2808 30 27 27
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
-CICLO FORMATIVO: LABORATORIO CLÍNICO Y BIOMÉDICO Y ANATOMÍA PATOLÓGICA Y CITODIAG-
-NÓSTICO
+CICLO FORMATIVO: LABORATORIO CLÍNICO Y BIOMÉDICO Y ANATOMÍA PATOLÓGICA Y CITODIAGNÓSTICO
 Curso
 Código Real 
 Decreto

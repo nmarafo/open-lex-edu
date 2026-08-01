@@ -53,22 +53,16 @@ relaciones:
   - norma_id: norm-es-rd-157-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rd-943-2003
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-d-114-2011
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
 **JUAN CARLOS I,**

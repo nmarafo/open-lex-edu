@@ -27,6 +27,10 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -70,8 +74,6 @@ Siguiente
 I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
 
 377 - ORDEN de 17 de marzo de 2005, por la que se amplía el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, así como las condiciones y los diseños físicos y lógicos para la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias.
-
-Descargar en formato pdf
 
 Existiendo problemas de disponibilidad del soporte físico del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, se hace necesario prorrogar el plazo de presentación del mismo, dada la circunstancia sobrevenida.
 

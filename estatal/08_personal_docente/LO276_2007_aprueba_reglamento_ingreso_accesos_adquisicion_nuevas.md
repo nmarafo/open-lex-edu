@@ -45,6 +45,20 @@ relaciones:
   - norma_id: norm-es-2009-20550
   - norma_id: norm-es-2015-9453
   - norma_id: norm-es-2026-2622
+  - norma_id: norm-can-res-boc-2025-094-137
+  - norma_id: norm-can-res-juriscan-75818-136
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-d-82-1994
+  - norma_id: norm-can-res-boc-2018-019-130
+  - norma_id: norm-can-res-juriscan-41360-129
+  - norma_id: norm-can-d-74-2010
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-juriscan-64565-138
+  - norma_id: norm-can-res-boc-2022-158-132
+  - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-res-juriscan-61148-128
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1998-10720
@@ -87,17 +101,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1998-10720
 - norma_id: norm-es-2007-5478
 ---
-
-
-
-
-
-
-
-
-
-
-
 # [Real Decreto 276/2007](RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md) - Reglamento de Ingreso, Accesos y Adquisición de Nuevas Especialidades en Cuerpos Docentes
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases del régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia ley orgánica y la normativa que la desarrolle para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.

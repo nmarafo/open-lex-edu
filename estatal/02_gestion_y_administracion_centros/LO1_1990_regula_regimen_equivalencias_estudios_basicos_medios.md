@@ -59,6 +59,19 @@ relaciones:
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rd-476-2013
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-098
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-juriscan-48984-84
+  - norma_id: norm-can-res-juriscan-30668-127
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2004-189-65
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-res-boc-2019-143-74
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -71,17 +84,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-6938
 - norma_id: norm-es-2002-25289
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden de 20 de marzo de 2001 por la que se regula el régimen de equivalencias de los estudios básicos y medios cursados en los países signatarios del Convenio "Andrés Bello", con los correspondientes españoles de Educación Secundaria Obligatoria y Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
 
 En cumplimiento del artículo 4 del Convenio, la XIX Reunión de Ministros de Educación de los países signatarios aprobó la Resolución número 006-98 por la que se actualizan las equivalencias de estudios realizados conforme a los respectivos sistemas educativos. Es preciso, por tanto, incorporar tales equivalencias al ordenamiento español.

@@ -58,6 +58,15 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-o-2023-09-28
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-boc-2024-230-25
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -77,17 +86,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 3/2018 de Protección de Datos Personales y Garantía de los Derechos Digitales
 
 **FELIPE VI**

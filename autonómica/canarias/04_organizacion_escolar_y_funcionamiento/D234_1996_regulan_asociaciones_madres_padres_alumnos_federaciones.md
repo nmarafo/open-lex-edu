@@ -29,9 +29,13 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-1533-1986
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-ce-1978
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -55,14 +59,12 @@ La Constitución Española en su artículo 27 garantiza la participación de la 
 1. El presente Decreto regula la constitución, organización y funcionamiento de las Asociaciones de Madres y Padres de Alumnos (AMPAS) en los centros docentes no universitarios de la Comunidad Autónoma de Canarias.
 2. Las AMPAS tendrán como finalidad la colaboración con los centros escolares en las actividades educativas y extracurriculares.
 
-
 ### Artículo 2. Derechos de las Asociaciones.
 1. Las AMPAS integradas en los centros escolares tendrán derecho a utilizar los locales y dependencias del centro para la celebración de reuniones y actividades acordes con sus fines.
 2. Tendrán acceso al censo de madres y padres para la difusión de sus convocatorias y boletines informativos.
 
 ### Artículo 3. Representación en el Consejo Escolar.
 Las Asociaciones de Madres y Padres de Alumnos más representativas propondrán a sus representantes para la incorporación a las comisiones del Consejo Escolar del centro.
-
 
 ### Artículo 4. Garantías de participación escolar.
 1. Los centros docentes facilitarán los medios informativos para que las asociaciones de padres y madres puedan comunicar a la comunidad educativa sus iniciativas.

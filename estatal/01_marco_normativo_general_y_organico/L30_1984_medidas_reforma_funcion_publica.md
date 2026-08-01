@@ -38,22 +38,16 @@ relaciones:
   - norma_id: norm-es-rd-1364-2010
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-res-boc-1996-057-140
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-res-juriscan-49002-54
+  - norma_id: norm-can-d-109-1999
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**

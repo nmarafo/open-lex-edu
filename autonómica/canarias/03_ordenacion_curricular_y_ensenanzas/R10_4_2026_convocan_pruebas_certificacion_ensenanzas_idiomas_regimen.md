@@ -38,8 +38,11 @@ relaciones:
   - norma_id: norm-es-2019-317
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-075-85
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -3712,8 +3715,7 @@ aunque puede presentar alguna vacilación o
 interrumpirse puntualmente.
 ❏ Inicia,  mantiene  y  finaliza  su  discurso  con 
 habilidad,  transmitiendo  matices  sutiles  con  
-razonable  corrección.  /  Participa  en  la  co-
-construcción  del  discurso  de  manera  fluida, 
+razonable  corrección.  /  Participa  en  la  coconstrucción  del  discurso  de  manera  fluida, 
 enlazando  lógicamente  sus  aportaciones  para 
 que  la  conversación  se  desarrolle  de  forma 
 natural y efectiva.
@@ -3936,8 +3938,7 @@ aunque  puede  presentar  alguna  vacilación  o
 interrumpirse puntualmente.
 ❏ Inicia, mantiene y finaliza su discurso con  
 habilidad, transmitiendo matices sutiles con  
-razonable  corrección. / Participa en la co-
-construcción de la conversación con fluidez,  
+razonable  corrección. / Participa en la coconstrucción de la conversación con fluidez,  
 enlazando lógicamente sus aportaciones para 
 que la conversación se desarrolle de forma  
 natural y efectiva.

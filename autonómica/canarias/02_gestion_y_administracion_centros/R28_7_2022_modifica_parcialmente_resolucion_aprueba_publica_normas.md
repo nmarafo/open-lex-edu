@@ -34,6 +34,9 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-es-rd-2377-1985
   - norma_id: norm-es-rdl-2-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

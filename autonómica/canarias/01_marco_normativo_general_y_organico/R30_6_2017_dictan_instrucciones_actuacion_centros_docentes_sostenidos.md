@@ -40,10 +40,14 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2025-039-104
   - norma_id: norm-can-res-boc-2025-047-108
   - norma_id: norm-can-res-boc-2026-039-103
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -68,8 +72,6 @@ ocr_procesado: true
 
 # Resolución de 30 de junio de 2017, de la Dirección General de Centros e Infraestructura Educativa, por la que se dictan instrucciones para la actuación de los centros docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, divorciados, que hayan finalizado su convivencia, o representantes legales, respecto a sus descendientes o representados, menores de edad, en el ámbito de las enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n.º 132, de 11 de julio).
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19483
 III. Otras Resoluciones
@@ -78,7 +80,7 @@ Consejería de Educación y Universidades
 junio de 2017, por la que se dictan instrucciones para la actuación de los centros 
 docentes sostenidos con fondos públicos, en los casos de padres, madres, separados, 
 divorciados, que hayan finalizado su convivencia, o representantes legales, respecto 
-a sus descendientes o representados,  menores de edad, en el ámbito de las enseñanzas 
+a sus descendientes o representados,  menores de edad, en el ámbito de las enseñanzas 
 no universitarias de la Comunidad Autónoma de Canarias.
 El actual sistema educativo español reconoce que los padres, las madres o las personas 
 representantes legales son los primeros responsables de la educación de sus hijos o menores 
@@ -114,8 +116,6 @@ servicios, se encuentran con situaciones delicadas e imprevistas que les obliga 
 decisiones en relación con el alumnado cuyos padres, madres o personas representantes 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19484
 legales están atravesando por diferentes situaciones familiares: procesos de separación, 
@@ -162,8 +162,6 @@ se centran en lo siguiente: la escolarización, los cambios de centro, la inform
 recogida y entrega del menor en horario escolar.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19485
 Estas instrucciones pretenden guiar, fundamentalmente, al personal de los centros 
@@ -205,8 +203,6 @@ universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organ
 funcionamiento (BOC nº 200, de 16 de octubre). 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19486
 Considerando todo lo expuesto anteriormente, consultadas la Inspección de Educación y 
@@ -227,8 +223,6 @@ Santa Cruz de Tenerife, a 30 de junio de 2017.- La Directora General de Centros 
 Infraestructura Educativa, Ana Isabel Dorta Alonso.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19487
 A N E X O
@@ -271,8 +265,6 @@ F) Acta de mediación escolar con acuerdo entre las partes.
 G) Acta de mediación escolar sin acuerdo entre las partes.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19488
 INSTRUCCIONES
@@ -314,8 +306,6 @@ el buen clima escolar, e impulsar la colaboración con las familias promoviendo 
 educativos pedagógicos y convivenciales.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19489
 d) Informar de los derechos y deberes. Corresponde al centro docente, en coordinación 
@@ -361,8 +351,6 @@ en las instrucciones cuarta y quinta, a quien tenga la guarda y custodia de hech
 consigo el hijo o la hija menor de edad. 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19490
 Asimismo, ante la carencia de documentación, notificación verbal o escrita, de cualquiera 
@@ -406,8 +394,6 @@ padre, la madre o la persona representante legal actúa en el ejercicio de la pa
 el consentimiento del otro.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19491
 3. Matrícula durante el proceso anual de admisión.
@@ -452,8 +438,6 @@ ser llevado o recogido del centro por uno de ellos con mayor frecuencia, será e
 próximo al domicilio o centro de trabajo del referido progenitor o progenitora.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19492
 Si la custodia es compartida o convive por igual con ambos progenitores, o el régimen 
@@ -496,8 +480,6 @@ hijas ...), ya que en caso contrario, deberá acreditarlo a la mayor brevedad po
 documentación justificativa. 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19493
 Sexta.- Derecho de información de los padres, las madres o las personas 
@@ -541,8 +523,6 @@ producido un cambio en esta situación legal.
 se tendrá en cuenta, en caso de existir resolución judicial, las medidas paternofiliales 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19494
 adoptadas por parte de un juzgado o tribunal. Mientras no haya una resolución judicial, por 
@@ -583,8 +563,6 @@ guarda custodia, régimen de visitas ..., en otros pleitos penales o de cualquie
 únicamente se entregará información sobre datos objetivos o registros del centro, las 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19495
 calificaciones escolares, el rendimiento, la asistencia o las ausencias a clase. Cualquier otra 
@@ -629,8 +607,6 @@ centro para la entrega y recogida de sus hijos e hijas, reuniones, actos o event
 han sido convocados. Por tanto, con carácter general no podrán interrumpir el proceso de 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19496
 aprendizaje ni el horario lectivo con el fin de comunicar con sus hijos o hijas dentro de la 
@@ -671,8 +647,6 @@ progenitor también por cualquier medio que acredite su recepción, a fin de que
 a su vez, sobre su autenticidad y vigencia.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19497
 En caso de no recibir respuesta de la otra parte en el plazo de cinco días, se entenderá que 
@@ -715,8 +689,6 @@ c) Confidencialidad. Se garantizará a las partes en conflicto la estricta confi
 de toda la información surgida durante el procedimiento de mediación, y no podrá utilizarse 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19498
 dicha información en el caso de continuarse la gestión del conflicto por otra vía ajena a la 
@@ -759,8 +731,6 @@ Toda la comunidad educativa tiene el deber de cooperar con los funcionarios de o
 administraciones (Juzgados, Tribunales, Ayuntamientos). Si este personal funcionario se 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19499
 presenta con un documento emitido por un Juzgado o Tribunal se estará a lo que en él se 
@@ -802,8 +772,6 @@ partes implicadas y la persona mediadora, quien siendo ajena al conflicto y actu
 forma imparcial les ayuda a comunicarse. El objetivo es que las partes encuentren y decidan 
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19500
 de común acuerdo la manera de solucionar el problema que les mantenía en conflicto. El 
@@ -844,8 +812,6 @@ todo ello bajo apercibimiento de responsabilidad penal.
 determinados lugares.
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19501
 DOCUMENTO A)
@@ -876,8 +842,6 @@ D./ D.ª (indicar nombre y dos apellidos)_______________________________________
 FIRMA
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19502
 DOCUMENTO B)
@@ -906,8 +870,6 @@ Observación:
     Fdo. D./ D.ª __________________________                                Fdo. D./ D.ª __________________________
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19503
 DOCUMENTO C)
@@ -937,8 +899,6 @@ Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª  ________________
        
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19504
 DOCUMENTO D)
@@ -966,8 +926,6 @@ Comparecientes
 Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª ____________________________
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19505
 DOCUMENTO E)
@@ -1001,8 +959,6 @@ Comparecientes
 Fdo.  D./ D.ª  ______________________________     Fdo.  D./ D.ª ____________________________
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19506
 DOCUMENTO F)
@@ -1035,8 +991,6 @@ Comparecientes
 Fdo. D./ D.ª ______________________________     Fdo.D./ D.ª  ____________________________
 boc-a-2017-132-3376
 
-Boletín Oficial de Canarias núm. 132
-https://sede.gobcan.es/cpji/boc
 Martes 11 de julio de 2017
 19507
 DOCUMENTO G)

@@ -25,6 +25,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -54,7 +58,7 @@ Anterior
 Siguiente
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 143 - DirecciónGeneral de Trabajo.- Anuncio por el que se hace pública la Resolución de 21 de diciembre de 2006, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera.
-Descargar en formato pdf
+
 Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera, y de conformidad con lo dispuesto en el artº. 90 del Real Decreto Legislativo 1/1995, de 24 de marzo, por el que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores y los Reales Decretos 661/1984, de 25 de enero, y 1.033/1984, de 1 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación; el Real Decreto 1.040/1981, de 22 de mayo, sobre depósito y registro de Convenios Colectivos, y el Reglamento Orgánico de la Consejería de Empleo y Asuntos Sociales, modificado por el Decreto 39/2005, de 16 de marzo (B.O.C. nº 63, de 31.3.05), esta Dirección General de Trabajo
 ACUERDA:
 Primero.- Ordenar la inscripción en el Registro de Convenios Colectivos con notificación a la Comisión Negociadora.

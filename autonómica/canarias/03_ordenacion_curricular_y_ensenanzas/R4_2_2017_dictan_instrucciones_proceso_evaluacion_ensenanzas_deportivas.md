@@ -35,6 +35,9 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -55,7 +58,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-036-807.p
 
 # Resolución de 4 de febrero de 2017, por la que se dictan instrucciones para el proceso de evaluación en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias (BOC n.º 36, de 21 de febrero).
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 III. Otras Resoluciones
 Consejería de Educación y Universidades
@@ -96,7 +98,6 @@ modalidades o especialidades, procediendo dictar instrucciones para el proceso d
 con el fin de que los centros dispongan de un instrumento que facilite la evaluación del 
 proceso de aprendizaje, de acuerdo con lo objetivos curriculares de estas enseñanzas.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 FUNDAMENTOS DE DERECHO 
 Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
@@ -136,7 +137,6 @@ Segunda.- Aspectos generales de la evaluación.
 1. De acuerdo con los dispuesto en el artículo 13 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 
 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 régimen especial, la evaluación del aprendizaje del alumnado será continua y se realizará 
 por módulos de enseñanza deportiva. La evaluación tendrá un carácter eminentemente 
@@ -179,7 +179,6 @@ correspondiente teniendo en cuenta los diferentes elementos del currículo que s
 en la programación docente de dicho módulo. El equipo docente, constituido por el 
 profesorado de un determinado grupo, y coordinado por quien ejerza la tutoría, velará por 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 que la evaluación del alumnado a lo largo del curso sea continua. Adoptará, además, el resto 
 de las decisiones resultantes del proceso de evaluación que correspondan a dicho equipo.
@@ -220,7 +219,6 @@ recuperación para el alumnado que acceda a la formación práctica con módulos
 Así mismo, la Dirección del centro fijará el calendario para la realización de una prueba 
 extraordinaria para el alumnado con módulos pendientes que no ha accedido a la formación 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 práctica. Esta prueba será elaborada por el profesorado responsable del módulo correspondiente, 
 considerando, en todo caso, los aspectos curriculares mínimos no adquiridos, y podrá versar 
@@ -263,7 +261,6 @@ De acuerdo con lo dispuesto en el artículo 12, apartado 3, del [Real Decreto 13
 de 24 de octubre, dado su carácter integrador, el módulo de proyecto final se presentará una 
 vez superados los restantes módulos comunes y específicos de enseñanza deportiva.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 La tercera sesión de evaluación, que tendrá la consideración de evaluación final, será 
 posterior a la realización de la formación práctica, y en ella se realizará la evaluación de 
@@ -304,7 +301,6 @@ estructura y funcionamiento del centro deportivo, de las instalaciones y de los 
 las prácticas, así como del grupo o grupos con los que haya realizado dichas prácticas. Esta 
 memoria la deberá presentar el alumnado al finalizar el periodo de prácticas. 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 b) Fichas semanales del seguimiento de las actividades y de las tareas que se desarrollen 
 en el centro deportivo o institución colaboradora. Dichas fichas serán elaboradas por el 
@@ -344,7 +340,6 @@ que se refiere el apartado tres. El alumnado entregará en la Secretaría del ce
 del proyecto final dirigidas a la Dirección, quien archivará una de ellas en el expediente 
 académico y entregará otra al tribunal a que se refiere el apartado siguiente.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 La presentación y defensa del proyecto final ante el tribunal se realizará en el día y hora 
 establecidos por la Dirección del centro.
@@ -384,7 +379,6 @@ La calificación final de las enseñanzas conducentes a los títulos de grado me
 media ponderada, en función de la carga lectiva, de las calificaciones obtenidas en el ciclo 
 inicial y en el ciclo final de grado medio. 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 4. Los módulos profesionales convalidados o exentos no serán computados a los efectos 
 de obtener la calificación final de cada ciclo y serán registrados en los documentos de 
@@ -426,7 +420,6 @@ la conveniencia o no de la concesión de dicha convocatoria extraordinaria en el
 diez días a contar desde la fecha en que hubiera recibido la solicitud, debiendo notificar por 
 escrito la resolución a la persona solicitante. 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 La concesión de la convocatoria extraordinaria exigirá que el alumnado beneficiario de la 
 misma realice una matrícula a tal fin, debiéndosele asimismo comunicar la fecha y el modo 
@@ -467,7 +460,6 @@ específico.
 La renuncia a la convocatoria de evaluación supone la renuncia a la evaluación final de 
 uno o varios módulos de enseñanza deportiva, sin que ello implique la baja de matrícula.
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 La solicitud de renuncia, dirigida a la Dirección del centro donde figure su expediente 
 académico, se deberá presentar con una antelación mínima de un mes a la fecha prevista para 
@@ -507,7 +499,6 @@ a la Dirección del centro. La reclamación deberá ser presentada por el alumna
 propio nombre o a través de sus representantes legales, en la secretaría del centro en el plazo 
 de los dos días hábiles siguientes a la publicación o notificación de las calificaciones. 
 
-https://sede.gobcan.es/cpji/boc
 Martes 21 de febrero de 2017
 3. La Dirección del centro requerirá un informe que incluya los datos aportados por el 
 profesor o la profesora que imparte el módulo y por el departamento correspondiente. Podrá 

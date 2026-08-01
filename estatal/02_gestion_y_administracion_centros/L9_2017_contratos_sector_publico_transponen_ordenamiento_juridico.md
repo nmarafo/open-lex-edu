@@ -42,6 +42,10 @@ relaciones:
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
   - norma_id: norm-es-2022-11589
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-d-84-2024
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -58,17 +62,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 9/2017 de Contratos del Sector Público
 
 **FELIPE VI**

@@ -32,12 +32,16 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-res-055
   - norma_id: norm-can-res-086
   - norma_id: norm-can-res-119
   - norma_id: norm-can-res-boc-2025-044-89
   - norma_id: norm-can-res-boc-2026-039-102
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

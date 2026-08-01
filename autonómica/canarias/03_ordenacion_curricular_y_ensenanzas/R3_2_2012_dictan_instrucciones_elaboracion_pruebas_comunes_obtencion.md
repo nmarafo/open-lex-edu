@@ -28,6 +28,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,120 +48,69 @@ Consejería de Educación,
 Universidades y Sostenibilidad
 870 Dirección General de Formación Profesional
 y Educación de Adultos.- Resolución de 3 de
-febrero de 2012, por la que se dictan instruc-
-ciones para la elaboración de las pruebas co-
-munes de obtención de los certificados de en-
-señanzas de idiomas de régimen especial, en
-la Comunidad Autónoma de Canarias, a par-
-tir del curso 2012-2013.
-Siendo necesario establecer un procedimiento co-
-mún para la elaboración de las pruebas de obtención
-de los certificados de enseñanzas de idiomas de ré-
-gimen especial en la Comunidad Autónoma de Ca-
-narias, y teniendo en cuenta los siguientes
+febrero de 2012, por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados de enseñanzas de idiomas de régimen especial, en
+la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
+Siendo necesario establecer un procedimiento común para la elaboración de las pruebas de obtención
+de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Desde el año 2006, las pruebas de ob-
-tención de los certificados de enseñanzas de idiomas
+Primero.- Desde el año 2006, las pruebas de obtención de los certificados de enseñanzas de idiomas
 de régimen especial se vienen desarrollando en esta
 Comunidad Autónoma de acuerdo con unas normas
 concretas de elaboración, organización, aplicación y
 calificación. Estas pruebas han sido confeccionadas
-por unas comisiones específicas, convocadas al efec-
-to, e integradas por profesorado que, de forma vo-
-luntaria, ha confeccionado los exámenes de los idio-
-mas impartidos en Canarias, hasta el año 2010.
+por unas comisiones específicas, convocadas al efecto, e integradas por profesorado que, de forma voluntaria, ha confeccionado los exámenes de los idiomas impartidos en Canarias, hasta el año 2010.
 Segundo.- La experiencia adquirida durante estos
 años en la elaboración, desarrollo y aplicación de las
 pruebas demuestran la validez del trabajo efectuado,
-y aconsejó la modificación de alguna de las prácti-
-cas realizadas, de manera que las Escuelas Oficiales
+y aconsejó la modificación de alguna de las prácticas realizadas, de manera que las Escuelas Oficiales
 de Idiomas (EOI), a través de sus Departamentos de
 coordinación didáctica, participaran activamente en
 la elaboración de las mismas.
-Tercero.- Las pruebas del año 2011 fueron con-
-feccionas por las EOI, a través de los Departamen-
-tos de coordinación didáctica de cada idioma, lo que
+Tercero.- Las pruebas del año 2011 fueron confeccionas por las EOI, a través de los Departamentos de coordinación didáctica de cada idioma, lo que
 propició la participación y coordinación de todo el
 profesorado en tareas de elaboración y evaluación de
-pruebas, lo que repercute positivamente en la prác-
-tica docente y, consiguientemente, en las enseñanzas
+pruebas, lo que repercute positivamente en la práctica docente y, consiguientemente, en las enseñanzas
 de idiomas.
 A estos hechos les son de aplicación los siguientes 
 FUNDAMENTOS DE DERECHO
 Primero.- El Decreto 362/2007, de 2 de octubre,
-por el que se establece la ordenación de las enseñan-
-zas de idiomas de régimen especial en la Comuni-
-dad Autónoma de Canarias (BOC nº 205, de 15 de
-octubre), que, en el apartado 3, de su artículo 14 de-
-termina que “las pruebas serán elaboradas, adminis-
-tradas y evaluadas, según lo que establezca la Con-
-sejería competente en materia de educación y tendrán
+por el que se establece la ordenación de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 205, de 15 de
+octubre), que, en el apartado 3, de su artículo 14 determina que “las pruebas serán elaboradas, administradas y evaluadas, según lo que establezca la Consejería competente en materia de educación y tendrán
 como referente los objetivos, contenidos y criterios
 de evaluación establecidos en los currículos respectivos”.
-Segundo.- La Orden de la Consejería de Educa-
-ción, Universidades, Cultura y Deportes, de 17 de
+Segundo.- La Orden de la Consejería de Educación, Universidades, Cultura y Deportes, de 17 de
 abril de 2009, por la que se regula la evaluación del
-alumnado que cursa enseñanzas de idiomas de ré-
-gimen especial en la Comunidad Autónoma de Ca-
-narias (BOC nº 83, de 4 de mayo), que, en el apar-
-tado 4 de su artículo 18, establece que “las pruebas
-de certificación serán comunes en toda la Comu-
-nidad Autónoma para cada uno de los idiomas im-
-partidos. Sus características, aplicación y califica-
-ción, así como su organización y desarrollo se
+alumnado que cursa enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC nº 83, de 4 de mayo), que, en el apartado 4 de su artículo 18, establece que “las pruebas
+de certificación serán comunes en toda la Comunidad Autónoma para cada uno de los idiomas impartidos. Sus características, aplicación y calificación, así como su organización y desarrollo se
 atendrán a las instrucciones que al respecto dicte
 la Administración Educativa”. 
-Tercero.- La disposición final primera de la men-
-cionada Orden de 17 de abril de 2009, dice que se
-“autoriza a la Dirección General de Formación Pro-
-fesional y Educación de Adultos para que, en el ám-
-bito de sus atribuciones, dicte las instrucciones ne-
-cesarias para la aplicación, ejecución y desarrollo de
+Tercero.- La disposición final primera de la mencionada Orden de 17 de abril de 2009, dice que se
+“autoriza a la Dirección General de Formación Profesional y Educación de Adultos para que, en el ámbito de sus atribuciones, dicte las instrucciones necesarias para la aplicación, ejecución y desarrollo de
 la presente Orden”.
-Por lo expuesto, y en el ejercicio de las compe-
-tencias atribuidas a la Dirección General de Forma-
-ción Profesional y Educación de Adultos en el apar-
-tado b) del artículo 12 del Reglamento Orgánico de
+Por lo expuesto, y en el ejercicio de las competencias atribuidas a la Dirección General de Formación Profesional y Educación de Adultos en el apartado b) del artículo 12 del Reglamento Orgánico de
 la Consejería de Educación, Cultura y Deportes,
 aprobado en el Decreto 113/2006, de 26 de julio
 (BOC nº 148, de 1 de agosto), en su redacción actual,
 R E S U E L V O:
 Primero.- Determinar las características de las
-pruebas comunes para la obtención de los certifica-
-dos de los Niveles Básico, Intermedio y Avanzado de
+pruebas comunes para la obtención de los certificados de los Niveles Básico, Intermedio y Avanzado de
 las enseñanzas de idiomas de régimen especial que
 se imparten en la Comunidad Autónoma de Canarias
-y dictar instrucciones para su elaboración por la Es-
-cuelas Oficiales de Idiomas, en los términos recogi-
-dos en el anexo de la presente Resolución. 
+y dictar instrucciones para su elaboración por la Escuelas Oficiales de Idiomas, en los términos recogidos en el anexo de la presente Resolución. 
 Segundo.- Facultar a los equipos directivos de las
-EOI para que arbitren el procedimiento más adecua-
-do para que los Departamentos de coordinación di-
-dáctica desarrollen el trabajo encomendado, en los
+EOI para que arbitren el procedimiento más adecuado para que los Departamentos de coordinación didáctica desarrollen el trabajo encomendado, en los
 términos establecidos en la presente Resolución.
 Tercero.- Responsabilizar a los equipos directivos
-de la difusión de la presente Resolución entre los miem-
-bros de los Departamentos de coordinación didácti-
-ca de la EOI, haciéndoles copia de la misma, y ex-
-poniendo permanentemente una en el tablón de
+de la difusión de la presente Resolución entre los miembros de los Departamentos de coordinación didáctica de la EOI, haciéndoles copia de la misma, y exponiendo permanentemente una en el tablón de
 anuncios de la Sala de Profesores del centro.
-Cuarto.- Encomendar a la Inspección de Educa-
-ción la supervisión y asesoramiento en aquellos as-
-
-pectos que le soliciten los equipos directivos de las
+Cuarto.- Encomendar a la Inspección de Educación la supervisión y asesoramiento en aquellos aspectos que le soliciten los equipos directivos de las
 escuelas. 
-Contra la presente Resolución se podrá interpo-
-ner recurso de alzada ante la Viceconsejería de Edu-
-cación y Universidades, en el plazo de un mes a par-
-tir del día siguiente a su publicación, de conformidad
+Contra la presente Resolución se podrá interponer recurso de alzada ante la Viceconsejería de Educación y Universidades, en el plazo de un mes a partir del día siguiente a su publicación, de conformidad
 con los artículos 114 y 115 de la Ley 30/1992, de 26
-de noviembre, de Régimen Jurídico de las Adminis-
-traciones Públicas y del Procedimiento Administra-
-tivo Común, modificada por la Ley 4/1999, de 13 de
+de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de
 enero. 
 Santa Cruz de Tenerife, a 3 de febrero de 2012.-
-El Director General de Formación Profesional y Edu-
-cación de Adultos, José Moya Otero.
+El Director General de Formación Profesional y Educación de Adultos, José Moya Otero.
 5
 ANEXO 
 INSTRUCCIONES PARA LA ELABORACIÓN DE LAS PRUEBAS COMUNES DE 
@@ -215,11 +168,9 @@ evaluación del alumnado que cursa enseñanzas de id iomas de régimen especial 
 Autónoma de Canarias. 
 a) Nivel Básico. 
 La prueba de certificación de nivel básico tiene  como finalidad evaluar la capacidad del alumnado 
-aspirante para usar el idioma de manera sufici ente, receptiva y productivamente, tanto en forma habla- 
-da como escrita, así como para mediar entre hablan tes de distintas lenguas, en situaciones cotidianas y 
+aspirante para usar el idioma de manera sufici ente, receptiva y productivamente, tanto en forma hablada como escrita, así como para mediar entre hablan tes de distintas lenguas, en situaciones cotidianas y 
 de inmediata necesidad que requieran comprender y produc ir textos breves, en diversos registros y en 
-lengua estándar, que versen sobre aspectos básicos concretos de temas genera les y que contengan ex- 
-presiones, estructuras y léxico de uso frecuente. 
+lengua estándar, que versen sobre aspectos básicos concretos de temas genera les y que contengan expresiones, estructuras y léxico de uso frecuente. 
 La posesión del Certificado del nivel básico acredita una competencia de idioma del nivel A2 del Mar- 
 7
 de la Consejería de Educación, Universidades y Sostenibilidad, cuyos Departamentos de coordinación 
@@ -234,13 +185,10 @@ evaluación del alumnado que cursa enseñanzas de id iomas de régimen especial 
 Autónoma de Canarias. 
 a) Nivel Básico. 
 La prueba de certificación de nivel básico tiene  como finalidad evaluar la capacidad del alumnado 
-aspirante para usar el idioma de manera sufici ente, receptiva y productivamente, tanto en forma habla- 
-da como escrita, así como para mediar entre hablan tes de distintas lenguas, en situaciones cotidianas y 
+aspirante para usar el idioma de manera sufici ente, receptiva y productivamente, tanto en forma hablada como escrita, así como para mediar entre hablan tes de distintas lenguas, en situaciones cotidianas y 
 de inmediata necesidad que requieran comprender y produc ir textos breves, en diversos registros y en 
-lengua estándar, que versen sobre aspectos básicos concretos de temas genera les y que contengan ex- 
-presiones, estructuras y léxico de uso frecuente. 
-La posesión del Certificado del nivel básico acredita una competencia de idioma del nivel A2 del Mar- 
-co común europeo de referencia para las lenguas: aprendizaje, enseñanza y evaluación (MCERL), del 
+lengua estándar, que versen sobre aspectos básicos concretos de temas genera les y que contengan expresiones, estructuras y léxico de uso frecuente. 
+La posesión del Certificado del nivel básico acredita una competencia de idioma del nivel A2 del Marco común europeo de referencia para las lenguas: aprendizaje, enseñanza y evaluación (MCERL), del 
 Consejo de Europa. 
 b) Nivel Intermedio. 
 La prueba de certificación de nivel intermedio tiene como finalidad ev aluar la capacidad de la persona 
@@ -283,8 +231,7 @@ del Consejo de Europa.
 c) Nivel Avanzado. 
 La prueba de certificación de nivel avanzado tiene como finalidad evaluar la capacidad de la persona 
 candidata para utilizar el idioma con soltura y ef icacia en situaciones hab ituales y más específicas que 
-requieran comprender, producir y tratar textos orales y escritos conceptual y lingüísticamente comple- 
-jos, en una variedad de lengua estándar, con un re pertorio léxico amplio aunque no muy idiomático y 
+requieran comprender, producir y tratar textos orales y escritos conceptual y lingüísticamente complejos, en una variedad de lengua estándar, con un re pertorio léxico amplio aunque no muy idiomático y 
 que versen sobre temas generales actuales o propi os del campo de especialización y de interés del 
 hablante. 
 La posesión del Certificado del nivel avanzado acredita  una competencia de idioma de nivel B2 del 
@@ -292,8 +239,7 @@ Marco común europeo de referenc ia para las lenguas: aprendizaje,  enseñanza y
 del Consejo de Europa. 
 4. Características generales de las técnicas e instrumentos de evaluación. 
 Las pruebas de certificación han de permitir la obten ción de la información necesaria para conocer el 
-dominio alcanzado en el idioma por la persona asp irante. Para ello se utilizarán técnicas e instrumen- 
-tos viables, eficaces y fiables que han de cumplir , entre otras, las siguientes características:  
+dominio alcanzado en el idioma por la persona asp irante. Para ello se utilizarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir , entre otras, las siguientes características:  
 ! Comprender los objetivos y contenidos más significativos del currículo. 
 ! Adecuarse a la naturaleza diversa de los contenidos curriculares. 
 ! Permitir la graduación del dominio alcanzado en cada de las destrezas. 
@@ -321,12 +267,8 @@ La prueba constará, en cada nivel,  de cuatro partes independientes:
 - Expresión e interacción oral. 
 5.1. Comprensión de lectura: tareas, tipos de ej ercicio, puntuaciones máximas y asignación de tiempo 
 al examen. 
-La parte de comprensión de lectura constará de tres tareas a partir de  la lectura de textos reales o ve- 
-rosímiles, de diversos tipos y de fuentes tales co mo prensa, Internet, folletos informativos, publicacio- 
-nes de instituciones oficiales o entidades públicas o pr ivadas, comerciales, etc. Las tareas serán, asi- 
-mismo, de diferentes tipos tales como ejercicios de opción múltiple, de respuesta breve, de 
-emparejamiento de textos y epígrafes, de rellena r huecos de un banco de ítems, etc. Estas tareas eva- 
-luarán la lectura extensiva, la intensiva y la selectiva. 
+La parte de comprensión de lectura constará de tres tareas a partir de  la lectura de textos reales o verosímiles, de diversos tipos y de fuentes tales co mo prensa, Internet, folletos informativos, publicaciones de instituciones oficiales o entidades públicas o pr ivadas, comerciales, etc. Las tareas serán, asimismo, de diferentes tipos tales como ejercicios de opción múltiple, de respuesta breve, de 
+emparejamiento de textos y epígrafes, de rellena r huecos de un banco de ítems, etc. Estas tareas evaluarán la lectura extensiva, la intensiva y la selectiva. 
 El examen constará de tres tareas de extensión cr eciente, con la dificultad pr opia de cada nivel, y las 
 puntuaciones máximas y asignación de tiempo,  indicadas en el siguiente cuadro: 
 
@@ -371,12 +313,9 @@ Tarea 3 4 puntos
 5.2. Comprensión auditiva: tareas, número y ti po de audición, tiempos asignados a las audiciones, 
 puntuaciones máximas y asignación de tiempo al examen. 
 La parte de comprensión auditiva constará de tres tar eas a partir de la audición de una serie de textos 
-orales reales o verosímiles, en soporte audio o vídeo,  de diversos tipos y de fuentes tales como la ra- 
-dio, la televisión, grabaciones comerciales o no comerciales, etc. Las tareas serán también de diferen- tes tipos, tales como ejercicios de opción múltiple, de respuesta breve, de completar una tabla o un 
-esquema de notas, de emparejamiento de textos y ep ígrafes, etc. Estas tareas medirán la escucha ex- 
-tensiva, la intensiva y la selectiva. 
-El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad pro- 
-pia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y duración total 
+orales reales o verosímiles, en soporte audio o vídeo,  de diversos tipos y de fuentes tales como la radio, la televisión, grabaciones comerciales o no comerciales, etc. Las tareas serán también de diferen- tes tipos, tales como ejercicios de opción múltiple, de respuesta breve, de completar una tabla o un 
+esquema de notas, de emparejamiento de textos y ep ígrafes, etc. Estas tareas medirán la escucha extensiva, la intensiva y la selectiva. 
+El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad propia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y duración total 
 del examen, indicadas en el siguiente cuadro: 
 Nivel Tarea Número y tipo de audición Tiempo asignado 
 a la audición 
@@ -390,25 +329,21 @@ Asignación
 tiempo al 
 examen 
 Básico 
-Tarea 1 5 audiciones cortas comer- 
-ciales o no comerciales 
+Tarea 1 5 audiciones cortas comerciales o no comerciales 
 Entre 15 y 30 
 segundos cada una 
 3 
 10 30 minutos 
 Tarea 2 1 audición de noticias, 
 narraciones, etc. 
-Entre 1 y 2 minu- 
-tos 3 
+Entre 1 y 2 minutos 3 
 Tarea 3 1 audición de entrevista o 
 conversación 
-Entre 2 y 3 minu- 
-tos 4 
+Entre 2 y 3 minutos 4 
 Entre 15 y 30 
 
 12 
-El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad pro- 
-pia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y duración total 
+El examen constará de tres tareas, cada una de l as cuales se escuchará dos veces, con la dificultad propia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y duración total 
 del examen, indicadas en el siguiente cuadro: 
 Nivel Tarea Número y tipo de audición Tiempo asignado 
 a la audición 
@@ -422,50 +357,41 @@ Asignación
 tiempo al 
 examen 
 Básico 
-Tarea 1 5 audiciones cortas comer- 
-ciales o no comerciales 
+Tarea 1 5 audiciones cortas comerciales o no comerciales 
 Entre 15 y 30 
 segundos cada una 
 3 
 10 30 minutos 
 Tarea 2 1 audición de noticias, 
 narraciones, etc. 
-Entre 1 y 2 minu- 
-tos 3 
+Entre 1 y 2 minutos 3 
 Tarea 3 1 audición de entrevista o 
 conversación 
-Entre 2 y 3 minu- 
-tos 4 
+Entre 2 y 3 minutos 4 
 Intermedio 
-Tarea 1 5 audiciones cortas comer- 
-ciales o no comerciales 
+Tarea 1 5 audiciones cortas comerciales o no comerciales 
 Entre 15 y 30 
 segundos cada 
 una 
 3 
 10 35 minutos Tarea 2 1 audición de noticias, 
 narraciones, etc. 
-Entre 2 y 3 minu- 
-tos 3 
+Entre 2 y 3 minutos 3 
 Tarea 3 1 audición de entrevista o 
 conversación 
-Entre 3 y 4 minu- 
-tos 4 
+Entre 3 y 4 minutos 4 
 Avanzado 
-Tarea 1 5 audiciones cortas comer- 
-ciales o no comerciales 
+Tarea 1 5 audiciones cortas comerciales o no comerciales 
 Entre 15 y 30 
 segundos cada 
 una 
 3 
 10 40 minutos Tarea 2 1 audición de noticias, 
 narraciones, etc. 
-Entre 3 y 4 minu- 
-tos 3 
+Entre 3 y 4 minutos 3 
 Tarea 3 1 audición de entrevista o 
 conversación 
-Entre 4 y 6 minu- 
-tos 4 
+Entre 4 y 6 minutos 4 
 5.3. Expresión e interacción escrita: tareas, extensión de los textos, asignación de tiempo al examen, y 
 puntuaciones máximas de cada tarea a partir de los aspectos de las competencias. 
 1. La parte de expresión escrita constará de dos tareas. Los candidatos deberán redactar dos o más 
@@ -543,38 +469,31 @@ la organización de la información.
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel; la corrección 
 ortográfica y el uso de los signos de puntuación. 
 Sociolingüística 
-La adecuación del registro al destinatario, propósito y situación; el uso de formas y expre- 
-siones lingüísticas propias del nivel, condicionadas por lo social: marcadores de relaciones 
+La adecuación del registro al destinatario, propósito y situación; el uso de formas y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de relaciones 
 sociales, fórmulas de cortesía
  
-3. Para la evaluación de las competencias se tendrán en cuenta los aspectos que se indican a continua- 
-ción para cada una de ellas: 
+3. Para la evaluación de las competencias se tendrán en cuenta los aspectos que se indican a continuación para cada una de ellas: 
 - Competencia pragmática. 
 Consigna 
 Se refiere al grado de cumplimiento del objeti vo de comunicación solicitado en la tarea: si 
 se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
 Comprueba si se ha respetado el número de palabras que se solicitaba en la consigna de la 
-tarea. Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conteni- 
-do del texto en conjunto o de determinadas partes de este. 
-Formato Se refiere al manejo de convenciones gráfic as y formales y a su aplicación para la cons- 
-trucción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje
+tarea. Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido del texto en conjunto o de determinadas partes de este. 
+Formato Se refiere al manejo de convenciones gráfic as y formales y a su aplicación para la construcción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje
 ). 
 Organización y 
 conectores 
 Se refiere al grado de adecuación en la orga nización del texto: la forma de presentar la 
 información, la estructura interna, la lig azón entre los párrafos
  Entre los mecanismos 
-para la construcción textual, se prestará es pecial atención al empleo adecuado de conecto- 
-res y marcadores discursivos. 
+para la construcción textual, se prestará es pecial atención al empleo adecuado de conectores y marcadores discursivos. 
 - Competencia lingüística. 
 Léxico Verifica el grado de corrección en el vocabulari o empleado, su variedad y la precisión del 
 léxico, siempre según la tarea propuesta y dentro del nivel de competencia evaluado. 
 Ortografía 
-Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que acom- 
-pañan la escritura ( tildes, diéresis
+Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que acompañan la escritura ( tildes, diéresis
 ).  
-Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráfi- 
-camente las pausas y la entonación. 
+Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráficamente las pausas y la entonación. 
 Gramática 
 Se refiere al grado de corrección de todos lo s elementos relacionados con la morfología y 
 la sintaxis: orden de los elementos, concordancias, formas y estructuras
@@ -589,8 +508,7 @@ real de la prueba y/o la creada a partir de las pautas consignadas en esta), el 
 Ortografía 
 pañan la escritura ( tildes, diéresis
 ).  
-Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráfi- 
-camente las pausas y la entonación. 
+Incluye también las reglas referidas a mayúsculas y minúsculas. Atiende también al empleo adecuado de los signos de puntuación que transcriben gráficamente las pausas y la entonación. 
 Gramática 
 Se refiere al grado de corrección de todos lo s elementos relacionados con la morfología y 
 la sintaxis: orden de los elementos, concordancias, formas y estructuras
@@ -781,8 +699,7 @@ relaciones sociales y fórmulas de cortesía, aunque comete algún error leve.
 relaciones sociales y fórmulas de cortesía. 
 5.4. Expresión e interacción oral: tareas, tiempos  de preparación e intervención y puntuaciones 
 máximas de cada tarea a partir de lo s aspectos de las competencias.  
-La parte de expresión oral constará de dos tareas en las que se propondrán situaciones reales o verosí- 
-miles de interacción con otras personas y de exposición.  
+La parte de expresión oral constará de dos tareas en las que se propondrán situaciones reales o verosímiles de interacción con otras personas y de exposición.  
 Para la realización de esta prueba se elaborarán ve inte modelos de fichas gráficas, 10 para la tarea 
 expositiva y 10 para la interacción, que contendrán instrucciones claras sobre lo que debe tratar el 
 aspirante, el tiempo de preparación y el de intervención. 
@@ -790,8 +707,7 @@ El aspirante podrá tomar notas durante el tiempo de  preparación, que podrá u
 guía durante el desarrollo de su intervención. Los asp irantes deberán preparar la tarea de interacción 
 individualmente. 
 a) Tarea expositiva. 
-La tarea expositiva consistirá en un monólogo y te ndrá la duración y puntuación máxima que se indi- 
-can en el siguiente cuadro: 
+La tarea expositiva consistirá en un monólogo y te ndrá la duración y puntuación máxima que se indican en el siguiente cuadro: 
 Nivel Tiempo de  
 preparación 
 Tiempo de 
@@ -839,13 +755,11 @@ Pragmática
 El cumplimiento del objetivo de la comunicación y de la tarea propuesta; la extensión de 
 las intervenciones y la adaptación del contenido a las convenciones organizativas del 
 texto oral, según lo establecido para el nivel. En la tarea expositiva: la organizaci ón y estructuración del discurso. 
-En la tarea de interacción: la naturalidad, el  uso de conectores y marcadores de la con- 
-versación.   
+En la tarea de interacción: la naturalidad, el  uso de conectores y marcadores de la conversación.   
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel; el ritmo, la 
 entonación y la clarid ad de la expresión. 
 Sociolingüística 
-La adecuación del registro al destinatario, pr opósito y situación; el uso de formas y ex- 
-presiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de rela- ciones sociales, fórmulas de cortesía
+La adecuación del registro al destinatario, pr opósito y situación; el uso de formas y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de rela- ciones sociales, fórmulas de cortesía
  
 Para la evaluación de las competencias se tendrán en  cuenta los aspectos que se indican a continuación 
 para cada una de ellas: 
@@ -855,15 +769,13 @@ Se refiere al grado de cump limiento del objetivo de comuni cación solicitado e
 si se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
 Comprueba si se ha respetado la duración en la extensión de las intervenciones que se 
 solicitaba en la consigna de la tarea. 
-Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conte- 
-nido del texto en conjunto o de determinadas partes de este. 
+Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido del texto en conjunto o de determinadas partes de este. 
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
 información, la estructura interna, la lig azón entre las partes
  Entre los mecanismos 
-para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
-tores así como de los marcador es propios de la conversación. 
+para la construcción textual, se prestará es pecial atención al empl eo adecuado de conectores así como de los marcador es propios de la conversación. 
 Competencia lingüística. 
 Para la evaluación de las competencias se tendrán en  cuenta los aspectos que se indican a continuación 
 para cada una de ellas: 
@@ -873,15 +785,13 @@ Se refiere al grado de cump limiento del objetivo de comuni cación solicitado e
 si se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
 Comprueba si se ha respetado la duración en la extensión de las intervenciones que se 
 solicitaba en la consigna de la tarea. 
-Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conte- 
-nido del texto en conjunto o de determinadas partes de este. 
+Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido del texto en conjunto o de determinadas partes de este. 
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
 información, la estructura interna, la lig azón entre las partes
  Entre los mecanismos 
-para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
-tores así como de los marcador es propios de la conversación. 
+para la construcción textual, se prestará es pecial atención al empl eo adecuado de conectores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
 Para la evaluación de las competencias se tendrán en  cuenta los aspectos que se indican a continuación 
 para cada una de ellas: 
@@ -891,15 +801,13 @@ Se refiere al grado de cump limiento del objetivo de comuni cación solicitado e
 si se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
 Comprueba si se ha respetado la duración en la extensión de las intervenciones que se 
 solicitaba en la consigna de la tarea. 
-Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conte- 
-nido del texto en conjunto o de determinadas partes de este. 
+Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido del texto en conjunto o de determinadas partes de este. 
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
 información, la estructura interna, la lig azón entre las partes
  Entre los mecanismos 
-para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
-tores así como de los marcador es propios de la conversación. 
+para la construcción textual, se prestará es pecial atención al empl eo adecuado de conectores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
 
 21 
@@ -908,23 +816,20 @@ Se refiere al grado de cump limiento del objetivo de comuni
 si se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
 Comprueba si se ha respetado la duración en la extensión de las intervenciones que se 
 solicitaba en la consigna de la tarea. 
-Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del conte- 
-nido del texto en conjunto o de determinadas partes de este. 
+Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido del texto en conjunto o de determinadas partes de este. 
 Organización y 
 cohesión 
 Se refiere al grado de adecu ación en la organización del texto:  la forma de presentar la 
 información, la estructura interna, la lig azón entre las partes
  Entre los mecanismos 
-para la construcción textual, se prestará es pecial atención al empl eo adecuado de conec- 
-tores así como de los marcador es propios de la conversación. 
+para la construcción textual, se prestará es pecial atención al empl eo adecuado de conectores así como de los marcador es propios de la conversación. 
 - Competencia lingüística. 
 Léxico Verifica el grado de corrección en el vocabular io empleado, su variedad y la precisión 
 del léxico, siempre según la tarea propuesta y dentro del nivel de competencia evaluado. 
 Pronunciación y 
 fluidez 
 Se refiere a la corrección en la articulación  de los sonidos, cuestión que se ponderará 
-siempre en relación con el nivel evaluado y con el principio de efectividad en la comuni- 
-cación. 
+siempre en relación con el nivel evaluado y con el principio de efectividad en la comunicación. 
 Se evalúa también la adecuación de la entonación, el ritmo y las pausas en función de la modalidad discursiva, la tipología textual y la función comunicativa. 
 Gramática 
 Se refiere al grado de corrección de todos los elementos relacionados con la morfología y 
@@ -1118,35 +1023,28 @@ social.
 26 
 6. Plantillas de respuesta. 
 De los exámenes de comprensión de lectura y de comprensión auditiva se elaborará una plantilla con 
-las respuestas correctas correspondientes a cada una de las tareas, así como la transcripción de las au- 
-diciones. 
+las respuestas correctas correspondientes a cada una de las tareas, así como la transcripción de las audiciones. 
 7. Formato de las pruebas. 
 Los exámenes presentarán las siguientes características formales: 
 - Tamaño: Folio Din A4. 
-- Carátula en la que se recogerán los siguientes dato s: idioma, nivel, convocatoria, parte, instruccio- 
-nes para el aspirante, duración máxima, datos de  identificación personal (nombre y apellidos, DNI, 
-EOI, tipo de aspirante), tareas y puntuaciones asi gnadas, puntuación máxima y espacio para la ca- 
-lificación obtenida.  
+- Carátula en la que se recogerán los siguientes dato s: idioma, nivel, convocatoria, parte, instrucciones para el aspirante, duración máxima, datos de  identificación personal (nombre y apellidos, DNI, 
+EOI, tipo de aspirante), tareas y puntuaciones asi gnadas, puntuación máxima y espacio para la calificación obtenida.  
 - Los enunciados se redactarán en letr a Arial, de tamaño 12 puntos. 
 - El interlineado debe ser Exacto a 14 puntos. 
 - El espaciado Automático.  
-- La presentación de textos e imágenes deben ser de  un tamaño que permita ver con nitidez los deta- 
-lles de los aspectos sobre de los que debe hablar el aspirante.  
+- La presentación de textos e imágenes deben ser de  un tamaño que permita ver con nitidez los detalles de los aspectos sobre de los que debe hablar el aspirante.  
 - Se han de indicar los tiempos de preparación e intervención. 
 8. Pruebas que se han de elaborar. 
 De cada idioma y nivel se elaborarán los exám enes correspondientes a las siguientes pruebas: 
 a) Prueba ordinaria anual. 
-b) Prueba de incidencias, destinada a las person as que, por causa de fuerza mayor debidamente acre- 
-ditada, no pudieron asistir a la convocatoria ordinaria. 
+b) Prueba de incidencias, destinada a las person as que, por causa de fuerza mayor debidamente acreditada, no pudieron asistir a la convocatoria ordinaria. 
 Una copia de las pruebas confeccionadas (ordinaria e incidencias) será remitida por las Escuelas Ofi- 
 
 27 
 De cada idioma y nivel se elaborarán los exám enes correspondientes a las siguientes pruebas: 
 a) Prueba ordinaria anual. 
-b) Prueba de incidencias, destinada a las person as que, por causa de fuerza mayor debidamente acre- 
-ditada, no pudieron asistir a la convocatoria ordinaria. 
-Una copia de las pruebas confeccionadas (ordinaria e incidencias) será remitida por las Escuelas Ofi- 
-ciales de Idiomas a la Dirección General de Formación Profesional y Educación de Adultos, antes del 
+b) Prueba de incidencias, destinada a las person as que, por causa de fuerza mayor debidamente acreditada, no pudieron asistir a la convocatoria ordinaria. 
+Una copia de las pruebas confeccionadas (ordinaria e incidencias) será remitida por las Escuelas Oficiales de Idiomas a la Dirección General de Formación Profesional y Educación de Adultos, antes del 
 1 de abril, en un CD-ROM o DVD que contendrá los ex ámenes en formato Word y PDF, y otro con la 
 parte de comprensión auditiva, de cada convocatoria. 
 9. Grabaciones y materiales de referencia. 
@@ -1160,29 +1058,21 @@ Los Departamentos de coordinación didáctica desarrollarán su trabajo entre se
 año académico anterior a la celebración de la prueba , de manera que los exámenes, y sus plantillas de 
 corrección, estén disponibles para su veri ficación, a partir del mes de marzo. 
 11. Coordinación entre las Escuelas Oficiales de Idiomas. 
-Las pruebas de certificación serán elaboradas por las EOI a través de sus Departamentos de coordina- 
-ción didáctica. A este efecto, antes del 30 de octubre, la Dirección General de Formación Profesional y 
-Educación de Adultos, oídas las Escuelas, comunicará a las EOI la distribución de las tareas de elabo- 
-ración de las pruebas, por idioma y nivel, que inte resará a todas las EOI, sus Departamentos de coor- 
-dinación didáctica y todo el profesorado, y designará las Escuelas Coordinadoras. 
+Las pruebas de certificación serán elaboradas por las EOI a través de sus Departamentos de coordinación didáctica. A este efecto, antes del 30 de octubre, la Dirección General de Formación Profesional y 
+Educación de Adultos, oídas las Escuelas, comunicará a las EOI la distribución de las tareas de elaboración de las pruebas, por idioma y nivel, que inte resará a todas las EOI, sus Departamentos de coordinación didáctica y todo el profesorado, y designará las Escuelas Coordinadoras. 
 12. Prueba anual de obtención de certificados. 
 La Dirección General de Formación Profesional y Educación de Adultos convocará anualmente las 
 pruebas de obtención de los certificados de enseñanz as de idiomas de régimen especial, determinando, 
 
 28 
 ción didáctica. A este efecto, antes del 30 de octubre, la Dirección General de Formación Profesional y 
-Educación de Adultos, oídas las Escuelas, comunicará a las EOI la distribución de las tareas de elabo- 
-ración de las pruebas, por idioma y nivel, que inte resará a todas las EOI, sus Departamentos de coor- 
-dinación didáctica y todo el profesorado, y designará las Escuelas Coordinadoras. 
+Educación de Adultos, oídas las Escuelas, comunicará a las EOI la distribución de las tareas de elaboración de las pruebas, por idioma y nivel, que inte resará a todas las EOI, sus Departamentos de coordinación didáctica y todo el profesorado, y designará las Escuelas Coordinadoras. 
 12. Prueba anual de obtención de certificados. 
 La Dirección General de Formación Profesional y Educación de Adultos convocará anualmente las 
 pruebas de obtención de los certificados de enseñanz as de idiomas de régimen especial, determinando, 
-entre otros, plazos y procedimiento de inscripción, cal endario de realización de las pruebas, e instruc- 
-ciones para su organización, desarrollo y aplicación. 
+entre otros, plazos y procedimiento de inscripción, cal endario de realización de las pruebas, e instrucciones para su organización, desarrollo y aplicación. 
 13. Precisiones a las pruebas. 
-Los Departamentos de coordinación didáctica de cada EOI pueden solicitar a la Inspección de Educa- 
-ción las aclaraciones que requieran para la adecuada el aboración de las pruebas. No obstante, la Direc- 
-ción General facilitará las instrucciones compleme ntarias que puedan ser necesarias, en cada caso. 
+Los Departamentos de coordinación didáctica de cada EOI pueden solicitar a la Inspección de Educación las aclaraciones que requieran para la adecuada el aboración de las pruebas. No obstante, la Dirección General facilitará las instrucciones compleme ntarias que puedan ser necesarias, en cada caso. 
 14. Revisión de las pruebas. 
 Para velar por la validez, fiabilidad, viabilidad, eq uidad e impacto positivo de las pruebas elaboradas, 
 la Dirección General podrá constituir una Comisión de  trabajo, de carácter consultivo, que actuaría 

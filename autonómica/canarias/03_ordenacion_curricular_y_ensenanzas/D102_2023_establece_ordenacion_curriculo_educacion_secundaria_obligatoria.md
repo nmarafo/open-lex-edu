@@ -36,6 +36,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015
@@ -120,8 +121,7 @@ no generará derecho al abono de indemnización por concepto alguno.
 Contra la presente Resolución cabe interponer recurso contencioso-administrativo ante 
 la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia de Canarias 
 en Santa Cruz de Tenerife, a tenor de lo regulado en el artículo 10.1.a) en relación con el 
-artículo 14.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-
-administrativa, en el plazo de dos meses contados a partir del día siguiente al de su 
+artículo 14.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosoadministrativa, en el plazo de dos meses contados a partir del día siguiente al de su 
 publicación en el Boletín Oficial de Canarias.
 No obstante, a criterio de la persona interesada, podrá interponerse en vía administrativa 
 recurso potestativo de reposición ante esta Dirección General, en el plazo de un mes a 

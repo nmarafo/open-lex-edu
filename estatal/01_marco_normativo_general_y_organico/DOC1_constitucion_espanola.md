@@ -104,23 +104,31 @@ relaciones:
   - norma_id: norm-es-rd-95-2022
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-d-234-1996
+  - norma_id: norm-can-l-14-1990
+  desarrollado_por:
+  - norma_id: norm-can-lo-1-2018
+  - norma_id: norm-can-l-1-1997
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-d-135-2016
+  - norma_id: norm-can-d-123-2023
+  - norma_id: norm-can-l-4-2023
+  - norma_id: norm-can-res-boc-2017-020-2
+  - norma_id: norm-can-res-boc-2017-061-4
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-l-2-1987
+  - norma_id: norm-can-d-212-1991
+  - norma_id: norm-can-res-boc-2021-038-3
+  - norma_id: norm-can-l-14-1990
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Constitución Española de 1978
 
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,

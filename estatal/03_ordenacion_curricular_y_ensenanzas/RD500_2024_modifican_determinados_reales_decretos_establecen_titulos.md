@@ -38,6 +38,14 @@ relaciones:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-276-2007
   - norma_id: norm-es-rd-659-2023
+  desarrollado_por: []
+  fundamento_de:
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-boc-2024-230-25
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -59,17 +67,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2022-16194
 - norma_id: norm-es-rd-276-2007
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

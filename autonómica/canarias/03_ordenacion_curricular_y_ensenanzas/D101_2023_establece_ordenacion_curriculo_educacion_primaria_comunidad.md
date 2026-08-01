@@ -35,6 +35,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-157-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015

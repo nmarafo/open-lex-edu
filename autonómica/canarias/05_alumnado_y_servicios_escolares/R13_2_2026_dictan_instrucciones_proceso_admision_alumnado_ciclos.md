@@ -53,6 +53,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-099
   - norma_id: norm-can-res-112
@@ -60,6 +61,8 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-can-res-boc-2026-073-113
   - norma_id: norm-can-res-boc-2026-132-101
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -1467,8 +1470,7 @@ La matrícula del alumnado de continuidad será organizada de forma propia por c
 uno de los centros docentes, cumpliendo el calendario establecido, siempre y cuando no se 
 conculque el derecho a la escolarización del alumnado en etapas obligatorias.
 
-Trigésima tercera.-Transición entre planes de estudio LOE-LOMLOE y LOMLOE-
-LOOIFP:
+Trigésima tercera.-Transición entre planes de estudio LOE-LOMLOE y LOMLOELOOIFP:
 Los centros educativos deberán adecuar sus planes de estudios en el aplicativo Pincel 
 Ekade para la correcta asignación del alumnado en el momento de su matrícula, de la 
 siguiente manera:
@@ -2891,8 +2893,7 @@ Carpintería y mueble.
 • Diseño y amueblamiento.Instalación y amueblamiento.
 Procesado y transformación de la
 madera.
-Marítimo-
-Pesquera.
+MarítimoPesquera.
 Cultivos acuícolas. • Acuicultura.
 • Organización del
 mantenimiento de maquinaria
@@ -3082,8 +3083,7 @@ Responsable del tratamiento: Consejería de Educación, Formación Profesional, 
 Gobierno de Canarias, extinta Consejería de Educación, Universidades, Cultura y Deportes. Finalidad del tratamiento: 
 gestión relativa al tratamiento de datos de carácter personal.
 Información adicional: 
-https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/gestion-relativa-proteccion-
-datos-caracter-personal/
+https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/gestion-relativa-protecciondatos-caracter-personal/
 ANEXO IX
 DECLARACIÓN RESPONSABLE DE ALÉRGENOS
 

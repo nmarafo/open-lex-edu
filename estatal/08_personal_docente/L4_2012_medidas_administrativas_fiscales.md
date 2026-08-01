@@ -33,6 +33,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-2012-8745
+  - norma_id: norm-can-res-juriscan-75634-6
+  - norma_id: norm-can-res-boc-2017-020-2
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -46,17 +49,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2010-4518
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## EXPOSICIÓN DE MOTIVOS

@@ -40,6 +40,11 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -2041,8 +2046,7 @@ didáctica de las mismas, se podrá constituir el correspondiente departamento d
 Deportivas.
 4.1.4. Se integrarán en el departamento de Orientación dos docentes designados por 
 la dirección del centro a propuesta del claustro, uno perteneciente a un departamento del 
-Ámbito Socio-Lingüístico y otro perteneciente a un departamento del Ámbito Científico-
-Tecnológico, debiendo tener carácter preferente el profesorado que imparte el Programa de 
+Ámbito Socio-Lingüístico y otro perteneciente a un departamento del Ámbito CientíficoTecnológico, debiendo tener carácter preferente el profesorado que imparte el Programa de 
 Mejora del Aprendizaje y del Rendimiento. De manera similar, se incorporará al departamento 
 de Orientación un profesor o una profesora de los departamentos de coordinación didáctica 
 de Formación Profesional en los centros en los que se imparta más de un título de estas 
@@ -2298,8 +2302,7 @@ de 92 a 112 h 3 h
 más de 112 h 4 h
 Cargos unipersonales de secciones de
 IES --- 17 h
-Profesorado  del  Ámbito  Científico-
-Tecnológico,  del  Ámbito  Socio-
+Profesorado  del  Ámbito  CientíficoTecnológico,  del  Ámbito  Socio-
 L i n g ü í s t i c o y p r o f e s o r a d o d e l o s
 departamentos  de  coordinación
 didáctica  de  Formación  Profesional
@@ -2363,8 +2366,7 @@ de 92 a 112 h 3 h
 más de 112 h 4 h
 Cargos unipersonales de secciones de
 IES --- 17 h
-Profesorado  del  Ámbito  Científico-
-Tecnológico,  del  Ámbito  Socio-
+Profesorado  del  Ámbito  CientíficoTecnológico,  del  Ámbito  Socio-
 L i n g ü í s t i c o y p r o f e s o r a d o d e l o s
 departamentos  de  coordinación
 didáctica  de  Formación  Profesional
@@ -2426,8 +2428,7 @@ de 92 a 112 h 3 h
 más de 112 h 4 h
 Cargos unipersonales de secciones de
 IES --- 17 h
-Profesorado  del  Ámbito  Científico-
-Tecnológico,  del  Ámbito  Socio-
+Profesorado  del  Ámbito  CientíficoTecnológico,  del  Ámbito  Socio-
 L i n g ü í s t i c o y p r o f e s o r a d o d e l o s
 departamentos  de  coordinación
 didáctica  de  Formación  Profesional
@@ -2830,8 +2831,7 @@ de 92 a 112 h 3 h
 más de 112 h 4 h
 Cargos unipersonales de secciones de
 IES --- 17 h
-Profesorado  del  Ámbito  Científico-
-Tecnológico,  del  Ámbito  Socio-
+Profesorado  del  Ámbito  CientíficoTecnológico,  del  Ámbito  Socio-
 L i n g ü í s t i c o y p r o f e s o r a d o d e l o s
 departamentos  de  coordinación
 didáctica  de  Formación  Profesional

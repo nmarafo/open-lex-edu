@@ -31,6 +31,10 @@ relaciones:
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -374,12 +378,10 @@ de conformidad con el artículo 4 de la [Ley 9/2017](../../../estatal/02_gestion
 Sector Público.
 Undécima.- Jurisdicción.
 Las cuestiones litigiosas que surjan en la interpretación o aplicación del presente 
-Convenio Marco de Cooperación se sustanciarán ante el orden jurisdiccional contencioso-
-administrativo y conforme a sus normas de competencia y procedimiento.
+Convenio Marco de Cooperación se sustanciarán ante el orden jurisdiccional contenciosoadministrativo y conforme a sus normas de competencia y procedimiento.
 El órgano jurisdiccional correspondiente es la Sala de lo Contencioso-Administrativo 
 del Tribunal Superior de Justicia de Canarias, de conformidad con lo dispuesto el 
-artículo 10.1.g) de la Ley 29/1998, de 13 de julio, de la Jurisdicción Contencioso-
-administrativa, a cuyo tenor corresponde el conocimiento de las controversias derivadas de 
+artículo 10.1.g) de la Ley 29/1998, de 13 de julio, de la Jurisdicción Contenciosoadministrativa, a cuyo tenor corresponde el conocimiento de las controversias derivadas de 
 los convenios entre Administraciones públicas, cuyas competencias se ejerzan en el ámbito 
 territorial de la Comunidad Autónoma.
 Para constancia de todo lo acordado se firma por triplicado el Convenio en el lugar 
@@ -441,8 +443,7 @@ Sexta.- Régimen de resolución de conflictos.
 Las partes se comprometen a resolver pacíficamente cualquier conflicto que pudiera surgir 
 en la interpretación y ejecución del presente Convenio. El órgano para alcanzar un acuerdo será 
 la Comisión de Seguimiento del Convenio Marco prevista en la cláusula séptima de dicho texto 
-del que este Protocolo de Adhesión se deriva al que se incorporaría a la jurisdicción contencioso-
-administrativa.
+del que este Protocolo de Adhesión se deriva al que se incorporaría a la jurisdicción contenciosoadministrativa.
 Y para que conste a los efectos oportunos, en prueba de conformidad, las partes firman 
 el presente Protocolo de Adhesión, por triplicado y a un solo efecto, en el lugar y fecha 
 arriba indicados.

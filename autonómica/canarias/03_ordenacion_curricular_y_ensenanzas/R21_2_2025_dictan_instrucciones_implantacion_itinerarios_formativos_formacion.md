@@ -29,6 +29,7 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -38,6 +39,7 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -332,8 +334,7 @@ Décima.- Intervención pedagógica.
 1. La intervención pedagógica tendrá carácter globalizador y contribuirá a que el 
 alumnado alcance las competencias y resultados de aprendizaje incluidos en el itinerario 
 formativo. Se desarrollará el currículo y se adoptarán las medidas de atención a la diversidad 
-atendiendo a las características del alumnado, la realidad educativa y el entorno socio-
-laboral.
+atendiendo a las características del alumnado, la realidad educativa y el entorno sociolaboral.
 2. Se adoptarán estrategias basadas en el modelo de docencia compartida que favorezcan 
 el desarrollo y personalización de estas enseñanzas.
 3. La intervención pedagógica en ambos itinerarios formativos tendrá carácter eminentemente 
@@ -1734,17 +1735,11 @@ STEM
 CE
 Explicación del bloque competencial:
 Este bloque competencial tiene como objetivo desarrollar la capacidad para realizar cálculos numéricos y 
-otras operaciones matemáticas aplicadas a la vida personal y laboral. A través de estos conocimientos, se fo-
-mentará la autonomía y la toma de decisiones.
-El enfoque se centra en el manejo de cantidades, como el dinero y los productos, así como en el uso de mag-
-nitudes en distintos contextos (distancia, tiempo, peso, volumen, entre otros). También se trabajarán técnicas 
+otras operaciones matemáticas aplicadas a la vida personal y laboral. A través de estos conocimientos, se fomentará la autonomía y la toma de decisiones.
+El enfoque se centra en el manejo de cantidades, como el dinero y los productos, así como en el uso de magnitudes en distintos contextos (distancia, tiempo, peso, volumen, entre otros). También se trabajarán técnicas 
 de estimación y redondeo, la orientación espacial y temporal, y el uso de herramientas de medición.
-Las situaciones de aprendizaje se diseñarán para comprender estos conceptos de manera práctica, aplicándo-
-los a contextos reales y, en particular, al ámbito profesional del itinerario formativo. Se llevarán a cabo acti-
-vidades como la gestión del dinero, la medición de ingredientes, o la interpretación de gráficos y tablas para 
-tomar decisiones informadas en el trabajo. Además, se trabajará con planos y diagramas para facilitar la or-
-ganización y ejecución de tareas, resolviendo problemas cotidianos que requieran habilidades lógicas y ma-
-temáticas.
+Las situaciones de aprendizaje se diseñarán para comprender estos conceptos de manera práctica, aplicándolos a contextos reales y, en particular, al ámbito profesional del itinerario formativo. Se llevarán a cabo actividades como la gestión del dinero, la medición de ingredientes, o la interpretación de gráficos y tablas para 
+tomar decisiones informadas en el trabajo. Además, se trabajará con planos y diagramas para facilitar la organización y ejecución de tareas, resolviendo problemas cotidianos que requieran habilidades lógicas y matemáticas.
 Competencia  específica  2.  Utilizar  herramientas  tecnológicas  y  digitales  para  organizar  y  gestionar 
 actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto.
 Criterios de evaluación Competencias clave

@@ -57,6 +57,9 @@ relaciones:
   - norma_id: norm-es-2022-16194
   - norma_id: norm-es-2023-9553
   - norma_id: norm-es-2025-16039
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-135
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -72,17 +75,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-22017
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.

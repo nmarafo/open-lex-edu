@@ -40,6 +40,9 @@ relaciones:
   - norma_id: norm-es-rd-132-2010
   - norma_id: norm-es-rd-243-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -423,8 +426,7 @@ puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
  RP001-000BNC517WyzWEB+AcQjNn7Rw==
 2.2.1. Modalidad presencial.
-En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-
-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía 
+En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía 
 didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
 2.2.2. Modalidad semipresencial.
 En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado 
@@ -831,8 +833,7 @@ Total de horas de la parte específica 6 horas
 * HLG: horas lectivas grupales
 ** HLA: horas lectivas de apoyo
 2.2.1 Modalidad presencial.
-En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-
-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía 
+En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía 
 didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
 2.2.2 Modalidad a distancia.
 Toda la carga horaria de la modalidad a distancia se impartirá de forma síncrona a 
@@ -1142,8 +1143,7 @@ Competencia básica comunicativa en
 lengua castellana
 El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya  
 superado:
-Curso de Orientación Universitaria (COU) Lengua Española / Seminario de Len-
-gua Española
+Curso de Orientación Universitaria (COU) Lengua Española / Seminario de Lengua Española
 Ex (5)
 Prueba libre para la obtención del título de Bachiller Lengua Castellana y Literatura II
 Curso  de  formación  preparatorio  para  acceder  a  ciclos 
@@ -1159,11 +1159,9 @@ Aplicadas a las Ciencias Sociales II Ex
 formativos de grado superior (acceso directo - RD 659/2023) Competencia básica matemática
 El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya  
 superado:
-Curso de Orientación Universitaria (COU) Matemáticas / Matemáticas I / Mate-
-máticas II
+Curso de Orientación Universitaria (COU) Matemáticas / Matemáticas I / Matemáticas II
 Ex (5)
-Prueba libre para la obtención del título de Bachiller Matemáticas II / Matemáticas Aplica-
-das a las Ciencias Sociales II
+Prueba libre para la obtención del título de Bachiller Matemáticas II / Matemáticas Aplicadas a las Ciencias Sociales II
 Curso  de  formación  preparatorio  para  acceder  a  ciclos 
 formativos de grado superior (RD 1147/2011 o RD 659/2023)
 Matemáticas / Fundamentos Básicos
@@ -1263,10 +1261,8 @@ SUPERACIÓN
 Superado / No superado:
 Nota media
 (2):
-(1)  La calificación de las competencias básicas se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica corres-
-pondiente entre paréntesis.
-(2) La calificación final numérica del curso se obtendrá calculando la media aritmética de la calificación obtenida en cada una de las competencias y se expresará de 1 a 10, redondeada a la centési-
-ma más próxima y, en caso de equidistancia, a la superior. 
+(1)  La calificación de las competencias básicas se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica correspondiente entre paréntesis.
+(2) La calificación final numérica del curso se obtendrá calculando la media aritmética de la calificación obtenida en cada una de las competencias y se expresará de 1 a 10, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. 
 FECHA Y LUGAR
 V .º B.º
 El director / la directora El secretario / la secretaria
@@ -1302,8 +1298,7 @@ Superado / No superado:
 Nota media(2):
 (1) La calificación de las competencias se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica correspondiente 
 entre paréntesis.
-(2) La calificación final numérica del curso se obtendrá calculando la media aritmética de la calificación obtenida en cada una de las competencias y se expresará de 1 a 10, redondeada a la centési-
-ma más próxima y, en caso de equidistancia, a la superior. 
+(2) La calificación final numérica del curso se obtendrá calculando la media aritmética de la calificación obtenida en cada una de las competencias y se expresará de 1 a 10, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. 
 FECHA Y LUGAR
 APÉNDICE VI
 V .º B.º
@@ -1461,8 +1456,7 @@ Motivos por lo que se propone la incorporación del alumno o alumna al Curso de 
 grado medio:
 1. Riesgo de abandono escolar
 2. Preparar al alumnado para su progresión en el sistema educativo
-3. Se han aplicado medidas de atención a la diversidad y continúa presentando dificultades para alcan-
-zar los objetivos de la etapa
+3. Se han aplicado medidas de atención a la diversidad y continúa presentando dificultades para alcanzar los objetivos de la etapa
 4. 
 5. 
 Atendiendo a la información analizada, el equipo docente propone la incorporación del alumno o la alumna al Curso
@@ -1493,19 +1487,16 @@ mativos de grado medio.
 DERECHO DE INFORMACIÓN AL SOLICITANTE:
 Protección de datos:
 Tratamiento de datos de carácter personal ADMISIÓN DE ALUMNADO. Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de  
-Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a ense-
-ñanzas postobligatorias. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación  
+Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a enseñanzas postobligatorias. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación  
 del tratamiento, oposición y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el Responsable del Tratamiento. Procedencia de los datos: El propio  
 interesado o interesada o su representante legal. Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado/
-Tratamiento de datos de carácter personal ADMISIÓN DEL ALUMNADO CON PRIORIDAD POR CAMBIO DE RESIDENCIA DERIV ADO DE ACTOS DE VIOLENCIA DE GÉNERO. Respon-
-sable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado de  
+Tratamiento de datos de carácter personal ADMISIÓN DEL ALUMNADO CON PRIORIDAD POR CAMBIO DE RESIDENCIA DERIV ADO DE ACTOS DE VIOLENCIA DE GÉNERO. Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado de  
 enseñanzas no universitarias, en las condiciones establecidas en la normativa de admisión, ejerciendo su prioridad en el área de escolarización que corresponda al domicilio o al lugar de trabajo de al -
 guno de sus padres, madres o tutores legales cuya escolarización en centros públicos y privados concertados venga motivada por traslado de la unidad familiar debido a un cambio de residencia deriva -
 do de actos de violencia de género. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión,  
 limitación del tratamiento, oposición y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el Responsable del Tratamiento. Procedencia de los datos: 
 El propio interesado o interesada o su representante legal. 
-Información  adicional:  https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado-con-prioridad-por-cambio-de-residencia-derivado-de-actos-de-
-violencia-de-genero/
+Información  adicional:  https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado-con-prioridad-por-cambio-de-residencia-derivado-de-actos-deviolencia-de-genero/
 En   , a de  de 
 PADRE/MADRE/TUTOR/A
 (nombre, firma, DNI/NIE/Pasaporte)

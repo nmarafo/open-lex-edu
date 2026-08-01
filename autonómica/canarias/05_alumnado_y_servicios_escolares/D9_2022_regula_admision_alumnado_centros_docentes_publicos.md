@@ -39,6 +39,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-boc-2024-049-109
   - norma_id: norm-can-res-boc-2025-039-104

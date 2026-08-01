@@ -48,6 +48,13 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-d-114-2011
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-can-d-81-2010
   articulos:
@@ -57,17 +64,6 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 **JUAN CARLOS I**

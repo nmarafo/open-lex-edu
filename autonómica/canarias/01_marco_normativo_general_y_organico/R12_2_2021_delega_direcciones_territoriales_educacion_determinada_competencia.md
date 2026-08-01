@@ -28,6 +28,10 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -44,7 +48,6 @@ ocr_procesado: true
 
 # Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento (BOC n.º 38, de 24 de febrero).
 
-Boletín Oficial de Canarias núm. 38
 https://sede.gobcan.es/boc
 Miércoles 24 de febrero de 2021
 8826
@@ -89,7 +92,6 @@ necesario conferir nuevamente a los órganos de gestión de esta Consejería tal
 Página 
 boc-a-2021-038-932
 
-Boletín Oficial de Canarias núm. 38
 https://sede.gobcan.es/boc
 Miércoles 24 de febrero de 2021
 8827

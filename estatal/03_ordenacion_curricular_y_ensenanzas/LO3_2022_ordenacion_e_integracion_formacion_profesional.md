@@ -33,6 +33,23 @@ relaciones:
   - norma_id: norm-es-2024-10683
   - norma_id: norm-es-2025-2039
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2022-087-31
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-boc-2024-230-25
   fundamentado_en:
   - norma_id: norm-es-2002-12018
   - norma_id: norm-es-2010-12201
@@ -49,6 +66,13 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-2024-11613
   - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2026-141-29
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -63,17 +87,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) de Ordenación e Integración de la Formación Profesional
 
 **FELIPE VI**

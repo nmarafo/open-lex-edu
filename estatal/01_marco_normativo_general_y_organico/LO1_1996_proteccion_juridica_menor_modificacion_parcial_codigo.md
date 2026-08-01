@@ -36,23 +36,26 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-juriscan-69937-120
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-o-7-6-2007
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-o-1-9-2010
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-d-23-1995
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2024-230-25
+  desarrollado_por:
+  - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '39'
 - norma_id: norm-es-lo-1-1982
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor
 
 **JUAN CARLOS I**

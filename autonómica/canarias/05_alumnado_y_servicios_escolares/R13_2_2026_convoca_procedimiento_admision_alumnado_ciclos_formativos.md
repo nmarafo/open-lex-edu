@@ -45,6 +45,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-099
   - norma_id: norm-can-res-112
@@ -52,6 +53,8 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-can-res-boc-2026-073-113
   - norma_id: norm-can-res-boc-2026-132-101
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -526,9 +529,7 @@ de Formación Profesional: se propone que sea automático
 PERIODOS PARA COMPLETAR MATRÍCULA DE GRUPOS A PARTIR DEL 1 DE 
 SEPTIEMBRE 2026
 Del 1 al 4 septiembre
-Recogida de peticiones, por aplicación informática para las enseñan-
-zas en las que existan vacantes y no exista lista de reserva, en el cen-
-tro correspondiente
+Recogida de peticiones, por aplicación informática para las enseñanzas en las que existan vacantes y no exista lista de reserva, en el centro correspondiente
 7 septiembre Asignación de plazas según vacantes.
 8 septiembre Apertura de formulario de matrícula única (08:00h)
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
@@ -549,9 +550,7 @@ de Formación Profesional: se propone que sea automático
 PERIODOS PARA COMPLETAR MATRÍCULA DE GRUPOS A PARTIR DEL 1 DE 
 SEPTIEMBRE 2026
 Del 1 al 4 septiembre
-Recogida de peticiones, por aplicación informática para las enseñan-
-zas en las que existan vacantes y no exista lista de reserva, en el cen-
-tro correspondiente
+Recogida de peticiones, por aplicación informática para las enseñanzas en las que existan vacantes y no exista lista de reserva, en el centro correspondiente
 7 septiembre Asignación de plazas según vacantes.
 8 septiembre Apertura de formulario de matrícula única (08:00h)
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
@@ -611,8 +610,7 @@ Del 14 al 17 de julio Plazo de matrícula alumnado de las listas de reserva.
 *Finalizado el plazo de matrícula (17 de julio de 2026), los ciclos formativos que poseen plazas vacantes y
 no tienen listas de reservas podrán aceptar solicitudes fuera de plazo hasta completar grupo, tomando como
 criterio para la admisión la fecha y hora del registro de entrada del centro.
-** En este periodo solicitará plaza aquel alumnado que habiendo terminado una de las enseñanzas de Gra-
-dos D (2 y 3) desee cursar una enseñanza con el primer curso en común o con la excepción de un módulo, 
+** En este periodo solicitará plaza aquel alumnado que habiendo terminado una de las enseñanzas de Grados D (2 y 3) desee cursar una enseñanza con el primer curso en común o con la excepción de un módulo, 
 conducentes a una doble titulación de formación profesional.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
@@ -808,8 +806,7 @@ exentos en las pruebas específicas de acceso.
 de Arte y Escuelas de Arte y Superiores de Diseño.
 15 de septiembre Publicación de las calificaciones provisionales de la prueba específica y 
 publicación de las listas provisionales de adjudicación de plazas.
-16 y 17 de septiembre Plazo de reclamación a las calificaciones obtenidas en la prueba especí-
-fica y a las listas provisionales de adjudicación de plazas.
+16 y 17 de septiembre Plazo de reclamación a las calificaciones obtenidas en la prueba específica y a las listas provisionales de adjudicación de plazas.
 18 de septiembre
 Resolución de las reclamaciones y publicación de las listas definitivas de
 adjudicación de plazas y de las calificaciones definitivas de la prueba 
@@ -956,14 +953,12 @@ listas provisionales de admitidos.
 Del 23 al 25 de junio Plazo de reclamaciones a las calificaciones de la prueba de acceso y a las listas 
 provisionales de admitidos.
 26 de junio Resolución de las reclamaciones y publicación listas definitivas de admitidos.
-Del 29 de junio al 29 de ju-
-lio
+Del 29 de junio al 29 de julio
 Plazo para interponer recurso de alzada ante la Dirección Territorial de Educación 
 contra la calificación obtenida en la prueba de acceso y a la lista definitiva de  
 adjudicación de plazas.
 Del 15 al 26 de junio Plazo ordinario de matrícula para alumnado de continuidad.
-Del 29 de junio al 8 de ju-
-lio Plazo ordinario de matrícula para alumnado de nuevo ingreso.
+Del 29 de junio al 8 de julio Plazo ordinario de matrícula para alumnado de nuevo ingreso.
 10 de julio
 Los centros cumplimentarán, antes de las 14:00 horas, los datos de matrícula y  
 procederán a su remisión a la DGFPERE a través de los procedimientos 

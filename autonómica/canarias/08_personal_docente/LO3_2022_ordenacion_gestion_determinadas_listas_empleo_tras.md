@@ -27,11 +27,15 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rdl-5-2015
   fundamento_de:
   - norma_id: norm-can-res-027
   - norma_id: norm-can-res-032

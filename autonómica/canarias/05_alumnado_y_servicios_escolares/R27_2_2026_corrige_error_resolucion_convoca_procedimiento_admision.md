@@ -37,6 +37,9 @@ relaciones:
   - norma_id: norm-can-res-boc-2026-037-105
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

@@ -28,6 +28,8 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-es-rd-1834-2008
+  - norma_id: norm-can-res-043
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -39,17 +41,6 @@ fundamentos_derecho:
 - norma_id: norm-es-l-53-1984
 - norma_id: norm-es-2002-12018
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 1558/2005, de 23 de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de formación profesional.
 
 La [Ley Orgánica 5/2002](LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto «la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas».

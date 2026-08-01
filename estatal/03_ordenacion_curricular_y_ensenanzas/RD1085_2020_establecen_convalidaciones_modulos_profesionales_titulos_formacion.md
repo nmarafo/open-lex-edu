@@ -39,6 +39,12 @@ relaciones:
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-030
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -56,17 +62,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-979
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # [Real Decreto 1085/2020](RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 Una de las intenciones perseguidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, es mejorar la flexibilidad entre las enseñanzas y facilitar los mecanismos de convalidaciones y equivalencias. En este sentido, el artículo 44.6 dispone que el Gobierno regulará el régimen de convalidaciones y equivalencias entre los ciclos formativos de grado medio y superior de la Formación Profesional y el resto de enseñanzas y estudios oficiales, oídos los correspondientes órganos colegiados.

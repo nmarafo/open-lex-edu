@@ -36,12 +36,14 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rd-443-2001
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-14-1990
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -93,8 +95,6 @@ Siguiente
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 
 1202 - ORDEN de 2 de agosto de 2006, por la que se aprueban las bases que regulan el uso del transporte escolar canario en los Centros Educativos Públicos no universitarios y Residencias Escolares de la Comunidad Autónoma de Canarias.
-
-Descargar en formato pdf
 
 Examinado el expediente tramitado por la Dirección General de Promoción Educativa, relativo a la elaboración de las bases que regulan el uso del transporte escolar en los Centros Educativos Públicos no Universitarios y Residencias Escolares de la Comunidad Autónoma de Canarias, de acuerdo con los siguientes
 

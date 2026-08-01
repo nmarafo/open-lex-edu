@@ -31,23 +31,14 @@ relaciones:
   - norma_id: norm-es-lo-10-2022
   - norma_id: norm-es-lo-5-2000
   - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-can-res-boc-2026-129-26
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-lo-1-1982
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 **JUAN CARLOS I**

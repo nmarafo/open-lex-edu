@@ -36,6 +36,8 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -146,37 +148,28 @@ ESPECIAL EN LA COMUNIDAD AUTÓNOMA  DE CANARIAS.
 ANEXO 
 Primera.- Objeto y ámbito de aplicación.
 1. La presente resolución tiene por objeto establecer instrucciones sobre el procedimiento a seguir en
-orden al reconocimiento de correspondencias, convalidaciones y exenciones  en las enseñanzas depor-
-tivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias.
+orden al reconocimiento de correspondencias, convalidaciones y exenciones  en las enseñanzas deportivas de régimen especial en el ámbito de la Comunidad Autónoma de Canarias.
 2. Será de aplicación en los centros docentes públicos y privados que imparten enseñanzas deportivas
 de régimen especial en la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos generales. 
 1. De acuerdo con lo establecido en los artículos 44.1 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre, y
 41.1
- del Decreto 93/2019, de 22 de mayo, por el que se regulan las enseñanzas deportivas de régimen es-
-pecial en la Comunidad Autónoma de Canarias, la tramitación de las solicitudes de reconocimiento de
+ del Decreto 93/2019, de 22 de mayo, por el que se regulan las enseñanzas deportivas de régimen especial en la Comunidad Autónoma de Canarias, la tramitación de las solicitudes de reconocimiento de
 correspondencias, convalidaciones y exenciones requiere la matriculación previa del alumno o alumna
 solicitante en las enseñanzas correspondientes.
 2. El alumnado que desee obtener las referidas correspondencias formativas, convalidaciones y exen -
 ciones deberá presentar en la Secretaría del centro docente donde se curse las enseñanzas, una solici -
-tud conforme a los modelos establecidos, junto con la documentación que acredite la petición. La solici-
-tud se dirigirá a la Dirección del centro docente, o en su caso, al Ministerio de Educación y Formación
+tud conforme a los modelos establecidos, junto con la documentación que acredite la petición. La solicitud se dirigirá a la Dirección del centro docente, o en su caso, al Ministerio de Educación y Formación
 Profesional, a través del Consejo Superior de Deportes.
-Para la cumplimentación de la solicitud de convalidación y correspondencia formativa, el alumnado po-
-drá acceder a guías específicas de cada ciclo formativo en la página web de la Consejería con competen-
-cias en materia de educación. Las solicitudes dirigidas al Ministerio de Educación y Formación Profesio-
-nal, se cumplimentarán a través de la página web del Consejo Superior de Deportes.
+Para la cumplimentación de la solicitud de convalidación y correspondencia formativa, el alumnado podrá acceder a guías específicas de cada ciclo formativo en la página web de la Consejería con competencias en materia de educación. Las solicitudes dirigidas al Ministerio de Educación y Formación Profesional, se cumplimentarán a través de la página web del Consejo Superior de Deportes.
 3. Los módulos de enseñanza deportiva que sean objeto de correspondencia formativa, convalidación y
-exención no podrán ser computados a los efectos del cálculo de la calificación final del ciclo de enseñan-
-za deportiva, ni de las enseñanzas conducentes al título deportivo.
+exención no podrán ser computados a los efectos del cálculo de la calificación final del ciclo de enseñanza deportiva, ni de las enseñanzas conducentes al título deportivo.
 4. La correspondencia formativa, la convalidación de módulos y la exención del módulo de formación
 práctica, que sean estimadas por la Dirección del centro educativo o por el 
  Ministerio de Educación y
-Formación Profesional, quedarán recogidas en las actas de evaluación con los términos “corresponden-
-cia”, “convalidado” y “exento”, respectivamente.
+Formación Profesional, quedarán recogidas en las actas de evaluación con los términos “correspondencia”, “convalidado” y “exento”, respectivamente.
 Tercera.- Correspondencia de módulos de enseñanza deportiva.
-1.- Los módulos de enseñanza deportiva que se determinen en los reales decretos por los que se estable-
-cen los correspondientes títulos y se fijan sus enseñanzas mínimas podrán ser objeto de correspondencia
+1.- Los módulos de enseñanza deportiva que se determinen en los reales decretos por los que se establecen los correspondientes títulos y se fijan sus enseñanzas mínimas podrán ser objeto de correspondencia
 formativa con la experiencia deportiva, según lo requisitos y condiciones establecidos en dichos reales
 decretos.
 Este documento ha sido firmado electrónicamente por:
@@ -193,44 +186,33 @@ AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
 CONVALIDACIONES  Y  EXENCIONES  EN  LAS  ENSEÑANZAS  DEPORTIVAS  DE
 RÉGIMEN ESPECIAL EN LA COMUNIDAD AUTÓNOMA  DE CANARIAS.
 2. Asimismo los módulos de enseñanza deportiva podrán ser objeto de correspondencia formativa con la
-experiencia docente acreditable a la que se refiere la disposición adicional decimoquinta del Real De-
-creto 1363/2007, de 24 de octubre, según los requisitos y condiciones establecidos en dichos reales de-
-cretos.
+experiencia docente acreditable a la que se refiere la disposición adicional decimoquinta del Real Decreto 1363/2007, de 24 de octubre, según los requisitos y condiciones establecidos en dichos reales decretos.
 Cuarta.- Convalidación  de módulos de enseñanza deportiva.
 1.- Podrán ser objeto de convalidación los módulos de enseñanzas deportivas por:
 a) Las enseñanzas  de formación profesional, conforme a lo dispuesto en los anexos I y II de la
 Orden ECI/3224/2004, de 21 de septiembre corregida por la Orden ECI/3341/2004, de 8 de
 octubre y modificada por la Orden ECI/3830/2005, de 18 de noviembre.
-b) Las enseñanzas universitarias, conforme a lo dispuesto en los anexos III, IV y V de la men-
-cionada Orden ECI/3224/2004, de 21 de septiembre. 
-c) La acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Pro-
-fesionales, previstos en los reales decretos por los que se establecen los títulos según los requi-
-sitos y condiciones establecidos en el artículo 40 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octu-
-bre.
+b) Las enseñanzas universitarias, conforme a lo dispuesto en los anexos III, IV y V de la mencionada Orden ECI/3224/2004, de 21 de septiembre. 
+c) La acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, previstos en los reales decretos por los que se establecen los títulos según los requisitos y condiciones establecidos en el artículo 40 del [Real Decreto 1363/2007](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1363_2007_establece_ordenacion_general_ensenanzas_deportivas_regimen.md), de 24 de octubre.
 d) La superación de aquellos otros módulos de enseñanza del bloque específico que sean co -
 munes a varios ciclos de enseñanzas deportivas, siempre que tengan igual denominación, du -
 ración, objetivos, criterios de evaluación y contenidos, de acuerdo con lo establecido por la
 norma que regule cada título. 
  
-2. Podrán ser objeto de convalidación los módulos de enseñanza deportiva pertenecientes al grado me-
-dio con las materias de bachillerato que se determinen en los reales decretos que establezcan los títulos
+2. Podrán ser objeto de convalidación los módulos de enseñanza deportiva pertenecientes al grado medio con las materias de bachillerato que se determinen en los reales decretos que establezcan los títulos
 y enseñanzas mínimas.
 3. Podrá ser objeto de convalidación la superación de la totalidad de los módulos del bloque común de
 cada ciclo de enseñanza, en cualquiera de las modalidades o especialidades deportivas de los títulos
-establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Siste-
-ma Educativo (LOGSE), por la totalidad de los módulos del bloque común del correspondiente ciclo
-de enseñanza deportiva en cualquiera de las modalidades o especialidades deportivas de los títulos es-
-tablecidos al amparo de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE ) y viceversa.
+establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE), por la totalidad de los módulos del bloque común del correspondiente ciclo
+de enseñanza deportiva en cualquiera de las modalidades o especialidades deportivas de los títulos establecidos al amparo de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (LOE ) y viceversa.
 4. Podrán ser objeto de convalidación los módulos de enseñanza deportiva mediante la acreditación de
 haber superado estudios oficiales relacionados con la actividad física y deportiva, siempre que sus
 contenidos sean concordantes y la carga lectiva superada sea igual o superior a la del módulo que se
 pretende convalidar.
 5. Podrán ser objeto de convalidación los módulos de enseñanza deportiva mediante la acreditación de
 haber superado estudios oficiales no relacionados con la actividad física y deportiva, siempre que sus
-contenidos sean concordantes y la carga lectiva superada sea igual o superior a la del módulo que se pre-
-tende convalidar.
-6. Las solicitudes de convalidación de módulos de enseñanzas deportivas podrán ser resueltas por la Di-
-rección del centro docente público o por el Ministerio de Educación y Formación Profesional, a través
+contenidos sean concordantes y la carga lectiva superada sea igual o superior a la del módulo que se pretende convalidar.
+6. Las solicitudes de convalidación de módulos de enseñanzas deportivas podrán ser resueltas por la Dirección del centro docente público o por el Ministerio de Educación y Formación Profesional, a través
 del Consejo Superior de Deportes, según corresponda:
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - Fecha: 10/07/2019 - 08:41:03
@@ -254,8 +236,7 @@ Técnico en Conducción de actividades físico-deportivas en el medio natural.
 R.D. 2049/1995, de 22 de diciembre (BOE n.º 39, de 14 de febrero).
 Módulos superados Módulos del bloque común de grado medio 
 que se convalidan 
-Fundamentos biológicos, salud y primeros au-
-xilios.
+Fundamentos biológicos, salud y primeros auxilios.
 Bases anatómicas y fisiológicas del deporte (nivel I y 
 nivel II)
 Primeros Auxilios e higiene en el deporte (nivel  I)
@@ -263,18 +244,14 @@ Técnico Superior en Animación de actividades físicas y deportivas.
 R.D. 2048/1995, de 22 de diciembre (BOE  n.º 35, de 9 de febrero).
 Módulos superados Módulos del bloque común de grado medio 
 que se convalidan 
-Fundamentos biológicos y bases del acondi-
-cionamiento físico.
-Bases anatómicas y fisiológicas del deporte (nivel I y ni-
-vel II)
+Fundamentos biológicos y bases del acondicionamiento físico.
+Bases anatómicas y fisiológicas del deporte (nivel I y nivel II)
 Entrenamiento deportivo (nivel I y nivel II)
 Primeros auxilios y socorrismo acuático. Primeros Auxilios e higiene en el deporte (nivel  I)
 El conjunto de los dos módulos:
 − Animación y dinámica de grupos.
-− Metodología didáctica de las activi-
-dades físico-deportivas.
-Bases psicopedagógicas de la enseñanza y del entrena-
-miento deportivo (nivel I y nivel II).
+− Metodología didáctica de las actividades físico-deportivas.
+Bases psicopedagógicas de la enseñanza y del entrenamiento deportivo (nivel I y nivel II).
 • Por haber superado enseñanzas universitarias, conforme a lo dispuesto en los anexos III, IV y V
 de la Orden ECI/3224/2004, de 21 de septiembre corregida por la Orden ECI/3341/2004, de 8
 de octubre y modificada por la Orden ECI/3830/2005, de 18 de noviembre.
@@ -283,14 +260,12 @@ R.D. 1440/1991, de 30 de agosto (BOE n.º 244, de 11 de octubre).
 Materias superadas Módulos del bloque común de grado medio 
 que se convalidan 
 El conjunto de las cinco materias:
-− Psicología de la educación y el desarro-
-llo en la edad escolar.
+− Psicología de la educación y el desarrollo en la edad escolar.
 − Aprendizaje y desarrollo motor.
 − Educación física y su didáctica I.
 − Educación física y su didáctica II.
 − Educación física y su didáctica III.
-Bases psicopedagógicas de la enseñanza y del entre-
-namiento deportivo (nivel I y nivel II).
+Bases psicopedagógicas de la enseñanza y del entrenamiento deportivo (nivel I y nivel II).
 Bases biológicas y fisiológicas del movimiento. Bases anatómicas y fisiológicas del deporte (nivel I)
 Teoría y práctica del acondicionamiento físico. Entrenamiento deportivo (nivel  I)
 Este documento ha sido firmado electrónicamente por:
@@ -313,18 +288,14 @@ que se convalidan
 El conjunto de las tres materias:
 − Bases  biológicas  y  mecánicas  de  la
 actividad física y del deporte.
-− Fundamentos y manifestaciones bási-
-cas de la motricidad humana.
+− Fundamentos y manifestaciones básicas de la motricidad humana.
 − Psicología de la actividad física y del
 deporte.
-Bases anatómicas y fisiológicas del deporte (nivel I y ni-
-vel II).
-Bases psicopedagógicas de la enseñanza y del entrena-
-miento deportivo (nivel I y nivel II).
+Bases anatómicas y fisiológicas del deporte (nivel I y nivel II).
+Bases psicopedagógicas de la enseñanza y del entrenamiento deportivo (nivel I y nivel II).
 Entrenamiento deportivo (nivel I y nivel II).
 El conjunto de las dos materias 
-− Sociología del deporte y Teoría e his-
-toria del deporte.
+− Sociología del deporte y Teoría e historia del deporte.
 Fundamentos sociológicos del deporte (nivel  I)
 Organización y legislación del deporte (nivel I y nivel
 II).
@@ -342,10 +313,8 @@ R.D. 790/1981, de 24 de abril (BOE n.º 108, de 6 de mayo).
 Acreditación Módulos del bloque común de grado medio 
 que se convalidan 
 Título de Diplomado en Educación Física.
-Bases anatómicas y fisiológicas del deporte (nivel I y ni-
-vel II).
-Bases psicopedagógicas de la enseñanza y del entrena-
-miento deportivo (nivel I y nivel II).
+Bases anatómicas y fisiológicas del deporte (nivel I y nivel II).
+Bases psicopedagógicas de la enseñanza y del entrenamiento deportivo (nivel I y nivel II).
 Entrenamiento deportivo (nivel I y nivel II).
 Fundamentos sociológicos del deporte (nivel  I)
 Organización y legislación del deporte (nivel I y nivel
@@ -355,8 +324,7 @@ Acreditación Módulos del bloque común de grado superior
 que se convalidan 
 Título de Diplomado en Educación Física. Biomecánica deportiva.
 Sociología del deporte de alto rendimiento.
-• Por la acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Pro-
-fesionales.
+• Por la acreditación de unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales.
 La unidad de competencia se acreditará mediante:
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - Fecha: 10/07/2019 - 08:41:03
@@ -381,42 +349,32 @@ Formación Profesional.
 ñanza deportiva y que tengan igual denominación, duración, objetivos, criterios de evaluación y
 contenidos, de acuerdo con lo establecido por la norma que regule cada título. 
 • Podrán ser objeto de convalidaciones los módulos de enseñanza deportiva pertenecientes al
-grado medio, con materias de bachillerato, de acuerdo con lo que se determine en el real decre-
-to que establezca el título y las enseñanzas mínimas.
+grado medio, con materias de bachillerato, de acuerdo con lo que se determine en el real decreto que establezca el título y las enseñanzas mínimas.
 • Por haber superado módulos de enseñanza deportiva del bloque común en un determinado ci -
-clo de cualquiera de las modalidades y especialidades deportivas, tendrá validez para las ense-
-ñanzas del mismo ciclo, de cualquier otra modalidad o especialidad deportiva.
+clo de cualquiera de las modalidades y especialidades deportivas, tendrá validez para las enseñanzas del mismo ciclo, de cualquier otra modalidad o especialidad deportiva.
 Acreditación Módulos del bloque común de grado medio 
 que se convalidan 
-La superación de la totalidad de los módulos del blo-
-que común del primer o segundo nivel, en cualquiera
+La superación de la totalidad de los módulos del bloque común del primer o segundo nivel, en cualquiera
 de las modalidades o especialidades deportivas de los
 títulos  establecidos  al  amparo  de  la  Ley  Orgánica
 1/1990, de 3 de octubre, de Ordenación General del
 Sistema Educativo. 
 Convalidará por la totalidad de los módulos del bloque
-común del correspondiente ciclo inicial o final de en-
-señanza deportiva.
-La superación de la totalidad de los módulos del blo-
-que común de los ciclos inicial o final del título de
+común del correspondiente ciclo inicial o final de enseñanza deportiva.
+La superación de la totalidad de los módulos del bloque común de los ciclos inicial o final del título de
 Técnico Deportivo en una modalidad deportiva. 
 Convalidará por la totalidad de los módulos del bloque
-común, del correspondiente nivel, de los títulos esta-
-blecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de
+común, del correspondiente nivel, de los títulos establecidos al amparo de la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de
 octubre, de Ordenación General del Sistema Educati -
 vo.
 • Por la superación de módulos de enseñanza deportiva de los títulos establecidos al amparo de
 la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, con
-módulos de enseñanza deportiva del bloque específico de los títulos de Técnico Deportivo. Di-
-chos módulos vendrán determinados en el correspondiente real decreto que establezca el título
+módulos de enseñanza deportiva del bloque específico de los títulos de Técnico Deportivo. Dichos módulos vendrán determinados en el correspondiente real decreto que establezca el título
 y las enseñanzas mínimas.
-b) El Ministerio de Educación y Formación Profesional, a través del Consejo Superior de Deportes, re-
-solverá en los siguientes supuestos:
-• Por haber superado estudios oficiales relacionados con la actividad física y deportiva, siem-
-pre que sus contenidos sean concordantes y la carga lectiva superada sea igual o superior a
+b) El Ministerio de Educación y Formación Profesional, a través del Consejo Superior de Deportes, resolverá en los siguientes supuestos:
+• Por haber superado estudios oficiales relacionados con la actividad física y deportiva, siempre que sus contenidos sean concordantes y la carga lectiva superada sea igual o superior a
 la del módulo que se pretende convalidar.
-• Por haber superado estudios oficiales no relacionados con la actividad física y deportiva, siem-
-pre que sus con tenidos sean concordantes y la carga lectiva superada sea igual o superior a la
+• Por haber superado estudios oficiales no relacionados con la actividad física y deportiva, siempre que sus con tenidos sean concordantes y la carga lectiva superada sea igual o superior a la
 del módulo que se pretende convalidar.
 7. Todas aquellas solicitudes de convalidación que no estén recogidas en el apartado
  6.a de  la presente
@@ -443,57 +401,44 @@ a)  Quienes acrediten la condición de deportista de alto nivel o deportista de 
 según condiciones establecidas en  el Real Decreto 971/2007, de 13 de julio, sobre deportistas
 de alto nivel y alto rendimiento. La acreditación se realizará a través de certificado expedido
 por el Consejo Superior de Deportes o la comunidad autónoma, según corresponda.
-b) Aquellos deportistas con licencia expedida u homologada por la Federación deportiva espa-
-ñola correspondiente, que cumplan con los requisitos que determine el real decreto que esta -
+b) Aquellos deportistas con licencia expedida u homologada por la Federación deportiva española correspondiente, que cumplan con los requisitos que determine el real decreto que esta -
 blezca el título y las enseñanzas mínimas. La acreditación se realizará a través de certificado
 expedido por la Real Federación Española de la modalidad deportiva correspondiente.
 c) Quienes estén en alguna de las situaciones previstas en el apartado dos de la disposición
 transitoria segunda del Real Decreto 1363/ 2007, de 24 de octubre.
 3. Podrá ser objeto de exención total o parcial  el módulo de formación práctica en cada uno de los ciclos
-que conforman cada modalidad o especialidad deportiva, en función de su correspondencia con la expe-
-riencia en el ámbito deportivo o laboral.
+que conforman cada modalidad o especialidad deportiva, en función de su correspondencia con la experiencia en el ámbito deportivo o laboral.
 Exención del módulo de formación práctica
 Exención total Acreditación Requisito
 Se  concederá  cuando  exista  una
 completa concordancia de la expe -
-riencia laboral o deportiva acredita-
-da con la totalidad de los resultados
+riencia laboral o deportiva acreditada con la totalidad de los resultados
 de aprendizaje del correspondiente
 módulo. Experiencia  relacionada  con  los
 estudios de enseñanzas deportivas
 superior al doble de la duración
 del módulo de formación prácti -
 ca, que permita demostrar los re -
-sultados  de  aprendizaje  corres-
-pondientes a dicho módulo.
+sultados  de  aprendizaje  correspondientes a dicho módulo.
 La experiencia debe ser dos años
 anteriores  a  la  finalización  del
 curso.
 Experiencia deportiva
 Certificación de la Federación Española
-o  Autonómica  de  la  modalidad  corres-
-pondiente, o aquellas entidades estableci-
-das por las Administraciones educativas
+o  Autonómica  de  la  modalidad  correspondiente, o aquellas entidades establecidas por las Administraciones educativas
 competentes,  donde  conste  la  actividad
 desarrollada y el periodo de tiempo en el
 que se ha realizado la actividad.
 Experiencia laboral
-Certificación de la empresa, donde cons-
-te la duración del contrato, la actividad
+Certificación de la empresa, donde conste la duración del contrato, la actividad
 desarrollada y el periodo de tiempo en el
 que se ha realizado la actividad. 
-Trabajadores por cuenta propia, certifica-
-ción de alta 
-en el censo de obligados tri-
-butarios, con una antigüedad mínima de
-un año, así como una declaración del in-
-teresado de las actividades más represen-
-tativas.
+Trabajadores por cuenta propia, certificación de alta 
+en el censo de obligados tributarios, con una antigüedad mínima de
+un año, así como una declaración del interesado de las actividades más representativas.
 Exención parcial
-Se concederá para aquellos resulta-
-dos de aprendizaje del módulo, que
-sean concordantes con la experien-
-cia laboral o deportiva acreditada.
+Se concederá para aquellos resultados de aprendizaje del módulo, que
+sean concordantes con la experiencia laboral o deportiva acreditada.
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - Fecha: 10/07/2019 - 08:41:03
 En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
@@ -512,9 +457,7 @@ módulos de enseñanza deportiva.
 1. La solicitud de reconocimiento de correspondencia y de convalidación, junto con la documentación
 que acredite la petición, se presentará en la Secretaría del centro docente donde se curse las enseñanzas,
 dirigida a la Dirección.
-Los centros docentes privados trasladarán la solicitud y documentación al centro docente público de ads-
-cripción en el plazo de cinco días hábiles siguientes, a contar a partir de la finalización del plazo estable-
-cido para la presentación de la solicitud.
+Los centros docentes privados trasladarán la solicitud y documentación al centro docente público de adscripción en el plazo de cinco días hábiles siguientes, a contar a partir de la finalización del plazo establecido para la presentación de la solicitud.
 2. El plazo para presentar la solicitud de correspondencia formativa y de convalidación será:
 a) Ciclos inicial y ciclo final de grado medio organizados en un solo curso académico.
 Ciclo inicial Ciclo final
@@ -523,12 +466,10 @@ b)  Ciclos de grado superior.
 Ciclos de grado superior
 A la finalización del mes de octubre
 Excepcionalmente, cuando la Consejería competente en materia educativa autorice la impartición anual
-de los ciclos inicial y final de grado medio las solicitudes se presentarán a la finalización del mes de oc-
-tubre.
+de los ciclos inicial y final de grado medio las solicitudes se presentarán a la finalización del mes de octubre.
 3.  En tanto no se resuelva la petición, el alumnado deberá asistir a las actividades formativas de los
 módulos de enseñanza deportiva cuya correspondencia o convalidación  haya solicitado.
-4. La Dirección del centro docente público emitirá resolución en los plazos establecidos a tal fin, entre-
-gando copia de dicho documento de reconocimiento a la persona interesada. El centro adscrito remitirá
+4. La Dirección del centro docente público emitirá resolución en los plazos establecidos a tal fin, entregando copia de dicho documento de reconocimiento a la persona interesada. El centro adscrito remitirá
 resolución al centro privado para que entregue a la persona interesada.
 Contra la resolución de la Dirección del centro docente público se podrá interponer recurso de alzada
 ante el titular de la Dirección Territorial de Educación competente.
@@ -537,8 +478,7 @@ Séptima.- Procedimiento para el reconocimiento de exenciones en enseñanzas dep
 Especial o la acreditación del mérito deportivo deberá cumplimentarse, a través de la página web de la
 Consejería con competencia en materia de educación, en los plazos que se establezca en la resolución
 por la que se convocan anualmente las pruebas de acceso a los ciclos formativos de grado medio y grado
-superior de Enseñanzas Deportivas de régimen especial. Se presentará en la Secretaría del centro educa-
-tivo junto a la certificación acreditativa y serán resueltas por la Dirección.
+superior de Enseñanzas Deportivas de régimen especial. Se presentará en la Secretaría del centro educativo junto a la certificación acreditativa y serán resueltas por la Dirección.
 Contra la resolución de la Dirección del centro se podrá interponer recurso de alzada ante el titular de la
 Dirección Territorial de Educación competente.
 Este documento ha sido firmado electrónicamente por:
@@ -555,23 +495,19 @@ AL  PROCEDIMIENTO  PARA  EL  RECONOCIMIENTO  DE  CORRESPONDENCIAS,
 CONVALIDACIONES  Y  EXENCIONES  EN  LAS  ENSEÑANZAS  DEPORTIVAS  DE
 RÉGIMEN ESPECIAL EN LA COMUNIDAD AUTÓNOMA  DE CANARIAS.
 2. La concesión de la exención del módulo de formación práctica requiere, además de la matriculación
-previa del alumno o alumna en las enseñanzas correspondientes, que la persona solicitante reúna los re-
-quisitos para iniciar dicho módulo de enseñanza. La solicitud, junto con  la documentación acreditativa,
+previa del alumno o alumna en las enseñanzas correspondientes, que la persona solicitante reúna los requisitos para iniciar dicho módulo de enseñanza. La solicitud, junto con  la documentación acreditativa,
 se presentará en la Secretaría del centro educativo autorizado en el que se encuentre matriculado el
 alumno o alumna, dirigida a la Dirección.
 3. El plazo para presentar la solicitud  de exención del módulo de formación práctica será:
 a) La solicitud de exención se presentará al menos veinte días antes del inicio de las actividades
 programadas para dicho módulo de formación práctica, por el centro educativo. A tal fin, los
-centros educativos darán a conocer al inicio de curso la fecha de comienzo del módulo de forma-
-ción práctica a través de su página web y tablones de anuncio.
+centros educativos darán a conocer al inicio de curso la fecha de comienzo del módulo de formación práctica a través de su página web y tablones de anuncio.
 b) Aquellas personas que solo se matriculan del módulo de formación práctica, y si procede, el
 de proyecto final, solicitarán la exención en el momento de la matrícula.
 4. La tramitación de la solicitud de exención en la aplicación informática, establecida a tal fin por la
-Consejería competente en materia educativa, será realizada por el profesorado tutor de formación prác-
-tica. 
+Consejería competente en materia educativa, será realizada por el profesorado tutor de formación práctica. 
 5. La documentación aportada será objeto de revisión y estudio por parte del equipo docente con objeto
-de emitir un informe. La Dirección del centro, a la vista del informe emitido por el equipo docente, resol-
-verá y notificará por escrito a la persona solicitante en el plazo de diez días hábiles posteriores a la fecha
+de emitir un informe. La Dirección del centro, a la vista del informe emitido por el equipo docente, resolverá y notificará por escrito a la persona solicitante en el plazo de diez días hábiles posteriores a la fecha
 de finalización del plazo de solicitud establecido. Contra la resolución de exención de la Dirección del
 centro se podrá interponer recurso de alzada ante  el titular de la Dirección Territorial de Educación
 competente.
@@ -580,12 +516,10 @@ al centro de adscripción en el plazo de
 cinco días hábiles siguientes, a contar a partir de la finalización
 del plazo establecido para la presentación de la solicitud.
 Octava.- Procedimiento para las solicitudes de convalidación de módulos de enseñanzas deportiva
-que corresponde resolver al Ministerio de Educación y Formación Profesional, a través del Conse-
-jo Superior de Deportes.
+que corresponde resolver al Ministerio de Educación y Formación Profesional, a través del Consejo Superior de Deportes.
 1. Una vez realizada la matrícula
  en el centro, las personas interesadas cursarán solicitud de reconoci -
-miento de convalidación conforme al procedimiento que para tal fin tenga establecido el Consejo Supe-
-rior de Deportes.
+miento de convalidación conforme al procedimiento que para tal fin tenga establecido el Consejo Superior de Deportes.
 2. 
 Resuelta la concesión de convalidación por el Ministerio y comunicada a la persona interesada, esta
 deberá entregarla en la secretaría del centro docente donde se encuentre matriculado, que procederá a

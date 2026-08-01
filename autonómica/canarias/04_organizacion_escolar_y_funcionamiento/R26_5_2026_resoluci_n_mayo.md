@@ -33,8 +33,12 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-8-1985
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-res-090
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -353,8 +357,7 @@ d) Las personas representantes designadas.
 e) Las personas representantes por candidatura diferenciada.
 f) Las personas representantes electas.
 Esta carga de datos configurará el Documento Resumen.
-2. Esta aplicación se encuentra ubicada para los centros públicos en el Portal Docente-
-Centros/Escritorio del Centro/Gestiones Generales/Elecciones al Consejo Escolar, y, para 
+2. Esta aplicación se encuentra ubicada para los centros públicos en el Portal DocenteCentros/Escritorio del Centro/Gestiones Generales/Elecciones al Consejo Escolar, y, para 
 los centros privados concertados, en el apartado de la web de la Consejería de Educación, 
 Formación Profesional, Actividad Física y Deportes, desde el que estos centros realizan 
 todas sus gestiones.
@@ -545,26 +548,21 @@ de octubre
 dres, madres o personas tutoras legales del alumnado, del propio alumnado y del
 personal de administración y servicios en el Consejo Escolar.
 - La Junta Electoral del centro, de acuerdo con las AMPA, establecerá el horario
-de las votaciones para la elección de los representantes de padres, madres o perso-
-nas tutoras legales del alumnado, que será como mínimo de seis horas , de las cua -
+de las votaciones para la elección de los representantes de padres, madres o personas tutoras legales del alumnado, que será como mínimo de seis horas , de las cua -
 les, al menos dos, serán en horario de tarde. En este sentido, los centros educativos
-elegirán, de forma prioritaria, para la elección de las personas representantes del sec-
-tor de padres, madres o personas tutoras legales del alumnado , un día que coincida
-con alguna actividad escolar o académica de interés para su asistencia al centro (reu-
-nión de tutorías, atención permanente a familias,…).
+elegirán, de forma prioritaria, para la elección de las personas representantes del sector de padres, madres o personas tutoras legales del alumnado , un día que coincida
+con alguna actividad escolar o académica de interés para su asistencia al centro (reunión de tutorías, atención permanente a familias,…).
 - Las votaciones para la elección del alumnado  representante al Consejo Escolar
 se celebrarán durante las horas de clase. La Junta Electoral, con la colaboración de
 la jefatura de estudios, organizará el desarrollo de las mismas, asignando a cada gru -
-po de alumnos y alumnas una hora de clase para acudir a votar, durante la cual se in-
-terrumpirán las actividades lectivas de los grupos afectados.
+po de alumnos y alumnas una hora de clase para acudir a votar, durante la cual se interrumpirán las actividades lectivas de los grupos afectados.
 - La celebración de las votaciones del personal de administración y servicios , en
 el supuesto en que el número de electores y electoras sea inferior a cinco (en el caso
 de los CEIP, inferior a tres), se llevará a cabo ante la mesa electoral del profesorado
 en urna separada.
 - Del mismo modo, se consignará la fecha límite de solicitudes de voto no presen -
 cial, para cada uno de los sectores.
- Publicación por la Junta Electoral del centro, de los censos electorales correspon-
-dientes a cada uno de los sectores.
+ Publicación por la Junta Electoral del centro, de los censos electorales correspondientes a cada uno de los sectores.
  Remisión de escritos de comunicación para la  designación de representantes en el
 Consejo Escolar, dirigidos:
 - Al Ayuntamiento o Cabildo.
@@ -615,8 +613,7 @@ mente constituida, con mayor representación en el centro.
 - A la asociación de alumnado mayoritaria del centro, legalmente constituida.
 Dichas asociaciones deberán remitir por escrito los nombres de las personas desig -
 nadas hasta el miércoles 28 de octubre.
- Comunicación a la junta de delegados y delegadas* del centro de su derecho a de-
-signar a un representante en el Consejo Escolar,
+ Comunicación a la junta de delegados y delegadas* del centro de su derecho a designar a un representante en el Consejo Escolar,
 Dicha junta de delegados/as deberá comunicar el nombre de la persona designada
 hasta el miércoles 28 de octubre.
 *Tener en cuenta que la celebración de elección de delegados o delegadas de curso
@@ -648,8 +645,7 @@ mente constituida, con mayor representación en el centro.
 - A la asociación de alumnado mayoritaria del centro, legalmente constituida.
 Dichas asociaciones deberán remitir por escrito los nombres de las personas desig -
 nadas hasta el miércoles 28 de octubre.
- Comunicación a la junta de delegados y delegadas* del centro de su derecho a de-
-signar a un representante en el Consejo Escolar,
+ Comunicación a la junta de delegados y delegadas* del centro de su derecho a designar a un representante en el Consejo Escolar,
 Dicha junta de delegados/as deberá comunicar el nombre de la persona designada
 hasta el miércoles 28 de octubre.
 *Tener en cuenta que la celebración de elección de delegados o delegadas de curso
@@ -811,9 +807,7 @@ noviembre
  Convocatoria de claustro de carácter extraordinario para realizar la elección de las
 personas representantes del profesorado en el Consejo Escolar.
 Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
- Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elec-
-
-mesas electorales.
+ Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elecmesas electorales.
 *Las fechas de constitución de las mesas electorales deberá coincidir con la fecha de
 celebración de elecciones de los distintos sectores.
  Reestructuración de la Junta Electoral del centro y de las mesas electorales en el
@@ -860,8 +854,7 @@ noviembre
  Convocatoria de claustro de carácter extraordinario para realizar la elección de las
 personas representantes del profesorado en el Consejo Escolar.
 Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
- Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elec-
-ción de representantes del profesorado. 
+ Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elección de representantes del profesorado. 
 En los centros concertados serán personas electoras y elegibles todo el profesorado  
 del centro que imparta su docencia en aquellas etapas educativas concertadas total o  
 parcialmente.
@@ -882,9 +875,7 @@ Ayuntamiento  o  Cabildo  o  por  las  organizaciones,  instituciones  o  asocia
 profesionales y empresariales.
 Desde el lunes 16 de 
 noviembre hasta el 
-martes 24 de no-
-viembre (ambos in-
-clusive)
+martes 24 de noviembre (ambos inclusive)
  Tras cada una de las votaciones, la dirección del centro cargará los resultados en la
 aplicación informática creada al efecto.
 *Dicha aplicación estará cerrada fuera de este período.
@@ -935,9 +926,7 @@ Ayuntamiento  o  Cabildo  o  por  las  organizaciones,  instituciones  o  asocia
 profesionales y empresariales.
 Desde el lunes 16 de 
 noviembre hasta el 
-martes 24 de no-
-viembre (ambos in-
-clusive)
+martes 24 de noviembre (ambos inclusive)
  Tras cada una de las votaciones, la dirección del centro cargará los resultados en la
 aplicación informática creada al efecto.
 *Dicha aplicación estará cerrada fuera de este período.

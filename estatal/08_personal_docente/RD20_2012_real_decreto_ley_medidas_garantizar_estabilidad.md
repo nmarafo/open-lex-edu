@@ -31,6 +31,8 @@ relaciones:
   fundamento_de:
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-4-2023
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-rdl-5-2015
   articulos:
@@ -40,17 +42,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-7820
 - norma_id: norm-es-2012-8745
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
 
 **I**

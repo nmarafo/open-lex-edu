@@ -35,6 +35,9 @@ relaciones:
   - norma_id: norm-es-2002-25289
   - norma_id: norm-es-2018-4480
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2026-039-103
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -46,17 +49,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-6938
 - norma_id: norm-es-2002-25289
 ---
-
-
-
-
-
-
-
-
-
-
-
 # [Real Decreto 104/1988](RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 El artículo 149.1.30 de la Constitución establece que el Estado tiene competencia exclusiva en orden a la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.

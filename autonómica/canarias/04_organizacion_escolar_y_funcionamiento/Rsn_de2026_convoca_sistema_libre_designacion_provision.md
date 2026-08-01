@@ -29,6 +29,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-d-84-2024

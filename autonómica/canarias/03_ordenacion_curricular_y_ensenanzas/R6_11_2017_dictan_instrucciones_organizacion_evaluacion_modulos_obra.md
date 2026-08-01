@@ -34,6 +34,9 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -51,7 +54,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-220-5354.
 
 # Resolución de 6 de noviembre de 2017, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y la evaluación de los módulos de obra final y de proyecto integrado de las enseñanzas profesionales de Artes Plásticas y Diseño en la Comunidad Autónoma de Canarias (BOC n.º 220, de 15 de noviembre).
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 III. Otras Resoluciones
 Consejería de Educación y Universidades
@@ -89,7 +91,6 @@ Tercero.- El Decreto 159/2017, de 31 de mayo, por el que se establecen los curr�
 los ciclos formativos de grado medio y grado superior de artes plásticas y diseño de la familia 
 profesional artística de Comunicación Gráfica y Audiovisual en el ámbito de la Comunidad 
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 Autónoma de Canarias (BOC nº 110, de 9 de junio), en sus artículos 9 y 10, respectivamente, 
 establece aspectos referidos a los módulos de Obra final y de Proyecto integrado.
@@ -130,7 +131,6 @@ integración de conocimientos, destrezas y capacidades específicos del campo pr
 de la especialidad. Consistirá en la planificación y realización de una obra propia del perfil 
 profesional del técnico o técnica de artes plásticas y diseño de la especialidad correspondiente 
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 que evidencie el dominio en los procedimientos de realización y sea expresión de su 
 sensibilidad artística.
@@ -170,7 +170,6 @@ que se presenten al alumnado durante la realización de los proyectos.
 3. Para los ciclos de grado medio, el proyecto que presente el alumnado en la parte B 
 deberá contemplar los siguientes apartados:
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 a) Memoria, donde se realizará un análisis de los procesos y fases de ideación y realización 
 del proyecto, atendiendo a las necesidades funcionales, artísticas, comunicativas, técnicas, 
@@ -205,7 +204,6 @@ actividad empresarial, medios tecnológicos, modelo organizativo y gestión y de
 proyectos.
 b) Testimonio gráfico.
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 En cada proyecto se incluirá un dossier gráfico de la estancia en la empresa que 
 deberá incluir todas aquellas imágenes, catálogos, pruebas o elementos gráficos que 
@@ -241,7 +239,6 @@ instrucción tercera de la presente resolución.
 d) Fijar los indicadores y los criterios de calificación para la valoración de cada una de 
 las partes de las que se componen los proyectos.
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 e) Fijar las fechas de entrega y de exposición de los proyectos.
 f) Concretar aspectos referidos a los apartados a), b) y c) del punto 2 de la instrucción 
@@ -278,7 +275,6 @@ establecidos por la comisión de proyectos y levantará acta de las decisiones a
 6. La comisión evaluadora emitirá informes motivados sobre las reclamaciones a las 
 calificaciones que presenten los estudiantes.
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 Octava.- Evaluación y sistema de calificaciones.
 1. Los módulos de Obra final y de Proyecto integrado se evaluarán una vez superados los 
@@ -315,7 +311,6 @@ de adoptadas las decisiones y formuladas las correspondientes calificaciones fin
 módulos de Obra final y de Proyecto integrado. Los centros establecerán los procedimientos 
 oportunos para asegurar esta conservación. En el caso de que el estudiante haya solicitado 
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 revisión de la calificación final obtenida, se guardará, en su totalidad, la documentación 
 generada para el caso, hasta que se resuelva en firme la reclamación.
@@ -355,7 +350,6 @@ ante la Dirección Territorial de Educación que corresponda, a través de la se
 centro, en el plazo de los dos días hábiles siguientes a su notificación, y, en su defecto, 
 transcurridos diez días desde que inicialmente formulara dicha reclamación. La dirección del 
 
-https://sede.gobcan.es/cpji/boc
 Miércoles 15 de noviembre de 2017
 centro remitirá todo el expediente a la Dirección Territorial de Educación en el plazo de dos 
 días siguientes a la presentación de la reclamación. La Dirección Territorial de Educación, 

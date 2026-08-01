@@ -39,6 +39,8 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2018
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -1729,9 +1731,7 @@ podrá ejercer los derechos de acceso, rectificación, supresión, limitación d
 oposición y a no ser objeto de decisiones individualizadas basadas únicamente en el 
 tratamiento automatizado ante el Responsable del tratamiento. Información adicional: puede 
 consultar la información adicional y detallada en: https://www.gobiernodecanarias.org/
-protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamo-de-
-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-
-matriculado-en-educacion-basica-en-centros-sostenidos-con-fondos-publicos/
+protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamo-delibros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnadomatriculado-en-educacion-basica-en-centros-sostenidos-con-fondos-publicos/
 Sexta.- Calendario de actuaciones.
 El calendario de actuaciones para el curso escolar 2026/2027 será establecido en 
 documentos posteriores, que se harán llegar a los centros educativos, y se publicará en 
@@ -1819,9 +1819,7 @@ Libros de Texto”. Derechos de las personas interesadas: De acuerdo con el Regl
 de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición y  
 a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el  
 responsable del Tratamiento. Información adicional:
-https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamo-
-de-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-matriculado-en-educacion-
-basica-en-centros-sostenidos-con-fondos-publicos/     
+https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamode-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-matriculado-en-educacionbasica-en-centros-sostenidos-con-fondos-publicos/     
 PROTECCIÓN  DE  DATOS: Tratamiento  de  datos  de  carácter  personal  de  los  préstamos  de  libros. 
 Responsable  del  tratamiento:  Dirección  General  de  Centros,  Infraestructura  y  Promoción  Educativa  de  la 
 Consejería de Educación, Universidades, Cultura y Deportes. Finalidad del tratamiento: Gestión del sistema de 
@@ -1910,9 +1908,7 @@ Libros de Texto”. Derechos de las personas interesadas: De acuerdo con el Regl
 de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición y  
 a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el  
 responsable del Tratamiento. Información adicional:
-https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamo-
-de-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-matriculado-en-educacion-
-basica-en-centros-sostenidos-con-fondos-publicos/         
+https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/dgcesc/gestion-del-sistema-de-prestamode-libros-de-texto-o-adquisicion-de-libros-de-texto-y-materiales-didacticos-al-alumnado-matriculado-en-educacionbasica-en-centros-sostenidos-con-fondos-publicos/         
                                                                                                                                         
                                                                                                                               
                                                               

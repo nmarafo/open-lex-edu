@@ -44,6 +44,9 @@ relaciones:
   - norma_id: norm-es-rd-217-2022
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-boc-2019-143-74
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -55,17 +58,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**

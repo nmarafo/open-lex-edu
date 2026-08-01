@@ -31,10 +31,15 @@ relaciones:
   - norma_id: norm-es-2012-9364
   - norma_id: norm-es-2021-11382
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-d-123-2023
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-res-125
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-lo-1-2018
   articulos:
@@ -56,30 +61,30 @@ anexos_extraidos_pdf: true
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17600
 I. Disposiciones generales
 Presidencia del Gobierno
 884	
-DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
+DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
 las cuantías máximas de las prestaciones económicas Vinculada al servicio y la de 
 Cuidados en el entorno familiar y de apoyo a personas cuidadoras no profesionales, 
-reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
+reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
 Personal y Atención a las personas en situación de dependencia, aplicables en la 
 Comunidad Autónoma de Canarias.
 Sea notorio a todos los ciudadanos y ciudadanas que el Gobierno de Canarias ha 
 aprobado y yo, en nombre del Rey y de acuerdo con lo dispuesto en el artículo 47.1 del 
 Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación del Decreto ley 
-3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
+3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
 las Prestaciones económicas Vinculada al servicio y la de Cuidados en el entorno familiar 
-y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
+y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, aplicables en la Comunidad Autónoma de Canarias, ordenando a la 
 ciudadanía y a las autoridades que lo cumplan y lo hagan cumplir.
 PREÁMBULO
 I
-La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
+La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
 Atención a las personas en situación de dependencia (en adelante, la Ley de Dependencia 
 o la Ley), tiene por objeto regular las condiciones básicas que garanticen la igualdad en el 
 ejercicio del derecho subjetivo de ciudadanía a la promoción de la autonomía personal y 
@@ -100,10 +105,10 @@ básicas de la vida diaria.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17601
-Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
+Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
 entre prestaciones económicas vinculadas al servicio (PEVS) y prestación económica para 
 cuidados en el entorno familiar y apoyo a cuidadores no profesionales (PECEF).
 La PEVS está vinculada a la contratación de un servicio de los recogidos en la cartera 
@@ -115,7 +120,7 @@ dependiente en su Resolución de Programa Individual de Atención (PIA), y cuyo 
 utilización es objeto de supervisión por la Administración Pública.
 La PECEF se reconoce, excepcionalmente, cuando la persona beneficiaria, la persona 
 en situación de dependencia, está siendo atendida por su entorno familiar, y se reúnen las 
-condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
+condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
 la asignación de una cantidad económica.
 La Ley de Dependencia regula la participación de cada una de las Administraciones 
 Públicas en el sistema de la dependencia, así como los niveles de protección del mismo, 
@@ -126,10 +131,10 @@ cada una de las Comunidades Autónomas a través de los Convenios previstos en e
 artículo 10 y finalmente el nivel adicional de protección que puede establecer cada 
 Comunidad Autónoma.
 Las prestaciones económicas se regulan actualmente en el Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), 
-de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
+de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
 competitividad. Dicho Real Decreto-ley supuso un perjuicio muy grave para el sistema de 
-la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
-de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
+la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
+de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
 cuidadoras no profesionales a la Seguridad Social o la disminución de las cuantías de 
 las prestaciones económicas, tanto de las PEVS, como de las PECEF, cuantías que en 
 esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otras 
@@ -151,15 +156,15 @@ Grado II
 Grado I
 300,00 €
 153,00 €
-Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
+Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
 del Sistema para la Autonomía y Atención a la Dependencia (SAAD), establecidas en la
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17602
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
 personas en situación de dependencia.
 Como señala su Preámbulo, este Real Decreto establece la regulación de las prestaciones 
 del SAAD, y determina las intensidades de protección de los servicios, compatibilidades 
@@ -169,8 +174,8 @@ a las personas en situación de dependencia. No obstante, señala que la comunid
 o Administración que, en su caso, tenga la competencia, “podrá dictar las disposiciones 
 normativas que resulten necesarias para la aplicación de este real decreto.”
 En su artículo 2, relativo a los “Servicios y prestaciones económicas por grado de 
-dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
-Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
+dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
+Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
 que corresponden a los grados III, II y I de dependencia. Entre las prestaciones económicas, 
 en efecto, indica los Servicios y prestaciones para los grados III y II [la Prestación económica 
 vinculada, en consonancia con los servicios previstos en el apartado a) de este artículo 2.1 
@@ -186,11 +191,11 @@ por la comunidad autónoma o Administración que, en su caso tenga la competenci
 teniendo en cuenta los acuerdos que adopte el Consejo Territorial de Servicios Sociales y 
 del Sistema para la Autonomía y Atención a la Dependencia.”
 Pues bien, en uso de esas competencias atribuidas a las Comunidades Autónomas en 
-los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
-27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
+los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
+27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
 las cuantías máximas de las Prestaciones económicas Vinculada al servicio y la de Cuidados 
 en el entorno familiar y de apoyo a personas cuidadoras no profesionales, reguladas en la 
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia, que serán aplicables a partir de ahora en la 
 Comunidad Autónoma de Canarias.
 Por ello, es importante poner de manifiesto que, en el caso de las PVS, son las personas 
@@ -206,7 +211,7 @@ familias.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17603
 Respecto de la Prestación económica vinculada al servicio se establece un porcentaje 
@@ -241,26 +246,26 @@ aproximada de 12,3 millones de euros para 2023, llegando por tanto a 97 millones
 la inversión en prestaciones económicas en el conjunto del Sistema de la Dependencia en 
 Canarias.
 La extraordinaria y urgente necesidad resulta igualmente justificada en relación con el 
-caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
-de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
+caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
+de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
 del plazo máximo de los seis meses siguientes a la entrada en vigor de la presente ley, 
 el Gobierno de Canarias aprobará un decreto en el que se establezcan los criterios para 
 determinar la capacidad económica de las personas usuarias del sistema público de servicios 
 sociales”.
 Teniendo en cuenta que la LSSC -de conformidad con lo que dispone su disposición final 
-sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
-finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
+sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
+finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
 por tratarse de año electoral, al aprobarse la LSSC al final de la Legislatura y a resultas del 
 cambio de Gobierno producido a consecuencias del proceso electoral acontecido, lo que 
 devino en imposible el cumplir el citado plazo normativo.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17604
-Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
-“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
+Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
+“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
 criterios para determinar la capacidad económica de la persona beneficiaria del Sistema 
 para la Autonomía y Atención a la Dependencia y su participación económica en el coste 
 de los servicios, así como la determinación de la cuantía de las prestaciones económicas del 
@@ -270,14 +275,14 @@ que habrá de suplirlo, la única normativa de aplicación que tenemos en la mat
 Acuerdo del Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia, 
 sobre determinación de la capacidad económica del beneficiario y sobre los criterios de 
 participación de este en las prestaciones del Sistema para la Autonomía y Atención a la 
-Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
+Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
 de Estado de Política Social, Familias y Atención a la Dependencia y a la Discapacidad. Se 
 trata este Acuerdo, como sabemos, de una norma cuya finalidad no es otra que la de acordar 
 criterios para la determinación de la capacidad económica de las personas beneficiarias 
 y establecer los criterios comunes de su participación económica en las prestaciones del 
 sistema, pero permitiendo a las Comunidades Autónomas el regular otras condiciones más 
 ventajosas para las personas beneficiarias del SAAD.
-En concreto, el apartado 2 de los criterios de participación económica de la persona 
+En concreto, el apartado 2 de los criterios de participación económica de la persona 
 beneficiaria en las prestaciones del SAAD establece: “Si la capacidad económica es 
 superior al IPREM, la Comunidad Autónoma o Administración que, en su caso, tenga la 
 competencia establecerá los índices de reducción aplicables, sin que en ningún caso la 
@@ -285,13 +290,13 @@ cantidad resultante pueda ser inferior al 40 por ciento de la cuantía estableci
 para las prestaciones económicas vinculadas al servicio y de asistencia personal y del 75 
 por ciento para la de cuidados en el entorno familiar, salvo que se haya reconocido algún 
 tipo de compatibilidad con los servicios del Catálogo.” Con la derogación, pues, del citado 
-Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
+Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
 halla pendiente de desarrollo en el ámbito del Sistema de la Dependencia en la Comunidad 
 Autónoma de Canarias.
 La disposición transitoria única de este Decreto ley pretende, precisamente, establecer 
 esos índices de reducción aplicables que nos sirvan para concretar, dentro de aquellos 
 límites, la capacidad económica de las personas beneficiarias en conexión con la cuantía 
-del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
+del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
 abril de 2008, por la que se establece con carácter transitorio la intensidad de protección 
 de los servicios y se hacen públicos los criterios para la determinación de la prestación 
 económica a los beneficiarios que tengan reconocida la condición de persona en situación de 
@@ -301,12 +306,12 @@ llenar dicho vacío normativo.
 II
 El artículo 142 del Estatuto de Autonomía de Canarias atribuye a la Comunidad 
 Autónoma competencia exclusiva en materia de servicios sociales. La Ley 16/2019, de 
-2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
+2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
 económicas del sistema público de servicios sociales y en el apartado 2, letra b), las
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17605
 prestaciones destinadas a apoyar y compensar a las personas que asuman las tareas de 
@@ -315,7 +320,7 @@ social de alguno de sus integrantes. La señalada en la letra d), referida a aqu
 a servicios a los que tengan derecho las personas usuarias del sistema público de servicios 
 sociales, pero cuyo acceso no pueda garantizarse temporalmente por déficit de servicio en 
 la red canaria de servicios sociales en los términos definidos reglamentariamente.
-Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
+Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
 prestaciones económicas del sistema público de servicios sociales de Canarias serán, 
 al menos, las siguientes, en los términos que se recojan en el catálogo de servicios y 
 prestaciones, señalando entre otras, las de las letras b) y d), en los términos siguientes:
@@ -352,14 +357,14 @@ conforme se establezca en las leyes.”
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17606
 Entendemos por ello que es necesario suplementar las prestaciones que se perciben 
 en concepto de Prestación económica vinculada al servicio y Prestación económica por 
 cuidados en el entorno familiar, en el ámbito de nuestra competencia de suplementar en el 
 ámbito del nivel adicional de protección que puede establecer cada Comunidad Autónoma, 
-tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
+tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
 En consecuencia, a la vista de las circunstancias descritas, la extraordinaria y urgente 
 necesidad de este Decreto ley resulta plenamente justificada y proporcionada para atender 
 las circunstancias sociales y económicas de las personas dependientes, en especial, para 
@@ -377,7 +382,7 @@ Dentro del Capítulo I, sobre la Prestación económica vinculada al servicio, e
 atiende a la definición y objeto de la Prestación económica vinculada al servicio.
 El artículo 2 trata de las condiciones de acceso a la Prestación económica vinculada al 
 servicio, al margen de los requisitos generales establecidos en el Real Decreto 1051/2013, 
-de 27 de diciembre.
+de 27 de diciembre.
 El artículo 3 fija el importe de la cuantía máxima de la Prestación económica vinculada 
 al servicio, con cargo al nivel adicional de protección de la Comunidad Autónoma de 
 Canarias.
@@ -388,7 +393,7 @@ y objeto de esta Prestación.
 El artículo 6 se dedica a fijar las condiciones de acceso a la Prestación económica para 
 cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, además de 
 los requisitos generales que se establecen en el artículo 12 del Real Decreto 1051/2013, de 
-27 de diciembre.
+27 de diciembre.
 Por su parte, el artículo 7 se dedica a fijar la cuantía máxima de la Prestación económica 
 para cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, con 
 cargo al nivel adicional de protección de la Comunidad Autónoma de Canarias.
@@ -398,7 +403,7 @@ cuidadoras no profesionales.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17607
 Por último, en la parte final de este Decreto ley, las disposiciones adicionales tratan, la 
@@ -410,7 +415,7 @@ la Consejería competente en la materia de derechos y políticas sociales.
 La disposición transitoria única establece los índices de reducción, hasta tanto se 
 apruebe el decreto en el que se establezcan los criterios para determinar la capacidad 
 económica de las personas usuarias del sistema público de servicios sociales al que se 
-refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
+refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
 Sociales de Canarias.
 En cuanto a la disposición final primera, la misma se destina a determinar las fechas 
 de efectos económicos del presente Decreto ley; la disposición final segunda efectúa una 
@@ -431,8 +436,8 @@ ordinario podría generar algún perjuicio a las economías de las personas depe
 máxime en el final de la presente Legislatura que impide aprobar dicha normativa a tiempo-. 
 El Decreto ley constituye, pues, un instrumento constitucionalmente lícito, siempre que el 
 fin que justifica la legislación de urgencia, sea, tal como reiteradamente ha exigido nuestro 
-Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
-FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
+Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
+FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
 concreta, dentro de los objetivos gubernamentales, que por razones difíciles de prever requiere 
 una acción normativa inmediata en un plazo más breve que el requerido por la vía normal 
 o por el procedimiento de urgencia para la tramitación parlamentaria de las leyes, máxime 
@@ -449,7 +454,7 @@ extraordinaria y urgente necesidad de las medidas adoptadas en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17608
 para las personas señaladas, tanto para contribuir a la financiación del coste del servicio 
@@ -459,48 +464,48 @@ una cuantía económica cuya finalidad es contribuir a la cobertura de los gasto
 la atención específica prestada en su domicilio a las personas dependientes.
 Asimismo, la extraordinaria y urgente necesidad de aprobar este Decreto ley se inscribe 
 en el juicio político o de oportunidad que corresponde al Gobierno [(SSTC 61/2018, de 
-7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
-ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
+7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
+ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
 de Inconstitucionalidad número 2208-2019)], centradas en el cumplimiento de la seguridad 
 jurídica y la cobertura de las necesidades básicas de la ciudadanía, en particular, en las 
 personas dependientes y su entorno familiar. Los motivos de oportunidad que acaban de 
 exponerse demuestran que, en ningún caso, este Decreto ley constituye un supuesto de uso 
-abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
-4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
+abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
+4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
 febrero, FJ 5)]. Al contrario, todas las razones expuestas justifican amplia y razonadamente 
-la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
-FJ 5; 182/1997, de 20 de octubre, FJ 3)].
+la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
+FJ 5; 182/1997, de 20 de octubre, FJ 3)].
 Debe señalarse también que este Decreto ley no afecta al ámbito de aplicación delimitado 
 por el artículo 46.2 del Estatuto de Autonomía de Canarias. Además, responde a los principios 
 de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal 
-y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
+y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. A estos efectos se pone de manifiesto el cumplimiento 
 de los principios de necesidad y eficacia dado el interés general en el que se fundamentan 
 las medidas que se establecen, siendo el Decreto ley el instrumento más adecuado para 
 garantizar su consecución. La norma es acorde con el principio de proporcionalidad al 
 contener la regulación imprescindible para la consecución de los objetivos previamente 
 mencionados. Igualmente, se ajusta al principio de seguridad jurídica, siendo coherente con 
-el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
-y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
+el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
+y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
 las prestaciones del Sistema para la Autonomía y Atención a la Dependencia, establecidas 
-en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia.
 Asimismo, cumple también con el principio de transparencia, ya que identifica 
 claramente su propósito y se ofrece una explicación, sin que se hayan realizado los trámites 
-de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
+de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
 noviembre, del Gobierno, al amparo de la excepción que, para los decretos-leyes, regula el 
 apartado 11 del aludido precepto.
 En efecto, no se ha realizado el trámite de participación pública al amparo de lo que 
-establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
-supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
-14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
+establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
+supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
+14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
 Canarias, que excluye la aplicación de las normas para la tramitación de anteproyectos 
 de ley y normas reglamentarias, a los decretos leyes, a excepción de la elaboración de la 
 memoria prevista en el apartado 3 del citado artículo, que con carácter abreviado se ha
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17609
 acompañado al procedimiento conducente a la aprobación de este Decreto ley tramitado en 
@@ -514,7 +519,7 @@ Por otra parte, dada la finalidad de este Decreto ley y el ámbito material de c
 donde se inserta, la presente disposición forma parte del bloque normativo sobre servicios 
 sociales derivado de las competencias exclusivas en esa materia reconocidas en el Estatuto 
 de Autonomía de Canarias. En efecto, el Estatuto de Autonomía de Canarias, aprobado 
-por la [Ley Orgánica 1/2018](LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
+por la [Ley Orgánica 1/2018](LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
 los “Servicios sociales”, que “1. Corresponde a la Comunidad Autónoma de Canarias la 
 competencia exclusiva en materia de servicios sociales, que incluye, en todo caso: a) La 
 regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas 
@@ -523,10 +528,10 @@ de los planes y los programas específicos dirigidos a personas y colectivos en 
 pobreza o de necesidad social. (...).” En cuanto a la adopción de medidas económicas que 
 afectan a las personas dependientes, la misma se halla en el marco del nivel adicional de 
 protección que pueda establecer cada Comunidad Autónoma, de acuerdo con lo que prevé 
-el citado artículo 7.3 de la Ley de Dependencia.
+el citado artículo 7.3 de la Ley de Dependencia.
 Por tanto, en el conjunto y en cada una de las medidas que se adoptan, concurren, 
 por su naturaleza y finalidad, las circunstancias de extraordinaria y urgente necesidad que 
-exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
+exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
 Canarias como presupuestos habilitantes para la aprobación de un Decreto ley.
 Así, de acuerdo con los principios de necesidad y eficacia, la iniciativa se fundamenta 
 en el interés general que supone atender a las circunstancias sociales y económicas de 
@@ -551,29 +556,29 @@ evitar el riesgo de que se produzcan situaciones de mayor necesidad social, y en
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17610
 para el presente Decreto ley, el detectar, prevenir y atender las necesidades derivadas de la 
 dependencia con el objetivo de promover la autonomía de las personas, como uno de los 
-objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
+objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
 Servicios Sociales de Canarias.
-Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
+Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
 y Hombres, que establece en su artículo 4 los principios generales de actuación de los 
 poderes públicos de Canarias, entre ellos, el de transversalidad, principio que comporta 
 aplicar la perspectiva de género en las fases de planificación, ejecución y evaluación de 
 todas las políticas con la finalidad de eliminar las desigualdades y promover la igualdad 
 entre mujeres y hombres. Desde esa perspectiva, el presente Decreto ley, aunque se trata 
-de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
+de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
 la Autonomía Personal y Atención a las personas en situación de dependencia, ha tenido 
 en cuenta la perspectiva de género en su análisis previo y haciendo un uso no sexista del 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 
-2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la [Ley 
+2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
 género, ni afecta negativamente a la igualdad y no discriminación por razón de la identidad y 
@@ -583,7 +588,7 @@ dichos impactos en las personas destinatarias de la norma es totalmente positivo
 En su virtud, en uso de la autorización contenida en el artículo 46 del Estatuto de 
 Autonomía de Canarias, a propuesta de la Consejera de Derechos Sociales, Igualdad, 
 Diversidad y Juventud, y previa deliberación del Gobierno en su reunión celebrada el día 
-23 de marzo de 2023,
+23 de marzo de 2023,
 D I S P O N G O:
 CAPÍTULO I
 LA PRESTACIÓN ECONÓMICA VINCULADA AL SERVICIO
@@ -599,14 +604,14 @@ servicios del catálogo del Sistema para la Autonomía y Atención a la Dependen
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17611
 Artículo 2. Condiciones de acceso a la Prestación económica vinculada al servicio 
 (PEVS).
-Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
+Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
 Autonomía Personal y Atención a las personas en situación de dependencia, será preciso 
 para acceder a esta prestación, que las personas beneficiarias cumplan las siguientes 
 condiciones:
@@ -646,7 +651,7 @@ de comprobar el cumplimiento de los requisitos establecidos en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17612
 CAPÍTULO II
@@ -659,8 +664,8 @@ contribuir a la cobertura de los gastos derivados de la atención específica pr
 domicilio, a quien se encuentra en situación de dependencia, por persona de su familia o 
 de su entorno, no vinculadas a un servicio de atención profesionalizada, cuando se reúnan 
 las condiciones de acceso establecidas con carácter general en el Real Decreto 1051/2013, 
-de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
-y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
+de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
+y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
 Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
 2. Esta prestación únicamente se podrá conceder cuando no sea posible el acceso a 
 un servicio o, en su defecto, a una prestación económica vinculada al servicio, debido a 
@@ -669,8 +674,8 @@ restantes requisitos establecidos en la legislación de dependencia.
 Artículo 6. Condiciones de acceso a la Prestación económica para cuidados en el 
 entorno familiar y apoyo a personas cuidadoras no profesionales (PECEF).
 1. Además de los requisitos generales que se establecen en el artículo 12 del Real 
-Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
-para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
+Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
+para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, será necesario para acceder a esta prestación que el Programa Individual 
 de Atención (PIA) de la persona en situación de dependencia acredite que concurren las 
@@ -684,7 +689,7 @@ c) Que se den las condiciones exigidas de convivencia y que la atención y cuida
 que presta la persona cuidadora se adecúan a las necesidades de la persona dependiente, en 
 función de su grado de dependencia.
 d) Que las personas cuidadoras no profesionales se ajusten a las normas sobre afiliación, 
-alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
+alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
 mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación 
 de dependencia.
 2. La concesión de esta prestación debe conllevar la designación de una persona 
@@ -693,7 +698,7 @@ del cuidado y atención de la persona en situación de dependencia.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17613
 3. Las condiciones para acceder a la PECEF serán las siguientes:
@@ -738,7 +743,7 @@ la situación de dependencia se deba a una circunstancia sobrevenida con posteri
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17614
 La persona cuidadora no familiar no podrá tener la consideración de empleada o 
@@ -786,7 +791,7 @@ presente Decreto ley.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17615
 Disposición adicional primera.- Financiación de las Prestaciones.
@@ -810,7 +815,7 @@ para garantizar la eficacia y aplicación de lo dispuesto en este Decreto ley.
 Disposición transitoria única.- Índices de reducción.
 Hasta tanto se apruebe el decreto en el que se establezcan los criterios para determinar 
 la capacidad económica de las personas usuarias del sistema público de servicios sociales 
-al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
+al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
 Servicios Sociales de Canarias, la cuantía de las prestaciones se percibirá íntegramente o se 
 reducirá de acuerdo con la siguiente tabla:
 Capacidad económica de
@@ -858,20 +863,20 @@ Más de cinco veces el IPREM
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17616
 Disposición final primera.- Fecha de efectos económicos.
-La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
+La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
 este Decreto ley será la siguiente:
-a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
+a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
 les resulte de aplicación ninguna de las deducciones por la percepción de prestación de 
 análoga naturaleza y finalidad establecida en los regímenes públicos de protección social, a 
-las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
-b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
+las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
 resulte de aplicación alguna de las deducciones por la percepción de prestación de análoga 
 naturaleza y finalidad establecida en los regímenes públicos de protección social, a las que 
-se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
 Disposición final segunda.- Habilitación normativa a la Consejería competente en 
 la materia de derechos y políticas sociales.
 Corresponde a la persona titular de la Consejería competente en materia de derechos 
@@ -881,14 +886,13 @@ lo dispuesto en este Decreto ley.
 Disposición final tercera.- Entrada en vigor.
 Este Decreto ley entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de Canarias.
-Dado en Canarias, a 23 de marzo de 2023.
+Dado en Canarias, a 23 de marzo de 2023.
 EL PRESIDENTE
 DEL GOBIERNO,
 Ángel Víctor Torres Pérez.
 LA CONSEJERA DE DERECHOS SOCIALES,
 IGUALDAD, DIVERSIDAD Y JUVENTUD,
 Noemí Santana Perera.
-
 
 ## ANEXOS Y TABLAS COMPLEMENTARIAS (Transcritos del BOC)
 
@@ -896,30 +900,30 @@ Noemí Santana Perera.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17600
 I. Disposiciones generales
 Presidencia del Gobierno
 884	
-DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
+DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
 las cuantías máximas de las prestaciones económicas Vinculada al servicio y la de 
 Cuidados en el entorno familiar y de apoyo a personas cuidadoras no profesionales, 
-reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
+reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
 Personal y Atención a las personas en situación de dependencia, aplicables en la 
 Comunidad Autónoma de Canarias.
 Sea notorio a todos los ciudadanos y ciudadanas que el Gobierno de Canarias ha 
 aprobado y yo, en nombre del Rey y de acuerdo con lo dispuesto en el artículo 47.1 del 
 Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación del Decreto ley 
-3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
+3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
 las Prestaciones económicas Vinculada al servicio y la de Cuidados en el entorno familiar 
-y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
+y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, aplicables en la Comunidad Autónoma de Canarias, ordenando a la 
 ciudadanía y a las autoridades que lo cumplan y lo hagan cumplir.
 PREÁMBULO
 I
-La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
+La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
 Atención a las personas en situación de dependencia (en adelante, la Ley de Dependencia 
 o la Ley), tiene por objeto regular las condiciones básicas que garanticen la igualdad en el 
 ejercicio del derecho subjetivo de ciudadanía a la promoción de la autonomía personal y 
@@ -940,10 +944,10 @@ básicas de la vida diaria.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17601
-Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
+Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
 entre prestaciones económicas vinculadas al servicio (PEVS) y prestación económica para 
 cuidados en el entorno familiar y apoyo a cuidadores no profesionales (PECEF).
 La PEVS está vinculada a la contratación de un servicio de los recogidos en la cartera 
@@ -955,7 +959,7 @@ dependiente en su Resolución de Programa Individual de Atención (PIA), y cuyo 
 utilización es objeto de supervisión por la Administración Pública.
 La PECEF se reconoce, excepcionalmente, cuando la persona beneficiaria, la persona 
 en situación de dependencia, está siendo atendida por su entorno familiar, y se reúnen las 
-condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
+condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
 la asignación de una cantidad económica.
 La Ley de Dependencia regula la participación de cada una de las Administraciones 
 Públicas en el sistema de la dependencia, así como los niveles de protección del mismo, 
@@ -966,10 +970,10 @@ cada una de las Comunidades Autónomas a través de los Convenios previstos en e
 artículo 10 y finalmente el nivel adicional de protección que puede establecer cada 
 Comunidad Autónoma.
 Las prestaciones económicas se regulan actualmente en el Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), 
-de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
+de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
 competitividad. Dicho Real Decreto-ley supuso un perjuicio muy grave para el sistema de 
-la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
-de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
+la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
+de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
 cuidadoras no profesionales a la Seguridad Social o la disminución de las cuantías de 
 las prestaciones económicas, tanto de las PEVS, como de las PECEF, cuantías que en 
 esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otras 
@@ -991,15 +995,15 @@ Grado II
 Grado I
 300,00 €
 153,00 €
-Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
+Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
 del Sistema para la Autonomía y Atención a la Dependencia (SAAD), establecidas en la
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17602
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
 personas en situación de dependencia.
 Como señala su Preámbulo, este Real Decreto establece la regulación de las prestaciones 
 del SAAD, y determina las intensidades de protección de los servicios, compatibilidades 
@@ -1009,8 +1013,8 @@ a las personas en situación de dependencia. No obstante, señala que la comunid
 o Administración que, en su caso, tenga la competencia, “podrá dictar las disposiciones 
 normativas que resulten necesarias para la aplicación de este real decreto.”
 En su artículo 2, relativo a los “Servicios y prestaciones económicas por grado de 
-dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
-Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
+dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
+Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
 que corresponden a los grados III, II y I de dependencia. Entre las prestaciones económicas, 
 en efecto, indica los Servicios y prestaciones para los grados III y II [la Prestación económica 
 vinculada, en consonancia con los servicios previstos en el apartado a) de este artículo 2.1 
@@ -1026,11 +1030,11 @@ por la comunidad autónoma o Administración que, en su caso tenga la competenci
 teniendo en cuenta los acuerdos que adopte el Consejo Territorial de Servicios Sociales y 
 del Sistema para la Autonomía y Atención a la Dependencia.”
 Pues bien, en uso de esas competencias atribuidas a las Comunidades Autónomas en 
-los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
-27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
+los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
+27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
 las cuantías máximas de las Prestaciones económicas Vinculada al servicio y la de Cuidados 
 en el entorno familiar y de apoyo a personas cuidadoras no profesionales, reguladas en la 
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia, que serán aplicables a partir de ahora en la 
 Comunidad Autónoma de Canarias.
 Por ello, es importante poner de manifiesto que, en el caso de las PVS, son las personas 
@@ -1046,7 +1050,7 @@ familias.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17603
 Respecto de la Prestación económica vinculada al servicio se establece un porcentaje 
@@ -1081,26 +1085,26 @@ aproximada de 12,3 millones de euros para 2023, llegando por tanto a 97 millones
 la inversión en prestaciones económicas en el conjunto del Sistema de la Dependencia en 
 Canarias.
 La extraordinaria y urgente necesidad resulta igualmente justificada en relación con el 
-caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
-de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
+caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
+de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
 del plazo máximo de los seis meses siguientes a la entrada en vigor de la presente ley, 
 el Gobierno de Canarias aprobará un decreto en el que se establezcan los criterios para 
 determinar la capacidad económica de las personas usuarias del sistema público de servicios 
 sociales”.
 Teniendo en cuenta que la LSSC -de conformidad con lo que dispone su disposición final 
-sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
-finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
+sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
+finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
 por tratarse de año electoral, al aprobarse la LSSC al final de la Legislatura y a resultas del 
 cambio de Gobierno producido a consecuencias del proceso electoral acontecido, lo que 
 devino en imposible el cumplir el citado plazo normativo.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17604
-Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
-“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
+Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
+“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
 criterios para determinar la capacidad económica de la persona beneficiaria del Sistema 
 para la Autonomía y Atención a la Dependencia y su participación económica en el coste 
 de los servicios, así como la determinación de la cuantía de las prestaciones económicas del 
@@ -1110,14 +1114,14 @@ que habrá de suplirlo, la única normativa de aplicación que tenemos en la mat
 Acuerdo del Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia, 
 sobre determinación de la capacidad económica del beneficiario y sobre los criterios de 
 participación de este en las prestaciones del Sistema para la Autonomía y Atención a la 
-Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
+Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
 de Estado de Política Social, Familias y Atención a la Dependencia y a la Discapacidad. Se 
 trata este Acuerdo, como sabemos, de una norma cuya finalidad no es otra que la de acordar 
 criterios para la determinación de la capacidad económica de las personas beneficiarias 
 y establecer los criterios comunes de su participación económica en las prestaciones del 
 sistema, pero permitiendo a las Comunidades Autónomas el regular otras condiciones más 
 ventajosas para las personas beneficiarias del SAAD.
-En concreto, el apartado 2 de los criterios de participación económica de la persona 
+En concreto, el apartado 2 de los criterios de participación económica de la persona 
 beneficiaria en las prestaciones del SAAD establece: “Si la capacidad económica es 
 superior al IPREM, la Comunidad Autónoma o Administración que, en su caso, tenga la 
 competencia establecerá los índices de reducción aplicables, sin que en ningún caso la 
@@ -1125,13 +1129,13 @@ cantidad resultante pueda ser inferior al 40 por ciento de la cuantía estableci
 para las prestaciones económicas vinculadas al servicio y de asistencia personal y del 75 
 por ciento para la de cuidados en el entorno familiar, salvo que se haya reconocido algún 
 tipo de compatibilidad con los servicios del Catálogo.” Con la derogación, pues, del citado 
-Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
+Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
 halla pendiente de desarrollo en el ámbito del Sistema de la Dependencia en la Comunidad 
 Autónoma de Canarias.
 La disposición transitoria única de este Decreto ley pretende, precisamente, establecer 
 esos índices de reducción aplicables que nos sirvan para concretar, dentro de aquellos 
 límites, la capacidad económica de las personas beneficiarias en conexión con la cuantía 
-del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
+del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
 abril de 2008, por la que se establece con carácter transitorio la intensidad de protección 
 de los servicios y se hacen públicos los criterios para la determinación de la prestación 
 económica a los beneficiarios que tengan reconocida la condición de persona en situación de 
@@ -1141,12 +1145,12 @@ llenar dicho vacío normativo.
 II
 El artículo 142 del Estatuto de Autonomía de Canarias atribuye a la Comunidad 
 Autónoma competencia exclusiva en materia de servicios sociales. La Ley 16/2019, de 
-2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
+2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
 económicas del sistema público de servicios sociales y en el apartado 2, letra b), las
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17605
 prestaciones destinadas a apoyar y compensar a las personas que asuman las tareas de 
@@ -1155,7 +1159,7 @@ social de alguno de sus integrantes. La señalada en la letra d), referida a aqu
 a servicios a los que tengan derecho las personas usuarias del sistema público de servicios 
 sociales, pero cuyo acceso no pueda garantizarse temporalmente por déficit de servicio en 
 la red canaria de servicios sociales en los términos definidos reglamentariamente.
-Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
+Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
 prestaciones económicas del sistema público de servicios sociales de Canarias serán, 
 al menos, las siguientes, en los términos que se recojan en el catálogo de servicios y 
 prestaciones, señalando entre otras, las de las letras b) y d), en los términos siguientes:
@@ -1192,14 +1196,14 @@ conforme se establezca en las leyes.”
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17606
 Entendemos por ello que es necesario suplementar las prestaciones que se perciben 
 en concepto de Prestación económica vinculada al servicio y Prestación económica por 
 cuidados en el entorno familiar, en el ámbito de nuestra competencia de suplementar en el 
 ámbito del nivel adicional de protección que puede establecer cada Comunidad Autónoma, 
-tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
+tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
 En consecuencia, a la vista de las circunstancias descritas, la extraordinaria y urgente 
 necesidad de este Decreto ley resulta plenamente justificada y proporcionada para atender 
 las circunstancias sociales y económicas de las personas dependientes, en especial, para 
@@ -1217,7 +1221,7 @@ Dentro del Capítulo I, sobre la Prestación económica vinculada al servicio, e
 atiende a la definición y objeto de la Prestación económica vinculada al servicio.
 El artículo 2 trata de las condiciones de acceso a la Prestación económica vinculada al 
 servicio, al margen de los requisitos generales establecidos en el Real Decreto 1051/2013, 
-de 27 de diciembre.
+de 27 de diciembre.
 El artículo 3 fija el importe de la cuantía máxima de la Prestación económica vinculada 
 al servicio, con cargo al nivel adicional de protección de la Comunidad Autónoma de 
 Canarias.
@@ -1228,7 +1232,7 @@ y objeto de esta Prestación.
 El artículo 6 se dedica a fijar las condiciones de acceso a la Prestación económica para 
 cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, además de 
 los requisitos generales que se establecen en el artículo 12 del Real Decreto 1051/2013, de 
-27 de diciembre.
+27 de diciembre.
 Por su parte, el artículo 7 se dedica a fijar la cuantía máxima de la Prestación económica 
 para cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, con 
 cargo al nivel adicional de protección de la Comunidad Autónoma de Canarias.
@@ -1238,7 +1242,7 @@ cuidadoras no profesionales.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17607
 Por último, en la parte final de este Decreto ley, las disposiciones adicionales tratan, la 
@@ -1250,7 +1254,7 @@ la Consejería competente en la materia de derechos y políticas sociales.
 La disposición transitoria única establece los índices de reducción, hasta tanto se 
 apruebe el decreto en el que se establezcan los criterios para determinar la capacidad 
 económica de las personas usuarias del sistema público de servicios sociales al que se 
-refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
+refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
 Sociales de Canarias.
 En cuanto a la disposición final primera, la misma se destina a determinar las fechas 
 de efectos económicos del presente Decreto ley; la disposición final segunda efectúa una 
@@ -1271,8 +1275,8 @@ ordinario podría generar algún perjuicio a las economías de las personas depe
 máxime en el final de la presente Legislatura que impide aprobar dicha normativa a tiempo-. 
 El Decreto ley constituye, pues, un instrumento constitucionalmente lícito, siempre que el 
 fin que justifica la legislación de urgencia, sea, tal como reiteradamente ha exigido nuestro 
-Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
-FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
+Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
+FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
 concreta, dentro de los objetivos gubernamentales, que por razones difíciles de prever requiere 
 una acción normativa inmediata en un plazo más breve que el requerido por la vía normal 
 o por el procedimiento de urgencia para la tramitación parlamentaria de las leyes, máxime 
@@ -1289,7 +1293,7 @@ extraordinaria y urgente necesidad de las medidas adoptadas en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17608
 para las personas señaladas, tanto para contribuir a la financiación del coste del servicio 
@@ -1299,48 +1303,48 @@ una cuantía económica cuya finalidad es contribuir a la cobertura de los gasto
 la atención específica prestada en su domicilio a las personas dependientes.
 Asimismo, la extraordinaria y urgente necesidad de aprobar este Decreto ley se inscribe 
 en el juicio político o de oportunidad que corresponde al Gobierno [(SSTC 61/2018, de 
-7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
-ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
+7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
+ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
 de Inconstitucionalidad número 2208-2019)], centradas en el cumplimiento de la seguridad 
 jurídica y la cobertura de las necesidades básicas de la ciudadanía, en particular, en las 
 personas dependientes y su entorno familiar. Los motivos de oportunidad que acaban de 
 exponerse demuestran que, en ningún caso, este Decreto ley constituye un supuesto de uso 
-abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
-4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
+abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
+4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
 febrero, FJ 5)]. Al contrario, todas las razones expuestas justifican amplia y razonadamente 
-la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
-FJ 5; 182/1997, de 20 de octubre, FJ 3)].
+la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
+FJ 5; 182/1997, de 20 de octubre, FJ 3)].
 Debe señalarse también que este Decreto ley no afecta al ámbito de aplicación delimitado 
 por el artículo 46.2 del Estatuto de Autonomía de Canarias. Además, responde a los principios 
 de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal 
-y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
+y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. A estos efectos se pone de manifiesto el cumplimiento 
 de los principios de necesidad y eficacia dado el interés general en el que se fundamentan 
 las medidas que se establecen, siendo el Decreto ley el instrumento más adecuado para 
 garantizar su consecución. La norma es acorde con el principio de proporcionalidad al 
 contener la regulación imprescindible para la consecución de los objetivos previamente 
 mencionados. Igualmente, se ajusta al principio de seguridad jurídica, siendo coherente con 
-el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
-y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
+el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
+y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
 las prestaciones del Sistema para la Autonomía y Atención a la Dependencia, establecidas 
-en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia.
 Asimismo, cumple también con el principio de transparencia, ya que identifica 
 claramente su propósito y se ofrece una explicación, sin que se hayan realizado los trámites 
-de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
+de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
 noviembre, del Gobierno, al amparo de la excepción que, para los decretos-leyes, regula el 
 apartado 11 del aludido precepto.
 En efecto, no se ha realizado el trámite de participación pública al amparo de lo que 
-establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
-supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
-14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
+establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
+supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
+14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
 Canarias, que excluye la aplicación de las normas para la tramitación de anteproyectos 
 de ley y normas reglamentarias, a los decretos leyes, a excepción de la elaboración de la 
 memoria prevista en el apartado 3 del citado artículo, que con carácter abreviado se ha
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17609
 acompañado al procedimiento conducente a la aprobación de este Decreto ley tramitado en 
@@ -1354,7 +1358,7 @@ Por otra parte, dada la finalidad de este Decreto ley y el ámbito material de c
 donde se inserta, la presente disposición forma parte del bloque normativo sobre servicios 
 sociales derivado de las competencias exclusivas en esa materia reconocidas en el Estatuto 
 de Autonomía de Canarias. En efecto, el Estatuto de Autonomía de Canarias, aprobado 
-por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
+por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
 los “Servicios sociales”, que “1. Corresponde a la Comunidad Autónoma de Canarias la 
 competencia exclusiva en materia de servicios sociales, que incluye, en todo caso: a) La 
 regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas 
@@ -1363,10 +1367,10 @@ de los planes y los programas específicos dirigidos a personas y colectivos en 
 pobreza o de necesidad social. (...).” En cuanto a la adopción de medidas económicas que 
 afectan a las personas dependientes, la misma se halla en el marco del nivel adicional de 
 protección que pueda establecer cada Comunidad Autónoma, de acuerdo con lo que prevé 
-el citado artículo 7.3 de la Ley de Dependencia.
+el citado artículo 7.3 de la Ley de Dependencia.
 Por tanto, en el conjunto y en cada una de las medidas que se adoptan, concurren, 
 por su naturaleza y finalidad, las circunstancias de extraordinaria y urgente necesidad que 
-exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
+exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
 Canarias como presupuestos habilitantes para la aprobación de un Decreto ley.
 Así, de acuerdo con los principios de necesidad y eficacia, la iniciativa se fundamenta 
 en el interés general que supone atender a las circunstancias sociales y económicas de 
@@ -1391,29 +1395,29 @@ evitar el riesgo de que se produzcan situaciones de mayor necesidad social, y en
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17610
 para el presente Decreto ley, el detectar, prevenir y atender las necesidades derivadas de la 
 dependencia con el objetivo de promover la autonomía de las personas, como uno de los 
-objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
+objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
 Servicios Sociales de Canarias.
-Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
+Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
 y Hombres, que establece en su artículo 4 los principios generales de actuación de los 
 poderes públicos de Canarias, entre ellos, el de transversalidad, principio que comporta 
 aplicar la perspectiva de género en las fases de planificación, ejecución y evaluación de 
 todas las políticas con la finalidad de eliminar las desigualdades y promover la igualdad 
 entre mujeres y hombres. Desde esa perspectiva, el presente Decreto ley, aunque se trata 
-de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
+de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
 la Autonomía Personal y Atención a las personas en situación de dependencia, ha tenido 
 en cuenta la perspectiva de género en su análisis previo y haciendo un uso no sexista del 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
-2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
+2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
 género, ni afecta negativamente a la igualdad y no discriminación por razón de la identidad y 
@@ -1423,7 +1427,7 @@ dichos impactos en las personas destinatarias de la norma es totalmente positivo
 En su virtud, en uso de la autorización contenida en el artículo 46 del Estatuto de 
 Autonomía de Canarias, a propuesta de la Consejera de Derechos Sociales, Igualdad, 
 Diversidad y Juventud, y previa deliberación del Gobierno en su reunión celebrada el día 
-23 de marzo de 2023,
+23 de marzo de 2023,
 D I S P O N G O:
 CAPÍTULO I
 LA PRESTACIÓN ECONÓMICA VINCULADA AL SERVICIO
@@ -1439,14 +1443,14 @@ servicios del catálogo del Sistema para la Autonomía y Atención a la Dependen
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17611
 Artículo 2. Condiciones de acceso a la Prestación económica vinculada al servicio 
 (PEVS).
-Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
+Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
 Autonomía Personal y Atención a las personas en situación de dependencia, será preciso 
 para acceder a esta prestación, que las personas beneficiarias cumplan las siguientes 
 condiciones:
@@ -1486,7 +1490,7 @@ de comprobar el cumplimiento de los requisitos establecidos en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17612
 CAPÍTULO II
@@ -1499,8 +1503,8 @@ contribuir a la cobertura de los gastos derivados de la atención específica pr
 domicilio, a quien se encuentra en situación de dependencia, por persona de su familia o 
 de su entorno, no vinculadas a un servicio de atención profesionalizada, cuando se reúnan 
 las condiciones de acceso establecidas con carácter general en el Real Decreto 1051/2013, 
-de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
-y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
+de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
+y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
 Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
 2. Esta prestación únicamente se podrá conceder cuando no sea posible el acceso a 
 un servicio o, en su defecto, a una prestación económica vinculada al servicio, debido a 
@@ -1509,8 +1513,8 @@ restantes requisitos establecidos en la legislación de dependencia.
 Artículo 6. Condiciones de acceso a la Prestación económica para cuidados en el 
 entorno familiar y apoyo a personas cuidadoras no profesionales (PECEF).
 1. Además de los requisitos generales que se establecen en el artículo 12 del Real 
-Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
-para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
+Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
+para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, será necesario para acceder a esta prestación que el Programa Individual 
 de Atención (PIA) de la persona en situación de dependencia acredite que concurren las 
@@ -1524,7 +1528,7 @@ c) Que se den las condiciones exigidas de convivencia y que la atención y cuida
 que presta la persona cuidadora se adecúan a las necesidades de la persona dependiente, en 
 función de su grado de dependencia.
 d) Que las personas cuidadoras no profesionales se ajusten a las normas sobre afiliación, 
-alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
+alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
 mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación 
 de dependencia.
 2. La concesión de esta prestación debe conllevar la designación de una persona 
@@ -1533,7 +1537,7 @@ del cuidado y atención de la persona en situación de dependencia.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17613
 3. Las condiciones para acceder a la PECEF serán las siguientes:
@@ -1578,7 +1582,7 @@ la situación de dependencia se deba a una circunstancia sobrevenida con posteri
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17614
 La persona cuidadora no familiar no podrá tener la consideración de empleada o 
@@ -1626,7 +1630,7 @@ presente Decreto ley.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17615
 Disposición adicional primera.- Financiación de las Prestaciones.
@@ -1650,7 +1654,7 @@ para garantizar la eficacia y aplicación de lo dispuesto en este Decreto ley.
 Disposición transitoria única.- Índices de reducción.
 Hasta tanto se apruebe el decreto en el que se establezcan los criterios para determinar 
 la capacidad económica de las personas usuarias del sistema público de servicios sociales 
-al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
+al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
 Servicios Sociales de Canarias, la cuantía de las prestaciones se percibirá íntegramente o se 
 reducirá de acuerdo con la siguiente tabla:
 Capacidad económica de
@@ -1698,20 +1702,20 @@ Más de cinco veces el IPREM
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17616
 Disposición final primera.- Fecha de efectos económicos.
-La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
+La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
 este Decreto ley será la siguiente:
-a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
+a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
 les resulte de aplicación ninguna de las deducciones por la percepción de prestación de 
 análoga naturaleza y finalidad establecida en los regímenes públicos de protección social, a 
-las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
-b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
+las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
 resulte de aplicación alguna de las deducciones por la percepción de prestación de análoga 
 naturaleza y finalidad establecida en los regímenes públicos de protección social, a las que 
-se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
 Disposición final segunda.- Habilitación normativa a la Consejería competente en 
 la materia de derechos y políticas sociales.
 Corresponde a la persona titular de la Consejería competente en materia de derechos 
@@ -1721,7 +1725,7 @@ lo dispuesto en este Decreto ley.
 Disposición final tercera.- Entrada en vigor.
 Este Decreto ley entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de Canarias.
-Dado en Canarias, a 23 de marzo de 2023.
+Dado en Canarias, a 23 de marzo de 2023.
 EL PRESIDENTE
 DEL GOBIERNO,
 Ángel Víctor Torres Pérez.
@@ -1733,30 +1737,30 @@ Noemí Santana Perera.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17600
 I. Disposiciones generales
 Presidencia del Gobierno
 884	
-DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
+DECRETO ley 3/2023, de 23 de marzo, por el que se aprueban las condiciones y 
 las cuantías máximas de las prestaciones económicas Vinculada al servicio y la de 
 Cuidados en el entorno familiar y de apoyo a personas cuidadoras no profesionales, 
-reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
+reguladas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía 
 Personal y Atención a las personas en situación de dependencia, aplicables en la 
 Comunidad Autónoma de Canarias.
 Sea notorio a todos los ciudadanos y ciudadanas que el Gobierno de Canarias ha 
 aprobado y yo, en nombre del Rey y de acuerdo con lo dispuesto en el artículo 47.1 del 
 Estatuto de Autonomía de Canarias, promulgo y ordeno la publicación del Decreto ley 
-3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
+3/2023, de 23 de marzo, por el que se aprueban las condiciones y las cuantías máximas de 
 las Prestaciones económicas Vinculada al servicio y la de Cuidados en el entorno familiar 
-y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
+y de apoyo a personas cuidadoras no profesionales, reguladas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, aplicables en la Comunidad Autónoma de Canarias, ordenando a la 
 ciudadanía y a las autoridades que lo cumplan y lo hagan cumplir.
 PREÁMBULO
 I
-La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
+La Ley 39/2006, de 14  de diciembre, de Promoción de la Autonomía Personal y 
 Atención a las personas en situación de dependencia (en adelante, la Ley de Dependencia 
 o la Ley), tiene por objeto regular las condiciones básicas que garanticen la igualdad en el 
 ejercicio del derecho subjetivo de ciudadanía a la promoción de la autonomía personal y 
@@ -1777,10 +1781,10 @@ básicas de la vida diaria.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17601
-Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
+Las prestaciones económicas se regulan en los artículos 17 y 18 de la Ley, distinguiendo 
 entre prestaciones económicas vinculadas al servicio (PEVS) y prestación económica para 
 cuidados en el entorno familiar y apoyo a cuidadores no profesionales (PECEF).
 La PEVS está vinculada a la contratación de un servicio de los recogidos en la cartera 
@@ -1792,7 +1796,7 @@ dependiente en su Resolución de Programa Individual de Atención (PIA), y cuyo 
 utilización es objeto de supervisión por la Administración Pública.
 La PECEF se reconoce, excepcionalmente, cuando la persona beneficiaria, la persona 
 en situación de dependencia, está siendo atendida por su entorno familiar, y se reúnen las 
-condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
+condiciones establecidas en el artículo 14.4 de la Ley, y consiste en una prestación en forma 
 la asignación de una cantidad económica.
 La Ley de Dependencia regula la participación de cada una de las Administraciones 
 Públicas en el sistema de la dependencia, así como los niveles de protección del mismo, 
@@ -1803,10 +1807,10 @@ cada una de las Comunidades Autónomas a través de los Convenios previstos en e
 artículo 10 y finalmente el nivel adicional de protección que puede establecer cada 
 Comunidad Autónoma.
 Las prestaciones económicas se regulan actualmente en el Real Decreto-[ley 20/2012](../../../estatal/08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md), 
-de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
+de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la 
 competitividad. Dicho Real Decreto-ley supuso un perjuicio muy grave para el sistema de 
-la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
-de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
+la Dependencia en España, ya que implicó una serie de recortes de la citada Ley 39/2006, 
+de 14 de diciembre, muy importantes, tales como la desaparición de la afiliación de las 
 cuidadoras no profesionales a la Seguridad Social o la disminución de las cuantías de 
 las prestaciones económicas, tanto de las PEVS, como de las PECEF, cuantías que en 
 esta Comunidad Autónoma no se han vuelto a incrementar como si lo han hecho otras 
@@ -1828,15 +1832,15 @@ Grado II
 Grado I
 300,00 €
 153,00 €
-Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
+Por su parte, en el Real Decreto 1051/2013, de 27 de diciembre, se regulan las prestaciones 
 del Sistema para la Autonomía y Atención a la Dependencia (SAAD), establecidas en la
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17602
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las 
 personas en situación de dependencia.
 Como señala su Preámbulo, este Real Decreto establece la regulación de las prestaciones 
 del SAAD, y determina las intensidades de protección de los servicios, compatibilidades 
@@ -1846,8 +1850,8 @@ a las personas en situación de dependencia. No obstante, señala que la comunid
 o Administración que, en su caso, tenga la competencia, “podrá dictar las disposiciones 
 normativas que resulten necesarias para la aplicación de este real decreto.”
 En su artículo 2, relativo a los “Servicios y prestaciones económicas por grado de 
-dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
-Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
+dependencia”, se indica que para hacer efectivo lo establecido en el artículo 28.3 de la 
+Ley 39/2006, de 14 de diciembre, se determinan los servicios y prestaciones económicas 
 que corresponden a los grados III, II y I de dependencia. Entre las prestaciones económicas, 
 en efecto, indica los Servicios y prestaciones para los grados III y II [la Prestación económica 
 vinculada, en consonancia con los servicios previstos en el apartado a) de este artículo 2.1 
@@ -1863,11 +1867,11 @@ por la comunidad autónoma o Administración que, en su caso tenga la competenci
 teniendo en cuenta los acuerdos que adopte el Consejo Territorial de Servicios Sociales y 
 del Sistema para la Autonomía y Atención a la Dependencia.”
 Pues bien, en uso de esas competencias atribuidas a las Comunidades Autónomas en 
-los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
-27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
+los citados artículos 7.3 de la Ley de Dependencia, y 11 de este Real Decreto 1051/2013, de 
+27 de diciembre, se enmarca el presente Decreto ley destinado a aprobar las condiciones y 
 las cuantías máximas de las Prestaciones económicas Vinculada al servicio y la de Cuidados 
 en el entorno familiar y de apoyo a personas cuidadoras no profesionales, reguladas en la 
-Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia, que serán aplicables a partir de ahora en la 
 Comunidad Autónoma de Canarias.
 Por ello, es importante poner de manifiesto que, en el caso de las PVS, son las personas 
@@ -1883,7 +1887,7 @@ familias.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17603
 Respecto de la Prestación económica vinculada al servicio se establece un porcentaje 
@@ -1918,26 +1922,26 @@ aproximada de 12,3 millones de euros para 2023, llegando por tanto a 97 millones
 la inversión en prestaciones económicas en el conjunto del Sistema de la Dependencia en 
 Canarias.
 La extraordinaria y urgente necesidad resulta igualmente justificada en relación con el 
-caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
-de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
+caso que se plantea con los efectos de la disposición adicional undécima de la Ley 16/2019, 
+de 2 de mayo, de Servicios Sociales de Canarias (LSSC), cuando establece que: “Dentro 
 del plazo máximo de los seis meses siguientes a la entrada en vigor de la presente ley, 
 el Gobierno de Canarias aprobará un decreto en el que se establezcan los criterios para 
 determinar la capacidad económica de las personas usuarias del sistema público de servicios 
 sociales”.
 Teniendo en cuenta que la LSSC -de conformidad con lo que dispone su disposición final 
-sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
-finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
+sexta-, entró en vigor el día 18 de mayo de 2019, el plazo para aprobar el referido decreto 
+finalizó el 18 de noviembre de 2019. Lo que resultó materialmente imposible de cumplir 
 por tratarse de año electoral, al aprobarse la LSSC al final de la Legislatura y a resultas del 
 cambio de Gobierno producido a consecuencias del proceso electoral acontecido, lo que 
 devino en imposible el cumplir el citado plazo normativo.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17604
-Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
-“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
+Por su parte, la disposición derogatoria única en su apartado 3 de la LSSC dispuso que: 
+“Queda derogado el Decreto 93/2014, de 19 de septiembre, por el que se establecen los 
 criterios para determinar la capacidad económica de la persona beneficiaria del Sistema 
 para la Autonomía y Atención a la Dependencia y su participación económica en el coste 
 de los servicios, así como la determinación de la cuantía de las prestaciones económicas del 
@@ -1947,14 +1951,14 @@ que habrá de suplirlo, la única normativa de aplicación que tenemos en la mat
 Acuerdo del Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia, 
 sobre determinación de la capacidad económica del beneficiario y sobre los criterios de 
 participación de este en las prestaciones del Sistema para la Autonomía y Atención a la 
-Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
+Dependencia, hecho público por la Resolución de 2 de diciembre de 2008, de la Secretaría 
 de Estado de Política Social, Familias y Atención a la Dependencia y a la Discapacidad. Se 
 trata este Acuerdo, como sabemos, de una norma cuya finalidad no es otra que la de acordar 
 criterios para la determinación de la capacidad económica de las personas beneficiarias 
 y establecer los criterios comunes de su participación económica en las prestaciones del 
 sistema, pero permitiendo a las Comunidades Autónomas el regular otras condiciones más 
 ventajosas para las personas beneficiarias del SAAD.
-En concreto, el apartado 2 de los criterios de participación económica de la persona 
+En concreto, el apartado 2 de los criterios de participación económica de la persona 
 beneficiaria en las prestaciones del SAAD establece: “Si la capacidad económica es 
 superior al IPREM, la Comunidad Autónoma o Administración que, en su caso, tenga la 
 competencia establecerá los índices de reducción aplicables, sin que en ningún caso la 
@@ -1962,13 +1966,13 @@ cantidad resultante pueda ser inferior al 40 por ciento de la cuantía estableci
 para las prestaciones económicas vinculadas al servicio y de asistencia personal y del 75 
 por ciento para la de cuidados en el entorno familiar, salvo que se haya reconocido algún 
 tipo de compatibilidad con los servicios del Catálogo.” Con la derogación, pues, del citado 
-Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
+Decreto 93/2014, de 19 de septiembre, efectuado por la LSSC, esta previsión normativa se 
 halla pendiente de desarrollo en el ámbito del Sistema de la Dependencia en la Comunidad 
 Autónoma de Canarias.
 La disposición transitoria única de este Decreto ley pretende, precisamente, establecer 
 esos índices de reducción aplicables que nos sirvan para concretar, dentro de aquellos 
 límites, la capacidad económica de las personas beneficiarias en conexión con la cuantía 
-del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
+del IPREM; y lo hace en idénticos términos a los que recogía la derogada “Orden de 2 de 
 abril de 2008, por la que se establece con carácter transitorio la intensidad de protección 
 de los servicios y se hacen públicos los criterios para la determinación de la prestación 
 económica a los beneficiarios que tengan reconocida la condición de persona en situación de 
@@ -1978,12 +1982,12 @@ llenar dicho vacío normativo.
 II
 El artículo 142 del Estatuto de Autonomía de Canarias atribuye a la Comunidad 
 Autónoma competencia exclusiva en materia de servicios sociales. La Ley 16/2019, de 
-2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
+2 de mayo, de Servicios Sociales de Canarias, en su artículo 21 incluye las prestaciones 
 económicas del sistema público de servicios sociales y en el apartado 2, letra b), las
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17605
 prestaciones destinadas a apoyar y compensar a las personas que asuman las tareas de 
@@ -1992,7 +1996,7 @@ social de alguno de sus integrantes. La señalada en la letra d), referida a aqu
 a servicios a los que tengan derecho las personas usuarias del sistema público de servicios 
 sociales, pero cuyo acceso no pueda garantizarse temporalmente por déficit de servicio en 
 la red canaria de servicios sociales en los términos definidos reglamentariamente.
-Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
+Más específicamente el apartado 3  de este artículo 21  de la LSSC señala que las 
 prestaciones económicas del sistema público de servicios sociales de Canarias serán, 
 al menos, las siguientes, en los términos que se recojan en el catálogo de servicios y 
 prestaciones, señalando entre otras, las de las letras b) y d), en los términos siguientes:
@@ -2029,14 +2033,14 @@ conforme se establezca en las leyes.”
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17606
 Entendemos por ello que es necesario suplementar las prestaciones que se perciben 
 en concepto de Prestación económica vinculada al servicio y Prestación económica por 
 cuidados en el entorno familiar, en el ámbito de nuestra competencia de suplementar en el 
 ámbito del nivel adicional de protección que puede establecer cada Comunidad Autónoma, 
-tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
+tal como permite el artículo 7, apartado 3, de la Ley de Dependencia.
 En consecuencia, a la vista de las circunstancias descritas, la extraordinaria y urgente 
 necesidad de este Decreto ley resulta plenamente justificada y proporcionada para atender 
 las circunstancias sociales y económicas de las personas dependientes, en especial, para 
@@ -2054,7 +2058,7 @@ Dentro del Capítulo I, sobre la Prestación económica vinculada al servicio, e
 atiende a la definición y objeto de la Prestación económica vinculada al servicio.
 El artículo 2 trata de las condiciones de acceso a la Prestación económica vinculada al 
 servicio, al margen de los requisitos generales establecidos en el Real Decreto 1051/2013, 
-de 27 de diciembre.
+de 27 de diciembre.
 El artículo 3 fija el importe de la cuantía máxima de la Prestación económica vinculada 
 al servicio, con cargo al nivel adicional de protección de la Comunidad Autónoma de 
 Canarias.
@@ -2065,7 +2069,7 @@ y objeto de esta Prestación.
 El artículo 6 se dedica a fijar las condiciones de acceso a la Prestación económica para 
 cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, además de 
 los requisitos generales que se establecen en el artículo 12 del Real Decreto 1051/2013, de 
-27 de diciembre.
+27 de diciembre.
 Por su parte, el artículo 7 se dedica a fijar la cuantía máxima de la Prestación económica 
 para cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, con 
 cargo al nivel adicional de protección de la Comunidad Autónoma de Canarias.
@@ -2075,7 +2079,7 @@ cuidadoras no profesionales.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17607
 Por último, en la parte final de este Decreto ley, las disposiciones adicionales tratan, la 
@@ -2087,7 +2091,7 @@ la Consejería competente en la materia de derechos y políticas sociales.
 La disposición transitoria única establece los índices de reducción, hasta tanto se 
 apruebe el decreto en el que se establezcan los criterios para determinar la capacidad 
 económica de las personas usuarias del sistema público de servicios sociales al que se 
-refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
+refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de Servicios 
 Sociales de Canarias.
 En cuanto a la disposición final primera, la misma se destina a determinar las fechas 
 de efectos económicos del presente Decreto ley; la disposición final segunda efectúa una 
@@ -2108,8 +2112,8 @@ ordinario podría generar algún perjuicio a las economías de las personas depe
 máxime en el final de la presente Legislatura que impide aprobar dicha normativa a tiempo-. 
 El Decreto ley constituye, pues, un instrumento constitucionalmente lícito, siempre que el 
 fin que justifica la legislación de urgencia, sea, tal como reiteradamente ha exigido nuestro 
-Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
-FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
+Tribunal Constitucional (sentencias 6/1983, de 4 de febrero, FJ. 5; 11/2002, de 17 de enero, 
+FJ. 4, 137/2003, de 3 de julio, FJ. 3 y 189/2005, de 7 de julio, FJ. 3), subvenir a una situación 
 concreta, dentro de los objetivos gubernamentales, que por razones difíciles de prever requiere 
 una acción normativa inmediata en un plazo más breve que el requerido por la vía normal 
 o por el procedimiento de urgencia para la tramitación parlamentaria de las leyes, máxime 
@@ -2126,7 +2130,7 @@ extraordinaria y urgente necesidad de las medidas adoptadas en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17608
 para las personas señaladas, tanto para contribuir a la financiación del coste del servicio 
@@ -2136,48 +2140,48 @@ una cuantía económica cuya finalidad es contribuir a la cobertura de los gasto
 la atención específica prestada en su domicilio a las personas dependientes.
 Asimismo, la extraordinaria y urgente necesidad de aprobar este Decreto ley se inscribe 
 en el juicio político o de oportunidad que corresponde al Gobierno [(SSTC 61/2018, de 
-7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
-ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
+7 de junio, FJ 4; 142/2014, de 11 de septiembre, FJ 3)] y esta decisión, sin duda, supone una 
+ordenación de prioridades políticas de actuación [(STC, de 28 de enero de 2020, Recurso 
 de Inconstitucionalidad número 2208-2019)], centradas en el cumplimiento de la seguridad 
 jurídica y la cobertura de las necesidades básicas de la ciudadanía, en particular, en las 
 personas dependientes y su entorno familiar. Los motivos de oportunidad que acaban de 
 exponerse demuestran que, en ningún caso, este Decreto ley constituye un supuesto de uso 
-abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
-4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
+abusivo o arbitrario de este instrumento constitucional [(SSTC 61/2018, de 7 de junio, FJ 
+4; 100/2012, de 8 de mayo, FJ 8; 237/2012, de 13 de diciembre, FJ 4; 39/2013, de 14 de 
 febrero, FJ 5)]. Al contrario, todas las razones expuestas justifican amplia y razonadamente 
-la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
-FJ 5; 182/1997, de 20 de octubre, FJ 3)].
+la adopción de la norma [(SSTC 29/1982, de 31 de mayo, FJ 3; 111/1983, de 2 de diciembre, 
+FJ 5; 182/1997, de 20 de octubre, FJ 3)].
 Debe señalarse también que este Decreto ley no afecta al ámbito de aplicación delimitado 
 por el artículo 46.2 del Estatuto de Autonomía de Canarias. Además, responde a los principios 
 de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, tal 
-y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
+y como exige la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
 de las Administraciones Públicas. A estos efectos se pone de manifiesto el cumplimiento 
 de los principios de necesidad y eficacia dado el interés general en el que se fundamentan 
 las medidas que se establecen, siendo el Decreto ley el instrumento más adecuado para 
 garantizar su consecución. La norma es acorde con el principio de proporcionalidad al 
 contener la regulación imprescindible para la consecución de los objetivos previamente 
 mencionados. Igualmente, se ajusta al principio de seguridad jurídica, siendo coherente con 
-el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
-y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
+el resto del ordenamiento jurídico, en particular con el artículo 7.3 de la Ley de Dependencia 
+y con el artículo 11 del Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan 
 las prestaciones del Sistema para la Autonomía y Atención a la Dependencia, establecidas 
-en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
+en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención 
 a las personas en situación de dependencia.
 Asimismo, cumple también con el principio de transparencia, ya que identifica 
 claramente su propósito y se ofrece una explicación, sin que se hayan realizado los trámites 
-de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
+de participación pública que se establecen en el artículo 26 de la Ley 50/1997, de 27 de 
 noviembre, del Gobierno, al amparo de la excepción que, para los decretos-leyes, regula el 
 apartado 11 del aludido precepto.
 En efecto, no se ha realizado el trámite de participación pública al amparo de lo que 
-establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
-supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
-14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
+establece el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, de aplicación 
+supletoria por mor de lo dispuesto en la disposición final primera de la Ley 1/1983, de 
+14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de 
 Canarias, que excluye la aplicación de las normas para la tramitación de anteproyectos 
 de ley y normas reglamentarias, a los decretos leyes, a excepción de la elaboración de la 
 memoria prevista en el apartado 3 del citado artículo, que con carácter abreviado se ha
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17609
 acompañado al procedimiento conducente a la aprobación de este Decreto ley tramitado en 
@@ -2191,7 +2195,7 @@ Por otra parte, dada la finalidad de este Decreto ley y el ámbito material de c
 donde se inserta, la presente disposición forma parte del bloque normativo sobre servicios 
 sociales derivado de las competencias exclusivas en esa materia reconocidas en el Estatuto 
 de Autonomía de Canarias. En efecto, el Estatuto de Autonomía de Canarias, aprobado 
-por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
+por la [Ley Orgánica 1/2018](./LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, establece en su artículo 142, referido a 
 los “Servicios sociales”, que “1. Corresponde a la Comunidad Autónoma de Canarias la 
 competencia exclusiva en materia de servicios sociales, que incluye, en todo caso: a) La 
 regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas 
@@ -2200,10 +2204,10 @@ de los planes y los programas específicos dirigidos a personas y colectivos en 
 pobreza o de necesidad social. (...).” En cuanto a la adopción de medidas económicas que 
 afectan a las personas dependientes, la misma se halla en el marco del nivel adicional de 
 protección que pueda establecer cada Comunidad Autónoma, de acuerdo con lo que prevé 
-el citado artículo 7.3 de la Ley de Dependencia.
+el citado artículo 7.3 de la Ley de Dependencia.
 Por tanto, en el conjunto y en cada una de las medidas que se adoptan, concurren, 
 por su naturaleza y finalidad, las circunstancias de extraordinaria y urgente necesidad que 
-exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
+exige el artículo 86 de la Constitución Española y artículo 46 del Estatuto de Autonomía de 
 Canarias como presupuestos habilitantes para la aprobación de un Decreto ley.
 Así, de acuerdo con los principios de necesidad y eficacia, la iniciativa se fundamenta 
 en el interés general que supone atender a las circunstancias sociales y económicas de 
@@ -2228,29 +2232,29 @@ evitar el riesgo de que se produzcan situaciones de mayor necesidad social, y en
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17610
 para el presente Decreto ley, el detectar, prevenir y atender las necesidades derivadas de la 
 dependencia con el objetivo de promover la autonomía de las personas, como uno de los 
-objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
+objetivos del sistema público de servicios sociales, señalados en el artículo 6 de la Ley de 
 Servicios Sociales de Canarias.
-Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
+Debe mencionarse la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres 
 y Hombres, que establece en su artículo 4 los principios generales de actuación de los 
 poderes públicos de Canarias, entre ellos, el de transversalidad, principio que comporta 
 aplicar la perspectiva de género en las fases de planificación, ejecución y evaluación de 
 todas las políticas con la finalidad de eliminar las desigualdades y promover la igualdad 
 entre mujeres y hombres. Desde esa perspectiva, el presente Decreto ley, aunque se trata 
-de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
+de una norma dictada en el marco del artículo 11 del Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de 
 la Autonomía Personal y Atención a las personas en situación de dependencia, ha tenido 
 en cuenta la perspectiva de género en su análisis previo y haciendo un uso no sexista del 
 lenguaje utilizado en las expresiones utilizadas.
 Por tanto, en cuanto a la redacción de presente Decreto ley, y por lo que respecta a la 
 igualdad de género y de expresión de género, se ha dado cumplimiento, respectivamente, a 
-la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
-2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
+la [Ley 1/2010](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md), de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 
+2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, 
 expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni 
 prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad de 
 género, ni afecta negativamente a la igualdad y no discriminación por razón de la identidad y 
@@ -2260,7 +2264,7 @@ dichos impactos en las personas destinatarias de la norma es totalmente positivo
 En su virtud, en uso de la autorización contenida en el artículo 46 del Estatuto de 
 Autonomía de Canarias, a propuesta de la Consejera de Derechos Sociales, Igualdad, 
 Diversidad y Juventud, y previa deliberación del Gobierno en su reunión celebrada el día 
-23 de marzo de 2023,
+23 de marzo de 2023,
 D I S P O N G O:
 CAPÍTULO I
 LA PRESTACIÓN ECONÓMICA VINCULADA AL SERVICIO
@@ -2276,14 +2280,14 @@ servicios del catálogo del Sistema para la Autonomía y Atención a la Dependen
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17611
 Artículo 2. Condiciones de acceso a la Prestación económica vinculada al servicio 
 (PEVS).
-Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
+Además de los requisitos generales establecidos en el Real Decreto 1051/2013, de 27 de 
 diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención 
-a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
+a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la 
 Autonomía Personal y Atención a las personas en situación de dependencia, será preciso 
 para acceder a esta prestación, que las personas beneficiarias cumplan las siguientes 
 condiciones:
@@ -2323,7 +2327,7 @@ de comprobar el cumplimiento de los requisitos establecidos en el presente Decre
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17612
 CAPÍTULO II
@@ -2336,8 +2340,8 @@ contribuir a la cobertura de los gastos derivados de la atención específica pr
 domicilio, a quien se encuentra en situación de dependencia, por persona de su familia o 
 de su entorno, no vinculadas a un servicio de atención profesionalizada, cuando se reúnan 
 las condiciones de acceso establecidas con carácter general en el Real Decreto 1051/2013, 
-de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
-y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
+de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía 
+y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14  de diciembre, de 
 Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
 2. Esta prestación únicamente se podrá conceder cuando no sea posible el acceso a 
 un servicio o, en su defecto, a una prestación económica vinculada al servicio, debido a 
@@ -2346,8 +2350,8 @@ restantes requisitos establecidos en la legislación de dependencia.
 Artículo 6. Condiciones de acceso a la Prestación económica para cuidados en el 
 entorno familiar y apoyo a personas cuidadoras no profesionales (PECEF).
 1. Además de los requisitos generales que se establecen en el artículo 12 del Real 
-Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
-para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
+Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema 
+para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de 
 diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación 
 de dependencia, será necesario para acceder a esta prestación que el Programa Individual 
 de Atención (PIA) de la persona en situación de dependencia acredite que concurren las 
@@ -2361,7 +2365,7 @@ c) Que se den las condiciones exigidas de convivencia y que la atención y cuida
 que presta la persona cuidadora se adecúan a las necesidades de la persona dependiente, en 
 función de su grado de dependencia.
 d) Que las personas cuidadoras no profesionales se ajusten a las normas sobre afiliación, 
-alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
+alta y cotización a la Seguridad Social establecidas en el Real Decreto 615/2007, de 11 de 
 mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación 
 de dependencia.
 2. La concesión de esta prestación debe conllevar la designación de una persona 
@@ -2370,7 +2374,7 @@ del cuidado y atención de la persona en situación de dependencia.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17613
 3. Las condiciones para acceder a la PECEF serán las siguientes:
@@ -2415,7 +2419,7 @@ la situación de dependencia se deba a una circunstancia sobrevenida con posteri
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17614
 La persona cuidadora no familiar no podrá tener la consideración de empleada o 
@@ -2463,7 +2467,7 @@ presente Decreto ley.
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17615
 Disposición adicional primera.- Financiación de las Prestaciones.
@@ -2487,7 +2491,7 @@ para garantizar la eficacia y aplicación de lo dispuesto en este Decreto ley.
 Disposición transitoria única.- Índices de reducción.
 Hasta tanto se apruebe el decreto en el que se establezcan los criterios para determinar 
 la capacidad económica de las personas usuarias del sistema público de servicios sociales 
-al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
+al que se refiere la disposición adicional undécima de la Ley 16/2019, de 2 de mayo, de 
 Servicios Sociales de Canarias, la cuantía de las prestaciones se percibirá íntegramente o se 
 reducirá de acuerdo con la siguiente tabla:
 Capacidad económica de
@@ -2535,20 +2539,20 @@ Más de cinco veces el IPREM
 
 https://sede.gobiernodecanarias.org/boc
 boc-a-2023-060-884
-Boletín Oficial de Canarias núm. 60
+
 Lunes 27 de marzo de 2023
 17616
 Disposición final primera.- Fecha de efectos económicos.
-La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
+La fecha de efectos económicos de las cuantías a los que se refiere los artículos 3 y 7 de 
 este Decreto ley será la siguiente:
-a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
+a) El 1 de abril de 2023, para todas aquellas personas beneficiarias a las cuales no 
 les resulte de aplicación ninguna de las deducciones por la percepción de prestación de 
 análoga naturaleza y finalidad establecida en los regímenes públicos de protección social, a 
-las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
-b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
+las que se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+b) El 1 de mayo de 2023, para todas aquellas personas beneficiarias a las cuales les 
 resulte de aplicación alguna de las deducciones por la percepción de prestación de análoga 
 naturaleza y finalidad establecida en los regímenes públicos de protección social, a las que 
-se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+se refiere el artículo 31 de la Ley 39/2006, de 14 de diciembre.
 Disposición final segunda.- Habilitación normativa a la Consejería competente en 
 la materia de derechos y políticas sociales.
 Corresponde a la persona titular de la Consejería competente en materia de derechos 
@@ -2558,7 +2562,7 @@ lo dispuesto en este Decreto ley.
 Disposición final tercera.- Entrada en vigor.
 Este Decreto ley entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de Canarias.
-Dado en Canarias, a 23 de marzo de 2023.
+Dado en Canarias, a 23 de marzo de 2023.
 EL PRESIDENTE
 DEL GOBIERNO,
 Ángel Víctor Torres Pérez.

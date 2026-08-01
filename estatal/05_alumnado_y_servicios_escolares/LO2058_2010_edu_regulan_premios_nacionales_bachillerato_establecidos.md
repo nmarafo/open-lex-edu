@@ -93,6 +93,81 @@ relaciones:
   - norma_id: norm-es-rd-476-2013
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rd-95-2022
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-boc-2023-085-51
+  - norma_id: norm-can-res-boc-2020-130-131
+  - norma_id: norm-can-res-boc-2022-158-21
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-boc-2024-049-109
+  - norma_id: norm-can-o-7-6-2007
+  - norma_id: norm-can-res-juriscan-72176-78
+  - norma_id: norm-can-res-juriscan-66772-94
+  - norma_id: norm-can-res-juriscan-64838-121
+  - norma_id: norm-can-res-boc-2026-060-61
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-014
+  - norma_id: norm-can-res-boc-2025-044-89
+  - norma_id: norm-can-res-boc-2018-106-114
+  - norma_id: norm-can-res-boc-2017-220-70
+  - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-res-063
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-boc-2011-099-72
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-res-boc-2026-039-111
+  - norma_id: norm-can-res-juriscan-74499-67
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-can-d-25-2018
+  - norma_id: norm-can-res-boc-2024-125-91
+  - norma_id: norm-can-res-boc-2019-069-48
+  - norma_id: norm-can-res-boc-2022-143-23
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2026-077-62
+  - norma_id: norm-can-res-boc-2018-086-122
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-res-boc-2026-070-116
+  - norma_id: norm-can-res-boc-2020-257-24
+  - norma_id: norm-can-res-055
+  - norma_id: norm-can-res-boc-2017-036-75
+  - norma_id: norm-can-res-097
+  - norma_id: norm-can-res-095
+  - norma_id: norm-can-res-juriscan-73844-69
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2025-039-104
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-070-115
+  - norma_id: norm-can-res-boc-2019-234-52
+  - norma_id: norm-can-res-090
+  - norma_id: norm-can-o-2013-10-09
+  - norma_id: norm-can-res-134
+  - norma_id: norm-can-res-boc-2026-077-49
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-boc-2017-036-71
+  - norma_id: norm-can-res-boc-2021-114-80
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-juriscan-65631-68
+  - norma_id: norm-can-res-boc-2024-117-93
+  - norma_id: norm-can-res-juriscan-70096-50
+  - norma_id: norm-can-res-053
+  - norma_id: norm-can-res-boc-2018-048-56
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-099
+  - norma_id: norm-can-res-059
+  - norma_id: norm-can-res-boc-2026-109-92
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2017-132-1
+  - norma_id: norm-can-res-juriscan-72882-123
+  - norma_id: norm-can-o-2-8-2006
+  - norma_id: norm-can-res-boc-2020-236-82
+  - norma_id: norm-can-res-boc-2019-024-22
+  - norma_id: norm-can-res-boc-2023-133-57
+  - norma_id: norm-can-res-boc-2026-116-87
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-can-res-boc-2019-143-74
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -104,17 +179,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-2021-20113
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 El Ministerio de Educación ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos del alumnado que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.

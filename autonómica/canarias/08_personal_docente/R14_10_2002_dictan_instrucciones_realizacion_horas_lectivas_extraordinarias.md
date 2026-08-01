@@ -30,8 +30,14 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2002-148-77
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-boc-2002-148-77
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -58,52 +64,39 @@ personal adscrito a la Consejería de Educación,
 Cultura y Deportes.
 La Orden de 10 de mayo de 1991 (B.O.C. nº 91,
 de 10 de julio), de la Consejería de Educación,
-Cultura y Deportes, por la que se establece el con-
-tenido y objetivos del Programa de Educación de
+Cultura y Deportes, por la que se establece el contenido y objetivos del Programa de Educación de
 Personas Adultas, dispone la posibilidad de que
 los Centros de Educación de Personas Adultas
-cuenten con funcionarios docentes de distintos ni-
-veles no universitarios para el desarrollo de sus
+cuenten con funcionarios docentes de distintos niveles no universitarios para el desarrollo de sus
 actividades.
 La Orden de 31 de agosto de 1999 (B.O.C. nº
 148, de 8 de diciembre), de la Consejería de
 Educación, Cultura y Deportes, por la que se regulan
 distintos aspectos del funcionamiento de los Centros
-de Educación de Personas Adultas públicos, pre-
-senciales y a distancia, dependientes de la misma,
+de Educación de Personas Adultas públicos, presenciales y a distancia, dependientes de la misma,
 establece el personal formador de dichos centros.
 La Orden de 10 de junio de 2002 (B.O.C. nº 88,
-de 28 de junio), por la que se normalizan las de-
-nominaciones genéricas y se hace público el directorio
-de los centros docentes públicos y privados, que es-
-colarizan alumnado en enseñanzas no universita-
-rias en el curso 2001/2002 en la Comunidad
+de 28 de junio), por la que se normalizan las denominaciones genéricas y se hace público el directorio
+de los centros docentes públicos y privados, que escolarizan alumnado en enseñanzas no universitarias en el curso 2001/2002 en la Comunidad
 Autónoma de Canarias, modifica la denominación
 de los Centros de Educación de Adultos (C.E.A.)
 y de los Institutos de Bachilleratos a distancia
 (I.B.A.D.) y los transforma en Centros de Educación
 de Personas Adultas (C.E.P.A.) y Centros de
-Educación a distancia (C.E.A.D.), respectivamen-
-te.
+Educación a distancia (C.E.A.D.), respectivamente.
 La especial estructura y organización de la
 Educación de Personas Adultas requiere la participación
-de profesorado que realiza sus tareas en horas ex-
-traordinarias una vez cumplida su jornada laboral,
-con la finalidad de facilitar la igualdad de oportu-
-nidades en el acceso a la formación y el desarrollo
-de las distintas ofertas formativas. Con el fin de con-
-cretar el desarrollo de estas actividades, y lo pre-
-visto en el Decreto 305/1991, de 29 de noviembre,
+de profesorado que realiza sus tareas en horas extraordinarias una vez cumplida su jornada laboral,
+con la finalidad de facilitar la igualdad de oportunidades en el acceso a la formación y el desarrollo
+de las distintas ofertas formativas. Con el fin de concretar el desarrollo de estas actividades, y lo previsto en el Decreto 305/1991, de 29 de noviembre,
 por el que se aprueba el Reglamento Orgánico de
 la Consejería de Educación, Cultura y Deportes
 (B.O.C. nº 161, de 9 de diciembre), esta Dirección
 General resuelve dictar las siguientes instrucciones
 para la realización de horas lectivas extraordinarias:
 1. Aspectos organizativos generales.
-1.1. La realización de horas lectivas extraordi-
-narias en los centros que desarrollan ofertas de
-Educación de Personas Adultas ha de tener un ca-
-rácter excepcional y complementario a la actuación
+1.1. La realización de horas lectivas extraordinarias en los centros que desarrollan ofertas de
+Educación de Personas Adultas ha de tener un carácter excepcional y complementario a la actuación
 del profesorado con destino en el centro a tiempo
 completo.
 1.2. La Dirección General de Promoción Educativa
@@ -112,112 +105,69 @@ Educación de Personas Adultas, las propuestas de
 Formación Básica y, dentro de ésta, las de Formación
 Instrumental y las de menor nivel formativo. 
 Todos los centros acompañarán con un informe
-justificativo la petición de horas lectivas extraor-
-dinarias para actividades no regladas de Formación
+justificativo la petición de horas lectivas extraordinarias para actividades no regladas de Formación
 orientada al empleo y sociocultural no incluidas en
 la Formación Básica.
-1.3. Las retribuciones que percibirá el profeso-
-rado serán las que figuran en el artículo cuarto del
+1.3. Las retribuciones que percibirá el profesorado serán las que figuran en el artículo cuarto del
 citado Decreto 140/1996.
 1.4. Solamente podrá desarrollar actividades de
-Educación de Personas Adultas en régimen de ho-
-ras lectivas extraordinarias el profesorado que fi-
-gure en la nómina de personal docente de la
+Educación de Personas Adultas en régimen de horas lectivas extraordinarias el profesorado que figure en la nómina de personal docente de la
 Consejería de Educación, Cultura y Deportes, que
-tenga nombramiento para el curso escolar en cen-
-tros públicos y esté en activo, independientemen-
-te de su situación administrativa (funcionarios de
+tenga nombramiento para el curso escolar en centros públicos y esté en activo, independientemente de su situación administrativa (funcionarios de
 carrera, interinos o sustitutos).
-1.5. Para la realización de las horas lectivas ex-
-traordinarias es condición indispensable que el cen-
-tro de destino de cada profesor certifique que cum-
-ple totalmente la jornada laboral en el mismo. Por
+1.5. Para la realización de las horas lectivas extraordinarias es condición indispensable que el centro de destino de cada profesor certifique que cumple totalmente la jornada laboral en el mismo. Por
 ello, los centros no aceptarán propuestas de horas
 lectivas extraordinarias de personal docente que
 se encuentre en situación de servicio especial que
-implique una actividad no relacionada con la fun-
-ción docente habitual.
+implique una actividad no relacionada con la función docente habitual.
 
 1.6. En el caso del profesorado de Centros de
-Educación de Personas Adultas que vaya a reali-
-zar horas lectivas extraordinarias, éstas sólo podrán
+Educación de Personas Adultas que vaya a realizar horas lectivas extraordinarias, éstas sólo podrán
 realizarse al inicio o final de su jornada laboral, o
 en un turno diferente al de su horario de trabajo en
 el Centro.
-1.7. El Equipo Directivo del centro desestima-
-rá la solicitud de aquellos profesores que, de acuer-
-do con la información derivada del seguimiento y
-coordinación de la actividad desarrollada en cur-
-sos anteriores, no hayan desempeñado satisfacto-
-riamente su función o bien hayan renunciado a la
-impartición de las horas lectivas sin causa justifi-
-cada.
-1.8. El control del cumplimiento de las horas lec-
-tivas extraordinarias y su seguimiento pedagógico
+1.7. El Equipo Directivo del centro desestimará la solicitud de aquellos profesores que, de acuerdo con la información derivada del seguimiento y
+coordinación de la actividad desarrollada en cursos anteriores, no hayan desempeñado satisfactoriamente su función o bien hayan renunciado a la
+impartición de las horas lectivas sin causa justificada.
+1.8. El control del cumplimiento de las horas lectivas extraordinarias y su seguimiento pedagógico
 será responsabilidad del Equipo Directivo de cada
 centro, que arbitrará las medidas organizativas que
 estime oportunas para ello.
 1.9. En las unidades de actuación de Centros de
-Educación de Personas Adultas en las que, por cir-
-cunstancias organizativas, sólo existiese o fuese
+Educación de Personas Adultas en las que, por circunstancias organizativas, sólo existiese o fuese
 mayoritario el profesorado en régimen de horas
 lectivas extraordinarias, el Equipo Directivo del
 centro garantizará que el profesorado con destino
 en el mismo se encargue de su coordinación.
 1.10. La Inspección de Educación velará por el
-cumplimiento de lo dispuesto en la presente Reso-
-lución, comunicando a la Dirección General de
-Promoción Educativa aquellas circunstancias o si-
-tuaciones que con respecto a la planificación y rea-
-lización de esta actividad considere oportuno.
-2. Aspectos organizativos relativos al profeso-
-rado.
-2.1. El número máximo de horas por curso y pro-
-fesor será de trescientas veinte, a razón de un má-
-ximo de diez horas semanales. 
-No obstante, se considera conveniente que, sal-
-vo excepciones, no se sobrepase las cinco horas se-
-manales de atención directa al alumnado por cada
-profesor, adaptándose su distribución a las necesi-
-dades del centro. 
-Las horas podrán realizarse bien a lo largo de to-
-do el curso o por períodos de tiempo a lo largo del
+cumplimiento de lo dispuesto en la presente Resolución, comunicando a la Dirección General de
+Promoción Educativa aquellas circunstancias o situaciones que con respecto a la planificación y realización de esta actividad considere oportuno.
+2. Aspectos organizativos relativos al profesorado.
+2.1. El número máximo de horas por curso y profesor será de trescientas veinte, a razón de un máximo de diez horas semanales. 
+No obstante, se considera conveniente que, salvo excepciones, no se sobrepase las cinco horas semanales de atención directa al alumnado por cada
+profesor, adaptándose su distribución a las necesidades del centro. 
+Las horas podrán realizarse bien a lo largo de todo el curso o por períodos de tiempo a lo largo del
 mismo (mensual, trimestral, cuatrimestral, etc.),
 de acuerdo con las necesidades organizativas del
 centro.
 2.2. La Dirección General de Promoción Educativa
 fijará el total de horas lectivas extraordinarias que
-corresponde a cada centro. Aquellos centros que ne-
-cesiten una mayor asignación horaria, realizarán un
+corresponde a cada centro. Aquellos centros que necesiten una mayor asignación horaria, realizarán un
 informe justificativo de dicha necesidad el cual
 deberá venir con el visto bueno de la Inspección de
 zona.
-2.3. La realización de horas lectivas extraordi-
-narias se destinará a funciones de docencia direc-
-ta, salvo lo establecido en los apartados 2.4 y 2.5,
+2.3. La realización de horas lectivas extraordinarias se destinará a funciones de docencia directa, salvo lo establecido en los apartados 2.4 y 2.5,
 dedicándose como máximo un diez por ciento del
-total de las destinadas a docencia directa la reali-
-zación de otras tareas propias de la función docente
-(coordinación, preparación de materiales, correc-
-ción de trabajos, etc.).
+total de las destinadas a docencia directa la realización de otras tareas propias de la función docente
+(coordinación, preparación de materiales, corrección de trabajos, etc.).
 A lo largo del curso la Jefatura de Estudios del
-centro establecerá, como mínimo, una reunión tri-
-mestral con el profesorado en horas lectivas ex-
-traordinarias para su coordinación.
-2.4. La propuesta de horas lectivas extraordina-
-rias destinadas exclusivamente a tareas de coordi-
-nación y gestión en los Centros de Educación de
+centro establecerá, como mínimo, una reunión trimestral con el profesorado en horas lectivas extraordinarias para su coordinación.
+2.4. La propuesta de horas lectivas extraordinarias destinadas exclusivamente a tareas de coordinación y gestión en los Centros de Educación de
 Personas Adultas tendrá un carácter excepcional,
-teniendo que aportar el centro que la solicite un in-
-forme justificativo junto con el anexo IV. En cual-
-quier caso, la propuesta para este tipo de tareas no
+teniendo que aportar el centro que la solicite un informe justificativo junto con el anexo IV. En cualquier caso, la propuesta para este tipo de tareas no
 sobrepasará las 75 horas por curso y profesor.
-2.5. La propuesta de horas lectivas extraordina-
-rias destinadas a tareas de preparación de materia-
-les, coordinación y gestión de proyectos promovi-
-dos por la Dirección General de Promoción Educativa
-estará sujeta a los máximos establecidos en el pun-
-to 2.1 y su tramitación administrativa se realizará
+2.5. La propuesta de horas lectivas extraordinarias destinadas a tareas de preparación de materiales, coordinación y gestión de proyectos promovidos por la Dirección General de Promoción Educativa
+estará sujeta a los máximos establecidos en el punto 2.1 y su tramitación administrativa se realizará
 desde el centro donde se desarrolle la actividad.
 2.6. El profesor que desarrolle horas lectivas
 extraordinarias en más de un centro está obligado
@@ -233,83 +183,52 @@ las imparte, salvo que circunstancias organizativas
 del centro hiciesen necesaria su modificación. 
 3. Tramitación administrativa.
 3.1. Los Centros, oído el Claustro y aprobada por
-el Consejo Escolar, enviarán la propuesta de pro-
-fesorado en horas lectivas extraordinarias para to-
-do el curso escolar en en el anexo III a la Dirección
-General de Promoción Educativa, para su autori-
-zación previa antes del 31 de octubre de cada cur-
-so escolar, que será imprescindible para la cum-
-plimentación de la solicitud y declaración individual
+el Consejo Escolar, enviarán la propuesta de profesorado en horas lectivas extraordinarias para todo el curso escolar en en el anexo III a la Dirección
+General de Promoción Educativa, para su autorización previa antes del 31 de octubre de cada curso escolar, que será imprescindible para la cumplimentación de la solicitud y declaración individual
 de horarios de cada profesor en el impreso establecido
 a tal efecto.
-De no mediar reparo, dicha propuesta se consi-
-derará autorizada provisionalmente una vez trans-
-curridos quince días hábiles a partir del siguiente
+De no mediar reparo, dicha propuesta se considerará autorizada provisionalmente una vez transcurridos quince días hábiles a partir del siguiente
 de la fecha de entrega.
 3.2. La solicitud individual de cada profesor se
 remitirá a la Dirección General de Promoción
-Educativa por cada centro antes del 10 de diciem-
-bre de cada curso escolar, adjuntando un oficio
+Educativa por cada centro antes del 10 de diciembre de cada curso escolar, adjuntando un oficio
 con la relación del profesorado. 
 La Dirección General de Promoción Educativa
 podrá modificar el número de horas solicitadas en
-los casos que lo estime conveniente, una vez estu-
-diados los horarios y la autorización provisional,
-comunicando esta circunstancia al centro que re-
-mite la solicitud.
+los casos que lo estime conveniente, una vez estudiados los horarios y la autorización provisional,
+comunicando esta circunstancia al centro que remite la solicitud.
 Cada centro comprobará especialmente, antes de
 su remisión, que los datos relativos al número de
 identificación fiscal y número de registro personal
-de cada profesor coincidan con los que tiene asig-
-nados en la actualidad.
-Una copia de esta solicitud se entregará al inte-
-resado y se dejará constancia en otra copia del mis-
-mo de su recepción y fecha de ésta.
+de cada profesor coincidan con los que tiene asignados en la actualidad.
+Una copia de esta solicitud se entregará al interesado y se dejará constancia en otra copia del mismo de su recepción y fecha de ésta.
 3.3. La certificación por parte de cada centro de
 las horas lectivas extraordinarias realizadas por el
-profesorado se realizará en dos momentos del cur-
-so escolar mediante los anexos I y II.
-El anexo I se enviará antes del 15 de abril de ca-
-da curso escolar, como fecha límite, a la Dirección
-General de Promoción Educativa reflejando las ho-
-ras impartidas desde el comienzo de la actividad has-
-ta el 31 de marzo. 
-El anexo II se enviará, antes del 5 de julio de ca-
-da curso escolar, como fecha límite, reflejando en
+profesorado se realizará en dos momentos del curso escolar mediante los anexos I y II.
+El anexo I se enviará antes del 15 de abril de cada curso escolar, como fecha límite, a la Dirección
+General de Promoción Educativa reflejando las horas impartidas desde el comienzo de la actividad hasta el 31 de marzo. 
+El anexo II se enviará, antes del 5 de julio de cada curso escolar, como fecha límite, reflejando en
 el mismo el número de horas efectivas realizadas
 desde el 1 de abril hasta el 30 de junio.
 La suma de las horas reflejadas en los anexos I
-y II ha de ser igual al total de horas que vaya a rea-
-lizar cada profesor/a, o al que resulte de conside-
-rar las modificaciones presentadas por el centro
+y II ha de ser igual al total de horas que vaya a realizar cada profesor/a, o al que resulte de considerar las modificaciones presentadas por el centro
 con respecto a dicho total.
 Para las actividades realizadas después del mes
 de junio, el centro enviará un anexo similar a los
-anteriores que abarcará el período desde el 1 de ju-
-lio hasta el 15 de noviembre, teniendo como fecha
-límite para su remisión los tres días hábiles poste-
-riores a esta última fecha.
+anteriores que abarcará el período desde el 1 de julio hasta el 15 de noviembre, teniendo como fecha
+límite para su remisión los tres días hábiles posteriores a esta última fecha.
 3.4. En el caso que se produzca un incumplimiento
-(baja, inasistencia, etc.), variación de las condi-
-ciones establecidas (aumento o disminución de ho-
-ras) o bien si se suspendiese la actividad que
+(baja, inasistencia, etc.), variación de las condiciones establecidas (aumento o disminución de horas) o bien si se suspendiese la actividad que
 desarrolla, el centro lo comunicará, con la mayor
 brevedad posible, a la Dirección General de Promoción
 Educativa en el impreso establecido a tal efecto.
-Una copia de este impreso se entregará al inte-
-resado y se dejará constancia en otra copia del mis-
-mo de su recepción y fecha de ésta.
-3.5. La petición de horas lectivas extraordina-
-rias que no se haya incluido en la petición de co-
-mienzo de curso, y que respondan a la necesidad
-de atender a demandas imprevistas, se tramitará ad-
-ministrativamente de acuerdo con el procedimien-
-to establecido en este apartado tercero, estando en
+Una copia de este impreso se entregará al interesado y se dejará constancia en otra copia del mismo de su recepción y fecha de ésta.
+3.5. La petición de horas lectivas extraordinarias que no se haya incluido en la petición de comienzo de curso, y que respondan a la necesidad
+de atender a demandas imprevistas, se tramitará administrativamente de acuerdo con el procedimiento establecido en este apartado tercero, estando en
 cualquier caso sometida a la autorización provisional
 de la Dirección General de Promoción Educativa. 
 Corresponde a la Dirección General de Promoción
-Educativa la interpretación de lo dispuesto en la pre-
-sente Resolución.
+Educativa la interpretación de lo dispuesto en la presente Resolución.
 Las Palmas de Gran Canaria, a 14 de octubre de
 2002.- La Directora General de Promoción Educativa,
 Isabel de Luis Lorenzo.

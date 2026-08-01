@@ -26,6 +26,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -55,7 +59,7 @@ Anterior
 Siguiente
 III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
 1219 - Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 14 de julio de 2004, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
-Descargar en formato pdf
+
 El Aula Mentor es un sistema de formación abierta, libre y a distancia a través de Internet, que se oferta en algunos centros de personas adultas de Canarias, a través de un convenio de colaboración entre la Consejería de Educación, Cultura y Deportes y el Centro Nacional de Información Educativa del Ministerio de Educación y Ciencia (CNICE). Este sistema garantiza una gran flexibilidad en el aprendizaje y una atención directa y cercana al estudiante; cuenta con un profesor-tutor que le orienta en el aprendizaje y un administrador que le ayuda en los aspectos formales del desarrollo del curso y en la gestión para la adquisición del material.
 Desde que las Aulas Mentor fueron implantadas en esta Consejería, las características de este tipo de formación y las de la enseñanza a distancia, así como el avance en la apertura de nuevas aulas en esta Comunidad Autónoma, hace conveniente la revisión de las normas de funcionamiento en los centros que tienen incorporada a su oferta educativa esta modalidad de enseñanza a distancia.
 La singularidad que supone la educación de personas adultas a distancia, y el hecho de que se trata de una oferta educativa que se desarrolla por igual en otras Comunidades Autónomas, hace necesario homogeneizar con el resto del Estado un conjunto de normas y acuerdos para el desarrollo de este sistema de teleformación.

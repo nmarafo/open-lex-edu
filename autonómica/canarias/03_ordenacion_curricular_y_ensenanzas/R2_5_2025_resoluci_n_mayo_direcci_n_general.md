@@ -34,8 +34,12 @@ relaciones:
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2026-141-29
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -571,13 +575,10 @@ Asistencia Turísticas
 1 1709 Itinerario personal para la empleabilidad I 
 Familia profesional de Informática y Comunicación
 Curso Código Módulos profesionales comunes Ciclos formativos
-1 0373 Lenguajes de marcas y sistemas de gestión de infor-
-mación*
-1º CFGS Desarrollo de Aplicacio-
-nes de Multiplataforma
+1 0373 Lenguajes de marcas y sistemas de gestión de información*
+1º CFGS Desarrollo de Aplicaciones de Multiplataforma
 y
-1º CFGS Desarrollo de Aplicacio-
-nes Web
+1º CFGS Desarrollo de Aplicaciones Web
 1 0483 Sistemas informáticos*
 1 0484 Base de datos*
 1 0485 Programación*
@@ -598,13 +599,10 @@ Asistencia Turísticas
 1 1709 Itinerario personal para la empleabilidad I 
 Familia profesional de Informática y Comunicación
 Curso Código Módulos profesionales comunes Ciclos formativos
-1 0373 Lenguajes de marcas y sistemas de gestión de infor-
-mación*
-1º CFGS Desarrollo de Aplicacio-
-nes de Multiplataforma
+1 0373 Lenguajes de marcas y sistemas de gestión de información*
+1º CFGS Desarrollo de Aplicaciones de Multiplataforma
 y
-1º CFGS Desarrollo de Aplicacio-
-nes Web
+1º CFGS Desarrollo de Aplicaciones Web
 1 0483 Sistemas informáticos*
 1 0484 Base de datos*
 1 0485 Programación*

@@ -31,6 +31,10 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-rd-217-2022
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -219,8 +223,7 @@ APÉNDICE I
 Expediente académico
 EXPEDIENTE ACADÉMICO
 EDUCACIÓN BÁSICA DE PERSONAS ADULTAS foto• [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la ESO
-• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que in-
-tegran la EBPA en la comunidad autónoma de Canarias
+• Orden de 20 de octubre de 2022, por la que se regulan la oferta educativa y la evaluación de las enseñanzas que integran la EBPA en la comunidad autónoma de Canarias
 CURSO ACADÉMICO
 Expediente n.º
 Fecha de ingreso
@@ -249,8 +252,7 @@ Correo electrónico
 APÉNDICE I
 EXPEDIENTE ACADÉMICO
 
-REGISTRO DE LA V ALORACIÓN INICIAL DE LOS APRENDIZAJES CON PROPUESTA DE ADS-
-CRIPCIÓN (se adjuntan a este expediente los apéndices VI.B, VI.C y, en su caso, VI.A de la Valoración 
+REGISTRO DE LA V ALORACIÓN INICIAL DE LOS APRENDIZAJES CON PROPUESTA DE ADSCRIPCIÓN (se adjuntan a este expediente los apéndices VI.B, VI.C y, en su caso, VI.A de la Valoración 
 Inicial de Aprendizajes - VIA)
 Centro Código
 Fecha
@@ -275,8 +277,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -295,8 +296,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -306,8 +306,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -327,8 +326,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -347,8 +345,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -358,8 +355,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -379,8 +375,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -393,8 +388,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -404,8 +398,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -416,8 +409,7 @@ Indicar fecha y persona responsable de cada anotación
 FECHA Y LUGAR
 V .º B.º
 El director/La directora El secretario/La secretaria
-(sello del cen-
-tro)
+(sello del centro)
 Fdo.: Fdo.: 
 PERIODO FORMATIVO ESPA CURSO
 
@@ -482,16 +474,14 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 NOTA MEDIA DE LA EIPA(2)
 (1) Cumplimentar solo si se ha superado. SU(5), BI(6), NT(7 u 8), SB(9 o 10)
-(2) Cumplimentar solo si se ha cursado y superado la EIPA. La nota media será la media aritmética de las calificaciones numéricas obteni-
-das en cada uno de los ámbitos del nivel II redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
+(2) Cumplimentar solo si se ha cursado y superado la EIPA. La nota media será la media aritmética de las calificaciones numéricas obtenidas en cada uno de los ámbitos del nivel II redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
 EDUCACIÓN SECUNDARIA PARA PERSONAS ADULTAS (ESPA)
 Nivel Ámbito Calificación(1)
@@ -502,8 +492,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -513,8 +502,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -534,8 +522,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -543,8 +530,7 @@ Módulo 4. ASO
 (1) Calificación: IN(1,2,3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
 
 Tecnológico Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -554,15 +540,13 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 (1) Calificación: IN(1,2,3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
-Los datos aquí reflejados corresponden fielmente a los del expediente académico que se custodia en la Secreta-
-ría del centro.
+Los datos aquí reflejados corresponden fielmente a los del expediente académico que se custodia en la Secretaría del centro.
 FECHA Y LUGAR
 V .º B.º
 El director/La directora El secretario/La secretaria
@@ -616,8 +600,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -633,8 +616,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -644,8 +626,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -991,8 +972,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -1060,8 +1040,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -1071,8 +1050,7 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
@@ -1141,16 +1119,14 @@ ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 NOTA MEDIA DE LA EIPA(2)
 (1) Calificación: IN(1, 2, 3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
-(2) La nota media de la EIPA será la media aritmética de las calificaciones numéricas obtenidas en cada uno de los ámbitos del nivel II re-
-dondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
+(2) La nota media de la EIPA será la media aritmética de las calificaciones numéricas obtenidas en cada uno de los ámbitos del nivel II redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 FECHA Y LUGAR
 V .º B.º
 El director/La directora El secretario/La secretaria
@@ -1186,8 +1162,7 @@ ACT_I. Ámbito Científico
 Tecnológico
 Módulo 1. ACT
 Módulo 2. ACT
-ACO_I. Ámbito de Conoci-
-miento
+ACO_I. Ámbito de Conocimiento
 Módulo 1. ACO
 Módulo 2. ACO
 ASO_I. Ámbito Social Módulo 1. ASO
@@ -1196,16 +1171,14 @@ Nivel II ACT_II. Ámbito Científico
 Tecnológico
 Módulo 3. ACT
 Módulo 4. ACT
-ACO_II. Ámbito de Conoci-
-miento
+ACO_II. Ámbito de Conocimiento
 Módulo 3. ACO
 Módulo 4. ACO
 ASO_II. Ámbito Social Módulo 3. ASO
 Módulo 4. ASO
 NOTA MEDIA DE LA ESPA(2)
 (1) Calificación: IN(1, 2, 3 o 4), SU(5), BI(6), NT(7 u 8), SB(9 o 10)
-(2) La nota media de la ESPA será la media aritmética de las calificaciones numéricas obtenidas en cada uno de los ámbitos, de los dos nive-
-les, redondeada a la centésima más próxima y en caso de equidistancia a la superior
+(2) La nota media de la ESPA será la media aritmética de las calificaciones numéricas obtenidas en cada uno de los ámbitos, de los dos niveles, redondeada a la centésima más próxima y en caso de equidistancia a la superior
 FECHA Y LUGAR
 V.º B.º
 El director/La directora El secretario/La secretaria

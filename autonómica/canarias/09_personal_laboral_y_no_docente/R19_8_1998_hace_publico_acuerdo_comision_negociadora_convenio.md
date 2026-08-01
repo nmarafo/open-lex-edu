@@ -26,6 +26,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -55,7 +59,7 @@ Anterior
 Siguiente
 IV. ANUNCIOS - Otros anuncios - Consejería de Empleo y Asuntos Sociales
 3720 - Dirección General de Trabajo.- Anuncio de 19 de agosto de 1998, por el que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias de 6 de abril de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de Educación, Cultura y Deportes.
-Descargar en formato pdf
+
 Visto el escrito de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma Canaria, adopta, en sesión celebrada el 6 de abril de 1998, el Acuerdo relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de Educación, Cultura y Deportes, y de conformidad con lo previsto en el Estatuto de los Trabajadores, esta Dirección General
 ACUERDA:
 Primero: ordenar su inscripción en el Registro Oficial de Acuerdos, con notificación a la Comisión Negociadora.

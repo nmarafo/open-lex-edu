@@ -42,6 +42,8 @@ relaciones:
   - norma_id: norm-can-res-boc-2020-236-82
   - norma_id: norm-can-res-boc-2024-226-44
   - norma_id: norm-can-res-boc-2026-060-61
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -194,33 +196,22 @@ y cursos inferiores
 Escuelas Oficiales de Idiomas
 RD 1041/20172 Certificado de nivel básico
 (A2)
-Certificado de nivel inter-
-medio (B1)
-Certificado de nivel inter-
-medio (B2)
-Certificado de nivel avan-
-zado (C1)
+Certificado de nivel intermedio (B1)
+Certificado de nivel intermedio (B2)
+Certificado de nivel avanzado (C1)
 RD 1629/20063 Certificado de nivel básico
 (A2)
-Certificado de nivel inter-
-medio (B1)
-Certificado de nivel avan-
-zado (B2) Certificado de nivel C1
-RD 967/19884 --- Certificado de Ciclo Ele-
-mental Certificado de Aptitud ---
+Certificado de nivel intermedio (B1)
+Certificado de nivel avanzado (B2) Certificado de nivel C1
+RD 967/19884 --- Certificado de Ciclo Elemental Certificado de Aptitud ---
 UNED Certificado de nivel básico
 (CUID)
-Certificado de nivel inter-
-medio (CUID)
-Certificado de nivel avan-
-zado (CUID) ---
-ACLES (Asociación de Centros de Lenguas en la Ense-
-ñanza Superior) CertAcles A2 CertAcles B1 CertAcles B2 CertAcles C1
+Certificado de nivel intermedio (CUID)
+Certificado de nivel avanzado (CUID) ---
+ACLES (Asociación de Centros de Lenguas en la Enseñanza Superior) CertAcles A2 CertAcles B1 CertAcles B2 CertAcles C1
 1 Orden de 11 de abril de 2018 por la que se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de septiembre de 2016 de la Consejería de Educación y Universidades,  por la que se regula
 el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canarias (BOC núm. 76, de 19 de abril de 2018).
-2 Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avan-
-zado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de ré-
-gimen especial reguladas en diversos planes de estudios y las de este real decreto (BOE núm. 311, de 23 de diciembre de 2017).
+2 Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y se establecen las equivalencias entre las Enseñanzas de idiomas de régimen especial reguladas en diversos planes de estudios y las de este real decreto (BOE núm. 311, de 23 de diciembre de 2017).
 3 Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación
 (BOE núm. 4, de 4 de enero de 2007).
 4 Real Decreto 967/1988, de 2 de septiembre, sobre Ordenación de las Enseñanzas correspondientes al primer nivel de las enseñanzas especializadas de idiomas (BOE núm. 218, de 10 de septiembre de 1988).
@@ -245,10 +236,8 @@ y cursos inferiores
 Acceso a C2 
 y cursos inferiores
 Goethe Institut Goethe-Zertifikat A2 Goethe-Zertifikat B1 Goethe-Zertifikat B2 Goethe-Zertifikat C1
-GAST (Gesellschaft für Akademische Studienvorberei-
-tung und Testentwicklung) --- --- TestDaF nivel 4 TestDaF nivel 5
-Deustche Sprachprüfung für den Houchschul-
-Zugang (DSH) --- --- DSH-1 DSH-2
+GAST (Gesellschaft für Akademische Studienvorbereitung und Testentwicklung) --- --- TestDaF nivel 4 TestDaF nivel 5
+Deustche Sprachprüfung für den HouchschulZugang (DSH) --- --- DSH-1 DSH-2
  Kultusministerkonferenz
 (Deutsches Sprachdiplom) --- ---
 Deutsches Sprachdiplom
@@ -256,19 +245,15 @@ Puntuación mínima en cada
 destreza:
 Leseverstehen: B2
 Hörverstehen: B2
- Schriftliche Kommunika-
-tion: B2
-Mündliche Kommunika-
-tion: B2
+ Schriftliche Kommunikation: B2
+Mündliche Kommunikation: B2
 Deutsches Sprachdiplom
 Puntuación mínima en cada
 destreza:
 Leseverstehen: C1
 Hörverstehen: C1
- Schriftliche Kommunika-
-tion: C1
-Mündliche Kommunika-
-tion: C1
+ Schriftliche Kommunikation: C1
+Mündliche Kommunikation: C1
 Österreichisches Sprachdiplom Deutsch
 (ÖSD)
 A2 Grundstufe Deutsch 2 B1 Zertifikat Deutsch (ZD)  Mittelstufe Deutsch (MD) Oberstufe Deutsch (OD)
@@ -346,12 +331,9 @@ Acceso a C2
 y cursos inferiores
 Ministerio de Educación de Francia –
 CIEP (Centre International d’Études Pédagogiques)
-Diplôme d’Études en Lan-
-gue Française DELF A2
-Diplôme d’Études en Lan-
-gue Française DELF B1
-Diplôme d’Études en Lan-
-gue Française DELF B2
+Diplôme d’Études en Langue Française DELF A2
+Diplôme d’Études en Langue Française DELF B1
+Diplôme d’Études en Langue Française DELF B2
 Diplôme Approfondi de
 Langue Française DALF
 C1
@@ -364,8 +346,7 @@ en Francais Practique
 (CEFP 2)
 Diplôme de Langue
 Française (DL)
-Diplôme Supérieur d’Étu-
-des Françaises Modernes
+Diplôme Supérieur d’Études Françaises Modernes
 (DS)
 3/6
 Este documento ha sido firmado electrónicamente por:
@@ -421,22 +402,19 @@ PTE General Level 4
 PTE Academic 76 a 84
 University of Oxford
 Oxford Test of English -
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Speaking: 51
 Listening: 51
 Reading: 51
 Writing: 51
 Oxford Test of English -
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Speaking: 81
 Listening: 81
 Reading: 81
 Writing: 81
 Oxford Test of English -
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Speaking: 111
 Listening: 111
 Reading: 111
@@ -444,22 +422,19 @@ Writing: 111
 ---
 British Council
 APTIS 4-Skills
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Listening: A2
 Reading: A2
 Speaking: A2
 Writing: A2
 APTIS 4-Skills
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Listening: B1
 Reading: B1
 Speaking: B1
 Writing: B1
 APTIS 4-Skills
-Puntuación mínima en cada des-
-treza:
+Puntuación mínima en cada destreza:
 Listening: B2
 Reading: B2
 Speaking: B2
@@ -495,8 +470,7 @@ Diploma Elementar de Por-
 tuguês Língua Estrangeira 
 DEPLE
 Diploma Intermédio de
-Português Língua Estran-
-geira
+Português Língua Estrangeira
 DIPLE
 Diploma Avançado de Por-
 tuguês Língua Estrangeira 
@@ -555,24 +529,19 @@ Acceso a C2
 y cursos inferiores
 Università per Stranieri di Perugia
 Certificato di Conoscenza
-della Lingua Italiana, Live-
-llo
+della Lingua Italiana, Livello
 (CELI 1 - A2)
 Certificato di Conoscenza
-della Lingua Italiana, Live-
-llo 2
+della Lingua Italiana, Livello 2
 (CELI 2- B1)
 Certificato di Conoscenza
-della Lingua Italiana, Live-
-llo 3 
+della Lingua Italiana, Livello 3 
 (CELI 3 - B2)
 Certificato di Conoscenza
-della Lingua Italiana, Live-
-llo 4 
+della Lingua Italiana, Livello 4 
 (CELI 4 - C1)
 Progetto Lingua Italiana Dante Alighieri (PLIDA) PLIDA A2 PLIDA B1 PLIDA B2 PLIDA C1
-Università per Stranieri di Siena (UNISTRASI): Certifi-
-cazione di Italiano come Lingua Straniera (CILS) CILS A2 CILS UNO - B1 CILS DUE – B2 CILS TRE – C1
+Università per Stranieri di Siena (UNISTRASI): Certificazione di Italiano come Lingua Straniera (CILS) CILS A2 CILS UNO - B1 CILS DUE – B2 CILS TRE – C1
 5/6
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 26/03/2019 - 09:56:58

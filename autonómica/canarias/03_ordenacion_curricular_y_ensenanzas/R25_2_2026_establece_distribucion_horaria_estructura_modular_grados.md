@@ -27,6 +27,7 @@ relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
@@ -43,6 +44,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-es-2025-2039
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-032
   - norma_id: norm-can-res-034

@@ -44,6 +44,18 @@ relaciones:
   fundamento_de:
   - norma_id: norm-es-2026-2622
   - norma_id: norm-es-lo-10-2022
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-135
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-d-114-2011
+  desarrollado_por:
+  - norma_id: norm-can-res-125
+  - norma_id: norm-can-res-096
+  - norma_id: norm-can-l-16-2003
+  - norma_id: norm-can-res-boc-2018-124-126
+  - norma_id: norm-can-d-114-2011
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -63,17 +75,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)
 
 **FELIPE VI**

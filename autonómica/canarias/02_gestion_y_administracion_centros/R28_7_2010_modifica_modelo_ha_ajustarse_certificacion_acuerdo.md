@@ -29,6 +29,11 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-rd-2377-1985
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -47,102 +52,62 @@ Cultura y Deportes
 4691 Dirección General de Promoción Educativa.-
 Resolución de 28 de julio de 2010, por la que
 se modifica el modelo al que ha de ajustarse
-la certificación del acuerdo del Consejo Es-
-colar de los centros privados concertados, en
-relación a la justificación de las cantidades re-
-cibidas en concepto de “otros gastos”.
-Examinado el procedimiento tramitado en esta Di-
-rección General de Promoción Educativa relativo a la
-modificación del modelo al que ha de ajustarse la certi-
-ficación del acuerdo de los Consejos Escolares de los
-centros privados concertados, en relación a la justifica-
-ción de las cantidades recibidas en concepto de “otros
+la certificación del acuerdo del Consejo Escolar de los centros privados concertados, en
+relación a la justificación de las cantidades recibidas en concepto de “otros gastos”.
+Examinado el procedimiento tramitado en esta Dirección General de Promoción Educativa relativo a la
+modificación del modelo al que ha de ajustarse la certificación del acuerdo de los Consejos Escolares de los
+centros privados concertados, en relación a la justificación de las cantidades recibidas en concepto de “otros
 gastos”, y de acuerdo con los siguientes 
 ANTECEDENTES DE HECHO
-Primero.- Por Orden de la Consejería de Educa-
-ción, Cultura y Deportes de 31 de diciembre de 1990
+Primero.- Por Orden de la Consejería de Educación, Cultura y Deportes de 31 de diciembre de 1990
 (BOC nº 16, de 6.2.91), se reguló el procedimiento
 de justificación de las cantidades que en concepto de
-“otros gastos” perciben los centros privados concer-
-tados de Canarias, atribuyéndose a esta Dirección Ge-
-neral, en su disposición adicional, facultades para dic-
-tar las instrucciones precisas para el desarrollo y
+“otros gastos” perciben los centros privados concertados de Canarias, atribuyéndose a esta Dirección General, en su disposición adicional, facultades para dictar las instrucciones precisas para el desarrollo y
 aplicación de la misma.
 Segundo.- En virtud de la delegación atribuida en
 la disposición adicional de la mencionada Orden de
 31 de diciembre de 1990, se dictó, por esta Dirección
 General, la Resolución de 10 de julio de 1995, por
 la que se aprueba el modelo al que han de ajustarse
-las certificaciones acreditativas de los acuerdos adop-
-tados por los Consejos Escolares de centros concer-
-tados en relación con la justificación de los gastos rea-
-lizados con cargo a las cantidades recibidas de esta
+las certificaciones acreditativas de los acuerdos adoptados por los Consejos Escolares de centros concertados en relación con la justificación de los gastos realizados con cargo a las cantidades recibidas de esta
 Consejería (BOC nº 106, de 14.8.95).
-Tercero.- Se hace necesario, sin embargo, modi-
-ficar y simplificar el modelo aprobado en la mencio-
-nada Resolución, de tal manera que los centros pri-
-vados concertados puedan justificar las cantidades
-recibidas por todos los niveles educativos en un úni-
-co impreso, con un único certificado del Consejo
+Tercero.- Se hace necesario, sin embargo, modificar y simplificar el modelo aprobado en la mencionada Resolución, de tal manera que los centros privados concertados puedan justificar las cantidades
+recibidas por todos los niveles educativos en un único impreso, con un único certificado del Consejo
 Escolar. 
 FUNDAMENTOS DE DERECHO
 Primero.- El artículo 40 del [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md),
-de 18 de diciembre, por el que se aprueba el Regla-
-mento de Normas Básicas sobre Conciertos Educa-
-tivos (BOE nº 310, de 27.12.85), que establece lo
+de 18 de diciembre, por el que se aprueba el Reglamento de Normas Básicas sobre Conciertos Educativos (BOE nº 310, de 27.12.85), que establece lo
 siguiente:
 “Las cantidades abonadas por la Administración
-para los otros gastos del centro concertado se justi-
-ficarán, al final de cada curso escolar, mediante apor-
-tación por el titular de la certificación del acuerdo del
+para los otros gastos del centro concertado se justificarán, al final de cada curso escolar, mediante aportación por el titular de la certificación del acuerdo del
 Consejo Escolar aprobatorio de las cuentas.”
 Segundo.- El artículo 2 del Decreto 48/2009, de
-28 de abril, por el que se establecen en la Adminis-
-tración Pública de la Comunidad Autónoma de Ca-
-narias medidas ante la crisis económica y de simpli-
-ficación administrativa (BOC nº 89, de 12.5.09), que
+28 de abril, por el que se establecen en la Administración Pública de la Comunidad Autónoma de Canarias medidas ante la crisis económica y de simplificación administrativa (BOC nº 89, de 12.5.09), que
 recoge como principio informador del proceso de
-simplificación y racionalización de los procedimien-
-tos administrativos de la Administración Pública de
+simplificación y racionalización de los procedimientos administrativos de la Administración Pública de
 la Comunidad Autónoma de Canarias, la economía
 procedimental.
 Esta Dirección General, de acuerdo con todo lo
 anterior, en uso de las atribuciones conferidas en la
-disposición adicional de la Orden de 31 de diciem-
-bre de 1990, por la que se regula el procedimiento
-de justificación de las cantidades que, por el concep-
-to de “otros gastos”, perciben los centros concerta-
-dos de Canarias,
+disposición adicional de la Orden de 31 de diciembre de 1990, por la que se regula el procedimiento
+de justificación de las cantidades que, por el concepto de “otros gastos”, perciben los centros concertados de Canarias,
 R E S U E L V E:
-Primero.- Modificar y simplificar el modelo de cer-
-tificación, en la forma que se recoge en el anexo I,
+Primero.- Modificar y simplificar el modelo de certificación, en la forma que se recoge en el anexo I,
 al que se han de ajustar las certificaciones de los
-Consejos Escolares de los centros privados concer-
-tados, en relación a la cuenta de la justificación de
-las cantidades recibidas en concepto de “otros gas-
-tos”, según el modelo del anexo II, a partir del cur-
-so 2010-2011. 
+Consejos Escolares de los centros privados concertados, en relación a la cuenta de la justificación de
+las cantidades recibidas en concepto de “otros gastos”, según el modelo del anexo II, a partir del curso 2010-2011. 
 Segundo.- Dejar sin efecto la Resolución de 10 de
 julio de 1995, por la que se aprueba el modelo al que
 han de ajustarse las certificaciones acreditativas de
 los acuerdos adoptados por los Consejos Escolares
-de centros concertados en relación con la justifica-
-ción de los gastos realizados con cargo a las canti-
-dades recibidas de esta Consejería (BOC nº 106, de
+de centros concertados en relación con la justificación de los gastos realizados con cargo a las cantidades recibidas de esta Consejería (BOC nº 106, de
 14.8.95).
 Contra el presente acto, por ser de trámite, no
-cabe recurso alguno, pudiéndose, no obstante, in-
-terponer el que se considere más oportuno a su de-
-recho, si el interesado entendiese que se da algu-
-no de los supuestos excepcionales establecidos
-en el artículo 107 de la Ley 30/1992, de 26 de no-
-viembre, de Régimen Jurídico de las Administra-
-ciones Públicas y del Procedimiento Administra-
-tivo Común, con la redacción dada por la Ley
+cabe recurso alguno, pudiéndose, no obstante, interponer el que se considere más oportuno a su derecho, si el interesado entendiese que se da alguno de los supuestos excepcionales establecidos
+en el artículo 107 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con la redacción dada por la Ley
 4/1999, de 13 de enero.
 Las Palmas de Gran Canaria, a 28 de julio de
-2010.- La Directora General de Promoción Educati-
-va, Pilar Teresa Díaz Luis.
+2010.- La Directora General de Promoción Educativa, Pilar Teresa Díaz Luis.
 boc-a-2010-158-4691
 
 A N E X O  I
@@ -165,8 +130,7 @@ INFANTIL
 PRIMARIA 
 1er C. ESO 
 2º C. ESO 
-BACHILLE-
-RATO 
+BACHILLERATO 
 CFG MEDIO    
 Y  PCPI 
 CFG 
@@ -201,8 +165,7 @@ PRIMARIA
 1
 er C. ESO 
 2º C. ESO 
-BACHILLE-
-RATO 
+BACHILLERATO 
 CFG MEDIO    
 Y  PCPI 
 CFG 

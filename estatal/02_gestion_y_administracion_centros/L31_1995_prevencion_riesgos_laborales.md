@@ -28,6 +28,7 @@ tags:
 relaciones:
   desarrollado_por:
   - norma_id: norm-es-rd-39-1997
+  - norma_id: norm-can-d-168-2009
   fundamentado_en:
   - norma_id: norm-es-ce-1978
   fundamento_de:
@@ -40,22 +41,12 @@ relaciones:
   - norma_id: norm-es-2026-12038
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-can-res-125
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '40.2'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
 **JUAN CARLOS I**

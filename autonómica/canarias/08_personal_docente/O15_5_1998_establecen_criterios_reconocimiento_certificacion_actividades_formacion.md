@@ -28,6 +28,12 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -72,8 +78,6 @@ Siguiente
 BOC Nº 070. Lunes 8 de Junio de 1998 - 780
 
 780 - RESOLUCIÓN de 15 de mayo de 1998, de la Dirección General de Ordenación e Innovación Educativa, por la que se establecen criterios para el reconocimiento o certificación de las actividades de formación del profesorado de esta Dirección General.
-
-Descargar en formato pdf
 
 La [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, considera la formación permanente del profesorado como uno de los elementos básicos para el incremento de la calidad de la enseñanza y recoge, en su artículo 56, que la formación permanente es un derecho y una obligación del profesorado, a la vez que ordena a las autoridades educativas la realización de una oferta suficiente de actividades de formación, para cuyo cumplimiento, esta Dirección General viene desarrollando los planes de formación anuales en colaboración con diversas instituciones, entre otras, fundamentalmente, los Centros del Profesorado.
 

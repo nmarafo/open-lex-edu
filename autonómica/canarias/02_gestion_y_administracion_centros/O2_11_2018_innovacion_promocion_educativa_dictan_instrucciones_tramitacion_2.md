@@ -30,8 +30,12 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2018-220-18
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-boc-2018-220-18
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

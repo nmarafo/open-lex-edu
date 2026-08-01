@@ -28,6 +28,9 @@ relaciones:
   - norma_id: norm-es-2010-12201
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -52,53 +55,42 @@ Siendo necesario determinar las características de las pruebas comunes de obten
 certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial en 
 la Comunidad Autónoma de Canarias, y teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Anualmente se convocan pruebas para la obtención de los certificados de en-
-señanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias. 
+Primero.- Anualmente se convocan pruebas para la obtención de los certificados de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias. 
 Segundo.- Estas pruebas, de carácter común y unificado, son elaboradas de acuerdo con 
 unas instrucciones concretas, que determinan la estructura general de la prueba, el formato, 
 el calendario de elaboración, así como los procesos de validación y revisión que garantizan 
 la fiabilidad de las pruebas.
 Tercero.- Esas instrucciones también definen las características de cada una de las partes 
-de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel interme-
-dio y nivel avanzado.
-Cuarto.- En el curso 2012/2013 comenzó a impartirse en las Escuelas Oficiales de Idio-
-mas el primer curso de especialización de nivel C1 y durante el presente curso 2013/2014 se 
-ha continuado con el segundo curso de especialización de este mismo nivel C1. Sin embar-
-go, puesto que hasta ahora no han sido convocadas pruebas para la obtención del certificado 
-de especialización de este nivel, quedan por definir las características concretas de las prue-
-bas en relación con el nivel C1.
+de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel intermedio y nivel avanzado.
+Cuarto.- En el curso 2012/2013 comenzó a impartirse en las Escuelas Oficiales de Idiomas el primer curso de especialización de nivel C1 y durante el presente curso 2013/2014 se 
+ha continuado con el segundo curso de especialización de este mismo nivel C1. Sin embargo, puesto que hasta ahora no han sido convocadas pruebas para la obtención del certificado 
+de especialización de este nivel, quedan por definir las características concretas de las pruebas en relación con el nivel C1.
 A estos hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
 Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
 mayo), regula en sus artículos del 59 al 62 las enseñanzas de idiomas de régimen especial.
-Segundo.- El Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspec-
-tos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la 
+Segundo.- El Real Decreto 1629/2006, de 29 de diciembre, por el que se fijan los aspectos básicos del currículo de las enseñanzas de idiomas de régimen especial reguladas por la 
 [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 4, de 4 de enero de 2007), fija 
 las enseñanzas mínimas que deberán formar parte de los currículos que las Administraciones 
 educativas establezcan para los niveles intermedio y avanzado de estas enseñanzas y en su 
 boc-a-2014-021-349
 
 Disposición Adicional segunda determina que las Escuelas Oficiales de Idiomas podrán, en 
-los términos que dispongan las respectivas Administraciones educativas, organizar e impar-
-tir cursos especializados para el perfeccionamiento de competencias en idiomas, tanto en los 
+los términos que dispongan las respectivas Administraciones educativas, organizar e impartir cursos especializados para el perfeccionamiento de competencias en idiomas, tanto en los 
 niveles básico, intermedio y avanzado como en los niveles C1 y C2 del Consejo de Europa, 
 definidos en el Marco Común Europeo de Referencia para las Lenguas.
-Tercero.- En desarrollo de lo establecido en la Disposición Adicional segunda anterior-
-mente citada, la Orden EDU/3377/2009, de 7 de diciembre, por la que se establecen los 
-currículos y las pruebas correspondientes a los cursos especializados para el perfecciona-
-miento de competencias en idiomas de niveles C1 y C2 del Consejo de Europa impartidos 
+Tercero.- En desarrollo de lo establecido en la Disposición Adicional segunda anteriormente citada, la Orden EDU/3377/2009, de 7 de diciembre, por la que se establecen los 
+currículos y las pruebas correspondientes a los cursos especializados para el perfeccionamiento de competencias en idiomas de niveles C1 y C2 del Consejo de Europa impartidos 
 en las Escuelas Oficiales de Idiomas de Ceuta y Melilla (BOE nº 302, de 16 de diciembre) 
 señala los requisitos mínimos del currículo y de las pruebas para garantizar la movilidad del 
 alumnado que supere este nivel.
 Cuarto.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación 
 de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias 
-(BOC nº 205, de 15 de octubre), dedica su artículo 14 a las pruebas para obtener los certifi-
-cados, determinando el régimen de convocatoria, elaboración, administración y evaluación. 
+(BOC nº 205, de 15 de octubre), dedica su artículo 14 a las pruebas para obtener los certificados, determinando el régimen de convocatoria, elaboración, administración y evaluación. 
 Además, su artículo 15 se refiere a los cursos de especialización de los niveles C1 y C2 del 
 Marco Común Europeo de Referencia para las Lenguas. 
 Quinto.- La Resolución de 6 de mayo de 2008 de la Dirección General de Formación 
-Profesional y Educación de Adultos, por la que se dictan instrucciones para la organiza-
-ción y funcionamiento de los cursos de especialización y actualización de las Escuelas 
+Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y funcionamiento de los cursos de especialización y actualización de las Escuelas 
 Oficiales de Idiomas (BOC nº 112, de 6 de junio) fija las instrucciones para la organización 
 y funcionamiento de los cursos de especialización de los niveles C1 y C2 del Consejo de 
 Europa.
@@ -124,23 +116,18 @@ boc-a-2014-021-349
 R E S U E L V O:
 Primero.- Determinar las características de las pruebas comunes para la obtención del 
 certificado de especialización de nivel C1 de las enseñanzas de idiomas de régimen especial 
-en la Comunidad Autónoma de Canarias, en los términos recogidos en el anexo de la pre-
-sente resolución. 
+en la Comunidad Autónoma de Canarias, en los términos recogidos en el anexo de la presente resolución. 
 Segundo.- Facultar a los equipos directivos de las Escuelas Oficiales de Idiomas para 
-que la presente resolución sea conocida y difundida entre los distintos sectores de la comu-
-nidad educativa, haciéndoles llegar copia, cuando así se solicite por la persona interesada.
+que la presente resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa, haciéndoles llegar copia, cuando así se solicite por la persona interesada.
 Esta resolución también estará a disposición de los interesados en la dirección web de la 
 Consejería de Educación, Universidades y Sostenibilidad: http://www.gobiernodecanarias.
 org/educacion/.
 Tercero.- Encomendar a la Inspección de Educación la supervisión y asesoramiento en 
 aquellos aspectos que le soliciten los equipos directivos de las escuelas. 
-Contra la presente resolución se podrá interponer recurso de alzada ante la Viceconseje-
-ría de Educación y Universidades, en el plazo de un mes a partir del día siguiente a su publi-
-cación, de conformidad con los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre, 
+Contra la presente resolución se podrá interponer recurso de alzada ante la Viceconsejería de Educación y Universidades, en el plazo de un mes a partir del día siguiente a su publicación, de conformidad con los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre, 
 de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo 
 Común, modificada por la Ley 4/1999, de 13 de enero.
-Santa Cruz de Tenerife, a 14 de enero de 2014.- El Director General de Formación Pro-
-fesional y Educación de Adultos, José Moya Otero.
+Santa Cruz de Tenerife, a 14 de enero de 2014.- El Director General de Formación Profesional y Educación de Adultos, José Moya Otero.
 A N E X O
 CARACTERÍSTICAS DE LAS PRUEBAS COMUNES DE OBTENCIÓN DEL CERTIFICADO DE 
 ESPECIALIZACIÓN DE NIVEL C1 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN 
@@ -149,20 +136,16 @@ SUMARIO:
 1. Definición de las pruebas de certificación de nivel C1.
 2. Características generales de las técnicas e instrumentos de evaluación.
 3. Estructura de las pruebas: 
-3.1. Comprensión de lectura: tareas, tipos de ejercicio, puntuaciones máximas y asigna-
-ción de tiempo al examen.
+3.1. Comprensión de lectura: tareas, tipos de ejercicio, puntuaciones máximas y asignación de tiempo al examen.
 3.2. Comprensión auditiva: tareas, número y tipo de audición, tiempos asignados a las 
 audiciones, puntuaciones máximas y asignación de tiempo al examen.
 boc-a-2014-021-349
 
 3.3. Expresión e interacción escrita: tareas, extensión de los textos, asignación de tiempo 
 al examen y puntuaciones máximas de cada tarea a partir de los aspectos de las ­competencias.
-3.4. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntua-
-ciones máximas de cada tarea a partir de los aspectos de las competencias.
+3.4. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntuaciones máximas de cada tarea a partir de los aspectos de las competencias.
 1. Definición de las pruebas de certificación de nivel C1. 
-Las pruebas objeto de esta resolución conducen a la obtención del certificado de especia-
-lización de nivel C1 de enseñanzas de idiomas de régimen especial en la Comunidad Autó-
-noma de Canarias. Las pruebas de certificación de nivel C1 tienen como finalidad evaluar la 
+Las pruebas objeto de esta resolución conducen a la obtención del certificado de especialización de nivel C1 de enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias. Las pruebas de certificación de nivel C1 tienen como finalidad evaluar la 
 capacidad del alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión 
 en todo tipo de situaciones, en los ámbitos personal, público, académico y profesional, que 
 requieran comprender, producir y procesar textos orales y escritos extensos y complejos, en 
@@ -170,12 +153,10 @@ diversas variedades estándares de la lengua, con un repertorio léxico amplio, 
 sobre temas tanto abstractos como concretos, incluso aquellos con los que el hablante no 
 esté familiarizado.
 La posesión del certificado de especialización de nivel C1 acredita una competencia de 
-idioma del nivel C1 del Marco Común Europeo de Referencia para las Lenguas: aprendiza-
-je, enseñanza y evaluación (MCERL), del Consejo de Europa.
+idioma del nivel C1 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza y evaluación (MCERL), del Consejo de Europa.
 2. Características generales de las técnicas e instrumentos de evaluación.
 Las pruebas de certificación han de permitir la obtención de la información necesaria 
-para conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utili-
-zarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las 
+para conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las 
 siguientes características: 
 - Comprender los objetivos y contenidos más significativos del nivel C1.
 - Adecuarse a la naturaleza diversa de los contenidos del nivel C1.
@@ -197,8 +178,7 @@ boc-a-2014-021-349
 3.1. Comprensión de lectura: tareas, tipos de ejercicio, puntuaciones máximas y 
 asignación de tiempo al examen.
 La parte de comprensión de lectura constará de cuatro tareas a partir de la lectura de 
-textos reales o verosímiles, de diversos tipos y de fuentes tales como prensa, Internet, fo-
-lletos informativos, publicaciones de instituciones oficiales o entidades públicas o privadas, 
+textos reales o verosímiles, de diversos tipos y de fuentes tales como prensa, Internet, folletos informativos, publicaciones de instituciones oficiales o entidades públicas o privadas, 
 comerciales, textos literarios contemporáneos, etc. Las tareas serán, asimismo, de diferentes 
 tipos tales como ejercicios de opción múltiple, de respuesta breve, de emparejamiento de 
 textos y epígrafes, de rellenar huecos de un banco de ítems, etc. Estas tareas evaluarán la 
@@ -239,17 +219,13 @@ Asignación tiempo al examen
 Tarea
 Nº de textos y tipo de 
 audición
-Tiempo asig-
-nado a la audi-
-ción
+Tiempo asignado a la audición
 Puntuación
 máxima de 
 la tarea 
 Puntuación
-total de la des-
-treza 
-Asignación tiem-
-po al examen 
+total de la destreza 
+Asignación tiempo al examen 
 1
 Hasta 10 grabaciones 
 cortas comerciales o no 
@@ -263,8 +239,7 @@ etc.
 3-4 minutos 
 3
 3
-1: entrevista o conversa-
-ción.
+1: entrevista o conversación.
 4-6 minutos 
 4
 10
@@ -275,10 +250,8 @@ boc-a-2014-021-349
 tiempo al examen y puntuaciones máximas de cada tarea a partir de los aspectos de las 
 competencias.
 La parte de expresión escrita constará de dos tareas. Los candidatos deberán redactar dos 
-o más textos en los que se propongan situaciones reales o verosímiles de expresión e interac-
-ción claramente contextualizadas, de diversos tipos y extensión para cada tarea.
-El examen constará de dos tareas, con la dificultad propia del nivel, y extensión, puntua-
-ciones máximas y asignación de tiempo, indicadas en el siguiente cuadro: 
+o más textos en los que se propongan situaciones reales o verosímiles de expresión e interacción claramente contextualizadas, de diversos tipos y extensión para cada tarea.
+El examen constará de dos tareas, con la dificultad propia del nivel, y extensión, puntuaciones máximas y asignación de tiempo, indicadas en el siguiente cuadro: 
 La expresión escrita se evaluará con arreglo a las siguientes competencias:
 Para la evaluación de las competencias se tendrán en cuenta los aspectos que se indican 
 a continuación para cada una de ellas:
@@ -290,8 +263,7 @@ Puntuación
 máxima de la 
 tarea
 Puntuación
-total de la des-
-treza 
+total de la destreza 
 Asignación
 tiempo al
 examen 
@@ -306,16 +278,13 @@ examen
 Competencia 
 Lo que evalúa 
 Pragmática 
-El cumplimiento del objetivo de la comunicación y de la tarea propuesta; la adap-
-tación del contenido a las convenciones organizativas del texto, según lo estable-
-cido para el nivel, y la organización de la información.  
+El cumplimiento del objetivo de la comunicación y de la tarea propuesta; la adaptación del contenido a las convenciones organizativas del texto, según lo establecido para el nivel, y la organización de la información.  
 Lingüística 
 El uso de vocabulario, estructuras y formas gramaticales propias del nivel; la 
 corrección ortográfica y el uso de los signos de puntuación. 
 Sociolingüística 
 La adecuación del registro al destinatario, propósito y situación; el uso de formas 
-y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcado-
-res de relaciones sociales, fórmulas de cortesía… 
+y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de relaciones sociales, fórmulas de cortesía… 
 Consigna 
 Se refiere al grado de cumplimiento del objetivo de comunicación solicitado en la tarea: si 
 se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
@@ -324,30 +293,25 @@ tarea.
 Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del contenido 
 del texto en conjunto o de determinadas partes de este. 
 Formato 
-Se refiere al manejo de convenciones gráficas y formales y a su aplicación para la cons-
-trucción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje…). 
+Se refiere al manejo de convenciones gráficas y formales y a su aplicación para la construcción de una tipología textual adecuada (carta, argumentación, anuncio, mensaje…). 
 Organización y 
 conectores 
 Se refiere al grado de adecuación en la organización del texto: la forma de presentar la 
 información, la estructura interna, la ligazón entre los párrafos… Entre los mecanismos 
-para la construcción textual, se prestará especial atención al empleo adecuado de conecto-
-res y marcadores discursivos. 
+para la construcción textual, se prestará especial atención al empleo adecuado de conectores y marcadores discursivos. 
 Léxico
 Verifica el grado de corrección en el vocabulario empleado, su variedad y la precisión del 
 léxico, siempre según la tarea propuesta y dentro del nivel de competencia evaluado. 
 Ortografía 
-Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que acompa-
-ñan la escritura (tildes, diéresis…).  
+Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que acompañan la escritura (tildes, diéresis…).  
 Incluye también las reglas referidas a mayúsculas y minúsculas. 
-Atiende también al empleo adecuado de los signos de puntuación que transcriben gráfica-
-mente las pausas y la entonación. 
+Atiende también al empleo adecuado de los signos de puntuación que transcriben gráficamente las pausas y la entonación. 
 boc-a-2014-021-349
 
 - Competencia sociolingüística.
 La primera tarea se calificará teniendo en cuenta la escala establecida para cada uno de 
 los aspectos de las competencias, de forma que la máxima puntuación de la tarea sea 40. 
-Tarea 1: 4 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanza-
-da en todos los aspectos y se divide entre 10).
+Tarea 1: 4 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en todos los aspectos y se divide entre 10).
 Gramática 
 Se refiere al grado de corrección de todos los elementos relacionados con la morfología y 
 la sintaxis: orden de los elementos, concordancias, formas y estructuras… 
@@ -360,8 +324,7 @@ de la prueba y/o la creada a partir de las pautas consignadas en esta), el prop�
 comunicación, los destinatarios, el mensaje y la relación –real o virtual– que les une a estas 
 personas… Se deberá comprobar que estas variables han condicionado que, para el texto, 
 se elija un determinado registro, estilo y nivel lingüístico, lo que se verbalizará a través de 
-la utilización de unas formas marcadas sociolingüísticamente (en el léxico, en las estructu-
-ras…). 
+la utilización de unas formas marcadas sociolingüísticamente (en el léxico, en las estructuras…). 
 Puntuación de 
 la consigna 
 CONSIGNA 
@@ -410,8 +373,7 @@ boc-a-2014-021-349
 
 La segunda tarea se calificará tiendo en cuenta la escala establecida para cada uno de los 
 aspectos de las competencias, de forma que la máxima puntuación de la tarea sea 60. 
-Tarea 2: 6 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanza-
-da en todos los aspectos y se divide entre 10).
+Tarea 2: 6 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en todos los aspectos y se divide entre 10).
 5
 La información del texto sigue un orden lógico y está bien organizada y estructurada. Utiliza 
 apropiadamente un conjunto de conectores propios del nivel, así como los signos de 
@@ -570,8 +532,7 @@ reales o verosímiles de interacción con otras personas y de exposición.
 Para la realización de esta prueba se elaborarán veinte modelos de fichas gráficas, 10 para 
 la tarea expositiva y 10 para la interacción, que contendrán instrucciones claras sobre lo que 
 debe tratar el aspirante, el tiempo de preparación y el de intervención.
-El aspirante podrá tomar notas durante el tiempo de preparación, que podrá utilizar úni-
-camente como guía durante el desarrollo de su intervención. Los aspirantes deberán preparar 
+El aspirante podrá tomar notas durante el tiempo de preparación, que podrá utilizar únicamente como guía durante el desarrollo de su intervención. Los aspirantes deberán preparar 
 la tarea de interacción individualmente.
 a) Tarea expositiva.
 La tarea expositiva consistirá en un monólogo y tendrá la duración y puntuación máxima 
@@ -626,8 +587,7 @@ boc-a-2014-021-349
 
 b) Tarea de interacción.
 La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán 
-por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para prepara-
-ción e intervención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
+por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e intervención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
  La producción oral, tanto en la tarea expositiva como en la de interacción, se evaluará 
 con arreglo a las siguientes competencias:
 Para la evaluación de las competencias se tendrán en cuenta los aspectos que se indican 
@@ -647,18 +607,14 @@ destreza
 Parejas
 Tríos
 3 minutos 
-7-8 minu-
-tos
-9-10 mi-
-nutos
+7-8 minutos
+9-10 minutos
 6
 10
 Competencia 
 Lo que evalúa 
 Pragmática 
-El cumplimiento del objetivo de la comunicación y de la tarea propuesta; la exten-
-sión de las intervenciones y la adaptación del contenido a las convenciones orga-
-nizativas del texto oral, según lo establecido para el nivel. 
+El cumplimiento del objetivo de la comunicación y de la tarea propuesta; la extensión de las intervenciones y la adaptación del contenido a las convenciones organizativas del texto oral, según lo establecido para el nivel. 
 En la tarea expositiva: la organización y estructuración del discurso. 
 En la tarea de interacción: la naturalidad, el uso de conectores y marcadores de la 
 conversación.   
@@ -667,8 +623,7 @@ El uso de vocabulario, estructuras y formas gramaticales propias del nivel; el
 ritmo, la entonación y la claridad de la expresión. 
 Sociolingüística 
 La adecuación del registro al destinatario, propósito y situación; el uso de formas 
-y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcado-
-res de relaciones sociales, fórmulas de cortesía… 
+y expresiones lingüísticas propias del nivel, condicionadas por lo social: marcadores de relaciones sociales, fórmulas de cortesía… 
 Consigna 
 Se refiere al grado de cumplimiento del objetivo de comunicación solicitado en la 
 tarea: si se ha cumplido total o parcialmente o si no se ha cumplido en absoluto. 
@@ -677,14 +632,12 @@ que se solicitaba en la consigna de la tarea.
 Verifica si se han tratado todos los puntos de la tarea, así como la pertinencia del 
 contenido del texto en conjunto o de determinadas partes de este. 
 Organización y cohesión 
-Se refiere al grado de adecuación en la organización del texto: la forma de pre-
-sentar la información, la estructura interna, la ligazón entre las partes… Entre los 
+Se refiere al grado de adecuación en la organización del texto: la forma de presentar la información, la estructura interna, la ligazón entre las partes… Entre los 
 mecanismos para la construcción textual, se prestará especial atención al empleo 
 adecuado de conectores así como de los marcadores propios de la conversación. 
 Léxico
 Verifica el grado de corrección en el vocabulario empleado, su variedad y la 
-precisión del léxico, siempre según la tarea propuesta y dentro del nivel de com-
-petencia evaluado. 
+precisión del léxico, siempre según la tarea propuesta y dentro del nivel de competencia evaluado. 
 boc-a-2014-021-349
 
 - Competencia sociolingüística.
@@ -695,22 +648,15 @@ aspectos de las competencias, de forma que la máxima puntuación de la tarea se
 puntuación se dividirá por 10. Los criterios para calificar la tarea se indican en las tablas 
 siguientes: 
 Pronunciación y fluidez 
-Se refiere a la corrección en la articulación de los sonidos, cuestión que se ponde-
-rará siempre en relación con el nivel evaluado y con el principio de efectividad en 
+Se refiere a la corrección en la articulación de los sonidos, cuestión que se ponderará siempre en relación con el nivel evaluado y con el principio de efectividad en 
 la comunicación. 
-Se evalúa también la adecuación de la entonación, el ritmo y las pausas en fun-
-ción de la modalidad discursiva, la tipología textual y la función comunicativa. 
+Se evalúa también la adecuación de la entonación, el ritmo y las pausas en función de la modalidad discursiva, la tipología textual y la función comunicativa. 
 Gramática 
-Se refiere al grado de corrección de todos los elementos relacionados con la mor-
-fología y la sintaxis: orden de los elementos, concordancias, formas y estructu-
-ras…
+Se refiere al grado de corrección de todos los elementos relacionados con la morfología y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
 En el análisis de los errores que la producción presente, será necesario considerar 
-si estos corresponden al estadio de adquisición lingüística que se pretende certifi-
-car, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunica-
-ción. 
+si estos corresponden al estadio de adquisición lingüística que se pretende certificar, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunicación. 
 Registro 
-Se refiere a la consideración de cuestiones tales como la situación de comunica-
-ción (la real de la prueba y/o la creada a partir de las pautas consignadas en esta), 
+Se refiere a la consideración de cuestiones tales como la situación de comunicación (la real de la prueba y/o la creada a partir de las pautas consignadas en esta), 
 el propósito de esta comunicación, los destinatarios, el mensaje y la relación –real 
 o virtual– que les une a estas personas… Se deberá comprobar que estas variables 
 han condicionado que, para el texto, se elija un determinado registro, estilo y 

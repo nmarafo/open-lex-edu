@@ -34,23 +34,15 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-14-1990
+  - norma_id: norm-can-res-boc-2026-129-26
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
   - '27'
 - norma_id: norm-es-1984-17387
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 **JUAN CARLOS I**

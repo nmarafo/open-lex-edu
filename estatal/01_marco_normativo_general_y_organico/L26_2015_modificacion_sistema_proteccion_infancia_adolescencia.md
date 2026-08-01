@@ -37,6 +37,8 @@ relaciones:
   fundamento_de:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-res-boc-2017-132-1
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -58,17 +60,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**

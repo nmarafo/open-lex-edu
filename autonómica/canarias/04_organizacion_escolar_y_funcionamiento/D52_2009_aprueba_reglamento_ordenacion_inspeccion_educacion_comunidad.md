@@ -35,6 +35,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -82,8 +85,6 @@ Siguiente
 II. AUTORIDADES Y PERSONAL - Oposiciones y concursos - Consejería de Presidencia, Justicia y Seguridad
 
 762 - ORDEN de 14 de mayo de 2009, por la que se resuelve la convocatoria para la provisión, por el procedimiento de libre designación, de un puesto de trabajo en este Departamento, efectuada por Orden de esta Consejería de 18 de marzo de 2009.
-
-Descargar en formato pdf
 
 Efectuada convocatoria pública, mediante Orden de la Consejería de Presidencia, Justicia y Seguridad de 18 de marzo de 2009 (B.O.C. nº 59, de 26 de marzo), para la provisión, por el procedimiento de libre designación, del puesto de trabajo nº 3923, "Secretaria de Dirección", en la Dirección General de Relaciones con la Administración de Justicia de este Departamento.
 

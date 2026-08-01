@@ -31,6 +31,8 @@ relaciones:
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -185,8 +187,7 @@ de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad Autó
 narias. Las pruebas de certificación de nivel C2 tiene como finalidad evaluar la capacidad del
 alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión en todo tipo de si -
 tuaciones, en los ámbitos personal, público, académico y profesional, que requieran compren -
-der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades es-
-tándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos
+der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades estándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos
 como concretos, incluso aquellos con los que el hablante no esté familiarizado.
 La posesión del certificado de especialización de nivel C2 acredita una competencia de idioma
 del nivel C2 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza
@@ -218,8 +219,7 @@ de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad Autó
 narias. Las pruebas de certificación de nivel C2 tiene como finalidad evaluar la capacidad del
 alumnado aspirante para usar el idioma con flexibilidad, eficacia y precisión en todo tipo de si -
 tuaciones, en los ámbitos personal, público, académico y profesional, que requieran compren -
-der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades es-
-tándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos
+der, producir y procesar textos orales y escritos extensos y complejos, en diversas variedades estándares de la lengua, con un repertorio léxico amplio, y que versen sobre temas tanto abstractos
 como concretos, incluso aquellos con los que el hablante no esté familiarizado.
 La posesión del certificado de especialización de nivel C2 acredita una competencia de idioma
 del nivel C2 del Marco Común Europeo de Referencia para las Lenguas: aprendizaje, enseñanza
@@ -349,17 +349,12 @@ propia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones
 ción total del examen, indicadas en el siguiente cuadro: 
 Tarea Nº de textos y tipo de
 audición
-Tiempo asigna-
-do a la audi-
-ción
+Tiempo asignado a la audición
 Puntuación
 máxima de
 la tarea
-Puntuación to-
-tal de la des-
-treza
-Asignación tiem-
-po al examen
+Puntuación total de la destreza
+Asignación tiempo al examen
 1 Hasta 10 grabaciones
 cortas comerciales o no
 comerciales.
@@ -370,8 +365,7 @@ cada una
 2 1: noticias, narraciones,
 etc.
 3-4 minutos 3 
-3 1: entrevista o conver-
-sación.
+3 1: entrevista o conversación.
 4-6 minutos 4 
 3.3. Expresión e interacción escrita: tareas, extensión de los textos, asignación de tiempo al
 examen y puntuaciones máximas de cada tarea a partir de los aspectos de las competen -
@@ -382,11 +376,8 @@ mente contextualizadas, de diversos tipos y extensión para cada tarea.
 El examen constará de dos tareas, con la dificultad propia del nivel, y extensión, puntuaciones
 máxi
 mas y asignación de tiempo, indicadas en el siguiente cuadro: 
-Tarea Extensión del texto Puntuación má-
-xima de la tarea
-Puntuación to-
-tal de la destre-
-za
+Tarea Extensión del texto Puntuación máxima de la tarea
+Puntuación total de la destreza
 Asignación
 tiempo al 
 examen
@@ -507,8 +498,7 @@ Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
 Gramática
-Se refiere al grado de corrección de todos los elementos relacionados con la morfo-
-logía y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
+Se refiere al grado de corrección de todos los elementos relacionados con la morfología y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
 En el análisis de los errores que la producción presente, será necesario considerar
 si estos corresponden al estadio de adquisición lingüística que se pretende certifi -
 car, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunica -
@@ -516,8 +506,7 @@ ción.
 Competencia sociolingüística
 Registro
 Se refiere a la consideración de cuestiones tales como la situación de comunicación
-(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el pro-
-pósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
+(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
 tual– que les une a estas personas… Se deberá comprobar que estas variables han
 condicionado que, para el texto, se elija un determinado registro, estilo y nivel lin -
 güístico, lo que se verbalizará a través de la utilización de unas formas marcadas
@@ -547,8 +536,7 @@ Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
 Gramática
-Se refiere al grado de corrección de todos los elementos relacionados con la morfo-
-logía y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
+Se refiere al grado de corrección de todos los elementos relacionados con la morfología y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
 En el análisis de los errores que la producción presente, será necesario considerar
 si estos corresponden al estadio de adquisición lingüística que se pretende certifi -
 car, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunica -
@@ -556,8 +544,7 @@ ción.
 Competencia sociolingüística
 Registro
 Se refiere a la consideración de cuestiones tales como la situación de comunicación
-(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el pro-
-pósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
+(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
 tual– que les une a estas personas… Se deberá comprobar que estas variables han
 condicionado que, para el texto, se elija un determinado registro, estilo y nivel lin -
 güístico, lo que se verbalizará a través de la utilización de unas formas marcadas
@@ -631,8 +618,7 @@ Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
 Gramática
-Se refiere al grado de corrección de todos los elementos relacionados con la morfo-
-logía y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
+Se refiere al grado de corrección de todos los elementos relacionados con la morfología y la sintaxis: orden de los elementos, concordancias, formas y estructuras…
 En el análisis de los errores que la producción presente, será necesario considerar
 si estos corresponden al estadio de adquisición lingüística que se pretende certifi -
 car, si se derivan de la toma de riesgos y en qué grado obstaculizan la comunica -
@@ -640,8 +626,7 @@ ción.
 Competencia sociolingüística
 Registro
 Se refiere a la consideración de cuestiones tales como la situación de comunicación
-(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el pro-
-pósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
+(la real de la prueba y/o la creada a partir de las pautas consignadas en esta), el propósito de esta comunicación, los destinatarios, el mensaje y la relación –real o vir -
 tual– que les une a estas personas… Se deberá comprobar que estas variables han
 condicionado que, para el texto, se elija un determinado registro, estilo y nivel lin -
 güístico, lo que se verbalizará a través de la utilización de unas formas marcadas
@@ -663,9 +648,7 @@ COMUNIDAD AUTÓNOMA DE CANARIAS.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
 Puntuación de 
-la organiza-
-ción y los co-
-nectores
+la organización y los conectores
 ORGANIZACIÓN Y COHESIÓN
 6
 La información del texto sigue un orden lógico y está muy bien organizada y estructu -
@@ -680,8 +663,7 @@ La información del texto sigue un orden lógico y estás suficientemente organi
 estructurada. Utiliza los conectores propios del nivel de manera suficiente, aunque
 presenta algún error leve en el uso de los signos de puntuación.
 1
-El escrito es comprensible, aunque la organización de la información del texto es insu-
-ficiente y presenta alguna incoherencia. Utiliza un número de conectores insuficiente
+El escrito es comprensible, aunque la organización de la información del texto es insuficiente y presenta alguna incoherencia. Utiliza un número de conectores insuficiente
 para el nivel y contiene importantes errores de puntuación.
 0
 El escrito no está organizado ni estructurado de forma coherente, ni sigue un orden ló -
@@ -751,8 +733,7 @@ tos de las competencias, de forma que la máxima puntuación de la tarea sea 60.
 Tarea 2: 6 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en
 todos los aspectos y se divide entre 10).
 Puntuación 
-de la consig-
-na
+de la consigna
 CONSIGNA
 6
 Cubre ampliamente el objetivo de la comunicación, recogiendo todos los puntos de la
@@ -764,8 +745,7 @@ tarea propuesta y ajustándose al número de palabras requerido.
 Consigue el objetivo de la comunicación de manera suficiente, tratando y desarrollando
 la mitad, o más, de los puntos de la tarea propuesta y ajustándose al número de palabras
 requerido.
-1 El objetivo de la comunicación no se alcanza de manera suficiente, trata menos de la mi-
-tad de los puntos de la tarea y no utiliza el número de palabras requerido.
+1 El objetivo de la comunicación no se alcanza de manera suficiente, trata menos de la mitad de los puntos de la tarea y no utiliza el número de palabras requerido.
 0 No consigue el objetivo de la comunicación, no utiliza el número de palabras requerido
 y el número de puntos tratados no alcanza la cuarta parte de los propuestos.
 Puntuación 
@@ -793,9 +773,7 @@ propias del texto.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
 Puntuación 
-de organiza-
-ción y co-
-nectores
+de organización y conectores
 ORGANIZACIÓN Y COHESIÓN
 8
 La información del texto sigue un orden lógico y está muy bien organizada y estructura -
@@ -842,9 +820,7 @@ propias del texto.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
 Puntuación 
-de organiza-
-ción y co-
-nectores
+de organización y conectores
 ORGANIZACIÓN Y COHESIÓN
 8
 La información del texto sigue un orden lógico y está muy bien organizada y estructura -
@@ -981,8 +957,7 @@ Puntuación
 máxima de la
 tarea
 Puntuación
-total de la des-
-treza
+total de la destreza
 4 minutos 5 minutos 4 10
  
 b) Tarea de interacción.
@@ -1022,8 +997,7 @@ Puntuación
 máxima de la
 tarea
 Puntuación
-total de la des-
-treza
+total de la destreza
 4 minutos 5 minutos 4 10
  
 b) Tarea de interacción.
@@ -1039,8 +1013,7 @@ EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
-La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por pa-
-rejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
+La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
 vención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
 Tiempo de
 preparación
@@ -1050,13 +1023,10 @@ Puntuación
 máxima de la
 tarea
 Puntuación
-total de la des-
-treza
+total de la destreza
 3 minutos Parejas Tríos
-6 107-8 minu-
-tos
-9-10 mi-
-nutos
+6 107-8 minutos
+9-10 minutos
  
 La producción oral, tanto en la tarea expositiva como en la de interacción, se evaluará con arre -
 glo a las siguientes compe
@@ -1091,8 +1061,7 @@ EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
-La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por pa-
-rejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
+La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
 vención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
 Tiempo de
 preparación
@@ -1102,13 +1071,10 @@ Puntuación
 máxima de la
 tarea
 Puntuación
-total de la des-
-treza
+total de la destreza
 3 minutos Parejas Tríos
-6 107-8 minu-
-tos
-9-10 mi-
-nutos
+6 107-8 minutos
+9-10 minutos
  
 La producción oral, tanto en la tarea expositiva como en la de interacción, se evaluará con arre -
 glo a las siguientes competencias: 
@@ -1318,9 +1284,7 @@ EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
-la organiza-
-ción y  cohe-
-sión
+la organización y  cohesión
 6 Produce un monólogo muy bien organizado y estructurado, y utiliza con corrección
 una gran variedad de conectores y marcadores del discurso.
 4 Produce un monólogo correctamente organizado y estructurado, y hace un uso apro -
@@ -1358,9 +1322,7 @@ EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
-la organiza-
-ción y  cohe-
-sión
+la organización y  cohesión
 6 Produce un monólogo muy bien organizado y estructurado, y utiliza con corrección
 una gran variedad de conectores y marcadores del discurso.
 4 Produce un monólogo correctamente organizado y estructurado, y hace un uso apro -
@@ -1510,8 +1472,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 5 Interactúa de manera coherente, tiene en cuenta la mayor parte de las normas de co -
 municación y hace uso adecuado de los marcadores del discurso.
-3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del dis-
-curso.
+3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del discurso.
 0 No interactúa adecuadamente, ni emplea de forma apropiada los marcadores del dis -
 curso.
       
@@ -1583,8 +1544,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 5 Interactúa de manera coherente, tiene en cuenta la mayor parte de las normas de co -
 municación y hace uso adecuado de los marcadores del discurso.
-3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del dis-
-curso.
+3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del discurso.
 0 No interactúa adecuadamente, ni emplea de forma apropiada los marcadores del dis -
 curso.
       

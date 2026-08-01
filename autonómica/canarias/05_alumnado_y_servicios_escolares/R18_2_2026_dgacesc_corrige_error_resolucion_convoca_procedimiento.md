@@ -36,8 +36,11 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-res-boc-2026-039-111
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-110
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

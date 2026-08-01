@@ -33,6 +33,9 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
+  fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
   articulos:
@@ -76,8 +79,6 @@ III. OTRAS RESOLUCIONES - C.Trabajo
 y Función Pública
 
 125 - RESOLUCIÓN de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
-
-Descargar en formato pdf
 
 Visto el texto del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, suscrito por los representantes de la Administración de la Comunidad Autónoma y del personal laboral a su servicio, y de conformidad con lo dispuesto en el artículo 90, números 2 y 3, de la Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores, y de los Reales Decretos 661/1984, de 25 de enero, y 1.033/1984, de 11 de abril, sobre traspaso de funciones y servicios del
 
@@ -2253,9 +2254,7 @@ Homologación
 
 Encuadramiento
 
-III	301.843	50.504	Administrador. Enfermera. Profe-
-
-sor educación física. Profesor de
+III	301.843	50.504	Administrador. Enfermera. Profesor educación física. Profesor de
 
 música. Profesor idóneo.
 
@@ -2265,15 +2264,9 @@ IV	118.686	18.610	Administrativo. Contable. Oficial
 
 V	58.690	14.597	Albañil II. Auxiliar administrativo.
 
-Auxiliar de empresa. Auxiliar la-
+Auxiliar de empresa. Auxiliar laboratorio. Auxiliar de oficina.
 
-boratorio. Auxiliar de oficina.
-
-Auxiliares. Ayudantes de labora-
-
-torio. Cocinero. Jardinero. Pelu-
-
-quera. Vigilante de biblioteca.
+Auxiliares. Ayudantes de laboratorio. Cocinero. Jardinero. Peluquera. Vigilante de biblioteca.
 
 Vigilante de comedor. Grabador.
 
@@ -2293,11 +2286,7 @@ II	284.168		Periodista*.
 
 III	237.441		Analista de informática*.
 
-Ayudante de biblioteca*. Direc-
-
-tor de centro*. Educador*. Ins-
-
-tructor*. Maestro. Maestro*.
+Ayudante de biblioteca*. Director de centro*. Educador*. Instructor*. Maestro. Maestro*.
 
 Profesor titular*. Profesoras*.
 
@@ -2337,31 +2326,17 @@ Homologación
 
 Encuadramiento
 
-III	301.843	50.504	Administrador. Enfermera. Pro-
-
-fesor educación física. Profesor
+III	301.843	50.504	Administrador. Enfermera. Profesor educación física. Profesor
 
 de música. Profesor idóneo.
 
-IV	118.686	18.610	Administrativo. Contable. Ofi-
+IV	118.686	18.610	Administrativo. Contable. Oficial 1º administrativo.
 
-cial 1º administrativo.
-
-V	58.690	14.597	Albañil II. Auxiliar administra-
-
-tivo. Auxiliar de empresa. Auxi-
-
-liar laboratorio. Auxiliar de ofi-
-
-cina. Auxiliares. Ayudantes de
+V	58.690	14.597	Albañil II. Auxiliar administrativo. Auxiliar de empresa. Auxiliar laboratorio. Auxiliar de oficina. Auxiliares. Ayudantes de
 
 laboratorio. Cocinero. Jardinero.
 
-Peluquera. Vigilante de bibliote-
-
-ca. Vigilante de comedor. Gra-
-
-bador.
+Peluquera. Vigilante de biblioteca. Vigilante de comedor. Grabador.
 
 VI	49.438	21.292	Todas las categorías de este
 
@@ -2381,11 +2356,7 @@ II	284.168		Periodista*.
 
 III	237.441		Analista de informática*.
 
-Ayudante de biblioteca*. Direc-
-
-tor de centro*. Educador*. Ins-
-
-tructor*. Maestro. Maestro*.
+Ayudante de biblioteca*. Director de centro*. Educador*. Instructor*. Maestro. Maestro*.
 
 Profesor titular*. Profesoras*.
 

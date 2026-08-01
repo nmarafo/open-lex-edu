@@ -37,6 +37,9 @@ relaciones:
   - norma_id: norm-es-2019-317
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -531,8 +534,7 @@ d) Proponer ideas y coordinar las propuestas para la elaboración del Plan de In
 de las TIC, contribuyendo al desarrollo de la competencia digital e implicando al resto de 
 docentes del centro.
 e) Orientar, informar y apoyar al profesorado sobre el desarrollo de la competencia 
-digital y las herramientas y recursos TIC que sirvan de apoyo al proceso de enseñanza-
-aprendizaje.
+digital y las herramientas y recursos TIC que sirvan de apoyo al proceso de enseñanzaaprendizaje.
 f) Coordinar la organización y potenciar la utilización de videoteca, fonoteca, aula de 
 recursos, aulas de nuevas tecnologías, aulas virtuales de apoyo a la enseñanza presencial y 
 cualquier otra herramienta que favorezca la utilización de metodologías diversas adaptadas 

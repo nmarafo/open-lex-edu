@@ -31,6 +31,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-3-2022
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-d-9-2022
@@ -50,6 +51,7 @@ relaciones:
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2025-047-107
   - norma_id: norm-can-res-boc-2025-061-106
@@ -2273,8 +2275,7 @@ Carpintería y mueble.
 • Diseño y amueblamiento.Instalación y amueblamiento.
 Procesado y transformación de la
 madera.
-Marítimo-
-pesquera.
+Marítimopesquera.
 Cultivos acuícolas.
 • Acuicultura.
 • Organización del
@@ -2464,7 +2465,6 @@ Responsable del tratamiento: Consejería de Educación, Formación Profesional, 
 Gobierno de Canarias, extinta Consejería de Educación, Universidades, Cultura y Deportes. Finalidad del tratamiento: 
 gestión relativa al tratamiento de datos de carácter personal.
 Información adicional: 
-https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/gestion-relativa-proteccion-
-datos-caracter-personal/
+https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/gestion-relativa-protecciondatos-caracter-personal/
 ANEXO IX
 DECLARACIÓN RESPONSABLE DE ALÉRGENOS

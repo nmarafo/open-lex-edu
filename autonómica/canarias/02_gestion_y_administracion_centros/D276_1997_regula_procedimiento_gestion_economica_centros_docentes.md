@@ -32,8 +32,11 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-o-25-2-2003
   - norma_id: norm-can-res-097
@@ -81,8 +84,6 @@ Siguiente
 I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
 
 1726 - ORDEN de 12 de diciembre de 1997, por la que se modifica la Orden de 19 de agosto de 1997, que regula las operaciones de cierre del ejercicio 1997 y apertura de 1998 en relación a la contabilidad de los gastos e ingresos públicos (B.O.C. nº 116, de 5.9.97).
-
-Descargar en formato pdf
 
 La Orden de este Departamento de 19 de agosto de 1997 establece en su artículo 4º las fechas límites de entrada de los diferentes documentos contables de gestión presupuestaria, en las intervenciones.
 

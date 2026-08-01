@@ -40,6 +40,8 @@ relaciones:
   - norma_id: norm-es-2016-3229
   - norma_id: norm-es-2021-20113
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
   - norma_id: norm-can-res-boc-2018-124-126
   - norma_id: norm-can-res-boc-2026-060-61
@@ -353,8 +355,7 @@ agentes fundamentales en la construcción de una escuela inclusiva y que permane
 estimule la participación en las decisiones que afecten a los procesos educativos de sus hijos 
 e hijas.
 2. Los centros docentes promoverán la formación de padres y madres o las personas 
-representantes legales del alumnado mediante la puesta en marcha de programas familia-
-escuela que favorezcan su colaboración en la vida de los centros y donde puedan interaccionar 
+representantes legales del alumnado mediante la puesta en marcha de programas familiaescuela que favorezcan su colaboración en la vida de los centros y donde puedan interaccionar 
 docentes y familias en una red de enriquecimiento mutuo que favorecerá la mejora en la 
 vida de los centros y el éxito, la promoción, la permanencia y la continuidad escolar del 
 alumnado.

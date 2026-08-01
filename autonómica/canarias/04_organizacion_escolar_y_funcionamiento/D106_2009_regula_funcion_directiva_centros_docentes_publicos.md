@@ -32,6 +32,9 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-o-2013-10-09
@@ -91,8 +94,6 @@ Siguiente
 III. OTRAS RESOLUCIONES - Consejería de Agricultura, Ganadería, Pesca y Alimentación
 
 1213 - ORDEN de 28 de julio de 2009, por la que se convocan para el año 2009 las subvenciones previstas en la Medida 421 (Cooperación) del Programa de Desarrollo Rural de Canarias, PDR 2007-2013, y se aprueban las bases que han de regir la misma.
-
-Descargar en formato pdf
 
 Examinada la iniciativa de la Dirección General de Desarrollo Rural para convocar en el año 2009 las subvenciones previstas en la Medida 421 (Cooperación) del "Programa de Desarrollo Rural de Canarias, PDR 2007-2013", y para aprobar las bases que han de regir las mismas, así como la propuesta formulada por la Secretaría General Técnica en relación con dicha iniciativa, y teniendo en cuenta los siguientes
 

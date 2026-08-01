@@ -36,6 +36,8 @@ relaciones:
   - norma_id: norm-es-rdl-5-2015
   fundamento_de:
   - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-boc-2026-039-111
+  desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -54,17 +56,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
 **FELIPE VI**

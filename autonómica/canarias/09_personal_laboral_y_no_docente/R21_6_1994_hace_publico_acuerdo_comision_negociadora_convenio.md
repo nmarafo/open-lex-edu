@@ -24,6 +24,10 @@ tags:
 relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  desarrolla:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -54,7 +58,7 @@ Siguiente
 III. OTRAS RESOLUCIONES - C.Trabajo
 y Función Pública
 1066 - RESOLUCIÓN de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
-Descargar en formato pdf
+
 Visto el Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, y de conformidad con lo dispuesto en el artº. 90, números 2 y 3, de la Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores y el Real Decreto 661/1984, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias, en materia de trabajo respectivamente, y el Decreto 230/1993, de 29 de julio, del Reglamento Orgánico de la Consejería de Trabajo y Función Pública, esta Dirección General
 ACUERDA:
 Primero.- Ordenar la inscripción en el Registro Oficial de Convenios Colectivos con notificación a la Comisión Negociadora.

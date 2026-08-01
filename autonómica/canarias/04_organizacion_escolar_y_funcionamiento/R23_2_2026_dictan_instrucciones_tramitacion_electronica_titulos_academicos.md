@@ -29,12 +29,14 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-can-d-84-2024
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2001-7022
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-40-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

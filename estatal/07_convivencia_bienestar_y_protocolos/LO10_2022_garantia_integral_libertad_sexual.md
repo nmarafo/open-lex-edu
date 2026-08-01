@@ -41,6 +41,9 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  desarrollado_por: []
+  fundamento_de:
+  - norma_id: norm-can-res-125
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -60,17 +63,6 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-2021
 - norma_id: norm-es-rdl-2-2015
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 10/2022 de Garantía Integral de la Libertad Sexual
 
 **FELIPE VI**

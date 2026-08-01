@@ -28,6 +28,9 @@ relaciones:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -41,7 +44,6 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2017-169-4284.
 
 # Resolución de 28 de agosto de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se dictan instrucciones para la tramitación electrónica del procedimiento que regula las actividades escolares complementarias, actividades extraescolares y servicios escolares en los centros privados concertados de Canarias (BOC n.º 169, de 1 de septiembre).
 
-https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
 III. Otras Resoluciones
 Consejería de Educación y Universidades
@@ -80,7 +82,6 @@ que le son propias con arreglo a lo previsto en el artículo 13 del [Decreto 135
 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación 
 y Universidades (BOC nº 203, de 19.10.16); el artículo 9 del Decreto 183/2015, de 21 de 
 
-https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
 julio, por el que se determina la estructura central y periférica, así como las sedes de las 
 Consejerías del Gobierno de Canarias (BOC nº 142, de 23.7.15); y el Decreto 203/2017, de 
@@ -101,7 +102,6 @@ Públicas (BOE nº 236, de 2 de octubre).
 Santa Cruz de Tenerife, a 28 de agosto de 2017.- El Director General de Ordenación, 
 Innovación y Promoción Educativa, Jonathan Martín Fumero.
 
-https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
 A N E X O
 INSTRUCCIONES 
@@ -139,7 +139,6 @@ a) Por canal telemático. La persona física, titular del centro, o quien ostent
 representación, para la presentación del formulario vía telemática y tramitación, deberá 
 disponer de cualquiera de los sistemas de identificación y firma electrónica admitidos en la 
 
-https://sede.gobcan.es/cpji/boc
 Viernes 1 de septiembre de 2017
 sede electrónica, definidos en la dirección https://sede.gobcan.es/educacionyuniversidades/
 la_sede/sistemas_firma/

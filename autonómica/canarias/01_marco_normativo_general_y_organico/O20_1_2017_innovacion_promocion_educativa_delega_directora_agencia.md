@@ -30,6 +30,11 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-2012-9282
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -48,8 +53,6 @@ ocr_procesado: true
 
 # Resolución de 20 de enero de 2017, de la Dirección General de Ordenación, Innovación y Promoción Educativa, por la que se delega en la Directora de la Agencia Canaria de Calidad Universitaria y Evaluación Educativa determinadas competencias en materia de innovación y promoción educativa (BOC n.º 20, de 30 de enero).
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1816
 III. Otras Resoluciones
@@ -95,8 +98,6 @@ de la técnica de delegación, si bien resulta precisa la aceptación expresa po
 de tal delegación.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1817
 Cuarto.- Mediante escrito de fecha 17 de enero de 2017, con Registro nº 2463/2017, 
@@ -139,8 +140,6 @@ Tercero.- 1. El artículo 14 del citado Decreto 1/2010, de 12 de enero, relativo
 “Régimen económico y financiero” establece en sus apartados 2 y 3 que la financiación 
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1818
 de la actividad de la Agencia se realizará principalmente con cargo al presupuesto de la 
@@ -181,8 +180,6 @@ gestión económica y administrativa de las mismas.
 sin perjuicio de las competencias atribuidas a otros centros directivos.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1819
 • Promover y publicar contenidos de carácter educativo y didáctico en materia de 
@@ -215,8 +212,6 @@ Santa Cruz de Tenerife, a 20 de enero de 2017.- El Director General de Ordenaci�
 Innovación y Promoción Educativa, Juan Rafael Bailón Casanova.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1820
  ANEXO 
@@ -254,8 +249,6 @@ GRAN CANARIA:     35707201 CENTRO DE PROFESORES TELDE
 LANZAROTE:           35700043 CENTRO DE PROFESORES LANZAROTE
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1821
 CENTRO DIRECTIVO 394640
@@ -279,13 +272,10 @@ PROYECTOS INNOVACIÓN                                                           
 .
 boc-a-2017-020-416
 
-
 ## ANEXOS Y TABLAS COMPLEMENTARIAS (Transcritos del BOC)
 
 ### Fuente Anexo PDF: https://sede.gobiernodecanarias.org/boc/boc-a-2017-020-416.pdf
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1816
 III. Otras Resoluciones
@@ -331,8 +321,6 @@ de la técnica de delegación, si bien resulta precisa la aceptación expresa po
 de tal delegación.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1817
 Cuarto.- Mediante escrito de fecha 17 de enero de 2017, con Registro nº 2463/2017, 
@@ -375,8 +363,6 @@ Tercero.- 1. El artículo 14 del citado Decreto 1/2010, de 12 de enero, relativo
 “Régimen económico y financiero” establece en sus apartados 2 y 3 que la financiación 
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1818
 de la actividad de la Agencia se realizará principalmente con cargo al presupuesto de la 
@@ -417,8 +403,6 @@ gestión económica y administrativa de las mismas.
 sin perjuicio de las competencias atribuidas a otros centros directivos.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1819
 • Promover y publicar contenidos de carácter educativo y didáctico en materia de 
@@ -451,8 +435,6 @@ Santa Cruz de Tenerife, a 20 de enero de 2017.- El Director General de Ordenaci�
 Innovación y Promoción Educativa, Juan Rafael Bailón Casanova.
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1820
  ANEXO 
@@ -490,8 +472,6 @@ GRAN CANARIA:     35707201 CENTRO DE PROFESORES TELDE
 LANZAROTE:           35700043 CENTRO DE PROFESORES LANZAROTE
 boc-a-2017-020-416
 
-Boletín Oficial de Canarias núm. 20
-https://sede.gobcan.es/cpji/boc
 Lunes 30 de enero de 2017
 1821
 CENTRO DIRECTIVO 394640

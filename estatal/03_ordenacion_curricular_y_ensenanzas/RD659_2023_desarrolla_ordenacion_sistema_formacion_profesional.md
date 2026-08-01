@@ -35,6 +35,17 @@ relaciones:
   - norma_id: norm-es-lo-3-2022
   desarrollado_por:
   - norma_id: norm-es-2025-2039
+  - norma_id: norm-can-res-boc-2024-226-44
+  - norma_id: norm-can-res-036
+  - norma_id: norm-can-res-034
+  - norma_id: norm-can-res-039
+  - norma_id: norm-can-res-038
+  - norma_id: norm-can-res-boc-2025-046-47
+  - norma_id: norm-can-res-042
+  - norma_id: norm-can-res-035
+  - norma_id: norm-can-res-037
+  - norma_id: norm-can-res-033
+  - norma_id: norm-can-res-boc-2024-230-25
   fundamentado_en:
   - norma_id: norm-es-1988-3987
   - norma_id: norm-es-1988-6938
@@ -61,6 +72,21 @@ relaciones:
   - norma_id: norm-es-2024-10684
   - norma_id: norm-es-2024-10685
   - norma_id: norm-es-2026-12038
+  - norma_id: norm-can-res-040
+  - norma_id: norm-can-res-043
+  - norma_id: norm-can-res-boc-2026-129-26
+  - norma_id: norm-can-res-boc-2026-070-41
+  - norma_id: norm-can-res-boc-2026-039-103
+  - norma_id: norm-can-res-032
+  - norma_id: norm-can-d-84-2024
+  - norma_id: norm-can-res-027
+  - norma_id: norm-can-res-boc-2026-039-102
+  - norma_id: norm-can-res-boc-2025-118-46
+  - norma_id: norm-can-res-boc-2025-047-107
+  - norma_id: norm-can-res-boc-2026-141-29
+  - norma_id: norm-can-res-boc-2025-047-108
+  - norma_id: norm-can-res-030
+  - norma_id: norm-can-res-boc-2026-073-113
 fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
   articulos:
@@ -88,17 +114,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-rdl-2-2015
 ---
-
-
-
-
-
-
-
-
-
-
-
 # [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**

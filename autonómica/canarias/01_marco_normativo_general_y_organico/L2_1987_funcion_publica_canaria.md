@@ -35,11 +35,16 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   desarrollado_por:
   - norma_id: norm-can-d-74-2010
   fundamentado_en:
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-1984-17387
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-d-168-2009
   - norma_id: norm-can-res-125
@@ -53,16 +58,6 @@ fundamentos_derecho:
   - '136'
 - norma_id: norm-es-1984-17387
 ---
-
-
-
-
-
-
-
-
-
-
 
 # Ley 2/1987 de la Función Pública Canaria
 

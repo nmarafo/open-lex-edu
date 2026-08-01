@@ -40,9 +40,12 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-3-2022
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-boc-2025-047-108
   - norma_id: norm-can-res-boc-2025-061-106
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -163,10 +166,8 @@ en la Comunidad Autónoma de Canarias para el curso 2025-2026. Los calendarios p
 cada una de las enseñanzas se establecen en los anexos siguientes:
 CALENDARIO ANEXOS
 Enseñanzas de Formación Profesional de Grado D correspondientes a 
-los Ciclos Formativos de Grado Básico, Grado Medio y Grado Supe-
-rior (niveles 1, 2 y 3, respectivamente) en las modalidades presencial y 
-a distancia (semipresencial y virtual), incluyendo al alumnado de con-
-tinuidad.
+los Ciclos Formativos de Grado Básico, Grado Medio y Grado Superior (niveles 1, 2 y 3, respectivamente) en las modalidades presencial y 
+a distancia (semipresencial y virtual), incluyendo al alumnado de continuidad.
 I
 Ciclos formativos de grado medio y grado superior de las Enseñanzas
 Profesionales de Artes Plásticas y Diseño. II
@@ -229,8 +230,7 @@ PERIODO ACTIVIDAD
 04 de abril
 Último día para que los centros cumplimenten a través de la página web de la Conseje -
 ría de Educación, Formación Profesional, Actividad Física y Deportes los datos referidos 
-al alumnado y a los grupos del presente curso escolar, la previsión de evolución del alum-
-nado y horario de secretaría.
+al alumnado y a los grupos del presente curso escolar, la previsión de evolución del alumnado y horario de secretaría.
 Último día para que los centros publiquen los datos referidos a las plazas escolares dis -
 ponibles (según grupos autorizados, número de repetidores previstos y alumnado con 
 necesidades educativas especiales), horario de funcionamiento del centro, turnos y mo -
@@ -244,10 +244,8 @@ vos de Grado Básico (nivel 1), Grado Medio (nivel 2) y Grado Superior (nivel
 28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación
 informática.
 17 de mayo Realización de las pruebas de acceso a la Formación Profesional.
-Del 19 al 23 de ma-
-yo
-Plazo para que el alumnado que cursa segundo bachillerato en centros privados, concer-
-tados, o que procede de otra Comunidad Autónoma, entregue en la secretaría
+Del 19 al 23 de mayo
+Plazo para que el alumnado que cursa segundo bachillerato en centros privados, concertados, o que procede de otra Comunidad Autónoma, entregue en la secretaría
 del centro el certificado de calificaciones donde conste la nota media del expediente.
 27 de mayo Último día para que los centros graben la nota media del alumnado que procede de
 centros privados, concertados o de otra Comunidad Autónoma.
@@ -260,9 +258,7 @@ Del 04 al 06 de junio ❏ Plazo de reclamación a las listas provisionales.
 renuncias.
 Del 17 al 20 de
 junio
-Plazo para que el alumnado que cursa segundo bachillerato en centros privados, o que pro-
-cede de otra Comunidad Autónoma, y ha superado la evaluación final extraordinaria, en-
-tregue en la secretaría del centro el certificado de calificaciones donde conste la nota me -
+Plazo para que el alumnado que cursa segundo bachillerato en centros privados, o que procede de otra Comunidad Autónoma, y ha superado la evaluación final extraordinaria, entregue en la secretaría del centro el certificado de calificaciones donde conste la nota me -
 dia del expediente.
 23 de junio
 Último día para que los centros graben la nota media del alumnado que procede de cen -
@@ -339,8 +335,7 @@ Del 7 al 23 de abril
 Periodo de solicitud de plaza y de inscripción a la prueba específica de acceso a 
 ciclos formativos de grado medio y superior de artes plásticas y diseño y solicitud 
 de exención a dicha prueba.
-28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación in-
-formática.
+28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación informática.
 29 de abril
 Publicación de listas provisionales de solicitantes de plaza, inscritos y exentos en 
 la prueba específica de acceso a ciclos formativos de grado medio y superior de ar -
@@ -361,15 +356,12 @@ certificado de calificaciones donde conste la nota media del expediente.
 23 y 26 de mayo Plazo de reclamación a las calificaciones obtenidas en la prueba específica.
 27 de mayo Último día para que los centros graben la nota media del alumnado que procede de 
 centros privados o de otra Comunidad Autónoma.
-27 de mayo Último día para que los centros públicos revisen y graben las notas medias de ba-
-chillerato en la aplicación de previsión y evolución del alumnado.
+27 de mayo Último día para que los centros públicos revisen y graben las notas medias de bachillerato en la aplicación de previsión y evolución del alumnado.
 27 de mayo Último día para que el centro grabe las modificaciones derivadas de las
 reclamaciones.
-4 de junio Publicación de las listas provisionales de adjudicación de plazas (admitidos, reser-
-va y excluidos).
+4 de junio Publicación de las listas provisionales de adjudicación de plazas (admitidos, reserva y excluidos).
 Del 4 al 6 de junio Plazo de reclamación a las listas provisionales de adjudicación de plazas.
-12 de junio Último día para que el centro grabe las modificaciones derivadas de las reclama-
-ciones.
+12 de junio Último día para que el centro grabe las modificaciones derivadas de las reclamaciones.
 Del 16 al 19 de junio
 Plazo para que el alumnado que cursa segundo bachillerato en centros privados, o 
 que procede de otra Comunidad Autónoma, y ha superado la evaluación final extra -
@@ -413,22 +405,18 @@ acceso a ciclos formativos de grado medio y superior de Artes Plásticas
 y Diseño y solicitud de exención a dicha prueba.
 5 de septiembre
 Publicación de listas provisionales de solicitantes de plaza, inscritos y
-exentos en la prueba específica de acceso a ciclos formativos de grado me-
-dio y superior de Artes Plásticas y Diseño.
-Del 5 al 9 de septiembre Plazo de reclamación a las listas provisionales de solicitantes de plaza, ins-
-critos y exentos en las pruebas específicas de acceso.
+exentos en la prueba específica de acceso a ciclos formativos de grado medio y superior de Artes Plásticas y Diseño.
+Del 5 al 9 de septiembre Plazo de reclamación a las listas provisionales de solicitantes de plaza, inscritos y exentos en las pruebas específicas de acceso.
 10 de septiembre Publicación de listas definitivas de solicitantes de plaza, inscritos y
 exentos en las pruebas específicas de acceso.
 11 de septiembre Realización de la prueba específica a las 08:30 horas en las Escuelas de 
 Arte y Escuelas de Arte y Superiores de Diseño.
 12 de septiembre Publicación de las calificaciones provisionales de la prueba específica y 
 publicación de las listas provisionales de adjudicación de plazas.
-Del 15 al 17 de septiembre Plazo de reclamación a las calificaciones obtenidas en la prueba especí-
-fica y a las listas provisionales de adjudicación de plazas.
+Del 15 al 17 de septiembre Plazo de reclamación a las calificaciones obtenidas en la prueba específica y a las listas provisionales de adjudicación de plazas.
 18 de septiembre
 Resolución de las reclamaciones y publicación de las listas definitivas de
-adjudicación de plazas y de las calificaciones definitivas de la prueba es-
-pecífica.
+adjudicación de plazas y de las calificaciones definitivas de la prueba específica.
 Del 19 de septiembre al 20 
 de octubre
 Plazo para interponer recurso de alzada ante la Dirección Territorial de 
@@ -455,8 +443,7 @@ Del 7 al 23 de abril
 Periodo de solicitud de plaza y de inscripción a la prueba específica de acceso a 
 ciclos formativos de grado medio y superior de artes plásticas y diseño y solicitud 
 de exención a dicha prueba.
-28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación in-
-formática.
+28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación informática.
 29 de abril
 Publicación de listas provisionales de solicitantes de plaza, inscritos y exentos en 
 la prueba específica de acceso a ciclos formativos de grado medio y superior de ar -
@@ -477,15 +464,12 @@ certificado de calificaciones donde conste la nota media del expediente.
 23 y 26 de mayo Plazo de reclamación a las calificaciones obtenidas en la prueba específica.
 27 de mayo Último día para que los centros graben la nota media del alumnado que procede de 
 centros privados o de otra Comunidad Autónoma.
-27 de mayo Último día para que los centros públicos revisen y graben las notas medias de ba-
-chillerato en la aplicación de previsión y evolución del alumnado.
+27 de mayo Último día para que los centros públicos revisen y graben las notas medias de bachillerato en la aplicación de previsión y evolución del alumnado.
 27 de mayo Último día para que el centro grabe las modificaciones derivadas de las
 reclamaciones.
-4 de junio Publicación de las listas provisionales de adjudicación de plazas (admitidos, reser-
-va y excluidos).
+4 de junio Publicación de las listas provisionales de adjudicación de plazas (admitidos, reserva y excluidos).
 Del 4 al 6 de junio Plazo de reclamación a las listas provisionales de adjudicación de plazas.
-12 de junio Último día para que el centro grabe las modificaciones derivadas de las reclama-
-ciones.
+12 de junio Último día para que el centro grabe las modificaciones derivadas de las reclamaciones.
 Del 16 al 19 de junio
 Plazo para que el alumnado que cursa segundo bachillerato en centros privados, o 
 que procede de otra Comunidad Autónoma, y ha superado la evaluación final extra -
@@ -500,16 +484,14 @@ PERIODO ACTIVIDAD
 4 de abril
 Último día para que los centros cumplimenten, a través de la página web de la Con -
 sejería de Educación, Formación Profesional, Actividad Física y Deportes, los datos 
-referidos al alumnado y a los grupos del presente curso escolar, y horario de secreta-
-ría.
+referidos al alumnado y a los grupos del presente curso escolar, y horario de secretaría.
 Último día para que los centros publiquen los datos referidos a las características del 
 centro (enseñanzas que se imparten, jornada escolar) y plazas escolares disponibles  
 según grupos autorizados, turno, requisitos de acceso, calendario de admisión y
 normativa reguladora de la admisión.
 Del 7 al 23 de abril Periodo de solicitud de plaza e inscripción y solicitud de exención a las pruebas 
 específicas de acceso a las Enseñanzas Deportivas.
-28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación in-
-formática.
+28 de abril Último día para que los centros cumplimenten los datos a través de la aplicación informática.
 5 de mayo Publicación de listas provisionales de solicitantes de plaza, inscritos y exentos en las 
 pruebas específicas de acceso a las Enseñanzas Deportivas.
 Del 6 al 8 de mayo Plazo de reclamación a las listas provisionales de solicitantes de plaza, inscritos y 
@@ -522,9 +504,7 @@ Realización de las pruebas específicas de acceso a las Enseñanzas Deportivas.
 2 de junio Publicación de listas provisionales de adjudicación de plazas y de los resultados 
 provisionales de las pruebas específicas de acceso.
 Del 3 al 5 de junio
-Plazo de reclamación a las listas provisionales de adjudicación de plazas y a los re-
-sultados provisionales de las pruebas específicas de acceso (en el centro correspon-
-diente).
+Plazo de reclamación a las listas provisionales de adjudicación de plazas y a los resultados provisionales de las pruebas específicas de acceso (en el centro correspondiente).
 6 de junio Último día para que el centro grabe las modificaciones derivadas de las
 reclamaciones.
 20 de junio Último día para que los centros públicos revisen y graben las notas medias en la 
@@ -537,10 +517,8 @@ julio
 Plazo para interponer recurso de alzada ante la Dirección Territorial de Educación 
 contra las lista.
 Del 23 de junio 
-al 8 de ju-
-lio
-Plazo de matrícula para el alumnado de continuidad, repetidor y de nuevo in-
-greso.
+al 8 de julio
+Plazo de matrícula para el alumnado de continuidad, repetidor y de nuevo ingreso.
 8 y 9 de julio Publicación de vacantes y periodo para completar la matrícula de grupos.
 10 de julio Plazo para grabar en la aplicación informática el alumnado matriculado, antes de las 
 14:00 horas.
@@ -554,10 +532,8 @@ Los centros que dispongan de plazas vacantes, una vez cerrado el plazo ordinario
 segundo plazo según el siguiente calendario:
 PERIODO ACTIVIDAD
 14 de julio Publicación de plazas vacantes.
-Del 14 al 31 de ju-
-lio
-y del 1 al 3 de sep-
-tiembre
+Del 14 al 31 de julio
+y del 1 al 3 de septiembre
 Periodos de solicitud de plaza y de inscripción a la prueba específica de acceso a las 
 Enseñanzas Deportivas y solicitud de exención a dicha prueba.
 4 de septiembre Publicación de listas provisionales de solicitantes de plaza, inscritos y exentos en las 
@@ -570,16 +546,13 @@ exentos en las pruebas específicas de acceso y a la renuncia de solicitud.
 pruebas específicas de acceso.
 Del 10 al 11 de 
 septiembre Realización de las pruebas específicas de acceso a Enseñanzas Deportivas.
-12 de septiembre Publicación de listas provisionales de adjudicación de plazas y de los resultados pro-
-visionales de las pruebas específicas de acceso.
+12 de septiembre Publicación de listas provisionales de adjudicación de plazas y de los resultados provisionales de las pruebas específicas de acceso.
 Del 12 al 16 de
 septiembre
 Plazo de reclamación a las listas provisionales de adjudicación de plazas y a los
 resultados provisionales de las pruebas específicas de acceso.
-16 de septiembre Resolución de las reclamaciones y publicación de las listas definitivas de adjudica-
-ción de plazas y de las calificaciones definitivas de las pruebas específico.
-Del 17 de sep-
-tiembre al 17
+16 de septiembre Resolución de las reclamaciones y publicación de las listas definitivas de adjudicación de plazas y de las calificaciones definitivas de las pruebas específico.
+Del 17 de septiembre al 17
 de octubre
 Plazo para interponer recurso de alzada ante la Dirección Territorial de Educación 
 contra las listas definitivas de adjudicación de plazas y contra las calificaciones defini -
@@ -597,27 +570,22 @@ PERIODO ACTIVIDAD
 web de la Consejería de Educación, Formación Profesional, Actividad
 Física y Deportes, los datos referidos al alumnado y a los grupos del 
 presente curso escolar, previsiones de alumnado y horario de secretaría.
-Último día para la publicación, en los Conservatorios Profesiona-
-les de Música, de la oferta previa de plazas disponibles.
+Último día para la publicación, en los Conservatorios Profesionales de Música, de la oferta previa de plazas disponibles.
 Del 8 al 30 de abril Periodo de solicitud de plazas e inscripción en las pruebas de acceso a 
 las enseñanzas de música.
 2 de mayo Último día para que los centros cumplimenten los datos de inscripción 
 a través de la aplicación informática prevista.
-5 de mayo Publicación de las listas provisionales de inscritos en el correspondien-
-te Conservatorio de Música.
+5 de mayo Publicación de las listas provisionales de inscritos en el correspondiente Conservatorio de Música.
 Del 6 al 8 de mayo Plazo de reclamación a las listas provisionales de inscritos dirigidas a la 
 Dirección del Conservatorio.
-9 de mayo Resolución de las reclamaciones de las listas de inscritos por la Direc-
-ción del Conservatorio. Publicación de las listas definitivas de inscritos
+9 de mayo Resolución de las reclamaciones de las listas de inscritos por la Dirección del Conservatorio. Publicación de las listas definitivas de inscritos
 26 de mayo Publicación de los tribunales por la Dirección de cada Conservatorio de 
 Música.
 Del 10 al 20 de junio Celebración de las pruebas de acceso.
-23 de junio Publicación de las calificaciones de la prueba de acceso y publica-
-ción de las listas provisionales de admitidos.
+23 de junio Publicación de las calificaciones de la prueba de acceso y publicación de las listas provisionales de admitidos.
 Del 24 al 26 de junio Plazo de reclamaciones a las calificaciones de la prueba de acceso y a 
 las listas provisionales de admitidos.
-27 de junio Resolución de las reclamaciones y publicación listas definitivas de admi-
-tidos.
+27 de junio Resolución de las reclamaciones y publicación listas definitivas de admitidos.
 Del 30 de junio al 30 de
 julio
 Plazo para interponer recurso de
@@ -626,15 +594,11 @@ Educación contra la calificación obtenida en la prueba de acceso y a la
 lista definitiva de adjudicación de plazas.
 Del 16 de junio al 27
 de junio Plazo ordinario de matrícula para alumnado de continuidad.
-Del 30 de junio al 8 de ju-
-lio
+Del 30 de junio al 8 de julio
 Plazo ordinario de matrícula para alumnado de nuevo ingreso.
 10 de julio
-Los centros cumplimentarán, antes de las 14:00 horas, los datos de ma-
-trícula y procederán a su remisión a la DGFPERE a través de los proce-
-dimientos informáticos previstos.
-Del 8 al 11 de sep-
-tiembre Plazo extraordinario de matrícula.
+Los centros cumplimentarán, antes de las 14:00 horas, los datos de matrícula y procederán a su remisión a la DGFPERE a través de los procedimientos informáticos previstos.
+Del 8 al 11 de septiembre Plazo extraordinario de matrícula.
 12 de septiembre Los centros cumplimentarán los datos de matrícula y procederán a su 
 remisión a la DGFPERE a través de los procedimientos informáticos
 previstos.
@@ -668,14 +632,12 @@ en el tablón de anuncios y página web del centro.
 Del 6 al 19 de junio Plazo de matrícula para el alumnado de continuidad.
 9 de junio Publicación de plazas vacantes definitivas.
 16 de junio
-Publicación de las  listas provisionales  de personas solicitantes  admiti-
-das, en reserva y excluidas (incluye a solicitantes de la prueba de clasi -
+Publicación de las  listas provisionales  de personas solicitantes  admitidas, en reserva y excluidas (incluye a solicitantes de la prueba de clasi -
 ficación con nivel ya asignado).
 Del 16 al 18 de junio Plazo de reclamación a las listas provisionales de personas solicitantes 
 admitidas,
 en reserva y excluidas.
-23 de junio Publicación de las listas definitivas de personas solicitantes ad-
-mitidas, en reserva y excluidas.
+23 de junio Publicación de las listas definitivas de personas solicitantes admitidas, en reserva y excluidas.
 Del 24 de junio al 24
 de julio
 Plazo para interponer  recurso de alzada  ante la Dirección Territorial de  
@@ -703,8 +665,7 @@ FECHA PROCEDIMIENTO
 19 de mayo
 Publicación de listas provisionales de personas que han solicitado realizar 
 la prueba de clasificación.
-Del 19 al 21 de mayo Plazo de reclamación a las listas provisionales de personas que han solici-
-tado realizar la prueba de clasificación.
+Del 19 al 21 de mayo Plazo de reclamación a las listas provisionales de personas que han solicitado realizar la prueba de clasificación.
 23 de mayo Publicación de listas definitivas de personas que han solicitado realizar la 
 prueba de clasificación.
 Hasta el 23 de mayo Plazo para solicitar la realización de la prueba de clasificación de manera 
@@ -716,11 +677,9 @@ PARTE ESCRITA
 En línea
 El cuestionario se abrirá a las 8:00 y se  
 cerrará a las 18:00. Se deberá iniciar 
-con antelación suficiente para su finali-
-zación antes de la hora de cierre.
+con antelación suficiente para su finalización antes de la hora de cierre.
 Entre 60 y 90 
-minutos de-
-pendiendo 
+minutos dependiendo 
 del idioma
 Presencial El centro convocará al alumnado con 
 indicación de la hora concreta.
@@ -749,8 +708,7 @@ Aridane
 X X
 Maspalomas X X X X X
 Puerto de la Cruz X X X
-Puerto del Rosa-
-rio
+Puerto del Rosario
 X X X X
 San Sebastián 
 de La Gomera

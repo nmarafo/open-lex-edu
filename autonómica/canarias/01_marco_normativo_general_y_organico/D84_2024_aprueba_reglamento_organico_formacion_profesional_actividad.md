@@ -34,6 +34,8 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-can-d-123-2023
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   fundamentado_en:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-l-14-1990
@@ -46,6 +48,7 @@ relaciones:
   - norma_id: norm-es-l-40-2015
   - norma_id: norm-es-l-9-2017
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-lo-2-2006
   fundamento_de:
   - norma_id: norm-can-res-027
   - norma_id: norm-can-res-028

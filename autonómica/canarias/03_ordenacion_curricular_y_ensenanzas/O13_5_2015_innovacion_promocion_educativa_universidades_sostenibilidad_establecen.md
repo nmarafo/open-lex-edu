@@ -34,6 +34,10 @@ relaciones:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-es-2014-2222
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -51,8 +55,7 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=72788
 
 Consejería de Educación, Universidades y Sostenibilidad
 2486 	Dirección General de Ordenación, Innovación y Promoción Educativa.- Resolución 
-de 13 de mayo de 2015, por la que se establecen las rúbricas de los criterios de eva-
-luación del segundo ciclo de la Educación Infantil y de la Educación Primaria para 
+de 13 de mayo de 2015, por la que se establecen las rúbricas de los criterios de evaluación del segundo ciclo de la Educación Infantil y de la Educación Primaria para 
 orientar y facilitar la evaluación objetiva del alumnado en la Comunidad Autónoma 
 de Canarias.
 Vista la necesidad de dotar a los centros educativos que imparten enseñanzas de segundo 
@@ -66891,8 +66894,7 @@ COMPETENCIAS
 7
 4. Aplicar los conocimientos propios de la
 Educación Física y de otras áreas en situaciones
-lúdico-motrices, artístico-expresivas y físico-
-motrices.
+lúdico-motrices, artístico-expresivas y físicomotrices.
 Con este criterio se pretende verificar si el
 alumnado es capaz de identificar, comprender y
 emplear el vocabulario adecuado, tanto de
@@ -70035,8 +70037,7 @@ COMPETENCIAS
 6
 7
 6. Regular y dosificar eficazmente la intensidad
-o duración del esfuerzo en las situaciones físico-
-motrices de diversa complejidad, teniendo en
+o duración del esfuerzo en las situaciones físicomotrices de diversa complejidad, teniendo en
 cuenta sus posibilidades y limitaciones, para
 mejorar sus capacidades físicas básicas y
 coordinativas y sus posibilidades motrices.
@@ -91655,8 +91656,7 @@ establecimiento de relaciones respetuosas a través
 de la puesta en práctica de la escucha activa,
 atención plena, técnicas de respiración y relajación,
 técnicas artístico­expresivas (modelaje,
- role-
-playing, dramatización, etc.), el movimiento
+ roleplaying, dramatización, etc.), el movimiento
 (gestos, posturas, etc.) y el juego para el desarrollo
 del bienestar personal y social, así como del
 establecimiento de relaciones interpersonales

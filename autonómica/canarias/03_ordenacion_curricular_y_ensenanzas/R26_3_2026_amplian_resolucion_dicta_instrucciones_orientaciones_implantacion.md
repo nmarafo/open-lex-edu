@@ -40,10 +40,13 @@ relaciones:
   - norma_id: norm-es-2025-2039
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-rd-659-2023
+  - norma_id: norm-es-l-39-2015
   fundamento_de:
   - norma_id: norm-can-res-028
   - norma_id: norm-can-res-boc-2026-070-115
   - norma_id: norm-can-res-boc-2026-070-116
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:

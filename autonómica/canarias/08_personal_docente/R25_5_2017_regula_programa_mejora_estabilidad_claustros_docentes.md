@@ -26,6 +26,12 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -225,8 +231,7 @@ boc-a-2017-106-2687
 
 Contra la presente Resolución, que pone fin a la vía administrativa, cabe formular recurso 
 potestativo de reposición ante la Dirección General de Personal en el plazo de un mes o 
-bien interponer recurso contencioso-administrativo ante el Juzgado de lo Contencioso-
-Administrativo que corresponda, sin perjuicio de cualquier otro que pudiera interponerse. 
+bien interponer recurso contencioso-administrativo ante el Juzgado de lo ContenciosoAdministrativo que corresponda, sin perjuicio de cualquier otro que pudiera interponerse. 
 Dichos plazos se computarán a partir del día siguiente al de la publicación de la presente 
 Resolución en el Boletín Oficial de Canarias. Si se presenta recurso de reposición no se podrá 
 interponer el contencioso-administrativo hasta que se resuelva el primero expresamente o se 

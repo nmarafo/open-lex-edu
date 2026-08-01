@@ -34,6 +34,8 @@ relaciones:
   - norma_id: norm-can-o-1-9-2010
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -79,8 +81,6 @@ I. DISPOSICIONES GENERALES - C.Agricultura
 y Alimentación
 
 422 - DECRETO 43/1995, de 10 de marzo, por el que se regula el procedimiento de resolución de las solicitudes de concesión de subvenciones presentadas al amparo de las Órdenes de la Consejería de Agricultura y Alimentación de fechas 17 de junio de 1994, 4 de agosto de 1992, 23 de octubre de 1992 y 30 de junio de 1989.
-
-Descargar en formato pdf
 
 Mediante la Orden de la Consejería de Agricultura y Alimentación de fecha 17 de junio de 1994 (B.O.C. nº 78, de 27.6.94) se realizó la convocatoria pública de auxilios para la modernización de las estructuras del sector del plátano en Canarias, en base al Decreto 156/1993, de 14 de mayo, habiéndose presentado una cantidad importante de solicitudes que excedían de las cantidades efectivamente existentes en los Presupuestos Generales de la Comunidad Autónoma de Canarias, quedando por ello sin resolver numerosas peticiones de subvenciones.
 

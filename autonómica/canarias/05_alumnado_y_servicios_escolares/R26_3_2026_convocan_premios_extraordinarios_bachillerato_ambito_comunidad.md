@@ -40,6 +40,8 @@ relaciones:
   - norma_id: norm-can-res-028
   - norma_id: norm-can-res-boc-2026-070-116
   - norma_id: norm-can-res-boc-2026-070-41
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -308,8 +310,7 @@ las universidades públicas de la Comunidad Autónoma de Canarias.
 recurrida potestativamente en reposición en el plazo de un mes ante el Consejero de 
 Educación, Formación Profesional, Actividad Física y Deportes, o ser impugnada mediante 
 la interposición de recurso contencioso-administrativo conforme a lo establecido en el 
-artículo 11.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-
-administrativa, en el plazo de dos meses a contar desde el día siguiente a la fecha de su 
+artículo 11.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosoadministrativa, en el plazo de dos meses a contar desde el día siguiente a la fecha de su 
 publicación, de acuerdo con lo dispuesto en el artículo 46.1 de la citada Ley.
 Duodécimo.- Premios Nacionales de Bachillerato.
 1. En el supuesto de que el Ministerio de Educación, Formación Profesional y Deportes 

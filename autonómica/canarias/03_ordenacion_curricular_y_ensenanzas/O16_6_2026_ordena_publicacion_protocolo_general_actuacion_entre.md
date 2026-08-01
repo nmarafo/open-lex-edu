@@ -46,6 +46,8 @@ relaciones:
   - norma_id: norm-es-lo-8-2021
   - norma_id: norm-es-rd-659-2023
   - norma_id: norm-es-rdl-2-2015
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -155,8 +157,7 @@ LOOIFP), establece como uno de sus principios
 generales, recogido en el apartado g) del artículo 3.1, el de la “participación de las empresas 
 
 y los agentes económicos y sociales en el diseño, desarrollo, evaluación e innovación de la 
-formación profesional, asegurando el circuito de transferencia de conocimiento formación-
-empresa y el interés público”, fijándose, además, como uno de los objetivos del Sistema 
+formación profesional, asegurando el circuito de transferencia de conocimiento formaciónempresa y el interés público”, fijándose, además, como uno de los objetivos del Sistema 
 de Formación Profesional, a tenor de lo establecido en el artículo 6.7, “el impulso de la 
 dimensión dual de la formación profesional y de sus vínculos con el sistema productivo 
 en un marco de colaboración público-privada entre administraciones, centros, empresas 
@@ -499,7 +500,7 @@ artículo  5.2,  g)  que  el  Consejero  o  Consejera  le  corresponde  la  comp
 convenios y acuerdos con otras Administraciones, instituciones y entidades públicas o privadas  
 relativos  a  planes,  programas,  servicios,  actividades  y  medios  relacionados  con  las  áreas  
 materiales de educación, formación profesional, actividad física y deportes». 
-En virtud de lo expuesto, y de acuerdo con lo previsto en el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) de 26 de 
+En virtud de lo expuesto, y de acuerdo con lo previsto en el artículo 29 de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md) de 26 de 
 julio, de Régimen Jurídico de las Administraciones Públicas de Canarias, en relación con el  
 artículo 5.2 g) del Reglamento Orgánico de Educación, Formación Profesional, Actividad Física y 
 Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio.
@@ -1299,8 +1300,7 @@ La Agencia Española de Protección de Datos (AEPD) es la autoridad estatal de c
 sobre protección de datos. Garantiza y tutela el derecho fundamental a la protección de datos de carácter personal de los ciudadanos.
 Presentación  de  reclamaciones  (ante  la  Sede  electrónica  de  la  AEPD):  https://sedeagpd.gob.es/sede-electronica-web/vistas/formNuevaReclamacion/
 nuevaReclamacion.jsf?QID=Q500&ce=0
-Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-en-
-Empresas-y-Organismos-Equiparados/
+Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-enEmpresas-y-Organismos-Equiparados/
                                                                                     
                                                                                                                                                                                                                                                                                                  
                                                                                                                                    
@@ -1364,8 +1364,7 @@ La Agencia Española de Protección de Datos (AEPD) es la autoridad estatal de c
 sobre protección de datos. Garantiza y tutela el derecho fundamental a la protección de datos de carácter personal de los ciudadanos.
 Presentación  de  reclamaciones  (ante  la  Sede  electrónica  de  la  AEPD):  https://sedeagpd.gob.es/sede-electronica-web/vistas/formNuevaReclamacion/
 nuevaReclamacion.jsf?QID=Q500&ce=0
-Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-en-
-Empresas-y-Organismos-Equiparados/
+Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-enEmpresas-y-Organismos-Equiparados/
                                                                                      
                                                                                                                                                                                                        
                                          
@@ -1423,5 +1422,4 @@ La Agencia Española de Protección de Datos (AEPD) es la autoridad estatal de c
 sobre protección de datos. Garantiza y tutela el derecho fundamental a la protección de datos de carácter personal de los ciudadanos.
 Presentación  de  reclamaciones  (ante  la  Sede  electrónica  de  la  AEPD):  https://sedeagpd.gob.es/sede-electronica-web/vistas/formNuevaReclamacion/
 nuevaReclamacion.jsf?QID=Q500&ce=0
-Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-en-
-Empresas-y-Organismos-Equiparados/
+Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/vfpcf/Gestion-Practicas-Formativas-Alumnado-Formacion-Profesional-enEmpresas-y-Organismos-Equiparados/
