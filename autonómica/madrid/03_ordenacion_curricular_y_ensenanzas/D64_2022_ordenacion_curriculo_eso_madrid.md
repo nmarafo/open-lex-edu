@@ -1,28 +1,29 @@
 ---
-id: norm-mad-d-36-2022
-codigo_sintetizado: D36_2022 Ordenacion y Curriculo Educacion Infantil Madrid
-titulo: Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece
-  para la Comunidad de Madrid la ordenación y el currículo de la Educación Infantil.
+id: norm-mad-d-64-2022
+codigo_sintetizado: D64_2022 Ordenacion y Curriculo ESO Madrid
+titulo: Decreto 64/2022, de 20 de julio, del Consejo de Gobierno, por el que se establece
+  para la Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria
+  Obligatoria.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
   Madrid
 tipo_disposicion: Decreto
-numero_disposicion: 36/2022
-fecha_disposicion: '2022-06-08'
-fecha_publicacion: '2022-06-10'
+numero_disposicion: 64/2022
+fecha_disposicion: '2022-07-20'
+fecha_publicacion: '2022-07-26'
 boletin: BOCM
-numero_boletin: '137'
+numero_boletin: '176'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12400
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12510
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Infantil
+  subcategoria: Educación Secundaria Obligatoria
 tags:
-- curriculo_infantil
-- ordenacion_infantil
-- etapa_infantil
+- curriculo_eso
+- ordenacion_eso
+- secundaria
 - madrid
 relaciones:
   desarrolla:
@@ -33,9 +34,9 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 36/2022, de 8 de junio, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad de Madrid.
+# Decreto 64/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la ESO en la Comunidad de Madrid.
 
-Fija los objetivos, áreas de experiencia, competencias clave, criterios de evaluación y orientaciones pedagógicas del primer y segundo ciclo de Educación Infantil en la Comunidad de Madrid.
+Regula la ordenación académica, materias optativas, carga horaria, evaluación, promoción y titulación en la Educación Secundaria Obligatoria de la Comunidad de Madrid.
 
 ## Articulado e Instrucciones en Vigor
 
