@@ -28,6 +28,7 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   desarrollado_por:
   - norma_id: norm-can-d-109-1999
   - norma_id: norm-can-d-114-2011
@@ -39,6 +40,8 @@ relaciones:
   - norma_id: norm-can-lo-1-2018
   - norma_id: norm-es-ce-1978
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
   fundamento_de:
   - norma_id: norm-can-d-101-2023
   - norma_id: norm-can-d-102-2023
@@ -210,6 +213,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-152-3511.
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 # Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria.
 
 [Bloque 1: #pr]

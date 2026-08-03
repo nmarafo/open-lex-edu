@@ -24,12 +24,18 @@ tags:
 - organizacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-1.PDF
 ---
+
 **Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid**
 
 LUNES 27 DE FEBRERO DE 2023

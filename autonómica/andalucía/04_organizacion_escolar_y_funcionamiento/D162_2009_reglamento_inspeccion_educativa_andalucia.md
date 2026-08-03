@@ -25,11 +25,18 @@ tags:
 - supervision_educativa
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
 
 Sevilla, 29 de mayo 2009

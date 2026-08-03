@@ -23,12 +23,19 @@ tags:
 - jornada_lectiva
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2021/05/18/BOCM-20210518-1.PDF
 ---
+
 **Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid**
 
 MARTES 18 DE MAYO DE 2021

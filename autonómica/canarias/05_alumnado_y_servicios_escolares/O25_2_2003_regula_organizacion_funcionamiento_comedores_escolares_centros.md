@@ -39,6 +39,7 @@ relaciones:
   - norma_id: norm-can-d-276-1997
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-119
 fundamentos_derecho:
@@ -51,6 +52,7 @@ fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2003/047/boc-2003-047
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 ## Preámbulo
 
 # Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.

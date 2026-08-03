@@ -48,6 +48,7 @@ relaciones:
   - norma_id: norm-es-lo-8-1985
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
   fundamento_de:
   - norma_id: norm-can-o-2013-10-09
   - norma_id: norm-can-res-119
@@ -68,6 +69,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-108-3000.pdf
 ---
+
 ## Preámbulo
 
 # Decreto 114/2011, de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad Autónoma de Canarias.

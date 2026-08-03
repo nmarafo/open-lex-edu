@@ -25,11 +25,17 @@ tags:
 - ordenacion_academica
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía
 
 Extraordinario núm. 15 - Martes, 27 de agosto de 2024

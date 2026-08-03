@@ -24,12 +24,20 @@ tags:
 - protocolo
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-1.PDF
 ---
+
 **Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid**
 
 LUNES 26 DE SEPTIEMBRE DE 2022

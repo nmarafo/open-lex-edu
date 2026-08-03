@@ -25,11 +25,19 @@ tags:
 - derechos_y_deberes
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-8-2021
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
 
 Sevilla, 2 de febrero 2007

@@ -25,11 +25,17 @@ tags:
 - atencion_a_la_diversidad
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 147/2002, de 14 de mayo, por el que se establece la ordenación de la atención educativa al alumnado con necesidades educativas especiales
 
 Sevilla, 23 de mayo 2002

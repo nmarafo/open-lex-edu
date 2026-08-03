@@ -40,6 +40,7 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-2-1987
   articulos:
@@ -49,6 +50,7 @@ fundamentos_derecho:
   - '10'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-136-4028.pdf
 ---
+
 ## Preámbulo
 
 # Decreto 74/2010, de 1 de julio, por el que se establece el procedimiento de selección del personal funcionario interino docente en el ámbito de la Comunidad Autónoma de Canarias.

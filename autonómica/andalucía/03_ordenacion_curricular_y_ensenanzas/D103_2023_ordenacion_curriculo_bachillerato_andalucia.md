@@ -25,11 +25,17 @@ tags:
 - ordenacion_academica
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # [Decreto 103/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md), de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía
 
 Número 90 - Lunes, 15 de mayo de 2023

@@ -37,6 +37,7 @@ relaciones:
   fundamentado_en:
   - norma_id: norm-can-l-6-2014
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
@@ -48,6 +49,7 @@ fundamentos_derecho:
   - '34'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1555.pdf
 ---
+
 ## Preámbulo
 
 # [Decreto 103/2023](../../andalucía/03_ordenacion_curricular_y_ensenanzas/D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.

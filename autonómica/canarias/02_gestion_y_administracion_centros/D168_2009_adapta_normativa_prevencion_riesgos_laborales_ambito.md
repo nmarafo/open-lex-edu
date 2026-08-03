@@ -41,6 +41,7 @@ relaciones:
   - norma_id: norm-can-l-2-1987
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-125
 fundamentos_derecho:
@@ -53,6 +54,7 @@ fundamentos_derecho:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.pdf
 ---
+
 ## Preámbulo
 
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.

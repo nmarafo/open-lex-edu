@@ -49,6 +49,20 @@ relaciones:
   - norma_id: norm-can-res-boc-2018-124-126
   - norma_id: norm-can-res-boc-2024-230-25
   - norma_id: norm-can-r-inclusión-neae-2025-2026
+  - norma_id: norm-can-d-114-2011
+  - norma_id: norm-and-d19-2007
+  - norma_id: norm-mad-d-23-2023
+  - norma_id: norm-and-o-15-1-2021
+  - norma_id: norm-mad-o1149-2018
+  - norma_id: norm-and-d147-2002
+  - norma_id: norm-mad-d32-2019
+  - norma_id: norm-mad-o1493-2015
+  - norma_id: norm-and-d-19-2007
+  - norma_id: norm-mad-d64-2025
+  - norma_id: norm-mad-o2742-2022
+  - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-and-l9-1999
+  - norma_id: norm-mad-d23-2023
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
@@ -57,6 +71,7 @@ fundamentos_derecho:
   - '39'
 - norma_id: norm-es-lo-1-1982
 ---
+
 # Ley Orgánica 1/1996 de Protección Jurídica del Menor
 
 **JUAN CARLOS I**

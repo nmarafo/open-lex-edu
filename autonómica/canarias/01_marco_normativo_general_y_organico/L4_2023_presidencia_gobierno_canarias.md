@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-123-2023
   - norma_id: norm-can-d-84-2024
@@ -54,6 +55,7 @@ ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 anexos_extraidos_pdf: true
 ---
+
 ## Preámbulo
 
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.

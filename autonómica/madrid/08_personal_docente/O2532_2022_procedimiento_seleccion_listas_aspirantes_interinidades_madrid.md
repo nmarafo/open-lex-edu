@@ -23,12 +23,20 @@ tags:
 - listas_aspirantes
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-1.PDF
 ---
+
 **Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes a interinidades en cuerpos docentes no universitarios**
 
 MIÉRCOLES 7 DE SEPTIEMBRE DE 2022

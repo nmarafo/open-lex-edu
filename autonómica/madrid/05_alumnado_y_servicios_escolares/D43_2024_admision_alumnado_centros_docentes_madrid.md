@@ -26,11 +26,17 @@ tags:
 - baremo
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el que se regulan los procesos de adscripción y admisión de alumnos en centros docentes sostenidos con fondos públicos**
 
 Pasar al contenido principal

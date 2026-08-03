@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-d-123-2023
@@ -75,6 +76,7 @@ fundamentos_derecho:
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 ## Preámbulo
 
 # Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.

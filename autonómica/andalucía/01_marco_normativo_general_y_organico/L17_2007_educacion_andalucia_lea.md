@@ -24,11 +24,18 @@ tags:
 - sistema_educativo_andaluz
 - equidad
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
 ---
+
 # Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
 
 Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.

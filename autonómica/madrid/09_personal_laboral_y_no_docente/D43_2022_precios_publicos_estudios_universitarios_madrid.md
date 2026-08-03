@@ -25,11 +25,17 @@ tags:
 - universidades
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-rdl-2-2015
+  - norma_id: norm-es-rdl-5-2015
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid**
 
 VIERNES 1 DE JULIO DE 2022

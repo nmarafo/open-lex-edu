@@ -25,11 +25,18 @@ tags:
 - infraestructuras
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales de los centros educativos andaluces
 
 III. OTRAS DISPOSICIONES

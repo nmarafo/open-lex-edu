@@ -225,6 +225,77 @@ relaciones:
   - norma_id: norm-can-r-instrucciones-curso-2025-2026
   - norma_id: norm-can-r-fp-dual-curso-2025-2026
   - norma_id: norm-can-r-admision-alumnado-2025-2026
+  - norma_id: norm-mad-d43-2024
+  - norma_id: norm-mad-o1712-2023
+  - norma_id: norm-mad-o-3814-2023
+  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+  - norma_id: norm-and-d-100-2023
+  - norma_id: norm-and-d-21-2020
+  - norma_id: norm-mad-o6116-2025
+  - norma_id: norm-mad-o1240-2013
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-mad-o3536-2025
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-mad-o893-2022
+  - norma_id: norm-mad-o460-2023
+  - norma_id: norm-mad-d21-2025
+  - norma_id: norm-and-d154-2022
+  - norma_id: norm-and-d328-2010
+  - norma_id: norm-mad-d-230-2023
+  - norma_id: norm-mad-l1-2022
+  - norma_id: norm-mad-r2-12-2025
+  - norma_id: norm-mad-o123-2015
+  - norma_id: norm-mad-d149-2000
+  - norma_id: norm-and-d101-2023
+  - norma_id: norm-and-o-admision-alumnado-2025-2026
+  - norma_id: norm-and-d164-2024
+  - norma_id: norm-mad-o3413-2022
+  - norma_id: norm-mad-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-o1312-2021
+  - norma_id: norm-mad-o-1238-2023
+  - norma_id: norm-and-dl2-2021
+  - norma_id: norm-and-o-30-5-2023-primaria
+  - norma_id: norm-and-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-d-36-2022
+  - norma_id: norm-mad-o-admision-alumnado-2025-2026
+  - norma_id: norm-can-d-103-2023
+  - norma_id: norm-mad-d65-2022
+  - norma_id: norm-mad-d-164-2024
+  - norma_id: norm-mad-o1736-2023
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-and-d162-2009
+  - norma_id: norm-and-o-30-5-2023-eso
+  - norma_id: norm-and-d100-2023
+  - norma_id: norm-and-d103-2023
+  - norma_id: norm-and-l1-2020
+  - norma_id: norm-mad-o592-2022
+  - norma_id: norm-and-d-328-2010
+  - norma_id: norm-mad-o2356-2023
+  - norma_id: norm-mad-o3537-2025
+  - norma_id: norm-mad-o2067-2023
+  - norma_id: norm-mad-r23-6-2025
+  - norma_id: norm-and-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-d-64-2022
+  - norma_id: norm-mad-d64-2022
+  - norma_id: norm-mad-o457-2023
+  - norma_id: norm-and-l4-1984
+  - norma_id: norm-mad-l2-2010
+  - norma_id: norm-mad-o190-2023
+  - norma_id: norm-and-d102-2023
+  - norma_id: norm-mad-d15-2016
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-mad-d-61-2022
+  - norma_id: norm-mad-o1338-2023
+  - norma_id: norm-and-d-285-2023
+  - norma_id: norm-can-d-9-2022
+  - norma_id: norm-and-dl1-2017
+  - norma_id: norm-mad-o2808-2023
+  - norma_id: norm-mad-o266-2023
+  - norma_id: norm-and-d327-2010
+  - norma_id: norm-and-d-327-2010
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-mad-o130-2023
+  - norma_id: norm-mad-d-29-2013
   desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
@@ -234,6 +305,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-5392
 - norma_id: norm-es-2003-23399
 ---
+
 # Ley 39/2015 del Procedimiento Administrativo Común
 
 **FELIPE VI**

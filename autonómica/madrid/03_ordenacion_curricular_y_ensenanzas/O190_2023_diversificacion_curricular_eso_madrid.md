@@ -25,11 +25,17 @@ tags:
 - atencion_a_la_diversidad
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Orden 190/2023, de 25 de enero, por la que se regula la diversificación curricular en Educación Secundaria Obligatoria**
 
 JUEVES 2 DE FEBRERO DE 2023

@@ -25,11 +25,17 @@ tags:
 - baremo
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto-[ley 2/2021](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md), de 2 de febrero, por el que se regulan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados
 
 III. OTRAS DISPOSICIONES

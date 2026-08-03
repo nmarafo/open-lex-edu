@@ -53,6 +53,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2007-009-143
   - norma_id: norm-can-res-boc-1998-140-142
   - norma_id: norm-can-res-boc-2002-147-141
+  - norma_id: norm-mad-d43-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -63,6 +64,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-6115
 - norma_id: norm-es-2012-9364
 ---
+
 # Real Decreto Legislativo 2/2015 - Texto Refundido del Estatuto de los Trabajadores
 
 El artículo Uno.d) de la Ley 20/2014, de 29 de octubre, por la que se delega en el Gobierno la potestad de dictar diversos textos refundidos, en virtud de lo establecido en el artículo 82 y siguientes de la Constitución Española, autorizó al Gobierno para aprobar un texto refundido en el que se integrasen, debidamente regularizadas, aclaradas y armonizadas, el texto refundido de la Ley del Estatuto de los Trabajadores, aprobado mediante Real Decreto Legislativo 1/1995, de 24 de marzo, y todas las disposiciones legales relacionadas que se enumeran en ese apartado, así como las normas con rango de ley que las hubieren modificado. El plazo para la realización de dicho texto era de doce meses a partir de la entrada en vigor de la citada Ley 20/2014, que tuvo lugar el 31 de octubre de 2014.

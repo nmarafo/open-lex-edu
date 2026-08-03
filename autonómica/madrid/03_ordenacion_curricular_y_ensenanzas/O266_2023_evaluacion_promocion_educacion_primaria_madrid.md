@@ -24,12 +24,18 @@ tags:
 - promocion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-1.PDF
 ---
+
 **Orden 266/2023, de 6 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se desarrollan aspectos de la evaluación y promoción en la Educación Primaria en la Comunidad de Madrid**
 
 MIÉRCOLES 15 DE FEBRERO DE 2023

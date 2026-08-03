@@ -24,11 +24,19 @@ tags:
 - consejeria_educacion
 - junta_de_andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-ce-1978
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto 154/2022, de 9 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional
 
 Boletín Oficial de la Junta de Andalucía - 

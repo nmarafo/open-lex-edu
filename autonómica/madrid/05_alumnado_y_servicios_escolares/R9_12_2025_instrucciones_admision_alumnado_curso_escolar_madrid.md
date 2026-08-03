@@ -25,11 +25,17 @@ tags:
 - baremo
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **[Resolución de 2 de diciembre de 2025](../../canarias/04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md), de instrucciones sobre admisión de alumnos para el curso 2026-2027**
 
 MARTES 9 DE DICIEMBRE DE 2025

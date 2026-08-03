@@ -38,12 +38,14 @@ relaciones:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-can-l-6-2014
   articulos:
   - '61'
 - norma_id: norm-can-d-212-1991
 ---
+
 # Decreto 82/1994, de 13 de mayo, por el que se regula la creación, organización y funcionamiento de los Centros del Profesorado.
 
 ## Preámbulo

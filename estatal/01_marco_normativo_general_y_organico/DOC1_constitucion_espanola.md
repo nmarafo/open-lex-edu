@@ -123,12 +123,21 @@ relaciones:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-res-boc-2021-038-3
   - norma_id: norm-can-l-14-1990
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-mad-l2-2010
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-and-d154-2022
+  - norma_id: norm-mad-d-230-2023
+  - norma_id: norm-mad-l1-2022
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
   - '1'
   - '2.1'
 ---
+
 # Constitución Española de 1978
 
 DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,

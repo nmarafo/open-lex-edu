@@ -25,11 +25,18 @@ tags:
 - grados_a_e
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid**
 
 Pasar al contenido principal

@@ -23,12 +23,18 @@ tags:
 - baremacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF
 ---
+
 **Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md) en relación con los criterios de baremación en la admisión de alumnos**
 
 JUEVES 24 DE MARZO DE 2022

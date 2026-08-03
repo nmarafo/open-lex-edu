@@ -73,6 +73,13 @@ relaciones:
   - norma_id: norm-can-res-boc-2019-067-11
   - norma_id: norm-can-res-boc-2019-024-22
   - norma_id: norm-can-res-juriscan-75527-17
+  - norma_id: norm-mad-d-164-2024
+  - norma_id: norm-mad-d15-2016
+  - norma_id: norm-mad-o1312-2021
+  - norma_id: norm-and-l1-2020
+  - norma_id: norm-and-d-328-2010
+  - norma_id: norm-and-d-327-2010
+  - norma_id: norm-mad-d149-2000
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
@@ -84,6 +91,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 132/2010 de Requisitos Mínimos de Centros Docentes
 
 La [Ley Orgánica 8/1985](LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, establece, en su artículo 14, que todos los centros docentes, independientemente de su titularidad, deberán reunir unos requisitos mínimos referidos a titulación académica del profesorado, relación numérica alumno-profesor, instalaciones docentes y deportivas, y número de puestos escolares, para impartir enseñanzas con garantía de calidad. Por su parte, el artículo 23 de la misma ley condiciona la apertura y funcionamiento de los centros docentes privados al principio de autorización administrativa que se concederá siempre que aquellos reúnan los requisitos mínimos establecidos.

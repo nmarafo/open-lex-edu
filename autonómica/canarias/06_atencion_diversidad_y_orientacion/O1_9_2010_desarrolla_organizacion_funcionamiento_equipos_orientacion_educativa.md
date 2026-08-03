@@ -43,6 +43,7 @@ relaciones:
   - norma_id: norm-es-l-53-1984
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-juriscan-64838-121
 fundamentos_derecho:
@@ -54,6 +55,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-181-5209.pdf
 ---
+
 ## Preámbulo
 
 # Orden de 1 de septiembre de 2010, por la que se desarrolla la organización y funcionamiento de los equipos de orientación educativa y psicopedagógica de zona y específicos de la Comunidad Autónoma de Canarias.

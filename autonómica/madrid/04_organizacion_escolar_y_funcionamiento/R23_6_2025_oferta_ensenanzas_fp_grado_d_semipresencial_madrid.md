@@ -25,11 +25,18 @@ tags:
 - grado_d
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial**
 
 LUNES 30 DE JUNIO DE 2025

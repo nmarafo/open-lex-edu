@@ -44,6 +44,7 @@ relaciones:
   - norma_id: norm-es-lo-3-2018
   - norma_id: norm-es-rdl-2-2015
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-055
   - norma_id: norm-can-res-boc-2026-116-87
@@ -67,6 +68,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 - norma_id: norm-es-rdl-2-2015
 ---
+
 ## Preámbulo
 
 # Orden de 28 de septiembre de 2023, por la que se aprueban las instrucciones de organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.

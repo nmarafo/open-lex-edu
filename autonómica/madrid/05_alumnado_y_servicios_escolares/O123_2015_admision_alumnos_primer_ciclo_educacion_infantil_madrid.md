@@ -25,11 +25,17 @@ tags:
 - escuelas_infantiles
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil**
 
 JUEVES 5 DE FEBRERO DE 2015

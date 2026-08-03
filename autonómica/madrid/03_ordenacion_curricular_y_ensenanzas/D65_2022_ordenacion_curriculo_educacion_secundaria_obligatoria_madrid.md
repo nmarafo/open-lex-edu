@@ -25,11 +25,17 @@ tags:
 - ordenacion_academica
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid**
 
 Pasar al contenido principal

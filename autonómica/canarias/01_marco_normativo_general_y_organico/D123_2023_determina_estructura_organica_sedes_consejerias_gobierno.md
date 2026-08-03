@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-119
   - norma_id: norm-can-res-boc-2024-049-109
@@ -51,6 +52,7 @@ fundamentos_derecho:
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 ## Preámbulo
 
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.

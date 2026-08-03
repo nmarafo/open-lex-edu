@@ -24,12 +24,18 @@ tags:
 - bachillerato
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-1.PDF
 ---
+
 **Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la gestión telemática y desarrollo del proceso de admisión de alumnos en ESO y Bachillerato**
 
 MARTES 8 DE AGOSTO DE 2023

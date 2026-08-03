@@ -35,6 +35,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-135-2016
   - norma_id: norm-can-d-84-2024
@@ -67,6 +68,7 @@ fundamentos_derecho:
   - '136'
 - norma_id: norm-es-1985-5392
 ---
+
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 **EL PRESIDENTE DEL GOBIERNO**

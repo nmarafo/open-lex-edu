@@ -23,12 +23,19 @@ tags:
 - evaluacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-15.PDF
 ---
+
 **Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md) de evaluación y matrícula en Formación Profesional**
 
 MIÉRCOLES 23 DE NOVIEMBRE DE 2022

@@ -24,12 +24,18 @@ tags:
 - evaluacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2015/06/02/BOCM-20150602-1.PDF
 ---
+
 **Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas de apoyo educativo en la Comunidad de Madrid**
 
 MARTES 2 DE JUNIO DE 2015

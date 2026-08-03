@@ -40,6 +40,7 @@ relaciones:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-090
   - norma_id: norm-can-res-095
@@ -56,6 +57,7 @@ fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/1999/079/boc-1999-079
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
+
 ## Preámbulo
 
 # Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.

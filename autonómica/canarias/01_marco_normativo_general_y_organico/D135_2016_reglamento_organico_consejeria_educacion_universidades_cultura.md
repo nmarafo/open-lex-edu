@@ -38,6 +38,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-res-boc-2017-020-2
   - norma_id: norm-can-res-boc-2017-036-71
@@ -67,6 +68,7 @@ fundamentos_derecho:
 - norma_id: norm-can-l-1-1983
 - norma_id: norm-can-d-212-1991
 ---
+
 ## Preámbulo
 
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).

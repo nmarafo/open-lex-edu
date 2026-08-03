@@ -24,12 +24,18 @@ tags:
 - organizacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2011/12/09/BOCM-20111209-1.PDF
 ---
+
 **Orden 2067/2023, de 11 de junio, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Bachillerato en la Comunidad de Madrid**
 
 Pasar al contenido principal

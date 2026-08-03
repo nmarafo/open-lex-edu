@@ -104,6 +104,31 @@ relaciones:
   - norma_id: norm-can-r-fp-dual-curso-2025-2026
   - norma_id: norm-can-r-calendario-escolar-2025-2026
   - norma_id: norm-can-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-r-instrucciones-curso-2025-2026
+  - norma_id: norm-and-l4-1984
+  - norma_id: norm-mad-d29-2013
+  - norma_id: norm-mad-l2-2010
+  - norma_id: norm-mad-o3536-2025
+  - norma_id: norm-and-d-164-2024
+  - norma_id: norm-can-l-6-2014
+  - norma_id: norm-and-d162-2009
+  - norma_id: norm-and-l17-2007
+  - norma_id: norm-mad-o3413-2022
+  - norma_id: norm-mad-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-o893-2022
+  - norma_id: norm-mad-d21-2025
+  - norma_id: norm-and-d-285-2023
+  - norma_id: norm-mad-o-1238-2023
+  - norma_id: norm-and-d154-2022
+  - norma_id: norm-and-d328-2010
+  - norma_id: norm-and-r-instrucciones-curso-2025-2026
+  - norma_id: norm-mad-d-230-2023
+  - norma_id: norm-and-d327-2010
+  - norma_id: norm-mad-l1-2022
+  - norma_id: norm-mad-o3537-2025
+  - norma_id: norm-can-d-81-2010
+  - norma_id: norm-mad-r23-6-2025
+  - norma_id: norm-and-r-calendario-escolar-2025-2026
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -120,6 +145,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-13756
 - norma_id: norm-es-2013-12632
 ---
+
 # Ley 40/2015 del Régimen Jurídico del Sector Público
 
 **FELIPE VI**

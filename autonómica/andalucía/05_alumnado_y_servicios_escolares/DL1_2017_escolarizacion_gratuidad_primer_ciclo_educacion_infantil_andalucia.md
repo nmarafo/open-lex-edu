@@ -25,11 +25,17 @@ tags:
 - escolarizacion
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-and-l17-2007
 ---
+
 # Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía
 
 BOLETÍN OFICIAL DEL ESTADO

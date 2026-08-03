@@ -36,11 +36,13 @@ relaciones:
   - norma_id: norm-es-rdl-5-2015
   fundamentado_en:
   - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-can-l-6-2014
 fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
   articulos:
   - '82'
 ---
+
 ## Preámbulo
 
 # Resolución de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.

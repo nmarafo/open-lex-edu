@@ -30,8 +30,11 @@ tags:
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-rd-132-2010
   fundamentado_en:
   - norma_id: norm-and-l17-2007
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
 ---
 
 ## Preámbulo

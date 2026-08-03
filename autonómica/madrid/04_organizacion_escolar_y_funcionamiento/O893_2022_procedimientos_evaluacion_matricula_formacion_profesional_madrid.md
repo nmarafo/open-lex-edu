@@ -25,12 +25,19 @@ tags:
 - matricula
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/29/BOCM-20220429-1.PDF
 ---
+
 **Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid**
 
 VIERNES 29 DE ABRIL DE 2022

@@ -25,11 +25,17 @@ tags:
 - bachillerato
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato**
 
 MARTES 30 DE MAYO DE 2023

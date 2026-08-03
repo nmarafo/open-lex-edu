@@ -45,6 +45,7 @@ relaciones:
   - norma_id: norm-es-rd-39-1997
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-can-res-027
@@ -77,6 +78,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-4518
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2013-200-5076.pdf
 ---
+
 ## Preámbulo
 
 # Orden de 9 de octubre de 2013, por la que se desarrolla el [Decreto 81/2010](D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias, en lo referente a su organización y funcionamiento.

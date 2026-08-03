@@ -24,11 +24,17 @@ tags:
 - compensacion_educativa
 - andalucia
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-lo-1-1996
+  - norma_id: norm-and-l17-2007
 ---
+
 # Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 
 Miércoles 29 diciembre 1999

@@ -24,12 +24,18 @@ tags:
 - organizacion
 - madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-mad-d-29-2013
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-1.PDF
 ---
+
 **Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Educación Primaria en la Comunidad de Madrid**
 
 MARTES 31 DE ENERO DE 2023

@@ -38,6 +38,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-114-2011
   - norma_id: norm-can-res-juriscan-49002-54
@@ -50,6 +51,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-lo-1-1996
 ---
+
 # Ley 1/1997 de Atención Integral a los Menores de Canarias
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:

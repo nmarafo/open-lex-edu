@@ -27,11 +27,18 @@ tags:
 - grado_superior
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-es-l-39-2015
+  - norma_id: norm-es-l-40-2015
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Orden 3536/2025, de 12 de agosto, por la que se establece el catálogo de módulos profesionales optativos en los ciclos formativos de Grado Medio y de Grado Superior de Formación Profesional en la Comunidad de Madrid**
 
 Pasar al contenido principal

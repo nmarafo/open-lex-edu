@@ -26,11 +26,19 @@ tags:
 - listas_de_aspirantes
 - comunidad_de_madrid
 relaciones:
-  desarrolla: []
+  desarrolla:
+  - norma_id: norm-es-rd-276-2007
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
+  fundamentado_en:
+  - norma_id: norm-es-rdl-5-2015
+  - norma_id: norm-es-lo-2-2006
+  - norma_id: norm-mad-d-29-2013
 ---
+
 **Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se aprueba el Reglamento de selección de funcionarios docentes interinos y provisión de puestos de trabajo en la Comunidad de Madrid**
 
 Pasar al contenido principal

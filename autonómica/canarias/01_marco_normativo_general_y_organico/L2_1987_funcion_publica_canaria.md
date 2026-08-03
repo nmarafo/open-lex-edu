@@ -45,6 +45,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+  - norma_id: norm-can-l-6-2014
   fundamento_de:
   - norma_id: norm-can-d-168-2009
   - norma_id: norm-can-res-125
@@ -58,6 +59,7 @@ fundamentos_derecho:
   - '136'
 - norma_id: norm-es-1984-17387
 ---
+
 # Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**
