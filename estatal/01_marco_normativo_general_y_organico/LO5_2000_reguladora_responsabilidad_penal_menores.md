@@ -985,3 +985,27 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**Resolucion BOC 16**](../../autonómica/canarias/02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
+- **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+

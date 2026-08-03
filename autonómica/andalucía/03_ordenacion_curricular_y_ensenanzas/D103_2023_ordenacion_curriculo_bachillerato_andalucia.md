@@ -1,47 +1,48 @@
 ---
 id: norm-and-d103-2023
-titulo: "Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía"
+titulo: Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo del Bachillerato en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "103/2023"
-fecha_disposicion: "2023-05-09"
-fecha_publicacion: "2023-05-16"
+numero_disposicion: 103/2023
+fecha_disposicion: '2023-05-09'
+fecha_publicacion: '2023-05-16'
 boletin: BOJA
-numero_boletin: "90"
+numero_boletin: '90'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2023/90/4"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2023/90/4"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2023/90/4
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2023/90/4
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Bachillerato"
+  subcategoria: Bachillerato
 tags:
-  - bachillerato
-  - curriculo_lomloe
-  - ordenacion_academica
-  - andalucia
+- bachillerato
+- curriculo_lomloe
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# [Decreto 103/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md), de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Andalucía
 
-00283498
- Número 90 - Lunes, 15 de mayo de 2023
-página 8469/1
-BOJABOJA
+Número 90 - Lunes, 15 de mayo de 2023
+Boletín Oficial de la Junta de Andalucía
 1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO 
-Y FORMACIÓN  PROFESIONAL
-Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el 
+Y FORMACIÓN PROFESIONAL
+[Decreto 103/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/D103_2023_establece_ordenacion_curriculo_bachillerato_comunidad_autonoma.md), de 9 de mayo, por el que se establece la ordenación y el 
 currículo de la etapa de Bachillerato en la Comunidad Autónoma de Andalucía.
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
 establecimiento de los planes de estudio incluida la ordenación curricular, de conformidad 
 con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin 
-perjuicio de lo recogido en el artículo 149.1.30. a de la Constitución Española, a tenor del 
+perjuicio de lo recogido en el artículo 149.1.30.a de la Constitución Española, a tenor del 
 cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, 
 a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta 
 materia. 
@@ -78,15 +79,13 @@ cursos en el uso de su autonomía, tal y como se recoge en la citada ley.
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de Bachillerato, de 
-acuerdo con el referido marco y el Real Decreto 243/2022, de 5 de abril, por el que se 
+acuerdo con el referido marco y el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se 
 establecen la ordenación y las enseñanzas mínimas del Bachillerato.
 En este decreto se establecen la ordenación y las líneas fundamentales del currículo 
 de Bachillerato, estableciendo la ordenación general, la organización de las enseñanzas, 
 la evaluación, los criterios para la promoción y titulación, la atención a la diversidad y a las 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/2
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 diferencias individuales, posibilitando la creación de itinerarios formativos de excelencia 
 educativa, la tutoría y orientación, la autonomía de los centros y la participación de las 
 familias, así como las medidas de apoyo al profesorado para el desarrollo del currículo.
@@ -141,14 +140,12 @@ permite y exige al profesorado adecuar su docencia a las características y espe
 del alumnado y al contexto real de cada centro. Corresponderá, por tanto, a los centros 
 realizar la concreción y adaptación de los currículos, en función de las diversas 
 situaciones escolares y las características específicas del alumnado al que atienden.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/3
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado 
 y la integración de las competencias clave en el currículo educativo y en las prácticas 
-docentes. La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las 
+docentes. La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las 
 orientaciones de la Unión Europea, inciden en la necesidad de la adquisición de las 
 competencias clave por parte de la ciudadanía como condición indispensable para lograr 
 que las personas puedan alcanzar su pleno desarrollo individual, social y profesional. El 
@@ -164,7 +161,7 @@ alumnado mayor de edad, opten por no cursar enseñanzas de Religión. Así, se e
 la misma carga horaria dentro del horario lectivo reglado y con las mismas características 
 en cuanto a la evaluación y calificación de las enseñanzas de Religión.
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas, principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que 
 persigue un interés general al proporcionar a la ciudadanía un marco normativo de las 
@@ -177,7 +174,7 @@ ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos
 por lo que quedan justificados los objetivos que persigue la citada Ley. Además, en el 
 procedimiento de elaboración de este decreto se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo 
 dispuesto en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración 
 electrónica, simplificación de procedimientos y racionalización organizativa de la Junta 
@@ -188,24 +185,19 @@ Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de oc
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
-DISPONGO
-
-### Capítulo Capítulo
+D I S P O N G O
+### CAPÍTULO I
 Disposiciones de carácter general
-
 ## Artículo 1. Objeto y ámbito de aplicación.
 1. El presente decreto tiene por objeto establecer la ordenación general y el currículo 
 correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/4
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 2. Este decreto se aplicará en todos los centros docentes de la Comunidad Autónoma 
 que impartan estas enseñanzas.
-
 ## Artículo 2. La etapa de Bachillerato en el marco del Sistema Educativo. 
-1. Tal y como se dispone en los artículos 3.4 y 32 de la Ley Orgánica 2/2006, de 3 de 
-mayo, de Educación, y en el artículo 3 del Real Decreto 243/2022, de 5 de abril, por el 
+1. Tal y como se dispone en los artículos 3.4 y 32 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
+mayo, de Educación, y en el artículo 3 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el 
 que se establecen la ordenación y las enseñanzas mínimas de Bachillerato, la educación 
 secundaria se divide en Educación Secundaria Obligatoria y Educación Secundaria 
 Postobligatoria.
@@ -221,7 +213,7 @@ formación o permita la incorporación a la vida activa una vez finalizado el mi
 ordinario durante cuatro años.
 5. Sin perjuicio de lo establecido en el apartado 3, mediante Orden de la Consejería 
 competente en materia de educación y de acuerdo con lo establecido en el artículo 15 
-del Real Decreto 243/2022, de 5 de abril, el alumnado podrá realizar la etapa en tres 
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, el alumnado podrá realizar la etapa en tres 
 años académicos, en régimen ordinario, siempre que sus circunstancias personales, 
 permanentes o transitorias, lo aconsejen. En estos casos se contemplará la posibilidad 
 de que el alumnado curse simultáneamente materias de ambos cursos de Bachillerato.
@@ -230,10 +222,9 @@ humana, conocimientos, habilidades y actitudes que permitan desarrollar funcione
 sociales e incorporarse a la vida activa con responsabilidad y aptitud. Asimismo, esta 
 etapa deberá permitir la adquisición y el logro de las competencias indispensables para el 
 futuro formativo y profesional, y capacitar para el acceso a la educación superior. 
-
 ## Artículo 3. Definiciones.
 1. A efectos de los elementos que articulan el currículo y teniendo en cuenta el artículo 2 
-del Real Decreto 243/2022, de 5 de abril, se entenderá por:
+del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, se entenderá por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
 etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
 b) Competencias clave: desempeños que se consideran imprescindibles para que el 
@@ -253,10 +244,8 @@ específicas de cada materia en un momento determinado de su proceso de aprendiz
 e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 contenidos propios de una materia y cuyo aprendizaje es necesario para la adquisición 
 de las competencias específicas.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/5
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 f) Situaciones de aprendizaje: situaciones y actividades que implican el despliegue 
 por parte del alumnado de actuaciones asociadas a competencias clave y competencias 
 específicas, y que contribuyen a la adquisición y desarrollo de las mismas.
@@ -269,7 +258,6 @@ b) Perfil competencial: guía que identifica y define las competencias clave que
 alumnado debe haber adquirido y desarrollado al finalizar segundo curso, e introduce los 
 descriptores operativos que orientan sobre el nivel de desempeño esperado al término 
 del mismo. Los perfiles se encuentran recogidos en el Anexo.
-
 ## Artículo 4. Principios generales de la etapa.
 Los principios generales de la etapa son:
 a) Orientación educativa y profesional. En esta etapa se prestará especial atención 
@@ -298,10 +286,8 @@ f) Excelencia educativa. Se posibilitará la creación de itinerarios formativos
 que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia para 
 todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y 
 potencialidades. 
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Currículo
-
 ## Artículo 5. Objetivos de la etapa. 
 La etapa de Bachillerato contribuirá a desarrollar en el alumnado las capacidades que 
 le permitan:
@@ -309,10 +295,8 @@ a) Ejercer la ciudadanía democrática, desde una perspectiva global, y adquirir
 conciencia cívica responsable, inspirada por los valores de la Constitución Española, así 
 como por los derechos humanos, que fomente la corresponsabilidad en la construcción 
 de una sociedad justa y equitativa. 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/6
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 b) Consolidar una madurez personal, afectivo-sexual y social que les permita actuar 
 de forma respetuosa, responsable y autónoma y desarrollar su espíritu crítico. Prever, 
 detectar y resolver pacíficamente los conflictos personales, familiares y sociales, así 
@@ -355,9 +339,8 @@ n) Afianzar actitudes de respeto y prevención en el ámbito de la movilidad seg
 saludable. 
 ñ) Fomentar una actitud responsable y comprometida en la lucha contra el cambio 
 climático y en la defensa del desarrollo sostenible.
-
 ## Artículo 6. Principios pedagógicos. 
-Sin perjuicio de lo establecido en el artículo 6 del Real Decreto 243/2022, de 5 de 
+Sin perjuicio de lo establecido en el artículo 6 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, el currículo de la etapa de Bachillerato responderá a los siguientes principios:
 a) La intervención educativa buscará desarrollar y asentar progresivamente las bases 
 que faciliten al alumnado una adecuada adquisición de las competencias clave previstas 
@@ -366,10 +349,8 @@ b) Desde las distintas materias de la etapa se favorecerá la integración y la 
 de las tecnologías de la información y la comunicación.
 c) Se trabajarán elementos curriculares relacionados con el desarrollo sostenible y el 
 medio ambiente, el funcionamiento del medio físico y natural y la repercusión que sobre 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/7
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 el mismo tienen las actividades humanas, el agotamiento de los recursos naturales, la 
 superpoblación, la contaminación o el calentamiento de la Tierra, todo ello con objeto de 
 fomentar la contribución activa en la defensa, conservación y mejora de nuestro entorno 
@@ -405,7 +386,6 @@ recopilación, sistematización y presentación de la información y para aplica
 análisis, observación y experimentación, adecuados a las distintas materias, fomentando 
 el enfoque interdisciplinar del aprendizaje por competencias con la realización por parte 
 del alumnado de trabajos de investigación y de actividades integradas.
-
 ## Artículo 7. Situaciones de aprendizaje y orientaciones metodológicas para su diseño. 
 1. Las situaciones de aprendizaje implican la realización de un conjunto de actividades 
 articuladas que los docentes llevarán a cabo para lograr que el alumnado desarrolle las 
@@ -419,22 +399,17 @@ y al entorno inmediato.
 3. En el planteamiento de las distintas situaciones de aprendizaje se garantizará 
 el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un 
 enfoque interdisciplinar, integrador y holístico al proceso educativo.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/8
-BOJABOJA
-
-### Capítulo Capítulo
+Boletín Oficial de la Junta de Andalucía
+### CAPÍTULO III
 Acceso y ordenación de la etapa
-
 ## Artículo 8. Acceso. 
-Conforme a lo establecido en el artículo 32.2 de la Ley Orgánica 2/2006, de 3 de 
-mayo, así como en el artículo 5.1 del Real Decreto 243/2022, de 5 de abril, podrán 
+Conforme a lo establecido en el artículo 32.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
+mayo, así como en el artículo 5.1 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, podrán 
 acceder a los estudios de la etapa quienes estén en posesión del título de Graduado en 
 Educación Secundaria Obligatoria o de cualquiera de los títulos de Técnico o Técnico 
 Superior de Formación Profesional, o de Artes Plásticas y Diseño, o Técnico Deportivo o 
 Técnico Deportivo Superior.
-
 ## Artículo 9. Ordenación general.
 1. La etapa de Bachillerato se organizará de modo flexible y se desarrollará en 
 modalidades diferentes, a fin de que pueda ofrecer una preparación especializada al 
@@ -442,14 +417,14 @@ alumnado acorde con sus perspectivas e intereses de formación o permita la inco
 a la vida activa una vez finalizado el mismo. Según lo dispuesto en el artículo 3.3 del Real 
 Decreto 243/2022, de 5 de abril, la etapa se organizará en materias comunes, materias 
 de modalidad y materias optativas.
-2. Conforme a lo establecido en el artículo 34 de la Ley Orgánica 2/2006, de 3 de 
+2. Conforme a lo establecido en el artículo 34 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, las modalidades de Bachillerato que podrá ofertar la Consejería competente en 
 materia de educación y, en su caso, los centros docentes serán las siguientes:
 a) Artes.
 b) Ciencias y Tecnología.
 c) General.
 d) Humanidades y Ciencias Sociales.
-3. Conforme a lo establecido en el artículo 8 del Real Decreto 243/2022, de 5 de abril, 
+3. Conforme a lo establecido en el artículo 8 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 la modalidad de Artes se organizará en dos vías, referida, una de ellas a Artes Plásticas, 
 Imagen y Diseño; y la otra, a Música y Artes Escénicas. El alumnado que opte por la 
 modalidad de Artes deberá elegir entre una de esas dos vías.
@@ -472,20 +447,17 @@ efectos establezca por Orden la Consejería competente en materia de educación.
 9. La ordenación propuesta en los artículos 10 y 11 podrá flexibilizarse para organizar 
 modelos de funcionamiento de excelencia educativa, de acuerdo con lo que a tales 
 efectos se establezca por Orden de la Consejería competente en materia de educación.
-
 ## Artículo 10. Ordenación del primer curso.
-1. Según lo dispuesto en el artículo 9.1. del Real Decreto 243/2022, de 5 de abril, 
+1. Según lo dispuesto en el artículo 9.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 las materias comunes a todas las modalidades para primer curso de la etapa serán las 
 siguientes:
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/9
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 a) Educación Física.
 b) Filosofía.
 c) Lengua Castellana y Literatura I.
 d) Lengua Extranjera I.
-2. Conforme a lo establecido en el artículo 10.2. del Real Decreto 243/2022, de 5 de 
+2. Conforme a lo establecido en el artículo 10.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en la vía de Artes Plásticas, Imagen y Diseño de la modalidad de Artes, el alumnado 
 cursará Dibujo Artístico I y otras dos materias de modalidad, que elegirá de entre las 
 siguientes:
@@ -493,7 +465,7 @@ a) Cultura Audiovisual.
 b) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I.
 c) Proyectos Artísticos.
 d) Volumen. 
-3. De acuerdo a lo establecido en el artículo 10.4. del Real Decreto 243/2022, de 5 
+3. De acuerdo a lo establecido en el artículo 10.4. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, en la vía de Música y Artes Escénicas de la modalidad de Artes, el alumnado 
 cursará, a su elección, Análisis Musical I o Artes Escénicas I, así como otras dos materias 
 de modalidad, que elegirán de entre las siguientes:
@@ -502,19 +474,19 @@ b) Artes Escénicas I.
 c) Coro y Técnica Vocal I.
 d) Cultura Audiovisual.
 e) Lenguaje y Práctica Musical.
-4. Según lo establecido en el artículo 11.1. del Real Decreto 243/2022, de 5 de abril, 
+4. Según lo establecido en el artículo 11.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la modalidad de Ciencias y Tecnología, el alumnado cursará Matemáticas I, así como 
 otras dos materias de modalidad que elegirán de entre las siguientes:
 a) Biología, Geología y Ciencias Ambientales.
 b) Dibujo Técnico I.
 c) Física y Química.
 d) Tecnología e Ingeniería I.
-5. Conforme establece el artículo 12.1. del Real Decreto 243/2022, de 5 de abril, en 
+5. Conforme establece el artículo 12.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad General, el alumnado cursará Matemáticas Generales y otras dos materias 
 que elegirá de entre todas las materias de modalidad de primer curso que se oferten en el 
 centro. Dicha oferta incluirá obligatoriamente la materia de Economía, Emprendimiento y 
 Actividad Empresarial específica de esta modalidad. 
-6. Según lo recogido en el artículo 13.1. del Real Decreto 243/2022, de 5 de abril, en 
+6. Según lo recogido en el artículo 13.1. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad de Humanidades y Ciencias Sociales, el alumnado cursará, a su elección, 
 Latín I o Matemáticas Aplicadas a las Ciencias Sociales I, así como otras dos materias de 
 modalidad que elegirá de entre las siguientes:
@@ -524,7 +496,7 @@ c) Historia del Mundo Contemporáneo.
 d) Latín I.
 e) Literatura Universal.
 f) Matemáticas Aplicadas a las Ciencias Sociales I.
-7. Asimismo, de conformidad con el artículo 14 del Real Decreto 243/2022, de 5 de 
+7. Asimismo, de conformidad con el artículo 14 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en cualquiera de las modalidades o vías, el alumnado debe cursar, a su elección, 
 dos o tres materias optativas, en función de la regulación y de la programación de la oferta 
 educativa que establezca por Orden la Consejería competente en materia de educación, 
@@ -534,20 +506,17 @@ Consejería competente en materia de educación.
 8. Con objeto de reforzar la inclusión, por Orden de la Consejería competente en 
 materia de educación se podrá incorporar la lengua de signos española, según lo que se 
 establezca.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/10
-BOJABOJA
-
+Boletín Oficial de la Junta de Andalucía
 ## Artículo 11. Ordenación del segundo curso.
-1. Según lo dispuesto en el artículo 9.2. del Real Decreto 243/2022, de 5 de abril, las 
+1. Según lo dispuesto en el artículo 9.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, las 
 materias comunes a todas las modalidades para segundo curso de la etapa serán las 
 siguientes:
 a) Historia de España.
 b) Historia de la Filosofía.
 c) Lengua Castellana y Literatura II.
 d) Lengua Extranjera II.
-2. Conforme a lo establecido en el artículo 10.3. del Real Decreto 243/2022, de 5 de 
+2. Conforme a lo establecido en el artículo 10.3. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en la vía de Artes Plásticas, Imagen y Diseño de la modalidad de Artes, el alumnado 
 cursará Dibujo Artístico II y otras dos materias de modalidad, que elegirá de entre las 
 siguientes:
@@ -555,7 +524,7 @@ a) Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II.
 b) Diseño.
 c) Fundamentos Artísticos.
 d) Técnicas de Expresión Gráfico-plástica.
-3. De acuerdo a lo establecido en el artículo 10.5. del Real Decreto 243/2022, de 5 
+3. De acuerdo a lo establecido en el artículo 10.5. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 
 de abril, en la vía de Música y Artes Escénicas de la modalidad de Artes, el alumnado 
 cursará, a su elección, Análisis Musical II o Artes Escénicas II, así como otras dos 
 materias de modalidad, que elegirán de entre las siguientes:
@@ -564,7 +533,7 @@ b) Artes Escénicas II.
 c) Coro y Técnica Vocal II.
 d) Historia de la Música y de la Danza.
 e) Literatura Dramática.
-4. Según lo establecido en el artículo 11.2. del Real Decreto 243/2022, de 5 de abril, en 
+4. Según lo establecido en el artículo 11.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad de Ciencias y Tecnología, el alumnado cursará, a su elección, Matemáticas 
 II o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de 
 modalidad que elegirá entre las siguientes:
@@ -574,12 +543,12 @@ c) Física.
 d) Geología y Ciencias Ambientales.
 e) Química.
 f) Tecnología e Ingeniería II.
-5. Conforme establece el artículo 12.2. del Real Decreto 243/2022, de 5 de abril, en 
+5. Conforme establece el artículo 12.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, en 
 la modalidad General, el alumnado cursará Ciencias Generales y otras dos materias que 
 elegirá de entre todas las materias de modalidad de segundo curso que se oferten en 
 el centro. Dicha oferta incluirá obligatoriamente la materia de Movimientos Culturales y 
 Artísticos específica de esta modalidad.
-6. Según lo recogido en el artículo 13.2. del Real Decreto 243/2022, de 5 de abril, 
+6. Según lo recogido en el artículo 13.2. del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la modalidad de Humanidades y Ciencias Sociales, cursará, a su elección, Latín II 
 o Matemáticas Aplicadas a las Ciencias Sociales II, así como otras dos materias de 
 modalidad que elegirá de entre las siguientes:
@@ -589,20 +558,17 @@ c) Griego II.
 d) Historia del Arte.
 e) Latín II. 
 f) Matemáticas Aplicadas a las Ciencias Sociales II.
-7. Asimismo, de conformidad con el artículo 14 del Real Decreto 243/2022, de 5 de 
+7. Asimismo, de conformidad con el artículo 14 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, en cualquiera de las modalidades o vías, el alumnado debe cursar, a su elección, 
 dos o tres materias optativas, en función de la regulación y de la programación de la oferta 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/11
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 educativa que establezca por Orden la Consejería competente en materia de educación, 
 que deberá incluir, al menos, una segunda lengua extranjera. Los centros podrán hacer 
 propuestas de otras optativas propias, en el marco de que lo que establezca por Orden la 
 Consejería competente en materia de educación.
 8. Con objeto de reforzar la inclusión, por Orden de la Consejería competente en materia 
 de educación se podrá incorporar la lengua de signos española, según lo que se establezca.
-
 ## Artículo 12. Enseñanzas de Religión. 
 1. La Consejería competente en materia de educación garantizará que, al inicio del 
 curso, el alumnado mayor de edad y los padres, madres, o personas que ejerzan la 
@@ -638,7 +604,6 @@ o de los Proyectos transversales de educación en valores, no se computarán en 
 obtención de la nota media a efectos de acceso a otros estudios ni en las convocatorias 
 para la obtención de becas y ayudas al estudio en que deban entrar en concurrencia los 
 expedientes académicos.
-
 ## Artículo 13. Enseñanzas impartidas en Lenguas Extranjeras.
 1. La Consejería competente en materia de educación podrá autorizar que una parte 
 de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga 
@@ -649,10 +614,8 @@ la materia en cuestión, favoreciendo la expresión oral y el desarrollo de la o
 lengua extranjera.
 2. La Consejería competente en materia de educación podrá autorizar a los centros 
 que no posean la consideración de bilingües, a que una parte del currículo de las distintas 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/12
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 materias se imparta en lengua extranjera, sin que ello conlleve modificación del currículo 
 regulado tanto en el presente decreto como en la Orden de la Consejería competente 
 en materia de educación que lo desarrolle. Para ello, los centros integrarán la Primera 
@@ -660,14 +623,12 @@ Lengua Extranjera junto con la materia en cuestión de manera que se conforme un
 ámbito de conocimiento.
 3. Los centros docentes que impartan una parte de las materias del currículo en lenguas 
 extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos 
-en el artículo 86 de la Ley Orgánica 2/2006, de 3 de mayo, y en la normativa específica de 
+en el artículo 86 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y en la normativa específica de 
 aplicación en Andalucía. Entre tales criterios no se incluirán requisitos lingüísticos.
-
-### Capítulo Capítulo
+### CAPÍTULO IV
 Evaluación, promoción y titulación 
-
 ## Artículo 14. Evaluación.
-1. En desarrollo de lo dispuesto en el artículo 20 del Real Decreto 243/2022, de 5 de 
+1. En desarrollo de lo dispuesto en el artículo 20 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril, la evaluación del aprendizaje del alumnado será continua y diferenciada según las 
 distintas materias.
 2. La evaluación tendrá en cuenta el grado de desarrollo de las competencias clave y 
@@ -697,19 +658,16 @@ transparencia, para lo que se establecerán los oportunos procedimientos de acla
 revisión y reclamación, que en todo caso, atenderán al carácter continuo y diferenciado 
 según las distintas materias. Dichos procedimientos serán regulados por Orden de la 
 Consejería competente en materia de educación.
-
 ## Artículo 15. Promoción. 
-1. De conformidad con lo establecido en el artículo 21 del Real Decreto 243/2022, de 
+1. De conformidad con lo establecido en el artículo 21 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 
 5 de abril, el alumnado promocionará de primero a segundo cuando haya superado las 
 materias cursadas o tengan evaluación negativa en dos materias como máximo. En todo 
 caso, deberán matricularse en segundo curso de las materias no superadas de primero, 
 que tendrán la consideración de materias pendientes.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/13
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 2. La superación de las materias de segundo curso que implican continuidad, 
-recogidas en el Anexo V del Real Decreto 243/2022, de 5 de abril, estará condicionada a 
+recogidas en el Anexo V del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, estará condicionada a 
 la superación de las correspondientes materias de primer curso. No obstante, dentro de 
 una misma modalidad, el alumnado podrá matricularse de la materia de segundo curso 
 sin haber cursado la correspondiente materia de primer curso, siempre que el profesorado 
@@ -728,9 +686,8 @@ materias superadas, o podrá optar, asimismo por repetir el curso completo.
 indicado en el artículo 2.4, el alumnado podrá repetir cada uno de los cursos de la misma 
 una sola vez como máximo, si bien, excepcionalmente, podrá repetir uno de los cursos 
 una segunda vez, previo informe favorable del equipo docente. 
-
 ## Artículo 16. Título de Bachiller. 
-1. De conformidad con el artículo 22 del Real Decreto 243/2022, de 5 de abril, el título 
+1. De conformidad con el artículo 22 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, el título 
 de Bachiller acredita el logro de los objetivos establecidos para la etapa y la adquisición 
 de las competencias correspondientes. 
 2. Para obtener el título de Bachiller será necesaria la evaluación positiva en todas las 
@@ -756,16 +713,13 @@ materia de Religión.
 5. Los centros docentes que imparten la etapa de Bachillerato podrán emitir, a petición 
 de las personas interesadas, una certificación de los estudios realizados en la que se 
 especifiquen las materias cursadas y las calificaciones obtenidas.
-
 ## Artículo 17. Obtención del título de Bachiller desde otras enseñanzas.
-1. Según lo dispuesto en el artículo 23 del Real Decreto 243/2022, de 5 de abril, 
+1. Según lo dispuesto en el artículo 23 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 el alumnado que tenga el título de Técnico o Técnica en Formación Profesional podrá 
 obtener el título de Bachiller en la modalidad General, mediante la superación de las 
 materias comunes.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/14
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 El alumnado que tenga el título de Técnico o Técnica de Artes Plásticas y Diseño 
 podrá obtener el título de Bachiller en la modalidad de Artes mediante la superación de 
 las materias comunes.
@@ -775,8 +729,7 @@ materias comunes.
 2. En caso del alumnado que curse de manera simultánea Bachillerato y las 
 Enseñanzas Profesionales de Música o de Danza, y haya superado dichas Enseñanzas 
 Profesionales, podrá obtener el título de Bachiller por la modalidad que elija, además del 
-
-# Título Título
+# título de Bachiller por la modalidad de Artes, superando las materias específicas de la 
 modalidad elegida distinta a la de Artes y las materias comunes.
 3. La nota que figurará en el título de Bachiller de este alumnado se deducirá de la 
 siguiente ponderación: 
@@ -793,7 +746,6 @@ la modalidad y de las materias comunes.
 b) El 40 % de la nota media obtenida en las enseñanzas mediante las que se accede 
 a la obtención del título, calculada conforme a lo establecido en los respectivos reales 
 decretos de ordenación de las mismas. 
-
 ## Artículo 18. Comisiones Técnicas Provinciales de Reclamaciones. 
 1. En cada Delegación Territorial competente en materia de educación, se constituirán, 
 para cada curso escolar, Comisiones Técnicas Provinciales de Reclamaciones. Cada 
@@ -808,9 +760,8 @@ designadas por la persona titular de la correspondiente Delegación Territorial.
 recusación, los miembros de las comisiones serán sustituidos por las personas suplentes 
 que, al tiempo de su nombramiento, se hayan designado. Adecuarán sus procedimientos a 
 lo regulado en la Subsección 1.ª de la Sección 3.ª del Capítulo II del Título Preliminar de la 
-Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del 
-
-# Título Título
+[Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, y en el Capítulo II del 
+# Título IV de la Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía.
 3. A fin de garantizar la representación equilibrada de mujeres y hombres en la 
 composición de las Comisiones Técnicas Provinciales de Reclamaciones, se actuará de 
 acuerdo con lo previsto en el artículo 11.2 de la Ley 12/2007, de 26 de noviembre.
@@ -820,10 +771,8 @@ valoración en función de los siguientes criterios:
 a) Adecuación de los criterios de evaluación sobre los que se ha llevado a 
 cabo la evaluación del proceso de aprendizaje del alumnado con los recogidos en la 
 correspondiente normativa vigente.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/15
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 b) Coherencia de los procedimientos, técnicas, estrategias e instrumentos de 
 evaluación aplicados a lo señalado en el Proyecto educativo del centro y la programación 
 didáctica de la materia o ámbito.
@@ -831,20 +780,17 @@ c) Cumplimiento por parte de los órganos de coordinación docente de lo dispues
 para la evaluación en la normativa vigente.
 5. La Consejería competente en materia de educación regulará mediante orden los 
 procesos de reclamación contra las decisiones adoptadas en el proceso de evaluación.
-
 ## Artículo 19. Documentos oficiales de evaluación. 
 1. Los documentos oficiales de evaluación son las actas de evaluación, el expediente 
 académico, el historial académico y, en su caso, el informe personal por traslado.
 2. Por orden de la persona titular de la Consejería competente en materia de 
 educación se establecerán los modelos y contenidos de estos documentos, sin perjuicio 
-de lo recogido en el artículo 29 del Real Decreto 243/2022, de 5 de abril.
+de lo recogido en el artículo 29 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril.
 3. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio nacional.
-
 ## Artículo 20. Informes de evaluación.
 Se considerarán informes de evaluación los boletines de calificaciones y las actas de 
 las sesiones de evaluación continua.
-
 ## Artículo 21. Autenticidad, seguridad y confidencialidad. 
 1. En lo referente a los procedimientos oportunos para garantizar la autenticidad de los 
 documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos, 
@@ -855,7 +801,7 @@ protección de datos de carácter personal y en materia de documentos y archivos
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 3. De conformidad con lo dispuesto en el artículo 13.1 del Decreto 285/2010, de 11 de 
 mayo, por el que se regula el Sistema de Información Séneca y se establece su utilización 
 para la gestión del Sistema Educativo andaluz, los centros docentes sostenidos con 
@@ -866,10 +812,8 @@ autenticidad, integridad y conservación, así como el cumplimiento de las garan
 materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo 
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
-
-### Capítulo Capítulo
+### CAPÍTULO V
 Atención a la diversidad y a las diferencias individuales 
-
 ## Artículo 22. Atención a la diversidad y a las diferencias individuales.
 1. Se entiende por atención a la diversidad y a las diferencias individuales, el 
 conjunto de actuaciones y medidas educativas que garantizan la mejor respuesta a 
@@ -877,10 +821,8 @@ las necesidades y diferencias de todo el alumnado en un entorno inclusivo, ofrec
 oportunidades reales de aprendizaje en contextos educativos ordinarios. Las medidas 
 de atención a la diversidad y a las diferencias individuales, podrán aplicarse al alumnado 
 que lo necesite en algún momento de su escolaridad.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/16
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 2. Las medidas de atención a la diversidad y a las diferencias individuales en la 
 etapa de Bachillerato serán establecidas por orden de la persona titular de la Consejería 
 competente en materia de educación.
@@ -889,7 +831,6 @@ se flexibilizará conforme a lo dispuesto en la normativa vigente. Igualmente, l
 docentes desarrollarán programas de profundización y posibilitarán la creación de 
 itinerarios formativos para que este alumnado sea capaz de desarrollar al completo sus 
 capacidades y potencialidades acorde con el principio de excelencia educativa.
-
 ## Artículo 23. Principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales. 
 1. Con objeto de hacer efectivos los principios de educación inclusiva y accesibilidad 
@@ -934,20 +875,16 @@ aprende el máximo posible y desarrolla todas sus potencialidades.
 lo recogido en el Proyecto educativo del centro, recibirán información y asesoramiento 
 respecto a las características y necesidades del alumnado, así como de las medidas a 
 adoptar para su adecuada atención.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/17
-BOJABOJA
-
-### Capítulo Capítulo
+Boletín Oficial de la Junta de Andalucía
+### CAPÍTULO VI
 Tutoría y orientación
-
 ## Artículo 24. Principios. 
 1. La tutoría y la orientación forman parte de la función docente. Corresponderá a los 
 centros docentes la programación, desarrollo y evaluación de la acción tutorial que será 
 recogida en el plan de orientación y acción tutorial, incluido en su Proyecto educativo, de 
-acuerdo con lo establecido en el artículo 121.2 de la Ley Orgánica 2/2006, de 3 de mayo.
-2. Según lo dispuesto en el artículo 24 del Real Decreto 243/2022, de 5 de abril, 
+acuerdo con lo establecido en el artículo 121.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
+2. Según lo dispuesto en el artículo 24 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, 
 en la etapa de Bachillerato, la orientación y la acción tutorial acompañarán el proceso 
 educativo individual y colectivo del alumnado. A tales efectos, se promoverán las 
 medidas necesarias para que constituyan un elemento fundamental en la ordenación 
@@ -958,12 +895,10 @@ una orientación profesional sobre el tránsito al mundo laboral.
 3. Los centros deberán informar y orientar al alumnado con el fin de que la elección 
 de las modalidades, vías y materias a las que se refieren los artículos 9, 10 y 11 sea la 
 más adecuada para sus intereses y su orientación formativa posterior.
-
-### Capítulo Capítulo
+### CAPÍTULO VII
 Autonomía de los centros y participación en el proceso educativo
-
 ## Artículo 25. Autonomía de los centros docentes. 
-1. De acuerdo con lo establecido en artículo 125.1 de la Ley 17/2007, de 10 de 
+1. De acuerdo con lo establecido en artículo 125.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, los centros docentes contarán con autonomía 
 pedagógica, de organización y de gestión para poder llevar a cabo modelos de 
 funcionamiento propios, en el marco de la legislación vigente y en los términos recogidos 
@@ -986,24 +921,21 @@ aportaciones a las familias ni exigencias para las Administraciones educativas.
 evolución positiva desde la etapa de Educación Secundaria Obligatoria, a Bachillerato, 
 la Consejería competente en materia de educación establecerá los mecanismos para 
 favorecer la coordinación entre ambas etapas.
-5. Conforme a lo dispuesto en el artículo 110.4 de la Ley Orgánica 2/2006, de 3 
+5. Conforme a lo dispuesto en el artículo 110.4 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 
 de mayo, los centros docentes, como espacios abiertos a la sociedad de los que son 
 elemento nuclear, promoverán el trabajo y la coordinación con las administraciones, 
 entidades y asociaciones de su entorno inmediato, creando comunidades educativas 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/18
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 abiertas, motores de la transformación social y comunitaria. Asimismo, con el fin de 
 promover una cultura de la sostenibilidad ambiental y de la cooperación social para 
 proteger nuestra biodiversidad, la Consejería competente en materia de educación, 
 favorecerá, en coordinación con las instituciones y organizaciones de su entorno, la 
 sostenibilidad de los centros, su relación con el medio natural y su adaptación a las 
 consecuencias derivadas del cambio climático. 
-
 ## Artículo 26. Participación y derecho a la información de los padres, madres o personas 
 que ejerzan la tutela legal del alumnado en el proceso educativo.
-1. De conformidad con el artículo 28 del Real Decreto 243/2022, de 5 de abril, cuando 
+1. De conformidad con el artículo 28 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, cuando 
 el alumnado sea menor de edad, los padres, madres o personas que ejerzan la tutela 
 legal del alumnado deberán participar y apoyar la evolución del proceso educativo del 
 mismo, colaborando en las medidas de atención a la diversidad y a las diferencias 
@@ -1018,10 +950,8 @@ respecta al tratamiento de datos personales y a la libre circulación de estos d
 que se deroga la Directiva 95/46/CE. 
 2. Los derechos referidos en el apartado 1 se hacen también extensivos al alumnado 
 mayor de edad.
-
-### Capítulo Capítulo
+### CAPÍTULO VIII
  Medidas de apoyo al profesorado para el desarrollo del currículo
-
 ## Artículo 27. Formación permanente del profesorado.
 1. La Consejería competente en materia de educación realizará una oferta de 
 actividades formativas dirigida al profesorado, adecuada a las necesidades derivadas de 
@@ -1029,11 +959,10 @@ la implantación de las enseñanzas contempladas en el presente decreto, a la de
 efectuada por los centros docentes y a las necesidades que se desprendan de los 
 programas educativos y de los resultados de la evaluación del alumnado.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre, y en el 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en el 
 Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente 
 del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz 
 de Formación Permanente del Profesorado, y normas que lo desarrollen.
-
 ## Artículo 28. Investigación, experimentación e innovación educativa.
 1. La Consejería competente en materia de educación impulsará la investigación, la 
 experimentación y la innovación educativa, incentivando la creación de equipos docentes, 
@@ -1046,28 +975,24 @@ previamente autorizados tales como: aulas de excelencia artística, centros inte
 donde se simultaneen distintas enseñanzas, centros de la Red de Bachillerato 
 Internacional y centros Bachibac, entre otros, que se desarrollen dentro del marco de 
 regulación y autorización de la Consejería competente en materia de educación.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/19
-BOJABOJA
-
+Boletín Oficial de la Junta de Andalucía
 ## Artículo 29. Materiales de apoyo al profesorado.
 La Consejería competente en materia de educación favorecerá la elaboración de 
 materiales de apoyo al profesorado que faciliten el desarrollo del currículo y orienten su trabajo.
-
 ## Disposición adicional primera. Educación de personas adultas. 
 1. La Consejería competente en materia de educación, de acuerdo con la disposición 
-adicional tercera.1 del Real Decreto 243/2022, de 5 de abril, por el que se establecen la 
+adicional tercera.1 del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la 
 ordenación y las enseñanzas mínimas del Bachillerato, adoptará las medidas oportunas 
 para que las personas adultas dispongan de una oferta específica de estos estudios 
 organizada de acuerdo con sus características. A este respecto, la oferta educativa, 
 adaptada a las condiciones y necesidades de las personas adultas, se regirá por los 
 principios de movilidad y transparencia.
-2. De conformidad con el artículo 67.2 de la Ley Orgánica 2/2006, de 3 de mayo, la 
+2. De conformidad con el artículo 67.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, la 
 organización y la metodología de las enseñanzas para las personas adultas se basarán 
 en el autoaprendizaje y tendrán en cuenta sus experiencias, necesidades e intereses, 
 pudiendo desarrollarse a través de la enseñanza presencial y también mediante la 
-educación a distancia. Asimismo, según lo dispuesto en el artículo 110 de la Ley 17/2007, 
+educación a distancia. Asimismo, según lo dispuesto en el artículo 110 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, estas enseñanzas podrán impartirse también en la modalidad 
 semipresencial.
 3. Con el fin de adaptar la etapa de Bachillerato al principio de flexibilidad que rige la 
@@ -1094,8 +1019,7 @@ etapa sea igual o superior a cinco. En este caso, a efectos del cálculo de la c
 final de la etapa, se considerará la nota numérica obtenida en la materia no superada.
 5. Además, el alumnado que curse estas enseñanzas y se encuentre en posesión de 
 alguno de los títulos a los que se refiere el artículo 17 de este decreto, podrá obtener el 
-
-# Título Título
+# título de Bachiller mediante el procedimiento previsto en el citado artículo.
 6. Podrán incorporarse a las enseñanzas a las que se refiere la presente disposición 
 adicional las personas mayores de dieciocho años o que cumplan esa edad dentro del 
 año natural en que comience el curso, de conformidad con el artículo 105.1 de la Ley 
@@ -1104,10 +1028,8 @@ año natural en que comience el curso, de conformidad con el artículo 105.1 de 
 podrán cursar estas enseñanzas las personas mayores de dieciséis años, o que cumplan 
 esa edad dentro del año natural en que comienza el curso, que lo soliciten y que acrediten 
 alguna de las siguientes situaciones:
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/20
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 a) Disponer de un contrato laboral que no les permita acudir a los centros docentes 
 en régimen ordinario.
 b) Que acrediten la condición de deportista de alto nivel o de alto rendimiento.
@@ -1123,7 +1045,7 @@ dicha localidad, de acuerdo con lo establecido por convenio de colaboración ent
 centros de educación a distancia de personas adultas, o a través de otras formas que 
 garanticen el correcto desarrollo de las pruebas.
 9. La Consejería competente en materia de educación, de acuerdo con lo dispuesto 
-en el artículo 69.4 de la Ley Orgánica 2/2006, de 3 de mayo, organizará periódicamente 
+en el artículo 69.4 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, organizará periódicamente 
 pruebas para que las personas mayores de veinte años puedan obtener directamente 
 el título de Bachiller de acuerdo con las condiciones y características que establezca el 
 Gobierno por vía reglamentaria siempre que demuestren haber alcanzado los objetivos 
@@ -1132,42 +1054,34 @@ organizadas de manera diferenciada según las modalidades de Bachillerato. En la
 organización de estas pruebas se adoptarán las medidas necesarias para asegurar la 
 igualdad de oportunidades, no discriminación y accesibilidad universal de las personas 
 con discapacidad que se presenten a las mismas.
-
 ## Disposición adicional segunda. Obtención de nuevas modalidades de Bachillerato.
 Quienes hayan obtenido el título de Bachiller podrán obtener cualquiera de las otras 
 modalidades mediante la superación de las materias de modalidad de primer y segundo 
 curso que, conforme a lo previsto en la disposición adicional cuarta del Real Decreto 
 243/2022, de 5 de abril, se requieren para la modalidad elegida. 
-
 ## Disposición adicional tercera. Centros privados y centros privados concertados.
 Los centros privados y los centros privados concertados adecuarán su organización 
 a las disposiciones de este decreto relativas a la organización y funcionamiento de los 
 centros docentes, teniendo en cuenta las especialidades de su legislación específica.
-
 ## Disposición adicional cuarta. Asignación de materias optativas propias de la Comunidad 
 Andaluza. 
 La Consejería competente en materia de educación podrá determinar la atribución 
 de las materias optativas propias de la Comunidad que establezca en la etapa de 
 Bachillerato a las diferentes especialidades docentes, de acuerdo con lo establecido en 
-el artículo 5 del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las 
+el artículo 5 del [Real Decreto 1834/2008](../../../estatal/02_gestion_y_administracion_centros/RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las 
 condiciones de formación para el ejercicio de la docencia en la educación secundaria 
 obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial 
 y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria. 
-
 ## Disposición transitoria única. Calendario de aplicación.
 El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-
 ## Disposición derogatoria única. Derogación normativa. 
 1. Queda derogado el Decreto 110/2016, de 14 de junio, por el que se establece 
 la ordenación y el currículo de la etapa de Bachillerato en la Comunidad Autónoma de 
 Andalucía.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/21
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 2. Así mismo, quedan derogadas cuantas otras disposiciones de igual o inferior rango 
 se opongan a lo establecido en este decreto.
-
 ## Disposición final primera. Conformidad con la normativa estatal.
 1. El contenido de los artículos 2.3, 2.4, 2.6, 5, 8, 9.4, 9.5, 9.8, 14.1, 15.1, 16.2, 16.3, 
 17.1, 17.2, 25.2, así como de la disposición adicional primera.2 y 9 reproduce, total o 
@@ -1177,7 +1091,7 @@ Constitución Española, recogidas en los artículos 3.4 de «Las Enseñanzas»,
 de la «Organización general del bachillerato», 35 de los «Principios pegagógicos», 36.1 y 
 36.2 de la «Evaluación y promoción», 37.1, 37.2, 37.3, 37.4 del «Título de Bachiller», 67.2 
 de la «Organización», 69.4 de las «Enseñanzas postobligatorias» y 121 del «Proyecto 
-educativo», de la Ley Orgánica 2/2006, de 3 de mayo.
+educativo», de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 2. El contenido de los artículos 2, 4, 5, 6.d), 6.e), 6.h), 8, 9.2, 9.3, 9.4, 9.5, 9.6, 12.1, 
 12.2, 12.4, 12.5, 13.1, 15.3, 15.4, 16.2, 16.3, 16.4, 17.2, 17.3, 19, 21.1, 21.2, 22.3, así como 
 de la disposición adicional primera y segunda reproduce, total o parcialmente, normas 
@@ -1187,8 +1101,7 @@ educativo», 4 de los «Fines», 5.1 y 5.2 de los «Principios generales», 6.1,
 los «Principios pedagógicos», 7 de los «Objetivos», 8.2, 8.3 y 8.4 de la «Organización 
 general», 15 de la «Organización del Bachillerato en tres años académicos», 20 de la 
 «Evaluación», 21 de la «Promoción», 22 del «Título de Bachiller», 23 de la «Obtención del 
-
-# Título Título
+# título de Bachiller desde otras enseñanzas», 24.2 de la «Tutoría u orientación», 25.5 de la 
 «Atención a las diferencias individuales», 26.1 y 26.4 de la «Autonomía de los centros», 
 27 del «Derecho del alumnado a una evaluación objetiva», 28 de la «Participación 
 y derecho a la información de padres, madres, tutores o tutoras legales y alumnado 
@@ -1197,14 +1110,12 @@ de la «Autenticidad, seguridad y confidencialidad», así como de la disposici�
 primera. «Enseñanzas de religión», de la disposición adicional segunda. «Enseñanzas 
 del sistema educativo español impartidas en lenguas extranjeras», de la disposición 
 adicional tercera. «Educación de personas adultas» y de la disposición adicional cuarta. 
-«Obtención de nuevas modalidades de Bachillerato», del Real Decreto 243/2022, de 5 de 
+«Obtención de nuevas modalidades de Bachillerato», del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de 
 abril.
-
 ## Disposición final segunda. Desarrollo y ejecución.
 Se habilita a la persona titular de la Consejería competente en materia de educación 
 para dictar cuantas disposiciones resulten necesarias para el desarrollo y ejecución de lo 
 dispuesto en el presente decreto.
-
 ## Disposición final tercera. Entrada en vigor.
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.
@@ -1214,15 +1125,13 @@ Presidente de la Junta de Andalucía
 PATRICIA DEL POZO FERNÁNDEZ
 Consejera de Desarrollo Educativo  
 y Formación Profesional
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/22
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 A N E X O
 COMPETENCIAS CLAVE Y PERFIL COMPETENCIAL AL TÉRMINO DE LA ETAPA 
 DE BACHILLERATO
 Con carácter general, debe entenderse que la consecución de las competencias 
-y objetivos previstos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación para 
+y objetivos previstos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación para 
 las distintas etapas educativas está vinculada a la adquisición y desarrollo de las 
 competencias clave recogidas tanto en el Perfil de salida al término de la enseñanza 
 básica como en el Perfil competencial al término de Bachillerato, y que son las siguientes: 
@@ -1258,7 +1167,7 @@ suponen una profundización sobre los niveles de desempeño definidos en el Perf
 salida de la Enseñanza Básica incluidos también en este Anexo, posibilitando así una 
 visión clara del progreso esperado.
 PERFIL COMPETENCIAL DE LA ETAPA DE BACHILLERATO 
-Teniendo en cuenta lo regulado en el Real Decreto 243/2022, de 5 de abril, por el 
+Teniendo en cuenta lo regulado en el [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el 
 que se establecen la ordenación y las enseñanzas mínimas del Bachillerato y de acuerdo 
 con lo establecido en el artículo 5 del presente decreto, se definen cada una de las 
 competencias clave y se enuncian los descriptores operativos del nivel de adquisición 
@@ -1266,10 +1175,8 @@ esperado al término de la etapa, constituyéndose así el Perfil competencial d
 al término de la misma. Para favorecer y explicitar la continuidad, la coherencia y la 
 cohesión entre etapas, se incluyen también los descriptores operativos previstos para la 
 Enseñanza Básica.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/23
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 COMPETENCIA EN COMUNICACIÓN LINGÜÍSTICA 
 La competencia en comunicación lingüística supone interactuar de forma oral, escrita, 
 signada o multimodal de manera coherente y adecuada en diferentes ámbitos y contextos 
@@ -1289,64 +1196,69 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CCL1. Se expresa de forma oral, escrita, signada o multimodal 
+CCL1.  Se expresa de forma oral, escrita, signada o multimodal 
 con coherencia, corrección y adecuación a los diferentes 
 contextos sociales, y participa en interacciones comunicativas 
 con actitud cooperativa y respetuosa tanto para intercambiar 
 información, crear conocimiento y transmitir opiniones, como 
 para construir vínculos personales.
-CCL1. Se expresa de forma oral, escrita, signada o multimodal 
+CCL1.  Se expresa de forma oral, escrita, signada o multimodal 
 con fluidez, coherencia, corrección y adecuación a los diferentes 
 contextos sociales y académicos, y participa en interacciones 
 comunicativas con actitud cooperativa y respetuosa tanto para 
 intercambiar información, crear conocimiento y argumentar 
 sus opiniones como para establecer y cuidar sus relaciones 
 interpersonales. 
-CCL2. Comprende, interpreta y valora con actitud crítica 
+CCL2.  Comprende, interpreta y valora con actitud crítica 
 textos orales, escritos, signados o multimodales de los ámbitos 
 personal, social, educativo y profesional para participar en 
 diferentes contextos de manera activa e informada y para 
 construir conocimiento.
- CCL2. Comprende, interpreta y valora con actitud crítica 
+ CCL2.  Comprende, interpreta y valora con actitud crítica 
 textos orales, escritos, signados o multimodales de los distintos 
 ámbitos, con especial énfasis en los textos académicos y de los 
 medios de comunicación, para participar en diferentes contextos 
 de manera activa e informada y para construir conocimiento. 
-CCL3. Localiza, selecciona y contrasta de manera 
+CCL3.  Localiza, 
+selecciona 
+y 
+contrasta 
+de 
+manera 
 progresivamente autónoma información procedente de diferentes 
 fuentes, evaluando su fiabilidad y pertinencia en función de los 
 objetivos de lectura y evitando los riesgos de manipulación y 
 desinformación, y la integra y transforma en conocimiento para 
 comunicarla adoptando un punto de vista creativo, crítico y 
 personal a la par que respetuoso con la propiedad intelectual. 
-CCL3. Localiza, selecciona y contrasta de manera autónoma 
+CCL3.  Localiza, selecciona y contrasta de manera autónoma 
 información procedente de diferentes fuentes evaluando su 
 fiabilidad y pertinencia en función de los objetivos de lectura 
 y evitando los riesgos de manipulación y desinformación, y 
 la integra y transforma en conocimiento para comunicarla de 
 manera clara y rigurosa adoptando un punto de vista creativo y 
 crítico a la par que respetuoso con la propiedad intelectual. 
-CCL4. Lee con autonomía obras diversas adecuadas a su 
+CCL4.  Lee con autonomía obras diversas adecuadas a su 
 edad, seleccionando las que mejor se ajustan a sus gustos e 
 intereses; aprecia el patrimonio literario como cauce privilegiado 
 de la experiencia individual y colectiva; y moviliza su propia 
 experiencia biográfica y sus conocimientos literarios y culturales 
 para construir y compartir su interpretación de las obras y para 
 crear textos de intención literaria de progresiva complejidad. 
-CCL4. Lee con autonomía obras relevantes de la literatura 
+CCL4.  Lee con autonomía obras relevantes de la literatura 
 poniéndolas en relación con su contexto sociohistórico de 
 producción, con la tradición literaria anterior y posterior y 
 examinando la huella de su legado en la actualidad, para 
 construir y compartir su propia interpretación argumentada de 
 las obras, crear y recrear obras de intención literaria y conformar 
 progresivamente un mapa cultural. 
-CCL5. Pone sus prácticas comunicativas al servicio de 
+CCL5.  Pone sus prácticas comunicativas al servicio de 
 la convivencia democrática, la resolución dialogada de los 
 conflictos y la igualdad de derechos de todas las personas, 
 evitando los usos discriminatorios, así como los abusos de 
 poder, para favorecer la utilización no solo eficaz sino también 
 ética de los diferentes sistemas de comunicación.
-CCL5. Pone sus prácticas comunicativas al servicio de 
+CCL5.  Pone sus prácticas comunicativas al servicio de 
 la convivencia democrática, la resolución dialogada de los 
 conflictos y la igualdad de derechos de todas las personas, 
 evitando y rechazando los usos discriminatorios, así como los 
@@ -1357,10 +1269,8 @@ La competencia plurilingüe implica utilizar distintas lenguas, orales o signada
 forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone 
 reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias 
 propias para desarrollar estrategias que permitan mediar y hacer transferencias entre 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/24
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua 
 o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas 
 e interculturales orientadas a conocer, valorar y respetar la diversidad lingüística y cultural 
@@ -1370,29 +1280,35 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CP1. Usa eficazmente una o más lenguas, además de la 
+CP1.  Usa eficazmente una o más lenguas, además de la 
 lengua o lenguas familiares, para responder a sus necesidades 
 comunicativas, de manera apropiada y adecuada tanto a su 
 desarrollo e intereses como a diferentes situaciones y contextos 
 de los ámbitos personal, social, educativo y profesional.
- CP1. Utiliza con fluidez, adecuación y aceptable corrección 
+ CP1.  Utiliza con fluidez, adecuación y aceptable corrección 
 una o más lenguas, además de la lengua familiar o de las lenguas 
 familiares, para responder a sus necesidades comunicativas con 
 espontaneidad y autonomía en diferentes situaciones y contextos 
 de los ámbitos personal, social, educativo y profesional.
-CP2. A partir de sus experiencias, realiza transferencias entre 
+CP2.  A partir de sus experiencias, realiza transferencias entre 
 distintas lenguas como estrategia para comunicarse y ampliar su 
 repertorio lingüístico individual 
-CP2. A partir de sus experiencias, desarrolla estrategias que le 
+CP2.  A partir de sus experiencias, desarrolla estrategias que le 
 permitan ampliar y enriquecer de forma sistemática su repertorio 
 lingüístico individual con el fin de comunicarse de manera eficaz. 
-CP3. Conoce, valora y respeta la diversidad lingüística y 
+CP3.  Conoce, valora y respeta la diversidad lingüística y 
 cultural presente en la sociedad, integrándola en su desarrollo 
 personal como factor de diálogo, para fomentar la cohesión 
 social.
-CP3. Conoce y valora críticamente la diversidad lingüística y 
+CP3.  Conoce y valora críticamente la diversidad lingüística y 
 cultural presente en la sociedad, integrándola en su desarrollo 
-personal y anteponiendo la comprensión mutua como 
+personal 
+y 
+anteponiendo 
+la 
+comprensión 
+mutua 
+como 
 característica central de la comunicación, para fomentar la 
 cohesión social.
 COMPETENCIA MATEMÁTICA Y COMPETENCIA EN CIENCIA, TECNOLOGÍA E 
@@ -1416,17 +1332,17 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-STEM1. Utiliza métodos inductivos y deductivos propios 
+STEM1.  Utiliza métodos inductivos y deductivos propios 
 del razonamiento matemático en situaciones conocidas, y 
 selecciona y emplea diferentes estrategias para resolver 
 problemas analizando críticamente las soluciones y reformulando 
 el procedimiento, si fuera necesario. 
- STEM1. Selecciona y utiliza métodos inductivos y deductivos 
+ STEM1.  Selecciona y utiliza métodos inductivos y deductivos 
 propios del razonamiento matemático en situaciones propias 
 de la modalidad elegida y emplea estrategias variadas para la 
 resolución de problemas analizando críticamente las soluciones 
 y reformulando el procedimiento, si fuera necesario.
-STEM2. Utiliza el pensamiento científico para entender y 
+STEM2.  Utiliza el pensamiento científico para entender y 
 explicar los fenómenos que ocurren a su alrededor, confiando 
 en el conocimiento como motor de desarrollo, planteándose 
 preguntas y comprobando hipótesis mediante la experimentación 
@@ -1434,7 +1350,7 @@ y la indagación, utilizando herramientas e instrumentos
 adecuados, apreciando la importancia de la precisión y la 
 veracidad y mostrando una actitud crítica acerca del alcance y 
 las limitaciones de la ciencia.
-STEM2. Utiliza el pensamiento científico para entender y 
+STEM2.  Utiliza el pensamiento científico para entender y 
 explicar fenómenos relacionados con la modalidad elegida, 
 confiando en el conocimiento como motor de desarrollo, 
 planteándose hipótesis y contrastándolas o comprobándolas 
@@ -1443,22 +1359,20 @@ utilizando herramientas e instrumentos adecuados, apreciando
 la importancia de la precisión y la veracidad y mostrando una 
 actitud crítica acerca del alcance y limitaciones de los métodos 
 empleados.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/25
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO 
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-STEM3. Plantea y desarrolla proyectos diseñando, fabricando 
+STEM3.  Plantea y desarrolla proyectos diseñando, fabricando 
 y evaluando diferentes prototipos o modelos para generar o 
 utilizar productos que den solución a una necesidad o problema 
 de forma creativa y en equipo, procurando la participación de 
 todo el grupo, resolviendo pacíficamente los conflictos que 
 puedan surgir, adaptándose ante la incertidumbre y valorando la 
 importancia de la sostenibilidad.
-STEM3. Plantea y desarrolla proyectos diseñando y creando 
+STEM3.  Plantea y desarrolla proyectos diseñando y creando 
 prototipos o modelos para generar o utilizar productos que den 
 solución a una necesidad o problema de forma colaborativa, 
 procurando la participación de todo el grupo, resolviendo 
@@ -1466,7 +1380,7 @@ pacíficamente los conflictos que puedan surgir, adaptándose
 ante la incertidumbre y evaluando el producto obtenido de 
 acuerdo a los objetivos propuestos, la sostenibilidad y el impacto 
 transformador en la sociedad.
-STEM4. Interpreta y transmite los elementos más relevantes 
+STEM4.  Interpreta y transmite los elementos más relevantes 
 de procesos, razonamientos, demostraciones, métodos y 
 resultados científicos, matemáticos y tecnológicos de forma 
 clara y precisa y en diferentes formatos (gráficos, tablas, 
@@ -1474,20 +1388,22 @@ fórmulas, esquemas, símbolos.), aprovechando de forma crítica
 la cultura digital e incluyendo el lenguaje matemático-formal 
 con ética y responsabilidad, para compartir y construir nuevos 
 conocimientos.
-STEM4. Interpreta y transmite los elementos más relevantes de 
+STEM4.  Interpreta y transmite los elementos más relevantes de 
 investigaciones de forma clara y precisa, en diferentes formatos 
 (gráficos, tablas, diagramas, fórmulas, esquemas, símbolos.) 
 y aprovechando la cultura digital con ética y responsabilidad 
 y valorando de forma crítica la contribución de la ciencia y 
 la tecnología en el cambio de las condiciones de vida para 
 compartir y construir nuevos conocimientos. 
-STEM5. Emprende acciones fundamentadas científicamente 
+STEM5.  Emprende acciones fundamentadas científicamente 
 para promover la salud física, mental y social, y preservar el 
 medio ambiente y los seres vivos; y aplica principios de ética 
 y seguridad en la realización de proyectos para transformar 
 su entorno próximo de forma sostenible, valorando su impacto 
 global y practicando el consumo responsable.
-STEM5. Planea/emprende acciones fundamentadas 
+STEM5.  Planea/emprende 
+acciones 
+fundamentadas 
 científicamente para promover la salud física y mental, y 
 preservar el medio ambiente y los seres vivos, practicando el 
 consumo responsable, aplicando principios de ética y seguridad 
@@ -1508,61 +1424,75 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CD1. Realiza búsquedas en internet atendiendo a criterios 
+CD1.  Realiza búsquedas en internet atendiendo a criterios 
 de validez, calidad, actualidad y fiabilidad, seleccionando los 
 resultados de manera crítica y archivándolos, para recuperarlos, 
 referenciarlos y reutilizarlos, respetando la propiedad intelectual. 
-CD1. Realiza búsquedas avanzadas comprendiendo 
+CD1.  Realiza 
+búsquedas 
+avanzadas 
+comprendiendo 
 cómo funcionan los motores de búsqueda en internet 
 aplicando criterios de validez, calidad, actualidad y fiabilidad, 
 seleccionando los resultados de manera crítica y organizando 
 el almacenamiento de la información de manera adecuada y 
 segura para referenciarla y reutilizarla posteriormente. 
-CD2. Gestiona y utiliza su entorno personal digital de 
+CD2.  Gestiona y utiliza su entorno personal digital de 
 aprendizaje para construir conocimiento y crear contenidos 
 digitales, mediante estrategias de tratamiento de la información 
 y el uso de diferentes herramientas digitales, seleccionando y 
 configurando la más adecuada en función de la tarea y de sus 
 necesidades de aprendizaje permanente 
-CD2. Crea, integra y reelabora contenidos digitales de forma 
+CD2.  Crea, integra y reelabora contenidos digitales de forma 
 individual o colectiva, aplicando medidas de seguridad y 
 respetando, en todo momento, los derechos de autoría digital 
 para ampliar sus recursos y generar nuevo conocimiento 
-CD3. Se comunica, participa, colabora e interactúa 
+CD3.  Se 
+comunica, 
+participa, 
+colabora 
+e 
+interactúa 
 compartiendo contenidos, datos e información mediante 
 herramientas o plataformas virtuales, y gestiona de manera 
 responsable sus acciones, presencia y visibilidad en la red, para 
 ejercer una ciudadanía digital activa, cívica y reflexiva.
-CD3. Selecciona, configura y utiliza dispositivos digitales, 
+CD3.  Selecciona, configura y utiliza dispositivos digitales, 
 herramientas, aplicaciones y servicios en línea y los incorpora 
 en su entorno personal de aprendizaje digital para comunicarse, 
 trabajar colaborativamente y compartir información, gestionando 
 de manera responsable sus acciones, presencia y visibilidad 
 en la red y ejerciendo una ciudadanía digital activa, cívica y 
 reflexiva. 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/26
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO 
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CD4. Identifica riesgos y adopta medidas preventivas al usar 
+CD4.  Identifica riesgos y adopta medidas preventivas al usar 
 las tecnologías digitales para proteger los dispositivos, los datos 
 personales, la salud y el medioambiente, y para tomar conciencia 
 de la importancia y necesidad de hacer un uso crítico, legal, 
 seguro, saludable y sostenible de dichas tecnologías. 
-CD4. Evalúa riesgos y aplica medidas al usar las tecnologías 
+CD4.  Evalúa riesgos y aplica medidas al usar las tecnologías 
 digitales para proteger los dispositivos, los datos personales, la 
 salud y el medioambiente y hace un uso crítico, legal, seguro, 
 saludable y sostenible de dichas tecnologías 
-CD5. Desarrolla aplicaciones informáticas sencillas y 
+CD5.  Desarrolla 
+aplicaciones 
+informáticas 
+sencillas 
+y 
 soluciones tecnológicas creativas y sostenibles para resolver 
 problemas concretos o responder a retos propuestos, mostrando 
 interés y curiosidad por la evolución de las tecnologías digitales y 
 por su desarrollo sostenible y uso ético.
-CD5. Desarrolla soluciones tecnológicas innovadoras y 
+CD5.  Desarrolla 
+soluciones 
+tecnológicas 
+innovadoras 
+y 
 sostenibles para dar respuesta a necesidades concretas, 
 mostrando interés y curiosidad por la evolución de las tecnologías 
 digitales y por su desarrollo sostenible y uso ético 
@@ -1583,57 +1513,60 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CPSAA1. Regula y expresa sus emociones, fortaleciendo 
+CPSAA1.  Regula y expresa sus emociones, fortaleciendo 
 el optimismo, la resiliencia, la autoeficacia y la búsqueda de 
 propósito y motivación hacia el aprendizaje, para gestionar los 
 retos y cambios y armonizarlos con sus propios objetivos. 
-CPSAA1.1 Fortalece el optimismo, la resiliencia, la autoeficacia 
+CPSAA1.1  Fortalece el optimismo, la resiliencia, la autoeficacia 
 y la búsqueda de objetivos de forma autónoma para hacer 
-eficaz su aprendizaje. CPSAA1.2 Desarrolla una personalidad 
+eficaz su aprendizaje. CPSAA1.2  Desarrolla una personalidad 
 autónoma, gestionando constructivamente los cambios, la 
 participación social y su propia actividad para dirigir su vida. 
-CPSAA2.  Comprende los riesgos para la salud relacionados 
+CPSAA2.  Comprende los riesgos para la salud relacionados 
 con factores sociales, consolida estilos de vida saludable a nivel 
 físico y mental, reconoce conductas contrarias a la convivencia y 
 aplica estrategias para abordarlas.
-CPSAA2. Adopta de forma autónoma un estilo de vida 
+CPSAA2.  Adopta de forma autónoma un estilo de vida 
 sostenible y atiende al bienestar físico y mental propio y de 
 los demás, buscando y ofreciendo apoyo en la sociedad para 
 construir un mundo más saludable.
-CPSAA3. Comprende proactivamente las perspectivas y 
+CPSAA3.  Comprende proactivamente las perspectivas y 
 las experiencias de las demás personas y las incorpora a su 
 aprendizaje, para participar en el trabajo en grupo, distribuyendo 
 y aceptando tareas y responsabilidades de manera equitativa y 
 empleando estrategias cooperativas.
-CPSAA3.1 Muestra sensibilidad hacia las emociones y 
+CPSAA3.1  Muestra sensibilidad hacia las emociones y 
 experiencias de los demás, siendo consciente de la influencia 
 que ejerce el grupo en las personas, para consolidar una 
 personalidad empática e independiente y desarrollar su 
-inteligencia. CPSAA3.2 Distribuye en un grupo las tareas, 
+inteligencia. CPSAA3.2  Distribuye en un grupo las tareas, 
 recursos y responsabilidades de manera ecuánime, según sus 
 objetivos, favoreciendo un enfoque sistémico para contribuir a la 
 consecución de objetivos compartidos. 
-CPSAA4. Realiza autoevaluaciones sobre su proceso de 
+CPSAA4.  Realiza autoevaluaciones sobre su proceso de 
 aprendizaje, buscando fuentes fiables para validar, sustentar y 
 contrastar la información y para obtener conclusiones relevantes.
-CPSAA4. Compara, analiza, evalúa y sintetiza datos, 
+CPSAA4.  Compara, 
+analiza, 
+evalúa 
+y 
+sintetiza 
+datos, 
 información e ideas de los medios de comunicación, para 
 obtener conclusiones lógicas de forma autónoma, valorando la 
 fiabilidad de las fuentes.
-CPSAA5. Planea objetivos a medio plazo y desarrolla procesos 
+CPSAA5.  Planea objetivos a medio plazo y desarrolla procesos 
 metacognitivos de retroalimentación para aprender de sus 
 errores en el proceso de construcción del conocimiento. 
-CPSAA5. Planifica a largo plazo evaluando los propósitos y 
+CPSAA5.  Planifica a largo plazo evaluando los propósitos y 
 los procesos de la construcción del conocimiento, relacionando 
 los diferentes campos del mismo para desarrollar procesos 
 autorregulados de aprendizaje que le permitan transmitir ese 
 COMPETENCIA CIUDADANA
 La competencia ciudadana contribuye a que el alumnado pueda ejercer una 
 ciudadanía responsable y participar plenamente en la vida social y cívica, basándose 
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/27
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 en la comprensión de los conceptos y las estructuras sociales, económicas, jurídicas y 
 políticas, así como en el conocimiento de los acontecimientos mundiales y el compromiso 
 activo con la sostenibilidad y el logro de una ciudadanía mundial. Incluye la alfabetización 
@@ -1646,19 +1579,19 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CC1. Analiza y comprende ideas relativas a la dimensión 
+CC1.  Analiza y comprende ideas relativas a la dimensión 
 social y ciudadana de su propia identidad, así como a los 
 hechos culturales, históricos y normativos que la determinan, 
 demostrando respeto por las normas, empatía, equidad y 
 espíritu constructivo en la interacción con los demás en cualquier 
 contexto.
-CC1. Analiza hechos, normas e ideas relativas a la dimensión 
+CC1.  Analiza hechos, normas e ideas relativas a la dimensión 
 social, histórica, cívica y moral de su propia identidad, para 
 contribuir a la consolidación de su madurez personal y social, 
 adquirir una conciencia ciudadana y responsable, desarrollar 
 la autonomía y el espíritu crítico, y establecer una interacción 
 pacífica y respetuosa con los demás y con el entorno.
-CC2. Analiza y asume fundadamente los principios y valores 
+CC2.  Analiza y asume fundadamente los principios y valores 
 que emanan del proceso de integración europea, la Constitución 
 Española y los derechos humanos y de la infancia, participando 
 en actividades comunitarias, como la toma de decisiones o la 
@@ -1666,7 +1599,7 @@ resolución de conflictos, con actitud democrática, respeto por la
 diversidad, y compromiso con la igualdad de género, la cohesión 
 social, el desarrollo sostenible y el logro de la ciudadanía 
 mundial. 
-CC2. Reconoce, analiza y aplica en diversos contextos, de 
+CC2.  Reconoce, analiza y aplica en diversos contextos, de 
 forma crítica y consecuente, los principios, ideales y valores 
 relativos al proceso de integración europea, la Constitución 
 Española, los derechos humanos, y la historia y el patrimonio 
@@ -1675,24 +1608,37 @@ grupales con una actitud fundamentada en los principios y
 procedimientos democráticos, el compromiso ético con la 
 igualdad, la cohesión social, el desarrollo sostenible y el logro de 
 la ciudadanía mundial. 
-CC3. Comprende y analiza problemas éticos fundamentales 
+CC3.  Comprende y analiza problemas éticos fundamentales 
 y de actualidad, considerando críticamente los valores propios 
 y ajenos, y desarrollando juicios propios para afrontar la 
 controversia moral con actitud dialogante, argumentativa, 
 respetuosa y opuesta a cualquier tipo de discriminación o 
 violencia. 
-CC3. Adopta un juicio propio y argumentado ante problemas 
+CC3.  Adopta un juicio propio y argumentado ante problemas 
 éticos y filosóficos fundamentales y de actualidad, afrontando 
 con actitud dialogante la pluralidad de valores, creencias e 
 ideas, rechazando todo tipo de discriminación y violencia, y 
 promoviendo activamente la igualdad y corresponsabilidad 
 efectiva entre mujeres y hombres.
-CC4. Comprende las relaciones sistémicas de 
-interdependencia, ecodependencia e interconexión entre 
+CC4.  Comprende 
+las 
+relaciones 
+sistémicas 
+de 
+interdependencia, 
+ecodependencia 
+e 
+interconexión 
+entre 
 actuaciones locales y globales, y adopta, de forma consciente 
 y motivada, un estilo de vida sostenible y ecosocialmente 
 responsable. 
-CC4. Analiza las relaciones de interdependencia y 
+CC4.  Analiza 
+las 
+relaciones 
+de 
+interdependencia 
+y 
 ecodependencia entre nuestras formas de vida y el entorno, 
 realizando un análisis crítico de la huella ecológica de las 
 acciones humanas, y demostrando un compromiso ético y 
@@ -1712,28 +1658,26 @@ la información y el conocimiento y colaborar de manera ágil con otras personas
 motivación, empatía y habilidades de comunicación y de negociación, para llevar las 
 ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles 
 de valor social, cultural y económico-financiero.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/28
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos 
 AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO 
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CE1. Analiza necesidades y oportunidades y afronta retos con 
+CE1.  Analiza necesidades y oportunidades y afronta retos con 
 sentido crítico, haciendo balance de su sostenibilidad, valorando 
 el impacto que puedan suponer en el entorno, para presentar 
 ideas y soluciones innovadoras, éticas y sostenibles, dirigidas a 
 crear valor en el ámbito personal, social, educativo y profesional.
-CE1. Evalúa necesidades y oportunidades y afronta retos, 
+CE1.  Evalúa necesidades y oportunidades y afronta retos, 
 con sentido crítico y ético, evaluando su sostenibilidad y 
 comprobando, a partir de conocimientos técnicos específicos, 
 el impacto que puedan suponer en el entorno, para presentar 
 y ejecutar ideas y soluciones innovadoras dirigidas a distintos 
 contextos, tanto locales como globales, en el ámbito personal, 
 social y académico con proyección profesional emprendedora.
-CE2. Evalúa las fortalezas y debilidades propias, haciendo uso 
+CE2.  Evalúa las fortalezas y debilidades propias, haciendo uso 
 de estrategias de autoconocimiento y autoeficacia, y comprende 
 los elementos fundamentales de la economía y las finanzas, 
 aplicando conocimientos económicos y financieros a actividades 
@@ -1741,7 +1685,7 @@ y situaciones concretas, utilizando destrezas que favorezcan
 el trabajo colaborativo y en equipo, para reunir y optimizar los 
 recursos necesarios que lleven a la acción una experiencia 
 emprendedora que genere valor.
-CE2. Evalúa y reflexiona sobre las fortalezas y debilidades 
+CE2.  Evalúa y reflexiona sobre las fortalezas y debilidades 
 propias y las de los demás, haciendo uso de estrategias de 
 autoconocimiento y autoeficacia, interioriza los conocimientos 
 económicos y financieros específicos y los transfiere a contextos 
@@ -1749,14 +1693,14 @@ locales y globales, aplicando estrategias y destrezas que agilicen
 el trabajo colaborativo y en equipo, para reunir y optimizar los 
 recursos necesarios, que lleven a la acción una experiencia o 
 iniciativa emprendedora de valor.
-CE3. Desarrolla el proceso de creación de ideas y soluciones 
+CE3.  Desarrolla el proceso de creación de ideas y soluciones 
 valiosas y toma decisiones, de manera razonada, utilizando 
 estrategias ágiles de planificación y gestión, y reflexiona sobre 
 el proceso realizado y el resultado obtenido, para llevar a 
 término el proceso de creación de prototipos innovadores y de 
 valor, considerando la experiencia como una oportunidad para 
 aprender.
-CE3. Lleva a cabo el proceso de creación de ideas y soluciones 
+CE3.  Lleva a cabo el proceso de creación de ideas y soluciones 
 innovadoras y toma decisiones, con sentido crítico y ético, 
 aplicando conocimientos técnicos específicos y estrategias 
 ágiles de planificación y gestión de proyectos, y reflexiona sobre 
@@ -1779,46 +1723,50 @@ AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CCEC1. Conoce, aprecia críticamente y respeta el patrimonio 
+CCEC1.  Conoce, aprecia críticamente y respeta el patrimonio 
 cultural y artístico, implicándose en su conservación y valorando 
 el enriquecimiento inherente a la diversidad cultural y artística. 
-CCEC1. Reflexiona, promueve y valora críticamente el 
+CCEC1.  Reflexiona, promueve y valora críticamente el 
 patrimonio cultural y artístico de cualquier época, contrastando 
 sus singularidades y partiendo de su propia identidad, para 
 defender la libertad de expresión, la igualdad y el enriquecimiento 
 inherente a la diversidad. 
-CCEC2. Disfruta, reconoce y analiza con autonomía las 
+CCEC2.  Disfruta, reconoce y analiza con autonomía las 
 especificidades e intencionalidades de las manifestaciones 
-artísticas y culturales más destacadas del patrimonio, 
+artísticas 
+y 
+culturales 
+más 
+destacadas 
+del 
+patrimonio, 
 distinguiendo los medios y soportes, así como los lenguajes y 
 elementos técnicos que las caracterizan.
-CCEC2. Investiga las especificidades e intencionalidades de 
+CCEC2.  Investiga las especificidades e intencionalidades de 
 diversas manifestaciones artísticas y culturales del patrimonio, 
 mediante una postura de recepción activa y deleite, diferenciando 
 y analizando los distintos contextos, medios y soportes en que 
 se materializan, así como los lenguajes y elementos técnicos y 
 estéticos que las caracterizan.
-00283498
  Número 90 - Lunes, 15 de mayo de 2023
-página 8469/29
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR LA ENSEÑANZA BÁSICA, EL ALUMNO 
 O LA ALUMNA ...
 AL COMPLETAR LA ETAPA DE BACHILLERATO, EL ALUMNO 
 O LA ALUMNA… 
-CCEC4. Conoce, selecciona y utiliza con creatividad diversos 
+CCEC4.  Conoce, selecciona y utiliza con creatividad diversos 
 medios y soportes, así como técnicas plásticas, visuales, 
 audiovisuales, sonoras o corporales, para la creación de 
 productos artísticos y culturales, tanto de forma individual como 
 colaborativa, identificando oportunidades de desarrollo personal, 
 social y laboral, así como de emprendimiento.
-CCEC4.1 Selecciona e integra con creatividad diversos medios 
+CCEC4.1  Selecciona e integra con creatividad diversos medios 
 y soportes, así como técnicas plásticas, visuales, audiovisuales, 
 sonoras o corporales, para diseñar y producir proyectos artísticos 
 y culturales sostenibles, analizando las oportunidades de 
 desarrollo personal, social y laboral que ofrecen sirviéndose de 
 la interpretación, la ejecución, la improvisación o la composición. 
-CCEC4.2 Planifica, adapta y organiza sus conocimientos, 
+CCEC4.2  Planifica, adapta y organiza sus conocimientos, 
 destrezas y actitudes para responder con creatividad y eficacia 
 a los desempeños derivados de una producción cultural o 
 artística, individual o colectiva, utilizando diversos lenguajes, 

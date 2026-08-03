@@ -77,7 +77,6 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2024-226-44
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-735.pdf
 ---
-
 ## Preámbulo
 
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Artes Gráficas; Fabricación Mecánica; y Servicios Socioculturales y a la Comunidad, en el ámbito de la Comunidad Autónoma de Canarias.
@@ -1696,3 +1695,57 @@ necesarias  para  el  desempeño  de  las  funciones  de  nivel  básico  en  Pr
 establecidas en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento  
 de los Servicios de Prevención, sin perjuicio de lo establecido en el artículo 153.2.d). del Real Decreto  
 659/2023, de 18 de julio.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Desarrolla**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamentado en**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamentado en**: [**Resolucion BOC 35**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamentado en**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamentado en**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamentado en**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Fundamentado en**: [**Resolucion BOC 134**](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Fundamentado en**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamentado en**: [**Resolucion BOC 25**](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**RD39_1997 Reglamento de los Servicios de Prevencion**](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Fundamento de**: [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Fundamento de**: [**Resolucion BOC 35**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Fundamento de**: [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Fundamento de**: [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Fundamento de**: [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
+- [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- [**Resolucion BOC 25**](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- [**Resolucion BOC 134**](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**RD39_1997 Reglamento de los Servicios de Prevencion**](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md)
+- [**BOE-A-2025-2039**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- [**Resolucion BOC 33**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- [**Resolucion BOC 34**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- [**Resolucion BOC 35**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- [**Resolucion BOC 37**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- [**Resolucion BOC 38**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- [**Resolucion BOC 39**](./R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+

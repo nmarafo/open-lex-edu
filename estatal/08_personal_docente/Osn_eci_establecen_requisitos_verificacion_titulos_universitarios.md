@@ -37,17 +37,6 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 La disposición adicional novena del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, establece que el Ministerio de Educación y Ciencia precisará los contenidos de su anexo I a los que habrán de ajustarse las solicitudes presentadas por las universidades para la obtención de la verificación de los planes de estudios conducentes a la obtención de títulos oficiales de Grado o de Máster, prevista en su artículo 24, que habiliten para el ejercicio de profesiones reguladas.
@@ -187,3 +176,14 @@ especialización, incluyendo el Trabajo fin de Máster.
 Â
 
 Adquirir experiencia en la planificación, la docencia y la evaluación de las materias correspondientes a la especialización. Acreditar un buen dominio de la expresión oral y escrita en la práctica docente. Dominar las destrezas y habilidades sociales necesarias para fomentar un clima que facilite el aprendizaje y la convivencia. Participar en las propuestas de mejora en los distintos ámbitos de actuación a partir de la reflexión basada en la práctica. Para la formación profesional, conocer la tipología empresarial correspondiente a los sectores productivos y comprender los sistemas organizativos más comunes en las empresas. Respecto a la orientación, ejercitarse en la evaluación psicopedagógica, el asesoramiento a otros profesionales de la educación, a los estudiantes y a las familias. Estas competencias, junto con las propias del resto de materias, quedarán reflejadas en el Trabajo fin de Máster que compendia la formación adquirida a lo largo de todas las enseñanzas descritas.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

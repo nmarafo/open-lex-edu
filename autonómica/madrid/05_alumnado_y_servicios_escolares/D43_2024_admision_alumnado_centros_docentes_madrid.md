@@ -15,8 +15,8 @@ boletin: BOCM
 numero_boletin: '234'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/01/BOCM-20241001-1.PDF
-fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/01/BOCM-20241001-1.PDF
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-36.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/25/BOCM-20240425-36.PDF
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión y escolarización del alumnado
@@ -31,477 +31,50 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Decreto 43/2024, de 27 de septiembre, del Consejo de Gobierno, por el que se regulan los procesos de adscripción y admisión de alumnos en centros docentes sostenidos con fondos públicos**
 
-## Preámbulo
-
-B.O.C.M. Núm. 234
-Consejería de Economía, Hacienda y Empleo
-1
-ORDEN de 17 de septiembre de 2024, de la Consejera de Economía, Hacienda y Em-
-pleo, por la que se aprueba convocatoria pública para la provisión de un puesto de
-trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, de
-conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pú-
-blica de la Comunidad de Madrid, por el procedimiento de Libre Designación.
-El artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad
-de Madrid, prevé la posibilidad de efectuar convocatoria pública para la provisión de pues-
-tos de trabajo de esta Administración, entre funcionarios de la Administración del Estado y
-de otras Comunidades Autónomas, bien por la especialidad de las actividades encomenda-
-das, bien porque las necesidades del servicio así lo aconsejen, siempre que esta posibilidad
-esté prevista en la correspondiente relación de puestos de trabajo.
-Mediante Decreto 38/2023, de 23 de junio, de la Presidenta de la Comunidad de
-Madrid, se establece el número y denominación de las Consejerías de la Comunidad de
-Madrid. Asimismo, mediante Decreto 76/2023, de 5 de julio, del Consejo de Gobierno, se
-establece la estructura orgánica básica de las Consejerías de la Comunidad de Madrid.
-Al resultar necesaria la cobertura del puesto de trabajo que se indica en el listado y con-
-curriendo las circunstancias señaladas, la Consejería de Presidencia, Justicia y Administra-
-ción Local ha propuesto la provisión de dicho puesto al amparo del precepto citado, por el
-procedimiento de Libre Designación previsto en el artículo 49.1 de la Ley 1/1986, de 10 de
-abril, debido a la especial responsabilidad y confianza que supone el ejercicio de las funcio-
-nes que tienen asignadas, de acuerdo con lo establecido en la relación de puestos de trabajo.
-Por ello y en virtud del Acuerdo del Consejo de Gobierno de 15 de noviembre de 2001
-lega la competencia a la que se refiere el artículo 55 de la Ley 1/1986, de 10 de abril,
-RESUELVO
-Primero
-Objeto
-Se aprueba convocatoria pública para la provisión del puesto de trabajo que figura en
-el listado, de conformidad con lo establecido en el artículo 55 de la Ley 1/1986, de 10 de
-abril, de la Función Pública de la Comunidad de Madrid, mediante el procedimiento de Li-
-bre Designación.
-Segundo
-Normativa aplicable
-La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo, por
-lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid
-21 de julio, del Consejo de Gobierno, por el que se regula la obligación de relacionarse por me-
-dios electrónicos con la Administración de la Comunidad de Madrid del personal a su servicio
-y de los participantes en procesos selectivos (BOLETÍN OFICIAL DE LA COMUNIDAD DE
-MADRID de 23 de julio), la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por
-la que se aprueban las bases generales que han de regir en las convocatorias para provisión de
-puestos de trabajo por los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFI-
-CIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la Resolución de 27 de octubre de 2011,
-de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instruccio-
-nes para la emisión de los certificados de Registro de Personal en los procedimientos de provi-
-sión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la
-Comunidad de Madrid reservados a personal funcionario de carrera no docente (BOLETÍN OFI-
-
-B.O.C.M. Núm. 234
-CIAL DE LA COMUNIDAD DE MADRID de 15 de noviembre de 2011), así como por el resto de
-normativa que resulte de aplicación.
-Tercero
-Requisitos y condiciones de participación
-1.
-Se recogen en el listado los requisitos indispensables que han de reunirse para el
-desempeño del puesto de trabajo que se convoca, en cuanto a Administración de pertenen-
-cia, Grupo de clasificación profesional, Cuerpo, Escala y/o Especialidad y titulación espe-
-cífica exigida en su caso.
-2.
-Podrán participar en este procedimiento los funcionarios que, en la fecha de entra-
-da en vigor de la presente convocatoria, se encuentren en servicio activo o quieran reingre-
-sar a dicha situación. El reingreso al servicio activo se efectuará con arreglo a lo dispuesto
-en la normativa vigente y deberá ser manifestado expresamente en la solicitud. Podrán asi-
-mismo participar los funcionarios que, en la misma fecha, se encuentren en situación de
-servicios especiales.
-3.
-Los funcionarios en situación de excedencia voluntaria por interés particular o por
-agrupación familiar podrán participar si llevan más de dos años en dicha situación en la fe-
-cha de entrada en vigor de la convocatoria, indicando expresamente en la solicitud que de-
-sean reingresar al servicio activo.
-4.
-Los funcionarios procedentes de la situación de suspenso deberán haber cumpli-
-do el período de suspensión.
-5.
-Los requisitos y condiciones de participación expresados en este apartado han de
-poseerse en la fecha de entrada en vigor de la presente convocatoria y mantenerse hasta la
-resolución del procedimiento.
-Cuarto
-Solicitudes
-1.
-Las solicitudes se presentarán telemáticamente, cumplimentando el modelo de
-impreso normalizado de “Solicitud de provisión de puestos de trabajo” al que se accederá
-desde la web: https://tramita.comunidad.madrid, adjuntándose a aquel la documentación
-correspondiente que hubiera de aportarse.
-En el caso de ser varias las plazas solicitadas, se indicará el orden de preferencia entre
-las mismas.
-2.
-Las solicitudes deberán ir acompañadas de un “curriculum vitae”, así como de la
-documentación acreditativa que se considere procedente a efectos de apreciar la idoneidad
-del interesado para el desempeño del puesto.
-3.
-Los funcionarios de otras Administraciones Públicas que soliciten alguno de los
-puestos convocados, incluidos aquéllos que estén ocupando un puesto de trabajo de forma
-provisional en la Comunidad de Madrid, deberán adjuntar a su solicitud el Anexo que
-acompaña a la presente Orden, debidamente cumplimentado y firmado por el titular del ór-
-gano encargado del Registro de Personal de su Administración de origen.
-4.
-Los Certificados de Registro de Personal de los interesados relativos a su situación y
-destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto en la Reso-
-noviembre), de la Directora General de Presupuestos y Recursos Humanos, por la que se dic-
-tan instrucciones para la emisión de los Certificados de Registro de Personal en los procedi-
-mientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de pues-
-tos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no
-docente, sin que deban ser solicitados ni aportados por el interesado.
-Quinto
-Presentación y plazo
-1.
-Deconformidadconloestablecidoenelartículo2,basesegunda,delaOrden923/1989,
-de 20 de abril, las solicitudes se presentarán telemáticamente, dirigidas a la Secretaría General
-Técnica de la Consejería de Presidencia, Justicia y Administración Local, en el plazo de quince
-días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria, en el Registro Elec-
-trónico de la Comunidad de Madrid o en la forma establecida en el artículo 16 de la Ley 39/2015,
-de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
-
-B.O.C.M. Núm. 234
-En el supuesto de que algún funcionario presentase la solicitud de forma presencial
-será requerido para que la subsane a través de su presentación electrónica, en los términos
-y con los efectos establecidos en el artículo 68.4 de la Ley 39/2015, de 1 de octubre, del
-Procedimiento Administrativo Común de las Administraciones Públicas, considerándose a
-todos los efectos como fecha de presentación de la solicitud aquélla en la que se haya rea-
-lizado la correspondiente subsanación.
-2.
-El mencionado plazo de presentación de solicitudes, siempre que no haya vencido,
-podrá ser ampliado como consecuencia de incidencias técnicas que hayan imposibilitado el
-funcionamiento ordinario del sistema o de la aplicación correspondiente según lo dispuesto
-en el artículo 32.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Co-
-mún de las Administraciones Públicas.
-Sexto
-Personal seleccionado
-Los funcionarios de otras Administraciones Públicas que sean seleccionados para la
-cobertura de puestos de trabajo convocados no adquirirán la condición de funcionarios de
-la Comunidad de Madrid, pero se integrarán en la Administración de esta en la forma pre-
-vista en el artículo 55.2 de la Ley 1/1986, de 10 de abril.
-Séptimo
-Renuncias
-Los destinos adjudicados serán irrenunciables.
-Octavo
-Entrada en vigor
-La presente Orden producirá efectos desde el día siguiente al de su publicación en el
-Noveno
-Recursos
-La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
-se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
-no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
-los Juzgados de lo Contencioso-administrativo de Madrid, ambos plazos contados a partir del
-perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
-midad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Pro-
-cedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
-de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
-En Madrid, a 17 de septiembre de 2024.
-La Consejera de Economía, Hacienda y Empleo,
-P. D. (Acuerdo de Consejo de Gobierno
-de 15 de noviembre de 2001; BOCM de 16 de noviembre),
-ROCÍO ALBERT LÓPEZ-IBOR
-
-B.O.C.M. Núm. 234
-LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE LIBRE DESIGNACIÓN (ARTÍCULO 55)
-Puesto/Denominación
-NCD
-Grupo
-Unidad Orgánica
-Específico
-Administración Pública
-Cuerpo   Escala    Especialidad
-Admon
-EXPERIENCIA EN ANÁLISIS Y OPTIMIZACIÓN DE PROCESOS.
-EXPERIENCIA CON PANELES DE DATOS Y CUADROS DE MANDO.
-EXPERIENCIA EN PROYECTOS DE TRANSFORMACIÓN DIGITAL.
-EXPERIENCIA EN PROYECTOS Y SERVICIOS DE ATENCIÓN AL CIUDADANO.
-MAÑANA Y DOS TA
-Madrid
-Localidad........:
-Turno/Jornada:
-PERFIL
-22312
-TECNICO DE APOYO
-A/B
-26
-    26.169,84
-C. MADRID/ADMON. ESTADO/CCAA
-CONSEJERIA PRESIDENCIA, JUSTICIA 
-Y ADMINISTRACIÓN LOCAL
-VICECONSEJERIA PRESIDENCIA Y 
-ADMINISTRACIÓN LOCAL
-DIRECCION GENERAL ATENCIÓN AL 
-CIUDADANO Y TRANSPARENCIA
-SUBDIRECCION GENERAL ATENCIÓN 
-AL CIUDADANO Y CALIDAD DE LOS 
-SERVICIOS PÚBLICOS
-VINCULADO A CUALQUIER CUERPO O ESCALA
-A
-
-B.O.C.M. Núm. 234
-http://www.bocm.es
-D. L.: M. 19.462-1983      ISSN 1989-4791
-
-CERTIFICADO DE REGISTRO DE PERSONAL
-	
-
-
-
-
-
-
-CERTIFICO: Que según los antecedentes obrantes en este Registro de Personal, el funcionario de carrera abajo indicado 
-tiene acreditados los siguientes extremos: 
-DATOS PERSONALES
-
-
-
-
-
-
-
-
-	  
-	
-  
-
-!
-"
-
-#
-
-$% &$
-
-"$
-
-' 
-
-% 
-&$
-
-SITUACIÓN ADMINISTRATIVA
- !(
- %(
-
-
-% 
-%
- &$
-
- $% %( 
-               
-' 
-
-$
-		
-
-DESTINO ACTUAL
-)
-
-!*
-
-
-+
-
-,% % -
-
-%$& 
-
-. /
-
-*
-
-
-
-
-*
-0
-
-,)$%-
-
-$12 
-
-
-. /
-
-
-
-
-
-3#
-,4/
-
-
-5
-
-
-
-
-
-DESTINOS ANTERIORES
-)
-
-!*
-
-
-+
-
-,% % -
-
-%$& 
-
-. /
-
-*
-
-
-
-
-*
-0
-
-,)$%-
-
-$12 
-
-
-. /
-
-
-
-
-
-3#
-,4/
-
-
-5
-
-
-
-
-
-
-5
-
-.
-
-,4/
-
-' 
-$% 
-
-
-
-%
-' 
-
-
- 
-
-*%
- 
-,*/
-
-($ 
-,#/
-
-GRADO 
-
-
-
-#
-!.
-
-!.
-
-
-
-5
-
-!.
-
-
-+
-
-ANTIGÜEDAD
-*
-
-(
-$
-$
- 
-$% &$
-
-% -
-
-%$& 
-
-. 
-
-' % 
- 
-6' 
-
-
- &$
-
- 
-$( % 
-AÑOS
-MESES 
-DÍAS
-
-
-*
-
-
-
-+
-7
-
-8
- 
-%&$
-
-$% 
-
-  
-7
-
-
-% 
-6%
-$
-
-
-$( 
-
-$
-
-
-$1
-
-$2 -
-
-5 $ 
-
-
-
- 
-
-
-$ 
-
-) 
-
-6' ,9
-)
-		/
-
-Madrid, …….. de ……….. de 20…….
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Firma
-
-(03/15.178/24)
+Pasar al contenido principal
+Toggle navigation
+Último BOCM
+Autentificación y verificación
+Qué es el BOCM
+Organismo
+Publicar un anuncio
+Transparencia
+Boletín Oficial de la Comunidad de Madrid - Núm 98
+Fecha del Boletín
+25-04-2024
+Sección 1.3.103.1:
+I. COMUNIDAD DE MADRID
+Código de Verificación Electrónica (CVE): BOCM-20240425-36
+Páginas: 1
+PDF de la disposición  (74 Kbs)
+XML de la disposición
+JSON-LD de la disposición
+I. COMUNIDAD DE MADRID
+C) Otras Disposiciones
+CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL
+36
+DECRETO 43/2024, de 24 de abril, del Consejo de Gobierno, por el que se concede la Gran Cruz de la Orden del Dos de Mayo al Grupo Crónica.
+En atención a los méritos que concurren en el Grupo Crónica y de conformidad con lo dispuesto en el artículo 8 de la Ley 2/2024, de 22 de abril, por la que se regulan las Distinciones Honoríficas de la Comunidad de Madrid, a propuesta de la Presidenta de la Comunidad de Madrid, el Consejo de Gobierno previa deliberación, en atención al informe del Consejo de la Orden, en su reunión del día 24 de abril de 2024
+DISPONE
+Conceder la Gran Cruz de la Orden del Dos de Mayo al Grupo Crónica.
+Dado en Madrid, a 24 de abril de 2024.
+El Consejero de Presidencia, Justicia y Administración Local, 	MIGUEL ÁNGEL GARCÍA MARTÍN
+La Presidenta, 		ISABEL DÍAZ AYUSO
+(03/6.376/24)
+Nota:
+El contenido del texto de la disposición que aquí se muestra no es necesariamente exacto y completo. Únicamente la disposición publicada con firma electrónica, en formato PDF, tiene carácter auténtico y validez oficial.
+Sección 1.3.103.1:
+I. COMUNIDAD DE MADRID
+SUBIR
+https://www.bocm.es
+Código de Verificación Electrónica (CVE):  BOCM-20240425-36
+Comunidad de Madrid
+Opine
+Aviso legal
+Privacidad
+Contacto
+Accesibilidad
+Mapa Web
+RSS

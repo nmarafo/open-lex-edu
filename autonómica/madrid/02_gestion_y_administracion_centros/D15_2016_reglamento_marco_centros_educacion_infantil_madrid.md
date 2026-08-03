@@ -30,12 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que se aprueba el Reglamento marco de organización y funcionamiento de los centros públicos de Educación Infantil de la Comunidad de Madrid**
 
-## Preámbulo
-
+MIÉRCOLES 24 DE FEBRERO DE 2016
 B.O.C.M. Núm. 46
+Pág. 9
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
 Consejería de Economía, Empleo y Hacienda
 1
 ORDEN de 12 de febrero de 2016, de la Consejera de Economía, Empleo y Ha-
@@ -59,7 +63,9 @@ Segundo
 Normativa aplicable
 La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo,
 por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de
+Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989,
 de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de la Comuni-
+dad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989);
 la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las
 bases generales que han de regir en las convocatorias para provisión de puestos de trabajo
 por los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFICIAL DE LA CO-
@@ -80,7 +86,12 @@ General de Ingreso del Personal al Servicio de la Administración General del Es
 Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
 Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril).
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
+Pág. 10
 B.O.C.M. Núm. 46
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Tercero
 Requisitos y condiciones de participación
 1.
@@ -149,7 +160,12 @@ Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid r
 a personal funcionario de carrera no docente, sin que deban ser solicitados ni aportados por
 el interesado.
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
 B.O.C.M. Núm. 46
+Pág. 11
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Quinto
 Méritos
 1.
@@ -212,7 +228,12 @@ Los participantes solo podrán desistir de su solicitud hasta la fecha de finali
 ción del plazo concedido para formular alegaciones contra la lista provisional de admiti-
 dos y excluidos al que hace referencia el apartado séptimo de esta Orden.
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
+Pág. 12
 B.O.C.M. Núm. 46
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Cualquier escrito de desistimiento ya sea a uno o a varios de los puestos convocados,
 se considerará hecho a la totalidad del procedimiento.
 2.
@@ -220,6 +241,7 @@ Los destinos adjudicados serán irrenunciables.
 Décimo
 Entrada en vigor
 La presente Orden producirá efectos desde el día siguiente al de su publicación en el
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 Undécimo
 Recursos
 La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
@@ -236,18 +258,49 @@ Madrid, a 12 de febrero de 2016.—La Consejera de Economía, Empleo y Hacienda,
 PD (Orden de 14 de septiembre de 2015, BOLETÍN OFICIAL DE LA COMUNIDAD DE
 MADRID de 17 de septiembre), el Secretario General Técnico, Antonio Luis Carrasco Reija.
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
 B.O.C.M. Núm. 46
+Pág. 13
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE CONCURSO DE MÉRITOS EN LA CONSEJERÍA DE ECONOMÍA, EMPLEO Y HACIENDA
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
+Pág. 14
 B.O.C.M. Núm. 46
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
 B.O.C.M. Núm. 46
+Pág. 15
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
+Pág. 16
 B.O.C.M. Núm. 46
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
 B.O.C.M. Núm. 46
+Pág. 17
+BOCM-20160224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 
+MIÉRCOLES 24 DE FEBRERO DE 2016
+Pág. 18
 B.O.C.M. Núm. 46
+BOCM-20160224-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 (03/6.105/16)

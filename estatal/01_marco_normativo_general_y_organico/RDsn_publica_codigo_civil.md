@@ -28,17 +28,6 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
 
 Teniendo presente lo dispuesto en la ley de 26 de Mayo último; conformándome con lo propuesto por el Ministro de Gracia y Justicia, y de acuerdo con el parecer de mi Consejo de Ministros;
@@ -11948,3 +11937,14 @@ El Ministerio de Gracia y Justicia pasará estas Memorias y un ejemplar de la Es
 #### [precepto]3.ª
 
 En vista de estos datos, de los progresos realizados en otros países que sean utilizables en el nuestro y de la jurisprudencia del Tribunal Supremo, la Comisión de Codificación formulará y elevará al Gobierno cada diez años las reformas que convenga introducir.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

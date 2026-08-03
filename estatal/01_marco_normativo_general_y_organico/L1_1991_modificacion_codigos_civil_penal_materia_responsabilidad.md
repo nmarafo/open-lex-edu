@@ -30,17 +30,6 @@ fundamentos_derecho:
   - '1'
   - '2.1'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 **JUAN CARLOS I**
@@ -88,3 +77,14 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

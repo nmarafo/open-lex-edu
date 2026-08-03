@@ -2824,3 +2824,62 @@ FELIPE R.
 El Presidente del Gobierno,
 
 PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrollado por**: [**BOE-A-2024-10683**](./RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Desarrollado por**: [**BOE-A-2025-2039**](./RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md)
+- **Desarrollado por**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](./RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Desarrollado por**: [**Resolucion BOC 44**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Desarrollado por**: [**Resolucion BOC 34**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_2.md)
+- **Desarrollado por**: [**Resolucion BOC 36**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+- **Desarrollado por**: [**Resolucion BOC 32**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
+- **Desarrollado por**: [**Resolucion BOC 27**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_12_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_oferta.md)
+- **Desarrollado por**: [**Resolucion BOC 39**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_7.md)
+- **Desarrollado por**: [**Resolucion BOC 38**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_6.md)
+- **Desarrollado por**: [**Resolucion BOC 47**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R21_2_2025_dictan_instrucciones_implantacion_itinerarios_formativos_formacion.md)
+- **Desarrollado por**: [**Resolucion BOC 108**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R24_2_2025_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Desarrollado por**: [**Resolucion BOC 31**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R21_4_2022_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Desarrollado por**: [**Resolucion BOC 46**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
+- **Desarrollado por**: [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Desarrollado por**: [**Resolucion BOC 42**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R26_11_2025_dictan_instrucciones_implantacion_desarrollo_oferta_dobles.md)
+- **Desarrollado por**: [**Resolucion BOC 35**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_3.md)
+- **Desarrollado por**: [**Resolucion BOC 37**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_5.md)
+- **Desarrollado por**: [**Resolucion BOC 33**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md)
+- **Desarrollado por**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Fundamentado en**: [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](./RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](./RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-11613**](./L1_2024_regulan_ensenanzas_artisticas_superiores_establece_organizacion.md)
+- **Fundamento de**: [**BOE-A-2026-12038**](./RD452_2026_establece_ordenacion_ensenanzas_profesionales_artes_plasticas.md)
+- **Fundamento de**: [**Resolucion BOC 40**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 103**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_dictan_instrucciones_proceso_admision_alumnado_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 102**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R13_2_2026_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 107**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/R24_2_2025_convoca_procedimiento_admision_alumnado_ciclos_formativos.md)
+- **Fundamento de**: [**Resolucion BOC 29**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R2_7_2026_modifican_cuadros_horarios_establecidos_resoluciones_dictan.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- [**BOE-A-2002-12018**](./LO5_2002_cualificaciones_formacion_profesional.md)
+- [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

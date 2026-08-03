@@ -46,7 +46,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
-
 ## Preámbulo
 
 # Resolución de 2 de junio de 2011, por la que se corrigen errores materiales en la [Resolución de 25 de mayo de 2011](R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), que dicta instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24 de junio).
@@ -239,3 +238,22 @@ de 13 de enero.
 Santa Cruz de Tenerife, a 2 de junio de 2011.- El
 Director General de Formación Profesional y Educación de Adultos, Manuel Jorge Pérez.
 boc-a-2011-124-3519
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 68**](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**Resolucion BOC 68**](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+

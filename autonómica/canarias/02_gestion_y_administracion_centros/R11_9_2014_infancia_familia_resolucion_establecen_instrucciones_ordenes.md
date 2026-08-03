@@ -44,7 +44,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2014-188-4160.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=71394
 ---
-
 ## Preámbulo
 
 # Dirección General de Dependencia, Infancia y Familia.- Resolución de 11 de septiembre de 2014, por la que se establecen las instrucciones y órdenes de servicio del Documento 1 \"Protocolo de Registros a Personas y Dependencias en los Centros de Internamiento Educativo para Menores Infractores (CIEMI) de la Comunidad Autónoma de Canarias», relativo al protocolo de actuación en materia de vigilancia y seguridad interior (BOC n.º 188, de 29 de septiembre).
@@ -92,7 +91,7 @@ de la Consejería de Cultura, Deportes, Políticas Sociales y Vivienda, aprobado
 64/2013, de 6 de junio, a la Dirección General de Dependencia, Infancia y Familia, le corresponde el dictado de instrucciones en materia de dirección, gestión y seguimiento de la 
 ejecución de las medidas de internamiento de menores y jóvenes infractores dictadas por 
 los Juzgados de Menores, y teniendo como base jurídica, el artículo 54 del [Real Decreto 
-1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 5/2000, se establecen los principios rectores para la realización de los registros a los 
+1774/2004](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md), de 30 de julio, por el que se aprueba el Reglamento de desarrollo de la [Ley Orgánica 5/2000](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md), se establecen los principios rectores para la realización de los registros a los 
 menores y jóvenes, así como a sus bienes, enseres y a las dependencias que ocupan.
 Asimismo, y de acuerdo con la Disposición Final primera de la Orden de 1 de marzo de 
 2011, de la Consejería de Bienestar Social, Juventud y Vivienda, por la que se aprueban las 
@@ -1226,3 +1225,24 @@ boc-a-2014-188-4160
 
 
 boc-a-2014-188-4160
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**BOE-A-2004-15601**](../../../estatal/01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- [**LO5_2000 Responsabilidad Penal de los Menores**](../../../estatal/01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+

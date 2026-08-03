@@ -5204,3 +5204,28 @@ Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan 
 Santa Cruz de Tenerife, 25 de junio de 2012.–El Presidente del Gobierno, Paulino Rivero Baute.
 
 (Publicada en el «Boletín Oficial de Canarias» número 124, de 26 de junio de 2012)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**Resolucion BOC 6**](../../autonómica/canarias/02_gestion_y_administracion_centros/O24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
+- **Fundamento de**: [**Resolucion BOC 2**](../../autonómica/canarias/01_marco_normativo_general_y_organico/O20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**L2_1987 Ley de la Funcion Publica Canaria**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
+

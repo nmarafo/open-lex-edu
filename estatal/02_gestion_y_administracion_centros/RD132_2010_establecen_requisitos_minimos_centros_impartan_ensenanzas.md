@@ -417,3 +417,48 @@ JUAN CARLOS R.
 El Ministro de Educación,
 
 ÁNGEL GABILONDO PUJOL
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamento de**: [**BOE-A-2012-5337**](../08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](./RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+- **Fundamento de**: [**Resolucion BOC 40**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_6_2026_dictan_instrucciones_organizacion_funcionamiento_cursos_acceso.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrollado por**: [**Resolucion BOC 21**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_7_2022_modifica_parcialmente_resolucion_aprueba_publica_normas.md)
+- **Desarrollado por**: [**Resolucion BOC 6**](../../autonómica/canarias/02_gestion_y_administracion_centros/O24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
+- **Desarrollado por**: [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../../autonómica/canarias/02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md)
+- **Desarrollado por**: [**Resolucion BOC 15**](../../autonómica/canarias/02_gestion_y_administracion_centros/R9_5_1995_autorizan_determinados_ingresos_fijan_precios_maximos.md)
+- **Desarrollado por**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Desarrollado por**: [**Resolucion BOC 18**](../../autonómica/canarias/02_gestion_y_administracion_centros/O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Desarrollado por**: [**Resolucion BOC 20**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_7_2010_modifica_modelo_ha_ajustarse_certificacion_acuerdo.md)
+- **Desarrollado por**: [**Resolucion BOC 16**](../../autonómica/canarias/02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
+- **Desarrollado por**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- **Desarrollado por**: [**D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria**](../../autonómica/canarias/02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md)
+- **Desarrollado por**: [**Resolucion BOC 23**](../../autonómica/canarias/02_gestion_y_administracion_centros/R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
+- **Desarrollado por**: [**Resolucion BOC 24**](../../autonómica/canarias/02_gestion_y_administracion_centros/R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
+- **Desarrollado por**: [**Resolucion BOC 7**](../../autonómica/canarias/02_gestion_y_administracion_centros/R30_6_2022_agencia_canaria_calidad_universitaria_evaluacion_educativa.md)
+- **Desarrollado por**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../../autonómica/canarias/02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+- **Desarrollado por**: [**Resolucion BOC 5**](../../autonómica/canarias/02_gestion_y_administracion_centros/O15_3_2016_resolucion_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Desarrollado por**: [**Resolucion BOC 8**](../../autonómica/canarias/02_gestion_y_administracion_centros/R20_11_2007_inspeccion_general_servicios_resolucion_publica_protocolo.md)
+- **Desarrollado por**: [**Resolucion BOC 9**](../../autonómica/canarias/02_gestion_y_administracion_centros/R25_6_2018_dispone_publicacion_acuerdo_aprueba_instrucciones_conforman.md)
+- **Desarrollado por**: [**Resolucion BOC 10**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_2_2011_justicia_seguridad_actualiza_direccion_electronica_acceso.md)
+- **Desarrollado por**: [**Resolucion BOC 12**](../../autonómica/canarias/02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico.md)
+- **Desarrollado por**: [**Resolucion BOC 13**](../../autonómica/canarias/02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico_2.md)
+- **Desarrollado por**: [**Resolucion BOC 19**](../../autonómica/canarias/02_gestion_y_administracion_centros/O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion_2.md)
+- **Desarrollado por**: [**Resolucion BOC 11**](../../autonómica/canarias/02_gestion_y_administracion_centros/R21_3_2019_resolucion_crea_sello_electronico.md)
+- **Desarrollado por**: [**Resolucion BOC 22**](../../autonómica/canarias/02_gestion_y_administracion_centros/R29_1_2019_aprueba_convocatoria_reconocimiento_trayectoria_proyeccion_internacional.md)
+- **Desarrollado por**: [**Resolucion BOC 17**](../../autonómica/canarias/02_gestion_y_administracion_centros/O2_3_2017_innovacion_promocion_educativa_establecen_procedimientos_administrativos.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
+- [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

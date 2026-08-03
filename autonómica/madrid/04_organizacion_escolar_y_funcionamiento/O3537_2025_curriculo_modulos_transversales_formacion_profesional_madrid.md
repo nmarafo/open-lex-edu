@@ -14,7 +14,7 @@ fecha_publicacion: '2025-08-20'
 boletin: BOCM
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-1.PDF
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Formación Profesional
@@ -29,38 +29,33 @@ relaciones:
   afecta_a_articulos: []
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 ---
-
-
 **Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid**
 
-## Preámbulo
-
-## Artículo 1. Objeto
-
-MIÉRCOLES 20 DE AGOSTO DE 2025B.O.C.M. Núm. 198 Pág. 9
+MIÉRCOLES 20 DE AGOSTO DE 2025
+B.O.C.M. Núm. 198
+Pág. 9
 BOCM-20250820-2
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
 Consejería de Economía, Hacienda y Empleo
-2 ORDEN de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Em-
+2
+ORDEN de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Em-
 pleo, por la que se resuelve la convocatoria aprobada por Orden de 9 de mayo
 de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), para
 la provisión de puestos de trabajo vacantes en la citada Consejería por el pro-
 cedimiento de Libre Designación.
 Por Orden de la Consejería de Economía, Hacienda y Empleo de 9 de mayo de 2025
-(B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), se aprobó convocato-
+(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), se aprobó convocato-
 ria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el
 procedimiento de Libre Designación.
 En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
-de abril, de la Función Pública de la Comunidad de Madrid (B
-OLETÍN OFICIAL DE LA CO-
+de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA CO-
 MUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería
 de Hacienda, por la que se aprueban las bases generales que han de regir en las convocato-
 rias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación
-(B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
+(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
 las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamen-
 to General de Ingreso del Personal al Servicio de la Administración General del Estado y de
 Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
@@ -77,14 +72,16 @@ Objeto
 Se adjudican los puestos de trabajo a los funcionarios que figuran en el Anexo.
 Segundo
 Plazo de toma de posesión
-1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
+1.
+El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
 plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse den-
 tro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese
 haya sido formalmente diferido o aplazado por el órgano competente.
 El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias
 que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas,
 el órgano que los concedió acuerde suspender el disfrute de los mismos.
-2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de po-
+2.
+Si la resolución comporta el reingreso al servicio activo, el plazo de toma de po-
 sesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
 aplicable.
 Tercero
@@ -92,14 +89,17 @@ Recursos
 La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
 se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
 
-MIÉRCOLES 20 DE AGOSTO DE 2025Pág. 10 B.O.C.M. Núm. 198
+MIÉRCOLES 20 DE AGOSTO DE 2025
+Pág. 10
+B.O.C.M. Núm. 198
 BOCM-20250820-2
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
 los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
-día siguiente a su publicación en el B OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID,s i n
+día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
 perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
-midad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Pro-
+midad con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
 de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
 Dado en Madrid, a 7 de agosto de 2025.—La Consejera de Economía, Hacienda y Em-
@@ -108,10 +108,15 @@ OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), P. S. (Orden de la Con-
 sejería de Economía, Hacienda y Empleo de 31 de julio de 2025), la Subdirectora General
 de Régimen Jurídico y Desarrollo Normativo, Marina Serrano Álvarez.
 
-MIÉRCOLES 20 DE AGOSTO DE 2025B.O.C.M. Núm. 198 Pág. 11
+MIÉRCOLES 20 DE AGOSTO DE 2025
+B.O.C.M. Núm. 198
+Pág. 11
 BOCM-20250820-2
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN
 80490
 80491
@@ -176,7 +181,10 @@ Denominación     :
 29
 Grupo                 :
 N.C.D.                :
-  41.058,24C. Específico       : 
-PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO
+  41.058,24
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
 A
 (03/13.116/25)

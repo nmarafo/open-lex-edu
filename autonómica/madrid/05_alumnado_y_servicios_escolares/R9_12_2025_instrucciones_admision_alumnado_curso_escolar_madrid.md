@@ -30,23 +30,26 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+**[Resolución de 2 de diciembre de 2025](../../canarias/04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md), de instrucciones sobre admisión de alumnos para el curso 2026-2027**
 
-**Resolución de 2 de diciembre de 2025, de instrucciones sobre admisión de alumnos para el curso 2026-2027**
-
-## Preámbulo
-
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 118
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
 C) Otras Disposiciones
 Consejería de Educación, Ciencia y Universidades
 19
-RESOLUCIÓN de 26 de noviembre de 2025, de la Viceconsejería de Política y
+[RESOLUCIÓN de 26 de noviembre de 2025](../../canarias/03_ordenacion_curricular_y_ensenanzas/R26_11_2025_dictan_instrucciones_implantacion_desarrollo_oferta_dobles.md), de la Viceconsejería de Política y
 Organización Educativa, por la que se dictan instrucciones sobre la participa-
 ción en el proceso de admisión de alumnos en centros docentes sostenidos con
 fondos públicos que imparten Segundo Ciclo de Educación Infantil, Educación
 Primaria, Educación Secundaria Obligatoria, Bachillerato, así como las etapas
 de educación especial en la Comunidad de Madrid para el curso 2026-2027.
-El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
-de centro escolar en la Comunidad de Madrid, y la Orden 1240/2013, de 17 de abril, de la
+El [Decreto 29/2013](../01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del Consejo de Gobierno, de libertad de elección
+de centro escolar en la Comunidad de Madrid, y la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la
 Consejería de Educación, Juventud y Deporte, establecen el marco y el procedimiento ge-
 neral para la admisión de alumnos en centros docentes sostenidos con fondos públicos que
 imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria
@@ -90,13 +93,18 @@ cesivo DAT) y demás unidades relacionadas con el proceso de admisión.
 El Sistema Integral de Gestión Educativa Raíces dispone de distintos perfiles de
 acceso y gestión que serán asignados a los centros educativos y a las distintas unidades ad-
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 119
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ministrativas implicadas en el proceso de admisión para posibilitar el desarrollo de las ac-
 tuaciones.
 Tercera
 Servicios de Apoyo a la Escolarización
 1.
-El capítulo II de la Orden 1240/2013, de 17 de abril, de la Consejería de Educa-
+El capítulo II de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería de Educa-
 ción, Juventud y Deporte, regula la posibilidad de establecer Servicios de Apoyo a la Esco-
 larización en las DAT, sus funciones y composición.
 2.
@@ -153,7 +161,12 @@ lo sucesivo, IES) bilingüe, estarán adscritos de manera preferente a un IES bi
 tos casos, la adscripción múltiple bilingüe tendrá un carácter limitado y podrá incluir, como
 máximo, la totalidad de los IES bilingües existentes en el mismo municipio.
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 120
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 2.1.2.
 En aquellos municipios que cuenten únicamente con un IES bilingüe, los co-
 legios públicos bilingües estarán adscritos de manera preferente a dicho instituto. En estos
@@ -166,7 +179,7 @@ tada, en institutos de otros municipios próximos.
 2.1.4.
 En aquellos municipios en los que todos los IES sean bilingües y, por tanto,
 esté garantizada la continuidad en el programa bilingüe de todos los alumnos procedentes
-de colegios públicos bilingües tal y como establece la Orden 1240/2013, de 17 de abril, de
+de colegios públicos bilingües tal y como establece la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de
 la Consejería de Educación, Juventud y Deporte, una vez analizadas las circunstancias de
 planificación, oferta educativa y capacidad de los centros, las DAT podrán no efectuar ads-
 cripciones de carácter preferente entre centros bilingües y podrán establecer la adscripción
@@ -224,7 +237,12 @@ modalidad o vía de Bachillerato solicitada por cada uno de ellos.
 Se comprobará que aquellos centros que deban estar adscritos a otros centros en
 la modalidad de adscripción múltiple estén adscritos, al menos, a dos centros.
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 121
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 2.8.
 Se revisará y comprobará que todas las adscripciones se produzcan entre centros
 y entre enseñanzas sostenidas con fondos públicos.
@@ -286,7 +304,12 @@ ria, así como de los colegios públicos de Educación Infantil, Primaria y Secu
 ria que tengan adscripción única a otro centro y quieran hacer uso de la prioridad
 que ello les confiere.
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 122
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Sexta
 Oferta de plazas escolares para el proceso ordinario de admisión
 1.
@@ -325,7 +348,7 @@ perior de plazas escolares, centros únicos de localidad o no sea posible increm
 ro de unidades, las DAT podrán autorizar, antes de la adjudicación de plaza escolar, que la
 citada ratio se incremente hasta un 10 % en el número de alumnos por grupo.
 4.
-La Orden 1240/2013, de 17 de abril, establece y cuantifica en su artículo 14 la re-
+La [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, establece y cuantifica en su artículo 14 la re-
 serva de plazas para alumnos con NEE y necesidad de compensación educativa, que se lle-
 vará a cabo en el primer nivel educativo sostenido con fondos públicos en cada centro. Sin
 perjuicio del carácter global de dicha reserva, que abarca los dos perfiles de alumnos a los
@@ -355,7 +378,12 @@ diante convenio y con unidades concertadas de segundo ciclo de Educación Infant
 rá tenerse en cuenta para determinar la oferta de plazas escolares el número de plazas nece-
 sarias para atender a los alumnos escolarizados en último curso del primer ciclo (2 años),
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 123
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 deduciéndolas del total de plazas autorizadas en primer curso del segundo ciclo (3 años), y
 así se reflejará en el Sistema Integral de Gestión Educativa Raíces.
 7.
@@ -420,12 +448,17 @@ acceso a los padres, madres o tutores legales que aún no dispongan de las mis-
 mas y tengan a sus hijos matriculados en centros sostenidos con fondos públi-
 cos durante el curso 2025-2026.
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 124
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 b)
 En aquellos casos en los que la solicitud de admisión no se presente por vía tele-
 mática, podrá ser entregada presencialmente en el centro educativo solicitado en
 primer lugar o bien ser dirigida a dicho centro a través de los procedimientos con-
-templados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+templados en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas.
 3.
 La solicitud de admisión será cumplimentada y firmada por ambos padres, madres
@@ -461,7 +494,7 @@ alumnos desearían cursar. Los colegios públicos que tengan adscripción única
 berán informar, en el mismo plazo, a través de Raíces, los alumnos de sexto de Educación
 Primaria que vayan a pasar a Educación Secundaria Obligatoria.
 8.
-En cumplimiento de la normativa vigente, Ley 39/2015, de 1 de octubre, del Pro-
+En cumplimiento de la normativa vigente, [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas, la administración edu-
 cativa realizará, a través del Sistema Integral de Gestión Educativa Raíces, las consultas re-
 lativas a la información disponible sobre las circunstancias alegadas en la solicitud, evitando
@@ -490,7 +523,12 @@ que el centro figure en primer lugar y procederán a su baremación. Por ello, t
 tros deberán revisar sistemáticamente el Sistema Integral de Gestión Educativa Raíces y ex-
 tremar la diligencia en la comprobación, recuperación y revisión de las solicitudes y de la
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 125
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 documentación adjuntada antes de consolidarlas, adoptando las medidas de seguridad ade-
 cuadas para preservar la confidencialidad de la documentación, conforme a la normativa vi-
 gente en materia de protección de datos.
@@ -558,7 +596,12 @@ ra opción. En ese caso, no se tendrá acceso a los listados, solo al estado de 
 Las reclamaciones relativas al listado de participantes serán presentadas a través
 de la Secretaría Virtual cuando la solicitud haya sido presentada por vía telemática. En el
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 126
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 caso de las solicitudes entregadas de forma presencial, las reclamaciones serán presentadas
 en el centro solicitado en primera opción.
 6.
@@ -625,7 +668,12 @@ camente con las solicitudes que están en situación de empate y asignará a cad
 correlativamente, un número natural, comenzando por el 1 y terminando por la última de
 las solicitudes empatadas.
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 127
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 3.
 Se calculará el número natural que resulta al eliminar las cifras decimales del nú-
 mero que se obtiene sumando uno al producto del resultado obtenido en el apartado 1.b) por
@@ -701,7 +749,12 @@ necesaria su revisión.
 Las solicitudes de plaza escolar que no puedan ser atendidas en ninguno de los
 centros solicitados y correspondan a alumnos que tengan que ser preceptivamente escola-
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 128
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 rizados para el curso escolar 2026-2027, continuarán su tramitación por parte del SAE que
 corresponda. Estas familias podrán realizar, si lo desean, dentro del plazo establecido, una
 solicitud complementaria de admisión preferentemente de forma telemática a través de la
@@ -764,7 +817,12 @@ También se podrá acceder, a través de los respectivos SAE, a la información 
 tiva a la adjudicación de plaza escolar a los alumnos que no presenten necesidades educa-
 tivas especiales y que hayan sido escolarizados por dicho servicio.
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 129
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 SECCIÓN CUARTA
 Escolarización de alumnos con necesidades educativas especiales o con necesidad
 de compensación educativa en el período ordinario
@@ -772,7 +830,7 @@ Decimoprimera
 Escolarización de alumnos con necesidades educativas especiales. Aspectos generales
 1.
 La escolarización de dichos alumnos se realizará de conformidad con lo estable-
-cido en el Decreto 23/2023, de 22 de marzo.
+cido en el [Decreto 23/2023](../06_atencion_diversidad_y_orientacion/D23_2023_atencion_diferencias_individuales_alumnos_madrid.md), de 22 de marzo.
 2.
 Para ello es esencial determinar lo antes posible el número de alumnos que pre-
 sentan o pudieran presentar NEE y que será necesario escolarizar en cada localidad en las
@@ -834,7 +892,12 @@ Durante los días 6, 7 y 8 de mayo de 2026, se abrirá un plazo para realizar al
 ciones a la plaza obtenida, así como, en su caso, para presentar en el SAE que corresponda
 una solicitud complementaria de centros para aquellos alumnos con NEE que no hayan ob-
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 130
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 tenido plaza escolar en ninguno de los centros solicitados y hayan de ser preceptivamente
 escolarizados para el curso 2026-2027.
 10.
@@ -889,7 +952,7 @@ tima. Incluirán de forma priorizada centros que cuenten con dicha modalidad de 
 zación y en todos los casos se adjuntará el modelo anexo V.
 5.
 La escolarización de los alumnos con NEE en la modalidad de Educación Espe-
-cial se realizará según lo establecido en el artículo 4 de la Orden 2808/2023, de 30 de julio
+cial se realizará según lo establecido en el artículo 4 de la [Orden 2808/2023](./O2808_2023_proceso_admision_alumnado_eso_bachillerato_madrid.md), de 30 de julio
 y de modo análogo al resto de solicitudes de alumnos con NEE se realizará por los SAE de
 forma personalizada a través del Sistema Integral de Gestión Educativa Raíces.
 Decimotercera
@@ -903,7 +966,12 @@ rán al respecto.
 Durante el proceso de adjudicación, las plazas reservadas para alumnos con nece-
 sidad de compensación educativa por desventaja social que no hayan sido necesarias para
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 131
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 resolver las solicitudes de dicho perfil, decaerán como vacantes de reserva para estos alum-
 nos y se utilizarán para escolarizar al resto de alumnos solicitantes de plaza escolar.
 3.
@@ -950,7 +1018,7 @@ Otras informaciones de interés sobre el centro, de conformidad con lo estableci
 en la Resolución conjunta de 4 de diciembre de 2023, de las Viceconsejerías de
 Política Educativa y de Organización Educativa, sobre la información a las fami-
 lias que deben contener las páginas web de los centros educativos de la Comuni-
-dad de Madrid, en cumplimiento de la Ley 1/2022, de 10 de febrero, Maestra de
+dad de Madrid, en cumplimiento de la [Ley 1/2022](../01_marco_normativo_general_y_organico/L1_2022_maestra_libertad_eleccion_educativa_madrid.md), de 10 de febrero, Maestra de
 Libertad de Elección Educativa de la Comunidad de Madrid.
 2.
 Con anterioridad al inicio del período de presentación de solicitudes de plaza esco-
@@ -971,7 +1039,12 @@ cretaría Virtual a la información que se detalla en la instrucción décima en
 aparecen recogidas en el anexo IV, respetando en todo momento el cumplimiento de la nor-
 mativa vigente en materia de protección de datos.
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 132
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Con el fin de facilitar a las familias que no puedan acceder a la Secretaría Virtual la in-
 formación no publicable correspondiente a su solicitud de admisión, podrán consultarla
 personalmente en el centro solicitado en primer lugar una vez acreditada su identidad. En
@@ -998,7 +1071,7 @@ centro o que ya haya sido previamente aportada por las familias. Los datos recab
 berán ser adecuados, pertinentes y limitados a lo necesario en relación con los fines para los
 que se tratan.
 3.
-En aplicación de lo dispuesto en el artículo 10.7 de la Orden 1240/2013, de 17 de
+En aplicación de lo dispuesto en el artículo 10.7 de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de
 abril, la relación de solicitantes no admitidos en un centro sostenido con fondos públicos,
 ordenada según la puntuación obtenida por cada alumno dentro de cada grupo de adscrip-
 ción y prioridad de solicitud, seguirá vigente hasta la fecha de inicio las actividades lecti-
@@ -1017,7 +1090,7 @@ Decimosexta
 Proceso extraordinario de admisión de alumnos
 1.
 El proceso extraordinario de admisión de alumnos se realizará de conformidad
-con lo establecido en el artículo 16 de la Orden 1240/2013, de 17 de abril, de la Consejería
+con lo establecido en el artículo 16 de la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md), de 17 de abril, de la Consejería
 de Educación, Juventud y Deporte.
 2.
 Los SAE dispondrán, durante el período extraordinario de admisión, una vez ter-
@@ -1034,7 +1107,12 @@ Madrid, podrá presentarse de forma presencial o telemática a partir del 25 de 
 en Educación Infantil, Primaria y Especial y el 3 julio de 2026 en Educación Secundaria
 Obligatoria y Bachillerato en los centros educativos para el curso de la etapa solicitado y se
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 133
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 resolverá con la asignación de plaza vacante si esta existiera o con la derivación en el Sis-
 tema Integral de Gestión Educativa Raíces al SAE que corresponda en caso de que no exis-
 tiera plaza vacante. La solicitud también puede presentarse presencialmente en el SAE que
@@ -1102,7 +1180,12 @@ en el centro durante el siguiente curso escolar.
 Una vez superado el período de custodia y archivo de las solicitudes y documentación
 asociada presentadas en papel, el centro y el SAE, según corresponda, deberán proceder a
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 134
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 su destrucción aplicando las medidas de seguridad necesarias para preservar la privacidad
 y confidencialidad de la información conforme a la normativa vigente en materia de pro-
 tección de datos personales.
@@ -1123,7 +1206,12 @@ dio, según corresponda.
 Madrid, a 26 de noviembre de 2025.—El Viceconsejero de Política y Organización
 Educativa, José Carlos Fernández Borreguero.
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 135
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO I 
  
 BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
@@ -1176,7 +1264,12 @@ alumno solicitante, de los padres, hermanos o, en su caso, de los tutores legale
 alumno: 7 puntos. 
  
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 136
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 10. Condición de víctima de violencia de género o del terrorismo: 2 puntos. 
  
 11. Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de 
@@ -1229,7 +1322,12 @@ criterios objetivos y que deben ser hechos públicos por el centro.
  
  
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 137
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO II 
  
 BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
@@ -1285,7 +1383,12 @@ contabilizará a los efectos de aplicación del presente criterio de admisión.
 9.   Alumno solicitante en situación de acogimiento familiar: 3 puntos. 
  
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 138
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 10. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del alumno 
 solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno: 7  
 puntos. 
@@ -1338,7 +1441,12 @@ criterios objetivos y que deben ser hechos públicos por el centro.
  
  
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 139
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO III 
  
 CRITERIOS PARA LA BAREMACIÓN DE SOLICITUDES PARA EL PROCESO DE 
@@ -1391,7 +1499,12 @@ con fondos públicos que imparta segundo ciclo de Educación Infantil, Educació
 Especial, Educación Primaria y/o Educación Secundaria Obligatoria obtendrán 12 
 puntos cuando soliciten plaza escolar para cursar alguna de dichas enseñanzas en 
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 140
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 centros educativos situados en el municipio próximo en el que de forma habitual se 
 escolaricen dichos alumnos. Las DAT adoptarán las medidas oportunas a través del 
 Sistema Integral de Gestión Educativa Raíces para que pueda aplicarse este criterio. 
@@ -1444,7 +1557,12 @@ unidad familiar.
  
  
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 141
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 c) Renta de la unidad familiar: 
                                 
  Se asignará puntuación por este apartado a aquellos solicitantes cuyo padre, madre o 
@@ -1497,7 +1615,12 @@ categoría.
  En el caso de que la familia solicitante aún no tenga el título de familia numerosa 
 también es necesario que aporte documentación por no ser todavía posible realizar 
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 142
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 dicha consulta por medios electrónicos: información sobre los datos obrantes en el 
 Registro Civil, documentación acreditativa que corresponda o, en su caso, copia del 
 libro de familia y/o certificado individual de todos los miembros de la unidad familiar.  
@@ -1540,7 +1663,7 @@ oposición expresa a la consulta de datos, será necesario acreditar dicha circu
 mediante la presentación de los correspondientes certificados e informes emitidos por 
 la Consejería de Familia, Juventud y Asuntos Sociales por los órganos competentes 
 de otras Comunidades Autónomas o, anteriormente, por el IMSERSO. De acuerdo con 
-el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el 
+el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se aprueba el 
 Texto Refundido de la Ley General de derechos de las personas con discapacidad y 
 de su inclusión social, tendrán validez a efectos de baremación y obtención de 
 puntuación de las solicitudes de admisión, los certificados en los que figure un grado 
@@ -1550,11 +1673,16 @@ de discapacidad igual o superior al 33 %.
  
  
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 143
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 j) Condición de víctima de violencia de género o del terrorismo: 
  
  La condición de víctima de violencia de género podrá acreditarse conforme a lo 
-establecido en el artículo 23 de la Ley Orgánica 1/2004, de 28 de diciembre, de 
+establecido en el artículo 23 de la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de 
 medidas de protección integral contra la violencia de género, mediante títulos de 
 carácter judicial o administrativo según corresponda. 
  Los solicitantes acreditarán la condición de víctima del terrorismo mediante la 
@@ -1566,7 +1694,7 @@ la admisión a las enseñanzas de Bachillerato:
  Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
 solicitud. 
  
- En cumplimiento de lo dispuesto en el anexo II del Decreto 29/2013, de 11 de abril, del 
+ En cumplimiento de lo dispuesto en el anexo II del [Decreto 29/2013](../01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del 
 Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de 
 Madrid, modificado y actualizado por el Decreto 244/2021, de 29 de diciembre, el 
 centro valorará el expediente académico de los solicitantes en el último curso 
@@ -1603,7 +1731,12 @@ el baremo, junto a la documentación necesaria para acreditarlos, deberán ser
 expuestos públicamente en la página web de cada centro antes del inicio del plazo de 
 admisión de solicitudes. Cada centro solo podrá adjudicar puntuación a cada 
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 144
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 solicitante por una circunstancia de entre las aprobadas por el centro. La puntuación 
 no podrá ser fraccionada o modificada. Las familias indicarán dicha circunstancia para 
 el centro o centros concretos en la solicitud y adjuntarán la información o 
@@ -1616,7 +1749,12 @@ que permita resolver posibles empates en puntuación entre varios solicitantes d
 escolar, la Consejería de Educación, Ciencia y Universidades llevará a cabo el sorteo que se 
 describe en la Instrucción novena. 
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 145
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO IV 
  
 CALENDARIO DE ACTUACIONES PARA EL PROCESO ORDINARIO DE ADMISIÓN DE 
@@ -1685,7 +1823,12 @@ autorizada.
 Hasta el 6 de 
 marzo de 2026 
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 146
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
 RESPONSABLES 
@@ -1754,7 +1897,12 @@ secretaría del centro solicitado en primer lugar.
 23 de abril de 
 2026 
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 147
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  
 RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
 RESPONSABLES 
@@ -1832,7 +1980,12 @@ plaza en el mismo.
 27 de mayo de 
 2026 
 
+MARTES 9 DE DICIEMBRE DE 2025
+Pág. 148
 B.O.C.M. Núm. 293
+BOCM-20251209-19
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  
  
  
@@ -1896,9 +2049,15 @@ su respectiva DAT.
 2026 
  
 
+MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
+Pág. 149
+BOCM-20251209-19
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO V 
  ALUMNOS QUE PRESENTAN NECESIDADES EDUCATIVAS ESPECIALES  
 INFORMACIÓN PARA EL PROCESO DE ADMISIÓN 

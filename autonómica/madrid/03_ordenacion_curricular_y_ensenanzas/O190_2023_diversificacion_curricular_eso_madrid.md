@@ -30,12 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Orden 190/2023, de 25 de enero, por la que se regula la diversificación curricular en Educación Secundaria Obligatoria**
 
-## Preámbulo
-
+JUEVES 2 DE FEBRERO DE 2023
+Pág. 14
 B.O.C.M. Núm. 28
+BOCM-20230202-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
 Vicepresidencia, Consejería de Educación y Universidades
 1
 RESOLUCIÓN de 26 de enero de 2023, del Director General de Recursos
@@ -82,9 +86,15 @@ Consejería de Educación y Universidades, de 19 de diciembre de 2022, se ordena
 cumplimiento del fallo de sentencia firme número 336/2021 (PA 292/2021), modifican-
 do la puntuación de doña Cristina Pascual Sobrado. Como consecuencia de esta nueva
 
+JUEVES 2 DE FEBRERO DE 2023
 B.O.C.M. Núm. 28
+Pág. 15
+BOCM-20230202-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 puntuación, doña Cristina Pascual Sobrado resultaría seleccionada, accediendo al Cuer-
 po de Catedráticos de Enseñanza Secundaria.
 Por cuanto antecede, esta Dirección General

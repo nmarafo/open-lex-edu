@@ -37,7 +37,6 @@ fundamentos_derecho:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-019-376.pdf
 ---
-
 ## Preámbulo
 
 # Resolución de 10 de enero de 2018, de la Dirección General de Personal, por la que se dispone la publicación en el Boletín Oficial de Canarias del Acuerdo entre la Consejería de Educación y Universidades y las centrales sindicales representativas del profesorado sobre la mejora del marco retributivo del personal docente no universitario del ámbito de la Consejería de Educación y Universidades (BOC n.º 19, de 26 de enero).
@@ -381,3 +380,19 @@ organizaciones sindicales, ANPE, Pedro Crespo González; CCOO, Juan Jesús Berm�
 Ferrer; INSUCAN-CSIF, José Ángel Amador Sierra; STEC-IC, Fernando Pellicer Melo; 
 UGT, Francisco Javier Bautista Yanes; CO.BAS, Antonio Peña Santana; USPS-SEPCA, 
 Nieves Alonso Espinoza.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

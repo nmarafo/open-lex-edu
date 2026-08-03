@@ -1,41 +1,42 @@
 ---
 id: norm-and-d164-2024
-titulo: "Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía"
+titulo: Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de
+  la Formación Profesional en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "164/2024"
-fecha_disposicion: "2024-08-26"
-fecha_publicacion: "2024-08-30"
+numero_disposicion: 164/2024
+fecha_disposicion: '2024-08-26'
+fecha_publicacion: '2024-08-30'
 boletin: BOJA
-numero_boletin: "168"
+numero_boletin: '168'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2024/168/1"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2024/168/1"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2024/168/1
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2024/168/1
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Formación Profesional"
+  subcategoria: Formación Profesional
 tags:
-  - formacion_profesional
-  - fp_dual
-  - ordenacion_academica
-  - andalucia
+- formacion_profesional
+- fp_dual
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía
 
-# Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional
-
-## Preámbulo
-
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO 
-Y FORMACIÓN  PROFESIONAL
+Y FORMACIÓN PROFESIONAL
 Decreto 164/2024, de 26 de agosto, por el que se establece la estructura 
 orgánica de la Consejería de Desarrollo Educativo y Formación Profesional.
 El artículo 4 del Decreto del Presidente 10/2022, de 25 de julio, sobre reestructuración de 
@@ -83,8 +84,10 @@ sociedad igualitaria entre mujeres y hombres, se ha tenido en cuenta la integrac
 transversal del principio de igualdad de género en el presente decreto, en cumplimiento 
 de lo establecido en la Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad 
 de género en Andalucía.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 En la elaboración de la presente norma se han respetado los principios de buena 
-regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+regulación previstos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas. En relación a la necesidad y 
 la eficacia, la iniciativa normativa está justificada debido a la necesidad de aprobar la 
 estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional, 
@@ -103,7 +106,7 @@ disponibles, se ha establecido una dimensión adecuada de la estructura, que con
 ampliar el número de altos cargos con respecto al decreto de estructura anterior.
 Por otra parte, de conformidad con lo previsto en el artículo 45.1 f) de la Ley 6/2006, 
 de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, y en el artículo 
-133.4 párrafo primero de la Ley 39/2015, de 1 de octubre, se prescinde de los trámites 
+133.4 párrafo primero de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, se prescinde de los trámites 
 de consulta pública previa y de audiencia e información pública, por tratarse de norma 
 organizativa de la Administración de la Comunidad Autónoma.
 De conformidad con lo establecido en el artículo 24.1 de la Ley 9/2007, de 22 de 
@@ -111,7 +114,7 @@ octubre, de la Administración de la Junta de Andalucía, a propuesta de la Cons
 de Desarrollo Educativo y Formación Profesional, previo informe de las Consejerías 
 competentes en materia de hacienda y de administración pública y previa deliberación 
 del Consejo de Gobierno en su reunión del día 26 de agosto de 2024,
-DISPONGO
+D I S P O N G O
 ## Artículo 1. Competencias de la Consejería de Desarrollo Educativo y Formación 
 Profesional.
 Corresponde a la Consejería de Desarrollo Educativo y Formación Profesional la 
@@ -133,6 +136,8 @@ i) Dirección General de Participación e Inclusión Educativa.
 2. La persona titular de la Consejería de Desarrollo Educativo y Formación Profesional 
 estará asistida por un Gabinete, cuya composición será la establecida por su normativa 
 específica.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 3. En el ámbito provincial, la Consejería de Desarrollo Educativo y Formación 
 Profesional gestionará sus competencias a través de los servicios periféricos 
 correspondientes, con la estructura territorial que se determine.
@@ -183,6 +188,8 @@ la persona titular de la Viceconsejería, como superior órgano directivo, sin p
 competencias asignadas a la persona titular de la Consejería, le corresponde:
 a) La representación ordinaria de la Consejería, después de su titular, y la delegación 
 general de este.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 b) La suplencia de la persona titular de la Consejería en los asuntos propios de 
 esta, sin perjuicio de las facultades de la persona titular de la Presidencia de la Junta de 
 Andalucía a que se refiere la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad 
@@ -236,6 +243,8 @@ Formación Profesional.
 f) La tramitación de la propuesta de acuerdos a la Consejería competente en materia 
 de plantilla presupuestaria de ampliación de la plantilla del personal docente dependiente 
 de la Consejería.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 g) La elaboración de la propuesta del plan normativo anual de la Consejería.
 h) El impulso de las líneas estratégicas de los programas financiados con fondos 
 de la Unión Europea en el ámbito de la Consejería, sin perjuicio de las competencias 
@@ -287,6 +296,8 @@ Europeos en el ámbito de sus competencias.
 h) Las actuaciones que, conforme a la normativa de protección de datos personales, 
 le correspondan como responsable del tratamiento en el ámbito de las competencias que 
 tiene atribuidas.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 i) La definición de las directrices y programas de la política de fomento en su ámbito 
 competencial.
 j) La colaboración y coordinación con otras Administraciones Públicas, así como con 
@@ -339,6 +350,8 @@ del gasto correspondientes a esta, salvo que las competencias estén expresament
 atribuidas o delegadas a otros órganos administrativos.
 m) La planificación y coordinación de la compra pública innovadora que pueda 
 llevarse a cabo por la Consejería o sus entes instrumentales.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 n) La utilización de las tecnologías de la información y de la comunicación en la 
 modernización de los procedimientos administrativos, a excepción de las competencias 
 atribuidas a otros órganos de la Consejería, bajo las directrices, en su caso, de la 
@@ -391,6 +404,8 @@ ejecución del gasto de los fondos de la Unión Europea, coordinando a estos efe
 entidades instrumentales dependientes de la Consejería.
 c) La supervisión y evaluación del funcionamiento regular y de la correcta aplicación 
 de las medidas de prevención, detección y corrección en relación con los riesgos que 
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 afectan a la ejecución de actuaciones financiadas con Fondos de la Unión Europea y el 
 asesoramiento sobre medidas antifraude a las Unidades Administrativas.
 3. La persona titular de la Secretaría General Técnica tendrá rango de Director 
@@ -442,6 +457,8 @@ Consejería de Desarrollo Educativo y Formación Profesional en coordinación co
 Dirección General del Profesorado y Gestión de Recursos Humanos.
 l) La relación de la Consejería de Desarrollo Educativo y Formación Profesional con 
 las confesiones religiosas en materia educativa.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 m) La elaboración de los planes anuales de infraestructuras y equipamientos 
 necesarios en los centros docentes cuya titularidad corresponda a la Administración de 
 la Junta de Andalucía, previa propuesta de actuaciones de las Delegaciones Territoriales.
@@ -494,6 +511,8 @@ con la Dirección General de Planificación, Centros y Enseñanza Concertada.
 g) La tramitación de los procedimientos sancionadores en materia de personal 
 cuya resolución sea competencia del Consejo de Gobierno o de la persona titular de la 
 Consejería.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 h) La relación de la Consejería de Desarrollo Educativo y Formación Profesional con 
 las organizaciones sindicales representativas del profesorado de la enseñanza pública.
 i) La elaboración de planes de autoprotección y seguridad en los centros dependientes 
@@ -545,6 +564,8 @@ c) La propuesta de los diseños curriculares, así como las normas y orientacion
 necesarias para su efectividad, en las enseñanzas de formación profesional del sistema 
 educativo.
 d) La gestión de la formación profesional dual.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 e) Las relaciones con los sectores productivos para estudiar las posibilidades de 
 formación del alumnado de formación profesional del sistema educativo en centros de 
 trabajo y el fomento de la participación de los agentes sociales.
@@ -598,6 +619,8 @@ e) La gestión y coordinación de los certificados de profesionalidad.
 f) La coordinación de la red de centros de calidad de formación profesional.
 6. Son competencias de esta dirección general, en materia de fondos europeos y 
 gestión del gasto:
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 a) La ejecución de las actuaciones financiadas con fondos estructurales u otros fondos 
 de la Unión Europea del ámbito competencial de la Dirección General, mediante los 
 procedimientos administrativos ordinarios que correspondan, asegurando el cumplimiento 
@@ -649,6 +672,8 @@ d) La coordinación de la evaluación del sistema educativo andaluz.
 e) La realización de las evaluaciones del sistema educativo andaluz.
 f) La instauración de un sistema de información homogéneo que asegure la evaluación 
 objetiva del sistema educativo andaluz.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 g) La colaboración con los organismos nacionales e internacionales de evaluación 
 educativa para el cumplimiento de sus fines y la participación en los programas 
 internacionales de evaluación educativa.
@@ -702,6 +727,8 @@ a) La gestión y coordinación de las actuaciones dirigidas a la conmemoración 
 efemérides.
 b) La definición de las directrices y programas de la política de fomento en su ámbito 
 competencial.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 c) Las actuaciones que, conforme a la normativa de protección de datos personales, 
 le correspondan como responsable del tratamiento en el ámbito de las competencias que 
 tiene atribuidas.
@@ -753,6 +780,8 @@ dependientes de la Consejería, así como en materia de intervención en proyect
 innovación e investigación educativas.
 c) La colaboración con las universidades en relación con la formación permanente del 
 profesorado.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 d) La coordinación de las propuestas de formación del profesorado emanadas desde 
 los órganos directivos de la Consejería de Desarrollo Educativo y Formación Profesional.
 e) La gestión y coordinación de las licencias por estudios al profesorado.
@@ -806,6 +835,8 @@ competencial.
 b) Las actuaciones que, conforme a la normativa de protección de datos personales, 
 le correspondan como responsable del tratamiento en el ámbito de las competencias que 
 tiene atribuidas.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 c) El Registro de Procedimientos y Servicios de los procedimientos administrativos y 
 servicios que gestiona la Dirección General, en coordinación con la Secretaría General 
 Técnica.
@@ -830,7 +861,7 @@ asociaciones representativas de las necesidades específicas de apoyo educativo,
 las asociaciones, entidades e instituciones representativas en materia de igualdad de 
 género, así como la gestión de las ayudas económicas dirigidas a estas, en su caso.
 c) La gestión y el mantenimiento del Censo de Entidades Colaboradoras de la 
-Enseñanza a que se refiere el artículo 180 de la Ley 17/2007, de 10 de diciembre.
+Enseñanza a que se refiere el artículo 180 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 d) La atención de las actividades de formación dirigidas a los padres y madres del 
 alumnado, para un mejor conocimiento del sistema educativo y de la normativa que lo 
 regula, así como la gestión del portal de recursos educativos y formativos destinados a 
@@ -858,14 +889,16 @@ k) La coordinación de las ayudas económicas destinadas a prevenir el absentism
 escolar y el abandono temprano del Sistema Educativo así como la implementación, 
 la gestión y el seguimiento de medidas, actuaciones y programas destinados a estas 
 finalidades, incluidos los programas financiados con fondos sociales.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 l) La organización y la gestión de los Programas educativos para la mejora de 
-hábitos de vida deportiva, a los que se refiere el artículo 39 de la Ley 17/2007, de 10 de 
+hábitos de vida deportiva, a los que se refiere el artículo 39 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, relacionados con el Plan de Deporte Escolar, así como la coordinación con las 
 Consejerías competentes en Deporte y Salud en el seguimiento del mismo.
 m) La coordinación de actuaciones innovadoras en los ámbitos de la inclusión, la 
 participación y la educación en valores en la vida de los centros docentes así como 
 proyectos solidarios de servicio a la comunidad y de mejora del entorno, conforme al 
-artículo 39 de la Ley 17/2007, de 10 de diciembre, con especial atención a la resolución 
+## artículo 39 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, con especial atención a la resolución 
 pacífica de conflictos, el impulso a la igualdad entre hombres y mujeres y la erradicación 
 de la violencia de género en los centros docentes.
 n) La atención al alumnado de origen extranjero, especialmente el migrante o refugiado, 
@@ -879,10 +912,10 @@ del acoso escolar y del ciberacoso.
 3. Son competencias de esta dirección general, en materia de inclusión educativa:
 a) El diseño, desarrollo y ejecución de las actuaciones y programas destinados a 
 atender al alumnado con necesidades específicas de apoyo educativo a que se refiere el 
-artículo 113 de la Ley 17/2007, de 10 de diciembre.
+## artículo 113 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre.
 b) En general, la programación y ejecución de las acciones que potencien el ejercicio 
 de la inclusión y la equidad en la escuela, en cumplimiento de lo dispuesto en la Ley 
-17/2007, de 10 de diciembre, en la Ley 9/1999, de 18 de noviembre, de Solidaridad en la 
+17/2007, de 10 de diciembre, en la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de Solidaridad en la 
 Educación, y en las disposiciones que las desarrollan.
 c) La gestión y propuesta de resolución de las becas y ayudas al estudio financiadas 
 con fondos propios, así como la propuesta de desarrollo normativo y la ejecución de las 
@@ -911,6 +944,8 @@ e) La propuesta de distribución de los gastos vinculados a programas específic
 de competencia de este órgano directivo, que perciban los centros docentes públicos 
 no universitarios, con cargo al presupuesto de la Consejería de Desarrollo Educativo y 
 Formación Profesional.
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 5. Así mismo, son competencias de esta dirección general:
 a) La gestión y coordinación de las actuaciones dirigidas a la conmemoración de 
 efemérides en materia de su competencia, sin perjuicio de las atribuidas a otros órganos 
@@ -962,6 +997,8 @@ retribuidos con cargo a los mismos créditos presupuestarios a que venían imput
 ## Disposición transitoria segunda. Subsistencia de las delegaciones de competencias.
 Las delegaciones de competencias que se encuentren vigentes a la entrada en vigor 
 de este decreto continuarán desplegando su eficacia hasta que por la persona titular de la 
+Extraordinario núm. 15 - Martes, 27 de agosto de 2024
+Boletín Oficial de la Junta de Andalucía
 Consejería de Desarrollo Educativo y Formación Profesional se dicte una nueva orden al 
 respecto. En caso de divergencias prevalecerá la de la anterior Consejería de Educación 
 y Deporte.
@@ -971,14 +1008,14 @@ decreto seguirán su tramitación en los distintos órganos directivos que, por 
 materia, asuman dichas competencias.
 ## Disposición transitoria cuarta. Política de seguridad TIC.
 En tanto no se disponga de una política de seguridad TIC según lo indicado en el 
-artículo 10 del Decreto 1/2011, de 11 de enero, por el que se establece la política de 
+## artículo 10 del Decreto 1/2011, de 11 de enero, por el que se establece la política de 
 seguridad de las tecnologías de la información y comunicaciones en la Administración de 
 la Junta de Andalucía (modificado por el Decreto 70/2017, de 6 de junio), la Consejería de 
 Desarrollo Educativo y Formación Profesional se regirá por la política de seguridad TIC 
 de la anterior Consejería de Educación y Deporte.
 ## Disposición derogatoria única. Derogación normativa.
 Quedan derogadas cuantas disposiciones, de igual o inferior rango, se opongan a 
-lo establecido en este decreto y en particular el Decreto 154/2022, de 9 de agosto, por 
+lo establecido en este decreto y en particular el [Decreto 154/2022](../01_marco_normativo_general_y_organico/D154_2022_estructura_organica_consejeria_desarrollo_educativo_andalucia.md), de 9 de agosto, por 
 el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y 
 Formación Profesional. 
 ## Disposición final primera. Desarrollo y ejecución.

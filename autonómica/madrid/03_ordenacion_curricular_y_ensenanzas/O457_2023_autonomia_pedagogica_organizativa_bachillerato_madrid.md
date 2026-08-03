@@ -30,12 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Orden 457/2023, de 16 de febrero, sobre autonomía pedagógica y de organización en el Bachillerato**
 
-## Preámbulo
-
+VIERNES 24 DE FEBRERO DE 2023
+Pág. 10
 B.O.C.M. Núm. 47
+BOCM-20230224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
 Presidencia de la Comunidad
 1
 CORRECCIÓN de errores de la Ley 11/2022, de 21 de diciembre, de Medidas
@@ -43,8 +47,9 @@ Urgentes para el Impulso de la Actividad Económica y la Modernización de la
 Administración de la Comunidad de Madrid.
 Advertidos errores en la Ley 11/2022, de 21 de diciembre, de Medidas Urgentes para
 el Impulso de la Actividad Económica y la Modernización de la Administración de la Co-
+munidad de Madrid, publicada en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID nú-
 mero 304, de 22 de diciembre de 2022, se procede a su corrección, en virtud de lo dispues-
-to en el artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+to en el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas, en el siguiente sentido:
 1.
 En el artículo cuatro, apartado cuatro:
@@ -94,7 +99,12 @@ b)
 Que al computarse la edificabilidad resultante como residencial a estos únicos
 efectos, se mantenga el cumplimiento de la dotación de redes públicas exigibles.
 
+VIERNES 24 DE FEBRERO DE 2023
 B.O.C.M. Núm. 47
+Pág. 11
+BOCM-20230224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 2.2.
 Será de aplicación a este uso concreto la normativa de edificación aplicable al
 uso residencial en el ámbito o sector y la normativa en su caso aplicable con carácter gene-
@@ -164,11 +174,14 @@ Donde dice:
 Intervención municipal en actos de uso del suelo y edificación.
 […]
 
+VIERNES 24 DE FEBRERO DE 2023
+Pág. 12
 B.O.C.M. Núm. 47
-
-## Artículo 152.
+BOCM-20230224-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Artículo 152.
 Actos sometidos a licencia urbanística.
-
 Únicamente estarán sujetos a licencia urbanística municipal los siguientes actos de uso
 del suelo, construcción y edificación:
 a)
@@ -201,10 +214,8 @@ Debe decir:
 «Capítulo III.
 Intervención municipal en actos de uso del suelo y edificación.
 […]
-
-## Artículo 152.
+Artículo 152.
 Actos sometidos a licencia urbanística.
-
 Únicamente estarán sujetos a licencia urbanística municipal los siguientes actos de uso
 del suelo, construcción y edificación:
 a)
@@ -243,9 +254,15 @@ urbanísticas.
 Dicha acreditación deberá estar concedida en cumplimiento de la UNE-EN
 ISO/IEC 17020 (entidades de tipo A), siendo necesario cumplir los siguientes requisitos:
 
+VIERNES 24 DE FEBRERO DE 2023
 B.O.C.M. Núm. 47
+Pág. 13
+BOCM-20230224-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 1.o
 Contar con dos o más profesionales con las siguientes características:
 a)

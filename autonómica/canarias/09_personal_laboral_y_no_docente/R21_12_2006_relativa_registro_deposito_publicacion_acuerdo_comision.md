@@ -34,7 +34,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 ## Preámbulo
 
 # Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera (BOC n.º 9, de 12 de enero).
@@ -86,3 +85,17 @@ La convocatoria podrá efectuarse con inclusión de todos los grupos retributivo
 2. Las bases de las convocatorias a que hace referencia el número anterior serán establecidas por la Administración, previa negociación con el Comité Intercentros.
 3. Hasta la culminación de los procesos selectivos previstos en esta Disposición no se llevarán a cabo los sistemas de selección y provisión establecidos en el Capítulo II del Convenio."
 Por la Administración: el Viceconsejero de Administración Pública; el Director General de la Función Pública.- Por el Comité Intercentros: el Presidente; el Secretario.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

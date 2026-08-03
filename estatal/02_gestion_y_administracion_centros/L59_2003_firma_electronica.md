@@ -31,17 +31,6 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1999-23750
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**
@@ -895,3 +884,18 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
+

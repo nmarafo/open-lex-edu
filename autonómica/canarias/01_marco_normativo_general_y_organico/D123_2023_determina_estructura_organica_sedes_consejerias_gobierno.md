@@ -51,7 +51,6 @@ fundamentos_derecho:
 anexos_extraidos_pdf: true
 ocr_procesado: true
 ---
-
 ## Preámbulo
 
 # Decreto 123/2023, de 17 de julio, por el que se determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
@@ -253,3 +252,26 @@ Oficial de Canarias.
 En Canarias, a 17 de julio de 2023.
 EL PRESIDENTE,
 Fernando Clavijo Batlle
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrollado por**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](./D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
+- **Fundamentado en**: [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 109**](../05_alumnado_y_servicios_escolares/R27_2_2024_dgacesc_dictan_instrucciones_proceso_admision_alumnado.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 89**](../04_organizacion_escolar_y_funcionamiento/R20_2_2025_escolarizacion_servicios_complementarios_establece_calendario_escolar.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+### Fundamentos de Derecho
+- [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- [**L4_2023 Ley del Gobierno de Canarias**](./L4_2023_presidencia_gobierno_canarias.md)
+

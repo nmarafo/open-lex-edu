@@ -30,22 +30,22 @@ relaciones:
   afecta_a_articulos: []
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/27/BOCM-20230227-1.PDF
 ---
+**Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los aspectos de organización, funcionamiento y evaluación en la etapa de Educación Infantil en la Comunidad de Madrid**
 
-
-## Preámbulo
-
-# Orden 460/2023, de 17 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la organización, funcionamiento y evaluación en Educación Infantil
-
-## Artículo 1. Objeto
-
-LUNES 27 DE FEBRERO DE 2023Pág. 12 B.O.C.M. Núm. 49
+LUNES 27 DE FEBRERO DE 2023
+Pág. 12
+B.O.C.M. Núm. 49
 BOCM-20230227-1
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
 Vicepresidencia, Consejería de Educación y Universidades
-1 ACUERDO de 23 de febrero de 2023, del Consejo de Gobierno, por el que se
+1
+ACUERDO de 23 de febrero de 2023, del Consejo de Gobierno, por el que se
 cesa a doña Visitación López-Miranda González como vocal del Consejo de
 Ciencia y Tecnología de la Comunidad de Madrid, en representación de la Uni-
 versidad Rey Juan Carlos, y se nombra, en su sustitución, a don Fernando Enri-

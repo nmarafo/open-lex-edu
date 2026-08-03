@@ -1,448 +1,253 @@
 ---
 id: norm-and-l3-2021
-titulo: "Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del profesorado en la Comunidad Autónoma de Andalucía"
+titulo: Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del
+  profesorado en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
-numero_disposicion: "3/2021"
-fecha_disposicion: "2021-07-26"
-fecha_publicacion: "2021-07-30"
+numero_disposicion: 3/2021
+fecha_disposicion: '2021-07-26'
+fecha_publicacion: '2021-07-30'
 boletin: BOJA
-numero_boletin: "146"
+numero_boletin: '146'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-13604"
-fuente_pdf_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-2021-13604"
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2021-13604
+fuente_pdf_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2021-13604
 clasificacion:
   categoria_canonica: 08_personal_docente
-  subcategoria: "Funcionarios de carrera"
+  subcategoria: Funcionarios de carrera
 tags:
-  - autoridad_docente
-  - profesorado
-  - presuncion_de_veracidad
-  - andalucia
+- autoridad_docente
+- profesorado
+- presuncion_de_veracidad
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 # Ley 3/2021, de 26 de julio, de Reconocimiento de la autoridad pública del profesorado en la Comunidad Autónoma de Andalucía
 
-Texto consolidado
-
-: «Última actualización, publicada el 30/07/2021»
-
-Ir a:
-
-Seleccionar apartado
-
-[Preámbulo]
-
-### Capítulo Capítulo
-
-## Artículo 1
-
-
-## Artículo 2
-
-
-## Artículo 3
-
-
-## Artículo 4
-
-
-## Artículo 5
-
-### Capítulo Capítulo
-
-## Artículo 6
-
-
-## Artículo 7
-
-### Capítulo Capítulo
-
-## Artículo 8
-
-
-## Artículo 9
-
-## Disposición adicional primera
-
-## Disposición adicional segunda
-
-## Disposición final primera
-
-## Disposición final segunda
-
-[Firma]
-
-[Bloque 1: #pr]
-
-EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
-
-A todos los que la presente vieren, sabed: Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren
-
-la Constitución
-
-y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley
-
-de Reconoci
-
-miento de Autoridad del Profesorado.
-
-EXPOSICIÓN DE MOTIVOS
-
-I
-
-El
-
-## artículo 27 de la Constitución española
-
-reconoce que todas las personas tienen derecho a la educación y establece los principios esenciales sobre los que se sustenta el ejercicio de este derecho fundamental.
-
-Asimismo, el
-
-## artículo 4.2.f) de la Ley Orgánica 8/1985, de 3 de julio
-
-, reguladora del Derecho a la Educación, establece que a los padres, madres o tutores legales, como primeros responsables de la educación de sus hijos o hijas, les corresponde, entre otras obligaciones, respetar y hacer respetar las normas establecidas por el centro, la autoridad y las indicaciones u orientaciones educativas del profesorado.
-
-Por su parte, el artículo 10.3.2.º del
-
-Estatuto de Autonomía para Andalucía
-
-garantiza el acceso de todos los andaluces a una educación permanente y de calidad que les permita su realización personal y social, y el artículo 21 explicita los derechos concretos que deben respetarse y garantizarse en esta materia; el artículo 52 establece las competencias que corresponden a la Comunidad Autónoma en materia de enseñanza no universitaria.
-
-Asimismo, el artículo 47.1.1.ª del
-
-Estatuto de Autonomía para Andalucía
-
-establece que es competencia exclusiva de la Comunidad Autónoma el procedimiento administrativo derivado de las especialidades de la organización propia de la Comunidad Autónoma, la estructura y regulación de los órganos administrativos públicos de Andalucía y de sus organismos autónomos.
-
-II
-
-La sociedad actual vive en constante cambio, no solo en términos materiales, de medios y metodológicos, sino que con ellos también han cambiado los códigos y principios que rigen nuestra convivencia en el ámbito social. Estos cambios se han trasladado también al sistema educativo, lo que ha provocado que el papel que tradicionalmente han jugado el profesorado, los padres y madres y el alumnado haya ido variando de forma paulatina.
-
-No obstante, lo que no ha variado con el paso de los años ha sido el papel fundamental que el profesorado desempeña en la formación de ciudadanos y ciudadanas responsables, prestando con ello un servicio esencial a toda la sociedad que la Administración educativa debe poner en valor.
-
-La sociedad andaluza es por días más heterogénea, lo que hace necesario que aprendamos a convivir partiendo de esta diversidad. Resulta pues fundamental el carácter preventivo y de desarrollo de la convivencia que debe potenciar el profesorado y la institución escolar para avanzar en una sociedad más tolerante, que fomente un mejor entendimiento y que apueste por el respeto de esta diversidad, fuente de riqueza social.
-
-Como garantía del derecho fundamental a la educación es importantísimo implementar medidas que incrementen y refuercen la valoración social de la función docente y la autoridad del profesorado, para que pueda desarrollar su labor con las máximas garantías. La necesidad de que se logre una conexión con el alumnado tal que permita una convivencia en un ambiente de respeto exige, junto con una atención más personalizada del alumnado y sus familias, dotar de autoridad al profesorado.
-
-En este sentido, los
-
-artículos 104 y 105 de la Ley Orgánica 2/2006, de 3 de mayo
-
-, de Educación, establecen que corresponde a las Administraciones educativas velar por que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de su tarea y prestar una atención prioritaria a la mejora de sus condiciones de trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente y, respecto del profesorado de los centros públicos, adoptar las medidas oportunas para garantizar la debida protección y asistencia jurídica, así como la cobertura de la responsabilidad civil en relación con los hechos que se deriven de su ejercicio profesional.
-
-Asimismo, el
-
-## artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
-
-, establece que los miembros del equipo directivo y los profesores y profesoras serán considerados autoridad pública. En los procedimientos de adopción de medidas correctoras, los hechos constatados por profesores, profesoras y miembros del equipo directivo de los centros docentes tendrán valor probatorio y disfrutarán de presunción de veracidad
-
-iuris tantum
-
-o salvo prueba en contrario, sin perjuicio de las pruebas que, en defensa de los respectivos derechos o intereses, puedan señalar o aportar los propios alumnos y alumnas.
-
-Por su parte, la
-
-Ley 17/2007, de 10 de diciembre
-
-, de Educación de Andalucía, regula en su artículo 23 diferentes medidas de apoyo al profesorado, disponiendo, entre otros aspectos, que la Administración educativa velará para que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de su tarea, promoverá acciones que favorezcan su justa valoración y le proporcionará, en el caso del que preste servicio en los centros docentes públicos, la asistencia psicológica y jurídica gratuita por hechos que se deriven de su ejercicio profesional.
-
-En el mismo sentido, el artículo 14.f) del texto refundido de la
-
-Ley del Estatuto Básico del Empleado Público
-
-, aprobado por el
-
-Real Decreto Legislativo 5/2015
-
-, de 30
-
-de octubre
-
-, establece como uno de los derechos de los empleados públicos la defensa jurídica y protección de la Administración Pública en los procedimientos que se sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos.
-
-Por lo que se refiere a la convivencia en los centros docentes, la
-
-Ley 17/2007, de 10 de diciembre
-
-, establece en su artículo 127.1.e) la obligación de abordar en su proyecto educativo un plan de convivencia para prevenir la aparición de conductas contrarias a las normas de convivencia y facilitar un adecuado clima escolar.
-
-III
-
-La presente Ley, solicitada reiteradamente por los principales representantes del profesorado, tiene como objeto reconocer la autoridad docente y destacar su figura como pilar fundamental del sistema educativo, con la finalidad de procurar un adecuado clima de convivencia en los centros docentes que contribuya a garantizar el pleno ejercicio del derecho a la educación de todo el alumnado.
-
-La Ley se estructura en tres capítulos, dos disposiciones adicionales y dos disposiciones finales. En el capítulo I se definen el objeto y el ámbito de aplicación de la norma, los principios, derechos, deberes y objetivos generales, los derechos que asisten al profesorado que presta servicios en el Sistema Educativo Público de Andalucía en el ejercicio de la función docente, así como la responsabilidad del resto de la comunidad educativa en relación con el profesorado y el buen uso de las instalaciones docentes, medios físicos y tecnológicos.
-
-El capítulo II reconoce la condición de autoridad pública del profesorado, la presunción de veracidad de los hechos constatados por este en los procedimientos de adopción de medidas correctoras y el derecho a la asistencia jurídica y psicológica por hechos que se deriven de su ejercicio profesional.
-
-El capítulo III está dedicado a regular las medidas de apoyo al profesorado.
-
-La Ley concluye con dos disposiciones adicionales, referidas al alcance de la norma en los centros privados no concertados y a la aplicación al personal de administración y servicios dependiente de la Consejería competente en materia de Educación de ciertas medidas contempladas en la presente Ley, y dos disposiciones finales que regulan la habilitación normativa y la entrada en vigor de la norma, respectivamente.
-
-Subir
-
-[Bloque 2: #ci]
-
-### Capítulo Capítulo
-
-Disposiciones generales
-
-Subir
-
-[Bloque 3: #a1]
-
-## Artículo 1. Objeto y finalidad.
-
-La presente Ley tiene por objeto reconocer la autoridad pública del profesorado de la Comunidad Autónoma de Andalucía en los términos reconocidos en el artículo 124.3 de la Ley O
-
-rgán
-
-ica 2/2006, de 3 de mayo, de Educación, y consecuentemente fomentar la consideración y el respeto que le son debidos por el ejercicio de sus funciones y competencias, con el fin de procurar un clima de convivencia y de respeto en la comunidad educativa.
-
-Subir
-
-[Bloque 4: #a2]
-
-## Artículo 2. Ámbito de aplicación.
-
-1. La presente Ley será de aplicación en los centros docentes no universitarios, que impartan alguna de las enseñanzas contempladas en la
-
-Ley Orgánica 2/2006, de 3 de mayo
-
-, con las siguientes excepciones:
-
-a) El artículo 5 será de aplicación exclusiva a los centros docentes de titularidad de la Junta de Andalucía.
-
-b) El artículo 8.d) solo será aplicable al profesorado de los centros docentes públicos.
-
-c) Los artículos 9.2 y 8.f) solo serán de aplicación al profesorado de los centros sostenidos con fondos públicos.
-
-2. El ámbito de aplicación de la Ley se entenderá referido al conjunto de actuaciones incluidas en la programación general de la enseñanza, conforme al
-
-## artículo 2 de la Ley 17/2007, de 10 de diciembre
-
-, de Educación de Andalucía, entre las que se incluyen las actuaciones que desarrollen los centros docentes para ofrecer nuevos servicios y actividades al alumnado fuera del horario lectivo, de conformidad con lo establecido en el apartado 2 del citado artículo.
-
-3. Quedan comprendidos en el ámbito de la presente Ley, cualquiera que fuera el momento y el lugar en que se produjeren, los actos contrarios a la integridad física o moral del profesorado, con inclusión del ciberacoso y actos de naturaleza similar, siempre que resulten relacionados con el ejercicio profesional del docente.
-
-4. Igualmente comprenderán los actos que contra las direcciones de los centros, en el ejercicio de sus funciones, se lleven a cabo por parte de cualquier miembro de la comunidad educativa.
-
-Subir
-
-[Bloque 5: #a3]
-
-## Artículo 3. Principios, derechos, deberes y objetivos generales.
-
-1. La Ley, que se fundamenta en el respeto al derecho de todas las personas a la educación consagrado en el
-
-## artículo 27.1 de la Constitución española
-
-y en el artículo 21 del
-
-Estatuto de Autonomía para Andalucía
-
-, se inspira en los siguientes principios:
-
-a) La consideración de la función docente, así como de la función directiva, como factores esenciales de la calidad de la educación, ostentando por ello la responsabilidad principal del proceso educativo y la autoridad que de las mismas se desprenden.
-
-b) La educación y la formación de calidad como herramientas esenciales para la igualdad de oportunidades, el progreso de las personas y el desarrollo de la sociedad.
-
-c) La consideración del centro docente como ámbito de aprendizaje de los principios de convivencia, respeto mutuo y colaboración y espacio para que el alumnado desarrolle al máximo sus capacidades, sus competencias y su personalidad.
-
-d) La autonomía de los centros como elemento determinante del funcionamiento y la gestión de los centros docentes, en particular en materia de convivencia escolar.
-
-e) La promoción de normas de convivencia adecuadas y la suficiencia de medios para velar por su cumplimiento.
-
-f) El impulso, por parte de la Administración educativa, de los mecanismos necesarios para facilitar la función del profesorado y su reconocimiento y prestigio social.
-
-2. Los citados principios se orientarán fundamentalmente al reconocimiento, respeto, ejercicio correcto y efectiva garantía de los derechos y deberes de todas las personas que pertenecen a la comunidad educativa, con especial consideración al profesorado en el ejercicio de sus funciones docentes y directivas, así como a la protección de las víctimas de violencia escolar y al alumnado con necesidades específicas de apoyo educativo.
-
-3. Para el cumplimiento de los objetivos establecidos en la Ley, los representantes legales del alumnado deberán contribuir responsablemente a la educación de sus hijos e hijas en colaboración con el centro docente.
-
-Asimismo, los representantes legales del alumnado y las instituciones públicas competentes deberán colaborar en la obtención de la información que se precise para el ejercicio de la función educativa, así como en la aplicación de las normas que garanticen la convivencia en los centros docentes.
-
-Subir
-
-[Bloque 6: #a4]
-
-## Artículo 4. Derechos del profesorado en el ejercicio de la función docente.
-
-Al profesorado, en el desempeño de su función docente, se le reconocen los siguientes derechos:
-
-a) A recibir el trato, la consideración y el respeto que le corresponde, tanto dentro como fuera de las instalaciones educativas, por parte del alumnado, de las familias, del resto del profesorado y de otro personal que preste su servicio en el centro docente, conforme a la importancia social de la tarea que desempeña.
-
-b) A desarrollar su labor en un clima de orden y respeto a sus derechos, especialmente a su integridad física y moral y a su dignidad, de conformidad con la normativa vigente.
-
-c) A tener la potestad y la autonomía, en el ámbito de sus competencias, para imponer medidas correctivas y tomar las decisiones necesarias, de manera inmediata, proporcionada y eficaz, de acuerdo con las normas de convivencia del centro y con la normativa vigente, que le permitan mantener un clima adecuado de convivencia que favorezca el estudio y aprendizaje durante las clases y en las actividades complementarias y extraescolares, tanto dentro como fuera del recinto escolar.
-
-d) A solicitar la colaboración de las familias o representantes legales del alumnado para el cumplimiento de las normas de convivencia.
-
-e) A la protección jurídica y psicológica adecuada en el ejercicio de sus funciones docentes, conforme al marco normativo aplicable.
-
-f) A ser apoyado por la Administración educativa, que velará por que el profesorado reciba el trato, consideración y respeto que le corresponde, para lo que se realizará la oferta de formación adecuada y programas y campañas que pongan en valor la función docente y contribuyan a mejorar su consideración y prestigio social, prestando especial atención a los aspectos relacionados con el uso de las tecnologías de la información y la comunicación y de las redes sociales.
-
-Subir
-
-[Bloque 7: #a5]
-
-## Artículo 5. Buen uso de las instalaciones docentes, medios físicos y tecnológicos.
-
-La dirección de los centros docentes y la Consejería competente en materia de Educación garantizarán el uso adecuado y conforme con el ordenamiento jurídico de las instalaciones docentes en su ámbito de competencia, así como de los tablones de anuncios o de cualquier otro medio físico o tecnológico, con el fin principal de evitar que sirvan de soporte a conductas injuriosas u ofensivas para el profesorado, el alumnado u otros miembros de la comunidad educativa.
-
-A tal fin, la Consejería competente en materia de Educación velará por que los centros docentes, en el ejercicio de su autonomía, determinen en sus normas de convivencia las medidas correctoras y las actuaciones preventivas adecuadas.
-
-Subir
-
-[Bloque 8: #ci-2]
-
-### Capítulo Capítulo
-
-Protección jurídica y psicológica del personal docente
-
-Subir
-
-[Bloque 9: #a6]
-
-## Artículo 6. Reconocimiento de la condición de autoridad pública.
-
-1. El profesorado de la Comunidad Autónoma de Andalucía, en el ejercicio de las funciones directivas, educativas, de orientación y disciplinarias que tenga atribuidas, tendrá la condición de autoridad pública.
-
-2. Conforme establece el
-
-## artículo 124.3 de la Ley Orgánica 2/2006, de 3 de mayo
-
-, en los procedimientos de adopción de medidas correctoras, los hechos constatados por el profesorado de la Comunidad Autónoma de Andalucía tendrán valor probatorio y disfrutarán de presunción de veracidad
-
-iuris tantum
-
-o salvo prueba en contrario, sin perjuicio de las pruebas que, en defensa de los respectivos derechos o intereses, puedan señalar o aportar los propios alumnos y alumnas.
-
-El contenido de la declaración ha de haber sido constatado directamente por el profesor o profesora y reflejará los hechos documentalmente, con claridad y precisión, exponiendo su versión de lo acontecido de la manera más objetiva posible.
-
-Subir
-
-[Bloque 10: #a7]
-
-## Artículo 7. Asistencia jurídica y psicológica.
-
-Conforme a lo establecido en el
-
-## artículo 105.1 de la Ley Orgánica 2/2006, de 3 de mayo
-
-, de Educación, corresponde a la Administración educativa, respecto del profesorado y de las direcciones de los centros públicos, adoptar las medidas oportunas para garantizar la debida protección y asistencia jurídica, así como la cobertura de la responsabilidad civil, en relación con los hechos que se deriven de su ejercicio profesional.
-
-Por su parte, conforme establece el
-
-## artículo 23.6 de la Ley 17/2007, de 10 de diciembre
-
-, de Educación de Andalucía, la Administración educativa proporcionará asistencia psicológica y jurídica gratuita al personal docente de todos los niveles educativos, a que se refiere la citada Ley, que preste servicios en los centros docentes públicos por hechos que se deriven de su ejercicio profesional. La asistencia jurídica consistirá en la representación y defensa en juicio, cualesquiera que sean el órgano y el orden de la jurisdicción ante los que se diriman, en la forma y condiciones que se determinan reglamentariamente. En el caso de las direcciones de los centros, incluirá las denuncias interpuestas a las mismas por parte de los miembros del claustro y/o personal de administración y servicios. Del mismo modo, se potenciará la coordinación entre los centros educativos, a través de las direcciones de los mismos, y las delegaciones territoriales de Educación, a través de sus servicios jurídicos y de inspección.
-
-La citada asistencia jurídica será de aplicación al personal docente que preste servicios en centros públicos, mientras que la citada asistencia psicológica será de aplicación al personal docente que preste servicios en centros sostenidos con fondos públicos.
-
-Subir
-
-[Bloque 11: #ci-3]
-
-### Capítulo Capítulo
-
-Medidas de apoyo al profesorado
-
-Subir
-
-[Bloque 12: #a8]
-
-## Artículo 8. Protección y reconocimiento.
-
-La Consejería competente en materia de Educación adoptará las medidas de protección y reconocimiento siguientes:
-
-a) Favorecer en todas las etapas educativas el reconocimiento de la labor del profesorado en el desarrollo de sus funciones docentes y directivas.
-
-b) Reconocer la excelencia y el especial esfuerzo del profesorado, dando a conocer el desarrollo de buenas prácticas.
-
-c) Formar e informar al personal docente en relación a los principios, derechos y protección jurídica, relativos al contenido de esta Ley, en la que se reconoce la condición de autoridad del profesorado.
-
-d) Desarrollar protocolos de actuación que permitan articular eficazmente la protección, asistencia y apoyo al profesorado en el desarrollo de sus funciones docentes y directivas.
-
-e) Favorecer el funcionamiento de comisiones de convivencia en los centros educativos como medida preventiva y de mejora de la convivencia escolar en la que participe la comunidad educativa.
-
-f) Reconocer la importante labor del personal docente con medidas que incidan en la mejora de sus condiciones laborales y retributivas.
-
-g) Reconocer, de forma específica, la importante labor de los equipos directivos en los centros docentes, con medidas que incidan en la mejora de sus condiciones laborales y retributivas.
-
-h) Considerar la veracidad de la evaluación realizada por el profesorado y, en su caso, por el departamento o equipo docente de ciclo, ante reclamaciones que pudiesen realizar el alumnado o sus familiares ante la Inspección Educativa o la Delegación Territorial de Educación correspondiente.
-
-Subir
-
-[Bloque 13: #a9]
-
-## Artículo 9. Responsabilidad y reparación de daños.
-
-1. El alumno o alumna tiene la obligación de reparar los daños que cause individual o colectivamente, de forma intencionada o por negligencia, a las instalaciones, a los materiales del centro y a las pertenencias de todos los miembros de la comunidad educativa, haciéndose cargo, en su caso, del coste económico de su reparación, sin perjuicio de la aplicación de lo establecido en el
-
-## artículo 1.903 del Código Civil
-
-, que recoge que los padres son responsables de los daños causados por los hijos que se encuentren bajo su guarda, así como en las normas que regulan la responsabilidad patrimonial de las administraciones públicas.
-
-Asimismo, el alumno o alumna tendrá la obligación de restituir lo sustraído o reparar económicamente el valor de este, cuando no sea posible la restitución.
-
-2. En los casos de agresión física o moral al profesorado causada por el alumno o la alumna, se considerarán circunstancias que atenúan la responsabilidad el reconocimiento espontáneo de la incorrección de la conducta, así como la reparación espontánea del daño producido y la petición de excusas.
-
-3. Cuando los hechos pudieran ser constitutivos de infracción penal, la Administración educativa los pondrá en conocimiento del Ministerio Fiscal, oídas la dirección del centro y las personas afectadas, sin perjuicio de la adopción de medidas cautelares oportunas.
-
-4. La responsabilidad civil del profesorado y de las direcciones de los centros quedará cubierta por la Administración, según las normas que regulan la responsabilidad patrimonial de las administraciones públicas.
-
-Subir
-
-[Bloque 14: #da]
-
-## Disposición adicional primera. Centros docentes de titularidad privada.
-
-En aplicación de lo dispuesto en el
-
-## artículo 25 de la Ley Orgánica 8/1985, de 3 de julio
-
-, reguladora del Derecho a la Educación, los centros privados no concertados gozarán de autonomía para establecer su régimen interno, elaborar el proyecto educativo y establecer las normas de convivencia.
-
-Subir
-
-[Bloque 15: #da-2]
-
-## Disposición adicional segunda. Aplicación al personal de administración y servicios dependiente de la Consejería competente en materia de Educación.
-
-Las medidas contempladas en esta Ley, relativas al uso de espacios públicos, medios físicos y tecnológicos, asistencia jurídica y psicológica, protección y reparación de daños, serán de aplicación al personal de administración y servicios dependiente de la Consejería competente en materia de Educación por hechos producidos en el desarrollo de su labor profesional en los centros educativos del sistema público andaluz.
-
-Subir
-
-[Bloque 16: #df]
-
-## Disposición final primera. Desarrollo de la Ley.
-
-El desarrollo reglamentario de esta Ley se llevará a efecto por el Consejo de Gobierno, de acuerdo con lo dispuesto en los artículos 112 y 119.3 del Estatuto de Autonomía y en el 44 de la
-
-Ley 6/2006, de 24 de octubre
-
-, del Gobierno de la Comunidad Autónoma de Andalucía.
-
-Subir
-
-[Bloque 17: #df-2]
-
-## Disposición final segunda. Entrada en vigor.
-
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía».
-
-Subir
-
-[Bloque 18: #nu]
-
-Sevilla, 26 de julio de 2021.–El Presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla.
-
-Subir
+III. OTRAS DISPOSICIONES
+MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN
+14059
+Resolución de 9 de agosto de 2021, del Fondo Español de Garantía Agraria, 
+O.A., por la que se publica el Acuerdo del Consejo de Ministros de 20 de julio 
+de 2021, por el que se modifica la responsabilidad financiera de la 
+Comunidad de Castilla y León en el procedimiento de repercusión de 
+responsabilidades por incumplimiento del derecho de la Unión Europea, 
+establecida en los Acuerdos de Consejo de Ministros de 17 de febrero de 
+2017 y de 24 de noviembre de 2020, dejando estos sin efecto, en virtud de lo 
+dispuesto en las Sentencias del Tribunal Supremo n.º 1538/2020 de 18 de 
+noviembre de 2020, y n.º 1563/2020 de 19 de noviembre de 2020.
+El Consejo de Ministros en su reunión del día 20 de julio de 2021, ha aprobado, a 
+propuesta del Ministro de Agricultura, Pesca y Alimentación, el Acuerdo por el que se 
+modifica la responsabilidad financiera de la Comunidad Autónoma de Castilla y León en 
+el procedimiento de repercusión de responsabilidades por incumplimiento del Derecho 
+de la Unión Europea establecida en los Acuerdos de Consejo de Ministros de 17 de 
+febrero de 2017 y de 24 de noviembre de 2020, dejando estos sin efecto, en virtud de lo 
+dispuesto en las Sentencias del Tribunal Supremo n.º 1538/2020 de 18 de noviembre 
+de 2020, y n.º 1563/2020 de 19 de noviembre de 2020.
+De acuerdo con lo previsto en el artículo 14.2 del Real Decreto 515/2013, de 5 de 
+julio, por el que se regulan los criterios y el procedimiento para determinar y repercutir las 
+responsabilidades por incumplimiento del Derecho de la Unión Europea, se dispone la 
+publicación del citado Acuerdo, que figura como anexo a la presente resolución.
+Madrid, 9 de agosto de 2021.–El Presidente del Fondo Español de Garantía Agraria, 
+O.A., Miguel Ángel Riesgo Pablo.
+ANEXO
+Acuerdo por el que se modifica la responsabilidad financiera de la Comunidad de 
+Castilla y León en el procedimiento de repercusión de responsabilidades por 
+incumplimiento del Derecho de la Unión Europea establecida en los Acuerdos de 
+Consejo de Ministros de 17 de febrero de 2017 y de 24 de noviembre de 2020, 
+dejando estos sin efecto, en virtud de lo dispuesto en las Sentencias del Tribunal 
+Supremo n.º 1538/2020 de 18 de noviembre de 2020, y n.º 1563/2020 de 19 de 
+noviembre de 2020
+Primero.
+Vistas las Sentencias del Tribunal Supremo n.º 1538/2020 de 18 de noviembre 
+de 2020, y 1563/2020 de 19 de noviembre de 2020 de los recursos contenciosos 
+administrativos interpuestos contra el Acuerdo del Consejo de Ministros de 17 de febrero 
+de 2017, por el que se aprueba la terminación del procedimiento de la repercusión de 
+responsabilidades por incumplimiento del Derecho de la Unión Europea, y cuyos fallos 
+deciden estimar una responsabilidad financiera concurrente al 50 % entre la 
+Administración General del Estado y las Comunidades Autónomas recurrentes, se 
+modifica la responsabilidad financiera al Organismo pagador de la Comunidad Autónoma 
+de Castilla y León, como competente en la gestión y control de las ayudas, acorde con la 
+letra a) del apartado 1 de la disposición adicional quinta del Real Decreto 515/2013, de 5 
+de julio, por el que se regulan los criterios y el procedimiento para determinar y repercutir 
+las responsabilidades por incumplimiento del Derecho de la Unión Europea. El mismo ha 
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 198
+Jueves 19 de agosto de 2021
+Sec. III.   Pág. 101757
+cve: BOE-A-2021-14059
+Verificable en https://www.boe.es
+dado lugar a la liquidación realizada sobre la deuda contraída de once millones 
+novecientos doce mil novecientos sesenta y dos euros con setenta y ocho 
+céntimos (11.912.962,78 €), de los cuales once millones setecientos cuarenta y ocho mil 
+ciento veinte euros con un céntimo (11.748.120,01 €) son con cargo al Fondo Europeo 
+Agrícola de Garantía (FEAGA), ayudas por superficie debido a la inadmisibilidad de los 
+pastos permanentes, y ciento sesenta y cuatro mil ochocientos cuarenta y dos euros con 
+setenta y siete céntimos (164.842,77 €) son con cargo al Fondo Europeo Agrícola de 
+Garantía (FEAGA), resto de ayudas por superficie.
+Segundo.
+Por cumplimiento de sentencia, con el presente Acuerdo se revocan los importes 
+resueltos mediante Acuerdo de Consejo de Ministros de 24 de noviembre de 2020, 
+dictando una responsabilidad financiera mancomunada al 50 %. Por consiguiente, la 
+deuda del procedimiento iniciado a la citada Comunidad Autónoma resultante es 
+de 11.748.120,01 euros con cargo al FEAGA, ayudas por superficie debido a la 
+inadmisibilidad de los pastos permanentes, y 164.842,77 euros con cargo al FEAGA, 
+resto de ayudas por superficie. La deuda atribuida al Organismo Pagador de Castilla y 
+León en concepto de pastos permanentes ha sido extinguida al haber efectuado un 
+abono 
+en 
+la 
+cuenta 
+habilitada 
+del 
+Banco 
+de 
+España 
+por 
+el 
+importe 
+de 23.496.240,01 euros. Por ello procede la devolución del 50 % de dicho importe 
+consistente en 11.748.120,01 euros. La deuda referente al resto de ayudas por superficie 
+de 164.842,77 euros, se compensará del importe de la devolución tal y como ha 
+solicitado el organismo pagador de Castilla y León, en virtud del artículo 15.1 del 
+Real Decreto 515/2013 de 5 de julio, por tanto, se procede a la devolución 
+de 11.583.277,24 euros.
+Tercero.
+El presente acuerdo de Consejo de Ministros será publicado en el «Boletín Oficial del 
+Estado», modificando y revocando el Acuerdo de Consejo de Ministros de 24 de 
+noviembre de 2020, dado que pone fin al procedimiento para determinar y repercutir las 
+responsabilidades por incumplimiento del Derecho de la Unión Europea reconocidas por 
+la Comisión Europea mediante su Decisión de Ejecución (UE) 2019/1835, de la 
+Comisión, de fecha 30 de octubre de 2019, por la que se excluyen de la financiación de 
+la Unión Europea determinados gastos efectuados por los Estados miembros con cargo 
+al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de 
+Desarrollo Rural (FEADER).
+Asimismo el Acuerdo, en su parte expositiva indica:
+La Decisión de Ejecución (UE) 2016/1059 de 20 de junio de 2016 (Decisión Ad 
+Hoc 51) excluyó de la financiación comunitaria determinados gastos efectuados por el 
+Reino de España, por no ajustarse a las normas comunitarias, en relación con las 
+debilidades encontradas en el marco de las ayudas por superficie debido a la 
+inadmisibilidad de los pastos permanentes y la vinculación con la gestión de los pagos 
+así como a deficiencias en el procedimiento de recuperación de pagos indebidos como 
+consecuencia de un cambio de la superficie admisible en el SIGPAC.
+En aplicación del apartado 3 del artículo 5 del Real Decreto 515/2013, de 5 de julio, 
+por el que se regulan los criterios y el procedimiento para determinar y repercutir las 
+responsabilidades por incumplimiento del Derecho de la Unión Europea y al abrigo del 
+apartado 1 de la Disposición Adicional Quinta, se propuso imputar el 100 % de la 
+corrección financiera a las diferentes comunidades autónomas afectadas, en su 
+condición 
+de 
+Organismos 
+Pagadores. 
+El 
+procedimiento 
+de 
+repercusión 
+de 
+responsabilidad financiera finalizó mediante Acuerdo del Consejo de Ministros de 17 de 
+febrero de 2017 en el que se determinaba la repercusión al Organismo Pagador de la 
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 198
+Jueves 19 de agosto de 2021
+Sec. III.   Pág. 101758
+cve: BOE-A-2021-14059
+Verificable en https://www.boe.es
+Comunidad Autónoma de Castilla y León un importe total de 57.945.425,36 euros, de los 
+que correspondían por fondos:
+– FEAGA, ayudas por superficie debido a la inadmisibilidad de los pastos 
+permanentes, 57.615.739,82 euros.
+– FEAGA resto de ayuda, 329.685,54 euros.
+Dicho Organismo Pagador no pagó la deuda correspondiente a FEAGA, ayudas por 
+superficie debido a la inadmisibilidad de los pastos permanentes, por importe 
+de 57.615.739,82 euros, ni la correspondiente a FEAGA resto de ayuda, por un importe 
+de 329.685,54 euros, quedando una deuda total pendiente de 57.945.425,36 euros.
+No obstante, sobre el Acuerdo del Consejo de Ministros de 17 de febrero de 2017 
+incidió una circunstancia esencial y es la propia actuación del Reino de España que instó 
+ante el Tribunal de Justicia de la Unión Europea (en adelante TJUE) la anulación parcial 
+de la Decisión de Ejecución (UE) 2016/1059.
+Fruto del proceso ante la curia comunitaria europea, el TJUE en la 
+Sentencia T-459/16 de 29 de noviembre de 2018 estimó parcialmente el recurso 
+interpuesto por el Estado Español y procedió a la anulación de la Decisión impugnada.
+De esta forma, la Comisión Europea publicó una nueva Decisión de 
+Ejecución (UE) 2019/1835 (Ad hoc 61), de fecha 30 de octubre de 2019, con la 
+devolución parcial a España de una parte correspondiente a FEAGA en el caso de 
+ayudas por superficie, inadmisibilidad de los pastos permanentes, por un importe 
+de 172.163.315,09 euros, el 5 de febrero de 2020. Por ello, la corrección financiera total 
+de FEAGA pastos que ascendía a 262.887.429,57 euros, descontando la devolución de 
+la Comisión supone ahora un total de 90.724.114,48 euros.
+De esta forma, mediante el Acuerdo de Consejo de Ministros de 24 de noviembre 
+de 2020 se culminó la terminación del procedimiento de responsabilidad financiera 
+iniciado a la Comunidad Autónoma de Castilla y León el 9 de junio de 2020 por la que 
+recalculó la corrección financiera que afectaba al importe FEAGA ayudas por superficie 
+inadmisibilidad de pastos permanentes como consecuencia de la Sentencia del TJUE y 
+de la Decisión de Ejecución (UE) 2019/1835 dictada por la Comisión el 30 de octubre 
+de 2019.
+Así, para el Organismo Pagador de la Comunidad Autónoma de Castilla y León, la 
+deuda de FEAGA, ayudas por superficie debido a la inadmisibilidad de los pastos 
+permanentes, se modificó a 23.496.240,01 euros.
+Las sentencias del Tribunal Supremo n.º 1538/2020 de 18 de noviembre de 2020, y 
+n.º 1563/2020 de 19 de noviembre de 2020, de los recursos contencioso-administrativos 
+interpuestos por las Comunidades Autónomas de Extremadura y Cantabria 
+respectivamente, contra el Acuerdo del Consejo de Ministros de 17 de febrero de 2017, 
+establecen en sus fallos estimar una responsabilidad financiera concurrente al 50 % 
+entre la Administración General del Estado y las Comunidades Autónomas indicadas, 
+anulando el citado Acuerdo.
+Con el fin de cumplir con las citadas sentencias del alto tribunal, y en base a lo 
+dispuesto en el artículo 109.1 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
+Administrativo Común de las Administraciones Públicas, el FEGA inició de oficio, 
+mediante acuerdo de 23 de abril de 2021, el procedimiento de determinación de 
+responsabilidades en base al artículo 8.1 del Real Decreto 515/2013, de 5 de julio, que 
+fue notificado el día 26 de abril de 2021 y recepcionado por el Organismo pagador de la 
+Comunidad Autónoma de Castilla y León ese mismo día.
+El Organismo Pagador de la Comunidad Autónoma presentó un documento el 21 de 
+mayo del 2021 sin alegaciones al acuerdo de inicio, con arreglo a lo establecido en el 
+## artículo 11 del citado Real Decreto 515/2013, de 5 de julio. No obstante, solicitó que la 
+deuda de 164.842,77 euros fuera compensada con el importe procedente de la 
+devolución del 50 % que debe realizarle la administración general del Estado.
+La deuda atribuida al Organismo Pagador de Castilla y León en FEAGA en concepto 
+de pastos permanentes ha sido extinguida al haber efectuado con fecha 21 de enero 
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 198
+Jueves 19 de agosto de 2021
+Sec. III.   Pág. 101759
+cve: BOE-A-2021-14059
+Verificable en https://www.boe.es
+de 2021 un abono en la cuenta habilitada del Banco de España por el importe 
+de 23.496.240,01 euros.
+La deuda resultante del procedimiento iniciado a la citada Comunidad Autónoma, 
+consistente en 164.842,77 euros con cargo al FEAGA, resto de ayudas por superficie, se 
+declarará extinguida con la compensación del importe de la devolución tal y como ha 
+solicitado el organismo pagador de Castilla y León.
+Con el presente Acuerdo se revocan los importes resueltos mediante en los Acuerdos 
+de Consejo de Ministros de 17 de febrero de 2017 y de 24 de noviembre de 2020, dejando 
+estos sin efecto, en virtud de lo dispuesto en las Sentencias del Tribunal Supremo n.º
+1538/2020 de 18 de noviembre de 2020, y n.º 1563/2020 de 19 de noviembre de 2020, y se 
+dicta una responsabilidad financiera mancomunada al 50 %.
+Consta en las actuaciones el informe preceptivo de la Abogacía del Estado previsto 
+en el artículo 12.1 del Real Decreto 515/2013, de 5 de julio.
+Con carácter potestativo se podrá formular al Consejo de Ministros el requerimiento previo, 
+previsto en el artículo 44 de la Ley 29/1998, de 13 de julio, de la Jurisdicción Contencioso-
+Administrativa. Dicho requerimiento deberá producirse en el plazo de dos meses, contados 
+desde que la Administración requirente haya recibido la notificación del acuerdo.
+Contra este acuerdo podrá interponerse recurso contencioso-administrativo ante la 
+Sala de lo Contencioso-Administrativo del Tribunal Supremo en el plazo de dos meses, 
+contados desde el día siguiente al de la notificación del mismo. Cuando hubiera 
+precedido el requerimiento previo el plazo se contará desde el día siguiente a aquel en el 
+que se reciba la comunicación del acuerdo expreso, o se entienda presuntamente 
+rechazado [artículos 12.1.a), 46.6 y 46.1 de la Ley 29/1998, de 13 de julio].
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 198
+Jueves 19 de agosto de 2021
+Sec. III.   Pág. 101760
+cve: BOE-A-2021-14059
+Verificable en https://www.boe.es
+BOLETÍN OFICIAL DEL ESTADO
+D. L.: M-1/1958 - ISSN: 0212-033X

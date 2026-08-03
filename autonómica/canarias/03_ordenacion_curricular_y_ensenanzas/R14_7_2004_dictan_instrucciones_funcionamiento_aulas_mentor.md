@@ -35,7 +35,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 ## Preámbulo
 
 # Resolución de 14 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
@@ -130,3 +129,17 @@ c) Mantener un registro mensual de uso de las aulas, bajas y altas de las mismas
 6.4. El pago al profesorado-tutor de su acción tutorial se realizará mediante el documento pertinente remitido al efecto. Éste, una vez firmado por el tutor, se archivará en la Secretaría del centro.
 6.5. El dinero cobrado al alumnado tiene como finalidad el pago a los tutores, y el mantenimiento del aula, en los porcentajes establecidos por el Ministerio de Educación y Ciencia.
 6.6. En el momento de la inscripción se entregará al alumnado el material didáctico del curso en el que se ha inscrito que tenga carácter gratuito, y se informará del coste de aquel específico que no esté incluido en la matrícula y que deberá ser adquirido para el adecuado seguimiento del mismo. En ambos casos el administrador del aula orientará al alumno en la forma de obtenerlo.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

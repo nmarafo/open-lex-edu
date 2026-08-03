@@ -1,35 +1,38 @@
 ---
 id: norm-and-d19-2007
-titulo: "Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos"
+titulo: Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción
+  de la cultura de paz y la mejora de la convivencia en los centros educativos
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "19/2007"
-fecha_disposicion: "2007-01-23"
-fecha_publicacion: "2007-02-02"
+numero_disposicion: 19/2007
+fecha_disposicion: '2007-01-23'
+fecha_publicacion: '2007-02-02'
 boletin: BOJA
-numero_boletin: "25"
+numero_boletin: '25'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2007/25/1"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2007/25/1"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2007/25/1
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2007/25/1
 clasificacion:
   categoria_canonica: 07_convivencia_bienestar_y_protocolos
-  subcategoria: "Convivencia escolar y disciplina"
+  subcategoria: Convivencia escolar y disciplina
 tags:
-  - convivencia_escolar
-  - cultura_de_paz
-  - derechos_y_deberes
-  - andalucia
+- convivencia_escolar
+- cultura_de_paz
+- derechos_y_deberes
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
 
-Página núm. 10 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
  CONSEJERÍA DE EDUCACIÓN
 DECRETO 19/2007, de 23 de enero, por el que se 
 adoptan medidas para la promoción de la Cultura de 
@@ -80,11 +83,11 @@ bre, de fomento de la educación y la cultura de paz, ha esta-
 blecido una serie de medidas destinadas al ámbito educativo 
 y de la investigación, con el objeto de establecer la cultura de 
 paz y no-violencia en nuestra sociedad.
-Asimismo, la Ley Orgánica 2/2006, de 3 de mayo, de 
+Asimismo, la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de 
 Educación, en los párrafos c), k) y l) de su artículo 1 establece 
 como principios del sistema educativo la transmisión y puesta 
 en práctica de valores que favorezcan la libertad personal, la 
-responsabilidad, la ciudadanía de mocrática, la solidaridad, la 
+responsabilidad, la ciudadanía democrática, la solidaridad, la 
 tolerancia, la igualdad, el respeto y la justicia, así como que 
 ayuden a superar cualquier tipo de discriminación, la educa-
 ción para la prevención de los conflictos y para la resolución 
@@ -92,7 +95,7 @@ pacífica de los mismos, así como la no violencia en todos los
 ámbitos de la vida personal, familiar y social y el desarrollo de 
 la igualdad de derechos y oportunidades y el fomento de la 
 igualdad efectiva entre hombres y mujeres.
-En Andalucía, la Ley 9/1999, de 18 de noviembre, de So-
+En Andalucía, la [Ley 9/1999](../06_atencion_diversidad_y_orientacion/L9_1999_solidaridad_en_la_educacion_andalucia.md), de 18 de noviembre, de So-
 lidaridad en la Educación, establece como uno de sus objeti-
 vos el desarrollo de actitudes de comunicación y respeto entre 
 todos los miembros de la comunidad educativa, independien-
@@ -114,20 +117,17 @@ tículo 21 de la Ley 6/2006, de 24 de octubre, del Gobierno de
 la Comunidad Autónoma de Andalucía, de acuerdo con el Con-
 sejo Consultivo de Andalucía y previa deliberación del Consejo 
 de Gobierno en su reunión del día 23 de enero de 2007,
-DISPONGO
-
-# Título Título
+D I S P O N G O
+# TÍTULO I
 PRINCIPIOS Y DISPOSICIONES GENERALES
 CAPÍTULO ÚNICO
 Principios de actuación y objetivos
-
 ## Artículo 1. Objeto y ámbito de aplicación.
 El presente Decreto tiene por objeto establecer un con-
 junto de medidas y actuaciones dirigidas a la promoción de la 
 cultura de paz y a la mejora de la convivencia en el ámbito de 
 los centros educativos andaluces sostenidos con fondos públi-
 cos, a excepción de los universitarios.
-
 ## Artículo 2. Principios de actuación.
 Las medidas y actuaciones reguladas en el presente De-
 creto se regirán por los siguientes principios:
@@ -156,13 +156,12 @@ se dirijan a reducir los factores de riesgo y aumentar los de
 protección, evitando, deteniendo y resolviendo la conflictividad 
 escolar y, en consecuencia, mejorando el clima de convivencia 
 de los centros educativos. 
-
 ## Artículo 3. Objetivos y medidas.
 1. Son objetivos del presente Decreto los siguientes:
 a) Concienciar y sensibilizar a la comunidad educativa y 
 a los agentes sociales sobre la importancia de una adecuada 
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 11
-convivencia escolar y sobre lo s procedimientos para mejo-
+Sevilla, 2 de febrero 2007 
+convivencia escolar y sobre los procedimientos para mejo-
 rarla.
 b) Promover la cultura de paz en los centros educativos y 
 mejorar la convivencia escolar, facilitando el diálogo y la parti-
@@ -204,13 +203,10 @@ de comunicación y otras entidades en la búsqueda de meca-
 nismos que conduzcan a la promoción de la cultura de paz y 
 a la mejora de la convivencia escolar, mediante la creación de 
 un Observatorio sobre la Convivencia Escolar en Andalucía. 
-
-# Título Título
+# TÍTULO II
 ACTUACIONES EN LOS CENTROS EDUCATIVOS
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Promoción de la convivencia en los centros educativos
-
 ## Artículo 4. Plan de convivencia.
 1. Los centros educativos elaborarán un plan de conviven-
 cia que, tras su aprobación por el Consejo Escolar del centro, 
@@ -245,11 +241,10 @@ cionamiento de los centros educativos, los tutores y las tutoras
 de cada grupo deben realizar con éstos antes de la finalización 
 del mes de noviembre.
 6. La Consejería competente en materia de educación re-
-gulará, mediante Orden, el proc edimiento para la elaboración 
+gulará, mediante Orden, el procedimiento para la elaboración 
 y aprobación por parte de los centros educativos del plan de 
 convivencia y de la memoria a que se refiere el artículo 6 de 
 este Decreto.
-
 ## Artículo 5. Contenidos del plan de convivencia.
 El plan de convivencia incluirá los siguientes aspectos:
 a) Diagnóstico del estado de la convivencia en el centro y, 
@@ -297,11 +292,10 @@ n) Actuaciones de la tutora o el tutor y del equipo docente
 de cada grupo de alumnos y alumnas para favorecer la inte-
 gración del alumnado de nuevo ingreso, tanto en el aula como 
 en el centro.
-Página núm. 12 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
 o) Actuaciones específicas para la prevención y trata-
 miento de la violencia sexista, racista y cualquier otra de sus 
 manifestaciones.
-
 ## Artículo 6. Memoria del plan de convivencia.
 Los centros educativos elaborarán al final de cada curso 
 escolar una memoria del plan de convivencia, que se incor-
@@ -317,7 +311,6 @@ d) Valoración de los resultados, conclusiones y propues-
 tas de continuidad y de mejora para cursos sucesivos.
 e) Evaluación del proceso y de los resultados.
 f) Documentación elaborada.
-
 ## Artículo 7. Comisión de Convivencia.
 1. El Consejo Escolar de los centros docentes públicos 
 constituirá una Comisión de Convivencia integrada por el di-
@@ -352,7 +345,6 @@ respectivos gabinetes provinciales de asesoramiento sobre la
 convivencia escolar, a los que se refiere el artículo 44 del pre-
 sente Decreto, que les permita concretar en un plan de actua-
 ciones las funciones que le atribuye este Decreto.
-
 ## Artículo 8. Funciones de la Comisión de Convivencia.
 La Comisión de Convivencia tendrá las siguientes funciones:
 a) Canalizar las iniciativas de todos los sectores de la 
@@ -378,7 +370,6 @@ las correcciones y medidas disciplinarias impuestas.
 h) Cualesquiera otras que puedan serle atribuidas por el 
 Consejo Escolar, relativas a las normas de convivencia en el 
 centro.
-
 ## Artículo 9. Aula de convivencia.
 1. Los centros educativos podrán crear aulas de convi-
 vencia para el tratamiento individualizado del alumnado que, 
@@ -396,7 +387,7 @@ garantizando, en todo caso, el trámite de audiencia.
 3. En estas aulas de convivencia se favorecerá un pro-
 ceso de reflexión por parte de cada alumno o alumna que sea 
 atendido en las mismas acerca de las circunstancias que han 
-motivado su presencia en ellas,  de acuerdo con los criterios 
+motivado su presencia en ellas, de acuerdo con los criterios 
 del correspondiente departamento de orientación o equipo de 
 orientación educativa, y se garantizará la realización de las 
 actividades formativas que determine el equipo docente que 
@@ -410,10 +401,8 @@ tiva, y se concretarán las actuaciones que se realizarán en la
 misma, de acuerdo con los criterios pedagógicos que, a tales 
 efectos, sean establecidos por el Equipo Técnico de Coordina-
 ción Pedagógica. 
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Tutoría y orientación
-
 ## Artículo 10. Tutoría.
 1. El plan de orientación y acción tutorial potenciará el 
 papel del tutor o la tutora en la coordinación del equipo do-
@@ -432,8 +421,7 @@ lo 23 del presente Decreto, con la finalidad de analizar su
 evolución e integración escolar y proponerles, en su caso, la 
 suscripción del compromiso de convivencia al que se refiere 
 el artículo 16.
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 13
-
+Sevilla, 2 de febrero 2007 
 ## Artículo 11. Orientación.
 1. Los Equipos Técnicos Provinciales para la Orientación 
 Educativa y Profesional planificarán anualmente actuaciones 
@@ -459,15 +447,13 @@ pondrán anualmente al Claustro de Profesores y al Consejo
 Escolar del centro un conjunto mínimo de actuaciones, te-
 niendo en cuenta las acciones propuestas por el Equipo Téc-
 nico Provincial para la Orientación Educativa y Profesional.
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Seguimiento y medidas de seguridad en los centros 
 educativos
-
 ## Artículo 12. Seguimiento, apoyo y asesoramiento a los 
 centros educativos.
 1. La Administración educativa pondrá en marcha los me-
-canismos y recursos precisos pa ra realizar el seguimiento de 
+canismos y recursos precisos para realizar el seguimiento de 
 la situación real de los centros educativos en relación con el 
 nivel de conflictividad de los mismos. A tales efectos, se gene-
 ralizará la utilización de un sistema de gestión de centros edu-
@@ -475,7 +461,7 @@ cativos en el que se recogerán las incidencias que en materia
 de convivencia se produzcan.
 2. El análisis de los datos que se obtengan servirá de base 
 para la adopción de las medidas de planificación de recursos, 
-asesoramiento, orientación, fo rmación e intervención que co-
+asesoramiento, orientación, formación e intervención que co-
 rrespondan a cada centro.
 3. La Administración educativa pondrá a disposición de 
 los miembros de la comunidad educativa un servicio telemá-
@@ -487,7 +473,6 @@ gabinete provincial de asesoramiento sobre la convivencia es-
 colar para la realización del seguimiento interno de su situa-
 ción en relación con la mejora de la convivencia, la prevención 
 de la violencia y el tratamiento pacífico de los conflictos.
-
 ## Artículo 13. Medidas de seguridad en los centros educa-
 tivos.
 La Administración educativa promoverá la colaboración 
@@ -496,13 +481,10 @@ seguridad pública o ciudadana para favorecer la adecuada
 protección de los centros docentes e impulsar la adopción de 
 medidas preventivas de seguridad del entorno escolar en de-
 terminadas zonas o centros.
-
-# Título Título
+# TÍTULO III
 NORMAS DE CONVIVENCIA
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Disposiciones generales
-
 ## Artículo 14. Elaboración de las normas de convivencia.
 1. Las normas de convivencia, tanto generales del cen-
 tro como particulares del aula, concretarán en este ámbito 
@@ -516,7 +498,6 @@ gravemente perjudiciales para la convivencia contempladas en
 el Capítulo III de este Título y demás conductas contrarias a 
 las normas de convivencia contempladas en el Capítulo II del 
 mismo.
-
 ## Artículo 15. Medidas educativas y preventivas.
 1. El Consejo Escolar, su Comisión de Convivencia, los 
 demás órganos de gobierno de los centros, el profesorado y 
@@ -530,7 +511,6 @@ caso, a las instituciones públicas competentes, la adopción de
 medidas dirigidas a modificar aquellas circunstancias que pue-
 dan ser determinantes de actuaciones contrarias a las normas 
 de convivencia.
-
 ## Artículo 16. Compromisos de convivencia.
 1. Las familias del alumnado que presente problemas de 
 conducta y de aceptación de las normas escolares podrán sus-
@@ -548,7 +528,6 @@ incumplimiento.
 3. La Administración educativa establecerá mediante Or-
 den la regulación de esta medida, que podrá suscribirse en 
 cualquier momento del curso.
-
 ## Artículo 17. Principios generales de las correcciones y de 
 las medidas disciplinarias.
 1. Las correcciones y las medidas disciplinarias que 
@@ -563,7 +542,7 @@ vencia deberá tenerse en cuenta lo que sigue:
 a) El alumnado no podrá ser privado del ejercicio de su 
 derecho a la educación ni, en el caso de la educación obligato-
 ria, de su derecho a la escolaridad.
-Página núm. 14 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
 b) No podrán imponerse correcciones, ni medidas discipli-
 narias contrarias a la integridad física y a la dignidad personal 
 del alumnado.
@@ -579,7 +558,6 @@ que se estimen necesarios sobre las aludidas circunstancias y
 recomendar, en su caso, a los padres y madres o a los repre-
 sentantes legales del alumnado, o a las instituciones públicas 
 competentes, la adopción de las medidas necesarias.
-
 ## Artículo 18. Gradación de las correcciones y de las medi-
 das disciplinarias.
 1. A efectos de la gradación de las correcciones y de las 
@@ -608,7 +586,6 @@ tiva.
 f) La naturaleza y entidad de los perjuicios causados al 
 centro o a cualquiera de los integrantes de la comunidad edu-
 cativa.
-
 ## Artículo 19. Ámbitos de las conductas a corregir.
 1. Se corregirán, de acuerdo con lo dispuesto en el pre-
 sente Decreto, los actos contrarios a las normas de conviven-
@@ -620,11 +597,9 @@ nado que, aunque realizadas por cualquier medio e incluso
 fuera del recinto y del horario escolar, estén motivadas o di-
 rectamente relacionadas con el ejercicio de sus derechos y el 
 cumplimiento de sus deberes como tal.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Conductas contrarias a las normas
 de convivencia y su corrección
-
 ## Artículo 20. Conductas contrarias a las normas de convi-
 vencia y plazo de prescripción.
 1. Son conductas contrarias a las normas de convivencia 
@@ -661,7 +636,6 @@ recogidas en este artículo prescribirán en el plazo de treinta
 días naturales contados a partir de la fecha de su comisión, 
 excluyendo los períodos vacacionales establecidos en el co-
 rrespondiente calendario escolar de la provincia.
-
 ## Artículo 21. Correcciones de las conductas contrarias a 
 las normas de convivencia.
 1. Por la conducta contemplada en el artículo 20.1.a) del 
@@ -692,7 +666,7 @@ clases por un plazo máximo de tres días lectivos. Durante el
 tiempo que dure la suspensión, el alumno o alumna deberá 
 realizar las actividades formativas que se determinen para evi-
 tar la interrupción de su proceso formativo.
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 15
+Sevilla, 2 de febrero 2007 
 e) Excepcionalmente, la suspensión del derecho de asis-
 tencia al centro por un período máximo de tres días lectivos. 
 Durante el tiempo que dure la suspensión, el alumno o alumna 
@@ -702,7 +676,6 @@ para evitar la interrupción de su proceso formativo.
 letras d) y e) del apartado anterior podrán ser realizadas en el 
 aula de convivencia a que se refiere el artículo 9, de acuerdo 
 con lo que el centro disponga en su plan de convivencia.
-
 ## Artículo 22. Órganos competentes para imponer las co-
 rrecciones de las conductas contrarias a las normas de con-
 vivencia.
@@ -719,11 +692,9 @@ c) Para las previstas en las letras c) y d), el jefe o jefa de
 estudios.
 d) Para la prevista en la letra e), el director o directora, 
 que dará cuenta a la Comisión de Convivencia.
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Conductas gravemente perjudiciales para la convivencia
 y su corrección
-
 ## Artículo 23. Conductas gravemente perjudiciales para la 
 convivencia.
 1. Se consideran conductas gravemente perjudiciales 
@@ -760,7 +731,6 @@ vivencia en el centro prescribirán a los dos meses contados
 a partir de la fecha de su comisión, excluyendo los períodos 
 vacacionales establecidos en el correspondiente calendario es-
 colar de la provincia. 
-
 ## Artículo 24. Medidas disciplinarias por las conductas gra-
 vemente perjudiciales para la convivencia.
 1. Por las conductas gravemente perjudiciales para la 
@@ -800,7 +770,6 @@ positivo en la actitud del alumno o alumna.
 a que se refiere la letra f) del apartado 1 anterior, la Consejería 
 competente en materia de educación garantizará un puesto 
 escolar en otro centro docente. 
-
 ## Artículo 25. Órgano competente para imponer las medi-
 das disciplinarias de las conductas gravemente perjudiciales 
 para las normas de convivencia.
@@ -808,11 +777,9 @@ Será competencia del director o directora del centro la
 imposición de las medidas disciplinarias previstas en el artícu-
 lo 24 del presente Decreto, de lo que dará traslado a la Comi-
 sión de Convivencia. 
-
-### Capítulo Capítulo
+### CAPÍTULO IV
 Procedimiento para la imposición de las correcciones
 y de las medidas disciplinarias 
-
 ## Artículo 26. Procedimiento general.
 1. Para la imposición de las correcciones y de las medidas 
 disciplinarias previstas en el presente Decreto será preceptivo, 
@@ -825,7 +792,7 @@ sea menor de edad, se dará audiencia a sus padres, madres o
 representantes legales.
 Asimismo, para la imposición de las correcciones previs-
 tas en las letras c), d) y e) del apartado 2 del artículo 21 del 
-Página núm. 16 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
 presente Decreto, deberá oírse al profesor o profesora o tutor 
 o tutora del alumno o alumna.
 Las correcciones y medidas disciplinarias que se impon-
@@ -837,7 +804,6 @@ gan por las conductas contrarias a las normas de convivencia.
 En todo caso, quedará constancia escrita y se informará a los 
 padres, madres o representantes legales del alumno o de la 
 alumna de las correcciones y medidas disciplinarias impuestas.
-
 ## Artículo 27. Reclamaciones.
 1. El alumno o alumna, sus padres, madres o represen-
 tantes legales, podrán presentar en el plazo de dos días lecti-
@@ -858,11 +824,9 @@ del Consejo Escolar en el plazo máximo de dos días lectivos,
 contados desde que se presentó la instancia, para que este 
 órgano proceda a confirmar o revisar la decisión y proponga, 
 si corresponde, las medidas oportunas.
-
-### Capítulo Capítulo
+### CAPÍTULO V
 Procedimiento para la imposición de la medida disciplinaria 
 de cambio de centro
-
 ## Artículo 28. Inicio del expediente.
 El director o directora del centro acordará la iniciación del 
 procedimiento en el plazo de dos días, contados desde que se 
@@ -870,12 +834,11 @@ tuvo conocimiento de la conducta. Con carácter previo podrá
 acordar la apertura de un período de información, a fin de co-
 nocer las circunstancias del caso concreto y la conveniencia o 
 no de iniciar el procedimiento.
-
 ## Artículo 29. Instrucción del procedimiento.
 1. La instrucción del procedimiento se llevará a cabo por 
 un profesor o profesora del centro designado por el director o 
 directora.
-2. El director o directora no tificará fehacientemente al 
+2. El director o directora notificará fehacientemente al 
 alumno o alumna, así como a su padre, madre o representan-
 tes legales la incoación del procedimiento, especificando las 
 conductas que se le imputan, así como el nombre del instruc-
@@ -891,7 +854,6 @@ su padre, madre o representantes legales, comunicándoles
 la sanción que podrá imponerse, a fin de que en el plazo de 
 tres días lectivos puedan formular las alegaciones que estimen 
 oportunas.
-
 ## Artículo 30. Recusación del instructor.
 El alumno o alumna, o su padre, madre o representantes 
 legales, podrán recusar al instructor o instructora. La recusa-
@@ -902,19 +864,17 @@ de aplicación las causas y los trámites previstos en el artícu-
 lo 29 de la Ley 30/1992, de 26 de noviembre, de Régimen 
 Jurídico de las Administraciones Públicas y del Procedimiento 
 Administrativo Común, en lo que proceda.
-
 ## Artículo 31. Medidas provisionales.
 Excepcionalmente, y para garantizar el normal desarrollo 
 de la convivencia en el centro, al iniciarse el procedimiento o 
 en cualquier momento de su instrucción, el director o la direc-
 tora por propia iniciativa o a propuesta del instructor o instruc-
-tora, podrá adoptar como medida  provisional la suspensión 
+tora, podrá adoptar como medida provisional la suspensión 
 del derecho de asistencia al centro durante un período supe-
 rior a tres días lectivos e inferior a un mes. Durante el tiempo 
 que dure la aplicación de esta medida provisional, el alumno 
 o alumna deberá realizar las actividades que se determinen 
 para evitar la interrupción de su proceso formativo.
-
 ## Artículo 32. Resolución del procedimiento.
 1. A la vista de la propuesta del instructor o instructora, 
 el director o directora dictará resolución del procedimiento en 
@@ -927,7 +887,6 @@ a) Hechos probados.
 b) Circunstancias atenuantes y agravantes, en su caso.
 c) Medida disciplinaria
 d) Fecha de efectos de la medida disciplinaria.
-
 ## Artículo 33. Recursos.
 1. Contra la resolución dictada por el director o directora 
 de un centro docente público se podrá interponer recurso de 
@@ -949,20 +908,17 @@ en materia de educación, cuya resolución, que se dictará en
 el plazo máximo de tres meses, pondrá fin a la vía administra-
 tiva. Transcurrido dicho plazo sin que se haya dictado resolu-
 ción, la reclamación podrá entenderse desestimada. 
-
-# Título Título
+# TÍTULO IV
 RECURSOS Y APOYOS PARA LA MEJORA
 DE LA CONVIVENCIA
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Protocolos de actuación
-
 ## Artículo 34. Actuación e intervención ante conductas de 
 maltrato, discriminación o agresión.
 1. La Administración educativa establecerá mediante un 
 protocolo los procedimientos específicos de actuación e inter-
 vención de los centros educativos para los supuestos de mal-
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 17
+Sevilla, 2 de febrero 2007 
 trato, discriminación o agresiones que el alumnado pudiera 
 sufrir, garantizando su seguridad y protección, así como la 
 continuidad de su aprendizaje en las mejores condiciones. En 
@@ -975,10 +931,8 @@ trabajadoras de los centros educativos pudieran sufrir en el
 desarrollo de sus funciones. Además, adoptará las medidas 
 oportunas para garantizar la debida protección y asistencia ju-
 rídica en estos supuestos.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Recursos humanos
-
 ## Artículo 35. Profesorado de apoyo y disminución de la ra-
 tio del alumnado.
 Los centros educativos que escolaricen alumnado que 
@@ -986,7 +940,6 @@ presente una especial problemática de convivencia escolar
 contarán con profesorado de apoyo específico y un menor nú-
 mero de alumnos y alumnas por aula, de acuerdo con lo que, 
 a tales efectos, se establezca.
-
 ## Artículo 36. Otros profesionales.
 1. Los equipos de orientación educativa que atiendan a 
 centros educativos que escolaricen alumnado que presente 
@@ -1009,10 +962,8 @@ de trabajo a personal funcionario con la titulación de educador
 social. Este personal, que se integrará en el departamento de 
 orientación, desarrollará las tareas que se recogen en el apar-
 tado anterior. 
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Formación
-
 ## Artículo 37. Formación de la comunidad educativa.
 1. En la formación del profesorado de los centros educa-
 tivos sostenidos con fondos públicos se incluirán acciones for-
@@ -1052,10 +1003,8 @@ de actividades formativas conjuntas en las que participen pa-
 dres y madres del alumnado, profesorado y equipos directivos, 
 encaminadas al fomento de la cultura de paz y a la participa-
 ción de la comunidad educativa en los centros docentes.
-
-### Capítulo Capítulo
+### CAPÍTULO IV
 Proyectos integrales «Escuela: Espacio de Paz»
-
 ## Artículo 38. Bases reguladoras.
 La Consejería competente en materia de educación esta-
 blecerá las bases reguladoras para el desarrollo de proyectos 
@@ -1067,7 +1016,6 @@ o de opinión, a la lucha contra las desigualdades de cualquier
 tipo, a la prevención, detección y tratamiento de la violencia, 
 al desarrollo de programas de mediación y otras de naturaleza 
 análoga.
-
 ## Artículo 39. Evaluación y extensión de la Red Andaluza 
 «Escuela: Espacio de Paz».
 1. La Administración Educativa incluirá en la Red Anda-
@@ -1081,7 +1029,6 @@ miento. Para ello, con carácter complementario a su propia
 acción evaluadora, podrá suscribir convenios de colaboración 
 con las Universidades andaluzas o con otras entidades públi-
 cas o privadas competentes en la materia. 
-
 ## Artículo 40. Coordinación de la Red Andaluza «Escuela: 
 Espacio de Paz».
 1. Se creará la figura de coordinadora o coordinador de la 
@@ -1097,10 +1044,9 @@ relacionados con la convivencia escolar.
 3. Por Orden de la Consejería competente en materia de 
 educación se establecerá el procedimiento para su designa-
 ción.
-
 ## Artículo 41. Competencias de la coordinación de la Red 
 Andaluza «Escuela: Espacio de Paz».
-Página núm. 18 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
 La coordinadora o coordinador de la Red Andaluza «Es-
 cuela: Espacio de Paz» tendrá las siguientes competencias:
 a) Impulsar y coordinar las actuaciones que se lleven a 
@@ -1122,10 +1068,8 @@ la Convivencia Escolar de Andalucía en aquellas tareas que le
 sean atribuidas.
 e) Cualquier otra función que le atribuya la Administración 
 educativa en el ámbito de sus competencias.
-
-### Capítulo Capítulo
+### CAPÍTULO V
 Campañas y materiales
-
 ## Artículo 42. Realización de campañas de sensibilización 
 e información.
 1. La Consejería competente en materia de educación 
@@ -1143,7 +1087,6 @@ y editar, producir y emitir programas dirigidos a la sensibiliza-
 ción, información y formación de los miembros de la comu-
 nidad educativa, especialmente en aquellos conocimientos 
 necesarios para la prevención de la violencia.
-
 ## Artículo 43. Materiales educativos y ayudas para proyec-
 tos de innovación e investigación.
 1. Los centros educativos recibirán los materiales y recur-
@@ -1171,14 +1114,11 @@ ción sobre las materias que constituyen el objeto del presente
 Decreto, tanto por parte de los centros educativos como por 
 parte del profesorado, a través de las correspondientes convo-
 catorias de ayudas. 
-
-# Título Título
+# TÍTULO V
 COORDINACIÓN, SEGUIMIENTO Y EVALUACIÓN
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Gabinetes provinciales de asesoramiento sobre la convivencia 
 escolar
-
 ## Artículo 44. Creación, organización y funcionamiento.
 1. En cada Delegación Provincial de la Consejería compe-
 tente en materia de educación se creará un gabinete provincial 
@@ -1200,7 +1140,6 @@ gabinete provincial, su sistema de provisión, así como las nor-
 mas de organización y funcionamiento de los mismos para 
 el desarrollo de las funciones que le atribuye el presente De-
 creto.
-
 ## Artículo 45. Funciones.
 Los gabinetes provinciales de asesoramiento sobre la 
 convivencia escolar tendrán las siguientes funciones:
@@ -1235,7 +1174,7 @@ la violencia, la mejora de la convivencia, la mediación y la re-
 solución pacífica de los conflictos, en el marco del respectivo 
 plan provincial de formación permanente del profesorado, y 
 colaborar en su desarrollo y evaluación.
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 19
+Sevilla, 2 de febrero 2007 
 g) Asesorar a las Federaciones Provinciales de las Aso-
 ciaciones de Madres y Padres de Alumnas y Alumnos para la 
 planificación y desarrollo de actividades de formación en el 
@@ -1250,11 +1189,9 @@ colar de Andalucía en aquellas funciones que le sean enco-
 mendadas.
 i) Cualquier otra función que les atribuya la Administra-
 ción educativa en el ámbito de sus competencias.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Comisiones Provinciales de Seguimiento de la Convivencia 
 Escolar
-
 ## Artículo 46. Composición y competencias.
 1. En cada Delegación Provincial de la Consejería com-
 petente en materia de educación se constituirá una Comisión 
@@ -1345,7 +1282,6 @@ e) Proponer la selección, edición y difusión de experien-
 cias educativas en las materias que constituyen el objeto del 
 presente Decreto, así como de materiales curriculares y de 
 apoyo a los centros. 
-
 ## Artículo 47. Régimen de funcionamiento.
 1. Corresponde a la presidencia fijar el orden del día y 
 convocar las reuniones con, al menos, diez días de antelación 
@@ -1357,7 +1293,6 @@ veces lo requieran los asuntos de su competencia.
 3. Podrán asistir a las reuniones de la comisión, con voz 
 pero sin voto, para informar sobre algún asunto a considerar, 
 las personas que sean invitadas por la Presidencia.
-
 ## Artículo 48. Informe anual.
 1. El informe anual sobre la convivencia escolar en la pro-
 vincia que corresponde elaborar a las Comisiones Provinciales 
@@ -1369,16 +1304,14 @@ llo de las mismas.
 b) Valoración de la situación de la convivencia escolar en 
 los centros educativos de la provincia, propuestas y recomen-
 daciones necesarias para su mejora.
-Página núm. 20 BOJA núm. 25 Sevilla, 2 de febrero 2007
+Sevilla, 2 de febrero 2007
 c) Valoración de los resultados, conclusiones y propues-
 tas de mejora.
 2. La persona titular de la Delegación Provincial dará tras-
 lado del informe anual a la persona titular del centro directivo 
 de la Consejería de Educación competente en la materia.
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Evaluación
-
 ## Artículo 49. Inspección educativa.
 La inspección educativa realizará el seguimiento y evalua-
 ción en los centros educativos de las medidas y actuaciones 
@@ -1386,14 +1319,11 @@ contenidas en el presente Decreto, de acuerdo con lo que, a
 tales efectos, se establezca en los planes de actuación de la 
 inspección educativa, sin perjuicio de las que, en este ámbito, 
 puedan corresponder a otros órganos.
-
-# Título Título
+# TÍTULO VI
 OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR
 EN ANDALUCÍA
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Naturaleza, finalidad y atribuciones
-
 ## Artículo 50. Naturaleza y adscripción.
 Se crea el Observatorio para la Convivencia Escolar en 
 Andalucía como órgano de carácter consultivo, al objeto de 
@@ -1401,7 +1331,6 @@ asesorar y de formular propuestas, que se adscribe a la Con-
 sejería competente en materia de educación, a través de la 
 Dirección General que ostenta las competencias en materia de 
 convivencia escolar.
-
 ## Artículo 51. Objeto y finalidad.
 1. El Observatorio para la Convivencia Escolar en Anda-
 lucía tiene por objeto asesorar a la Junta de Andalucía y for-
@@ -1414,7 +1343,6 @@ experiencias de buenas prácticas en este ámbito.
 rar una forma de abordar la convivencia escolar en Andalucía 
 basada en el respeto y el diálogo, en la que el tratamiento 
 constructivo del conflicto forme parte del proceso educativo.
-
 ## Artículo 52. Atribuciones.
 Las atribuciones del Observatorio para la Convivencia Es-
 colar en Andalucía son las siguientes:
@@ -1424,7 +1352,7 @@ vivencia en los centros educativos, identificando los factores
 de riesgo y proponiendo acciones efectivas para detener, dis-
 minuir y prevenir las manifestaciones de la violencia.
 b) Realizar propuestas que, con base en los estudios y 
-evaluaciones realizados, favore zcan la toma de decisiones 
+evaluaciones realizados, favorezcan la toma de decisiones 
 sobre las políticas educativas destinadas al desarrollo de los 
 objetivos y medidas contenidas en el presente Decreto.
 c) Proponer actuaciones coordinadas de las administracio-
@@ -1461,24 +1389,20 @@ lada a la recogida, análisis, difusión de la información y la in-
 vestigación y la promoción de actuaciones en todas las mate-
 rias relacionadas con la mejora de la convivencia en el ámbito 
 de los centros educativos.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Organización
-
 ## Artículo 53. Estructura organizativa.
 1. Los órganos del Observatorio para la Convivencia Esco-
 lar en Andalucía son los siguientes:
 a) La Presidencia.
 b) El Consejo Rector.
 c) La Secretaría.
-
 ## Artículo 54. Presidencia.
 1. La Presidencia del Observatorio para la Convivencia 
 Escolar en Andalucía será ostentada por la persona titular de 
 la Consejería competente en materia de educación.
 2. La Presidencia ejercerá la representación del Obser-
 vatorio.
-
 ## Artículo 55. Composición del Consejo Rector.
 1. El Consejo Rector es el órgano de dirección del Obser-
 vatorio para la Convivencia Escolar en Andalucía.
@@ -1498,7 +1422,7 @@ en materia de formación del profesorado de la Consejería
 competente en materia de educación.
 c) La persona titular de la Secretaría General Técnica de 
 la Consejería competente en materia de educación.
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 21
+Sevilla, 2 de febrero 2007 
 d) El inspector o inspectora general de la Consejería com-
 petente en materia de educación.
 e) Una persona representante de la Delegación del Go-
@@ -1566,7 +1490,6 @@ dos podrán proponer, en cualquier momento, la sustitución de
 las y los vocales titulares y suplentes que hayan designado a la 
 Presidencia de la Comisión, que deberá realizar los correspon-
 dientes ceses y nombramientos. 
-
 ## Artículo 56. Competencias del Consejo Rector.
 Corresponde al Consejo Rector el ejercicio de las siguien-
 tes competencias:
@@ -1601,7 +1524,6 @@ i) Elevar propuestas a la Administración educativa en el
 ámbito de las atribuciones del Observatorio.
 j) Cualquier otra función que la Consejería competente en 
 materia de educación le encomiende.
-
 ## Artículo 57. Funcionamiento del Consejo Rector.
 1. Corresponde a la Presidencia fijar el orden del día y 
 convocar las reuniones con, al menos, diez días de antelación 
@@ -1616,13 +1538,11 @@ rar, las personas que sean invitadas por la Presidencia.
 4. La Secretaría certificará el contenido de las actas y 
 ordenará y custodiará la documentación, dando curso a los 
 acuerdos adoptados.
-
 ## Artículo 58. Secretaría del Observatorio para la Conviven-
 cia Escolar en Andalucía.
 Desempeñará la Secretaría del Observatorio para la Con-
 vivencia Escolar en Andalucía un funcionario o funcionaria con 
 nivel de jefe de servicio.
-
 ## Artículo 59. Competencias de la Secretaría.
 Corresponde a la Secretaría del Observatorio para la 
 Convivencia Escolar en Andalucía el ejercicio de las siguientes 
@@ -1634,8 +1554,7 @@ y el informe anual del Observatorio para, en su caso, la poste-
 rior aprobación por el Consejo Rector.
 d) Cualquier otra función que le sea atribuida por el Con-
 sejo Rector en el ámbito de sus competencias.
-Página núm. 22 BOJA núm. 25 Sevilla, 2 de febrero 2007
-
+Sevilla, 2 de febrero 2007
 ## Disposición adicional primera. Secciones de Educación 
 Secundaria.
 1. La comisión delegada de las secciones de educación 
@@ -1654,7 +1573,6 @@ respectivamente.
 3. Las competencias atribuidas en el presente Decreto al 
 Consejo Escolar serán asumidas en estos centros por la Comi-
 sión Delegada de la Sección.
-
 ## Disposición adicional segunda. Residencias escolares.
 1. El presente Decreto será de aplicación a las residencias 
 escolares. Para ello, en el seno del Consejo de Residencia, se 
@@ -1670,7 +1588,6 @@ escolares por el Consejo de Residencia. Las de los profesores
 y tutores por los educadores o educadoras de ocio y los cui-
 dadores o cuidadoras y las de la jefatura de estudios por la 
 dirección de la residencia.
-
 ## Disposición adicional tercera. Centros educativos concer-
 tados.
 Los centros educativos privados concertados aplicarán lo 
@@ -1678,7 +1595,6 @@ establecido en el presente Decreto, adecuándolo a sus carac-
 terísticas específicas de organización y funcionamiento y a la 
 estructura de cargos directivos y de coordinación docente de 
 que dispongan.
-
 ## Disposición adicional cuarta. Complemento específico.
 1. El complemento específico de la coordinadora o co-
 ordinador de la Red Andaluza «Escuela: Espacio de Paz» será 
@@ -1691,7 +1607,6 @@ gabinetes provinciales de asesoramiento sobre la convivencia
 escolar será el que corresponda a las coordinadoras y los co-
 ordinadores de los equipos de orientación educativa de 
 acuerdo con la normativa vigente.
-
 ## Disposición adicional quinta. Régimen de funcionamiento 
 de los órganos colegiados. 
 En lo no previsto en el presente Decreto sobre el funcio-
@@ -1700,7 +1615,6 @@ se estará a lo dispuesto en el Capítulo II del Titulo II de la
 Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las 
 Administraciones Públicas y del Procedimiento Administrativo 
 Común.
-
 ## Disposición adicional sexta. Dietas y gastos de desplaza-
 miento.
 Las personas que formen parte de las Comisiones Provin-
@@ -1714,7 +1628,6 @@ tración de la Junta de Andalucía y sus Organismos Autóno-
 mos, de acuerdo con lo establecido en el Decreto 54/1989, de 
 21 de marzo, sobre indemnizaciones por razón del servicio de 
 la Junta de Andalucía.
-
 ## Disposición adicional séptima. Composición paritaria de 
 hombres y mujeres.
 Con objeto de garantizar la participación paritaria de mu-
@@ -1734,12 +1647,11 @@ plente de distinto sexo.
 c) La Consejería competente en materia de educación, 
 con carácter previo al nombramiento de las personas desig-
 nadas, comprobará el cumplimiento del porcentaje mínimo 
-legalmente exigido de participac ión paritaria de mujeres y de 
+legalmente exigido de participación paritaria de mujeres y de 
 hombres.
 d) En la sustitución de miembros y suplentes que se ha-
 yan designado deberá mantenerse el sexo de la persona que 
 se sustituye.
-
 ## Disposición adicional octava. Constitución del Observato-
 rio para la Convivencia Escolar en Andalucía y las Comisiones 
 Provinciales para el Seguimiento de la Convivencia Escolar.
@@ -1748,7 +1660,6 @@ cía y las Comisiones Provinciales para el Seguimiento de la
 Convivencia Escolar se constituirá en un plazo máximo de tres 
 meses, contados a partir de la fecha de entrada en vigor del 
 presente Decreto.
-
 ## Disposición derogatoria única. Derogación normativa.
 Queda derogado el Decreto 85/1999, de 6 de abril, por 
 el que se regulan los derechos y deberes del alumnado y las 
@@ -1757,7 +1668,6 @@ centes públicos y concertados no universitarios, excepto los
 artículos 1, 2, 3 y el Capítulo II del mismo, así como todas 
 aquellas normas de igual o inferior rango que se opongan a lo 
 establecido en el presente Decreto.
-
 ## Disposición final primera. Modificación del Decreto 
 85/1999, de 6 de abril, por el que se regulan los derechos y 
 deberes del alumnado y las correspondientes normas de con-
@@ -1773,9 +1683,9 @@ nera:
 «Artículo 1. Objeto.
 El presente Decreto tiene por objeto regular los derechos 
 y deberes del alumnado en los centros docentes públicos y 
-Sevilla, 2 de febrero 2007 BOJA núm. 25 Página núm. 23
+Sevilla, 2 de febrero 2007 
 concertados, en relación con las enseñanzas reguladas en la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación.»
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.»
 Dos. Se modifica el apartado 2 del artículo 2, que queda 
 redactado de la siguiente manera:
 «2. El ejercicio de los derechos y el cumplimiento de los 
@@ -1851,11 +1761,10 @@ la mejora de la convivencia escolar y en la consecución de un
 adecuado clima de estudio en el centro, respetando el derecho 
 de sus compañeros y compañeras a la educación y la autori-
 dad y orientaciones del profesorado.»
-
 ## Disposición final segunda. Habilitación para el desarrollo 
 normativo.
 Se faculta a la persona titular de la Consejería compe-
-tente en materia de educación pa ra dictar cuantas disposicio-
+tente en materia de educación para dictar cuantas disposicio-
 nes y actos sean necesarios para el desarrollo y ejecución del 
 presente Decreto.
 Sevilla, 23 de enero de 2007

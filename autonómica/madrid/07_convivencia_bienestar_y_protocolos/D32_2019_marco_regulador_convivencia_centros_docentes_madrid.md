@@ -30,11 +30,13 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
-## Preámbulo
-
 **Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid**
 
+JUEVES 11 DE ABRIL DE 2019
+Pág. 20
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 I. COMUNIDAD DE MADRID
 A) Disposiciones Generales
@@ -92,12 +94,18 @@ permiten garantizar en todo caso los derechos de los usuarios, ha parecido conve
 blecer la posibilidad de que los servicios previamente contratados puedan ser realizados con
 contratación por plaza y pago individual. Asimismo, en ellos las tarifas tendrán el carácter
 de máximas de forma que el usuario podrá conocer el precio del servicio antes de su realiza-
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 21
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ción y se podrá recoger a los viajeros en municipios distintos de aquellos en los que se en-
 cuentran domiciliadas las autorizaciones siempre que el destino del servicio se encuentre en
 el municipio en el que está domiciliada la autorización de transporte interurbana.
 En el proceso de elaboración de este Decreto se han tenido en cuenta los principios de
-buena regulación recogidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Admi-
+buena regulación recogidos en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Admi-
 nistrativo Común de las Administraciones Públicas. Se trata de una norma que responde a
 los principios de necesidad y eficacia, pues, viene motivada por el interés general de ade-
 cuar la regulación de los servicios de transporte prestados en vehículos autotaxi a la nueva
@@ -153,6 +161,12 @@ cupos o contingentes específicos, conforme a los cuales la relación resultante
 ro de habitantes de derecho sea inferior a los límites establecidos en el apartado anterior, en
 el marco de un plan de reordenación del sector que contemple la amortización de parte de las
 existentes, o cuando se hayan aprobado normas limitativas a su plena utilización.
+
+JUEVES 11 DE ABRIL DE 2019
+Pág. 22
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Asimismo, en los casos en que las circunstancias existentes entre la oferta y la deman-
 da de los servicios de transporte público de viajeros en vehículo de turismo lo aconsejen al
@@ -232,6 +246,12 @@ Documentación de las solicitudes de licencia
 1.
 Para la obtención de la licencia de autotaxi, junto a la correspondiente solicitud,
 se acreditarán los siguientes datos o documentos salvo que ya consten en poder de la Admi-
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 23
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 nistración o el solicitante haya expresado su consentimiento para que sean consultados o re-
 cabados por la Administración, presumiéndose que los interesados autorizan dicha consul-
@@ -274,7 +294,7 @@ tes términos:
 “4.
 Cuando resulte procedente otorgar la licencia de autotaxi, el órgano municipal
 competente constatará el cumplimiento de los requisitos que a continuación se relacionan,
-bien mediante su consulta conforme se establece en el artículo 28.2 de la Ley 39/2015, de 1
+bien mediante su consulta conforme se establece en el artículo 28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1
 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
 bien requiriéndole para que, en un plazo de tres meses, los acredite documentalmente con
 la advertencia de que, de no hacerlo así, se le entenderá desistido en el procedimiento:
@@ -305,6 +325,12 @@ ocasión del transporte.
 Los municipios podrán exigir, además, en la correspondiente Ordenanza, todos aque-
 llos datos o documentos que estimen precisos para comprobar el cumplimiento de los re-
 quisitos que hayan establecido conforme a lo dispuesto en el artículo 10.2”.
+
+JUEVES 11 DE ABRIL DE 2019
+Pág. 24
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Seis.
 Se modifica el segundo párrafo del apartado 1 del artículo 16 que queda redac-
@@ -368,7 +394,7 @@ Se modifica el apartado 3 del artículo 19 queda redactado en los siguientes
 términos:
 “3.
 El conocimiento de los datos que figuren en el Registro será público en los tér-
-minos y condiciones establecidas en la Constitución, en la Ley 19/2013, de 9 de diciembre,
+minos y condiciones establecidas en la Constitución, en la [Ley 19/2013](../../../estatal/01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md), de 9 de diciembre,
 de Transparencia, Acceso a la Información Pública y Buen Gobierno y demás leyes que re-
 sulten de aplicación”.
 Diez.
@@ -377,6 +403,12 @@ El artículo 22 queda redactado en los siguientes términos:
 Número de plazas
 El número de plazas de los vehículos a los que hayan de referirse las licencias de auto-
 taxi no podrá ser superior a nueve incluida la del conductor, debiendo figurar dicha capaci-
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 25
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 dad en el permiso de circulación del vehículo conforme a la legislación en vigor en materia
 de tráfico.
@@ -446,6 +478,12 @@ b)
 No padecer enfermedad infectocontagiosa o impedimento físico o psíquico que
 imposibilite o dificulte el normal ejercicio de la profesión, así como no ser consu-
 midor habitual de estupefacientes o bebidas alcohólicas.
+
+JUEVES 11 DE ABRIL DE 2019
+Pág. 26
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 c)
 No desempeñar simultáneamente otros trabajos que afecten a su capacidad física
@@ -520,6 +558,12 @@ A fin de garantizar el cumplimiento del régimen tarifario, en los servicios en 
 las tarifas tengan carácter de máximas, el precio se calculará en base a los parámetros uti-
 lizados, por el Ayuntamiento de que se trate, para calcular las rutas en este tipo de servi-
 cios, que los facilitará a todos aquéllos que se los requieran, velando por su buen uso.
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 27
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 En todo caso, en el módulo luminoso del vehículo se visualizará que el mismo realiza
 un servicio previamente contratado.
@@ -598,6 +642,12 @@ El servicio se considerará iniciado en todo caso en el momento y lugar de reco-
 gida del usuario, excepto cuando se trate de un servicio previamente contratado por radio-
 taxi, teléfono o cualquier medio telemático, que se considerará iniciado en el lugar de par-
 tida del vehículo”.
+
+JUEVES 11 DE ABRIL DE 2019
+Pág. 28
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Veintidós.
 Se modifica el primer párrafo del artículo 46 que queda redactado en los
@@ -671,6 +721,12 @@ c)
 La manipulación del taxímetro o de sus elementos, o de otros instrumentos de con-
 trol que sea obligatorio llevar en el vehículo, con objeto de alterar su funciona-
 miento o modificar sus mediciones.
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 29
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 d)
 La negativa u obstrucción a la actuación de los órganos municipales competentes,
@@ -742,6 +798,12 @@ servicios que las ordenanzas determinen.
 que, en su caso, se establezcan por los municipios.
 7.a Las condiciones técnicas y de seguridad exigibles al vehículo adscrito a la li-
 cencia, así como el color de la pintura exterior y los distintivos previstos, en
+
+JUEVES 11 DE ABRIL DE 2019
+Pág. 30
+B.O.C.M. Núm. 86
+BOCM-20190411-2
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 cada caso, por los distintos municipios. Se considerará, asimismo, incluida
 en esta condición la prestación del servicio con un vehículo que cumpla las
@@ -803,19 +865,22 @@ l)
 Cualquier otra infracción no incluida en los apartados precedentes, que las normas
 legales reguladoras de los transportes terrestres califiquen como grave, de acuerdo
 con los principios del régimen sancionador establecidos en el presente Capítulo”.
-
-## DISPOSICIÓN TRANSITORIA PRIMERA
-
+DISPOSICIÓN TRANSITORIA PRIMERA
 Color y distintivos de los vehículos
 Los titulares de vehículos con licencia municipal de autotaxi deberán adecuar sus
 vehículos a lo que se dispone en el artículo 25 en el plazo máximo de dos años, contados
 desde la entrada en vigor del presente Decreto.
+
+JUEVES 11 DE ABRIL DE 2019
+B.O.C.M. Núm. 86
+Pág. 31
+BOCM-20190411-2
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-
-## DISPOSICIÓN TRANSITORIA SEGUNDA
-
+DISPOSICIÓN TRANSITORIA SEGUNDA
 Autorización de transporte interurbano
 Los titulares cuyos vehículos autotaxi no cuenten, a la entrada en vigor de este Decre-
 to, con la preceptiva autorización de transporte público discrecional interurbano en automó-
@@ -825,31 +890,23 @@ Madrid competente en materia de transporte interurbano.
 En el caso de vehículos que, por exceder de dicha antigüedad a la fecha de la entrada
 en vigor, no se les pudiera adscribir la citada autorización de transporte, se permitirá que
 continúen prestando servicios de carácter urbano hasta su sustitución.
-
-## DISPOSICIÓN DEROGATORIA ÚNICA
-
+DISPOSICIÓN DEROGATORIA ÚNICA
 Derogación normativa
 Queda derogada la Orden de 14 de diciembre de 2012, de la Consejería de Transpor-
 tes, Infraestructuras y Vivienda, por la que se fijan los criterios para autorizar la expedición
 de licencias de autotaxi a las que se le puedan adscribir vehículos de hasta nueve plazas in-
 cluido el conductor, así como cuantas disposiciones de igual o inferior rango se opongan a
 lo establecido en este Decreto.
-
-## DISPOSICIÓN FINAL PRIMERA
-
+DISPOSICIÓN FINAL PRIMERA
 Adaptación de las Ordenanzas Municipales
 Los municipios deberán adaptar sus Ordenanzas a lo previsto en este Reglamento en el pla-
 zo de seis meses, a contar desde su entrada en vigor, quedando sin efecto las vigentes a la entra-
 da en vigor de este Decreto en todo aquello en lo que se opongan a lo previsto en el mismo.
-
-## DISPOSICIÓN FINAL SEGUNDA
-
+DISPOSICIÓN FINAL SEGUNDA
 Habilitación a la Consejería competente en materia de Transportes
 Se habilita al Consejero competente en materia de transportes para dictar cuantas dis-
 posiciones resulten necesarias para el desarrollo y ejecución del presente Decreto.
-
-## DISPOSICIÓN FINAL TERCERA
-
+DISPOSICIÓN FINAL TERCERA
 Entrada en vigor
 Este Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFI-
 CIAL DE LA COMUNIDAD DE MADRID.

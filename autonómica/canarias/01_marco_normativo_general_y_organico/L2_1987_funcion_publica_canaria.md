@@ -58,7 +58,6 @@ fundamentos_derecho:
   - '136'
 - norma_id: norm-es-1984-17387
 ---
-
 # Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**
@@ -113,7 +112,7 @@ La presente Ley tiene por objeto la regulación de la relación de servicios del
 
 2. Se podrán dictar normas específicas para adecuar la aplicación de la presente Ley a las peculiaridades del personal docente, investigador y sanitario.
 
-3. El personal al servicio del Consejo Consultivo se regirá por esta Ley, sin perjuicio de las especialidades que se prevén para dicho personal en la Ley 4/1984, de 6 de junio.
+3. El personal al servicio del Consejo Consultivo se regirá por esta Ley, sin perjuicio de las especialidades que se prevén para dicho personal en la [Ley 4/1984](../../andalucía/04_organizacion_escolar_y_funcionamiento/L4_1984_consejos_escolares_andalucia.md), de 6 de junio.
 
 4. Al personal al servicio de la Administración local le serán de aplicación los preceptos contenidos en esta Ley en aquellos aspectos no reservados a la legislación básica del Estado o al desarrollo reglamentario de su autonomía organizativa.
 
@@ -1560,3 +1559,29 @@ Las Palmas de Gran Canaria, 30 de marzo de 1987.
 JERÓNIMO SAAVEDRA ACEVEDO,
 
 Presidente del Gobierno
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Desarrollado por**: [**D74_2010 Seleccion de Personal Interino Docente**](../08_personal_docente/D74_2010_establece_procedimiento_seleccion_personal_funcionario_interino.md)
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**D168_2009 Prevencion de Riesgos Laborales en la Administracion Canaria**](../02_gestion_y_administracion_centros/D168_2009_adapta_normativa_prevencion_riesgos_laborales_ambito.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: [**Resolucion BOC 140**](../09_personal_laboral_y_no_docente/R18_3_1996_hace_publica_circular_dicta_instrucciones_control.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 54**](../03_ordenacion_curricular_y_ensenanzas/R23_7_2004_dictan_instrucciones_organizacion_funcionamiento_escuelas_oficiales.md)
+- **Fundamento de**: [**Resolucion BOC 138**](../08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+
+### Fundamentos de Derecho
+- [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+

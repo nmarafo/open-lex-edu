@@ -1,41 +1,42 @@
 ---
 id: norm-and-d100-2023
-titulo: "Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía"
+titulo: Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "100/2023"
-fecha_disposicion: "2023-05-09"
-fecha_publicacion: "2023-05-16"
+numero_disposicion: 100/2023
+fecha_disposicion: '2023-05-09'
+fecha_publicacion: '2023-05-16'
 boletin: BOJA
-numero_boletin: "90"
+numero_boletin: '90'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2023/90/3"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2023/90/3"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2023/90/3
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2023/90/3
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Educación Secundaria Obligatoria (ESO)"
+  subcategoria: Educación Secundaria Obligatoria (ESO)
 tags:
-  - eso
-  - curriculo_lomloe
-  - ordenacion_academica
-  - andalucia
+- eso
+- curriculo_lomloe
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía
 
-00283496
- Número 90 - Lunes, 15 de mayo de 2023
-página 8467/1
-BOJABOJA
+Número 90 - Lunes, 15 de mayo de 2023
+Boletín Oficial de la Junta de Andalucía
 1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO 
-Y FORMACIÓN  PROFESIONAL
+Y FORMACIÓN PROFESIONAL
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el 
 currículo de la etapa de Educación Infantil en la Comunidad Autónoma de 
 Andalucía.
@@ -79,13 +80,11 @@ en el uso de su autonomía, tal y como se recoge en la citada ley.
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de la etapa de 
-Educación Infantil, de acuerdo con el referido marco y el Real Decreto 95/2022, de 1 de 
+Educación Infantil, de acuerdo con el referido marco y el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación 
 Infantil.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/2
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 En este decreto se definen, en consecuencia, las líneas fundamentales del currículo 
 de la etapa de Educación Infantil en Andalucía, estableciendo la ordenación general, 
 la organización de las enseñanzas, la evaluación, la atención a la diversidad y a las 
@@ -135,20 +134,18 @@ que atienden.
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la 
 integración de las competencias clave en el currículo educativo y en las prácticas docentes. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
 la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/3
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 en competencias incluye, además del «saber», el «saber hacer» y el «saber ser y estar». 
 Se trata de formar una ciudadanía competente a través de una educación que tenga en 
 cuenta las competencias clave que demanda la construcción de una sociedad igualitaria, 
 plural, dinámica y emprendedora, democrática y solidaria. 
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, 
 eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que 
 persigue un interés general al proporcionar a la ciudadanía un marco normativo de las 
@@ -161,7 +158,7 @@ ordenamiento jurídico y permitiendo una gestión más eficiente de los recursos
 por lo que quedan justificados los objetivos que persigue la citada ley. Además, en el 
 procedimiento de elaboración de este decreto se ha permitido y facilitado la participación y 
 las aportaciones de las personas potenciales destinatarias a través de los procedimientos 
-de audiencia e información pública regulados en el artículo 133 de la citada Ley 39/2015, 
+de audiencia e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), 
 de 1 de octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo 
 dispuesto en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración 
 electrónica, simplificación de procedimientos y racionalización organizativa de la Junta 
@@ -173,7 +170,7 @@ del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
 D I S P O N G O
-### Capítulo CAPÍTULO
+### CAPÍTULO I 
 Disposiciones de carácter general
 ## Artículo 1. Objeto y ámbito de aplicación. 
 1. El presente decreto tiene por objeto establecer la ordenación general y el currículo 
@@ -191,13 +188,11 @@ alumnado en todas sus dimensiones: física, emocional, afectiva, social, sensori
 comunicativa, cognitiva y artística, potenciando la autonomía personal y la creación 
 progresiva de una imagen positiva y equilibrada de sí mismo, así como a la educación en 
 valores cívicos para la convivencia democrática.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/4
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 ## Artículo 3. Definiciones.
 1. A efectos de los elementos que articulan el currículo y teniendo en cuenta lo 
-establecido en el artículo 2 del Real Decreto 95/2022, de 1 de febrero, por el que se 
+establecido en el artículo 2 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de febrero, por el que se 
 establece la ordenación y las enseñanzas mínimas de la Educación Infantil, se entenderá 
 por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
@@ -233,7 +228,7 @@ Los principios generales de la etapa son:
 a) Voluntariedad. La etapa de Educación Infantil tiene carácter voluntario.
 b) Gratuidad. El segundo ciclo de esta etapa educativa será gratuito. En el primer 
 ciclo se tenderá a la progresiva extensión de su gratuidad en el marco del Sistema 
-Educativo Público de Andalucía, según lo establecido en el artículo 3 de la Ley 17/2007, 
+Educativo Público de Andalucía, según lo establecido en el artículo 3 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, de Educación de Andalucía, priorizando el acceso del alumnado en 
 situación de riesgo de pobreza y exclusión social, así como la situación de baja tasa de 
 escolarización.
@@ -247,10 +242,8 @@ e) Equidad e inclusión educativa. La programación, la gestión y el desarrollo
 etapa atenderán a la compensación de los efectos que las desigualdades de origen 
 cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a 
 la detección precoz y atención temprana de necesidades específicas de apoyo educativo. 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/5
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se 
 adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA).
 f) Conciliación familiar y colaboración. La etapa facilitará la conciliación entre 
@@ -260,7 +253,7 @@ familias y los centros así como su personal. Esta conciliación nunca podrá su
 perjuicio para los derechos del alumnado.
 g) Cooperación. Para su implementación y desarrollo, se fomentará la cooperación 
 de las Corporaciones locales y otras entidades con la Administración educativa.
-### Capítulo CAPÍTULO
+### CAPÍTULO II 
 Ordenación de la etapa
 ## Artículo 5. Objetivos de la etapa. 
 La etapa de Educación Infantil contribuirá a desarrollar en el alumnado las 
@@ -286,7 +279,7 @@ matemáticas, en la lectura y en la escritura.
 h) Promover, aplicar y desarrollar las normas sociales que fomentan la igualdad entre 
 hombres y mujeres, favoreciendo el logro de una sociedad libre e igualitaria.
 ## Artículo 6. Principios pedagógicos. 
-Sin perjuicio de lo establecido en el artículo 6 del Real Decreto 95/2022, de 1 de 
+Sin perjuicio de lo establecido en el artículo 6 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero, el currículo de la etapa de Educación Infantil responderá a los siguientes 
 principios:
 a) La práctica educativa en esta etapa estará orientada a asentar progresivamente las 
@@ -299,10 +292,8 @@ llevarse a cabo en un ambiente de afecto y confianza para potenciar su autoestim
 integración social y el establecimiento de un apego seguro. Así mismo, se velará por 
 garantizar, desde el primer contacto, una transición positiva desde el entorno familiar al 
 escolar, así como la continuidad entre ciclos y entre etapas. 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/6
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 c) En los dos ciclos de esta etapa, se atenderá progresivamente al desarrollo 
 afectivo, a la gestión emocional, al movimiento y los hábitos de control corporal, a 
 las manifestaciones de la comunicación y del lenguaje y a las pautas elementales de 
@@ -354,10 +345,8 @@ ayuden a establecer relaciones entre todos los elementos que las conforman.
 del alumnado en cada uno de los ciclos. La necesaria vinculación entre los saberes 
 básicos y la vida de los mismos se garantizará dotando de intencionalidad educativa a 
 todo lo que acontece en la vida cotidiana del centro.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/7
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 5. Asimismo, en función de la regulación que establezca por Orden la Consejería 
 competente en materia de educación, se podrá incorporar a su oferta educativa la lengua 
 de signos española.
@@ -392,13 +381,13 @@ educación como centros bilingües, se iniciará el uso de las lenguas extranjer
 términos que determine por Orden la Consejería competente en materia de educación.
 3. Los centros docentes que impartan una parte de las áreas del currículo en 
 lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado 
-establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación y en la normativa 
+establecidos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación y en la normativa 
 específica de aplicación en Andalucía. Entre tales criterios no se incluirán requisitos 
 lingüísticos.
-### Capítulo CAPÍTULO
+### CAPÍTULO III
 Evaluación
 ## Artículo 11. Evaluación. 
-1. Teniendo en cuenta lo establecido en el artículo 12.1 del Real Decreto 95/2022, 
+1. Teniendo en cuenta lo establecido en el artículo 12.1 del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), 
 de 1 de febrero, la evaluación en Educación Infantil será global, continua y formativa. La 
 observación directa y sistemática constituirá la técnica principal del proceso de evaluación 
 y tendrá en cuenta el grado de desarrollo de las competencias clave y su progreso en el 
@@ -407,10 +396,8 @@ aprendizaje.
 desarrollo evolutivo del alumnado tras la impartición de las enseñanzas de Educación 
 Infantil. A estos efectos, se tomarán como referencia los criterios de evaluación 
 establecidos para cada ciclo en cada una de las áreas, que constituirán el referente para 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/8
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 la comprobación del grado de adquisición de las competencias clave y el logro de los 
 objetivos de la etapa.
 3. Para la evaluación se utilizarán distintas estrategias, técnicas y recursos adaptadas 
@@ -447,7 +434,7 @@ protección de datos de carácter personal y en materia de documentos y archivos
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 3. De conformidad con lo establecido en el artículo 13.1 del Decreto 285/2010, de 
 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su 
 utilización para la gestión del Sistema Educativo Andaluz, los centros docentes sostenidos 
@@ -458,11 +445,9 @@ autenticidad, integridad y conservación, así como el cumplimiento de las garan
 materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo 
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/9
-BOJABOJA
-### Capítulo CAPÍTULO
+Boletín Oficial de la Junta de Andalucía
+### CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales 
 ## Artículo 14. Atención a la diversidad y a las diferencias individuales. 
 1. Se entiende por atención a la diversidad y a las diferencias individuales el conjunto 
@@ -513,10 +498,8 @@ facilitadoras para la individualización de la enseñanza, garantizando la acces
 universal y el diseño para todos, así como la coordinación de todos los miembros del 
 equipo docente que atiendan al alumnado y, en su caso, de los equipos de orientación 
 educativa.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/10
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 e) La equidad y excelencia como garantes de la calidad educativa e igualdad de 
 oportunidades, ya que esta solo se consigue en la medida en que todo el alumnado 
 aprende el máximo posible y desarrolla todas sus potencialidades.
@@ -532,7 +515,7 @@ respecto a las características y necesidades del alumnado, así como de las med
 a adoptar para su adecuada atención. Asimismo, serán preceptivamente oídos en 
 el proceso de identificación y valoración del alumnado con necesidades educativas 
 especiales según lo recogido en el apartado 3.c).
-### Capítulo CAPÍTULO
+### CAPÍTULO V
 Tutoría y orientación
 ## Artículo 16. Principios de la acción tutorial. 
 1. La tutoría forma parte de la función educativa y constituye un elemento fundamental 
@@ -548,7 +531,7 @@ a) Desarrollar las actividades previstas en el plan de acción tutorial.
 b) Realizar la atención educativa y asistencial del alumnado a su cargo. Esta función 
 será ejercida por el personal educador que posea una titulación distinta a la de Grado de 
 maestro de Educación Infantil o equivalente, sin perjuicio de lo dispuesto en el artículo 
-92.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+92.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 c) Organizar las actividades del aula.
 d) Coordinar sus acciones con las de los demás tutores y tutoras del ciclo, ofreciendo 
 un marco educativo coherente para el alumnado.
@@ -566,21 +549,19 @@ i) Facilitar la participación y colaboración en las actividades del centro edu
 los padres, madres o personas que ejerzan la tutela legal del alumnado.
 j) Atender y cuidar al alumnado a su cargo en los períodos de permanencia fuera del 
 aula, así como en las entradas y salidas del centro.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/11
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 2. En el segundo ciclo de la etapa, en los centros docentes públicos, la tutoría será 
 ejercida por un maestro o maestra que realizará las funciones reguladas en el apartado 
 1 del presente artículo y en el artículo 90 del Reglamento Orgánico de las escuelas 
 infantiles de segundo grado, de los colegios de educación primaria, de los colegios de 
 educación infantil y primaria, y de los centros públicos específicos de educación especial, 
-aprobado por Decreto 328/2010, de 13 de julio.
+aprobado por [Decreto 328/2010](../04_organizacion_escolar_y_funcionamiento/D328_2010_reglamento_organico_escuelas_infantiles_colegios_primaria_andalucia.md), de 13 de julio.
 3. El plan de acción tutorial en esta etapa educativa recogerá los mecanismos de 
 colaboración con las familias en los procesos educativos de sus hijos e hijas, así como 
 los mecanismos de colaboración con atención temprana.
 4. Se procurará la continuidad durante el ciclo del mismo tutor o tutora.
-### Capítulo CAPÍTULO
+### CAPÍTULO VI
 Medidas de apoyo al profesorado y personal educador para el desarrollo del currículo 
 ## Artículo 18. Formación permanente del personal docente y personal educador. 
 1. La Consejería competente en materia de educación realizará una oferta de 
@@ -590,7 +571,7 @@ las enseñanzas contempladas en el presente Decreto, a las que se desprendan de 
 procesos de autoevaluación de los centros o sean demandadas por estos, así como a las 
 de la población que acogen.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre y en el Decreto 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre y en el Decreto 
 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente del 
 profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz de 
 Formación Permanente del Profesorado y normas que lo desarrollen.
@@ -617,17 +598,15 @@ ordenación y las enseñanzas correspondientes a la Educación Infantil en Andal
 opongan a lo dispuesto en este Decreto.
 ## Disposición transitoria única. Calendario de aplicación.
 El presente decreto será de aplicación a partir del curso escolar 2023/2024. 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/12
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 ## Disposición final primera. Conformidad con la normativa estatal.
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2, 
 reproduce, total o parcialmente, normas dictadas por el Estado al amparo del artículo 
 149.1.30.ª de la Constitución Española, recogidas en los artículos 12 de los «Principios 
 generales», 13 de los «Objetivos», 14 de la «Ordenación y principios pedagógicos», 15 
 de la «Oferta de plazas y gratuidad», así como de la «Disposición adicional segunda. 
-Enseñanza de la Religión», de la Ley Orgánica 2/2006, de 3 de mayo.
+Enseñanza de la Religión», de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 2. El contenido de los artículos 2, 4.a, 4.b, 4.c, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 8.2, 8.3, 
 9.1., 9.2, 10.3, 11.3, 12, reproduce, total o parcialmente, normas dictadas por el Estado al 
 amparo del artículo 149.1. 30.ª de la Constitución Española, recogidas en los artículos 3 
@@ -636,7 +615,7 @@ de los «Principios generales», 6 de los «Principios pedagógicos», 7 de los 
 de las «Áreas», 12 de la «Evaluación», 13 de la «Atención a las diferencias individuales», 
 14 de la «Autonomía de los centros», así como de la «Disposición adicional primera. 
 Enseñanzas de religión» y de la «Disposición adicional segunda. Enseñanzas del sistema 
-educativo español impartidas en lenguas extranjeras», del Real Decreto 95/2022, de 1 de 
+educativo español impartidas en lenguas extranjeras», del [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de 
 febrero.
 ## Disposición final segunda. Desarrollo y ejecución.
 Se habilita a la persona titular de la Consejería competente en materia de educación 
@@ -651,7 +630,7 @@ Presidente de la Junta de Andalucía
 PATRICIA DEL POZO FERNÁNDEZ
 Consejera de Desarrollo Educativo  
 y Formación Profesional
-ANEXO
+A N E X O
 Competencias clave de la etapa de Educación Infantil y Perfil Competencial
 La etapa de Educación Infantil supone el inicio del proceso de adquisición de las 
 competencias clave para el aprendizaje permanente que aparecen recogidas en 
@@ -665,10 +644,8 @@ competencias son las siguientes:
 - Competencia ciudadana.
 - Competencia emprendedora.
 - Competencia en conciencia y expresión culturales.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/13
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 No existe jerarquía entre las distintas competencias, ya que se consideran todas 
 igualmente importantes. Tampoco se establecen entre ellas límites diferenciados, sino que 
 se solapan y entrelazan. Tienen, por tanto, carácter transversal: ninguna se corresponde 
@@ -723,10 +700,8 @@ procesos evolutivos que configuran sus posibilidades de experimentar, desarrolla
 aprender. Del mismo modo, dar respuesta a esas necesidades, intereses e inquietudes, 
 en función de su madurez y del momento vital en el que se encuentran, permite 
 proporcionarles las herramientas que les ayuden a desenvolverse con mayor autonomía 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/14
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 y a afrontar con responsabilidad los retos que puedan presentarse a corto y largo plazo. 
 Para ello, se tendrán en cuenta las necesidades y oportunidades individuales de cada 
 niño o niña, así como las de su contexto familiar y se establecerán las medidas ordinarias 
@@ -788,10 +763,8 @@ conocidas, y participa en interacciones comunicativas
 con actitud curiosa, cooperativa y respetuosa tanto 
 para intercambiar información como para construir 
 vínculos personales.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/15
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA 
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA 
 ALUMNA...
@@ -838,7 +811,12 @@ a través de actividades lúdicas, promoviendo la
 interacción social con otras personas y desarrollando 
 habilidades de respeto y convivencia hacia estas.
 CCL5. Se inicia, a través de sus prácticas 
-comunicativas, en el desarrollo de modelos 
+comunicativas, 
+en 
+el 
+desarrollo 
+de 
+modelos 
 adecuados de convivencia, adoptando herramientas 
 para resolver conflictos de manera dialogada, 
 desarrollando de manera progresiva el lenguaje, 
@@ -886,10 +864,8 @@ Los niños y niñas se inician en las destrezas lógico-matemáticas y dan los p
 pasos hacia el pensamiento científico a través del juego, la manipulación y la realización 
 de experimentos sencillos. El proceso de enseñanza y aprendizaje en la etapa de 
 Educación Infantil se plantea en un contexto sugerente y divertido en el que se estimula, 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/16
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 desde un enfoque coeducativo, la curiosidad por entender aquello que configura su 
 realidad, sobre todo lo que está al alcance de su percepción y experiencia, respetando 
 sus ritmos de aprendizaje. Con esta finalidad, se invita a observar, clasificar, cuantificar, 
@@ -927,7 +903,14 @@ STEM3. Se inicia en el descubrimiento de los
 objetos que le rodean y muestra coordinación en los 
 movimientos que realiza en respuesta a estímulos 
 externos.
-STEM3. Se inicia de forma guiada en el 
+STEM3. 
+Se 
+inicia 
+de 
+forma 
+guiada 
+en 
+el 
 planteamiento de proyectos que impliquen la 
 resolución de problemas sencillos, utilizando el 
 diálogo y la reflexión como forma de resolución 
@@ -966,7 +949,11 @@ AL COMPLETAR EL SEGUNDO CICLO DE LA
 ETAPA DE EDUCACIÓN INFANTIL, EL ALUMNO O 
 LA ALUMNA...
 CD1. Comienza a mostrar interés en el uso de 
-diferentes juguetes y herramientas digitales, 
+diferentes 
+juguetes 
+y 
+herramientas 
+digitales, 
 mostrando interés y curiosidad a través del juego y 
 estimulando, de esta forma, la creatividad.
 CD1. Comienza a familiarizarse e interactuar con el 
@@ -981,10 +968,8 @@ CD2. Se inicia en la creación de pequeñas tareas
 sencillas, usando diferentes herramientas digitales 
 sencillas e intuitivas que le permitan expresar 
 sentimientos, ideas, vivencias o emociones.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/17
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA 
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA 
 ALUMNA...
@@ -997,7 +982,12 @@ que le permitan desarrollar destrezas y habilidades
 motoras y perceptivas.
 CD3. Participa, de manera guiada, en proyectos 
 cooperativos mediante el uso de herramientas 
-o aplicaciones digitales intuitivas y visuales, 
+o 
+aplicaciones 
+digitales 
+intuitivas 
+y 
+visuales, 
 desarrollando habilidades básicas que le permitan 
 expresarse y trabajar en equipo de manera efectiva.
 CD4. Participa en juegos y actividades lúdicas 
@@ -1076,10 +1066,8 @@ actividades y mejorar su aprendizaje, confiando en
 sus propias posibilidades y en las de los demás, 
 valorando el trabajo realizado y aceptando las 
 correcciones.
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/18
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA 
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA 
 ALUMNA...
@@ -1090,7 +1078,11 @@ CPSAA5. Se inicia en la capacidad de anticipar
 las secuencias de actividades cotidianas y emite 
 mensajes verbales y gestuales solicitando atención 
 cuando quiere satisfacer necesidades básicas.
-CPSAA5. Respeta las secuencias temporales 
+CPSAA5. 
+Respeta 
+las 
+secuencias 
+temporales 
 asociadas a los acontecimientos y actividades 
 cotidianas, se plantea estrategias sencillas de 
 autoaprendizaje, y solicita ayuda cuando la necesita 
@@ -1166,10 +1158,8 @@ la disposición a indagar y a crear mediante el juego, las actividades dirigidas
 los proyectos cooperativos y otras propuestas de aprendizaje, lo cual supone una 
 oportunidad para potenciar la autonomía y materializar las ideas personales o colectivas. 
 De esta manera, se asientan las bases tanto del pensamiento estratégico y creativo, 
-00283496
  Número 90 - Lunes, 15 de mayo de 2023
-página 8467/19
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 como de la resolución de problemas, y se fomenta el análisis crítico y constructivo desde 
 las primeras edades.
 Descriptores operativos:
@@ -1227,13 +1217,24 @@ CCEC1. Disfruta con las interpretaciones musicales
 y las representaciones teatrales y expresa sus 
 emociones libremente, iniciándose en el respeto a 
 las mismas y a los demás.
-CCEC1. Identifica espacios relacionados con 
+CCEC1. 
+Identifica 
+espacios 
+relacionados 
+con 
 la cultura, expresa sensaciones, emociones y 
-sentimientos ante distintas representaciones 
+sentimientos 
+ante 
+distintas 
+representaciones 
 artísticas y culturales y respeta las normas básicas 
 de uso y disfrute de las mismas.
 CCEC2. Manifiesta interés y disfrute por distintas 
-actividades lúdicas, musicales y plásticas 
+actividades 
+lúdicas, 
+musicales 
+y 
+plásticas 
 relacionadas con su patrimonio que le permiten 
 expresar con libertad sus vivencias y emociones.
 CCEC2. Disfruta de las situaciones en las que se le 
@@ -1245,7 +1246,11 @@ CCEC3. Expresa mediante gestos o palabras
 sencillas su agrado o desagrado por las expresiones 
 artísticas de distinto tipo y empieza a desarrollar su 
 gusto por determinadas expresiones y obras.
-CCEC3. Expresa emociones, sentimientos y 
+CCEC3. 
+Expresa 
+emociones, 
+sentimientos 
+y 
 pensamientos utilizando su propio cuerpo como 
 medio de comunicación y da su opinión libremente 
 ante manifestaciones artísticas sonoras, visuales 

@@ -1,1084 +1,156 @@
 ---
 id: norm-and-l4-1984
-titulo: "Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía"
+titulo: Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
-numero_disposicion: "4/1984"
-fecha_disposicion: "1984-01-09"
-fecha_publicacion: "1984-01-13"
+numero_disposicion: 4/1984
+fecha_disposicion: '1984-01-09'
+fecha_publicacion: '1984-01-13'
 boletin: BOJA
-numero_boletin: "3"
+numero_boletin: '3'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-4861"
-fuente_pdf_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1984-4861"
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1984-4861
+fuente_pdf_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1984-4861
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-  subcategoria: "Órganos de gobierno y participación"
+  subcategoria: Órganos de gobierno y participación
 tags:
-  - consejo_escolar
-  - participacion_educativa
-  - centros_docentes
-  - andalucia
+- consejo_escolar
+- participacion_educativa
+- centros_docentes
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
-
-Texto consolidado
-: «Última actualización, publicada el 26/12/2007»
-
-
-
-
-Ir a: 
-
-
-
-
-
-
-Seleccionar apartado
-
-
-
-
-[Preámbulo]
-
-# Título Título
-
-## Artículo 1
-
-
-## Artículo 2
-
-
-## Artículo 3
-
-
-## Artículo 4
-
-# Título Título
-
-### Capítulo Capítulo
-
-## Artículo 5
-
-
-## Artículo 6
-
-
-## Artículo 7
-
-
-## Artículo 8
-
-### Capítulo Capítulo
-
-## Artículo 9
-
-
-## Artículo 10
-
-
-## Artículo 11
-
-
-## Artículo 12
-
-### Capítulo Capítulo
-
-## Artículo 13
-
-
-## Artículo 14
-
-
-## Artículo 15
-
-### Capítulo Capítulo
-
-## Artículo 16
-
-
-## Artículo 17
-
-
-## Artículo 18
-
-
-## Artículo 19
-
-## Disposición final primera
-
-## Disposición final segunda
-
-## Disposición transitoria primera
-
-## Disposición transitoria segunda
-
-## Disposición transitoria tercera
-
-
-[Firma]
-
-
-
-
-
-
-
-
-
-
-
-
-[Bloque 1: #pr]
-
-
-EL PRESIDENTE DE LA JUNTA DE ANDALUCÍA
-
-
-A todos los que la presente vieren, sabed:
-
-
-Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey, y por autoridad que me confieren 
-la Constitución
- y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente Ley:
-
-## Preámbulo
-
-
-
-La Constitución Española
-, en su artículo 27.5, establece la garantía de los poderes públicos sobre la participación efectiva de todos los sectores afectados en la programación general de la enseñanza. Sin perjuicio de la potestad legislativa, en el desarrollo de tal precepto, que corresponde a las Cortes Generales, los poderes públicos de la Comunidad Autónoma de Andalucía deben, pues, regular la citada materia.
-
-
-El 
-Estatuto de Autonomía para Andalucía
- afirma, en su artículo 12, que «la Comunidad Autónoma de Andalucía facilitará la participación de todos los andaluces en la vida política, económica, cultural y social». Participación que, en el área de la política educativa, engarza, sin duda, con la prevista en el precepto constitucional arriba citado. Es, pues, una expresión y un mandato de la ciudadanía, como españoles y como andaluces, lo que procede regular en la presente norma legal.
-
-
-El sistema educativo, por otra parte, se encuentra condicionado por una gestión burocratizante y poco receptiva a los intereses de la comunidad social; condicionamiento que, consecuentemente, afecta a la propia utilidad social de un servicio público como es el de la educación, referente al instrumento más poderoso con que cuenta un pueblo para alcanzar cotas más elevadas de bienestar social y de nivelación de las desigualdades, aún como para profundizar en su propia conciencia de identidad como tal pueblo.
-
-
-La democratización de la gestión del sistema educativo ha sido y es una aspiración profundamente sentida y expresada por los sectores más dinámicos de la comunidad escolar. Tal democratización debe asentarse sobre una doble inspiración: la representación y la competencia. Representación en cuanto principio de intervención e interlocución social, para garantizar la vertebración estable de los diferentes sectores de la comunidad escolar. Competencia como principio de delimitación de las funciones de cada uno de estos sectores y de los órganos en los que se recoge su presencia.
-
-
-Resulta evidente que la modernización de las estructuras educativas de nuestra Comunidad será el resultado de un cúmulo continuado de esfuerzos institucionales, pero resulta evidente, también, que todo intento serio de acometer tal modernización debe partir de una premisa: la incorporación, a esta tarea, del esfuerzo social de todos aquellos andaluces que intervienen o se interesan por la educación; en suma, por la activa participación de la comunidad escolar de Andalucía.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 2: #tp]
-
-# Título Título
-
-
-Disposiciones generales
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 3: #a1]
-
-## Artículo 1.
-
-
-La participación efectiva de todos los sectores afectados en la programación general de la enseñanza, en el ámbito de la Comunidad Autónoma de Andalucía, se realizará de acuerdo con lo establecido en la presente Ley y en las disposiciones que la desarrollen.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 4: #a2]
-
-## Artículo 2.
-
-
-La programación general de la enseñanza se referirá, en todo caso, a la planificación de actuaciones de los poderes públicos de la Comunidad Autónoma de Andalucía, relativa a las necesidades educativas de los ciudadanos y grupos, así como a la elaboración de disposiciones que afecten al efectivo ejercicio del derecho a la educación y a la libertad de enseñanza.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 5: #a3]
-
-## Artículo 3.
-
-
-Son objetivos de la programación general de la enseñanza en el ámbito de la Comunidad Autónoma de Andalucía:
-
-
-1. Conseguir el acceso de todos los andaluces a los niveles educativos y culturales que les permitan su realización personal y social, y promover, para ello, cuantas acciones sean precisas en orden a compensar las deficiencias de oportunidades educativas de los ciudadanos, grupos o territorios.
-
-
-2. Incrementar el fomento de la conciencia de identidad andaluza, mediante la investigación, difusión y conocimiento de los valores históricos, culturales y lingüísticos del pueblo andaluz en toda su riqueza y variedad, según las disposiciones que permitan la integración plena de los centros escolares en su entorno geográfico, socioeconómico y cultural, rompiendo así el carácter academicista que predomina en los planes educativos.
-
-
-3. Conseguir la participación de los profesores, padres de alumnos, personal no docente, titulares de los centros y fuerzas sociales, especialmente mediante asociaciones y organizaciones de carácter representativo.
-
-
-4. Mejorar la calidad de la enseñanza en sus aspectos más esenciales.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 6: #a4]
-
-## Artículo 4.
-
-
-El Consejo de Gobierno de la Junta de Andalucía, con la participación de todos los sectores afectados en la forma que regula la presente Ley, elaborará y aprobará anualmente una programación de recursos, efectivos y medios que comprenderá, en todo caso, la determinación de los puestos escolares de nueva creación, con especificación de la ubicación donde estos hayan de instalarse, teniendo en cuenta la oferta existente de centros escolares públicos y de centros financiados con fondos públicos.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 7: #ti]
-
-# Título Título
-
-
-De los Consejos Escolares de Andalucía
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 8: #cp]
-
-### Capítulo Capítulo
-
-
-Del Consejo Escolar de Andalucía
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 9: #a5]
-
-## Artículo 5.
-
-
-El Consejo Escolar de Andalucía es el órgano superior de participación democrática en la programación general de la enseñanza en la Comunidad Autónoma andaluza.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 10: #a6]
-
-## Artículo 6.
-
-
-1. El Consejo Escolar de Andalucía estará integrado por:
-
-
-a) El Presidente, nombrado por Decreto, a propuesta del Consejero de Educación, de entre los miembros de dicho Consejo.
-
-
-b) Los Profesores de todos los centros escolares, de todos los niveles y modalidades de la enseñanza, cuya designación corresponderá a las organizaciones y asociaciones de profesorado, en proporción a su representatividad.
-
-
-c) Los padres de alumnos, cuya designación corresponderá a las confederaciones o federaciones de padres y agrupaciones constituidas al efecto, en proporción a su representatividad.
-
-
-d) Los alumnos, cuya designación se efectuará por las organizaciones o federaciones de alumnos, en proporción a su representatividad.
-
-
-e) El personal de administración y de servicios de la Administración educativa, cuya designación se realizará por las centrales y asociaciones sindicales, en proporción a su representatividad.
-
-
-f) Los titulares de los centros privados sostenidos con fondos públicos, cuya designación corresponderá a las organizaciones empresariales o patronales de la enseñanza, en proporción a su representatividad.
-
-
-g) Las centrales sindicales y organizaciones patronales, en función de su representatividad en el ámbito territorial de Andalucía.
-
-
-h) Las Diputaciones Provinciales de Andalucía.
-
-
-i) Las Universidades de Andalucía, mediante los representantes designados por el órgano de coordinación de las mismas.
-
-
-j) Las personalidades de reconocido prestigio de la enseñanza, designada por el Consejero de Educación de la Junta de Andalucía.
-
-
-k) Los directores y directoras de los centros escolares de todas las etapas y modalidades de enseñanza, cuya designación corresponderá a la Administración educativa.
-
-
-l) El Instituto Andaluz de la Mujer, mediante la representación designada por el órgano competente del mismo.
-
-
-2. Reglamentariamente, se establecerá la estructura, el funcionamiento y el número de los integrantes del Consejo Escolar de Andalucía. En todo caso, la representación de los miembros, a los que se refieren los apartados b), c), d) y e) de este artículo, no podrá ser inferior a un tercio del total de los componentes de este Consejo.
-
-
-
-
-Se añaden las letras k) y l) al apartado 1 por la disposición final 1.1 de la Ley 17/2007, de 10 de diciembre. 
-Ref. BOE-A-2008-1184
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Seleccionar redacción:
-
-
-
-
-
-
-Última actualización, publicada el 26/12/2007, en vigor a partir del 25/01/2008.
-
-
-
-
-
-
-
-
-Texto original, publicado el 10/01/1984, en vigor a partir del 30/01/1984.
-
-
-
-
-
-
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 11: #a7]
-
-## Artículo 7.
-
-
-1. El Consejo Escolar de Andalucía será consultado preceptivamente en las siguientes cuestiones:
-
-
-a) La programación anual de la enseñanza a la que se refiere el artículo 4.º de la presente Ley.
-
-
-b) Los proyectos de Ley que, en materia de enseñanza, elabore la Consejería de Educación para su remisión por el Consejo de Gobierno al Parlamento.
-
-
-c) Los proyectos de reglamentos generales que hayan de ser aprobados por el Consejo de Gobierno en desarrollo de la legislación general de la enseñanza, tanto estatal como de la Comunidad Autónoma de Andalucía.
-
-
-d) Los proyectos de convenios o acuerdos en materia educativa que se propongan en aplicación de los artículos 12.3, 4.º y 23.3 del 
-Estatuto de Autonomía para Andalucía
-.
-
-
-e) Reforma de los programas y orientaciones didácticas en orden a incrementar el fomento de la conciencia de identidad andaluza.
-
-
-2. La Consejería de Educación podrá someter a consulta cualesquiera otras cuestiones no comprendidas en el punto primero del presente artículo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 12: #a8]
-
-## Artículo 8.
-
-
-El Consejo Escolar de Andalucía podrá, a iniciativa propia, elevar informe al Consejero de Educación sobre las siguientes materias:
-
-
-a) Política de personal.
-
-
-b) Orientaciones pedagógicas y didácticas de carácter general.
-
-
-c) Investigación e innovación educativa.
-
-
-d) Régimen de centros escolares.
-
-
-e) Ayudas al estudio y servicios complementarios.
-
-
-f) Cualesquiera otras cuestiones relativas a la calidad de la enseñanza.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 13: #ci]
-
-### Capítulo Capítulo
-
-
-De los Consejos Escolares Provinciales
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 14: #a9]
-
-## Artículo 9.
-
-
-En cada una de las provincias de Andalucía existirá un Consejo Escolar Provincial como órgano de participación democrática en la planificación educativa provincial e instrumento de asesoramiento a la Administración educativa periférica de la Comunidad Autónoma de Andalucía.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 15: #a1-2]
-
-## Artículo 10.
-
-
-1. El Consejo Escolar Provincial estará integrado por:
-
-
-a) El Delegado Provincial de Educación de la Junta de Andalucía o persona en quien delegue, que lo presidirá.
-
-
-b) Los profesores y profesoras, los padres y madres del alumnado, los alumnos y las alumnas y el personal de administración y servicios, representados mediante criterios análogos a los establecidos en el artículo 6.1 de la presente Ley. En el caso de los alumnos y de las alumnas, la designación corresponderá a las Juntas de Delegados y Delegadas del Alumnado.
-
-
-c) Representantes de la Diputación Provincial, designados a propuesta del Presidente de la Corporación y, en todo caso, en proporción a la composición política de la misma.
-
-
-d) Los titulares de los centros privados sostenidos con fondos públicos, cuya designación corresponderá a las organizaciones empresariales o patronales de la enseñanza, en proporción a su representatividad.
-
-
-e) Los directores y directoras de los centros escolares de todas las etapas y modalidades de enseñanza, cuya designación corresponderá a la Administración educativa.
-
-
-f) El Instituto Andaluz de la Mujer, mediante la representación designada por el órgano competente de su Delegación Provincial.
-
-
-2. Reglamentariamente, se establecerá la estructura, funcionamiento y número de los integrantes del Consejo Escolar Provincial. En todo caso, la representación de los miembros, a la que se refiere el apartado b) de este artículo, no podrá ser inferior a un tercio del total de los componentes de este Consejo.
-
-
-
-
-Se modifica el apartado 1.b) y se añaden las letras e) y f) por la disposición final 1.2 y 3 de la Ley 17/2007, de 10 de diciembre. 
-Ref. BOE-A-2008-1184
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Seleccionar redacción:
-
-
-
-
-
-
-Última actualización, publicada el 26/12/2007, en vigor a partir del 25/01/2008.
-
-
-
-
-
-
-
-
-Texto original, publicado el 10/01/1984, en vigor a partir del 30/01/1984.
-
-
-
-
-
-
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 16: #a1-3]
-
-## Artículo 11.
-
-
-1. El Consejo Escolar Provincial será consultado preceptivamente en las siguientes materias:
-
-
-a) Propuesta de creación de puestos escolares.
-
-
-b) Determinación de redes de transporte escolar y distribución de ayudas a los comedores escolares.
-
-
-c) Propuesta de ubicación de acciones especiales en zonas o colectivos particularmente marginados en materia educativa.
-
-
-2. La Delegación de Educación podrá someter a consulta cualesquiera otras cuestiones no comprendidas en el punto primero del presente artículo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 17: #a1-4]
-
-## Artículo 12.
-
-
-El Consejo Escolar Provincial podrá, a iniciativa propia, elevar informe a la Administración educativa correspondiente sobre las siguientes materias:
-
-
-a) Distribución de los gastos de funcionamiento de los centros públicos de la provincia.
-
-
-b) Programación de actividades complementarias de ámbito provincial.
-
-
-c) Determinación de los criterios provinciales para escolarización en los centros públicos y privados sostenidos con fondos públicos.
-
-
-d) Constitución de Patronatos, Institutos y servicios pedagógicos a nivel provincial.
-
-
-e) Cualesquiera otras medidas relacionadas con las competencias provinciales en materia educativa.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 18: #ci-2]
-
-### Capítulo Capítulo
-
-
-De los Consejeros Escolares Comarcales
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 19: #a1-5]
-
-## Artículo 13.
-
-
-Podrán constituirse Consejos Escolares de ámbito comarcal como instrumentos de participación y de coordinación entre comunidades locales, en lo relativo a su problemática educativa propia.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 20: #a1-6]
-
-## Artículo 14.
-
-
-Los Consejos Escolares Comarcales se constituirán por acuerdo de todos los Ayuntamientos de la comarca, a iniciativa bien de las propias Corporaciones, bien de la tercera parte, al menos, de los centros escolares públicos y privados sostenidos con fondos públicos de la comarca, por acuerdo de sus respectivos Consejos de Dirección.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 21: #a1-7]
-
-## Artículo 15.
-
-
-Los Consejos Escolares Comarcales tendrán una composición y unas funciones análogas a las de los Consejos Escolares Provinciales dentro del ámbito de su competencia y sin perjuicio de las de estas. Reglamentariamente se establecerán las condiciones y modalidades de su estructura y funcionamiento. En todo caso, estará garantizada la presencia de todos los municipios que acuerden su constitución.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 22: #ci-3]
-
-### Capítulo Capítulo
-
-
-De los Consejos Escolares Municipales
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 23: #a1-8]
-
-## Artículo 16.
-
-
-En todos los municipios andaluces en cuyo término existan, al menos, dos centros escolares financiados con fondos públicos, se constituirá un Consejo Escolar Municipal, como instrumento de participación democrática en la gestión educativa correspondiente y órgano de asesoramiento a la Administración competente. En los municipios no comprendidos en el párrafo anterior, su constitución será potestativa.
-
-
-
-
-Se modifica por la disposición final 1.6 de la Ley 17/2007, de 10 de diciembre. 
-Ref. BOE-A-2008-1184
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Seleccionar redacción:
-
-
-
-
-
-
-Última actualización, publicada el 26/12/2007, en vigor a partir del 25/01/2008.
-
-
-
-
-
-
-
-
-Texto original, publicado el 10/01/1984, en vigor a partir del 30/01/1984.
-
-
-
-
-
-
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 24: #a1-9]
-
-## Artículo 17.
-
-
-1. En el Consejo Escolar Municipal, presidido por el Alcalde o persona en quien delegue, se integrarán:
-
-
-a) La Administración educativa de la Comunidad Autónoma de Andalucía.
-
-
-b) Los profesores y profesoras, los padres y madres del alumnado, los alumnos y las alumnas y el personal de administración y servicios, representados mediante criterios análogos a los establecidos en el artículo 6.1 de la presente Ley. En el caso de los alumnos y de las alumnas, la designación corresponderá a las Juntas de Delegados y Delegadas del Alumnado.
-
-
-c) El Ayuntamiento, mediante el Concejal Delegado correspondiente.
-
-
-d) Los titulares de los centros privados sostenidos con fondos públicos, en su caso, cuya designación corresponderá a las organizaciones empresariales y patronales del sector, en proporción a su representatividad.
-
-
-e) Los directores y directoras de los centros escolares de todas las etapas y modalidades de enseñanza, cuya designación corresponderá a la Administración educativa.
-
-
-2. Reglamentariamente se establecerá el número de miembros, estructura y funcionamiento del Consejo Escolar Municipal. La representación de los miembros, a la que se refiere el apartado b) de este artículo, no podrá ser, en ningún caso, inferior a la mitad del total de componentes de dicho Consejo.
-
-
-
-
-Se modifica el apartado 1.b) y se le añade la letra e) por la disposición final 1.4 y 5 de la Ley 17/2007, de 10 de diciembre. 
-Ref. BOE-A-2008-1184
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Seleccionar redacción:
-
-
-
-
-
-
-Última actualización, publicada el 26/12/2007, en vigor a partir del 25/01/2008.
-
-
-
-
-
-
-
-
-Texto original, publicado el 10/01/1984, en vigor a partir del 30/01/1984.
-
-
-
-
-
-
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 25: #a1-10]
-
-## Artículo 18.
-
-
-1. El Consejo Escolar Municipal será consultado preceptivamente en las siguientes materias:
-
-
-a) Disposiciones municipales que afecten a los temas educativos.
-
-
-b) Distribución de los gastos que, en materia educativa, corresponden a los Ayuntamientos, según la normativa vigente.
-
-
-2. El Alcalde, como Presidente de la Corporación, podrá someter a consulta cualesquiera otras cuestiones no comprendidas en el punto primero de presente artículo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 26: #a1-11]
-
-## Artículo 19.
-
-
-El Consejo Escolar Municipal podrá, a iniciativa propia, elevar informe a la Administración competente sobre las cuestiones relacionadas en el artículo anterior y, además, sobre las siguientes materias:
-
-
-a) Distribución de alumnos a efectos de escolarización.
-
-
-b) Propuesta de convenios o acuerdos para mejorar la prestación del servicio educativo.
-
-
-c) Constitución de Patronatos o Institutos Municipales de Educación.
-
-
-d) Adaptación de la programación de los Centros al entorno.
-
-
-e) Cualesquiera otras cuestiones relativas a la promoción y extensión educativas.
-
-
-f) Adaptación del calendario escolar a las necesidades y características socioeconómicas de la localidad.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 27: #df]
-
-## Disposición final primera.
-
-
-Se autoriza al Consejo de Gobierno para que dicte cuantas disposiciones sean precisas para el desarrollo y aplicación de la presente Ley.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 28: #df-2]
-
-## Disposición final segunda.
-
-
-Queda derogado el Decreto 104/1982, de 15 de septiembre, por el que se creaba el Consejo Asesor de Educación y cuantas disposiciones de igual o inferior rango que se opongan a la presente Ley.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 29: #dt]
-
-## Disposición transitoria primera.
-
-
-El Consejo Asesor de Educación de Andalucía, creado por Decreto 104/1982, de 15 de septiembre, continuará sus funciones hasta tanto se constituya el Consejo Escolar de Andalucía, así como los Consejos Asesores de las Delegaciones Provinciales de Educación de Andalucía hasta la constitución de los correspondientes Consejos Escolares Provinciales.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 30: #dt-2]
-
-## Disposición transitoria segunda.
-
-
-Los Consejos Escolares contemplados en la presente Ley se constituirán en un plazo no superior a un año desde la promulgación de la misma.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 31: #dt-3]
-
-## Disposición transitoria tercera.
-
-
-La reglamentación prevista en el artículo 15 de la presente Ley podrá atribuir a los Consejos Escolares funciones previstas en el artículo 11.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 32: #fi]
-
-
-Sevilla, 9 de enero de 1984.
-
-
-
-
-
-
-
-
-RAFAEL ESCUREDO RODRÍGUEZ,
-
-
-MANUEL GRACIA NAVARRO,
-
-
-
-
-
-
-Presidente de la Junta de Andalucía
-
-
-Consejero de Educación
-
-
-
-
-
-
-
-
-
-
-Subir
+# Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
+
+5322 
+27 febrero 1984 
+Esta Dirección acuerda:
+Primero.—Nombrar funcionario de carrera de la Escala de 
+Administrativos de este Instituto al funcionario que pertenecien­
+do a la de Auxiliares Administrativos le ha quedado recono­
+cido tal derecho en la número 2 de las relaciones antedichas, 
+con fecha de cumplimiento de los requisitos de integración al 
+31 de diciembre de 1976, que ha solicitado vacante de su inte­
+rés ocasionada al presente y que a continuación se mencionan 
+con indicación del número de Registro de Personal y destino 
+obtenido:
+Número de Registro de Personal: T10AG05A000049P. Nombre 
+y apellidos: Doña Angeles Valle Diéguez. Destino asignado: Je­
+fatura Provincial de Santander.
+Segundo.—Los efectos económicos de la integración, que que­
+dan condicionados a la toma de posesión del destino asignado 
+en el plazo de treinta días, a contar de la publicación en el 
+«Boletín Oficial del Estado» de la presente Resolución, se pro­
+ducirán a partir de la fecha en que tome posesión.
+Tercero.—La toma de posesión como funcionario de carretera 
+en la Escala de Administrativos determinará el pase a la situa­
+ción de excedencia voluntaria del funcionario afectado en la 
+Escala de Auxiliares Administrativos de procedencia.
+Madrid, 13 de febrero de 1984.—El Director, Angel Barbero 
+Martin.
+4858
+RESOLUCION de 24 de febrero de 1984, del Instituto 
+Nacional de Denominaciones de Origen, por la que 
+se nombran funcionarios de carrera en dicho Orga­
+nismo a dos titulados superiores.
+Finalizadas ias pruebas selectivas convocadas el 26 de abril 
+de 1933 para cubrir dos plazas de titulados superiores en este 
+Organismo, elevada la oportuna propuesta por el Tribunal ca­
+li i'Lador,’ aportadas por los interesados aprobados los documen­
+tos exigidos en la convocatoria y concedida la correspondiente 
+aprobación ministerial con fecha 9 de febrero actual,
+Esta Dirección ha resuelto:
+Nombrar funcionarios de carrera de la Escala de Titulados 
+Superiores a don Antonio Moscoso Sánchez, fecha de naci­
+miento: 21 de julio de 1943; número de Registro de Personal: 
+T17AG01A000004, y a don Agustín Daniel Lorenzo Díaz, fecha de 
+nacimiento: 22 de junio de 1935; número de Registro de Personal: 
+117 AG01A000005.
+Madrid, 24 de febrero de 1984.—El Director, Rafael García 
+Faure.
+4859
+RESOLUCION de 24 de febrero de 1984, del Instituto 
+Nacional de Denominaciones de Origen, por la que 
+se nombra funcionaría de carrera en dicho Orga­
+nismo a una Auxiliar administrativo.
+Finalizadas las pruebas selectivas convocadas el 26 de abril 
+de 198:¡ para cubrir una plaza de Auxiliar administrativo en este 
+Organismo, elevada la oportuna propuesta por el Tribunal cali­
+ficador, aportada por la interesada aprobada los documentos 
+exigidos en la convocatoria y concedida la correspondiente apro­
+bación ministerial con fecha 9 de febrero actual,
+Esta Dirección ha resuelto:
+Nombrar funcionaría de carrera de la Escala Auxiliar Admi­
+nistrativa a doña Olvido Pacheco Ledesma, fecha de nacimien­
+to: 5 de enero de 1958-, número de Registro de Personal: 
+TI7AG05A000005.
+Madrid, 24 de febrero de 1984 —El Director, Rafael García 
+Faure.
+4860
+RESOLUCION de 24 de febrero de 1984, del Instituto 
+Nacional de Denominaciones de Origen, por la que 
+se nombra funcionario de carrera en dicho Orga­
+nismo a un titulado de grado medio.
+Finalizadas las pruebas selectivas convocadas el 28 de abril 
+de 1983 («Boletín Oficial del Estado» de 12 de mayo) para cubrir 
+una plaza de titulado de grado medio en este Organismo, ele­
+vada la oportuna propuesta por el Tribunal calificador, aporta­
+dos por el interesado aprobado los documentos exigidos en la 
+convocatoria y concedida la correspondiente aprobación minis­
+terial con fecha 9 de febrero actual,
+Esta Dirección ha resuelto:
+Nombrar funcionario de carrera de la Escala de Titulados 
+de Grado Medio a don Pedro Juan García López-Egea. Fecha de 
+nacimiento: 4 de junio de 1952. Número de Registro de Personal: 
+T17AG03A000005.
+Madrid, 24 de' febrero de 1984.—El Director, Rafael García 
+Faure.
+MINISTERIO DE TRANSPORTES, 
+TURISMO Y COMUNICACIONES
+4861
+ORDEN de 17 de febrero de 1984 por la que se re­
+suelve concurso de traslados entre Profesores nu­
+merarios de Escuelas para cubrir puestos vacantes 
+de igual disciplina en diversas Escuelas Superiores 
+de la Marina Civil, convocado por Orden de 11 de 
+noviembre de 1983.
+limos. Sres.: Por Orden de 11 de noviembre de 1983 («Boletín 
+Oficial del Estado» del día 30), se convocó concurso de traslados 
+entre Profesores numerarios de Escuelas para cubrir puestos 
+vacantes de igual disciplina en diversas Escuelas Superiores de 
+la Marina Civil.
+Vistas las solicitudes presentadas, y a propuesta de la Direc­
+ción General de la Marina Mercante,
+Este Ministerio, en uso de las atribuciones que tiene confe­
+ridas, ha dispuesto:
+Primero.—Nombrar para el desempeño de la cátedra de «Cons­
+trucción naval y Teoría del buque», de la Escuela Superior de 
+la Marina Civil de Barcelona, a don Gaspar Azpiazu Mañas 
+(A05C023), Profesor numerario de la misma asignatura en la 
+Escuela Superior de la Marina Civil de Cádiz, quien deberá 
+tomar posesión de la misma con arreglo a lo prevenido en el 
+Decreto 1106/1966, de 28 de abril («Boletín Oficial del Estado» nú­
+mero 102).
+Segundo.—Nombrar para el desempeño de la cátedra de «Geo­
+metría y Trigonometría», de la Escuela Superior de la Marina 
+Civil de La Coruña, a don Francisco Blanco Filgueira (A05C090), 
+Profesor numerario de la Escuela Superior de la Marina Civil 
+de Santander, quien deberá tomar posesión de la misma al fi­
+nalizar el presente curso escolar.
+Tercero.—Declarar desiertas las demás vacantes anunciadas 
+en el citado concurso de traslados por falta de peticionarios.
+Lo que digo a VV. II.
+Madrid, 17 de febrero de 1984.—P. D. (Orden de 27 de di 
+ciembre de 1983), el Director general de Servicios, José Antonio 
+Sánchez Velayos.
+limos. Sres. Director general de la Marina Mercante e Inspec­
+tor general de Enseñanzas Superiores Náuticas.

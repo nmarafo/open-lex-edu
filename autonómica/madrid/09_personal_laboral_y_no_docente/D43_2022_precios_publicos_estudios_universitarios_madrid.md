@@ -30,10 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+**Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid**
 
-## Preámbulo
-
+VIERNES 1 DE JULIO DE 2022
+Pág. 10
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
 Vicepresidencia, Consejería de Educación y Universidades
 1
 DECRETO 43/2022, de 29 de junio, del Consejo de Gobierno, por el que se esta-
@@ -79,7 +85,7 @@ te. También se fijan los precios por enseñanzas de doctorado, así como por se
 turaleza académica prestados por las universidades públicas.
 Los precios fijados en este decreto se mantendrán durante los cursos académicos a par-
 tir del curso 2022-2023 hasta la derogación o actualización del mismo.
-Los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015,
+Los principios de buena regulación contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md),
 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públi-
 cas, son observados en el contenido y tramitación seguida por este decreto.
 Conforme a los principios de necesidad y eficacia, esta iniciativa normativa se encuen-
@@ -87,7 +93,12 @@ tra justificada por una razón de interés general, al ser necesaria para la reg
 mica de los precios públicos que han de regir los estudios conducentes a la obtención de tí-
 tulos oficiales y servicios de naturaleza académica.
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 11
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindi-
 ble para la finalidad pretendida y conforme al principio de seguridad jurídica se adecua a la
 legislación estatal básica y autonómica en la materia.
@@ -114,10 +125,8 @@ diciembre, de Gobierno y Administración de la Comunidad de Madrid.
 En virtud de lo anterior, a propuesta del Vicepresidente, Consejero de Educación y Uni-
 versidades y previa deliberación del Consejo de Gobierno, en su reunión del día de la fecha,
 DISPONE
-
-## Artículo 1
+Artículo 1
 Objeto y ámbito de aplicación
-
 1.
 El presente decreto tiene por objeto fijar los precios públicos por estudios condu-
 centes a la obtención de títulos de carácter oficial y validez en todo el territorio nacional im-
@@ -127,10 +136,8 @@ versidades.
 2.
 No será de aplicación a los precios por estudios conducentes a títulos o diplomas
 que no tengan carácter oficial, que serán fijados por las respectivas universidades.
-
-## Artículo 2
+Artículo 2
 Precios públicos de las enseñanzas de grado
-
 1.
 Los precios públicos por crédito de las enseñanzas de grado que establecerán las
 universidades públicas de la Comunidad de Madrid serán los que figuran en el Anexo I, se-
@@ -145,25 +152,26 @@ determine cada universidad.
 3.
 El importe de la matrícula de estos estudios será el resultante de la suma de los im-
 portes de los diferentes créditos matriculados en cada materia, asignatura o disciplina.
-
-## Artículo 3
+Artículo 3
 Precios públicos de las enseñanzas de máster que habiliten para el ejercicio
-
 de actividades profesionales reguladas en España y similares
 1.
 El importe de los precios públicos por créditos en los estudios universitarios de
 máster que habiliten para el ejercicio de actividades profesionales reguladas en España y
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 12
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 otras similares será el que figura en el Anexo III, según se trate de primera, segunda, terce-
 ra o cuarta matrícula.
 2.
 El importe de la matrícula de estos estudios será el resultante de la suma de los im-
 portes de los diferentes créditos matriculados en cada materia, asignatura o disciplina.
-
-## Artículo 4
+Artículo 4
 Precios públicos de las restantes enseñanzas de máster
-
 1.
 El importe de los precios públicos por crédito para las restantes enseñanzas uni-
 versitarias de máster será de 45,02 euros en primera matrícula, de 71,88 euros en segunda
@@ -178,10 +186,8 @@ universidad coordinadora, sin perjuicio de lo establecido en la normativa de la 
 o en el convenio correspondiente y debiendo respetarse, en todo caso, los límites estableci-
 dos por la Conferencia General de Política Universitaria, de conformidad con lo dispuesto
 en el artículo 81.3.b) de la Ley Orgánica 6/2001, de 21 de diciembre.
-
-## Artículo 5
+Artículo 5
 Precios públicos de las enseñanzas de doctorado
-
 1.
 En las enseñanzas de doctorado reguladas por el Real Decreto 99/2011, de 28 de
 enero, por el que se regulan las enseñanzas oficiales de doctorado, se fija el precio a pagar
@@ -192,24 +198,18 @@ mico, el precio será de 234 euros.
 En el caso de los complementos de formación específicos de los programas de
 doctorado, cuando coincidan con asignaturas de un título oficial, su precio será el que ten-
 gan en dicho título.
-
-## Artículo 6
+Artículo 6
 Precios públicos de las enseñanzas de especialidades sanitarias
-
 En las enseñanzas de especialidades sanitarias los precios serán los señalados en el
 Anexo V, apartado 1.
-
-## Artículo 7
+Artículo 7
 Precios públicos de las programaciones conjuntas de estudios oficiales (PCEO)
-
 El precio del crédito en programaciones conjuntas de estudios oficiales en el que in-
 tervengan títulos con distintas experimentalidades en el caso de enseñanzas de grado, o con
 distintos precios en el caso de enseñanzas de máster, será el correspondiente a la media arit-
 mética del precio de los títulos que la componen.
-
-## Artículo 8
+Artículo 8
 Precios para estudiantes extranjeros
-
 Las universidades públicas de la Comunidad de Madrid cobrarán a los estudiantes ex-
 tranjeros, mayores de dieciocho años que no tengan la condición de residentes, excluidos
 los nacionales de Estados miembros de la Unión Europea y aquellos a quienes sea de apli-
@@ -224,21 +224,22 @@ IV de este decreto en el caso de másteres especiales con precio singularizado.
 Estos precios serán de aplicación sin perjuicio de lo previsto en los acuerdos y los con-
 venios o tratados internacionales en esta materia y el resto de la normativa vigente.
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 13
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 A estos efectos, la autorización de estancia concedida a los estudiantes extranjeros de
 acuerdo con el Real Decreto 557/2011, de 20 de abril, por el que se aprueba el Reglamen-
-to de la Ley Orgánica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extran-
+to de la [Ley Orgánica 4/2000](../../../estatal/01_marco_normativo_general_y_organico/LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md), de 11 de enero, sobre Derechos y Libertades de los Extran-
 jeros en España y su Integración Social, no equivaldrá a la condición de residentes.
-
-## Artículo 9
+Artículo 9
 Otros precios
-
 Los precios de los servicios relativos a evaluaciones, pruebas, expedición de títulos y
 derechos de Secretaría serán los establecidos en el Anexo V.
-
-## Artículo 10
+Artículo 10
 Modalidades de matrícula
-
 1.
 Los estudiantes que cursen estudios oficiales podrán matricularse en régimen de
 dedicación a tiempo completo o a tiempo parcial, según establezca la normativa de la uni-
@@ -258,10 +259,8 @@ asignaturas sueltas sin tener en cuenta el límite mencionado en el apartado 2.
 El importe total del precio a abonar no podrá ser inferior a 350 euros. Esta cuan-
 tía no será de aplicación si el estudiante se matricula de la totalidad de asignaturas o crédi-
 tos pendientes para finalizar estudios y el precio total no supera dicha cantidad.
-
-## Artículo 11
+Artículo 11
 Incompatibilidades
-
 1.
 El derecho a examen y evaluación correspondiente de las materias, asignaturas,
 disciplinas o, en su caso, créditos matriculados, quedará limitado por las incompatibilida-
@@ -269,10 +268,8 @@ des académicas derivadas de los planes de estudios.
 2.
 El derecho de matrícula establecido en el apartado anterior se ejercerá en el mar-
 co del régimen de horarios generales fijados en cada centro.
-
-## Artículo 12
+Artículo 12
 Formas de matriculación y de pago
-
 1.
 Con carácter general y sin perjuicio de lo señalado en los apartados siguientes, los
 estudiantes tendrán derecho a elegir la forma de efectuar el pago, bien haciéndolo efectivo
@@ -300,16 +297,19 @@ terioridad al inicio del período de exámenes correspondientes a las materias s
 el abono de la matrícula no se ha completado, según el calendario fijado por las propias uni-
 versidades.
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 14
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 4.
 Cuando se realice ampliación de matrícula, los importes se abonarán en un pla-
 zo único.
 5.
 Los precios señalados en el Anexo V se abonarán siempre en plazo único.
-
-## Artículo 13
+Artículo 13
 Falta de pago
-
 1.
 La falta de pago del importe total o parcial del precio, según la opción elegida por
 el estudiante, supondrá la denegación o anulación de la matrícula en los términos y efectos
@@ -324,10 +324,8 @@ Las universidades podrán denegar la expedición de títulos y certificados cuan
 los estudiantes tuvieren pagos pendientes de satisfacer, pudiendo establecer sobre esas can-
 tidades un recargo equivalente a los intereses devengados por el período de adeudo al pre-
 cio oficial del dinero.
-
-## Artículo 14
+Artículo 14
 Materias sin docencia
-
 1.
 En las materias que asignen créditos que se consigan mediante la superación de
 una prueba, o de asignaturas de planes en extinción de las que no se impartan las correspon-
@@ -340,20 +338,16 @@ docencia alternativo, se abonará el importe íntegro.
 Las universidades podrán incluir en este régimen situaciones determinadas de ma-
 triculación del proyecto o trabajo de fin de grado o máster, establecidas en su normativa es-
 pecífica correspondiente.
-
-## Artículo 15
+Artículo 15
 Precios públicos de las enseñanzas cursadas en centros
-
 adscritos a universidades públicas
 Los estudiantes de los Centros o Institutos Universitarios adscritos abonarán a la uni-
 versidad el 25 por 100 de los precios públicos por estudios conducentes a la obtención de
 títulos de carácter oficial y validez en todo el territorio nacional, sin perjuicio de lo acorda-
 do en los correspondientes convenios de adscripción. Los demás precios detallados en el
 Anexo V se abonarán en la cuantía íntegra prevista.
-
-## Artículo 16
+Artículo 16
 Convalidación o reconocimiento de asignaturas y/o créditos
-
 1.
 El estudio de las solicitudes de reconocimiento y transferencia de créditos y con-
 validación de estudios conllevará el abono del precio establecido en el Anexo V.
@@ -365,16 +359,19 @@ tención de títulos de carácter oficial y validez en todo el territorio nacion
 Estarán exentos del abono del 25 por 100 por reconocimiento de asignaturas y/o
 créditos los estudiantes que se adapten por un cambio del plan de estudios y continúen sus
 estudios en un nuevo grado si este grado extingue los estudios que venían cursando.
-
-## Artículo 17
+Artículo 17
 Becas y ayudas
-
 1.
 De conformidad con lo establecido en el Real Decreto 1721/2007, de 21 de di-
 ciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas,
 no vendrán obligados a pagar el precio por estudios conducentes a la obtención de títulos
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 15
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 de carácter oficial y validez en todo el territorio nacional los estudiantes que reciban beca
 con cargo a los Presupuestos Generales del Estado.
 2.
@@ -388,10 +385,8 @@ No obstante, de conformidad con lo dispuesto en la normativa que regula las beca
 y ayudas de carácter general para estudios universitarios, las universidades podrán requerir
 cautelarmente el abono de dichos precios públicos a los estudiantes que previsiblemente no
 cumplan los requisitos establecidos en la citada normativa.
-
-## Artículo 18
+Artículo 18
 Matrículas de honor
-
 1.
 La obtención de una o varias matrículas de honor en un curso dará derecho al es-
 tudiante, en el curso siguiente, a una exención en el importe de la matrícula que equivaldrá
@@ -412,10 +407,8 @@ trícula, si así se determina en la normativa específica de la universidad cor
 5.
 Estas exenciones serán incompatibles con la obtención de becas y ayudas al estu-
 dio que conlleven la exención del pago del precio público correspondiente.
-
-## Artículo 19
+Artículo 19
 Premios extraordinarios
-
 Tendrá derecho a la exención del pago de los precios públicos por crédito, por una sola
 vez, en el primer curso de enseñanzas de grado, los estudiantes que inicien estudios univer-
 sitarios y acrediten haber obtenido:
@@ -426,10 +419,8 @@ b)
 Premio extraordinario de Bachillerato o Ciclo Formativo de Grado Superior.
 c)
 Medalla en olimpiadas académicas acreditadas de ámbito nacional o internacional.
-
-## Artículo 20
+Artículo 20
 Familias numerosas
-
 De conformidad con lo previsto en el artículo 12 de la Ley 40/2003, de 18 de noviem-
 bre, de protección a las familias numerosas y en el Real Decreto 1621/2005, de 30 de di-
 ciembre, por el que se aprueba el Reglamento de la Ley 40/2003, de 18 de noviembre, de
@@ -439,26 +430,27 @@ previstos en este decreto si se trata de una familia numerosa de categoría espe
 exención del 50% si fuera familia numerosa de categoría general.
 La condición de familia numerosa se acreditará mediante el título oficial expedido por
 la comunidad autónoma competente.
-
-## Artículo 21
+Artículo 21
 Personas con discapacidad
-
 De conformidad con lo previsto en el apartado sexto de la disposición adicional vigé-
 sima cuarta de la Ley Orgánica 6/2001, de 21 de diciembre, los estudiantes con discapaci-
 dad, considerándose por tales aquellos comprendidos en el artículo 4, apartados 2 y 3, del
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 16
 B.O.C.M. Núm. 155
-Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Re-
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+[Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se aprueba el Texto Re-
 fundido de la Ley General de derechos de las personas con discapacidad y de su inclusión
 social, tendrán derecho a la exención total de tasas y precios públicos en los estudios con-
 ducentes a la obtención de un título universitario.
 A estos efectos, los estudiantes que se acojan a esta disposición legal habrán de acre-
 ditar ante la universidad correspondiente la resolución administrativa por la que se les hu-
 biera reconocido la condición de discapacitado.
-
-## Artículo 22
+Artículo 22
 Víctimas del terrorismo
-
 De conformidad con lo previsto en el artículo 38 de la Ley 29/2011, de 22 de septiem-
 bre, de reconocimiento y protección integral a las víctimas del terrorismo, y en el artícu-
 lo 39 del Real Decreto 671/2013, de 6 de septiembre, por el que se aprueba el Reglamento
@@ -469,11 +461,9 @@ sus cónyuges e hijos.
 A estos efectos, los estudiantes que se acojan a esta disposición legal habrán de acre-
 ditar ante la universidad correspondiente la resolución administrativa por la que se les hu-
 biera reconocido la condición de víctimas de terrorismo.
-
-## Artículo 23
+Artículo 23
 Víctimas de violencia de género
-
-Las víctimas de violencia de género a las que hace referencia la Ley Orgánica 1/2004,
+Las víctimas de violencia de género a las que hace referencia la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md),
 de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y la
 Ley 5/2005, de 20 de diciembre, integral contra la violencia de género de la Comunidad
 de Madrid, estarán exentas del pago de las tasas y los precios públicos por servicios uni-
@@ -481,10 +471,8 @@ versitarios.
 A estos efectos, los estudiantes que se acojan a esta disposición legal habrán de acre-
 ditar su condición de conformidad con lo establecido en el artículo 23 de la Ley Orgáni-
 ca 1/2004, de 28 de diciembre.
-
-## Artículo 24
+Artículo 24
 Participantes en operaciones internacionales de paz y seguridad
-
 De conformidad con lo previsto en el artículo 3 del Real Decreto-Ley 8/2004, de 5 de
 noviembre, sobre indemnizaciones a las personas participantes en operaciones internacio-
 nales de paz y seguridad, quienes sufran lesiones invalidantes comprendidas en el ámbito
@@ -494,10 +482,8 @@ un título universitario.
 A estos efectos, los estudiantes que se acojan a esta disposición legal habrán de acre-
 ditar ante la universidad correspondiente la resolución administrativa por la que se les hu-
 biera reconocido dicha condición.
-
-## Artículo 25
+Artículo 25
 Personas beneficiarias del ingreso mínimo vital
-
 De conformidad con lo previsto en la disposición adicional séptima de la Ley 19/2021,
 de 20 de diciembre, por la que se establece el ingreso mínimo vital, los beneficiarios de la
 prestación del ingreso mínimo vital a quienes se reconozca dicha condición estarán exen-
@@ -507,11 +493,14 @@ A estos efectos, los estudiantes que se acojan a esta disposición legal habrán
 ditar ante la universidad correspondiente la resolución administrativa por la que se les hu-
 biera reconocido la condición de beneficiario del ingreso mínimo vital.
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
-
-## Artículo 26
+Pág. 17
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Artículo 26
 Compensación a las universidades
-
 1.
 Los importes de los precios por servicios académicos no satisfechos por los estu-
 diantes beneficiarios en aplicación, en su caso, de lo previsto en los anteriores artículos se-
@@ -519,7 +508,7 @@ rán compensados a las universidades públicas de la Comunidad de Madrid por los
 mos que conceden dichas ayudas, exenciones, reducciones o bonificaciones, hasta donde
 alcancen los créditos que, con esta finalidad, se autoricen en sus presupuestos de gastos.
 2.
-No obstante, de conformidad con el artículo 7.1.b) del Real Decreto-ley 14/2012,
+No obstante, de conformidad con el artículo 7.1.b) del Real Decreto-[ley 14/2012](../../../estatal/08_personal_docente/RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md),
 de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educati-
 vo, la Comunidad de Madrid, tras la correspondiente acreditación por parte de las universida-
 des públicas de la Comunidad de Madrid, financiará la diferencia de los gastos de matrícula de
@@ -533,9 +522,7 @@ universidades mediante transferencias, siempre y cuando exista disponibilidad pr
 taria para ello, conforme a la disposición adicional decimonovena de la Ley Orgáni-
 ca 4/2007, de 12 de abril, por la que se modifica la Ley Orgánica 6/2001, de 21 de diciem-
 bre, de Universidades.
-
-## DISPOSICIÓN ADICIONAL PRIMERA
-
+DISPOSICIÓN ADICIONAL PRIMERA
 Comunicación de datos
 Las universidades públicas de la Comunidad de Madrid deberán facilitar a la conseje-
 ría competente en materia de universidades, en el plazo que esta establezca, información
@@ -543,23 +530,17 @@ acerca de los estudiantes matriculados en cada una de las enseñanzas oficiales 
 máster y doctorado, en centros propios y centros adscritos.
 La información se facilitará ajustándose a los formatos de registro de los ficheros de re-
 misión que establezca la consejería competente y que será comunicado a las universidades.
-
-## DISPOSICIÓN DEROGATORIA ÚNICA
-
+DISPOSICIÓN DEROGATORIA ÚNICA
 Derogación normativa
 A la entrada en vigor de este decreto queda derogado el Decreto 83/2016, de 9 de agos-
 to, del Consejo de Gobierno, por el que se establecen los precios públicos por estudios uni-
 versitarios conducentes a títulos oficiales y servicios de naturaleza académica en las univer-
 sidades públicas de la Comunidad de Madrid.
-
-## DISPOSICIÓN FINAL PRIMERA
-
+DISPOSICIÓN FINAL PRIMERA
 Desarrollo normativo
 Se habilita al titular de la consejería competente en materia de universidades para el
 desarrollo y ejecución de lo dispuesto en este decreto.
-
-## DISPOSICIÓN FINAL SEGUNDA
-
+DISPOSICIÓN FINAL SEGUNDA
 Entrada en vigor
 El presente decreto entrará en vigor el día siguiente al de su publicación en el BOLE-
 TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
@@ -569,7 +550,12 @@ ENRIQUE OSSORIO CRESPO
 La Presidenta,
 ISABEL DÍAZ AYUSO
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 18
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO I 
 PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE GRADO. PRECIO POR CRÉDITO EN EUROS 
 NIVEL DE 
@@ -648,7 +634,12 @@ y Humanidades; Ciencias de las Religiones; Ciencias Experimentales; Ciencias Pol
 Ciencias y Lenguas de la Antigüedad; Cinematografía y Artes Audiovisuales; Comercio;
 Composición Musical; Contabilidad y Finanzas; Criminología; Derecho; Derecho, men-
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 19
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ción en Derecho Francés; Dirección y Gestión de Empresas en el Ámbito Digital; Diseño;
 Diseño de Moda; Diseño Integral y Gestión de la Imagen; Diseño y Gestión de Moda; Di-
 seño y Gestión de Proyectos Transmedia; Economía; Economía Financiera y Actuarial;
@@ -674,7 +665,12 @@ nicación Corporativa; Psicología; Publicidad y Relaciones Públicas; Relacione
 les; Relaciones Laborales y Empleo; Relaciones Laborales y Recursos Humanos; Sociología;
 Terapia Ocupacional; Trabajo Social; Traducción e Interpretación; Turismo.
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 20
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO III 
 PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE MÁSTER QUE HABILITAN PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES  
 REGULADAS EN ESPAÑA Y SIMILARES 
@@ -944,7 +940,12 @@ Psicología General Sanitaria
 122,21 € 
 169,21 € 
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 21
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO IV 
 MÁSTERES ESPECIALES NO HABILITANTES CON PRECIOS SINGULARIZADOS 
 UNIVERSIDAD DE ALCALÁ 
@@ -1178,7 +1179,12 @@ Oncología Molecular
 187,50€ 
  
 
+VIERNES 1 DE JULIO DE 2022
+Pág. 22
 B.O.C.M. Núm. 155
+BOCM-20220701-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO V
 OTROS PRECIOS
 1.
@@ -1264,9 +1270,15 @@ Secretaría.
 Solicitud y apertura de expediente académico por comienzo de estudios en un
 Centro y traslado de expediente académico: 27,54 euros.
 
+VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
+Pág. 23
+BOCM-20220701-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 3.2.2.
 Gastos de Secretaría: 6,11euros.
 3.2.3.

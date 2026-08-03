@@ -38,17 +38,6 @@ fundamentos_derecho:
   articulos:
   - '18'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
 
 **DON JUAN CARLOS I, REY DE ESPAÑA**
@@ -196,3 +185,17 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 LEOPOLDO CALVO-SOTELO Y BUSTELO
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **Fundamento de**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+

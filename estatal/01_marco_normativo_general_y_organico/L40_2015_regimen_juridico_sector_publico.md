@@ -101,6 +101,9 @@ relaciones:
   - norma_id: norm-can-d-212-1991
   - norma_id: norm-can-res-boc-2026-116-87
   - norma_id: norm-can-res-boc-2026-046-139
+  - norma_id: norm-can-r-fp-dual-curso-2025-2026
+  - norma_id: norm-can-r-calendario-escolar-2025-2026
+  - norma_id: norm-can-r-instrucciones-curso-2025-2026
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
@@ -3842,3 +3845,92 @@ FELIPE R.
 El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrollado por**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrollado por**: [**Resolucion BOC 7**](../../autonómica/canarias/02_gestion_y_administracion_centros/R30_6_2022_agencia_canaria_calidad_universitaria_evaluacion_educativa.md)
+- **Desarrollado por**: [**Resolucion BOC 11**](../../autonómica/canarias/02_gestion_y_administracion_centros/R21_3_2019_resolucion_crea_sello_electronico.md)
+- **Desarrollado por**: [**Resolucion BOC 5**](../../autonómica/canarias/02_gestion_y_administracion_centros/O15_3_2016_resolucion_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Desarrollado por**: [**Resolucion BOC 98**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R23_2_2026_dictan_instrucciones_tramitacion_electronica_titulos_academicos.md)
+- **Desarrollado por**: [**Resolucion BOC 6**](../../autonómica/canarias/02_gestion_y_administracion_centros/O24_2_2017_resolucion_crea_sello_electronico_innovacion_promocion.md)
+- **Desarrollado por**: [**Resolucion BOC 12**](../../autonómica/canarias/02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico.md)
+- **Desarrollado por**: [**Resolucion BOC 13**](../../autonómica/canarias/02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico_2.md)
+- **Fundamentado en**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- **Fundamentado en**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamentado en**: [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamento de**: [**BOE-A-2018-6348**](../05_alumnado_y_servicios_escolares/Osn_ecd_regulan_premios_nacionales_bachillerato.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**BOE-A-2022-11589**](../07_convivencia_bienestar_y_protocolos/L15_2022_integral_igualdad_trato_no_discriminacion.md)
+- **Fundamento de**: [**BOE-A-2022-1274**](../03_ordenacion_curricular_y_ensenanzas/RD62_2022_flexibilizacion_requisitos_exigibles_impartir_ofertas_formacion.md)
+- **Fundamento de**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
+- **Fundamento de**: [**Resolucion BOC 98**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R23_2_2026_dictan_instrucciones_tramitacion_electronica_titulos_academicos.md)
+- **Fundamento de**: [**Resolucion BOC 4**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Decreto BOC 135/2016**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamento de**: [**D106_2009 Funcion Directiva en Centros Docentes Publicos**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D106_2009_regula_funcion_directiva_centros_docentes_publicos.md)
+- **Fundamento de**: [**Resolucion BOC 94**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R12_1_2012_dictan_instrucciones_procedimiento_establecen_indicadores_evaluacion.md)
+- **Fundamento de**: [**D234_1996 Regulacion de AMPAS y Federaciones en Canarias**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D234_1996_regulan_asociaciones_madres_padres_alumnos_federaciones.md)
+- **Fundamento de**: [**Resolucion BOC 61**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/Osn_inclusion_e_innovacion_dictan_instrucciones_regular.md)
+- **Fundamento de**: [**Resolucion BOC 46**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../../autonómica/canarias/02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 3**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R12_2_2021_delega_direcciones_territoriales_educacion_determinada_competencia.md)
+- **Fundamento de**: [**Resolucion BOC 89**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R20_2_2025_escolarizacion_servicios_complementarios_establece_calendario_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 86**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R26_1_2026_modifica_resolucion_establece_calendario_escolar_dicta.md)
+- **Fundamento de**: [**LO1_2018 Estatuto de Autonomia de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamento de**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)
+- **Fundamento de**: [**Resolucion BOC 96**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/Rsn_de2026_convoca_sistema_libre_designacion_provision.md)
+- **Fundamento de**: [**D123/2023 Estructura Organica del Gobierno de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md)
+- **Fundamento de**: [**Resolucion BOC 85**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R10_4_2026_corrige_error_resolucion_mazo_establece_calendario.md)
+- **Fundamento de**: [**Resolucion BOC 91**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 28**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R17_4_2026_corrige_error_resolucion_amplian_resolucion_dicta.md)
+- **Fundamento de**: [**L14_1990 Regimen Juridico Administraciones Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 97**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R11_4_2025_escolarizacion_servicios_complementarios_aprueba_instruccion_ayudas.md)
+- **Fundamento de**: [**Resolucion BOC 95**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: [**Resolucion BOC 90**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **Fundamento de**: [**Resolucion BOC 9**](../../autonómica/canarias/02_gestion_y_administracion_centros/R25_6_2018_dispone_publicacion_acuerdo_aprueba_instrucciones_conforman.md)
+- **Fundamento de**: [**Resolucion BOC 88**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**L2_1987 Ley de la Funcion Publica Canaria**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
+- **Fundamento de**: [**Resolucion BOC 2**](../../autonómica/canarias/01_marco_normativo_general_y_organico/O20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**L4_2023 Ley del Gobierno de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 99**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
+- **Fundamento de**: [**Resolucion BOC 92**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 1**](../../autonómica/canarias/01_marco_normativo_general_y_organico/R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**D52_2009 Reglamento de Ordenacion de la Inspeccion de Educacion**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D52_2009_aprueba_reglamento_ordenacion_inspeccion_educacion_comunidad.md)
+- **Fundamento de**: [**Decreto BOC 212/1991**](../../autonómica/canarias/01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 87**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../../autonómica/canarias/08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
+- [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- [**L53_1984 Incompatibilidades del Personal Publico**](./L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
+- [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+

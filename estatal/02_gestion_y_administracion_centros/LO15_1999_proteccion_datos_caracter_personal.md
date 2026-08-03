@@ -867,3 +867,42 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 JOSÉ MARÍA AZNAR LÓPEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**BOE-A-2003-23399**](./L59_2003_firma_electronica.md)
+- **Fundamento de**: [**BOE-A-2003-4151**](./RD209_2003_regulan_registros_notificaciones_telematicas_asi_como.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](../01_marco_normativo_general_y_organico/LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**BOE-A-2006-21648**](./DOC1_instruccion_agencia_espanola_proteccion_datos_tratamiento.md)
+- **Fundamento de**: [**BOE-A-2007-19814**](../01_marco_normativo_general_y_organico/L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2008-979**](./LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamento de**: [**BOE-A-2010-10424**](../08_personal_docente/Osn_pre_regula_procedimiento_reconocimiento_control_seguimiento.md)
+- **Fundamento de**: [**BOE-A-2011-16923**](../08_personal_docente/Osn_edu_regula_convocatoria_reconocimiento_certificacion_registro.md)
+- **Fundamento de**: [**BOE-A-2011-17560**](../01_marco_normativo_general_y_organico/RD1495_2011_desarrolla_ley_reutilizacion_informacion_sector_publico.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
+- **Fundamento de**: [**BOE-A-2014-2222**](../03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](../08_personal_docente/RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Fundamento de**: [**BOE-A-2015-6839**](../08_personal_docente/RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**L19_2013 Transparencia y Buen Gobierno**](../01_marco_normativo_general_y_organico/L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](./L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](./LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](../01_marco_normativo_general_y_organico/LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**Resolucion BOC 68**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
+- **Fundamento de**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**D114_2011 Decreto de Convivencia Escolar**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md)
+
+### Fundamentos de Derecho
+- [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

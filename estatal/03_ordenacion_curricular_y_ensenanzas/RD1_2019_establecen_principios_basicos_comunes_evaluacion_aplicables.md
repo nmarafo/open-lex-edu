@@ -278,3 +278,29 @@ FELIPE R.
 La Ministra de Educación y Formación Profesional,
 
 MARÍA ISABEL CELAÁ DIÉGUEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 53**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R19_11_2025_dictan_instrucciones_organizacion_aplicacion_curso.md)
+- **Fundamento de**: [**Resolucion BOC 52**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R18_11_2019_dictan_instrucciones_evaluacion_pruebas_certificacion_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 59**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/Rsn_numero_convocan_pruebas_obtencion_certificados_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 87**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/R29_5_2026_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 82**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
+- **Fundamento de**: [**Resolucion BOC 49**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R10_4_2026_convocan_pruebas_certificacion_ensenanzas_idiomas_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 55**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R26_6_2025_dictan_instrucciones_especificas_complementarias_curso_organizacion.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

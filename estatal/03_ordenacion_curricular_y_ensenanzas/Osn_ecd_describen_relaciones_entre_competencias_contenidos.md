@@ -41,17 +41,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 Las orientaciones de la Unión Europea insisten en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que los individuos alcancen un pleno desarrollo personal, social y profesional que se ajuste a las demandas de un mundo globalizado y haga posible el desarrollo económico, vinculado al conocimiento. Así se establece, desde el Consejo Europeo de Lisboa en el año 2000 hasta las Conclusiones del Consejo de 2009 sobre el Marco Estratégico para la cooperación europea en el ámbito de la educación y la formación («ET 2020»).
@@ -443,3 +432,20 @@ Asimismo, resulta recomendable el uso del portfolio, que aporta información ext
 La selección y uso de materiales y recursos didácticos constituye un aspecto esencial de la metodología. El profesorado debe implicarse en la elaboración y diseño de diferentes tipos de materiales, adaptados a los distintos niveles y a los diferentes estilos y ritmos de aprendizaje de los alumnos y alumnas, con el objeto de atender a la diversidad en el aula y personalizar los procesos de construcción de los aprendizajes. Se debe potenciar el uso de una variedad de materiales y recursos, considerando especialmente la integración de las Tecnologías de la Información y la Comunicación en el proceso de enseñanza-aprendizaje que permiten el acceso a recursos virtuales.
 
 Finalmente, es necesaria una adecuada coordinación entre los docentes sobre las estrategias metodológicas y didácticas que se utilicen. Los equipos educativos deben plantearse una reflexión común y compartida sobre la eficacia de las diferentes propuestas metodológicas con criterios comunes y consensuados. Esta coordinación y la existencia de estrategias conexionadas permiten abordar con rigor el tratamiento integrado de las competencias y progresar hacia una construcción colaborativa del conocimiento.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
+- [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

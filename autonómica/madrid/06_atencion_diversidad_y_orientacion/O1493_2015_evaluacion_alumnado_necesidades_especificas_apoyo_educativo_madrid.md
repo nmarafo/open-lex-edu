@@ -30,21 +30,19 @@ relaciones:
   afecta_a_articulos: []
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2015/06/02/BOCM-20150602-1.PDF
 ---
-
-
 **Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas de apoyo educativo en la Comunidad de Madrid**
 
-## Preámbulo
-
-## Artículo 1. Objeto
-
-MARTES 2 DE JUNIO DE 2015Pág. 10 B.O.C.M. Núm. 129
+MARTES 2 DE JUNIO DE 2015
+Pág. 10
+B.O.C.M. Núm. 129
 BOCM-20150602-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
 Consejería de Economía y Hacienda
-1 RESOLUCIÓN de 21 de mayo de 2015, del Secretario General Técnico de la
+1
+RESOLUCIÓN de 21 de mayo de 2015, del Secretario General Técnico de la
 Consejería de Economía y Hacienda, por la que se convoca un puesto de trabajo
 para su provisión por el sistema de Libre Designación en la Consejería de Eco-
 nomía y Hacienda.
@@ -66,22 +64,18 @@ Segundo
 Normativa aplicable
 La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo,
 por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad
-de Madrid (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Or-
+de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Or-
 den 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las ba-
 ses generales que han de regir en las convocatorias para provisión de puestos de trabajo por
-los sistemas de Concurso de Méritos y Libre Designación (B
-OLETÍN OFICIAL DE LA COMU-
+los sistemas de Concurso de Méritos y Libre Designación (BOLETÍN OFICIAL DE LA COMU-
 NIDAD DE MADRID de 27 de abril); la Orden 2066/1998, de 30 de julio, por la que se aprue-
 ban nuevos modelos de impresos relativos a los procesos de provisión de puestos de traba-
-jo de personal funcionario (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de
+jo de personal funcionario (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 11 de
 agosto); la Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos
 y Recursos Humanos, por la que se dictan instrucciones para la emisión de los Certificados
 de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso
 de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reser-
-vados a personal funcionario de carrera no docente (B
-OLETÍN OFICIAL DE LA COMUNIDAD
+vados a personal funcionario de carrera no docente (BOLETÍN OFICIAL DE LA COMUNIDAD
 DE MADRID de 15 de noviembre de 2011) y, en lo no previsto por las anteriores, el Real De-
 creto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso
 del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos
@@ -89,40 +83,50 @@ de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administra
 neral del Estado (“Boletín Oficial del Estado” de 10 de abril).
 Tercero
 Requisitos y condiciones de participación
-1. Se recogen en el Anexo los requisitos indispensables que han de reunirse para el
+1.
+Se recogen en el Anexo los requisitos indispensables que han de reunirse para el
 desempeño del puesto de trabajo que se convoca en cuanto a Administración de pertenen-
 cia, Grupo de clasificación profesional, Cuerpo, Escala y/o Especialidad y titulación espe-
 cífica exigida en su caso.
 
-MARTES 2 DE JUNIO DE 2015B.O.C.M. Núm. 129 Pág. 11
+MARTES 2 DE JUNIO DE 2015
+B.O.C.M. Núm. 129
+Pág. 11
 BOCM-20150602-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-2. Podrán participar en este procedimiento los funcionarios que, en la fecha de entra-
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+2.
+Podrán participar en este procedimiento los funcionarios que, en la fecha de entra-
 da en vigor de la presente convocatoria, se encuentren en servicio activo o quieran reingre-
 sar a dicha situación, con arreglo, en este caso, a lo dispuesto en la normativa vigente. Po-
 drán, asimismo, participar los funcionarios que, en la misma fecha, se encuentren en
 situación de servicios especiales.
-3. Los funcionarios en situación de excedencia voluntaria por interés particular o por
+3.
+Los funcionarios en situación de excedencia voluntaria por interés particular o por
 agrupación familiar podrán participar si llevan más de dos años en dicha situación en la fe-
 cha de entrada en vigor de la convocatoria, indicando expresamente en la solicitud que de-
 sean reingresar al servicio activo.
-4. Los funcionarios procedentes de la situación de suspenso deberán haber cumpli-
+4.
+Los funcionarios procedentes de la situación de suspenso deberán haber cumpli-
 do el período de suspensión.
-5. Los requisitos y condiciones de participación expresados en el presente apartado
+5.
+Los requisitos y condiciones de participación expresados en el presente apartado
 han de poseerse en la fecha de entrada en vigor de la presente convocatoria y mantenerse
 hasta la resolución del procedimiento.
 Cuarto
 Solicitudes
-1. Las solicitudes se formularán de acuerdo con el modelo aprobado por la Or-
+1.
+Las solicitudes se formularán de acuerdo con el modelo aprobado por la Or-
 den 2066/1998, de 30 de julio, por la que se aprueban nuevos modelos de impresos relati-
-vos a los procesos de provisión de puestos de trabajo de personal funcionario (B
-OLETÍN
+vos a los procesos de provisión de puestos de trabajo de personal funcionario (BOLETÍN
 OFICIAL DE LA COMUNIDAD DE MADRID de 11 de agosto). En el caso de ser varias las pla-
 zas solicitadas, se indicará el orden de preferencia entre las mismas.
-2. Las solicitudes deberán ir acompañadas de breve historial académico y profesio-
+2.
+Las solicitudes deberán ir acompañadas de breve historial académico y profesio-
 nal así como de la documentación acreditativa que se considere procedente a efectos de
 apreciar la idoneidad del interesado para el desempeño del puesto.
-3. Los Certificados de Registro de Personal de los interesados relativos a su situa-
+3.
+Los Certificados de Registro de Personal de los interesados relativos a su situa-
 ción y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto
 en la Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Re-
 cursos Humanos, por la que se dictan instrucciones para la emisión de los Certificados de
@@ -142,51 +146,68 @@ trativo Común.
 Sexto
 Entrada en vigor
 La presente Resolución producirá efectos desde el día siguiente al de su publicación
-en el B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 Séptimo
 Recursos
 La presente Resolución pone fin a la vía administrativa y contra la misma podrá inter-
 ponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mis-
 mo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos
 meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos con-
-tados a partir del día siguiente a su publicación en el B
-OLETÍN OFICIAL DE LA COMUNIDAD
+tados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD
 DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho,
 todo ello de conformidad con lo dispuesto en los artículos 116 y 117 de la Ley 30/1992,
 
-MARTES 2 DE JUNIO DE 2015Pág. 12 B.O.C.M. Núm. 129
+MARTES 2 DE JUNIO DE 2015
+Pág. 12
+B.O.C.M. Núm. 129
 BOCM-20150602-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Proce-
 dimiento Administrativo Común, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la
 Jurisdicción Contencioso-Administrativa.
 En Madrid, a 21 de mayo de 2015.—El Secretario General Técnico de la Consejería
 de Economía y Hacienda, por delegación del Consejero de Economía y Hacienda (Orden
-de 20 de febrero de 2013; B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mar-
+de 20 de febrero de 2013; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mar-
 zo de 2013), Pedro Irigoyen Barja.
 
-MARTES 2 DE JUNIO DE 2015B.O.C.M. Núm. 129 Pág. 13
+MARTES 2 DE JUNIO DE 2015
+B.O.C.M. Núm. 129
+Pág. 13
 BOCM-20150602-1
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE LIBRE DESIGNACIÓN EN LA CONSEJERÍA DE ECONOMÍA Y HACIENDA
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN GESTIÓN ECONÓMICO-FINANCIERA
 EXPERIENCIA EN OPERACIONES DE TESORERÍA
 CONOCIMIENTOS FINANCIEROS Y BANCARIOS
 CONOCIMIENTOS Y EXPERIENCIA EN EL MANEJO DE HOJA DE CÁLCULO Y OFIMÁTICA
 MAÑ.Y 2 TARDES
-MadridLocalidad........:
-Turno/Jornada: PERFIL
+Madrid
+Localidad........:
+Turno/Jornada:
+PERFIL
 58983
 SERV.
 DECLARACIONES
 TRIBUTARIAS Y
 NOMINAS
-A/B 26     18.038,64 COMUNIDAD DE MADRIDCONSEJERIA ECONOMIA Y HACIENDA
+A/B
+26
+    18.038,64
+COMUNIDAD DE MADRID
+CONSEJERIA ECONOMIA Y HACIENDA
 VICECONSEJERIA HACIENDA Y POLITICA
 ECONOMICA
 DIRECCION GENERAL ECONOMIA Y POLITICA
@@ -198,7 +219,8 @@ NOMINAS
 TÉCNICOS SUPERIORES DE ADMINISTRACIÓN
 GENERAL
 G
-SUPERIOR DE GESTIÓN G
+SUPERIOR DE GESTIÓN
+G
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G

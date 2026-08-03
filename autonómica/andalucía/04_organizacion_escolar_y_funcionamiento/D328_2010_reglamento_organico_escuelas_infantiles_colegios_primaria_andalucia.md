@@ -1,36 +1,40 @@
 ---
 id: norm-and-d328-2010
-titulo: "Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria y de los colegios de educación infantil y primaria"
+titulo: Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico
+  de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria
+  y de los colegios de educación infantil y primaria
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "328/2010"
-fecha_disposicion: "2010-07-13"
-fecha_publicacion: "2010-07-16"
+numero_disposicion: 328/2010
+fecha_disposicion: '2010-07-13'
+fecha_publicacion: '2010-07-16'
 boletin: BOJA
-numero_boletin: "139"
+numero_boletin: '139'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2010/139/2"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2010/139/2"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2010/139/2
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2010/139/2
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-  subcategoria: "Reglamentos Orgánicos de Centro (ROC)"
+  subcategoria: Reglamentos Orgánicos de Centro (ROC)
 tags:
-  - roc
-  - escuelas_infantiles
-  - colegios_primaria
-  - ceip
-  - andalucia
+- roc
+- escuelas_infantiles
+- colegios_primaria
+- ceip
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo ciclo, de los colegios de educación primaria y de los colegios de educación infantil y primaria
 
-Página núm. 34 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 ponen. La evaluación se efectuará sobre los procesos educa-
 tivos y sobre los resultados obtenidos, tanto en lo relativo a la 
 organización, gestión y funcionamiento, como al conjunto de 
@@ -76,13 +80,13 @@ nuestros centros, tienen hoy. Idéntica consideración hay que
 hacer de los centros públicos específicos de educación espe-
 cial a los que también resulta de aplicación el Reglamento que 
 se aprueba por el presente Decreto.
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación, 
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, 
 ha introducido importantes novedades en la organización, fun-
 cionamiento y gobierno de los colegios de educación infantil y 
 primaria, profundizando en los conceptos de participación de 
 la comunidad educativa y de autonomía pedagógica, organiza-
 tiva y de gestión.
-Por otra parte, la Ley 17/2007, de 10 de diciembre, de 
+Por otra parte, la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de 
 Educación de Andalucía, reconoce dichos principios al dedicar 
 el título I a la comunidad educativa: alumnado, profesorado, al 
 que concede el papel relevante que representa en el sistema 
@@ -94,14 +98,14 @@ taria. Igualmente, su título IV trata de los centros educativos y
 dispone los aspectos esenciales que regirán su organización y 
 funcionamiento y sus órganos de gobierno y de coordinación 
 docente, impulsando la autonomía pedagógica, organizativa y 
-de gestión de los mismos, median te la articulación de mode-
+de gestión de los mismos, mediante la articulación de mode-
 los de funcionamiento propios en torno al Plan de Centro. Asi-
 mismo, en la ley se refuerza la función directiva, potenciando 
 su liderazgo pedagógico y organizativo. Finalmente, pone énfa-
 sis en la coordinación de las actuaciones de los distintos órga-
 nos y en el trabajo en equipo del profesorado. 
 Los cambios mencionados, junto con la necesidad de con-
-cretar y desarrollar los aspectos regulados en la Ley 17/2007, 
+cretar y desarrollar los aspectos regulados en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), 
 de 10 de diciembre, requieren de la derogación del reglamento 
 de organización y funcionamiento de los centros de educación 
 infantil y primaria actualmente en vigor.
@@ -139,7 +143,7 @@ manera que el alumnado sea partícipe en la edificación de la
 sociedad del conocimiento.
 Por otra parte, la atribución de mayores competencias a 
 los directores y directoras, en desarrollo de lo establecido en 
-la mencionada Ley 17/2007, de 10 de diciembre, junto con 
+la mencionada [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, junto con 
 la simplificación administrativa constituyen, indudablemente, 
 un novedoso marco regulador de la organización y funciona-
 miento de los centros docentes respecto al modelo hoy vi-
@@ -152,7 +156,7 @@ gos y la promoción de la seguridad y la salud como parte del
 Plan de Centro, integrando estos aspectos en la organización y 
 gestión del centro y como factor de calidad de la enseñanza.
 A todo ello habría que añadir en la regulación que con-
-templa este Decreto la actualiz ación de las normas de convi-
+templa este Decreto la actualización de las normas de convi-
 vencia, entendida esta como meta y condición necesaria para 
 el buen desarrollo del trabajo del alumnado y del profesorado, 
 de forma que proporcione un instrumento más ágil que dé 
@@ -166,13 +170,12 @@ uso seguro de internet por el alumnado en consonancia con lo
 regulado en el Decreto 25/2007, de 6 de febrero, por el que 
 se establecen medidas para el fomento, la prevención de ries-
 gos y la seguridad en el uso de internet y las tecnologías de la 
-
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 35
+Sevilla, 16 de julio 2010 
 información y la comunicación (TIC) por parte de las personas 
 menores de edad.
 En definitiva, se trata de que, a partir de una misma regu-
 lación normativa, se puedan poner en marcha en cada centro 
-dinámicas de funcionamiento di ferentes que contextualicen 
+dinámicas de funcionamiento diferentes que contextualicen 
 tanto los aspectos relacionados con la organización del go-
 bierno y la administración, como las que se refieren al trabajo 
 académico y a la organización social del centro.
@@ -186,7 +189,7 @@ de conformidad con lo establecido en el artículo 27.9 de la
 Ley 6/2006, de 24 de octubre, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de 
 Gobierno en su reunión del día 13 de julio de 2010,
-DISPONGO
+D I S P O N G O
 Artículo único. Aprobación del Reglamento Orgánico de 
 las escuelas infantiles de segundo ciclo, los colegios de edu-
 cación primaria, los colegios de educación infantil y primaria y 
@@ -196,7 +199,6 @@ tiles de segundo ciclo, de los colegios de educación primaria,
 de los colegios de educación infantil y primaria y de los cen-
 tros públicos específicos de educación especial, cuyo texto se 
 inserta a continuación. 
-
 ## Disposición adicional primera. Centros de convenio. 
 El presente Decreto será de aplicación a los centros do-
 centes públicos de educación infantil, de educación primaria y 
@@ -204,7 +206,6 @@ específicos de educación especial acogidos a convenios entre
 la Consejería competente en materia de educación y otras Ad-
 ministraciones Públicas en aquellos aspectos no recogidos en 
 los citados convenios. 
-
 ## Disposición adicional segunda. Coordinación académica 
 entre los centros de educación infantil y los de educación pri-
 maria.
@@ -224,7 +225,6 @@ aplicadas.
 fiere el apartado anterior dispondrán las actuaciones a realizar 
 en este ámbito las cuales, una vez acordadas, se recogerán en 
 los respectivos proyectos educativos. 
-
 ## Disposición adicional tercera. Coordinación académica con 
 los institutos de educación secundaria a los que estén adscritos.
 1. La Consejería competente en materia de educación 
@@ -241,7 +241,6 @@ cada niño o niña.
 fiere el apartado anterior dispondrán las actuaciones a realizar 
 en este ámbito las cuales, una vez acordadas, se recogerán en 
 los respectivos proyectos educativos.
-
 ## Disposición adicional cuarta. Coordinación con institutos 
 de educación secundaria de los colegios autorizados a impartir 
 los dos primeros cursos de la educación secundaria obligatoria.
@@ -273,20 +272,18 @@ el colegio se encuentre adscrito.
 3. Los departamentos de coordinación didáctica del insti-
 tuto de educación secundaria, al que se encuentren adscritos 
 dichos colegios, incluirán en su programación las enseñanzas 
-correspondientes a los dos prim eros cursos de la educación 
+correspondientes a los dos primeros cursos de la educación 
 secundaria obligatoria impartidos en los mismos. A tal efecto, 
 el profesorado que imparta dichos cursos se incorporará a los 
 departamentos de coordinación didáctica del instituto que co-
 rrespondan y asistirá a las reuniones de los mismos que opor-
 tunamente se establezcan. Dichas reuniones se celebrarán en 
 horario que permita la asistencia del profesorado afectado.
-
 ## Disposición adicional quinta. Inspección educativa. 
 La inspección educativa velará por el cumplimiento de lo 
 establecido en el presente Decreto, de acuerdo con sus co-
 metidos competenciales y en el ejercicio de sus funciones y 
 atribuciones.
-
 ## Disposición transitoria primera. Plazo para la elaboración 
 del Plan de Centro.
 Las escuelas infantiles de segundo ciclo, los colegios de 
@@ -296,7 +293,6 @@ cial que estén en funcionamiento a la entrada en vigor del
 presente Decreto, dispondrán de doce meses para elaborar 
 y aprobar su Plan de Centro, contados a partir de la fecha de 
 dicha entrada en vigor. 
-
 ## Disposición transitoria segunda. Órganos de gobierno uni-
 personales y de coordinación docente. 
 Los miembros de los equipos directivos que fueron ele-
@@ -305,10 +301,9 @@ creto, así como las personas responsables de los órganos de
 coordinación docente, continuarán desempeñando sus fun-
 ciones hasta la finalización del mandato para el que fueron 
 nombrados, salvo que se produzca antes alguna de las causas 
-Página núm. 36 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 de cese que contempla el Reglamento que se aprueba por el 
 presente Decreto.
-
 ## Disposición transitoria tercera. Consejos Escolares.
 Los miembros de los Consejos Escolares que fueron 
 elegidos con anterioridad a la entrada en vigor del presente 
@@ -316,7 +311,6 @@ Decreto, continuarán desempeñando sus funciones hasta la
 constitución de los nuevos Consejos Escolares, de acuerdo 
 con lo recogido en el Reglamento que se aprueba por el pre-
 sente Decreto.
-
 ## Disposición transitoria cuarta. Participación de la comuni-
 dad educativa en los colegios que impartan los dos primeros 
 cursos de la educación secundaria obligatoria.
@@ -328,7 +322,6 @@ parte, según corresponda, de todos sus órganos de gobierno y
 de coordinación docente, y asumirán todos los derechos y obli-
 gaciones que, como miembros de dicha comunidad educativa, 
 les son aplicables.
-
 ## Disposición derogatoria única. Derogación normativa. 
 1. Quedan derogadas las siguientes normas:
 a) El Decreto 201/1997, de 3 de septiembre, por el que 
@@ -356,7 +349,6 @@ parten las enseñanzas de educación infantil y primaria.
 2. Asimismo, quedan derogadas cuantas disposiciones de 
 igual o inferior rango se opongan a lo dispuesto en el presente 
 Decreto.
-
 ## Disposición final primera. Centros concertados.
 En tanto no dispongan de normativa específica, será de 
 aplicación a los centros concertados que impartan alguna de 
@@ -369,7 +361,6 @@ posición transitoria tercera del presente Decreto, adecuándolo
 a sus características específicas de organización y funciona-
 miento y a la estructura de cargos directivos y de coordinación 
 docente de que dispongan.
-
 ## Disposición final segunda. Reproducción de la normativa 
 estatal.
 Los artículos 7.1, excepto las letras k) y n), 16, 47.1, 49.8, 
@@ -378,10 +369,9 @@ letras c) y j), 68.1, 70.1 letras a), b), d), e), g), h), i), j), k), l), n) y
 r) y 75.1 del Reglamento Orgánico que se aprueba mediante el 
 presente Decreto, reproducen normas dictadas por el Estado 
 al amparo del artículo 149.1.1.ª y 30.ª de la Constitución Es-
-pañola y recogidas en la Ley Orgánica 8/1985, de 3 de julio, 
+pañola y recogidas en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, 
 reguladora del Derecho a la Educación, y en la Ley Orgánica 
 2/2006, de 3 de mayo, de Educación.
-
 ## Disposición final tercera. Reproducción de la normativa 
 autonómica.
 Los artículos 2, 3, 12.1, 12.2, 12.3, 12.4, 13.3, 14, 19.1, 
@@ -391,17 +381,15 @@ l), m) y p), 24.1, 24.2 letras a), b), c), d) y k) 25.1, 25.3, 25.4,
 70.1 letras f), m) y q), 70.2, 71.3, 71.4, 75.2, 79.1, 79.3, 84.2, 
 86.2, 89.3 y 91.3 del Reglamento Orgánico que se aprueba 
 mediante el presente Decreto, así como el apartado 1 de la 
-
 ## disposición adicional segunda y el apartado 1 de la disposición 
 adicional tercera del presente Decreto, reproducen normas 
 dictadas por la Comunidad Autónoma de Andalucía y recogi-
-das en la Ley 17/2007, de 10 de diciembre, de Educación de 
+das en la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de 
 Andalucía, en la Ley 9/2007, de 22 de octubre, de la Adminis-
 tración de la Junta de Andalucía, en la Ley 12/2007, de 26 de 
 noviembre, para la Promoción de la Igualdad de Género en 
 Andalucía, y en la Ley 13/2007, de 26 de noviembre, de Pre-
 vención y Protección Integral contra la Violencia de Género.
-
 ## Disposición final cuarta. Votación por medios electrónicos.
 Se faculta a la persona titular de la Consejería compe-
 tente en materia de educación para que arbitre las medidas 
@@ -409,12 +397,10 @@ necesarias con el fin de facilitar, en las elecciones a Consejos
 Escolares, la votación de los distintos representantes de la co-
 munidad educativa por medios electrónicos en los centros que 
 se determinen.
-
 ## Disposición final quinta. Desarrollo.
 Se habilita al Consejero de Educación para dictar cuan-
 tas disposiciones sean necesarias para el desarrollo de lo dis-
 puesto en el presente Decreto.
-
 ## Disposición final sexta. Entrada en vigor. 
 El presente Decreto entrará en vigor a los veinte días de 
 su publicación en el Boletín Oficial de la Junta de Andalucía. 
@@ -431,21 +417,17 @@ EDUCACIÓN ESPECIAL
 TÍTULO PRELIMINAR
 CAPÍTULO ÚNICO
 Ámbito
-
 ## Artículo 1. Ámbito de aplicación.
 El presente Reglamento será de aplicación a las escuelas 
 infantiles de segundo ciclo, a los colegios de educación prima-
 ria, a los colegios de educación infantil y primaria y a los cen-
 tros públicos específicos de educación especial dependientes 
 de la Consejería competente en materia de educación.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 37
-
-# Título Título
+Sevilla, 16 de julio 2010 
+# TÍTULO I
 EL ALUMNADO
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Deberes y derechos
-
 ## Artículo 2. Deberes del alumnado.
 Son deberes del alumnado:
 a) El estudio, que se concreta en:
@@ -456,7 +438,7 @@ orientadas al desarrollo del currículo, siguiendo las directrices
 del profesorado.
 3.º El respeto a los horarios de las actividades programa-
 das por el centro.
-4.º El respeto al ejercicio de l derecho al estudio de sus 
+4.º El respeto al ejercicio del derecho al estudio de sus 
 compañeros y compañeras.
 5.º La obligación de realizar las actividades escolares 
 para consolidar su aprendizaje que le sean asignadas por el 
@@ -480,7 +462,6 @@ h) Participar en la vida del centro.
 i) Conocer la Constitución Española y el Estatuto de Auto-
 nomía para Andalucía, con el fin de formarse en los valores y 
 principios recogidos en ellos.
-
 ## Artículo 3. Derechos del alumnado.
 El alumnado tiene derecho:
 a) A recibir una educación de calidad que contribuya al 
@@ -523,7 +504,6 @@ Autonomía para Andalucía.
 ñ) A ser informado de sus derechos y deberes, así como 
 de las normas de convivencia establecidas en el centro, de 
 forma adecuada a su edad.
-
 ## Artículo 4. Ejercicio efectivo de determinados derechos.
 1. Para favorecer el ejercicio de la libertad de expresión 
 del alumnado, la jefatura de estudios favorecerá la organiza-
@@ -532,16 +512,13 @@ adecuadas a su edad, en las que este podrá participar.
 2. Asimismo, en las normas de convivencia se establecerá 
 la forma, los espacios y lugares donde se podrán fijar escritos 
 del alumnado en los que ejercite su libertad de expresión.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Participación del alumnado
-
 ## Artículo 5. Cauces de participación. 
 Constituyen un deber y un derecho del alumnado de 
 educación primaria la participación en el funcionamiento y en 
 la vida del centro a través de los delegados y delegadas de 
 grupo.
-
 ## Artículo 6. Delegados y delegadas de clase.
 1. El alumnado de cada clase de educación primaria ele-
 girá, por sufragio directo y secreto, por mayoría simple, du-
@@ -556,14 +533,12 @@ rado en los asuntos que afecten al funcionamiento de la clase
 y, en su caso, trasladarán al tutor o tutora las sugerencias y 
 reclamaciones del grupo al que representan.
 3. El reglamento de organización y funcionamiento del 
-centro podrá recoger otras func iones de los delegados y dele-
+centro podrá recoger otras funciones de los delegados y dele-
 gadas de clase.
-
-# Título Título
+# TÍTULO II
 EL PROFESORADO
 CAPÍTULO ÚNICO
 Funciones, deberes y derechos del profesorado
-
 ## Artículo 7. Funciones y deberes del profesorado.
 1. Las funciones y deberes de los maestros y maestras 
 son, entre otros, las siguientes:
@@ -571,7 +546,7 @@ a) La programación y la enseñanza de las áreas que ten-
 gan encomendadas.
 b) La evaluación del proceso de aprendizaje del alum-
 nado, así como la evaluación de los procesos de enseñanza.
-Página núm. 38 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 c) La tutoría del alumnado, la dirección y la orientación de 
 su aprendizaje y el apoyo en su proceso educativo, en colabo-
 ración con las familias.
@@ -607,7 +582,6 @@ trabajo en el aula.
 2. El profesorado realizará estas funciones incorporando los 
 principios de colaboración, de trabajo en equipo y de coordinación 
 entre el personal docente y el de atención educativa complementaria.
-
 ## Artículo 8. Derechos del profesorado.
 1. El profesorado de las escuelas infantiles de segundo 
 ciclo, de los colegios de educación primaria, de los colegios de 
@@ -653,17 +627,16 @@ dos en los términos establecidos legalmente.
 m) A la acreditación de los méritos que se determinen a 
 efectos de su promoción profesional, entre los que se consi-
 derarán, al menos, los siguientes: la participación en proyec-
-tos de experimentación, invest igación e innovación educativa, 
+tos de experimentación, investigación e innovación educativa, 
 sometidas a su correspondiente evaluación; la impartición de 
 la docencia de su materia en una lengua extranjera; el ejerci-
 cio de la función directiva; la acción tutorial; la implicación en 
 la mejora de la enseñanza y del rendimiento del alumnado, y 
 la dirección de la fase de prácticas del profesorado de nuevo 
 ingreso.
-
 ## Artículo 9. Protección de los derechos del profesorado.
 1. La Consejería competente en materia de educación 
-prestará una atención prioritari a a la mejora de las condicio-
+prestará una atención prioritaria a la mejora de las condicio-
 nes en las que el profesorado realiza su trabajo y al estímulo 
 de una creciente consideración y reconocimiento social de la 
 función docente.
@@ -702,17 +675,15 @@ procedimientos judiciales iniciados frente al personal docente,
 como en aquellos otros que éste inicie en defensa de sus de-
 rechos frente a actos que atenten contra su integridad física o 
 provoquen daños en sus bienes.
-
-# Título Título
+# TÍTULO III
 LAS FAMILIAS
 CAPÍTULO ÚNICO
 Participación en el proceso educativo
-
 ## Artículo 10. Derechos de las familias.
 Las familias tienen derecho a:
 a) Recibir el respeto y la consideración de todo el perso-
 nal del centro.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 39
+Sevilla, 16 de julio 2010 
 b) Participar en el proceso educativo de sus hijos e hijas, 
 apoyando el proceso de enseñanza y aprendizaje de estos.
 c) Ser informadas de forma periódica sobre la evolución 
@@ -747,7 +718,6 @@ teriales didácticos adoptados en el centro.
 n) Participar en la vida del centro y en el Consejo Escolar.
 ñ) Utilizar las instalaciones del centro en los términos que 
 establezca el Consejo Escolar.
-
 ## Artículo 11. Colaboración de las familias.
 1. Los padres y las madres o representantes legales, 
 como principales responsables que son de la educación de 
@@ -766,7 +736,6 @@ dido por los centros.
 e) Cumplirán con las obligaciones contraídas en los com-
 promisos educativos y de convivencia que hubieran suscrito 
 con el centro.
-
 ## Artículo 12. Asociaciones de madres y padres del alum-
 nado.
 1. Las madres, padres y representantes legales del alum-
@@ -796,13 +765,11 @@ doras de la Enseñanza.
 madres y padres del alumnado con los equipos directivos de 
 los centros, y la realización de acciones formativas en las que 
 participen las familias y el profesorado.
-
-# Título Título
+# TÍTULO IV
 EL PERSONAL DE ADMINISTRACIÓN Y SERVICIOS Y DE ATENCIÓN 
 EDUCATIVA COMPLEMENTARIA
 CAPÍTULO ÚNICO
 Derechos, obligaciones y protección de derechos
-
 ## Artículo 13. Derechos y obligaciones.
 1. El personal de administración y servicios y de aten-
 ción educativa y complementaria de las escuelas infantiles de 
@@ -822,7 +789,6 @@ planes específicos de formación dirigidos al personal de refe-
 rencia en los que se incluirán aspectos relativos a la ordena-
 ción general del sistema educativo y a la participación de este 
 sector en el mismo.
-
 ## Artículo 14. Protección de derechos.
 1. Se promoverán acciones que favorezcan la justa valo-
 ración social del personal de administración y servicios y de 
@@ -833,20 +799,17 @@ públicos específicos de educación especial.
 2. Asimismo, se proporcionará a este personal asistencia 
 jurídica y psicológica gratuita por hechos que se deriven de su 
 ejercicio profesional en los términos recogidos en el artículo 9.5. 
-
-# Título Título
+# TÍTULO V 
 EL CENTRO DOCENTE
-
-### Capítulo Capítulo
+### CAPÍTULO I
 Disposiciones generales
-
 ## Artículo 15. Carácter y enseñanzas de los centros.
  1. Las escuelas infantiles de segundo ciclo, los colegios 
 de educación primaria y los colegios de educación infantil y 
 primaria dependientes de la Consejería competente en mate-
 ria de educación, son centros docentes públicos que imparten 
 las enseñanzas de educación infantil de segundo ciclo, de edu-
-Página núm. 40 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 cación primaria y de educación infantil de segundo ciclo y de 
 educación primaria, respectivamente.
 2. Los centros públicos específicos de educación espe-
@@ -857,7 +820,6 @@ programas de cualificación profesional inicial específicos.
 3. La autorización para impartir las enseñanzas que se 
 establecen en este artículo corresponde a la persona titular de 
 la Consejería competente en materia de educación.
-
 ## Artículo 16. Creación y supresión de las escuelas infanti-
 les de segundo ciclo, de los colegios de educación primaria, 
 de los colegios de educación infantil y primaria y de los cen-
@@ -865,7 +827,7 @@ tros públicos específicos de educación especial.
 1. La creación y supresión de los centros a los que se 
 refiere este Reglamento corresponden al Consejo de Gobierno 
 de la Junta de Andalucía, mediante Decreto, a propuesta de 
-la persona titular de la Consej ería competente en materia de 
+la persona titular de la Consejería competente en materia de 
 educación.
 2. Las Corporaciones locales podrán proponer la creación 
 de escuelas infantiles de segundo ciclo, de colegios de edu-
@@ -880,13 +842,12 @@ la Consejería competente en materia de educación.
 c) Previamente a su creación, la Corporación local que 
 promueva el centro y la Consejería competente en materia de 
 educación firmarán un convenio en el que se regulará el régi-
-men económico y de funcionamien to del mismo, en el marco 
+men económico y de funcionamiento del mismo, en el marco 
 de lo dispuesto en el presente Reglamento.
 3. Los centros creados con arreglo a lo establecido en 
 el apartado anterior tendrán, a todos los efectos, el carácter 
 de centros públicos, de acuerdo con la disposición adicional 
-segunda de la Ley Orgánica 8/1985, de 3 de julio.
-
+segunda de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio.
 ## Artículo 17. Modificación de la red de centros.
 1. La red de los centros a los que se refiere el artícu-
 lo 15.1 podrá ser modificada por Orden de la persona titu-
@@ -902,7 +863,7 @@ primaria y de educación especial que se estimen necesarias
 para la atención de poblaciones con especiales características 
 sociodemográficas o escolares.
 3. De conformidad con lo establecido en el artículo 107.5 
-de la Ley Orgánica 2/2006, de 3 de mayo, la persona titular 
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, la persona titular 
 de la Consejería competente en materia de educación podrá 
 autorizar la agrupación de las unidades creadas, con arreglo a 
 lo dispuesto en el apartado anterior, de forma que entre ellas 
@@ -920,7 +881,6 @@ d) Domicilio oficial del colegio público rural.
 teria de educación regulará la adscripción de los maestros o 
 maestras titulares de las unidades que se agrupan en un cole-
 gio público rural.
-
 ## Artículo 18. Denominación de los centros.
 1. Las escuelas infantiles de segundo ciclo, los colegios 
 de educación primaria los colegios de educación infantil y pri-
@@ -933,18 +893,16 @@ rable del Ayuntamiento.
 colegios con la misma denominación específica.
 3. La denominación del centro figurará en la fachada del 
 edificio, en lugar visible.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Autonomía pedagógica, organizativa y de gestión
-
 ## Artículo 19. Disposiciones generales.
 1. Las escuelas infantiles de segundo ciclo, los colegios 
 de educación primaria, los colegios de educación infantil y 
 primaria y los centros públicos específicos de educación es-
 pecial contarán con autonomía pedagógica, de organización 
 y de gestión para poder llevar a cabo modelos de funciona-
-miento propios, en el marco de la Ley Orgánica 2/2006, de 
-3 de mayo, de la Ley 17/2007, de 10 de diciembre, en los 
+miento propios, en el marco de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
+3 de mayo, de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, en los 
 términos recogidos en este Reglamento y en las normas que 
 lo desarrollen.
 2. Dichos modelos de funcionamiento propios, que po-
@@ -968,10 +926,9 @@ darán cuenta a la comunidad educativa y a la Administración,
 de su gestión y de los resultados obtenidos.
 6. La Consejería competente en materia de educación do-
 tará a los centros docentes de recursos humanos y materiales 
-que posibiliten el ejercicio de su  autonomía. En la asignación 
+que posibiliten el ejercicio de su autonomía. En la asignación 
 de dichos recursos, se tendrán en cuenta las características 
 del centro y del alumnado al que atiende.
-
 ## Artículo 20. El Plan de Centro.
 1. El proyecto educativo, el reglamento de organización 
 y funcionamiento y el proyecto de gestión constituyen el Plan 
@@ -984,8 +941,8 @@ colaboración e implicación del equipo técnico de coordinación
 pedagógica y de otros órganos de coordinación docente. 
 3. El Claustro de Profesorado formulará propuestas al 
 equipo directivo para la elaboración del Plan de Centro, fijará 
-criterios referentes a la orie ntación y tutoría del alumnado, 
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 41
+criterios referentes a la orientación y tutoría del alumnado, 
+Sevilla, 16 de julio 2010 
 informará el reglamento de organización y funcionamiento y 
 aprobará y evaluará los aspectos educativos del Plan de Cen-
 tro a que se refieren las letras b), c), d), e), f), g), k), n) y ñ) del 
@@ -994,12 +951,11 @@ tro a que se refieren las letras b), c), d), e), f), g), k), n) y ñ) del
 gará a todo el personal del centro y vinculará a la comunidad 
 educativa del mismo. Se podrá actualizar o modificar, en su 
 caso, tras los procesos de autoevaluación a que se refiere el 
-## artículo 26 o a propuesta del director o directora en función de
+## artículo 26 o a propuesta del director o directora en función de 
 su proyecto de dirección. 
 5. El Plan de Centro será público y se facilitará su 
 conocimiento por la comunidad educativa y la ciudadanía en 
 general.
-
 ## Artículo 21. El proyecto educativo.
 1. El proyecto educativo constituye las señas de identidad 
 del centro docente y expresa la educación que desea y va a 
@@ -1011,8 +967,8 @@ tural, hacen del centro un elemento dinamizador de la zona
 donde está ubicado.
 2. El proyecto educativo definirá los objetivos particulares 
 que el centro se propone alcanzar, partiendo de su realidad y 
-tomando como referencia la Ley Orgánica 2/2006, de 3 de 
-mayo, y la Ley 17/2007, de 10 de diciembre, acerca de los 
+tomando como referencia la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
+mayo, y la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, acerca de los 
 principios que orientan cada una de las etapas educativas que 
 se imparten en el mismo y las correspondientes prescripcio-
 nes acerca del currículo.
@@ -1060,7 +1016,7 @@ de la educación infantil.
 o) Los planes estratégicos que, en su caso, se desarrollen 
 en el centro.
 p) Cualesquiera otros que le sean atribuidos por Orden de 
-la persona titular de la Consej ería competente en materia de 
+la persona titular de la Consejería competente en materia de 
 educación.
 4. En la elaboración del proyecto educativo podrán reali-
 zar sugerencias y aportaciones el profesorado, el personal de 
@@ -1072,7 +1028,6 @@ educación secundaria al que están adscritos, con objeto de do-
 tar de mayor continuidad a las distintas etapas educativas que 
 cursa el alumnado. En cualquier caso, dichos proyectos educati-
 vos habrán de ser aprobados en cada uno de los centros.
-
 ## Artículo 22. El plan de convivencia.
 1. El plan de convivencia incluirá, al menos, los siguientes 
 aspectos:
@@ -1095,7 +1050,7 @@ f) Funciones de los delegados y de las delegadas del alum-
 nado en la mediación para la resolución pacífica de los conflic-
 tos que pudieran presentarse entre el alumnado, promoviendo 
 su colaboración con el tutor o la tutora del grupo.
-g) Procedimiento de elección  y funciones del delegado o 
+g) Procedimiento de elección y funciones del delegado o 
 de la delegada de los padres y madres del alumnado, entre 
 las que se incluirá la de mediación en la resolución pacífica 
 de conflictos entre el propio alumnado o entre éste y cualquier 
@@ -1105,14 +1060,13 @@ legado o delegada de los padres y madres del alumnado en
 cada uno de los grupos. Será elegido para cada curso escolar 
 por los propios padres, madres o representantes legales del 
 alumnado.
-
 ## Artículo 23. Aula de convivencia.
 1. Los centros educativos podrán crear aulas de convi-
 vencia para el tratamiento individualizado del alumnado de 
-educación primaria que, como co nsecuencia de la imposición 
+educación primaria que, como consecuencia de la imposición 
 de una corrección o medida disciplinaria por alguna de las 
 conductas tipificadas en los artículos 33 y 36, se vea privado 
-de su derecho a participar en el  normal desarrollo de las acti-
+de su derecho a participar en el normal desarrollo de las acti-
 vidades lectivas.
 2. El plan de convivencia establecerá los criterios y condi-
 ciones para que el alumnado a que se refiere el apartado an-
@@ -1124,8 +1078,8 @@ dres, madres o representantes legales del alumno o alumna.
 3. En estas aulas de convivencia se favorecerá un pro-
 ceso de reflexión por parte de cada alumno o alumna que sea 
 atendido en las mismas acerca de las circunstancias que han 
-motivado su presencia en ellas,  de acuerdo con los criterios 
-Página núm. 42 BOJA núm. 139 Sevilla, 16 de julio 2010
+motivado su presencia en ellas, de acuerdo con los criterios 
+Sevilla, 16 de julio 2010
 del correspondiente equipo de orientación educativa y se ga-
 rantizará la realización de las actividades formativas que deter-
 mine el equipo docente que atiende al alumno o alumna.
@@ -1137,7 +1091,6 @@ tación educativa y se concretarán las actuaciones que se rea-
 lizarán en la misma, de acuerdo con los criterios pedagógicos 
 que, a tales efectos, sean establecidos por el equipo técnico 
 de coordinación pedagógica.
-
 ## Artículo 24. El reglamento de organización y funciona-
 miento. 
 1. El reglamento de organización y funcionamiento reco-
@@ -1185,7 +1138,7 @@ j) Las competencias y funciones relativas a la prevención
 de riesgos laborales.
 k) Cualesquiera otros que le sean atribuidos por Orden 
 de la persona titular de la Consejería competente en materia 
-de educación y, en general, to dos aquellos aspectos relativos 
+de educación y, en general, todos aquellos aspectos relativos 
 a la organización y funcionamiento del centro no contempla-
 dos por la normativa vigente, a la que, en todo caso, deberá 
 supeditarse.
@@ -1194,7 +1147,6 @@ funcionamiento podrán realizar sugerencias y aportaciones
 el profesorado, el personal de administración y servicios y de 
 atención educativa complementaria y las asociaciones de pa-
 dres y madres del alumnado.
-
 ## Artículo 25. El proyecto de gestión. 
 1. El proyecto de gestión de las escuelas infantiles de 
 segundo ciclo, de los colegios de educación primaria, de los 
@@ -1239,7 +1191,7 @@ caso de la justificación de la cuenta, se realizará por medio de
 una certificación de dicho Consejo Escolar sobre la aplicación 
 dada a los recursos totales, que sustituirá a los justificantes 
 originales, los cuales, junto con toda la documentación, esta-
-rán a disposición tanto de la Co nsejería competente en mate-
+rán a disposición tanto de la Consejería competente en mate-
 ria de educación, como de los órganos de la Comunidad Autó-
 noma con competencia en materia de fiscalización económica 
 y presupuestaria, de la Cámara de Cuentas de Andalucía, del 
@@ -1247,7 +1199,6 @@ Parlamento de Andalucía, del Tribunal de Cuentas y de los ór-
 ganos de la Unión Europea con competencia en la materia. 
 5. Los presupuestos anuales y las cuentas de gestión for-
 marán parte del proyecto de gestión.
-
 ## Artículo 26. Autoevaluación.
 1. Sin perjuicio del desarrollo de los planes de evaluación 
 de los centros que lleve a cabo la Agencia Andaluza de Evalua-
@@ -1264,10 +1215,10 @@ por la inspección educativa.
 cerá indicadores de que faciliten a los centros la realización de 
 su autoevaluación de forma objetiva y homologada en toda la 
 Comunidad Autónoma, sin menoscabo de la consideración de 
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 43
+Sevilla, 16 de julio 2010 
 los indicadores de calidad que establezca el equipo técnico de 
 coordinación pedagógica y a los que se refiere el artículo 88.o).
-3. Dicha evaluación tendrá co mo referentes los objetivos 
+3. Dicha evaluación tendrá como referentes los objetivos 
 recogidos en el Plan de Centro e incluirá una medición de los 
 distintos indicadores establecidos que permita valorar el grado 
 del cumplimiento de dichos objetivos, el funcionamiento glo-
@@ -1291,7 +1242,6 @@ uno de los distintos sectores de la comunidad educativa elegi-
 dos por el Consejo Escolar de entre sus miembros, de acuerdo 
 con el procedimiento que se establezca en el reglamento de 
 organización y funcionamiento del centro.
-
 ## Artículo 27. Las programaciones didácticas. 
 1. Las programaciones didácticas en la educación prima-
 ria son instrumentos específicos de planificación, desarrollo y 
@@ -1304,7 +1254,7 @@ fesorado y se podrán actualizar o modificar, en su caso, tras
 los procesos de autoevaluación a que se refiere el artículo 26.
 2. Las programaciones didácticas incluirán:
 a) Los objetivos, los contenidos y su distribución temporal 
-y los criterios de evaluación para  cada ciclo, posibilitando la 
+y los criterios de evaluación para cada ciclo, posibilitando la 
 adaptación de la secuenciación de contenidos a las caracterís-
 ticas del centro y su entorno.
 b) La contribución de las áreas a la adquisición de las 
@@ -1313,7 +1263,7 @@ c) La forma en que se incorporan los contenidos de
 carácter transversal al currículo.
 d) La metodología que se va a aplicar.
 e) Los procedimientos de evaluación del alumnado y los 
-criterios de calificación, en co nsonancia con las orientaciones 
+criterios de calificación, en consonancia con las orientaciones 
 metodológicas establecidas.
 f) Las medidas previstas para estimular el interés y el há-
 bito de la lectura y la mejora de la expresión oral y escrita del 
@@ -1338,7 +1288,6 @@ dizaje del alumnado.
 5. Los maestros y maestras desarrollarán su actividad 
 docente de acuerdo con las programaciones didácticas de los 
 equipos de ciclo a los que pertenezcan.
-
 ## Artículo 28. Las propuestas pedagógicas.
 1. Las propuestas pedagógicas en el segundo ciclo de la 
 educación infantil respetarán las características propias del 
@@ -1361,20 +1310,18 @@ g) La selección y organización de los recursos didácticos
 y materiales.
 h) Los procedimientos de evaluación del alumnado, en con-
 sonancia con las orientaciones metodológicas establecidas.
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Normas de convivencia
-Sección 1.ª Disposiciones generales
-
+#### Sección 1.ª Disposiciones generales
 ## Artículo 29. Cumplimiento de los deberes y ejercicio de 
 los derechos.
 1. Con el fin de garantizar, tanto el ejercicio de los dere-
-chos del alumnado como el cump limiento de sus deberes, el 
+chos del alumnado como el cumplimiento de sus deberes, el 
 proyecto educativo de los centros, a que se refiere el artícu-
 lo 21, incluirá normas de convivencia.
 2. En la elaboración de estas normas se tendrán en 
 cuenta los siguientes principios:
-a) La convivencia será ente ndida como meta y condición 
+a) La convivencia será entendida como meta y condición 
 necesaria para el buen desarrollo del trabajo del alumnado y 
 del profesorado, garantizándose que no se produzca segrega-
 ción del alumnado por razón de sus creencias, sexo, orienta-
@@ -1389,7 +1336,6 @@ del alumnado, precisarán las medidas preventivas e incluirán
 la existencia de un sistema que detecte el incumplimiento de 
 dichas normas y las correcciones o medidas disciplinarias que, 
 en su caso, se aplicarían.
-
 ## Artículo 30. Incumplimiento de las normas de convivencia.
 1. Las correcciones y las medidas disciplinarias que ha-
 yan de aplicarse por el incumplimiento de las normas de con-
@@ -1403,7 +1349,7 @@ disciplinarias por los incumplimientos de las normas de convi-
 vencia, deberá tenerse en cuenta lo que sigue:
 a) El alumno o alumna no podrá ser privado del ejercicio 
 de su derecho a la escolaridad.
-Página núm. 44 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 b) No podrán imponerse correcciones ni medidas discipli-
 narias contrarias a la integridad física y a la dignidad personal 
 del alumno o alumna.
@@ -1422,7 +1368,6 @@ blicas competentes, la adopción de las medidas necesarias.
 3. Las correcciones y las medidas disciplinarias a las que 
 se refieren los artículos 34 y 37, solo serán de aplicación al 
 alumnado de educación primaria.
-
 ## Artículo 31. Gradación de las correcciones y de las medi-
 das disciplinarias.
 1. A efectos de la gradación de las correcciones y de las 
@@ -1461,7 +1406,6 @@ ponsabilidad no serán de aplicación cuando las mismas se en-
 cuentren recogidas como conductas contrarias a las normas 
 de convivencia o como conductas gravemente perjudiciales 
 para la convivencia.
-
 ## Artículo 32. Ámbitos de las conductas a corregir.
 1. Se corregirán, de acuerdo con lo dispuesto en el pre-
 sente Reglamento, los actos contrarios a las normas de convi-
@@ -1474,9 +1418,8 @@ nado que, aunque realizadas por cualquier medio e incluso
 fuera del recinto y del horario escolar, estén motivadas o di-
 rectamente relacionadas con el ejercicio de sus derechos y el 
 cumplimiento de sus deberes como tal. 
-Sección 2.ª Conductas contrarias a las normas de convivencia 
+#### Sección 2.ª Conductas contrarias a las normas de convivencia 
 y su corrección
-
 ## Artículo 33. Conductas contrarias a las normas de convi-
 vencia y plazo de prescripción.
 1. Son conductas contrarias a las normas de convivencia 
@@ -1513,7 +1456,6 @@ recogidas en este artículo prescribirán en el plazo de treinta
 días naturales contados a partir de la fecha de su comisión, 
 excluyendo los periodos vacacionales establecidos en el co-
 rrespondiente calendario escolar de la provincia.
-
 ## Artículo 34. Correcciones de las conductas contrarias a 
 las normas de convivencia.
 1. Por la conducta contemplada en el artículo 33.1.a), se 
@@ -1543,7 +1485,7 @@ clases por un plazo máximo de tres días lectivos. Durante el
 tiempo que dure la suspensión, el alumno o alumna deberá 
 realizar las actividades formativas que se determinen para evi-
 tar la interrupción de su proceso formativo. 
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 45
+Sevilla, 16 de julio 2010 
 e) Excepcionalmente, la suspensión del derecho de asis-
 tencia al centro por un período máximo de tres días lectivos. 
 Durante el tiempo que dure la suspensión, el alumno o alumna 
@@ -1553,7 +1495,6 @@ para evitar la interrupción de su proceso formativo.
 letras d) y e) del apartado anterior podrán ser realizadas en el 
 aula de convivencia a que se refiere el artículo 23, de acuerdo 
 con lo que el centro disponga en su plan de convivencia.
-
 ## Artículo 35. Órganos competentes para imponer las co-
 rrecciones de las conductas contrarias a las normas de con-
 vivencia.
@@ -1569,9 +1510,8 @@ c) Para las previstas en las letras c) y d), el jefe o jefa de
 estudios.
 d) Para la prevista en la letra e), el director o directora, 
 que dará cuenta a la comisión de convivencia.
-Sección 3.ª Conductas gravemente perjudiciales 
+#### Sección 3.ª Conductas gravemente perjudiciales 
 para la convivencia y su corrección 
-
 ## Artículo 36. Conductas gravemente perjudiciales para la 
 convivencia.
 1. Se consideran conductas gravemente perjudiciales 
@@ -1599,7 +1539,7 @@ docente y la falsificación o sustracción de documentos acadé-
 micos.
 h) Las actuaciones que causen graves daños en las ins-
 talaciones, recursos materiales o documentos del centro, o 
-en las pertenencias de los de más miembros de la comunidad 
+en las pertenencias de los demás miembros de la comunidad 
 educativa, así como la sustracción de las mismas.
 i) La reiteración en un mismo curso escolar de conductas 
 contrarias a las normas de convivencia del centro a las que se 
@@ -1614,7 +1554,6 @@ vencia en el centro prescribirán a los sesenta días naturales
 contados a partir de la fecha de su comisión, excluyendo los 
 períodos vacacionales establecidos en el correspondiente ca-
 lendario escolar de la provincia. 
-
 ## Artículo 37. Medidas disciplinarias por las conductas gra-
 vemente perjudiciales para la convivencia.
 1. Por las conductas gravemente perjudiciales para la 
@@ -1653,16 +1592,14 @@ la suspensión de su derecho de asistencia al centro antes del
 agotamiento del plazo previsto en la corrección, previa consta-
 tación de que se ha producido un cambio positivo en la actitud 
 del alumno o alumna.
-
 ## Artículo 38. Órgano competente para imponer las medi-
 das disciplinarias de las conductas gravemente perjudiciales 
 para las normas de convivencia.
 Será competencia del director o directora del centro la 
 imposición de las medidas disciplinarias previstas en el artícu-
 lo 37, de lo que dará traslado a la comisión de convivencia. 
-Sección 4.ª Procedimiento para la imposición de las correcciones 
+#### Sección 4.ª Procedimiento para la imposición de las correcciones 
 y de las medidas disciplinarias 
-
 ## Artículo 39. Procedimiento general.
 1. Para la imposición de las correcciones y de las medi-
 das disciplinarias previstas en el presente Reglamento, será 
@@ -1681,13 +1618,12 @@ pongan serán inmediatamente ejecutivas y, una vez firmes,
 figurarán en el expediente académico del alumno o alumna.
 3. Los maestros y maestras del alumno o alumna debe-
 rán informar a quien ejerza la jefatura de estudios y, en su 
-Página núm. 46 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 caso, al tutor o tutora, de las correcciones que impongan por 
 las conductas contrarias a las normas de convivencia. En todo 
 caso, quedará constancia escrita y se informará a los padres, 
 madres o representantes legales del alumno o de la alumna 
 de las correcciones y medidas disciplinarias impuestas.
-
 ## Artículo 40. Reclamaciones.
 1. Los padres, madres o representantes legales del alum-
 nado podrán presentar en el plazo de dos días lectivos conta-
@@ -1702,16 +1638,15 @@ director o directora en relación con las conductas del de los
 alumnos y alumnas a que se refiere el artículo 36, podrán ser 
 revisadas por el Consejo Escolar a instancia de los padres, ma-
 dres o representantes legales del alumnado, de acuerdo con 
-lo establecido en el artículo 127 de la Ley Orgánica 2/2006, 
+lo establecido en el artículo 127 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, de Educación. A tales efectos, el director o di-
 rectora convocará una sesión extraordinaria del Consejo Esco-
 lar en el plazo máximo de dos días lectivos, contados desde 
 que se presente la correspondiente solicitud de revisión, para 
 que este órgano proceda a confirmar o revisar la decisión y 
 proponga, si corresponde, las medidas oportunas.
-Sección 5.ª Procedimiento de tramitación de la medida disciplinaria 
+#### Sección 5.ª Procedimiento de tramitación de la medida disciplinaria 
 del cambio de centro
-
 ## Artículo 41. Inicio del expediente.
 Cuando presumiblemente se haya cometido una con-
 ducta gravemente perjudicial para la convivencia, que pueda 
@@ -1722,7 +1657,6 @@ cimiento de la conducta. Con carácter previo podrá acordar
 la apertura de un período de información, a fin de conocer 
 las circunstancias del caso concreto y la conveniencia o no de 
 iniciar el procedimiento.
-
 ## Artículo 42. Instrucción del procedimiento.
 1. La instrucción del procedimiento se llevará a cabo por 
 un maestro o maestra del centro designado por el director o 
@@ -1742,7 +1676,6 @@ pediente al padre, madre o representantes legales del alumno
 o alumna, comunicándoles la sanción que podrá imponerse, a 
 fin de que en el plazo de tres días lectivos puedan formular las 
 alegaciones que estimen oportunas.
-
 ## Artículo 43. Recusación del instructor.
 El padre, madre o representantes legales del alumno 
 o alumna podrán recusar al instructor o instructora. La re-
@@ -1753,19 +1686,17 @@ trámites previstos en el artículo 29 de la Ley 30/1992, de 26
 de noviembre, de Régimen Jurídico de las Administraciones 
 Públicas y del Procedimiento Administrativo Común, en lo que 
 proceda.
-
 ## Artículo 44. Medidas provisionales.
 Excepcionalmente, y para garantizar el normal desarrollo 
 de la convivencia en el centro, al iniciarse el procedimiento o 
 en cualquier momento de su instrucción, el director o la direc-
 tora por propia iniciativa o a propuesta del instructor o instruc-
-tora, podrá adoptar como medida  provisional la suspensión 
+tora, podrá adoptar como medida provisional la suspensión 
 del derecho de asistencia al centro durante un período supe-
 rior a tres días lectivos e inferior a un mes. Durante el tiempo 
 que dure la aplicación de esta medida provisional, el alumno 
 o alumna deberá realizar las actividades que se determinen 
 para evitar la interrupción de su proceso formativo.
-
 ## Artículo 45. Resolución del procedimiento.
 1. A la vista de la propuesta del instructor o instructora, 
 el director o directora dictará y notificará la resolución del 
@@ -1779,7 +1710,6 @@ a) Hechos probados.
 b) Circunstancias atenuantes y agravantes, en su caso.
 c) Medida disciplinaria.
 d) Fecha de efectos de la medida disciplinaria.
-
 ## Artículo 46. Recursos.
 Contra la resolución a que se refiere el artículo 45, se po-
 drá interponer recurso de alzada en el plazo de un mes, ante 
@@ -1790,10 +1720,8 @@ establecido en los artículos 114 y 115 de la Ley 30/1992, de
 la vía administrativa, deberá dictarse y notificarse en el plazo 
 máximo de tres meses. Transcurrido dicho plazo sin que re-
 caiga resolución, se podrá entender desestimado el recurso.
-
-### Capítulo Capítulo
+### CAPÍTULO IV
 Órganos colegiados de gobierno
-
 ## Artículo 47. Órganos colegiados.
 1. El Consejo Escolar y el Claustro de Profesorado son 
 los órganos colegiados de gobierno de las escuelas infantiles 
@@ -1808,7 +1736,6 @@ cipación del profesorado en el gobierno del centro, que tiene la
 responsabilidad de planificar, coordinar y, en su caso, decidir 
 o informar sobre todos los aspectos educativos del mismo, de 
 conformidad con lo establecido en el artículo 20.3.
-
 ## Artículo 48. Normas generales y supletorias de funciona-
 miento de los órganos colegiados de gobierno.
 Para lo no previsto en los artículos 51 y 67, el régimen 
@@ -1818,11 +1745,10 @@ tulo II del Título IV de la Ley 9/2007, de 22 de octubre, de
 la Administración de la Junta de Andalucía, en el Capítulo II 
 del Título II de la Ley 30/1992, de 26 de noviembre, y demás 
 normativa aplicable.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 47
-Sección 1.ª El Consejo Escolar
+Sevilla, 16 de julio 2010 
+#### Sección 1.ª El Consejo Escolar
 Subsección 1.ª Composición, competencias, régimen
 de funcionamiento y elección de sus miembros
-
 ## Artículo 49. Composición del Consejo Escolar.
 1. El Consejo Escolar de los centros que tengan 18 o más 
 unidades estará compuesto por los siguientes miembros:
@@ -1938,7 +1864,6 @@ hombres y mujeres, de conformidad con lo establecido en el
 8. Una vez constituido el Consejo Escolar del centro, éste 
 designará una persona que impulse medidas educativas que 
 fomenten la igualdad real y efectiva entre hombres y mujeres.
-
 ## Artículo 50. Competencias.
 El Consejo Escolar de las escuelas infantiles de segundo 
 ciclo, de los colegios de educación primaria, de los colegios 
@@ -1954,15 +1879,15 @@ tificación de la cuenta de gestión.
 c) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
 d) Participar en la selección del director o directora del 
-centro en los términos que establece la Ley Orgánica 2/2006, 
+centro en los términos que establece la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo. Ser informado del nombramiento y cese de 
 los demás miembros del equipo directivo. En su caso, previo 
 acuerdo de sus miembros, adoptado por mayoría de dos ter-
-Página núm. 48 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 cios, proponer la revocación del nombramiento del director o 
 directora.
 e) Decidir sobre la admisión del alumnado con sujeción 
-a lo establecido en la Ley Orgánica 2/2006, de 3 de mayo, y 
+a lo establecido en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y 
 disposiciones que la desarrollen.
 f) Realizar el seguimiento de los compromisos educati-
 vos y de convivencia suscritos en el centro, para garantizar su 
@@ -2000,7 +1925,6 @@ así como sobre aquellos otros aspectos relacionados con la
 calidad de la misma.
 n) Cualesquiera otras que le sean atribuidas por la Conse-
 jería competente en materia de educación.
-
 ## Artículo 51. Régimen de funcionamiento del Consejo Es-
 colar.
 1. Las reuniones del Consejo Escolar deberán celebrarse 
@@ -2022,7 +1946,6 @@ asuntos que hayan de tratarse así lo aconseje.
 4. El Consejo Escolar adoptará los acuerdos por mayoría 
 de votos, sin perjuicio de la exigencia de otras mayorías cuando 
 así se determine expresamente por normativa específica.
-
 ## Artículo 52. Elección y renovación del Consejo Escolar.
 1. La elección de todos los representantes de los distintos 
 sectores de la comunidad educativa en el Consejo Escolar se 
@@ -2045,7 +1968,6 @@ delegable.
 ser elegidos por el sector correspondiente y podrán presentar 
 candidatura para la representación de uno solo de dichos sec-
 tores, aunque pertenezcan a más de uno.
-
 ## Artículo 53. Procedimiento para cubrir vacantes en el 
 Consejo Escolar.
 1. La persona representante que, antes del procedimiento 
@@ -2065,7 +1987,6 @@ aplicará también en el supuesto de fallecimiento, incapacidad
 o imposibilidad absoluta de alguna de las personas represen-
 tantes en el Consejo Escolar.
 Subsección 2.ª La Junta Electoral
-
 ## Artículo 54. Composición de la Junta Electoral.
 1. Para la organización del procedimiento de elección, se 
 constituirá en cada centro una Junta Electoral, compuesta por 
@@ -2085,7 +2006,6 @@ de la presidencia.
 las letras b), c) y d), del apartado 1, así como sus respectivos 
 suplentes, serán designados por sorteo público según lo que 
 determine la Consejería competente en materia de educación
-
 ## Artículo 55. Competencias de la Junta Electoral.
 Serán competencias de la Junta Electoral las siguientes:
 a) Aprobar y publicar los censos electorales, así como 
@@ -2095,7 +2015,7 @@ su caso documento nacional de identidad de las mismas, así
 como su condición de maestro o maestra, padre, madre o re-
 presentante legal del alumnado, personal de administración y 
 servicios o personal de atención educativa complementaria.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 49
+Sevilla, 16 de julio 2010 
 b) Concretar el calendario electoral, de acuerdo con lo es-
 tablecido en el artículo 52.
 c) Organizar el proceso electoral.
@@ -2113,7 +2033,6 @@ cisiones de las Mesa Electorales.
 h) Proclamar los candidatos y candidatas elegidos y remi-
 tir las correspondientes actas a la Delegación Provincial de la 
 Consejería competente en materia de educación.
-
 ## Artículo 56. Procedimiento para cubrir los puestos de de-
 signación.
 1. La Junta Electoral solicitará la designación de sus repre-
@@ -2136,7 +2055,6 @@ das por el Consejo Escolar.
 teriores se realizarán en la primera constitución del Consejo 
 Escolar y siempre que proceda o se produzca una vacante en 
 los puestos de designación.
-
 ## Artículo 57. Elección de los representantes del profesorado.
 1. Las personas representantes de los maestros y maes-
 tras en el Consejo Escolar serán elegidas por el Claustro de 
@@ -2172,7 +2090,6 @@ cho número, sin perjuicio de lo dispuesto en el artículo 63.2.
 7. No podrán ser representantes del profesorado en el 
 Consejo Escolar del centro quienes desempeñen los cargos de 
 dirección, secretaría y jefatura de estudios.
-
 ## Artículo 58. Elección de los representantes de los padres 
 y de las madres.
 1. La representación de los padres y madres en el Consejo 
@@ -2231,12 +2148,11 @@ finalizar, en todo caso, no antes de las veinte horas. Asimismo,
 por la Junta Electoral se establecerán los mecanismos de di-
 fusión que estime oportunos para el general conocimiento del 
 proceso electoral.
-
-## Artículo 59. Elección de repr esentantes del personal de 
+## Artículo 59. Elección de representantes del personal de 
 administración y servicios.
 1. La persona representante del personal de administra-
 ción y servicios será elegida por el personal que realice en el 
-Página núm. 50 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 centro funciones de esta naturaleza, y esté vinculada como 
 personal funcionario o laboral al mismo o al Ayuntamiento 
 del municipio en cuyo término esté radicado el centro. Se-
@@ -2255,7 +2171,6 @@ en urna separada.
 3. En el caso de que exista una única persona electora, 
 ésta se integrará en el Consejo Escolar, siempre que esa sea 
 su voluntad.
-
 ## Artículo 60. Personal de atención educativa complemen-
 taria.
 1. En todos los centros públicos específicos de educación 
@@ -2293,7 +2208,6 @@ toral del profesorado, en urna separada.
 5. En el caso de que exista una única persona electora, 
 esta se integrará en el Consejo Escolar, siempre que esa sea 
 su voluntad.
-
 ## Artículo 61. Escrutinio de votos y elaboración de actas.
 1. En cada uno de los actos electorales, una vez finalizada 
 la votación, se procederá por la Mesa Electoral correspon-
@@ -2313,7 +2227,6 @@ presentar reclamación dentro de los tres días siguientes a su
 adopción ante la correspondiente Junta Electoral que resol-
 verá en el plazo de cinco días. Dicha reclamación pondrá fin a 
 la vía administrativa.
-
 ## Artículo 62. Proclamación de candidaturas electas y re-
 clamaciones.
 1. El acto de proclamación de los candidatos y candidatas 
@@ -2327,7 +2240,6 @@ interponer recurso de alzada ante la persona titular de la De-
 legación Provincial de la Consejería competente en materia de 
 educación, cuya resolución pondrá fin a la vía administrativa.
 Subsección 3.ª Constitución y comisiones
-
 ## Artículo 63. Constitución del Consejo Escolar.
 1. En el plazo de diez días a contar desde la fecha de pro-
 clamación de los miembros electos, el director o directora acor-
@@ -2336,7 +2248,6 @@ dará convocar la sesión de constitución del Consejo Escolar.
 no eligiera o designara a sus representantes en el Consejo Es-
 colar por causas imputables al propio sector, este hecho no 
 invalidará la constitución de dicho órgano colegiado.
-
 ## Artículo 64. Comisiones del Consejo Escolar.
 1. En el seno del Consejo Escolar se constituirá una co-
 misión permanente integrada por el director o directora, el jefe 
@@ -2372,7 +2283,7 @@ b) Adoptar las medidas preventivas necesarias para ga-
 rantizar los derechos de todos los miembros de la comunidad 
 educativa y el cumplimiento de las normas de convivencia del 
 centro.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 51
+Sevilla, 16 de julio 2010 
 c) Desarrollar iniciativas que eviten la discriminación del 
 alumnado, estableciendo planes de acción positiva que posibi-
 liten la integración de todos los alumnos y alumnas.
@@ -2390,8 +2301,7 @@ vencia suscritos en el centro.
 i) Cualesquiera otras que puedan serle atribuidas por el 
 Consejo Escolar, relativas a las normas de convivencia en el 
 centro.
-Sección 2.ª El Claustro de Profesorado
-
+#### Sección 2.ª El Claustro de Profesorado
 ## Artículo 65. Composición del Claustro de Profesorado. 
 1. El Claustro de Profesorado será presidido por el direc-
 tor o directora del centro y estará integrado por la totalidad de 
@@ -2404,7 +2314,6 @@ fesorado del centro donde impartan más horas de docencia.
 Asimismo, si lo desean, podrán integrarse en los Claustros de 
 Profesorado de los demás centros con los mismos derechos y 
 obligaciones que el resto del personal docente de los mismos.
-
 ## Artículo 66. Competencias.
 El Claustro de Profesorado tendrá las siguientes compe-
 tencias:
@@ -2421,7 +2330,7 @@ ción, de la innovación y de la investigación pedagógica y en la
 formación del profesorado del centro.
 f) Elegir sus representantes en el Consejo Escolar del cen-
 tro y participar en la selección del director o directora en los 
-términos establecidos en la Ley Orgánica 2/2006, de 3 de 
+términos establecidos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, y demás normativa de aplicación.
 g) Conocer las candidaturas a la dirección y los proyectos 
 de dirección presentados por las personas candidatas.
@@ -2441,7 +2350,6 @@ m) Cualesquiera otras que le sean atribuidas por el re-
 glamento de organización y funcionamiento del centro o por 
 Orden de la persona titular de la Consejería competente en 
 materia de educación. 
-
 ## Artículo 67. Régimen de funcionamiento del Claustro de 
 Profesorado.
 1. Las reuniones del Claustro de Profesorado deberán ce-
@@ -2461,10 +2369,8 @@ citud de, al menos, un tercio de sus miembros. La asistencia a
 las sesiones del Claustro de Profesorado será obligatoria para 
 todos sus miembros, considerándose la falta injustificada a los 
 mismos como un incumplimiento del horario laboral.
-
-### Capítulo Capítulo
+### CAPÍTULO V
 El equipo directivo
-
 ## Artículo 68. Funciones del equipo directivo.
 1. El equipo directivo de las escuelas infantiles de se-
 gundo ciclo, de los colegios de educación primaria, de los cole-
@@ -2499,9 +2405,8 @@ h) Cumplimentar la documentación solicitada por los ór-
 ganos y entidades dependientes de la Consejería competente 
 en materia de educación.
 i) Cualesquiera otras que le sean atribuidas por Orden de 
-la persona titular de la Consej ería competente en materia de 
+la persona titular de la Consejería competente en materia de 
 educación. 
-
 ## Artículo 69. Composición del equipo directivo. 
 1. La composición del equipo directivo será la siguiente: 
 a) Las escuelas infantiles de segundo ciclo y los centros 
@@ -2510,7 +2415,7 @@ más unidades contarán con dirección, secretaría y jefatura de
 estudios. Si tienen menos de seis unidades, tendrán sólo una 
 dirección, que asumirá las funciones de la secretaría y de la 
 jefatura de estudios.
-Página núm. 52 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 b) Los colegios de educación primaria con seis o más uni-
 dades que oferten todos los cursos de este nivel educativo, 
 contarán con dirección, secretaría y jefatura de estudios. Si 
@@ -2542,7 +2447,6 @@ que se determinen, el profesorado responsable de la coordi-
 nación de aquellos planes estratégicos que se disponga por 
 Orden de la persona titular de la Consejería competente en 
 materia de educación.
-
 ## Artículo 70. Competencias de la dirección. 
 1. La dirección de las escuelas infantiles de segundo ciclo, 
 de los colegios de educación primaria, de los colegios de edu-
@@ -2607,7 +2511,7 @@ formidad con el número total de horas que, a tales efectos,
 se determine por Orden de la persona titular de la Consejería 
 competente en materia de educación.
 o) Proponer a la persona titular de la Delegación Provin-
-cial de la Consejería competen te en materia de educación el 
+cial de la Consejería competente en materia de educación el 
 nombramiento y cese de las personas coordinadoras de ciclo, 
 oído el Claustro de Profesorado. 
 p) Nombrar y cesar a los tutores y tutoras de grupo, a 
@@ -2620,7 +2524,7 @@ tente en materia de educación y respetando, en todo caso,
 los criterios establecidos normativamente para la provisión de 
 puestos de trabajo docentes.
 r) Cualesquiera otras que le sean atribuidas por Orden de 
-la persona titular de la Consej ería competente en materia de 
+la persona titular de la Consejería competente en materia de 
 educación. 
 2. Las personas que ejerzan la dirección de los centros 
 adoptarán los protocolos de actuación y las medidas necesa-
@@ -2629,7 +2533,6 @@ nero dentro del ámbito escolar, así como cuando haya indicios
 de que cualquier alumno o alumna vive en un entorno familiar 
 o relacional en el que se esté produciendo una situación de 
 violencia de género.
-
 ## Artículo 71. Potestad disciplinaria de la dirección.
 1. Los directores y directoras de las escuelas infantiles 
 de segundo ciclo, de los colegios de educación primaria, de 
@@ -2650,7 +2553,7 @@ que no deban ser calificados como falta grave.
 2. Entre el personal afectado por lo recogido en el apar-
 tado anterior se incluirá el orientador de referencia en el hora-
 rio en que éste presta servicios en el centro.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 53
+Sevilla, 16 de julio 2010 
 3. Las faltas a las que se refiere el apartado 1 podrán ser 
 sancionadas con apercibimiento, que deberá ser comunicado 
 a la Delegación Provincial de la Consejería competente en ma-
@@ -2665,18 +2568,16 @@ drá presentar recurso de alzada ante la persona titular de la
 Delegación Provincial de la Consejería competente en materia 
 de educación y el personal laboral podrá presentar reclamación 
 previa a la vía judicial ante la Secretaría General Técnica de 
-dicha Consejería. Las resoluciones  de los recursos de alzada 
+dicha Consejería. Las resoluciones de los recursos de alzada 
 y de las reclamaciones previas que se dicten conforme a lo 
 dispuesto en este apartado pondrán fin a la vía administrativa.
-
 ## Artículo 72. Selección, nombramiento y cese de la dirección. 
 La selección, nombramiento y cese de la dirección de las 
 escuelas infantiles de segundo ciclo, de los colegios de educa-
 ción primaria, de los colegios de educación infantil y primaria 
 y de los centros específicos de educación especial se reali-
-zará según lo establecido en La Ley Orgánica 2/2006, de 3 de 
+zará según lo establecido en La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
 mayo, y en las disposiciones que la desarrollan.
-
 ## Artículo 73. Competencias de la jefatura de estudios. 
 Son competencias de la jefatura de estudios: 
 a) Ejercer, por delegación de la dirección y bajo su autori-
@@ -2710,7 +2611,6 @@ períodos de recreo y en las actividades no lectivas.
 m) Cualesquiera otras que le sean atribuidas en el Plan 
 de Centro o por Orden de la persona titular de la Consejería 
 competente en materia de educación. 
-
 ## Artículo 74. Competencias de la secretaría. 
 Son competencias de la secretaría: 
 a) Ordenar el régimen administrativo del centro, de con-
@@ -2748,7 +2648,6 @@ educación y los órganos a los que se refiere el artículo 25.4.
 k) Cualesquiera otras que le sean atribuidas en el Plan 
 de Centro o por Orden de la persona titular de la Consejería 
 competente en materia de educación. 
-
 ## Artículo 75. Nombramiento de la jefatura de estudios y de 
 la secretaría. 
 1. La dirección de las escuelas infantiles de segundo ci-
@@ -2757,7 +2656,7 @@ educación infantil y primaria y de los centros públicos especí-
 ficos de educación especial, previa comunicación al Claustro 
 de Profesorado y al Consejo Escolar, formulará a la persona 
 titular de la Delegación Provincial correspondiente de la Con-
-sejería competente en materi a de educación propuesta de 
+sejería competente en materia de educación propuesta de 
 nombramiento de la jefatura de estudios y de la secretaría, de 
 entre el profesorado con destino en el centro. 
 2. La propuesta garantizará la participación equilibrada de 
@@ -2769,7 +2668,6 @@ del equipo directivo propuesto. Si el número de miembros del
 equipo directivo no permitiera alcanzar este porcentaje a hom-
 bres o a mujeres se garantizará, en todo caso, la presencia de 
 ambos sexos en el mismo.
-
 ## Artículo 76. Cese de la jefatura de estudios y de la secre-
 taría. 
 La jefatura de estudios y la secretaría cesarán en sus fun-
@@ -2785,12 +2683,11 @@ c) Cuando deje de prestar servicios efectivos en el centro.
 d) A propuesta de la dirección, mediante escrito razo-
 nado, previa audiencia al interesado y previa comunicación al 
 Claustro de Profesorado y al Consejo Escolar.
-
 ## Artículo 77. Régimen de suplencias de los miembros del 
 equipo directivo. 
 1. En caso de vacante, ausencia o enfermedad, la direc-
 ción de las escuelas infantiles de segundo ciclo, de los colegios 
-Página núm. 54 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 de educación primaria de los colegios de educación infantil y 
 primaria y de los centros públicos específicos de educación es-
 pecial será suplida temporalmente por la jefatura de estudios. 
@@ -2798,10 +2695,8 @@ pecial será suplida temporalmente por la jefatura de estudios.
 de estudios y la secretaría serán suplidas temporalmente por 
 el maestro o maestra que designe la dirección, que informará 
 de su decisión al Consejo Escolar. 
-
-### Capítulo Capítulo
+### CAPÍTULO VI
 Órganos de coordinación docente
-
 ## Artículo 78. Órganos de coordinación docente. 
 En las escuelas infantiles de segundo ciclo, los colegios 
 de educación primaria, los colegios de educación infantil y pri-
@@ -2812,7 +2707,6 @@ b) Equipos de ciclo.
 c) Equipo de orientación. 
 d) Equipo técnico de coordinación pedagógica.
 e) Tutorías. 
-
 ## Artículo 79. Equipos docentes.
 1. Los equipos docentes estarán constituidos por todos 
 los maestros y maestras que imparten docencia a un mismo 
@@ -2855,7 +2749,6 @@ tirán toda la información que sea necesaria para trabajar de
 manera coordinada en el cumplimiento de sus funciones.
 4. La jefatura de estudios incluirá en el horario general del 
 centro la planificación de las reuniones de los equipos docentes. 
-
 ## Artículo 80. Equipos de ciclo.
 1. Cada equipo de ciclo estará integrado por los maes-
 tros y maestras que impartan docencia en él. Los maestros 
@@ -2876,9 +2769,8 @@ c) En los colegios de educación infantil y primaria: equi-
 pos de educación infantil de segundo ciclo y de primero, de 
 segundo y de tercer ciclo de educación primaria.
 d) En los centros públicos específicos de educación es-
-pecial: equipos de formación bá sica y de formación para la 
+pecial: equipos de formación básica y de formación para la 
 transición a la vida adulta y laboral. 
-
 ## Artículo 81. Competencias de los equipos de ciclo.
 Son competencias de los equipos de ciclo:
 a) Colaborar con el equipo directivo en la elaboración de 
@@ -2907,7 +2799,6 @@ de enseñanza-aprendizaje.
 i) Cualesquiera otras que le sean atribuidas en el proyecto 
 educativo del centro o por Orden de la persona titular de la 
 Consejería competente en materia de educación.
-
 ## Artículo 82. Coordinadores o coordinadoras de ciclo.
 1. Las escuelas de educación infantil de segundo ciclo 
 tendrán un coordinador o coordinadora de ciclo si disponen de 
@@ -2919,7 +2810,7 @@ ciclos. Si el centro cuenta con menos de seis unidades, todo
 el profesorado constituirá un solo equipo de ciclo, por lo que 
 existirá un único coordinador o coordinadora.
 3. Los colegios de educación infantil y primaria que im-
-partan todos los cursos corres pondientes a la educación pri-
+partan todos los cursos correspondientes a la educación pri-
 maria tendrán un coordinador o coordinadora por cada uno de 
 los ciclos. Si, además, tienen al menos tres unidades de edu-
 cación infantil, contarán con un coordinador o coordinadora 
@@ -2929,11 +2820,10 @@ infantil y primaria que no impartan todos los cursos corres-
 pondientes a la educación primaria tendrán un único coordina-
 dor o coordinadora para este nivel educativo.
 5. Los centros públicos específicos de educación especial 
-tendrán un coordinador o coordi nadora de formación básica 
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 55
+tendrán un coordinador o coordinadora de formación básica 
+Sevilla, 16 de julio 2010 
 y un coordinador o coordinadora de formación para la vida 
 adulta y laboral.
-
 ## Artículo 83. Competencias del coordinador o coordina-
 dora de ciclo.
 Corresponde al coordinador o coordinadora de ciclo:
@@ -2950,7 +2840,6 @@ acuerdo con el proyecto educativo.
 f) Cualesquiera otras que le sean atribuidas en el proyecto 
 educativo del centro o por Orden de la Consejería competente 
 en materia de educación.
-
 ## Artículo 84. Nombramiento de los coordinadores y coor-
 dinadoras de ciclo.
 1. La dirección de las escuelas infantiles de segundo 
@@ -2968,7 +2857,6 @@ servicio en el centro.
 2. La propuesta procurará la participación equilibrada de 
 hombres y mujeres en los órganos de coordinación docente de 
 los centros, en los términos que se recogen en el artículo 75.2.
-
 ## Artículo 85. Cese de los coordinadores y coordinadoras 
 de ciclo. 
 1. Los coordinadores o coordinadoras de ciclo cesarán en 
@@ -2994,13 +2882,12 @@ en el artículo 84. En cualquier caso, si el cese se ha producido
 por cualquiera de las circunstancias señaladas en los párrafos 
 b) y c) del apartado 1, el nombramiento no podrá recaer en el 
 mismo maestro o maestra.
-
 ## Artículo 86. Equipo de orientación.
 1. Las escuelas infantiles de segundo ciclo, los colegios 
 de educación primaria y los colegios de educación infantil y 
-primaria tendrán un equipo de  orientación del que formará 
+primaria tendrán un equipo de orientación del que formará 
 parte un orientador del equipo de orientación educativa a los 
-que se refiere el artículo 144.1 de la Ley 17/2007, de 10 de 
+que se refiere el artículo 144.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, que se integrará en el Claustro de Profesorado de 
 aquel centro donde preste más horas de atención educativa. 
 Todo ello sin perjuicio de que, si lo desea, pueda integrarse en 
@@ -3045,10 +2932,10 @@ d) Asesorar a la comunidad educativa en la aplicación de
 las medidas relacionadas con la mediación, resolución y regu-
 lación de conflictos en el ámbito escolar.
 e) Asesorar al equipo directivo y al profesorado en la apli-
-cación de las diferentes actuac iones y medidas de atención a 
+cación de las diferentes actuaciones y medidas de atención a 
 la diversidad, especialmente las orientadas al alumnado que 
 presente necesidades específicas de apoyo educativo.
-f) Colaborar en el desarrollo  del plan de orientación y 
+f) Colaborar en el desarrollo del plan de orientación y 
 acción tutorial, asesorando en sus funciones al profesorado 
 que tenga asignadas las tutorías, facilitándoles los recursos 
 didácticos o educativos necesarios y, excepcionalmente, inter-
@@ -3061,7 +2948,6 @@ copedagógica del mismo.
 h) Cualesquiera otras que le sean atribuidas en el pro-
 yecto educativo o por Orden de la persona titular de la Conse-
 jería competente en materia de educación.
-
 ## Artículo 87. Equipo técnico de coordinación pedagógica.
 1. El equipo técnico de coordinación pedagógica estará 
 integrado por la persona que ostente la dirección, que lo pre-
@@ -3070,11 +2956,10 @@ nadoras de ciclo y, en su caso, el coordinador o coordinadora
 del equipo de orientación educativa. Actuará como secretario 
 o secretaria el maestro o maestra que designe la dirección de 
 entre sus miembros.
-Página núm. 56 BOJA núm. 139 Sevilla, 16 de julio 2010
+Sevilla, 16 de julio 2010
 2. Se integrará, asimismo, en el equipo de técnico de co-
 ordinación pedagógica, el orientador u orientadora de referen-
 cia del centro a que se refiere el artículo 86.4.
-
 ## Artículo 88. Competencias del equipo técnico de coordi-
 nación pedagógica.
 El equipo técnico de coordinación pedagógica tendrá las 
@@ -3136,7 +3021,6 @@ llevadas a cabo en el centro.
 s) Cualesquiera otras que le sean atribuidas por el pro-
 yecto educativo del centro o por Orden de la persona titular de 
 la Consejería competente en materia de educación.
-
 ## Artículo 89. Tutoría y designación de tutores y tutoras. 
 1. Sin perjuicio de lo establecido en el apartado 2, cada 
 unidad o grupo de alumnos y alumnas tendrá un tutor o tutora 
@@ -3162,7 +3046,6 @@ tación del aprendizaje del alumnado y el apoyo en su proceso
 educativo en colaboración con las familias.
 4. El nombramiento del profesorado que ejerza la tutoría 
 se efectuará para un año académico.
-
 ## Artículo 90. Funciones de la tutoría. 
 1. En educación infantil y en los centros públicos especí-
 ficos de educación especial, los tutores y tutoras mantendrán 
@@ -3211,7 +3094,7 @@ hijos e hijas con el profesorado que tenga asignada la tutoría
 de los mismos de conformidad con lo que a tales efectos se 
 establezca por Orden de la persona titular de la Consejería 
 competente en materia de educación.
-Sevilla, 16 de julio 2010 BOJA núm. 139 Página núm. 57
+Sevilla, 16 de julio 2010 
 l) Mantener una relación permanente con los padres, ma-
 dres o representantes legales del alumnado, a fin de facilitar el 
 ejercicio de los derechos reconocidos en el artículo 10. A tales 
@@ -3225,15 +3108,13 @@ n) Colaborar, en la forma que se determine en el regla-
 mento de organización y funcionamiento, en la gestión del pro-
 grama de gratuidad de libros de texto.
 ñ) Cualesquiera otras que le sean atribuidas en el plan 
-de orientación y acción tutorial  del centro o por Orden de la 
+de orientación y acción tutorial del centro o por Orden de la 
 persona titular de la Consejería competente en materia de 
 educación. 
-
-# Título Título
+# TÍTULO VI 
 EVALUACIÓN DE LOS CENTROS
 CAPÍTULO ÚNICO
 Evaluación 
-
 ## Artículo 91. Evaluación y publicación de las conclusiones 
 de interés general. 
 1. La Agencia Andaluza de Evaluación Educativa elaborará 
@@ -3275,7 +3156,7 @@ Autónoma en materia de Enseñanza Universitaria, sin perjuicio
 de la autonomía universitaria, de acuerdo con lo dispuesto en 
 el artículo 27 de la Constitución Española.
 La Ley Orgánica 6/2001, de 21 de diciembre, de Univer-
-sidades, en su artículo 35 di spone que, para impartir ense-
+sidades, en su artículo 35 dispone que, para impartir ense-
 ñanzas oficiales y expedir los correspondientes títulos oficia-
 les, con validez en todo el territorio nacional, las universidades 
 públicas deberán poseer la autorización pertinente de la Co-
@@ -3309,7 +3190,7 @@ plantación de enseñanzas universitarias, de Grado, Máster y
 Doctorado, se actualizó el Catálogo de Enseñanzas Universita-
 rias conducentes a la expedición por las Universidades Públi-
 cas de Andalucía de títulos oficiales, así como la estructura de 
-los centros que las imparten y se  fijaron los precios públicos y 
+los centros que las imparten y se fijaron los precios públicos y 
 tasas a satisfacer por la prestación de servicios académicos y 
 administrativos universitarios para el curso 2009/2010. Así, en 
 el curso 2009-2010 comenzó la implantación de la nueva es-

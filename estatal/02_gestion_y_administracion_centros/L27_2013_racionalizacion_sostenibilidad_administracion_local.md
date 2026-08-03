@@ -33,17 +33,6 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1985-5392
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**
@@ -1275,3 +1264,18 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 MARIANO RAJOY BREY
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](../01_marco_normativo_general_y_organico/L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**L40_2015 Regimen Juridico del Sector Publico**](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
+

@@ -67,7 +67,6 @@ fundamentos_derecho:
 - norma_id: norm-can-l-1-1983
 - norma_id: norm-can-d-212-1991
 ---
-
 ## Preámbulo
 
 # Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes (BOC n.º 203, de 19 de octubre).
@@ -230,3 +229,46 @@ Direcciones Territoriales de Educación
 
 Artículo 15 a 17.- Competencias y organización territorial.
 Las Direcciones Territoriales de Las Palmas y Santa Cruz de Tenerife gestionan los gastos de funcionamiento de centros públicos, sustituciones, comisiones de servicio e inspección ordinaria en sus respectivos ámbitos.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](./L6_2014_canaria_educacion_no_universitaria.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+- **Fundamentado en**: [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./O20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 71**](../03_ordenacion_curricular_y_ensenanzas/R8_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_artisticas.md)
+- **Fundamento de**: [**Resolucion BOC 75**](../03_ordenacion_curricular_y_ensenanzas/R4_2_2017_dictan_instrucciones_proceso_evaluacion_ensenanzas_deportivas.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 1**](./R30_6_2017_dictan_instrucciones_actuacion_centros_docentes_sostenidos.md)
+- **Fundamento de**: [**Resolucion BOC 100**](../05_alumnado_y_servicios_escolares/O28_8_2017_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 70**](../03_ordenacion_curricular_y_ensenanzas/R6_11_2017_dictan_instrucciones_organizacion_evaluacion_modulos_obra.md)
+- **Fundamento de**: [**Resolucion BOC 5**](../02_gestion_y_administracion_centros/O15_3_2016_resolucion_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 56**](../03_ordenacion_curricular_y_ensenanzas/R27_2_2018_determinan_caracteristicas_pruebas_obtencion_certificado_nivel.md)
+- **Fundamento de**: [**Resolucion BOC 114**](../05_alumnado_y_servicios_escolares/R22_5_2018_dictan_instrucciones_concesion_premios_extraordinarios_ensenanzas.md)
+- **Fundamento de**: [**Resolucion BOC 18**](../02_gestion_y_administracion_centros/O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion.md)
+- **Fundamento de**: [**Resolucion BOC 19**](../02_gestion_y_administracion_centros/O2_11_2018_innovacion_promocion_educativa_dictan_instrucciones_tramitacion_2.md)
+- **Fundamento de**: [**Resolucion BOC 12**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 13**](../02_gestion_y_administracion_centros/R9_1_2019_resolucion_crea_sello_electronico_2.md)
+- **Fundamento de**: [**Resolucion BOC 22**](../02_gestion_y_administracion_centros/R29_1_2019_aprueba_convocatoria_reconocimiento_trayectoria_proyeccion_internacional.md)
+- **Fundamento de**: [**Resolucion BOC 11**](../02_gestion_y_administracion_centros/R21_3_2019_resolucion_crea_sello_electronico.md)
+- **Fundamento de**: [**Resolucion BOC 48**](../03_ordenacion_curricular_y_ensenanzas/O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md)
+- **Fundamento de**: [**Resolucion BOC 74**](../03_ordenacion_curricular_y_ensenanzas/R10_7_2019_dictan_instrucciones_relativas_procedimiento_reconocimiento_correspondencias.md)
+- **Fundamento de**: [**Resolucion BOC 131**](../08_personal_docente/R11_6_2020_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Fundamento de**: [**Resolucion BOC 82**](../03_ordenacion_curricular_y_ensenanzas/R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
+- **Fundamento de**: [**Resolucion BOC 24**](../02_gestion_y_administracion_centros/R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
+- **Fundamento de**: [**Resolucion BOC 3**](./R12_2_2021_delega_direcciones_territoriales_educacion_determinada_competencia.md)
+- **Fundamento de**: [**Resolucion BOC 136**](../08_personal_docente/R25_5_2017_regula_programa_mejora_estabilidad_claustros_docentes.md)
+
+### Fundamentos de Derecho
+- [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
+- `norm-can-l-1-1983`
+- [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+

@@ -31,21 +31,19 @@ relaciones:
   afecta_a_articulos: []
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/04/29/BOCM-20220429-1.PDF
 ---
-
-
 **Orden 893/2022, de 21 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regulan los procedimientos de evaluación, matrícula y acreditación académica en las enseñanzas de Formación Profesional en la Comunidad de Madrid**
 
-## Preámbulo
-
-## Artículo 1. Objeto
-
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 11
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 11
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
 Consejería de Medio Ambiente, Vivienda y Agricultura
-1 ORDEN 941/2022, de 19 de abril, de la Consejería de Medio Ambiente, Vivienda
+1
+ORDEN 941/2022, de 19 de abril, de la Consejería de Medio Ambiente, Vivienda
 y Agricultura, por la que se aprueba convocatoria pública para la provisión de
 puestos de trabajo vacantes en la Consejería de Medio Ambiente, Vivienda y
 Agricultura, por el procedimiento de Concurso de Méritos.
@@ -65,51 +63,51 @@ Segundo
 Normativa aplicable
 La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo,
 por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de
-Madrid (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989,
+Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989,
 de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de la Comuni-
-dad de Madrid (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989);
+dad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989);
 el Decreto 188/2021, de 21 de julio, del Consejo de Gobierno, por el que se regula la obliga-
 ción de relacionarse por medios electrónicos con la Administración de la Comunidad de
-Madrid, del personal a su servicio y de los participantes en procesos selectivos (B
-OLETÍN
+Madrid, del personal a su servicio y de los participantes en procesos selectivos (BOLETÍN
 OFICIAL DE LA COMUNIDAD DE MADRID de 23 de julio); la Orden 923/1989, de 20 de abril,
 de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir en
 las convocatorias para provisión de puestos de trabajo por los sistemas de Concurso de Mé-
-ritos y Libre Designación (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de
+ritos y Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de
 abril); la Orden 2094/1990, de 31 de agosto, de la Consejería de Hacienda, por la que se re-
 gula el sistema general que ha de regir en las diferentes convocatorias que se publiquen para
-los concursos de provisión de puestos de trabajo (B
-OLETÍN OFICIAL DE LA COMUNIDAD DE
+los concursos de provisión de puestos de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE
 MADRID de 7 de septiembre); la Resolución de 27 de octubre de 2011, de la Directora Ge-
 neral de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emi-
 sión de los certificados de Registro de Personal en los procedimientos de provisión, por los
 sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comuni-
-dad de Madrid reservados a personal funcionario de carrera no docente (B
-OLETÍN OFICIAL
+dad de Madrid reservados a personal funcionario de carrera no docente (BOLETÍN OFICIAL
 DE LA COMUNIDAD DE MADRID de 15 de noviembre de 2011) y, en lo no previsto por las
-anteriores, el Real Decreto 364/1995, de 10 de marzo , por el que se aprueba el Reglamento
+anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento
 General de Ingreso del Personal al Servicio de la Administración General del Estado y de
 Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
 Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril).
 
-VIERNES 29 DE ABRIL DE 2022Pág. 12 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 12
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Tercero
 Requisitos y condiciones de participación
-1. Se recogen en Anexo los requisitos indispensables que han de reunirse para el de-
+1.
+Se recogen en Anexo los requisitos indispensables que han de reunirse para el de-
 sempeño del puesto de trabajo que se convoca, en cuanto a Administración de pertenencia,
 Grupo de clasificación profesional, Cuerpo, Escala y/o Especialidad, y titulación específi-
 ca exigida, en su caso.
-2. Podrán participar en este procedimiento los funcionarios que, en la fecha de entra-
+2.
+Podrán participar en este procedimiento los funcionarios que, en la fecha de entra-
 da en vigor de la presente convocatoria, se encuentren en servicio activo o quieran reingre-
 sar a dicha situación, con arreglo, en este caso, a lo dispuesto en la normativa vigente. Po-
 drán, asimismo, participar los funcionarios que, en la misma fecha, se encuentren en
 situación de servicios especiales.
-3. Los funcionarios en situación de servicio activo podrán participar si, en la fecha
+3.
+Los funcionarios en situación de servicio activo podrán participar si, en la fecha
 de entrada en vigor de esta convocatoria, han transcurrido dos años desde la toma de pose-
 sión del último destino definitivo obtenido, salvo que opten a puestos adscritos en la mis-
 ma Consejería en que estén prestando servicio, sean titulares de un puesto obtenido por el
@@ -121,147 +119,180 @@ cionarios que hayan accedido a otro Cuerpo, Escala y/o Especialidad por promoci�
 na y permanezcan en el puesto de trabajo que venían desempeñando se les computará el
 tiempo de servicios prestados en dicho puesto en el Cuerpo, Escala y/o Especialidad de pro-
 cedencia.
-4. Los funcionarios en situación de excedencia voluntaria por interés particular o por
+4.
+Los funcionarios en situación de excedencia voluntaria por interés particular o por
 agrupación familiar podrán participar si llevan más de dos años en dicha situación en la fe-
 cha de entrada en vigor de la convocatoria, indicando expresamente en la solicitud que de-
 sean reingresar al servicio activo.
-5. Los funcionarios procedentes de la situación de suspenso deberán haber cumpli-
+5.
+Los funcionarios procedentes de la situación de suspenso deberán haber cumpli-
 do el período de suspensión.
-6. Los requisitos y condiciones de participación expresados en el presente apartado
+6.
+Los requisitos y condiciones de participación expresados en el presente apartado
 han de poseerse en la fecha de entrada en vigor de la presente convocatoria y mantenerse
 hasta la resolución del procedimiento.
 Cuarto
 Solicitudes
-1. Las solicitudes se formularán telemáticamente, cumplimentando el modelo nor-
+1.
+Las solicitudes se formularán telemáticamente, cumplimentando el modelo nor-
 malizado de “Solicitud de provisión de puestos de trabajo”, al que podrá accederse desde la
 página web: https://tramita.comunidad.madrid , adjuntando la documentación correspon-
 diente que hubiera de aportarse.
 En el caso de ser varias las plazas solicitadas, se indicará el orden de preferencia entre
 las mismas.
-2. Las solicitudes irán acompañadas de:
-a) En el caso de que los interesados hayan desempeñado puestos de trabajo con ca-
+2.
+Las solicitudes irán acompañadas de:
+a)
+En el caso de que los interesados hayan desempeñado puestos de trabajo con ca-
 rácter definitivo en otras Administraciones Públicas en los cinco años inmediata-
 mente anteriores a la entrada en vigor de la convocatoria, certificado emitido por
 el Registro de Personal de la Administración correspondiente, en relación con los
 destinos ocupados en dichas Administraciones durante el citado período, que de-
 berá ser aportado por el interesado.
-b) Documentación acreditativa de los méritos, preferentes y no preferentes, que se
+b)
+Documentación acreditativa de los méritos, preferentes y no preferentes, que se
 aleguen.
-3. Los Certificados de Registro de Personal de los interesados relativos a su situación
+3.
+Los Certificados de Registro de Personal de los interesados relativos a su situación
 y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto en la
 Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos Hu-
 manos, por la que se dictan instrucciones para la emisión de los certificados de Registro de
 Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Li-
 bre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal fun-
 cionario de carrera no docente, sin que deban ser solicitados ni aportados por el interesado.
-4. Sin perjuicio de lo anterior, los funcionarios de la Comunidad de Madrid que se
+4.
+Sin perjuicio de lo anterior, los funcionarios de la Comunidad de Madrid que se
 encuentren prestando servicios en otra Administración Pública deberán en todo caso apor-
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 13
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 13
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 tar, junto con la solicitud, certificación emitida por dicha Administración acreditativa de su
 situación administrativa en la fecha de entrada en vigor de la presente convocatoria.
 Quinto
 Méritos
-1. Los méritos alegados por los candidatos se valorarán de acuerdo a lo previsto en
+1.
+Los méritos alegados por los candidatos se valorarán de acuerdo a lo previsto en
 la normativa aplicable.
-2. En particular, la valoración del trabajo desarrollado se realizará teniendo en cuen-
+2.
+En particular, la valoración del trabajo desarrollado se realizará teniendo en cuen-
 ta los puestos de trabajo de los que haya sido titular el aspirante como funcionario de carre-
 ra en los cinco años inmediatamente anteriores a la entrada en vigor de la convocatoria, de
 acuerdo con los certificados emitidos al efecto por el Registro de Personal.
-3. Las funciones desempeñadas en la Comunidad de Madrid se acreditarán, a efec-
+3.
+Las funciones desempeñadas en la Comunidad de Madrid se acreditarán, a efec-
 tos de la valoración de los méritos no preferentes, de acuerdo con el modelo normalizado
 de certificado de funciones. Las funciones desempeñadas, en su caso, en otras Administra-
 ciones Públicas se acreditarán mediante el correspondiente certificado emitido por el órga-
 no competente de la Administración de que se trate.
 Sexto
 Presentación y plazo
-1. De conformidad con lo establecido en el artículo 1, base Sexta, de la Or-
+1.
+De conformidad con lo establecido en el artículo 1, base Sexta, de la Or-
 den 923/1989, de 20 de abril, las solicitudes se dirigirán a la Secretaría General Técnica de
 la Consejería de Medio Ambiente, Vivienda y Agricultura y se presentarán telemáticamen-
 te, en el plazo de quince días hábiles a contar desde la fecha de entrada en vigor de la con-
 vocatoria, en el Registro electrónico de la Comunidad de Madrid o en la forma establecida
-en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
+en la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Admi-
 nistraciones Públicas.
 En el supuesto de que algún funcionario presentase la solicitud de forma presencial
 será requerido para que la subsane a través de su presentación electrónica, en los términos
-y con los efectos establecidos en el artículo 68.4 de la Ley 39/2015, de 1 de octubre, del
+y con los efectos establecidos en el artículo 68.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, considerándose a
 todos los efectos como fecha de presentación de la solicitud aquélla en la que se haya rea-
 lizado la correspondiente subsanación.
-2. El mencionado plazo de presentación de solicitudes, siempre que no haya venci-
+2.
+El mencionado plazo de presentación de solicitudes, siempre que no haya venci-
 do, podrá ser ampliado como consecuencia de incidencias técnicas que hayan imposibilita-
 do el funcionamiento ordinario del sistema o de la aplicación correspondiente según lo dis-
-puesto en el artículo 32.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+puesto en el artículo 32.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento
 Administrativo Común de las Administraciones Públicas.
 Durante el plazo de presentación de solicitudes los concursantes podrán efectuar, tele-
 máticamente, modificaciones en su solicitud, así como aportar cualquier documentación
 que consideren oportuna para la valoración de sus méritos.
-3. En ningún caso podrán valorarse méritos que no hayan sido debidamente acredi-
+3.
+En ningún caso podrán valorarse méritos que no hayan sido debidamente acredi-
 tados en el plazo de presentación de instancias.
 Séptimo
 Trámite de alegaciones
-1. Finalizada la valoración de la documentación presentada y con anterioridad a la
+1.
+Finalizada la valoración de la documentación presentada y con anterioridad a la
 propuesta de adjudicación de la Junta de Méritos, se publicará en los tablones de anuncios
 de la Consejería la relación provisional de los aspirantes admitidos y no admitidos al pro-
 ceso de provisión, con indicación de la puntuación obtenida en cada uno de los méritos pre-
 ferentes y no preferentes alegados, así como la puntuación obtenida por ambos conceptos.
 Dicha relación se podrá consultar en la página web de la Comunidad de Madrid.
-2. Contra la publicación de la relación de aspirantes se podrán formular, telemática-
+2.
+Contra la publicación de la relación de aspirantes se podrán formular, telemática-
 mente, las alegaciones que se consideren oportunas en el plazo de diez días hábiles a con-
 tar desde el día siguiente al de su exposición en los tablones de anuncios.
 
-VIERNES 29 DE ABRIL DE 2022Pág. 14 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 14
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Octavo
 Puntuación mínima
-1. El puesto de trabajo convocado no podrá declararse desierto cuando existan con-
+1.
+El puesto de trabajo convocado no podrá declararse desierto cuando existan con-
 cursantes que, habiéndolo solicitado, hayan obtenido una puntuación mínima de 10 puntos.
 Dicha puntuación mínima no podrá ser exigida en el puesto cuyo nivel de complemento de
 destino sea el de ingreso en el Cuerpo, Escala y Especialidad de que se trate.
-2. Sin embargo, de conformidad con lo establecido en el artículo 1, base Decimopri-
+2.
+Sin embargo, de conformidad con lo establecido en el artículo 1, base Decimopri-
 mera, apartado 4, de la Orden 923/1989, de 20 de abril, la Junta de Méritos podrá proponer,
 de manera motivada, la adjudicación del puesto al candidato que no llegue a la puntuación
 mínima señalada, siempre que dicho candidato haya acreditado un nivel adecuado y previo
 informe favorable de la unidad de adscripción del puesto de que se trate.
 Noveno
 Desistimientos y renuncias
-1. Los participantes solo podrán desistir de su solicitud hasta la fecha de finalización
+1.
+Los participantes solo podrán desistir de su solicitud hasta la fecha de finalización
 del plazo concedido para formular alegaciones contra la lista provisional de admitidos y ex-
 cluidos al que hace referencia el apartado Séptimo de esta Orden. Dicho desistimiento se
 efectuará de forma telemática.
 Cualquier escrito de desistimiento se considerará hecho a la totalidad del procedimiento.
-2. Los destinos adjudicados serán irrenunciables.
+2.
+Los destinos adjudicados serán irrenunciables.
 Décimo
 Entrada en vigor
 La presente Orden producirá efectos desde el día siguiente al de su publicación en el
-B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 Undécimo
 Recursos
 La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
 se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
 no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
 los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
-día siguiente a su publicación en el B
-OLETÍN OFICIAL DE LA COMUNIDAD DE MADRID,s i n
+día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
 perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
-midad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Pro-
+midad con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
 cedimiento Administrativo Común de las Administraciones Públicas y 46 de la Ley 29/1998,
 de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
 Madrid, a 19 de abril de 2022.—La Consejera de Medio Ambiente, Vivienda y Agricul-
-tura, P. D. (Orden 369/2022, de 24 de febrero; B
-OLETÍN OFICIAL DE LA COMUNIDAD DE
+tura, P. D. (Orden 369/2022, de 24 de febrero; BOLETÍN OFICIAL DE LA COMUNIDAD DE
 MADRID de 3 de marzo de 2022), el Secretario General Técnico, José Ignacio Tejerina Alfaro.
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 15
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 15
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE CONCURSO DE MÉRITOS
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN TRAMITACIÓN DE EXPEDIENTES DE
 SUBVENCIONES DENTRO DE PLANES ESTRATÉGICOS PARA LA
 RECUPERACIÓN URBANA INTEGRADA DE CASCOS ANTIGUOS Y
@@ -279,12 +310,18 @@ INFORMACIÓN GEOGRÁFICA A TRAVÉS DE ARCGIS.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 1233
 SUBSEC. APOYO
 ADMINISTRATIVO I
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -296,9 +333,16 @@ SUBSECCION APOYO ADMINISTRATIVO I
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA GESTIÓN Y PARAMETRIZACIÓN DEL SISTEMA DE GESTIÓN DE BIBLIOTECAS ABSYS.
 EXPERIENCIA EN GESTIÓN DE CONTENIDOS PARA BIBLIOTECAS DIGITALES.
 EXPERIENCIA EN LA GESTIÓN DE CONTENIDOS WEB EN LA COMUNIDAD DE MADRID (CONTENT SERVER Y
@@ -311,13 +355,19 @@ EXPERIENCIA EN LA GESTIÓN Y TRATAMIENTO DE LA COLECCIÓN ESPECIALMENTE DE LITER
 1
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 1255
 SEC.
 DOCUMENTACION Y
 BIBLIOTECA
-A/B 25     13.014,72 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+A/B
+25
+    13.014,72
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -335,11 +385,20 @@ MUSEOS
 BIBLIOTECAS
 E
 
-VIERNES 29 DE ABRIL DE 2022Pág. 16 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 16
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN INFORMÁTICA PORTAFIRMAS ELECTRÓNICO DE LA
 COMUNIDAD DE MADRID.
 EXPERIENCIA EN ATENCIÓN TELEFÓNICA E INFORMACIÓN PRESENCIAL.
@@ -350,12 +409,18 @@ EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 1642
 SUBSEC. ANALISIS Y
 ORGANIZACION
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -364,9 +429,16 @@ SUBSECCION ANALISIS Y ORGANIZACION
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPER, COMO UNIDAD DE CONTRATAC, EN TRAMITAC.Y SEGUIM DESDE INICIO HASTA SU FIN DE EXPTES.
 RELATIVOS A CONTRATOS ADIVOS. DE SERVICIOS,EN ESPECIAL DE EXTES.MANTENIM.DE PARQUES
 NATUR.Y ESPAC.PROTEGIDOS, URBANISMO Y EVALUACIÓN AMBIENTAL.
@@ -385,14 +457,20 @@ UTILIDAD INFORMÁTICA LICIT@, CDR Y CADE.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2190
 SUBSEC.
 SEGUIMIENTO Y
 EJECUCION DE
 CONTRATOS I
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL GESTIÓN ECONÓMICO-
@@ -403,13 +481,23 @@ CONTRATOS I
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 17
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 17
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA ATENCIÓN PERSONAL Y TELEFÓNICA SOBRE LAS PUBLICACIONES DE FOTOGRAFÍA
 AÉREA, CARTOGRAFÍA Y DOCUMENTACIÓN GRÁFICA EDITADA POR LA COMUNIDAD DE MADRID.
 EXPERIENCIA EN EL MANEJO DE PROGRAMAS DEL ENTORNO WINDOWS, PROGRAMA PHOTOSHOP Y
@@ -423,11 +511,17 @@ ESTADÍSTICAS SOBRE EL USO DE LOS SERVICIOS PRESTADOS A LOS USUARIOS.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2214
 NEG. BIBLIOTECA
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -437,10 +531,18 @@ BIBLIOTECA
 SECCION DOCUMENTACION Y BIBLIOTECA
 SUBSECCION DOCUMENTACIÓN Y BIBLIOTECA
 NEGOCIADO BIBLIOTECA
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN INFORMÁTICA PORTAFIRMAS ELECTRÓNICO DE LA
 COMUNIDAD DE MADRID.
 EXPERIENCIA EN ATENCIÓN TELEFÓNICA E INFORMACIÓN PRESENCIAL.
@@ -451,13 +553,19 @@ EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2260
 SUBSEC.
 SEGUIMIENTO
 ADMINISTRATIVO
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -467,13 +575,23 @@ SUBSECCION SEGUIMIIENTO ADMINISTRATIVO
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 18 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 18
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN INFORMÁTICA PORTAFIRMAS ELECTRÓNICO DE LA
 COMUNIDAD DE MADRID.
 EXPERIENCIA EN ATENCIÓN TELEFÓNICA E INFORMACIÓN PRESENCIAL.
@@ -484,12 +602,18 @@ EXPERIENCIA EN EL MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2557
 SUBSEC. GESTION
 PATRIMONIAL
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -499,9 +623,16 @@ SUBSECCION GESTIÓN PATRIMONIAL
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS.
 EXPERIENCIA EN ARCHIVO Y REGISTRO DE DOCUMENTOS.
 EXPERIENCIA EN LA UTILIZACIÓN DE E-REG, SEDO Y NEXUS.
@@ -512,13 +643,19 @@ MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2565
 ENCARGADO
 EXPEDICION DE
 LICENCIAS
-D 18      7.930,20 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+D
+18
+     7.930,20
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -530,13 +667,23 @@ AREA CONSERVACIÓN DE FLORA Y FAUNA
 SECCION ORDENACION FLORA Y FAUNA
 SUBSECCION GESTION DE CAZA Y PESCA
 NEGOCIADO ADMINISTRATIVO DE CAZA Y PESCA
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 19
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 19
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE CONTRATOS DE CONSERVACIÓN Y
 MANTENIMIENTO DE PARQUES REGIONALES COFINANCIADOS POR FEADER Y
 SEGUIMIENTO DE PRESUPUESTO DE ESTOS CONTRATOS MEDIANTE LA APLICACIÓN
@@ -551,12 +698,18 @@ ATLANTIX, COMA, ORVE.
 1
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 2574
 NEG.
 ADMINISTRATIVO
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -567,10 +720,18 @@ PROTEGIDOS
 DIRECTOR DE LOS PARQUES REGIONALES DE LA
 COMUNIDAD DE MADRID
 NEGOCIADO ADMINISTRATIVO
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LOS PROGRAMAS DE GESTIÓN ECONÓMICO FINANCIERA NEXUS.
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS EN MATERIA DE SUBVENCIONES.
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN ICDA.
@@ -582,12 +743,18 @@ EXPERIENCIA Y CONOCIMIENTO EN EL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 4209
 SUBSEC. GESTION
 ADMINISTRATIVA
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -600,13 +767,23 @@ SUBSECCION GESTION ADMINISTRATIVA
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 20 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 20
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA Y/O CONOCIMIENTOS EN MATERIA DE SUBVENCIONES.
 EXPERIENCIA EN LA ELABORACIÓN DE INFORMES TÉCNICOS, JURÍDICOS Y/O
 ECONÓMICOS.
@@ -619,13 +796,19 @@ DE TRABAJO.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 4225
 SEC. PLANIF. Y
 RELAC.
 INSTITUCIONALES
-A/B 25     13.014,72 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+A/B
+25
+    13.014,72
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -642,8 +825,14 @@ G
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN PREPARACIÓN Y REMISIÓN DE INFORMACIÓN, ESCRITOS Y OFICIOS DIRIGIDOS A
 DISTINTOS ÓRGANOS OFICIALES EN MATERIA DE VIVIENDA PÚBLICA SOCIAL COMO ÓRGANOS
 JUDICIALES, DEFENSOR DEL PUEBLO Y A OTRAS ADMINISTRACIONES PÚBLICAS.
@@ -662,13 +851,19 @@ PÚBLICA Y DE CAMBIOS DE VIVIENDA.
 1
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 4399
 NEG. ORGAN.
 OFICIALES Y ENT.
 FINANCIERAS
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -679,14 +874,25 @@ RÉGIMEN JURÍDICO Y APOYO AL CIUDADANO
 AREA ADJUDICACIONES
 NEGOCIADO ORGANISMOS OFICIALES Y
 ENTIDADES FINANCIERAS
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 21
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 21
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN JTEF (JURADO TERR EXP)
 CON PERFIL DE USUARIO 90 (JURÍDICO).
 EXPERIENCIA EN LA TRAMITACIÓN ADMINISTRATIVA DE EXPEDIENTES
@@ -703,12 +909,18 @@ SALIDAS DE EXPEDIENTES EXPROPIATORIOS.
 1
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 5078
 NEG. APOYO
 ADMINISTRATIVO
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -716,10 +928,18 @@ DIRECCION GENERAL SUELO
 SUBDIRECCION GENERAL SUELO
 AREA JURADO TERRITORIAL DE EXPROPIACIÓN
 NEGOCIADO APOYO ADMINISTRATIVO
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES EN MATERIA DE
 SUBVENCIONES.
 EXPERIENCIA EN LA UTILIZACIÓN DE LA PLATAFORMA ATLANTIS, CONOCIMIENTO Y EXPERIENCIA EN EL
@@ -732,12 +952,18 @@ EXPERIENCIA EN ATENCIÓN AL CIUDADANO TELEFÓNICA, TELEMÁTICA Y/O PRESENCIAL.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 25450
 SUBSEC. REGIMEN
 GENERAL VPO
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -751,13 +977,23 @@ DE PROTECCIÓN OFICIAL
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 22 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 22
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES Y AUTORIZACIONES RELACIONADAS CON LAS VÍAS
 PECUARIAS DE LA COMUNIDAD DE
 MADRID.
@@ -771,11 +1007,17 @@ EXPERIENCIA EN EL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 30986
 SUBSEC. GESTION
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -788,9 +1030,16 @@ SUBSECCION GESTION
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA UTILIZACIÓN DE NEXUS.
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES DE GASTO, ELABORACIÓN Y
 SEGUIMIENTO DE PRESUPUESTOS.
@@ -805,12 +1054,18 @@ EXPERIENCIA EN ELABORACIÓN DE ESTADÍSTICAS.
 1
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 35565
 SUBSEC. GESTION Y
 TRAMITACION IV
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -822,13 +1077,23 @@ SUBSECCION GESTION Y TRAMITACION IV
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 23
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 23
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA REALIZACIÓN DE TRABAJOS SOBRE USO PÚBLICO EN RED NATURA 2000.
 EXPERIENCIA EN LA PREPARACIÓN DE ACTUACIONES DE PARTICIPACIÓN CIUDADANA Y VOLUNTARIADO
 AMBIENTAL EN RED NATURA 2000.
@@ -838,13 +1103,19 @@ DESARROLLO SOSTENIBLE.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 35748
 SEC.
 INFRAESTRUCTURAS
 EDUCAT. Y RECREAT.
-A/B 25     13.014,72 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+A/B
+25
+    13.014,72
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -863,8 +1134,14 @@ INGENIEROS Y ARQUITECTOS TÉCNICOS
 INGENIERÍA TÉCNICA
 ORD.RURAL E IND.AGR.
 E
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN GESTIÓN DE PAGOS EXTRAPRESUPUESTARIOS.
 EXPERIENCIA EN APLICACIÓN DE INGRESOS PROCEDENTES DE FONDOS DE LA UNIÓN
 EUROPEA.
@@ -876,12 +1153,18 @@ CONOCIMIENTOS DE NEXUS.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 35841
 SUBSEC. GESTION
 ADMINISTRATIVA I
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -894,13 +1177,23 @@ SUBSECCION GESTION ADMINISTRATIVA I
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 24 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 24
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN CONTROL DEL BIENESTAR ANIMAL.
 EXPERIENCIA EN CONTROL DE ZOONOSIS.
 EXPERIENCIA EN REALIZACIÓN DE INFORMES.
@@ -908,11 +1201,17 @@ EXPERIENCIA EN REALIZACIÓN DE INFORMES.
 3
 2
 MAÑANA
-Colmenar ViejoLocalidad........:
-Turno/Jornada: MERITOS
+Colmenar Viejo
+Localidad........:
+Turno/Jornada:
+MERITOS
 35846
 SUBSEC. TECNICA II
-A/B 24     11.766,12 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+A/B
+24
+    11.766,12
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -930,8 +1229,14 @@ DIPLOMADOS DE SALUD PÚBLICA
 SALUD PÚBLICA
 C.EXPERIMENTALES
 E
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES EN MATERIA DE
 SUBVENCIONES.
 EXPERIENCIA EN LA UTILIZACIÓN DE LA PLATAFORMA ATLANTIS, CONOCIMIENTO Y EXPERIENCIA EN EL
@@ -944,12 +1249,18 @@ EXPERIENCIA EN ATENCIÓN AL CIUDADANO TELEFÓNICA, TELEMÁTICA Y/O PRESENCIAL.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 36963
 SUBSEC. APOYO
 ADMINISTRATIVO
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -962,13 +1273,23 @@ SUBSECCION APOYO ADMINISTRATIVO
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 25
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 25
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS.
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN ATLANTIX.
 EXPERIENCIA EN EL MANEJO DE LAS APLICACIONES E-REG, NOTE, PORTAFIMAS Y SEDO.
@@ -976,12 +1297,18 @@ EXPERIENCIA EN EL MANEJO DE LAS APLICACIONES E-REG, NOTE, PORTAFIMAS Y SEDO.
 3
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 36994
 SUBSEC.
 TRAMITACION
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -991,9 +1318,16 @@ SUBSECCION DE TRAMITACION
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN REGISTRO Y ARCHIVO DE DOCUMENTOS.
 CONOCIMIENTOS DE TOPOGRAFÍA Y CARTOGRAFÍA.
 EXPERIENCIA EN ATENCIÓN PERSONAL Y TELEFÓNICA AL PÚBLICO.
@@ -1001,12 +1335,18 @@ EXPERIENCIA EN ATENCIÓN PERSONAL Y TELEFÓNICA AL PÚBLICO.
 3
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 37480
 NEG. GESTION Y
 TRAMITACION IV
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -1018,14 +1358,25 @@ AREA POLITICA AGRARIA COMUN
 SECCION TECNICA III
 SUBSECCION TECNICA IV
 NEGOCIADO GESTION Y TRAMITACION IV
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 26 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 26
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN REGISTRO Y ARCHIVO DE DOCUMENTOS.
 EXPERIENCIA EN ATENCIÓN PERSONAL Y TELEFÓNICA AL PÚBLICO.
 MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
@@ -1033,12 +1384,18 @@ MANEJO DEL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 3
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 37927
 NEG. GESTION Y
 TRAMITACION II
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -1049,10 +1406,18 @@ DESARROLLO RURAL
 AREA POLITICA AGRARIA COMUN
 SECCION TECNICA II
 NEGOCIADO GESTION Y TRAMITACION II
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANTENIMIENTO Y ACTUALIZACIÓN DEL REPERTORIO DE LEGISLACIÓN AMBIENTAL
 DE LA COMUNIDAD DE MADRID MEDIANTE LA APLICACIÓN RLMA.
 EXPER.EN TRAMITACDE EXPTES.DEL PROCEDIM. DE DERECHO DE ACCESO A
@@ -1065,14 +1430,20 @@ PORTAL DE TRANSPARENCIA DE LA COMUNIDAD DE MADRID MEDIANTE LA APLICACIÓN DRUPAL
 3
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 39705
 SUBSEC.
 INFORMACION Y
 ESTADISTICA
 AMBIENTAL
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 SECRETARIA GENERAL TÉCNICA
 SUBDIRECCION GENERAL ANÁLISIS Y
@@ -1084,13 +1455,23 @@ AMBIENTAL
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 27
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 27
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL MANEJO DE LA APLICACIÓN JTEF (JURADO TERR EXP)
 CON PERFIL DE USUARIO 90 (JURÍDICO).
 EXPERIENCIA EN LA TRAMITACIÓN ADMINISTRATIVA DE EXPEDIENTES
@@ -1109,12 +1490,18 @@ JURADO.
 2
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 47648
 SUBSEC. JURADO
 EXPROPIACION I
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -1125,9 +1512,16 @@ SUBSECCION JURADO EXPROPIACIÓN I
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS.
 EXPERIENCIA EN MANEJO DE LAS APLICACIONES E-REG, SEDO, ORVE, NOTE Y
 PORTAFIRMAS ELECTRÓNICO.
@@ -1140,12 +1534,18 @@ EXPERIENCIA EN MANEJO DE LOS PROGRAMAS INFORMÁTICOS EXCEL Y ACCES.
 1
 1
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 47887
 NEG. APOYO
 ADMINISTRATIVO
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -1159,14 +1559,25 @@ FORESTALES
 SUBSECCION ORDENACION DE RECURSOS
 FORESTALES
 NEGOCIADO APOYO ADMINISTRATIVO
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022Pág. 28 B.O.C.M. Núm. 101
+VIERNES 29 DE ABRIL DE 2022
+Pág. 28
+B.O.C.M. Núm. 101
 BOCM-20220429-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS.
 EXPERIENCIA EN TRAMITACIÓN ECONÓMICO-ADMINISTRATIVA A TRAVÉS DE LA APLICACIÓN SAP-NEXUS.
 CONOCIMIENTO Y EXPERIENCIA EN EL MANEJO DE LAS APLICACIONES: E-REG, ORVE, NOTE, SEDO,
@@ -1177,12 +1588,18 @@ EXPERIENCIA EN LA ATENCIÓN PRESENCIAL, TELEFÓNICA Y MEDIANTE CORREO ELECTRÓNI
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 74370
 SUBSEC.
 TRAMITACION
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -1194,9 +1611,16 @@ SUBSECCION TRAMITACIÓN
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN LA TRAMITACIÓN DE EXPEDIENTES ADMINISTRATIVOS.
 EXPERIENCIA EN TRAMITACIÓN ECONÓMICO-ADMINISTRATIVA A TRAVÉS DE LA APLICACIÓN SAP-NEXUS.
 CONOCIMIENTO Y EXPERIENCIA EN EL MANEJO DE LAS APLICACIONES: E-REG, ORVE, NOTE, SEDO,
@@ -1207,13 +1631,19 @@ EXPERIENCIA EN LA ATENCIÓN PRESENCIAL, TELEFÓNICA Y MEDIANTE CORREO ELECTRÓNI
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 74379
 SUBSEC. SISTEMAS
 DE INFORMACION
 URBANISTICAS
-B/C 22     10.578,00 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+B/C
+22
+    10.578,00
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL
 TERRITORIO
@@ -1226,14 +1656,26 @@ URBANÍSTICA
 TÉCNICOS DE GESTIÓN DE ADMINISTRACIÓN
 GENERAL
 G
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
 
-VIERNES 29 DE ABRIL DE 2022B.O.C.M. Núm. 101 Pág. 29
+VIERNES 29 DE ABRIL DE 2022
+B.O.C.M. Núm. 101
+Pág. 29
 BOCM-20220429-1
-http://www.bocm.es BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRIDBOCM
-Puesto/Denominación NCD GrupoUnidad Orgánica Específico Administración Pública
-Cuerpo  Escala  Especialidad Admon
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo  Escala  Especialidad
+Admon
 EXPERIENCIA EN EL APOYO A LA GESTIÓN DE SUBVENCIONES FINANCIADAS CON FONDOS EUROPEOS.
 EXPERIENCIA EN GESTIÓN DE BASES DE DATOS.
 EXPERIENCIA EN LA UTILIZACIÓN DE LA APLICACIÓN INFORMÁTICA NEXUS.
@@ -1243,11 +1685,17 @@ EXPERIENCIA EN EL PAQUETE OFIMÁTICO DE LA COMUNIDAD DE MADRID.
 2
 2
 MAÑANA
-MadridLocalidad........:
-Turno/Jornada: MERITOS
+Madrid
+Localidad........:
+Turno/Jornada:
+MERITOS
 75367
 NEG. GESTION I
-C/D 18      8.051,16 COMUNIDAD DE MADRIDCONSEJERIA MEDIO AMBIENTE, VIVENDA Y
+C/D
+18
+     8.051,16
+COMUNIDAD DE MADRID
+CONSEJERIA MEDIO AMBIENTE, VIVENDA Y
 AGRICULTURA
 VICECONSEJERIA MEDIO AMBIENTE Y
 AGRICULTURA
@@ -1256,6 +1704,8 @@ GANADERÍA Y ALIMENTACIÓN
 DIVISIÓN AYUDAS FEADER
 AREA FEADER NO SIGC I
 NEGOCIADO GESTION I
-ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL G
-AUXILIARES DE ADMINISTRACIÓN GENERAL G
+ADMINISTRATIVOS DE ADMINISTRACIÓN GENERAL
+G
+AUXILIARES DE ADMINISTRACIÓN GENERAL
+G
 (03/7.828/22)

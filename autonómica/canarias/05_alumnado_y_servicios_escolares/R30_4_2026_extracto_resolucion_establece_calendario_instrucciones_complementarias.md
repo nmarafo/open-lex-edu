@@ -40,7 +40,6 @@ fundamentos_derecho:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-100-1759.pdf
 ---
-
 ## Preámbulo
 
 # Extracto de la Resolución de 30 de abril de 2026, por la que se establece el calendario, las instrucciones complementarias del procedimiento de admisión del alumnado comensal y los criterios de concesión de las subvenciones, y por la que se autoriza la oferta de plazas de comensales en los centros docentes públicos no universitarios para el curso escolar 2026-2027.
@@ -165,3 +164,17 @@ documento electrónico siguiente:
  0cXoBC1Jh-k0lqSjtQLFotdEkiuHdiRDZ
 Las Palmas de Gran Canaria, a 30 de abril de 2026.- El Director General de Administración 
 de Centros, Escolarización y Servicios Complementarios, David Crego Chaves.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

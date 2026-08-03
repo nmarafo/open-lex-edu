@@ -41,7 +41,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 ## Preámbulo
 
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
@@ -170,3 +169,17 @@ El Equipo de Coordinación será un órgano asesor de la dirección y de partici
 En las Residencias de menos de 250 residentes dispondrá de cinco horas semanales para realizar sus funciones y de diez horas semanales en Residencias de más de 250 residentes, siempre que las disponibilidades horarias de organización de la Residencia Escolar lo permitan.
 8.- Memoria final del curso.
 8.1. La Memoria consistirá en una autoevaluación del cumplimiento global de la Programación General Anual de la Residencia Escolar, así como de cada uno de los aspectos particulares contemplados en la misma, al igual que de aquellas sugeren
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

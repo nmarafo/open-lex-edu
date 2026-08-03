@@ -1,37 +1,38 @@
 ---
 id: norm-and-d162-2009
-titulo: "Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía"
+titulo: Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la
+  Inspección Educativa de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "162/2009"
-fecha_disposicion: "2009-05-19"
-fecha_publicacion: "2009-05-28"
+numero_disposicion: 162/2009
+fecha_disposicion: '2009-05-19'
+fecha_publicacion: '2009-05-28'
 boletin: BOJA
-numero_boletin: "102"
+numero_boletin: '102'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2009/102/1"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2009/102/1"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2009/102/1
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2009/102/1
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-  subcategoria: "Inspección Educativa"
+  subcategoria: Inspección Educativa
 tags:
-  - inspeccion_educativa
-  - reglamento_inspeccion
-  - supervision_educativa
-  - andalucia
+- inspeccion_educativa
+- reglamento_inspeccion
+- supervision_educativa
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
 
-## Preámbulo
-
-Página núm. 130 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 1.  Disposiciones generales
  CONSEJERÍA DE ECONOMÍA Y HACIENDA
 ORDEN de 26 de mayo de 2009, por la que se dic-
@@ -41,7 +42,7 @@ La economía mundial está atravesando uno de los perío-
 dos de crisis más intensa de las últimas décadas. Si en un 
 principio el sistema financiero actuó como desencadenante y 
 como vía de contagio de la crisis en el entorno de los países 
-industrializados, en la actualid ad también el comercio inter-
+industrializados, en la actualidad también el comercio inter-
 nacional está contribuyendo a extender sus efectos sobre los 
 llamados países emergentes. En un marco de crisis global, la 
 economía andaluza ha visto deteriorarse sus indicadores tras 
@@ -56,7 +57,7 @@ El contexto económico del Presupuesto de 2010 plan-
 tea, por lo tanto, serias restricciones financieras debidas al 
 comportamiento esperado de los ingresos, que se reducirán 
 respecto a los niveles del ejercicio presente. Este escenario 
-o b l i g a r á  a l  c o n j u n t o  d e  l a  A d m i n i s t r a c i ó n  d e  l a  C o m u n i d a d  
+obligará al conjunto de la Administración de la Comunidad 
 Autónoma a llevar a cabo un esfuerzo adicional con el fin de 
 desarrollar políticas que contribuyan a la aceleración de la re-
 cuperación bajo una escrupulosa aplicación del principio de 
@@ -91,7 +92,7 @@ hacia un nuevo modelo de crecimiento sostenible y duradero.
 En este ámbito, será muy importante contar con la colabora-
 ción del sector empresarial, público y privado. 
 Asimismo, el Presupuesto de 2010 no deja de lado, sino 
-t o d o  l o  c o n t r a r i o ,  l a s  p o l í t i c a s  s o c i a l e s  c o m o  e l e m e n t o  p r i -
+todo lo contrario, las políticas sociales como elemento pri-
 mordial de apoyo a las familias andaluzas ante la crisis. Se 
 trata de ampliar y mejorar las prestaciones obtenidas por los 
 ciudadanos y ciudadanas, particularmente en los ámbitos sa-
@@ -104,9 +105,9 @@ género. Singularmente, la educación constituirá el eje principal
 de los ejercicios próximos, como la mejor garantía de consoli-
 dación de un modelo económico sostenible. 
 En paralelo al conjunto de medidas adoptadas contra la 
-c r i s i s  e c o n ó m i c a ,  l a  c o n c e rta c i ó n  s o c i a l  d e b e  s e g u i r  p r o fu n-
+crisis económica, la concertación social debe seguir profun-
 dizando en los cambios estructurales que han tenido lugar en 
-l a  ú lti m a  d éca d a  e n  An d a l u c í a ,  m ed i a n t e  e l  u so  d e  l a  p l a n i-
+la última década en Andalucía, mediante el uso de la plani-
 ficación concertada. En este sentido, el objetivo de esta pla-
 nificación debe ser el mantenimiento y ampliación de los lo-
 gros alcanzados en los últimos años, y que han permitido que 
@@ -118,7 +119,7 @@ presentativos y aprobada por el Parlamento en septiembre de
 2007, sigue siendo el referente para continuar con el proceso 
 de reformas estructurales de la economía y sociedad andaluza 
 llevado a cabo en los anteriores Acuerdos de Concertación.
-DISPONGO
+D I S P O N G O
 1. Prioridades y criterios de presupuestación.
 1.1. El Presupuesto de la Comunidad Autónoma de Anda-
 lucía para el año 2010 se elaborará sobre la base de priorizar 
@@ -150,7 +151,7 @@ porte que promueva la eficiencia energética y la sostenibilidad
 medioambiental en un marco de cooperación y colaboración 
 con el sector empresarial. 
 g) Promover la accesibilidad y eficacia de la Administra-
-c i ó n  p ú b l i c a  a  t r a v é s  d e  m e d i o s  t e l e m á t i c o s ,  s i m p l i f i c a c i ó n  
+ción pública a través de medios telemáticos, simplificación 
 de procedimientos y agilización de trámites, favoreciendo una 
 estructura territorial y dando mayor poder de resolución a la 
 administración periférica de la Junta de Andalucía. 
@@ -159,7 +160,7 @@ una gestión medioambiental integral que ponga en conexión
 los problemas locales con las dinámicas globales ligadas al 
 calentamiento global, la sobreexplotación de recursos y la ca-
 lidad ambiental. 
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 131
+Sevilla, 29 de mayo 2009 
 i) Avanzar en el desarrollo de un modelo de cooperación 
 con la Administración Local capaz de incrementar su autono-
 mía financiera y corresponsabilidad y avanzando en un pro-
@@ -193,7 +194,7 @@ cias finalistas en el marco de los acuerdos o convenios que las
 regulan.
 f) La promoción de iniciativas presupuestarias con ele-
 vado efecto multiplicador, incluyendo la utilización de recursos 
-de n atu ra leza r etorn a ble o l a col a bora c ión con e l sector pú-
+de naturaleza retornable o la colaboración con el sector pú-
 blico empresarial. 
 2. Ámbito de aplicación.
 Las normas contenidas en la presente Orden serán apli-
@@ -227,14 +228,14 @@ que afectan a los tributos de la Comunidad Autónoma.
 El Presupuesto de Ingresos se ajustará a una doble clasi-
 ficación: orgánica y económica.
 4.1.1. Clasificación orgánica.
-La estructu ra orgá n ica de los i n gresos se clasifica rá en 
+La estructura orgánica de los ingresos se clasificará en 
 función de los subsectores siguientes:
 a) Junta de Andalucía.
 b) Agencias administrativas u organismos asimilados y las 
 agencias de régimen especial conforme a la clasificación orgá-
 nica por secciones que se recoge en el Anexo I.
 4.1.2. Clasificación económica.
-Lo s  i n gr es o s  s e  o r d e n a r á n ,  s e gú n  s u  n a t u r a l e z a  e c o n ó-
+Los ingresos se ordenarán, según su naturaleza econó-
 mica, con arreglo a la clasificación que figura en el Anexo III.
 4.2. Estructura del Presupuesto de Gastos.
 Los créditos incluidos en el estado de gastos del Presu-
@@ -254,7 +255,7 @@ el Anexo IV.
 4.2.3. Clasificación económica.
 Los créditos atribuidos a cada programa se ajustarán a 
 la clasificación económica que se establece en el Anexo V, 
-teniendo en cuenta las definici ones establecidas en el anexo 
+teniendo en cuenta las definiciones establecidas en el anexo 
 IV de la Orden de 4 de junio de 2003, por la que se dictan 
 normas para la elaboración del Presupuesto de la Comunidad 
 Autónoma de Andalucía para el año 2004 (BOJA núm. 113, de 
@@ -262,12 +263,12 @@ Autónoma de Andalucía para el año 2004 (BOJA núm. 113, de
 La clasificación en conceptos y subconceptos de los capí-
 tulos IV y VII, salvo los supuestos relacionados expresamente 
 en el anexo V, es abierta para cada una de las secciones pre-
-supuestarias y servicios. En es tos supuestos, la Dirección Ge-
+supuestarias y servicios. En estos supuestos, la Dirección Ge-
 neral de Presupuestos acordará, a propuesta de los centros 
-r e s p o n s a b l e s  d e  l a  g e s t i ó n  p r e s u p u e s t a r i a  d e  c a d a  s e c c i ó n  
+responsables de la gestión presupuestaria de cada sección 
 presupuestaria (centros gestores, en adelante), la codificación 
 y denominación de los mismos.
-4 . 3 .  Est r u ct u r a  e s p e c í fi ca  d e  l a s  a g e n c i a s  p ú b l i ca s  e m-
+4.3. Estructura específica de las agencias públicas em-
 presariales, de las sociedades mercantiles del sector público 
 andaluz y de otras entidades asimiladas.
 Las agencias públicas empresariales o las entidades de 
@@ -292,7 +293,7 @@ oportunamente elaboradas.
 Los centros gestores deberán proponer, para todos y cada 
 uno de los programas que integran la estructura funcional de 
 su anteproyecto, los objetivos a alcanzar, sus indicadores, en 
-Página núm. 132 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 su caso desagregados por sexo, y los medios necesarios, ajus-
 tándolos a las previsiones de los documentos de planificación 
 de la Junta de Andalucía, junto a los efectos cuantitativos y 
@@ -335,7 +336,7 @@ envolvente financiera, a nivel de proyecto de inversión, antes
 del día 23 de junio de 2009.
 c) Plantilla presupuestaria:
 Para la elaboración de la plantilla presupuestaria, los cen-
-t r o s  r e s p o n s a b l e s  d e  l a  C o n s e j e r í a  d e  J u st i c i a  y  A d m i n i st r a-
+tros responsables de la Consejería de Justicia y Administra-
 ción Pública, para el personal de Justicia; de la Consejería de 
 Educación, para el personal docente; y del Servicio Andaluz 
 de Salud, para el personal de los centros e instituciones sa-
@@ -349,7 +350,7 @@ supuesto que establece la regla primera del artículo 34 de la
 Ley 5/1983, de 19 de julio. En dicha documentación figurará 
 la situación de los efectivos reales y su distribución por sexo 
 en la forma y con las características que se establecen en el 
-Anexo IX.
+# Anexo IX.
 2.º Antes del día 8 de septiembre de 2009, se remitirá la 
 información mencionada en el apartado anterior actualizada a 
 la situación efectiva del personal a fecha 1 de septiembre de 
@@ -359,7 +360,7 @@ supuesto a que hace referencia en la regla cuarta del artículo
 en su caso, corresponda en la propuesta inicial de plantilla 
 presupuestaria.
 Los centros responsables remitirán la información y docu-
-mentación relacionada en los ap artados anteriores a la Direc-
+mentación relacionada en los apartados anteriores a la Direc-
 ción General de Presupuestos en el formato y estructura que 
 se establece en el Anexo IX.
 3.º La Dirección General de Presupuestos extraerá direc-
@@ -368,17 +369,17 @@ la situación de la plantilla presupuestaria para el personal de
 Administración General del Sistema de Información de Recur-
 sos Humanos. 
 d) Ingresos:
-E n  l o s  s u p u e st o s  e n  q u e ,  e n  e l  á m b i t o  d e  l a s  d i st i n t a s  
+En los supuestos en que, en el ámbito de las distintas 
 secciones presupuestarias, se gestionen ingresos, los centros 
 gestores cumplimentarán sus previsiones tanto en el Módulo 
-de Información para la Elabor ación del Presupuesto como en 
+de Información para la Elaboración del Presupuesto como en 
 el Subsistema de Elaboración del Presupuesto del Sistema in-
 tegrado de gestión presupuestaria, contable y financiera de la 
 Administración de la Junta de Andalucía («Sistema Júpiter»), 
 antes del 1 de julio de 2009.
 e) Informe de impacto de género:
-Para la confección del inform e de impacto de género, los 
-centros gestores remitirán a la  Dirección General de Presu-
+Para la confección del informe de impacto de género, los 
+centros gestores remitirán a la Dirección General de Presu-
 puestos, antes del día 14 de octubre de 2009, la documen-
 tación relativa al análisis de impacto de género de las actua-
 ciones financiadas con cargo al presupuesto 2010, según la 
@@ -392,12 +393,12 @@ las personas titulares de los siguientes órganos directivos: Vi-
 ceconsejería de Economía y Hacienda, Secretarías Generales 
 de Economía y de Hacienda, y las Direcciones Generales de 
 Presupuestos y Fondos Europeos y Planificación de la Conse-
-jería de Economía y Hacienda, as í como de la Viceconsejería, 
+jería de Economía y Hacienda, así como de la Viceconsejería, 
 la Secretaría General Técnica y, en su caso, de los órganos 
 directivos responsables de la gestión de programas presu-
 puestarios de las respectivas Consejerías y sus agencias y sus 
 entidades u organismos asimilados. 
-Para la preparación y ordena ción técnica del debate de 
+Para la preparación y ordenación técnica del debate de 
 cada uno de los grupos de trabajo, la Dirección General de 
 Presupuestos y la Secretaría General Técnica o, en su caso, el 
 centro directivo responsable de la gestión presupuestaria de 
@@ -415,11 +416,11 @@ a) Ejecución del ejercicio presupuestario anterior y previ-
 sión actualizada del ejercicio corriente, analizando las causas 
 de las desviaciones que, en su caso, se hubieran producido.
 b) Valoración de las nuevas necesidades de financiación 
-propuestas y su correlación co n las prioridades establecidas 
+propuestas y su correlación con las prioridades establecidas 
 en cada Consejería.
 c) Valoración del volumen de ingresos reales y potenciales 
 que generará el programa.
-d )  P a rt i c i p a c i ó n  d e  f o n d o s  e u r o p e o s  y  t r a n s f e r e n c i a s  f i-
+d) Participación de fondos europeos y transferencias fi-
 nalistas.
 e) Financiación y transferencias a sus agencias públicas 
 empresariales, a sus sociedades mercantiles del sector pú-
@@ -427,7 +428,7 @@ blico andaluz y a sus otras entidades asimiladas.
 f) Medidas de ahorro adoptadas y valoración de los efec-
 tos cuantitativos y cualitativos sobre los programas.
 g) Valoración del impacto de género. 
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 133
+Sevilla, 29 de mayo 2009 
 6.1.3. Asignación de recursos financieros.
 Celebradas las reuniones de los distintos grupos de tra-
 bajo y establecida la previsión del volumen total de los recur-
@@ -479,12 +480,12 @@ la Comunidad Autónoma para el año 2010 y, en coordinación
 con la Secretaría General de Hacienda y con los demás cen-
 tros directivos de la Consejería de Economía y Hacienda que 
 gestionan recursos públicos, el estado de ingresos, para su 
-elevación a la persona titular de  la Consejería de Economía y 
+elevación a la persona titular de la Consejería de Economía y 
 Hacienda, que someterá al acuerdo del Consejo de Gobierno 
 el Anteproyecto de Ley del Presupuesto de la Comunidad Au-
 tónoma de Andalucía para el año 2010.
 6.5. Articulado del Anteproyecto de Ley.
-Las Consejerías deberán remiti r a la Viceconsejería de 
+Las Consejerías deberán remitir a la Viceconsejería de 
 Economía y Hacienda, antes del día 1 de julio de 2009, las pro-
 puestas de normas de contenido presupuestario cuya inclusión 
 en el articulado del Anteproyecto de Ley consideren proceden-
@@ -494,7 +495,7 @@ ingresos o gastos que han de presupuestarse.
 ## Disposición adicional única. Fundaciones del sector pú-
 blico de la Junta de Andalucía.
 Las fundaciones del sector público de la Junta de Anda-
-lucía remitirán a la Consejería  de Economía y Hacienda un 
+lucía remitirán a la Consejería de Economía y Hacienda un 
 presupuesto de explotación y otro de capital, así como una 
 memoria explicativa de su contenido y una liquidación del ejer-
 cicio anterior. La citada documentación se remitirá en el for-
@@ -526,63 +527,107 @@ su publicación en el Boletín Oficial de la Junta de Andalucía.
 Sevilla, 26 de mayo de 2009
 CARMEN MARTÍNEZ AGUAYO
 Consejera de Economía y Hacienda
-ANEXO I
+# ANEXO I
 CLASIFICACIÓN ORGÁNICA POR SECCIONES 
 Nº 
-ORGÁNICO DENOMINACIÓN
-0100 Presidencia de la Junta y Consejería de la Presidencia
-0200 Parlamento de Andalucía
-0300 Deuda Pública
-0400 Cámara de Cuentas de Andalucía
-0500 Consejo Consultivo de Andalucía
-0600 Consejo Audiovisual de Andalucía
-0900 Consejería de Gobernación
-1000 Consejería de Economía y Hacienda 
-1100 Consejería de Educación
-1200 Consejería de Justicia y Administración Pública
-1300 Consejería de Innovación, Ciencia y Empresa
-1400 Consejería de Obras Públicas y Transportes
-1500 Consejería de Empleo 
-1600 Consejería de Salud
-1700 Consejería de Agricultura y Pesca
-1800 Consejería de Vivienda y Ordenación del Territorio 
-1900 Consejería de Turismo, Comercio y Deporte
-2000 Consejería para la Igualdad y Bienestar Social
-2100 Consejería de Cultura
-2200 Consejería de Medio Ambiente
-3100 Gastos Diversas Consejerías
-3200 A Corporaciones Locales por Participación en Ingresos 
+ORGÁNICO
+DENOMINACIÓN
+0100
+Presidencia de la Junta y Consejería de la Presidencia
+0200
+Parlamento de Andalucía
+0300
+Deuda Pública
+0400
+Cámara de Cuentas de Andalucía
+0500
+Consejo Consultivo de Andalucía
+0600
+Consejo Audiovisual de Andalucía
+0900
+Consejería de Gobernación
+1000
+Consejería de Economía y Hacienda 
+1100
+Consejería de Educación
+1200
+Consejería de Justicia y Administración Pública
+1300
+Consejería de Innovación, Ciencia y Empresa
+1400
+Consejería de Obras Públicas y Transportes
+1500
+Consejería de Empleo 
+1600
+Consejería de Salud
+1700
+Consejería de Agricultura y Pesca
+1800
+Consejería de Vivienda y Ordenación del Territorio 
+1900
+Consejería de Turismo, Comercio y Deporte
+2000
+Consejería para la Igualdad y Bienestar Social
+2100
+Consejería de Cultura
+2200 
+Consejería de Medio Ambiente
+3100
+Gastos Diversas Consejerías
+3200
+A Corporaciones Locales por Participación en Ingresos 
 del Estado
-Página núm. 134 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 Nº 
-ORGÁNICO DENOMINACIÓN
-3300 Fondo Andaluz de Garantía Agraria
-3400 Pensiones Asistenciales
-1031 Instituto de Estadística de Andalucía
-1032 Agencia de Defensa de la Competencia de Andalucía
-1131 Agencia Andaluza de Evaluación Educativa
-1132 Instituto Andaluz de Enseñanzas Artísticas Superiores
-1231 Instituto Andaluz de Administración Pública 
-1331 Agencia Andaluza de Evaluación de la Calidad y 
+ORGÁNICO
+DENOMINACIÓN
+3300
+Fondo Andaluz de Garantía Agraria
+3400
+Pensiones Asistenciales
+1031
+Instituto de Estadística de Andalucía
+1032
+Agencia de Defensa de la Competencia de Andalucía
+1131
+Agencia Andaluza de Evaluación Educativa
+1132
+Instituto Andaluz de Enseñanzas Artísticas Superiores
+1231
+Instituto Andaluz de Administración Pública 
+1331
+Agencia Andaluza de Evaluación de la Calidad y 
 Acreditación Universitaria 
-1531 Servicio Andaluz de Empleo
-1532 Instituto Andaluz de Prevención de Riesgos Laborales
-1631 Servicio Andaluz de Salud
-1731 Instituto Andaluz de Reforma Agraria
-1732 Instituto Andaluz de Investigación y Formación Agraria, 
+1531
+Servicio Andaluz de Empleo
+1532
+Instituto Andaluz de Prevención de Riesgos Laborales
+1631
+Servicio Andaluz de Salud
+1731
+Instituto Andaluz de Reforma Agraria
+1732
+Instituto Andaluz de Investigación y Formación Agraria, 
 Pesquera, Alimentaria y de la Producción Ecológica
-2031 Instituto Andaluz de la Mujer 
-2032 Instituto Andaluz de la Juventud
+2031
+Instituto Andaluz de la Mujer 
+2032
+Instituto Andaluz de la Juventud
 2033
 Agencia para la Atención de la Dependencia en Andalucía
-2131 Patronato de la Alhambra y Generalife
-2132 Centro Andaluz de Arte Contemporáneo
-2231 Agencia Andaluza del Agua
+2131
+Patronato de la Alhambra y Generalife
+2132
+Centro Andaluz de Arte Contemporáneo
+2231
+Agencia Andaluza del Agua
 CLASIFICACIÓN ORGÁNICA POR SERVICIOS
 SERVICIO AUTOFINANCIADA
 Agrupará los siguientes códigos: 
-01 SERVICIOS CENTRALES
-02 DELEGACIONES PROVINCIALES
+01
+SERVICIOS CENTRALES
+02
+DELEGACIONES PROVINCIALES
 03 hasta 06 y 08 hasta 09 OTROS SERVICIOS Y CENTROS
 SERVICIO ASIGNACIONES COMPLEMENTARIAS 
 07
@@ -590,19 +635,27 @@ ASIGNACIONES COMPLEMENTARIAS (DISPOSICIÓN
 ADICIONAL SEGUNDA DEL ESTATUTO DE AUTONOMÍA)
 SERVICIO FONDOS EUROPEOS
 Agrupará los siguientes códigos: 
-11 GASTOS COFINANCIADOS CON FEADER
-12 GASTOS COFINANCIADOS CON FEP
+11
+GASTOS COFINANCIADOS CON FEADER
+12
+GASTOS COFINANCIADOS CON FEP
 13
 GASTOS COFINANCIADOS CON OTROS FONDOS EUROPEOS
-14 GASTOS COFINANCIADOS CON FONDO DE COHESION
-16 GASTOS COFINANCIADOS CON FSE
-17 GASTOS COFINANCIADOS CON FEDER
+14
+GASTOS COFINANCIADOS CON FONDO DE COHESION
+16
+GASTOS COFINANCIADOS CON FSE
+17
+GASTOS COFINANCIADOS CON FEDER
 SERVICIO TRANSFERENCIAS FINALISTAS 
-18 GASTOS FINANCIADOS CON INGRESOS FINALISTAS
-ANEXO II
+18
+GASTOS FINANCIADOS CON INGRESOS FINALISTAS
+# ANEXO II
 CLASIFICACIÓN POR PROVINCIAS 
-00 SERVICIOS CENTRALES
-04 ALMERIA
+00
+SERVICIOS CENTRALES
+04
+ALMERIA
 El código 98 está reservado exclusivamente a aquellos 
 créditos en los que la distribución provincial afecte a determi-
 nadas provincias. 
@@ -612,1443 +665,3177 @@ cas, no pueda determinarse con precisión.
 La utilización de estos dos últimos códigos se reservará 
 para casos absolutamente indispensables. 
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-1 IMPUESTOS DIRECTOS
-1 1 Sobre el capital
-11 0 I
-mpuesto sobre Sucesiones y Donaciones
-1 1 1 Impuesto sobre el Patrimonio de las 
+1
+IMPUESTOS DIRECTOS
+1
+1
+Sobre el capital
+1
+1
+0
+Impuesto sobre Sucesiones y Donaciones
+1
+1
+1
+Impuesto sobre el Patrimonio de las 
 Personas Físicas
-1 2 Sobre la Renta de las Personas Físicas
-1 2 0 Tarifa autonómica IRPF
-00 Tarifa autonómica IRPF
-01 Liquidación tarifa autonómica IRPF
-2 IMPUESTOS INDIRECTOS
-2 0 Sobre transmisiones patrimoniales y 
+1
+2
+Sobre la Renta de las Personas Físicas
+1
+2
+0
+Tarifa autonómica IRPF
+00
+Tarifa autonómica IRPF
+01
+Liquidación tarifa autonómica IRPF
+2
+IMPUESTOS INDIRECTOS
+2
+0
+Sobre transmisiones patrimoniales y 
 actos jurídicos documentados
-2 0 0 Transmisiones Patrimoniales
-2 0 1 Actos Jurídicos Documentados
-2 1 Sobre el juego
-2 2 Sobre valor añadido
-2 2 0 Impuesto sobre el Valor Añadido
-00 Participación en el de la R.L. por IVA
+2
+0
+0
+Transmisiones Patrimoniales
+2
+0
+1
+Actos Jurídicos Documentados
+2
+1
+Sobre el juego
+2
+2
+Sobre valor añadido
+2
+2
+0
+Impuesto sobre el Valor Añadido
+00
+Participación en el de la R.L. por IVA
 01
 Liquidación participación de la R.L. 
 por IVA
-02 Diferencia liquidación participación de 
+02
+Diferencia liquidación participación de 
 la R.L. por IVA
-23 E s p e c i a l e s
-23 0 Impuestos s/alcohol y bebidas derivadas
-2 3 0 00 Participación impuesto s/alcohol y 
+2
+3
+Especiales
+2
+3
+0
+Impuestos s/alcohol y bebidas derivadas
+2
+3
+0
+00
+Participación impuesto s/alcohol y 
 bebidas derivadas
-01 Liquidación impuesto s/alcohol y 
+01
+Liquidación impuesto s/alcohol y 
 bebidas derivadas
-02 Diferencia liquidación participación 
+02
+Diferencia liquidación participación 
 Impuesto s/alcohol y bebidas derivadas
-2 3 1 Impuesto sobre productos intermedios
-00 Participación impuesto s/productos 
+2
+3
+1
+Impuesto sobre productos intermedios
+00
+Participación impuesto s/productos 
 intermedios
-01 Liquidación impuesto s/productos 
+01
+Liquidación impuesto s/productos 
 intermedios
-11 CADIZ
-14 CORDOBA
-18 GRANADA
-21 HUELVA
-23 JAEN
-29 MALAGA
-41 SEVILLA
-98 VARIAS PROVINCIAS
-99 NO PROVINCIALIZABLE
- ANEXO III
+11
+CADIZ
+14
+CORDOBA
+18
+GRANADA
+21
+HUELVA
+23
+JAEN
+29
+MALAGA
+41
+SEVILLA
+98
+VARIAS PROVINCIAS
+99
+NO PROVINCIALIZABLE
+# ANEXO III
 CLASIFICACIÓN ECONÓMICA DE INGRESOS 
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 135
+Sevilla, 29 de mayo 2009 
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-02 Diferencia liquidación participación 
+02
+Diferencia liquidación participación 
 Impuesto s/productos intermedios
-2 3 2 Impuesto sobre la cerveza
-00 Participación impuesto sobre la cerveza
-01 Liquidación impuesto sobre la cerveza
-02 Diferencia liquidación participación 
+2
+3
+2
 Impuesto sobre la cerveza
-2 3 3 Impuesto sobre labores del tabaco
-00 Participación impuesto sobre labores 
+00
+Participación impuesto sobre la cerveza
+01
+Liquidación impuesto sobre la cerveza
+02
+Diferencia liquidación participación 
+Impuesto sobre la cerveza
+2
+3
+3
+Impuesto sobre labores del tabaco
+00
+Participación impuesto sobre labores 
 del tabaco
-01 Liquidación impuesto sobre labores 
+01
+Liquidación impuesto sobre labores 
 del tabaco
-02 Diferencia liquidación participación 
+02
+Diferencia liquidación participación 
 impuesto sobre labores del tabaco
-2 3 4 Impuesto sobre hidrocarburos
-00 Participación impuesto sobre 
+2
+3
+4
+Impuesto sobre hidrocarburos
+00
+Participación impuesto sobre 
 hidrocarburos
-2 3 4 01 Liquidación impuesto sobre 
+2
+3
+4
+01
+Liquidación impuesto sobre 
 hidrocarburos
-02 Diferencia liquidación participación 
+02
+Diferencia liquidación participación 
 impuesto sobre hidrocarburos
-2 3 5 Impuesto sobre la electricidad
-00 Impuesto sobre la electricidad
-01 Liquidación impuesto sobre la 
+2
+3
+5
+Impuesto sobre la electricidad
+00
+Impuesto sobre la electricidad
+01
+Liquidación impuesto sobre la 
 electricidad
-02 Diferencia liquidación impuesto sobre 
+02
+Diferencia liquidación impuesto sobre 
 la electricidad
-2 3 6 Impuesto sobre determinados medios 
+2
+3
+6
+Impuesto sobre determinados medios 
 de transporte
-2 3 7 Impuesto sobre las ventas minoristas 
+2
+3
+7
+Impuesto sobre las ventas minoristas 
 de determinados hidrocarburos
-25 E c o l ó g i c o s
-2 5 0 Impuestos ecológicos
-01 Emisión de gases a la atmósfera
-02 Vertidos a las aguas litorales
-03 Depósito de residuos radiactivos
-04 Depósito de residuos peligrosos
-3 TASAS, PRECIOS PÚBLICOS Y OTROS 
+2
+5
+Ecológicos
+2
+5
+0
+Impuestos ecológicos
+01
+Emisión de gases a la atmósfera
+02
+Vertidos a las aguas litorales
+03
+Depósito de residuos radiactivos
+04
+Depósito de residuos peligrosos
+3
+TASAS, PRECIOS PÚBLICOS Y OTROS 
 INGRESOS
-30 T a s a s
-3 0 0 Tasa fiscal sobre el juego
-00 Tasa fiscal sobre el juego
-3 0 1 Tasas Consejerías
-00 B.O.J.A. (Presidencia)
-3 0 1 01 Servicios administrativos referentes 
+3
+0
+Tasas
+3
+0
+0
+Tasa fiscal sobre el juego
+00
+Tasa fiscal sobre el juego
+3
+0
+1
+Tasas Consejerías
+00
+B.O.J.A. (Presidencia)
+3
+0
+1
+01
+Servicios administrativos referentes 
 a casinos, bingos, salones de juego, 
 máquinas recreativas y empresas de 
 juegos (Gobernación)
-02 Servicios administrativos relativos a 
+02
+Servicios administrativos relativos a 
 espectáculos públicos (Gobernación)
-03 Servicios administrativos relativos a la 
+03
+Servicios administrativos relativos a la 
 industria, energía y minas (Innovación, 
 Ciencia y Empresa)
-04 Expedición de títulos para el gobierno 
+04
+Expedición de títulos para el gobierno 
 de embarcaciones de recreo (Turismo, 
 Comercio y Deporte)
-05 Derechos de examen títulos para 
+05
+Derechos de examen títulos para 
 gobierno embarcaciones recreo 
 (Turismo, Comercio y Deporte)
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-06 Ocupación y aprovechamiento de 
+06
+Ocupación y aprovechamiento de 
 bienes de dominio público
-07 Explotación de obras y servicios
+07
+Explotación de obras y servicios
 08
 Viviendas de protección oficial (Vivienda 
 y Ordenación del Territorio)
-09 Ordenación del transporte mecánico por 
+09
+Ordenación del transporte mecánico por 
 carretera (Obras Públicas y Transportes)
-10 Gestión técnico-facultativa de servicios 
+10
+Gestión técnico-facultativa de servicios 
 agronómicos (Agricultura y Pesca)
-11 Servicios facultativos veterinarios 
+11
+Servicios facultativos veterinarios 
 (Agricultura y Pesca)
-13 Expedición de licencias de pesca 
+13
+Expedición de licencias de pesca 
 marítima recreativa (Agricultura y Pesca)
-15 Gestión técnico-facultativa de semillas y 
+15
+Gestión técnico-facultativa de semillas y 
 plantas de vivero (Agricultura y Pesca)
-3 0 1 16 Solicitud de adjudicación de nuevas 
+3
+0
+1
+16
+Solicitud de adjudicación de nuevas 
 oficinas de farmacia (Salud)
-17 Servicios sanitarios (Salud)
-18 Servicios administrativos de telecomuni-
+17
+Servicios sanitarios (Salud)
+18
+Servicios administrativos de telecomuni-
 caciones (Innovación, Ciencia y Empresa)
-19 Servicios académicos (Educación)
-20 Servicios administrativos (Educación)
-21 Inscripción convocatorias para selección 
+19
+Servicios académicos (Educación)
+20
+Servicios administrativos (Educación)
+21
+Inscripción convocatorias para selección 
 personal docente (Educación)
-22 Servicios administrativos sobre la 
+22
+Servicios administrativos sobre la 
 propiedad intelectual (Cultura)
-23 Servicios en materia agraria (Medio 
+23
+Servicios en materia agraria (Medio 
 Ambiente)
-24 Permisos de pesca (Medio Ambiente)
-25 Explotación de obras y servicios 
+24
+Permisos de pesca (Medio Ambiente)
+25
+Explotación de obras y servicios 
 (Medio Ambiente)
-26 Derechos de examen y cursos para 
+26
+Derechos de examen y cursos para 
 ejerc. caza y pesca (Medio Ambiente)
-27 Servicios administrativos en materia 
+27
+Servicios administrativos en materia 
 de caza (Medio Ambiente)
-28 Licencia pesca continental, matrícula 
+28
+Licencia pesca continental, matrícula 
 embarcaciones y ap. flot. (Medio 
 Ambiente)
-30 Ocupación en vías pecuarias (Medio 
+30
+Ocupación en vías pecuarias (Medio 
 Ambiente)
-31 Actuación de deslinde y modifica-
+31
+Actuación de deslinde y modifica-
 ción trazados vías pecuarias (Medio 
 Ambiente)
-3 0 1 32 Copias de fondos documentales de 
+3
+0
+1
+32
+Copias de fondos documentales de 
 vías pecuarias (Medio Ambiente)
-33 Servicios administrativos en materia 
+33
+Servicios administrativos en materia 
 de flora y fauna silvestre (Medio 
 Ambiente)
-34 Servicios administrativos en materia 
+34
+Servicios administrativos en materia 
 de protección ambiental (Medio 
 Ambiente)
 35
 Derechos de examen obtención título ofi-
 cial técnicos empresarios y actividades 
 turísticas (Turismo, Comercio y Deporte)
-36 Derechos de examen obtención habilita-
+36
+Derechos de examen obtención habilita-
 ción ejercicio guía turismo de Andalucía 
 (Turismo, Comercio y Deporte)
-37 Extinción de incendios forestales 
+37
+Extinción de incendios forestales 
 (Medio Ambiente)
-38 Expedición de títulos académicos y 
+38
+Expedición de títulos académicos y 
 profesionales (Educación)
-39 En materia de gobierno de motos 
+39
+En materia de gobierno de motos 
 náuticas (Turismo, Comercio y Deporte)
-Página núm. 136 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-41 Expedición licencia de fabricación 
+41
+Expedición licencia de fabricación 
 productos sanitarios a medida (Salud)
-42 Tramitación de licencias comerciales 
+42
+Tramitación de licencias comerciales 
 (Turismo, Comercio y Deporte)
-43 Expedición tarjetas tacógrafo digital 
+43
+Expedición tarjetas tacógrafo digital 
 (Obras Públicas y Transportes)
-44 Acreditación activ. formación conti-
+44
+Acreditación activ. formación conti-
 nuada profesiones sanitarias (Salud)
-45 Solicitud de ensayos clínicos y de estu-
+45
+Solicitud de ensayos clínicos y de estu-
 dios postautor. observat. med. (Salud)
-46 Prevención y control contaminación 
+46
+Prevención y control contaminación 
 (Medio Ambiente)
-3 0 1 47 Servicios en materia forestal (Medio 
+3
+0
+1
+47
+Servicios en materia forestal (Medio 
 Ambiente)
-48 Expedición copias y certif. registros 
+48
+Expedición copias y certif. registros 
 ordenación urbanística (Vivienda y 
 Ordenación del Territorio)
-49 Licencia de funcionamiento fabricación 
+49
+Licencia de funcionamiento fabricación 
 productos sanitarios a medida (Salud)
-3 0 2 Tasas Agencias Administrativas y 
+3
+0
+2
+Tasas Agencias Administrativas y 
 Agencias de Régimen Especial. 
-01 Servicios en materia agraria (I.A.R.A.)
-02 Por inspecciones y control sanitario 
+01
+Servicios en materia agraria (I.A.R.A.)
+02
+Por inspecciones y control sanitario 
 de animales y sus productos (S.A.S.)
-03 Inscripción pruebas selectivas (S.A.S.) 
-04 Servicios sanitarios (S.A.S.)
-09 Inscripción convocatorias selección 
-personal (I.A.A.P .)
-10 Dirección e inspección obras (A.A.A.)
-11 Explotación obras y servicios (A.A.A.)
-12 Redacción proyectos y obras (A.A.A.)
-13 Informes y otras actuaciones (A.A.A.)
+03
+Inscripción pruebas selectivas (S.A.S.) 
+04
+Servicios sanitarios (S.A.S.)
+09
+Inscripción convocatorias selección 
+personal (I.A.A.P.)
+10
+Dirección e inspección obras (A.A.A.)
+11
+Explotación obras y servicios (A.A.A.)
+12 
+Redacción proyectos y obras (A.A.A.)
+13
+Informes y otras actuaciones (A.A.A.)
 14
 Institutos politécnicos de formación 
 profesional y escuelas de formación 
 y capacitación marítimo – pesquera 
 (I.A.I.F.A.P.A.P.E.)
-15 Canon regulación agua (A.A.A.)
-16 Canon control vertidos (A.A.A.)
-17 Tarifa utilización agua (A.A.A.)
-3 0 2 18 Canon utilización bienes D.P. 
+15
+Canon regulación agua (A.A.A.)
+16
+Canon control vertidos (A.A.A.)
+17
+Tarifa utilización agua (A.A.A.)
+3
+0
+2
+18
+Canon utilización bienes D.P. 
 hidráulico (A.A.A.)
-19 Canon aprovechamiento 
+19
+Canon aprovechamiento 
 hidroeléctrico (A.A.A.)
-20 Canon trasvase Guadiaro-Majaceite 
+20
+Canon trasvase Guadiaro-Majaceite 
 (A.A.A)
-30 Certificaciones estadísticas (I.E.A.)
-31 P r e c i o s  p ú b l i c o s
-3 1 0 Precios públicos Consejerías
-01 Entrega de bienes: publicaciones, 
+30
+Certificaciones estadísticas (I.E.A.)
+3
+1
+Precios públicos
+3
+1
+0
+Precios públicos Consejerías
+01
+Entrega de bienes: publicaciones, 
 impresos y venta de bienes 
-02 Escuela de Seguridad Pública 
+02
+Escuela de Seguridad Pública 
 (Gobernación)
-03 Servicio tiempo libre (Empleo)
-04 Utilización instalaciones deportivas 
+03
+Servicio tiempo libre (Empleo)
+04
+Utilización instalaciones deportivas 
 (Turismo, Comercio y Deporte)
-05 Laboratorio control de calidad (Obras 
+05
+Laboratorio control de calidad (Obras 
 Públicas y Transportes)
-08 Entrada museos y centros de Cultura 
+08
+Entrada museos y centros de Cultura 
 (Cultura)
-10 Filmoteca Andalucía (Cultura)
+10
+Filmoteca Andalucía (Cultura)
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-11 Residencias y guarderías (Igualdad y 
+11
+Residencias y guarderías (Igualdad y 
 Bienestar Social)
-3 1 1 Precios públicos Agencias Administra-
+3
+1
+1
+Precios públicos Agencias Administra-
 tivas y Agencias de Régimen Especial
-01 Entrega de bienes: publicaciones, 
+01
+Entrega de bienes: publicaciones, 
 impresos y venta de bienes
-02 Servicios de información, cursos de 
+02
+Servicios de información, cursos de 
 formación y seminarios (I.E.A.)
-3 1 1 05 Abastecimiento de agua a la zona 
+3
+1
+1
+05
+Abastecimiento de agua a la zona 
 gaditana (A.A.A)
-06 Centros de capacitación agraria 
+06
+Centros de capacitación agraria 
 (I.A.I.F.A.P.A.P.E.)
-09 Monumentos/Cartuja (C.A.A.C.)
-11 Inscripción cursos (I.A.A.P .)
-14 Asistencia sanitaria accidentes de 
+09
+Monumentos/Cartuja (C.A.A.C.)
+11
+Inscripción cursos (I.A.A.P.)
+14
+Asistencia sanitaria accidentes de 
 tráfico (S.A.S.)
-15 Visitas y actividades culturales 
+15
+Visitas y actividades culturales 
 (Patronato Alhambra y Generalife)
-16 Carnet joven (I.A.J.)
-17 Escuela animación sociocultural 
+16
+Carnet joven (I.A.J.)
+17
+Escuela animación sociocultural 
 (I.A.J.)
-18 Asistencia sanitaria accidentes de 
+18
+Asistencia sanitaria accidentes de 
 trabajo (S.A.S.)
-19 Asistencia sanitaria colectivos prote-
+19
+Asistencia sanitaria colectivos prote-
 gidos por mutualidades y empresas 
 colabo-radoras (S.A.S.)
-20 Asistencia sanitaria particulares y 
+20
+Asistencia sanitaria particulares y 
 otros (S.A.S.)
-3 8 Reintegros por operaciones corrientes
-3 8 0 De ejercicios cerrados
-3 8 1 Del Presupuesto corriente
-39 O t r o s  i n g r e s o s
-3 9 1 Recargos y multas
-00 Recargos de apremio
-01 Otros recargos
-03 Sanciones en materia de prevención 
+3
+8
+Reintegros por operaciones corrientes
+3
+8
+0
+De ejercicios cerrados
+3
+8
+1
+Del Presupuesto corriente
+3
+9
+Otros ingresos
+3
+9
+1
+Recargos y multas
+00
+Recargos de apremio
+01
+Otros recargos
+03
+Sanciones en materia de prevención 
 de riesgos laborales
-3 9 1 05 Sanciones Ley de Aguas
-06 Multas
-07 Recargos y multas Medio Ambiente
-3 9 2 Intereses de demora
-39 9 I n g r e s o s  d i v e r s o s
-00 Recursos eventuales
-01 Jurídicos y contenciosos
-02 Cooperativas andaluzas. Ley 2/99
-03 Aprovechamientos de Montes 
+3
+9
+1
+05
+Sanciones Ley de Aguas
+06
+Multas
+07
+Recargos y multas Medio Ambiente
+3
+9
+2
+Intereses de demora
+3
+9
+9
+Ingresos diversos
+00
+Recursos eventuales
+01
+Jurídicos y contenciosos
+02
+Cooperativas andaluzas. Ley 2/99
+03
+Aprovechamientos de Montes 
 Entidades Locales
-4 TRANSFERENCIAS CORRIENTES
-40 D e l  E s t a d o
-4 0 0 Fondo de suficiencia
-00 Fondo de suficiencia
-01 Liquidación fondo de suficiencia y 
+4
+TRANSFERENCIAS CORRIENTES
+4
+0
+Del Estado
+4
+0
+0
+Fondo de suficiencia
+00
+Fondo de suficiencia
+01
+Liquidación fondo de suficiencia y 
 garantía de recursos sanitarios
-4 0 1 Otras transferencias
-00 Otras transferencias corrientes de la 
+4
+0
+1
+Otras transferencias
+00
+Otras transferencias corrientes de la 
 Administración General del Estado
-01 Control del gasto en incapacidad 
+01
+Control del gasto en incapacidad 
 temporal
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 137
+Sevilla, 29 de mayo 2009 
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-03 Fondo de cohesión sanitaria 
-05 Promoción autonomía personal y 
+03
+Fondo de cohesión sanitaria 
+05
+Promoción autonomía personal y 
 dependencia
-10 Fomento, investigación y desarrollo 
+10
+Fomento, investigación y desarrollo 
 tecnológico
-20 Dotación complementaria P.G.E. 
+20
+Dotación complementaria P.G.E. 
 financiación asistencia sanitaria
-4 0 1 21 Otras transferencias acuerdo 
+4
+0
+1
+21
+Otras transferencias acuerdo 
 financiación sanitaria
-30 Compensación impuesto sobre el 
+30
+Compensación impuesto sobre el 
 patrimonio
-4 0 2 Asignaciones complementarias para 
+4
+0
+2
+Asignaciones complementarias para 
 garantizar el nivel mínimo de servicios 
 (Disposición adicional segunda del 
 Estatuto de Autonomía)
-40 3 T r a n s f e r e n c i a s  f i n a l i s t a s
+4
+0
+3
+Transferencias finalistas
 Se desarrollará en función de las 
 distintas líneas de subvención que se 
 financian con cargo a estos ingresos.
-40 4 T r a n s f e r e n c i a s  f i n a l i s t a s
+4
+0
+4
+Transferencias finalistas
 Se desarrollará en función de las 
 distintas líneas de subvención que se 
 financian con cargo a estos ingresos.
-4 0 5 Participación ingresos del Estado. 
+4
+0
+5
+Participación ingresos del Estado. 
 Ayuntamientos y Diputaciones
-00 Transferencias corrientes de la AGE 
+00
+Transferencias corrientes de la AGE 
 por participación I.E. Ayuntamiento
-01 Transferencias corrientes de la AGE 
+01
+Transferencias corrientes de la AGE 
 por participación I.E. Diputación
-4 0 6 Liquidación participación ingresos del 
+4
+0
+6
+Liquidación participación ingresos del 
 Estado. Ayuntamientos y Diputaciones
-00 Ayuntamientos
-01 Diputaciones
-40 7
+00
+Ayuntamientos
+01
+Diputaciones
+4
+0
+7
 Transferencias de entes del sector público
-4 1 De Agencias Administrativas 
+4
+1
+De Agencias Administrativas 
 Se desarrollará en función de las 
 distintas líneas de subvención que se 
 financian con cargo a estos ingresos
-4 4 De las Agencias Públicas Empresaria-
+4
+4
+De las Agencias Públicas Empresaria-
 les y  de las Sociedades Mercantiles 
 del Sector Público Andaluz
 Se desarrollarán de acuerdo con las 
 distintas finalidades de gasto
-4 5 De la Junta de Andalucía
-4 5 0 Transferencias a las Agencias Admi-
+4
+5
+De la Junta de Andalucía
+4
+5
+0
+Transferencias a las Agencias Admi-
 nistrativas
 La distribución por subconceptos se 
 realizará en función de las distintas 
 fuentes de financiación
-4 6 De Entidades Locales
-4 6 0 De Diputaciones Provinciales
-4 6 1 De Ayuntamientos
-4 7 De Empresas Privadas
+4
+6
+De Entidades Locales
+4
+6
+0
+De Diputaciones Provinciales
+4
+6
+1
+De Ayuntamientos
+4
+7
+De Empresas Privadas
 Se desarrollarán de acuerdo con las 
 distintas finalidades de gasto
-4 8 De familias e instituciones sin fines 
+4
+8
+De familias e instituciones sin fines 
 de lucro
 Se desarrollarán de acuerdo con las 
 distintas finalidades de gasto
-49 D e l  e x t e r i o r
-4 9 0 De la Unión Europea (FEDER)
-4 9 0 17 Programa Operativo Fomento de la 
+4
+9
+Del exterior
+4
+9
+0
+De la Unión Europea (FEDER)
+4
+9
+0
+17
+Programa Operativo Fomento de la 
 Investigación y Desarrollo Tecnológico
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-20 Programa Operativo Integrado de 
+20
+Programa Operativo Integrado de 
 Andalucía
-24 Interreg III-A España-Portugal
-25 Interreg III-A España-Marruecos
-26 Interreg III-B Mediterráneo Occidental
-27 Interreg III-B Espacio Atlántico
-28 Interreg III-B Sudoeste Europeo
-29 Interreg III-C Oeste
-30 Interreg III-C Zona Meridional
-31 Interreg III-C Este
-32 Interreg III-C Norte
-33 INTERAC
-40 Programa Operativo de Andalucía 
+24
+Interreg III-A España-Portugal
+25
+Interreg III-A España-Marruecos
+26
+Interreg III-B Mediterráneo Occidental
+27
+Interreg III-B Espacio Atlántico
+28
+Interreg III-B Sudoeste Europeo
+29
+Interreg III-C Oeste
+30
+Interreg III-C Zona Meridional
+31
+Interreg III-C Este
+32
+Interreg III-C Norte
+33
+INTERAC
+40
+Programa Operativo de Andalucía 
 (FEDER) 2007-2013
-4 9 1 De la Unión Europeoa (FSE)
-20 Programa Operativo Integrado de 
+4
+9
+1
+De la Unión Europeoa (FSE)
+20
+Programa Operativo Integrado de 
 Andalucía
-22 EQUAL
-40 Programa. Operativo de Andalucía 
+22
+EQUAL
+40
+Programa. Operativo de Andalucía 
 (FSE) 2007-2013
-42 Fondo Europeo de adaptación a la 
+42
+Fondo Europeo de adaptación a la 
 globalización
-4 9 2 De la UE (Garantía agrícola)
-05 Garantía agrícola
-06 FEOGA-Garantía mejora procedimiento 
+4
+9
+2
+De la UE (Garantía agrícola)
+05
+Garantía agrícola
+06
+FEOGA-Garantía mejora procedimiento 
 gestión del organismo pagador
-4 9 2 15 Intervención y regulación de mercados
-4 9 3 De la Unión Europea (IFOP)
-21 Acciones innovadoras cofinanciadas 
+4
+9
+2
+15
+Intervención y regulación de mercados
+4
+9
+3
+De la Unión Europea (IFOP)
+21
+Acciones innovadoras cofinanciadas 
 por IFOP
-4 9 5 De la Unión Europea (Otros Fondos 
+4
+9
+5
+De la Unión Europea (Otros Fondos 
 Europeos)
-00 Otros Fondos Europeos
-01 Programa Leonardo da Vinci
-06 Programas Marco de I+D Tecnológico 
+00
+Otros Fondos Europeos
+01
+Programa Leonardo da Vinci
+06
+Programas Marco de I+D Tecnológico 
 y Demostración
-07 Programas Marco Cultura 2000
-09 Programa Marco I+D Medio Ambiente
-4 9 6 De la Unión Europea (FEADER)
-40 Programa Operativo de Andalucía 
+07
+Programas Marco Cultura 2000
+09
+Programa Marco I+D Medio Ambiente
+4
+9
+6
+De la Unión Europea (FEADER)
+40
+Programa Operativo de Andalucía 
 (FEADER) 2007-2013
-4 9 7 De la Unión Europea (FEP)
-40 Programa Operativo de Andalucía 
+4
+9
+7
+De la Unión Europea (FEP)
+40
+Programa Operativo de Andalucía 
 (FEP) 2007-2013
-5 INGRESOS PATRIMONIALES
-5 0 Intereses de títulos y valores
-5 0 1 Comisiones sobre avales
-5 1 Intereses de anticipos y préstamos 
+5
+INGRESOS PATRIMONIALES
+5
+0
+Intereses de títulos y valores
+5
+0
+1
+Comisiones sobre avales
+5
+1
+Intereses de anticipos y préstamos 
 concedidos
-5 1 0 De familias e instituciones sin fines 
+5
+1
+0
+De familias e instituciones sin fines 
 de lucro
-5 2 Intereses de depósitos
-5 2 0 Intereses de cuentas bancarias
-5 3 Dividendos y participaciones en 
+5
+2
+Intereses de depósitos
+5
+2
+0
+Intereses de cuentas bancarias
+5
+3
+Dividendos y participaciones en 
 beneficios
-5 4 Rentas de bienes inmuebles
-5 5 Productos de concesiones y aprove-
+5
+4
+Rentas de bienes inmuebles
+5
+5
+Productos de concesiones y aprove-
 chamientos especiales
-Página núm. 138 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-5 5 0 Concesión centros turísticos
-5 5 1 Concesión centros sanitarios
-5 5 2 Productos de explotaciones directas
-5 5 3 Aprovechamiento con terceros 
+5
+5
+0
+Concesión centros turísticos
+5
+5
+1
+Concesión centros sanitarios
+5
+5
+2
+Productos de explotaciones directas
+5
+5
+3
+Aprovechamiento con terceros 
 Consejerías.
-5 5 4 Aprovechamiento con terceros. 
+5
+5
+4
+Aprovechamiento con terceros. 
 Agencias Administrativas y Agencia de 
 Régimen Especial
-5 5 5 Concesiones administrativas
-5 9 Otros ingresos patrimoniales
-5 9 0 Otros ingresos patrimoniales. 
+5
+5
+5
+Concesiones administrativas
+5
+9
+Otros ingresos patrimoniales
+5
+9
+0
+Otros ingresos patrimoniales. 
 Consejerías
-5 9 1 Otros ingresos patrimoniales. Agencias 
+5
+9
+1
+Otros ingresos patrimoniales. Agencias 
 Administrativas y Agencias de Régimen 
 Especial
-6 ENAJENACION DE INVERSIONES 
+6
+ENAJENACION DE INVERSIONES 
 REALES
-60 D e  t e r r e n o s
-6 0 0 Reintegro de los lotes adjudicados
-60 1 V e n t a  d e  t i e r r a s
-6 0 2 Otras ventas
-6 1 De las demás inversiones reales
-6 1 0 Reintegro de obras de interés común y 
+6
+0
+De terrenos
+6
+0
+0
+Reintegro de los lotes adjudicados
+6
+0
+1
+Venta de tierras
+6
+0
+2
+Otras ventas
+6
+1
+De las demás inversiones reales
+6
+1
+0
+Reintegro de obras de interés común y 
 agrícola privado por los concesionarios
-6 1 1 Venta de inmuebles
-00 Venta de inmuebles
-6 1 1 15 Venta de inmuebles de promoción 
+6
+1
+1
+Venta de inmuebles
+00
+Venta de inmuebles
+6
+1
+1
+15
+Venta de inmuebles de promoción 
 pública
-6 1 2 Reintegro de obras de interés común 
+6
+1
+2
+Reintegro de obras de interés común 
 y agrícola privado por los particulares
-6 1 3 Reintegro de las inversiones en montes 
+6
+1
+3
+Reintegro de las inversiones en montes 
 consorciados
-6 1 4 Reintegro de las inversiones en montes 
+6
+1
+4
+Reintegro de las inversiones en montes 
 conveniados
-6 1 6 Enajenación de bienes del I.A.R.A.
-6 1 9 De otras inversiones reales
-6 8 Reintegros por operaciones de capital
-6 8 0 De ejercicios cerrados
-6 8 1 Del presupuesto corriente
-7 TRANSFERENCIAS DE CAPITAL
-70 D e l  E s t a d o
-7 0 0 Fondos de Compensación Interterri-
+6
+1
+6
+Enajenación de bienes del I.A.R.A.
+6
+1
+9
+De otras inversiones reales
+6
+8
+Reintegros por operaciones de capital
+6
+8
+0
+De ejercicios cerrados
+6
+8
+1
+Del presupuesto corriente
+7
+TRANSFERENCIAS DE CAPITAL
+7
+0
+Del Estado
+7
+0
+0
+Fondos de Compensación Interterri-
 torial
-00 Fondo Compensación
-01 Fondo Complementario
-7 0 1 Transferencias de la Administración 
+00
+Fondo Compensación
+01
+Fondo Complementario
+7
+0
+1
+Transferencias de la Administración 
 General del Estado por gestión de 
 programas europeos
 00
 FEOGA. Programa Operativo Integrado 
 de Andalucía (Cofinanciación MMAMRM)
-01 Programa operativo de adaptabilidad 
+01
+Programa operativo de adaptabilidad 
 y empleabilidad
-02 IFOP. Programa Operativo 2000-2006
-04 FEOGA. Programa Operativo Integrado 
+02
+IFOP. Programa Operativo 2000-2006
+04
+FEOGA. Programa Operativo Integrado 
 de Andalucía (Cofinanciación MMAMRM)
-7 0 1 05 FEOGA. Programa Operativo Mejora 
+7
+0
+1
+05
+FEOGA. Programa Operativo Mejora 
 Estructuras Agrarias
-06 FEOGA. Programa Operativo Ordena-
+06
+FEOGA. Programa Operativo Ordena-
 ción de Producciones
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-08 Programa Mejora Calidad Producciones
-09 LEADER Plus (Cofinanciación MMAMRM)
-10 FEOGA. Subvención Global Desarrollo 
+08
+Programa Mejora Calidad Producciones
+09
+LEADER Plus (Cofinanciación MMAMRM)
+10
+FEOGA. Subvención Global Desarrollo 
 Endógeno. Zonas Rurales (Cofinanciación 
 MMAMRM)
-11 FEDER. Subvención Global Desarrollo 
+11
+FEDER. Subvención Global Desarrollo 
 Endógeno. Zonas Rurales (Cofinanciación 
 MMAMRM)
-12 Fomento, Investigación y Desarrollo 
+12
+Fomento, Investigación y Desarrollo 
 Tecnológico 
-41 Programa de desarrollo rural de 
+41
+Programa de desarrollo rural de 
 Andalucía (FEADER) Cofinanciación. 
 Agricultura
-42 Programa de desarrollo rural de 
+42
+Programa de desarrollo rural de 
 Andalucía (FEADER) Cofinanciación. 
 Medio Ambiente
-70 2 T r a n s f e r e n c i a s  f i n a l i s t a s
+7
+0
+2
+Transferencias finalistas
 Se desarrollará en función de las 
 distintas líneas de subvención que se 
 financian con cargo a estos ingresos
-70 3 T r a n s f e r e n c i a s  f i n a l i s t a s
+7
+0
+3
+Transferencias finalistas
 Se desarrollará en función de las 
 distintas líneas de subvención que se 
 financian con cargo a estos ingresos
-7 0 4 Otras transferencias 
-7 0 7 Transferencias de entes del sector 
+7
+0
+4
+Otras transferencias 
+7
+0
+7
+Transferencias de entes del sector 
 público
-7 0 7 00 Del Organismo Nacional de Loterías y 
+7
+0
+7
+00
+Del Organismo Nacional de Loterías y 
 Apuestas del Estado
-71
+7
+1
 De Agencias Administrativas Se 
 desarrollará en función de las distintas 
 líneas de subvención que se financian 
 con cargo a estos ingresos
-74 De las Agencias Públicas Empresariales 
+7
+4
+De las Agencias Públicas Empresariales 
 y de las Sociedades Mercantiles del 
 Sector Público Andaluz Se desarrollarán 
 de acuerdo con las distintas finalidades 
 de gasto
-7 5 De la Junta de Andalucía 
-7 5 0 Transferencias a las agencias 
+7
+5
+De la Junta de Andalucía 
+7
+5
+0
+Transferencias a las agencias 
 Administrativas
 La distribución por subconceptos se 
 realizará en función de las distintas 
 fuentes financieras
-7 6 De Entidades Locales
-7 6 0 De Ayuntamientos
-03 De Ayuntamientos inversiones 
+7
+6
+De Entidades Locales
+7
+6
+0
+De Ayuntamientos
+03
+De Ayuntamientos inversiones 
 gestionadas
-7 6 1 De Diputaciones Provinciales
-01 Reinteg ro pré s t amos I.P.P.V.
-7 7 De empresas privadas Se desarro-
+7
+6
+1
+De Diputaciones Provinciales
+01
+Reintegro préstamos I.P.P.V.
+7
+7
+De empresas privadas Se desarro-
 llarán de acuerdo con las distintas 
 finalidades de gasto
-7 8 De familias e instituciones sin fines 
+7
+8
+De familias e instituciones sin fines 
 de lucro 
 Se desarrollarán de acuerdo con las 
 distintas finalidades de gasto
-79 D e l  e x t e r i o r
-7 9 0 De la Unión Europea (FEDER)
-17 Programa Operativo Fomento de la 
+7
+9
+Del exterior
+7
+9
+0
+De la Unión Europea (FEDER)
+17
+Programa Operativo Fomento de la 
 Investigación y Desarrollo Tecnológico
 19
 Programa regional acciones innovadoras
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 139
+Sevilla, 29 de mayo 2009 
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-20 Programa Operativo Integrado de 
+20
+Programa Operativo Integrado de 
 Andalucía
-22 Subvención Global de Andalucía 
+22
+Subvención Global de Andalucía 
 2000-2006
-23 Subvención Global Desarrollo Endógeno 
+23
+Subvención Global Desarrollo Endógeno 
 Zonas Rurales  2000-2006
-24 Interreg III-A España-Portugal
-25 Interreg III-A España-Marruecos
-26 Interreg III-B Mediterráneo Occidental
-27 Interreg III-B Espacio Atlántico
-28 Interreg III-B Sudoeste Europeo
-29 Interreg III-C Oeste
-30 Interreg III-C Zona Meridional
-31 Interreg III-C Este
-32 Interreg III-C Norte
-33 INTERAC 
+24
+Interreg III-A España-Portugal
+25
+Interreg III-A España-Marruecos
+26
+Interreg III-B Mediterráneo Occidental
+27
+Interreg III-B Espacio Atlántico
+28
+Interreg III-B Sudoeste Europeo
+29
+Interreg III-C Oeste
+30
+Interreg III-C Zona Meridional
+31
+Interreg III-C Este
+32
+Interreg III-C Norte
+33
+INTERAC 
 De la Unión Europea (FEDER)
-7 9 0 40 Programa Operativo de Andalucía 
+7
+9
+0
+40
+Programa Operativo de Andalucía 
 (FEDER) 2007-2013
-41 Subvención Global de Innovación, 
+41
+Subvención Global de Innovación, 
 Tecnología y Empresa Andalucía 
 2007-2013
-42 P.O. Cooperación Transfronteriza 
+42
+P.O. Cooperación Transfronteriza 
 España-Portugal 2007-2013
-43 Programa operativo FEDER Andalucía 
+43
+Programa operativo FEDER Andalucía 
 2007-2013. Cofinanciación AGE
-44 P.O. Cooperación Interregional. 
+44
+P.O. Cooperación Interregional. 
 INTERREG IV-C
-45 P.O. Espacio Atlántico 2007-2013
-7 9 1 De la Unión Europea (FSE)
-20 Programa Operativo Integrado de 
+45
+P.O. Espacio Atlántico 2007-2013
+7
+9
+1
+De la Unión Europea (FSE)
+20
+Programa Operativo Integrado de 
 Andalucía
-22 EQUAL
-40 Programa Operativo de Andalucía 
+22
+EQUAL
+40
+Programa Operativo de Andalucía 
 (FSE) 2007-2013
-41 Programa Operativo de Adaptabilidad 
+41
+Programa Operativo de Adaptabilidad 
 y Empleabilidad
-42 Fondo Europeo de adaptación a la 
+42
+Fondo Europeo de adaptación a la 
 globalización
-7 9 2 De la Unión Europea (FEOGA)
-05 FEOGA-Garantía mejora calidad 
+7
+9
+2
+De la Unión Europea (FEOGA)
+05
+FEOGA-Garantía mejora calidad 
 producción
-07 FEOGA-Garantía mejora gestión
-20 Programa Operativo Integrado de 
+07
+FEOGA-Garantía mejora gestión
+20
+Programa Operativo Integrado de 
 Andalucía (Junta de Andalucía)
-7 9 2 21 Programa Operativo Integrado de An-
+7
+9
+2
+21
+Programa Operativo Integrado de An-
 dalucía (Ministerio de Medio Ambiente)
-22 Programa Operativo Integrado de 
+22
+Programa Operativo Integrado de 
 Andalucía (Ministerio de Agricultura)
-23 LEADER Plus
-24 Subvención Global Desarrollo Endó-
+23
+LEADER Plus
+24
+Subvención Global Desarrollo Endó-
 geno Zonas Rurales
-25 P.O. Ordenación  de Producciones
-26 P .O. Mejora de Estructuras Agrarias
-27 Plan Apícola Nacional
-28 Forestación en Tierras Agrícolas
-7 9 3 De la Unión Europea (IFOP)
-7 9 3 20 Programa Operativo IFOP (2000-2006)
+25
+P.O. Ordenación  de Producciones
+26
+P.O. Mejora de Estructuras Agrarias
+27
+Plan Apícola Nacional
+28
+Forestación en Tierras Agrícolas
+7
+9
+3
+De la Unión Europea (IFOP)
+7
+9
+3
+20
+Programa Operativo IFOP (2000-2006)
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-7 9 3 21 Acciones innovadoras cofinanciadas 
+7
+9
+3
+21
+Acciones innovadoras cofinanciadas 
 por IFOP
-79 4
+7
+9
+4
 De la Unión Europea (Fondo de Cohesión)
-04 Gestión de residuos en Andalucía
-05 Saneamiento y depuración Cuenca 
+04
+Gestión de residuos en Andalucía
+05
+Saneamiento y depuración Cuenca 
 Hidrográfica del Sur. Fase II
-06 Saneamiento y depuración Cuenca 
+06
+Saneamiento y depuración Cuenca 
 Hidrográfica del Guadalquivir. Fase II
-07 Abastecimiento agua potable área 
+07
+Abastecimiento agua potable área 
 metropolitana de Granada
-08 Ampliación y mejora instalaciones de 
+08
+Ampliación y mejora instalaciones de 
 tratamiento
-7 9 4 09 Saneamiento y depuración de la 
+7
+9
+4
+09
+Saneamiento y depuración de la 
 Cuenca del Guadalhorce
-10 Abastecimientos sistemas 
+10
+Abastecimientos sistemas 
 supramunicipal Huelva
-11 Abastecimiento sistemas supramunicipal 
+11
+Abastecimiento sistemas supramunicipal 
 Cádiz y Jaén C.H. Guadalquivir
-12 Abastecimiento sistemas supramunicipal 
+12
+Abastecimiento sistemas supramunicipal 
 Granada y Málaga C.H. Sur
-13 Saneamiento C.H. Guadalquivir 2002. 
+13
+Saneamiento C.H. Guadalquivir 2002. 
 Grupo I
-14 Saneamiento C.H. Guadalquivir 2002. 
+14
+Saneamiento C.H. Guadalquivir 2002. 
 Grupo II
-15 Plantas de recuperación y compostaje 
+15
+Plantas de recuperación y compostaje 
 vertedero controlado apoyo
-16 Plantas de clasificación y estaciones 
+16
+Plantas de clasificación y estaciones 
 de transferencia
-17 Centros de acondicionamiento y 
+17
+Centros de acondicionamiento y 
 puntos limpios
-18 Sellado de vertederos
-19 Otros sistemas de la provincia de 
+18
+Sellado de vertederos
+19
+Otros sistemas de la provincia de 
 Almería
-20 Saneamiento y depuración Guadalquivir 
+20
+Saneamiento y depuración Guadalquivir 
 (ENP)
-21 Sistemas de la provincia de Sevilla
-22 Conducción principal abastecimiento 
+21
+Sistemas de la provincia de Sevilla
+22
+Conducción principal abastecimiento 
 norte Córdoba
-23 Abastecimiento Guadalquivir Córdoba 
+23
+Abastecimiento Guadalquivir Córdoba 
 Norte
-24 Conducción de abastecimiento al Plan 
+24
+Conducción de abastecimiento al Plan 
 Écija
-7 9 4 25 Programa Operativo del Fondo de 
+7
+9
+4
+25
+Programa Operativo del Fondo de 
 Cohesión (2007-2013)
-7 9 5 De la Unión Europea (Otros Fondos 
+7
+9
+5
+De la Unión Europea (Otros Fondos 
 Europeos)
-00 Programa LIFE
-02 Otros Fondos Europeos
-03 Decisiones del Comité Veterinario 
+00
+Programa LIFE
+02
+Otros Fondos Europeos
+03
+Decisiones del Comité Veterinario 
 Europeo
-05 Programa Leonardo Da Vinci
-06 Proyectos V Programa Marco I+D
-07 Programas Marco de I+D Tecnológico 
+05
+Programa Leonardo Da Vinci
+06
+Proyectos V Programa Marco I+D
+07
+Programas Marco de I+D Tecnológico 
 y Demostración
-08 Programa Marco Cultura 2000
-09 Programa Marco I+D Medio Ambiente
-10 Decisiones del Comité Veterinario 
+08
+Programa Marco Cultura 2000
+09
+Programa Marco I+D Medio Ambiente
+10
+Decisiones del Comité Veterinario 
 Europeo 2007-2013
-12 P.O. Español mejora producc. y 
+12
+P.O. Español mejora producc. y 
 comercializ. product. apicult. 2008-2010
-Página núm. 140 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 CAP. ART. CON. SUBC. DENOMINACIÓN PRINCIPAL
-7 9 6 De la Unión Europea (FEADER)
-40 Programa de Desarrollo Rural de 
+7
+9
+6
+De la Unión Europea (FEADER)
+40
+Programa de Desarrollo Rural de 
 Andalucía (FEADER) 2007-2013
-41 Programa de desarrollo rural de Andalucía 
+41
+Programa de desarrollo rural de Andalucía 
 (FEADER) Cofinan Agricultura
-42 Programa de desarrollo rural de 
+42
+Programa de desarrollo rural de 
 Andalucía (FEADER) Cofinan Medio 
 Ambiente
-7 9 7 De la Unión Europea (FEP)
-40 Programa. Operativo para el Sector 
+7
+9
+7
+De la Unión Europea (FEP)
+40
+Programa. Operativo para el Sector 
 Pesquero Español (FEP) 2007-2013
-8 ACTIVOS FINANCIEROS
-8 2 Reintegros de préstamos concedidos
-8 2 0 De anticipos y préstamos a corto 
+8
+ACTIVOS FINANCIEROS
+8
+2
+Reintegros de préstamos concedidos
+8
+2
+0
+De anticipos y préstamos a corto 
 plazo concedidos al personal
-8 2 1 De anticipos y préstamos a largo 
+8
+2
+1
+De anticipos y préstamos a largo 
 plazo concedidos al personal
-82 2
+8
+2
+2
 De anticipos y préstamos a explotaciones 
 provisionales y concesionarios
-8 2 3 De anticipos y préstamos concedidos 
+8
+2
+3
+De anticipos y préstamos concedidos 
 a CC.LL.
-8 2 4 De anticipos y préstamos concedidos 
+8
+2
+4
+De anticipos y préstamos concedidos 
 a empresas
-8 3 Reintegro de depósitos y fianzas 
+8
+3
+Reintegro de depósitos y fianzas 
 constituidas
-8 4 Enajenación de acciones
-8 7 Remanente de Tesorería
-8 8 Resultados positivos y no aplicados
-8 8 0 Resultados positivos y no aplicados 
+8
+4
+Enajenación de acciones
+8
+7
+Remanente de Tesorería
+8
+8
+Resultados positivos y no aplicados
+8
+8
+0
+Resultados positivos y no aplicados 
 ejercicios anteriores
-9 PASIVOS FINANCIEROS
-9 0 Emisión de Deuda Pública
-9 0 0 Emisión de Deuda Pública autorizada 
+9
+PASIVOS FINANCIEROS
+9
+0
+Emisión de Deuda Pública
+9
+0
+0
+Emisión de Deuda Pública autorizada 
 por Ley del Presupuesto
-92 P r é s t a m o s  r e c i b i d o s
-9 3 Depósitos y fianzas recibidos
-93 0 F i a n z a s
-ANEXO IV
+9
+2
+Préstamos recibidos
+9
+3
+Depósitos y fianzas recibidos
+9
+3
+0
+Fianzas
+# ANEXO IV
 CLASIFICACION FUNCIONAL Y POR PROGRAMAS 
 GRUPO FUNCION PROG. DENOMINACION PRINCIPAL
-0D E U D A  P Ú B L I C A
-0 1 Deuda Pública
-0 1 A Administración, gastos financieros y 
+0
+DEUDA PÚBLICA
+0
+1
+Deuda Pública
+0
+1
+A
+Administración, gastos financieros y 
 amortización de la Deuda Pública
-1 SERVICIOS DE CARACTER GENERAL
-1 1 Alta dirección de la Junta de Andalucía
-1 1 A Dirección y servicios generales de la 
+1
+SERVICIOS DE CARACTER GENERAL
+1
+1
+Alta dirección de la Junta de Andalucía
+1
+1
+A
+Dirección y servicios generales de la 
 Presidencia
-1 1 B Actividad legislativa
-1 1 C Control externo del sector público
-1 1 D Alto asesoramiento  de la  Comunidad 
+1
+1
+B
+Actividad legislativa
+1
+1
+C
+Control externo del sector público
+1
+1
+D
+Alto asesoramiento  de la  Comunidad 
 Autónoma
-1 1 F Asesoramiento en materia económica 
+1
+1
+F
+Asesoramiento en materia económica 
 y social
-1 1 G Consejo asesor de R.T.V.E 
-GRUPO
-FUNCION PROG. DENOMINACION PRINCIPAL
-11 H Autoridad y asesoramiento audiovi-
+1
+1
+G
+Consejo asesor de R.T.V.E 
+GRUPO FUNCION PROG. DENOMINACION PRINCIPAL
+1
+1
+H
+Autoridad y asesoramiento audiovi-
 sual de la Comunidad Autónoma de 
 Andalucía
-1 2 Administración General
-1 2 A Modernización y gestión de la Función 
+1
+2
+Administración General
+1
+2
+A
+Modernización y gestión de la Función 
 Pública
-1 2 B Selección y formación de personal de 
+1
+2
+B
+Selección y formación de personal de 
 la Administración General
-1 2 C Acción social del personal
-12 D C o b e r t u r a  i n f o r m a t i v a
-12 E B . O . J . A .
-14 J u s t i c i a
-1 4 A Dirección y servicios generales de 
+1
+2
+C
+Acción social del personal
+1
+2
+D
+Cobertura informativa
+1
+2
+E
+B.O.J.A.
+1
+4
+Justicia
+1
+4
+A
+Dirección y servicios generales de 
 Justicia y Administración Pública
-1 4 B Administración de Justicia
-2 PROTECCION CIVIL Y SEGURIDAD 
+1
+4
+B
+Administración de Justicia
+2
+PROTECCION CIVIL Y SEGURIDAD 
 CIUDADANA
-2 2 Seguridad y protección civil
-2 2 A Dirección y servicios generales de 
+2
+2
+Seguridad y protección civil
+2
+2
+A
+Dirección y servicios generales de 
 Gobernación
-2 2 B Seguridad y protección civil
-2 2 C Espectáculos públicos y juego 
-3 SEGURIDAD, PROTECCIÓN Y 
+2
+2
+B
+Seguridad y protección civil
+2
+2
+C
+Espectáculos públicos y juego 
+3
+SEGURIDAD, PROTECCIÓN Y 
 PROMOCIÓN SOCIAL 
-3 1 Seguridad y protección social
-3 1 A Dirección y servicios generales para la 
+3
+1
+Seguridad y protección social
+3
+1
+A
+Dirección y servicios generales para la 
 Igualdad y Bienestar Social
-3 1 B Plan sobre drogodependencia
-3 1 C Atención a personas con discapacidad
-3 1 D Atención a personas mayores
-3 1 E Atención a la infancia
-31 F P e n s i o n e s  a s i s t e n c i a l e s
-31 G B i e n e s t a r  s o c i a l
-31 H V o l u n t a r i a d o
-3 1 J Coordinación de políticas migratorias
-3 1 K Andaluces en el mundo
-31 L
+3
+1
+B
+Plan sobre drogodependencia
+3
+1
+C
+Atención a personas con discapacidad
+3
+1
+D
+Atención a personas mayores
+3
+1
+E
+Atención a la infancia
+3
+1
+F
+Pensiones asistenciales
+3
+1
+G
+Bienestar social
+3
+1
+H
+Voluntariado
+3
+1
+J
+Coordinación de políticas migratorias
+3
+1
+K
+Andaluces en el mundo
+3
+1
+L
 Administración de las relaciones 
 laborales
-31 M Consejo Andaluz de Relaciones Laborales
-3 1 N Atención a menores infractores
-3 1 O Prevención de riesgos laborales y 
+3
+1
+M
+Consejo Andaluz de Relaciones Laborales
+3
+1
+N
+Atención a menores infractores
+3
+1
+O
+Prevención de riesgos laborales y 
 salud laboral
-3 1 P Servicio de apoyo a la familia
-3 1 R Servicio en materia de dependencia
-3 1 T Prevención y protección integral contra 
+3
+1
+P
+Servicio de apoyo a la familia
+3
+1
+R
+Servicio en materia de dependencia
+3
+1
+T
+Prevención y protección integral contra 
 la violencia de genero
-32 P r o m o c i ó n  s o c i a l
-3 2 A Dirección y servicios generales de 
+3
+2
+Promoción social
+3
+2
+A
+Dirección y servicios generales de 
 Empleo y Servicio Andaluz de Empleo
-3 2 B Fomento e igualdad en el empleo
-3 2 D Formación para el empleo
-32 E I n s e r c i ó n  p r o f e s i o n a l
-3 2 F Promoción y servicios a la juventud
-3 2 G Acciones para la igualdad y promoción 
+3
+2
+B
+Fomento e igualdad en el empleo
+3
+2
+D
+Formación para el empleo
+3
+2
+E
+Inserción profesional
+3
+2
+F
+Promoción y servicios a la juventud
+3
+2
+G
+Acciones para la igualdad y promoción 
 de las mujeres
-3 2 I Empleabilidad e intermediación laboral
-3 2 K Acciones integradas para el empleo
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 141
+3
+2
+I
+Empleabilidad e intermediación laboral
+3
+2
+K
+Acciones integradas para el empleo
+Sevilla, 29 de mayo 2009 
 GRUPO FUNCION PROG. DENOMINACION PRINCIPAL
-4 PRODUCCION DE BIENES PUBLICOS 
+4
+PRODUCCION DE BIENES PUBLICOS 
 DE CARACTER SOCIAL
-41 S a n i d a d
-4 1 A Dirección y servicios generales de 
+4
+1
+Sanidad
+4
+1
+A
+Dirección y servicios generales de 
 Salud
-4 1 B Formación sanitaria, continua y 
+4
+1
+B
+Formación sanitaria, continua y 
 postgrado
-4 1 C Atención sanitaria
-4 1 D Salud pública y participación
-41 E H e m o t e r a p i a
-4 1 F Trasplante de órganos
-4 1 G Prestaciones complementarias y 
+4
+1
+C
+Atención sanitaria
+4
+1
+D
+Salud pública y participación
+4
+1
+E
+Hemoterapia
+4
+1
+F
+Trasplante de órganos
+4
+1
+G
+Prestaciones complementarias y 
 farmacéuticas
-4 1 H Planificación y financiación
-4 1 J Inspección de servicios sanitarios
-4 1 K Política de calidad y modernización
-42 E d u c a c i ó n
-4 2 A Dirección y servicios generales de 
+4
+1
+H
+Planificación y financiación
+4
+1
+J
+Inspección de servicios sanitarios
+4
+1
+K
+Política de calidad y modernización
+4
+2
 Educación
-4 2 B Formación del profesorado
-4 2 C Educación infantil y primaria
-4 2 D Educación secundaria y formación  
+4
+2
+A
+Dirección y servicios generales de 
+Educación
+4
+2
+B
+Formación del profesorado
+4
+2
+C
+Educación infantil y primaria
+4
+2
+D
+Educación secundaria y formación  
 profesional
-4 2 E Educación especial
-42 F E d u c a c i ó n  c o m p e n s a t o r i a
-4 2 G Educación de personas adultas
-4 2 H Enseñanzas de régimen especial
-4 2 I Educación para la primera infancia
-42 J U n i v e r s i d a d e s
-4 2 K Calidad de las universidades
-4 3 Vivienda y urbanismo
-4 3 A Arquitectura y vivienda
-4 3 B Ordenación del territorio y urbanismo
-4 3 C Servicios Generales de la Cons. De 
+4
+2
+E
+Educación especial
+4
+2
+F
+Educación compensatoria
+4
+2
+G
+Educación de personas adultas
+4
+2
+H
+Enseñanzas de régimen especial
+4
+2
+I
+Educación para la primera infancia
+4
+2
+J
+Universidades
+4
+2
+K
+Calidad de las universidades
+4
+3
+Vivienda y urbanismo
+4
+3
+A
+Arquitectura y vivienda
+4
+3
+B
+Ordenación del territorio y urbanismo
+4
+3
+C
+Servicios Generales de la Cons. De 
 Vivienda y Ordenación del Territorio
-4 4 Bienestar comunitario
-4 4 A Dirección y servicios generales de 
+4
+4
+Bienestar comunitario
+4
+4
+A
+Dirección y servicios generales de 
 Medio Ambiente
-4 4 B Actuaciones en materia de calidad 
+4
+4
+B
+Actuaciones en materia de calidad 
 ambiental
-4 4 D Espacios naturales protegidos y servi-
+4
+4
+D
+Espacios naturales protegidos y servi-
 cios ambientales
-4 4 E Conservación y aprovechamiento de 
+4
+4
+E
+Conservación y aprovechamiento de 
 los recursos naturales
-4 4 F Planificación e información ambiental
-4 4 H Consumo
-4 4 J Administración y gestión del servicio 
+4
+4
+F
+Planificación e información ambiental
+4
+4
+H
+Consumo
+4
+4
+J
+Administración y gestión del servicio 
 de tiempo libre
-45 C u l t u r a
-4 5 A Dirección y servicios generales de 
+4
+5
 Cultura
-45 B B i e n e s  c u l t u r a l e s
-4 5 C Promoción cultural y artes escénicas
-4 5 D Museos y arte emergente
-45 E C o o p e r a c i ó n  c u l t u r a l
-GRUPO
-FUNCION PROG. DENOMINACION PRINCIPAL
-4 5 F Tutela del conjunto monumental de la 
+4
+5
+A
+Dirección y servicios generales de 
+Cultura
+4
+5
+B
+Bienes culturales
+4
+5
+C
+Promoción cultural y artes escénicas
+4
+5
+D
+Museos y arte emergente
+4
+5
+E
+Cooperación cultural
+GRUPO FUNCION PROG. DENOMINACION PRINCIPAL
+4
+5
+F
+Tutela del conjunto monumental de la 
 Alhambra y el Generalife
-4 5 G Promoción y fomento del arte contem-
+4
+5
+G
+Promoción y fomento del arte contem-
 poráneo
-4 5 H Libro y patrimonio bibliográfico y 
+4
+5
+H
+Libro y patrimonio bibliográfico y 
 documental
-4 5 I Planificación estratégica y apoyo a las 
+4
+5
+I
+Planificación estratégica y apoyo a las 
 industrias culturales
-46 D e p o r t e
-4 6 A Tecnología e infraestructura deportiva
-4 6 B Actividades y promoción deportiva
-4 6 C Centros deportivos
-5 PRODUCCIÓN DE BIENES PÚBLICOS 
+4
+6
+Deporte
+4
+6
+A
+Tecnología e infraestructura deportiva
+4
+6
+B
+Actividades y promoción deportiva
+4
+6
+C
+Centros deportivos
+5
+PRODUCCIÓN DE BIENES PÚBLICOS 
 DE CARÁCTER ECONÓMICO
-5 1 Infraestructuras básicas y transportes
-5 1 A Dirección y servicios generales de 
+5
+1
+Infraestructuras básicas y transportes
+5
+1
+A
+Dirección y servicios generales de 
 Obras Públicas y Transportes
-5 1 B Infraestructuras y servicios del 
+5
+1
+B
+Infraestructuras y servicios del 
 transporte
-51 C
+5
+1
+C
 Planificación y gestión de infraestructuras 
 de agua
-5 1 D Dirección y servicios generales de la 
+5
+1
+D
+Dirección y servicios generales de la 
 Agencia Andaluza del Agua
-5 1 E Actuaciones en materia de agua en la 
+5
+1
+E
+Actuaciones en materia de agua en la 
 Cuenca Mediterránea Andaluza
-5 1 F Actuaciones en materia de agua en la 
+5
+1
+F
+Actuaciones en materia de agua en la 
 Cuenca Atlántica Andaluza
-5 1 G Investigación, desarrollo e innovación 
+5
+1
+G
+Investigación, desarrollo e innovación 
 en materia de agua 
-5 1 H Cuenca del Guadalquivir
-52 C o m u n i c a c i o n e s
-5 2 C Comunicación social
-5 4 Investigación, innovación y sociedad 
+5
+1
+H
+Cuenca del Guadalquivir
+5
+2
+Comunicaciones
+5
+2
+C
+Comunicación social
+5
+4
+Investigación, innovación y sociedad 
 del conocimiento
-5 4 A Investigación científica e innovación
-5 4 B Servicios tecnológicos y para la 
+5
+4
+A
+Investigación científica e innovación
+5
+4
+B
+Servicios tecnológicos y para la 
 sociedad de la información
-5 4 C Innovación y evaluación educativa
-5 4 D Investigación, desarrollo y formación 
+5
+4
+C
+Innovación y evaluación educativa
+5
+4
+D
+Investigación, desarrollo y formación 
 agraria y pesquera
-5 4 E Cartografía y sistemas de información 
+5
+4
+E
+Cartografía y sistemas de información 
 geográfica
-5 4 F Elaboración y difusión estadística
-5 4 H Dirección y servicios generales de 
+5
+4
+F
+Elaboración y difusión estadística
+5
+4
+H
+Dirección y servicios generales de 
 Inno-vación, Ciencia y Empresa
-6 REGULACION ECONOMICA DE 
+6
+REGULACION ECONOMICA DE 
 CARÁCTER GENERAL
-6 1 Regulación económica
-6 1 A D.S.F. y T.I.C. de Economía y Hacienda
-6 1 B Política económica
-6 1 C Planificación económica
-6 1 D Política presupuestaria
-6 1 E Control interno y contabilidad pública
-6 1 F Gestión de la Tesorería
-6 1 G Gestión y administración del patrimonio 
+6
+1
+Regulación económica
+6
+1
+A
+D.S.F. y T.I.C. de Economía y Hacienda
+6
+1
+B
+Política económica
+6
+1
+C
+Planificación económica
+6
+1
+D
+Política presupuestaria
+6
+1
+E
+Control interno y contabilidad pública
+6
+1
+F
+Gestión de la Tesorería
+6
+1
+G
+Gestión y administración del patrimonio 
 de la Comunidad Autónoma
-6 1 H Financiación y tributos
-Página núm. 142 BOJA núm. 102 Sevilla, 29 de mayo 2009
+6
+1
+H
+Financiación y tributos
+Sevilla, 29 de mayo 2009
 GRUPO FUNCION PROG. DENOMINACION PRINCIPAL
-6 1 K Coordinación de fondos europeos
-6 1 L Coordinación y control de la Hacienda 
+6
+1
+K
+Coordinación de fondos europeos
+6
+1
+L
+Coordinación y control de la Hacienda 
 de la Comunidad Autónoma
-6 1 N Defensa de la Competencia
-6 3 Regulación financiera
-6 3 A Regulación y cooperación con 
+6
+1
+N
+Defensa de la Competencia
+6
+3
+Regulación financiera
+6
+3
+A
+Regulación y cooperación con 
 instituciones financieras
-6 3 B Imprevistos y funciones no clasificadas
-7 REGULACIÓN ECONÓMICA DE LA 
+6
+3
+B
+Imprevistos y funciones no clasificadas
+7
+REGULACIÓN ECONÓMICA DE LA 
 ACTIVIDAD Y LOS SECTORES 
 PRODUCTIVOS
-7 1 Agricultura, ganadería y pesca
-7 1 A Dirección y servicios generales de 
+7
+1
+Agricultura, ganadería y pesca
+7
+1
+A
+Dirección y servicios generales de 
 Agricultura y Pesca
-7 1 B Ordenación y mejora de la producción 
+7
+1
+B
+Ordenación y mejora de la producción 
 agraria
-7 1 D Reforma y mejora de las estructuras 
+7
+1
+D
+Reforma y mejora de las estructuras 
 agrarias
-7 1 E Ordenación y fomento de las estructuras 
+7
+1
+E
+Ordenación y fomento de las estructuras 
 industriales y comerciales agrarias
-7 1 G Modernización de las estructuras 
+7
+1
+G
+Modernización de las estructuras 
 productivas y mejora de rentas agrarias
-7 1 H Desarrollo rural
-7 1 K Ayudas del Fondo Andaluz de Garantía 
+7
+1
+H
+Desarrollo rural
+7
+1
+K
+Ayudas del Fondo Andaluz de Garantía 
 Agraria
-71 P
+7
+1
+P
 Ordenación y fomento de las actividades 
 pesqueras
-7 1 Q Agricultura ecológica
-7 2 Fomento empresarial
-7 2 A Emprendedores y fomento empresarial
-7 3 Energía y minería
-7 3 A Planificación, desarrollo energético y 
+7
+1
+Q
+Agricultura ecológica
+7
+2
+Fomento empresarial
+7
+2
+A
+Emprendedores y fomento empresarial
+7
+3
+Energía y minería
+7
+3
+A
+Planificación, desarrollo energético y 
 fomento de la minería
-75 T u r i s m o
-7 5 A Dirección y servicios generales de 
+7
+5
+Turismo
+7
+5
+A
+Dirección y servicios generales de 
 Turismo, Comercio y Deporte
-7 5 B Planificación y ordenación turística
-7 5 C Promoción y comercialización turística
-7 5 D Calidad, innovación y prospectiva 
+7
+5
+B
+Planificación y ordenación turística
+7
+5
+C
+Promoción y comercialización turística
+7
+5
+D
+Calidad, innovación y prospectiva 
 turística
-76 C o m e r c i o
-7 6 A Ordenación y promoción comercial
-8 RELACIONES CON OTRAS 
+7
+6
+Comercio
+7
+6
+A
+Ordenación y promoción comercial
+8
+RELACIONES CON OTRAS 
 ADMINISTRACIONES
-8 1 Relaciones con las Corporaciones 
+8
+1
+Relaciones con las Corporaciones 
 Locales
-8 1 A Cooperación económica y coordina-
+8
+1
+A
+Cooperación económica y coordina-
 ción con las Corporaciones Locales
-8 1 B Cooperación económica y relaciones 
+8
+1
+B
+Cooperación económica y relaciones 
 financieras con las Corporaciones 
 Locales
-81 C A c t u a c i o n e s  i n t e g r a d a s
-8 1 D Actuaciones integradas en materia de 
+8
+1
+C
+Actuaciones integradas
+8
+1
+D
+Actuaciones integradas en materia de 
 vivienda y espacios públicos
-8 2 Relaciones con la Unión Europea y 
+8
+2
+Relaciones con la Unión Europea y 
 ayudas al desarrollo
-8 2 A Acción exterior
-8 2 B Cooperación internacional
-ANEXO V
+8
+2
+A
+Acción exterior
+8
+2
+B
+Cooperación internacional
+# ANEXO V
 CLASIFICACIÓN ECONÓMICA DEL GASTO PUBLICO 
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-1G A S T O S  D E  P E R S O N A L
-1 0 Altos Cargos 
-1 0 0 Retribuciones básicas y otras 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+1
+GASTOS DE PERSONAL
+1
+0
+Altos Cargos 
+1
+0
+0
+Retribuciones básicas y otras 
 remuneraciones de Altos Cargos
-00 Retribuciones básicas
-01 Otras remuneraciones
-1 1 Personal eventual 
-1 1 0 Retribuciones básicas y otras 
+00
+Retribuciones básicas
+01
+Otras remuneraciones
+1
+1
+Personal eventual 
+1
+1
+0
+Retribuciones básicas y otras 
 remuneraciones de personal eventual
-12 F u n c i o n a r i o s
-120 R e t r i b u c i o n e s  b á s i c a s
-00 Sueldo del Grupo A
-01 Sueldo del Grupo B
-02 Sueldo del Grupo C
-03 Sueldo del Grupo D
-04 Sueldo del Grupo E
-05 Trienios
-121 R e t r i b u c i o n e s  c o m p l e m e n t a r i a s
-00 Complemento de destino
-1 2 1 01 Complemento específico
-02 Complementos personales y 
+1
+2
+Funcionarios
+1
+2
+0
+Retribuciones básicas
+00
+Sueldo del Grupo A
+01
+Sueldo del Grupo B
+02
+Sueldo del Grupo C
+03
+Sueldo del Grupo D
+04
+Sueldo del Grupo E
+05
+Trienios
+1
+2
+1
+Retribuciones complementarias
+00
+Complemento de destino
+1
+2
+1
+01
+Complemento específico
+02
+Complementos personales y 
 transitorios
-03 Complementos de atención 
+03
+Complementos de atención 
 continuada
-04 Complemento específico docente: 
+04
+Complemento específico docente: 
 Componente periódico
-07 Prestaciones económicas por 
+07
+Prestaciones económicas por 
 incapacidad temporal a compensar
-08 Prestaciones por diferentes 
+08
+Prestaciones por diferentes 
 retribuciones en incapacidad temporal
-09 Otros complementos
-10 Complemento capitativo de atención 
+09
+Otros complementos
+10
+Complemento capitativo de atención 
 primaria
-11 Complemento general de puesto
-1 2 2 Retribuciones en especie
-00 Casa vivienda
-01 Bonificaciones
-02 Manutención
-09 Otras
-1 2 4 Retribuciones personal sanitario de 
+11
+Complemento general de puesto
+1
+2
+2
+Retribuciones en especie
+00
+Casa vivienda
+01
+Bonificaciones
+02
+Manutención
+09
+Otras
+1
+2
+4
+Retribuciones personal sanitario de 
 cupo y sanitarios locales
-00 Retribuciones básicas del Grupo A
-01 Retribuciones básicas del Grupo B
-02 Retribuciones complementarias
-1 2 5 Sustituciones de personal
-00 Personal docente
-01 Personal estatutario
-09 Otro personal
-126 A t e n c i ó n  c o n t i n u a d a
+00
+Retribuciones básicas del Grupo A
+01
+Retribuciones básicas del Grupo B
+02
+Retribuciones complementarias
+1
+2
+5
+Sustituciones de personal
+00
+Personal docente
+01
+Personal estatutario
+09
+Otro personal
+1
+2
+6
+Atención continuada
 00
 Por módulos de presencia física y 
 servicios localizados (FEAS, EBAP y MIR)
-01 Por horarios especiales
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 143
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-02 Festivos y domingos
-03 Por ampliación de jornadas
-04 Por actividades especiales
-1 2 7 Personal estatutario eventual
-00 Personal estatutario eventual
-1 2 8 Interino excepcional o urgente
-01 Programas temporales Cof. U.E.
-02 Temporales por acumul. tareas
-03 Sustituciones transitorias A.G
-07 En la Admon. de Justicia
-09 Otro personal
-13 L a b o r a l e s
-1 3 0 Retribuciones básicas del personal 
+01
+Por horarios especiales
+Sevilla, 29 de mayo 2009 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+02
+Festivos y domingos
+03
+Por ampliación de jornadas
+04
+Por actividades especiales
+1
+2
+7
+Personal estatutario eventual
+00
+Personal estatutario eventual
+1
+2
+8
+Interino excepcional o urgente
+01
+Programas temporales Cof. U.E.
+02
+Temporales por acumul. tareas
+03
+Sustituciones transitorias A.G
+07
+En la Admon. de Justicia
+09
+Otro personal
+1
+3
+Laborales
+1
+3
+0
+Retribuciones básicas del personal 
 laboral fijo
-1 3 0 00 Salarios Grupo I
-01 Salarios Grupo II
-02 Salarios Grupo III
-03 Salarios Grupo IV
-04 Salarios Grupo V
-05 Antigüedad (incluido complemento 
+1
+3
+0
+00
+Salarios Grupo I
+01
+Salarios Grupo II
+02
+Salarios Grupo III
+03
+Salarios Grupo IV
+04
+Salarios Grupo V
+05
+Antigüedad (incluido complemento 
 personal no absorbible)
-131 O t r a s  r e m u n e r a c i o n e s
-00 Complemento de categoría
-01 Complemento de puesto de trabajo
-02 Complemento de convenio
-04 Complementos personales y transitorios
-07 Prestaciones económicas por I.T. a 
+1
+3
+1
+Otras remuneraciones
+00
+Complemento de categoría
+01
+Complemento de puesto de trabajo
+02
+Complemento de convenio
+04
+Complementos personales y transitorios
+07
+Prestaciones económicas por I.T. a 
 compensar
-08 Prestaciones por diferencias 
+08
+Prestaciones por diferencias 
 retributivas en incapacidad temporal 
 y maternidad
-09 Otros complementos
-1 3 4 Personal laboral eventual
-1 3 5 Personal laboral para sustituciones
-14 O t r o  p e r s o n a l
-1 4 2 Puestos singularizados
-1 4 3 Personal idóneo Secretarios Juzgados 
+09
+Otros complementos
+1
+3
+4
+Personal laboral eventual
+1
+3
+5
+Personal laboral para sustituciones
+1
+4
+Otro personal
+1
+4
+2
+Puestos singularizados
+1
+4
+3
+Personal idóneo Secretarios Juzgados 
 de Paz
-149 O t r o  p e r s o n a l
-1 5 Incentivos al rendimiento
-150 P r o d u c t i v i d a d
-00 Funcionarios
-01 Laborales
-02 Productividad específica
-03 Personal de emergencias
-04 Letrados
-05 Personal de seguridad
-06 Inspectores vivienda
-151 G r a t i f i c a c i o n e s
-00 Por servicios extraordinarios
-01 Por guardias de incendios
-1 5 2 Horas extraordinarias
-00 Por servicios extraordinarios
-01 Por guardias de incendios
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-1 6 Cuotas, prestaciones y gastos 
+1
+4
+9
+Otro personal
+1
+5
+Incentivos al rendimiento
+1
+5
+0
+Productividad
+00
+Funcionarios
+01
+Laborales
+02
+Productividad específica
+03
+Personal de emergencias
+04
+Letrados
+05
+Personal de seguridad
+06
+Inspectores vivienda
+1
+5
+1
+Gratificaciones
+00
+Por servicios extraordinarios
+01
+Por guardias de incendios
+1
+5
+2
+Horas extraordinarias
+00
+Por servicios extraordinarios
+01
+Por guardias de incendios
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+1
+6
+Cuotas, prestaciones y gastos 
 sociales a cargo del empleador
-160 C u o t a s  s o c i a l e s
-00 Seguridad social
-01 ISFAS
-02 MUGEJU
-160 0 9 O t r a s
-1 6 2 Prestaciones y gastos sociales del 
+1
+6
+0
+Cuotas sociales
+00
+Seguridad social
+01
+ISFAS
+02
+MUGEJU
+1
+6
+0
+09
+Otras
+1
+6
+2
+Prestaciones y gastos sociales del 
 personal no laboral
-00 Formación y perfeccionamiento de 
+00
+Formación y perfeccionamiento de 
 personal
-01 Acción social
-02 Premios jubilación funcionarios
-03 Prestaciones económicas por hijo a 
+01
+Acción social
+02
+Premios jubilación funcionarios
+03
+Prestaciones económicas por hijo a 
 cargo
-04 Seguros de vida y accidente
-09 Otras
-1 6 3 Prestaciones y gastos sociales del 
+04
+Seguros de vida y accidente
+09
+Otras
+1
+6
+3
+Prestaciones y gastos sociales del 
 personal laboral
-00 Formación y perfeccionamiento de 
+00
+Formación y perfeccionamiento de 
 personal
-01 Acción social
-03 Prestaciones económicas por hijo a 
+01
+Acción social
+03
+Prestaciones económicas por hijo a 
 cargo
-04 Indemnizaciones por jubilación
-05 Seguros de vida y accidente
-09 Otros
-1 6 4 Complementos de pensión
-00 Complementos de pensión
-1 7 Otros gastos de personal
-1 7 0 Gastos por modificaciones retributivas 
+04
+Indemnizaciones por jubilación
+05
+Seguros de vida y accidente
+09
+Otros
+1
+6
+4
+Complementos de pensión
+00
+Complementos de pensión
+1
+7
+Otros gastos de personal
+1
+7
+0
+Gastos por modificaciones retributivas 
 y revisiones salariales
-00 Actuaciones organizativas
-01 Acuerdos de retribuciones
-02 Adecuación retributiva
-09 Fondos adicionales
-1 7 1 Gastos por ampliaciones de plantilla y 
+00
+Actuaciones organizativas
+01
+Acuerdos de retribuciones
+02
+Adecuación retributiva
+09
+Fondos adicionales
+1
+7
+1
+Gastos por ampliaciones de plantilla y 
 provisión de puestos
-00 Personal con dispensa sindical
-01 Oferta de empleo público
-02 Actuaciones organizativas
-1 7 2 Gastos por nuevos devengos y 
+00
+Personal con dispensa sindical
+01
+Oferta de empleo público
+02
+Actuaciones organizativas
+1
+7
+2
+Gastos por nuevos devengos y 
 obligaciones no previstas
-00 Sentencias Juzgados Social
-01 Indemnizaciones por jubilación 
+00
+Sentencias Juzgados Social
+01
+Indemnizaciones por jubilación 
 anticipada
-02 Premios de jubilación
-03 Valoración de puestos
-04 Actuaciones organizativas
-2 GASTOS CORRIENTES EN BIENES Y 
+02
+Premios de jubilación
+03
+Valoración de puestos
+04
+Actuaciones organizativas
+2
+GASTOS CORRIENTES EN BIENES Y 
 SERVICIOS
-2 0 Arrendamientos y cánones
-2 0 0 Arrendamientos de terrenos y bienes 
+2
+0
+Arrendamientos y cánones
+2
+0
+0
+Arrendamientos de terrenos y bienes 
 naturales 
-2 0 2 Arrendamientos de edificios y otras 
+2
+0
+2
+Arrendamientos de edificios y otras 
 construcciones
-Página núm. 144 BOJA núm. 102 Sevilla, 29 de mayo 2009
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-2 0 3 Arrendamientos de maquinaria, 
+Sevilla, 29 de mayo 2009
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+2
+0
+3
+Arrendamientos de maquinaria, 
 instalaciones y utillaje
-00 Maquinaria
-01 Instalaciones
-02 Utillaje
-2 0 4 Arrendamientos de elementos de 
+00
+Maquinaria
+01
+Instalaciones
+02
+Utillaje
+2
+0
+4
+Arrendamientos de elementos de 
 transporte 
-2 0 5 Arrendamientos de mobiliario y 
+2
+0
+5
+Arrendamientos de mobiliario y 
 enseres
-2 0 6 Arrendamientos de sistemas para 
+2
+0
+6
+Arrendamientos de sistemas para 
 procesos de información
-2 0 8 Arrendamientos de otro inmovilizado 
+2
+0
+8
+Arrendamientos de otro inmovilizado 
 material 
-209 C á n o n e s  
-2 1 Reparaciones, mantenimiento y 
+2
+0
+9
+Cánones 
+2
+1
+Reparaciones, mantenimiento y 
 conservación 
-2 1 0 Infraestructura y bienes de uso 
+2
+1
+0
+Infraestructura y bienes de uso 
 general
-2 1 1 Terrenos y bienes naturales 
-2 1 2 Edificios y otras construcciones 
-2 1 3 Maquinaria, instalaciones y utillaje
-00 Maquinaria
-01 Instalaciones
-02 Utillaje
-2 1 4 Elementos de transporte 
-2 1 5 Mobiliario y enseres 
-216
+2
+1
+1
+Terrenos y bienes naturales 
+2
+1
+2
+Edificios y otras construcciones 
+2
+1
+3
+Maquinaria, instalaciones y utillaje
+00
+Maquinaria
+01
+Instalaciones
+02
+Utillaje
+2
+1
+4
+Elementos de transporte 
+2
+1
+5
+Mobiliario y enseres 
+2
+1
+6
 Sistemas para procesos de información 
-00 Equi. procesos de información
-2 1 9 Otro inmovilizado material
-2 2 Material, suministros y otros 
-2 2 0 Material de oficina 
-00 Ordinario no inventariable
-01 Prensa, revistas, libros y otras 
+00
+Equi. procesos de información
+2
+1
+9
+Otro inmovilizado material
+2
+2
+Material, suministros y otros 
+2
+2
+0
+Material de oficina 
+00
+Ordinario no inventariable
+01
+Prensa, revistas, libros y otras 
 publicaciones
-02 Material informático no inventariable. 
-221 S u m i n i s t r o s
-00 Energía Eléctrica
-01 Agua
-02 Gas
-03 Combustible
-04 Vestuario
-05 Productos alimenticios
-06 Productos farmacéuticos
-07 Instrumental y pequeño utillaje 
+02
+Material informático no inventariable. 
+2
+2
+1
+Suministros
+00
+Energía Eléctrica
+01
+Agua
+02
+Gas
+03
+Combustible
+04
+Vestuario
+05
+Productos alimenticios
+06
+Productos farmacéuticos
+07
+Instrumental y pequeño utillaje 
 sanitario
-08 Material sanitario para consumo y 
+08
+Material sanitario para consumo y 
 reposición
-221 0 9 O t r o s  s u m i n i s t r o s
-2 2 2 Comunicaciones
-00 Telefónicas
-01 Postales
-02 Telegráficas
-03 Télex y Telefax
-04 Informáticas
-09 Otros
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-223 T r a n s p o r t e s
-01 RENFE
-02 Entes privados
-09 Otros
-2 2 4 Primas de seguros
-00 Edificios y otras construcciones
-01 Elementos de transporte
-09 Otros riesgos
-225 T r i b u t o s
-00 Estatales
-01 Locales
-02 Autonómicos
-09 Otros
-2 2 6 Gastos diversos 
-01 Atenciones protocolarias y represen-
+2
+2
+1
+09
+Otros suministros
+2
+2
+2
+Comunicaciones
+00
+Telefónicas
+01
+Postales
+02
+Telegráficas
+03
+Télex y Telefax
+04
+Informáticas
+09
+Otros
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+2
+2
+3
+Transportes
+01
+RENFE
+02
+Entes privados
+09
+Otros
+2
+2
+4
+Primas de seguros
+00
+Edificios y otras construcciones
+01
+Elementos de transporte
+09
+Otros riesgos
+2
+2
+5
+Tributos
+00
+Estatales
+01
+Locales
+02
+Autonómicos
+09
+Otros
+2
+2
+6
+Gastos diversos 
+01
+Atenciones protocolarias y represen-
 tativas
-02 Información, divulgación y publicidad
-03 Jurídicos y contenciosos
-04 Cursos y actividades formación
+02
+Información, divulgación y publicidad
+03
+Jurídicos y contenciosos
+04
+Cursos y actividades formación
 05
 Remuneraciones a agentes mediadores 
 independientes
-06 Reuniones, conferencias y cursos 
-07 Oposiciones y pruebas selectivas
-08 Premios, concursos y certámenes
-09 Otros
-10 Formación y capacitación ambiental
-227 Trabajos realizados por otras empresas 
+06
+Reuniones, conferencias y cursos 
+07
+Oposiciones y pruebas selectivas
+08
+Premios, concursos y certámenes
+09
+Otros
+10
+Formación y capacitación ambiental
+2
+2
+7
+Trabajos realizados por otras empresas 
 y profesionales 
-00 Limpieza y aseo
-01 Seguridad
-02 Valoración y peritajes
-03 Postales o similares
-04 Custodia, depósito y almacenaje
-05 Procesos electorales
-06 Estudios y trabajos técnicos
-07 Edición de publicaciones
-227 0 9 O t r o s
-2 2 9 Gasto de funcionamiento de los 
+00
+Limpieza y aseo
+01
+Seguridad
+02
+Valoración y peritajes
+03
+Postales o similares
+04
+Custodia, depósito y almacenaje
+05
+Procesos electorales
+06
+Estudios y trabajos técnicos
+07
+Edición de publicaciones
+2
+2
+7
+09
+Otros
+2
+2
+9
+Gasto de funcionamiento de los 
 centros docentes
-2 3 Indemnizaciones por razón del 
+2
+3
+Indemnizaciones por razón del 
 servicio 
-230 D i e t a s  
-231 L o c o m o c i ó n
-232 T r a s l a d o s  
-233 O t r a s  i n d e m n i z a c i o n e s
-2 3 4 Indemnización por dedicación y 
+2
+3
+0
+Dietas 
+2
+3
+1
+Locomoción
+2
+3
+2
+Traslados 
+2
+3
+3
+Otras indemnizaciones
+2
+3
+4
+Indemnización por dedicación y 
 asistencia a órganos colegiados
-2 5 Asistencia sanitaria con medios 
+2
+5
+Asistencia sanitaria con medios 
 ajenos 
-2 5 1 Conciertos con instituciones abiertas 
-03 Con Entes territoriales
-04 Con Entidades privadas
-2 5 2 Conciertos con instituciones cerradas
-03 Con entes territoriales
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 145
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-04 Con entidades privadas
-2 5 3 Conciertos por servicios de diálisis
-01 Hemodiálisis en centros hospitalarios
-02 Club diálisis
-03 Hemodiálisis en centros satélites
-04 Otras diálisis 
-254 Asistencia concertada con especialistas 
-01 Litotricias extracorpóreas
-02 Oxigenoterapia y otras terapias por 
+2
+5
+1
+Conciertos con instituciones abiertas 
+03
+Con Entes territoriales
+04
+Con Entidades privadas
+2
+5
+2
+Conciertos con instituciones cerradas
+03
+Con entes territoriales
+Sevilla, 29 de mayo 2009 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+04
+Con entidades privadas
+2
+5
+3
+Conciertos por servicios de diálisis
+01
+Hemodiálisis en centros hospitalarios
+02
+Club diálisis
+03
+Hemodiálisis en centros satélites
+04
+Otras diálisis 
+2
+5
+4
+Asistencia concertada con especialistas 
+01
+Litotricias extracorpóreas
+02
+Oxigenoterapia y otras terapias por 
 vía respiratoria
-03 Terapias quirúrgicas
-04 Terapias oncológicas
-05 Rehabilitación
-2 5 5 Otros servicios de asistencia sanitaria
-01 Reintegro de gastos de asistencia 
+03
+Terapias quirúrgicas
+04
+Terapias oncológicas
+05
+Rehabilitación
+2
+5
+5
+Otros servicios de asistencia sanitaria
+01
+Reintegro de gastos de asistencia 
 sanitaria
-02 Otros Servicios de asistencia sanitaria 
+02
+Otros Servicios de asistencia sanitaria 
 concertada
-03 Otros Servicios de asistencia sanitaria 
+03
+Otros Servicios de asistencia sanitaria 
 no concertada
-2 5 6 Servicios de carácter diagnóstico 
-01 Tomografía axial computerizada
-02 Resonancia nuclear magnética
-09 Otros medios de diagnóstico
-2 5 7 Transporte sanitario
-01 En ambulancias asistidas (UVI 
+2
+5
+6
+Servicios de carácter diagnóstico 
+01
+Tomografía axial computerizada
+02
+Resonancia nuclear magnética
+09
+Otros medios de diagnóstico
+2
+5
+7
+Transporte sanitario
+01
+En ambulancias asistidas (UVI 
 Móviles)
-02 En ambulancias convencionales
-03 En ambulancias de transporte 
+02
+En ambulancias convencionales
+03
+En ambulancias de transporte 
 colectivo
-2 5 7 04 Traslado de enfermos con otros 
+2
+5
+7
+04
+Traslado de enfermos con otros 
 medios de transporte
-2 6 Conciertos de servicios sociales
-2 6 1 Conciertos de servicios sociales
-01 Con instituciones del Estado
-02 Con instituciones de entes territoriales
-03 Con instituciones del sector privado
-3 GASTOS FINANCIEROS
-3 0 De Deuda Pública en moneda 
+2
+6
+Conciertos de servicios sociales
+2
+6
+1
+Conciertos de servicios sociales
+01
+Con instituciones del Estado
+02
+Con instituciones de entes territoriales
+03
+Con instituciones del sector privado
+3
+GASTOS FINANCIEROS
+3
+0
+De Deuda Pública en moneda 
 nacional
-3 0 0 Intereses de obligaciones y bonos en 
+3
+0
+0
+Intereses de obligaciones y bonos en 
 moneda nacional 
-00 Programa de bonos y obligaciones
-01 Programa de pagarés
-02 Otras emisiones
-3 0 1 Gastos de emisión, modificación y 
+00
+Programa de bonos y obligaciones
+01
+Programa de pagarés
+02
+Otras emisiones
+3
+0
+1
+Gastos de emisión, modificación y 
 cancelación 
-3 1 De préstamos en moneda nacional 
-3 1 0 Intereses de préstamos en moneda 
+3
+1
+De préstamos en moneda nacional 
+3
+1
+0
+Intereses de préstamos en moneda 
 nacional 
-00 Préstamos a corto plazo
-01 Préstamos BEI a largo plazo
-02 Otros préstamos a largo plazo
-3 1 1 Gastos de emisión, modificación y 
+00
+Préstamos a corto plazo
+01
+Préstamos BEI a largo plazo
+02
+Otros préstamos a largo plazo
+3
+1
+1
+Gastos de emisión, modificación y 
 cancelación 
-3 2 De Deuda Pública en moneda 
+3
+2
+De Deuda Pública en moneda 
 extranjera 
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-3 2 0 Intereses de obligaciones y bonos en 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+3
+2
+0
+Intereses de obligaciones y bonos en 
 moneda extranjera 
-3 2 1 Gastos de emisión, modificación y 
+3
+2
+1
+Gastos de emisión, modificación y 
 cancelación 
-3 2 2 Diferencias negativas de cambio 
-3 3 De préstamos en moneda extranjera 
-3 3 0 Intereses de préstamos en moneda 
+3
+2
+2
+Diferencias negativas de cambio 
+3
+3
+De préstamos en moneda extranjera 
+3
+3
+0
+Intereses de préstamos en moneda 
 extranjera
-00 Préstamos BEI a largo plazo
-01 Otros préstamos a largo plazo
-3 3 1 Gastos de emisión, modificación y 
+00
+Préstamos BEI a largo plazo
+01
+Otros préstamos a largo plazo
+3
+3
+1
+Gastos de emisión, modificación y 
 cancelación
-3 3 2 Diferencias negativas de cambio
-3 4 De depósitos, fianzas y otros
-3 4 0 Intereses de depósitos
-3 4 1 Intereses de fianzas 
-3 4 2 Intereses de demora 
-3 4 9 Otros gastos financieros 
-4 TRANSFERENCIAS CORRIENTES
-4 0 A la Administración General del 
+3
+3
+2
+Diferencias negativas de cambio
+3
+4
+De depósitos, fianzas y otros
+3
+4
+0
+Intereses de depósitos
+3
+4
+1
+Intereses de fianzas 
+3
+4
+2
+Intereses de demora 
+3
+4
+9
+Otros gastos financieros 
+4
+TRANSFERENCIAS CORRIENTES
+4
+0
+A la Administración General del 
 Estado 
-402
+4
+0
+2
 Transferencias a organismos autónomos 
 de la Administración General del Estado
-01 Transferencias al INEM
-405 C o n s o r c i o s
-4 1 A Agencias Administrativas 
-4 2 A la Seguridad Social 
-4 3 A Agencias de Rg. Especial
-4 4 A las Agencias Públicas Empresariales 
+01
+Transferencias al INEM
+4
+0
+5
+Consorcios
+4
+1
+A Agencias Administrativas 
+4
+2
+A la Seguridad Social 
+4
+3
+A Agencias de Rg. Especial
+4
+4
+A las Agencias Públicas Empresariales 
 (Sociedades Mercantiles)
-4 4 0 De la Junta de Andalucía
-50 Transferencia de financiación Agencia 
+4
+4
+0
+De la Junta de Andalucía
+50
+Transferencia de financiación Agencia 
 Pública Empresarial de la Radio y 
 Televisión de Andalucía
-51 Transferencia de financiación Agencia 
+51
+Transferencia de financiación Agencia 
 de Innovación y Desarrollo de 
 Andalucía
-52 Transferencia de financiación Empresa 
+52
+Transferencia de financiación Empresa 
 Pública de Suelo de Andalucía
-53 Transferencia de financiación Agencia 
+53
+Transferencia de financiación Agencia 
 Pública de Puertos de Andalucía 
-54 Transferencia de financiación 
+54
+Transferencia de financiación 
 Empresa Pública de Gestión de 
 Programas Culturales
-55 Transferencia de financiación Empresa 
+55
+Transferencia de financiación Empresa 
 Pública Hospital Costa del Sol
-56 Transferencia de financiación 
+56
+Transferencia de financiación 
 Empresa Pública de Emergencias 
 Sanitarias
-4 4 0 57 Transferencia de financiación Empresa 
+4
+4
+0
+57
+Transferencia de financiación Empresa 
 Pública Hospital Poniente de Almería 
-58 Transferencia de financiación 
+58
+Transferencia de financiación 
 Empresa Pública Hospital Alto 
 Guadalquivir
-59 Transferencia de financiación 
+59
+Transferencia de financiación 
 Empresa Pública para el Desarrollo 
 Agrario y Pesquero de Andalucía, S.A.
-60 Transferencia de financiación Escuela 
+60
+Transferencia de financiación Escuela 
 Andaluza de Salud Pública, S.A.
-Página núm. 146 BOJA núm. 102 Sevilla, 29 de mayo 2009
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-61 Transferencia de financiación Empresa 
+Sevilla, 29 de mayo 2009
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+61
+Transferencia de financiación Empresa 
 de Gestión Medioambiental, S.A.
-62 Transferencia de financiación 
+62
+Transferencia de financiación 
 Empresa Andaluza de Gestión de 
 Instalaciones de Turismo Juvenil, S.A.
-63 Transferencia de financiación Gestión 
+63
+Transferencia de financiación Gestión 
 de Infraestructuras de Andalucía, S.A.
-64 Transferencia de financiación Turismo 
+64
+Transferencia de financiación Turismo 
 Andaluz, S.A.
-65 Transferencia de financiación Empresa 
+65
+Transferencia de financiación Empresa 
 Pública del Deporte Andaluz, S.A.
-66 Transferencia de financiación Agencia 
+66
+Transferencia de financiación Agencia 
 Andaluza de Promoción Exterior, S.A.
-67 Transferencia de financiación Ferro-
+67
+Transferencia de financiación Ferro-
 carriles de la Junta de Andalucía
-69 Transferencia de financiación Ente 
+69
+Transferencia de financiación Ente 
 Público Andaluz de Infraestructuras y 
 Servicios Educativos
-4 4 0 70 Transferencia de financiación Agencia 
+4
+4
+0
+70
+Transferencia de financiación Agencia 
 Andaluza de la Energía
-71 Transferencia de financiación 
+71
+Transferencia de financiación 
 Empresa Pública Sanitaria Bajo 
 Guadalquivir 
-72 Transferencia de financiación Instituto 
+72
+Transferencia de financiación Instituto 
 Andaluz del Patrimonio Histórico 
-73 Transferencia de financiación Cartuja 
+73
+Transferencia de financiación Cartuja 
 93, S.A
 74
 Transferencia de financiación Agencia 
 Andaluza de Cooperación Internacional 
 para el Desarrollo
-75 Transferencia de financiación Funda-
+75
+Transferencia de financiación Funda-
 ción Andaluza de Servicios Sociales
-76 Transferencia de financiación Fundación 
+76
+Transferencia de financiación Fundación 
 Andaluza para la Integración Social del 
 Enfermo Mental
-4 4 1 A Universidades Andaluzas
-445 C o n s o r c i o s
-80 Transferencia de financiación Consorcio 
+4
+4
+1
+A Universidades Andaluzas
+4
+4
+5
+Consorcios
+80
+Transferencia de financiación Consorcio 
 Metropolitano de Transportes de la 
 Bahía de Cádiz
-81 Transferencia de financiación Consorcio 
+81
+Transferencia de financiación Consorcio 
 de Transportes del Área de Granada 
-82 Transferencia de financiación Consor-
+82
+Transferencia de financiación Consor-
 cio de Transportes del Área de Málaga
-445 8 3 Transferencia de financiación Consorcio 
+4
+4
+5
+83
+Transferencia de financiación Consorcio 
 de Transportes del Área de Sevilla 
-84 Transferencia de financiación Consorcio 
+84
+Transferencia de financiación Consorcio 
 de Transportes Metropolitano del 
 Campo de Gibraltar
-85 Transferencia de financiación Consorcio 
+85
+Transferencia de financiación Consorcio 
 Sanitario Público del Aljarafe
-86 Transferencia de financiación Consorcio 
+86
+Transferencia de financiación Consorcio 
 de Transportes del Área de Almería 
-87 C.T.M. del área de Jaén
-4 5 A Comunidades Autónomas 
-455 C o n s o r c i o s
-4 6 A Corporaciones locales 
-469 C o n s o r c i o s
-4 7 A Empresas Privadas 
-4 8 A familias e instituciones sin fines 
+87
+C.T.M. del área de Jaén
+4
+5
+A Comunidades Autónomas 
+4
+5
+5
+Consorcios
+4
+6
+A Corporaciones locales 
+4
+6
+9
+Consorcios
+4
+7
+A Empresas Privadas 
+4
+8
+A familias e instituciones sin fines 
 de lucro 
-49 A l  e x t e r i o r  
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-6 INVERSIONES REALES
+4
+9
+Al exterior 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+6
+INVERSIONES REALES
 Los artículos 60 a 65 se reservarán a 
 inversiones nuevas
 Los artículos 66 a 69 se asignarán a 
@@ -2057,273 +3844,575 @@ Los conceptos y subconceptos de cada
 artículo tendrán análoga clasificación 
 y denominación a la que se desarrolla 
 para el artículo 60
-6 0 0 Terrenos y bienes naturales 
-00 De uso general
-01 Patrimoniales
-6 0 1 Bienes del patrimonio histórico, 
+6
+0
+0
+Terrenos y bienes naturales 
+00
+De uso general
+01
+Patrimoniales
+6
+0
+1
+Bienes del patrimonio histórico, 
 artístico y cultural
-6 0 2 Edificios y otras construcciones
-50 Eliminación de barreras. Plan de 
+6
+0
+2
+Edificios y otras construcciones
+50
+Eliminación de barreras. Plan de 
 acción integral
-6 0 3 Maquinaria, instalaciones y utillaje 
-00 Maquinaria
-01 Instalaciones técnicas
-02 Utillaje
-6 0 4 Elementos de transporte
-6 0 5 Mobiliario y enseres 
-606 Sistemas para procesos de información 
-6 0 7 Bienes destinados al uso general
-6 0 8 Otro inmovilizado material 
-6 0 9 Gastos en inversiones de carácter 
+6
+0
+3
+Maquinaria, instalaciones y utillaje 
+00
+Maquinaria
+01
+Instalaciones técnicas
+02
+Utillaje
+6
+0
+4
+Elementos de transporte
+6
+0
+5
+Mobiliario y enseres 
+6
+0
+6
+Sistemas para procesos de información 
+6
+0
+7
+Bienes destinados al uso general
+6
+0
+8
+Otro inmovilizado material 
+6
+0
+9
+Gastos en inversiones de carácter 
 inmaterial 
-00 Gastos en investigación y desarrollo
-609 0 1 P r o p i e d a d  i n d u s t r i a l
-02 Aplicaciones informáticas
-03 Propiedad intelectual
-04 Derechos sobre bienes en régimen 
+00
+Gastos en investigación y desarrollo
+6
+0
+9
+01
+Propiedad industrial
+02
+Aplicaciones informáticas
+03
+Propiedad intelectual
+04
+Derechos sobre bienes en régimen 
 de arrendamiento financiero
-05 Otro inmovilizado inmaterial
-610 I n v e r s i o n e s  g e s t i o n a d a s
-7 TRANSFERENCIAS DE CAPITAL
-7 0 A la Administración General del 
+05
+Otro inmovilizado inmaterial
+6
+1
+0
+Inversiones gestionadas
+7
+TRANSFERENCIAS DE CAPITAL
+7
+0
+A la Administración General del 
 Estado
-702
+7
+0
+2
 Transferencias a Organismos Autónomos 
 de la Administración General del Estado
-01 Transferencias al INEM
-705 C o n s o r c i o s
-7 1 A las Agencias Administrativas 
-7 2 A la Seguridad Social 
-7 3 A Agencias RG. Especial
-7 4 A las Agencias Públicas Empresariales 
-7 4 0 De la Junta de Andalucía
-50 Transferencia de financiación Agencia 
+01
+Transferencias al INEM
+7
+0
+5
+Consorcios
+7
+1
+A las Agencias Administrativas 
+7
+2
+A la Seguridad Social 
+7
+3
+A Agencias RG. Especial
+7
+4
+A las Agencias Públicas Empresariales 
+7
+4
+0
+De la Junta de Andalucía
+50
+Transferencia de financiación Agencia 
 Pública Empresarial de la Radio y 
 Televisión de Andalucía
-51 Transferencia de financiación Agencia 
+51
+Transferencia de financiación Agencia 
 de Innovación y Desarrollo de 
 Andalucía
-7 4 0 52 Transferencia de financiación Empresa 
+7
+4
+0
+52
+Transferencia de financiación Empresa 
 Pública de Suelo de Andalucía
-53 Transferencia de financiación Agencia 
+53
+Transferencia de financiación Agencia 
 Pública de Puertos de Andalucía
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 147
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-54 Transferencia de financiación 
+Sevilla, 29 de mayo 2009 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+54
+Transferencia de financiación 
 Empresa Pública de Gestión de 
 Programas Culturales
-55 Transferencia de financiación Empresa 
+55
+Transferencia de financiación Empresa 
 Pública Hospital Costa del Sol
-56 Transferencia de financiación Empresa 
+56
+Transferencia de financiación Empresa 
 Pública de Emergencias Sanitarias
-57 Transferencia de financiación Em-
+57
+Transferencia de financiación Em-
 presa Pública Hospital Poniente de 
 Almería 
-58 Transferencia de financiación 
+58
+Transferencia de financiación 
 Empresa Pública Hospital Alto 
 Guadalquivir
-59 Transferencia de financiación 
+59
+Transferencia de financiación 
 Empresa Pública para el Desarrollo 
 Agrario y Pesquero de Andalucía, S.A.
-60 Transferencia de financiación Escuela 
+60
+Transferencia de financiación Escuela 
 Andaluza de Salud Pública, S.A.
-61 Transferencia de financiación Empresa 
+61
+Transferencia de financiación Empresa 
 de Gestión Medioambiental, S.A.
-62 Transferencia de financiación 
+62
+Transferencia de financiación 
 Empresa Andaluza de Gestión de 
 Instalaciones de Turismo Juvenil, S.A.
-63 Transferencia de financiación Gestión 
+63
+Transferencia de financiación Gestión 
 de Infraestructuras de Andalucía, 
 S.A.
-7 4 0 64 Transferencia de financiación Turismo 
+7
+4
+0
+64
+Transferencia de financiación Turismo 
 Andaluz, S.A.
-65 Transferencia de financiación Em-
+65
+Transferencia de financiación Em-
 presa Pública del Deporte Andaluz, 
 S.A.
-66 Transferencia de financiación Agencia 
+66
+Transferencia de financiación Agencia 
 Andaluza de Promoción Exterior, S.A.
-67 Transferencia de financiación Ferro-
+67
+Transferencia de financiación Ferro-
 carriles de la Junta de Andalucía 
-68 Transferencia de financiación Instituto 
+68
+Transferencia de financiación Instituto 
 Andaluz de Finanzas 
-69 Transferencia de financiación Ente 
+69
+Transferencia de financiación Ente 
 Público Andaluz de Infraestructuras y 
 Servicios Educativos
-70 Transferencia de financiación Agencia 
+70
+Transferencia de financiación Agencia 
 Andaluza de la Energía
-71 Transferencia de financiación 
+71
+Transferencia de financiación 
 Empresa Pública Sanitaria Bajo 
 Guadalquivir 
-72 Transferencia de financiación Instituto 
+72
+Transferencia de financiación Instituto 
 Andaluz del Patrimonio Histórico
-73 Transferencia de financiación Cartuja 
+73
+Transferencia de financiación Cartuja 
 93, S.A. 
 74
 Transferencia de financiación Agencia 
 Andaluza de Cooperación Internacional 
 para el Desarrollo. 
-75 Transferencia de financiación Fundación 
+75
+Transferencia de financiación Fundación 
 Andaluza de Servicios Sociales
-740 7 6 Transferencia de financiación Fundación 
+7
+4
+0
+76
+Transferencia de financiación Fundación 
 Andaluza para la Integración Social del 
 Enfermo Mental
-7 4 1 A Universidades Andaluzas
-745 C o n s o r c i o s
-80 Transferencia de financiación Consorcio 
+7
+4
+1
+A Universidades Andaluzas
+7
+4
+5
+Consorcios
+80
+Transferencia de financiación Consorcio 
 Metropolitano de Transportes de la 
 Bahía de Cádiz
-81 Transferencia de financiación Consorcio 
+81
+Transferencia de financiación Consorcio 
 de Transportes del Área de Granada 
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-82 Transferencia de financiación Consorcio 
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+82
+Transferencia de financiación Consorcio 
 de Transportes del Área de Málaga 
-83 Transferencia de financiación Consorcio 
+83
+Transferencia de financiación Consorcio 
 de Transportes del Área de Sevilla 
-84 Transferencia de financiación Consorcio 
+84
+Transferencia de financiación Consorcio 
 de Transportes Metropolitano del 
 Campo de Gibraltar
-85 Transferencia de financiación Consorcio 
+85
+Transferencia de financiación Consorcio 
 Sanitario Público del Aljarafe
-86 Transferencia de financiación Consorcio 
+86
+Transferencia de financiación Consorcio 
 de Transportes del Área de Almería
-87 Consorcio de Transportes del Área 
+87
+Consorcio de Transportes del Área 
 de Jaén
-7 5 A Comunidades Autónomas 
-755 C o n s o r c i o s
-7 6 A Corporaciones Locales 
-769 C o n s o r c i o s
-7 7 A Empresas Privadas 
-7 8 A familias e instituciones sin fines 
+7
+5
+A Comunidades Autónomas 
+7
+5
+5
+Consorcios
+7
+6
+A Corporaciones Locales 
+7
+6
+9
+Consorcios
+7
+7
+A Empresas Privadas 
+7
+8
+A familias e instituciones sin fines 
 de lucro 
-79 A l  e x t e r i o r  
-8 ACTIVOS FINANCIEROS
-8 0 Adquisición de deuda del sector 
+7
+9
+Al exterior 
+8
+ACTIVOS FINANCIEROS
+8
+0
+Adquisición de deuda del sector 
 público 
-8 0 0 Adquisición de obligaciones y bonos 
+8
+0
+0
+Adquisición de obligaciones y bonos 
 del sector público a corto plazo 
-00 Comunidad Autónoma de Andalucía
-01 Estado
-02 Organismos Autónomos
-03 Seguridad Social
-05 Empres. Publ. y otros entres Pub.
-06 Otras Comunidades Autónomas
-07 Corporaciones Locales
-8 0 1 Adquisición de obligaciones y bonos 
+00
+Comunidad Autónoma de Andalucía
+01
+Estado
+02
+Organismos Autónomos
+03
+Seguridad Social
+05
+Empres. Publ. y otros entres Pub.
+06
+Otras Comunidades Autónomas
+07
+Corporaciones Locales
+8
+0
+1
+Adquisición de obligaciones y bonos 
 del sector público a largo plazo
 Se distinguirán los sectores emisores 
 mediante los subconceptos indicados 
 en el concepto 800
-8 1 Adquisición de obligaciones y bonos 
+8
+1
+Adquisición de obligaciones y bonos 
 fuera del sector público 
-8 1 0 Adquisición de obligaciones y bonos a 
+8
+1
+0
+Adquisición de obligaciones y bonos a 
 corto plazo fuera del sector público
-810 0 7 E m p r e s a s  p r i v a d a s
-08 Familias e instituciones sin fines de 
+8
+1
+0
+07
+Empresas privadas
+08
+Familias e instituciones sin fines de 
 lucro
-09 Exterior
-8 1 1 Adquisición de obligaciones y bonos a 
+09
+Exterior
+8
+1
+1
+Adquisición de obligaciones y bonos a 
 largo plazo fuera del sector público
 Se distinguirán los sectores emisores 
 mediante los subconceptos indicados 
 en el concepto 810
-8 2 Concesión de préstamos al sector 
+8
+2
+Concesión de préstamos al sector 
 público
-8 2 0 Préstamos a corto plazo 
-00 Comunidad Autónoma de Andalucía
-01 Estado
-02 Organismos Autónomos
-03 Seguridad Social
-05 Empres. Públic. y otros entes pub.
-Página núm. 148 BOJA núm. 102 Sevilla, 29 de mayo 2009
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-06 Otras Comunidades Autónomas
-07 Corporaciones Locales
-8 2 1 Préstamos a largo plazo
+8
+2
+0
+Préstamos a corto plazo 
+00
+Comunidad Autónoma de Andalucía
+01
+Estado
+02
+Organismos Autónomos
+03
+Seguridad Social
+05
+Empres. Públic. y otros entes pub.
+Sevilla, 29 de mayo 2009
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+06
+Otras Comunidades Autónomas
+07
+Corporaciones Locales
+8
+2
+1
+Préstamos a largo plazo
 Se distinguirán los subconceptos que 
 se indican en el concepto 820
-8 3 Concesión de préstamos fuera del 
+8
+3
+Concesión de préstamos fuera del 
 sector público
-8 3 0 Préstamos a corto plazo 
-830 0 7 E m p r e s a s  P r i v a d a s
-08 Familias e instituciones sin fines de 
+8
+3
+0
+Préstamos a corto plazo 
+8
+3
+0
+07
+Empresas Privadas
+08
+Familias e instituciones sin fines de 
 lucro
-09 Exterior
-8 3 1 Préstamos a largo plazo 
+09
+Exterior
+8
+3
+1
+Préstamos a largo plazo 
 Se distinguirán los subconceptos 
 indicados en el concepto 830
-8 4 Constitución de depósitos y fianzas
-8 4 0 Depósitos 
-00 A corto plazo
-01 A largo plazo 
-841 F i a n z a s  
-00 A corto plazo
-01 A largo plazo
-85
+8
+4
+Constitución de depósitos y fianzas
+8
+4
+0
+Depósitos 
+00
+A corto plazo
+01
+A largo plazo 
+8
+4
+1
+Fianzas 
+00
+A corto plazo
+01
+A largo plazo
+8
+5
 Adquisición de acciones y participaciones 
 dentro del sector público 
-850 E m p r e s a s  P ú b l i c a s
-8 5 1 Compensación en empresas
-86 Adquisición de acciones y participaciones 
+8
+5
+0
+Empresas Públicas
+8
+5
+1
+Compensación en empresas
+8
+6
+Adquisición de acciones y participaciones 
 fuera del sector público 
-8 6 0 Empresas nacionales o de la Unión 
+8
+6
+0
+Empresas nacionales o de la Unión 
 Europea
-8 6 1 De otras empresas extranjeras 
-00 Empresas extranjeras
-8 7 Aportaciones patrimoniales 
-870 F u n d a c i o n e s
-00 Aportac. Patrim. fundaciones
-9 PASIVOS FINANCIEROS
-9 0 Amortización de Deuda Pública en 
+8
+6
+1
+De otras empresas extranjeras 
+00
+Empresas extranjeras
+8
+7
+Aportaciones patrimoniales 
+8
+7
+0
+Fundaciones
+00
+Aportac. Patrim. fundaciones
+9
+PASIVOS FINANCIEROS
+9
+0
+Amortización de Deuda Pública en 
 moneda nacional
-9 0 0 Amortización de Deuda Pública a 
+9
+0
+0
+Amortización de Deuda Pública a 
 corto plazo en moneda nacional
-00 Obligaciones y bonos
-01 Otros valores negociables
-9 0 1 Amortización de Deuda Pública a 
+00
+Obligaciones y bonos
+01
+Otros valores negociables
+9
+0
+1
+Amortización de Deuda Pública a 
 largo plazo en moneda nacional 
-00 Programas de emisión de bonos y 
+00
+Programas de emisión de bonos y 
 obligaciones
-01 Otras emisiones
-9 1 Amortización de préstamos en 
+01
+Otras emisiones
+9
+1
+Amortización de préstamos en 
 moneda nacional
-9 1 0 Amortización de préstamos a corto 
+9
+1
+0
+Amortización de préstamos a corto 
 plazo de entes del sector público 
-00 Con entidades de crédito
-01 Con otros terceros
-9 1 1 Amortización de préstamos a largo 
+00
+Con entidades de crédito
+01
+Con otros terceros
+9
+1
+1
+Amortización de préstamos a largo 
 plazo de entes del sector público
-9 1 1 00 Con entidades de crédito
-01 Con otros terceros
-CAP. ART. CON. SUBC. DENOMINACION PRINCIPAL
-9 1 2 Amortización de préstamos a corto 
+9
+1
+1
+00
+Con entidades de crédito
+01
+Con otros terceros
+CAP.
+ART. CON. SUBC.
+DENOMINACION PRINCIPAL
+9
+1
+2
+Amortización de préstamos a corto 
 plazo de entes no integrantes del 
 sector público 
-00 Con entidades de crédito
-01 Con otros terceros
-9 1 3 Amortización de préstamos a largo 
+00
+Con entidades de crédito
+01
+Con otros terceros
+9
+1
+3
+Amortización de préstamos a largo 
 plazo de entes no integrantes del 
 Sector Público
-00 Préstamos BEI a largo plazo
-01 Otros préstamos a largo plazo
-9 2 Amortización de Deuda Pública en 
+00
+Préstamos BEI a largo plazo
+01
+Otros préstamos a largo plazo
+9
+2
+Amortización de Deuda Pública en 
 moneda extranjera 
-9 2 0 Amortización de Deuda Pública a 
+9
+2
+0
+Amortización de Deuda Pública a 
 corto plazo en moneda extranjera 
-9 2 1 Amortización de Deuda Pública a 
+9
+2
+1
+Amortización de Deuda Pública a 
 largo plazo en moneda extranjera 
-00 Otras emisiones en divisas
-9 3 Amortización de préstamos en 
+00
+Otras emisiones en divisas
+9
+3
+Amortización de préstamos en 
 moneda extranjera 
-9 3 0 Amortización de préstamos a corto 
+9
+3
+0
+Amortización de préstamos a corto 
 plazo en moneda extranjera
-9 3 1 Amortización de préstamos a largo 
+9
+3
+1
+Amortización de préstamos a largo 
 plazo en moneda extranjera 
-9 4 Devolución de depósitos y fianzas
-9 4 0 Devolución de depósitos a corto plazo
-9 4 1 Devolución de fianzas a corto plazo
-9 4 2 Devolución de depósitos a largo plazo
-4 3 Devolución de fianzas a largo plazo
-ANEXO VI
+9
+4
+Devolución de depósitos y fianzas
+9
+4
+0
+Devolución de depósitos a corto plazo
+9
+4
+1
+Devolución de fianzas a corto plazo
+9
+4
+2
+Devolución de depósitos a largo plazo
+4
+3
+Devolución de fianzas a largo plazo
+# ANEXO VI
 MÓDULO DE INFORMACIÓN PARA LA ELABORACIÓN DEL 
 PRESUPUESTO (MIEP).
 En el Módulo de Información para la Elaboración del Pre-
@@ -2349,22 +4438,22 @@ capítulos y grupos de gasto significativos.
 - Transferencias, subvenciones y encomiendas de gestión 
 de las agencias públicas empresariales, y a las sociedades 
 mercantiles del sector público andaluz y entidades asimiladas.
-ANEXO VII 
+# ANEXO VII 
 FICHAS P.E.C.
 El presupuesto de explotación y capital contendrá aque-
 llas operaciones anuales de la agencia pública empresarial, so-
-Sevilla, 29 de mayo 2009 BOJA núm. 102 Página núm. 149
+Sevilla, 29 de mayo 2009 
 ciedad mercantil del sector público andaluz y otras entidades 
 asimiladas, financiadas con recursos generados en el ejercicio, 
 conforme a la estructura y especificaciones que se establecen 
 en el presente Anexo.
 Para la cumplimentación de las fichas P.E.C. que se re-
-lacionan en el presente anex o la Dirección General de Pre-
+lacionan en el presente anexo la Dirección General de Pre-
 supuestos dirigirá a las distintas agencias públicas empresa-
 riales, sociedades mercantiles del sector público andaluz y 
 demás entidades asimiladas una guia para su correcta inter-
 pretación y elaboración.
-ANEXO VII.1 FICHAS P.E.C. CONTENIDAS EN EL SISTEMA 
+# ANEXO VII.1 FICHAS P.E.C. CONTENIDAS EN EL SISTEMA 
 DE INFORMACIÓN DE LAS EMPRESAS DE LA JUNTA DE 
 ANDALUCÍA (SIEJA)
 - P.E.C.-1 Presupuesto de explotación. 
@@ -2398,7 +4487,7 @@ cativas producidas.
 rior, en la que se analicen las desviaciones producidas, así como 
 aquellas otras circunstancias que por su singularidad, deban ser 
 tenidas en cuenta en relación con el ejercicio liquidado.
-ANEXO VIII
+# ANEXO VIII
 FICHAS P.A.I.F. CONTENIDAS EN SISTEMA DE INFORMACIÓN 
 DE LAS EMPRESAS DE LA JUNTA DE ANDALUCÍA (SIEJA)
 - P.A.I.F.1. Determinación de objetivos. Previsiones pluri-
@@ -2409,17 +4498,17 @@ dos. Previsiones plurianuales de objetivos a alcanzar.
 de la Junta de Andalucía. Transferencias de financiación de 
 explotación.
 - P.A.I.F. 2-1. Fuentes de financiación específicas a recibir 
-de la Junta de Andalucía. Subv enciones y transferencias co-
+de la Junta de Andalucía. Subvenciones y transferencias co-
 rrientes.
 - P.A.I.F. 2-2. Fuentes de financiación específicas a recibir 
 de la Junta de Andalucía. Transferencias de financiación de 
 capital.
 - P.A.I.F. 2-3. Fuentes de financiación específicas a recibir 
-de la Junta de Andalucía. Subv enciones y transferencias de 
+de la Junta de Andalucía. Subvenciones y transferencias de 
 capital.
 - P.A.I.F. 2-4. Fuentes de financiación específicas a recibir 
 de la Junta de Andalucía. Encomiendas de gestión. 
-ANEXO IX
+# ANEXO IX
 PLANTILLA PRESUPUESTARIA
 Conforme establece el punto 6.1.1 de la presente Orden, 
 la información y documentación relativa a la plantilla presu-
@@ -2448,7 +4537,7 @@ mente, remitirán la información y documentación establecida
 terísticas y estructura de fichero que establezca la Dirección 
 General de Presupuestos de la Consejería de Economía y Ha-
 cienda.
-ANEXO X
+# ANEXO X
 INFORME DE IMPACTO DE GÉNERO DEL PRESUPUESTO DE 
 LA COMUNIDAD AUTÓNOMA DE ANDALUCÍA PARA 2010
 A. Estructura del informe de impacto de género por Con-
@@ -2466,17 +4555,17 @@ desigualdades entre sexos. La descripción de actuaciones al-
 canza a la totalidad de los programas presupuestarios a ex-
 cepción de los catalogados como g0.
 3. Personal 
-3 . 1 .  Expon ga ,  s i  es  e l  ca so ,  e n  q ué  m ed id a  s u  ce ntr o  
+3.1. Exponga, si es el caso, en qué medida su centro 
 directivo ha dispuesto medidas de promoción profesional, 
 formación adaptada a las necesidades del personal y prácti-
 cas de conciliación (como reorganización o flexibilización de 
 los horarios, por ejemplo) para corregir los desequilibrios de 
 género. 
 3.2. Cumplimente la tabla (Anexo I) según los permisos 
-y  l i c e n c i a s  c o n c e d i d o s  a l  p e r s o n a l  d e  s u  C o n s e j e r í a  e n  e l  
+y licencias concedidos al personal de su Consejería en el 
 año 2007 y realice una breve descripción de los datos ob-
 servados.
-Página núm. 150 BOJA núm. 102 Sevilla, 29 de mayo 2009
+Sevilla, 29 de mayo 2009
 PERMISOS Y REDUCCIONES DE JORNADAS
 Nº de permisos
 concedidos
@@ -2515,8 +4604,7 @@ cidente o enfermedad no puede valerse por sí
 mismo y no desempeña actividad retribuida (del 
 cónyuge o persona con quien se conviva en aná-
 loga relación de afectividad a la conyugal, o de 
-un familiar 
-hasta el segundo grado de consangui-
+un familiar hasta el segundo grado de consangui-
 nidad o afinidad).
 Permiso por razón de violencia de género de la 
 mujer. (Se consideran justificadas por el tiempo 
@@ -2555,7 +4643,7 @@ denciar qué recursos/resultados se van a aplicar/obtener en
 materia de igualdad con los créditos con los que va a contar 
 cada Consejería/Agencia Administrativa en 2009.
 3. El Informe de Evaluación de Impacto de Género se pro-
-nuncia sobre la información co ntenida en la documentación 
+nuncia sobre la información contenida en la documentación 
 presupuestaria, por tanto, la dimensión Género debe poder 
 percibirse explícitamente tanto en la Memoria, como en el In-
 forme Económico Financiero y la Ficha de indicadores. Esta 
@@ -2573,7 +4661,8 @@ grarán en los documentos de la propia Consejería.
 EXCEDENCIAS
 Nº de excedencias
 concedidas
-Hombres Mujeres
+Hombres
+Mujeres
 Excedencia por cuidado de hijos.
 Excedencia por cuidado de familiar.
 Excedencia voluntaria por agrupación familiar.

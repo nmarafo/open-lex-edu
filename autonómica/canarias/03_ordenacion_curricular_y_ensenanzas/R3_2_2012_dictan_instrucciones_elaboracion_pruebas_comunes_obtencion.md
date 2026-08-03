@@ -38,7 +38,6 @@ fundamentos_derecho:
   - '1'
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2012-035-870.pdf
 ---
-
 ## Preámbulo
 
 # Resolución de 3 de febrero de 2012, de la Dirección General de Formación Profesional y Educación de Adultos (DGFPEA), por la que se dictan instrucciones para la elaboración de las pruebas comunes de obtención de los certificados enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 2012-2013.
@@ -1077,3 +1076,17 @@ Los Departamentos de coordinación didáctica de cada EOI pueden solicitar a la 
 Para velar por la validez, fiabilidad, viabilidad, eq uidad e impacto positivo de las pruebas elaboradas, 
 la Dirección General podrá constituir una Comisión de  trabajo, de carácter consultivo, que actuaría 
 entre el 5 y el 29 de marzo de cada curso académico.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

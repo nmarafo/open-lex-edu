@@ -40,17 +40,6 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 - norma_id: norm-es-2014-7684
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el [Real Decreto 625/2014](RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración.
 
 El [Real Decreto 625/2014](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md), de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
@@ -284,3 +273,21 @@ Madrid, 15 de junio de 2015.–La Ministra de Empleo y Seguridad Social, Fátima
 ANEXO I
 
 ANEXO II
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+
+### Fundamentos de Derecho
+- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+

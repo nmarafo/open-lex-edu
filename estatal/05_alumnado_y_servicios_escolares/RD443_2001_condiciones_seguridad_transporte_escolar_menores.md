@@ -368,3 +368,15 @@ JUAN JOSÉ LUCAS GIMÉNEZ
 ANEXO
 
 DISTINTIVO DE TRANSPORTE ESCOLAR
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrollado por**: [**O2_8_2006 Regulacion del Transporte Escolar en Canarias**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/O2_8_2006_aprueban_bases_regulan_prestacion_servicio_transporte.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

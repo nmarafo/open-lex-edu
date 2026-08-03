@@ -1261,3 +1261,20 @@ A) Área de Seguridad en el Trabajo: Deberá acreditarse una formación mínima 
 B) Área de Higiene Industrial: Deberá acreditarse una formación mínima de 100 horas, prioritariamente como profundización en los temas contenidos en el apartado 2.2.º de la parte común.
 
 C) Área de Ergonomía y Psicosociología aplicada: Deberá acreditarse una formación mínima de 100 horas, prioritariamente como profundización en los temas contenidos en el apartado 2.4.º de la parte común.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamento de**: [**BOE-A-2010-10424**](../08_personal_docente/Osn_pre_regula_procedimiento_reconocimiento_control_seguimiento.md)
+- **Fundamento de**: [**BOE-A-2014-5591**](../03_ordenacion_curricular_y_ensenanzas/RD356_2014_establecen_siete_titulos_formacion_profesional_basica.md)
+- **Fundamento de**: [**BOE-A-2020-17274**](../03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**Resolucion BOC 44**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
+- **Fundamento de**: [**Resolucion BOC 36**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R25_2_2026_establece_distribucion_horaria_estructura_modular_grados_4.md)
+
+### Fundamentos de Derecho
+- [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md)
+

@@ -2965,3 +2965,32 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamento de**: [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](../08_personal_docente/RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-1986-1216**](./RD33_1986_aprueba_reglamento_regimen_disciplinario_funcionarios_administracion.md)
+- **Fundamento de**: [**BOE-A-1995-8730**](./RD365_1995_aprueba_reglamento_situaciones_administrativas_funcionarios_civiles.md)
+- **Fundamento de**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamento de**: [**BOE-A-2009-20550**](../08_personal_docente/Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Fundamento de**: [**BOE-A-2012-8745**](../08_personal_docente/L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamento de**: [**BOE-A-2015-9453**](../08_personal_docente/Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Fundamento de**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamento de**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](../08_personal_docente/LO1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
+- **Fundamento de**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](./RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**Resolucion BOC 140**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R18_3_1996_hace_publica_circular_dicta_instrucciones_control.md)
+- **Fundamento de**: [**L2_1987 Ley de la Funcion Publica Canaria**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+- **Fundamento de**: [**Resolucion BOC 54**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/R23_7_2004_dictan_instrucciones_organizacion_funcionamiento_escuelas_oficiales.md)
+- **Fundamento de**: [**D109_1999 Colectivos de Escuelas Rurales (CER)**](../../autonómica/canarias/02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+

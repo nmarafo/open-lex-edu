@@ -36,7 +36,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-049-1191.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64885
 ---
-
 ## Preámbulo
 
 # Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad, por la que se actualiza la dirección electrónica de acceso al Registro General Electrónico de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 49, de 8 de marzo).
@@ -72,3 +71,18 @@ Tercero.- Publicar la presente Resolución en el Boletín Oficial de Canarias.
 Santa Cruz de Tenerife, a 28 de febrero de 2011.-
 El Director General de Telecomunicaciones y Nuevas Tecnologías, Tomás Ríos Rull.
 boc-a-2011-049-1191
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

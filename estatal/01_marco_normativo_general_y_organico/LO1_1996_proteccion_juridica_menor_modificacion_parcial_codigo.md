@@ -48,6 +48,7 @@ relaciones:
   - norma_id: norm-can-res-boc-2018-086-122
   - norma_id: norm-can-res-boc-2018-124-126
   - norma_id: norm-can-res-boc-2024-230-25
+  - norma_id: norm-can-r-inclusión-neae-2025-2026
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
@@ -931,3 +932,36 @@ JUAN CARLOS R.
 El Presidente del Gobierno,
 
 FELIPE GONZÁLEZ MÁRQUEZ
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- **Fundamento de**: [**BOE-A-2004-15601**](./LO1774_2004_aprueba_reglamento_ley_organica_reguladora_responsabilidad.md)
+- **Fundamento de**: [**BOE-A-2015-8222**](./LO8_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2015-8470**](./L26_2015_modificacion_sistema_proteccion_infancia_adolescencia.md)
+- **Fundamento de**: [**BOE-A-2021-11382**](../07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
+- **Fundamento de**: [**Resolucion BOC 120**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O9_6_2011_resolucion_dic_innovacion_promocion_educativa_universidades.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: [**O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O7_6_2007_regulan_medidas_atencion_diversidad_ensenanza_basica.md)
+- **Fundamento de**: [**D25_2018 Regulacion de la Atencion a la Diversidad en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/D25_2018_regula_atencion_diversidad_ambito_ensenanzas_no.md)
+- **Fundamento de**: [**O1_9_2010 Organizacion y Funcionamiento de los EOEP en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O1_9_2010_desarrolla_organizacion_funcionamiento_equipos_orientacion_educativa.md)
+- **Fundamento de**: [**Resolucion BOC 121**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/R9_2_2011_dictan_instrucciones_procedimientos_plazos_atencion_educativa.md)
+- **Fundamento de**: [**D23_1995 Regulacion de la Orientacion Educativa en Canarias**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/D23_1995_regula_orientacion_educativa_comunidad_autonoma_canarias.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Fundamento de**: [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
+- **Fundamento de**: [**Resolucion BOC 122**](../../autonómica/canarias/06_atencion_diversidad_y_orientacion/O8_2_2018_ordena_publicacion_convenio_colaboracion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 126**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R21_6_2018_dictan_instrucciones_organizacion_funcionamiento_dirigidas_centros.md)
+- **Fundamento de**: [**Resolucion BOC 25**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md)
+- **Desarrollado por**: [**L1_1997 Ley de Atencion Integral a los Menores de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L1_1997_atencion_integral_menores.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
+- [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+

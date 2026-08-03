@@ -2852,3 +2852,41 @@ Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la
 1. El Gobierno dictará las disposiciones que sean precisas para el desarrollo de esta ley.
 
 2. El Gobierno, previas las consultas que considere oportunas a las asociaciones empresariales y organizaciones sindicales, dictará las normas necesarias para la aplicación del título II en aquellas empresas pertenecientes a sectores de actividad en las que sea relevante el número de trabajadores no fijos o el de trabajadores menores de dieciocho años, así como a los colectivos en los que, por la naturaleza de sus actividades, se ocasione una movilidad permanente, una acusada dispersión o unos desplazamientos de localidad, ligados al ejercicio normal de sus actividades, y en los que concurran otras circunstancias que hagan aconsejable su inclusión en el ámbito de aplicación del título II citado. En todo caso, dichas normas respetarán el contenido básico de esos procedimientos de representación en la empresa.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- **Fundamentado en**: [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](../01_marco_normativo_general_y_organico/LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- **Fundamento de**: [**L9_2017 Contratos del Sector Publico (LCSP)**](../02_gestion_y_administracion_centros/L9_2017_contratos_sector_publico_transponen_ordenamiento_juridico.md)
+- **Fundamento de**: [**LO10_2022 Garantia Integral de la Libertad Sexual**](../07_convivencia_bienestar_y_protocolos/LO10_2022_garantia_integral_libertad_sexual.md)
+- **Fundamento de**: [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
+- **Fundamento de**: [**RD659_2023 Ordenacion General de la Formacion Profesional**](../03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
+- **Fundamento de**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 125**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+- **Fundamento de**: [**Resolucion BOC 21**](../../autonómica/canarias/02_gestion_y_administracion_centros/R28_7_2022_modifica_parcialmente_resolucion_aprueba_publica_normas.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../../autonómica/canarias/08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Desarrollado por**: [**Resolucion BOC 140**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R18_3_1996_hace_publica_circular_dicta_instrucciones_control.md)
+- **Desarrollado por**: [**III Convenio Colectivo del Personal Laboral de Canarias**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R28_1_1992_hace_publico_iii_convenio_colectivo_personal.md)
+- **Desarrollado por**: [**Resolucion BOC 147**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R30_1_2007_relativa_registro_deposito_publicacion_acuerdo_comision.md)
+- **Desarrollado por**: [**Resolucion BOC 144**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R21_6_1994_hace_publico_acuerdo_comision_negociadora_convenio.md)
+- **Desarrollado por**: [**Resolucion BOC 146**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R28_3_2005_relativa_registro_deposito_publicacion_convenio_colectivo.md)
+- **Desarrollado por**: [**Resolucion BOC 143**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R21_12_2006_relativa_registro_deposito_publicacion_acuerdo_comision.md)
+- **Desarrollado por**: [**Resolucion BOC 142**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R19_8_1998_hace_publico_acuerdo_comision_negociadora_convenio.md)
+- **Desarrollado por**: [**Resolucion BOC 141**](../../autonómica/canarias/09_personal_laboral_y_no_docente/R1_10_2002_relativa_acuerdo_comision_negociadora_convenio_colectivo.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](../01_marco_normativo_general_y_organico/LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
+- [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
+- [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
+- [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
+

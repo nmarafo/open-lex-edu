@@ -33,7 +33,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 ## Preámbulo
 
 # Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena (BOC n.º 147, de 4 de noviembre).
@@ -76,3 +75,17 @@ Hasta la cobertura definitiva por los procedimientos establecidos en el Convenio
 El proceso de llamamiento del personal temporal será el mismo que para el trabajador fijo discontinuo, y en las mismas condiciones laborales. La peculiaridad es que estos trabajadores temporales saldrán de las listas de sustituciones, ordenada por categorías, antigüedad y puntuación de las distintas convocatorias de selección.
 Cualquier modificación legal que pudiera afectar a los trabajadores fijos-discontinuos obligará a la revisión de esta Disposición Adicional por la Comisión Negociadora del Convenio Colectivo."
 En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La Administración: Viceconsejero de Administración Pública, Directora General de la Función Pública. Comité Intercentros.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

@@ -36,7 +36,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/157/boc-2004-157-011.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=48984
 ---
-
 ## Preámbulo
 
 # Resolución de 9 de julio de 2004, por la que se hace público el Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para Mayores de 25 años (BOC n.º 157, de 13 de agosto).
@@ -456,7 +455,7 @@ lo que solamente abonará el porcentaje que le corresponda de las tasas tanto en
 prueba. Si el alumno prefiere renunciar a las calificaciones de la Prueba Común y volverse a examinar de las mismas, repetirá el CPM completo y
 por tanto abonará las tasas del mismo y de la prueba en su totalidad.
 DISPOSICIONES TRANSITORIAS
-Primera.- Bachilleres anteriores a la Ley Orgánica 1/1990, de 3 de octubre.
+Primera.- Bachilleres anteriores a la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre.
 Podrán concurrir a este sistema de acceso establecido por la U.L.P.G.C. los mayores de 25 años
 que, estando en posesión del título de bachiller anterior a la [Ley Orgánica 1/1990](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre,
 de Ordenación General del Sistema Educativo, no
@@ -492,3 +491,19 @@ día 1 de septiembre de 2004 y será de aplicación
 en la convocatoria para el curso 2004-2005 y siguientes.
 
 A N E X O  I I
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+

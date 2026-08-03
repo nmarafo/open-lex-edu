@@ -30,11 +30,13 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
-## Preámbulo
-
 **Orden 6116/2025, de 22 de diciembre, de becas para ciclos formativos de FP de Grado D en centros privados**
 
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 87
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 I. COMUNIDAD DE MADRID
 C) Otras Disposiciones
@@ -91,6 +93,12 @@ grama 2026-2029 ya no recoge el CECOM al encontrarse regulado, como instrumento 
 la Comunidad de Madrid, dentro del Sistema Integrado de Protección Civil y Emergencias
 en la Ley 5/2023, de 22 de marzo, de creación del Sistema Integrado de Protección Civil y
 Emergencias de la Comunidad de Madrid.
+
+MARTES 30 DE DICIEMBRE DE 2025
+Pág. 88
+B.O.C.M. Núm. 310
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Por tanto, el nuevo programa 2026-2029 se articula en dos ejes, las ayudas a gastos de
 personal de los Cuerpos de policía local y las ayudas para la compra de material destinado
@@ -145,6 +153,12 @@ cuenta lo establecido en la Ley 38/2003, de 17 de noviembre, General de Subvenci
 su Reglamento General, aprobado por Real Decreto 887/2006, de 21 de julio.
 En su virtud, el Consejo de Gobierno, a propuesta del Consejero de Medio Ambiente,
 Agricultura e Interior, y previa deliberación en su reunión del día 23 de diciembre de 2025,
+
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 89
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ACUERDA
 Primero
@@ -173,6 +187,12 @@ El Consejero de Medio Ambiente, Agricultura e Interior,
 CARLOS NOVILLO PIRIS
 La Presidenta,
 ISABEL DÍAZ AYUSO
+
+MARTES 30 DE DICIEMBRE DE 2025
+Pág. 90
+B.O.C.M. Núm. 310
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ANEXO
 PROGRAMA DE APOYO A LAS POLICÍAS LOCALES DE LA COMUNIDAD
@@ -234,6 +254,12 @@ personal contenida en el eje 1 se tramitará en régimen de concesión directa p
 que resulten subvencionables de acuerdo con los objetivos del programa, en tanto que la
 subvención para la adquisición de medios materiales se tramitará en régimen de concurren-
 cia competitiva, de acuerdo con lo previsto en la Ley 38/2003, de 17 de noviembre, Gene-
+
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 91
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ral de Subvenciones, en su Reglamento General, aprobado por Real Decreto 887/2006
 de 21 de julio, en la Ley 2/1995, de 8 de marzo, de subvenciones de la Comunidad de
@@ -295,6 +321,12 @@ de Madrid. Si el importe de crédito autorizado en las leyes anuales de presupue
 inferior al crédito máximo estimado, el importe de las ayudas a los municipios se ajustará
 proporcionalmente para no superar el importe autorizado en la Ley de Presupuestos Gene-
 rales, sin que la diferencia pueda ser compensada en ejercicios ulteriores.
+
+MARTES 30 DE DICIEMBRE DE 2025
+Pág. 92
+B.O.C.M. Núm. 310
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Octavo
 Financiación del programa
@@ -360,6 +392,12 @@ euros por habitante.
 5.o Municipios que superen los 50.000 habitantes y hasta 100.000 habitantes: 15
 euros por habitante.
 6.o Municipios que superen los 100.000 habitantes: 13 euros por habitante.
+
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 93
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 b)
 En el supuesto de que dos o más municipios se hayan asociado para prestar el
@@ -424,6 +462,12 @@ La inexistencia de prohibición debe mantenerse durante todo el tiempo de tramit
 ción del procedimiento, de forma que cualquier alteración de las condiciones con-
 tenidas en el certificado que pudieran afectar al derecho que se reconoce, deberán
 ser comunicadas de forma inmediata.
+
+MARTES 30 DE DICIEMBRE DE 2025
+Pág. 94
+B.O.C.M. Núm. 310
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 b)
 Certificación administrativa acreditativa del acuerdo del órgano competente de
@@ -438,7 +482,7 @@ munidad de Madrid, en virtud de lo regulado en el artículo 6 del Decreto 127/20
 diciembre del Consejo de Gobierno, por el que se regulan aspectos relativos a los servicios
 electrónicos y a la comisión de redacción, coordinación y seguimiento del portal de inter-
 net de la Comunidad de Madrid o en los demás registros electrónicos previstos en el artícu-
-lo 16.4.a) de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de
+lo 16.4.a) de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento Administrativo Común de
 las Administraciones Públicas.
 Para la presentación por medios electrónicos, es necesario disponer de uno de los certi-
 ficados electrónicos reconocidos o cualificados de firma electrónica que sean operativos en
@@ -457,7 +501,7 @@ exigiera en el marco del ejercicio de potestades sancionadoras o de inspección.
 Las Administraciones Públicas deberán recabar los documentos electrónicamente a
 través de sus redes corporativas o mediante consulta a las plataformas de intermediación de
 datos u otros sistemas electrónicos habilitados al efecto.
-Al ser los interesados sujetos del artículo 14.2 de la Ley 39/2015, de 1 de octubre, obli-
+Al ser los interesados sujetos del artículo 14.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, obli-
 gados a relacionarse electrónicamente con la Administración, la notificación se realizará a
 través de medios electrónicos de acuerdo con lo establecido en el artículo 43 del mismo tex-
 to legal. A tal efecto, el interesado está obligado a estar dado de alta en el Servicio de No-
@@ -474,7 +518,7 @@ to, la certificación de la Agencia de Administración Tributaria de acreditaci�
 miento de las obligaciones tributarias con el Estado, cuya consulta debe el interesado auto-
 rizar expresamente, así como certificación acreditativa del cumplimiento de las
 obligaciones frente a la Seguridad Social, excepto que expresamente el interesado desauto-
-rice la consulta, de acuerdo con lo establecido en el artículo 28.2 de la Ley 39/2015, de 1
+rice la consulta, de acuerdo con lo establecido en el artículo 28.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1
 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en
 cuyo caso éste deberá aportar aquellos certificados.
 Los municipios beneficiarios no podrán tener deudas en período ejecutivo de pago con
@@ -492,6 +536,12 @@ no concesión de la subvención.
 La instrucción de los expedientes de concesión de las subvenciones se llevará a
 cabo por el orden cronológico de entrada, actuando como órgano instructor la dirección ge-
 neral competente en materia de coordinación de policías locales.
+
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 95
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 6.
 La concesión de la subvención a los beneficiarios se llevará a cabo de forma di-
@@ -518,7 +568,7 @@ el mismo órgano que lo ha dictado, en el plazo de un mes contado desde el día 
 de su notificación, o bien directamente recurso contencioso administrativo ante los Juzgados
 de lo Contencioso, en el plazo de dos meses, sin perjuicio de cuantos otros recursos se esti-
 me oportuno deducir, todo ello de acuerdo con lo establecido en los artículos 123 y 124 de
-la Ley 39/2015, de 1 de octubre, así como en los artículos 10, 46 y concordantes de la
+la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, así como en los artículos 10, 46 y concordantes de la
 Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
 Duodécimo
 Pago de la subvención para gastos de personal
@@ -561,6 +611,12 @@ una de las categorías de policía local que han participado en las acciones o p
 número de policías que han participado a tiempo a completo o el número de horas de traba-
 jo destinado a cada objetivo, firmado por el secretario/interventor y el alcalde-presidente o
 concejal que tenga delegadas la competencia de seguridad.
+
+MARTES 30 DE DICIEMBRE DE 2025
+Pág. 96
+B.O.C.M. Núm. 310
+BOCM-20251230-25
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 2.
 A tal efecto, por medio de instrucción del director general competente en materia de
@@ -644,8 +700,15 @@ ma y el cumplimiento de los indicadores de actividad.
 d)
 Materiales y equipamientos que faciliten el cumplimiento de los reglamentos de
 uniformidad, dotación, imagen corporativa o armamento.
+
+MARTES 30 DE DICIEMBRE DE 2025
+B.O.C.M. Núm. 310
+Pág. 97
+BOCM-20251230-25
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Decimoquinto
 Pago de la subvención para medios materiales

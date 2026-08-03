@@ -30,14 +30,19 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil**
 
-## Preámbulo
-
+JUEVES 5 DE FEBRERO DE 2015
 B.O.C.M. Núm. 30
+Pág. 9
+BOCM-20150205-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
 Consejería de Educación, Juventud y Deporte
 1
 RESOLUCIÓN de 27 de enero de 2015, de la Dirección General de Recursos
@@ -80,6 +85,7 @@ Cuarto
 La presente Resolución, que no agota la vía administrativa, podrá ser recurrida en al-
 zada ante la Viceconsejería de Organización Educativa de la Consejería de Educación, Ju-
 ventud y Deporte, en el plazo de un mes, a contar a partir del día siguiente al de su publica-
+ción en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, de conformidad con lo
 dispuesto en los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre, de Régimen
 Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 Madrid, a 27 de enero de 2015.—La Directora General de Recursos Humanos, María

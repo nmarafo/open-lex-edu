@@ -35,7 +35,6 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
-
 ## Preámbulo
 
 # Resolución de 19 de agosto de 1998, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, por el que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias de 6 de abril de 1998, relativo a la posibilidad de ampliar la duración máxima de los contratos a que se refiere el artículo 15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de Educación, Cultura y Deportes (BOC n.º 140, de 6 de noviembre).
@@ -77,3 +76,17 @@ III.- El presente acuerdo será de aplicación exclusivamente en la Consejería 
 IV.- La Consejería de Educación, Cultura y Deportes se compromete a establecer los criterios que motivan este tipo de contratación, elevándose a la Coordinadora a los efectos de su negociación.
 V.- El presente acuerdo se publicará en el Boletín Oficial de Canarias como parte integrante del Convenio Colectivo del Personal Laboral al servicio de la Comunidad Autónoma de Canarias, y surtirá efectos desde el 31 de marzo de 1998.
 Por la Administración.	Por el Comité Intercentros.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+

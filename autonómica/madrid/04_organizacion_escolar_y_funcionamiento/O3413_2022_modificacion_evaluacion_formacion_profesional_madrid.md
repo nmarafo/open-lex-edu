@@ -29,11 +29,13 @@ relaciones:
   afecta_a_articulos: []
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-15.PDF
 ---
+**Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md) de evaluación y matrícula en Formación Profesional**
 
-## Preámbulo
-
-**Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la Orden 893/2022 de evaluación y matrícula en Formación Profesional**
-
+MIÉRCOLES 23 DE NOVIEMBRE DE 2022
+Pág. 88
+B.O.C.M. Núm. 279
+BOCM-20221123-15
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
@@ -86,6 +88,12 @@ Toma de posesión
 El plazo para tomar posesión del nuevo destino obtenido será de tres días, salvo lo
 previsto en los apartados siguientes. Dicho plazo empezará a contarse a partir del día si-
 guiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publica-
+
+MIÉRCOLES 23 DE NOVIEMBRE DE 2022
+B.O.C.M. Núm. 279
+Pág. 89
+BOCM-20221123-15
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ción de la presente Resolución, salvo que la Administración de origen difiera el cese
 conforme a la normativa aplicable.
@@ -111,14 +119,22 @@ Tercero
 Recursos
 La presente Resolución no pone fin a la vía administrativa y contra la misma podrá in-
 terponerse, en el plazo de un mes contado a partir del día siguiente a su publicación en el
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, recurso de alzada ante el mismo órga-
 no que la ha dictado o ante el Consejero de Economía, Hacienda y Empleo, conforme a lo
-dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+dispuesto en los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento
 Administrativo Común de las Administraciones Públicas, sin perjuicio de cualquier otro re-
 curso que se estime procedente en derecho.
 Dado en Madrid, a 8 de noviembre de 2022.—La Directora General de Recursos
 Humanos, María Belén Anaut Escudero.
+
+MIÉRCOLES 23 DE NOVIEMBRE DE 2022
+Pág. 90
+B.O.C.M. Núm. 279
+BOCM-20221123-15
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN (ARTÍCULO 55)
 74368
@@ -133,7 +149,7 @@ Denominación     :
 A
 Grupo                :
 N.C.D.              :
-22.596,00
+  22.596,00
 C. Específico     :
 67678
 0*5**0*2*
@@ -147,8 +163,8 @@ Denominación      :
 29
 Grupo                  :
 N.C.D.                :
-25.509,48
-C. Específico       :
+  25.509,48
+C. Específico       : 
 PUESTO ADJUDICADO
 ADJUDICATARIO
 PUESTO LIBERADO

@@ -12,8 +12,8 @@ boletin: BOCM
 numero_boletin: '153'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-2010-15028
-fuente_pdf_oficial: https://www.boe.es/buscar/pdf/2010/BOE-A-2010-15028-consolidado.pdf
+fuente_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2010/06/29/BOCM-20100629-353.PDF
+fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2010/06/29/BOCM-20100629-353.PDF
 clasificacion:
   categoria_canonica: 01_marco_normativo_general_y_organico
   subcategoria: Marco normativo general
@@ -28,253 +28,151 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
+**Ley 2/2010, de 15 de junio, de Autoridad del Profesor de la Comunidad de Madrid**
 
-## Preámbulo
-
-### [Bloque 1: #preambulo]
-
-LA PRESIDENTA DE LA COMUNIDAD DE MADRID
-
+Pasar al contenido principal
+Toggle navigation
+Último BOCM
+Autentificación y verificación
+Qué es el BOCM
+Organismo
+Publicar un anuncio
+Transparencia
+Inicio
+ELI
+Comunidad de Madrid
+Ley
+2010
+Junio
+15
+2
+Boletín Oficial de la Comunidad de Madrid - Núm 154
+Fecha del Boletín
+29-06-2010
+Sección 1.1.20.1:
+I. COMUNIDAD DE MADRID
+Código de Verificación Electrónica (CVE): BOCM-20100629-353
+Páginas: 5
+Permalink ELI:
+https://www.bocm.es/eli/es-md/l/2010/06/15/2
+Ver texto consolidado
+PDF de la disposición  (109 Kbs)
+XML de la disposición
+JSON-LD de la disposición
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
+PRESIDENCIA DE LA COMUNIDAD
+353
+353 LEY 2/2010, de 15 de junio, de Autoridad del Profesor.
+La Presidenta de la Comunidad de Madrid.
 Hago saber que la Asamblea de Madrid ha aprobado la siguiente Ley, que yo, en nombre del Rey, promulgo.
-
 PREÁMBULO
-
-La Ley Orgánica 2/2006, de 3 de mayo, de Educación señala en su artículo 104.1 que las Administraciones educativas están obligadas a velar para que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de la tarea que tiene encomendada por la sociedad. En el punto 2 de ese mismo artículo, se establece que las Administraciones educativas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente.
-
+La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación señala en su artículo 104.1 que las Administraciones educativas están obligadas a velar para que el profesorado reciba el trato, la consideración y el respeto acordes con la importancia social de la tarea que tiene encomendada por la sociedad. En el punto 2 de ese mismo artículo, se establece que las Administraciones educativas prestarán una atención prioritaria a la mejora de las condiciones en que el profesorado realiza su trabajo y al estímulo de una creciente consideración y reconocimiento social de la función docente.
 La filosofía de las leyes que han regido la educación en España desde la aprobación de la LOGSE y los cambios sociales acaecidos en las dos últimas décadas han traído consigo una crisis preocupante del conjunto de las instituciones educativas y del papel del profesor. Por un lado, la transmisión de conocimientos y saberes ha perdido su preeminencia como finalidad de la educación, enfrentando a los profesores a nuevas tareas alejadas de su misión esencial y de su auténtica vocación. Por otro lado, se han ido trasladando a los docentes responsabilidades que han de corresponder a la familia antes que a la propia institución escolar.
-
 El resultado ha sido un descenso de la valoración social de la función docente y una pérdida de autoridad de los profesores que se manifiesta no sólo en episodios graves, aunque afortunadamente aislados, de violencia escolar, sino también en una tendencia a la indisciplina en las aulas. Con cierta frecuencia el profesor pierde la mitad de su valioso tiempo en mantener el orden necesario para desarrollar su tarea docente, lo que perjudica al conjunto de los alumnos y deteriora la calidad de la enseñanza. A ello hay que añadir que la propia tarea de enseñar se ha vuelto aún más compleja por la diversidad cultural y social de los alumnos y sus familias.
-
 En su artículo 27, apartado 2, la Constitución española consagra el derecho a la educación como derecho fundamental. La autoridad del profesor, tanto en el plano académico como en el de la disciplina, es la primera garantía de que el disfrute individual de tal derecho por cada alumno no resulte entorpecido, y de que se aseguren así los derechos de todos. Esta garantía se hace, asimismo, extensiva a la autoridad de los equipos directivos en el desarrollo de su función y, en particular, del director.
-
 La nueva norma responde a la necesidad objetiva de adoptar medidas legales para reforzar la autoridad de maestros y profesores con el fin de garantizar el derecho individual a la educación, mejorar la convivencia en los centros educativos y aumentar la calidad de la enseñanza.
-
-Los colegios e institutos son, esencialmente, centros de enseñanza. Necesitan un ambiente adecuado para que el profesor enseñe y el alumno aprenda. Para ello esta ley contempla la obligación de que cada centro cuente con sus normas de organización y funcionamiento, y que las conductas contrarias a esas normas puedan ser sancionadas por los profesores y los directores, de manera justa, rápida y eficaz. La permanencia del alumno en un centro escolar ha de ser un ensayo general y continuado de la vida en sociedad, en la que cada uno es responsable de sus actos, y en la que hay normas que han de ser respetadas así como personas e instituciones investidas de autoridad para hacerlas cumplir.
-
+Los colegios e institutos son, esencialmente, centros de enseñanza. Necesitan un ambiente adecuado para que el profesor enseñe y el alumno aprenda. Para ello esta Ley contempla la obligación de que cada centro cuente con sus normas de organización y funcionamiento, y que las conductas contrarias a esas normas puedan ser sancionadas por los profesores y los directores, de manera justa, rápida y eficaz. La permanencia del alumno en un centro escolar ha de ser un ensayo general y continuado de la vida en sociedad, en la que cada uno es responsable de sus actos, y en la que hay normas que han de ser respetadas así como personas e instituciones investidas de autoridad para hacerlas cumplir.
 Para que los profesores puedan realizar con éxito la elevada tarea que la sociedad les encomienda, es preciso transmitir que, además de la autoridad que les confiere su saber, están investidos de una autoridad institucional por ejercer la función primordial de la docencia y ser, con ello, garantes inmediatos del derecho constitucional a la educación. De lo contrario, quedaría desmentida en la práctica la importancia que reviste la educación, en general, y la instrucción, en particular, para el Gobierno de la Comunidad de Madrid.
-
-La presente ley reconoce la condición de autoridad pública a los directores y los demás miembros del equipo directivo, así como a los profesores, lo que implica que todos ellos gozarán de presunción de veracidad, en sus informes y declaraciones, así como de la protección reconocida por el ordenamiento jurídico.
-
+La presente Ley reconoce la condición de autoridad pública a los directores y los demás miembros del equipo directivo, así como a los profesores, lo que implica que todos ellos gozarán de presunción de veracidad, en sus informes y declaraciones, así como de la protección reconocida por el ordenamiento jurídico.
 En definitiva, esta norma pretende reforzar el pilar esencial de todo sistema educativo, que son los maestros y los profesores. Disponer de un profesorado que cuente con prestigio social, con reconocimiento institucional a su labor y con respaldo legal a su autoridad es condición esencial para avanzar en un sistema educativo de calidad, que prime el mérito y el esfuerzo y eduque en la convivencia, el respeto y el sentido de la responsabilidad.
-
 La Comunidad de Madrid tiene atribuida en el artículo 29 de su Estatuto de Autonomía la competencia para realizar el desarrollo legislativo y ejecución de las enseñanzas en toda su extensión, niveles y grados, modalidades y especialidades, sin perjuicio de las competencias que en materia educativa corresponden al Estado.
-
 La Ley se estructura en dos títulos, una disposición adicional, una disposición derogatoria y una disposición final.
-
-Subir
-
-### [Bloque 2: #ti]
-
-## TÍTULO I
-
-## Disposiciones generales
-
-Subir
-
-### [Bloque 3: #a1]
-
-## Artículo 1. Objeto.
-
-La presente ley tiene por objeto reconocer y reforzar la autoridad del profesor y fomentar la consideración y el respeto que le son debidos en el ejercicio de sus funciones y responsabilidades, con el fin de mejorar la calidad del sistema educativo y garantizar el derecho a la educación.
-
-Subir
-
-### [Bloque 4: #a2]
-
-## Artículo 2. Ámbito de aplicación.
-
-La presente ley será de aplicación en los centros educativos de la Comunidad de Madrid, debidamente autorizados, que impartan alguna de las enseñanzas previstas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
-
-Subir
-
-### [Bloque 5: #a3]
-
-## Artículo 3. Principios generales.
-
-Los principios generales que inspiran esta ley son los siguientes:
-
-a) El derecho de todos a la educación consagrado en el artículo 27.1 de la Constitución española.
-
-b) La escuela como ámbito de aprendizaje de los principios de convivencia y respeto mutuo, y de desarrollo de la personalidad del alumno.
-
-c) La consideración de la función docente como factor esencial de la calidad de la enseñanza.
-
-d) La educación y la formación en calidad como herramientas esenciales para la igualdad de oportunidades y el progreso individual de las personas.
-
-e) El profesor como la figura fundamental para que el alumno desarrolle al máximo sus capacidades, su deseo de aprender, su sentido del esfuerzo y su espíritu crítico.
-
-f) La necesidad de que los centros educativos cuenten para su buen funcionamiento con normas de convivencia y los profesores dispongan de medios para velar su cumplimiento, así como para proteger a las víctimas de la violencia escolar.
-
-Subir
-
-### [Bloque 6: #a4]
-
-## Artículo 4. Función docente.
-
+TÍTULO I
+Disposiciones generales
+Artículo 1
+Objeto
+La presente Ley tiene por objeto reconocer y reforzar la autoridad del profesor y fomentar la consideración y el respeto que le son debidos en el ejercicio de sus funciones y responsabilidades, con el fin de mejorar la calidad del sistema educativo y garantizar el derecho a la educación.
+Artículo 2
+Ámbito de aplicación
+La presente Ley será de aplicación en los centros educativos de la Comunidad de Madrid, debidamente autorizados, que impartan alguna de las enseñanzas previstas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
+Artículo 3
+Principios generales
+Los principios generales que inspiran esta Ley son los siguientes:
+a)	El derecho de todos a la educación consagrado en el artículo 27.1 de la Constitución española.
+b)	La escuela como ámbito de aprendizaje de los principios de convivencia y respeto mutuo, y de desarrollo de la personalidad del alumno.
+c)	La consideración de la función docente como factor esencial de la calidad de la enseñanza.
+d)	La educación y la formación en calidad como herramientas esenciales para la igualdad de oportunidades y el progreso individual de las personas.
+e)	El profesor como la figura fundamental para que el alumno desarrolle al máximo sus capacidades, su deseo de aprender, su sentido del esfuerzo y su espíritu crítico.
+f)	La necesidad de que los centros educativos cuenten para su buen funcionamiento con normas de convivencia y los profesores dispongan de medios para velar su cumplimiento, así como para proteger a las víctimas de la violencia escolar.
+Artículo 4
+Función docente
 El profesor en el desempeño de su función docente gozará de:
-
-a) Respeto y consideración hacia su persona por parte de los alumnos, los padres y los demás profesores.
-
-b) Un clima de orden, disciplina y respeto a sus derechos en el ejercicio de la función docente.
-
-c) Potestad para tomar decisiones rápidas, proporcionadas y eficaces, de acuerdo con las normas de convivencia del centro, que le permitan mantener un ambiente adecuado de estudio y aprendizaje durante las clases, en las actividades complementarias y extraescolares, tanto dentro como fuera del recinto escolar.
-
-d) Colaboración de los padres o representantes legales para el cumplimiento de las normas de convivencia.
-
-e) Protección jurídica adecuada a sus funciones docentes.
-
-f) Apoyo por parte de la Administración educativa, que velará para que el profesorado reciba el trato, la consideración y el respeto que le corresponden conforme a la importancia social de la tarea que desempeña. A tal fin la Administración realizará campañas que aumenten su consideración y su prestigio social.
-
-Subir
-
-### [Bloque 7: #tii]
-
-## TÍTULO II
-
-## Protección jurídica del profesor y régimen disciplinario en los centros educativos
-
-Subir
-
-### [Bloque 8: #ci]
-
-## CAPÍTULO I
-
-## Protección jurídica del profesor
-
-Subir
-
-### [Bloque 9: #a5]
-
-## Artículo 5. Autoridad pública.
-
+a)	Respeto y consideración hacia su persona por parte de los alumnos, los padres y los demás profesores.
+b)	Un clima de orden, disciplina y respeto a sus derechos en el ejercicio de la función docente.
+c)	Potestad para tomar decisiones rápidas, proporcionadas y eficaces, de acuerdo con las normas de convivencia del centro, que le permitan mantener un ambiente adecuado de estudio y aprendizaje durante las clases, en las actividades complementarias y extraescolares, tanto dentro como fuera del recinto escolar.
+d)	Colaboración de los padres o representantes legales para el cumplimiento de las normas de convivencia.
+e)	Protección jurídica adecuada a sus funciones docentes.
+f)	Apoyo por parte de la Administración educativa, que velará para que el profesorado reciba el trato, la consideración y el respeto que le corresponden conforme a la importancia social de la tarea que desempeña. A tal fin la Administración realizará campañas que aumenten su consideración y su prestigio social.
+TÍTULO II
+Protección jurídica del profesor y régimen disciplinario en los centros educativos
+Capítulo I
+Protección jurídica del profesor
+Artículo 5
+Autoridad pública
 Los directores y demás miembros del equipo directivo, así como los profesores tendrán, en el ejercicio de las potestades de gobierno, docentes y disciplinarias que tengan atribuidas, la condición de autoridad pública, y gozarán de la protección reconocida a tal condición por el ordenamiento jurídico.
-
-Subir
-
-### [Bloque 10: #a6]
-
-## Artículo 6. Presunción de veracidad.
-
+Artículo 6
+Presunción de veracidad
 En el ejercicio de las competencias disciplinarias, los hechos constatados por los directores y demás miembros de los órganos de gobierno, así como por los profesores, gozan de presunción de veracidad, cuando se formalicen por escrito en documento que cuente con los requisitos establecidos reglamentariamente.
-
-Subir
-
-### [Bloque 11: #a7]
-
-## Artículo 7. Asistencia jurídica.
-
+Artículo 7
+Asistencia jurídica
 La Administración educativa, respecto a los profesores de los centros escolares públicos, adoptará las medidas oportunas para garantizar su adecuada protección y asistencia jurídica, así como la cobertura de su responsabilidad civil, en relación con los hechos que se deriven de su ejercicio profesional y de las funciones que realicen dentro o fuera del recinto escolar.
-
 En todo caso, gozarán del derecho a la representación y defensa en juicio en los términos establecidos en el artículo 2.2 de la Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
-
-Subir
-
-### [Bloque 12: #a8]
-
-## Artículo 8. Deber de colaboración.
-
-De acuerdo con la disposición adicional vigésima tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los centros podrán recabar de los padres o representantes legales, o en su caso de las instituciones públicas competentes, la colaboración necesaria para la aplicación de las normas que garanticen la convivencia en los centros educativos en relación con la información sobre las circunstancias personales, familiares o sociales que concurran en los alumnos.
-
-Subir
-
-### [Bloque 13: #cii]
-
-## CAPÍTULO II
-
-## Régimen disciplinario en los centros educativos
-
-Subir
-
-### [Bloque 14: #a9]
-
-## Artículo 9. Normas de convivencia.
-
+Artículo 8
+Deber de colaboración
+De acuerdo con la Disposición Adicional Vigésima Tercera de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, los centros podrán recabar de los padres o representantes legales, o en su caso de las instituciones públicas competentes, la colaboración necesaria para la aplicación de las normas que garanticen la convivencia en los centros educativos en relación con la información sobre las circunstancias personales, familiares o sociales que concurran en los alumnos.
+Capítulo II
+Régimen disciplinario en los centros educativos
+Artículo 9
+Normas de convivencia
 Cada centro educativo elaborará sus normas de organización y funcionamiento, entre las que habrá de figurar el plan de convivencia. Aprender a convivir es fundamental en la formación de los alumnos y así debe expresarlo el plan de convivencia de cada centro.
-
-Subir
-
-### [Bloque 15: #a10]
-
-## Artículo 10. Incumplimiento de las normas de convivencia.
-
-1. Podrán ser objeto de medidas disciplinarias las conductas contrarias a las normas de convivencia que sean realizadas por alumnos dentro del recinto escolar o durante la realización de actividades complementarias y extraescolares, así como durante la prestación de los servicios de comedor y transporte escolar, en los términos previstos en el Decreto que establezca el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
-
-2. Las medidas correctoras aplicadas deben guardar proporción con la naturaleza y gravedad de la falta cometida, deben poseer un valor añadido de carácter educativo, y deberán contribuir a la mejora del clima de convivencia del centro.
-
-3. También podrán ser sancionadas aquellas conductas que, aunque llevadas a cabo fuera del recinto escolar, estén motivadas o directamente relacionadas con la vida escolar y afecten a algún miembro de la comunidad educativa.
-
-4. Reglamentariamente se regularán los criterios para la graduación de la aplicación de las sanciones disciplinarias, el procedimiento y los órganos competentes para su imposición. La sanción de las faltas muy graves corresponde al director.
-
-5. Cuando los hechos pudieran ser constitutivos de delito o falta, deberán comunicarse al Ministerio Fiscal, sin perjuicio de que se tomen las medidas cautelares oportunas.
-
-Subir
-
-### [Bloque 16: #a11]
-
-## Artículo 11. Medidas cautelares provisionales.
-
-1. Cuando se produzca una conducta contraria a las normas de convivencia del centro y si fuere necesario para garantizar el normal desarrollo de las actividades, el profesor o el director del centro podrán adoptar medidas provisionales con carácter cautelar, de acuerdo con el principio de proporcionalidad.
-
-2. La adopción de medidas cautelares será comunicada a los padres o representantes legales de los alumnos menores de edad.
-
-3. El director podrá revocar o modificar, en cualquier momento, las medidas cautelares provisionales adoptadas.
-
-Subir
-
-### [Bloque 17: #a12]
-
-## Artículo 12. Responsabilidad y reparación de daños.
-
-1. Los alumnos quedan obligados a reparar los daños que causen, individual o colectivamente, de forma intencionada o por negligencia, a las instalaciones, a los materiales del centro y a las pertenencias de otros miembros de la comunidad educativa, o a hacerse cargo del coste económico de su reparación. Asimismo, estarán obligados a restituir, en su caso, lo sustraído. Los padres o representantes legales asumirán la responsabilidad civil que les corresponda en los términos previstos en la ley.
-
-2. Cuando se incurra en conductas tipificadas como agresión física o moral a los profesores se deberá reparar el daño moral causado mediante la presentación de excusas y el reconocimiento de la responsabilidad de los actos, bien en público o en privado, según corresponda por la naturaleza de los hechos y de acuerdo con lo que determine el órgano competente para imponer la corrección, sin perjuicio de la posible responsabilidad civil en que se haya podido incurrir conforme a la legislación vigente.
-
-Subir
-
-### [Bloque 18: #daunica]
-
-## Disposición adicional única. Centros docentes privados.
-
+Artículo 10
+Incumplimiento de las normas de convivencia
+1.  Podrán ser objeto de medidas disciplinarias las conductas contrarias a las normas de convivencia que sean realizadas por alumnos dentro del recinto escolar o durante la realización de actividades complementarias y extraescolares, así como durante la prestación de los servicios de comedor y transporte escolar, en los términos previstos en el Decreto que establezca el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
+2.  Las medidas correctoras aplicadas deben guardar proporción con la naturaleza y gravedad de la falta cometida, deben poseer un valor añadido de carácter educativo, y deberán contribuir a la mejora del clima de convivencia del centro.
+3.  También podrán ser sancionadas aquellas conductas que, aunque llevadas a cabo fuera del recinto escolar, estén motivadas o directamente relacionadas con la vida escolar y afecten a algún miembro de la comunidad educativa.
+4.  Reglamentariamente se regularán los criterios para la graduación de la aplicación de las sanciones disciplinarias, el procedimiento y los órganos competentes para su imposición. La sanción de las faltas muy graves corresponde al director.
+5.  Cuando los hechos pudieran ser constitutivos de delito o falta, deberán comunicarse al Ministerio Fiscal, sin perjuicio de que se tomen las medidas cautelares oportunas.
+Artículo 11
+Medidas cautelares provisionales
+1.  Cuando se produzca una conducta contraria a las normas de convivencia del centro y si fuere necesario para garantizar el normal desarrollo de las actividades, el profesor o el director del centro podrán adoptar medidas provisionales con carácter cautelar, de acuerdo con el principio de proporcionalidad.
+2.  La adopción de medidas cautelares será comunicada a los padres o representantes legales de los alumnos menores de edad.
+3.  El director podrá revocar o modificar, en cualquier momento, las medidas cautelares provisionales adoptadas.
+Artículo 12
+Responsabilidad y reparación de daños
+1.  Los alumnos quedan obligados a reparar los daños que causen, individual o colectivamente, de forma intencionada o por negligencia, a las instalaciones, a los materiales del centro y a las pertenencias de otros miembros de la comunidad educativa, o a hacerse cargo del coste económico de su reparación. Asimismo, estarán obligados a restituir, en su caso, lo sustraído. Los padres o representantes legales asumirán la responsabilidad civil que les corresponda en los términos previstos en la Ley.
+2.  Cuando se incurra en conductas tipificadas como agresión física o moral a los profesores se deberá reparar el daño moral causado mediante la presentación de excusas y el reconocimiento de la responsabilidad de los actos, bien en público o en privado, según corresponda por la naturaleza de los hechos y de acuerdo con lo que determine el órgano competente para imponer la corrección, sin perjuicio de la posible responsabilidad civil en que se haya podido incurrir conforme a la legislación vigente.
+DISPOSICIÓN ADICIONAL ÚNICA
+Centros docentes privados
 Los centros privados tendrán autonomía para establecer sus normas de organización y funcionamiento y sus normas de convivencia y disciplina en el marco de la normativa vigente.
-
-Subir
-
-### [Bloque 19: #dtunica]
-
-## Disposición transitoria única. Pervivencia del Decreto 15/2007, de 19 de abril.
-
-En tanto no se apruebe una norma de desarrollo de la presente ley, mantendrá su vigencia el Decreto 15/2007, de 19 de abril, regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
-
-Subir
-
-### [Bloque 20: #ddunica]
-
-## Disposición derogatoria única. Derogación normativa.
-
-Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
-
-Subir
-
-### [Bloque 21: #dfprimera]
-
-## Disposición final primera. Habilitación normativa.
-
-Se habilita al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en esta ley.
-
-Subir
-
-### [Bloque 22: #dfsegunda]
-
-## Disposición final segunda. Entrada en vigor.
-
-La presente ley entrará en vigor el día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid».
-
-Subir
-
-### [Bloque 23: #firma]
-
+DISPOSICIÓN TRANSITORIA ÚNICA
+Pervivencia del Decreto 15/2007, de 19 de abril
+En tanto no se apruebe una norma de desarrollo de la presente Ley, mantendrá su vigencia el Decreto 15/2007, de 19 de abril, regulador de la convivencia en los centros docentes de la Comunidad de Madrid.
+DISPOSICIÓN DEROGATORIA ÚNICA
+Derogación normativa
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+DISPOSICIÓN FINAL PRIMERA
+Habilitación normativa
+Se habilita al Consejo de Gobierno para dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en esta Ley.
+DISPOSICIÓN FINAL SEGUNDA
+Entrada en vigor
+La presente Ley entrará en vigor el día siguiente de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
-
-Madrid, 15 de junio de 2010.–La Presidenta de la Comunidad de Madrid, Esperanza Aguirre Gil de Biedma.
-
-Subir
+Madrid, a 15 de junio de 2010.
+La Presidenta, 		ESPERANZA AGUIRRE GIL DE BIEDMA
+(03/26.530/10)
+Nota:
+El contenido del texto de la disposición que aquí se muestra no es necesariamente exacto y completo. Únicamente la disposición publicada con firma electrónica, en formato PDF, tiene carácter auténtico y validez oficial.
+Sección 1.1.20.1:
+I. COMUNIDAD DE MADRID
+SUBIR
+https://www.bocm.es
+Código de Verificación Electrónica (CVE):  BOCM-20100629-353
+Comunidad de Madrid
+Opine
+Aviso legal
+Privacidad
+Contacto
+Accesibilidad
+Mapa Web
+RSS

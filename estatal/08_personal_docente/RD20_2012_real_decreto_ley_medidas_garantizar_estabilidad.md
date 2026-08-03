@@ -3863,3 +3863,25 @@ Fuentes:
 **  INE Encuesta de Ocupación Hotelera 2011.
 
 *** Ministerio de Fomento, Puertos del Estado 2011.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamentado en**: [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
+- **Fundamentado en**: [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- **Fundamentado en**: [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
+- **Fundamento de**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**L4_2023 Ley del Gobierno de Canarias**](../../autonómica/canarias/01_marco_normativo_general_y_organico/L4_2023_presidencia_gobierno_canarias.md)
+
+### Fundamentos de Derecho
+- [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
+- [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
+- [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- [**BOE-A-2012-8745**](./L2_2012_presupuestos_generales_estado_ano.md)
+

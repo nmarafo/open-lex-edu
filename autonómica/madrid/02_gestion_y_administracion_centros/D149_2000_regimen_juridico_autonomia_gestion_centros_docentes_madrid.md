@@ -31,7 +31,6 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 ## Preámbulo
 
 **Decreto 149/2000, de 22 de junio, por el que se regula el régimen jurídico de la autonomía de gestión de los centros docentes públicos no universitarios de la Comunidad de Madrid**

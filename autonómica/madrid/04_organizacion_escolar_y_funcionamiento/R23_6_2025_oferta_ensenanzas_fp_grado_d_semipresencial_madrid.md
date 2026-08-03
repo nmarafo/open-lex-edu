@@ -30,12 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial**
 
-## Preámbulo
-
+LUNES 30 DE JUNIO DE 2025
+Pág. 12
 B.O.C.M. Núm. 154
+BOCM-20250630-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
 Consejería de Economía, Hacienda y Empleo
 1
 RESOLUCIÓN de 17 de junio de 2025, de la Dirección General de Función Pú-
@@ -46,6 +50,7 @@ curso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingenierí
 Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de
 Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid.
 Mediante Orden 2765/2022, de 30 de noviembre, de la Consejería de Economía, Ha-
+cienda y Empleo, (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 299, de 16
 de diciembre), se convocaron pruebas selectivas del proceso extraordinario de estabiliza-
 ción para el ingreso, mediante el sistema de concurso, en el Cuerpo de Ingenieros y Arqui-
 tectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e In-
@@ -53,6 +58,7 @@ dustrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de
 Comunidad de Madrid, Corrección de errores (BOLETÍN OFICIAL DE LA COMUNIDAD DE
 MADRID número 3, de 4 de enero de 2023).
 Por Resolución de 27 de diciembre de 2024, de la Dirección General de Función Pú-
+blica (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 311, de 31 de diciembre),
 fueron resueltas las mencionadas pruebas selectivas, incorporándose, como Anexo a aque-
 llas, la relación de personas seleccionadas, quienes debían proceder, en el plazo y forma es-
 tipulados, a la elección de destinos y a la acreditación del cumplimiento de los requisitos
@@ -84,53 +90,46 @@ Segundo
 Contra la presente resolución, que no pone fin a la vía administrativa, las personas in-
 teresadas podrán interponer recurso de alzada ante la Viceconsejería de Hacienda y Fun-
 
+LUNES 30 DE JUNIO DE 2025
 B.O.C.M. Núm. 154
+Pág. 13
+BOCM-20250630-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ción Pública, dentro del plazo de un mes contado a partir del día siguiente al de su publica-
+ción en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
 Madrid, a 17 de junio de 2025.—La Directora General de Función Pública, P. D. F.
 (Resolución de 24 de noviembre de 2021), la Subdirectora General de Planificación de
 Efectivos y Selección, Elisa Isabel Moreno Bernis.
 
+LUNES 30 DE JUNIO DE 2025
+Pág. 14
 B.O.C.M. Núm. 154
+BOCM-20250630-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 
 
 
 	
-
-
-		
+		
 	
-
-
-
-		
-
-
-
-
-
-
- 
+
+		
+
+ 
  
 
-	
-   
+	   
 	 
- 	
-  	
-
-
-
-
-
-		
- 
-
+ 	  	
+
+		 
  
- 	 
-		 
-
+ 	 		 
 
 
  
@@ -138,21 +137,12 @@ D. L.: M. 19.462-1983      ISSN 1989-4791
 
 
 		
-
-
-	
-	
-	
-
+			
 
-
-
-	
-
-
+	
+
 	
-
-	
+	
 
 
 
@@ -164,87 +154,57 @@ D. L.: M. 19.462-1983      ISSN 1989-4791
 
 
 	
-
-
-
+
 
-
-
+
 
 
 
 
 
 
-	
-
-
-
+	
+
 
 
-
-	
-
+	
 
-
-
-	
-
-
-
-
+
+	
+
 
 
-	
-
-
-
-
+	
+
 
 
 
 
 
-
-
-
+
 
-
- 
+ 
 
 
-	
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-	
-
-
-
+	
+	
+
+
+
+
+
+ 
+	
+
 
 
 	
 
-
-
+
 
 
 
-
-	
+	
 
 
 
@@ -258,17 +218,12 @@ D. L.: M. 19.462-1983      ISSN 1989-4791
 
 
 
-
+
 
-
-
-
-
-	
+	
 
  
-
-
+
 
 
 !

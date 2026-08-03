@@ -30,18 +30,22 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Orden 1736/2023, de 23 de mayo, por la que se aprueba el catálogo de materias optativas en ESO y Bachillerato**
 
-## Preámbulo
-
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 11
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
 Vicepresidencia, Consejería de Educación y Universidades
 1
 DECRETO 56/2023, de 24 de mayo, del Consejo de Gobierno, por el que se esta-
 blece para la Comunidad de Madrid el plan de estudios del ciclo formativo de
 grado medio correspondiente al título de Técnico en Actividades Ecuestres.
-La Ley Orgánica 3/2022, de 31 de marzo, de Ordenación e Integración de la Forma-
+La [Ley Orgánica 3/2022](../../canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de Ordenación e Integración de la Forma-
 ción Profesional, define en su artículo 5.1 el Sistema de Formación Profesional como el
 conjunto articulado de actuaciones dirigidas a identificar las competencias profesionales
 del mercado laboral, asegurar las ofertas de formación idóneas, posibilitar la adquisición de
@@ -51,11 +55,11 @@ to profesional que permita el diseño de itinerarios formativos individuales y c
 Asimismo, en su artículo 27.1.a) establece que los títulos serán homologados por la Admi-
 nistración General del Estado, siempre que incluyan, al menos, un resultado de aprendiza-
 je vinculado a un elemento de competencia y estén recogidos en el Catálogo Nacional de
-Ofertas de Formación Profesional. El artículo 39 de la Ley Orgánica 2/2006, de 3 de mayo,
+Ofertas de Formación Profesional. El artículo 39 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo,
 de Educación, dispone que el Gobierno de la Nación, previa consulta a las comunidades au-
 tónomas, establecerá las titulaciones correspondientes a los estudios de formación profesio-
 nal, así como los aspectos básicos del currículo de cada una de ellas.
-La citada Ley Orgánica 2/2006, de 3 de mayo, en su artículo 6.3 establece que, con el
+La citada [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en su artículo 6.3 establece que, con el
 fin de asegurar una formación común y garantizar la validez de los títulos correspondien-
 tes, el Gobierno, previa consulta a las Comunidades Autónomas, fijará, en relación con los
 objetivos, competencias, contenidos y criterios de evaluación, los aspectos básicos del
@@ -84,28 +88,33 @@ cualificación del alumnado para su incorporación a la estructura productiva. D
 estudios requiere una posterior concreción del currículo en las programaciones didácticas en
 los términos que recoge el artículo 32 del citado Decreto 63/2019, de 16 de julio.
 Sin perjuicio de lo indicado en el párrafo anterior, dentro del marco de autonomía de
-los centros establecido en el título V, capítulo II, de la Ley Orgánica 2/2006, de 3 de mayo,
+los centros establecido en el título V, capítulo II, de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo,
 y en los términos dispuestos en el capítulo V del Decreto 63/2019, de 16 de julio, la Con-
 sejería con competencias en materia de Educación podrá autorizar proyectos de innovación
 y emprendimiento, que en todo caso garantizarán los contenidos y las horas atribuidas a
 cada módulo profesional establecidos en el Real Decreto 652/2017, de 23 de junio.
 
+MARTES 30 DE MAYO DE 2023
+Pág. 12
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Por otra parte, el diseño del plan de estudios de este ciclo formativo garantiza el ejer-
 cicio real y efectivo de derechos por parte de las personas con discapacidad en igualdad de
 condiciones con respecto al resto de la ciudadanía, así como el derecho a la igualdad de opor-
-tunidades y de trato, conforme a lo previsto en el Real Decreto Legislativo 1/2013, de 29 de
+tunidades y de trato, conforme a lo previsto en el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de
 noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las
 personas con discapacidad y de su inclusión social. Asimismo, hace efectivo el derecho de
 igualdad de oportunidades y de trato entre mujeres y hombres en cualquier ámbito de la
-vida, como dispone el artículo 1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igual-
+vida, como dispone el artículo 1 de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de marzo, para la igual-
 dad efectiva de mujeres y hombres, y garantiza la integración del principio de igualdad y
 no discriminación por razón de identidad de género, expresión de género u orientación se-
 xual, dando cumplimiento a lo que establece la Ley 3/2016, de 22 de julio, de Protección
 Integral contra la LGTBIfobia y la Discriminación por Razón de Orientación e Identidad
 Sexual en la Comunidad de Madrid, y la Ley 2/2016, de 29 de marzo, de Identidad y Ex-
 presión de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid.
-En el marco de lo dispuesto en el artículo 129 de la Ley 39/2015, de 1 de octubre, del
+En el marco de lo dispuesto en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
 Procedimiento Administrativo Común de las Administraciones Públicas, y de conformidad
 con el artículo 2 del Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno, por el que
 se regula y simplifica el procedimiento de elaboración de las disposiciones normativas de
@@ -142,10 +151,8 @@ En su virtud, a propuesta del Vicepresidente, Consejero de Educación y Universi
 des, de acuerdo con la Comisión Jurídica Asesora de la Comunidad de Madrid, previa de-
 liberación, el Consejo de Gobierno, en su reunión del día 24 de mayo de 2023,
 DISPONE
-
-## Artículo 1
+Artículo 1
 Objeto y ámbito de aplicación
-
 1.
 El presente Decreto establece el currículo de las enseñanzas de formación profe-
 sional correspondientes al título de Técnico en actividades ecuestres, así como las especia-
@@ -155,11 +162,14 @@ y equipamientos necesarios que deben reunir los centros.
 Esta norma será de aplicación en los centros públicos y privados de la Comunidad
 de Madrid que, debidamente autorizados, impartan estas enseñanzas.
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
-
-## Artículo 2
+Pág. 13
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+Artículo 2
 Referentes de la formación
-
 Los aspectos relativos a la identificación del título, el perfil y el entorno profesional,
 las competencias, la prospectiva del título en el sector, los objetivos generales, los accesos
 y la vinculación con otros estudios, las exenciones y convalidaciones, la correspondencia
@@ -167,10 +177,8 @@ de módulos profesionales con las unidades de competencia incluidas en el títul
 laciones equivalentes a efectos académicos, profesionales y de docencia, son los que se de-
 finen en el Real Decreto 652/2017, de 23 de junio, por el que se establece el título de Téc-
 nico en Actividades Ecuestres y se fijan los aspectos básicos del currículo.
-
-## Artículo 3
+Artículo 3
 Módulos profesionales del ciclo formativo
-
 Los módulos profesionales que constituyen el currículo del ciclo formativo de grado
 medio en actividades ecuestres son los siguientes:
 a)
@@ -209,10 +217,8 @@ b)
 El siguiente módulo profesional propio de la Comunidad de Madrid, no asociado a
 unidad de competencia:
 CM15-AFD. Lengua extranjera profesional.
-
-## Artículo 4
+Artículo 4
 Currículo
-
 1.
 La contribución a la competencia general y a las competencias profesionales, per-
 sonales y sociales, los objetivos expresados en términos de resultados de aprendizaje, los
@@ -226,10 +232,8 @@ docente, relacionados en el artículo 3.a), se incluyen en el anexo I.
 Los objetivos expresados en términos de resultados de aprendizaje, los criterios de
 evaluación, los contenidos y las orientaciones pedagógicas del módulo profesional recogi-
 do en el artículo 3.b) son los que se especifican en el anexo II.
-
-## Artículo 5
+Artículo 5
 Adaptación al entorno educativo, social y productivo
-
 1.
 Los centros docentes concretarán y desarrollarán el currículo de este ciclo formativo
 mediante programaciones didácticas en el contexto del proyecto educativo del centro docente.
@@ -238,7 +242,12 @@ Las programaciones didácticas se establecerán teniendo en cuenta las caracter�
 ticas socioeconómicas del sector y potenciarán la cultura de calidad, la excelencia en el tra-
 bajo, así como la formación en materia de prevención de riesgos laborales, economía circu-
 
+MARTES 30 DE MAYO DE 2023
+Pág. 14
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 lar y respeto medioambiental, atendiendo a la normativa específica del sector productivo o
 de servicios correspondiente.
 3.
@@ -253,17 +262,13 @@ grando el principio de “diseño universal o diseño para todas las personas”
 maciones didácticas se tendrán en consideración las características del alumnado, prestán-
 dose especial atención a las necesidades de quienes presenten una discapacidad reconocida,
 para facilitar el acceso al currículo y la adquisición de las competencias incluidas en el mismo.
-
-## Artículo 6
+Artículo 6
 Organización y distribución horaria
-
 Los módulos profesionales de este ciclo formativo se organizarán en dos cursos aca-
 démicos. La distribución en cada uno de ellos, su duración y la asignación horaria semanal
 se concretan en el anexo III.
-
-## Artículo 7
+Artículo 7
 Profesorado
-
 1.
 Las especialidades del profesorado de los Cuerpos de Catedráticos de Enseñanza
 Secundaria, de Profesores de Enseñanza Secundaria y de Profesores Técnicos de Forma-
@@ -295,10 +300,8 @@ Orgánica 2/2006, de 3 de mayo, de Educación.
 5.
 En todos aquellos aspectos no contemplados en los apartados anteriores, se estará
 a lo dispuesto en el artículo 12 del Real Decreto 652/2017, de 23 de junio.
-
-## Artículo 8
+Artículo 8
 Definición de espacios y equipamientos
-
 Los espacios y equipamientos que deben reunir los centros docentes para permitir el
 desarrollo de las actividades de enseñanza de los ciclos de formación profesional deberán
 ajustarse a lo dispuesto en el artículo 11 y en el anexo II del Real Decreto 652/2017, de 23
@@ -306,20 +309,21 @@ de junio, y se concretan en el anexo V del presente Decreto.
 Además, deberán cumplir la normativa sobre diseño para todos y accesibilidad univer-
 sal, así como sobre prevención de riesgos laborales y seguridad y salud en el trabajo.
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
-
-## DISPOSICIÓN ADICIONAL PRIMERA
-
+Pág. 15
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+DISPOSICIÓN ADICIONAL PRIMERA
 Módulo profesional propio CM15-AFD. Lengua extranjera profesional de la Comunidad
 de Madrid, del plan de estudios del ciclo formativo de grado medio en actividades
-ecuestres derivado de la Ley Orgánica 2/2006, de 3 de mayo
+ecuestres derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo
 En el módulo profesional propio CM15-AFD. Lengua extranjera profesional estable-
 cida en el presente Decreto se impartirá, como norma general, la lengua inglesa. La conse-
 jería competente en materia de Educación podrá autorizar, excepcionalmente, que la lengua
 impartida sea distinta del inglés, previa solicitud motivada del centro docente.
-
-## DISPOSICIÓN ADICIONAL SEGUNDA
-
+DISPOSICIÓN ADICIONAL SEGUNDA
 Autonomía pedagógica de los centros docentes
 1.
 En el marco de la autonomía pedagógica determinada en el artículo 120 de la Ley
@@ -334,21 +338,15 @@ Estos proyectos de innovación y emprendimiento deberán respetar los objetivos
 generales, los resultados de aprendizaje, los criterios de evaluación, los contenidos básicos,
 las asignaciones horarias mínimas y la duración total de las enseñanzas establecidas para el
 título en el Real Decreto 652/2017, de 23 de junio.
-
-## DISPOSICIÓN FINAL PRIMERA
-
+DISPOSICIÓN FINAL PRIMERA
 Implantación del nuevo currículo
 Las enseñanzas que se determinan en el presente Decreto se implantarán a partir del
 curso escolar 2023-2024.
-
-## DISPOSICIÓN FINAL SEGUNDA
-
+DISPOSICIÓN FINAL SEGUNDA
 Habilitación para el desarrollo normativo
 Se autoriza al titular de la consejería competente en materia de Educación a dictar las
 disposiciones que sean precisas para el desarrollo de lo dispuesto en este Decreto.
-
-## DISPOSICIÓN FINAL TERCERA
-
+DISPOSICIÓN FINAL TERCERA
 Entrada en vigor
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLE-
 TÍN OFICIAL DE LA COMUNIDAD DE MADRID.
@@ -358,7 +356,12 @@ ENRIQUE OSSORIO CRESPO
 La Presidenta,
 ISABEL DÍAZ AYUSO
 
+MARTES 30 DE MAYO DE 2023
+Pág. 16
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO I 
 RELACIÓN DE LOS CONTENIDOS Y DURACIÓN DE LOS MÓDULOS 
 PROFESIONALES DEL CURRÍCULO QUE SE IMPARTEN EN EL CENTRO EDUCATIVO 
@@ -403,7 +406,12 @@ respiración y pulso.
 situaciones de riesgo vital. Actuación limitada al marco de sus competencias. 
  Control de permeabilidad de las vías aéreas. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 17
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Desobstrucción de las vías aéreas: 
  Obstrucción incompleta y completa de las vías aéreas. 
  Aplicación de Maniobra de Heimlich, según edad y características: en menores 
@@ -465,7 +473,12 @@ Canalización de las situaciones de duelo, ansiedad, angustia y agresividad.
 Receptibilidad en el desarrollo de la comunicación con el accidentado y con sus 
 familiares. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 18
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 02. Módulo profesional: Alimentación, manejo general y primeros auxilios de équidos. 
  
 Código: 1319 
@@ -514,7 +527,12 @@ comportamiento anormal.
  Comportamiento social: dominancia y jerarquías. Diferentes interpretaciones de su 
 comportamiento social. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 19
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Agrupamiento de animales. Adecuación a la edad, sexo y fase productiva. Condicionantes 
 e incompatibilidades. Influencia en el comportamiento y manejo posterior. 
  Técnicas de sujeción, trabado e inmovilización. Técnicas de conducción y acompañamiento de 
@@ -562,7 +580,12 @@ documentación sanitaria.
  Elementos y equipos para tratamientos veterinarios de urgencia.  
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 20
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 03. Módulo Profesional: Mantenimiento físico, cuidados e higiene equina. 
 Código: 1320. 
 Duración: 165 horas. 
@@ -605,7 +628,12 @@ entrenamiento.
  Equipos, herramientas y maquinaria. Uso. Mantenimiento. 
  Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 21
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 4. Cuidados del casco: 
  Manipulación de las extremidades del animal. Técnicas de acercamiento. Técnicas de 
 levantamiento y sujeción de manos y pies. Observación de la parte exterior del casco. 
@@ -630,7 +658,12 @@ caballo enfermo.
  Equipos y materiales. Selección. Uso. Mantenimiento. 
  Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 22
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 04. Módulo Profesional: Herrado de équidos. 
 Código: 1322. 
 Duración: 195 horas. 
@@ -676,7 +709,12 @@ organización de herramientas, materiales y equipos. Utensilios portaherramienta
  Comportamiento del animal durante el herrado. Reacciones más comunes del équido y 
 forma de actuar.  
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 23
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Pautas para mantener una buena comunicación con el équido durante el herrado. 
  Sujeción del équido en el lugar del herrado. Diferentes formas de atado e inmovilización. 
  Funciones del ayudante. Criterios de asistencia. Necesidades en función de la técnica de 
@@ -721,7 +759,12 @@ comprobar en cascos recién herrados. Movimientos del équido a la mano.
  Legislación ambiental, de bienestar animal y de prevención de riesgos laborales en las 
 tareas realizadas. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 24
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 05. Módulo Profesional: Técnicas de equitación. 
 Código: 1325. 
 Duración: 135 horas. 
@@ -771,7 +814,12 @@ artificiales o viciados durante la monta.
  Revisión de acciones de estribos y cinchas. Técnicas para subirse al caballo: con ayuda y 
 sin ayuda. De salto, desde escalón, dar el pie y otras. Aplicación. Errores al montar. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 25
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Sujeción de riendas. Contacto con la boca del animal. Estribar. Calzado de estribos. 
 Control del caballo y seguridad al montar. 
  Postura a caballo. Descripción posicional de los segmentos corporales del jinete Defectos 
@@ -824,7 +872,12 @@ paso, al trote y al galope. Movimientos viciados del caballo montado.
 reacciones del caballo montado. 
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 26
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 06. Módulo Profesional: Exhibiciones y concursos de ganado equino. 
 Código: 1326. 
 Duración: 85 horas. 
@@ -873,7 +926,12 @@ de selección según actividad.
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. Pautas y 
 normas para evitar accidentes en caballo, trato abusivo o inadecuado. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 27
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 4. 
 Presentación del ganado equino en exhibiciones y concursos: 
  Técnicas de presentación. Tipos (Presentación a la cuerda, análisis morfológico, presentación 
@@ -910,7 +968,12 @@ utilización.
 válida para criar), edad, raza y resultados obtenidos en competiciones. 
  Formas de pago. Uso de las TIC. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 28
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 07. Módulo Profesional: Guía ecuestre. 
 Código: 1327. 
 Duración: 70 horas. 
@@ -977,7 +1040,12 @@ requisitos y documentación. Planificación del transporte y técnicas de conduc
 Estabulación o suelta del caballo. Utilización de boxes individuales, cuadras, 
 corridas, cercados exteriores y otros. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 29
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
   Alimentación e hidratación de las personas y de los caballos en una ruta ecuestre: 
 • 
 Avituallamiento durante la ruta. 
@@ -1042,7 +1110,12 @@ Acciones y medios para ayuda o apoyo de agentes externos.
 anticipada. 
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 30
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 3. Guiado del grupo por itinerarios ecuestres: 
  Legislación vigente. Espacios protegidos, características de los ecosistemas y especies 
 de la zona e impacto ambiental. 
@@ -1114,7 +1187,12 @@ Aseguramiento del caballo entre etapas: estabulado, cercado eléctrico y atado
 caballos entre dos puntos y otros). 
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 31
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 4. Colaboración en la organización de actividades ecuestres recreativas: 
  Actividades ecuestres. Tipos (hípicas y deportivas; recreativas; culturales y espectáculos; 
 con personas con discapacidad y otras). 
@@ -1180,7 +1258,12 @@ otros.
 • 
 Datos de interés (patrimonio cultural y natural). 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 32
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Intervención en actividades: 
 • 
 Criterios de adaptación de las actividades ecuestres (espacio, instalaciones, 
@@ -1235,7 +1318,12 @@ reparación, funcionalidad, estética y otros.
 mejoras en la programación Posibles mejoras y creación de nuevas actividades. 
  Normativa ambiental, de bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 33
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 08. Módulo Profesional: Formación y orientación laboral. 
 Código: 1330. 
 Duración: 90 horas. 
@@ -1282,7 +1370,12 @@ arbitraje.
  El derecho del trabajo: fuentes y principios. 
  Análisis y requisitos de la relación laboral individual. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 34
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Derechos y deberes derivados de la relación laboral. 
  El contrato de trabajo: concepto, capacidad para contratar, forma y validez del contrato. 
  Modalidades de contrato de trabajo y medidas de fomento de la contratación. El fraude de 
@@ -1328,7 +1421,12 @@ riesgos laborales.
  Principios y técnicas de prevención de riesgos laborales. 
  Responsabilidades y sanciones. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 35
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 6. Evaluación de riesgos profesionales: riesgos generales y riesgos específicos: 
  La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva. 
  Los riesgos generales: 
@@ -1370,7 +1468,12 @@ Protocolo de actuación ante una situación de emergencia.
  Clasificación de los heridos según su gravedad. 
  Aplicación de las técnicas de primeros auxilios según el tipo de lesión del accidentado. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 36
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 09. Módulo Profesional: Reproducción, cría y recría de équidos. 
 Código: 1321. 
 Duración: 130 horas. 
@@ -1421,7 +1524,12 @@ las instalaciones. Procesado y preparación de dosis seminales. Tipos. Preparaci
 equipos y materiales. Higiene en estas operaciones. Transmisión de enfermedades en las 
 operaciones de inseminación artificial. Seguridad para operarios y animales. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 37
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Diagnóstico de gestación. Protocolo de actuación y colaboración con el técnico veterinario. 
 Causas de infertilidad y esterilidad. Tratamiento. 
  Manejo de las yeguas gestantes: alimentación y otros cuidados específicos. Evitación de 
@@ -1480,7 +1588,12 @@ diferentes fases de la cría.
 Consumo de agua. Suministro de agua y alimentos. Influencia de la alimentación en la 
 producción láctea. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 38
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Lactancia natural: manejo de los animales en esta fase. Comportamiento de yeguas y rastras. 
 Observación: producción de leche, número y duración de las tomas, incremento de peso, 
 desarrollo corporal y otros. Ventajas de la lactancia natural. Dificultades en esta fase y 
@@ -1525,7 +1638,12 @@ animales y operarios.
 explotación. Cumplimentación. Uso de las tecnologías de la información y comunicación. 
  Normativa ambiental, de sanidad y bienestar animal y de prevención de riesgos laborales. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 39
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 10. Módulo Profesional: Desbrave y doma a la cuerda de potros. 
 Código: 1323. 
 Duración: 130 horas. 
@@ -1572,7 +1690,12 @@ físicas, psicológicas y otras.
 normas para evitar accidentes en caballos, trato abusivo e inadecuado. 
  
 
+MARTES 30 DE MAYO DE 2023
+Pág. 40
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 3. Conducción del potro del diestro para el desbrave: 
  Zonas para el paseo de los potros de desbrave: características y ubicación. Pistas 
 exteriores, pistas cubiertas, pistas redondas, dimensiones. Requisitos mínimos de espacio y 
@@ -1617,7 +1740,12 @@ al paso, trote y galope.
  Técnicas de realización de los cambios de sentido de la marcha en la sesión de trabajo a la 
 cuerda. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 41
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Vicios y defensas de los potros durante el trabajo a la cuerda: identificación y técnicas de 
 corrección. Medidas de prevención de vicios y defensas de los animales durante el trabajo a la 
 cuerda. Pautas para mantener una buena comunicación con el équido en el trabajo a la 
@@ -1645,7 +1773,12 @@ de la calidad del paso, trote y galope.
  Normativa de bienestar animal y de prevención de riesgos laborales. Pautas y normas para 
 evitar accidentes en caballos, trato abusivo e inadecuado. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 42
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 11. Módulo Profesional: Adiestramiento. 
 Código: 1324. 
 Duración: 130 horas. 
@@ -1694,7 +1827,12 @@ corregir y premiar.
 accidentes en caballo, trato y trabajo abusivo o inadecuado.  
  Normas de utilización de las zonas para montar y del trabajo en pista con más caballos.  
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 43
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 3. Monta del potro suelto: 
  Previsión de trabajos de monta. Medidas para mantener al potro confiado y relajado según 
 sus condiciones físicas, psicológicas del potro y del entorno. Síntomas de falta de relajación 
@@ -1743,7 +1881,12 @@ Conducción del caballo sin ayudante con las riendas.
  Colocación de pequeño arrastre con peso leve. Inicio de movimiento con ayudante. Sin 
 ayudante. Trineo con ruedas y sin ruedas. Diferentes superficies. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 44
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Enganche del caballo al coche. Dificultades más comunes. Trabajo en pista. Riesgos y 
 ventajas 
  Trabajo en campo. Diferentes tipos de terrenos: camino duro, de arena, campo a través. 
@@ -1776,7 +1919,12 @@ psicológicas.
 para prevenir accidentes en caballo, trato y trabajo abusivo o inadecuado. Normas de 
 utilización de las zonas para montar y del trabajo en pista con más caballos. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 45
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 12. Módulo Profesional: Atención a grupos. 
 Código: 1328. 
 Duración: 65 horas. 
@@ -1820,7 +1968,12 @@ mensajes.
  Valoración de la importancia de adecuar la comunicación al interlocutor o a la interlocutora 
 y a una posible discapacidad. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 46
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Actitudes personales que facilitan o dificultan la comunicación. 
  Justificación de las habilidades sociales básicas de comunicación. 
  Escucha activa. Errores de escucha. Empatía. Ayudar a pensar. 
@@ -1844,7 +1997,12 @@ estrategias e instrumentos para el estudio de grupos.
  Interpretación de datos. 
  Valoración de la autoevaluación como estrategia para la mejora de la competencia social. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 47
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 13. Módulo Profesional: Organización de itinerarios. 
 Código: 1329. 
 Duración: 90 horas. 
@@ -1896,7 +2054,12 @@ Trayectoria del itinerario.
  
 Distancias, tiempos y desniveles. Duración del itinerario. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 48
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  
 Puntos de dificultad. 
  
@@ -1951,7 +2114,12 @@ material necesario.
  Condiciones de seguridad en el recorrido. Idoneidad ante la naturaleza e intensidad de los 
 posibles agentes del entorno. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 49
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  Actuación en situaciones de peligro. Acciones y técnicas para actuaciones en condiciones 
 adversas. Valoración de la gravedad de la situación y personas o instancias a las que hay 
 que informar: 
@@ -1989,7 +2157,12 @@ actividades.
  Informes. Fichas de valoración de la actividad. Medidas correctoras de los desajustes 
 detectados. Propuestas de mejora de la actividad. Valoración del servicio. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 50
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 14. Módulo Profesional: Empresa e iniciativa emprendedora. 
 Código: 1331. 
 Duración: 65 horas. 
@@ -2034,7 +2207,12 @@ Presentación de los promotores.
 Estrategia, ventaja competitiva y análisis de las debilidades, amenazas, 
 fortalezas y oportunidades (DAFO) en la creación de una empresa. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 51
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
  
 Elección de la forma jurídica. 
  
@@ -2070,7 +2248,12 @@ establecido en el convenio colectivo correspondiente.
 enmarca el ciclo formativo. 
  Liderazgo y motivación. La comunicación en las empresas del sector. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 52
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO II 
 MÓDULO PROFESIONAL INCORPORADO POR LA COMUNIDAD DE MADRID 
 15. Módulo Profesional: Lengua extranjera profesional. 
@@ -2145,7 +2328,12 @@ la lengua extranjera.
  Se han identificado los aspectos socio-profesionales 
 propios del sector, en cualquier tipo de texto. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 53
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 RESULTADOS DE APRENDIZAJE 
 CRITERIOS DE EVALUACIÓN 
 Reconoce información cotidiana y 
@@ -2214,7 +2402,12 @@ de la comunidad donde se habla la lengua extranjera.
  Se han identificado los aspectos socio-profesionales 
 propios del sector, en cualquier tipo de texto. 
 
+MARTES 30 DE MAYO DE 2023
+Pág. 54
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Contenidos 
 1. Interpretación de mensajes escritos en lengua extranjera: 
  Comprensión de mensajes, textos, artículos profesionales y cotidianos, también aquellos 
@@ -2269,7 +2462,12 @@ sector profesional solicitando o facilitando una información de tipo general o 
  La valoración de la importancia de la comunicación oral y escrita en lengua extranjera, en el 
 marco del contexto laboral. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 55
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO III 
 ORGANIZACIÓN ACADÉMICA Y DISTRIBUCIÓN HORARIA SEMANAL
  
@@ -2462,7 +2660,12 @@ imparta, o equivalente.
  
  
 
+MARTES 30 DE MAYO DE 2023
+Pág. 56
 B.O.C.M. Núm. 127
+BOCM-20230530-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ANEXO V 
 ESPACIOS Y EQUIPAMIENTOS MÍNIMOS 
 ESPACIO FORMATIVO 
@@ -2565,9 +2768,15 @@ remolque distribuidor, palas, rastrillos, horcas y carretillas.
 - Peines, secadores de fleje, esponjas limpiadoras. 
 - Caballetes, ganchos para atalajes. 
 
+MARTES 30 DE MAYO DE 2023
 B.O.C.M. Núm. 127
+Pág. 57
+BOCM-20230530-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 ESPACIO FORMATIVO 
 EQUIPAMIENTO 
 Guadarnés 

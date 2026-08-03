@@ -1840,3 +1840,63 @@ Artes del vidrio.
 Artes aplicadas al muro.
 
 Vidrieras artísticas.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrollado por**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Desarrollado por**: [**BOE-A-2009-20550**](./Osn_edu_aprueba_temario_fase_oposicion_procedimiento.md)
+- **Desarrollado por**: [**BOE-A-2015-9453**](./Osn_ecd_aprueban_temarios_han_regir_procedimientos_2.md)
+- **Desarrollado por**: [**BOE-A-2026-2622**](../04_organizacion_escolar_y_funcionamiento/RD68_2026_regula_inspeccion_educativa.md)
+- **Desarrollado por**: [**Resolucion BOC 137**](../../autonómica/canarias/08_personal_docente/R29_4_2025_adoptan_medidas_necesarias_aplicacion_acuerdo_modifica.md)
+- **Desarrollado por**: [**Resolucion BOC 136**](../../autonómica/canarias/08_personal_docente/R25_5_2017_regula_programa_mejora_estabilidad_claustros_docentes.md)
+- **Desarrollado por**: [**Resolucion BOC 135**](../../autonómica/canarias/08_personal_docente/R15_2_2024_determina_procedimiento_acceso_listas_empleo_abiertas.md)
+- **Desarrollado por**: [**Resolucion BOC 131**](../../autonómica/canarias/08_personal_docente/R11_6_2020_dictan_instrucciones_organizacion_funcionamiento_curso_especifico.md)
+- **Desarrollado por**: [**D82_1994 Regulacion de los Centros del Profesorado (CEP)**](../../autonómica/canarias/08_personal_docente/D82_1994_regulan_creacion_organizacion_funcionamiento_centros_profesorado.md)
+- **Desarrollado por**: [**Resolucion BOC 130**](../../autonómica/canarias/08_personal_docente/R10_1_2018_dispone_publicacion_boletin_oficial_canarias_acuerdo.md)
+- **Desarrollado por**: [**Resolucion BOC 129**](../../autonómica/canarias/08_personal_docente/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+- **Desarrollado por**: [**D74_2010 Seleccion de Personal Interino Docente**](../../autonómica/canarias/08_personal_docente/D74_2010_establece_procedimiento_seleccion_personal_funcionario_interino.md)
+- **Desarrollado por**: [**Resolucion BOC 134**](../../autonómica/canarias/08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
+- **Desarrollado por**: [**Resolucion BOC 127**](../../autonómica/canarias/08_personal_docente/O15_5_1998_establecen_criterios_reconocimiento_certificacion_actividades_formacion.md)
+- **Desarrollado por**: [**Resolucion BOC 138**](../../autonómica/canarias/08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+- **Desarrollado por**: [**Resolucion BOC 132**](../../autonómica/canarias/08_personal_docente/R27_7_2022_aprueban_nuevos_criterios_dotacion_profesorado_conformidad.md)
+- **Desarrollado por**: [**Resolucion BOC 139**](../../autonómica/canarias/08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Desarrollado por**: [**Resolucion BOC 128**](../../autonómica/canarias/08_personal_docente/R23_3_2009_determinan_zonas_actuacion_red_publica_centros.md)
+- **Fundamentado en**: [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- **Fundamentado en**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamentado en**: [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- **Fundamentado en**: [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamento de**: [**BOE-A-1979-29491**](./DOC1_instrumento_ratificacion_acuerdo_entre_estado_espanol.md)
+- **Fundamento de**: [**BOE-A-1985-7820**](./RD598_1985_incompatibilidades_personal_servicio_administracion_estado_seguridad.md)
+- **Fundamento de**: [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
+- **Fundamento de**: [**BOE-A-1996-3102**](./O1_2_1996_aprueban_temarios_han_regir_procedimientos_ingreso.md)
+- **Fundamento de**: [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- **Fundamento de**: [**BOE-A-2010-11426**](../02_gestion_y_administracion_centros/RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamento de**: [**BOE-A-2011-15628**](./Osn_edu_establece_formacion_equivalente_formacion_pedagogica.md)
+- **Fundamento de**: [**BOE-A-2014-7684**](./RD625_2014_regulan_determinados_aspectos_gestion_control_procesos.md)
+- **Fundamento de**: [**BOE-A-2015-6839**](./RD1187_2015_ess_desarrolla_real_decreto_regulan_determinados.md)
+- **Fundamento de**: [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
+- **Fundamento de**: [**BOE-A-2024-10683**](../03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10684**](../03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**BOE-A-2024-10685**](../03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md)
+- **Fundamento de**: [**RD476_2013 Cualificacion del Profesorado en Centros Privados**](../02_gestion_y_administracion_centros/RD476_2013_regulan_condiciones_cualificacion_formacion_profesorado_centros.md)
+
+### Fundamentos de Derecho
+- [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+- [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
+- [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- [**BOE-A-1998-10720**](./RD777_1998_desarrollan_determinados_aspectos_ordenacion_formacion_profesional.md)
+- [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
+

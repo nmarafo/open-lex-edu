@@ -46,7 +46,6 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-011.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 ---
-
 ## Preámbulo
 
 # Dirección General de Promoción Educativa.- [Resolución de 14 de octubre de 2002](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
@@ -238,3 +237,22 @@ A N E X O  I
 A N E X O  I I
 
 A N E X O  I I I
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**Resolucion BOC 77**](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamento de**: [**Resolucion BOC 77**](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**Resolucion BOC 77**](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
+

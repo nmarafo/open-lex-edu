@@ -30,12 +30,16 @@ relaciones:
   modificado_por: []
   afecta_a_articulos: []
 ---
-
 **Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación en Educación Secundaria Obligatoria en Madrid**
 
-## Preámbulo
-
+VIERNES 26 DE MAYO DE 2023
 B.O.C.M. Núm. 124
+Pág. 11
+BOCM-20230526-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
 Vicepresidencia, Consejería de Educación y Universidades
 1
 RESOLUCIÓN de 19 de mayo de 2023, de la Dirección General de Recursos Hu-
@@ -86,21 +90,27 @@ ministrativos, a través del portal “personal+educación” (comunidad.madrid/
 educacion), siguiendo la secuencia: “Funcionarios Docentes”, “Procesos selectivos”,
 “Profesores”, “Enseñanza Secundaria, FP y RE”.
 
+VIERNES 26 DE MAYO DE 2023
+Pág. 12
 B.O.C.M. Núm. 124
+BOCM-20230526-1
 http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
 Tercero
 Notificación
 Con esta publicación se considerará efectuada la correspondiente notificación a los in-
 teresados, de conformidad con lo dispuesto en el artículo 5.2 de la resolución de convoca-
-toria en relación con el artículo 45 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+toria en relación con el artículo 45 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimiento
 Administrativo Común de las Administraciones Públicas.
 Cuarto
 Recursos
 Contra esta Resolución, que no pone fin a la vía administrativa, podrá interponerse re-
 curso de alzada ante la Viceconsejería de Organización Educativa en el plazo de un mes
 contado a partir del día siguiente al de su publicación, todo ello de conformidad con lo dis-
-puesto en los artículos 115, 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimien-
+puesto en los artículos 115, 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, de Procedimien-
 to Administrativo Común de las Administraciones Públicas.
 Madrid, a 19 de mayo de 2023.—El Director General de Recursos Humanos, Miguel
 José Zurita Becerril.

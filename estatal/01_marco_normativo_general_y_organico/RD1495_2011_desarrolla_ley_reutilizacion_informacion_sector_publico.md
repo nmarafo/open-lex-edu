@@ -38,17 +38,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2008-979
 - norma_id: norm-es-2007-6115
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la [Ley 37/2007](L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
 
 La [Ley 37/2007](./L37_2007_reutilizacion_informacion_sector_publico.md), de 16 de noviembre, sobre reutilización de la información del sector público, por medio de la cual se incorpora a nuestro ordenamiento jurídico la Directiva 2003/98/CE, de 17 de noviembre de 2003, del Parlamento Europeo y del Consejo, relativa a la reutilización de la información del sector público, establece el régimen jurídico general para la reutilización de dicha información.
@@ -334,3 +323,22 @@ El agente reutilizador se halla sometido a la normativa aplicable en materia de 
 2. Con el objetivo de informar a los motores y sistemas automatizados de búsqueda en Internet, se incorporarán además en la codificación de la citada ubicación los mecanismos de localización de información pública reutilizable que se estimen oportunos. Para ello, si bien se podrán utilizar otras modalidades técnicas, se propone el siguiente comando básico, que enlaza con las condiciones generales de reutilización:
 
 o bien el comando
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- **Fundamentado en**: [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+- **Fundamentado en**: [**BOE-A-2008-979**](../02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+
+### Fundamentos de Derecho
+- [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
+- [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- [**BOE-A-2008-979**](../02_gestion_y_administracion_centros/LO1720_2007_aprueba_reglamento_desarrollo_ley_organica_proteccion.md)
+- [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
+

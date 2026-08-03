@@ -1173,3 +1173,23 @@ La adquisición efectiva de las competencias clave descritas en el anexo I del p
 Las situaciones de aprendizaje deben plantear un reto o problema de cierta complejidad en función de la edad y el desarrollo del niño o la niña, cuya resolución creativa implique la movilización de manera integrada de lo aprendido en las tres áreas en las que se organiza la etapa, a partir de la realización de distintas tareas y actividades. Asimismo, deben partir del planteamiento claro y preciso de los objetivos que se esperan conseguir y cuyo logro suponga la integración de un conjunto de saberes básicos. Además, deben proporcionarse escenarios en los que se favorezcan distintos tipos de agrupamiento, desde el individual al trabajo en grupos, para que el alumnado pueda asumir responsabilidades individuales, así como trabajar de manera cooperativa para afrontar la resolución del reto planteado.
 
 Estas situaciones favorecerán la transferencia de los aprendizajes adquiridos a la resolución de un problema de la realidad cotidiana del niño o la niña, en función de su progreso madurativo. En su diseño, se debe favorecer el desarrollo progresivo de un enfoque crítico y reflexivo, así como el abordaje de aspectos relacionados con el interés común, la sostenibilidad, el respeto a la diferencia o la convivencia, iniciándose en la gestión de las posibles situaciones de conflicto mediante el diálogo y el consenso. De igual modo, se deben tener en cuenta las condiciones personales, sociales o culturales de niños y niñas, para detectar y dar respuesta a los elementos que pudieran generar exclusión.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Desarrollado por**: [**D196_2022 Ordenacion y Curriculo de Educacion Infantil en Canarias**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/D196_2022_establece_ordenacion_curriculo_educacion_infantil_comunidad.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

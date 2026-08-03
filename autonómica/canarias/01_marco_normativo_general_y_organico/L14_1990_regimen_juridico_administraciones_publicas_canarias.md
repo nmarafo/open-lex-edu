@@ -67,7 +67,6 @@ fundamentos_derecho:
   - '136'
 - norma_id: norm-es-1985-5392
 ---
-
 # Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias
 
 **EL PRESIDENTE DEL GOBIERNO**
@@ -188,7 +187,7 @@ b) Que la naturaleza de la actividad o el servicio prestado impongan su organi
 
 2. No serán delegables en los Cabildos funciones normativas, de planificación y coordinación en relación con competencias de carácter regional.
 
-3. El Gobierno de Canarias podrá acordar que el ejercicio de determinadas competencias de la Administración Pública de la Comunidad Autónoma se delegue en las Entidades municipales de su territorio en los casos y en las formas previstas en el artículo 27 de la Ley 7/1985, de 2 de abril.
+3. El Gobierno de Canarias podrá acordar que el ejercicio de determinadas competencias de la Administración Pública de la Comunidad Autónoma se delegue en las Entidades municipales de su territorio en los casos y en las formas previstas en el artículo 27 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril.
 
 #### Artículo 11.
 
@@ -196,7 +195,7 @@ Para la efectividad de la autonomía de todos los Entes locales canarios, la Com
 
 a) Respetar y, en su caso, ampliar las competencias directamente atribuidas a los entes locales por la legislación sectorial que tenga carácter básico.
 
-b) Atribuir a los Cabildos Insulares, como propias, las competencias que procedan conforme a lo establecido en el artículo 22.3 del Estatuto de Autonomía de Canarias, en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en esta Ley.
+b) Atribuir a los Cabildos Insulares, como propias, las competencias que procedan conforme a lo establecido en el artículo 22.3 del Estatuto de Autonomía de Canarias, en la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local y en esta Ley.
 
 #### Artículo 12.
 
@@ -206,7 +205,7 @@ b) Atribuir a los Cabildos Insulares, como propias, las competencias que proce
 
 #### Artículo 13.
 
-Los Cabildos Insulares podrán delegar sus competencias propias en las entidades locales municipales de su territorio de conformidad con lo establecido en el artículo 27 de la Ley 7/1985, de 2 de abril.
+Los Cabildos Insulares podrán delegar sus competencias propias en las entidades locales municipales de su territorio de conformidad con lo establecido en el artículo 27 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril.
 
 CAPÍTULO III
 
@@ -330,7 +329,7 @@ Corresponde al Gobierno de la Comunidad Autónoma de Canarias la facultad de res
 
 #### Artículo 24.
 
-El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la Ley 7/1985, de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
+El abono de los gastos ocasionados a la Administración Autonómica de Canarias como consecuencia de las medidas adoptadas en uso de la potestad de sustitución de las Corporaciones locales conferida por el artículo 60 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, se exigirán de la entidad local deudora como ingresos de derecho público.
 
 #### Artículo 25.
 
@@ -452,7 +451,7 @@ g) La exención de toda obligación de garantía o caución ante cualquier org
 
 #### Artículo 35.
 
-1. Los Cabildos Insulares no podrán mancomunarse o federarse, ni siquiera para la prestación conjunta de servicios propios o transferidos, sin perjuicio de lo dispuesto en el número 2 del artículo 41 del la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+1. Los Cabildos Insulares no podrán mancomunarse o federarse, ni siquiera para la prestación conjunta de servicios propios o transferidos, sin perjuicio de lo dispuesto en el número 2 del artículo 41 del la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 2. Los actos contrarios a lo establecido en el apartado anterior serán nulos de pleno derecho.
 
@@ -542,7 +541,7 @@ Los Cabildos Insulares, como Corporaciones Locales Territoriales, tienen atribui
 
 #### Artículo 42.
 
-Son competencias propias de los Cabildos, además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter, de acuerdo con lo dispuesto en la Ley 7/1985, reguladora de las Bases del Régimen Local, y en las leyes reguladoras de los distintos sectores de la actuación pública.
+Son competencias propias de los Cabildos, además de las reconocidas en el artículo 5 de la Ley 11 de julio de 1912, de Régimen del Archipiélago Canario, las que se les atribuyan con tal carácter, de acuerdo con lo dispuesto en la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), reguladora de las Bases del Régimen Local, y en las leyes reguladoras de los distintos sectores de la actuación pública.
 
 Idéntico carácter tendrán las competencias transferidas a los Cabildos por Leyes del Parlamento de Canarias.
 
@@ -586,7 +585,7 @@ Asimismo, los Cabildos Insulares ejercen en régimen de autonomía las competenc
 
 2. No obstante, el ejercicio efectivo de las mismas se podrá asumir paulatinamente por los diferentes Cabildos Insulares de forma que en todo caso quede garantizado el mantenimiento, como mínimo, en las funciones y servicios, del nivel de eficacia anterior a la transferencia. Tal asunción paulatina no podrá superar el plazo de un año.
 
-3. La reiterada negativa de un Cabildo Insular a asumir el ejercicio efectivo de competencias transferidas determinará la adopción de las medidas previstas en el artículo 60 de la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.
+3. La reiterada negativa de un Cabildo Insular a asumir el ejercicio efectivo de competencias transferidas determinará la adopción de las medidas previstas en el artículo 60 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), de 2 de abril, reguladora de las Bases del Régimen Local.
 
 #### Artículo 48.
 
@@ -954,7 +953,7 @@ Sección 10. De las Entidades Territoriales Inframunicipales
 
 #### Artículo 91.
 
-Sin perjuicio de las competencias del municipio reconocidas en el artículo 25 de la Ley 7/1985, reguladora de las Bases del Régimen Local, se podrán constituir entidades inframunicipales para la administración descentralizada de los núcleos de población separados o con características peculiares. Para la constitución de estos entes descentralizados se atenderá a las condiciones que permitan un satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los habitantes de los núcleos urbanos afectados.
+Sin perjuicio de las competencias del municipio reconocidas en el artículo 25 de la [Ley 7/1985](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md), reguladora de las Bases del Régimen Local, se podrán constituir entidades inframunicipales para la administración descentralizada de los núcleos de población separados o con características peculiares. Para la constitución de estos entes descentralizados se atenderá a las condiciones que permitan un satisfactorio funcionamiento de los mismos y a la voluntad mayoritaria de los habitantes de los núcleos urbanos afectados.
 
 #### Artículo 92.
 
@@ -1741,3 +1740,42 @@ LORENZO OLARTE CULLEN,
 Presidente del Gobierno
 
 (Publicada en el «Boletín Oficial de Canarias» número 96, de 1 de agosto de 1990.)
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- **Fundamentado en**: [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+- **Fundamento de**: [**Decreto BOC 135/2016**](./D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
+- **Fundamento de**: [**D84_2024 Reglamento Organico de la Consejeria de Educacion**](./D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md)
+- **Fundamento de**: [**O2_8_2006 Regulacion del Transporte Escolar en Canarias**](../05_alumnado_y_servicios_escolares/O2_8_2006_aprueban_bases_regulan_prestacion_servicio_transporte.md)
+- **Fundamento de**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamento de**: [**O7_6_2007 Medidas de Atencion a la Diversidad en la Ensenanza Basica**](../06_atencion_diversidad_y_orientacion/O7_6_2007_regulan_medidas_atencion_diversidad_ensenanza_basica.md)
+- **Fundamento de**: [**Resolucion BOC 14**](../02_gestion_y_administracion_centros/O27_10_2021_ordena_publicacion_convenio_marco_cooperacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 43**](../03_ordenacion_curricular_y_ensenanzas/R29_7_2025_comunidad_autonoma_canarias_celebrar_curso_escolar.md)
+- **Fundamento de**: [**Resolucion BOC 90**](../04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
+- **Fundamento de**: [**Resolucion BOC 119**](../05_alumnado_y_servicios_escolares/R8_8_2025_escolarizacion_servicios_complementarios_aprueban_instrucciones_organizacion.md)
+- **Fundamento de**: [**Resolucion BOC 2**](./O20_1_2017_innovacion_promocion_educativa_delega_directora_agencia.md)
+- **Fundamento de**: [**Resolucion BOC 4**](./R16_3_2017_delega_competencia_materia_contratos_menores_material.md)
+- **Fundamento de**: [**Resolucion BOC 23**](../02_gestion_y_administracion_centros/R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
+- **Fundamento de**: [**Resolucion BOC 93**](../04_organizacion_escolar_y_funcionamiento/R3_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 91**](../04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
+- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+- **Fundamento de**: [**Resolucion BOC 92**](../04_organizacion_escolar_y_funcionamiento/R26_5_2026_resoluci_n_mayo.md)
+- **Fundamento de**: [**Resolucion BOC 26**](../03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
+- **Fundamento de**: [**Resolucion BOC 138**](../08_personal_docente/R10_8_2005_relativa_deposito_registro_publicacion_acuerdo_ratifica.md)
+- **Fundamento de**: [**Resolucion BOC 123**](../06_atencion_diversidad_y_orientacion/O28_5_2015_ordena_publicacion_convenio_colaboracion_entre_universidades.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Desarrolla**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+
+### Fundamentos de Derecho
+- [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
+- [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
+

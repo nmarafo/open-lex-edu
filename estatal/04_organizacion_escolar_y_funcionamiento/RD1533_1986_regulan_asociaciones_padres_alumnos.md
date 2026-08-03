@@ -191,3 +191,17 @@ JUAN CARLOS R.
 El Ministro de Educación y Ciencia,
 
 JOSÉ MARÍA MARAVALL HERRERO
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Desarrollado por**: [**D234_1996 Regulacion de AMPAS y Federaciones en Canarias**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D234_1996_regulan_asociaciones_madres_padres_alumnos_federaciones.md)
+
+### Fundamentos de Derecho
+- [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
+- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+

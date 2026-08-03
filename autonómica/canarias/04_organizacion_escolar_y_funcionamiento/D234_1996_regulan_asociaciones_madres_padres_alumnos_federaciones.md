@@ -44,7 +44,6 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
-
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las asociaciones de madres y padres de alumnos.
 
 ## Preámbulo
@@ -69,3 +68,21 @@ Las Asociaciones de Madres y Padres de Alumnos más representativas propondrán 
 ### Artículo 4. Garantías de participación escolar.
 1. Los centros docentes facilitarán los medios informativos para que las asociaciones de padres y madres puedan comunicar a la comunidad educativa sus iniciativas.
 2. La Consejería promoverá la colaboración entre los equipos directivos y las AMPAS.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Desarrolla**: [**RD1533_1986 Regulacion de Asociaciones de Padres de Alumnos (AMPAS)**](../../../estatal/04_organizacion_escolar_y_funcionamiento/RD1533_1986_regulan_asociaciones_padres_alumnos.md)
+- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
+- **Fundamentado en**: [**L40_2015 Regimen Juridico del Sector Publico**](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md)
+
+### Fundamentos de Derecho
+- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+- [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
+

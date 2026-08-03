@@ -30,17 +30,6 @@ fundamentos_derecho:
   articulos:
   - '84'
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 1633/1985, de 28 de agosto, por el que se fija la cuantía de la cuota del Seguro Escolar.
 
 EL ARTICULO 10 DE LA LEY DE 17 DE JULIO DE 1953, REGULADORA DEL SEGURO ESCOLAR, ESTABLECE QUE LOS RECURSOS DE AQUEL ESTARAN CONSTITUIDOS, ENTRE OTRAS PARTIDAS, POR LA APORTACION DEL ESTADO Y POR LAS CUOTAS ABONADAS POR LOS ESTUDIANTES.
@@ -62,3 +51,15 @@ ART. 2. CON INDEPENDENCIA DE LO PREVISTO EN EL ARTICULO 9. DE LOS ESTATUTOS DE L
 DISPOSICION FINAL
 
 DADO EN PALMA DE MALLORCA A 28 DE AGOSTO DE 1985.-JUAN CARLOS R.-EL MINISTRO DE LA PRESIDENCIA, JAVIER MOSCOSO DEL PRADO Y MU
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+
+### Fundamentos de Derecho
+- [**D9_2022 Admision del Alumnado en Canarias**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+

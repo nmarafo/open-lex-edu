@@ -1341,3 +1341,23 @@ En caso de ausencia o insuficiencia de las anteriores, o cuando sean varias las 
 2. A los efectos de lo dispuesto en el apartado anterior, el director del centro solicitará la intervención al órgano competente de la comunidad autónoma o, en su caso, al Delegado o al Subdelegado del Gobierno, con suficiente antelación para permitir su planificación.
 
 En situaciones de urgencia, cuando no sea posible actuar conforme a lo previsto en el párrafo anterior, el director del centro podrá solicitar directamente la intervención de las Fuerzas y Cuerpos de Seguridad competentes, dando cuenta de ello inmediatamente a las autoridades antes mencionadas, con expresión de las causas de la urgencia.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- **Fundamentado en**: [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+- **Fundamentado en**: [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- **Fundamento de**: [**Resolucion BOC 16**](../../autonómica/canarias/02_gestion_y_administracion_centros/R11_9_2014_infancia_familia_resolucion_establecen_instrucciones_ordenes.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
+- [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
+- [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
+- [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
+

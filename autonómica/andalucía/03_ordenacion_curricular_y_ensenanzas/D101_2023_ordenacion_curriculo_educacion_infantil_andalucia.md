@@ -1,42 +1,43 @@
 ---
 id: norm-and-d101-2023
-titulo: "Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía"
+titulo: Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el
+  currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Decreto
-numero_disposicion: "101/2023"
-fecha_disposicion: "2023-05-09"
-fecha_publicacion: "2023-05-16"
+numero_disposicion: 101/2023
+fecha_disposicion: '2023-05-09'
+fecha_publicacion: '2023-05-16'
 boletin: BOJA
-numero_boletin: "90"
+numero_boletin: '90'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.juntadeandalucia.es/boja/2023/90/1"
-fuente_pdf_oficial: "https://www.juntadeandalucia.es/boja/2023/90/1"
+fuente_oficial: https://www.juntadeandalucia.es/boja/2023/90/1
+fuente_pdf_oficial: https://www.juntadeandalucia.es/boja/2023/90/1
 clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: "Educación Infantil"
+  subcategoria: Educación Infantil
 tags:
-  - educacion_infantil
-  - curriculo_lomloe
-  - ordenacion_academica
-  - andalucia
+- educacion_infantil
+- curriculo_lomloe
+- ordenacion_academica
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# [Decreto 101/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/D101_2023_establece_ordenacion_curriculo_educacion_primaria_comunidad.md), de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía
 
-00283499
- Número 90 - Lunes, 15 de mayo de 2023
-página 8470/1
-BOJABOJA
+Número 90 - Lunes, 15 de mayo de 2023
+Boletín Oficial de la Junta de Andalucía
 1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO 
-Y FORMACIÓN  PROFESIONAL
-Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el 
+Y FORMACIÓN PROFESIONAL
+[Decreto 101/2023](../../canarias/03_ordenacion_curricular_y_ensenanzas/D101_2023_establece_ordenacion_curriculo_educacion_primaria_comunidad.md), de 9 de mayo, por el que se establece la ordenación y el 
 currículo de la etapa de Educación Primaria en la Comunidad Autónoma de 
 Andalucía.
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el 
@@ -79,13 +80,11 @@ etapas y ciclos en el uso de su autonomía, tal y como se recoge en la citada le
 La Ley Orgánica 3/2020, de 29 de diciembre, por tanto, ha venido a establecer un 
 nuevo marco legislativo para la regulación de las enseñanzas, por lo que se considera 
 necesario regular en un nuevo decreto la ordenación y el currículo de la etapa de 
-Educación Primaria, de acuerdo con el referido marco y el Real Decreto 157/2022, de 
+Educación Primaria, de acuerdo con el referido marco y el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 
 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la 
 Educación Primaria.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/2
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 En este decreto se definen, en consecuencia, las líneas fundamentales del currículo 
 de Educación Primaria en Andalucía, estableciendo la ordenación general, la organización 
 de las enseñanzas, la evaluación y los criterios para la promoción, la atención a la 
@@ -139,10 +138,8 @@ Andalucía, que cada uno de ellos concretará a través de su Proyecto educativo
 los centros docentes disponen de autonomía pedagógica y organizativa para elaborar, 
 aprobar y ejecutar su Proyecto educativo y Reglamento de Organización y Funcionamiento 
 que favorezcan formas de organización propias. Este planteamiento permite y exige al 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/3
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 profesorado adecuar su docencia a las características y especificidades del alumnado y 
 al contexto real de cada centro. Corresponderá, por tanto, a los centros y al profesorado 
 realizar la concreción y adaptación definitiva de las enseñanzas curriculares en función 
@@ -151,7 +148,7 @@ que atienden.
 El currículo andaluz de la etapa ha de tomar como eje estratégico y vertebrador del 
 proceso de enseñanza y aprendizaje el desarrollo de las capacidades del alumnado y la 
 integración de las competencias clave en el currículo educativo y en las prácticas docentes. 
-La Ley 17/2007, de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
+La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, de Educación de Andalucía y las orientaciones de 
 la Unión Europea inciden en la necesidad de la adquisición de las competencias clave 
 por parte de la ciudadanía como condición indispensable para lograr que las personas 
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado 
@@ -160,13 +157,13 @@ Se trata de formar una ciudadanía competente a través de una educación que te
 cuenta las competencias clave que demanda la construcción de una sociedad igualitaria, 
 plural, dinámica y emprendedora, democrática y solidaria.
 Además, se incluye en este decreto, como disposición final, una modificación del 
-## artículo 11 del Decreto 39/2003, de 18 de febrero, por el que se regula la provisión de los
+## artículo 11 del Decreto 39/2003, de 18 de febrero, por el que se regula la provisión de los 
 puestos de trabajo de los Equipos de Orientación Educativa adscritos al personal docente 
 y se establecen las funciones de los coordinadores de área de los Equipos Técnicos 
 Provinciales, que viene a reducir los requisitos de acceso a un puesto de personal 
 docente en los Equipos Especializados, con la finalidad de flexibilizar dicho acceso.
 El presente decreto se ha elaborado atendiendo a los principios de buena regulación 
-contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento 
+contenidos en el artículo 129 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
 Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, 
 proporcionalidad, seguridad jurídica, transparencia y eficiencia, en tanto que persigue un 
 interés general al proporcionar a la ciudadanía un marco normativo de las enseñanzas 
@@ -179,7 +176,7 @@ permitiendo una gestión más eficiente de los recursos públicos, por lo que qu
 justificados los objetivos que persigue la citada ley. Además, en el procedimiento de 
 elaboración de este decreto se ha permitido y facilitado la participación y las aportaciones 
 de las personas potenciales destinatarias a través de los procedimientos de audiencia 
-e información pública regulados en el artículo 133 de la citada Ley 39/2015, de 1 de 
+e información pública regulados en el artículo 133 de la citada [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
 octubre. Asimismo, se ha tenido en cuenta en la elaboración de esta norma lo dispuesto 
 en el artículo 7.2 del Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía. 
@@ -190,22 +187,17 @@ Profesional, conforme a los artículos 21.3 y 27.8 de la Ley 6/2006, de 24 de oc
 del Gobierno de la Comunidad Autónoma de Andalucía, de acuerdo con el Consejo 
 Consultivo de Andalucía y previa deliberación del Consejo de Gobierno, en su reunión del 
 día 9 de mayo de 2023,
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/4
-BOJABOJA
-DISPONGO
-
-### Capítulo Capítulo
+Boletín Oficial de la Junta de Andalucía
+D I S P O N G O
+### CAPÍTULO I
 Disposiciones de carácter general
-
 ## Artículo 1. Objeto y ámbito de aplicación.
 1. El presente decreto tiene por objeto establecer la ordenación general y el currículo 
 correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de 
 Andalucía.
 2. Este decreto se aplicará en todos los centros docentes de la Comunidad Autónoma 
 que impartan estas enseñanzas.
-
 ## Artículo 2. La etapa de Educación Primaria en el marco del Sistema Educativo.
 1. La enseñanza de Educación Primaria es una etapa educativa que constituye, junto 
 con la de Educación Secundaria Obligatoria y los Ciclos Formativos de Grado Básico, la 
@@ -223,10 +215,9 @@ así como los de estudios y trabajo, el sentido artístico, la creatividad y la 
 con el fin de garantizar una formación integral que contribuya al pleno desarrollo de su 
 personalidad, preparándolo para cursar con aprovechamiento la etapa de Educación 
 Secundaria Obligatoria.
-
 ## Artículo 3. Definiciones.
 1. A efectos de los elementos que articulan el currículo, y teniendo en cuenta el artículo 
-2 del Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las 
+2 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, por el que se establecen la ordenación y las 
 enseñanzas mínimas de la Educación Primaria, se entenderá por:
 a) Objetivos: logros que se espera que el alumnado haya alcanzado al finalizar la 
 etapa y cuya consecución está vinculada a la adquisición de las competencias clave.
@@ -247,14 +238,12 @@ específicas de cada área en un momento determinado de su proceso de aprendizaj
 e) Saberes básicos: conocimientos, destrezas y actitudes que constituyen los 
 contenidos propios de un área y cuyo aprendizaje es necesario para la adquisición de las 
 competencias específicas.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/5
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 f) Situaciones de aprendizaje: Situaciones y actividades que implican el despliegue 
 por parte del alumnado de actuaciones asociadas a competencias clave y competencias 
 específicas y que contribuyen a la adquisición y desarrollo de las mismas.
-2. Asimismo, según lo establecido en el artículo 9.2 del Real Decreto 157/2022, de 1 
+2. Asimismo, según lo establecido en el artículo 9.2 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, el Perfil de salida identifica y define las competencias clave que el alumnado 
 debe haber desarrollado al finalizar la Educación Básica e introduce orientaciones sobre 
 el nivel de desempeño esperado al término de la etapa de Educación Primaria.
@@ -264,7 +253,6 @@ define las competencias clave que el alumnado debe haber adquirido y desarrollad
 finalizar cada ciclo de la etapa e introduce los descriptores operativos que orientan sobre 
 el nivel de desempeño esperado al término de cada ciclo, así como de la etapa. Los 
 perfiles se encuentran recogidos en el anexo de este decreto.
-
 ## Artículo 4. Principios generales de la etapa.
 Los principios generales de la etapa son:
 a) Gratuidad y obligatoriedad. La Educación Básica es gratuita y obligatoria.
@@ -291,10 +279,8 @@ f) Excelencia educativa. Se posibilitará la creación de experiencias formativa
 que permitan el desarrollo del éxito educativo y la búsqueda de la excelencia para 
 todo el alumnado que ha de ser capaz de desarrollar al completo sus capacidades y 
 potencialidades.
-
-### Capítulo Capítulo
+### CAPÍTULO II
 Currículo
-
 ## Artículo 5. Objetivos de la etapa.
 La etapa de Educación Primaria contribuirá a desarrollar en el alumnado las 
 capacidades que le permitan:
@@ -302,10 +288,8 @@ a) Conocer y apreciar los valores y las normas de convivencia, aprender a obrar 
 acuerdo con ellas de forma empática, prepararse para el ejercicio activo de la ciudadanía 
 y respetar los derechos humanos, así como el pluralismo propio de una sociedad 
 democrática.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/6
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 b) Desarrollar hábitos de trabajo individual y de equipo, de esfuerzo y de 
 responsabilidad en el estudio, así como actitudes de confianza en sí mismo, iniciativa 
 personal, sentido crítico, curiosidad, interés y creatividad en el aprendizaje y espíritu 
@@ -351,18 +335,15 @@ accidentes de tráfico.
 o) Conocer y respetar el patrimonio cultural de Andalucía, partiendo del conocimiento 
 y de la comprensión de nuestra cultura, reconociendo a Andalucía como comunidad de 
 encuentro de culturas.
-
 ## Artículo 6. Principios pedagógicos.
-Sin perjuicio de lo dispuesto en el artículo 6 del Real Decreto 157/2022, de 1 de marzo, 
+Sin perjuicio de lo dispuesto en el artículo 6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 el currículo de la etapa de Educación Primaria responderá a los siguientes principios:
 a) La lectura constituye un factor fundamental para el desarrollo de las competencias 
 clave. Las programaciones didácticas de todas las áreas incluirán actividades y tareas 
 para el desarrollo de la competencia en comunicación lingüística. Los centros, al 
 organizar su práctica docente, deberán garantizar la incorporación de un tiempo diario, 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/7
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 no inferior a 30 minutos, en todos los niveles de la etapa, para el desarrollo planificado 
 de dicha competencia. Asimismo, deben permitir que el alumnado desarrolle destrezas 
 orales básicas, potenciando aspectos clave como el debate y la oratoria.
@@ -409,17 +390,14 @@ recopilación, de sistematización y de presentación de la información, para a
 procesos de análisis, de observación y de experimentación, mejorando habilidades 
 de cálculo y desarrollando la capacidad de resolución de problemas, fortaleciendo así 
 habilidades y destrezas de razonamiento matemático.
-
 ## Artículo 7. Situaciones de aprendizaje y orientaciones metodológicas para su diseño.
 1. Las situaciones de aprendizaje implican la realización de un conjunto de actividades 
 articuladas que los docentes llevarán a cabo para lograr que el alumnado desarrolle las 
 competencias específicas en un contexto determinado.
 2. La metodología tendrá un carácter fundamentalmente activo, motivador y 
 participativo, partirá de los intereses del alumnado, favorecerá el trabajo individual, 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/8
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 cooperativo y el aprendizaje entre iguales mediante la utilización de enfoques orientados 
 desde una perspectiva de género, al respeto a las diferencias individuales, a la inclusión 
 y al trato no discriminatorio, e integrará en todas las áreas referencias a la vida cotidiana 
@@ -427,12 +405,10 @@ y al entorno inmediato.
 3. En el planteamiento de las distintas situaciones de aprendizaje, se garantizará 
 el funcionamiento coordinado de los equipos docentes, con objeto de proporcionar un 
 enfoque interdisciplinar, integrador y holístico al proceso educativo.
-
-### Capítulo Capítulo
+### CAPÍTULO III
 Ordenación de la etapa
-
 ## Artículo 8. Ordenación general.
-1. De conformidad con lo establecido en el artículo 8 del Real Decreto 157/2022, de 1 
+1. De conformidad con lo establecido en el artículo 8 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, las áreas de la etapa de Educación Primaria son las siguientes:
 a) Conocimiento del Medio Natural, Social y Cultural.
 b) Educación Artística.
@@ -444,7 +420,7 @@ g) Segunda Lengua Extranjera en el tercer ciclo.
 2. A las áreas incluidas en el apartado 1, se añadirá en el tercer ciclo el área de 
 Educación en Valores Cívicos y Éticos.
 3. El horario de autonomía del centro, según lo regulado en el artículo 120.4 de la 
-Ley Orgánica 2/2006, de 3 de mayo, de Educación, será establecido por orden de la 
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, será establecido por orden de la 
 Consejería competente en materia de educación, quien podrá autorizar la impartición de 
 distintas áreas en dicho tiempo.
 4. La tutoría podrá ser trabajada de manera integrada con el resto de áreas o podrá 
@@ -459,25 +435,22 @@ estas edades.
 7. Los centros docentes podrán integrar las áreas en ámbitos. El currículo de los 
 mismos incluirá las competencias específicas, los criterios de evaluación y los saberes 
 básicos de las áreas que lo conforman.
-8. Teniendo en cuenta el artículo 16.6 del Real Decreto 157/2022, de 1 de marzo, 
+8. Teniendo en cuenta el artículo 16.6 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 con objeto de asegurar que el alumnado con necesidades específicas de apoyo 
 educativo pueda alcanzar los objetivos de la etapa, así como las competencias del Perfil 
 competencial, se favorecerá, en la enseñanza y en la evaluación, la flexibilización y el 
 empleo de alternativas metodológicas en el área de Primera Lengua Extranjera.
-9. Asimismo, aquel alumno o alumna que presente dificultades en la adquisición de 
+9.	Asimismo, aquel alumno o alumna que presente dificultades en la adquisición de 
 la competencia en comunicación lingüística que le impida seguir con aprovechamiento 
 su proceso de aprendizaje, podrá sustituir el área de Segunda Lengua Extranjera por 
 el Área Lingüística de carácter transversal en los términos recogidos por orden de la 
 Consejería competente en materia de educación.
 10. Por orden de la Consejería competente en materia de educación se determinará 
 el horario para las diferentes áreas establecidas en este artículo, respetando en todo 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/9
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 caso el horario lectivo mínimo de acuerdo con lo dispuesto en el artículo 12 del Real 
 Decreto 157/2022, de 1 de marzo.
-
 ## Artículo 9. Enseñanzas de Religión.
 1. La Consejería competente en materia de educación garantizará que, al inicio del 
 curso, los padres, madres o personas que ejerzan la tutela legal del alumnado puedan 
@@ -508,7 +481,6 @@ acuerdos de cooperación suscritos por el Estado español.
 alumnado, las calificaciones que se hubieran obtenido en la evaluación de las enseñanzas 
 de Religión y en las de atención educativa no se computarán en las convocatorias en las 
 que deban entrar en concurrencia los expedientes académicos.
-
 ## Artículo 10. Enseñanzas impartidas en Lenguas Extranjeras.
 1. La Consejería competente en materia de educación podrá autorizar que una parte 
 de las áreas se impartan en lenguas extranjeras sin que ello suponga modificación de los 
@@ -524,18 +496,14 @@ en materia de educación que lo desarrolle. Para ello, los centros integrarán l
 Lengua Extranjera junto con el área en cuestión de manera que se conforme un ámbito.
 3. Los centros que impartan una parte de las áreas del currículo en lenguas extranjeras 
 aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en el 
-## artículo 84 de la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán
+## artículo 84 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo. Entre tales criterios no se incluirán 
 requisitos lingüísticos.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/10
-BOJABOJA
-
-### Capítulo Capítulo
+Boletín Oficial de la Junta de Andalucía
+### CAPÍTULO IV
 Evaluación y promoción
-
 ## Artículo 11. Evaluación.
-1. Según lo establecido en el artículo 14 del Real Decreto 157/2022, de 1 de marzo, la 
+1. Según lo establecido en el artículo 14 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, la 
 evaluación del alumnado será global, continua y formativa.
 2. La evaluación tendrá en cuenta el grado de desarrollo de las competencias clave y 
 su progreso en el conjunto de los procesos de aprendizaje.
@@ -558,20 +526,19 @@ a las distintas situaciones de aprendizaje que permitan la valoración objetiva 
 alumnado y que garanticen, asimismo, que las condiciones de realización de los procesos 
 asociados a la evaluación se adaptan a las necesidades del alumnado con necesidad 
 específica de apoyo educativo.
-8. Se garantizará el derecho del alumnado a una evaluación objetiva y a que su 
+8.	Se garantizará el derecho del alumnado a una evaluación objetiva y a que su 
 dedicación, esfuerzo y rendimiento sean valorados y reconocidos con transparencia, para 
 lo que se establecerán los oportunos procedimientos de aclaración y revisión. Dichos 
 procedimientos serán regulados por orden de la Consejería competente en materia de 
 educación.
-
 ## Artículo 12. Promoción.
-1. Sin perjuicio de lo establecido en el artículo 15.1 del Real Decreto 157/2022, de 1 
+1. Sin perjuicio de lo establecido en el artículo 15.1 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 
 de marzo, al finalizar cada uno de los ciclos, el equipo docente adoptará las decisiones 
 relativas a la promoción del alumnado de manera colegiada, tomando como referencia, 
 además del grado de consecución de las competencias específicas de cada una de las 
 áreas, el grado de desarrollo de los descriptores operativos del Perfil competencial del 
 ciclo para cada uno de los alumnos y alumnas.
-2. Según lo dispuesto en el artículo 15.3 del Real Decreto 157/2022, de 1 de marzo, 
+2. Según lo dispuesto en el artículo 15.3 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, 
 si en algún caso y tras haber aplicado las medidas generales de atención a la diversidad 
 y a las diferencias individuales suficientes, adecuadas y personalizadas para atender 
 al desfase curricular o las dificultades de aprendizaje del alumno o alumna, el equipo 
@@ -580,13 +547,11 @@ más adecuada para favorecer su desarrollo, se organizará un programa de refuer
 del aprendizaje para que, durante ese curso, pueda alcanzar el grado esperado de las 
 competencias correspondientes. Esta decisión solo se podrá adoptar una vez durante la 
 etapa y tendrá, en todo caso, carácter excepcional.
-3. De conformidad con el artículo 15.4 del Real Decreto 157/2022, de 1 de marzo, al 
+3. De conformidad con el artículo 15.4 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, al 
 finalizar cada uno de los ciclos, el tutor o la tutora emitirá un informe sobre el grado de 
 adquisición de las competencias clave de cada alumno o alumna, indicando, en su caso, 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/11
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 las medidas de atención a la diversidad y a las diferencias individuales que se deben 
 contemplar en el ciclo o etapa siguiente. Este informe final de ciclo se definirá por Orden 
 de la Consejería competente en materia de educación.
@@ -594,12 +559,11 @@ de la Consejería competente en materia de educación.
 cada alumno o alumna dispondrá al finalizar la etapa de un informe sobre su evolución y 
 el grado de desarrollo de las competencias clave. Este informe final de etapa se definirá 
 por orden de la Consejería competente en materia de educación.
-
 ## Artículo 13. Evaluación de diagnóstico.
 1. El alumnado, en el cuarto curso de Educación Primaria, realizará una evaluación 
 de diagnóstico de las competencias adquiridas, según lo dispuesto por la Consejería 
 competente en materia de educación. Esta evaluación, de conformidad con el artículo 
-22 del Real Decreto 157/2022, de 1 de marzo, no tendrá efectos académicos para el 
+22 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, no tendrá efectos académicos para el 
 alumnado y tendrá carácter informativo, formativo y orientador para los centros, para el 
 profesorado, para el alumnado y sus familias o personas que ejerzan la tutela legal y para 
 el conjunto de la comunidad educativa.
@@ -611,25 +575,22 @@ requiera, dirigidas a garantizar que todos alcancen las correspondientes compete
 clave. Asimismo, estos resultados permitirán, junto con la evaluación de los procesos de 
 enseñanza y la práctica docente, analizar, valorar y reorientar, si procede, las actuaciones 
 desarrolladas en los dos primeros ciclos de la etapa.
-
 ## Artículo 14. Documentos oficiales de evaluación.
 1. Los documentos oficiales de evaluación son las actas de evaluación, el expediente 
 académico, el historial académico, el informe final de etapa y, en su caso, el informe 
 personal por traslado.
 2. Por orden de la persona titular de la Consejería competente en materia de 
 educación, se establecerán los modelos y contenidos de estos documentos sin perjuicio 
-de lo recogido en el artículo 25 del Real Decreto 157/2022, de 1 de marzo.
+de lo recogido en el artículo 25 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 3. El historial académico y, en su caso, el informe personal por traslado se consideran 
 documentos básicos para garantizar la movilidad del alumnado por todo el territorio 
 nacional.
-
 ## Artículo 15. Informes de evaluación.
 1. Mediante orden de la Consejería competente en materia de educación se 
 establecerán las características de los informes finales de ciclo a los que se refiere el 
-## artículo 15.4 del Real Decreto 157/2022, de 1 de marzo.
+## artículo 15.4 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 2. Además, se considerarán informes de evaluación los boletines de calificaciones y 
 las actas de las sesiones de evaluación continua.
-
 ## Artículo 16. Autenticidad, seguridad y confidencialidad.
 1. En lo referente a los procedimientos oportunos para garantizar la autenticidad de los 
 documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos, 
@@ -639,12 +600,10 @@ protección de datos de carácter personal y en materia de documentos y archivos
 2. En lo referente a la obtención de los datos personales del alumnado, a la cesión de 
 los mismos de unos centros a otros y a la seguridad y confidencialidad de estos, se estará 
 a lo dispuesto en la legislación vigente en materia de protección de datos de carácter 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/12
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 personal y, en todo caso, a lo establecido en la disposición adicional vigesimotercera de 
-la Ley Orgánica 2/2006, de 3 de mayo.
+la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 3. De conformidad con lo establecido en el artículo 13.1 del Decreto 285/2010, de 
 11 de mayo, por el que se regula el Sistema de Información Séneca y se establece su 
 utilización para la gestión del Sistema Educativo andaluz, los centros docentes sostenidos 
@@ -656,10 +615,8 @@ autenticidad, integridad y conservación, así como el cumplimiento de las garan
 materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo 
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica, 
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
-
-### Capítulo Capítulo
+### CAPÍTULO V
 Atención a la diversidad y a las diferencias individuales
-
 ## Artículo 17. Atención a la diversidad y a las diferencias individuales.
 1. Se entiende por atención a la diversidad y a las diferencias individuales el conjunto 
 de actuaciones y medidas educativas que garantizan la mejor respuesta a las necesidades 
@@ -673,7 +630,7 @@ competente en materia de educación. Los centros docentes dispondrán de autonom
 para organizar medidas generales y específicas, así como programas de atención a la 
 diversidad y a las diferencias individuales.
 3. La escolarización del alumnado que se incorpora tardíamente al Sistema Educativo, 
-al que se refiere el artículo 78 de la Ley Orgánica 2/2006, de 3 de mayo, se realizará 
+al que se refiere el artículo 78 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, se realizará 
 atendiendo a sus circunstancias, conocimientos, edad e historial académico, de modo 
 que se pueda incorporar al curso más adecuado a sus características y conocimientos 
 previos, con los apoyos oportunos, y de esta forma continuar con aprovechamiento su 
@@ -695,14 +652,11 @@ prevea que son estas las medidas más adecuadas para el desarrollo de su equilib
 personal y su socialización.
 6. La Consejería competente en materia de educación, con el fin de facilitar la 
 accesibilidad al currículo del alumnado con necesidades educativas especiales, al que 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/13
-BOJABOJA
-se refiere el artículo 73.1 de la Ley Orgánica 2/2006, de 3 de mayo, establecerá los 
+Boletín Oficial de la Junta de Andalucía
+se refiere el artículo 73.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, establecerá los 
 procedimientos oportunos cuando sea necesario realizar adaptaciones que se aparten 
 significativamente de los elementos del currículo.
-
 ## Artículo 18. Principios generales de actuación para la atención a la diversidad y a las 
 diferencias individuales.
 1. Con objeto de hacer efectivos los principios de educación inclusiva y accesibilidad 
@@ -750,28 +704,22 @@ respecto a las características y necesidades del alumnado, así como de las med
 a adoptar para su adecuada atención. Asimismo, serán preceptivamente oídos en 
 el proceso de identificación y valoración del alumnado con necesidades educativas 
 especiales según lo recogido en el apartado 3.c).
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/14
-BOJABOJA
-
-### Capítulo Capítulo
+Boletín Oficial de la Junta de Andalucía
+### CAPÍTULO VI
 Tutoría y orientación
-
 ## Artículo 19. Principios.
 1. La tutoría y la orientación forman parte de la función docente. Corresponderá a los 
 centros docentes la programación, desarrollo y evaluación de la acción tutorial que será 
 recogida en el Plan de orientación y acción tutorial, incluido en su Proyecto educativo, de 
-acuerdo con lo establecido en el artículo 121.2 de la Ley Orgánica 2/2006, de 3 de mayo.
+acuerdo con lo establecido en el artículo 121.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 2. En la etapa de Educación Primaria, la tutoría personal del alumnado y la orientación 
 educativa y psicopedagógica constituirán un elemento fundamental en la ordenación de 
 la etapa y orientarán el proceso educativo individual y colectivo del alumnado.
-
-### Capítulo Capítulo
+### CAPÍTULO VII
 Autonomía de los centros y participación en el proceso educativo
-
 ## Artículo 20. Autonomía de los centros docentes.
-1. De acuerdo con lo establecido en el artículo 125.1 de la Ley 17/2007, de 10 de 
+1. De acuerdo con lo establecido en el artículo 125.1 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de 
 diciembre, de Educación de Andalucía, los centros docentes contarán con autonomía 
 pedagógica, de organización y de gestión para poder llevar a cabo modelos de 
 funcionamiento propios, en el marco de la legislación vigente y en los términos recogidos 
@@ -782,7 +730,7 @@ los centros docentes desarrollarán y concretarán, en su caso, el currículo en
 educativo y lo adaptarán a las necesidades de su alumnado y a las características 
 específicas del entorno social y cultural en el que se encuentra, configurando así su 
 oferta formativa.
-3. De conformidad con lo dispuesto en el artículo 120.4 de la Ley Orgánica 2/2006, 
+3. De conformidad con lo dispuesto en el artículo 120.4 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), 
 de 3 de mayo, los centros docentes, en el ejercicio de su autonomía, podrán adoptar 
 experimentaciones, innovaciones pedagógicas, programas educativos, planes de trabajo, 
 formas de organización, normas de convivencia o ampliación del calendario escolar o 
@@ -796,7 +744,7 @@ evolución positiva desde la etapa de Educación Infantil a la etapa de Educaci�
 y desde ésta a la etapa de Educación Secundaria Obligatoria, los centros establecerán 
 mecanismos para favorecer la coordinación entre las mismas, de acuerdo con lo que se 
 establezca por orden de la Consejería competente en materia de educación.
-5. Conforme a lo dispuesto en el artículo 110.4 de la Ley Orgánica 2/2006, de 3 
+5. Conforme a lo dispuesto en el artículo 110.4 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 
 de mayo, los centros docentes, como espacios abiertos a la sociedad de los que son 
 elemento nuclear, promoverán el trabajo y la coordinación con las administraciones, 
 entidades y asociaciones de su entorno inmediato, creando comunidades educativas 
@@ -806,29 +754,24 @@ proteger nuestra biodiversidad, la Consejería competente en materia de educaci�
 favorecerá, en coordinación con las instituciones y organizaciones de su entorno, la 
 sostenibilidad de los centros, su relación con el medio natural y su adaptación a las 
 consecuencias derivadas del cambio climático.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/15
-BOJABOJA
-
+Boletín Oficial de la Junta de Andalucía
 ## Artículo 21. Participación de los padres, madres o personas que ejerzan la tutela legal 
 del alumnado en el proceso educativo.
-De conformidad con el artículo 24 del Real Decreto 157/2022, de 1 de marzo, los 
+De conformidad con el artículo 24 del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, los 
 padres, madres o personas que ejerzan la tutela legal del alumnado deberán participar 
 y apoyar la evolución del proceso educativo del mismo, colaborando en las medidas de 
 atención a la diversidad y a las diferencias individuales que adopten los centros para 
 facilitar su progreso. Tendrán, además, derecho a conocer las decisiones relativas a su 
 evaluación y a su promoción, así como a acceder a las pruebas y documentos de las 
 evaluaciones que se realicen a sus hijos, hijas, tutelados o tuteladas, sin perjuicio del 
-respeto a las garantías establecidas en la Ley Orgánica 3/2018, de 5 de diciembre, de 
+respeto a las garantías establecidas en la [Ley Orgánica 3/2018](../../../estatal/02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md), de 5 de diciembre, de 
 Protección de Datos Personales y garantía de los derechos digitales, y en el Reglamento 
 (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la 
 protección de las personas físicas en lo que respecta al tratamiento de datos personales 
 y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE.
-
-### Capítulo Capítulo
+### CAPÍTULO VIII
 Medidas de apoyo al profesorado para el desarrollo del currículo
-
 ## Artículo 22. Formación permanente del profesorado.
 1. La Consejería competente en materia de educación realizará una oferta de 
 actividades formativas dirigida al profesorado, adecuada a las necesidades derivadas de 
@@ -836,45 +779,37 @@ la implantación de las enseñanzas contempladas en el presente decreto, a la de
 efectuada por los centros docentes y a las necesidades que se desprendan de los 
 programas educativos y de los resultados de la evaluación del alumnado.
 2. Las actividades de formación permanente del profesorado se desarrollarán dentro 
-del marco regulado en el artículo 19 de la Ley 17/2007, de 10 de diciembre, y en el 
+del marco regulado en el artículo 19 de la [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_andalucia_lea.md), de 10 de diciembre, y en el 
 Decreto 93/2013, de 27 de agosto, por el que se regula la formación inicial y permanente 
 del profesorado en la Comunidad Autónoma de Andalucía, así como el Sistema Andaluz 
 de Formación Permanente del Profesorado y normas que lo desarrollen.
-
 ## Artículo 23. Investigación, experimentación e innovación educativa.
 1. La Consejería competente en materia de educación impulsará la investigación, la 
 experimentación y la innovación educativa, incentivando la creación de equipos docentes, 
 así como la colaboración con las Universidades y con otras instituciones, organizaciones 
 y entidades.
-2. Sin perjuicio de lo recogido en el Real Decreto 157/2022, de 1 de marzo, la 
+2. Sin perjuicio de lo recogido en el [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo, la 
 Consejería competente en materia de educación podrá flexibilizar la ordenación de 
 la etapa propuesta en el presente decreto, para desarrollar proyectos de excelencia 
 educativa previamente autorizados.
-
 ## Artículo 24. Materiales de apoyo al profesorado.
 La Consejería competente en materia de educación favorecerá la elaboración de 
 materiales de apoyo al profesorado que faciliten el desarrollo del currículo y orienten su 
 trabajo.
-
 ## Disposición adicional única. Centros privados y centros privados concertados.
 Los centros privados y los centros privados concertados adecuarán su organización 
 a las disposiciones de este decreto relativas a la organización y funcionamiento de los 
 centros docentes, teniendo en cuenta las especialidades de su legislación específica.
-
 ## Disposición transitoria única. Calendario de aplicación.
 El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/16
-BOJABOJA
-
+Boletín Oficial de la Junta de Andalucía
 ## Disposición derogatoria única. Derogación normativa.
 1. Queda derogado el Decreto 97/2015, de 3 de marzo, por el que se establece 
 la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de 
 Andalucía.
 2. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se 
 opongan a lo dispuesto en este decreto.
-
 ## Disposición final primera. Modificación del Decreto 39/2003, de 18 de febrero, por 
 el que se regula la provisión de los puestos de trabajo de los Equipos de Orientación 
 Educativa adscritos al personal docente y se establecen las funciones de los 
@@ -908,23 +843,20 @@ que continúe la necesidad de ocupación. En el supuesto de evaluación negativa
 podrá optar de nuevo a un puesto de trabajo en dichos Equipos sin mediar un período de 
 dos años de ejercicio de la docencia en su centro o Equipo de Orientación Educativa de 
 destino.»
-
 ## Disposición final segunda. Conformidad con la normativa estatal.
 1. El contenido de los artículos 5, 11.4, 12.3, 12.4, 13.1, 17.4 y 20.2 reproduce, total 
 o parcialmente, normas dictadas por el Estado al amparo del artículo 149.1.30.ª de la 
 Constitución Española, recogidas en los artículos 17 de los «Objetivos de la Educación 
 Primaria», 19.5 de los «Principios pedagógicos», 20.3, 20.4, 20.5 de la «Evaluación 
 durante la etapa», primer párrafo del artículo 21 de la «Evaluación de diagnóstico», 78.2 
-de la «Escolarización» y 121.1 del «Proyecto educativo», de la Ley Orgánica 2/2006, de 
+de la «Escolarización» y 121.1 del «Proyecto educativo», de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 
 3 de mayo.
 2. El contenido de los artículos 2.1, 2.2, 2.5, 4, 5, 6, 8.2, 8.6, 8.7, 9, 10, 11.2, 11.4, 
 11.5, 11.6, 11.7, 11.8, 12.4, 14.1, 14.3, 16.1, 16.2, 17.3, 17.4, 17.5, 18.1, 18.2, 18.3, 20.4, 
 20.5 y 23.2 reproduce, total o parcialmente, normas dictadas por el Estado al amparo 
 del artículo 149.1.30.ª de la Constitución Española, recogidas en los artículos 3.1 de «La 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/17
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 etapa de Educación Primaria en el marco del sistema educativo», 4 de los «Fines», 5.1, 
 5.2, 5.3, 5.4 de los «Principios generales», 6.1, 6.7 de los «Principios pedagógicos», 7 de 
 los «Objetivos», 8.2, 8.6 de las «Áreas», 11.5 del «Currículo», 14.1, 14.2, 14.4, 14.6 de la 
@@ -935,13 +867,11 @@ español», 20 del «Alumnado con altas capacidades intelectuales», 21.6, 21.7 
 25.1, 25.2 de los «Documentos e informes de evaluación», 30.1, 30.2 de la «Autenticidad, 
 seguridad y confidencialidad», así como de la «Disposición adicional primera. Enseñanzas 
 de religión» y de la «disposición adicional segunda. Enseñanzas del sistema educativo 
-español impartidas en lenguas extranjeras», del Real Decreto 157/2022, de 1 de marzo.
-
+español impartidas en lenguas extranjeras», del [Real Decreto 157/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD157_2022_establecen_ordenacion_ensenanzas_minimas_educacion_primaria.md), de 1 de marzo.
 ## Disposición final tercera. Desarrollo y ejecución.
 Se habilita a la persona titular de la Consejería competente en materia de educación 
 para dictar cuantas disposiciones resulten necesarias para el desarrollo y ejecución de lo 
 dispuesto en el presente decreto.
-
 ## Disposición final cuarta. Entrada en vigor.
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín 
 Oficial de la Junta de Andalucía.
@@ -952,7 +882,7 @@ Presidente de la Junta de Andalucía
 PATRICIA DEL POZO FERNÁNDEZ
 Consejera de Desarrollo Educativo  
 y Formación Profesional
-ANEXO
+A N E X O
 PERFIL COMPETENCIAL DEL ALUMNADO AL TÉRMINO DE CADA CICLO DE LA 
 ETAPA DE EDUCACIÓN PRIMARIA
 El currículo que desarrolla la etapa de Educación Primaria en la Comunidad 
@@ -972,10 +902,8 @@ clave recogidas en este Perfil competencial. Dichas competencias son las siguien
 - Competencia en conciencia y expresiones culturales.
 La transversalidad es una condición inherente al Perfil competencial, en el sentido 
 de que todos los aprendizajes contribuyen a su consecución. De la misma manera, la 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/18
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 adquisición de cada una de las competencias clave contribuye a la adquisición de todas 
 las demás. No existe jerarquía entre ellas, ni puede establecerse una correspondencia 
 exclusiva con una única área o ámbito, sino que todas se concretan en los aprendizajes 
@@ -1015,10 +943,8 @@ desarrollo está vinculado a la reflexión explícita acerca del funcionamiento 
 en los géneros discursivos específicos de cada área de conocimiento, así como a los 
 usos de la oralidad, la escritura o la signación para pensar y para aprender. Por último, 
 hace posible apreciar la dimensión estética del lenguaje y disfrutar de la cultura literaria.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/19
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE EDUCACIÓN PRIMARIA,
@@ -1187,10 +1113,8 @@ COMPETENCIA PLURILINGÜE
 La competencia plurilingüe implica utilizar distintas lenguas, orales o signadas, de 
 forma apropiada y eficaz para el aprendizaje y la comunicación. Esta competencia supone 
 reconocer y respetar los perfiles lingüísticos individuales y aprovechar las experiencias 
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/20
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 propias para desarrollar estrategias que permitan mediar y hacer transferencias entre 
 lenguas, incluidas las clásicas, y, en su caso, mantener y adquirir destrezas en la lengua 
 o lenguas familiares y en las lenguas oficiales. Integra, asimismo, dimensiones históricas 
@@ -1291,10 +1215,8 @@ y el contexto social. La competencia en tecnología e ingeniería comprende la a
 de los conocimientos y metodologías propios de las ciencias para transformar nuestra 
 sociedad de acuerdo con las necesidades o deseos de las personas en un marco de 
 seguridad, responsabilidad y sostenibilidad.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/21
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE LA ETAPA DE EDUCACIÓN PRIMARIA, 
@@ -1445,10 +1367,8 @@ y la colaboración, la educación mediática, la creación de contenidos digital
 programación), la seguridad (incluido el bienestar digital y las competencias relacionadas 
 con la ciberseguridad), asuntos relacionados con la ciudadanía digital, la privacidad, la 
 propiedad intelectual, la resolución de problemas y el pensamiento computacional y crítico.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/22
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE LA ETAPA DE EDUCACIÓN 
@@ -1596,10 +1516,8 @@ contribuir al bienestar físico, mental y emocional propio y de las demás perso
 desarrollando habilidades para cuidarse a sí mismo y a quienes lo rodean a través de la 
 corresponsabilidad; ser capaz de llevar una vida orientada al futuro; así como expresar 
 empatía y abordar los conflictos en un contexto integrador y de apoyo.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/23
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE LA ETAPA DE EDUCACIÓN PRIMARIA,
@@ -1737,10 +1655,8 @@ cultura democrática fundada en el respeto a los derechos humanos, la reflexión
 acerca de los grandes problemas éticos de nuestro tiempo y el desarrollo de un estilo 
 de vida sostenible acorde con los Objetivos de Desarrollo Sostenible planteados en la 
 Agenda 2030.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/24
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE LA ETAPA DE EDUCACIÓN PRIMARIA, 
@@ -1867,10 +1783,8 @@ la información y el conocimiento y colaborar de manera ágil con otras personas
 motivación, empatía y habilidades de comunicación y de negociación, para llevar las 
 ideas planteadas a la acción mediante la planificación y gestión de proyectos sostenibles 
 de valor social, cultural y económico-financiero.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/25
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 Descriptores operativos
 AL COMPLETAR EL PRIMER CICLO 
 DE LA ETAPA DE EDUCACIÓN 
@@ -2000,10 +1914,8 @@ aspectos fundamentales del patrimonio
 cultural y artístico, comprendiendo las 
 diferencias entre distintas culturas y la 
 necesidad de respetarlas.
-00283499
  Número 90 - Lunes, 15 de mayo de 2023
-página 8470/26
-BOJABOJA
+Boletín Oficial de la Junta de Andalucía
 AL COMPLETAR EL PRIMER CICLO 
 DE EDUCACIÓN PRIMARIA, 
 EL ALUMNO O ALUMNA…

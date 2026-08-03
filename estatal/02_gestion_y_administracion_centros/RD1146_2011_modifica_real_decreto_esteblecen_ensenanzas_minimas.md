@@ -48,17 +48,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-
-
-
-
-
-
-
-
-
-
-
 # Real Decreto 1146/2011, de 29 de julio, por el que se modifica el Real Decreto 1631/2006, de 29 de diciembre, por el que se esteblecen las enseñanzas mínimas correspondientes a la Educación Secundaria Obligatoria, así como los Reales Decretos 1834/2008, de 8 de noviembre, y 860/2010, de 2 de julio, afectados por estas modificaciones.
 
 La Ley 2/2011, de 4 de marzo, de Economía Sostenible, en su disposición final vigésima cuarta, apartado 3, introduce modificaciones en algunos artículos de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, destinadas a favorecer la adecuación del sistema educativo a la distintas situaciones y características del alumnado después de una escolarización de 9 años desde el inicio de la educación primaria, así como a favorecer que los estudiantes puedan continuar su formación una vez finalizada la Educación Secundaria Obligatoria. En esta línea se adelanta la edad de acceso a los Programas de Cualificación Profesional Inicial a los 15 años.
@@ -1218,3 +1207,22 @@ Este criterio evalúa si el alumnado es capaz de descubrir una potencial idea de
 12. Diseñar el propio proyecto de itinerario formativo y profesional, incorporando las tres fases de autoconocimiento del potencial profesional, conocimiento del entorno socio-profesional y laboral, y toma de decisiones.
 
 Este criterio evalúa la capacidad de integrar todos los elementos trabajados en la materia (información sobre oportunidades de formación, oportunidades de empleo, descubrimiento de las profesiones y los perfiles profesionales, autoanálisis, etc.) para plantear unas metas personales y diseñar las acciones a recorrer para su consecución.
+
+---
+
+## Relaciones Normativas y Fundamentos de Derecho
+
+### Relaciones Directas
+- **Fundamentado en**: [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- **Fundamentado en**: [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+
+### Fundamentos de Derecho
+- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+- [**BOE-A-2010-11426**](./RD860_2010_regulan_condiciones_formacion_inicial_profesorado_centros.md)
+- [**RD1834_2008 Condiciones de Formacion para Docencia en Secundaria**](./RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md)
+- [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
+- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
+

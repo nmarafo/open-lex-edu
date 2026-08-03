@@ -1,334 +1,279 @@
 ---
 id: norm-and-l9-1999
-titulo: "Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación"
+titulo: Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 jurisdiccion: Andalucía
 ambito: Autonómico
-organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía
+organo_emisor: Consejería de Desarrollo Educativo y Formación Profesional de la Junta
+  de Andalucía
 tipo_disposicion: Ley
-numero_disposicion: "9/1999"
-fecha_disposicion: "1999-11-18"
-fecha_publicacion: "1999-12-02"
+numero_disposicion: 9/1999
+fecha_disposicion: '1999-11-18'
+fecha_publicacion: '1999-12-02'
 boletin: BOJA
-numero_boletin: "140"
+numero_boletin: '140'
 estado: Vigente
 redaccion: original
-fuente_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699"
-fuente_pdf_oficial: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699"
+fuente_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699
+fuente_pdf_oficial: https://www.boe.es/buscar/act.php?id=BOE-A-1999-24699
 clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
-  subcategoria: "Medidas de atención a la diversidad"
+  subcategoria: Medidas de atención a la diversidad
 tags:
-  - solidaridad_educativa
-  - neae
-  - compensacion_educativa
-  - andalucia
+- solidaridad_educativa
+- neae
+- compensacion_educativa
+- andalucia
 relaciones:
   desarrolla: []
   modifica_a: []
   modificado_por: []
   afecta_a_articulos: []
 ---
+# Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación
 
-## Preámbulo
-
-Texto consolidado
-: «Última actualización, publicada el 28/12/1999»
-
-
-
-
-Ir a: 
-
-
-
-
-
-
-Seleccionar apartado
-
-
-
-
-[Parte dispositiva]
-
-
-[Firma]
-
-
-ACUERDO
-
-
+Miércoles 29 diciembre 1999
+45981
+al Servicio de la Administración General del Estado y de Provisión
+de Puestos de Trabajo y Promoción Profesional de los Funcionarios
+Civiles de la Administración General del Estado, aprobado por
+Real Decreto 364/1995, de 10 de marzo.
+Verín, 1 de diciembre de 1999.–El Alcalde, Juan Manuel Jimé-
+nez Morán.
+UNIVERSIDADES
+24749
+RESOLUCIÓN de 9 de noviembre de 1999, de la Uni-
+versidad de Oviedo, por la que se nombra a don Héctor
+González Pardo, Profesor titular de Universidad.
+Vista la propuesta elevada por la Comisión calificadora del
+concurso convocado por Resolución de esta Universidad, de fecha
+18 de mayo de 1998 («Boletín Oficial del Estado» de 19 de junio),
+y de conformidad con lo establecido en la Ley 11/1983, de 25
+de agosto y el Real Decreto 1888/1984, de 26 de septiembre,
+modificado parcialmente por el Real Decreto 1427/1986, de 13
+de junio,
+Este Rectorado ha resuelto nombrar a don Héctor González
+Pardo, Profesor titular de Universidad en el área de conocimiento
+de «Psicobiología», adscrita al departamento de Psicología.
+El presente nombramiento, surtirá plenos efectos a partir del
+4 de noviembre de 1999 y de la toma de posesión del interesado.
+Contra la presente Resolución, se podrá interponer recurso con-
+tencioso-administrativo, en el plazo de dos meses, a contar desde
+el día siguiente a su publicación en el «Boletín Oficial del Estado»,
+de conformidad con el artículo 46 de la Ley 29/1998, de 13 de
+julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Previamente, y con carácter potestativo, se podrá interponer recur-
+so de reposición ante el Rector, en el plazo de un mes, de con-
+formidad con el artículo 116 de la Ley 30/1992, de Régimen
+Jurídico de las Administraciones Públicas y del Procedimiento
+Administrativo Común.
+Oviedo, 9 de noviembre de 1999.—El Rector, Julio Rodríguez
+Fernández.
+24750
+RESOLUCIÓN de 24 de noviembre de 1999, de la Uni-
+versidad de Sevilla, por la que se nombra a don Luis
+Pizarro Solano, Profesor titular de Universidad del
+área de conocimiento de «Matemática Aplicada», ads-
+crita al departamento de Matemática Aplicada II.
+Vista la propuesta formulada por la Comisión nombrada para
+juzgar el concurso convocado por Resolución de esta Universidad
+de fecha 7 de octubre de 1998 («Boletín Oficial del Estado» de
+6 de noviembre) y de acuerdo con lo que establece la Ley 11/1983,
+de 25 de agosto y el Real Decreto 1888/1984, de 26 de sep-
+tiembre, modificado por el Real Decreto 1427/1986, de 13 de
+junio,
+Este Rectorado, ha resuelto nombrar al Doctor don Luis Pizarro
+Solano Profesor titular de Universidad de esta Universidad, del
+área de conocimiento de «Matemática Aplicada» adscrita al depar-
+tamento de Matemática Aplicada II.
+Sevilla, 24 de noviembre de 1999.—El Rector, Miguel Florencio
+Lora.
+24751
+RESOLUCIÓN de 25 de noviembre de 1999, de la Uni-
+versidad de Sevilla, por la que se nombra a don Juan
+Luis Manfredi Mayoral Profesor titular de Universidad
+del área de conocimiento de «Periodismo», adscrita
+al departamento de Periodismo.
+Vista la propuesta formulada por la Comisión nombrada para
+juzgar el concurso convocado por Resolución de esta Universidad
+de fecha 7 de octubre de 1998 («Boletín Oficial del Estado» de
+6 de noviembre) y de acuerdo con lo que establece la Ley 11/1983,
+de 25 de agosto y el Real Decreto 1888/1984, de 26 de sep-
+tiembre, modificado por el Real Decreto 1427/1986, de 13 de
+junio,
+Este Rectorado ha resuelto nombrar al Doctor don Juan Luis
+Manfredi Mayoral Profesor titular de Universidad de esta Univer-
+sidad, del área de conocimiento de «Periodismo» adscrita al depar-
+tamento de Periodismo.
+Sevilla, 25 de noviembre de 1999.—El Rector, Miguel Florencio
+Lora.
+24752
+RESOLUCIÓN de 25 de noviembre de 1999, de la Uni-
+versidad de Sevilla, por la que se nombra a don Eduar-
+do Mosquera Adell, Catedrático de Universidad del
+área de conocimiento de «Composición Arquitectóni-
+ca», adscrita al departamento de Historia, Teoría y
+Composición Arquitectónicas.
+Vista la propuesta formulada por la Comisión nombrada para
+juzgar el concurso convocado por Resolución de esta Universidad
+de fecha 7 de octubre de 1998 («Boletín Oficial del Estado» de
+6 de noviembre) y de acuerdo con lo que establece la Ley 11/1983,
+de 25 de agosto y el Real Decreto 1888/1984, de 26 de sep-
+tiembre, modificado por el Real Decreto 1427/1986, de 13 de
+junio,
+Este Rectorado, ha resuelto nombrar al Doctor don Eduardo
+Mosquera Adell, Catedrático de Universidad de esta Universidad,
+del área de conocimiento de «Composición Arquitectónica», ads-
+crita al departamento de Historia, Teoría y Composición Arqui-
+tectónicas.
+Sevilla, 25 de noviembre de 1999.—El Rector, Miguel Florencio
+Lora.
+24753
+RESOLUCIÓN de 29 de noviembre de 1999, de la Uni-
+versidad Jaume I, por la que se nombra a don Rafael
+Lapiedra Alcamí Profesor titular de Universidad en
+el área de conocimiento de «Organización de Empre-
+sas».
+De conformidad con la propuesta formulada por la Comisión
+constituida para juzgar el concurso público convocado por Reso-
+lución de la Universidad Jaume I, de 4 de diciembre de 1998,
+para la provisión de la plaza de Profesor titular de Universidad
+del área de conocimiento de Organización de Empresas (concurso
+número 29/1998) y un vez acreditado por el concursante pro-
+puesto que reúne los requisitos a que alude el apartado 2 del
+## artículo 5.o del Real Decreto 1888/1984, de 26 de septiembre,
+Este Rectorado, en uso de las atribuciones conferidas por el
+## artículo 42 de la Ley 11/1983, de 25 de agosto, de Reforma
+Universitaria y demás disposiciones que la desarrollan, ha resuelto
+nombrar a don Rafael Lapiedra Alcamí Profesor titular de Uni-
+versidad en el área de conocimiento de «Organización de Empre-
+sas» adscrita al departamento de Administración de Empresas y
+Márketing.
+Castellón, 29 de noviembre de 1999.—El Rector, Fernando
+Romero Subirón.
+24754
+RESOLUCIÓN de 29 de noviembre de 1999, de la Uni-
+versidad Pablo de Olavide de Sevilla, por la que se
+nombra a don Manuel Francisco Díaz González, a doña
+Leandra Pérez Rivero y a doña Guadalupe Cordero
+Martín, Profesores titulares de Escuela Universitaria
+del área de conocimiento de «Trabajo Social y Servicios
+Sociales», adscritos al departamento de Trabajo Social
+y Ciencias Sociales.
+Vista la propuesta formulada por la Comisión nombrada para
+juzgar el concurso convocado por Resolución de esta Universidad
+de fecha 11 de noviembre de 1998 («Boletín Oficial del Estado»
+de 7 de diciembre de 1999), para la provisión de las plazas número
+45982
+Miércoles 29 diciembre 1999
+10-12/98, de Profesores titulares de Escuela Universitaria, área
+de conocimiento «Trabajo Social y Servicios Sociales».
+Visto el acuerdo adoptado por la Comisión de reclamaciones
+en su primera sesión, de fecha 11 de noviembre de 1999, según
+el cual se ratifica la propuesta formulada por la Comisión juzgadora
+del concurso.
+Una vez acreditados por los interesados los requisitos a que
+alude el apartado 2 del artículo 5 del Real Decreto 1888/1984,
+de 26 de septiembre,
+Este Rectorado, en uso de las atribuciones conferidas por el
+## artículo 42 de la Ley Orgánica 11/1983, de 25 de agosto, de
+Reforma Universitaria y demás disposiciones concordantes, ha
+resuelto nombrar a don Manuel Francisco Díaz González, con docu-
+mento nacional de identidad número 27.902.719; a doña Leandra
+Pérez Rivero, con documento nacional de identidad número
+27.813.522, y a doña María Guadalupe Cordero Martín, con docu-
+mento nacional de identidad número 6.976.113, Profesores titu-
+lares de Escuela Universitaria del área de conocimiento de «Trabajo
+Social y Servicios Sociales», adscritos al departamento de Trabajo
+Social y Ciencias Sociales, de esta Universidad.
+Estos nombramientos surtirán plenos efectos a partir de las
+correspondientes tomas de posesión por los interesados, que debe-
+rán efectuarse en el plazo máximo de un mes a contar desde el
+día siguiente de la publicación de la presente Resolución en el
+«Boletín Oficial del Estado».
+Sevilla, 29 de noviembre de 1999.—El Rector accidental, José
+Luis Martín Marín.
+24755
+RESOLUCIÓN de 1 de diciembre de 1999, de la Uni-
+versidad de Córdoba, por la que se hace pública la
+adjudicación de un puesto de trabajo, convocado por
+el procedimiento de libre designación, mediante Reso-
+lución de 30 de septiembre de 1999.
+Vistas las solicitudes presentadas en la convocatoria pública
+anunciada por Resolución de este Rectorado de 30 de septiembre
+de 1999, mediante la que se ofertó para su provisión mediante
+libre designación el puesto número 343 «Chofér del Rector» de
+esta Universidad.
+Vistos los informes preceptivos a los que se refiere el artículo
+54 del Real Decreto 364/1995, de 10 de marzo («Boletín Oficial
+del Estado» de 10 de abril), por el que se aprueba el Reglamento
+General de Ingreso del Personal al Servicio de la Administración
+General del Estado y de Provisión de Puestos de Trabajo y Pro-
+moción Profesional de los Funcionarios Civiles de la Administra-
+ción General del Estado,
+Este Rectorado, en uso de las facultades que le confiere el
+## artículo 63 g) de los vigentes Estatutos Provisionales de esta Uni-
+versidad, aprobados por Decreto 184/1985, de 31 de julio («Bo-
+letín Oficial de la Junta de Andalucía» de 30 de agosto), ha resuelto
+nombrar a don Fernando Padilla Torralbo, número de registro
+de personal 3002333824 A5551, Chófer del Rector de esta Uni-
+versidad, conforme a los datos que se relacionan en el anexo I.
+La toma de posesión se efectuará en los plazos establecidos
+en el artículo 48.1 del Real Decreto 364/1995, de marzo.
+Contra esta Resolución que agota la vía administrativa, podrá
+interponerse, potestativamente, recurso de reposición en el plazo
+de un mes, a contar desde el día siguiente al de su publicación
+en el «Boletín Oficial del Estado» (artículos 107, 116 y 117 de
+la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de
+las Administraciones Públicas y del Procedimiento Administrativo
+Común), o recurso contencioso-administrativo en el plazo de dos
+meses, a contar desde el día siguiente a la notificación de esta
+Resolución ante el Juzgado de lo Contencioso-Administrativo de
+Córdoba (artículos 8.3 y 46.1 de la Ley 29/1998, de 13 de julio).
+Córdoba, 1 de diciembre de 1999.—El Rector, Eugenio Domín-
+guez Vilches.
 ANEXO I
-
-
-ANEXO II
-
-
-ANEXO III
-
-
-ANEXO IV
-
-
-
-
-
-
-
-
-
-
-
-
-[Bloque 1: #pa]
-
-
-La 
-Ley 5/1981, de 25 de marzo
-, de Reclasificación del Parque Nacional del Teide, en su artículo 2, apartado 2, permite al Gobierno, por Acuerdo de Consejo de Ministros, poder incorporar a este Parque los terrenos colindantes con el mismo que reúnan características adecuadas para ello.
-
-
-Con fecha 2 de julio de 1999 el Consejo de Ministros ha acordado la ampliación de los límites del citado Parque Nacional. Considerando la conveniencia de una amplia difusión del Acuerdo, a tenor del criterio jurídico general que preside el mismo, esta Secretaría General resuelve:
-
-
-Publicar en el «Boletín Oficial del Estado», el Acuerdo por el que se amplían los límites del Parque Nacional del Teide por incorporación de terrenos colindantes al mismo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 2: #fi]
-
-
-Madrid, 14 de octubre de 1999.–El Secretario general, Juan Luis Muriel Gómez.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 3: #ac]
-
-
-ACUERDO POR EL QUE SE AMPLÍAN LOS LÍMITES DEL PARQUE NACIONAL DEL TEIDE POR INCORPORACIÓN DE TERRENOS COLINDANTES AL MISMO
-
-
-De conformidad con lo previsto en el 
-## artículo 2.2 de la Ley 5/1981, de 25 de marzo
-, de Régimen Jurídico del Parque Nacional del Teide.
-
-
-1. Se autoriza la incorporación al Parque Nacional del Teide de diferentes terrenos colindantes con el mismo, con una superficie total de 5.419 hectáreas, que disponen de las características naturales idóneas para ello, de acuerdo con los límites y linderos definidos en el anexo I al presente Acuerdo, con las exclusiones allí recogidas.
-
-
-2. Se fija la superficie total del Parque Nacional del Teide, como consecuencia de la citada ampliación en 18.900 hectáreas, afectando a los términos municipales de Guía de Isora, Icod de los Vinos, La Orotava, Santiago del Teide, Granadilla de Abona, La Guancha, San Juan de la Rambla, Fasnia, Adeje, Los Realejos, Vilaflor y Garachico (provincia de Santa Cruz de Tenerife). Los límites geográficos del Parque Nacional del Teide, así ampliado, son los que figuran en el anexo II de este Acuerdo.
-
-
-3. Queda delimitada como zona periférica de protección, a la que se refiere el 
-## artículo 4 de la Ley 5/1981, de 25 marzo
-, de Régimen Jurídico del Parque Nacional del Teide, la recogida en el anexo III al presente Acuerdo y que se corresponde con la ya declarada, a la que se han detraído los terrenos incorporados al Parque Nacional al amparo del mismo.
-
-
-4. Se autoriza al Ministerio de Medio Ambiente para que, previo informe favorable de la Dirección General de Presupuestos, a los meros efectos presupuestarios, pueda adoptar las medidas necesarias que permitan la incorporación al Parque Nacional del Teide en aquellas propiedades públicas y privadas, con una superficie total de 1.706 hectáreas, relacionadas en el anexo IV de este Acuerdo que, aunque geográficamente situadas dentro del perímetro ampliado del Parque, no se incorporan ahora el mismo, conforme con lo previsto en el inciso final del apartado 1 del presente Acuerdo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 4: #ai]
-
-
-ANEXO I
-
-
-Referencia de los límites geográficos y linderos de los terrenos colindantes con el Parque Nacional del Teide que se incorporan al mismo en virtud del presente Acuerdo
-
-
-Límite exterior:
-
-
-Norte: Del punto kilométrico 8,3 de la carretera comarcal TF-38 de Chío a Las Cañadas, en línea recta hacia el pico del Teide, y sin llegar a él, hasta alcanzar la cota 2.000 metros. Por esta cota hasta el promontorio de la Hoya del Cedro, junto al antiguo colmenar de la cota 2.000 y desde aquí en línea recta hasta Los Castillos en la cota 1.654 metros. De aquí en dirección norte hasta alcanzar la cota 1.600 metros, por esta cota hasta alcanzar la línea que uniría Cruz de La Vieja y la Montaña Abejera Alta, por esta línea ascendiendo hasta la cota 1.650 metros, por esta cota hasta alcanzar la pista forestal sin salida de Los Areneros, por esta pista hasta el Barranco del Brinco o del Pino, y por él ascendiendo hasta la cota 1.800 metros. Desde este punto en línea recta hasta el actual límite de los términos municipales entre la Guancha, San Juan de la Rambla en la cota 1.900 metros y siguiendo esta cota hasta alcanzar el Barranco de la Degollada o de Ruiz, ascendiendo por este Barranco hasta la cota de 2.000 metros, y siguiendo esta cota hasta el camino que comunica El Cabezón y el Centro de Visitantes de El Portillo, por éste y en dirección a dicho Centro hasta alcanzar nuevamente la cota 2.000 metros, por esta cota hasta la línea recta orientada de W a E que pasa por el punto kilométrico 31,6 de la TF-24, y por esta línea hasta dicho punto kilométrico 31,6, por esta carretera hacia el norte hasta alcanzar la divisoria N/S de la Isla en las proximidades de la Montaña de La Crucita.
-
-
-Este: Del cruce de la TF-24 y la divisoria N/S de la Isla, por esta última hasta alcanzar la TF-24 en el punto kilométrico 34,3, por esta carretera hasta la pista asfaltada de acceso al Observatorio Astronómico de Izaña, y continuando por ésta hasta el punto que la citada pista conecta con el límite municipal entre Fasnia y Güímar y siguiendo por éste en dirección sur hasta que el límite municipal alcanza la curva de nivel de los 2.100 metros y por ésta en dirección oeste, siguiendo el límite septentrional de pinar del Monte del Estado «Cumbres de Fasnia», hasta alcanzar el límite entre los municipios de Arico y Fasnia. Siguiendo el límite entre los municipios de Arico y Fasnia en dirección norte hasta llegar al punto que conecta este límite municipal mencionado con el límite septentrional del Monte de Utilidad Pública «Contador y Cumbre», y continuando por éste límite hasta llegar al inicio de los escarpes de la margen izquierda del Barranco del Río en los Andenes.
-
-
-Sur: Del inicio de los escarpes de la margen izquierda del Barranco del Río en Los Andenes, en línea recta hacia Montaña de Las Arenas y sin alcanzarla, hasta la cota 2.250 metros, por ésta en dirección sur hasta alcanzar la línea que uniría Montaña de Las Arenas y el Roque del Encaje, por esta línea sin alcanzarlo, hasta la cota 2.250 metros, y por ésta en dirección oeste hasta el Barranco del Dornajito, descendiendo por éste hasta el punto kilométrico 57,4 de la TF-21, siguiendo por la carretera hasta la curva del punto kilométrico 54,2 de aquí ascendiendo en línea recta a Los Roques de Ucanca o Ucazme a cota 2.051 metros.
-
-
-Oeste: De los Roques de Ucanca o Ucazme en línea recta a Montaña Gangarro, a Roques de Chavao y de aquí en línea recta a Montaña Chasago y por el actual límite del Parque Nacional del Teide hasta la carretera TF-38, siguiendo por la misma hasta su punto kilométrico 8,3. Límite interior:
-
-
-Límite interior:
-
-
-Norte: Promontorio de la Bonilla, Pico Cabras, Risco de La Fortaleza, Cabezón, Montaña del Pino (junto al punto kilométrico treinta y tres coma setecientos setenta de la carretera comarcal TF-21, de La Orotava a Vilaflor) y Vértice del Cerrillar.
-
-
-Este: Vértice del Cerrillar, Llano de Maja, Montaña Colorada, La Angostura, Topo de la Grieta, Roque de La Grieta y Montaña de Pasajirón siguiendo la crestería del Circo de Las Cañadas.
-
-
-Sur: Montaña de Pasajirón, Degollada de Guajara, Montaña de Guajara, Degollada de Ucanca y Crestería de Ucanca, siguiendo por los puntos de Roque del Almendro, Sombrero y Sombrerito, hasta la Boca de Tauce.
-
-
-Oeste: Boca de Tauce, Roques de Chavao, Montaña del Cendro, Roques del Cedro, Montaña de Chasogo, Volcán de la Botija, Mojón de los tres Términos y Promontorio de Bonilla.
-
-
-Quedan excluidos los siguientes terrenos comprendidos en el interior de los límites anteriormente descritos:
-
-
-Propiedades privadas particulares de Vilaflor (365 hectáreas, aproximadamente), enclavado de propiedades privadas particulares en El Portillo (8 hectáreas, aproximadamente), así como la finca «Las Cumbres», propiedad del Ministerio de Defensa. Estos terrenos quedarán automáticamente incorporados al Parque Nacional del Teide cuando sean adquiridos por la Administración o aportados por sus propietarios para tal fin, manteniendo mientras tanto su consideración de Zona Periférica de Protección, atendiendo a lo especificado en el 
-anexo II de la Ley 5/1981, de 25 de marzo
-, de Reclasificación del Parque Nacional del Teide.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 5: #ai-2]
-
-
-ANEXO II
-
-
-Nuevos límites geográficos y linderos del Parque Nacional del Teide resultantes tras la ampliación que ahora se aprueba y que sustituye a los recogidos en el 
-anexo I de la Ley 5/1981, de 25 de marzo
-, de Régimen Jurídico del Parque Nacional del Teide al amparo de lo previsto en el artículo 2.1 de la citada Ley
-
-
-Norte: Del punto kilométrico 8,3 de la carretera comarcal TF-38 de Chío a Las Cañadas en línea recta hacia el pico del Teide, y sin llegar a él, hasta alcanzar la cota 2.000 metros. Por esta cota hasta el promontorio de la Hoya del Cedro, junto al antiguo colmenar en la cota 2.000 metros y desde aquí en línea recta hasta Los Castillos en la cota 1.654 metros. De aquí en dirección norte hasta alcanzar la cota 1.600 metros, por esta cota hasta alcanzar la línea que uniría Cruz de La Vieja y la Montaña Abejera Alta, por esta línea ascendiendo hasta la cota 1.650 metros, por esta cota hasta alcanzar la pista forestal sin salida de Los Areneros, por esta pista hasta el Barranco del Brinco o del Pino, y por él ascendiendo hasta la cota 1.800 metros. Desde este punto en línea recta hasta el actual límite de los términos municipales entre La Guancha y San Juan de la Rambla en la cota 1.900 metros y siguiendo esta cota hasta alcanzar el Barranco de la Degollada o de Ruiz, ascendiendo por este barranco hasta la cota 2.000 metros, y siguiendo esta cota hasta el camino que comunica El Cabezón y el Centro de Visitantes de El Portillo, por éste y en dirección a dicho Centro hasta alcanzar nuevamente la cota 2.000 metros, por esta cota hasta la línea recta orientada de W a E que pasa por el punto kilométrico 31,6 de la TF-24, y por esta línea hasta dicho punto kilométrico 31,6, por esta carretera hacia el norte hasta alcanzar la divisoria N/S de la Isla en las proximidades de Montaña de La Crucita.
-
-
-Este: Del cruce de la TF-24 y la divisoria N/S de la Isla, por esta última hasta alcanzar la TF-24 en el punto kilométrico 34,3, por esta carretera hasta la pista asfaltada de acceso al Observatorio Astronómico de Izaña, y continuando por ésta hasta el punto que la citada pista conecta con el límite municipal entre Fasnia y Güímar y siguiendo por éste en dirección sur hasta que el límite municipal alcanza la curva de nivel de los 2.100 metros y por ésta en dirección oeste, siguiendo el límite septentrional de pinar del Monte del Estado «Cumbres de Fasnia», hasta alcanzar el límite entre los municipios de Arico y Fasnia. Siguiendo el límite entre los municipios de Arico y Fasnia en dirección norte hasta llegar a la Degollada de Abreu, desde donde continua, siguiendo el límite septentrional del término municipal de Arico hasta Montaña Colorada. De ahí continua por la crestería del Circo de Las Cañadas hasta la Degollada de Guajara en su confluencia con el Monte de Utilidad Pública número 3 «Pinar de Granadilla de Abona». Sigue descendiendo por el Barranco del Río, por el límite noreste del citado MUP número 3 hasta conectar con el límite del Monte de Utilidad Pública «Contador y Cumbre», en los escarpes de la margen izquierda del Barranco del Río en Los Andenes.
-
-
-Sur: Del inicio de los escarpes de la margen izquierda del Barranco del Río en Los Andenes, en línea recta hacia Montaña de Las Arenas y sin alcanzarla hasta la cota 2.200 metros, por ésta en dirección sur hasta alcanzar la línea recta que uniría Montaña de Las Arenas y el Roque del Encaje, por esta línea sin alcanzarlo, hasta la cota 2.150 metros y por ésta en dirección norte hasta alcanzar el cauce del Barranco del Carnero, y ascendiendo por este justo por el límite oeste del MUP número 3 «Pinar», hasta la Degollada del Valle de Ucanca. De aquí siguiendo por la crestería del Circo de las Cañadas hacia el Oeste, hasta la confluencia con el MUP número 7 «Vica y Lajas», desciende por el límite este de dicho MUP número 7 en el Barranco de La Magdalena hasta la cota de nivel 2.250. Sigue por ésta, en dirección oeste hasta el Barranco del Dornajito, descendiendo por éste hasta el punto kilométrico 57,4 de la TF-21, siguiendo por esta carretera hasta la curva del punto kilométrico 54,2 de aquí ascendiendo en línea recta a los Roques de Ucanca o Ucazme a cota 2.051 metros
-
-
-Oeste: De los Roques de Ucanca o Ucazme en línea recta a Montaña Cangarro a Roques de Chavao y de aquí en línea recta a Montaña Chasogo y por el actual límite del Parque Nacional del Teide hasta la carretera TF-38, siguiendo por la misma hasta su punto kilométrico 8,3.
-
-
-Quedan excluidos de estos límites las propiedades privadas particulares enclavadas en el Caserío del Portillo Alto y Portillo Bajo (8 hectáreas aproximadamente).
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 6: #ai-3]
-
-
-ANEXO III
-
-
-Límites geográficos y linderos de la zona periférica de protección del Parque Nacional del Teide, de acuerdo con lo dispuesto en el 
-anexo II de la Ley 5/1981, de 25 de marzo
-, de Reclasificación del Parque Nacional del Teide, a la que se han detraído los terrenos ahora incorporados
-
-
-Este: Desde Montaña Igueque, siguiendo la divisoria N/S de la Isla, por esta última hasta alcanzar la TF-24 en el punto kilométrico 34,3, por esta carretera hasta la pista asfaltada de acceso al Observatorio Astronómico de Izaña, y continuando por ésta hasta el punto que la citada pista conecta con el límite municipal entre Fasnia y Güímar y siguiendo por éste en dirección sur hasta que el límite municipal alcanza la curva de nivel de los 2.100 metros y por ésta en dirección oeste, siguiendo el límite septentrional del pinar del Monte del Estado «Cumbres de Fasnia», hasta alcanzar el límite entre los municipios de Arico y Fasnia. Siguiendo el límite entre los municipios de Arico y Fasnia en dirección norte hasta llegar a la Degollada de Abreu, desde donde continúa, siguiendo el límite septentrional del término municipal de Arico hasta Montaña Colorada. De ahí continúa por la crestería del Circo de las Cañadas hasta la Degollada de Guajara en su confluencia con el Monte de Utilidad Pública número 3 «Pinar» de Granadilla de Abona. Sigue descendiendo por el barranco del Río, por el límite noreste del citado MUP número 3 hasta contactar con el límite del Monte de Utilidad Pública «Contador y Cumbre», en los escarpes de la margen izquierda del Barranco del Río en Los Andenes.
-
-
-Sur: Del inicio de los escarpes de la margen izquierda del Barranco del Río en Los Andenes, en línea recta hacia Montaña de Las Arenas y sin alcanzarla, hasta la cota de 2.250 metros, por ésta en dirección sur hasta alcanzar la línea recta que uniría Montaña de Las Arenas y sin alcanzarla, hasta alcanzar la línea recta que uniría Montaña de Las Arenas y el Roque del Encaje, por esta línea sin alcanzarlo, hasta la cota 2.150 metros y por ésta en dirección norte hasta alcanzar el cauce del Barranco del Carnero, y ascendiendo por éste, justo por el límite oeste del MUP número 3 «Pinar», hasta la Degollada del Valle de Ucanca. De aquí, siguiendo por la crestería del Circo de Las Cañadas hacia el Oeste, hasta la confluencia con el MUP número 7 «Vica y Lajas», desciende por el límite este de dicho MUP número 7 en el Barranco de La Magdalena hasta la cota de nivel 2.250. Sigue por ésta, en dirección oeste hasta el Barranco del Dornajito, descendiendo por éste hasta el punto kilométrico 57,4 de la TF-21, siguiendo por la carretera hasta la curva del punto kilométrico 54,2 de aquí ascendiendo en línea recta a los Roques de Ucanca o Ucazme a cota 2.051 metros.
-
-
-Oeste: De los Roques de Ucanca o Ucazme en línea recta a Montaña Gangarro, a Roques de Chavao y de aquí en línea recta a Montaña Chasogo y por el actual límite del Parque Nacional del Teide hasta la carretera TF-38, siguiendo por la misma hasta su punto kilométrico 8.3.
-
-
-Norte: Del punto kilométrico 8,3 de la carretera comarcal TF-38 de Chío a Las Cañadas, en línea recta hacia el pico del Teide, y sin llegar a él, hasta alcanzar la cota 2.000 metros. Por esta cota hasta el promontorio de la Hoya del Cedro, junto al antiguo colmenar en la cota 2.000 metros y desde aquí en línea recta hasta Los Castillos en la cota 1.654 metros. De aquí en dirección norte hasta alcanzar la cota 1.600 metros, por esta cota hasta alcanzar la línea que uniría Cruz de La Vieja y la Montaña Abejera Alta, por esta línea ascendiendo hasta la cota 1.650 metros, por esta cota hasta alcanzar la pista forestal sin salida de Los Areneros, por esta pista hasta el Barranco del Brinco o del Pino, y por él ascendiendo hasta la cota 1.800 metros. Desde este punto en línea recta hasta el actual límite de los términos municipales entre La Guancha y San Juan de la Rambla en la cota 1.900 metros y siguiendo esta cota hasta alcanzar el Barranco de la Degollada o de Ruiz, ascendiendo por este barranco hasta la cota 2.000 metros, y siguiendo esta cota hasta el camino que comunica El Cabezón y el Centro de Visitantes de El Portillo, por éste y en dirección a dicho Centro hasta alcanzar nuevamente la cota 2.000 metros por esta cota hasta cortar la línea que une Montaña de la Negrita con Montaña Roja. Siguiendo esta línea recta hasta Montaña Roja, de aquí en línea recta a la Piedra Gallega, al Pico Cruz de la Vieja y a Montaña Cascajo, en el límite del Pinar de Chío (Guía de Isora), con el Pinar de Santiago del Teide.
-
-
-Oeste: De Montaña Cascajo en línea recta al Vértice Erques (?) y Montaña de Las Lajas.
-
-
-Sur: De Montaña de Las Lajas en línea recta al Lomo de Báez.
-
-
-Este: Del Lomo de Báez en línea recta al Barranco de Pasajirón, a la Montaña de Siete Fuentes, a Montaña de Corchado y a Montaña de Igueque.
-
-
-Igualmente mantiene su condición de zona periférica de protección el enclave formado por las propiedades privadas particulares del Caserío del Portillo Alto y Portillo Bajo.
-
-
-
-
-Subir
-
-
-
-
-
-
-[Bloque 7: #ai-4]
-
-
-ANEXO IV
-
-
-Relación de las propiedades públicas y privadas definidas con sus límites geográficos, linderos y superficies, situadas dentro del perímetro ampliado del Parque Nacional del Teide que por el momento no se incorporan al mismo
-
-
-Finca «Las Cumbres».
-
-
-Propiedad del Ministerio de Defensa, cuyos límites son:
-
-
-Este: De la Degollada de Guajara en la confluencia de la crestería del circo de las Cañadas con el Monte de Utilidad Pública número 3 «Pinar» de Granadilla de Abona, descendiendo por el Barranco del Río por el límite noreste del citado MUP hasta contactar con el límite del MUP «Contador y Cumbre», en los escarpes de la margen izquierda del Barranco del Río en Los Andenes.
-
-
-Sur: Desde los escarpes de la margen izquierda del Barranco del Río en Los Andenes, en dirección noreste, siguiendo el límite septentrional del Monte de Utilidad Pública número 2 «Contador y Cumbre» de Arico, hasta alcanzar el límite municipal entre Arico y Fasnia.
-
-
-Oeste: Desde el punto citado en el límite municipal entre Arico y Fasnia, en dirección noroeste siguiendo el citado límite municipal hasta la Degollada de Abreu.
-
-
-Norte: De la Degollada de Abreu, siguiendo el límite septentrional del término municipal de Arico hasta Montaña Colorada, de ahí continúa por la crestería del circo de las Cañadas hasta la Degollada de Guajara en la confluencia de la crestería del circo de las Cañadas con el Monte de Utilidad Pública número 3 «Pinar» de Granadilla de Abona.
-
-
-Fincas de Vilaflor.
-
-
-Propiedades privadas particulares situadas entre los siguientes límites:
-
-
-De la Degollada del Valle de Ucanca en dirección sur siguiendo el límite oeste del MUP número 3 «Pinar», hasta alcanzar la cota 2.150 y siguiendo por esta cota en la ladera del Roque del Encaje hasta cortar la línea recta que une este Roque con la Montaña de Las Arenas y siguiendo esta línea en dirección al Roque del Encaje, siguiendo por esta línea en dirección a este Roque hasta cortar la cota 2.250 por esta cota hasta su confluencia con el Monte de Utilidad Pública número 7 «Vica y Lajas», y ascendiendo por el límite oriental de este Monte, en el Barranco de la Magdalena, hasta la crestería del circo de Las Cañadas y siguiendo por esta crestería hasta alcanzar el Monte de Utilidad Pública número 3 «Pinar» en la Degollada del Valle de Ucanca.
-
-
-Enclavados del Portillo.
-
-
-Se incluyen en este apartado las propiedades privadas particulares enclavadas en el Caserío del Portillo Alto y Portillo Bajo (8 hectáreas aproximadamente).
-
-
-
-
-Subir
+Titular: Don Fernando Padilla Torralbo. Número de Registro
+de Personal: 3002333824 A5551. Puesto: Chófer del Rector.
+Código: 343. N. C. Destino: 15. Complemento específico:
+1.461.792 pesetas. Observaciones: Disponibilidad horaria en fun-
+ción de las necesidades del servicio del Rector.
+24756
+RESOLUCIÓN de 1 de diciembre de 1999, de la Uni-
+versidad Jaume I, por la que se nombra a don Juan
+José Rubert Nebot Profesor titular de Escuela Uni-
+versitaria, en el área de conocimiento de «Economía
+Aplicada».
+De conformidad con la propuesta formulada por la Comisión
+constituida para juzgar el concurso público convocado por Reso-
+lución de esta Universidad Jaime I de 4 de diciembre de 1998
+para la provisión de la plaza de Profesor titular de Escuela Uni-
+versitaria del área de conocimiento de «Economía Aplicada» (con-
+curso número 42/1998) y una vez acreditado por el concursante
+propuesto que reúne los requisitos a que alude el apartado 2 del
+## artículo 5.o del Real Decreto 1888/1984, de 26 de septiembre,
+Este Rectorado, en uso de las atribuciones conferidas por el
+## artículo 42 de la Ley 11/1983, de 25 de agosto, de Reforma
+Universitaria y demás disposiciones que la desarrollan, ha resuelto
+nombrar a don Juan José Rubert Nebot Profesor titular de Escuela
+Universitaria en el área de conocimiento de «Economía Aplicada»
+adscrita al departamento de Economía.
+Castellón, 1 de diciembre de 1999.—El Rector, Fernando Rome-
+ro Subirón.
+24757
+RESOLUCIÓN de 2 de diciembre de 1999, de la Uni-
+versidad de Castilla-La Mancha, por la que se hace
+público el resultado del concurso específico de méri-
+tos, convocado por Resolución de 27 de septiembre
+de 1999.
+Publicada Resolución de 27 de septiembre de 1999 («Boletín
+Oficial del Estado» de 22 de octubre), por la que se convoca por
+el procedimiento de concurso específico de méritos diversas plazas
+vacantes para personal funcionario de esta Universidad, y como
+consecuencia de las puntuaciones otorgadas.
+A la vista de la propuesta efectuada por el Tribunal que valoró
+el mencionado concurso,
+He resuelto:
+Publicar el resultado del concurso específico de méritos, del
+personal que en anexo se relaciona.
+Ciudad Real, 2 de diciembre de 1999.—El Rector, Luis Alberto
+Arroyo Zapatero.
