@@ -296,6 +296,18 @@ relaciones:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-mad-o130-2023
   - norma_id: norm-mad-d-29-2013
+  - norma_id: norm-mad-d-149-2000
+  - norma_id: norm-and-d-363-2011
+  - norma_id: norm-and-o-20-8-2010
+  - norma_id: norm-mad-d-65-2022
+  - norma_id: norm-and-d-6-2017
+  - norma_id: norm-and-d-362-2011
+  - norma_id: norm-and-d-329-2010
+  - norma_id: norm-mad-d-43-2024
+  - norma_id: norm-and-o-30-5-2023-bach
+  - norma_id: norm-and-d-436-2008
+  - norma_id: norm-mad-o-190-2023
+  - norma_id: norm-and-d-365-2011
   desarrollado_por: []
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978

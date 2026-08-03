@@ -129,6 +129,9 @@ relaciones:
   - norma_id: norm-can-d-81-2010
   - norma_id: norm-mad-r23-6-2025
   - norma_id: norm-and-r-calendario-escolar-2025-2026
+  - norma_id: norm-mad-d-149-2000
+  - norma_id: norm-and-o-20-8-2010
+  - norma_id: norm-mad-o-190-2023
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

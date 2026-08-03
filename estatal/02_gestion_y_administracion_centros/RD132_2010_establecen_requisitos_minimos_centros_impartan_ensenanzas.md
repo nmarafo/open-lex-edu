@@ -80,6 +80,11 @@ relaciones:
   - norma_id: norm-and-d-328-2010
   - norma_id: norm-and-d-327-2010
   - norma_id: norm-mad-d149-2000
+  - norma_id: norm-and-d-363-2011
+  - norma_id: norm-mad-d-43-2024
+  - norma_id: norm-and-d-362-2011
+  - norma_id: norm-and-d-329-2010
+  - norma_id: norm-and-d-365-2011
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:

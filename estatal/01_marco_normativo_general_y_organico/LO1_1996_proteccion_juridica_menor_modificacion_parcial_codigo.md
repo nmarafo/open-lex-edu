@@ -63,6 +63,8 @@ relaciones:
   - norma_id: norm-mad-d-32-2019
   - norma_id: norm-and-l9-1999
   - norma_id: norm-mad-d23-2023
+  - norma_id: norm-and-d-147-2002
+  - norma_id: norm-mad-o-1605-2024
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
