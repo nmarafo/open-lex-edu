@@ -20,17 +20,6 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 
 ---
 
-## 🏛️ Fuentes Primarias Autonómicas Obligatorias
-
-Para garantizar la máxima fiabilidad, integridad del texto articulado (OCR a 2 columnas) y evitar errores de maquetación de los diarios oficiales, **todas las actualizaciones normativas a nivel autonómico se remiten y extraen prioritariamente desde los repositorios dedicados del proyecto**:
-
-| Comunidad Autónoma | Repositorio Base de Datos Dedicado (Fuente Primaria) | Diario Oficial |
-| :--- | :--- | :--- |
-| **Canarias** | [normativa-educativa-canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database) | BOC / Sede Electrónica |
-| **Madrid** | [normativa-educativa-madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database) | BOCM / Portal WLEG |
-| **Andalucía** | [normativa-educativa-andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | BOJA / Portal Junta |
-
----
 
 ## 📅 Registro de Últimas Actualizaciones Normativas
 
