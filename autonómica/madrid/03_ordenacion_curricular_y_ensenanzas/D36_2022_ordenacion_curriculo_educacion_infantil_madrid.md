@@ -2,7 +2,7 @@
 id: norm-mad-d-36-2022
 codigo_sintetizado: D36_2022 Ordenacion y Curriculo Educacion Infantil Madrid
 titulo: Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece
-  para la Comunidad de Madrid la ordenación y el currículo de la Educación Infantil.
+  para la Comunidad de Madrid el currículo de Infantil.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
@@ -20,9 +20,9 @@ clasificacion:
   categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
   subcategoria: Educación Infantil
 tags:
+- infantil
 - curriculo_infantil
-- ordenacion_infantil
-- etapa_infantil
+- areas_experiencia
 - madrid
 relaciones:
   desarrolla:
@@ -35,14 +35,14 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 36/2022, de 8 de junio, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad de Madrid.
+# Decreto 36/2022, de 8 de junio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Infantil.
 
-Fija los objetivos, áreas de experiencia, competencias clave, criterios de evaluación y orientaciones pedagógicas del primer y segundo ciclo de Educación Infantil en la Comunidad de Madrid.
+Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
 
 ## Articulado e Instrucciones en Vigor
 
 ### Capítulo I. Disposiciones Generales
-La presente disposición es de aplicación obligatoria en todos los centros docentes públicos y privados concertados de la Comunidad de Madrid durante el curso escolar 2025-2026.
+La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
 
-### Capítulo II. Medidas de Organización y Supervisión
-Los equipos directivos de los centros docentes y la Dirección de Área Territorial correspondiente velarán por la supervisión e implantación efectiva de las directrices fijadas en la presente norma.
+### Capítulo II. Control Institucional
+La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.

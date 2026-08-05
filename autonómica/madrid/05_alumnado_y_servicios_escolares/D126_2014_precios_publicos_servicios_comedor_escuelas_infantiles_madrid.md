@@ -1,28 +1,28 @@
 ---
-id: norm-mad-d-61-2022
-codigo_sintetizado: D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid
-titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece
-  para la Comunidad de Madrid el currículo de Primaria.
+id: norm-mad-d-126-2014
+codigo_sintetizado: D126_2014 Precios Publicos Comedor Escuelas Infantiles Madrid
+titulo: Decreto 126/2014, de 4 de septiembre, por el que se fijan los precios públicos
+  por los servicios de comedor en Escuelas Infantiles.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
   Madrid
 tipo_disposicion: Decreto
-numero_disposicion: 61/2022
-fecha_disposicion: '2022-07-13'
-fecha_publicacion: '2022-07-15'
+numero_disposicion: 126/2014
+fecha_disposicion: '2014-09-04'
+fecha_publicacion: '2014-09-08'
 boletin: BOCM
-numero_boletin: '167'
+numero_boletin: '213'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12490
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8640
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Primaria
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Precios públicos
 tags:
-- primaria
-- curriculo_primaria
-- areas
+- comedor_infantil
+- precios_publicos
+- becas_comedor
 - madrid
 relaciones:
   desarrolla:
@@ -35,7 +35,7 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
+# Decreto 126/2014, de 4 de septiembre, por el que se fijan los precios públicos por los servicios de comedor en Escuelas Infantiles.
 
 Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
 

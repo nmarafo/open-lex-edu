@@ -91,6 +91,11 @@ relaciones:
   - norma_id: norm-and-d-208-1997
   - norma_id: norm-and-d-54-1989
   - norma_id: norm-and-d-21-1985
+  - norma_id: norm-mad-d-15-2016
+  - norma_id: norm-and-d-52-2021
+  - norma_id: norm-mad-d-31-2011
+  - norma_id: norm-mad-d-112-2002
+  - norma_id: norm-and-d-155-1997
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:

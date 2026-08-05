@@ -359,6 +359,45 @@ relaciones:
   - norma_id: norm-and-o-20-7-2006
   - norma_id: norm-and-d-14-1995
   - norma_id: norm-mad-o-1338-2023
+  - norma_id: norm-and-o-15-12-2008
+  - norma_id: norm-and-d-167-2003
+  - norma_id: norm-mad-o-2150-2020
+  - norma_id: norm-and-d-52-2021
+  - norma_id: norm-mad-d-112-2002
+  - norma_id: norm-and-o-17-6-2009
+  - norma_id: norm-and-o-26-5-2011-arte
+  - norma_id: norm-and-o-10-8-2007
+  - norma_id: norm-and-o-12-7-2011
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-d-431-2008
+  - norma_id: norm-and-o-29-9-2008
+  - norma_id: norm-mad-r-acoso-2022
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-and-d-140-2002
+  - norma_id: norm-mad-o-6116-2025
+  - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-and-o-15-7-2008
+  - norma_id: norm-and-r-12-2-2021
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-and-o-25-7-2008
+  - norma_id: norm-and-d-213-1995
+  - norma_id: norm-and-d-155-1997
+  - norma_id: norm-and-o-16-11-2007
+  - norma_id: norm-and-o-16-4-2008
+  - norma_id: norm-and-o-11-12-2012
+  - norma_id: norm-mad-d-126-2014
+  - norma_id: norm-and-o-3-8-2010
+  - norma_id: norm-and-o-24-6-2008
+  - norma_id: norm-and-o-26-5-2011-eoi
+  - norma_id: norm-and-o-27-7-2006
+  - norma_id: norm-mad-d-31-2011
+  - norma_id: norm-and-o-28-6-2011
+  - norma_id: norm-and-r-1-9-2025
+  - norma_id: norm-and-o-14-7-2016
+  - norma_id: norm-mad-d-15-2016
+  - norma_id: norm-and-d-40-2011
+  - norma_id: norm-and-o-26-5-2011
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1987-15278
@@ -771,6 +810,45 @@ relaciones:
   - norma_id: norm-and-o-20-7-2006
   - norma_id: norm-and-d-14-1995
   - norma_id: norm-mad-o-1338-2023
+  - norma_id: norm-and-o-15-12-2008
+  - norma_id: norm-and-d-167-2003
+  - norma_id: norm-mad-o-2150-2020
+  - norma_id: norm-and-d-52-2021
+  - norma_id: norm-mad-d-112-2002
+  - norma_id: norm-and-o-17-6-2009
+  - norma_id: norm-and-o-26-5-2011-arte
+  - norma_id: norm-and-o-10-8-2007
+  - norma_id: norm-and-o-12-7-2011
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-d-431-2008
+  - norma_id: norm-and-o-29-9-2008
+  - norma_id: norm-mad-r-acoso-2022
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-and-d-140-2002
+  - norma_id: norm-mad-o-6116-2025
+  - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-and-o-15-7-2008
+  - norma_id: norm-and-r-12-2-2021
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-and-o-25-7-2008
+  - norma_id: norm-and-d-213-1995
+  - norma_id: norm-and-d-155-1997
+  - norma_id: norm-and-o-16-11-2007
+  - norma_id: norm-and-o-16-4-2008
+  - norma_id: norm-and-o-11-12-2012
+  - norma_id: norm-mad-d-126-2014
+  - norma_id: norm-and-o-3-8-2010
+  - norma_id: norm-and-o-24-6-2008
+  - norma_id: norm-and-o-26-5-2011-eoi
+  - norma_id: norm-and-o-27-7-2006
+  - norma_id: norm-mad-d-31-2011
+  - norma_id: norm-and-o-28-6-2011
+  - norma_id: norm-and-r-1-9-2025
+  - norma_id: norm-and-o-14-7-2016
+  - norma_id: norm-mad-d-15-2016
+  - norma_id: norm-and-d-40-2011
+  - norma_id: norm-and-o-26-5-2011
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

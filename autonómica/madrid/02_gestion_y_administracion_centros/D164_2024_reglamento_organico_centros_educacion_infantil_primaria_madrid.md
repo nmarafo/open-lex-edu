@@ -1,31 +1,29 @@
 ---
 id: norm-mad-d-164-2024
-codigo_sintetizado: D164_2024 ROC Escuelas Infantiles y CEIP Madrid
-titulo: Decreto 164/2024, de 18 de septiembre, del Consejo de Gobierno, por el que
-  se aprueba el Reglamento Orgánico de las Escuelas Infantiles, de los Colegios de
-  Educación Infantil y Primaria y de los Colegios de Educación Infantil, Primaria
-  y Secundaria de la Comunidad de Madrid.
+codigo_sintetizado: D164_2024 ROC CEIP Comunidad de Madrid
+titulo: Decreto 164/2024, de 18 de diciembre, del Consejo de Gobierno, por el que
+  se aprueba el Reglamento Orgánico de CEIP en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
   Madrid
 tipo_disposicion: Decreto
 numero_disposicion: 164/2024
-fecha_disposicion: '2024-09-18'
-fecha_publicacion: '2024-09-23'
+fecha_disposicion: '2024-12-18'
+fecha_publicacion: '2024-12-20'
 boletin: BOCM
-numero_boletin: '227'
+numero_boletin: '303'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=14120
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=14180
 clasificacion:
   categoria_canonica: 02_gestion_y_administracion_centros
   subcategoria: Reglamentos Orgánicos de Centro
 tags:
 - roc_ceip
-- organos_gobierno
+- primaria
+- infantil
 - equipo_directivo
-- consejo_escolar
 - madrid
 relaciones:
   desarrolla:
@@ -39,14 +37,14 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 164/2024, de 18 de septiembre, por el que se aprueba el Reglamento Orgánico de las Escuelas Infantiles y CEIP de la Comunidad de Madrid.
+# Decreto 164/2024, de 18 de diciembre, del Consejo de Gobierno, por el que se aprueba el Reglamento Orgánico de CEIP en Madrid.
 
-Regula los órganos unipersonales de gobierno, el Consejo Escolar, el Claustro del Profesorado, los órganos de coordinación docente y las normas de funcionamiento interno de las Escuelas Infantiles y Colegios de Educación Infantil y Primaria en la Comunidad de Madrid.
+Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
 
 ## Articulado e Instrucciones en Vigor
 
 ### Capítulo I. Disposiciones Generales
-La presente disposición es de aplicación obligatoria en todos los centros docentes públicos y privados concertados de la Comunidad de Madrid durante el curso escolar 2025-2026.
+La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
 
-### Capítulo II. Medidas de Organización y Supervisión
-Los equipos directivos de los centros docentes y la Dirección de Área Territorial correspondiente velarán por la supervisión e implantación efectiva de las directrices fijadas en la presente norma.
+### Capítulo II. Control Institucional
+La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.

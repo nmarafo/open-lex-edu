@@ -1,41 +1,39 @@
 ---
-id: norm-mad-d-61-2022
-codigo_sintetizado: D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid
-titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece
-  para la Comunidad de Madrid el currículo de Primaria.
+id: norm-mad-d-32-2019
+codigo_sintetizado: D32_2019 Decreto Convivencia Escolar Comunidad de Madrid
+titulo: Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece
+  el marco regulador de la convivencia escolar en Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
   Madrid
 tipo_disposicion: Decreto
-numero_disposicion: 61/2022
-fecha_disposicion: '2022-07-13'
-fecha_publicacion: '2022-07-15'
+numero_disposicion: 32/2019
+fecha_disposicion: '2019-04-09'
+fecha_publicacion: '2019-04-11'
 boletin: BOCM
-numero_boletin: '167'
+numero_boletin: '86'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12490
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=10780
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Primaria
+  categoria_canonica: 07_convivencia_bienestar_y_protocolos
+  subcategoria: Convivencia escolar
 tags:
-- primaria
-- curriculo_primaria
-- areas
+- convivencia
+- faltas_correcciones
+- derechos_deberes
 - madrid
 relaciones:
   desarrolla:
   - norma_id: norm-es-lo-2-2006
   fundamentado_en:
   - norma_id: norm-mad-d-29-2013
-  - norma_id: norm-es-lo-2-2006
-  - norma_id: norm-es-l-39-2015
 ---
 
 ## Preámbulo
 
-# Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
+# Decreto 32/2019, de 9 de abril, del Consejo de Gobierno, por el que se establece el marco regulador de la convivencia escolar en Madrid.
 
 Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
 

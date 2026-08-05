@@ -1,28 +1,28 @@
 ---
-id: norm-mad-d-61-2022
-codigo_sintetizado: D61_2022 Ordenacion y Curriculo Educacion Primaria Madrid
-titulo: Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece
-  para la Comunidad de Madrid el currículo de Primaria.
+id: norm-mad-d-29-2013
+codigo_sintetizado: D29_2013 Libertad Eleccion Centro Escolar Madrid
+titulo: Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección
+  de centro escolar en la Comunidad de Madrid.
 jurisdiccion: Madrid
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Ciencia y Universidades de la Comunidad de
   Madrid
 tipo_disposicion: Decreto
-numero_disposicion: 61/2022
-fecha_disposicion: '2022-07-13'
-fecha_publicacion: '2022-07-15'
+numero_disposicion: 29/2013
+fecha_disposicion: '2013-04-11'
+fecha_publicacion: '2013-04-12'
 boletin: BOCM
-numero_boletin: '167'
+numero_boletin: '86'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12490
+fuente_oficial: https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8040
 clasificacion:
-  categoria_canonica: 03_ordenacion_curricular_y_ensenanzas
-  subcategoria: Educación Primaria
+  categoria_canonica: 05_alumnado_y_servicios_escolares
+  subcategoria: Admisión de alumnado
 tags:
-- primaria
-- curriculo_primaria
-- areas
+- libertad_eleccion
+- zona_unica
+- admision
 - madrid
 relaciones:
   desarrolla:
@@ -35,7 +35,7 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 61/2022, de 13 de julio, del Consejo de Gobierno, por el que se establece para la Comunidad de Madrid el currículo de Primaria.
+# Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid.
 
 Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
 

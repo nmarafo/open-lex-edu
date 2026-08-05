@@ -136,6 +136,16 @@ relaciones:
   - norma_id: norm-and-d-156-1983
   - norma_id: norm-mad-o-1312-2021
   - norma_id: norm-and-d-204-1995
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-and-o-16-4-2008
+  - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-o-28-6-2011
+  - norma_id: norm-and-r-1-9-2025
+  - norma_id: norm-mad-o-6116-2025
+  - norma_id: norm-and-o-26-5-2011-arte
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-and-o-26-5-2011-eoi
+  - norma_id: norm-and-o-26-5-2011
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

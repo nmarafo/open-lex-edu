@@ -135,6 +135,9 @@ relaciones:
   - norma_id: norm-and-d-4-1993
   - norma_id: norm-and-d-156-1983
   - norma_id: norm-and-d-204-1995
+  - norma_id: norm-mad-l-2-2010
+  - norma_id: norm-and-d-80-1999
+  - norma_id: norm-mad-l-4-2023
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:

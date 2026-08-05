@@ -58,6 +58,8 @@ relaciones:
   - norma_id: norm-mad-d-32-2019
   - norma_id: norm-mad-o-276-2019
   - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-mad-r-acoso-2022
   desarrollado_por:
   - norma_id: norm-can-res-125
   - norma_id: norm-can-res-096
@@ -72,6 +74,8 @@ relaciones:
   - norma_id: norm-mad-d-32-2019
   - norma_id: norm-mad-o-276-2019
   - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-o-20-6-2011
+  - norma_id: norm-mad-r-acoso-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:
