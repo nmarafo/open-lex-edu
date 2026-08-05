@@ -67,6 +67,7 @@ relaciones:
   - norma_id: norm-and-l3-2021
   - norma_id: norm-and-r-cdd-2025-2026
   - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-mad-o-2808-2017
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1998-10720

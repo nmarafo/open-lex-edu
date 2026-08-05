@@ -133,6 +133,8 @@ relaciones:
   - norma_id: norm-mad-l1-2022
   - norma_id: norm-mad-d-149-2000
   - norma_id: norm-and-d-4-1993
+  - norma_id: norm-and-d-156-1983
+  - norma_id: norm-and-d-204-1995
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:

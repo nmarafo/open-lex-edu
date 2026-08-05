@@ -56,6 +56,8 @@ relaciones:
   - norma_id: norm-mad-o2742-2022
   - norma_id: norm-and-d19-2007
   - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-d-1-2011
   desarrollado_por:
   - norma_id: norm-can-res-125
   - norma_id: norm-can-res-096
@@ -68,6 +70,8 @@ relaciones:
   - norma_id: norm-mad-o2742-2022
   - norma_id: norm-and-d19-2007
   - norma_id: norm-mad-d-32-2019
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-d-1-2011
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

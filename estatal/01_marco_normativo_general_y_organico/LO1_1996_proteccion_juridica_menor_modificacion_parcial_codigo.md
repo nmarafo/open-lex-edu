@@ -66,6 +66,11 @@ relaciones:
   - norma_id: norm-and-d-147-2002
   - norma_id: norm-mad-o-1605-2024
   - norma_id: norm-and-d-254-2001
+  - norma_id: norm-mad-o-276-2019
+  - norma_id: norm-and-o-18-6-2001
+  - norma_id: norm-and-d-1-2011
+  - norma_id: norm-and-d-276-1987
+  - norma_id: norm-mad-o-1050-2020
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
