@@ -65,6 +65,7 @@ relaciones:
   - norma_id: norm-mad-d23-2023
   - norma_id: norm-and-d-147-2002
   - norma_id: norm-mad-o-1605-2024
+  - norma_id: norm-and-d-254-2001
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:

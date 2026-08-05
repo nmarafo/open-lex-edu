@@ -315,6 +315,16 @@ relaciones:
   - norma_id: norm-and-d-436-2008
   - norma_id: norm-mad-o-190-2023
   - norma_id: norm-and-d-365-2011
+  - norma_id: norm-and-d-68-2008
+  - norma_id: norm-and-d-117-1985
+  - norma_id: norm-mad-d-10-2023
+  - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-and-d-56-1994
+  - norma_id: norm-mad-d-126-2017
+  - norma_id: norm-and-d-254-2001
+  - norma_id: norm-mad-d-35-2019
+  - norma_id: norm-and-d-4-1993
+  - norma_id: norm-mad-d-12-2022
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1987-15278
@@ -683,6 +693,16 @@ relaciones:
   - norma_id: norm-and-d-436-2008
   - norma_id: norm-mad-o-190-2023
   - norma_id: norm-and-d-365-2011
+  - norma_id: norm-and-d-68-2008
+  - norma_id: norm-and-d-117-1985
+  - norma_id: norm-mad-d-10-2023
+  - norma_id: norm-mad-d-11-2019
+  - norma_id: norm-and-d-56-1994
+  - norma_id: norm-mad-d-126-2017
+  - norma_id: norm-and-d-254-2001
+  - norma_id: norm-mad-d-35-2019
+  - norma_id: norm-and-d-4-1993
+  - norma_id: norm-mad-d-12-2022
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

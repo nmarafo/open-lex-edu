@@ -132,6 +132,7 @@ relaciones:
   - norma_id: norm-mad-d-149-2000
   - norma_id: norm-and-o-20-8-2010
   - norma_id: norm-mad-o-190-2023
+  - norma_id: norm-and-d-4-1993
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

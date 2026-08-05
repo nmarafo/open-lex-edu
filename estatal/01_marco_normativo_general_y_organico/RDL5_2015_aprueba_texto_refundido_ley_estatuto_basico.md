@@ -92,6 +92,7 @@ relaciones:
   - norma_id: norm-and-l3-2021
   - norma_id: norm-mad-d43-2022
   - norma_id: norm-and-r-cdd-2025-2026
+  - norma_id: norm-mad-d-11-2019
   desarrollado_por:
   - norma_id: norm-can-res-boc-2020-130-131
   - norma_id: norm-can-d-82-1994
@@ -124,6 +125,7 @@ relaciones:
   - norma_id: norm-and-l3-2021
   - norma_id: norm-mad-d43-2022
   - norma_id: norm-and-r-cdd-2025-2026
+  - norma_id: norm-mad-d-11-2019
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

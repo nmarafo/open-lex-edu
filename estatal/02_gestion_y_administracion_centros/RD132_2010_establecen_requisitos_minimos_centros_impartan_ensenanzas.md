@@ -85,6 +85,8 @@ relaciones:
   - norma_id: norm-and-d-362-2011
   - norma_id: norm-and-d-329-2010
   - norma_id: norm-and-d-365-2011
+  - norma_id: norm-mad-d-126-2017
+  - norma_id: norm-mad-d-35-2019
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
