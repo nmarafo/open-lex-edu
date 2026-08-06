@@ -97,6 +97,10 @@ relaciones:
   - norma_id: norm-mad-d-112-2002
   - norma_id: norm-and-d-155-1997
   - norma_id: norm-mad-d-18-2024
+  - norma_id: norm-and-o-28-3-2008
+  - norma_id: norm-and-d-301-2009
+  - norma_id: norm-and-d-156-1997
+  - norma_id: norm-mad-d-29-2019
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:

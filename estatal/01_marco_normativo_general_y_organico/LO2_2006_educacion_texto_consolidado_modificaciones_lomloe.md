@@ -419,6 +419,31 @@ relaciones:
   - norma_id: norm-and-d-512-1996
   - norma_id: norm-and-o-8-7-1996
   - norma_id: norm-mad-d-88-2021
+  - norma_id: norm-mad-o-1493-2015
+  - norma_id: norm-and-o-22-7-2013
+  - norma_id: norm-and-d-156-1997
+  - norma_id: norm-mad-o-1117-2020
+  - norma_id: norm-and-d-85-1999
+  - norma_id: norm-and-o-28-3-2008
+  - norma_id: norm-and-d-135-2014
+  - norma_id: norm-mad-o-3622-2014
+  - norma_id: norm-mad-o-1190-2021
+  - norma_id: norm-mad-o-1240-2013
+  - norma_id: norm-mad-o-2694-2009
+  - norma_id: norm-and-o-17-9-2010
+  - norma_id: norm-and-o-16-12-2008
+  - norma_id: norm-and-r-14-12-2009
+  - norma_id: norm-and-o-12-6-2008
+  - norma_id: norm-and-d-166-2003
+  - norma_id: norm-and-o-19-9-2002
+  - norma_id: norm-mad-o-2300-2022
+  - norma_id: norm-mad-d-15-2023
+  - norma_id: norm-and-d-115-2002
+  - norma_id: norm-and-d-301-2009
+  - norma_id: norm-mad-d-40-2021
+  - norma_id: norm-mad-d-29-2019
+  - norma_id: norm-and-o-24-7-2006
+  - norma_id: norm-and-o-26-6-2012
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1987-15278
@@ -891,6 +916,31 @@ relaciones:
   - norma_id: norm-and-d-512-1996
   - norma_id: norm-and-o-8-7-1996
   - norma_id: norm-mad-d-88-2021
+  - norma_id: norm-mad-o-1493-2015
+  - norma_id: norm-and-o-22-7-2013
+  - norma_id: norm-and-d-156-1997
+  - norma_id: norm-mad-o-1117-2020
+  - norma_id: norm-and-d-85-1999
+  - norma_id: norm-and-o-28-3-2008
+  - norma_id: norm-and-d-135-2014
+  - norma_id: norm-mad-o-3622-2014
+  - norma_id: norm-mad-o-1190-2021
+  - norma_id: norm-mad-o-1240-2013
+  - norma_id: norm-mad-o-2694-2009
+  - norma_id: norm-and-o-17-9-2010
+  - norma_id: norm-and-o-16-12-2008
+  - norma_id: norm-and-r-14-12-2009
+  - norma_id: norm-and-o-12-6-2008
+  - norma_id: norm-and-d-166-2003
+  - norma_id: norm-and-o-19-9-2002
+  - norma_id: norm-mad-o-2300-2022
+  - norma_id: norm-mad-d-15-2023
+  - norma_id: norm-and-d-115-2002
+  - norma_id: norm-and-d-301-2009
+  - norma_id: norm-mad-d-40-2021
+  - norma_id: norm-mad-d-29-2019
+  - norma_id: norm-and-o-24-7-2006
+  - norma_id: norm-and-o-26-6-2012
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

@@ -71,6 +71,7 @@ relaciones:
   - norma_id: norm-mad-o-2150-2020
   - norma_id: norm-and-o-11-12-2012
   - norma_id: norm-and-o-10-11-2020
+  - norma_id: norm-mad-o-1117-2020
   fundamentado_en:
   - norma_id: norm-es-1984-17387
   - norma_id: norm-es-1998-10720

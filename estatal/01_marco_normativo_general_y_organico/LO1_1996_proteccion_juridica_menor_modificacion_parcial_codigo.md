@@ -79,6 +79,13 @@ relaciones:
   - norma_id: norm-and-r-28-8-2002
   - norma_id: norm-and-o-31-5-1994
   - norma_id: norm-mad-o-3210-2021
+  - norma_id: norm-and-d-85-1999
+  - norma_id: norm-mad-o-1240-2013
+  - norma_id: norm-and-r-14-12-2009
+  - norma_id: norm-and-o-24-7-2006
+  - norma_id: norm-and-o-19-9-2002
+  - norma_id: norm-mad-o-3622-2014
+  - norma_id: norm-and-d-166-2003
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:
