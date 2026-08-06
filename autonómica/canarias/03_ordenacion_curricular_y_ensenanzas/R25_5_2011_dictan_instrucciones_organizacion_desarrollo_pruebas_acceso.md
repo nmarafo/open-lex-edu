@@ -52,11 +52,12 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-106-2943.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65631
 ---
+
 ## Preámbulo
 
 # Resolución de 25 de mayo de 2011, por la que se dictan instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y se convocan las correspondientes al curso académico 2011 (BOC n.º 106, de 31 de mayo).
 
-Consejería de Educación, Universidades, 
+Consejería de Educación, Universidades,
 Cultura y Deportes
 2943 Dirección General de Formación Profesional
 y Educación de Adultos.- Resolución de 25 de
@@ -66,7 +67,7 @@ superiores de Grado en Música, Arte Dramático y Diseño en la Comunidad Autón
 Canarias, y se convocan las correspondientes
 al curso académico 2011.
 A iniciativa del Servicio de Enseñanzas Artísticas de este Centro Directivo y de acuerdo con el
-siguiente 
+siguiente
 ANTECEDENTE DE HECHO
 Único.- De acuerdo con lo dispuesto en la Orden
 de 29 de abril de 2011, que aprueba, con carácter experimental, la implantación de los estudios oficiales
@@ -79,10 +80,10 @@ superiores se requerirá estar en posesión del título de
 bachiller o haber superado la prueba de acceso a la
 universidad para mayores de 25 años, así como la superación de las correspondientes pruebas específicas,
 a que se refieren los artículos 54, 55, 56 y 57 de la
-citada Ley Orgánica. 
+citada Ley Orgánica.
 Asimismo, el artículo 69, apartado 5, de la citada Ley Orgánica establece que las personas mayores de diecinueve años de edad podrán acceder directamente a las enseñanzas artísticas superiores
 mediante la superación de una prueba específica, regulada y organizada por las Administraciones educativas, que acredite que el aspirante posee la madurez en relación con los objetivos del bachillerato
-y los conocimientos, habilidades y aptitudes necesarios para cursar con aprovechamiento las correspondientes enseñanzas. 
+y los conocimientos, habilidades y aptitudes necesarios para cursar con aprovechamiento las correspondientes enseñanzas.
 Segundo.- En consonancia con los citados preceptos, el artículo 12, apartado 1, del Real Decreto
 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3
 de mayo, de Educación (BOE nº 259, de 27 de octubre) y el artículo 5 de los Reales Decretos 630/2010,
@@ -160,14 +161,14 @@ Primera.- Objeto y ámbito de aplicación.
 el desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en la Comunidad
 Autónoma de Canarias.
 2. Estas instrucciones serán de aplicación a las enseñanzas artísticas superiores de Grado y a los Centros Superiores, de titularidad pública o privada, autorizados a impartirlas en la Comunidad Autónoma
-de Canarias, de acuerdo con lo establecido en la citada Orden de 29 de abril de 2011. 
+de Canarias, de acuerdo con lo establecido en la citada Orden de 29 de abril de 2011.
 Segunda.- Requisitos de acceso a las enseñanzas
 artísticas superiores de Grado.
 De conformidad con lo establecido en los artículos 54.2, 55.2, 56.1 y 57.2 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
 de 3 de mayo, de Educación, para acceder a las enseñanzas artísticas superiores de Grado, en los diversos ámbitos, será preciso reunir los siguientes requisitos:
 a) Estar en posesión del título de Bachiller o haber superado la prueba de acceso a la universidad para mayores de 25 años o titulaciones equivalentes.
 b) Haber superado una prueba específica de acceso, en la que la persona aspirante demuestre la madurez, los conocimientos, habilidades y aptitudes necesarios para cursar con aprovechamiento las enseñanzas
-correspondientes. 
+correspondientes.
 Tercera.- Acceso sin requisitos académicos.
 Conforme a lo dispuesto en el artículo 69.5 de la
 [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación,
@@ -198,7 +199,7 @@ la correspondiente solicitud al Centro en el que pretenda cursar los estudios, c
 Quinta.- Convocatorias anuales.
 1. La Consejería de Educación, Universidades,
 Cultura y Deportes garantizará la celebración de una
-convocatoria anual de pruebas de acceso. 
+convocatoria anual de pruebas de acceso.
 2. Las convocatorias de pruebas de acceso se efectuarán mediante Resolución de la Dirección General competente en materia de enseñanzas artísticas
 superiores.
 Sexta.- Número máximo de convocatorias y mejora de la calificación.
@@ -212,11 +213,11 @@ Séptima.- Lugar y calendario de realización de las
 pruebas de acceso.
 1. Las pruebas específicas de acceso se celebrarán en los Centros Superiores de Enseñanzas Artísticas, de acuerdo con el calendario que para cada
 convocatoria establezca la Dirección General competente en materia de enseñanzas artísticas superiores.
-2. La prueba de acceso para mayores de diecinueve años de edad, sin requisitos académicos, podrá realizarse en un solo centro público cuando así lo determine la Administración Educativa. 
+2. La prueba de acceso para mayores de diecinueve años de edad, sin requisitos académicos, podrá realizarse en un solo centro público cuando así lo determine la Administración Educativa.
 Octava.- Información y difusión de las pruebas de
 acceso.
 1. La Consejería de Educación, Universidades, Cultura y Deportes garantizará la información y difusión
-adecuadas de las convocatorias anuales de las pruebas de acceso a las enseñanzas artísticas superiores. 
+adecuadas de las convocatorias anuales de las pruebas de acceso a las enseñanzas artísticas superiores.
 2. Los Centros Superiores de Enseñanzas Artísticas publicarán al inicio de cada curso académico, toda la información necesaria sobre las pruebas de acceso, su estructura y contenido, así como las orientaciones
 necesarias para su realización. Asimismo, en el marco de su autonomía pedagógica y organizativa, fijarán y harán públicos los criterios previstos sobre el
 grado de dificultad de las distintas partes de la prueba de acceso a las correspondientes especialidades y
@@ -228,13 +229,13 @@ En cumplimiento de lo establecido en la Ley
 de las personas con discapacidad, (BOE nº 289, de
 3 de diciembre), los Centros Superiores de Enseñanzas Artísticas adaptarán las medidas necesarias para
 facilitar la realización de las pruebas de acceso a las
-personas con discapacidad que así lo soliciten formalmente en el impreso de inscripción a las pruebas. 
+personas con discapacidad que así lo soliciten formalmente en el impreso de inscripción a las pruebas.
 Décima.- Abono de las tasas o precios públicos.
 La inscripción en las pruebas de acceso a las enseñanzas artísticas superiores estará sujeta al devengo de las tasas o precios públicos establecidos reglamentariamente o, en su caso, a la cuota de inscripción
 que haya sido fijada por los centros autorizados
-correspondientes. 
+correspondientes.
 CAPÍTULO II
-PRUEBA DE ACCESO PARA LAS PERSONAS 
+PRUEBA DE ACCESO PARA LAS PERSONAS
 ASPIRANTES SIN REQUISITOS ACADÉMICOS
 Undécima.- Perfil de las personas aspirantes sin
 requisitos académicos.
@@ -245,7 +246,7 @@ de acceso, a la que se refiere la instrucción tercera.
 boc-a-2011-106-2943
 
 2. El requisito de la edad mínima establecida para la participación en esta prueba se entenderá cumplido siempre que se alcance la referida edad en el
-año natural de su realización. 
+año natural de su realización.
 3. Para la inscripción en la prueba, las personas
 interesadas deberán cumplimentar la correspondiente solicitud, acompañada, en su caso, de la documentación que se establezca a estos efectos. La solicitud deberá ajustarse al modelo establecido en el
 apéndice 1 de la presente Resolución.
@@ -262,7 +263,7 @@ entre las siguientes tres opciones de lenguas extranjeras: Inglés, Francés o A
 c) Tercer ejercicio: comentario de texto históricosocial o filosófico. Desarrollo por escrito de las tareas que se establezcan sobre el texto propuesto. Duración del ejercicio: máximo 1 hora.
 2. Los referentes para la valoración de los tres ejercicios serán los objetivos y contenidos de la etapa de
 Bachillerato, vigentes en la Comunidad Autónoma
-de Canarias. 
+de Canarias.
 3. Se valorarán tanto los conocimientos como el
 grado de madurez de las personas aspirantes en cuanto a la comprensión de conceptos, la utilización del
 lenguaje, la capacidad de análisis y síntesis, la adecuada integración de los fenómenos tratados con
@@ -280,7 +281,7 @@ Decimocuarta.- Comisión evaluadora.
 1. Para la evaluación y calificación de esta prueba
 se constituirá una comisión evaluadora en el centro o
 centros en los que se celebren las pruebas. Las comisiones evaluadoras estarán constituidas por cinco miembros, entre los cuales se designará un presidente o presidenta y cuatro vocales, actuando de secretario o
-secretaria, con voz y voto, el vocal de menor edad. 
+secretaria, con voz y voto, el vocal de menor edad.
 2. Las comisiones evaluadoras serán nombradas
 por el titular de la Dirección General competente en
 materia de enseñanzas artísticas superiores, a propuesta de la Dirección de los centros, pudiendo disponer
@@ -289,7 +290,7 @@ Decimoquinta.- Actas de evaluación de la prueba.
 1. Las actas de evaluación de la prueba de acceso a las enseñanzas artísticas superiores de Grado
 para personas aspirantes sin requisitos académicos,
 mayores de diecinueve años, se ajustarán al modelo establecido en el apéndice VI de la presente
-Resolución. 
+Resolución.
 2. Las comisiones evaluadoras levantarán acta de
 las pruebas, consignando en ellas las calificaciones
 correspondientes a cada parte y ejercicio, atendiendo a los criterios de evaluación y establecidos para
@@ -301,7 +302,7 @@ día hábil siguiente al de la conclusión de las sesiones de los correspondient
 Decimosexta.- Reclamación contra las calificaciones.
 1. Contra la calificación obtenida podrá presentarse reclamación dirigida a la Presidencia de la Comisión Evaluadora, en la secretaría del centro en el
 que se realice la prueba, en el plazo máximo de tres
-días hábiles, desde la fecha de publicación de las listas definitivas con los resultados de la prueba. 
+días hábiles, desde la fecha de publicación de las listas definitivas con los resultados de la prueba.
 2. En el plazo máximo de 48 horas, la secretaría
 del centro notificará a la comisión evaluadora las reclamaciones presentadas, la cual procederá a su reboc-a-2011-106-2943
 
@@ -310,7 +311,7 @@ de acuerdo con los criterios de evaluación y calificación que se hubieran esta
 los ejercicios de la prueba, y en ella se hará constar
 si ratifica o modifica la calificación otorgada.
 3. La Presidencia de la comisión de evaluación notificará por escrito a la persona reclamante la resolución adoptada, en el plazo máximo de tres días
-desde su recepción por este órgano. 
+desde su recepción por este órgano.
 4. De persistir la discrepancia con la calificación
 obtenida, en el plazo de tres días hábiles desde la notificación de la resolución de la comisión evaluadora, la persona reclamante podrá reiterar su reclamación ante la Dirección del centro, solicitando su
 traslado a la Dirección Territorial de Educación correspondiente. Quien desempeñe la Dirección del
@@ -335,7 +336,7 @@ prueba de acceso.
 Las personas aspirantes que superen la prueba de
 acceso obtendrán la correspondiente certificación
 según el modelo del apéndice XIV a la presente
-Resolución. 
+Resolución.
 Decimoctava.- Validez de la prueba de acceso.
 La superación de dicha prueba tendrá validez permanente para el acceso a las enseñanzas artísticas superiores de Grado en todo el territorio nacional, de
 conformidad con lo establecido en los artículos 5.2
@@ -353,7 +354,7 @@ la prueba de acceso a la universidad para mayores de
 25 años o, en su caso, de la certificación de haber superado la prueba de acceso para las personas aspirantes sin requisitos académicos, podrán acceder a las
 enseñanzas artísticas superiores de Grado siempre que
 superen una prueba específica de acceso en la que demuestren la madurez, los conocimientos y aptitudes
-necesarios para cursar con aprovechamiento las enseñanzas correspondientes. 
+necesarios para cursar con aprovechamiento las enseñanzas correspondientes.
 2. Para la inscripción en esta prueba, así como para solicitar plaza académica en las enseñanzas artísticas superiores de Grado, en cualquiera de los centros superiores de enseñanzas artísticas, las personas
 interesadas deberán cumplimentar la correspondiente solicitud, acompañada, en su caso, de la documentación que se establezca a estos efectos. La solicitud deberá ajustarse al modelo establecido en el
 apéndice II de la presente Resolución.
@@ -376,9 +377,9 @@ abril), en el sitio Web: https://sede.gobcan.es/sede/.
 5. Para la formalización de la inscripción en las
 pruebas de acceso se deberán satisfacer los precios
 públicos previstos en la normativa vigente o, en su
-caso, los importes establecidos por los centros autorizados por este concepto. 
+caso, los importes establecidos por los centros autorizados por este concepto.
 6. Cada centro superior de enseñanzas artísticas
-hará pública la oferta educativa autorizada incluyendo los estudios, las especialidades, los grupos o plazas ofertadas, en sus tablones de anuncios y en su sitio Web. 
+hará pública la oferta educativa autorizada incluyendo los estudios, las especialidades, los grupos o plazas ofertadas, en sus tablones de anuncios y en su sitio Web.
 7. Las solicitudes se formularán, por duplicado
 ejemplar, según los modelos oficiales establecidos,
 que serán facilitados gratuitamente por los centros
@@ -405,13 +406,13 @@ pruebas.
 correspondiente al Grado en Música, podrán constituirse los tribunales de evaluación que sean necesarios, en función de las distintas modalidades instrumentales o Canto, agrupados por familias instrumentales.
 4. Los tribunales evaluadores serán designados por
 la persona titular de la dirección del centro, a propuesta de los departamentos y consultada la jefatura de
-estudios. 
+estudios.
 Vigésimo segunda.- Actas de evaluación de la
 prueba específica.
 1. Las actas de evaluación de la prueba específica de acceso a las enseñanzas artísticas superiores de
 Grado en Música, Arte Dramático y Diseño se ajustarán a los modelos establecidos en los apéndices VII,
 VIII, IX, X, XI, XII y XIII, respectivamente, de la
-presente Resolución. 
+presente Resolución.
 2. Los tribunales evaluadores levantarán acta de
 las pruebas, consignando en ellas las calificaciones
 correspondientes a cada parte y ejercicio, atendiendo a los criterios de evaluación y a las ponderaciones establecidas para cada uno de ellos.
@@ -449,7 +450,7 @@ de reclamación ante el Tribunal Evaluador, ejercicios
 objeto de la reclamación realizados por la persona aspirante, resolución motivada del Tribunal, recibí de
 la persona reclamante o acuse de recibo de la comunicación de la resolución de la reclamación.
 6. La resolución del recurso de alzada pondrá fin
-a la vía administrativa. 
+a la vía administrativa.
 Vigésimo cuarta.- Certificación del resultado de
 la prueba específica de acceso.
 Las personas aspirantes que superen las pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Música, Arte Dramático y Diseño
@@ -469,7 +470,7 @@ aprueba, con carácter experimental, la implantación de
 los estudios oficiales de Grado en Música, Arte Dramático y Diseño en el ámbito de la Comunidad Autónoma de Canarias, la Consejería de Educación, Universidades, Cultura y Deportes determinará la oferta
 de plazas, para cada curso académico, en relación con
 los estudios y especialidades de Grado en Música, Arte Dramático y Diseño, que se harán públicas antes de
-finalizar cada curso académico. 
+finalizar cada curso académico.
 2. Cuando la demanda de plazas sea superior a las
 autorizadas o disponibles, tendrá prioridad el alumnado que supere las pruebas específicas de acceso en
 alguno de los centros que imparten los estudios del
@@ -477,7 +478,7 @@ Grado relacionados con dicha prueba y, de concurrir
 varios estudiantes a la misma especialidad, atendiendo a las calificaciones obtenidas. El alumnado que
 haya superado dicha prueba en un centro diferente,
 obtendrá plaza, solo en el caso de que existan plazas
-libres y, de coincidir varias solicitudes para la misma especialidad, aplicando el criterio de mejor puntuación en la prueba. 
+libres y, de coincidir varias solicitudes para la misma especialidad, aplicando el criterio de mejor puntuación en la prueba.
 3. Cuando se produzcan circunstancias de igualdad entre aspirantes a una misma plaza, la adjudicación de ésta se dirimirá de acuerdo a los siguientes
 criterios:
 a) En el caso de aspirantes que hayan accedido mediante la certificación de haber superado la prueba
@@ -520,17 +521,17 @@ Quienes hayan superado las correspondientes
 pruebas de acceso y obtenido plaza deberán formalizar la matrícula en los respectivos centros, en los
 plazos que se establezcan, previa presentación de la
 documentación requerida y del abono de los precios
-públicos o privados fijados en cada caso. 
+públicos o privados fijados en cada caso.
 Vigésimo octava.- Proceso de acogida u orientación al alumnado de nuevo ingreso.
 Los centros establecerán procedimientos de información, acogida y orientación de los estudiantes de
-nuevo ingreso para facilitar su incorporación a las enseñanzas artísticas superiores correspondientes. 
+nuevo ingreso para facilitar su incorporación a las enseñanzas artísticas superiores correspondientes.
 CAPÍTULO IV
 REALIZACIÓN DE LAS PRUEBAS ESPECÍFICAS DE
-ACCESO A LAS ENSEÑANZAS ARTÍSTICAS 
+ACCESO A LAS ENSEÑANZAS ARTÍSTICAS
 SUPERIORES DE GRADO
 Vigésimo novena.- Estructura y organización de
 la prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Música.
-1. La prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Música constará de dos partes: 
+1. La prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Música constará de dos partes:
 Parte A: Formación básica, común a todas las especialidades. Esta parte no tendrá carácter eliminatorio y tendrá una ponderación en la calificación final de un 30%.
 Parte B: Formación específica, propia de cada especialidad. La no superación de esta parte de la prueba tendrá carácter eliminatorio para la persona aspirante. Su ponderación en la calificación final será del
 70%.
@@ -538,16 +539,16 @@ Cada ejercicio de cada una de las partes citadas
 se calificará en una escala de cero a diez puntos.
 2. La primera parte, de formación básica, consistirá en la realización de los siguientes ejercicios:
 A.1. EJERCICIO DE ANÁLISIS MUSICAL E HISTORIA
-DE LA MÚSICA. 
-El examinando elegirá una entre dos obras propuestas en soportes de partitura y audio. 
+DE LA MÚSICA.
+El examinando elegirá una entre dos obras propuestas en soportes de partitura y audio.
 El ejercicio consistirá en responder por escrito a diez
-cuestiones sobre elementos concretos de carácter formal, armónico, melódico, histórico y estilístico. 
+cuestiones sobre elementos concretos de carácter formal, armónico, melódico, histórico y estilístico.
 Duración máxima: dos horas.
 Los criterios de evaluación de este ejercicio serán
 los siguientes:
 a) Grado de conocimientos adecuados y coherentes al análisis musical.
 b) Nivel de ajuste de las respuestas a las cuestiones formuladas.
-c) Claridad expositiva y orden de la redacción. 
+c) Claridad expositiva y orden de la redacción.
 d) Ortografía y sintaxis del texto escrito.
 Cada una de las cuestiones del ejercicio se calificará con un máximo de un punto y su valor en la ponderación final será del 20%.
 A.2. EJERCICIO DE PERCEPCIÓN AUDITIVA.
@@ -558,7 +559,7 @@ los siguientes:
 a) Grado de exactitud en la transcripción de las líneas melódicas.
 boc-a-2011-106-2943
 
-b) Grado de exactitud en la transcripción rítmica. 
+b) Grado de exactitud en la transcripción rítmica.
 Duración máxima: 30 minutos.
 El peso de este ejercicio en la ponderación final
 será del 10%.
@@ -601,7 +602,7 @@ la persona candidata responderá a las indicaciones técnicas y musicales requer
 proponga el tribunal.
 En esta prueba se valorará la capacidad del candidato o candidata para asimilar de manera inmediata y responder de forma dinámica y ajustada a las indicaciones y propuestas planteadas por el tribunal.
 Complementariamente, el tribunal podrá formular
-al candidato cuestiones relativas a su trayectoria musical y sus expectativas futuras. 
+al candidato cuestiones relativas a su trayectoria musical y sus expectativas futuras.
 El peso de este ejercicio en la ponderación final
 será del 20%.
 B.2. PEDAGOGÍA.
@@ -609,17 +610,17 @@ Constará de los siguientes ejercicios:
 B.2.1. Interpretación en el instrumento principal.
 Interpretación en el instrumento principal (o voz,
 en el caso del Canto), con una duración aproximada
-de 15 minutos, de las obras o fragmentos que determine el tribunal, de una relación presentada previamente por el candidato o la candidata. 
+de 15 minutos, de las obras o fragmentos que determine el tribunal, de una relación presentada previamente por el candidato o la candidata.
 La relación de obras deberá incluir al menos cuatro obras de dificultad media que serán libremente elegidas por el candidato entre las que se encuentren recogidas en el programa de sexto curso de las enseñanzas
 profesionales de música de la especialidad correspondiente; asimismo, deberán pertenecer a los estilos más
 representativos de la literatura del instrumento. En
 el caso del Canto, la relación constará de un mínimo
-de ocho obras. 
+de ocho obras.
 Los criterios de evaluación para este ejercicio serán los siguientes:
 a) Capacidad para afrontar las dificultades técnicas de la obra y adecuación de su postura y movimientos para una correcta ejecución.
 boc-a-2011-106-2943
 
-b) Precisión en la ejecución y adecuación de la articulación, la dinámica y el fraseo a los rasgos estilísticos de la obra. 
+b) Precisión en la ejecución y adecuación de la articulación, la dinámica y el fraseo a los rasgos estilísticos de la obra.
 c) Calidad de la expresión y producción de un sonido claro y limpio, con variedad tímbrica y coherencia dinámica.
 d) Interpretación correcta de la obra, valorándose especialmente la ejecución de obras de memoria
 y, en su caso, la capacidad del candidato para reiniciar el discurso musical.
@@ -627,7 +628,7 @@ El peso de este ejercicio en la ponderación final
 será del 20%.
 B.2.2. Composición de breve pieza didácticomusical.
 Composición de una pieza musical breve, de carácter didáctico, sobre una melodía o un texto propuesto por el tribunal.
-El nivel de referencia en los conocimientos armónico-compositivos será el del último curso de las enseñanzas profesionales de música. 
+El nivel de referencia en los conocimientos armónico-compositivos será el del último curso de las enseñanzas profesionales de música.
 Los criterios de evaluación para este ejercicio serán los siguientes:
 a) Propuesta en el ejercicio de un esquema armónico y una estructura formal coherentes con el lenguaje tonal funcional correspondiente a la práctica
 común.
@@ -642,17 +643,17 @@ será del 25%.
 B.2.3 Prueba vocal a solo.
 La persona aspirante cantará a primera vista una
 obra propuesta por el tribunal y una obra de libre elección, con acompañamiento instrumental de piano, con
-un máximo de 3 minutos. 
+un máximo de 3 minutos.
 En este ejercicio se valorará la adecuación de la
-afinación, el ritmo y la emisión vocal a las características musicales de la pieza. 
+afinación, el ritmo y la emisión vocal a las características musicales de la pieza.
 El peso de este ejercicio en la ponderación final
 será del 15%.
 B.2.4. Ejercicio de lectura a primera vista.
-Consistirá en la lectura a primera vista con el instrumento elegido por el aspirante de una obra o fragmento, en las condiciones que determine el tribunal. 
+Consistirá en la lectura a primera vista con el instrumento elegido por el aspirante de una obra o fragmento, en las condiciones que determine el tribunal.
 Los criterios de evaluación de este ejercicio serán
 los siguientes:
 a) Mantenimiento del pulso tomado al comienzo del
-ejercicio, de acuerdo con el tempo de la partitura. 
+ejercicio, de acuerdo con el tempo de la partitura.
 b) Selección adecuada de los elementos melódicos, rítmicos, contrapuntísticos y armónicos en la
 interpretación de la obra, de modo que su ejecución
 resulte comprensible y coherente con la partitura.
@@ -664,7 +665,7 @@ B.3.1 Interpretación en el instrumento principal.
 Presentación de un programa con una duración aproximada de 15 minutos, con un mínimo de dos obras
 o movimientos y dos estilos diferentes. El tribunal
 escogerá las obras a interpretar entre las presentadas
-por el aspirante. 
+por el aspirante.
 Los criterios de evaluación para este ejercicio serán los siguientes:
 a) Capacidad para afrontar las dificultades técnicas de la obra y adecuación de su postura y movimientos para una correcta ejecución.
 b) Precisión en la ejecución y adecuación de la articulación, la dinámica y el fraseo a los rasgos estilísticos de la obra.
@@ -672,17 +673,17 @@ c) Producción de un sonido claro y limpio, con variedad tímbrica y coherencia 
 d) Interpretación correcta de la obra.
 El peso de este ejercicio en la ponderación final
 será del 15%.
-B.3.2 Presentación de obras originales. 
+B.3.2 Presentación de obras originales.
 Presentación de, al menos, dos obras originales.
 El examinando hará una breve presentación de las obras
 y responderá a las preguntas del tribunal.
 Con 15 días de antelación a la celebración de las
 pruebas, la persona candidata presentará en la secretaría del CSMC y en sobre cerrado una selección vaboc-a-2011-106-2943
 
-riada de 2 ó 3 obras o trabajos compuestos por la persona interesada. De modo opcional, dichas obras podrán ir acompañadas de sus correspondientes grabaciones. 
+riada de 2 ó 3 obras o trabajos compuestos por la persona interesada. De modo opcional, dichas obras podrán ir acompañadas de sus correspondientes grabaciones.
 Esta prueba tendrá una duración máxima de 30 minutos y el candidato o la candidata expondrá brevemente los aspectos principales de sus obras y deberá responder a cuestiones planteadas por el tribunal,
 relacionadas con el proceso de composición y análisis musical de las obras presentadas en un debate
-no superior a 10 minutos. 
+no superior a 10 minutos.
 Los criterios de evaluación para este ejercicio serán los siguientes:
 a) Valoración de las obras presentadas por parte
 del tribunal.
@@ -692,7 +693,7 @@ El peso de este ejercicio en la ponderación final
 será del 30%.
 B.3.3 Ejercicio armónico-contrapuntístico.
 Realización de un trabajo armónico-contrapuntístico en las condiciones que determine el tribunal. La
-persona aspirante elegirá entre: 
+persona aspirante elegirá entre:
 - Realización de un coral a 4 voces sobre melodía dada.
 - Realización del acompañamiento pianístico a
 una melodía dada.
@@ -730,7 +731,7 @@ título profesional de música (BOC nº 83, de 4 de mayo).
 procederá a obtener la calificación final de la prueba, calculando la media ponderada entre la calificación obtenida en la citada prueba específica de la especialidad correspondiente, que se valorará en un
 60%, y la nota media del expediente académico de
 las enseñanzas profesionales, cuya valoración será del
-40%. 
+40%.
 3. El cálculo de la media ponderada a que se hace referencia en el apartado anterior, sólo se aplicará en el caso de que la nota media del expediente de
 las enseñanzas profesionales de música sea igual o
 superior a la de la calificación obtenida en la prueba específica de la especialidad.
@@ -758,7 +759,7 @@ el que se desarrolla.
 El peso de este ejercicio en la ponderación final
 será del 30%.
 4. La segunda parte o parte B de la prueba incluirá la realización de un ejercicio de carácter práctico,
-que será específico para cada especialidad. Su estructura y contenido serán definidos por el centro superior correspondiente. 
+que será específico para cada especialidad. Su estructura y contenido serán definidos por el centro superior correspondiente.
 Para la especialidad de Interpretación, este ejercicio consistirá en la realización de un taller intensivo de una semana de duración y se desarrollará en
 diversas fases y sesiones durante las que las personas aspirantes realizarán ejercicios diversos relacionados con las áreas de la especialidad. A su término,
 los candidatos o candidatas realizarán el desarrollo
@@ -786,10 +787,10 @@ f) La participación activa, crítica y cooperante del
 aspirante ante los ejercicios propuestos.
 El citado ejercicio tendrá una duración máxima de
 una semana, el tribunal realizará una evaluación en
-relación con los criterios expuestos. 
+relación con los criterios expuestos.
 El peso de este ejercicio en la ponderación final
 será del 70%.
-5. Calificación final de la prueba. 
+5. Calificación final de la prueba.
 La calificación final de la prueba resultará de la
 suma de las calificaciones medias ponderadas de las
 partes A y B y se expresará en una escala del cero al
@@ -800,7 +801,7 @@ Trigésimo primera.- Estructura y organización de
 la prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Diseño.
 1. La prueba específica de acceso a las enseñanzas artísticas superiores de Grado en Diseño, en la
 especialidad de Diseño Gráfico, constará de tres
-ejercicios: 
+ejercicios:
 Ejercicio A: representación de un modelo tridimensional mediante la aplicación de técnicas y lenguajes propios del dibujo artístico. Duración máxima 2
 horas y 30 minutos. El peso de este ejercicio en la
 ponderación final será del 40%.
@@ -824,7 +825,7 @@ y la sensibilidad artística demostrada en la realización del ejercicio, los co
 así como la correcta selección y utilización de las técnicas y procedimientos artísticos empleados.
 2. La calificación de cada ejercicio se realizará en
 una escala de cero a diez puntos. Para superar cada
-uno de los ejercicios será preciso obtener una calificación igual o superior a cinco puntos. 
+uno de los ejercicios será preciso obtener una calificación igual o superior a cinco puntos.
 3. La calificación final de la prueba resultará de
 la suma de las calificaciones medias ponderadas de
 los ejercicios A, B y C y se expresará en una escala
@@ -839,7 +840,7 @@ Trigésimo segunda.- Protección de datos personales.
 personales de las personas aspirantes a las pruebas
 señaladas en estas Instrucciones que sean necesarios para el ejercicio de su función evaluadora y que
 hayan sido aportados en el proceso de inscripción de
-las mismas. 
+las mismas.
 2. La incorporación de un examinando a un centro docente para la realización de dichas pruebas, supondrá el consentimiento para el tratamiento de sus
 datos, en los términos establecidos en la legislación
 sobre protección de datos. En todo caso, la información a la que se refiere este apartado será la estrictamente necesaria para la función evaluadora, no pudiendo tratarse con fines diferentes del educativo sin
@@ -880,7 +881,7 @@ Tenerife: Escuela de Arte y Superior de Diseño Fernando Estévez, Camino del Hi
 2.1. De conformidad con lo establecido en el
 anexo I a la presente Resolución, las personas que deseen presentarse a la citada prueba de acceso deberán presentar, en el plazo que se establece en el apartado 6, la correspondiente solicitud de inscripción a
 la prueba, en las secretarías de las Escuelas de Arte
-y Superiores de Diseño Gran Canaria y Fernando Estévez, con carácter preferente. 
+y Superiores de Diseño Gran Canaria y Fernando Estévez, con carácter preferente.
 2.2. La solicitud se presentará en el plazo fijado
 en el calendario de la convocatoria y conforme al modelo de solicitud establecido en el apéndice I de la
 presente Resolución.
@@ -893,7 +894,7 @@ Quienes deseen inscribirse en esta prueba de acceso deberán acompañar a su sol
 los siguientes documentos:
 a) Fotocopia compulsada del documento nacional
 de identidad (DNI) o del número de identificación de
-extranjero (NIE), o en su defecto, del Pasaporte. 
+extranjero (NIE), o en su defecto, del Pasaporte.
 b) Todas las personas que se presenten a las pruebas de acceso a las enseñanzas artísticas superiores
 de Grado para personas aspirantes sin requisitos académicos, mayores de 19 años, deberán aportar el justificante de haber efectuado el ingreso bancario por
 el importe del precio público correspondiente a los
@@ -902,7 +903,7 @@ derechos de examen, establecido por Gobierno de Canarias y vigente en el momento
 admitidas y excluidas.
 4.1. En el día indicado en el calendario de la convocatoria, el Director o la Directora de cada una de
 las Escuelas de Arte y Superiores de Diseño publicará, en su tablón de anuncios, la relación provisional de las personas inscritas que hayan sido admitidas a la prueba y, en su caso, las excluidas, con
-indicación de las causas de exclusión. 
+indicación de las causas de exclusión.
 Contra la relación provisional se podrán formular las alegaciones que se consideren oportunas ante la Dirección del centro docente en el plazo indicado en el calendario de la convocatoria.
 4.2. La relación definitiva de personas admitidas
 y excluidas será publicada por el Director o la Directora de cada una de las citadas Escuelas de Arte y Superiores de Diseño el día indicado en el calendario
@@ -911,7 +912,7 @@ de la convocatoria.
 5.1. Para la evaluación y calificación de esta prueba se constituirá una comisión evaluadora en cada una
 de las Escuelas de Arte y Superiores de Diseño, en
 las que se realicen las pruebas. Las comisiones evaluadoras estarán constituidas por cinco miembros, entre los cuales se designará un presidente o presidenta y cuatro vocales, actuando de secretario o secretario
-el vocal de menor edad. 
+el vocal de menor edad.
 5.2. De conformidad con lo dispuesto en el anexo I, instrucción decimocuarta, de la presente Resolución, las Escuelas de Arte y Superiores de Diseño
 trasladarán a la Dirección General competente en
 materia de enseñanzas artísticas superiores, antes del
@@ -926,7 +927,7 @@ boc-a-2011-106-2943
 
 7. Reclamaciones a las calificaciones.
 El procedimiento de reclamaciones y sus plazos
-se ajustarán a lo establecido en el anexo I, instrucción decimosexta, de la presente Resolución. 
+se ajustarán a lo establecido en el anexo I, instrucción decimosexta, de la presente Resolución.
 8. Solicitud de certificación de los resultados de
 la prueba.
 8.1. De conformidad con lo establecido en el anexo I, instrucción décimo séptima, a las personas que
@@ -945,51 +946,51 @@ cualquiera de sus dos sedes territoriales:
 Las Palmas de Gran Canaria.
 - Sede de Tenerife: calle Pedro Suárez Hernández,
 nº 2, 38009-Santa Cruz de Tenerife.
-1.2. En el caso de que las enseñanzas artísticas superiores de Grado en Música a las que se quiere optar no se impartan en la isla de residencia del soliciFASE / ACCIÓN 
-PLAZO / FECHA 
-Período de solicitud de inscripción a la prueba de acceso sin requisitos 
-académicos  
-Del 31 de mayo al 6 de junio 
-de 2011 
-Remisión de las propuestas de miembros para las Comisiones 
-Evaluadores por las Escuelas de Arte y Superiores de Diseño  
-2 de junio de 2011 
-- Remisión de las solicitudes de inscripción presentadas a las Escuelas 
-de Arte y Superiores de Diseño 
-- Publicación de los nombramientos de las Comisiones Evaluadoras de 
-las pruebas de acceso sin requisitos 
-6 de junio de 2011, antes de 
-las 14.00 horas 
-Publicación de listas provisionales de inscritos para la prueba de acceso 
-sin requisitos académicos 
-7 de junio de 2011 
-Plazo de reclamaciones a las listas provisionales de inscritos para la 
-prueba de acceso sin requisitos académicos 
-Hasta el 9 de junio de 2011 
-Publicación listas definitivas de inscritos para la realización de la prueba 
-de acceso sin requisitos académicos  
-10 de junio de 2011 
-Realización de la prueba de acceso sin requisitos académicos 
-13 de junio de 2011 
-Publicación de las listas provisionales con los resultados de las pruebas 
-de acceso sin requisitos académicos 
-14 de junio de 2011 
-Plazo de presentación de reclamaciones a las listas provisionales con los 
-resultados de las pruebas de acceso sin requisitos académicos 
-Hasta el 16 de junio de 2011 
-- Publicación de listas definitivas con los resultados finales de las 
-pruebas de acceso sin requisitos académicos en las Escuelas de Arte y 
-Superiores de Diseño 
-- Remisión de los listados de admitidos a los Centros Superiores de 
-Enseñanzas Artísticas en los que desean realizar la prueba específica de 
-acceso 
-17 de junio de 2011 
-7. Reclamaciones a las calificaciones. 
+1.2. En el caso de que las enseñanzas artísticas superiores de Grado en Música a las que se quiere optar no se impartan en la isla de residencia del soliciFASE / ACCIÓN
+PLAZO / FECHA
+Período de solicitud de inscripción a la prueba de acceso sin requisitos
+académicos
+Del 31 de mayo al 6 de junio
+de 2011
+Remisión de las propuestas de miembros para las Comisiones
+Evaluadores por las Escuelas de Arte y Superiores de Diseño
+2 de junio de 2011
+- Remisión de las solicitudes de inscripción presentadas a las Escuelas
+de Arte y Superiores de Diseño
+- Publicación de los nombramientos de las Comisiones Evaluadoras de
+las pruebas de acceso sin requisitos
+6 de junio de 2011, antes de
+las 14.00 horas
+Publicación de listas provisionales de inscritos para la prueba de acceso
+sin requisitos académicos
+7 de junio de 2011
+Plazo de reclamaciones a las listas provisionales de inscritos para la
+prueba de acceso sin requisitos académicos
+Hasta el 9 de junio de 2011
+Publicación listas definitivas de inscritos para la realización de la prueba
+de acceso sin requisitos académicos
+10 de junio de 2011
+Realización de la prueba de acceso sin requisitos académicos
+13 de junio de 2011
+Publicación de las listas provisionales con los resultados de las pruebas
+de acceso sin requisitos académicos
+14 de junio de 2011
+Plazo de presentación de reclamaciones a las listas provisionales con los
+resultados de las pruebas de acceso sin requisitos académicos
+Hasta el 16 de junio de 2011
+- Publicación de listas definitivas con los resultados finales de las
+pruebas de acceso sin requisitos académicos en las Escuelas de Arte y
+Superiores de Diseño
+- Remisión de los listados de admitidos a los Centros Superiores de
+Enseñanzas Artísticas en los que desean realizar la prueba específica de
+acceso
+17 de junio de 2011
+7. Reclamaciones a las calificaciones.
 boc-a-2011-106-2943
 
 tante, este podrá presentar la solicitud en la Dirección Insular de la Consejería de Educación, Universidades, Cultura y Deportes correspondiente, haciendo constar en ella la sede del CSMC en la que desea
 cursar los estudios y la especialidad elegida. Las Direcciones Insulares remitirán las solicitudes presentadas a las correspondientes sedes del CSMC, en el
-plazo de las 24 horas siguientes a la fecha de finalización del plazo de inscripción. 
+plazo de las 24 horas siguientes a la fecha de finalización del plazo de inscripción.
 1.3. La solicitud de inscripción se presentará en
 el plazo fijado en el calendario señalado en el apartado 7 de la presente convocatoria y conforme al
 modelo que se establece en el apéndice II de la presente Resolución.
@@ -1002,7 +1003,7 @@ efecto.
 Quienes deseen inscribirse en las pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Música deberán acompañar a su solicitud de inscripción los siguientes documentos:
 a) Fotocopia compulsada del documento nacional
 de identidad (DNI) o del número de identificación de
-extranjero (NIE), o en su defecto, del Pasaporte. 
+extranjero (NIE), o en su defecto, del Pasaporte.
 b) Quienes estén en posesión del título de Bachiller o equivalente, deberán adjuntar una fotocopia compulsada del mismo o del justificante de haber abonado sus derechos de expedición, o de la certificación
 expedida por el Director o la Directora del centro correspondiente de haber superado las enseñanzas de
 bachillerato.
@@ -1049,7 +1050,7 @@ boc-a-2011-106-2943
 
 4.5. Antes del inicio del período de inscripción para la prueba de acceso, el CSMC publicará en los tablones de anuncios y en su sitio Web una relación orientativa de obras musicales para la realización de la prueba,
 según las distintas especialidades.
-5. Elaboración, estructura y contenido de las pruebas específicas de acceso al Grado en Música. 
+5. Elaboración, estructura y contenido de las pruebas específicas de acceso al Grado en Música.
 Las pruebas específicas de acceso al Grado en
 Música serán elaboradas por el profesorado del
 CSMC. Las orientaciones sobre las pruebas y los
@@ -1078,35 +1079,35 @@ en la fecha establecida en el calendario de la convocatoria.
 7. Calendario de la convocatoria para el curso
 2011-2012.
 El calendario de la convocatoria de pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Música es el que se refleja en el siguiente cuadro:
-FASE / ACCIÓN 
-PLAZO / FECHA 
-Publicación de las orientaciones, de los criterios de evaluación y 
-calificación de cada una de las pruebas, partes y ejercicios, así como de 
-los repertorios orientativos para las pruebas con instrumento o voz de las 
-distintas especialidades 
-31 de mayo de 2011 
-Período de solicitud de plaza e inscripción a la prueba específica de 
-acceso  
-Del 31 de mayo al 10 de junio 
-Publicación de listas provisionales de inscritos para la prueba específica 
-de acceso 
-13 de junio de 2011 
-Publicación de los Tribunales de evaluación designados para evaluar y 
-calificar la prueba específica de acceso 
-14 de junio de 2011 
-Plazo de reclamaciones a las listas provisionales  
-Hasta el 15 de junio de 2011 
-Publicación listas definitivas de inscritos para la realización de la prueba 
-específica de acceso  
-16 de junio de 2011 
-Realización de la prueba específica de acceso  
-20 a 22 de junio de 2011 
+FASE / ACCIÓN
+PLAZO / FECHA
+Publicación de las orientaciones, de los criterios de evaluación y
+calificación de cada una de las pruebas, partes y ejercicios, así como de
+los repertorios orientativos para las pruebas con instrumento o voz de las
+distintas especialidades
+31 de mayo de 2011
+Período de solicitud de plaza e inscripción a la prueba específica de
+acceso
+Del 31 de mayo al 10 de junio
+Publicación de listas provisionales de inscritos para la prueba específica
+de acceso
+13 de junio de 2011
+Publicación de los Tribunales de evaluación designados para evaluar y
+calificar la prueba específica de acceso
+14 de junio de 2011
+Plazo de reclamaciones a las listas provisionales
+Hasta el 15 de junio de 2011
+Publicación listas definitivas de inscritos para la realización de la prueba
+específica de acceso
+16 de junio de 2011
+Realización de la prueba específica de acceso
+20 a 22 de junio de 2011
 boc-a-2011-106-2943
 
 8. Reclamaciones contra las calificaciones de las
 pruebas específicas de acceso.
 En el caso de existir desacuerdo entre las calificaciones otorgadas por los tribunales evaluadores y
-las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo tercera. 
+las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo tercera.
 9. Solicitud de certificación de los resultados de
 la prueba.
 9.1. De conformidad con lo establecido en el anexo I, instrucción vigésimo cuarta, a las personas que
@@ -1120,14 +1121,14 @@ en Arte Dramático.
 1.1. La inscripción para las pruebas específicas de
 acceso a las enseñanzas artísticas superiores de Grado en Arte Dramático se realizará en el Centro Superior Autorizado de Arte Dramático “Escuela de
 Actores de Canarias” (en adelante, EAC), en cualquiera de sus dos sedes territoriales:
-- Sede de Gran Canaria: calle Sor Brígida Castelló, 1, 35001-Las Palmas de Gran Canaria. 
+- Sede de Gran Canaria: calle Sor Brígida Castelló, 1, 35001-Las Palmas de Gran Canaria.
 - Sede de Tenerife: calle Pedro Suárez Hernández,
 s/n, 38009-Santa Cruz de Tenerife.
 1.2. En el caso de que las enseñanzas artísticas superiores de Grado en Arte Dramático a las que se quiere optar no se impartan en la isla de residencia del
 solicitante, éste podrá presentar la solicitud en la Dirección Insular de la Consejería de Educación, Universidades, Cultura y Deportes correspondiente, haciendo constar en ella la sede de la EAC en la que
 desea cursar los estudios y la especialidad elegida.
 Las Direcciones Insulares remitirán las solicitudes presentadas a las correspondientes sedes de la EAC, en
-el plazo de las 24 horas siguientes a la fecha de finalización del plazo de inscripción. 
+el plazo de las 24 horas siguientes a la fecha de finalización del plazo de inscripción.
 1.3. La solicitud de inscripción se presentará en
 el plazo fijado en el calendario fijado en el apartado
 7 de la presente convocatoria y conforme al modelo
@@ -1141,27 +1142,27 @@ de minusvalía expedido por la autoridad competente al efecto.
 documentos:
 a) Fotocopia compulsada del documento nacional
 de identidad (DNI) o del número de identificación de
-extranjero (NIE), o en su defecto, del Pasaporte. 
-específica de acceso  
+extranjero (NIE), o en su defecto, del Pasaporte.
+específica de acceso
 j
-Realización de la prueba específica de acceso  
-20 a 22 de junio de 2011 
-Publicación de las listas provisionales con los resultados de las pruebas 
-específicas de acceso en el Conservatorio Superior de Música de 
-Canarias 
-23 de junio de 2011 
-Plazo de presentación de reclamaciones a las listas provisionales con los 
-resultados de las pruebas específicas de acceso 
-Hasta el 30 de junio de 2011 
-Publicación de listas definitivas con los resultados finales de las pruebas 
-específicas de acceso en el Conservatorio Superior de Música de 
-Canarias 
-1 de julio de 2011 
-Plazo  de matrícula 
-Del 4 al 8 de julio de 2011 
-8. Reclamaciones contra las calificaciones de las pruebas específicas de acceso. 
-FASE / ACCIÓN 
-PLAZO / FECHA 
+Realización de la prueba específica de acceso
+20 a 22 de junio de 2011
+Publicación de las listas provisionales con los resultados de las pruebas
+específicas de acceso en el Conservatorio Superior de Música de
+Canarias
+23 de junio de 2011
+Plazo de presentación de reclamaciones a las listas provisionales con los
+resultados de las pruebas específicas de acceso
+Hasta el 30 de junio de 2011
+Publicación de listas definitivas con los resultados finales de las pruebas
+específicas de acceso en el Conservatorio Superior de Música de
+Canarias
+1 de julio de 2011
+Plazo  de matrícula
+Del 4 al 8 de julio de 2011
+8. Reclamaciones contra las calificaciones de las pruebas específicas de acceso.
+FASE / ACCIÓN
+PLAZO / FECHA
 boc-a-2011-106-2943
 
 b) Quienes estén en posesión del título de Bachiller o equivalente, deberán adjuntar una fotocopia compulsada del mismo o del justificante de haber abonado sus derechos de expedición, o de la certificación
@@ -1208,10 +1209,10 @@ Cultura y Deportes, del Gobierno de Canarias
 EAC publicará en los tablones de anuncios y en su web,
 una relación orientativa de obras y textos dramáticos
 sobre los que versará la parte Ade la prueba específica de acceso. Asimismo, hará públicos los requerimientos de equipaje y material específico necesario para la
-realización de las diferentes partes de la prueba específica, según las distintas especialidades. 
+realización de las diferentes partes de la prueba específica, según las distintas especialidades.
 5. Elaboración, estructura y contenido de las
 pruebas específicas de acceso al Grado en Arte
-Dramático. 
+Dramático.
 5.1. Las pruebas específicas de acceso al Grado
 en Arte Dramático serán elaboradas por el profesorado de la EAC. Las orientaciones sobre las pruebas
 y los criterios de evaluación y calificación se harán
@@ -1246,61 +1247,61 @@ en la sede de realización de la prueba, en la fecha establecida en el calendari
 2011-2012.
 El calendario de la convocatoria de pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Arte Dramático es el que se refleja
 en el siguiente cuadro:
-FASE / ACCIÓN 
-PLAZO / FECHA 
-Publicación de las orientaciones, de los criterios de evaluación y 
-calificación de cada una de las pruebas, partes y ejercicios, así 
-como de la relación de obras o textos dramáticos, 
-requerimientos de equipaje y material necesario para la 
-realización de la prueba específica 
-31 de mayo de 2011 
-Plazo de solicitud de plaza e inscripción a la prueba específica 
-de acceso  
-Del 31 de mayo al 20 de junio de 2011 
-y del 1 al 7 de septiembre de 2011 
-Publicación listas provisionales de inscritos para la prueba 
-específica de acceso 
-7 de septiembre de 2011 
-Plazo de reclamaciones a las listas provisionales  
-Hasta el 9 de septiembre de 2011, a las 
-12.00 horas. 
-Publicación listas definitivas de inscritos para la realización de 
-la prueba específica de acceso  
-9 de septiembre de 2011 
-Realización de la prueba específica de acceso: 
+FASE / ACCIÓN
+PLAZO / FECHA
+Publicación de las orientaciones, de los criterios de evaluación y
+calificación de cada una de las pruebas, partes y ejercicios, así
+como de la relación de obras o textos dramáticos,
+requerimientos de equipaje y material necesario para la
+realización de la prueba específica
+31 de mayo de 2011
+Plazo de solicitud de plaza e inscripción a la prueba específica
+de acceso
+Del 31 de mayo al 20 de junio de 2011
+y del 1 al 7 de septiembre de 2011
+Publicación listas provisionales de inscritos para la prueba
+específica de acceso
+7 de septiembre de 2011
+Plazo de reclamaciones a las listas provisionales
+Hasta el 9 de septiembre de 2011, a las
+12.00 horas.
+Publicación listas definitivas de inscritos para la realización de
+la prueba específica de acceso
+9 de septiembre de 2011
+Realización de la prueba específica de acceso:
 
-A las 08.30 horas, presentación para la realización de la parte A 
-de la prueba, en la Escuela de Actores de Canarias  
-12 de septiembre de 2011 
-Publicación de listas provisionales con los resultados de de la 
-parte A de la prueba 
-13 de septiembre de 2011 
-Plazo de presentación de reclamaciones a las listas provisionales 
-Hasta el 15 de septiembre de 2011 
-Publicación de listas definitivas con los resultados de la parte A 
-de la prueba 
-16 de septiembre de 2011 
-A las 08.30 horas, presentación para la realización de la parte B, 
-en la Escuela de Actores de Canarias 
-19 de septiembre de 2011 
-Plazo de realización de la parte B de la prueba 
-Del 19 al 24 de septiembre de 2011 
-Publicación de listas provisionales con los resultados de de la 
-parte B de la prueba y calificación final 
-26 de septiembre de 2011 
-Plazo de presentación de reclamaciones a las listas provisionales 
-Hasta el 28 de septiembre de 2011 
-Publicación de listas definitivas con los resultados de la parte B 
-de la prueba y calificación final  
-29 de septiembre de 2011 
-Plazo de matrícula 
-Del 30 de septiembre al 1 de octubre de 
+A las 08.30 horas, presentación para la realización de la parte A
+de la prueba, en la Escuela de Actores de Canarias
+12 de septiembre de 2011
+Publicación de listas provisionales con los resultados de de la
+parte A de la prueba
+13 de septiembre de 2011
+Plazo de presentación de reclamaciones a las listas provisionales
+Hasta el 15 de septiembre de 2011
+Publicación de listas definitivas con los resultados de la parte A
+de la prueba
+16 de septiembre de 2011
+A las 08.30 horas, presentación para la realización de la parte B,
+en la Escuela de Actores de Canarias
+19 de septiembre de 2011
+Plazo de realización de la parte B de la prueba
+Del 19 al 24 de septiembre de 2011
+Publicación de listas provisionales con los resultados de de la
+parte B de la prueba y calificación final
+26 de septiembre de 2011
+Plazo de presentación de reclamaciones a las listas provisionales
+Hasta el 28 de septiembre de 2011
+Publicación de listas definitivas con los resultados de la parte B
+de la prueba y calificación final
+29 de septiembre de 2011
+Plazo de matrícula
+Del 30 de septiembre al 1 de octubre de
 boc-a-2011-106-2943
 
 8. Reclamaciones contra las calificaciones de las
 pruebas específicas de acceso.
 En el caso de existir desacuerdo entre las calificaciones otorgadas por los tribunales evaluadores y
-las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo tercera. 
+las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo tercera.
 9. Solicitud de certificación de los resultados de
 la prueba.
 9.1. De conformidad con lo establecido en el
@@ -1330,7 +1331,7 @@ grado de minusvalía expedido por la autoridad competente al efecto.
 Quienes deseen inscribirse en las pruebas específicas de acceso a las enseñanzas artísticas superiores de Grado en Diseño deberán acompañar a su solicitud de inscripción los siguientes documentos:
 a) Fotocopia compulsada del documento nacional
 de identidad (DNI) o del número de identificación de
-extranjero (NIE), o en su defecto, del Pasaporte. 
+extranjero (NIE), o en su defecto, del Pasaporte.
 b) Quienes estén en posesión del título de Bachiller o equivalente, deberán adjuntar una fotocopia compulsada del mismo o del justificante de haber abonado sus derechos de expedición, o de la certificación
 expedida por el Director o la Directora del centro correspondiente de haber superado las enseñanzas de
 bachillerato.
@@ -1367,8 +1368,8 @@ y Deportes, del Gobierno de Canarias (http://www.gobiernodecanarias.org/educacio
 3.4. Antes del inicio del período de inscripción,
 las Escuelas de Arte y Superiores de Diseño publicarán en los tablones de anuncios y en sus web, la
 relación de los útiles y el material específico necesario para la realización de los diferentes ejercicios
-de que consta la prueba específica, según las distintas especialidades. 
-4. Elaboración, estructura y contenido de las pruebas específicas de acceso al Grado en Diseño. 
+de que consta la prueba específica, según las distintas especialidades.
+4. Elaboración, estructura y contenido de las pruebas específicas de acceso al Grado en Diseño.
 4.1. Las pruebas específicas de acceso al Grado
 en Diseño serán elaboradas por el profesorado de las
 EASD. Las orientaciones sobre las pruebas y los criterios de evaluación y calificación se harán públicos
@@ -1402,7 +1403,7 @@ boc-a-2011-106-2943
 7. Reclamaciones contra las calificaciones de las
 pruebas específicas de acceso.
 En el caso de existir desacuerdo entre las calificaciones otorgadas por los tribunales evaluadores y
-las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo novena. 
+las expectativas de las personas aspirantes, estas podrán presentar reclamación contra aquellas, siguiendo el procedimiento establecido en el anexo I, instrucción vigésimo novena.
 8. Solicitud de certificación de los resultados de
 la prueba.
 8.1. De conformidad con lo establecido en el anexo I, instrucción vigésimo cuarta, a las personas que
@@ -1410,48 +1411,48 @@ lo soliciten se les expedirá la correspondiente certificación de los resultado
 en el apéndice XVII de la presente Resolución.
 8.2. No obstante, si la persona solicitante de la certificación se encuentra inmersa en un proceso de reclamación a las calificaciones obtenidas, la certificación sólo podrá serle expedida una vez que el
 citado proceso finalice.
-FASE / ACCIÓN 
-PLAZO / FECHA 
-Publicación de las orientaciones, de los criterios de evaluación y 
-calificación de cada una de las pruebas, partes y/o ejercicios, así 
-como de la relación de útiles y material necesario para la realización 
-de la prueba específica 
-31 de mayo de 2011 
-Plazo de solicitud de plaza e inscripción a la prueba específica de 
-acceso  
-Del 31 de mayo al 16 de junio 
-Publicación de listas provisionales de inscritos a la prueba específica 
-de acceso al Grado en Diseño 
-17 de junio de 2011 
-Plazo de reclamaciones a las listas provisionales  
-Hasta el 21 de junio de 2011 
-Publicación de listas definitivas de inscritos para la realización de la 
-prueba específica de acceso al Grado en Diseño  
-22 de junio de 2011 
-Realización de la prueba específica de acceso: 
+FASE / ACCIÓN
+PLAZO / FECHA
+Publicación de las orientaciones, de los criterios de evaluación y
+calificación de cada una de las pruebas, partes y/o ejercicios, así
+como de la relación de útiles y material necesario para la realización
+de la prueba específica
+31 de mayo de 2011
+Plazo de solicitud de plaza e inscripción a la prueba específica de
+acceso
+Del 31 de mayo al 16 de junio
+Publicación de listas provisionales de inscritos a la prueba específica
+de acceso al Grado en Diseño
+17 de junio de 2011
+Plazo de reclamaciones a las listas provisionales
+Hasta el 21 de junio de 2011
+Publicación de listas definitivas de inscritos para la realización de la
+prueba específica de acceso al Grado en Diseño
+22 de junio de 2011
+Realización de la prueba específica de acceso:
 
-A las 08.30 horas, presentación para la realización del 1º ejercicio de 
-la prueba específica de acceso 
-27 de junio de 2011 
-A las 08.30 horas, presentación para la realización de la 1ª parte del 
-2º ejercicio de la prueba específica de acceso  
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización de la 2ª parte del 
-2º ejercicio de la prueba específica de acceso   
-29 de junio de 2011 
-Publicación de los resultados provisionales de las pruebas específicas 
-de acceso al Grado en Diseño 
-30 de junio de 2011 
-Plazo de presentación de reclamaciones a las listas provisionales con 
-los resultados de las pruebas específicas de acceso al Grado en 
-Diseño 
-Hasta el 4 de julio de 2011 
-Publicación de listas definitivas con los resultados finales de las 
-pruebas específicas de acceso al Grado en diseño 
-5 de julio de 2011 
-Plazo de matrícula 
-Del 6 al 11 de julio de 2011 
-7. Reclamaciones contra las calificaciones de las pruebas específicas de acceso. 
+A las 08.30 horas, presentación para la realización del 1º ejercicio de
+la prueba específica de acceso
+27 de junio de 2011
+A las 08.30 horas, presentación para la realización de la 1ª parte del
+2º ejercicio de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización de la 2ª parte del
+2º ejercicio de la prueba específica de acceso
+29 de junio de 2011
+Publicación de los resultados provisionales de las pruebas específicas
+de acceso al Grado en Diseño
+30 de junio de 2011
+Plazo de presentación de reclamaciones a las listas provisionales con
+los resultados de las pruebas específicas de acceso al Grado en
+Diseño
+Hasta el 4 de julio de 2011
+Publicación de listas definitivas con los resultados finales de las
+pruebas específicas de acceso al Grado en diseño
+5 de julio de 2011
+Plazo de matrícula
+Del 6 al 11 de julio de 2011
+7. Reclamaciones contra las calificaciones de las pruebas específicas de acceso.
 boc-a-2011-106-2943
 
 boc-a-2011-106-2943
@@ -1511,4 +1512,3 @@ boc-a-2011-106-2943
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

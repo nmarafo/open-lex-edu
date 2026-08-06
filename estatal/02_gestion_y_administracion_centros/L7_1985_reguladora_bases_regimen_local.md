@@ -43,6 +43,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1984-17387
 ---
+
 # Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local
 
 **JUAN CARLOS I**
@@ -1721,4 +1722,3 @@ FELIPE GONZALEZ MARQUEZ
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1984-17387**](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
-

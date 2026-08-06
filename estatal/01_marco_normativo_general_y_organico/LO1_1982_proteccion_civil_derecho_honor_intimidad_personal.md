@@ -38,6 +38,7 @@ fundamentos_derecho:
   articulos:
   - '18'
 ---
+
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
 
 **DON JUAN CARLOS I, REY DE ESPAÑA**
@@ -198,4 +199,3 @@ LEOPOLDO CALVO-SOTELO Y BUSTELO
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
-

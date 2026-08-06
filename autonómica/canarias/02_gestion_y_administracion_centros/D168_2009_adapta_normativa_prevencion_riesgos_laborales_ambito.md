@@ -60,7 +60,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.p
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.
 
 I. Disposiciones generales
-Consejería de Medio Ambiente 
+Consejería de Medio Ambiente
 y Ordenación Territorial
 187 DECRETO 174/2009, de 29 de diciembre, por
 el que se declaran Zonas Especiales de Conservación integrantes de la Red Natura 2000
@@ -159,14 +159,14 @@ Ley 42/2007.
 Disposición Final Primera.- El presente Decreto
 se dicta en el marco de las competencias que corresponden a la Comunidad Autónoma de Canarias en materia de medio ambiente al amparo del artículo 32.12
 del Estatuto de Autonomía de Canarias, sin perjuicio de las competencias que pudieran corresponderle al Estado en virtud de la normativa vigente en la
-materia. 
+materia.
 Disposición Final Segunda.- Se faculta al titular
 de la Consejería competente en materia de medio ambiente de la Administración Pública de la Comunidad Autónoma para dictar cuantas disposiciones y actos resulten necesarios para el desarrollo y ejecución
 del presente Decreto.
 Disposición Final Tercera.- El presente Decreto entrará en vigor el día siguiente al de su publicación en
 el Boletín Oficial de Canarias.
 Dado en Las Palmas de Gran Canaria, a 29 de diciembre de 2009.
-EL PRESIDENTE 
+EL PRESIDENTE
 DEL GOBIERNO,
 Paulino Rivero Baute.
 EL CONSEJERO DE MEDIO AMBIENTE
@@ -196,4 +196,3 @@ ZONAS ESPECIALES DE CONSERV ACIÓN.
 ### Fundamentos de Derecho
 - [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
-

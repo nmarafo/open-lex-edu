@@ -36,18 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 43/2022, de 29 de junio, por el que se establecen los precios públicos por estudios universitarios en la Comunidad de Madrid**
-
-VIERNES 1 DE JULIO DE 2022
-Pág. 10
-B.O.C.M. Núm. 155
-BOCM-20220701-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-Vicepresidencia, Consejería de Educación y Universidades
-1
 DECRETO 43/2022, de 29 de junio, del Consejo de Gobierno, por el que se esta-
 blecen los precios públicos por estudios universitarios conducentes a títulos ofi-
 ciales y servicios de naturaleza académica en las universidades públicas de la
@@ -366,7 +354,6 @@ Estarán exentos del abono del 25 por 100 por reconocimiento de asignaturas y/o
 créditos los estudiantes que se adapten por un cambio del plan de estudios y continúen sus
 estudios en un nuevo grado si este grado extingue los estudios que venían cursando.
 Artículo 17
-Becas y ayudas
 1.
 De conformidad con lo establecido en el Real Decreto 1721/2007, de 21 de di-
 ciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas,
@@ -562,30 +549,30 @@ B.O.C.M. Núm. 155
 BOCM-20220701-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO I 
-PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE GRADO. PRECIO POR CRÉDITO EN EUROS 
-NIVEL DE 
-EXPERIMENTALIDAD 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA  
-Y SUCESIVAS 
-1 
-20,68 € 
-48,03 € 
-98,75 € 
-136,44 € 
-2 
-19,43 € 
-45,25 € 
-92,86 € 
-128,57 € 
-3 
-16,92 € 
-40,02 € 
-82,30 € 
-113,71 € 
+ANEXO I
+PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE GRADO. PRECIO POR CRÉDITO EN EUROS
+NIVEL DE
+EXPERIMENTALIDAD
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Y SUCESIVAS
+1
+20,68 €
+48,03 €
+98,75 €
+136,44 €
+2
+19,43 €
+45,25 €
+92,86 €
+128,57 €
+3
+16,92 €
+40,02 €
+82,30 €
+113,71 €
 ANEXO II
 NIVELES DE EXPERIMENTALIDAD DE LAS ENSEÑANZAS DE GRADO
 1.1.
@@ -677,274 +664,274 @@ B.O.C.M. Núm. 155
 BOCM-20220701-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO III 
-PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE MÁSTER QUE HABILITAN PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES  
-REGULADAS EN ESPAÑA Y SIMILARES 
-UNIVERSIDAD DE ALCALÁ 
-MÁSTER UNIVERSITARIO EN 
-1ª  MATRÍCULA 
-2ª MATRÍCULA  
-3ª  MATRÍCULA 
-4ª  MATRÍCULA 
-Acceso a la Profesión de Abogado  
-16,92 € 
-60,92 € 
-130,01 € 
-180,00 € 
-Arquitectura 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato, 
-Formación Profesional y Enseñanzas de Idiomas.  
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Ingeniería de Telecomunicación 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Industrial 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Psicología General Sanitaria 
-20,68 € 
-56,75 € 
-122,21 € 
-169,21 € 
-UNIVERSIDAD AUTÓNOMA DE MADRID 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA 
-Acceso a la Profesión de Abogado 
-16,92 € 
-48,30 € 
-104,65 € 
-144,90 € 
-Formación de Profesorado de Educación Secundaria Obligatoria y Bachillerato 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Ingeniería de Telecomunicación 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Informática 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Química 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Psicología General Sanitaria 
-20,68 € 
-56,75 € 
-122,21 € 
-169,21 € 
-UNIVERSIDAD CARLOS III DE MADRID 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA 
-Acceso al Ejercicio de la Abogacía 
-16,92 € 
-119,23 € 
-248,40 € 
-331,20 € 
-Ingeniería Aeronáutica / Master in Aeronautical Engineering 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Telecomunicación 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Industrial 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Informática 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-UNIVERSIDAD COMPLUTENSE DE MADRID 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA 
-Acceso a la Profesión de Abogado 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, 
-Formación Profesional y Enseñanzas de Idiomas 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Ingeniería Informática 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Química: Ingeniería de Procesos 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Psicología General Sanitaria 
-20,68 € 
-56,75 € 
-122,21 € 
-169,21 € 
-UNIVERSIDAD POLITÉCNICA DE MADRID 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA 
-Arquitectura 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato  
-y Formación Profesional 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Ingeniería Aeronáutica 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Agronómica 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Alimentaria aplicada a la Salud 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Caminos, Canales y Puertos 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Materiales 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Minas 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Montes 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería de Telecomunicación 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Geodésica y Cartografía 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Industrial 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Informática 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Naval y Oceánica 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Química 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-UNIVERSIDAD REY JUAN CARLOS 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA 
-3ª MATRÍCULA 
-4ª MATRÍCULA 
-Abogacía 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Arquitectura 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Formación del Profesorado de Educación Secundaria y Bachillerato, Formación 
-Profesional y Enseñanza de Idiomas 
-16,92 € 
-42,00 € 
-91,00 € 
-126,00 € 
-Ingeniería de Telecomunicación 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Industrial 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Informática 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Ingeniería Química 
-19,43 € 
-51,75 € 
-111,80 € 
-154,80 € 
-Psicología General Sanitaria 
-20,68 € 
-56,75 € 
-122,21 € 
-169,21 € 
+ANEXO III
+PRECIOS PÚBLICOS DE LAS ENSEÑANZAS DE MÁSTER QUE HABILITAN PARA EL EJERCICIO DE ACTIVIDADES PROFESIONALES
+REGULADAS EN ESPAÑA Y SIMILARES
+UNIVERSIDAD DE ALCALÁ
+MÁSTER UNIVERSITARIO EN
+1ª  MATRÍCULA
+2ª MATRÍCULA
+3ª  MATRÍCULA
+4ª  MATRÍCULA
+Acceso a la Profesión de Abogado
+16,92 €
+60,92 €
+130,01 €
+180,00 €
+Arquitectura
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato,
+Formación Profesional y Enseñanzas de Idiomas.
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Ingeniería de Telecomunicación
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Industrial
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Psicología General Sanitaria
+20,68 €
+56,75 €
+122,21 €
+169,21 €
+UNIVERSIDAD AUTÓNOMA DE MADRID
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Acceso a la Profesión de Abogado
+16,92 €
+48,30 €
+104,65 €
+144,90 €
+Formación de Profesorado de Educación Secundaria Obligatoria y Bachillerato
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Ingeniería de Telecomunicación
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Informática
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Química
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Psicología General Sanitaria
+20,68 €
+56,75 €
+122,21 €
+169,21 €
+UNIVERSIDAD CARLOS III DE MADRID
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Acceso al Ejercicio de la Abogacía
+16,92 €
+119,23 €
+248,40 €
+331,20 €
+Ingeniería Aeronáutica / Master in Aeronautical Engineering
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Telecomunicación
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Industrial
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Informática
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+UNIVERSIDAD COMPLUTENSE DE MADRID
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Acceso a la Profesión de Abogado
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato,
+Formación Profesional y Enseñanzas de Idiomas
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Ingeniería Informática
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Química: Ingeniería de Procesos
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Psicología General Sanitaria
+20,68 €
+56,75 €
+122,21 €
+169,21 €
+UNIVERSIDAD POLITÉCNICA DE MADRID
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Arquitectura
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Formación del Profesorado de Educación Secundaria Obligatoria, Bachillerato
+y Formación Profesional
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Ingeniería Aeronáutica
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Agronómica
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Alimentaria aplicada a la Salud
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Caminos, Canales y Puertos
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Materiales
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Minas
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Montes
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería de Telecomunicación
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Geodésica y Cartografía
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Industrial
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Informática
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Naval y Oceánica
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Química
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+UNIVERSIDAD REY JUAN CARLOS
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+3ª MATRÍCULA
+4ª MATRÍCULA
+Abogacía
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Arquitectura
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Formación del Profesorado de Educación Secundaria y Bachillerato, Formación
+Profesional y Enseñanza de Idiomas
+16,92 €
+42,00 €
+91,00 €
+126,00 €
+Ingeniería de Telecomunicación
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Industrial
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Informática
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Ingeniería Química
+19,43 €
+51,75 €
+111,80 €
+154,80 €
+Psicología General Sanitaria
+20,68 €
+56,75 €
+122,21 €
+169,21 €
 
 VIERNES 1 DE JULIO DE 2022
 B.O.C.M. Núm. 155
@@ -952,238 +939,237 @@ Pág. 21
 BOCM-20220701-1
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO IV 
-MÁSTERES ESPECIALES NO HABILITANTES CON PRECIOS SINGULARIZADOS 
-UNIVERSIDAD DE ALCALÁ 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA  
-Y SUCESIVAS 
-PRECIO  
-EXTRACOMUNITARIOS 
-Hidrología y Gestión de los Recursos Hídricos 
-60,00 € 
-90,00 € 
-90,00 € 
-Fisioterapia Manual del Aparato Locomotor 
-64,00 € 
-93,00 € 
-93,00 € 
-Protección Internacional de los Derechos Humanos 
-66,50 € 
-99,75€ 
-99,75 € 
-Microbiología Aplicada a la Salud Pública en Investigación en Enfermedades 
-Infecciosas 
-75,00€ 
-97,50 € 
-97,50€ 
-Ciencias Policiales 
-100,00€ 
-150,00€ 
-150,00€ 
-Banca y Finanzas (Finance & Banking) 
-155,00€ 
-240,00€ 
-240,00€ 
- 
-UNIVERSIDAD CARLOS III DE MADRID 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA  
-Y SUCESIVAS 
-PRECIO  
-EXTRACOMUNITARIOS 
-Ciencias Actuariales y Financieras 
-80,00 € 
-100,00 € 
-120,00 € 
-Ciberseguridad 
-80,00 € 
-100,00 € 
-120,00 € 
-Energías Renovables en Sistemas Eléctricos 
-80,00 € 
-100,00 € 
-120,00 € 
-Estadística para la Ciencia de Datos 
-80,00 € 
-100,00 € 
-120,00 € 
-Estudios Avanzados en Derecho Público 
-80,00 € 
-100,00 € 
-120,00 € 
-Gestión y Desarrollo de Tecnologías Biomédicas 
-80,00 € 
-100,00 € 
-120,00 € 
-Gestión Turística de recursos Culturales Naturales 
-80,00 € 
-100,00 € 
-120,00 € 
-Industria Conectada 4.0 
-80,00 € 
-100,00 € 
-120,00 € 
-Ingeniería de Sistemas Electrónicos y Aplicaciones 
-80,00 € 
-100,00 € 
-120,00 € 
-Internet de las Cosas: Tecnologías Aplicadas 
-80,00 € 
-100,00 € 
-120,00 € 
-Mediación, Negociación y Resolución de Conflictos 
-80,00 € 
-100,00 € 
-120,00 € 
-Métodos Analíticos para Datos Masivos: Big Data 
-80,00 € 
-100,00 € 
-120,00 € 
-Responsabilidad Civil 
-80,00 € 
-100,00 € 
-120,00 € 
-Tecnologías e Ingeniería Cuánticas 
-80,00 € 
-100,00 € 
-120,00 € 
-Análisis Político Electoral 
-95,00 € 
-125,00 € 
-150,00 € 
-Asesoramiento y Consultoría Jurídico-Laboral 
-95,00 € 
-125,00 € 
-150,00 € 
-Cine y Televisión 
-95,00 € 
-125,00 € 
-150,00 € 
-Derecho de la Unión Europea 
-95,00 € 
-125,00 € 
-150,00 € 
-Derecho de los Sectores Regulados 
-95,00 € 
-125,00 € 
-150,00 € 
-Derecho Penal y Procesal Penal 
-95,00 € 
-125,00 € 
-150,00 € 
-Prevención de Riesgos Laborales 
-95,00 € 
-125,00 € 
-150,00 € 
-Tecnologías del Sector Financiero: Fintech 
-95,00 € 
-125,00 € 
-150,00 € 
-Ciencias Sociales Computacionales 
-110,00 € 
-145,00 € 
-165,00 € 
-Comunicación Publicitaria 
-110,00 € 
-145,00 € 
-165,00 € 
-Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual  
-y Sociedad de la Información 
-110,00 € 
-145,00 € 
-165,00 € 
-Documental y Reportaje Periodístico Transmedia 
-110,00 € 
-145,00 € 
-165,00 € 
-Ingeniería Clínica 
-110,00 € 
-145,00 € 
-165,00 € 
-Tributación 
-110,00 € 
-145,00 € 
-165,00 € 
-Asesoría Jurídica de Empresas 
-130,00 € 
-170,00 € 
-195,00 € 
-Desarrollo Sostenible y Gobernanza Global 
-130,00 € 
-170,00 € 
-195,00 € 
-Desarrollo y Crecimiento Económico 
-130,00 € 
-170,00 € 
-195,00 € 
-Economía 
-130,00 € 
-170,00 € 
-195,00 € 
-Economía Industrial y de Mercados 
-130,00 € 
-170,00 € 
-195,00 € 
-Geopolítica y Estudios Estratégicos 
-130,00 € 
-170,00 € 
-195,00 € 
-Gobernanza Económica Europea: Derecho, Política y Economía 
-130,00 € 
-170,00 € 
-195,00 € 
-Iniciativa Emprendedora y Creación de Empresas 
-130,00 € 
-170,00 € 
-195,00 € 
-Inteligencia Artificial Aplicada 
-130,00 € 
-170,00 € 
-195,00 € 
-Propiedad Intelectual 
-130,00 € 
-170,00 € 
-195,00 € 
-Abogacía Internacional 
-150,00 € 
-195,00 € 
-225,00 € 
-Dirección de Empresas 
-150,00 € 
-195,00 € 
-225,00 € 
-Dirección de Recursos Humanos 
-150,00 € 
-195,00 € 
-225,00 € 
-Finanzas 
-150,00 € 
-195,00 € 
-225,00 € 
-Marketing 
-150,00 € 
-195,00 € 
-225,00 € 
-Administración de Empresas MBA 
-225,00 € 
-300,00 € 
-330, 00 € 
- 
-UNIVERSIDAD REY JUAN CARLOS 
-MÁSTER UNIVERSITARIO EN 
-1ª MATRÍCULA 
-2ª MATRÍCULA  
-Y SUCESIVAS 
-PRECIO  
-EXTRACOMUNITARIOS 
-Oncología Molecular 
-125,00€ 
-187,50€ 
-187,50€ 
- 
+ANEXO IV
+MÁSTERES ESPECIALES NO HABILITANTES CON PRECIOS SINGULARIZADOS
+UNIVERSIDAD DE ALCALÁ
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+Y SUCESIVAS
+PRECIO
+EXTRACOMUNITARIOS
+Hidrología y Gestión de los Recursos Hídricos
+60,00 €
+90,00 €
+90,00 €
+Fisioterapia Manual del Aparato Locomotor
+64,00 €
+93,00 €
+93,00 €
+Protección Internacional de los Derechos Humanos
+66,50 €
+99,75€
+99,75 €
+Microbiología Aplicada a la Salud Pública en Investigación en Enfermedades
+Infecciosas
+75,00€
+97,50 €
+97,50€
+Ciencias Policiales
+100,00€
+150,00€
+150,00€
+Banca y Finanzas (Finance & Banking)
+155,00€
+240,00€
+240,00€
+
+UNIVERSIDAD CARLOS III DE MADRID
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+Y SUCESIVAS
+PRECIO
+EXTRACOMUNITARIOS
+Ciencias Actuariales y Financieras
+80,00 €
+100,00 €
+120,00 €
+Ciberseguridad
+80,00 €
+100,00 €
+120,00 €
+Energías Renovables en Sistemas Eléctricos
+80,00 €
+100,00 €
+120,00 €
+Estadística para la Ciencia de Datos
+80,00 €
+100,00 €
+120,00 €
+Estudios Avanzados en Derecho Público
+80,00 €
+100,00 €
+120,00 €
+Gestión y Desarrollo de Tecnologías Biomédicas
+80,00 €
+100,00 €
+120,00 €
+Gestión Turística de recursos Culturales Naturales
+80,00 €
+100,00 €
+120,00 €
+Industria Conectada 4.0
+80,00 €
+100,00 €
+120,00 €
+Ingeniería de Sistemas Electrónicos y Aplicaciones
+80,00 €
+100,00 €
+120,00 €
+Internet de las Cosas: Tecnologías Aplicadas
+80,00 €
+100,00 €
+120,00 €
+Mediación, Negociación y Resolución de Conflictos
+80,00 €
+100,00 €
+120,00 €
+Métodos Analíticos para Datos Masivos: Big Data
+80,00 €
+100,00 €
+120,00 €
+Responsabilidad Civil
+80,00 €
+100,00 €
+120,00 €
+Tecnologías e Ingeniería Cuánticas
+80,00 €
+100,00 €
+120,00 €
+Análisis Político Electoral
+95,00 €
+125,00 €
+150,00 €
+Asesoramiento y Consultoría Jurídico-Laboral
+95,00 €
+125,00 €
+150,00 €
+Cine y Televisión
+95,00 €
+125,00 €
+150,00 €
+Derecho de la Unión Europea
+95,00 €
+125,00 €
+150,00 €
+Derecho de los Sectores Regulados
+95,00 €
+125,00 €
+150,00 €
+Derecho Penal y Procesal Penal
+95,00 €
+125,00 €
+150,00 €
+Prevención de Riesgos Laborales
+95,00 €
+125,00 €
+150,00 €
+Tecnologías del Sector Financiero: Fintech
+95,00 €
+125,00 €
+150,00 €
+Ciencias Sociales Computacionales
+110,00 €
+145,00 €
+165,00 €
+Comunicación Publicitaria
+110,00 €
+145,00 €
+165,00 €
+Derecho de las Telecomunicaciones, Protección de Datos, Audiovisual
+y Sociedad de la Información
+110,00 €
+145,00 €
+165,00 €
+Documental y Reportaje Periodístico Transmedia
+110,00 €
+145,00 €
+165,00 €
+Ingeniería Clínica
+110,00 €
+145,00 €
+165,00 €
+Tributación
+110,00 €
+145,00 €
+165,00 €
+Asesoría Jurídica de Empresas
+130,00 €
+170,00 €
+195,00 €
+Desarrollo Sostenible y Gobernanza Global
+130,00 €
+170,00 €
+195,00 €
+Desarrollo y Crecimiento Económico
+130,00 €
+170,00 €
+195,00 €
+Economía
+130,00 €
+170,00 €
+195,00 €
+Economía Industrial y de Mercados
+130,00 €
+170,00 €
+195,00 €
+Geopolítica y Estudios Estratégicos
+130,00 €
+170,00 €
+195,00 €
+Gobernanza Económica Europea: Derecho, Política y Economía
+130,00 €
+170,00 €
+195,00 €
+Iniciativa Emprendedora y Creación de Empresas
+130,00 €
+170,00 €
+195,00 €
+Inteligencia Artificial Aplicada
+130,00 €
+170,00 €
+195,00 €
+Propiedad Intelectual
+130,00 €
+170,00 €
+195,00 €
+Abogacía Internacional
+150,00 €
+195,00 €
+225,00 €
+Dirección de Empresas
+150,00 €
+195,00 €
+225,00 €
+Dirección de Recursos Humanos
+150,00 €
+195,00 €
+225,00 €
+Finanzas
+150,00 €
+195,00 €
+225,00 €
+Marketing
+150,00 €
+195,00 €
+225,00 €
+Administración de Empresas MBA
+225,00 €
+300,00 €
+330, 00 €
+
+UNIVERSIDAD REY JUAN CARLOS
+MÁSTER UNIVERSITARIO EN
+1ª MATRÍCULA
+2ª MATRÍCULA
+Y SUCESIVAS
+PRECIO
+EXTRACOMUNITARIOS
+Oncología Molecular
+125,00€
+187,50€
+187,50€
 
 VIERNES 1 DE JULIO DE 2022
 Pág. 22

@@ -57,560 +57,561 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-166-3041.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 8 de agosto de 2025,de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores escolares de los centros docentes públicos no universitarios para el curso escolar 2025-2026 (BOC nº 166, de 22 de agosto).
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-3041 Dirección General de Administración de Centros, Escolarización y Servicios 
-Complementarios.- Resolución de 8 de agosto de 2025, por la que se aprueban las 
-instrucciones de organización y funcionamiento de los comedores escolares de los 
+3041 Dirección General de Administración de Centros, Escolarización y Servicios
+Complementarios.- Resolución de 8 de agosto de 2025, por la que se aprueban las
+instrucciones de organización y funcionamiento de los comedores escolares de los
 centros docentes públicos no universitarios para el curso escolar 2025-2026.
-En relación al expediente iniciado por la Dirección General de Administración de 
-Centros, Escolarización y Servicios Complementarios de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, referente a la aprobación de las 
-instrucciones de organización y funcionamiento de los comedores escolares de los centros 
-docentes públicos no universitarios para el curso escolar 2025-2026, de acuerdo con los 
+En relación al expediente iniciado por la Dirección General de Administración de
+Centros, Escolarización y Servicios Complementarios de la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes, referente a la aprobación de las
+instrucciones de organización y funcionamiento de los comedores escolares de los centros
+docentes públicos no universitarios para el curso escolar 2025-2026, de acuerdo con los
 siguientes
 ANTECEDENTES DE HECHO
-Primero.- Con fecha 8 de mayo de 2025 se dicta la Resolución n.º 229, de la Dirección 
-General de Administración de Centros, Escolarización y Servicios Complementarios, por la 
-que se establece el calendario escolar, las instrucciones complementarias del procedimiento 
-de admisión del alumnado comensal y los criterios de concesión de las subvenciones en 
-el que se autoriza la oferta de plazas de comensales de los centros docentes públicos no 
-universitarios para el curso escolar 2025-2026. En cumplimiento de lo preceptuado en el 
-artículo 2 de la Orden de 24 de abril de 2009, por la que se establece el procedimiento 
-de obtención de plazas y se aprueban las bases de la concesión de subvenciones para 
-comedores escolares en los centros públicos docentes no universitarios, dependientes de 
+Primero.- Con fecha 8 de mayo de 2025 se dicta la Resolución n.º 229, de la Dirección
+General de Administración de Centros, Escolarización y Servicios Complementarios, por la
+que se establece el calendario escolar, las instrucciones complementarias del procedimiento
+de admisión del alumnado comensal y los criterios de concesión de las subvenciones en
+el que se autoriza la oferta de plazas de comensales de los centros docentes públicos no
+universitarios para el curso escolar 2025-2026. En cumplimiento de lo preceptuado en el
+artículo 2 de la Orden de 24 de abril de 2009, por la que se establece el procedimiento
+de obtención de plazas y se aprueban las bases de la concesión de subvenciones para
+comedores escolares en los centros públicos docentes no universitarios, dependientes de
 esta Consejería.
-Segundo.- Así mismo, la normativa de aplicación preceptúa que con carácter previo 
-al inicio del curso escolar, debe dictarse una resolución que contenga las instrucciones de 
-organización y funcionamiento de los comedores escolares de los centros docentes públicos 
+Segundo.- Así mismo, la normativa de aplicación preceptúa que con carácter previo
+al inicio del curso escolar, debe dictarse una resolución que contenga las instrucciones de
+organización y funcionamiento de los comedores escolares de los centros docentes públicos
 no universitarios.
 FUNDAMENTOS JURÍDICOS
-Primero.- La [Orden de 25 de febrero de 2003](O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y 
-funcionamiento de los comedores escolares en los centros públicos docentes no universitarios 
-dependientes de la Consejería de Educación, Cultura y Deportes y se establecen las bases de la 
-convocatoria de plazas y ayudas con destino al alumnado comensal, recoge en su artículo 9.1 
-la obligación de la Dirección General de Promoción Educativa (actualmente Dirección General 
-de Administración de Centros, Escolarización y Servicios Complementarios; en adelante, 
-DGACESC) de dictar, al inicio de cada curso escolar, una resolución que recoja los siguientes 
+Primero.- La [Orden de 25 de febrero de 2003](O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y
+funcionamiento de los comedores escolares en los centros públicos docentes no universitarios
+dependientes de la Consejería de Educación, Cultura y Deportes y se establecen las bases de la
+convocatoria de plazas y ayudas con destino al alumnado comensal, recoge en su artículo 9.1
+la obligación de la Dirección General de Promoción Educativa (actualmente Dirección General
+de Administración de Centros, Escolarización y Servicios Complementarios; en adelante,
+DGACESC) de dictar, al inicio de cada curso escolar, una resolución que recoja los siguientes
 extremos:
-“a) Los días objeto de ayuda del comedor escolar, así como las fechas de comienzo y 
+“a) Los días objeto de ayuda del comedor escolar, así como las fechas de comienzo y
 finalización del servicio.
-b) El límite de ingresos familiares a partir del cual no se puede ser beneficiario de este 
+b) El límite de ingresos familiares a partir del cual no se puede ser beneficiario de este
 tipo de ayuda.
 
-c) Los criterios para la asignación de crédito que servirán de base para la concesión de 
+c) Los criterios para la asignación de crédito que servirán de base para la concesión de
 ayudas de los comensales y fijación de cuotas.
 d) Las asignaciones de los encargados de comedor.
 e) Personal laboral al servicio de cada comedor.
-f) Las personas distintas a los alumnos comensales del centro que, con carácter habitual, 
+f) Las personas distintas a los alumnos comensales del centro que, con carácter habitual,
 durante el curso escolar, podrán disfrutar del servicio de comedor escolar.
-g) Cuantas instrucciones considere convenientes para el buen funcionamiento del 
+g) Cuantas instrucciones considere convenientes para el buen funcionamiento del
 servicio”.
-Segundo.- De acuerdo con lo previsto en el artículo 8.2 de la citada Orden de 25 de 
-febrero de 2003, la resolución en la que se dicten las instrucciones de organización y 
-funcionamiento de los comedores escolares, incluirá el certificado que, los centros que 
-presenten modificaciones con respecto al curso anterior, deberán remitir a la Dirección 
+Segundo.- De acuerdo con lo previsto en el artículo 8.2 de la citada Orden de 25 de
+febrero de 2003, la resolución en la que se dicten las instrucciones de organización y
+funcionamiento de los comedores escolares, incluirá el certificado que, los centros que
+presenten modificaciones con respecto al curso anterior, deberán remitir a la Dirección
 General a los efectos de efectuar la planificación para el siguiente curso escolar.
-Tercero.- Según lo preceptuado en el artículo 8.1 de la reiterada Orden de 25 de febrero 
-de 2003, los comedores escolares contarán con el número de plazas autorizadas por la 
+Tercero.- Según lo preceptuado en el artículo 8.1 de la reiterada Orden de 25 de febrero
+de 2003, los comedores escolares contarán con el número de plazas autorizadas por la
 DGACESC.
-En cumplimiento de lo anterior se dicta la Resolución n.º 229, de 8 de mayo de 
-2025, de la Dirección General de Administración de Centros, Escolarización y Servicios 
-Complementarios, por la que se establece el calendario escolar, las instrucciones complementarias 
-del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
-las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
+En cumplimiento de lo anterior se dicta la Resolución n.º 229, de 8 de mayo de
+2025, de la Dirección General de Administración de Centros, Escolarización y Servicios
+Complementarios, por la que se establece el calendario escolar, las instrucciones complementarias
+del procedimiento de admisión del alumnado comensal y los criterios de concesión de
+las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros
 docentes públicos no universitarios para el curso escolar 2025-2026.
-Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de 
-septiembre, de organización de los Departamentos de la Administración Autonómica de 
+Cuarto.- Conforme a lo dispuesto en el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de
+septiembre, de organización de los Departamentos de la Administración Autonómica de
 Canarias,
-“Los directores generales, en el área de actividad que tengan encomendada, desempeñan 
-las atribuciones que se especifiquen en el correspondiente reglamento orgánico, elaboran 
-las propuestas de planes y programas de actuación e instruyen y formulan la propuesta de 
-resolución en los procedimientos en que deban resolver las viceconsejerías a que estén 
+“Los directores generales, en el área de actividad que tengan encomendada, desempeñan
+las atribuciones que se especifiquen en el correspondiente reglamento orgánico, elaboran
+las propuestas de planes y programas de actuación e instruyen y formulan la propuesta de
+resolución en los procedimientos en que deban resolver las viceconsejerías a que estén
 adscritos o, en su defecto, los titulares de los Departamentos”.
-De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el 
-[Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el 
-artículo 5 del vigente [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por el que se determina la estructura 
-orgánica y las sedes de las Consejerías del Gobierno de Canarias, así como con la Orden de 
-27 de mayo de 2024, por la que se delegan determinadas competencias, y en relación con 
-lo establecido en el artículo 29, apartado 1, letra j), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de 
-Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante 
+De conformidad con lo dispuesto en el Reglamento Orgánico de la Consejería
+de Educación, Formación Profesional, Actividad Física y Deportes, aprobado por el
+[Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, y en línea con lo anterior, de acuerdo con lo previsto en el
+artículo 5 del vigente [Decreto 123/2023](../01_marco_normativo_general_y_organico/D123_2023_determina_estructura_organica_sedes_consejerias_gobierno.md), de 17 de julio, por el que se determina la estructura
+orgánica y las sedes de las Consejerías del Gobierno de Canarias, así como con la Orden de
+27 de mayo de 2024, por la que se delegan determinadas competencias, y en relación con
+lo establecido en el artículo 29, apartado 1, letra j), de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de
+Régimen Jurídico de las Administraciones Públicas de Canarias, así como con la restante
 normativa de general aplicación, se procede a dictar la presente Resolución.
 
-En base a los preceptos anteriormente señalados, corresponde al Director General de 
-Administración de Centros, Escolarización y Servicios Complementarios de la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes la competencia para 
+En base a los preceptos anteriormente señalados, corresponde al Director General de
+Administración de Centros, Escolarización y Servicios Complementarios de la Consejería
+de Educación, Formación Profesional, Actividad Física y Deportes la competencia para
 dictar la Resolución.
-Por cuanto antecede y en virtud de las potestades administrativas que me confiere la 
+Por cuanto antecede y en virtud de las potestades administrativas que me confiere la
 normativa vigente,
 RESUELVO :
-Único.- Aprobar las instrucciones de organización y funcionamiento de los comedores 
+Único.- Aprobar las instrucciones de organización y funcionamiento de los comedores
 escolares de los centros docentes públicos no universitarios para el curso escolar 2025-
 2026 y los anexos que correspondan.
-Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
-plazo de un (1) mes, a contar desde el día siguiente al de su publicación, recurso de alzada 
-ante la Viceconsejería de Educación, sin perjuicio de cualesquiera otros que se estime 
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el
+plazo de un (1) mes, a contar desde el día siguiente al de su publicación, recurso de alzada
+ante la Viceconsejería de Educación, sin perjuicio de cualesquiera otros que se estime
 procedente interponer.
-Las Palmas de Gran Canaria, a 8 de agosto de 2025.- El Director General de 
-Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
+Las Palmas de Gran Canaria, a 8 de agosto de 2025.- El Director General de
+Administración de Centros, Escolarización y Servicios Complementarios, David Crego
 Chaves.
 
-INSTRUCCIONES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS 
-COMEDORES ESCOLARES DE LOS CENTROS DOCENTES PÚBLICOS NO 
+INSTRUCCIONES DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS
+COMEDORES ESCOLARES DE LOS CENTROS DOCENTES PÚBLICOS NO
 UNIVERSITARIOS PARA EL CURSO ESCOLAR 2025-2026.
 Primera.- Días de funcionamiento del comedor y días objeto de ayuda.
-1. El servicio del comedor escolar coincidirá con el periodo lectivo que fije la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes, mediante la Resolución 
-de la DGACESC de aprobación del Calendario Escolar, no excediendo su puesta en marcha 
-transcurridos tres días del inicio lectivo. Su finalización coincidirá con el último día lectivo 
+1. El servicio del comedor escolar coincidirá con el periodo lectivo que fije la Consejería
+de Educación, Formación Profesional, Actividad Física y Deportes, mediante la Resolución
+de la DGACESC de aprobación del Calendario Escolar, no excediendo su puesta en marcha
+transcurridos tres días del inicio lectivo. Su finalización coincidirá con el último día lectivo
 del curso escolar.
-El periodo lectivo se fijó en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la DGACESC, 
-por la que se establece el calendario escolar y se dictan instrucciones para la organización y 
-desarrollo de las actividades de comienzo y finalización del curso 2025-2026, y modificado 
-por la Resolución de 19 de marzo de 2025, por la que se corrige error en la citada Resolución de 
-20 de febrero de 2025, relativa al calendario escolar y a las instrucciones para la organización 
-y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los 
+El periodo lectivo se fijó en la [Resolución de 20 de febrero de 2025](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md), de la DGACESC,
+por la que se establece el calendario escolar y se dictan instrucciones para la organización y
+desarrollo de las actividades de comienzo y finalización del curso 2025-2026, y modificado
+por la Resolución de 19 de marzo de 2025, por la que se corrige error en la citada Resolución de
+20 de febrero de 2025, relativa al calendario escolar y a las instrucciones para la organización
+y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los
 centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
-2. Para establecer las asignaciones con destino a las subvenciones del alumnado 
+2. Para establecer las asignaciones con destino a las subvenciones del alumnado
 comensal, los días objeto de subvención para el curso escolar 2025-2026 serán 175 días.
-3. Si los días de funcionamiento del comedor fijados en el apartado 1 fuesen superiores 
-a los días objeto de subvención, los Consejos Escolares adaptarán el presupuesto a los días 
+3. Si los días de funcionamiento del comedor fijados en el apartado 1 fuesen superiores
+a los días objeto de subvención, los Consejos Escolares adaptarán el presupuesto a los días
 reales del servicio.
 Segunda.- Límite de ingresos familiares.
-El límite de ingresos familiares a partir del cual no se puede ser beneficiario de las ayudas 
-de comedor es el establecido en la instrucción undécima de la Resolución n.º 229, de la 
-DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias 
-del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
-las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
+El límite de ingresos familiares a partir del cual no se puede ser beneficiario de las ayudas
+de comedor es el establecido en la instrucción undécima de la Resolución n.º 229, de la
+DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias
+del procedimiento de admisión del alumnado comensal y los criterios de concesión de
+las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros
 docentes públicos no universitarios para el curso escolar 2025-2026.
-Conforme se indica en dicha instrucción undécima podrá beneficiarse de las subvenciones 
-destinadas a financiar, en parte o en su totalidad, el coste del servicio/día del comedor 
-el alumnado cuya renta anual familiar no supere los 21.600,00 euros en familias de uno 
-a cuatro miembros computables, añadiéndose a partir del cuarto miembro a este límite 
+Conforme se indica en dicha instrucción undécima podrá beneficiarse de las subvenciones
+destinadas a financiar, en parte o en su totalidad, el coste del servicio/día del comedor
+el alumnado cuya renta anual familiar no supere los 21.600,00 euros en familias de uno
+a cuatro miembros computables, añadiéndose a partir del cuarto miembro a este límite
 1.600,00 euros por cada miembro computable.
-Tercera.- Criterios para la asignación de crédito que sirve de base para la concesión 
+Tercera.- Criterios para la asignación de crédito que sirve de base para la concesión
 de ayudas a los comensales y fijación de cuotas.
-1. Los criterios para la asignación a cada centro educativo del crédito destinado a 
-las subvenciones de comedor para el curso 2025-2026, son los fijados en la instrucción 
-undécima, apartado 2.5, de la citada Resolución n.º 229, de 8 de mayo de 2025, de la 
+1. Los criterios para la asignación a cada centro educativo del crédito destinado a
+las subvenciones de comedor para el curso 2025-2026, son los fijados en la instrucción
+undécima, apartado 2.5, de la citada Resolución n.º 229, de 8 de mayo de 2025, de la
 
-DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias 
-del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
-las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
+DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias
+del procedimiento de admisión del alumnado comensal y los criterios de concesión de
+las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros
 docentes públicos no universitarios para el curso escolar 2025-2026.
-2. En cuanto a la fijación de cuotas, las establecerá el Consejo Escolar teniendo en 
+2. En cuanto a la fijación de cuotas, las establecerá el Consejo Escolar teniendo en
 cuenta los siguientes aspectos:
-a) El alumnado que no solicite subvención o no reúna los requisitos para obtenerla, 
-abonará el importe de la cuota máxima establecida por el Consejo Escolar, sin que, en ningún 
+a) El alumnado que no solicite subvención o no reúna los requisitos para obtenerla,
+abonará el importe de la cuota máxima establecida por el Consejo Escolar, sin que, en ningún
 caso, las cuotas no subvencionadas puedan ser inferiores a tres euros por día (3,00 euros/día).
 b) El alumnado comensal beneficiario de subvenciones tendrá cuotas diferenciadas.
-c) Las cuotas serán ingresadas en la cuenta corriente del comedor dentro de los diez 
+c) Las cuotas serán ingresadas en la cuenta corriente del comedor dentro de los diez
 primeros días de cada mes.
-d) Las cuotas del alumnado comensal son gastos mensuales independientemente del 
+d) Las cuotas del alumnado comensal son gastos mensuales independientemente del
 número de días que se haga uso del servicio.
-e) De manera excepcional, el Consejo Escolar, en el ejercicio de sus competencias, 
-podrá valorar la posibilidad de proponer modificar el número de días de uso de comedor y 
-el ajuste de la cuota correspondiente en aquellos casos que, debidamente justificados y con 
-objeto de contribuir a la conciliación de la vida laboral y familiar, tenga a bien considerarlo 
-previo estudio y viabilidad en la planificación de su centro, sin que esto suponga un coste 
+e) De manera excepcional, el Consejo Escolar, en el ejercicio de sus competencias,
+podrá valorar la posibilidad de proponer modificar el número de días de uso de comedor y
+el ajuste de la cuota correspondiente en aquellos casos que, debidamente justificados y con
+objeto de contribuir a la conciliación de la vida laboral y familiar, tenga a bien considerarlo
+previo estudio y viabilidad en la planificación de su centro, sin que esto suponga un coste
 adicional o un aumento en las cuotas de la persona interesada ni del resto de comensales.
-3. En el tablón de anuncios de los centros se publicarán los listados con la relación 
-nominal de comensales admitidos y de reserva, sin especificar la cuota asignada a cada 
-comensal. El coste del servicio y los distintos tipos genéricos de cuotas establecidas 
-por el Consejo Escolar serán publicados también en el mismo tablón. El titular de la 
-secretaría realizará el correspondiente archivo de copia de todo lo publicado junto a las 
+3. En el tablón de anuncios de los centros se publicarán los listados con la relación
+nominal de comensales admitidos y de reserva, sin especificar la cuota asignada a cada
+comensal. El coste del servicio y los distintos tipos genéricos de cuotas establecidas
+por el Consejo Escolar serán publicados también en el mismo tablón. El titular de la
+secretaría realizará el correspondiente archivo de copia de todo lo publicado junto a las
 correspondientes certificaciones en las que se haga constar las fechas de las mismas.
 Cuarta.- Asignaciones de la persona encargada de comedor.
-1. Las asignaciones mensuales de la persona encargada del comedor para el curso 
-escolar 2025-2026, como gratificación, son las que se indican atendiendo al tipo de gestión 
+1. Las asignaciones mensuales de la persona encargada del comedor para el curso
+escolar 2025-2026, como gratificación, son las que se indican atendiendo al tipo de gestión
 y módulo:
 MÓDULO GESTIÓN DIRECTA CONTRATO
 Hasta 100 139,40 € 121,70 €
 De 101 a 300 147,00 € 128,50 €
 Más de 300 157,80 € 135,80 €
-2. El módulo de comensales a tener en cuenta, a los efectos de aplicación del párrafo 
-anterior, será el que el centro escolar tenga autorizado en la Resolución n.º 229, de la 
-DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias 
+2. El módulo de comensales a tener en cuenta, a los efectos de aplicación del párrafo
+anterior, será el que el centro escolar tenga autorizado en la Resolución n.º 229, de la
+DGACESC, por la que se establece el calendario escolar, las instrucciones complementarias
 
-del procedimiento de admisión del alumnado comensal y los criterios de concesión de 
-las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros 
+del procedimiento de admisión del alumnado comensal y los criterios de concesión de
+las subvenciones y por la que se autoriza la oferta de plazas de comensales de los centros
 docentes públicos no universitarios para el curso escolar 2025-2026.
-3. Al finalizar el servicio del comedor, y antes del 15 de julio de 2025, la persona 
-encargada del comedor remitirá a la 
-DGACESC, debidamente cumplimentado, el Certificado 
+3. Al finalizar el servicio del comedor, y antes del 15 de julio de 2025, la persona
+encargada del comedor remitirá a la
+DGACESC, debidamente cumplimentado, el Certificado
 de Prestación de Servicio que figura como Anexo I en la presente Resolución.
-4. En virtud del referido certificado, y con posterioridad a la finalización del servicio, 
-se abonará a la persona encargada del comedor la asistencia realizada mediante un ingreso 
+4. En virtud del referido certificado, y con posterioridad a la finalización del servicio,
+se abonará a la persona encargada del comedor la asistencia realizada mediante un ingreso
 en la cuenta de percepción de sus haberes.
-Quinta.- Personal laboral al servicio de cada comedor, en atención al número de plazas 
+Quinta.- Personal laboral al servicio de cada comedor, en atención al número de plazas
 de comensales autorizadas que se ofertan por los centros educativos correspondientes.
-Con arreglo a lo previsto en el artículo 9.1 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la 
-que se regula la organización y funcionamiento de los comedores escolares en los centros 
-públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura 
-y Deportes, al inicio de cada curso escolar, la 
-DGACESC publicará una Resolución con el 
+Con arreglo a lo previsto en el artículo 9.1 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la
+que se regula la organización y funcionamiento de los comedores escolares en los centros
+públicos docentes no universitarios dependientes de la Consejería de Educación, Cultura
+y Deportes, al inicio de cada curso escolar, la
+DGACESC publicará una Resolución con el
 personal laboral al servicio de cada comedor.
-1. El personal laboral destinado al servicio del comedor en cada centro escolar, de 
-acuerdo a la planificación realizada y el número de plazas de comensales autorizadas que se 
-ofertan por los centros educativos correspondientes, es el que se detalla en las tablas anexas 
+1. El personal laboral destinado al servicio del comedor en cada centro escolar, de
+acuerdo a la planificación realizada y el número de plazas de comensales autorizadas que se
+ofertan por los centros educativos correspondientes, es el que se detalla en las tablas anexas
 a esta Resolución.
-2. El personal laboral destinado al servicio de comedor de cada centro escolar podrá 
-variarse en los términos que la normativa así lo permita, cuando se dé alguna de las 
-siguientes circunstancias: que el número de comensales reales, distribuidos por niveles, 
-resulte ser inferior a las plazas ofertadas por los centros; que se produjera un aumento en 
-dicho número de comensales, previa autorización, en su caso, del aumento del módulo de 
+2. El personal laboral destinado al servicio de comedor de cada centro escolar podrá
+variarse en los términos que la normativa así lo permita, cuando se dé alguna de las
+siguientes circunstancias: que el número de comensales reales, distribuidos por niveles,
+resulte ser inferior a las plazas ofertadas por los centros; que se produjera un aumento en
+dicho número de comensales, previa autorización, en su caso, del aumento del módulo de
 comensales del respectivo centro escolar; o si la disponibilidad del personal así lo requiere.
-3. El alumnado comensal del primer ciclo de infantil será atendido por el o la auxiliar 
-educativo y el educador o educadora infantil, con el apoyo de el o la auxiliar de servicios 
-complementarios, según se recoge en la Resolución n.º 980, de 30 de junio de 2022, 
-conjunta de las Direcciones Generales de Centros, Infraestructura y Promoción Educativa 
-y de Ordenación, Innovación y Calidad. Este personal será personal adicional contratado 
-en el marco del componente 21 del Mecanismo de Recuperación y Resiliencia (MRR), 
-denominado “Modernización y Digitalización del sistema educativo, incluida la atención 
+3. El alumnado comensal del primer ciclo de infantil será atendido por el o la auxiliar
+educativo y el educador o educadora infantil, con el apoyo de el o la auxiliar de servicios
+complementarios, según se recoge en la Resolución n.º 980, de 30 de junio de 2022,
+conjunta de las Direcciones Generales de Centros, Infraestructura y Promoción Educativa
+y de Ordenación, Innovación y Calidad. Este personal será personal adicional contratado
+en el marco del componente 21 del Mecanismo de Recuperación y Resiliencia (MRR),
+denominado “Modernización y Digitalización del sistema educativo, incluida la atención
 temprana de 0-3 años”.
-Sexta.- Personas distintas al alumnado comensal del centro que, con carácter 
+Sexta.- Personas distintas al alumnado comensal del centro que, con carácter
 habitual durante el curso escolar, podrán disfrutar del servicio de comedor escolar.
-1. La dirección del centro podrá autorizar el uso del servicio del comedor escolar, 
-si las disponibilidades de personal y espacios lo permiten, al profesorado del mismo y, 
-excepcionalmente, al de otros centros sin comedor que lo soliciten, fijándose una cuota de 
-3,50 euros/día, o el coste del servicio cuando este sea superior a la referida cantidad. Las 
-cuotas serán ingresadas, por periodos anticipados, en la cuenta corriente del comedor del 
+1. La dirección del centro podrá autorizar el uso del servicio del comedor escolar,
+si las disponibilidades de personal y espacios lo permiten, al profesorado del mismo y,
+excepcionalmente, al de otros centros sin comedor que lo soliciten, fijándose una cuota de
+3,50 euros/día, o el coste del servicio cuando este sea superior a la referida cantidad. Las
+cuotas serán ingresadas, por periodos anticipados, en la cuenta corriente del comedor del
 centro.
 
-2. Asimismo, podrá autorizar al personal docente y de servicios o programas educativos 
-autorizados y dependientes de esta Consejería u otro personal que preste servicios permanentes 
-durante el curso escolar en el centro educativo, aunque no dependa de la Consejería de 
-Educación, Formación Profesional, Actividad Física y Deportes, en los mismos supuestos 
+2. Asimismo, podrá autorizar al personal docente y de servicios o programas educativos
+autorizados y dependientes de esta Consejería u otro personal que preste servicios permanentes
+durante el curso escolar en el centro educativo, aunque no dependa de la Consejería de
+Educación, Formación Profesional, Actividad Física y Deportes, en los mismos supuestos
 y por la misma cantidad contemplada en el apartado anterior.
-3. Igualmente, con carácter excepcional, podrá ser autorizado alumnado de otros centros 
-docentes públicos no universitarios que se encuentre realizando actividades extraescolares 
-(viaje de fin de curso, visitas, programas de la Consejería de Educación, Formación 
-Profesional, Actividad Física y Deportes, etc.). Les será de aplicación la cuota máxima de 
+3. Igualmente, con carácter excepcional, podrá ser autorizado alumnado de otros centros
+docentes públicos no universitarios que se encuentre realizando actividades extraescolares
+(viaje de fin de curso, visitas, programas de la Consejería de Educación, Formación
+Profesional, Actividad Física y Deportes, etc.). Les será de aplicación la cuota máxima de
 comensal no subvencionado.
-4. La persona que ostente la dirección del centro y la persona o personas encargada de 
+4. La persona que ostente la dirección del centro y la persona o personas encargada de
 comedor, cuando hagan uso de este servicio, estarán exentas del pago de la cuota.
-5. Con el fin de potenciar la función educativa del comedor, el Consejo Escolar podrá 
-acordar la incorporación al servicio del comedor del profesorado que preste servicio en el 
-centro, que voluntariamente lo solicite y ajustado en número a los comensales, con la misión 
-única y específica de colaborar en la tarea educativa durante el desarrollo del mismo. Dicho 
-profesorado quedará exento de abonar el pago de la cuota y quedará registrado según el 
-procedimiento que cada centro establezca para dicho fin, de forma precisa, para su correcta 
+5. Con el fin de potenciar la función educativa del comedor, el Consejo Escolar podrá
+acordar la incorporación al servicio del comedor del profesorado que preste servicio en el
+centro, que voluntariamente lo solicite y ajustado en número a los comensales, con la misión
+única y específica de colaborar en la tarea educativa durante el desarrollo del mismo. Dicho
+profesorado quedará exento de abonar el pago de la cuota y quedará registrado según el
+procedimiento que cada centro establezca para dicho fin, de forma precisa, para su correcta
 contabilidad.
-6. El coste derivado de lo contemplado en los apartados 4 y 5 será previsto en el 
-presupuesto del comedor, no pudiendo proceder de los créditos asignados para subvención 
+6. El coste derivado de lo contemplado en los apartados 4 y 5 será previsto en el
+presupuesto del comedor, no pudiendo proceder de los créditos asignados para subvención
 del alumnado.
-7. Para el personal laboral que presta servicios en los centros docentes públicos con 
-comedor de gestión directa, la cuota/día vendrá determinada por el coste de la materia prima 
-para la elaboración del menú, y en los centros docentes públicos con gestión contratada la 
+7. Para el personal laboral que presta servicios en los centros docentes públicos con
+comedor de gestión directa, la cuota/día vendrá determinada por el coste de la materia prima
+para la elaboración del menú, y en los centros docentes públicos con gestión contratada la
 cuota/día vendrá determinada por el certificado de la empresa contratada.
 Séptima.- Otras normas de funcionamiento del servicio.
-1. La pérdida de la condición de comensal por causas distintas a las especificadas en 
-la base vigésima primera, apartado 3, del Anexo II de la Orden de 24 de abril de 2009, 
-“falta de abono de cuotas en el plazo establecido o falseamiento de datos para obtener la 
-subvención”, requerirá la aplicación del procedimiento que establece el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md), 
-de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad 
-Autónoma de Canarias en relación con la normativa vigente reguladora del procedimiento 
+1. La pérdida de la condición de comensal por causas distintas a las especificadas en
+la base vigésima primera, apartado 3, del Anexo II de la Orden de 24 de abril de 2009,
+“falta de abono de cuotas en el plazo establecido o falseamiento de datos para obtener la
+subvención”, requerirá la aplicación del procedimiento que establece el [Decreto 114/2011](../07_convivencia_bienestar_y_protocolos/D114_2011_regula_convivencia_ambito_educativo_comunidad_autonoma.md),
+de 11 de mayo, por el que se regula la convivencia en el ámbito educativo de la Comunidad
+Autónoma de Canarias en relación con la normativa vigente reguladora del procedimiento
 administrativo común.
-2. Con arreglo a lo previsto en el artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), 
-por la que se regula la organización y funcionamiento de los comedores escolares en los 
-centros públicos docentes no universitarios dependientes de la Consejería de Educación, 
-Cultura y Deportes, el Consejo Escolar garantizará la seguridad de los comensales y el 
-funcionamiento del servicio, estableciendo de forma expresa el protocolo de actuaciones 
-en caso de evacuación, accidente u otras circunstancias relevantes que puedan producirse 
-durante el transcurso del servicio. A tal fin, se deberá identificar con total precisión y 
-claridad quien o quienes deben localizar a la persona encargada del comedor y/o al miembro 
-del equipo directivo, cuando las circunstancias así lo requieran. El mencionado protocolo 
+2. Con arreglo a lo previsto en el artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md),
+por la que se regula la organización y funcionamiento de los comedores escolares en los
+centros públicos docentes no universitarios dependientes de la Consejería de Educación,
+Cultura y Deportes, el Consejo Escolar garantizará la seguridad de los comensales y el
+funcionamiento del servicio, estableciendo de forma expresa el protocolo de actuaciones
+en caso de evacuación, accidente u otras circunstancias relevantes que puedan producirse
+durante el transcurso del servicio. A tal fin, se deberá identificar con total precisión y
+claridad quien o quienes deben localizar a la persona encargada del comedor y/o al miembro
+del equipo directivo, cuando las circunstancias así lo requieran. El mencionado protocolo
 obrará en poder del personal del servicio de comedor y de la persona responsable.
 
-3. La persona encargada del comedor deberá supervisar el servicio, estar a disposición 
-de este y localizable, de modo que pueda acudir al centro educativo de forma inmediata 
-cuando lo requiera cualquier circunstancia. En caso de ausencia de la persona encargada 
-de comedor, deberá preverse la disponibilidad por algún miembro del equipo directivo en 
+3. La persona encargada del comedor deberá supervisar el servicio, estar a disposición
+de este y localizable, de modo que pueda acudir al centro educativo de forma inmediata
+cuando lo requiera cualquier circunstancia. En caso de ausencia de la persona encargada
+de comedor, deberá preverse la disponibilidad por algún miembro del equipo directivo en
 el horario del servicio.
-4. En cumplimiento del Real Decreto 1021/2022, de 13 de diciembre, por el que se 
-regulan determinados requisitos en materia de higiene de la producción y comercialización 
-de los productos alimenticios en establecimientos de comercio al por menor y para 
-garantizar la mayor seguridad alimentaria de los comensales, los comedores de gestión 
-directa incluirán en su presupuesto el coste ocasionado por el mantenimiento del Sistema 
+4. En cumplimiento del Real Decreto 1021/2022, de 13 de diciembre, por el que se
+regulan determinados requisitos en materia de higiene de la producción y comercialización
+de los productos alimenticios en establecimientos de comercio al por menor y para
+garantizar la mayor seguridad alimentaria de los comensales, los comedores de gestión
+directa incluirán en su presupuesto el coste ocasionado por el mantenimiento del Sistema
 de Análisis de Peligro y Puntos Críticos de Control (
-APPCC); y los de servicio contratado 
-especificarán en el contrato, que se archivará en el centro, una cláusula por la que la empresa 
+APPCC); y los de servicio contratado
+especificarán en el contrato, que se archivará en el centro, una cláusula por la que la empresa
 suministradora asume el sistema y mantenimiento.
-Asimismo, en el funcionamiento de los comedores escolares, con independencia del 
-modelo de gestión, deberá atenderse a lo dispuesto en el Capítulo VII de la Ley 17/2011, 
-de 5 de julio, de seguridad alimentaria y nutrición. Conforme a ello, y de acuerdo con lo 
-dispuesto en el artículo 40.3 de la meritada norma, deberá vigilarse por el cumplimiento 
-de que las comidas servidas en escuelas infantiles y centros escolares sean variadas, 
-equilibradas y estén adaptadas a las necesidades nutricionales de cada grupo de edad. En el 
-supuesto de los comedores de gestión contratada, el cumplimiento de esta instrucción deberá 
-figurar en el contrato suscrito con quien resulte adjudicataria del servicio, acreditándose 
+Asimismo, en el funcionamiento de los comedores escolares, con independencia del
+modelo de gestión, deberá atenderse a lo dispuesto en el Capítulo VII de la Ley 17/2011,
+de 5 de julio, de seguridad alimentaria y nutrición. Conforme a ello, y de acuerdo con lo
+dispuesto en el artículo 40.3 de la meritada norma, deberá vigilarse por el cumplimiento
+de que las comidas servidas en escuelas infantiles y centros escolares sean variadas,
+equilibradas y estén adaptadas a las necesidades nutricionales de cada grupo de edad. En el
+supuesto de los comedores de gestión contratada, el cumplimiento de esta instrucción deberá
+figurar en el contrato suscrito con quien resulte adjudicataria del servicio, acreditándose
 documentalmente a exigencia del órgano competente.
-De acuerdo con lo dispuesto en los artículos 40 y 41 de la Ley 17/2011, de 5 de julio, de 
-seguridad alimentaria y nutrición, se atenderá a lo estipulado en el Real Decreto 315/2025, 
-de 15 de abril, por el que se establecen normas de desarrollo de la Ley 17/2011, de 5 de 
-julio, de seguridad alimentaria y nutrición, para el fomento de una alimentación saludable 
+De acuerdo con lo dispuesto en los artículos 40 y 41 de la Ley 17/2011, de 5 de julio, de
+seguridad alimentaria y nutrición, se atenderá a lo estipulado en el Real Decreto 315/2025,
+de 15 de abril, por el que se establecen normas de desarrollo de la Ley 17/2011, de 5 de
+julio, de seguridad alimentaria y nutrición, para el fomento de una alimentación saludable
 y sostenible en centros educativos, a partir de la entrada en vigor del citado Real Decreto.
-5. Las comidas o productos, tanto elaborados en el propio centro como suministrados 
-por empresas, no podrán ser objeto de distribución o consumo fuera de las dependencias de 
+5. Las comidas o productos, tanto elaborados en el propio centro como suministrados
+por empresas, no podrán ser objeto de distribución o consumo fuera de las dependencias de
 los mismos, en aplicación de la normativa sanitaria.
-6. Con la finalidad de que las familias puedan complementar el régimen alimenticio de 
-sus hijos e hijas, se les comunicará la programación de los menús a servir en el comedor, 
-teniendo en cuenta las posibles variaciones derivadas del funcionamiento de la cocina 
+6. Con la finalidad de que las familias puedan complementar el régimen alimenticio de
+sus hijos e hijas, se les comunicará la programación de los menús a servir en el comedor,
+teniendo en cuenta las posibles variaciones derivadas del funcionamiento de la cocina
 (disponibilidad cocina, personal, suministros…).
-7. El horario de trabajo del personal laboral del comedor escolar se adecuará a las 
+7. El horario de trabajo del personal laboral del comedor escolar se adecuará a las
 necesidades del servicio.
-8. El Consejo Escolar garantizará y velará para que se realice el servicio de las dietas 
-alimentarias (menús diferenciados) cuando sean prescritas por los servicios médicos o por 
+8. El Consejo Escolar garantizará y velará para que se realice el servicio de las dietas
+alimentarias (menús diferenciados) cuando sean prescritas por los servicios médicos o por
 causas de índole religioso debidamente fundamentadas.
-9. El Consejo Escolar se asegurará de que exista una programación adecuada de 
-menús, teniendo en cuenta que los mismos sean equilibrados, variados y adaptados a los 
+9. El Consejo Escolar se asegurará de que exista una programación adecuada de
+menús, teniendo en cuenta que los mismos sean equilibrados, variados y adaptados a los
 comensales, artículo 9.3 de la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md).
 
-10. Con carácter general, deberán tenerse en cuenta los objetivos previstos en el Decreto 
-3/1997, de 21 de enero, por el que se aprueba el Plan de Salud de Canarias, debiendo 
+10. Con carácter general, deberán tenerse en cuenta los objetivos previstos en el Decreto
+3/1997, de 21 de enero, por el que se aprueba el Plan de Salud de Canarias, debiendo
 destacarse:
-“167. (…) que todos los colegios con comedor en aquellas zonas donde exista un alto 
-nivel de flúor en el agua dispondrán de agua no fluorada para la preparación de la comida 
+“167. (…) que todos los colegios con comedor en aquellas zonas donde exista un alto
+nivel de flúor en el agua dispondrán de agua no fluorada para la preparación de la comida
 y para el agua de consumo.
 […].
-171. (...) que en todos los colegios con comedor escolar se realicen sistemáticamente 
+171. (...) que en todos los colegios con comedor escolar se realicen sistemáticamente
 actividades de cepillado dental.
 […].
-301. (…) que en todos los colegios con servicio de comedor y en el resto de comedores 
+301. (…) que en todos los colegios con servicio de comedor y en el resto de comedores
 de titularidad pública, el suministro alimentario será nutricionalmente adecuado”.
-11. De acuerdo al artículo 2 del Real Decreto 191/2011, de 18 de febrero, sobre Registro 
-General Sanitario de Empresas Alimentarias y Alimentos, los centros que tienen comedor 
-escolar tienen que estar inscritos en el Registro Autonómico Sanitario. Desde el punto de vista de 
-las condiciones higiénico-sanitarias de los establecimientos, se acatarán por los centros y 
-por las empresas contratistas de los comedores escolares, las previsiones contenidas en la 
-normativa aplicable, y especialmente lo dispuesto en el Reglamento (CE) n.º 852/2004, 
-del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de 
-los productos alimenticios (DOUE n.º L 139, de 30.4.2004), el Real Decreto 1021/2022, 
-de 13 de diciembre, por el que se regulan determinados requisitos en materia de higiene 
-de la producción y comercialización de los productos alimenticios en establecimientos de 
-comercio al por menor, y el Real Decreto 1801/2003, de 26 de diciembre de 2003, sobre 
+11. De acuerdo al artículo 2 del Real Decreto 191/2011, de 18 de febrero, sobre Registro
+General Sanitario de Empresas Alimentarias y Alimentos, los centros que tienen comedor
+escolar tienen que estar inscritos en el Registro Autonómico Sanitario. Desde el punto de vista de
+las condiciones higiénico-sanitarias de los establecimientos, se acatarán por los centros y
+por las empresas contratistas de los comedores escolares, las previsiones contenidas en la
+normativa aplicable, y especialmente lo dispuesto en el Reglamento (CE) n.º 852/2004,
+del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de
+los productos alimenticios (DOUE n.º L 139, de 30.4.2004), el Real Decreto 1021/2022,
+de 13 de diciembre, por el que se regulan determinados requisitos en materia de higiene
+de la producción y comercialización de los productos alimenticios en establecimientos de
+comercio al por menor, y el Real Decreto 1801/2003, de 26 de diciembre de 2003, sobre
 seguridad general de los productos.
-12. El número de Registro Autonómico Sanitario deberá estar consignado en el 
+12. El número de Registro Autonómico Sanitario deberá estar consignado en el
 aplicativo del centro Pincel Ekade.
 Octava.- El menú escolar.
-La promoción de una alimentación saludable en las escuelas no solo contribuye al 
-bienestar físico del alumnado, sino que también puede tener un impacto positivo en su 
-rendimiento académico y desarrollo cognitivo. Se deberá valorar la calidad y variedad de 
-los menús, la oferta de alimentos procedentes de productores de proximidad y de productos 
+La promoción de una alimentación saludable en las escuelas no solo contribuye al
+bienestar físico del alumnado, sino que también puede tener un impacto positivo en su
+rendimiento académico y desarrollo cognitivo. Se deberá valorar la calidad y variedad de
+los menús, la oferta de alimentos procedentes de productores de proximidad y de productos
 ecológicos y frescos.
-Los menús deben estar diseñados de acuerdo con las directrices de la legislación 
-sanitaria vigente, que establece normas y recomendaciones para garantizar la calidad y 
-seguridad alimentaria en entornos educativos. A tal fin, las comidas serán supervisadas por 
+Los menús deben estar diseñados de acuerdo con las directrices de la legislación
+sanitaria vigente, que establece normas y recomendaciones para garantizar la calidad y
+seguridad alimentaria en entornos educativos. A tal fin, las comidas serán supervisadas por
 profesionales con formación acreditada en nutrición humana y dietética.
-En Canarias, un objetivo común de las Consejerías de Educación y de Sanidad es la 
-mejora de la salud de la población escolar. A través del acuerdo marco de colaboración, 
-firmado por ambas Consejerías “para la realización de actuaciones conjuntas de Promoción 
+En Canarias, un objetivo común de las Consejerías de Educación y de Sanidad es la
+mejora de la salud de la población escolar. A través del acuerdo marco de colaboración,
+firmado por ambas Consejerías “para la realización de actuaciones conjuntas de Promoción
 
-de la Salud en la escuela” y ratificado en la Resolución conjunta 1648/2021, se desarrollan 
-programas y acciones para inculcar hábitos alimenticios saludables contribuyendo así a la 
+de la Salud en la escuela” y ratificado en la Resolución conjunta 1648/2021, se desarrollan
+programas y acciones para inculcar hábitos alimenticios saludables contribuyendo así a la
 prevención de enfermedades como obesidad, diabetes, trastornos alimenticios, etc.
-Dentro de este marco de colaboración, el Servicio Canario de Salud, a través del enlace 
-Comedores escolares (gobiernodecanarias.org), pone a disposición de la ciudadanía, y en 
+Dentro de este marco de colaboración, el Servicio Canario de Salud, a través del enlace
+Comedores escolares (gobiernodecanarias.org), pone a disposición de la ciudadanía, y en
 particular, de los centros escolares, guías recomendables para la promoción de la salud.
-Otras recomendaciones nutricionales para el diseño de menús y guías de buenas 
-prácticas para la planificación y preparación de menús saludables, pueden consultarse en 
+Otras recomendaciones nutricionales para el diseño de menús y guías de buenas
+prácticas para la planificación y preparación de menús saludables, pueden consultarse en
 los siguientes enlaces:
-Programa 16. Menús escolares, máquinas expendedoras y cafeterías de los centros escolares 
+Programa 16. Menús escolares, máquinas expendedoras y cafeterías de los centros escolares
 https://www.aesan.gob.es/
 AECOSAN/docs/documentos/seguridad_alimentaria/pncoca/2021-2025/
 DOC_24_Programa_16_Menus.pdf
-Protocolo de criterios mínimos para la evaluación de la oferta alimentaria en centros escolares: 
-comedores escolares, máquinas expendedoras de alimentos y bebidas y cafeterías de acuerdo al 
+Protocolo de criterios mínimos para la evaluación de la oferta alimentaria en centros escolares:
+comedores escolares, máquinas expendedoras de alimentos y bebidas y cafeterías de acuerdo al
 programa 16 del plan nacional de control oficial de la cadena alimentaria 2021-2025. https://www.
 aesan.gob.es/
 AECOSAN/docs/documentos/nutricion/entorno_escolar/programa_16_protocolo.pdf
 Guía de comedores escolares. Comunidad Autónoma de Canarias. Guía_de_Comedores_
 Escolares.pdf (gobiernodecanarias.org).
-Guía pediátrica de la alimentación. Pautas de alimentación y actividad física de 0 a 18 años. 
+Guía pediátrica de la alimentación. Pautas de alimentación y actividad física de 0 a 18 años.
 https://www.programapipo.com/guia-pediatrica/
 Novena.- Aumento de módulo.
-La [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y funcionamiento 
-de los comedores escolares en los centros públicos docentes no universitarios dependientes 
-de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la 
-convocatoria de plazas y ayudas con destino al alumnado comensal, establece en el artículo 
+La [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), por la que se regula la organización y funcionamiento
+de los comedores escolares en los centros públicos docentes no universitarios dependientes
+de la Consejería de Educación, Cultura y Deportes, y se establecen las bases de la
+convocatoria de plazas y ayudas con destino al alumnado comensal, establece en el artículo
 5.3, apartado c):
-“Una vez autorizado el funcionamiento de un comedor, no será necesario reiterar la 
-petición anualmente. No obstante, cualquier variación que se produzca en relación con 
-el módulo inicial autorizado o cualquier otra circunstancia, incluyendo la suspensión del 
-servicio, deberá ser solicitada a la Dirección General de Promoción Educativa, y autorizada 
+“Una vez autorizado el funcionamiento de un comedor, no será necesario reiterar la
+petición anualmente. No obstante, cualquier variación que se produzca en relación con
+el módulo inicial autorizado o cualquier otra circunstancia, incluyendo la suspensión del
+servicio, deberá ser solicitada a la Dirección General de Promoción Educativa, y autorizada
 expresamente por esta”.
-Una vez iniciado el curso escolar, los centros educativos podrán solicitar a la 
-DGACESC 
-el aumento de módulo de comensales del comedor escolar, dentro de los plazos establecidos 
-y previo estudio de la necesidad y aprobación del Consejo Escolar. Para ello, el centro 
-deberá cumplimentar y remitir a la Dirección General el Anexo VII, atendiendo a los 
+Una vez iniciado el curso escolar, los centros educativos podrán solicitar a la
+DGACESC
+el aumento de módulo de comensales del comedor escolar, dentro de los plazos establecidos
+y previo estudio de la necesidad y aprobación del Consejo Escolar. Para ello, el centro
+deberá cumplimentar y remitir a la Dirección General el Anexo VII, atendiendo a los
 requisitos establecidos a continuación:
 • Tener alumnado en estado de lista de espera en el aplicativo de Pincel Ekade.
-• Disponer de instalaciones y espacios adecuados para proporcionar el servicio al 
+• Disponer de instalaciones y espacios adecuados para proporcionar el servicio al
 alumnado para el que se solicita.
 
 • Disponer de mobiliario, menaje y utensilios adecuados para ofrecer el servicio.
-• Garantizar que el coste del servicio no suponga un coste adicional o aumento en las 
+• Garantizar que el coste del servicio no suponga un coste adicional o aumento en las
 cuotas por el incremento de comensales.
-Este Servicio, atendiendo a los criterios anteriormente mencionados, estudiará la 
-viabilidad de la solicitud presentada por el centro, quedando sujeta a las limitaciones 
-presupuestarias y de recursos humanos, así como al cumplimiento de la normativa vigente 
+Este Servicio, atendiendo a los criterios anteriormente mencionados, estudiará la
+viabilidad de la solicitud presentada por el centro, quedando sujeta a las limitaciones
+presupuestarias y de recursos humanos, así como al cumplimiento de la normativa vigente
 relativa a ratios, higiene y seguridad.
-Los plazos establecidos para presentar la solicitud del aumento de módulo en el curso 
-escolar 2025-2026 será del 16 al 30 de octubre, ambos inclusive y del 1 al 15 de febrero, 
+Los plazos establecidos para presentar la solicitud del aumento de módulo en el curso
+escolar 2025-2026 será del 16 al 30 de octubre, ambos inclusive y del 1 al 15 de febrero,
 ambos inclusive.
-El plazo establecido para presentar la solicitud de aumento de módulo en el curso 
-escolar 2025-2026 por puesta en funcionamiento de nuevas Aulas Enclave con concreción 
-curricular en infantil y primaria en 
-CEIP o para el alumnado de nueva incorporación en 
+El plazo establecido para presentar la solicitud de aumento de módulo en el curso
+escolar 2025-2026 por puesta en funcionamiento de nuevas Aulas Enclave con concreción
+curricular en infantil y primaria en
+CEIP o para el alumnado de nueva incorporación en
 Centros de Educación Especial, estará abierto a lo largo de todo el curso escolar.
-Asimismo, y de acuerdo a la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), el centro educativo deberá 
-seguir funcionando con el módulo que tiene autorizado hasta que, desde esta Dirección 
+Asimismo, y de acuerdo a la [Orden de 25 de febrero de 2003](./O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md), el centro educativo deberá
+seguir funcionando con el módulo que tiene autorizado hasta que, desde esta Dirección
 General, se autorice el aumento de módulo solicitado.
 Décima.- Gestión, planificación y justificación de los comedores escolares.
-1. Con el objeto de cuantificar las asignaciones de los créditos a los centros educativos 
-desde esta Dirección General para el curso escolar 2025-2026, los Consejos Escolares 
-respectivos cumplimentarán el certificado que figura como Anexo II, haciendo constar 
-los datos reales para el curso escolar por rentas y “Cuota Cero”. Dicho anexo deberá ser 
-remitido a la 
+1. Con el objeto de cuantificar las asignaciones de los créditos a los centros educativos
+desde esta Dirección General para el curso escolar 2025-2026, los Consejos Escolares
+respectivos cumplimentarán el certificado que figura como Anexo II, haciendo constar
+los datos reales para el curso escolar por rentas y “Cuota Cero”. Dicho anexo deberá ser
+remitido a la
 DGACESC, en los siguientes plazos para su emisión:
 • Del 1 al 15 de octubre de 2025 (ambos inclusive).
 • Del 8 al 30 de enero de 2026 (ambos inclusive).
 • Del 6 al 17 de abril de 2026 (ambos inclusive).
-2. Con el fin de efectuar la planificación del comedor escolar para el curso escolar 
-2026-2027, los centros que prevean alguna modificación respecto al presente curso escolar, 
+2. Con el fin de efectuar la planificación del comedor escolar para el curso escolar
+2026-2027, los centros que prevean alguna modificación respecto al presente curso escolar,
 cumplimentarán el certificado que figura como Anexo III.
-Este anexo debe ser remitido a la DGACESC, del 8 al 30 de enero de 2026 (ambos 
+Este anexo debe ser remitido a la DGACESC, del 8 al 30 de enero de 2026 (ambos
 inclusive).
-3. A los efectos de justificar los ingresos y gastos, los centros deberán remitir a esta 
+3. A los efectos de justificar los ingresos y gastos, los centros deberán remitir a esta
 Dirección General, del 1 al 15 de julio de 2026, los siguientes anexos:
-- Certificación del Consejo Escolar acreditativo de los ingresos y gastos del comedor 
+- Certificación del Consejo Escolar acreditativo de los ingresos y gastos del comedor
 escolar, según modelo del Anexo IV .
-• En dicho anexo se realizará una diligencia que haga constar las compras pendientes de 
+• En dicho anexo se realizará una diligencia que haga constar las compras pendientes de
 abonar, a 30 de junio de 2026, por falta de saldo u otras circunstancias.
 
-• Aquellos centros, que habiendo cerrado el comedor durante el curso escolar, aún 
-tengan activa la cuenta de comedor, están obligados a enviar este Anexo IV mientras su 
+• Aquellos centros, que habiendo cerrado el comedor durante el curso escolar, aún
+tengan activa la cuenta de comedor, están obligados a enviar este Anexo IV mientras su
 cuenta no sea cerrada oficialmente.
-- Certificación de los días efectivos de servicio del curso escolar 2025-2026 y número 
-de comensales subvencionados y no subvencionados, y de la concesión de subvenciones, 
+- Certificación de los días efectivos de servicio del curso escolar 2025-2026 y número
+de comensales subvencionados y no subvencionados, y de la concesión de subvenciones,
 con relación nominal según modelo del Anexo V .
-4. A los efectos de justificar la supervisión de las normas sanitarias de los comedores 
-escolares, los centros deberán emitir, por medio de certificación antes del 31 de diciembre 
+4. A los efectos de justificar la supervisión de las normas sanitarias de los comedores
+escolares, los centros deberán emitir, por medio de certificación antes del 31 de diciembre
 de 2025, el certificado que figura como Anexo VI.
-5. La remisión de documentación habrá de efectuarse conforme a los plazos y 
+5. La remisión de documentación habrá de efectuarse conforme a los plazos y
 procedimientos de envío siguientes:
 Folio 12/19
-5.- La remisión de documentación habrá de efectuarse conforme a los plazos y procedimientos de envío  
+5.- La remisión de documentación habrá de efectuarse conforme a los plazos y procedimientos de envío
 siguientes:
-ANEXOS CONTENIDO FECHA PROCEDIMIENTO DE 
+ANEXOS CONTENIDO FECHA PROCEDIMIENTO DE
 ENVÍO
-I Certificado de la persona encargada del 
-comedor. Curso 2025-2026. 1-15/07/26 Firma y envío a través de 
+I Certificado de la persona encargada del
+comedor. Curso 2025-2026. 1-15/07/26 Firma y envío a través de
 PINCEL
 II
-Certificado de comensales por tramos  
+Certificado de comensales por tramos
 de  renta  y  cuota  cero .  Curso  2025-
 2026.
 1-15/10/25
 8-30/01/26
 6-17/04/26
-Firma y envío a través de 
+Firma y envío a través de
 PINCEL
-III Planificación  de  comensales.  Curso 
+III Planificación  de  comensales.  Curso
 2026-2027.  8-30/01/26
-Firma electrónica. Envío 
-por Hiperreg 
-(LPA:47.35.40.10 y 
+Firma electrónica. Envío
+por Hiperreg
+(LPA:47.35.40.10 y
 TFE:47.35.45.10)
-IV Justificación  ingresos-gastos.  Curso 
+IV Justificación  ingresos-gastos.  Curso
 2025-2026. 1-15/07/26
-Firma electrónica. Envío 
-por Hiperreg 
-(LPA:47.35.40.10 y 
+Firma electrónica. Envío
+por Hiperreg
+(LPA:47.35.40.10 y
 TFE:47.35.45.10)
 V
-Certificación días servicio y promedio  
-comensales  y  de  concesión  
+Certificación días servicio y promedio
+comensales  y  de  concesión
 subvenciones. Curso 2025-2026.
-1-15/07/26 Firma y envío a través de 
+1-15/07/26 Firma y envío a través de
 PINCEL
 VI
-Certificación  sobre  la  supervisión  de 
-las normas sanitarias de los comedores  
-escolares. Curso 2025-2026. 
-Hasta el 31/12/2025 Queda custodiado en el 
+Certificación  sobre  la  supervisión  de
+las normas sanitarias de los comedores
+escolares. Curso 2025-2026.
+Hasta el 31/12/2025 Queda custodiado en el
 centro
-VII Solicitud de ampliación de módulo de  
-comedor. Curso 2025-2026. 
+VII Solicitud de ampliación de módulo de
+comedor. Curso 2025-2026.
 16-30/10/2025
 1-15/02/2026
-Firma electrónica. Envío 
-por Hiperreg 
-(LPA:47.35.40.10 y 
+Firma electrónica. Envío
+por Hiperreg
+(LPA:47.35.40.10 y
 TFE:47.35.45.10)
-6.- Todas las certificaciones y documentación remitidas a esta Dirección General deberán estar firmadas  
-a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre del Procedimiento  
+6.- Todas las certificaciones y documentación remitidas a esta Dirección General deberán estar firmadas
+a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de octubre del Procedimiento
 Administrativo Común de las Administraciones Públicas, en su artículo 14, 2.e).
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0NyUczyvhBSASpIfZarSlvDlLyp3VxmcC
-6. Todas las certificaciones y documentación remitidas a esta Dirección General deberán 
-estar firmadas a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de 
-octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su 
+0NyUczyvhBSASpIfZarSlvDlLyp3VxmcC
+6. Todas las certificaciones y documentación remitidas a esta Dirección General deberán
+estar firmadas a través de firma electrónica, tal y como establece la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md) de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su
 artículo 14.2.e).
 
 ANEXO I
-CERTIFICADO DE PRESTACIÓN DE SERVICI  O COMO ENCARGADO/A DE COMEDOR  
+CERTIFICADO DE PRESTACIÓN DE SERVICI  O COMO ENCARGADO/A DE COMEDOR
 CURSO ESCOLAR 2025-2026
-D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
 CERTIFICA:
-Que  D./Dña. (Apellidos/Nombre)  ___________________________________________,  con  NIF/NIE  
-____________________,  personal  (Docente  o  personal  de  Administración  y  Servicios)  
+Que  D./Dña. (Apellidos/Nombre)  ___________________________________________,  con  NIF/NIE
+____________________,  personal  (Docente  o  personal  de  Administración  y  Servicios)
 _______________________.
-Ha desempeñado el servicio de encargado de comedor, de acuerdo con los artículos 17 y 18 de la Orden  de 11 de 
+Ha desempeñado el servicio de encargado de comedor, de acuerdo con los artículos 17 y 18 de la Orden  de 11 de
 septiembre de 1996 (BOC nº 119, de 18/09/96) en los períodos:
-Día inicio ____________ Día final __________ 
+Día inicio ____________ Día final __________
 Con un total de _____ meses y ____ días.
-Y para que así conste, a los efectos de la asignación contemplada en la presente Resolución, expido el presente, con  
-el  Vº  Bº  del/la  pr esidente/a  del  Consejo  Escolar,  en  ________________________  a  _____  de  
-________________de 2026. 
+Y para que así conste, a los efectos de la asignación contemplada en la presente Resolución, expido el presente, con
+el  Vº  Bº  del/la  pr esidente/a  del  Consejo  Escolar,  en  ________________________  a  _____  de
+________________de 2026.
 Vº Bº
-EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL 
+EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL
 CONSEJO ESCOLAR CONSEJO ESCOLAR
 (firma)  (firma)
-(Nombre y apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+(Nombre y apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS
 ANEXO I
-CERTIFICADO DE PRESTACIÓN DE SERVICIO COMO ENCARGADO/A  
+CERTIFICADO DE PRESTACIÓN DE SERVICIO COMO ENCARGADO/A
 DE COMEDOR CURSO ESCOLAR 2025-2026
 
 ANEXO II
- CERTIFICADO DE COMENSALES POR TRAMOS DE RENTA Y CUOTA CERO
-D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+CERTIFICADO DE COMENSALES POR TRAMOS DE RENTA Y CUOTA CERO
+D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
-CERTIFICA: que según los datos que obran en los archivos de este centro, el número de solicitantes de plaza de  
-comedor admitidos que, de acuerdo con los criterios objetivos que han de servir de base a la concesión de las  
-mismas, establecidos en la Orden de 24 de abril de 2009, dentro de la renta familiar máxima fijada por la Dirección  
-General de Ordenación, Innovación y Promoción Educativa, reuniendo los requisitos necesarios para la obtención  
-de la subvención y cumpliendo con el procedimiento previsto en la Resolución de admisión del presente curso, son  
+CERTIFICA: que según los datos que obran en los archivos de este centro, el número de solicitantes de plaza de
+comedor admitidos que, de acuerdo con los criterios objetivos que han de servir de base a la concesión de las
+mismas, establecidos en la Orden de 24 de abril de 2009, dentro de la renta familiar máxima fijada por la Dirección
+General de Ordenación, Innovación y Promoción Educativa, reuniendo los requisitos necesarios para la obtención
+de la subvención y cumpliendo con el procedimiento previsto en la Resolución de admisión del presente curso, son
 los siguientes:
-NÚMERO DE SOLICITUDES ADMITIDAS DISTRIBUIDAS POR LOS TRAMOS DE RENTAS Y 
+NÚMERO DE SOLICITUDES ADMITIDAS DISTRIBUIDAS POR LOS TRAMOS DE RENTAS Y
 CUOTA CERO  DE LOS COMENSALES
 Comensales cuya renta familiar:
 1. (a) Supera el límite de ingresos familiares a partir del cual no se puede
 ser beneficiario de  subvención. (Ingresos superiores a 21.600,00 euros)
-                 
+
 2. (b) Ingresos entre 21.600,00 euros y 18.000,01  euros.
 (c) Ingresos entre de 18.000,00 y 14.400,01 euros.
 (d) Ingresos entre 14.400,00 y 7.200,01  euros.
@@ -618,14 +619,14 @@ ser beneficiario de  subvención. (Ingresos superiores a 21.600,00 euros)
 (f) Alumnado Cuota Cero
 Suma de b, c. d, e y f
 Suma de a, b, c, d, e y f
-Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009 y Resoluciones  posteriores, expido el  
+Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009 y Resoluciones  posteriores, expido el
 presente con el Vº Bº del/la presidente/a del Consejo Escolar, en ____________ a _____ de ____________de 202_.
 Vº Bº
-EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL 
+EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL
 CONSEJO ESCOLAR CONSEJO ESCOLAR
-      (firma)     (firma)
-(Nombre y apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+(firma)     (firma)
+(Nombre y apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS
 CATERING CONTRATADO (EN SU CASO):
 MÓDULO SIN 1er CICLO INFANTIL:
@@ -638,22 +639,22 @@ CERTIFICADO DE COMENSALES POR TRAMOS DE RENTA Y CUOTA CERO
 ANEXO III
 PLANIFICACIÓN DE COMEDORES
 CURSO ESCOLAR 2026-2027
-D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
-CERTIFICA: que el Consejo Escolar del centro acordó, teniendo en cuenta los comensales actuales y posibles  
-variaciones, solicitar un módulo de _______________ (*) alumnado comensal para el curso escolar 2025-2026. 
-COMENSALES REALES 
+CERTIFICA: que el Consejo Escolar del centro acordó, teniendo en cuenta los comensales actuales y posibles
+variaciones, solicitar un módulo de _______________ (*) alumnado comensal para el curso escolar 2025-2026.
+COMENSALES REALES
 A ENERO DE 2026
-PLANIFICACIÓN CURSO 
+PLANIFICACIÓN CURSO
 ESCOLAR 2026-2027
-Comensales 2º ciclo Infantil 
-Comensales Primaria 
+Comensales 2º ciclo Infantil
+Comensales Primaria
 Resto alumnado comensal
 Total comensales (*)
-(*) El módulo solicitado para el cur so escolar 2026-2027 debe coincidir con el del total de la planificación para el  
+(*) El módulo solicitado para el cur so escolar 2026-2027 debe coincidir con el del total de la planificación para el
 mismo curso.
-Si  el  módulo  solicitado  para  el  curso  2026-2027  es  inferior  o  superior  al  del  curso  escolar  2025-2026 
+Si  el  módulo  solicitado  para  el  curso  2026-2027  es  inferior  o  superior  al  del  curso  escolar  2025-2026
 (Resolución n.º 229 de fecha 8 de mayo de 2025) especificar los siguientes aspectos:
 a) Causas que motivan el aumento o disminución de comensales:
 _________________________________________________________________________________________
@@ -665,53 +666,53 @@ características siguientes:
 • Disponibilidad de menaje y utensilios adecuados para ofrecer el servicio que se solicita: Sí / No
 • Tiene alumnado en lista de espera actualmente: Sí / No
 • El personal de servicio de comedor es suficiente para dar respuesta al aumento que se solicita: Sí / No
-Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009, expido la presente con el Vº Bº del/la 
+Y para que conste, a los efectos previstos en la Orden de 24 de abril de 2009, expido la presente con el Vº Bº del/la
 presidente/a del Consejo Escolar, en____________________________ a _____ de enero de 2026.
 Vº Bº Vº Bº
-LA INSPECCIÓN EL/LA PRESIDENTE/A EL/ LA SECRETARIO/A 
+LA INSPECCIÓN EL/LA PRESIDENTE/A EL/ LA SECRETARIO/A
 EDUCATIVA DEL CONSEJO ESCOLAR DEL CONSEJO ESCOLAR
 (firma) (firma)           (firma)
-(Nombre y apellidos) (Nombre y apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
-SERVICIOS COMPLEMENTARIOS.     
+(Nombre y apellidos) (Nombre y apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
+SERVICIOS COMPLEMENTARIOS.
 ANEXO III
-PLANIFICACIÓN DE COMEDORES 
+PLANIFICACIÓN DE COMEDORES
 CURSO ESCOLAR 2026-2027
 
 ANEXO IV
 JUSTIFICACIÓN DE INGRESOS Y GASTOS DEL COMEDOR ESCOLAR
-C  URSO 2025-2026  
-D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+C  URSO 2025-2026
+D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
-CERTIFICA: que la ejecución del presupuesto de Comedor Escolar del Centro se ha realizado de conformidad al 
-presupuesto aprobado por el Consejo Escolar y posteriores modificaciones, en su caso, de acuerdo con la  
+CERTIFICA: que la ejecución del presupuesto de Comedor Escolar del Centro se ha realizado de conformidad al
+presupuesto aprobado por el Consejo Escolar y posteriores modificaciones, en su caso, de acuerdo con la
 siguiente distribución:
-INGRESOS 
-POR 
+INGRESOS
+POR
 CONCEPTOS
-Remanente 
+Remanente
 JUNIO 2025
-Asignaciones para 
-subvenciones al 
+Asignaciones para
+subvenciones al
 comedor
-Cuotas 
+Cuotas
 alumnado
-Aportaciones del 
+Aportaciones del
 profesorado
 Otros
 ingresos
 TOTAL
 DE
 INGRESOS
- €  €  €  € €  €
+€  €  €  € €  €
 GASTOS
 ALIMENTACIÓN
 (menú) OTROS GASTOS INHERENTES TOTAL GASTOS
 €  € €
 TOTAL DE INGRESOS - TOTAL DE GASTOS = REMANENTE  A JUNIO 2026
-De este remanente, el generado por falta de aplicación de la asignación concedida por la Dirección General de  
-Administración de Centros, Escolarización y Servicios Complementarios, y que será detraído en su totalidad del  
+De este remanente, el generado por falta de aplicación de la asignación concedida por la Dirección General de
+Administración de Centros, Escolarización y Servicios Complementarios, y que será detraído en su totalidad del
 importe de la asignación correspondiente al siguiente curso escolar (Orden de 24 de abril de 2009) es:
 REMANENTE ASIGNACIÓN SUBVENCIÓN CONSEJERÍA
 Asimismo CERTIFICA que:
@@ -720,35 +721,35 @@ asignación recibida ha sido destinada a la finalidad para la que fue concedida.
 2) Que los justificantes originales y demás documentación administrativa se encuentran archivados en el Centro.
 3) Que de los datos obrantes en el centro de la gestión del Comedor Escolar queda el siguiente importe referido a:
 COMPRAS PENDIENTES DE PAGAR
-Y para que c onste, a los efectos de acreditación de ingresos y gastos del Comedor Escolar del curso escolar  
-2025/2026  expido  el  presente  con  el  Vº  Bº  del/la  presidente/a  del  Consejo  Escolar,  
+Y para que c onste, a los efectos de acreditación de ingresos y gastos del Comedor Escolar del curso escolar
+2025/2026  expido  el  presente  con  el  Vº  Bº  del/la  presidente/a  del  Consejo  Escolar,
 en______________________________ a _________ de ________________de 2026.
 Vº Bº
 EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL
 CONSEJO ESCOLAR CONSEJO ESCOLAR
 (firma) (firma)
-(Nombre y apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+(Nombre y apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS.
 ANEXO IV
-JUSTIFICACIÓN DE INGRESOS Y GASTOS DEL COMEDOR ESCOLAR 
+JUSTIFICACIÓN DE INGRESOS Y GASTOS DEL COMEDOR ESCOLAR
 CURSO 2025-2026
 
-ANEXO V 
-INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL Y 
+ANEXO V
+INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL Y
 CERTIFICACIÓN DE CONCESIÓN DE SUBVENCIONES
-CURS  O ESCOLAR 2025-2026  
-D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+CURS  O ESCOLAR 2025-2026
+D/Dña._______________________________________________, secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
-CERTIFICA: que la distribución de subvenciones y asignación de cuotas, correspondientes al curso escolar  
-2025-2026, se ha realizado de conformidad con las directrices del Consejo Escolar y que el servicio real y el  
+CERTIFICA: que la distribución de subvenciones y asignación de cuotas, correspondientes al curso escolar
+2025-2026, se ha realizado de conformidad con las directrices del Consejo Escolar y que el servicio real y el
 promedio de alumnado comensal ha sido el siguiente:
 MESES
 DÍAS COMENSALES
-SERVICIO 
+SERVICIO
 REAL
-NO 
+NO
 SUBVENC. SUBVENC. TOTALES
 SEPTIEMBRE
 OCTUBRE
@@ -761,88 +762,88 @@ ABRIL
 MAYO
 JUNIO
 TOTALES ANUALES
-Y que el Consejo Escolar, por delegación de la Consejería de Educación, Universidades, Cultura y Deportes, en  
-virtud de la Orden de 24 de abril de 20 09, y de conformidad con lo dispuesto en la misma, ha concedido, dentro de  
-los  límites  establecidos  por  la  Dirección  General  de  Administración  de  Centros,  Escolarización  y  Servicios 
-Complementarios  para  el curso 2024/2025, consta ndo en el Libro de Actas del Consejo Escolar los criterios de  
+Y que el Consejo Escolar, por delegación de la Consejería de Educación, Universidades, Cultura y Deportes, en
+virtud de la Orden de 24 de abril de 20 09, y de conformidad con lo dispuesto en la misma, ha concedido, dentro de
+los  límites  establecidos  por  la  Dirección  General  de  Administración  de  Centros,  Escolarización  y  Servicios
+Complementarios  para  el curso 2024/2025, consta ndo en el Libro de Actas del Consejo Escolar los criterios de
 baremación utilizados, las siguientes subvenciones:
-Nº ORDEN RELACIÓN NOMINAL DE ALUMNADO 
+Nº ORDEN RELACIÓN NOMINAL DE ALUMNADO
 COMENSAL
-IMPORTE 
+IMPORTE
 SUBVENCIÓN/DÍA
 SEXO
-Asimismo, que han sido expuestos los listados de alumnado admitido y excluido; así como las subvenciones  
-concedidas y cuota asignada a los comensales, con indicación del coste del servicio/día/comensal; quedando  
+Asimismo, que han sido expuestos los listados de alumnado admitido y excluido; así como las subvenciones
+concedidas y cuota asignada a los comensales, con indicación del coste del servicio/día/comensal; quedando
 constancia literal de todo ello en el libro de actas del Consejo Escolar o anexo del mismo.
-Y para que conste, a los efectos previstos en  la Orden de 24 de abril de 2009, e xpido, con el  Vº Bº del/la  
+Y para que conste, a los efectos previstos en  la Orden de 24 de abril de 2009, e xpido, con el  Vº Bº del/la
 Presidente/a del Consejo Escolar, en _____________________________ a _____ de ________________de 2026.
 Vº Bº
-EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL 
+EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL
 CONSEJO ESCOLAR CONSEJO ESCOLAR
-                               (firma)      (firma)
-(Nombre y Apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+(firma)      (firma)
+(Nombre y Apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS
 ANEXO V
-INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL  
-Y CERTIFICACIÓN DE CONCESIÓN DE SUBVENCIONES 
+INFORME SOBRE DÍAS DE SERVICIO Y PROMEDIO DE ALUMNADO COMENSAL
+Y CERTIFICACIÓN DE CONCESIÓN DE SUBVENCIONES
 CURSO ESCOLAR 2025-2026
 
 ANEXO VI
-CERTIFICACIÓN  SOBRE  LA SUPERVISIÓN DE LAS NORMAS SANITARIAS DE LOS COMEDORES 
+CERTIFICACIÓN  SOBRE  LA SUPERVISIÓN DE LAS NORMAS SANITARIAS DE LOS COMEDORES
 ESCOLARES
-CURSO ESCOLA  R 2025-2026  
-D/Dña._______________________________________________, Secretario/a del Consejo Escolar del centro  
-_____________________________________________,  código  _____________,  municipio  
+CURSO ESCOLA  R 2025-2026
+D/Dña._______________________________________________, Secretario/a del Consejo Escolar del centro
+_____________________________________________,  código  _____________,  municipio
 ________________________, isla de______________.  Teléfono ___________.
-CERTIFICA: 
-En cumplimiento de los puntos 4, 6, 8 y 10 de la Instrucción Séptima. -Otras normas de funcionamiento del servicio 
-de  la  Resolución  de  la  Directora  General  de  Administración  de  Centros,  Escolarización  y  Servicios 
-Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores  
-escolares de los centros docentes públicos no universitarios para cada curso escolar, el Consejo Escolar de este  
+CERTIFICA:
+En cumplimiento de los puntos 4, 6, 8 y 10 de la Instrucción Séptima. -Otras normas de funcionamiento del servicio
+de  la  Resolución  de  la  Directora  General  de  Administración  de  Centros,  Escolarización  y  Servicios
+Complementarios por la que se aprueban las instrucciones de organización y funcionamiento de los comedores
+escolares de los centros docentes públicos no universitarios para cada curso escolar, el Consejo Escolar de este
 centro ha aprobado y lleva a cabo un seguimiento de los siguientes puntos:
-1.- El Sistema de Análisis de Peligro y Puntos Críticos de Control (APPCC) conforme se recoge en el Real Decreto 
-1021/2022, de 13 de diciembre, por el que se regulan determinados requisitos en materia de higiene de la  
-producción y comercialización de los productos alimenticios en establecimientos de comercio al por menor y  el 
-programa de formación continuada de los manipuladores de alimentos según la Orden de 10 de julio de 2002, por la 
-que se regulan las condiciones para el ejercicio de actividades de formación de manipuladores de alimentos y el  
+1.- El Sistema de Análisis de Peligro y Puntos Críticos de Control (APPCC) conforme se recoge en el Real Decreto
+1021/2022, de 13 de diciembre, por el que se regulan determinados requisitos en materia de higiene de la
+producción y comercialización de los productos alimenticios en establecimientos de comercio al por menor y  el
+programa de formación continuada de los manipuladores de alimentos según la Orden de 10 de julio de 2002, por la
+que se regulan las condiciones para el ejercicio de actividades de formación de manipuladores de alimentos y el
 régimen de autorización y registro.
-2.- Que las comidas serán supervisadas por profesionales con formación acreditada en nutrición y dietética. 
-3.- La comunicación de la programación de los menús a servir en el comedor, teniendo en cuenta las posibles  
+2.- Que las comidas serán supervisadas por profesionales con formación acreditada en nutrición y dietética.
+3.- La comunicación de la programación de los menús a servir en el comedor, teniendo en cuenta las posibles
 variaciones derivadas del funcionamiento de la cocina (disponibilidad cocina, personal, suministros…).
-4.- La realización del servicio de las dietas alimentarias (menús diferenciados) cuando sean prescritas por los  
+4.- La realización del servicio de las dietas alimentarias (menús diferenciados) cuando sean prescritas por los
 servicios médicos o por causas de índole religioso debidamente fundamentadas.
-Y  para  que  conste,  expido  la  presente,  con  el  Vº  Bº  del/la  Presidente/a  del  Consejo  Escolar,  en  
+Y  para  que  conste,  expido  la  presente,  con  el  Vº  Bº  del/la  Presidente/a  del  Consejo  Escolar,  en
 _______________________________ a _____ de ________________de 2025.
 Vº Bº
-EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL 
+EL/LA PRESIDENTE/A DEL EL/LA SECRETARIO/A DEL
 CONSEJO ESCOLAR CONSEJO ESCOLAR
-                          (firma)  (firma)
-(Nombre y apellidos) 
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+(firma)  (firma)
+(Nombre y apellidos)
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS.
 ANEXO VI
-CERTIFICACIÓN SOBRE LA SUPERVISIÓN DE LAS NORMAS SANITARIAS  
-DE LOS COMEDORES ESCOLARES 
+CERTIFICACIÓN SOBRE LA SUPERVISIÓN DE LAS NORMAS SANITARIAS
+DE LOS COMEDORES ESCOLARES
 CURSO ESCOLAR 2025-2026
 
 ANEXO VII
-SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR PARA EL CURS  O   2025-2026  
-D/Dª___________________________,  director/a  del  centro  ____________________________  con  código  
+SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR PARA EL CURS  O   2025-2026
+D/Dª___________________________,  director/a  del  centro  ____________________________  con  código
 ____________, y teléfono ________________ situado en __________________________ .
 EXPONE
-- Que actualmente el centro presta servicio de comedor de gestión ______________ y cuenta con un módulo  
+- Que actualmente el centro presta servicio de comedor de gestión ______________ y cuenta con un módulo
 aprobado de ____ comensales.
 - Que el número total de solicitudes de alumnado del centro en lista de espera es ______.
-- Que el número actual de turnos para ofrecer el servici o es ___  y con el aumento de módulo solicitado se  
+- Que el número actual de turnos para ofrecer el servici o es ___  y con el aumento de módulo solicitado se
 necesitarían un total de _____ turnos.
-- Que en sesión de Consejo Escolar celebrada el ________________, se aprueba solicitar un aumento de  
+- Que en sesión de Consejo Escolar celebrada el ________________, se aprueba solicitar un aumento de
 módulo basándose en los siguientes aspectos:
 • Dispone de las instalaciones y espacios adecuados para ofrecer el servicio. E l centro cumple con lo
 establecido en el Código Técnico de la Edificación, DB-SI/3-2, Seguridad en caso de incendios,
 Cálculo de ocupación, tabla 2.1 – Densidades de ocupación, las superficies mínimas exigibles para
 locales de pública concurrencia serían los siguientes:
-- 1,5 m² /por persona zonas de público sentado en comedores. 
+- 1,5 m² /por persona zonas de público sentado en comedores.
 - 10,00 m² para zonas de servicio en comedores.
 • Dispone del mobiliario adecuado para ofrecer el servicio que se solicita.
 • Dispone de menaje y utensilios adecuados para ofrecer el servicio.
@@ -851,18 +852,18 @@ locales de pública concurrencia serían los siguientes:
 solicita.
 • Otros (especificar: ____________________________ ).
 SOLICITA
-Que por lo anteriormente expuesto, se autorice el aumento del númer o de plazas comensales, pasando de ____ a  
+Que por lo anteriormente expuesto, se autorice el aumento del númer o de plazas comensales, pasando de ____ a
 ____ comensales.
-Por otro lado, esta Dirección aprobará las medidas que sean necesarias para garantizar que, con el aumento de  
-módulo, se sigan respetando y cumpliendo las normas de seguridad y de organización adecuadas con el fin de  
+Por otro lado, esta Dirección aprobará las medidas que sean necesarias para garantizar que, con el aumento de
+módulo, se sigan respetando y cumpliendo las normas de seguridad y de organización adecuadas con el fin de
 ofrecer un desarrollo óptimo del servicio.
 En _________________________ a,  ____ de _______________ de 20__
 DIRECTOR/A DEL CENTRO
- Fdo: ____________________
-EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y 
+Fdo: ____________________
+EL DIRECTOR GENERAL DE ADMINISTRACIÓN DE CENTROS, ESCOLARIZACIÓN Y
 SERVICIOS COMPLEMENTARIOS.
 ANEXO VII
-SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR  
+SOLICITUD DE AMPLIACIÓN DE MÓDULO DE COMEDOR
 PARA EL CURSO 2025-2026
 
 NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
@@ -889,25 +890,24 @@ ISLA
 35006199 CEIP ANTONIO ZEROLO ARRECIFE CONTRATO 400 0 0 0 100 300 0 400 LP L
 35013969 CEO ARGANA ARRECIFE CONTRATO 182 0 0 0 50 92 40 182 LP L
 35008071 CEIP ARGANA ALTA ARRECIFE CONTRATO 150 0 0 0 55 95 0 150 LP L
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
-NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL 
+NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL
 DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 FUERTEVENTURA, GRAN CANARIA Y LANZAROTE
 
@@ -935,23 +935,22 @@ ISLA
 35000549 CEIP VILLA DE FIRGAS FIRGAS CONTRATO 160 0 0 5 45 115 0 160 LP GC
 35007271 CEIP ALCALDE DIEGO TRUJILLO RODRÍGUEZ GÁLDAR DIRECTA 133 1 1 4 32 84 17 133 LP GC
 35000598 CEIP ANTONIO PADRÓN GÁLDAR DIRECTA 200 1 2 6 65 105 30 200 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL.
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -979,23 +978,22 @@ ISLA
 35003851 CEIP LA LADERA LA ALDEA DE SAN NICOLÁS DIRECTA 135 1 1 5 40 85 10 135 LP GC
 35004932 CEIP TASARTE LA ALDEA DE SAN NICOLÁS DIRECTA 22 1 1 2 8 10 4 22 LP GC
 35007118 CEIP VIRGEN DEL CARMEN LA ALDEA DE SAN NICOLÁS CONTRATO 95 0 0 3 30 50 15 95 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1023,23 +1021,22 @@ ISLA
 35008706 CEIP ATLÁNTIDA LAS PALMAS DE GRAN CANARIA CONTRATO 280 0 0 8 80 200 0 280 LP GC
 35008718 CEIP BATERÍA DE SAN JUAN LAS PALMAS DE GRAN CANARIA CONTRATO 75 0 0 0 22 53 0 75 LP GC
 35007441 CEIP BUENAVISTA I LAS PALMAS DE GRAN CANARIA CONTRATO 85 0 0 0 20 60 5 85 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1066,23 +1063,22 @@ ISLA
 35006621 CEIP IBERIA LAS PALMAS DE GRAN CANARIA CONTRATO 375 0 0 0 110 265 0 375 LP GC
 35015802 CEO ISLAS CANARIAS LAS PALMAS DE GRAN CANARIA CONTRATO 96 0 0 0 16 40 40 96 LP GC
 35008743 CEIP JOSÉ PÉREZ Y PÉREZ LAS PALMAS DE GRAN CANARIA CONTRATO 206 0 0 6 70 136 0 206 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1110,23 +1106,22 @@ ISLA
 35005419 CEIP SALVADOR MANRIQUE DE LARA LAS PALMAS DE GRAN CANARIA DIRECTA 270 1 2 8 80 180 10 270 LP GC
 35001116 CEIP SAN JOSÉ ARTESANO LAS PALMAS DE GRAN CANARIA DIRECTA 100 1 1 3 30 70 0 100 LP GC
 35005407 CEIP SAN LORENZO LAS PALMAS DE GRAN CANARIA CONTRATO 155 0 0 5 50 105 0 155 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1154,25 +1149,24 @@ ISLA
 35015541 CEIP MORRO JABLE II PÁJARA CONTRATO 167 0 0 6 87 80 0 167 LP F
 35001049 CEIP PÁJARA PÁJARA DIRECTA 100 1 1 3 35 65 0 100 LP F
 35006631 CEIP AGUSTÍN MILLARES CARLÓ PUERTO DEL ROSARIO CONTRATO 370 0 0 11 123 247 0 370 LP F
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
-MOTOR GRANDE- ROSA PADRÓN 
+MOTOR GRANDE- ROSA PADRÓN
 PULIDO
 
 TIPO DE CENTRO
@@ -1200,23 +1194,22 @@ ISLA
 35004865 CEIP EL MATORRAL SAN BARTOLOMÉ DE TIRAJANA DIRECTA 48 1 1 2 8 32 8 48 LP GC
 35013908 CEIP EL TABLERO SAN BARTOLOMÉ DE TIRAJANA CONTRATO 325 0 0 0 106 219 0 325 LP GC
 35015942 CEE EN SAN BARTOLOMÉ DE TIRAJANA SAN BARTOLOMÉ DE TIRAJANA CONTRATO 35 0 0 0 5 30 0 35 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1244,23 +1237,22 @@ ISLA
 35008226 CEIP LA PAREDILLA SANTA LUCÍA DE TIRAJANA CONTRATO 160 0 0 0 50 110 0 160 LP GC
 35013881 CEIP LA ZAFRA SANTA LUCÍA DE TIRAJANA CONTRATO 240 0 0 0 100 140 0 240 LP GC
 35014101 CEIP LAS TEDERAS SANTA LUCÍA DE TIRAJANA CONTRATO 240 0 0 0 81 159 0 240 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1288,39 +1280,38 @@ ISLA
 35005274 CEIP GUENIA TEGUISE CONTRATO 0 0 0 0 0 0 0 0 LP L
 35006928 CEIP LOS VALLES TEGUISE CONTRATO 0 0 0 0 0 0 0 0 LP L
 35009103 CEE NUESTRA SEÑORA DE LOS VOLCANES TEGUISE CONTRATO 80 0 0 0 22 34 24 80 LP L
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
-SANTA MARÍA DE GUÍA DE GRAN 
+SANTA MARÍA DE GUÍA DE GRAN
 CANARIA
 
 TIPO DE CENTRO
@@ -1348,26 +1339,25 @@ ISLA
 35007829 CEIP MARPEQUEÑA TELDE CONTRATO 125 0 0 0 40 85 0 125 LP GC
 35004282 CEIP PADRE COLLADO TELDE CONTRATO 130 0 0 0 40 80 10 130 LP GC
 35008275 CEIP PEDRO LEZCANO TELDE CONTRATO 70 0 0 2 16 44 10 70 LP GC
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
-LA GARITA – ALBERTO MANRIQUE DE 
-LARA 
+LA GARITA – ALBERTO MANRIQUE DE
+LARA
 
 TIPO DE CENTRO
 NOMBRE DEL CENTRO MUNICIPIO GESTIÓN PRIMARIA
@@ -1394,23 +1384,22 @@ ISLA
 35007571 CEIP LAS PLAYITAS TUINEJE CONTRATO 60 0 0 0 36 24 0 60 LP F
 35006001 CEIP TARAJALEJO TUINEJE CONTRATO 120 0 0 0 45 75 0 120 LP F
 35006011 CEIP TESEJERAGUE TUINEJE CONTRATO 35 0 0 0 15 20 0 35 LP F
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1429,24 +1418,23 @@ ISLA
 35015243 CEO MONTAÑA ROJA YAIZA CONTRATO 160 0 0 0 30 50 80 160 LP L
 35007003 CEIP PLAYA BLANCA YAIZA CONTRATO 220 0 0 0 85 135 0 220 LP L
 35004828 CEIP YAIZA YAIZA CONTRATO 150 0 0 0 40 100 10 150 LP L
-TOTAL PROVINCIA LAS PALMAS. 259 42.081 52 87 724 13.222 26.840 2.019 42.081 
-CÓDIGO DE 
+TOTAL PROVINCIA LAS PALMAS. 259 42.081 52 87 724 13.222 26.840 2.019 42.081
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
@@ -1472,25 +1460,24 @@ ISLA
 38000378  CEIP BUZANADA ARONA CONTRATO 130 0 0 0 55 75 0 130 TF T
 38000408 CEIP CABO BLANCO ARONA CONTRATO 205 0 0 6 75 130 0 205 TF T
 38008781 CEIP CHAYOFA ARONA CONTRATO 170 0 0 0 50 120 0 170 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
-NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL 
+NUMERO DE PLAZAS DE COMENSALES OFERTADAS Y PERSONAL LABORAL
 DE LOS COMEDORES ESCOLARES PARA EL CURSO 2025-2026
 EL HIERRO, LA GOMERA, , LA PALMA Y TENERIFE
 
@@ -1518,23 +1505,22 @@ ISLA
 38006174 IES BUENAVISTA BUENAVISTA DEL NORTE CONTRATO 30 0 0 0 0 0 30 30 TF T
 38010396 CEIP LA CUESTA BUENAVISTA DEL NORTE CONTRATO 70 0 0 2 15 55 0 70 TF T
 38000731 CEIP NICOLÁS DÍAZ DORTA BUENAVISTA DEL NORTE DIRECTA 149 1 1 5 54 95 0 149 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1561,23 +1547,22 @@ ISLA
 38001036 CEIP ANTONIO DEL VALLE MENÉNDEZ GARACHICO CONTRATO 168 0 0 5 60 89 19 168 TF T
 38008808 CEIP GENOVÉS GARACHICO CONTRATO 25 0 0 0 14 11 0 25 TF T
 38001139 CEIP SANTO DOMINGO GARAFÍA DIRECTA 47 1 1 2 14 33 0 47 TF P
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1604,23 +1589,22 @@ ISLA
 38009451 CEIP LA ERA GUÍA DE ISORA CONTRATO 60 0 0 0 20 40 0 60 TF T
 38001589 CEIP TEOBALDO POWER GUÍA DE ISORA DIRECTA 170 1 2 5 72 98 0 170 TF T
 38010554 CEIP AGACHE GÜÍMAR CONTRATO 70 0 0 0 30 40 0 70 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1647,23 +1631,22 @@ ISLA
 38010888 CEIP AGUAMANSA LA OROTAVA DIRECTA 120 1 1 4 50 70 0 120 TF T
 38003537 CEIP DOMÍNGUEZ ALFONSO LA OROTAVA CONTRATO 120 0 0 0 42 78 0 120 TF T
 38009795 CEIP INFANTA ELENA LA OROTAVA CONTRATO 60 0 0 0 24 36 0 60 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1690,23 +1673,22 @@ ISLA
 38004301 CEIP AGUSTÍN ESPINOSA LOS REALEJOS CONTRATO 220 0 0 0 66 154 0 220 TF T
 38004207 CEIP EL TOSCAL-LONGUERA LOS REALEJOS CONTRATO 310 0 0 0 102 208 0 310 TF T
 38004232 CEIP LA MONTAÑETA LOS REALEJOS CONTRATO 75 0 0 0 25 50 0 75 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1733,23 +1715,22 @@ ISLA
 38004116 CEIP PUNTALLANA PUNTALLANA CONTRATO 80 0 0 0 18 56 6 80 TF P
 38004098 CEIP RITA RODRÍGUEZ ÁLVAREZ PUNTALLANA CONTRATO 35 0 0 0 14 21 0 35 TF P
 38004131 CEIP SAGRADO CORAZÓN DE JESÚS PUNTALLANA CONTRATO 12 0 0 0 10 2 0 12 TF P
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1776,23 +1757,22 @@ ISLA
 38008109 CEIP LAS MANTECAS SAN CRISTÓBAL DE LA LAGUNA CONTRATO 100 0 0 0 29 71 0 100 TF T
 38002341 CEIP LAS MERCEDES SAN CRISTÓBAL DE LA LAGUNA DIRECTA 350 1 3 11 100 250 0 350 TF T
 38003112 CEIP LOPE DE GUERRA SAN CRISTÓBAL DE LA LAGUNA DIRECTA 140 1 1 4 49 91 0 140 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1819,23 +1799,22 @@ ISLA
 38004840 CEIP JUAN BETHENCOURT ALFONSO SAN MIGUEL DE ABONA DIRECTA 305 1 3 9 75 230 0 305 TF T
 38015461 CEIP LLANO DE LAS NACIONES SAN MIGUEL DE ABONA CONTRATO 262 0 0 0 90 172 0 262 TF T
 38009175 CEIP LA LOMADA SAN SEBASTIÁN DE LA GOMERA DIRECTA 155 1 2 5 50 105 0 155 TF G
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1862,23 +1841,22 @@ ISLA
 38010441 CEIP JULIO CASTILLO TORROBA SANTA CRUZ DE TENERIFE CONTRATO 200 0 0 6 70 130 0 200 TF T
 38005731 CEIP LA ROSA SANTA CRUZ DE TENERIFE CONTRATO 130 0 0 0 35 95 0 130 TF T
 38016532 CEIP LA SALUD SANTA CRUZ DE TENERIFE CONTRATO 95 0 0 0 45 50 0 95 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1905,23 +1883,22 @@ ISLA
 38005315 CEIP TAGOROR SANTA CRUZ DE TENERIFE CONTRATO 110 0 0 4 32 78 0 110 TF T
 38009527 CEIP TÍNCER SANTA CRUZ DE TENERIFE DIRECTA 279 1 2 9 84 195 0 279 TF T
 38006137 CEIP TOMÉ CANO SANTA CRUZ DE TENERIFE CONTRATO 250 0 0 0 70 180 0 250 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1948,23 +1925,22 @@ ISLA
 38007117 CEIP FRANCISCA SANTOS MELIÁN TEGUESTE CONTRATO 175 0 0 5 60 115 0 175 TF T
 38011005 CEIP MARÍA DEL CARMEN FERNÁNDEZ MELIÁN TEGUESTE CONTRATO 195 0 0 6 55 140 0 195 TF T
 38007099 CEIP MELCHOR NÚÑEZ TEJERA TEGUESTE CONTRATO 85 0 0 3 25 60 0 85 TF T
-CÓDIGO DE 
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 TIPO DE CENTRO
@@ -1984,27 +1960,26 @@ ISLA
 38010268 CEIP LA SABINA VILLA DE MAZO CONTRATO 17 0 0 0 7 10 0 17 TF P
 38007828 CEIP MONTE BREÑA VILLA DE MAZO CONTRATO 25 0 0 0 10 15 0 25 TF P
 38008651 CEIP PRINCESA ARECIDA VILLA DE MAZO DIRECTA 210 1 2 6 45 120 45 210 TF P
-TOTAL PROVINCIA SANTA CRUZ DE TENERIFE 262 39.299 89 165 752 11.813 25.210 2.246 39.299 
-TOTAL PROVINCIA LAS PALMAS 259 42.081 52 87 724 13.222 26.840 2.019 42.081 
-TOTAL PROVINCIA SANTA CRUZ DE TENERIFE 262 39.299 89 165 752 11.813 25.210 2.246 39.299 
-TOTAL COMUNIDAD 521 81.380 141 252 1.476 25.035 52.050 4.265 81.380 
-CÓDIGO DE 
+TOTAL PROVINCIA SANTA CRUZ DE TENERIFE 262 39.299 89 165 752 11.813 25.210 2.246 39.299
+TOTAL PROVINCIA LAS PALMAS 259 42.081 52 87 724 13.222 26.840 2.019 42.081
+TOTAL PROVINCIA SANTA CRUZ DE TENERIFE 262 39.299 89 165 752 11.813 25.210 2.246 39.299
+TOTAL COMUNIDAD 521 81.380 141 252 1.476 25.035 52.050 4.265 81.380
+CÓDIGO DE
 CENTRO
-MÓDULO SIN 
-INFANTIL DE 1er 
+MÓDULO SIN
+INFANTIL DE 1er
 CICLO 2025/2026
 COCINERAS/
 COCINEROS
-AYUDANTES DE 
+AYUDANTES DE
 COCINA
-AUXILIARES 
-SERVICIOS 
+AUXILIARES
 COMPLEMENTARIO
-S INFANTIL 2º 
+S INFANTIL 2º
 CICLO
-OTRO ALUMNADO 
+OTRO ALUMNADO
 COMENSAL
-TOTAL 
+TOTAL
 COMENSALES
 
 ---
@@ -2034,4 +2009,3 @@ COMENSALES
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 88**](../04_organizacion_escolar_y_funcionamiento/R19_3_2025_escolarizacion_servicios_complementarios_corrige_error_resolucion.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

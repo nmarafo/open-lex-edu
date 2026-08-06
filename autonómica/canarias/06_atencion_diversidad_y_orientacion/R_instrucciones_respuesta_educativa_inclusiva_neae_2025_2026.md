@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
 ## Preámbulo
 
 # Resolución de instrucciones para la respuesta educativa inclusiva y atención al alumnado NEAE para el curso 2025-2026.

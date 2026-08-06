@@ -38,41 +38,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 64/2025, de 23 de julio, por el que se regula y limita el uso de dispositivos digitales en centros educativos sostenidos con fondos públicos**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Inicio
-ELI
-Comunidad de Madrid
-Decreto
-2025
-Julio
-23
-64
-Boletín Oficial de la Comunidad de Madrid - Núm 175
-Fecha del Boletín
-24-07-2025
-Sección 1.1.106.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20250724-4
-Páginas: 5
-Permalink ELI:
-https://www.bocm.es/eli/es-md/d/2025/07/23/64
-Ver texto consolidado
-PDF de la disposición  (123 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES
-4
 DECRETO 64/2025, de 23 de julio, del Consejo de Gobierno, por el que se regula y limita el uso de dispositivos digitales en los centros educativos sostenidos con fondos públicos de la Comunidad de Madrid.
 El uso de las tecnologías digitales en los centros educativos ha supuesto un cambio en el proceso de enseñanza y aprendizaje que aconseja la implantación de medidas claras y bien definidas que protejan a la infancia y la adolescencia, apoyen el aprendizaje de los saberes básicos, y fomenten las capacidades físicas y mentales y el sano desarrollo de la personalidad de cada alumno, frente a los riesgos derivados de las tecnologías de la información y la comunicación, y del uso y abuso de los medios digitales a edades tempranas.
 La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su artículo 2 los fines que orientarán el sistema educativo español precisando, entre otros, “La capacitación para garantizar la plena inserción del alumnado en la sociedad digital y el aprendizaje de un uso seguro de los medios digitales y respetuoso con la dignidad humana, los valores constitucionales, los derechos fundamentales y, particularmente, con el respeto y la garantía de la intimidad individual y colectiva”.
@@ -153,9 +118,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20250724-4
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

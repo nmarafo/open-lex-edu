@@ -49,6 +49,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1993-23257
 - norma_id: norm-es-1995-22212
 ---
+
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.
@@ -5869,8 +5870,8 @@ Grabaciones musicales.
 
 Sonido.
 
-**VIII c) 
-      Ampliación y modificación del Anexo II c) sobre atribución de competencia docente a los Profesores de las nuevas especialidades de secundaria para la docencia en el bachillerato**
+**VIII c)
+Ampliación y modificación del Anexo II c) sobre atribución de competencia docente a los Profesores de las nuevas especialidades de secundaria para la docencia en el bachillerato**
 
 ESPECIALIDAD PROFESORADO
 
@@ -5880,8 +5881,8 @@ ASESORÍA Y PROCESOS DE IMAGEN PERSONAL.
 
 Biología.
 
-**VIII d) 
-      Ampliación de adscripción de los Anexos IId) y IV c)**
+**VIII d)
+Ampliación de adscripción de los Anexos IId) y IV c)**
 
 Profesores de Enseñanza Secundaria.
 
@@ -7584,4 +7585,3 @@ Ingeniero: Químico; Industrial; de Materiales; en Automática y Electrónica In
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - [**BOE-A-1995-22212**](./RD1635_1995_adscribe_profesorado_cuerpos_profesores_ensenanza_secundaria.md)
-

@@ -35,6 +35,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2006/226/boc-2006-226-029.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=55445
 ---
+
 ## Preámbulo
 
 # Resolución de 7 de noviembre de 2006, por la que se hacen públicas las modificaciones al Reglamento que regula en la Universidad de Las Palmas de Gran Canaria el Acceso para mayores de 25 años (BOC n.º 226, de 21 de noviembre).
@@ -163,7 +164,7 @@ Se puede acceder desde cualquier opción, a las siguientes titulaciones:
 - Relaciones Laborales.
 - Ciencias de la Actividad Física y el Deporte.
 Anuncios de contratación
-Consejería de Infraestructuras, 
+Consejería de Infraestructuras,
 Transportes y Vivienda
 4274 Instituto Canario de la Vivienda.- Anuncio de
 8 de noviembre de 2006, del Secretario, por
@@ -174,7 +175,7 @@ Montaña Miraflores, término municipal de
 Puntagorda (La Palma).
 Por Resolución de 30 de octubre de 2006, del Presidente del Instituto Canario de la Vivienda, se acuerda la apertura del procedimiento de adjudicación que
 a continuación se indica:
-1. ENTIDAD ADJUDICADORA. 
+1. ENTIDAD ADJUDICADORA.
 a) Organismo: Instituto Canario de la Vivienda.
 b) Dependencia que tramita el expediente: Servicio de Promoción Pública del Instituto Canario de la
 Vivienda.
@@ -199,4 +200,3 @@ las obras.
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

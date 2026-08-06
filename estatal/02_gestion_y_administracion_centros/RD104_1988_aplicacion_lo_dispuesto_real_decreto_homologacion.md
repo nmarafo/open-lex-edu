@@ -52,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1988-3987
 - norma_id: norm-es-2002-25289
 ---
+
 # Orden de 14 de marzo de 1988 para la aplicación de lo dispuesto en el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria.
 
 En su virtud y en uso de la autorización conferida por la disposición final primera del [Real Decreto 104/1988](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero,
@@ -310,4 +311,3 @@ Volante para inscripción condicional en Centros docentes o en exámenes oficial
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1988-3987**](./RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md)
 - [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
-

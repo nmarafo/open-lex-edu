@@ -57,7 +57,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-# Real Decreto 1363/2007, de 24 de octubre, por el que se establece la ordenación general de las enseñanzas deportivas de régimen especial.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos. En cumplimiento de dicho mandato se dictó el Real Decreto 594/1994, de 8 de abril, sobre enseñanzas y títulos de los técnicos deportivos. La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, posibilitó en su artículo 3.4 el establecimiento de nuevas enseñanzas de régimen especial. De acuerdo con dicho precepto se dictó el [Real Decreto 1913/1997](RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas, norma que vino a corregir las limitaciones que establecía el Real Decreto 594/1994 en el desarrollo de los técnicos deportivos. La consideración de las enseñanzas deportivas como enseñanzas de régimen especial se recogió también en la Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación. Su imbricación en el sistema educativo se define fundamentalmente en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, que da a estas enseñanzas un tratamiento similar al de las demás enseñanzas que ofrece el sistema educativo.
 
@@ -1001,4 +1000,3 @@ MERCEDES CABRERA CALVO-SOTELO
 - [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

@@ -33,6 +33,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 ## Preámbulo
 
 # Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio de una Disposición Adicional Novena (BOC n.º 147, de 4 de noviembre).
@@ -41,14 +42,9 @@ BOC - 2002/147. Lunes 4 de Noviembre de 2002 - 3551
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 2002
 2002/147. Lunes 4 de Noviembre de 2002
@@ -88,4 +84,3 @@ En Las Palmas de Gran Canaria, a 31 de julio de 2002.- La Administración: Vicec
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

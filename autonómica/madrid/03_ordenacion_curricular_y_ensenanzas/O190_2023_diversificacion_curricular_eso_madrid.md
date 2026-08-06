@@ -36,18 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Orden 190/2023, de 25 de enero, por la que se regula la diversificación curricular en Educación Secundaria Obligatoria**
-
-JUEVES 2 DE FEBRERO DE 2023
-Pág. 14
-B.O.C.M. Núm. 28
-BOCM-20230202-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Vicepresidencia, Consejería de Educación y Universidades
-1
 RESOLUCIÓN de 26 de enero de 2023, del Director General de Recursos
 Humanos, por la que se modifica la Resolución de 1 de junio de 2021, por la que
 se publica la relación definitiva de aspirantes que han superado el procedimien-

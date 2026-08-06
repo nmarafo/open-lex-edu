@@ -50,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2012-5337
 ---
+
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 **FELIPE VI**
@@ -137,4 +138,3 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2012-5337**](./RD14_2012_real_decreto_ley_medidas_urgentes_racionalizacion.md)
-

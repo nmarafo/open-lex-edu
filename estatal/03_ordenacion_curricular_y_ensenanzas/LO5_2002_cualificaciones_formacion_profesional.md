@@ -58,6 +58,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
 # Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional.
 
 **JUAN CARLOS I**
@@ -387,4 +388,3 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - [**L53_1984 Incompatibilidades del Personal Publico**](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
-

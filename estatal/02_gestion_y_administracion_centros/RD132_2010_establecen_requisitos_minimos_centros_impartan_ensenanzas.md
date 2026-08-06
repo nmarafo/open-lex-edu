@@ -490,4 +490,3 @@ El Ministro de Educación,
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](./LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

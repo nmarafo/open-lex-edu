@@ -36,204 +36,35 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-wleg_pub - Comunidad de Madrid - madrid.org
+Resolución de 13 de febrero
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
-    
-        
-        
-
-        
-
-    
-
-        
-            
-                
-                
-            
-        
-
-    
-    
-        
-        
-
-            
-                        
-            
-
-        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-
-        
-
-        
-                    
-
-## Legislación de la Comunidad de Madrid
-
-        
-
-        
-        
-
-    
-    
-
-    
-        
-            
-                 
-            
-            
-            
-                 
-                    
-                
-            
-        
-
-    
-        
-        
-                
-                    
-                        
-                    
-                
-                
-                    
-                        
-                    
-                
-
-        
-            
-                
-                
-            
-        
-        
-
-    
-
-        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
-        
-
-        
-        
-
-        
-        
-
-    
-            
-        
-            
-                
-    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-                
-    
-                
-                    
-        
-            
-			
-            
-            Búsqueda   
-            
-                Resolución de 13 de febrero
-                
-       
-                    
-                    
-                        Navegar entre documentos consultados
+Navegar entre documentos consultados
 
 Resolución de 13 de febrero
-         
+
 Enviar EMAIL:                                         Resolución de 13 de febreroDestinatarioEnviar
-                        
-                        
-                        
 
-                        
+Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución de 13 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución de 13 de febrerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13980Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución de 13 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución de 13 de febreroGuardar:                          Resolución de 13 de febrero
 
-                        
-						
-						
-        
-        
-						Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución de 13 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución de 13 de febrerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13980Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución de 13 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución de 13 de febreroGuardar:                          Resolución de 13 de febrero
+PDF
 
-            
-          
-                 
-				
-							
-                               PDF
-                               
-                
-                 
-				
-							
-                               WORD
-                               
-                
-                 
-				
-                 
-                
-                               
-                               HTML
-                
-          
-         
- 
-         
-            
-                   
-                    Obtener enlace
-							Enviar
-							Guardar                
-                        
-							Imprimir
-                        
-                        Nueva Búsqueda
-                                                    
-							Documentos
-                       
-                    
-                    
-                    
-                    
-                    
-                             
-							
-                             
-                            
-							
-                                           ver PDF
-                                           
-                            
-                             
-							
-                             
-                            
-							
-                                           ver WORD
-                                           
-                            
-                             
-							
+WORD
+
+HTML
+
+Obtener enlace
+Enviar
+Guardar
+
+Imprimir
+
+Nueva Búsqueda
+
+Documentos
+
+ver PDF
+
+ver WORD
 
 Consejería de Presidencia, Justicia y Administración Local
 Comunidad de Madrid

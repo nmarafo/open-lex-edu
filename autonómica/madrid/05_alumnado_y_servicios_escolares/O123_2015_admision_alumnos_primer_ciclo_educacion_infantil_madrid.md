@@ -36,21 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil**
-
-JUEVES 5 DE FEBRERO DE 2015
-B.O.C.M. Núm. 30
-Pág. 9
-BOCM-20150205-1
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Educación, Juventud y Deporte
-1
 RESOLUCIÓN de 27 de enero de 2015, de la Dirección General de Recursos
 Humanos, por la que se aprueban las listas definitivas de admitidos y excluidos en
 el concurso-oposición para acceso al Cuerpo de Inspectores de Educación convo-

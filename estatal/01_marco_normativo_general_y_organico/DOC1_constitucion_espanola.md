@@ -147,12 +147,6 @@ fundamentos_derecho:
   - '2.1'
 ---
 
-# Constitución Española de 1978
-
-DON JUAN CARLOS I, REY DE ESPAÑA, A TODOS LOS QUE LA PRESENTE VIEREN Y ENTENDIEREN,
-
-SABED: QUE LAS CORTES HAN APROBADO Y EL PUEBLO ESPAÑOL RATIFICADO LA SIGUIENTE CONSTITUCIÓN:
-
 ## PREÁMBULO
 
 La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:
@@ -272,7 +266,7 @@ Derechos y libertades
 Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
 SECCIÓN 1.ª
-	De los derechos fundamentales y de las libertades públicas
+De los derechos fundamentales y de las libertades públicas
 
 #### Artículo 15
 
@@ -411,7 +405,7 @@ Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y
 2. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.
 
 SECCIÓN 2.ª
-	De los derechos y deberes de los ciudadanos
+De los derechos y deberes de los ciudadanos
 
 #### Artículo 30
 
@@ -1847,4 +1841,3 @@ Antonio Fontán Pérez
 
 ### Fundamentos de Derecho
 - [**LO2_2006 Ley Organica de Educacion**](./LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-

@@ -35,18 +35,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/05/BOCM-20230505-1.PDF
 ---
 
-**Orden 1338/2023, de 26 de abril, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la implantación del programa bilingüe en centros docentes de Educación Primaria de la Comunidad de Madrid**
-
-VIERNES 5 DE MAYO DE 2023
-Pág. 10
-B.O.C.M. Núm. 106
-BOCM-20230505-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-Consejería de Familia, Juventud y Política Social
-1
 DECRETO 51/2023, de 3 de mayo, del Consejo de Gobierno, por el que se regu-
 lan la Historia Social Única, el Registro Único de Usuarios y otros instrumentos
 de gestión de la información del Sistema Público de Servicios Sociales de la Co-

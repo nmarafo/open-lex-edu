@@ -40,6 +40,7 @@ fundamentos_derecho:
   articulos:
   - '84'
 ---
+
 # Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 
 Ir a contenido
@@ -66,13 +67,7 @@ en / English
 
 fr / Français
 
-Buscar
-
 Mi BOE Desconectado.Pulse para acceder al servicio 'Mi BOE'
-
-Menú
-
-Menú
 
 Diarios Oficiales
 
@@ -101,8 +96,6 @@ Anunciantes
 Datos abiertos
 
 Está Vd. en
-
-Inicio
 
 Buscar Documento BOE-A-1971-1198
 
@@ -176,10 +169,6 @@ Sobre la sede electrónica
 
 Mapa
 
-Accesibilidad
-
-Protección de datos
-
 Sistema Interno de Información
 
 Tutoriales
@@ -199,4 +188,3 @@ Avda. de Manoteras, 54 - 28050 Madrid
 ### Fundamentos de Derecho
 - [**D9_2022 Admision del Alumnado en Canarias**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-

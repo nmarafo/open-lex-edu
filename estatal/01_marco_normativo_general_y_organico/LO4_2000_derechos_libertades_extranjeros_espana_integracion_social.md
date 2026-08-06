@@ -44,6 +44,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 # Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
 
 **JUAN CARLOS I**
@@ -774,4 +775,3 @@ JOSÉ MARÍA AZNAR LÓPEZ
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
-

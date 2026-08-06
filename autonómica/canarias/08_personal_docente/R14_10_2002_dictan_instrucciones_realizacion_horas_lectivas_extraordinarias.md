@@ -46,6 +46,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2002/148/boc-2002-148-011.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=41360
 ---
+
 ## Preámbulo
 
 # Dirección General de Promoción Educativa.- [Resolución de 14 de octubre de 2002](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md), por la que se dictan instrucciones para la realización de horas lectivas extraordinarias en centros que desarrollen ofertas formativas de Educación de Personas Adultas (BOC n.º 148, de 6 de noviembre).
@@ -102,7 +103,7 @@ completo.
 priorizará, en el caso de los centros presenciales de
 Educación de Personas Adultas, las propuestas de
 Formación Básica y, dentro de ésta, las de Formación
-Instrumental y las de menor nivel formativo. 
+Instrumental y las de menor nivel formativo.
 Todos los centros acompañarán con un informe
 justificativo la petición de horas lectivas extraordinarias para actividades no regladas de Formación
 orientada al empleo y sociocultural no incluidas en
@@ -142,9 +143,9 @@ en el mismo se encargue de su coordinación.
 cumplimiento de lo dispuesto en la presente Resolución, comunicando a la Dirección General de
 Promoción Educativa aquellas circunstancias o situaciones que con respecto a la planificación y realización de esta actividad considere oportuno.
 2. Aspectos organizativos relativos al profesorado.
-2.1. El número máximo de horas por curso y profesor será de trescientas veinte, a razón de un máximo de diez horas semanales. 
+2.1. El número máximo de horas por curso y profesor será de trescientas veinte, a razón de un máximo de diez horas semanales.
 No obstante, se considera conveniente que, salvo excepciones, no se sobrepase las cinco horas semanales de atención directa al alumnado por cada
-profesor, adaptándose su distribución a las necesidades del centro. 
+profesor, adaptándose su distribución a las necesidades del centro.
 Las horas podrán realizarse bien a lo largo de todo el curso o por períodos de tiempo a lo largo del
 mismo (mensual, trimestral, cuatrimestral, etc.),
 de acuerdo con las necesidades organizativas del
@@ -179,7 +180,7 @@ extraordinarias está obligado a cumplir el total de
 horas que hubiera convenido con el centro donde
 
 las imparte, salvo que circunstancias organizativas
-del centro hiciesen necesaria su modificación. 
+del centro hiciesen necesaria su modificación.
 3. Tramitación administrativa.
 3.1. Los Centros, oído el Claustro y aprobada por
 el Consejo Escolar, enviarán la propuesta de profesorado en horas lectivas extraordinarias para todo el curso escolar en en el anexo III a la Dirección
@@ -191,7 +192,7 @@ de la fecha de entrega.
 3.2. La solicitud individual de cada profesor se
 remitirá a la Dirección General de Promoción
 Educativa por cada centro antes del 10 de diciembre de cada curso escolar, adjuntando un oficio
-con la relación del profesorado. 
+con la relación del profesorado.
 La Dirección General de Promoción Educativa
 podrá modificar el número de horas solicitadas en
 los casos que lo estime conveniente, una vez estudiados los horarios y la autorización provisional,
@@ -205,7 +206,7 @@ Una copia de esta solicitud se entregará al interesado y se dejará constancia 
 las horas lectivas extraordinarias realizadas por el
 profesorado se realizará en dos momentos del curso escolar mediante los anexos I y II.
 El anexo I se enviará antes del 15 de abril de cada curso escolar, como fecha límite, a la Dirección
-General de Promoción Educativa reflejando las horas impartidas desde el comienzo de la actividad hasta el 31 de marzo. 
+General de Promoción Educativa reflejando las horas impartidas desde el comienzo de la actividad hasta el 31 de marzo.
 El anexo II se enviará, antes del 5 de julio de cada curso escolar, como fecha límite, reflejando en
 el mismo el número de horas efectivas realizadas
 desde el 1 de abril hasta el 30 de junio.
@@ -225,7 +226,7 @@ Una copia de este impreso se entregará al interesado y se dejará constancia en
 3.5. La petición de horas lectivas extraordinarias que no se haya incluido en la petición de comienzo de curso, y que respondan a la necesidad
 de atender a demandas imprevistas, se tramitará administrativamente de acuerdo con el procedimiento establecido en este apartado tercero, estando en
 cualquier caso sometida a la autorización provisional
-de la Dirección General de Promoción Educativa. 
+de la Dirección General de Promoción Educativa.
 Corresponde a la Dirección General de Promoción
 Educativa la interpretación de lo dispuesto en la presente Resolución.
 Las Palmas de Gran Canaria, a 14 de octubre de
@@ -255,4 +256,3 @@ A N E X O  I I I
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**Resolucion BOC 77**](../03_ordenacion_curricular_y_ensenanzas/R14_10_2002_dictan_instrucciones_realizacion_horas_lectivas_extraordinarias.md)
-

@@ -42,6 +42,7 @@ fundamentos_derecho:
   - '1'
 - norma_id: norm-es-1999-23750
 ---
+
 # Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
 
 **JUAN CARLOS I**
@@ -348,4 +349,3 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - [**L39_2015 Procedimiento Administrativo Comun**](./L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**LO3_2018 Proteccion de Datos Personales (LOPDGDD)**](../02_gestion_y_administracion_centros/LO3_2018_proteccion_datos_personales_garantia_derechos_digitales.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
-

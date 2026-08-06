@@ -67,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2022-16194
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**
@@ -13685,4 +13686,3 @@ Adaptación de los créditos ECTS de los módulos profesionales y proyecto inter
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

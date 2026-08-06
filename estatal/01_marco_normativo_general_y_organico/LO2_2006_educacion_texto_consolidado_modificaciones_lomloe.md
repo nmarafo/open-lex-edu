@@ -962,16 +962,6 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
-# [Ley Orgánica 2/2006](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md), de 3 de mayo, de Educación (Texto Consolidado LOMLOE)
-
-**JUAN CARLOS I**
-
-**REY DE ESPAÑA**
-
-A todos los que la presente vieren y entendieren.
-
-Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
-
 ## PREÁMBULO
 
 Las sociedades actuales conceden gran importancia a la educación que reciben sus jóvenes, en la convicción de que de ella dependen tanto el bienestar individual como el colectivo. La educación es el medio más adecuado para construir su personalidad, desarrollar al máximo sus capacidades, conformar su propia identidad personal y configurar su comprensión de la realidad, integrando la dimensión cognoscitiva, la afectiva y la axiológica. Para la sociedad, la educación es el medio de transmitir y, al mismo tiempo, de renovar la cultura y el acervo de conocimientos y valores que la sustentan, de extraer las máximas posibilidades de sus fuentes de riqueza, de fomentar la convivencia democrática y el respeto a las diferencias individuales, de promover la solidaridad y evitar la discriminación, con el objetivo fundamental de lograr la necesaria cohesión social. Además, la educación es el medio más adecuado para garantizar el ejercicio de la ciudadanía democrática, responsable, libre y crítica, que resulta indispensable para la constitución de sociedades avanzadas, dinámicas y justas. Por ese motivo, una buena educación es la mayor riqueza y el principal recurso de un país y de sus ciudadanos.
@@ -1669,8 +1659,6 @@ c) Módulos de carácter voluntario para los alumnos, que conduzcan a la obtenci
 3. Los alumnos que cursen la educación secundaria obligatoria y no obtengan el título al que se refiere este artículo recibirán un certificado de escolaridad en el que consten los años cursados.
 
 CAPÍTULO IV
-
-Bachillerato
 
 #### Artículo 32. Principios generales.
 
@@ -4270,4 +4258,3 @@ JOSÉ LUIS RODRÍGUEZ ZAPATERO
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

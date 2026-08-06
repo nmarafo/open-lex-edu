@@ -49,6 +49,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo.
 
 En la actual coyuntura económica se hace necesario mejorar la eficiencia de las Administraciones Públicas en el uso de los recursos públicos, con objeto de contribuir a la consecución del inexcusable objetivo de estabilidad presupuestaria derivado del marco constitucional y de la Unión Europea.
@@ -269,4 +270,3 @@ MARIANO RAJOY BREY
 - [**RD132_2010 Requisitos Minimos de Centros Docentes**](../02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

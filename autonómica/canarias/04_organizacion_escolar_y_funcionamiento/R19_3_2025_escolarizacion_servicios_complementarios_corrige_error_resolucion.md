@@ -49,27 +49,28 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-061-1213.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, de 19 de marzo de 2025, por la que se corrige error en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y dicta instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-1213 Dirección General de Administración de Centros, Escolarización y Servicios 
-Complementarios.- Resolución de 19 de marzo de 2025, por la que se corrige error 
-en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y 
-dicta instrucciones para la organización y desarrollo de las actividades de comienzo 
-y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias 
+1213 Dirección General de Administración de Centros, Escolarización y Servicios
+Complementarios.- Resolución de 19 de marzo de 2025, por la que se corrige error
+en la Resolución de 20 de febrero de 2025, que establece el calendario escolar y
+dicta instrucciones para la organización y desarrollo de las actividades de comienzo
+y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias
 de la Comunidad Autónoma de Canarias (BOC n. 44, de 4.3.2025).
-Advertido error en el Anexo I de la Resolución n.º 94/2025, del Director General de 
-Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero 
-de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la 
+Advertido error en el Anexo I de la Resolución n.º 94/2025, del Director General de
+Administración de Centros, Escolarización y Servicios Complementarios, de 20 de febrero
+de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la
 organización y desarrollo de las actividades de comienzo y finalización del curso 2025-
-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de 
-Canarias, se procede, de conformidad con el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
-octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a 
+2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de
+Canarias, se procede, de conformidad con el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a
 efectuar la oportuna rectificación:
-En la página 9270, en el Anexo I correspondiente al Calendario de Finalización de 
+En la página 9270, en el Anexo I correspondiente al Calendario de Finalización de
 Actividades, curso 2025-2026:
 Donde dice:
 Donde dice:
@@ -109,8 +110,8 @@ Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
 Segundo
 curso
 Entrega de calificaciones finales de evaluación  19 de junio
-Las Palmas de Gran Canaria, a 19 de marzo de 2025.- El Director General de 
-Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
+Las Palmas de Gran Canaria, a 19 de marzo de 2025.- El Director General de
+Administración de Centros, Escolarización y Servicios Complementarios, David Crego
 Chaves.
 
 ---
@@ -132,4 +133,3 @@ Chaves.
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-

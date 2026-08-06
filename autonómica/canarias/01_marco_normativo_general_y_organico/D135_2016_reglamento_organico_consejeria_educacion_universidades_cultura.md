@@ -273,4 +273,3 @@ Las Direcciones Territoriales de Las Palmas y Santa Cruz de Tenerife gestionan l
 - [**L14_1990 Regimen Juridico Administraciones Canarias**](./L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
 - `norm-can-l-1-1983`
 - [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

@@ -48,21 +48,11 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -108,4 +98,3 @@ José Carlos Mauricio Rodríguez.
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

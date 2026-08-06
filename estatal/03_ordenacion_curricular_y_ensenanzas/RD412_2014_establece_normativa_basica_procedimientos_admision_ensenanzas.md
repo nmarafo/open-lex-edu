@@ -50,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado.
 
 La [Ley Orgánica 8/2013](LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la Mejora de la Calidad Educativa (LOMCE) modifica los requisitos de acceso y admisión a las enseñanzas oficiales de Grado desde el título de Bachiller o equivalente, desde el título de Técnico Superior de Formación Profesional, de Técnico Superior de Artes Plásticas y Diseño o de Técnico Deportivo Superior así como para los estudiantes procedentes de sistemas educativos extranjeros.
@@ -561,4 +562,3 @@ JOSÉ IGNACIO WERT ORTEGA
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

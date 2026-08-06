@@ -36,18 +36,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/02/15/BOCM-20230215-1.PDF
 ---
 
-**Orden 266/2023, de 6 de febrero, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se desarrollan aspectos de la evaluación y promoción en la Educación Primaria en la Comunidad de Madrid**
-
-MIÉRCOLES 15 DE FEBRERO DE 2023
-B.O.C.M. Núm. 39
-Pág. 13
-BOCM-20230215-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-1
 ORDEN de 1 de febrero de 2023, del Consejero de Economía, Hacienda y Empleo,
 por la que se aprueba convocatoria pública para la provisión de un puesto de tra-
 bajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de
@@ -248,7 +236,7 @@ PERFIL
 TECNICO DE APOYO
 A
 28
-    23.501,40
+23.501,40
 C. MADRID/ADMON. ESTADO/CCAA
 EQUIVALENTE
 CONSEJERIA SANIDAD
@@ -272,22 +260,22 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 
 CERTIFICADO DE REGISTRO DE PERSONAL
-D./Dª . 
-CARGO:  
-CERTIFICO: Que según los antecedentes obrantes en este Registro de Personal, el funcionario de carrera abajo indicado 
-tiene acreditados los siguientes extremos: 
+D./Dª .
+CARGO:
+CERTIFICO: Que según los antecedentes obrantes en este Registro de Personal, el funcionario de carrera abajo indicado
+tiene acreditados los siguientes extremos:
 DATOS PERSONALES
 Apellidos  y Nombre……………………………….…………………………………….………………N.I.F.. ………...……..…………………………
 Cuerpo/Escala y/o Especialidad…..……………………………………………………………………………………………………………………..
 Subgrupo…………………………………………………………………………………………………….N.R.P…………………………………………..
 Administración de origen ……………………………….…………………………..…..Fecha de toma posesión……………………………
 SITUACIÓN ADMINISTRATIVA
- Servicio activo       
- Otras situación 
+ Servicio activo
+ Otras situación
 administrativa………………………………………………………………………………………………….
-               Fecha de inicio …………/…………/…………….                           
+Fecha de inicio …………/…………/…………….
 DESTINO ACTUAL
-ADMINISTRACIÓN 
+ADMINISTRACIÓN
 (Estatal, Autonómica o Local)
 CENTRO DIRECTIVO
 (Ministerio, Consejería o A. Local)
@@ -295,7 +283,7 @@ NCD
 OCUP. (1)
 FECHA INICIO
 DESTINOS ANTERIORES
-ADMINISTRACIÓN 
+ADMINISTRACIÓN
 (Estatal, Autonómica o Local)
 CENTRO DIRECTIVO
 (Ministerio, Consejería o A. Local)
@@ -304,37 +292,19 @@ OCUP. (1)
 FECHA INICIO
 FECHA FINAL
 (1) Debe hacerse constar si el puesto ha sido ocupado como Titular (T) o provisional (P)
-GRADO 
+GRADO
 GRADO PERSONAL CONSOLIDADO:
 FECHA CONSOLIDACIÓN:
 ANTIGÜEDAD
-Tiempo de servicios reconocidos en la Administración del Estado, Autonómica o Local 
+Tiempo de servicios reconocidos en la Administración del Estado, Autonómica o Local
 hasta la fecha de publicación de la convocatoria:
 AÑOS
-MESES 
+MESES
 DÍAS
-CERTIFICACIÓN que expido a petición del interesado y para que surta efecto en el proceso convocado por Orden del Consejero de Economía, 
+CERTIFICACIÓN que expido a petición del interesado y para que surta efecto en el proceso convocado por Orden del Consejero de Economía,
 Hacienda y Empleo de la Comunidad de Madrid de fecha………………………………(BOCM ..…/..…./………).
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Madrid, …….. de ……….. de 20…….
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
 Firma
 (03/2.116/23)

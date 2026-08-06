@@ -62,6 +62,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-979
 - norma_id: norm-es-2010-12201
 ---
+
 # [Real Decreto 1085/2020](RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 Una de las intenciones perseguidas por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, es mejorar la flexibilidad entre las enseñanzas y facilitar los mecanismos de convalidaciones y equivalencias. En este sentido, el artículo 44.6 dispone que el Gobierno regulará el régimen de convalidaciones y equivalencias entre los ciclos formativos de grado medio y superior de la Formación Profesional y el resto de enseñanzas y estudios oficiales, oídos los correspondientes órganos colegiados.
@@ -18628,4 +18629,3 @@ Solicitud de convalidación de módulos de formación profesional
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2021-979**](./RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

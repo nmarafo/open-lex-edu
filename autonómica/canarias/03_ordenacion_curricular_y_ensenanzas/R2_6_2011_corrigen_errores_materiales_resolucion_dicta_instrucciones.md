@@ -46,11 +46,12 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-124-3519.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=65632
 ---
+
 ## Preámbulo
 
 # Resolución de 2 de junio de 2011, por la que se corrigen errores materiales en la [Resolución de 25 de mayo de 2011](R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md), que dicta instrucciones sobre organización y desarrollo de las pruebas de acceso a las enseñanzas artísticas superiores de Grado en Música, , Arte Dramático y Diseño en la Comunidad Autónoma de Canarias, y convoca las correspondientes al curso académico 2011-2012 (BOC n.º 124, de 24 de junio).
 
-Consejería de Educación, Universidades, 
+Consejería de Educación, Universidades,
 Cultura y Deportes
 3519 Dirección General de Formación Profesional
 y Educación de Adultos.- Resolución de 2 de
@@ -86,7 +87,7 @@ Por todo lo expuesto, en ejercicio de las competencias atribuidas en el artícul
 y c) del Reglamento Orgánico de la Consejería de Educación, Cultura y Deportes (BOC nº 148, de 1 de agosto), aprobado por el Decreto 113/2006, de 26 de julio, en su redacción actual, así como en relación con
 el artículo 19.1 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias (BOC nº 122,
-de 16 de septiembre), 
+de 16 de septiembre),
 R E S U E L V O:
 Primero.- Proceder a la corrección de los errores
 materiales de hecho, por omisión o transcripción
@@ -113,7 +114,7 @@ Debe decir:
 “apéndice I”.
 3. Anexo I, instrucción decimonovena, apartado
 segundo, en las dos últimas líneas (Perfil de las personas aspirantes).
-Donde dice: 
+Donde dice:
 boc-a-2011-124-3519
 
 “establecido en el apéndice II de la presente
@@ -123,21 +124,21 @@ Debe decir:
 4. Anexo I, instrucción vigésimo sexta, apartado
 tercero, letra d), en su segunda línea (Admisión del
 alumnado y reserva de plazas).
-Donde dice: 
+Donde dice:
 “Grado en Diseño en Artes Plásticas.”
 Debe decir:
 “Grado en Diseño o en Artes Plásticas.”
 5. Anexo I, instrucción vigésimo novena, apartado B.2.4, en el párrafo primero (Ejercicio de lectura
 a primera vista).
-Donde dice: 
+Donde dice:
 “Consistirá en la lectura a primera vista con el instrumento elegido por el aspirante de una obra o fragmento, en las condiciones que determine el tribunal.”
-Debe decir: 
+Debe decir:
 “Consistirá en la lectura a primera vista de una
 obra o fragmento, con el instrumento elegido (segundo instrumento para quienes su instrumento principal sea la voz), en las condiciones que determine el tribunal.”
 6. Anexo I, instrucción trigésimo primera, apartado primero, último párrafo (Estructura y organización de la prueba específica de acceso a las
 enseñanzas artísticas superiores de Grado en
 Diseño).
-Donde dice: 
+Donde dice:
 “En el ejercicio C se valorarán las aptitudes
 creativas, las habilidades, las destrezas, la imaginación y la sensibilidad artística demostrada en la
 realización del ejercicio, los conocimientos, la capacidad para crear y resolver problemas compositivos, la calidad estética y la precisión en el acabado del trabajo, así como la correcta selección y
@@ -149,83 +150,83 @@ el uso del léxico propio del ámbito del diseño.”
 7. Anexo II, dispositivo segundo, apartado primero, en su cuarta línea (Prueba de acceso a las enseñanzas artísticas superiores de Grado para personas
 aspirantes sin requisitos académicos, mayores de
 diecinueve años de edad).
-Donde dice: 
+Donde dice:
 ...“se celebrarán el día 14 de junio de 2011”...
 Debe decir:
 ...“se celebrarán el día 13 de junio de 2011”...
 8. Anexo II, dispositivo tercero, apartado séptimo (Realización de la prueba específica de acceso
 a las enseñanzas artísticas superiores de Grado en
 Música).
-Donde dice:  
-Publicación listas definitivas de inscritos para la realización de la 
-prueba específica de acceso 
-16 de junio de 2011 
-Debe decir: 
-Publicación listas definitivas de inscritos para la realización de la 
-prueba específica de acceso 
-17 de junio de 2011 
+Donde dice:
+Publicación listas definitivas de inscritos para la realización de la
+prueba específica de acceso
+16 de junio de 2011
+Debe decir:
+Publicación listas definitivas de inscritos para la realización de la
+prueba específica de acceso
+17 de junio de 2011
 boc-a-2011-124-3519
 
-9.- Anexo II, dispositivo cuarto, apartado séptimo (Calendario de la convocatoria para el 
-curso 2011-2012). 
-Donde dice: 
-Plazo de solicitud de plaza e inscripción a la prueba específica de 
-acceso 
-Del 31 de mayo al 20 de junio de 
-2011 y del 1 al 7 de septiembre de 
-Debe decir: 
-Plazo de solicitud de plaza e inscripción a la prueba específica de 
-acceso 
-Del 31 de mayo al 7 de septiembre 
-de 2011  
-10. Anexo II, dispositivo quinto, apartado sexto (Calendario de la convocatoria para el curso 
-2011-2012). 
-Donde dice: 
-Realización de la prueba específica de acceso: 
+9.- Anexo II, dispositivo cuarto, apartado séptimo (Calendario de la convocatoria para el
+curso 2011-2012).
+Donde dice:
+Plazo de solicitud de plaza e inscripción a la prueba específica de
+acceso
+Del 31 de mayo al 20 de junio de
+2011 y del 1 al 7 de septiembre de
+Debe decir:
+Plazo de solicitud de plaza e inscripción a la prueba específica de
+acceso
+Del 31 de mayo al 7 de septiembre
+de 2011
+10. Anexo II, dispositivo quinto, apartado sexto (Calendario de la convocatoria para el curso
+2011-2012).
+Donde dice:
+Realización de la prueba específica de acceso:
 
-A las 08.30 horas, presentación para la realización del 1º ejercicio de 
-la prueba específica de acceso  
-27 de junio de 2011 
-A las 08.30 horas, presentación para la realización de la 1ª parte del 
-2º ejercicio de la prueba específica de acceso 
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización de la 2ª parte del 2º 
-ejercicio de la prueba específica de acceso 
-29 de junio de 2011 
-Debe decir: 
-Realización de la prueba específica de acceso: 
-A las 08.30 horas, presentación para la realización de los ejercicio A y B 
-de la prueba específica de acceso  
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización del ejercicio C de la 
-prueba específica de acceso 
-29 de junio de 2011 
-Realización de la prueba específica de acceso: 
+A las 08.30 horas, presentación para la realización del 1º ejercicio de
+la prueba específica de acceso
+27 de junio de 2011
+A las 08.30 horas, presentación para la realización de la 1ª parte del
+2º ejercicio de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización de la 2ª parte del 2º
+ejercicio de la prueba específica de acceso
+29 de junio de 2011
+Debe decir:
+Realización de la prueba específica de acceso:
+A las 08.30 horas, presentación para la realización de los ejercicio A y B
+de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización del ejercicio C de la
+prueba específica de acceso
+29 de junio de 2011
+Realización de la prueba específica de acceso:
 
-A las 08.30 horas, presentación para la realización del 1º ejercicio de 
-la prueba específica de acceso  
-27 de junio de 2011 
-A las 08.30 horas, presentación para la realización de la 1ª parte del 
-2º ejercicio de la prueba específica de acceso 
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización de la 2ª parte del 2º 
-ejercicio de la prueba específica de acceso 
-29 de junio de 2011 
-Debe decir: 
-Realización de la prueba específica de acceso: 
-A las 08.30 horas, presentación para la realización de los ejercicio A y B 
-de la prueba específica de acceso  
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización del ejercicio C de la 
-prueba específica de acceso 
-29 de junio de 2011 
-Realización de la prueba específica de acceso: 
-A las 08.30 horas, presentación para la realización de los ejercicio A y B 
-de la prueba específica de acceso  
-29 de junio de 2011 
-A las 16.30 horas, presentación para la realización del ejercicio C de la 
-prueba específica de acceso 
-29 de junio de 2011 
+A las 08.30 horas, presentación para la realización del 1º ejercicio de
+la prueba específica de acceso
+27 de junio de 2011
+A las 08.30 horas, presentación para la realización de la 1ª parte del
+2º ejercicio de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización de la 2ª parte del 2º
+ejercicio de la prueba específica de acceso
+29 de junio de 2011
+Debe decir:
+Realización de la prueba específica de acceso:
+A las 08.30 horas, presentación para la realización de los ejercicio A y B
+de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización del ejercicio C de la
+prueba específica de acceso
+29 de junio de 2011
+Realización de la prueba específica de acceso:
+A las 08.30 horas, presentación para la realización de los ejercicio A y B
+de la prueba específica de acceso
+29 de junio de 2011
+A las 16.30 horas, presentación para la realización del ejercicio C de la
+prueba específica de acceso
+29 de junio de 2011
 boc-a-2011-124-3519
 
 Segundo.- Proceder a la publicación de la presente Resolución en el Boletín Oficial de Canarias, y a
@@ -256,4 +257,3 @@ boc-a-2011-124-3519
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**Resolucion BOC 68**](./R25_5_2011_dictan_instrucciones_organizacion_desarrollo_pruebas_acceso.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

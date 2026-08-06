@@ -148,4 +148,3 @@ SISTEMAS ABIERTOS)
 ### Fundamentos de Derecho
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
-

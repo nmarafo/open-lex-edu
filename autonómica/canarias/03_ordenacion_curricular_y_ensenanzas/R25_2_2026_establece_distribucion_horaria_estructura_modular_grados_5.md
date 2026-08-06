@@ -78,178 +78,179 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-045-736.pdf
 ---
+
 ## Preámbulo
 
 # [Resolución de 25 de febrero de 2026](R25_2_2026_establece_distribucion_horaria_estructura_modular_grados.md), por la que se establece la distribución horaria y estructura modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias Extractivas, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-736 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución 
-de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura 
-modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados 
-B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de 
-Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias 
+736 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución
+de 25 de febrero de 2026, por la que se establece la distribución horaria y estructura
+modular de los Grados C (Certificados Profesionales) y sus correspondientes Grados
+B (Certificados de Competencia), de niveles 2 y 3, de las familias profesionales de
+Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias
 Extractivas, en el ámbito de la Comunidad Autónoma de Canarias.
-La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación 
-Profesional, establece en su artículo 5.1 y en los apartados a) y b) de su artículo 5.3 
-que el Sistema de Formación Profesional se configura como un conjunto articulado de 
-actuaciones orientadas a la identificación de las competencias profesionales demandadas 
-por el mercado laboral, a la garantía de una oferta formativa adecuada, a la adquisición de 
-la correspondiente formación o, en su caso, al reconocimiento de dichas competencias, 
-así como a la prestación de un servicio de orientación y acompañamiento profesional que 
-permita el diseño de itinerarios formativos individuales y colectivos. Dicho sistema se 
-organiza conforme a un modelo basado en itinerarios formativos que facilitan la progresión 
-en la formación, estructurado en una doble escala: cinco Grados ascendentes (A, B, C, D y 
-E) y tres niveles de competencia profesional (1, 2 y 3), de acuerdo con el Catálogo Nacional 
+La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
+Profesional, establece en su artículo 5.1 y en los apartados a) y b) de su artículo 5.3
+que el Sistema de Formación Profesional se configura como un conjunto articulado de
+actuaciones orientadas a la identificación de las competencias profesionales demandadas
+por el mercado laboral, a la garantía de una oferta formativa adecuada, a la adquisición de
+la correspondiente formación o, en su caso, al reconocimiento de dichas competencias,
+así como a la prestación de un servicio de orientación y acompañamiento profesional que
+permita el diseño de itinerarios formativos individuales y colectivos. Dicho sistema se
+organiza conforme a un modelo basado en itinerarios formativos que facilitan la progresión
+en la formación, estructurado en una doble escala: cinco Grados ascendentes (A, B, C, D y
+E) y tres niveles de competencia profesional (1, 2 y 3), de acuerdo con el Catálogo Nacional
 de Estándares de Competencias Profesionales.
-Por su parte, el [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la 
-ordenación del Sistema de Formación Profesional, regula en su artículo 4 la organización 
-de las distintas ofertas formativas que integran dicho sistema, estableciendo el marco 
+Por su parte, el [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la
+ordenación del Sistema de Formación Profesional, regula en su artículo 4 la organización
+de las distintas ofertas formativas que integran dicho sistema, estableciendo el marco
 general para su implantación y desarrollo por las administraciones competentes.
-En este contexto normativo, y con el fin de garantizar una implantación homogénea, 
-coherente y adaptada a las necesidades del tejido productivo y de los centros del Sistema de 
-Formación Profesional de la Comunidad Autónoma de Canarias, resulta necesario concretar 
-la distribución horaria y la estructura modular de los Grados C y de sus correspondientes 
-Grados B, como paso previo al dictado de las instrucciones necesarias para su efectiva 
+En este contexto normativo, y con el fin de garantizar una implantación homogénea,
+coherente y adaptada a las necesidades del tejido productivo y de los centros del Sistema de
+Formación Profesional de la Comunidad Autónoma de Canarias, resulta necesario concretar
+la distribución horaria y la estructura modular de los Grados C y de sus correspondientes
+Grados B, como paso previo al dictado de las instrucciones necesarias para su efectiva
 puesta en funcionamiento.
 A tal efecto y de conformidad con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- El 15 de abril de 2025 se publicó el Real Decreto 210/2025, de 18 de marzo, 
-por el que se regulan aspectos específicos de los Grados A, B y C de Formación Profesional 
-para las familias profesionales de Edificación y Obra Civil; Electricidad y Electrónica; 
+Primero.- El 15 de abril de 2025 se publicó el Real Decreto 210/2025, de 18 de marzo,
+por el que se regulan aspectos específicos de los Grados A, B y C de Formación Profesional
+para las familias profesionales de Edificación y Obra Civil; Electricidad y Electrónica;
 Energía y Agua; e Industrias Extractivas.
-Segundo.- El artículo 25.1 del citado Real Decreto dispone que las administraciones 
-competentes deberán determinar la duración de los Grados A, B y C vinculados a Grados 
-D de los que tuvieran desarrollo autonómico, estableciendo la misma duración horaria para 
+Segundo.- El artículo 25.1 del citado Real Decreto dispone que las administraciones
+competentes deberán determinar la duración de los Grados A, B y C vinculados a Grados
+D de los que tuvieran desarrollo autonómico, estableciendo la misma duración horaria para
 
-cada módulo profesional en el ámbito autonómico, con independencia del grado en el que 
+cada módulo profesional en el ámbito autonómico, con independencia del grado en el que
 se integren.
-Asimismo, el artículo 25.5 determina que, cuando un Grado C incorpore un módulo 
-profesional no incluido en el currículo básico del Grado D, su duración será la fijada para 
+Asimismo, el artículo 25.5 determina que, cuando un Grado C incorpore un módulo
+profesional no incluido en el currículo básico del Grado D, su duración será la fijada para
 el ámbito de gestión del Ministerio de Educación, Formación Profesional y Deportes.
-Tercero.- Tras la entrada en vigor de los Reales Decretos que regulan los aspectos 
-específicos de los Grados A, B y C, y como consecuencia del proceso progresivo de 
-implantación de estas enseñanzas, se ha evidenciado la necesidad de desarrollar los 
-currículos de los nuevos Grados C y Grados B, con el objeto de asegurar su adecuada 
-adaptación a las características de los sectores productivos implicados y a las necesidades 
+Tercero.- Tras la entrada en vigor de los Reales Decretos que regulan los aspectos
+específicos de los Grados A, B y C, y como consecuencia del proceso progresivo de
+implantación de estas enseñanzas, se ha evidenciado la necesidad de desarrollar los
+currículos de los nuevos Grados C y Grados B, con el objeto de asegurar su adecuada
+adaptación a las características de los sectores productivos implicados y a las necesidades
 organizativas de los centros que impartan ofertas del sistema de formación profesional.
-Cuarto.- En este marco, se considera imprescindible definir la distribución horaria y 
-la estructura modular de los Grados C y sus correspondientes Grados B de niveles 2 y 3 de 
-las familias profesionales señaladas, en el ámbito territorial de la Comunidad Autónoma 
+Cuarto.- En este marco, se considera imprescindible definir la distribución horaria y
+la estructura modular de los Grados C y sus correspondientes Grados B de niveles 2 y 3 de
+las familias profesionales señaladas, en el ámbito territorial de la Comunidad Autónoma
 de Canarias.
 A los antecedentes expuestos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
-Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
-Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia de 
-enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que 
-conducen a la obtención de un título académico o profesional con validez en todo el Estado 
-(...)”. Dicha competencia comprende, asimismo, el establecimiento de los correspondientes 
-planes de estudio y la ordenación curricular de las enseñanzas, de conformidad con lo 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de
+Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad
+Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia de
+enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias que
+conducen a la obtención de un título académico o profesional con validez en todo el Estado
+(...)”. Dicha competencia comprende, asimismo, el establecimiento de los correspondientes
+planes de estudio y la ordenación curricular de las enseñanzas, de conformidad con lo
 previsto en el artículo 133.3.c) del citado texto legal.
-Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
-aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que 
-sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez
+aprobado el Real Decreto correspondiente a un título de formación profesional y hasta que
+sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará
 como norma subsidiaria.
-Tercero.- El Real Decreto 210/2025, de 18 de marzo, por el que se regulan aspectos 
-específicos de los Grados A, B y C de Formación Profesional para las familias profesionales 
-de Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias 
+Tercero.- El Real Decreto 210/2025, de 18 de marzo, por el que se regulan aspectos
+específicos de los Grados A, B y C de Formación Profesional para las familias profesionales
+de Edificación y Obra Civil; Electricidad y Electrónica; Energía y Agua; e Industrias
 Extractivas.
-Cuarto.- El [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md), de 4 de febrero, por el que se desarrollan los 
-elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación 
-Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el 
-Instituto Nacional de las Cualificaciones, establece en su artículo 12, relativo a la naturaleza 
-del Catálogo Nacional de Ofertas de Formación Profesional, el marco estructural de dichas 
+Cuarto.- El [Real Decreto 69/2025](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD69_2025_desarrollan_elementos_integrantes_instrumentos_gestion_sistema.md), de 4 de febrero, por el que se desarrollan los
+elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación
+Profesional, y se modifica el Real Decreto 375/1999, de 5 de marzo, por el que se crea el
+Instituto Nacional de las Cualificaciones, establece en su artículo 12, relativo a la naturaleza
+del Catálogo Nacional de Ofertas de Formación Profesional, el marco estructural de dichas
 ofertas.
 
-En particular, el apartado 2 dispone la organización de las ofertas del Sistema de 
-Formación Profesional como dimensión vertical definitoria, estructurada de forma 
-escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud 
-de cada oferta formativa diseñada a partir del estándar de competencias profesionales de 
+En particular, el apartado 2 dispone la organización de las ofertas del Sistema de
+Formación Profesional como dimensión vertical definitoria, estructurada de forma
+escalonada en una serie ascendente de Grados. Esta ordenación es descriptiva de la amplitud
+de cada oferta formativa diseñada a partir del estándar de competencias profesionales de
 mayor nivel del Catálogo Nacional de Estándares de Competencias Profesionales.
-Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación 
-Profesional tendrán carácter acreditable y acumulable, permitiendo progresar en itinerarios 
+Así mismo, en el punto 5 del citado artículo establece que todas las ofertas de Formación
+Profesional tendrán carácter acreditable y acumulable, permitiendo progresar en itinerarios
 de formación conducentes a otros de mayor grado.
-Quinto.- El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento 
-Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y 
-Deportes, atribuye a la Dirección General de Formación Profesional y Enseñanzas de 
-Régimen Especial las competencias generales y específicas en materia de ordenación, 
-implantación y desarrollo de las enseñanzas de formación profesional en el ámbito de la 
+Quinto.- El [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento
+Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y
+Deportes, atribuye a la Dirección General de Formación Profesional y Enseñanzas de
+Régimen Especial las competencias generales y específicas en materia de ordenación,
+implantación y desarrollo de las enseñanzas de formación profesional en el ámbito de la
 Comunidad Autónoma de Canarias.
-Sexto.- Mediante [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de 
-Formación Profesional y Enseñanzas de Régimen Especial, se dictaron instrucciones y 
-orientaciones para la implantación y desarrollo de los Grados D y E, a partir del curso 
-escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modular de dichos 
+Sexto.- Mediante [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), de la Dirección General de
+Formación Profesional y Enseñanzas de Régimen Especial, se dictaron instrucciones y
+orientaciones para la implantación y desarrollo de los Grados D y E, a partir del curso
+escolar 2024/2025, estableciéndose, asimismo, la distribución horaria y modular de dichos
 currículos en el ámbito autonómico de la Comunidad Autónoma de Canarias.
-Séptimo.- Con fecha 27 de enero de 2026, se aprobó la Resolución de la Dirección 
-General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se amplía 
-y modifica la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones 
-para la implantación y desarrollo de los Grados de Formación D y E, a partir del curso 
-escolar 2024/2025, y establece la distribución horaria y modular de los currículos, en el 
+Séptimo.- Con fecha 27 de enero de 2026, se aprobó la Resolución de la Dirección
+General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se amplía
+y modifica la [Resolución de 30 de octubre de 2024](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), que dicta instrucciones y orientaciones
+para la implantación y desarrollo de los Grados de Formación D y E, a partir del curso
+escolar 2024/2025, y establece la distribución horaria y modular de los currículos, en el
 ámbito de la Comunidad Autónoma de Canarias.
-En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas 
-a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el 
-artículo 9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el 
-Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1 
-del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la 
+En atención a lo anteriormente indicado, en ejercicio de las competencias atribuidas
+a la Viceconsejería de Formación Profesional y Cualificaciones Profesionales en el
+artículo 9, apartado 2, del [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el
+Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad
+Física y Deportes, y el desempeño de las funciones previstas en los artículos 11 y 20.1
+del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los Departamentos de la
 Administración Autonómica de Canarias,
 RESUELVO :
-Primero.- Aprobar la distribución horaria y la estructura modular de los Grados C 
-(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
-de niveles 2 y 3 de la familia profesional de Edificación y Obra Civil, en los términos 
+Primero.- Aprobar la distribución horaria y la estructura modular de los Grados C
+(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia)
+de niveles 2 y 3 de la familia profesional de Edificación y Obra Civil, en los términos
 recogidos en el Anexo I de la presente Resolución.
-Segundo.- Aprobar la distribución horaria y la estructura modular de los Grados C 
-(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
-de niveles 2 y 3 de la familia profesional de Electricidad y Electrónica, en los términos 
+Segundo.- Aprobar la distribución horaria y la estructura modular de los Grados C
+(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia)
+de niveles 2 y 3 de la familia profesional de Electricidad y Electrónica, en los términos
 recogidos en el Anexo II de la presente Resolución.
 
-Tercero.- Aprobar la distribución horaria y la estructura modular de los Grados C 
-(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
-de niveles 2 y 3 de la familia profesional de Energía y Agua, en los términos recogidos en 
+Tercero.- Aprobar la distribución horaria y la estructura modular de los Grados C
+(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia)
+de niveles 2 y 3 de la familia profesional de Energía y Agua, en los términos recogidos en
 el Anexo III de la presente Resolución.
-Cuarto.- Aprobar la distribución horaria y la estructura modular de los Grados C 
-(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia) 
-de niveles 2 y 3 de la familia profesional de Industrias Extractivas, en los términos recogidos 
+Cuarto.- Aprobar la distribución horaria y la estructura modular de los Grados C
+(Certificados Profesionales) y sus correspondientes Grados B (Certificados de Competencia)
+de niveles 2 y 3 de la familia profesional de Industrias Extractivas, en los términos recogidos
 en el Anexo IV de la presente Resolución.
-Quinto.- La distribución horaria y estructura modular establecida en la presente 
-Resolución será de aplicación en todos los centros del Sistema de Formación Profesional 
+Quinto.- La distribución horaria y estructura modular establecida en la presente
+Resolución será de aplicación en todos los centros del Sistema de Formación Profesional
 de la Comunidad Autónoma de Canarias.
-Sexto.- Facultar a la Dirección General de Formación Profesional y Enseñanzas de 
-Régimen Especial para que, en el ámbito de sus competencias dentro del sistema educativo 
-no universitario, dictamine cuantas resoluciones sean necesarias respecto a esta Resolución 
-y lleve a cabo la planificación de la oferta de los Grados C y B en los centros educativos 
+Sexto.- Facultar a la Dirección General de Formación Profesional y Enseñanzas de
+Régimen Especial para que, en el ámbito de sus competencias dentro del sistema educativo
+no universitario, dictamine cuantas resoluciones sean necesarias respecto a esta Resolución
+y lleve a cabo la planificación de la oferta de los Grados C y B en los centros educativos
 públicos no universitarios de la Comunidad Autónoma de Canarias.
-Séptimo.- Encomendar a la Inspección de Educación el asesoramiento a los equipos 
-directivos de los centros del sistema educativo no universitario en aquellos aspectos 
-específicos relacionados con la aplicación de la presente Resolución, así como la supervisión 
+Séptimo.- Encomendar a la Inspección de Educación el asesoramiento a los equipos
+directivos de los centros del sistema educativo no universitario en aquellos aspectos
+específicos relacionados con la aplicación de la presente Resolución, así como la supervisión
 de su adecuado cumplimiento.
-Octavo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
-Canarias, así como en la página web de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes, para su general conocimiento. Asimismo, se encomienda a 
-los equipos directivos de los centros docentes que adopten las medidas oportunas para 
+Octavo.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de
+Canarias, así como en la página web de la Consejería de Educación, Formación Profesional,
+Actividad Física y Deportes, para su general conocimiento. Asimismo, se encomienda a
+los equipos directivos de los centros docentes que adopten las medidas oportunas para
 garantizar su difusión entre los distintos sectores de la comunidad educativa.
-Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse 
-recurso de alzada ante el Consejero de Educación, Formación Profesional, Actividad Física y 
-Deportes, de conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del 
-Procedimiento Administrativo Común de las Administraciones Públicas, en el plazo de un mes, 
-a partir del día siguiente al de su publicación en el Boletín Oficial de Canarias, sin perjuicio de 
+Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse
+recurso de alzada ante el Consejero de Educación, Formación Profesional, Actividad Física y
+Deportes, de conformidad con los artículos 121 y 122 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, en el plazo de un mes,
+a partir del día siguiente al de su publicación en el Boletín Oficial de Canarias, sin perjuicio de
 cualquier otro que se estime procedente.
-Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación 
+Las Palmas de Gran Canaria, a 25 de febrero de 2026.- El Viceconsejero de Formación
 Profesional y Cualificaciones Profesionales, Francisco Rodríguez Machado.
 
 ANEXO I
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS 
-PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS
+PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE
 COMPETENCIA) DE NIVELES 2 Y 3
 Certificado profesional: Fábricas de albañilería y revestimientos.
 • Código: EOC_ C_001_4B.
 • Título de Formación Profesional asociado: Técnico en Construcción.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -278,7 +279,7 @@ Certificado profesional: Cubiertas e impermeabilizaciones.
 • Título de Formación Profesional asociado: Técnico en Construcción.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -307,7 +308,7 @@ Certificado profesional: Encofrados y hormigón armado.
 • Título de Formación Profesional asociado: Técnico en Construcción.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -336,7 +337,7 @@ Certificado profesional: Ejecución de obras de urbanización.
 • Título de Formación Profesional asociado: Técnico en Construcción.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -351,7 +352,7 @@ Código del certificado de competencia: EOC_B_1001 138 8
 Código del certificado de competencia: EOC_B_1002 138 8
 1724 Prevención de riesgos laborales en construcción 60 4
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -371,7 +372,7 @@ Certificado profesional: Instalación de placa de yeso laminado y falsos techos.
 Rehabilitación.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -389,7 +390,7 @@ Código del certificado de competencia: EOC_B_0996 96 4 3
 Código del certificado de competencia: EOC_B_1195 206 8 6
 1197 Techos suspendidos
 Código del certificado de competencia: EOC_B_1197 141 5 4
-Organización de trabajos de interior, decoración y 
+Organización de trabajos de interior, decoración y
 rehabilitación
 Código del certificado de competencia: EOC_B_1200
 141 6 4
@@ -403,7 +404,7 @@ Certificado profesional: Instalación de mamparas y suelos técnicos.
 Rehabilitación.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -430,7 +431,7 @@ Certificado profesional: Pintura decorativa y revestimientos ligeros.
 Rehabilitación.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -460,7 +461,7 @@ Certificado profesional: Revestimientos continuos y discontinuos.
 Rehabilitación.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -477,7 +478,7 @@ Código del certificado de competencia: EOC_B_1003 205 9 6
 1194 Revestimientos continuos
 Código del certificado de competencia: EOC_B_1194 174 8 5
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -498,7 +499,7 @@ Certificado profesional: Representaciones de construcción y eficiencia energét
 • Título de Formación Profesional asociado: Técnico Superior en Proyectos de Edificación.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -524,7 +525,7 @@ Certificado profesional: Replanteos y control de proyectos y obras de edificaci�
 • Título de Formación Profesional asociado: Técnico Superior en Proyectos de Edificación.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -537,7 +538,7 @@ Código del certificado de competencia: EOC_B_0564 138 4
 0565 Replanteos de construcción
 Código del certificado de competencia: EOC_B_0565 96 3
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -563,7 +564,7 @@ Certificado profesional: Representaciones de obra civil.
 • Título de Formación Profesional asociado: Técnico Superior en Proyectos de Obra Civil.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -590,7 +591,7 @@ Certificado profesional: Levantamientos topográficos y de construcciones, y rep
 • Título de Formación Profesional asociado: Técnico Superior en Proyectos de Obra Civil.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -605,7 +606,7 @@ Código del certificado de competencia: EOC_B_0563 302 14 9
 0565 Replanteos de construcción
 Código del certificado de competencia: EOC_B_0565 96 4 3
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -624,7 +625,7 @@ Certificado profesional: Control de proyectos y obras civiles.
 • Título de Formación Profesional asociado: Técnico Superior en Proyectos de Obra Civil.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -652,7 +653,7 @@ Certificado profesional: Organización y control de ejecución de obras de edifi
 Obras de Edificación.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -670,7 +671,7 @@ Código del certificado de competencia: EOC_B_1288 238 9 7
 Código del certificado de competencia: EOC_B_1290 96 4 3
 1291 Control de ejecución en obras de edificación 96 4 3
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -689,7 +690,7 @@ Duración 760 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 270 horas
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -705,7 +706,7 @@ Certificado profesional: Organización y control de ejecución de obras civiles.
 Obras de Edificación.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -734,7 +735,7 @@ Certificado profesional: Control de obras de construcción y control documental.
 Obras de Construcción.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -758,15 +759,15 @@ En régimen intensivo la formación en la empresa u organismo equiparado tendrá
 ANEXO II
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
-(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B 
+(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B
 (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3
-Certificado profesional: Montaje y mantenimiento de instalaciones eléctricas y redes de distribución  
+Certificado profesional: Montaje y mantenimiento de instalaciones eléctricas y redes de distribución
 de baja tensión.
 • Código: ELE_C_001_4B.
 • Título de Formación Profesional asociado: Técnico en Instalaciones Eléctricas y Automáticas.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -782,18 +783,18 @@ Código del certificado de competencia: ELE_B_0235  270 10 8
 Código del certificado de competencia: ELE_B_0236  172 7 5
 0239 Instalaciones solares fotovoltaicas
 Código del certificado de competencia: ELE_B_0239  96 4 3
-0240 Máquinas eléctricas 
+0240 Máquinas eléctricas
 Código del certificado de competencia: ELE_B_0240 172 7 5
 1782 Prevención de riesgos laborales 30 2 1
 Duración 740 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185  horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas
-Certificado profesional: Montaje y mantenimiento de instalaciones automatizadas. 
+Certificado profesional: Montaje y mantenimiento de instalaciones automatizadas.
 • Código: ELE_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Instalaciones Eléctricas y Automáticas.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -803,11 +804,11 @@ semanales
 Horas
 semanales
 (33 semanas)
-0232 Automatismos industriales 
+0232 Automatismos industriales
 Código del certificado de competencia: ELE_B_0232 237 12 7
-0238 Instalaciones domóticas 
+0238 Instalaciones domóticas
 Código del certificado de competencia: ELE_B_0238 138 7 4
-0240 Máquinas eléctricas 
+0240 Máquinas eléctricas
 Código del certificado de competencia: ELE_B_0240 170 9 5
 1782 Prevención de riesgos laborales 30 2 1
 Duración 575 30 17
@@ -815,85 +816,85 @@ En régimen general la formación en la empresa u organismo equiparado tendrá u
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 205 horas
 ANEXO II
 
-Certificado profesional: Montaje y mantenimiento de infraestructuras de telecomunicaciones, redes 
+Certificado profesional: Montaje y mantenimiento de infraestructuras de telecomunicaciones, redes
 locales de datos y sistemas de telefonía.
 • Código: ELE_C_003_4B.
 • Título de Formación Profesional asociado: Técnico en Instalaciones de Telecomunicaciones.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
 Horas
 semanales
 (17 semanas)
-0237 Infraestructuras comunes de telecomunicación en viviendas y edificios 
+0237 Infraestructuras comunes de telecomunicación en viviendas y edificios
 Código del certificado de competencia: ELE_B_0237 138 8
 0360 Equipos microinformáticos 96 6
-0361 Infraestructuras de redes de datos y sistemas de telefonía 
+0361 Infraestructuras de redes de datos y sistemas de telefonía
 Código del certificado de competencia: ELE_B_0361 206 12
 1782 Prevención de riesgos laborales 30 2
 Duración 470 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 120 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 165 horas
-Certificado profesional: Montaje y mantenimiento de instalaciones de megafonía, sonorización de 
-locales y circuito cerrado de televisión. 
+Certificado profesional: Montaje y mantenimiento de instalaciones de megafonía, sonorización de
+locales y circuito cerrado de televisión.
 • Código: ELE_C_004_4B.
 • Título de Formación Profesional asociado: Técnico en Instalaciones de Telecomunicaciones.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
 Horas
 semanales
 (17 semanas)
-0363 Instalaciones de megafonía y sonorización 
+0363 Instalaciones de megafonía y sonorización
 Código del certificado de competencia: ELE_B_0363 173 10
-0364 Circuito cerrado de televisión y seguridad electrónica 
+0364 Circuito cerrado de televisión y seguridad electrónica
 Código del certificado de competencia: ELE_B_0364 202 12
 1782 Prevención de riesgos laborales 30 2
 Duración 405 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima 145 de horas 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima 145 de horas
 
-Certificado profesional: Desarrollo de proyectos de instalaciones eléctricas de baja tensión y centros de 
+Certificado profesional: Desarrollo de proyectos de instalaciones eléctricas de baja tensión y centros de
 transformación.
 • Código: ELE_C_001_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Sistemas Electrotécnicos y
 Automatizados.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
 Horas
 semanales
 (33 semanas)
-0519 Documentación técnica en instalaciones eléctricas 
+0519 Documentación técnica en instalaciones eléctricas
 Código del certificado de competencia: ELE_B_0519 96 3
 0520 Sistemas y circuitos eléctricos 173 5
 0522 Desarrollo de redes eléctricas y centros de transformación
 Código del certificado de competencia: ELE_B_0522 172 5
-0523 Configuración de instalaciones domóticas y automáticas 
+0523 Configuración de instalaciones domóticas y automáticas
 Código del certificado de competencia: ELE_B_0523 202 6
-0524 Configuración de instalaciones eléctricas 
+0524 Configuración de instalaciones eléctricas
 Código del certificado de competencia: ELE_B_0524 172 5
 1782 Prevención de riesgos laborales 30 1
 Duración 845 25
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 215 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 300 horas
-Certificado profesional: Gestión y supervisión del montaje y mantenimiento de instalaciones eléctricas  
+Certificado profesional: Gestión y supervisión del montaje y mantenimiento de instalaciones eléctricas
 de baja tensión.
 • Código: ELE_C_002_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Sistemas Electrotécnicos y
 Automatizados.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -903,27 +904,27 @@ semanales
 Horas
 semanales
 (33 semanas)
-0518 Técnicas y procesos en instalaciones eléctricas 
+0518 Técnicas y procesos en instalaciones eléctricas
 Código del certificado de competencia: ELE_B_0518 241 13 7
 0521 Técnicas y procesos en instalaciones domóticas y automáticas
 Código del certificado de competencia: ELE_B_0521  205 11 6
-Gestión del montaje y del mantenimiento de instalaciones 
+Gestión del montaje y del mantenimiento de instalaciones
 eléctricas
-Código del certificado de competencia: ELE_B_0602  
+Código del certificado de competencia: ELE_B_0602
 64 4 2
 1782 Prevención de riesgos laborales 30 2 1
 Duración 540 30 16
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 190 horas
 
-Certificado profesional: Gestión y supervisión del montaje y mantenimiento de sistemas de producción 
+Certificado profesional: Gestión y supervisión del montaje y mantenimiento de sistemas de producción
 audiovisual y de radiodifusión en unidades fijas y móviles.
 • Código: ELE_C_003_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Sistemas  de
 Telecomunicaciones e Informáticos.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -936,20 +937,20 @@ semanales
 0551 Elementos de sistemas de telecomunicaciones 138 7 4
 0554 Sistemas de producción audiovisual
 Código del certificado de competencia: ELE_B_0554 237 12 7
-0556 Sistemas de radiocomunicaciones 
+0556 Sistemas de radiocomunicaciones
 Código del certificado de competencia: ELE_B_0556 170 9 5
 1782 Prevención de riesgos laborales 30 2 1
 Duración 575 30 17
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 145 horas
 En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 205 horas
-Certificado profesional: Gestión y supervisión del montaje y mantenimiento de las infraestructuras de  
-telecomunicación, sistemas telemáticos y de redes de voz y datos en el entorno de edificios. 
+Certificado profesional: Gestión y supervisión del montaje y mantenimiento de las infraestructuras de
+telecomunicación, sistemas telemáticos y de redes de voz y datos en el entorno de edificios.
 • Código: ELE_C_004_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Sistemas  de
 Telecomunicaciones e Informáticos.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -959,7 +960,7 @@ semanales
 Horas
 semanales
 (33 semanas)
-0552 Sistemas informáticos y redes locales 
+0552 Sistemas informáticos y redes locales
 Código del certificado de competencia: ELE_B_0552 170 7 5
 0553 Técnicas y procesos en infraestructuras de telecomunicaciones
 Código del certificado de competencia: ELE_B_0553  140 5 4
@@ -973,14 +974,14 @@ Duración 745 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 265 horas
 
-Certificado profesional: Desarrollo de proyectos de infraestructuras de telecomunicación y de redes de  
-voz y datos, con integración de servicios de hogar digital, en el entorno de edificios inteligentes. 
+Certificado profesional: Desarrollo de proyectos de infraestructuras de telecomunicación y de redes de
+voz y datos, con integración de servicios de hogar digital, en el entorno de edificios inteligentes.
 • Código: ELE_C_005_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Sistemas  de
 Telecomunicaciones e Informáticos.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -990,24 +991,24 @@ semanales
 Horas
 semanales
 (17 semanas)
-Configuración de infraestructuras de sistemas de 
+Configuración de infraestructuras de sistemas de
 telecomunicaciones
 Código del certificado de competencia: ELE_B_0525
 96 8 6
 0557 Sistemas integrados y hogar digital 138 11 8
-0601 Gestión de proyectos de instalaciones de telecomunicaciones 
+0601 Gestión de proyectos de instalaciones de telecomunicaciones
 Código del certificado de competencia: ELE_B_0601 96 8 6
 1782 Prevención de riesgos laborales 30 3 2
 Duración 360 30 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 90 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 130 horas 
-Certificado profesional: Mantenimiento y reparación de equipos y sistemas microprocesados y de  
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 130 horas
+Certificado profesional: Mantenimiento y reparación de equipos y sistemas microprocesados y de
 telecomunicaciones.
 • Código: ELE_C_006_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Mantenimiento Electrónico.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1019,22 +1020,22 @@ semanales
 (33 semanas)
 1052 Equipos microprogramables
 Código del certificado de competencia: ELE_B_1052 205 10 6
-1053 Mantenimiento de equipos de radiocomunicaciones 
+1053 Mantenimiento de equipos de radiocomunicaciones
 Código del certificado de competencia: ELE_B_1053 205 9 6
-1054 Mantenimiento de equipos de voz y datos 
+1054 Mantenimiento de equipos de voz y datos
 Código del certificado de competencia: ELE_B_1054 205 9 6
 1782 Prevención de riesgos laborales 30 2 1
 Duración 645 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 165 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 
-Certificado  profesional:  Planificación  de  los  procesos  de  mantenimiento  y  reparación  de  equipos 
+Certificado  profesional:  Planificación  de  los  procesos  de  mantenimiento  y  reparación  de  equipos
 industriales y profesionales de audio y vídeo.
 • Código: ELE_C_007_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Mantenimiento Electrónico.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1055,44 +1056,44 @@ Código del certificado de competencia: ELE_B_1057 142 8 4
 Duración 505 30 15
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 180 horas
-Certificado profesional: Desarrollo de proyectos de sistemas de automatización industrial. 
+Certificado profesional: Desarrollo de proyectos de sistemas de automatización industrial.
 • Código: ELE_C_008_5B.
 • Título de Formación Profesional asociado:  Técnico Superior en Automatización y Robótica
 Industrial.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
 Horas
 semanales
 (33 semanas)
-0959 Sistemas eléctricos, neumáticos e hidráulicos 
+0959 Sistemas eléctricos, neumáticos e hidráulicos
 Código del certificado de competencia: ELE_B_0959 139 4
-0960 Sistemas secuenciales programables 
+0960 Sistemas secuenciales programables
 Código del certificado de competencia: ELE_B_0960 139 4
-0961 Sistemas de medida y regulación 
+0961 Sistemas de medida y regulación
 Código del certificado de competencia: ELE_B_0961 139 4
-0963 Documentación técnica 
+0963 Documentación técnica
 Código del certificado de competencia: ELE_B_0963 96 3
-0965 Sistemas programables avanzados 
+0965 Sistemas programables avanzados
 Código del certificado de competencia: ELE_B_0965 138 4
-0967 Comunicaciones industriales 
+0967 Comunicaciones industriales
 Código del certificado de competencia: ELE_B_0967 234 7
 1782 Prevención de riesgos laborales 30 1
 Duración 915 27
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 325 horas
 
-Certificado profesional: Gestión y supervisión del montaje, puesta en marcha y mantenimiento de  
-sistemas de automatización industrial. 
+Certificado profesional: Gestión y supervisión del montaje, puesta en marcha y mantenimiento de
+sistemas de automatización industrial.
 • Código: ELE_C_009_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Automatización y Robótica
 Industrial.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1102,7 +1103,7 @@ semanales
 Horas
 semanales
 (33 semanas)
-0962 Sistemas de potencia 
+0962 Sistemas de potencia
 Código del certificado de competencia: ELE_B_0962 172 8 5
 0964 Informática industrial 96 5 3
 0966 Robótica industrial
@@ -1113,12 +1114,12 @@ Código del certificado de competencia: ELE_B_0968 202 9 6
 Duración 640 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas
-Certificado profesional: Supervisión, montaje y mantenimiento de sistemas de electromedicina. 
+Certificado profesional: Supervisión, montaje y mantenimiento de sistemas de electromedicina.
 • Código: ELE_C_010_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Electromedicina Clínica.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1128,26 +1129,26 @@ semanales
 Horas
 semanales
 (33 semanas)
-1588 Sistemas de radiodiagnóstico, radioterapia e imagen médica 
+1588 Sistemas de radiodiagnóstico, radioterapia e imagen médica
 Código del certificado de competencia: ELE_B_1588 240 9 7
-1589 Sistemas de monitorización, registro y cuidados críticos 
+1589 Sistemas de monitorización, registro y cuidados críticos
 Código del certificado de competencia: ELE_B_1589 205 8 6
-1590 Sistemas de laboratorio y hemodiálisis 
+1590 Sistemas de laboratorio y hemodiálisis
 Código del certificado de competencia: ELE_B_1590 170 6 5
-1591 Sistemas de rehabilitación y pruebas funcionales 
+1591 Sistemas de rehabilitación y pruebas funcionales
 Código del certificado de competencia: ELE_B_1591 140 5 4
 1782 Prevención de riesgos laborales 30 2 1
 Duración 785 30 23
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 275 horas
 
-Certificado profesional: Planificación de planes de renovación, montaje y mantenimiento de sistemas  
+Certificado profesional: Planificación de planes de renovación, montaje y mantenimiento de sistemas
 de electromedicina.
 • Código: ELE_C_011_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Electromedicina Clínica.
 • Nivel: 3
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1157,11 +1158,11 @@ semanales
 Horas
 semanales
 (17 semanas)
-1593 Planificación de la adquisición de sistemas de electromedicina 
+1593 Planificación de la adquisición de sistemas de electromedicina
 Código del certificado de competencia: ELE_B_1593 202 16 12
-Gestión del montaje y mantenimiento de sistemas de 
-electromedicina 
-Código del certificado de competencia: ELE_B_1594 
+Gestión del montaje y mantenimiento de sistemas de
+electromedicina
+Código del certificado de competencia: ELE_B_1594
 138 11 8
 1782 Prevención de riesgos laborales 30 3 2
 Duración 370 30 22
@@ -1171,7 +1172,7 @@ En régimen intensivo la formación en empresa u organismo equiparado tendrá un
 ANEXO III
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
-(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B 
+(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B
 (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3
 Certificado profesional: Montaje y mantenimiento de redes de agua.
 • Código: ENA_C_001_4B.
@@ -1179,7 +1180,7 @@ Certificado profesional: Montaje y mantenimiento de redes de agua.
 Aguas.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1212,7 +1213,7 @@ Certificado profesional: Operación de estaciones de tratamiento de aguas.
 Aguas.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1228,14 +1229,14 @@ Código del certificado de competencia: ENA_B_1566 138 8
 1782 Prevención de riesgos laborales 30 2
 Duración 480 28
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 120 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 170 horas 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 170 horas
 Certificado profesional: Eficiencia energética de edificios.
 • Código: ENA_C_001_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Eficiencia  Energética  y
 Energía Solar Térmica.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1258,13 +1259,13 @@ Duración 645 30 19
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 165 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 230 horas
 
-Certificado profesional: Organización y proyectos de instalaciones solares térmicas. 
+Certificado profesional: Organización y proyectos de instalaciones solares térmicas.
 • Código: ENA_C_002_5B.
 • Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Eficiencia  Energética  y
 Energía Solar Térmica.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1280,7 +1281,7 @@ Código del certificado de competencia: ENA_B_0122 197 9 6
 Código del certificado de competencia: ENA_B_0123 106 4 3
 0352 Configuración de instalaciones solares térmicas
 Código del certificado de competencia: ENA_B_0352 106 4 3
-Gestión del montaje y mantenimiento de instalaciones solares 
+Gestión del montaje y mantenimiento de instalaciones solares
 térmicas
 Código del certificado de competencia: ENA_B_0353
 271 11 8
@@ -1293,7 +1294,7 @@ Certificado profesional: Gestión del montaje y mantenimiento de centrales eléc
 • Título de Formación Profesional asociado: Técnico Superior en Centrales Eléctricas.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1313,8 +1314,8 @@ Código del certificado de competencia: ENA_B_0674 269 8
 0675 Coordinación de equipos humanos
 Código del certificado de competencia: ENA_B_0675 64 2
 Duración 1145 32
-(*) Se reduce en una hora la carga lectiva semanal del módulo profesional por criterios pedagógicos. Las horas  
-resultantes se incorporan a la formación en empresa u organismo equiparado, tanto en el régimen general como en el  
+(*) Se reduce en una hora la carga lectiva semanal del módulo profesional por criterios pedagógicos. Las horas
+resultantes se incorporan a la formación en empresa u organismo equiparado, tanto en el régimen general como en el
 régimen intensivo
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración de 355 horas
 En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración de 470 horas
@@ -1324,7 +1325,7 @@ Certificado profesional: Gestión del montaje y mantenimiento de subestaciones e
 • Título de Formación Profesional asociado: Técnico Superior en Centrales Eléctricas.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1339,13 +1340,13 @@ Código del certificado de competencia: ENA_B_0670 145 8
 Código del certificado de competencia: ENA_B_0671 64 4
 Duración 385 22
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 100 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 135 horas 
-Certificado profesional: Gestión del montaje y mantenimiento de parques eólicos. 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 135 horas
+Certificado profesional: Gestión del montaje y mantenimiento de parques eólicos.
 • Código: ENA_C_005_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Energías Renovables.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1359,34 +1360,34 @@ Código del certificado de competencia: ENA_B_0684 202 12
 1782 Prevención de riesgos laborales 30 2
 Duración 405 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas
 
-Certificado profesional: Organización y proyectos de instalaciones solares fotovoltaicas. 
+Certificado profesional: Organización y proyectos de instalaciones solares fotovoltaicas.
 • Código: ENA_C_006_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Energías Renovables.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
 Horas
 semanales
 (17 semanas)
-0681 Configuración de instalaciones solares fotovoltaicas 
+0681 Configuración de instalaciones solares fotovoltaicas
 Código del certificado de competencia: ENA_B_0681 170 10
-0682 Gestión del montaje de instalaciones solares fotovoltaicas  
+0682 Gestión del montaje de instalaciones solares fotovoltaicas
 Código del certificado de competencia: ENA_B_0682 205 12
 1782 Prevención de riesgos laborales 30 2
 Duración 405 24
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas
 Certificado profesional: Optimización de redes e instalaciones de agua.
 • Código: ENA_C_007_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Gestión del Agua.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1403,15 +1404,15 @@ Código del certificado de competencia: ENA_B_1575 170 15 10
 1782 Prevención de riesgos laborales 30 3 2
 Duración 345 30 20
 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 90 horas
-En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 125 horas 
+En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 125 horas
 
-Certificado profesional: Organización y control del montaje y mantenimiento de redes e instalaciones  
+Certificado profesional: Organización y control del montaje y mantenimiento de redes e instalaciones
 de agua y saneamiento.
 • Código: ENA_C_008_5B.
 • Título de Formación Profesional asociado: Técnico Superior en Gestión del Agua.
 • Nivel: 3.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1438,14 +1439,14 @@ En régimen intensivo la formación en la empresa u organismo equiparado tendrá
 ANEXO IV
 FAMILIA PROFESIONAL: INDUSTRIAS EXTRACTIV AS
 DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C
-(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B 
+(CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B
 (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3
 Certificado profesional: Excavación subterránea y a cielo abierto con explosivos.
 • Código: IEX_C_004_4B.
 • Título de Formación Profesional asociado: Técnico en Excavaciones y Sondeos.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1472,7 +1473,7 @@ Certificado profesional: Excavación mecanizada con arranque selectivo.
 • Título de Formación Profesional asociado: Técnico en Excavaciones y Sondeos.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1498,7 +1499,7 @@ Certificado profesional: Sondeos y trabajos geotécnicos.
 • Título de Formación Profesional asociado: Técnico en Excavaciones y Sondeos.
 • Nivel: 2.
 Código
-Real 
+Real
 Decreto
 MÓDULOS PROFESIONALES Horas
 totales
@@ -1569,4 +1570,3 @@ En régimen intensivo la formación en la empresa u organismo equiparado tendrá
 - [**Resolucion BOC 32**](./R25_2_2026_niveles_ciclos_formativos_grado_medio_ciclos.md)
 - [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

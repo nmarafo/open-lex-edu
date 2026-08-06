@@ -3980,4 +3980,3 @@ MARIANO RAJOY BREY
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2013-13756**](../02_gestion_y_administracion_centros/L27_2013_racionalizacion_sostenibilidad_administracion_local.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
-

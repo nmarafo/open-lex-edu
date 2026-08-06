@@ -64,6 +64,7 @@ fundamentos_derecho:
   articulos:
   - '120'
 ---
+
 # Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
 **JUAN CARLOS I**
@@ -905,4 +906,3 @@ JOSÉ MARÍA AZNAR LÓPEZ
 ### Fundamentos de Derecho
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-

@@ -47,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
 - norma_id: norm-es-2002-4371
 ---
+
 # Real Decreto 320/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de Fútbol y Fútbol Sala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas.
 
 El [Real Decreto 1913/1997](RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md), de 19 de diciembre, otorga la consideración de enseñanzas de régimen especial, a aquellas enseñanzas que conducen a la obtención de los títulos de técnicos deportivos mencionadas en el artículo 55 de la Ley 10/ 1990, de 15 de octubre, del Deporte. Asimismo, aprueba las directrices generales sobre los títulos y de las correspondientes enseñanzas mínimas.
@@ -621,7 +622,7 @@ Prácticas
 
 Horas
 
- Bloque específico:
+Bloque específico:
 
 Desarrollo profesional.
 
@@ -5009,4 +5010,3 @@ Educación física.
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2002-4371**](./RD454_2002_ecd_establecen_elementos_basicos_informes_evaluacion.md)
-

@@ -44,6 +44,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las asociaciones de madres y padres de alumnos.
 
 ## Preámbulo
@@ -85,4 +86,3 @@ Las Asociaciones de Madres y Padres de Alumnos más representativas propondrán 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-

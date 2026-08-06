@@ -50,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-l-39-2015
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.pdf
 ---
+
 ## Preámbulo
 
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
@@ -57,48 +58,48 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Administraciones Públicas, Justicia y Seguridad
-3159 Dirección General de la Función Pública.- Resolución de 13 de octubre de 2022, 
-por la que se corrige error material en la Resolución de 29 de septiembre de 2022, 
-que hace pública la relación de personas aspirantes seleccionadas en las pruebas 
-selectivas para ingresar, por el sistema general de acceso libre, en el Cuerpo Auxiliar 
-(Grupo C, Subgrupo C2), de la Administración Pública de la Comunidad Autónoma 
-de Canarias, convocadas por Resolución de 11 de abril de 2018, y se les ofertan 
+3159 Dirección General de la Función Pública.- Resolución de 13 de octubre de 2022,
+por la que se corrige error material en la Resolución de 29 de septiembre de 2022,
+que hace pública la relación de personas aspirantes seleccionadas en las pruebas
+selectivas para ingresar, por el sistema general de acceso libre, en el Cuerpo Auxiliar
+(Grupo C, Subgrupo C2), de la Administración Pública de la Comunidad Autónoma
+de Canarias, convocadas por Resolución de 11 de abril de 2018, y se les ofertan
 puestos de trabajo.
-Por Resolución de esta Dirección General de 29 de septiembre de 2022 (BOC nº 200, de 
-7.10.2022), se hace pública la relación de personas aspirantes seleccionadas en las pruebas 
-selectivas para ingresar, por el sistema general de acceso libre, en el Cuerpo Auxiliar  
-(Grupo C, Subgrupo C2), de la Administración Pública de la Comunidad Autónoma de 
-Canarias, convocadas por Resolución de 11 de abril de 2018, y se les ofertan puestos de 
+Por Resolución de esta Dirección General de 29 de septiembre de 2022 (BOC nº 200, de
+7.10.2022), se hace pública la relación de personas aspirantes seleccionadas en las pruebas
+selectivas para ingresar, por el sistema general de acceso libre, en el Cuerpo Auxiliar
+(Grupo C, Subgrupo C2), de la Administración Pública de la Comunidad Autónoma de
+Canarias, convocadas por Resolución de 11 de abril de 2018, y se les ofertan puestos de
 trabajo.
-Advertido error material en la referida Resolución, en cuanto a que no se tuvo en cuenta 
-la última Resolución emitida por la presidenta del Tribunal Calificador de 9 de junio de 
-2022, en la que se estimaron varios recursos de alzada interpuestos por diversos aspirantes 
-contra esta Resolución de 24 de febrero de 2022, con la consiguiente modificación en la 
-puntuación otorgada en su momento, se hace necesario modificar el Anexo I, conforme a 
-lo dispuesto en el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento 
+Advertido error material en la referida Resolución, en cuanto a que no se tuvo en cuenta
+la última Resolución emitida por la presidenta del Tribunal Calificador de 9 de junio de
+2022, en la que se estimaron varios recursos de alzada interpuestos por diversos aspirantes
+contra esta Resolución de 24 de febrero de 2022, con la consiguiente modificación en la
+puntuación otorgada en su momento, se hace necesario modificar el Anexo I, conforme a
+lo dispuesto en el artículo 109.2 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento
 Administrativo Común de las Administraciones Públicas.
-De acuerdo con lo anteriormente expuesto, según lo establecido en el artículo 81.1.h) 
-del Reglamento orgánico de la Consejería de Presidencia, Justicia y Seguridad, aprobado 
+De acuerdo con lo anteriormente expuesto, según lo establecido en el artículo 81.1.h)
+del Reglamento orgánico de la Consejería de Presidencia, Justicia y Seguridad, aprobado
 por Decreto 14/2021, de 18 de marzo, esta Dirección General,
 RESUELVE :
-Primero.- Rectificar el error material advertido en la Resolución de esta Dirección 
-General de 29 de septiembre de 2022, por la que se hace pública la relación de personas 
-aspirantes seleccionadas en las pruebas selectivas para ingresar, por el sistema general de 
-acceso libre, en el Cuerpo Auxiliar (Grupo C, Subgrupo C2), de la Administración Pública 
-de la Comunidad Autónoma de Canarias, convocadas por Resolución de 11 de abril de 
-2018, y se les ofertan puestos de trabajo, exclusivamente en cuanto al Anexo I, en el que 
+Primero.- Rectificar el error material advertido en la Resolución de esta Dirección
+General de 29 de septiembre de 2022, por la que se hace pública la relación de personas
+aspirantes seleccionadas en las pruebas selectivas para ingresar, por el sistema general de
+acceso libre, en el Cuerpo Auxiliar (Grupo C, Subgrupo C2), de la Administración Pública
+de la Comunidad Autónoma de Canarias, convocadas por Resolución de 11 de abril de
+2018, y se les ofertan puestos de trabajo, exclusivamente en cuanto al Anexo I, en el que
 relacionan las personas aspirantes seleccionadas, quedando como sigue:
 
 ANEXO I
 RELACIÓN DE PERSONAS ASPIRANTES SELECCIONADAS
 Convocatoria de 11 de abril de 2018,
 (BOC nº 75, de 18.4.2018)
-Nº 
+Nº
 ORDEN
-PRIMER 
+PRIMER
 APELLIDO
-SEGUNDO 
-APELLIDO NOMBRE PUNTUACIÓN 
+SEGUNDO
+APELLIDO NOMBRE PUNTUACIÓN
 FINAL
 1 GIL DOMÍNGUEZ MARCELA MARÍA 12,15
 2 MARTÍN JOHNSON ELISA VICTORIA 11,75
@@ -138,12 +139,12 @@ FINAL
 36 RODRÍGUEZ GONZÁLEZ JAVIER ISIDRO 10,04
 37 MESA ORTIZ SANDRA 10,03
 
-Nº 
+Nº
 ORDEN
-PRIMER 
+PRIMER
 APELLIDO
-SEGUNDO 
-APELLIDO NOMBRE PUNTUACIÓN 
+SEGUNDO
+APELLIDO NOMBRE PUNTUACIÓN
 FINAL
 38 MONZÓN MEDINA ULISES 10,01
 39 DOMÍNGUEZ SANTANA NATALIA ESTHER 10,01
@@ -157,7 +158,7 @@ FINAL
 47 NAVARRO PORTILLA MARÍA JOSÉ 8,03
 48 HERNÁNDEZ HERNÁNDEZ BEATRIZ 7,81
 Segundo.- La presente Resolución se publicará en el Boletín Oficial de Canarias.
-Santa Cruz de Tenerife, a 13 de octubre de 2022.- La Directora General de la Función 
+Santa Cruz de Tenerife, a 13 de octubre de 2022.- La Directora General de la Función
 Pública, Montserrat García Santana.
 
 ---
@@ -175,4 +176,3 @@ Pública, Montserrat García Santana.
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-

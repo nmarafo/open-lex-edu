@@ -2891,4 +2891,3 @@ Esta ley se dicta de acuerdo con lo establecido en el artículo 149.1.7.ª de la
 - [**BOE-A-2002-12018**](../03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md)
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
-

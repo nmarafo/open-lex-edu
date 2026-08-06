@@ -67,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1993-23257
 - norma_id: norm-es-2022-16194
 ---
+
 # Real Decreto 286/2023, de 18 de abril, por el que se regula la asignación de materias en Educación Secundaria Obligatoria y en Bachillerato a las especialidades de distintos cuerpos de funcionarios docentes, y se modifican diversas normas relativas al profesorado de enseñanzas no universitarias.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.
@@ -600,4 +601,3 @@ Cultura Audiovisual.
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-1993-23257**](./RD850_1993_aprueban_temarios_han_regir_procedimientos_ingreso.md)
 - [**BOE-A-2022-16194**](./RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
-

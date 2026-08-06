@@ -52,214 +52,215 @@ fundamentos_derecho:
 - norma_id: norm-can-res-boc-2025-118-46
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-250-4323.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 26 de noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial,por la que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027 (BOC n.º 250, de 18 de diciembre)
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-4323 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 26 de noviembre de 2025, por la que se dictan instrucciones para 
-la implantación y desarrollo de la oferta de dobles titulaciones de formación 
-profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso 
+4323 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+Resolución de 26 de noviembre de 2025, por la que se dictan instrucciones para
+la implantación y desarrollo de la oferta de dobles titulaciones de formación
+profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso
 escolar 2026/2027.
-La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación 
-Profesional, en el artículo 42.2 dispone que podrán realizarse ofertas de dobles titulaciones del 
-Catálogo Nacional de Ofertas de Formación Profesional, siempre que se respete la duración, 
+La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
+Profesional, en el artículo 42.2 dispone que podrán realizarse ofertas de dobles titulaciones del
+Catálogo Nacional de Ofertas de Formación Profesional, siempre que se respete la duración,
 los módulos profesionales y el porcentaje de optatividad de cada uno de los ciclos formativos.
-Asimismo, el artículo 84 del [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
-desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad 
-de que las administraciones competentes, de oficio o previa solicitud de los centros del 
-Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo 
-Nacional de Ofertas de Formación Profesional, bajo la denominación de “Doble titulación 
+Asimismo, el artículo 84 del [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
+desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad
+de que las administraciones competentes, de oficio o previa solicitud de los centros del
+Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo
+Nacional de Ofertas de Formación Profesional, bajo la denominación de “Doble titulación
 de formación profesional”.
-Visto el expediente tramitado en la Dirección General de Formación Profesional y 
-Enseñanzas de Régimen Especial relativo a la necesidad de dictar instrucciones para la 
-organización de la oferta de dobles títulos de ciclos formativos de formación profesional 
-en centros educativos de la Comunidad Autónoma de Canarias, y teniendo en cuenta los 
+Visto el expediente tramitado en la Dirección General de Formación Profesional y
+Enseñanzas de Régimen Especial relativo a la necesidad de dictar instrucciones para la
+organización de la oferta de dobles títulos de ciclos formativos de formación profesional
+en centros educativos de la Comunidad Autónoma de Canarias, y teniendo en cuenta los
 siguientes
 ANTECEDENTES DE HECHO
-Primero.- El Sistema de Formación Profesional se constituye bajo el amparo de los 
-principios generales de la mejora de la flexibilidad y permeabilidad entre enseñanzas con la 
-finalidad de adquirir las competencias necesarias que garanticen la efectiva empleabilidad 
-del alumnado a través de su cualificación y recualificación con arreglo a itinerarios 
+Primero.- El Sistema de Formación Profesional se constituye bajo el amparo de los
+principios generales de la mejora de la flexibilidad y permeabilidad entre enseñanzas con la
+finalidad de adquirir las competencias necesarias que garanticen la efectiva empleabilidad
+del alumnado a través de su cualificación y recualificación con arreglo a itinerarios
 diversificados.
-Segundo.- En el marco del desarrollo y optimización de la Formación Profesional en 
-la Comunidad Autónoma de Canarias, la Dirección General de Formación Profesional y 
-Enseñanzas de Régimen Especial impulsa la creación de itinerarios formativos que integren 
-dos ciclos formativos de grado medio o grado superior relacionados entre sí. Este modelo 
-de doble titulación, concebido para ser cursado en tres cursos académicos, persigue ofrecer 
-una formación más completa, flexible y alineada con las necesidades del mercado laboral 
-canario, favoreciendo la adquisición de competencias versátiles que permitan una mejor 
+Segundo.- En el marco del desarrollo y optimización de la Formación Profesional en
+la Comunidad Autónoma de Canarias, la Dirección General de Formación Profesional y
+Enseñanzas de Régimen Especial impulsa la creación de itinerarios formativos que integren
+dos ciclos formativos de grado medio o grado superior relacionados entre sí. Este modelo
+de doble titulación, concebido para ser cursado en tres cursos académicos, persigue ofrecer
+una formación más completa, flexible y alineada con las necesidades del mercado laboral
+canario, favoreciendo la adquisición de competencias versátiles que permitan una mejor
 adaptación a la demanda del sector productivo.
 FUNDAMENTOS DE DERECHO
-Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma 
-del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma 
-de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la 
+Primero.- El artículo 133.3 de la [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma
+del Estatuto de Autonomía de Canarias, indica que le corresponde a la Comunidad Autónoma
+de Canarias la competencia de desarrollo legislativo y de ejecución, entre otras, de la
 
-ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento 
+ordenación de las enseñanza y la actividad docente y educativa, así como el establecimiento
 de los correspondientes planes de estudio, incluida la ordenación curricular.
-Segundo.- El artículo 22.4.d) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el 
-que se desarrolla la ordenación del Sistema de Formación Profesional, indica que las 
-administraciones, en el marco de la programación de su oferta según los Grados, podrán 
-establecer dobles titulaciones de Grado D, que incluyan en una única secuencia formativa 
-dos ciclos formativos, ambos de grado medio o de grado superior. En estos casos, deberán 
-respetarse los módulos profesionales de ambos ciclos formativos y la duración de cada uno 
-de ellos, de acuerdo con el currículo establecido a nivel autonómico. La optatividad en estos 
-itinerarios, así como los módulos asociados a las habilidades y capacidades transversales 
+Segundo.- El artículo 22.4.d) del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el
+que se desarrolla la ordenación del Sistema de Formación Profesional, indica que las
+administraciones, en el marco de la programación de su oferta según los Grados, podrán
+establecer dobles titulaciones de Grado D, que incluyan en una única secuencia formativa
+dos ciclos formativos, ambos de grado medio o de grado superior. En estos casos, deberán
+respetarse los módulos profesionales de ambos ciclos formativos y la duración de cada uno
+de ellos, de acuerdo con el currículo establecido a nivel autonómico. La optatividad en estos
+itinerarios, así como los módulos asociados a las habilidades y capacidades transversales
 serán los prescriptivos para una única oferta.
-Tercero.- El artículo 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
+Tercero.- El artículo 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
 desarrolla la ordenación del Sistema de Formación Profesional, indica lo siguiente:
-1. Las administraciones competentes podrán, de oficio o previa solicitud de los centros 
-del Sistema de Formación Profesional, desarrollar o autorizar ofertas de Grado D que 
-integren dos titulaciones del mismo nivel del Catálogo Nacional de Ofertas de Formación 
-Profesional, bajo la denominación de “Doble titulación de formación profesional”. En este 
-caso, las administraciones competentes diseñarán el currículo resultante de dicha integración, 
+1. Las administraciones competentes podrán, de oficio o previa solicitud de los centros
+del Sistema de Formación Profesional, desarrollar o autorizar ofertas de Grado D que
+integren dos titulaciones del mismo nivel del Catálogo Nacional de Ofertas de Formación
+Profesional, bajo la denominación de “Doble titulación de formación profesional”. En este
+caso, las administraciones competentes diseñarán el currículo resultante de dicha integración,
 que podrá tener una duración de tres cursos académicos, manteniendo, en todo caso:
 a) La parte troncal obligatoria de los dos ciclos formativos integrada por:
-1.º) La totalidad de los módulos profesionales de ambos ciclos formativos del Catálogo 
-Modular de Formación Profesional asociados a los estándares de competencia profesional, 
-respetando la duración de los módulos profesionales en los currículos de la propia 
+1.º) La totalidad de los módulos profesionales de ambos ciclos formativos del Catálogo
+Modular de Formación Profesional asociados a los estándares de competencia profesional,
+respetando la duración de los módulos profesionales en los currículos de la propia
 comunidad autónoma.
-2.º) Los módulos asociados a las habilidades y capacidades transversales, a la orientación 
-laboral y el emprendimiento pertinentes para el conocimiento de los sectores productivos y 
+2.º) Los módulos asociados a las habilidades y capacidades transversales, a la orientación
+laboral y el emprendimiento pertinentes para el conocimiento de los sectores productivos y
 para la madurez profesional que incluirán los siguientes:
 Itinerario personal para la empleabilidad I y II.
 Digitalización aplicada al sistema productivo.
 Sostenibilidad aplicada al sistema productivo.
 Inglés profesional.
 3.º) Un Proyecto intermodular, que podrá adaptarse a la combinación de la formación.
-b) La parte de optatividad equivalente a la de un ciclo formativo, compuesta de, al 
+b) La parte de optatividad equivalente a la de un ciclo formativo, compuesta de, al
 menos, un módulo optativo de duración anual o dos módulos cuatrimestrales.
-2. Asimismo, las administraciones competentes podrán, de oficio o previa solicitud de 
-los centros, realizar ofertas de Grado D que integren los currículos español y de un segundo 
+2. Asimismo, las administraciones competentes podrán, de oficio o previa solicitud de
+los centros, realizar ofertas de Grado D que integren los currículos español y de un segundo
 
-país, bajo la denominación “Doble titulación internacional de formación profesional”, una 
-vez que esté reconocida a nivel estatal por los gobiernos concernidos. En este caso, el 
-currículo a impartir responderá al de carácter básico definido por ambos países para este 
+país, bajo la denominación “Doble titulación internacional de formación profesional”, una
+vez que esté reconocida a nivel estatal por los gobiernos concernidos. En este caso, el
+currículo a impartir responderá al de carácter básico definido por ambos países para este
 tipo de oferta.
-Cuarto.- Los Reales Decretos 499/2024 y 500/2024, de 21 de mayo, establecen los 
-cambios de ordenación necesarios en los ciclos formativos de grado medio y superior, 
-para permitir su oferta en el marco de la nueva estructura establecida por el Real Decreto 
-659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación 
+Cuarto.- Los Reales Decretos 499/2024 y 500/2024, de 21 de mayo, establecen los
+cambios de ordenación necesarios en los ciclos formativos de grado medio y superior,
+para permitir su oferta en el marco de la nueva estructura establecida por el Real Decreto
+659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación
 Profesional.
-Quinto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas 
-de Régimen Especial, de 30 de octubre de 2024, por la que se dictan instrucciones 
-y orientaciones para la implantación y desarrollo de los grados de formación D y E, a 
-partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los 
+Quinto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas
+de Régimen Especial, de 30 de octubre de 2024, por la que se dictan instrucciones
+y orientaciones para la implantación y desarrollo de los grados de formación D y E, a
+partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los
 currículos, en el ámbito de la Comunidad Autónoma de Canarias.
-Sexto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas 
-de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan instrucciones y 
-orientaciones para la formación dual en empresas u organismos equiparados en los 
-Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y 
-Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y 
-3), en aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los centros docentes no 
+Sexto.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas
+de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan instrucciones y
+orientaciones para la formación dual en empresas u organismos equiparados en los
+Certificados Profesionales (Grado C), los Ciclos Formativos de Grado Básico, Medio y
+Superior (Grados D, niveles 1, 2 y 3) y Cursos de Especialización (Grado E, niveles 2 y
+3), en aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, en los centros docentes no
 universitarios de la Comunidad Autónoma de Canarias.
-Séptimo.- La Resolución de la Dirección General de Formación Profesional y 
-Enseñanzas de Régimen Especial, de 9 de junio de 2025, por la que se dictan instrucciones 
-respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de 
-Especialización (Grado E) del sistema de formación profesional que se imparten en la 
+Séptimo.- La Resolución de la Dirección General de Formación Profesional y
+Enseñanzas de Régimen Especial, de 9 de junio de 2025, por la que se dictan instrucciones
+respecto al proceso de evaluación en los Ciclos Formativos (Grados C y D) y Cursos de
+Especialización (Grado E) del sistema de formación profesional que se imparten en la
 Comunidad Autónoma de Canarias a partir del curso escolar 2024/2025.
-Octavo.- La Resolución de la Dirección General de Formación Profesional y 
-Enseñanzas de Régimen Especial, de 18 de julio de 2025, por la que se dictan instrucciones 
-para la implantación y desarrollo del Proyecto intermodular en los Grados de Formación 
-D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos 
+Octavo.- La Resolución de la Dirección General de Formación Profesional y
+Enseñanzas de Régimen Especial, de 18 de julio de 2025, por la que se dictan instrucciones
+para la implantación y desarrollo del Proyecto intermodular en los Grados de Formación
+D, ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos
 de grado superior, a partir del curso escolar 2025/2026.
-Noveno.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas 
-de Régimen Especial, de 19 de noviembre de 2025, por la que se dictan instrucciones para 
-la organización de la formación en empresa u organismo equiparado en régimen intensivo 
-en los Certificados Profesionales (Grados C, niveles 2 y 3), Ciclos Formativos de Grado 
-Medio y Superior (Grados D, niveles 2 y 3) y Cursos de Especialización (Grados E, niveles 
-2 y 3), que se impartan en la ámbito de Comunidad Autónoma de Canarias a partir del curso 
+Noveno.- La Resolución de la Dirección General de Formación Profesional y Enseñanzas
+de Régimen Especial, de 19 de noviembre de 2025, por la que se dictan instrucciones para
+la organización de la formación en empresa u organismo equiparado en régimen intensivo
+en los Certificados Profesionales (Grados C, niveles 2 y 3), Ciclos Formativos de Grado
+Medio y Superior (Grados D, niveles 2 y 3) y Cursos de Especialización (Grados E, niveles
+2 y 3), que se impartan en la ámbito de Comunidad Autónoma de Canarias a partir del curso
 escolar 2025/2026.
-Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del 
-Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan 
-competencias generales y específicas a la Dirección General de Formación Profesional y 
+Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del
+Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad
+Física y Deportes, aprobado mediante [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan
+competencias generales y específicas a la Dirección General de Formación Profesional y
 Enseñanzas de Régimen Especial,
 
 RESUELVO :
-Primero.- Dictar instrucciones específicas para la implantación y desarrollo de ofertas 
-formativas de Grado D que integran dobles titulaciones, a partir del curso escolar 2026/2027, 
-en los términos que figuran en el Anexo I de la presente Resolución, y el establecimiento 
-de la distribución horaria y modular de los correspondientes currículos, en el ámbito de 
-gestión de la Comunidad Autónoma de Canarias, conforme a lo dispuesto en los Anexos 
+Primero.- Dictar instrucciones específicas para la implantación y desarrollo de ofertas
+formativas de Grado D que integran dobles titulaciones, a partir del curso escolar 2026/2027,
+en los términos que figuran en el Anexo I de la presente Resolución, y el establecimiento
+de la distribución horaria y modular de los correspondientes currículos, en el ámbito de
+gestión de la Comunidad Autónoma de Canarias, conforme a lo dispuesto en los Anexos
 II y III.
-Segundo.- La Dirección General de Formación Profesional y Enseñanzas de Régimen 
-Especial podrá dictar, en el ámbito de sus competencias, cuantas circulares estime oportuno 
+Segundo.- La Dirección General de Formación Profesional y Enseñanzas de Régimen
+Especial podrá dictar, en el ámbito de sus competencias, cuantas circulares estime oportuno
 para la implementación y desarrollo de esta Resolución.
-Tercero.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos 
-aspectos específicos que le soliciten los equipos directivos de los centros docentes y la 
+Tercero.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos
+aspectos específicos que le soliciten los equipos directivos de los centros docentes y la
 supervisión del cumplimiento de esta Resolución.
-Cuarto.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
-Canarias y en la web de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes para su general conocimiento. Se encomienda a los equipos directivos de 
-los centros docentes que desarrollen el procedimiento más adecuado para que la presente 
+Cuarto.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de
+Canarias y en la web de la Consejería de Educación, Formación Profesional, Actividad
+Física y Deportes para su general conocimiento. Se encomienda a los equipos directivos de
+los centros docentes que desarrollen el procedimiento más adecuado para que la presente
 Resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa.
-Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer recurso 
-de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, 
-en el plazo de un (1) mes, a contar desde día siguiente al de su publicación en el Boletín 
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer recurso
+de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales,
+en el plazo de un (1) mes, a contar desde día siguiente al de su publicación en el Boletín
 Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente interponer.
-Las Palmas de Gran Canaria, a 26 de noviembre de 2025.- La Directora General de 
+Las Palmas de Gran Canaria, a 26 de noviembre de 2025.- La Directora General de
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ANEXO I
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LA OFERTA DE 
-DOBLES TITULACIONES DE FORMACIÓN PROFESIONAL DE CICLOS FORMATIVOS 
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LA OFERTA DE
+DOBLES TITULACIONES DE FORMACIÓN PROFESIONAL DE CICLOS FORMATIVOS
 DE GRADO MEDIO Y SUPERIOR (GRADOS D), A PARTIR DEL CURSO 2026/2027.
 Primera.- Objeto y ámbito de aplicación.
-1. Las presentes instrucciones tienen por objeto regular la implantación y el desarrollo 
-de la oferta de “Doble titulación de formación profesional”, de conformidad con lo previsto 
-en los artículos 22 y 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se establece 
+1. Las presentes instrucciones tienen por objeto regular la implantación y el desarrollo
+de la oferta de “Doble titulación de formación profesional”, de conformidad con lo previsto
+en los artículos 22 y 84 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se establece
 la ordenación del Sistema de Formación Profesional.
-2. La oferta de doble titulación de Grado D integra dos titulaciones del mismo nivel del 
-Catálogo Nacional de Ofertas de Formación Profesional bajo la denominación de “Doble 
+2. La oferta de doble titulación de Grado D integra dos titulaciones del mismo nivel del
+Catálogo Nacional de Ofertas de Formación Profesional bajo la denominación de “Doble
 titulación de formación profesional”.
-3. Quedan incluidos dentro del ámbito de aplicación de esta Resolución los centros 
-educativos del Sistema de Formación Profesional que impartan las citadas enseñanzas en 
+3. Quedan incluidos dentro del ámbito de aplicación de esta Resolución los centros
+educativos del Sistema de Formación Profesional que impartan las citadas enseñanzas en
 la Comunidad Autónoma de Canarias.
 Segunda.- Aspectos organizativos generales.
-A partir del curso escolar 2026/2027, la oferta de doble titulación de formación 
-profesional en la Comunidad Autónoma de Canarias podrá estructurarse de dos formas 
+A partir del curso escolar 2026/2027, la oferta de doble titulación de formación
+profesional en la Comunidad Autónoma de Canarias podrá estructurarse de dos formas
 distintas, atendiendo a la organización del itinerario formativo:
 a) Doble titulación que se cursa en una única secuencia formativa.
-En este tipo de oferta, el itinerario formativo se desarrollará en una única secuencia 
-que integra dos ciclos formativos, ambos de grado medio o de grado superior. El alumnado 
-obtendrá la “Doble titulación de formación profesional” tras cursar los tres cursos académicos 
-previstos, superar la totalidad de los módulos profesionales que lo integran y completar el 
-correspondiente periodo de formación en empresa u organismo equiparado (en adelante, 
+En este tipo de oferta, el itinerario formativo se desarrollará en una única secuencia
+que integra dos ciclos formativos, ambos de grado medio o de grado superior. El alumnado
+obtendrá la “Doble titulación de formación profesional” tras cursar los tres cursos académicos
+previstos, superar la totalidad de los módulos profesionales que lo integran y completar el
+correspondiente periodo de formación en empresa u organismo equiparado (en adelante,
 FEOE).
-En esta organización, deberán respetarse los módulos profesionales de ambos ciclos 
-formativos y la duración de cada uno de ellos, de acuerdo con los currículos vigentes en 
-la Comunidad Autónoma de Canarias. El módulo optativo en este itinerario, así como los 
-módulos asociados a las habilidades y capacidades transversales serán los prescriptivos 
+En esta organización, deberán respetarse los módulos profesionales de ambos ciclos
+formativos y la duración de cada uno de ellos, de acuerdo con los currículos vigentes en
+la Comunidad Autónoma de Canarias. El módulo optativo en este itinerario, así como los
+módulos asociados a las habilidades y capacidades transversales serán los prescriptivos
 para una única oferta.
-Las presentes instrucciones tienen por objeto concretar los aspectos específicos aplicables 
-a la organización y desarrollo de este nuevo formato de doble titulación, así como determinar 
-las condiciones necesarias para su implantación, seguimiento y evaluación en los centros 
+Las presentes instrucciones tienen por objeto concretar los aspectos específicos aplicables
+a la organización y desarrollo de este nuevo formato de doble titulación, así como determinar
+las condiciones necesarias para su implantación, seguimiento y evaluación en los centros
 docentes de esta Comunidad Autónoma.
 b) Doble titulación que se cursa en dos secuencias formativas.
-En este tipo de oferta, el itinerario formativo se articulará en dos secuencias sucesivas. En 
-la primera, el alumnado cursará un ciclo formativo completo y obtendrá la correspondiente 
+En este tipo de oferta, el itinerario formativo se articulará en dos secuencias sucesivas. En
+la primera, el alumnado cursará un ciclo formativo completo y obtendrá la correspondiente
 
-titulación de Técnico o de Técnico Superior. Una vez finalizada, se incorporará al segundo 
+titulación de Técnico o de Técnico Superior. Una vez finalizada, se incorporará al segundo
 ciclo, completando la formación y obteniendo la segunda titulación del mismo nivel.
-La configuración de esta oferta se ajusta a lo dispuesto en la Resolución de 2 de mayo 
-de 2025, por la que se dictan instrucciones para la organización de la oferta de dobles 
-titulaciones de Formación Profesional (Grados D) de ciclos formativos con primer curso 
-común, en el ámbito de la Comunidad Autónoma de Canarias, con efectos a partir del curso 
+La configuración de esta oferta se ajusta a lo dispuesto en la Resolución de 2 de mayo
+de 2025, por la que se dictan instrucciones para la organización de la oferta de dobles
+titulaciones de Formación Profesional (Grados D) de ciclos formativos con primer curso
+común, en el ámbito de la Comunidad Autónoma de Canarias, con efectos a partir del curso
 académico 2025/2026.
 Tercera.- Currículos.
-Las dobles titulaciones de formación profesional incluidas en la presente Resolución 
-tendrán una duración de tres cursos académicos, de acuerdo con la secuenciación, 
-temporalización y distribución horaria que figuran en los Anexos II y III, sin que sea posible 
+Las dobles titulaciones de formación profesional incluidas en la presente Resolución
+tendrán una duración de tres cursos académicos, de acuerdo con la secuenciación,
+temporalización y distribución horaria que figuran en los Anexos II y III, sin que sea posible
 su modificación.
 Cuarta.- Evaluación.
-1. La evaluación se ajustará a lo previsto en el Anexo II de la Resolución de 9 de junio 
-de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos 
-Formativos (Grados D) y Cursos de Especialización (Grado E) en la Comunidad Autónoma 
+1. La evaluación se ajustará a lo previsto en el Anexo II de la Resolución de 9 de junio
+de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en los Ciclos
+Formativos (Grados D) y Cursos de Especialización (Grado E) en la Comunidad Autónoma
 de Canarias, con las siguientes particularidades.
-2. Para los ciclos formativos de grado medio y superior de doble titulación, se realizarán, 
+2. Para los ciclos formativos de grado medio y superior de doble titulación, se realizarán,
 al menos, las siguientes sesiones de evaluación:
 2.1. Sesiones de evaluación de primer curso (
 LOOIFP):
@@ -278,320 +279,320 @@ c) Una sesión de evaluación final de ciclo.
 d) Sesión de evaluación final de ciclo extraordinaria.
 
 3. Sesiones de evaluación de primer curso.
-Se realizará conforme a lo establecido en los apartados 1.3 y 2 de la instrucción tercera 
+Se realizará conforme a lo establecido en los apartados 1.3 y 2 de la instrucción tercera
 del Anexo II de la [Resolución de 9 de junio de 2025](R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), anteriormente citada.
 4. Sesiones de evaluación de segundo curso.
 a) Sesión de evaluación inicial.
-Al comienzo del curso académico, el equipo docente realizará una sesión de evaluación 
-inicial en la que la tutora o el tutor informará al equipo docente sobre la composición del 
-grupo y de todas aquellas circunstancias específicas académicas, personales y sociales que 
+Al comienzo del curso académico, el equipo docente realizará una sesión de evaluación
+inicial en la que la tutora o el tutor informará al equipo docente sobre la composición del
+grupo y de todas aquellas circunstancias específicas académicas, personales y sociales que
 incidan en el proceso de aprendizaje del alumnado.
 La evaluación inicial en ningún caso conllevará calificación para el alumnado.
 b) Sesiones de evaluación parciales.
-Cada trimestre lectivo se realizará una sesión de evaluación parcial. En esta sesión se 
-calificarán los diferentes módulos profesionales y se evaluará el progreso del alumnado en 
-la consecución de los objetivos generales, los resultados de aprendizaje y las competencias 
+Cada trimestre lectivo se realizará una sesión de evaluación parcial. En esta sesión se
+calificarán los diferentes módulos profesionales y se evaluará el progreso del alumnado en
+la consecución de los objetivos generales, los resultados de aprendizaje y las competencias
 profesionales y para la empleabilidad.
-Para la calificación de los módulos, el profesorado se servirá de los instrumentos de 
+Para la calificación de los módulos, el profesorado se servirá de los instrumentos de
 evaluación y criterios de calificación previstos en las programaciones didácticas.
-Además, se realizará el seguimiento de los acuerdos alcanzados y las acciones de 
-mejora educativa, sin perjuicio de otros aspectos relevantes a considerar por el equipo 
+Además, se realizará el seguimiento de los acuerdos alcanzados y las acciones de
+mejora educativa, sin perjuicio de otros aspectos relevantes a considerar por el equipo
 educativo y la dirección del centro.
-En cada sesión de evaluación parcial se cumplimentará acta donde se hará constar las 
+En cada sesión de evaluación parcial se cumplimentará acta donde se hará constar las
 calificaciones parciales del alumnado en cada módulo.
-Una vez finalizada la sesión de evaluación parcial, el profesorado encargado de la 
-tutoría, y en su caso cada docente, informará al alumnado de su rendimiento y medidas 
-de refuerzo a tomar. En caso de menores de edad, se informará a sus padres, madres o 
+Una vez finalizada la sesión de evaluación parcial, el profesorado encargado de la
+tutoría, y en su caso cada docente, informará al alumnado de su rendimiento y medidas
+de refuerzo a tomar. En caso de menores de edad, se informará a sus padres, madres o
 representantes legales.
 c) Sesión de evaluación final de segundo curso.
-Se celebrará durante el tercer trimestre, en la fecha que indique la resolución por la 
-que se establece el calendario escolar de cada curso. En ella se evaluarán y calificarán los 
-módulos profesionales y proyecto intermodular de segundo curso finalizados, así como, en 
-su caso, los módulos profesionales pendientes de superar de primer curso. En esta sesión 
+Se celebrará durante el tercer trimestre, en la fecha que indique la resolución por la
+que se establece el calendario escolar de cada curso. En ella se evaluarán y calificarán los
+módulos profesionales y proyecto intermodular de segundo curso finalizados, así como, en
+su caso, los módulos profesionales pendientes de superar de primer curso. En esta sesión
 se tomará la decisión sobre:
 • El alumnado que promociona al tercer curso con todos los módulos superados.
-• El alumnado que promociona al tercer curso con módulos profesionales o 
-FEOE 
+• El alumnado que promociona al tercer curso con módulos profesionales o
+FEOE
 pendientes de superar.
 • El alumnado que repite curso.
 
-En el supuesto de que se promocione al siguiente curso con módulos profesionales o 
-FEOE pendientes de superar, el alumnado recibirá un informe de actividades de recuperación 
+En el supuesto de que se promocione al siguiente curso con módulos profesionales o
+FEOE pendientes de superar, el alumnado recibirá un informe de actividades de recuperación
 individualizado de cada uno de los módulos no superados.
 5. Sesiones de evaluación de tercer curso.
 a) Sesión de evaluación inicial.
-Al comienzo de las actividades del curso se llevará a cabo una sesión de evaluación 
-inicial, en los mismos términos indicados para la evaluación inicial de primer y segundo 
+Al comienzo de las actividades del curso se llevará a cabo una sesión de evaluación
+inicial, en los mismos términos indicados para la evaluación inicial de primer y segundo
 curso.
 b) Sesiones de evaluación parcial.
-Se llevarán a cabo dos sesiones de evaluación parciales, una al término del primer 
-trimestre y otra al término del segundo, en los mismos términos indicados para las 
+Se llevarán a cabo dos sesiones de evaluación parciales, una al término del primer
+trimestre y otra al término del segundo, en los mismos términos indicados para las
 evaluaciones parciales de primer y segundo curso.
 c) Sesión de evaluación final de ciclo.
-Se celebrará durante el tercer trimestre, en la fecha que indique la resolución por la 
-que se establece el calendario escolar de cada curso. En ella se evaluarán y calificarán los 
-módulos profesionales y proyecto intermodular del tercer curso finalizados, así como, en su 
-caso, los módulos profesionales pendientes de superar de primer y segundo curso. En esta 
+Se celebrará durante el tercer trimestre, en la fecha que indique la resolución por la
+que se establece el calendario escolar de cada curso. En ella se evaluarán y calificarán los
+módulos profesionales y proyecto intermodular del tercer curso finalizados, así como, en su
+caso, los módulos profesionales pendientes de superar de primer y segundo curso. En esta
 sesión se tomará la decisión sobre:
 • Alumnado que supera todos los módulos y, por tanto, titula.
-• Si procede, acuerdo del equipo educativo para la propuesta de matrícula de honor, 
-conforme a lo establecido en el artículo 11 de la Orden de evaluación 20 de octubre de 
-2000, y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por 
-la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional 
+• Si procede, acuerdo del equipo educativo para la propuesta de matrícula de honor,
+conforme a lo establecido en el artículo 11 de la Orden de evaluación 20 de octubre de
+2000, y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por
+la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional
 Específica en el ámbito de la Comunidad Autónoma de Canarias.
 • Alumnado que repite curso.
-• Alumnado que solo tiene pendiente de superar la 
-FEOE, que tendrá derecho a una 
+• Alumnado que solo tiene pendiente de superar la
+FEOE, que tendrá derecho a una
 evaluación final de ciclo extraordinaria en el siguiente curso escolar.
-• Alumnado que ha agotado el número de repeticiones posibles y no puede continuar 
+• Alumnado que ha agotado el número de repeticiones posibles y no puede continuar
 estudiando el ciclo formativo.
 d) Sesión de evaluación final de ciclo extraordinaria.
-Aquel alumnado que solo tenga pendiente de superar la 
-FEOE podrá realizarla en un 
-periodo excepcional al comienzo del siguiente curso escolar. Se realizará una sesión de 
+Aquel alumnado que solo tenga pendiente de superar la
+FEOE podrá realizarla en un
+periodo excepcional al comienzo del siguiente curso escolar. Se realizará una sesión de
 evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
 Quinta.- Promoción de curso.
-1. El alumnado de primer curso, de un grado medio o superior, promocionará a segundo 
-curso, conforme a lo establecido en la instrucción cuarta del Anexo II de la Resolución de 
+1. El alumnado de primer curso, de un grado medio o superior, promocionará a segundo
+curso, conforme a lo establecido en la instrucción cuarta del Anexo II de la Resolución de
 
-9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en 
-los Ciclos Formativos (Grados D) y Cursos de Especialización (Grado E) en la Comunidad 
+9 de junio de 2025, por la que se dictan instrucciones respecto al proceso de evaluación en
+los Ciclos Formativos (Grados D) y Cursos de Especialización (Grado E) en la Comunidad
 Autónoma de Canarias.
-2. El alumnado de segundo curso, de un grado medio o superior, promocionará al tercer 
+2. El alumnado de segundo curso, de un grado medio o superior, promocionará al tercer
 curso en los siguientes casos:
 • Alumnado que haya superado todos los módulos profesionales.
-• Alumnado que tenga uno o varios módulos profesionales pendientes, siempre y cuando 
+• Alumnado que tenga uno o varios módulos profesionales pendientes, siempre y cuando
 no supongan en su conjunto más del 20% de la carga horaria del primer y segundo curso.
-• Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de 
+• Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de
 uno o dos módulos, aun cuando exceda el 20% establecido en el apartado anterior.
-3. Exclusivamente a efectos de la promoción regulada en esta instrucción, se equipararán 
-a módulos superados aquellos en los que se hayan alcanzado los resultados de aprendizaje 
-correspondientes al centro educativo, quedando únicamente pendiente la 
-FEOE, sin perjuicio 
-de la obligación de superar ambas para la superación de los módulos y obtención de la 
+3. Exclusivamente a efectos de la promoción regulada en esta instrucción, se equipararán
+a módulos superados aquellos en los que se hayan alcanzado los resultados de aprendizaje
+correspondientes al centro educativo, quedando únicamente pendiente la
+FEOE, sin perjuicio
+de la obligación de superar ambas para la superación de los módulos y obtención de la
 titulación.
-4. En todo caso, el alumnado que promocione de curso con módulos o formación en la 
-empresa pendientes de realizar, recibirá el informe de actividades de recuperación, donde 
-se informará de los resultados de aprendizaje no alcanzados, horas de 
-FEOE realizadas 
-y pendientes, actividades programadas para su recuperación, así como del periodo de su 
-realización, temporalización y fecha aproximada en que será evaluado. El alumnado que 
-no haya superado total o parcialmente la 
-FEOE, deberá realizarla o completarla en otro 
+4. En todo caso, el alumnado que promocione de curso con módulos o formación en la
+empresa pendientes de realizar, recibirá el informe de actividades de recuperación, donde
+se informará de los resultados de aprendizaje no alcanzados, horas de
+FEOE realizadas
+y pendientes, actividades programadas para su recuperación, así como del periodo de su
+realización, temporalización y fecha aproximada en que será evaluado. El alumnado que
+no haya superado total o parcialmente la
+FEOE, deberá realizarla o completarla en otro
 periodo.
-5. Cuando el alumnado no promocione deberá repetir los módulos profesionales no 
-superados, para lo cual formalizará la matrícula ordinaria de primer y/o segundo curso y se 
+5. Cuando el alumnado no promocione deberá repetir los módulos profesionales no
+superados, para lo cual formalizará la matrícula ordinaria de primer y/o segundo curso y se
 incorporará al grupo correspondiente.
 Sexta.- Acceso a la formación en la empresa u organismo equiparado.
-Se llevará a cabo según lo establecido en la instrucción quinta del Anexo II de la 
-[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
-evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
-E) del Sistema de Formación Profesional que se imparten en la Comunidad Autónoma de 
+Se llevará a cabo según lo establecido en la instrucción quinta del Anexo II de la
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de
+evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
+E) del Sistema de Formación Profesional que se imparten en la Comunidad Autónoma de
 Canarias a partir del curso escolar 2024/2025.
 Séptima.- Organización de la formación en empresa u organismo equiparado.
-1. Los centros que oferten ciclos de doble titulación en una única secuencia formativa 
-podrán organizar la formación en empresa u organismo equiparado, en régimen general 
-o régimen intensivo, teniendo en cuenta los aspectos específicos que se detallan en las 
+1. Los centros que oferten ciclos de doble titulación en una única secuencia formativa
+podrán organizar la formación en empresa u organismo equiparado, en régimen general
+o régimen intensivo, teniendo en cuenta los aspectos específicos que se detallan en las
 siguientes instrucciones.
-2. En el régimen general, la formación en empresa u organismo equiparado se concretará 
+2. En el régimen general, la formación en empresa u organismo equiparado se concretará
 del siguiente modo:
 
-2.1. Será de aplicación lo establecido en el Anexo I de la Resolución de 5 de noviembre 
-de 2024, por la que se dictan instrucciones y orientaciones para la formación dual en 
-empresas u organismos equiparados, en particular lo dispuesto en la instrucción quinta del 
+2.1. Será de aplicación lo establecido en el Anexo I de la Resolución de 5 de noviembre
+de 2024, por la que se dictan instrucciones y orientaciones para la formación dual en
+empresas u organismos equiparados, en particular lo dispuesto en la instrucción quinta del
 citado anexo, con las siguientes particularidades.
-2.2. La formación en la empresa u organismo equiparado contemplará entre el 10 y el 
-20% de los resultados de aprendizaje y representará entre el 25 y el 35% de la duración total 
+2.2. La formación en la empresa u organismo equiparado contemplará entre el 10 y el
+20% de los resultados de aprendizaje y representará entre el 25 y el 35% de la duración total
 de la enseñanza, distribuyéndose a lo largo de los tres cursos.
-2.3. En el primer curso, la formación en empresa u organismo equiparado tendrá una 
+2.3. En el primer curso, la formación en empresa u organismo equiparado tendrá una
 duración que podrá oscilar entre un mínimo de 100 y un máximo de 200 horas.
-2.4. En el segundo curso se realizará lo que resta de formación en empresa u organismo 
-equiparado hasta alcanzar las 500 horas, debiendo finalizar antes de la fecha establecida en 
+2.4. En el segundo curso se realizará lo que resta de formación en empresa u organismo
+equiparado hasta alcanzar las 500 horas, debiendo finalizar antes de la fecha establecida en
 el calendario escolar para la celebración de la sesión de evaluación final de segundo curso.
-2.5. En el tercer curso, la formación en empresa u organismo equiparado tendrá una 
-duración entre 280 y 400 horas, debiendo finalizar antes de la fecha establecida para la 
+2.5. En el tercer curso, la formación en empresa u organismo equiparado tendrá una
+duración entre 280 y 400 horas, debiendo finalizar antes de la fecha establecida para la
 celebración de la sesión de evaluación final de ciclo.
-2.6. Con independencia del Ciclo Formativo de Grado D que se curse, la alternancia 
+2.6. Con independencia del Ciclo Formativo de Grado D que se curse, la alternancia
 con el centro educativo será:
-a) En el primer curso, la alternancia semanal será de 1 o 2 días de asistencia al centro 
+a) En el primer curso, la alternancia semanal será de 1 o 2 días de asistencia al centro
 frente a 5, 4 o 3 días de asistencia a la empresa u organismo equiparado (relación empresa/
 centro: 5/1, 4/1 o 3/2, respectivamente).
-b) En el segundo y tercer curso, la alternancia será de 1 o 2 días de asistencia al centro 
-educativo cada 3, 4, 5 o 9 días de asistencia a la empresa u organismo equiparado (relación 
+b) En el segundo y tercer curso, la alternancia será de 1 o 2 días de asistencia al centro
+educativo cada 3, 4, 5 o 9 días de asistencia a la empresa u organismo equiparado (relación
 empresa/centro: 3/2, 4/1, 5/1 o 9/1, respectivamente).
-3. En el régimen intensivo, la formación en empresa u organismo equiparado se 
+3. En el régimen intensivo, la formación en empresa u organismo equiparado se
 organizará conforme a las siguientes disposiciones:
-3.1. Será de aplicación lo establecido en el Anexo I de la Resolución de 19 de noviembre 
-de 2025, por la que se dictan instrucciones para la organización de la 
-FEOE en régimen 
-intensivo, en particular lo dispuesto en la instrucción tercera del citado anexo, con las 
+3.1. Será de aplicación lo establecido en el Anexo I de la Resolución de 19 de noviembre
+de 2025, por la que se dictan instrucciones para la organización de la
+FEOE en régimen
+intensivo, en particular lo dispuesto en la instrucción tercera del citado anexo, con las
 siguientes particularidades.
-3.2. La formación en empresa u organismo equiparado comprenderá, al menos, el 30% 
-de los resultados de aprendizaje y representará entre el 35% y el 50% de la duración total 
+3.2. La formación en empresa u organismo equiparado comprenderá, al menos, el 30%
+de los resultados de aprendizaje y representará entre el 35% y el 50% de la duración total
 del ciclo formativo.
-3.3. Se organizará una modalidad combinada, alternando el régimen general e intensivo 
-a lo largo de los tres cursos académicos en los que se desarrolla la enseñanza, conforme a 
+3.3. Se organizará una modalidad combinada, alternando el régimen general e intensivo
+a lo largo de los tres cursos académicos en los que se desarrolla la enseñanza, conforme a
 los siguientes criterios.
-3.4. En el primer curso, la formación en empresa u organismo equiparado se desarrollará 
-en régimen general y tendrá una duración que podrá oscilar entre un mínimo de 300 y un 
+3.4. En el primer curso, la formación en empresa u organismo equiparado se desarrollará
+en régimen general y tendrá una duración que podrá oscilar entre un mínimo de 300 y un
 
-máximo de 400 horas. La alternancia semanal con el centro educativo será la establecida 
+máximo de 400 horas. La alternancia semanal con el centro educativo será la establecida
 en el apartado 2.6.a) de la presente instrucción.
-3.5. En el segundo curso, la FEOE se desarrollará en régimen intensivo y se realizará lo 
-que resta de formación en empresa u organismo equiparado hasta alcanzar las 750 horas, 
-debiendo finalizar antes de la fecha establecida en el calendario escolar para la celebración 
+3.5. En el segundo curso, la FEOE se desarrollará en régimen intensivo y se realizará lo
+que resta de formación en empresa u organismo equiparado hasta alcanzar las 750 horas,
+debiendo finalizar antes de la fecha establecida en el calendario escolar para la celebración
 de la sesión de evaluación final de segundo curso.
-3.6. En el tercer curso, la 
-FEOE se desarrollará igualmente en régimen intensivo y 
-tendrá una duración comprendida entre 340 y 550 horas, debiendo finalizar antes de la 
+3.6. En el tercer curso, la
+FEOE se desarrollará igualmente en régimen intensivo y
+tendrá una duración comprendida entre 340 y 550 horas, debiendo finalizar antes de la
 fecha establecida para la celebración de la sesión de evaluación final del ciclo formativo.
-3.7. Una vez iniciada la estancia formativa en la empresa u organismo equiparado en 
-el régimen intensivo, la alternancia con el centro educativo deberá ser de 1 o 2 días de 
-asistencia al centro educativo cada 3, 4, 5 o 9 días a la empresa u organismo equiparado 
+3.7. Una vez iniciada la estancia formativa en la empresa u organismo equiparado en
+el régimen intensivo, la alternancia con el centro educativo deberá ser de 1 o 2 días de
+asistencia al centro educativo cada 3, 4, 5 o 9 días a la empresa u organismo equiparado
 (relación empresa/centro: 3/2, 4/1, 5/1 o 9/1, respectivamente).
-Esta alternancia podrá llevarse a cabo de modo que el día semanal de asistencia al 
-centro sea rotativo (p. ej. en la alternancia 4/1, primera semana el lunes, segunda semana 
-el martes, etc.). Como consecuencia, el horario semanal del alumnado y del docente no 
+Esta alternancia podrá llevarse a cabo de modo que el día semanal de asistencia al
+centro sea rotativo (p. ej. en la alternancia 4/1, primera semana el lunes, segunda semana
+el martes, etc.). Como consecuencia, el horario semanal del alumnado y del docente no
 necesitará ser modificado.
-4. En ningún caso, un módulo profesional podrá desarrollarse en su totalidad en la 
-empresa u organismo equiparado, ni tener asignada una estancia equivalente a más del 65% 
+4. En ningún caso, un módulo profesional podrá desarrollarse en su totalidad en la
+empresa u organismo equiparado, ni tener asignada una estancia equivalente a más del 65%
 de la duración total del mismo en la empresa.
-5. Durante el periodo correspondiente a la 
-FEOE se podrán llevar a cabo movilidades 
-entre islas y otras comunidades autónomas, de conformidad con lo dispuesto en la instrucción 
-segunda del Anexo I de la Resolución de la Dirección General de Formación Profesional 
-y Enseñanzas de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan 
+5. Durante el periodo correspondiente a la
+FEOE se podrán llevar a cabo movilidades
+entre islas y otras comunidades autónomas, de conformidad con lo dispuesto en la instrucción
+segunda del Anexo I de la Resolución de la Dirección General de Formación Profesional
+y Enseñanzas de Régimen Especial, de 5 de noviembre de 2024, por la que se dictan
 instrucciones y orientaciones para la formación dual en empresas u organismos equiparados.
-Asimismo, las movilidades de carácter internacional se regirán por lo establecido en 
-la circular de la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, 
-de 12 de septiembre de 2025, o sucesivas modificaciones, por la que se establecen 
-instrucciones y líneas de actuación que se deben seguir con el alumnado que cursa 
-enseñanzas de formación profesional en centros educativos de la Comunidad Autónoma de 
+Asimismo, las movilidades de carácter internacional se regirán por lo establecido en
+la circular de la Viceconsejería de Formación Profesional y Cualificaciones Profesionales,
+de 12 de septiembre de 2025, o sucesivas modificaciones, por la que se establecen
+instrucciones y líneas de actuación que se deben seguir con el alumnado que cursa
+enseñanzas de formación profesional en centros educativos de la Comunidad Autónoma de
 Canarias, respecto a la fase de formación en empresa u organismo equiparado (
-FEOE) en 
-movilidad internacional en el marco de los proyectos ERASMUS+ de los sectores HED y 
-VET. Cualquier otra situación de carácter excepcional deberá comunicarse previamente a 
-la Inspección Educativa y contar con la autorización de la Dirección General de Formación 
+FEOE) en
+movilidad internacional en el marco de los proyectos ERASMUS+ de los sectores HED y
+VET. Cualquier otra situación de carácter excepcional deberá comunicarse previamente a
+la Inspección Educativa y contar con la autorización de la Dirección General de Formación
 Profesional y Enseñanzas de Régimen Especial.
-Lo dispuesto en dicha circular para el primer y segundo curso de los ciclos de grado 
-medio y de grado superior será de aplicación, respectivamente, al segundo y tercer curso de 
+Lo dispuesto en dicha circular para el primer y segundo curso de los ciclos de grado
+medio y de grado superior será de aplicación, respectivamente, al segundo y tercer curso de
 los ciclos de doble titulación de formación profesional.
 Octava.- Evaluación de la formación en empresa u organismo equiparado.
-Se llevará a cabo según lo establecido en la instrucción sexta del Anexo II de la 
-[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
+Se llevará a cabo según lo establecido en la instrucción sexta del Anexo II de la
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de
 
-evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
-E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de 
+evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
+E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de
 Canarias a partir del curso escolar 2024/2025.
 Novena.- Proyecto intermodular.
-1. El proyecto intermodular se desarrollará conforme a lo establecido en la instrucción 
-cuarta del Anexo I de la Resolución de 18 de julio de 2025, por la que se dictan instrucciones 
-para la implantación y desarrollo del proyecto intermodular en los Grados de Formación D, 
-ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de 
+1. El proyecto intermodular se desarrollará conforme a lo establecido en la instrucción
+cuarta del Anexo I de la Resolución de 18 de julio de 2025, por la que se dictan instrucciones
+para la implantación y desarrollo del proyecto intermodular en los Grados de Formación D,
+ciclos formativos de grado básico, ciclos formativos de grado medio y ciclos formativos de
 grado superior, a partir del curso escolar 2025/2026.
-2. En el ámbito de la Comunidad Autónoma de Canarias, y atendiendo al perfil profesional 
-de cada ciclo formativo de doble titulación de formación profesional, podrá establecerse 
-un único proyecto intermodular, desarrollado a lo largo de dos cursos académicos, que 
-integre la formación correspondiente a ambos ciclos; o bien, dos proyectos intermodulares 
+2. En el ámbito de la Comunidad Autónoma de Canarias, y atendiendo al perfil profesional
+de cada ciclo formativo de doble titulación de formación profesional, podrá establecerse
+un único proyecto intermodular, desarrollado a lo largo de dos cursos académicos, que
+integre la formación correspondiente a ambos ciclos; o bien, dos proyectos intermodulares
 diferenciados, uno por cada ciclo formativo que conforma la doble titulación.
-En cualquier caso, para el desarrollo de las propuestas anteriores, los currículos de los 
-ciclos formativos contemplarán dos proyectos intermodulares, uno en segundo curso y otro 
+En cualquier caso, para el desarrollo de las propuestas anteriores, los currículos de los
+ciclos formativos contemplarán dos proyectos intermodulares, uno en segundo curso y otro
 en el tercero, ambos sujetos a evaluación y calificación.
-Esta organización tiene como finalidad favorecer la contextualización de la formación 
-en relación con el tejido productivo y las singularidades socioeconómicas del Archipiélago, 
+Esta organización tiene como finalidad favorecer la contextualización de la formación
+en relación con el tejido productivo y las singularidades socioeconómicas del Archipiélago,
 así como garantizar la coherencia pedagógica en la estructura formativa.
-3. En lo relativo a las movilidades internacionales con respecto al proyecto intermodular, 
-será de aplicación lo establecido en la circular a la que se hace referencia en la instrucción 
+3. En lo relativo a las movilidades internacionales con respecto al proyecto intermodular,
+será de aplicación lo establecido en la circular a la que se hace referencia en la instrucción
 séptima de la presente Resolución.
-4. En concordancia con lo anterior, los centros autorizados a impartir estas enseñanzas 
-deberán asegurar la alternancia más adecuada entre la empresa u organismo equiparado y 
-el centro durante la 
-FEOE, de tal manera que el número de horas impartidas en el módulo 
-profesional de proyecto intermodular en segundo y tercer curso sea el establecido en el 
+4. En concordancia con lo anterior, los centros autorizados a impartir estas enseñanzas
+deberán asegurar la alternancia más adecuada entre la empresa u organismo equiparado y
+el centro durante la
+FEOE, de tal manera que el número de horas impartidas en el módulo
+profesional de proyecto intermodular en segundo y tercer curso sea el establecido en el
 Anexo II y III de la presente Resolución.
 Décima.- Calificación.
-Se llevará a cabo según lo establecido en la instrucción séptima del Anexo II de la 
-[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de 
-evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado 
-E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de 
+Se llevará a cabo según lo establecido en la instrucción séptima del Anexo II de la
+[Resolución de 9 de junio de 2025](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md), por la que se dictan instrucciones respecto al proceso de
+evaluación en los Ciclos Formativos (Grados C y D) y Cursos de Especialización (Grado
+E) del sistema de formación profesional que se imparten en la Comunidad Autónoma de
 Canarias a partir del curso escolar 2024/2025.
 Undécima.- Reclamaciones a evaluaciones finales.
-1. El alumnado mayor de edad, o sus representantes legales en el caso de menores de 
-edad, podrá reclamar, por escrito, contra las decisiones y calificaciones que se adopten en 
-las evaluaciones finales como resultado del proceso de evaluación de la forma establecida 
+1. El alumnado mayor de edad, o sus representantes legales en el caso de menores de
+edad, podrá reclamar, por escrito, contra las decisiones y calificaciones que se adopten en
+las evaluaciones finales como resultado del proceso de evaluación de la forma establecida
 
-en el artículo 19 de la Orden de 20 de octubre de 2000, y su posterior modificación y 
-ampliación por Orden de 3 de diciembre de 2003, por la que se regulan los procesos de 
-evaluación de las enseñanzas de la Formación Profesional Específica en el ámbito de la 
+en el artículo 19 de la Orden de 20 de octubre de 2000, y su posterior modificación y
+ampliación por Orden de 3 de diciembre de 2003, por la que se regulan los procesos de
+evaluación de las enseñanzas de la Formación Profesional Específica en el ámbito de la
 Comunidad Autónoma de Canarias.
-2. Contra las resoluciones que, en su caso, dicte la Dirección Territorial de Educación 
-cabrá interponer recurso de alzada en el plazo de un mes ante la Dirección General de 
+2. Contra las resoluciones que, en su caso, dicte la Dirección Territorial de Educación
+cabrá interponer recurso de alzada en el plazo de un mes ante la Dirección General de
 Formación Profesional y Enseñanzas de Régimen Especial.
 Duodécima.- Convocatorias y permanencia.
-1. El alumnado podrá permanecer cursando un ciclo formativo de grado medio o 
-superior durante un máximo de dos cursos académicos, consecutivos o no, más que la 
-duración prevista para el ciclo formativo, en matrícula completa y modalidad presencial. 
+1. El alumnado podrá permanecer cursando un ciclo formativo de grado medio o
+superior durante un máximo de dos cursos académicos, consecutivos o no, más que la
+duración prevista para el ciclo formativo, en matrícula completa y modalidad presencial.
 La limitación de permanencia estará asociada al ejercicio de la renuncia a convocatorias.
-2. El alumnado, o su representante legal si es menor de edad, podrá renunciar a la 
-convocatoria de uno o varios módulos profesionales, o bien anular la matrícula completa 
-del ciclo formativo, por los motivos y en la forma establecidos en la Orden de 20 de octubre 
-de 2000, y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por 
-la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional 
+2. El alumnado, o su representante legal si es menor de edad, podrá renunciar a la
+convocatoria de uno o varios módulos profesionales, o bien anular la matrícula completa
+del ciclo formativo, por los motivos y en la forma establecidos en la Orden de 20 de octubre
+de 2000, y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por
+la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional
 Específica en el ámbito de la Comunidad Autónoma de Canarias.
-3. En los ciclos formativos de grado medio y superior se contará con una convocatoria 
-anual para cada módulo profesional, siendo el máximo para cada módulo profesional de 
-cuatro. No obstante, la 
+3. En los ciclos formativos de grado medio y superior se contará con una convocatoria
+anual para cada módulo profesional, siendo el máximo para cada módulo profesional de
+cuatro. No obstante, la
 FEOE podrá realizarse en un máximo de dos ocasiones.
-4. La dirección del centro educativo podrá autorizar convocatorias extraordinarias, 
-una vez agotadas las cuatro ordinarias, previo informe del equipo docente, por motivos 
-de enfermedad, discapacidad u otras razones que hubieran condicionado o impedido el 
+4. La dirección del centro educativo podrá autorizar convocatorias extraordinarias,
+una vez agotadas las cuatro ordinarias, previo informe del equipo docente, por motivos
+de enfermedad, discapacidad u otras razones que hubieran condicionado o impedido el
 seguimiento o aprovechamiento ordinario de la formación.
 Decimotercera.- Titulación.
-1. La superación de todos los módulos profesionales correspondientes a los ciclos 
-formativos de grado medio o de grado superior regulados en la presente Resolución, junto 
-con la realización de la formación en empresa u organismo equiparado a la que se hace 
-referencia en la instrucción séptima, será conducente a la obtención de la “Doble titulación 
+1. La superación de todos los módulos profesionales correspondientes a los ciclos
+formativos de grado medio o de grado superior regulados en la presente Resolución, junto
+con la realización de la formación en empresa u organismo equiparado a la que se hace
+referencia en la instrucción séptima, será conducente a la obtención de la “Doble titulación
 de formación profesional” que corresponda.
-2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada 
-por el equipo docente del tercer curso. Estas se tomarán por consenso y, en caso de no 
+2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada
+por el equipo docente del tercer curso. Estas se tomarán por consenso y, en caso de no
 alcanzarse, por mayoría del profesorado que imparte docencia al alumnado.
-3. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de grado 
-medio o superior recibirán una certificación académica de los módulos profesionales 
+3. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de grado
+medio o superior recibirán una certificación académica de los módulos profesionales
 superados.
 
-Decimocuarta.- Certificación de la formación de nivel básico en prevención de 
+Decimocuarta.- Certificación de la formación de nivel básico en prevención de
 riesgos laborales.
-1. La superación del módulo de Itinerario personal para la empleabilidad I dará derecho 
-a solicitar la certificación para el desempeño de las funciones de nivel básico en materia de 
-prevención de riesgos laborales, atendiendo a lo dispuesto en los reales decretos que así lo 
+1. La superación del módulo de Itinerario personal para la empleabilidad I dará derecho
+a solicitar la certificación para el desempeño de las funciones de nivel básico en materia de
+prevención de riesgos laborales, atendiendo a lo dispuesto en los reales decretos que así lo
 especifiquen y conforme a lo dispuesto en el siguiente apartado.
-2. El certificado que acredita la formación de nivel básico en materia prevención de 
-riesgos laborales será expedido por la secretaría del centro docente en el que el alumno/a 
-se encuentre matriculado/a, con el visto bueno de la persona titular de la dirección. En 
-los centros de titularidad privada, este será visado por la persona titular de la dirección 
-del centro público al que esté adscrito. El certificado se emitirá, previa solicitud de la 
-persona interesada, una vez superado el ciclo formativo, conforme al modelo que figura en 
-el Anexo VIII de la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones 
-y orientaciones para la implantación y desarrollo de los grados de formación D y E, a 
-partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los 
+2. El certificado que acredita la formación de nivel básico en materia prevención de
+riesgos laborales será expedido por la secretaría del centro docente en el que el alumno/a
+se encuentre matriculado/a, con el visto bueno de la persona titular de la dirección. En
+los centros de titularidad privada, este será visado por la persona titular de la dirección
+del centro público al que esté adscrito. El certificado se emitirá, previa solicitud de la
+persona interesada, una vez superado el ciclo formativo, conforme al modelo que figura en
+el Anexo VIII de la [Resolución de 30 de octubre de 2024](R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md), por la que se dictan instrucciones
+y orientaciones para la implantación y desarrollo de los grados de formación D y E, a
+partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los
 currículos, en el ámbito de la Comunidad Autónoma de Canarias.
-Decimoquinta.- Implantación de la doble titulación de formación profesional en 
+Decimoquinta.- Implantación de la doble titulación de formación profesional en
 una única secuencia formativa.
-1. La implantación de los cursos correspondientes a las dobles titulaciones se llevará 
-a cabo de manera progresiva y podrá iniciarse a partir del año académico 2026-2027, 
-comenzando por el primer curso y continuando de forma sucesiva con los restantes hasta 
+1. La implantación de los cursos correspondientes a las dobles titulaciones se llevará
+a cabo de manera progresiva y podrá iniciarse a partir del año académico 2026-2027,
+comenzando por el primer curso y continuando de forma sucesiva con los restantes hasta
 completar la totalidad del itinerario formativo.
-2. La Dirección General de Formación Profesional y Enseñanzas de Régimen Especial 
-establecerá los criterios y procedimientos para la autorización y desarrollo de estas 
+2. La Dirección General de Formación Profesional y Enseñanzas de Régimen Especial
+establecerá los criterios y procedimientos para la autorización y desarrollo de estas
 enseñanzas, de conformidad con lo dispuesto en la presente Resolución.
 Decimosexta.- Admisión.
-1. Para los ciclos formativos de grado medio, el proceso de admisión se regirá por lo 
-establecido en el artículo 111 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones 
-que dicte la 
+1. Para los ciclos formativos de grado medio, el proceso de admisión se regirá por lo
+establecido en el artículo 111 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones
+que dicte la
 DGFPERE en el ámbito de la Comunidad Autónoma de Canarias.
-2. Para los ciclos formativos de grado superior, el proceso de admisión se regirá por lo 
-establecido en el artículo 115 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones 
-que dicte la 
+2. Para los ciclos formativos de grado superior, el proceso de admisión se regirá por lo
+establecido en el artículo 115 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y las instrucciones
+que dicte la
 DGFPERE en el ámbito de la Comunidad Autónoma de Canarias.
 
 ANEXO II
@@ -600,7 +601,7 @@ DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 FAMILIA PROFESIONAL: AGRARIA GRADO: MEDIO
 CICLO FORMATIVO: PRODUCCIÓN AGROPECUARIA Y PRODUCCIÓN AGROECOLÓGICA
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -636,14 +637,14 @@ DURACIÓN TOTAL DEL TERCER CURSO 904 27
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2914 30 30 27
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 ANEXO II
-RELACIÓN DE CICLOS FORMATIVOS DE GRADO MEDIO  
+RELACIÓN DE CICLOS FORMATIVOS DE GRADO MEDIO
 DE DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO GRADO: MEDIO
-CICLO FORMATIVO: INSTALACIONES FRIGORÍFICAS Y DE CLIMATIZACIÓN E INSTALACIONES DE  
+CICLO FORMATIVO: INSTALACIONES FRIGORÍFICAS Y DE CLIMATIZACIÓN E INSTALACIONES DE
 PRODUCCIÓN DE CALOR
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -658,11 +659,11 @@ Asociados a ECP
 1 1709 Itinerario personal para la empleabilidad I 96 3
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 0039 Configuración de instalaciones de frío y climatización 170 5
-2 0040 Montaje  y  mantenimiento  de  equipos  de  refrigeración 
+2 0040 Montaje  y  mantenimiento  de  equipos  de  refrigeración
 comercial 138 4 SÍ
-2 0041 Montaje  y  mantenimiento  de  instalaciones  frigoríficas 
+2 0041 Montaje  y  mantenimiento  de  instalaciones  frigoríficas
 industriales 202 6 SÍ
-2 0042 Montaje y mantenimiento de instalaciones de climatización,  
+2 0042 Montaje y mantenimiento de instalaciones de climatización,
 ventilación y extracción 202 6 SÍ
 2 1708 Sostenibilidad aplicada al sistema productivo 32 1
 2 1710 Itinerario personal para la empleabilidad II 96 3
@@ -680,9 +681,9 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO GRADO: MEDIO
-CICLO FORMATIVO: CARPINTERÍA Y MUEBLE E INSTALACIÓN Y AMUEBLAMIENTO 
+CICLO FORMATIVO: CARPINTERÍA Y MUEBLE E INSTALACIÓN Y AMUEBLAMIENTO
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -717,12 +718,12 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-FAMILIA PROFESIONAL:  MADERA,  MUEBLE  Y CORCHO  Y TRANSPORTE  Y 
+FAMILIA PROFESIONAL:  MADERA,  MUEBLE  Y CORCHO  Y TRANSPORTE  Y
 MANTENIMIENTO DE VEHÍCULOS GRADO: MEDIO
-CICLO FORMATIVO: CARPINTERÍA Y MUEBLE Y  MANTENIMIENTO DE ESTRUCTURAS DE MADERA  
+CICLO FORMATIVO: CARPINTERÍA Y MUEBLE Y  MANTENIMIENTO DE ESTRUCTURAS DE MADERA
 Y MOBILIARIO DE EMBARCACIONES DE RECREO
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -748,17 +749,17 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 1713 Proyecto intermodular 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 1618
-Preparación  de  embarcaciones  de  recreo  para  trabajos  de 
+Preparación  de  embarcaciones  de  recreo  para  trabajos  de
 mantenimiento* 136 4
 3 1630 Mecanizado de elementos de carpintería de ribera 136 4 SÍ
 3 1631
-Mantenimiento de cubiertas y cascos de madera en embarcaciones de  
+Mantenimiento de cubiertas y cascos de madera en embarcaciones de
 recreo 168 5 SÍ
 3 1632
-Mantenimiento  de  elementos  estructurales  de  madera  de 
+Mantenimiento  de  elementos  estructurales  de  madera  de
 embarcaciones de recreo 136 4 SÍ
 3 1633
-Mantenimiento de elementos interiores de madera y mobiliario de  
+Mantenimiento de elementos interiores de madera y mobiliario de
 embarcaciones de recreo 136 4 SÍ
 3 1713 Proyecto intermodular 64 2
 3 Módulo profesional optativo 96 3
@@ -767,9 +768,9 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL GRADO: MEDIO
-CICLO FORMATIVO: CONFECCIÓN Y MODA Y CALZADO Y COMPLEMENTOS DE MODA 
+CICLO FORMATIVO: CONFECCIÓN Y MODA Y CALZADO Y COMPLEMENTOS DE MODA
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -806,10 +807,10 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2872 30 30 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS GRADO: MEDIO
-CICLO FORMATIVO: ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES Y ELECTROMECÁNICA DE 
+CICLO FORMATIVO: ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES Y ELECTROMECÁNICA DE
 MAQUINARIA
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración horas anuales
@@ -850,14 +851,14 @@ DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN GRADO: SUPERIOR
 CICLO FORMATIVO: ADMINISTRACIÓN Y FINANZAS Y ASISTENCIA A LA DIRECCIÓN
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
-Créditos 
+Créditos
 ECTS
 Duración horas anuales
 1er curso 2º curso 3er curso
-Asociados a 
+Asociados a
 ECP
 (h/semana) (h/semana) (h/semana)
 1 0647 Gestión de la documentación jurídica y empresarial* 7 138 4 SÍ
@@ -888,16 +889,16 @@ DURACIÓN TOTAL DEL TERCER CURSO 872 26
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 ANEXO III
-RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR  
+RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR
 DE DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 
 FAMILIA PROFESIONAL: ARTES GRÁFICAS GRADO: SUPERIOR
-CICLO FORMATIVO: DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA Y DISEÑO Y EDICIÓN DE PUBLICACIONES IMPRESAS Y MULTIMEDIA 
+CICLO FORMATIVO: DISEÑO Y GESTIÓN DE LA PRODUCCIÓN GRÁFICA Y DISEÑO Y EDICIÓN DE PUBLICACIONES IMPRESAS Y MULTIMEDIA
 Curso
 Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -924,7 +925,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 1484 Diseño y planificación de proyectos editoriales multimedia 7 138 4 SÍ
 3 1485 Desarrollo y publicación de productos editoriales multimedia 10 234 7 SÍ
 3 1486
-Proyecto intermodular de diseño y edición de publicaciones impresas 
+Proyecto intermodular de diseño y edición de publicaciones impresas
 y multimedia
 5 64 2
 3 Módulo profesional optativo 5 96 3
@@ -939,7 +940,7 @@ Curso
 Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -979,12 +980,12 @@ CICLO FORMATIVO: TRANSPORTE Y LOGÍSTICA Y COMERCIO INTERNACIONAL
 Curso
 Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
-Créditos 
+Créditos
 ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
-Asociados a 
+Asociados a
 ECP(h/semana) (h/semana) (h/semana)
 1 0622 Transporte internacional de mercancías* 13 202 6 SÍ
 1 0623 Gestión económica y financiera de la empresa* 13 202 6 SÍ
@@ -1018,11 +1019,11 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL GRADO: SUPERIOR
 CICLO FORMATIVO: PROYECTOS DE EDIFICACIÓN Y PROYECTOS DE OBRA CIVIL
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1059,11 +1060,11 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2782 30 27 26
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
 CICLO FORMATIVO: DIRECCIÓN DE COCINA Y DIRECCIÓN DE SERVICIOS DE RESTAURACIÓN
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1089,9 +1090,9 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1042 31
 3 0180 Segunda lengua extranjera* 8 106 3 SÍ
 3 0509 Procesos de servicios en bar-cafetería 16 269 8 SÍ
 3 0510 Procesos de servicios en restaurante 21 302 9 SÍ
-3 0512 Planificación  y  dirección  de  servicios  y  eventos  en 
+3 0512 Planificación  y  dirección  de  servicios  y  eventos  en
 restauración 12 202 6 SÍ
-3 0513 Proyecto  intermodular  de  dirección  de  servicios  de 
+3 0513 Proyecto  intermodular  de  dirección  de  servicios  de
 restauración 5 64 2
 3 Módulo profesional optativo 5 96 3
 DURACIÓN TOTAL DEL TERCER CURSO 1039 31
@@ -1099,14 +1100,14 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 3113 31 31 31
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
-CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS  Y AGENCIAS DE VIAJES Y  
+CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS  Y AGENCIAS DE VIAJES Y
 GESTIÓN DE EVENTOS
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1127,13 +1128,13 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 0180b Segunda lengua extranjera* 8 96 3 SÍ
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 0388 Proyecto  intermodular  de  guía,  información  y  asistencia 
+2 0388 Proyecto  intermodular  de  guía,  información  y  asistencia
 turística 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 904 27
 3 0397 Gestión de productos turísticos 7 173 5 SÍ
 3 0398 Venta de servicios turísticos 9 238 7 SÍ
 3 0399 Dirección de entidades de intermediación turística 9 205 6 SÍ
-3 0400 Proyecto intermodular de agencias de viaje y gestión de 
+3 0400 Proyecto intermodular de agencias de viaje y gestión de
 eventos 5 64 2
 3 Módulo profesional optativo 5 96 3
 DURACIÓN TOTAL DEL TERCER CURSO 776 23
@@ -1141,14 +1142,14 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2680 30 27 23
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES GRADO: SUPERIOR
-CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB Y DESARROLLO  DE  APLICACIONES 
+CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB Y DESARROLLO  DE  APLICACIONES
 MULTIPLATAFORMA
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1183,13 +1184,13 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 * Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
-CICLO FORMATIVO: IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR Y  RADIOTERAPIA Y 
+CICLO FORMATIVO: IMAGEN PARA EL DIAGNÓSTICO Y MEDICINA NUCLEAR Y  RADIOTERAPIA Y
 DOSIMETRÍA
 Curso
 Código Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1225,11 +1226,11 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2808 30 27 27
 FAMILIA PROFESIONAL: SANIDAD GRADO: SUPERIOR
 CICLO FORMATIVO: LABORATORIO CLÍNICO Y BIOMÉDICO Y ANATOMÍA PATOLÓGICA Y CITODIAGNÓSTICO
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -1254,7 +1255,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 3 1380 Procesamiento citológico y tisular 13 266 8 SÍ
 3 1381 Citología ginecológica 10 237 7 SÍ
 3 1382 Citología general 10 237 7 SÍ
-3 1383 Proyecto  intermodular  de  laboratorio  de  patología  y 
+3 1383 Proyecto  intermodular  de  laboratorio  de  patología  y
 citodiagnóstico
 5 64 2
 3 Módulo profesional optativo 5 96 3
@@ -1290,4 +1291,3 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2900 30 30 27
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
 - [**Resolucion BOC 46**](./R9_6_2025_dictan_instrucciones_respecto_proceso_evaluacion_ciclos.md)
-

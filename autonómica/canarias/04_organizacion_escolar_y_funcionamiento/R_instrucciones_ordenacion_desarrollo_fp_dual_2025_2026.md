@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 ## Preámbulo
 
 # Resolución de instrucciones para la ordenación y desarrollo del sistema de Formación Profesional Dual en Canarias para el curso 2025-2026.

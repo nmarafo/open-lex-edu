@@ -218,15 +218,15 @@ ocr_procesado: true
 
 [Bloque 1: #pr]
 
-Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la 
+Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la
 Ley 6/2014, de 25 de julio
 , Canaria de Educación no Universitaria.
 
 EXPOSICIÓN DE MOTIVOS
 
-La Comunidad Autónoma de Canarias tiene, según el artículo 32.1 de su Estatuto de Autonomía, competencia plena en materia de educación, sin perjuicio del 
+La Comunidad Autónoma de Canarias tiene, según el artículo 32.1 de su Estatuto de Autonomía, competencia plena en materia de educación, sin perjuicio del
 artículo 27 de la Constitución
- y las leyes orgánicas que lo desarrollan. Canarias tiene además características propias que su sistema educativo debe considerar. Así pues, en el marco de las leyes educativas vigentes, nuestra comunidad autónoma necesita definir, contextualizar y desarrollar un sistema educativo de calidad para responder así a una realidad singular que precisa y demanda políticas específicas orientadas a garantizar, en el marco constitucional y estatutario, el derecho a la educación de todos los canarios y canarias y de los que han decidido vivir entre nosotros.
+y las leyes orgánicas que lo desarrollan. Canarias tiene además características propias que su sistema educativo debe considerar. Así pues, en el marco de las leyes educativas vigentes, nuestra comunidad autónoma necesita definir, contextualizar y desarrollar un sistema educativo de calidad para responder así a una realidad singular que precisa y demanda políticas específicas orientadas a garantizar, en el marco constitucional y estatutario, el derecho a la educación de todos los canarios y canarias y de los que han decidido vivir entre nosotros.
 
 La educación, entendida como un proceso de aprendizaje a lo largo de toda la vida, es el factor decisivo para alcanzar una sociedad más culta, más justa, más crítica y solidaria, una sociedad con más oportunidades para que cada persona pueda desarrollar plenamente sus capacidades.
 
@@ -318,9 +318,9 @@ Artículo 1. Objeto y ámbito.
 
 1. La presente ley tiene por objeto regular el sistema educativo canario y su evaluación, de modo que pueda convertirse en un instrumento eficaz para hacer efectivo el derecho a una educación de calidad, inclusiva e integradora, que garantice la equidad y la excelencia, la prestación de un servicio público esencial y convertirse, a la vez, en uno de los motores del desarrollo social, económico y cultural del archipiélago.
 
-2. El ámbito de aplicación de la presente ley es todo el sistema educativo canario, a excepción del universitario, en consonancia con las competencias asumidas en el 
+2. El ámbito de aplicación de la presente ley es todo el sistema educativo canario, a excepción del universitario, en consonancia con las competencias asumidas en el
 Estatuto de Autonomía de Canarias
- y en el desarrollo de las normas básicas aprobadas por el Estado.
+y en el desarrollo de las normas básicas aprobadas por el Estado.
 
 [Bloque 4: #a2]
 
@@ -440,9 +440,9 @@ Artículo 7. El alumnado.
 
 2. El Gobierno de Canarias determinará los derechos y deberes propios del alumnado en Canarias, incluyendo, en todo caso, los que aparecen definidos en la presente ley y aquellos que formen parte de la normativa básica del Estado.
 
-3. El alumnado, de acuerdo con su edad, tiene el derecho y el deber de conocer 
+3. El alumnado, de acuerdo con su edad, tiene el derecho y el deber de conocer
 la Constitución española
- y el 
+y el
 Estatuto de Autonomía de Canarias
 , con el fin de formarse en los valores y principios recogidos en ellos y en los tratados y acuerdos internacionales de derechos humanos.
 
@@ -798,9 +798,9 @@ d) Permitir una organización flexible, variada e individualizada de la ordenaci
 
 e) Atender las necesidades educativas específicas de apoyo educativo y la sobredotación intelectual, propiciando adaptaciones curriculares específicas para este alumnado.
 
-3. Las actividades de las enseñanzas, en general, el desarrollo de la vida de los centros y el currículo de las distintas enseñanzas tomarán en consideración como elementos transversales el fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Asimismo, se incluirá el conocimiento y el respeto a los valores recogidos en 
+3. Las actividades de las enseñanzas, en general, el desarrollo de la vida de los centros y el currículo de las distintas enseñanzas tomarán en consideración como elementos transversales el fortalecimiento del respeto de los derechos humanos y de las libertades fundamentales y los valores que preparan al alumnado para asumir una vida responsable en una sociedad libre y democrática. Asimismo, se incluirá el conocimiento y el respeto a los valores recogidos en
 la Constitución española
- y en el 
+y en el
 Estatuto de Autonomía de Canarias
 .
 
@@ -968,7 +968,7 @@ Artículo 33. La formación profesional.
 
 8. Las consejerías competentes en materia de educación y de empleo deben coordinarse especialmente para garantizar la integridad de la oferta formativa. A tal fin, se podrán ofrecer en algunos centros educativos títulos de Formación Profesional y certificados de profesionalidad de forma complementaria.
 
-9. Se creará una red de centros integrados de formación profesional, que impartirán todas las ofertas correspondientes a los subsistemas de formación profesional, referidas al Catálogo Nacional de Cualificaciones Profesionales, conducentes a la obtención de los títulos y certificados de profesionalidad a que se refiere la 
+9. Se creará una red de centros integrados de formación profesional, que impartirán todas las ofertas correspondientes a los subsistemas de formación profesional, referidas al Catálogo Nacional de Cualificaciones Profesionales, conducentes a la obtención de los títulos y certificados de profesionalidad a que se refiere la
 [Ley Orgánica 5/2002](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO5_2002_cualificaciones_formacion_profesional.md), de 19 de junio
 , de las Cualificaciones y de la Formación Profesional.
 
@@ -1094,7 +1094,7 @@ Artículo 38. Finalidad de la educación de personas adultas.
 
 2. Para el logro de la finalidad propuesta, la administración educativa podrá colaborar con otras administraciones públicas con competencias en la formación de personas adultas y, en especial, con la administración laboral, así como con las corporaciones locales y los diversos agentes sociales.
 
-3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en 
+3. Los objetivos de estas enseñanzas, su organización y el acceso, la evaluación y la obtención del título correspondiente se realizarán de acuerdo con lo recogido en la normativa básica del Estado, así como con lo dispuesto en
 Ley 13/2003, de 4 de abril
 , de Educación y Formación Permanente de Personas Adultas de Canarias
 .
@@ -1537,9 +1537,9 @@ Artículo 57. La organización y el funcionamiento de los centros sostenidos con
 
 Artículo 58. La participación en la gestión de los centros sostenidos con fondos públicos.
 
-1. La participación es un valor esencial para la formación de ciudadanos/as autónomos, libres, responsables y comprometidos con los principios y valores de 
+1. La participación es un valor esencial para la formación de ciudadanos/as autónomos, libres, responsables y comprometidos con los principios y valores de
 la Constitución
- y del 
+y del
 Estatuto de Autonomía de Canarias
 . La participación, autonomía y gobierno de los centros que ofrezcan enseñanzas reguladas en esta ley se ajustarán a lo dispuesto en la normativa básica del Estado, así como a lo previsto en esta ley.
 
@@ -1835,9 +1835,9 @@ El Gobierno, sin perjuicio de la entrada en vigor de la presente ley, debe aprob
 
 Disposición adicional segunda. Órganos de negociación y de representación del personal docente.
 
-La negociación colectiva de las condiciones de trabajo de los funcionarios docentes debe llevarse a cabo a través de una mesa sectorial de educación, en atención a las condiciones específicas de trabajo de los diferentes colectivos docentes y al número de efectivos. Deben ser objeto de negociación en esta mesa sectorial las materias detalladas en el 
+La negociación colectiva de las condiciones de trabajo de los funcionarios docentes debe llevarse a cabo a través de una mesa sectorial de educación, en atención a las condiciones específicas de trabajo de los diferentes colectivos docentes y al número de efectivos. Deben ser objeto de negociación en esta mesa sectorial las materias detalladas en el
 artículo 37 de la Ley 7/2007, de 12 de abril
-, del 
+, del
 Estatuto Básico del Empleado Público
 , en relación con los funcionarios docentes, siempre que no hayan sido objeto de decisión de la mesa general de negociación del Gobierno de Canarias.
 
@@ -2241,4 +2241,3 @@ Paulino Rivero Baute.
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-

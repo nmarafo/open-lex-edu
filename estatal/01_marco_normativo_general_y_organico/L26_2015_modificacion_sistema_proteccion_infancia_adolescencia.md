@@ -60,6 +60,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**
@@ -2023,4 +2024,3 @@ MARIANO RAJOY BREY
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

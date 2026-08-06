@@ -46,6 +46,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-243-2022
 - norma_id: norm-es-2010-12201
 ---
+
 # Orden EFP/935/2022, de 27 de septiembre, por la que se modifica la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención.
 
 El Acuerdo Marco firmado por el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados, de 16 de mayo de 2005, preveía ya, en su artículo 7, una posible integración de los currículos respectivos de educación secundaria, con el fin de obtener la doble titulación a través de una prueba externa al final del Bachillerato.
@@ -993,4 +994,3 @@ Madrid, 27 de septiembre de 2022.–La Ministra de Educación y Formación Prof
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](./RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

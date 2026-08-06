@@ -36,18 +36,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/08/08/BOCM-20230808-1.PDF
 ---
 
-**Orden 2808/2023, de 31 de julio, de la Consejería de Educación, Ciencia y Universidades, por la que se regula la gestión telemática y desarrollo del proceso de admisión de alumnos en ESO y Bachillerato**
-
-MARTES 8 DE AGOSTO DE 2023
-Pág. 6
-B.O.C.M. Núm. 187
-BOCM-20230808-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-1
 ORDEN de 28 de julio de 2023, de la Consejera de Economía, Hacienda y Em-
 pleo, por la que se aprueba convocatoria pública para la provisión de un pues-
 to de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el
@@ -233,12 +221,11 @@ ORDENACION
 COMERCIAL
 A
 30
-    32.160,48
+32.160,48
 COMUNIDAD DE MADRID
 CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
 VICECONSEJERIA ECONOMÍA Y EMPLEO
 DIRECCION GENERAL COMERCIO, CONSUMO Y
-SERVICIOS
 SUBDIRECCION GENERAL NORMATIVA Y
 ORDENACIÓN COMERCIAL
 TÉCNICOS SUPERIORES DE ADMINISTRACIÓN

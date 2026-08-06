@@ -37,18 +37,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial**
-
-LUNES 30 DE JUNIO DE 2025
-Pág. 12
-B.O.C.M. Núm. 154
-BOCM-20250630-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-1
 RESOLUCIÓN de 17 de junio de 2025, de la Dirección General de Función Pú-
 blica, mediante la que se modifica la Resolución de 27 de diciembre de 2024, del
 mismo centro directivo, por la que se resuelven las pruebas selectivas del proce-
@@ -122,28 +110,28 @@ BOCM
 
 
 	
-		
+	
 	
 
 		
 
- 
- 
+
+
 
-	   
-	 
+	  
+	
  	  	
-
-		 
- 
+
+		 
+
  	 		 
 
 
- 
- 	
+
+ 
 
 
-		
+	
 			
 
 	
@@ -155,12 +143,12 @@ BOCM
 
 
 
-	
+
 
 
 
 
-	
+
 
 
 
@@ -174,7 +162,7 @@ BOCM
 
 
 
-	
+	
 
 
 	
@@ -207,7 +195,7 @@ BOCM
 
 	
 
-
+
 
 
 
@@ -225,12 +213,12 @@ BOCM
 
 
 
-
+
 
-	
+
 
- 
-
+ 
+
 
 
 !

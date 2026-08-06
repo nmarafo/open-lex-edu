@@ -63,6 +63,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
 **JUAN CARLOS I,**
@@ -916,4 +917,3 @@ FELIPE GONZÁLEZ MÁRQUEZ
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-

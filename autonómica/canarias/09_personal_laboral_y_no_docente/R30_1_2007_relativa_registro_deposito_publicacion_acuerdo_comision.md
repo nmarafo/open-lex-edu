@@ -34,6 +34,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 ## Preámbulo
 
 # Resolución de 30 de enero de 2007, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 36, de 19 de febrero).
@@ -42,14 +43,9 @@ BOC - 2007/036. Lunes 19 de Febrero de 2007 - 589
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 2007
 2007/036. Lunes 19 de Febrero de 2007
@@ -110,4 +106,3 @@ El Presidente; El Secretario.
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

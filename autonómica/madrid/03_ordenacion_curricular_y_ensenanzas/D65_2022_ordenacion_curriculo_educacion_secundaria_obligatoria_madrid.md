@@ -36,41 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 65/2022, de 20 de julio, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Inicio
-ELI
-Comunidad de Madrid
-Decreto
-2022
-Julio
-20
-65
-Boletín Oficial de la Comunidad de Madrid - Núm 176
-Fecha del Boletín
-26-07-2022
-Sección 1.1.25.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20220726-2
-Páginas: 321
-Permalink ELI:
-https://www.bocm.es/eli/es-md/d/2022/07/20/65
-Ver texto consolidado
-PDF de la disposición  (6198 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y UNIVERSIDADES
-2
 DECRETO 65/2022, de 20 de julio, del Consejo de Gobierno, por el que se establecen para la Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligatoria.
 I
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, promovidos con la finalidad de revisar las medidas previstas en el texto original y ulteriores modificaciones.
@@ -512,9 +477,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20220726-2
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

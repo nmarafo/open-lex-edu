@@ -179,6 +179,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-2021-20113
 ---
+
 # Orden EDU/2058/2010, de 13 de julio, por la que se regulan los Premios Nacionales de Bachillerato establecidos por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 El Ministerio de Educación ha venido convocando anualmente los Premios Nacionales de Bachillerato, como reconocimiento oficial de los méritos del alumnado que ha demostrado una especial preparación en los estudios correspondientes a esta etapa.
@@ -429,4 +430,3 @@ Madrid, 13 de julio de 2010.–El Ministro de Educación, Ángel Gabilondo Pujol
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
-

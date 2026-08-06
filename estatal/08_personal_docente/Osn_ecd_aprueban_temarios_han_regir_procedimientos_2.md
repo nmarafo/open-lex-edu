@@ -52,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden ECD/1753/2015, de 25 de agosto, por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, acceso y adquisición de nuevas especialidades en el Cuerpo de Profesores de Música y Artes Escénicas en las especialidades vinculadas a las enseñanzas de música y de danza.
 
 Aparte de las establecidas en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, la disposición adicional sexta de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, son bases del régimen estatutario de los funcionarios públicos docentes las reguladas por la propia [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
@@ -2979,4 +2980,3 @@ Tema 30. Las tecnologías de la información y de la comunicación aplicadas a l
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

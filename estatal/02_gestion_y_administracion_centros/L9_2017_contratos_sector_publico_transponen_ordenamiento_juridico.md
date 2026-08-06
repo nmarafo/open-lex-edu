@@ -62,6 +62,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-rdl-2-2015
 ---
+
 # Ley 9/2017 de Contratos del Sector Público
 
 **FELIPE VI**
@@ -9817,4 +9818,3 @@ Regalos y obsequios de empresa:
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
-

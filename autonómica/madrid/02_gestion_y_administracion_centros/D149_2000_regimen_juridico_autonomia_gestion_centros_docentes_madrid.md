@@ -70,10 +70,10 @@ Presupuesto y gestión de ingresos y gastos
 
 ## Artículo 4. Ingresos del centro
 1. Constituyen ingresos de los centros docentes públicos:
-   a) Las asignaciones presupuestarias que se transfieran desde la Consejería competente en materia de educación.
-   b) Los ingresos derivados de la prestación de servicios autorizados, tasas o precios públicos.
-   c) Las donaciones, legados, subvenciones y ayudas concedidas por entidades públicas o privadas.
-   d) Los rendimientos procedentes de su patrimonio o de la enajenación de bienes muebles en desuso autorizada.
+a) Las asignaciones presupuestarias que se transfieran desde la Consejería competente en materia de educación.
+b) Los ingresos derivados de la prestación de servicios autorizados, tasas o precios públicos.
+c) Las donaciones, legados, subvenciones y ayudas concedidas por entidades públicas o privadas.
+d) Los rendimientos procedentes de su patrimonio o de la enajenación de bienes muebles en desuso autorizada.
 2. Todos los ingresos percibidos por el centro quedarán afectos al sostenimiento de sus actividades y a la mejora de las instalaciones y recursos educativos.
 
 ## Artículo 5. Ordenación de gastos y pagos

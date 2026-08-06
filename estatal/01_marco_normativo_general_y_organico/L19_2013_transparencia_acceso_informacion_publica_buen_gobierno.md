@@ -57,6 +57,7 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-5392
 - norma_id: norm-es-1999-23750
 ---
+
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 **JUAN CARLOS I**
@@ -1213,4 +1214,3 @@ MARIANO RAJOY BREY
 - [**BOE-A-2007-19814**](./L37_2007_reutilizacion_informacion_sector_publico.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
-

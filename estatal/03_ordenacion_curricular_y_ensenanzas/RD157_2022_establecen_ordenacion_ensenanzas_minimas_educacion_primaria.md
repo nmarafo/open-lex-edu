@@ -68,6 +68,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 157/2022 - Ordenación y Enseñanzas Mínimas de la Educación Primaria
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, introduce en la anterior redacción de la norma importantes cambios, muchos de ellos derivados, tal y como indica la propia ley en su exposición de motivos, de la conveniencia de revisar las medidas previstas en el texto original con objeto de adaptar el sistema educativo a los retos y desafíos del siglo XXI, de acuerdo con los objetivos fijados por la Unión Europea y la UNESCO para la década 2020-2030.
@@ -3476,7 +3477,7 @@ D. Sentido algebraico.
 
 – La igualdad como expresión de una relación de equivalencia entre dos elementos y obtención de datos sencillos desconocidos (representados por medio de un símbolo) en cualquiera de los dos elementos.
 
-– Representación de la relación «mayor que» y «menor que», y uso de los signos < y >.
+– Representación de la relación «mayor que» y «menor que», y uso de los signos .
 
 4. Pensamiento computacional.
 
@@ -3698,7 +3699,7 @@ D. Sentido algebraico.
 
 3. Relaciones y funciones.
 
-– Relaciones de igualdad y desigualdad y uso de los signos < y >. Determinación de datos desconocidos (representados por medio de una letra o un símbolo) en expresiones sencillas relacionadas mediante estos signos y los signos = y ≠.
+– Relaciones de igualdad y desigualdad y uso de los signos . Determinación de datos desconocidos (representados por medio de una letra o un símbolo) en expresiones sencillas relacionadas mediante estos signos y los signos = y ≠.
 
 4. Pensamiento computacional.
 
@@ -3790,4 +3791,3 @@ De acuerdo con lo establecido en el artículo 6.4 de la Ley Orgánica de Educac
 - [**BOE-A-2021-18812**](./RD984_2021_regulan_evaluacion_promocion_educacion_primaria_asi.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

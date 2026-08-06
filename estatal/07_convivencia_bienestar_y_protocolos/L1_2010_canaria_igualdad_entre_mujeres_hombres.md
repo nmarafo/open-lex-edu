@@ -44,6 +44,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-6115
 - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
 
 Sea notorio a todos los ciudadanos que el Parlamento de Canarias ha aprobado y yo, en nombre del Rey y de acuerdo con lo que establece el artículo 12.8 del Estatuto de Autonomía, promulgo y ordeno la publicación de la ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.
@@ -1093,4 +1094,3 @@ Santa Cruz de Tenerife, 26 de febrero de 2010.–El Presidente, Paulino Rivero B
 - [**L16_2003 Prevencion y Proteccion de Mujeres contra la Violencia de Genero**](../../autonómica/canarias/07_convivencia_bienestar_y_protocolos/L16_2003_prevencion_proteccion_integral_mujeres_contra_violencia.md)
 - [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

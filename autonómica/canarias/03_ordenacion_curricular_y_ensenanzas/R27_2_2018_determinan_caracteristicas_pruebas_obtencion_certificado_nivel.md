@@ -46,6 +46,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 27 de febrero de 2018, por la que se determinan las características de las pruebas para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen especial, en la Comunidad Autónoma de Canarias (BOC n.º 48, de 8 de marzo).
@@ -53,96 +54,96 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2018-048-1091.
 Jueves 8 de marzo de 2018
 III. Otras Resoluciones
 Consejería de Educación y Universidades
-1091 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
-de 27 de febrero de 2018, por la que se determinan las características de las pruebas 
-para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen 
+1091 Dirección General de Formación Profesional y Educación de Adultos.- Resolución
+de 27 de febrero de 2018, por la que se determinan las características de las pruebas
+para la obtención del certificado de nivel C2 de enseñanzas de idiomas de régimen
 especial, en la Comunidad Autónoma de Canarias.
-Siendo necesario determinar las características de las pruebas comunes de obtención 
-del certificado de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad 
+Siendo necesario determinar las características de las pruebas comunes de obtención
+del certificado de nivel C2 de enseñanzas de idiomas de régimen especial en la Comunidad
 Autónoma de Canarias, y teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Anualmente se convocan pruebas para la obtención de los certificados de 
-enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias. 
-Segundo.- Estas pruebas, de carácter común y unificado, son elaboradas de acuerdo con 
-unas instrucciones concretas, que determinan la estructura general de la prueba, el formato, 
-el calendario de elaboración, así como los procesos de validación y revisión que garantizan 
+Primero.- Anualmente se convocan pruebas para la obtención de los certificados de
+enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias.
+Segundo.- Estas pruebas, de carácter común y unificado, son elaboradas de acuerdo con
+unas instrucciones concretas, que determinan la estructura general de la prueba, el formato,
+el calendario de elaboración, así como los procesos de validación y revisión que garantizan
 la fiabilidad de las pruebas.
-Tercero.- Esas instrucciones también definen las características de cada una de las 
-partes de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel 
+Tercero.- Esas instrucciones también definen las características de cada una de las
+partes de la prueba en relación con los niveles hasta ahora convocados: nivel básico, nivel
 intermedio, nivel avanzado y nivel C1.
-Cuarto.- En el curso 2017/2018 ha comenzado a impartirse en las Escuelas Oficiales 
-de Idiomas el nivel C2. Puesto que hasta ahora no han sido convocadas pruebas para la 
-obtención del certificado de especialización de este nivel, queda por definir las características 
-concretas de las pruebas en relación con este nivel C2. 
+Cuarto.- En el curso 2017/2018 ha comenzado a impartirse en las Escuelas Oficiales
+de Idiomas el nivel C2. Puesto que hasta ahora no han sido convocadas pruebas para la
+obtención del certificado de especialización de este nivel, queda por definir las características
+concretas de las pruebas en relación con este nivel C2.
 A los anteriores hechos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de 
-mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, 
-para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en 
-sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que 
-estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente, 
-con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se 
-subdividen en los niveles A1, A2, B1, B2, C1 y C2. 
-Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las 
-exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo 
-básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las 
-Página 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación (BOE nº 106, de 4 de
+mayo de 2006), en la redacción actual dada por la [Ley Orgánica 8/2013](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre,
+para la mejora de la calidad educativa (BOE nº 295, de 10 de diciembre de 2013), regula en
+sus artículos 59, 60, 61 y 62 la ordenación de las enseñanzas de idiomas, estableciendo que
+estas enseñanzas se organizarán en tres niveles, que se corresponderán, respectivamente,
+con los niveles A, B y C del Marco Común Europeo de Referencia para las Lenguas, que se
+subdividen en los niveles A1, A2, B1, B2, C1 y C2.
+Segundo.- El Real Decreto 1041/2017, de 22 de diciembre, por el que se fijan las
+exigencias mínimas del nivel básico a efectos de certificación, se establece el currículo
+básico de los niveles Intermedio B1, Intermedio B2, Avanzado C1, y Avanzado C2, de las
+Página
 
 Jueves 8 de marzo de 2018
-Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de 
-mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de 
-régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre 
-de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el 
+Enseñanzas de idiomas de régimen especial reguladas por la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de
+mayo, de Educación, y se establecen las equivalencias entre las enseñanzas de idiomas de
+régimen especial reguladas en diversos planes de estudios (BOE nº 311, de 23 de diciembre
+de 2017), a los efectos de la certificación, fija las exigencias mínimas de nivel básico y el
 currículo de los niveles intermedio B1, B2 y avanzado C1 y C2.
-Tercero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación 
-de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias 
-(BOC nº 205, de 15 de octubre de 2007), dedica los artículos 15 y 16 a los cursos de 
-especialización y actualización y su artículo 14 a las pruebas para obtener los certificados, en 
-el que determina que la Consejería competente en materia de educación realizará al menos 
-una convocatoria anual de pruebas de certificación para cada uno de los niveles, y que 
-estas pruebas serán elaboradas, administradas y evaluadas según lo que establezca la citada 
-Consejería, y tendrán como referente los objetivos, contenidos y criterios de evaluación 
+Tercero.- El Decreto 362/2007, de 2 de octubre, por el que se establece la ordenación
+de las enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias
+(BOC nº 205, de 15 de octubre de 2007), dedica los artículos 15 y 16 a los cursos de
+especialización y actualización y su artículo 14 a las pruebas para obtener los certificados, en
+el que determina que la Consejería competente en materia de educación realizará al menos
+una convocatoria anual de pruebas de certificación para cada uno de los niveles, y que
+estas pruebas serán elaboradas, administradas y evaluadas según lo que establezca la citada
+Consejería, y tendrán como referente los objetivos, contenidos y criterios de evaluación
 establecidos en los currículos respectivos.
-Cuarto.- La Orden de 11 de abril de 2013, por la que se regula la evaluación de las 
-enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC 
-nº 91, de 14 de mayo de 2013), dedica su Capítulo III específicamente a la evaluación de las 
+Cuarto.- La Orden de 11 de abril de 2013, por la que se regula la evaluación de las
+enseñanzas de idiomas de régimen especial en la Comunidad Autónoma de Canarias (BOC
+nº 91, de 14 de mayo de 2013), dedica su Capítulo III específicamente a la evaluación de las
 pruebas de certificación.
-Quinto.- La Resolución de la Dirección General de Formación Profesional y Educación 
-de Adultos (en adelante, DGFPEA), de 3 de febrero de 2012, por la que se dictan instrucciones 
-para la elaboración de las pruebas comunes de obtención de los certificados de enseñanzas 
-de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso 
-2012-2013 (BOC nº 35, de 20 de febrero de 2012), determina las características específicas 
-de las pruebas comunes para la obtención de los certificados de los niveles básico, intermedio 
-y avanzado de las enseñanzas de idiomas de régimen especial impartidas en Canarias, y 
+Quinto.- La Resolución de la Dirección General de Formación Profesional y Educación
+de Adultos (en adelante, DGFPEA), de 3 de febrero de 2012, por la que se dictan instrucciones
+para la elaboración de las pruebas comunes de obtención de los certificados de enseñanzas
+de idiomas de régimen especial, en la Comunidad Autónoma de Canarias, a partir del curso
+2012-2013 (BOC nº 35, de 20 de febrero de 2012), determina las características específicas
+de las pruebas comunes para la obtención de los certificados de los niveles básico, intermedio
+y avanzado de las enseñanzas de idiomas de régimen especial impartidas en Canarias, y
 establece los criterios para su elaboración y calificación.
-En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo 
-19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los departamentos de la 
-Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16 de septiembre), 
-y artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento 
-Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre); 
-visto el Decreto 305/2015, de 30 de julio, de nombramiento del Director General de 
+En atención a lo anteriormente indicado, de conformidad con lo dispuesto en el artículo
+19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los departamentos de la
+Administración de la Comunidad Autónoma de Canarias (BOC nº 122, de 16 de septiembre),
+y artículo 11 del [Decreto 135/2016](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md), de 10 de octubre, por el que se aprueba el Reglamento
+Orgánico de la Consejería de Educación y Universidades (BOC nº 203, de 19 de octubre);
+visto el Decreto 305/2015, de 30 de julio, de nombramiento del Director General de
 Formación Profesional y Educación de Adultos (BOC nº 149, de 3 de agosto de 2015),
 R E S U E L V O:
-Primero.- Determinar las características de las pruebas comunes para la obtención 
-del certificado de especialización de nivel C2 de las enseñanzas de idiomas de régimen 
-especial en la Comunidad Autónoma de Canarias, en los términos recogidos en el anexo de 
+Primero.- Determinar las características de las pruebas comunes para la obtención
+del certificado de especialización de nivel C2 de las enseñanzas de idiomas de régimen
+especial en la Comunidad Autónoma de Canarias, en los términos recogidos en el anexo de
 la presente resolución.
-Segundo.- Ordenar su publicación en el Boletín Oficial de Canarias para general 
-conocimiento y encomendar a los equipos directivos de las EOI que desarrollen el 
+Segundo.- Ordenar su publicación en el Boletín Oficial de Canarias para general
+conocimiento y encomendar a los equipos directivos de las EOI que desarrollen el
 
 Jueves 8 de marzo de 2018
-procedimiento más adecuado para que la presente resolución sea conocida y difundida entre 
-los distintos sectores de la comunidad educativa, haciéndoles llegar copia, cuando así se 
+procedimiento más adecuado para que la presente resolución sea conocida y difundida entre
+los distintos sectores de la comunidad educativa, haciéndoles llegar copia, cuando así se
 solicite por la persona interesada.
-Esta resolución también estará a disposición de las personas interesadas en la dirección 
+Esta resolución también estará a disposición de las personas interesadas en la dirección
 web de la Consejería de Educación y Universidades: http://www.gobiernodecanarias.org/
 educacion/web
-Contra la presente resolución se podrá interponer recurso de alzada ante el Ilmo Sr. 
-Viceconsejero de Educación y Universidades, en el plazo de un mes a partir del día siguiente 
-al de su publicación, de conformidad con los artículos 114 y 115 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de 
-octubre, del Procedimiento  Administrativo Común de las Administraciones Públicas (BOE 
+Contra la presente resolución se podrá interponer recurso de alzada ante el Ilmo Sr.
+Viceconsejero de Educación y Universidades, en el plazo de un mes a partir del día siguiente
+al de su publicación, de conformidad con los artículos 114 y 115 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de
+octubre, del Procedimiento  Administrativo Común de las Administraciones Públicas (BOE
 nº 236, de 2 de octubre de 2015).
-Santa Cruz de Tenerife, a 27 de febrero de 2018.- El Director General de Formación 
+Santa Cruz de Tenerife, a 27 de febrero de 2018.- El Director General de Formación
 Profesional y Educación de Adultos, Manuel Jorge Pérez.
 
 Jueves 8 de marzo de 2018
@@ -156,10 +157,10 @@ ANEXO
 CARACTERÍSTICAS  DE  LAS  PRUEBAS  PARA  LA  OBTENCIÓN  DEL
 CERTIFICADO  DE  NIVEL C2  DE  ENSEÑANZAS  DE  IDIOMAS  DE  RÉGIMEN
 ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
-SUMARIO: 
+SUMARIO:
 1. Definición de las pruebas de certificación de nivel C2.
 2. Características generales de las técnicas e instrumentos de evaluación.
-3. Estructura de las pruebas: 
+3. Estructura de las pruebas:
 3.3. Comprensión de lectura: tareas, tipos de ejercicio, puntuaciones máximas y asignación de
 tiempo al examen.
 3.4. Comprensión auditiva: tareas, número y tipo de audición, tiempos asignados a las audicio -
@@ -168,7 +169,7 @@ nes, puntuaciones máximas y asignación de tiempo al examen.
 men y puntuaciones máximas de cada tarea a partir de los aspectos de las competencias.
 3.6. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntuaciones
 máximas de cada tarea a partir de los aspectos de las competencias.
-1. Definición de las pruebas de certificación de nivel C2. 
+1. Definición de las pruebas de certificación de nivel C2.
 Las pruebas objeto de esta resolución conducen a la obtención del certificado de especialización
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -195,7 +196,7 @@ y evaluación (MCERL), del Consejo de Europa.
 Las pruebas de certificación han de permitir la obtención de la información necesaria para
 conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán
 técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las siguientes
-características: 
+características:
 • Comprender los objetivos y contenidos más significativos del nivel C2.
 • Adecuarse a la naturaleza diversa de los contenidos del nivel C2.
 • Permitir la graduación del dominio alcanzado en cada una de las destrezas.
@@ -227,7 +228,7 @@ y evaluación (MCERL), del Consejo de Europa.
 Las pruebas de certificación han de permitir la obtención de la información necesaria para
 conocer el dominio alcanzado en el idioma por la persona aspirante. Para ello se utilizarán
 técnicas e instrumentos viables, eficaces y fiables que han de cumplir, entre otras, las siguientes
-características: 
+características:
 • Comprender los objetivos y contenidos más significativos del nivel C2.
 • Adecuarse a la naturaleza diversa de los contenidos del nivel C2.
 • Permitir la graduación del dominio alcanzado en cada una de las destrezas.
@@ -280,9 +281,9 @@ huecos de un banco de ítems, etc. Estas tareas evaluarán la lectura extensiva,
 selectiva.
 El examen constará de cuatro tareas de extensión creciente, con la dificultad propia del nivel, y
 las puntuaciones máximas y asignación de tiempo, indicadas en el siguiente cuadro:
-Tarea Nº de 
+Tarea Nº de
 textos
-Extensión total 
+Extensión total
 de los textos
 Puntuación
 total de la
@@ -293,7 +294,7 @@ Asignación tiempo al examen
 3 1
 4 1
 3.2. Comprensión auditiva: tareas, número y tipo de audición, tiempos asignados a las au -
-diciones, puntuaciones máximas y asignación de tiempo al examen. 
+diciones, puntuaciones máximas y asignación de tiempo al examen.
 La parte de comprensión auditiva constará de tres tareas a partir de la audición de una serie de
 textos orales reales o verosímiles, en soporte audio o vídeo, de diversos tipos y de fuentes tales
 como la radio, la televisión, grabaciones comerciales o no comerciales, etc. Las tareas serán
@@ -345,7 +346,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 El examen constará de tres tareas, cada una de las cuales se escuchará dos veces, con la dificultad
 propia de cada nivel, y con el número, tipo y tiempo de audición, puntuaciones máximas y dura -
-ción total del examen, indicadas en el siguiente cuadro: 
+ción total del examen, indicadas en el siguiente cuadro:
 Tarea Nº de textos y tipo de
 audición
 Tiempo asignado a la audición
@@ -359,13 +360,13 @@ cortas comerciales o no
 comerciales.
 15-30 segundos
 cada una
-3 
+3
 10 40 minutos
 2 1: noticias, narraciones,
 etc.
-3-4 minutos 3 
+3-4 minutos 3
 3 1: entrevista o conversación.
-4-6 minutos 4 
+4-6 minutos 4
 3.3. Expresión e interacción escrita: tareas, extensión de los textos, asignación de tiempo al
 examen y puntuaciones máximas de cada tarea a partir de los aspectos de las competen -
 cias.
@@ -374,11 +375,11 @@ textos en los que se propongan situaciones reales o verosímiles de expresión e
 mente contextualizadas, de diversos tipos y extensión para cada tarea.
 El examen constará de dos tareas, con la dificultad propia del nivel, y extensión, puntuaciones
 máxi
-mas y asignación de tiempo, indicadas en el siguiente cuadro: 
+mas y asignación de tiempo, indicadas en el siguiente cuadro:
 Tarea Extensión del texto Puntuación máxima de la tarea
 Puntuación total de la destreza
 Asignación
-tiempo al 
+tiempo al
 examen
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -394,12 +395,12 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 1 120-175 palabras 4 10
 105 minutos2 230-300 palabras 6
-La expresión escrita se evaluará con arreglo a las siguientes competencias: 
+La expresión escrita se evaluará con arreglo a las siguientes competencias:
 Competencia Lo que evalúa
 Pragmática
 El cumplimiento del objetivo de la comunicación y de la tarea propuesta;
 la adaptación del contenido a las convenciones organizativas del texto, se -
-gún lo establecido para el nivel, y la organización de la información. 
+gún lo establecido para el nivel, y la organización de la información.
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel;
 la corrección ortográfica y el uso de los signos de puntuación.
 Sociolingüística
@@ -441,12 +442,12 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 1 120-175 palabras 4 10
 105 minutos2 230-300 palabras 6
-La expresión escrita se evaluará con arreglo a las siguientes competencias: 
+La expresión escrita se evaluará con arreglo a las siguientes competencias:
 Competencia Lo que evalúa
 Pragmática
 El cumplimiento del objetivo de la comunicación y de la tarea propuesta;
 la adaptación del contenido a las convenciones organizativas del texto, se -
-gún lo establecido para el nivel, y la organización de la información. 
+gún lo establecido para el nivel, y la organización de la información.
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel;
 la corrección ortográfica y el uso de los signos de puntuación.
 Sociolingüística
@@ -492,7 +493,7 @@ sión del léxico, siempre según la tarea propuesta y dentro del nivel de compe
 evaluado.
 Ortografía
 Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que
-acompañan la escritura (tildes, diéresis…). 
+acompañan la escritura (tildes, diéresis…).
 Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
@@ -530,7 +531,7 @@ sión del léxico, siempre según la tarea propuesta y dentro del nivel de compe
 evaluado.
 Ortografía
 Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que
-acompañan la escritura (tildes, diéresis…). 
+acompañan la escritura (tildes, diéresis…).
 Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
@@ -563,10 +564,10 @@ CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 La primera tarea se calificará teniendo en cuenta la escala establecida para cada uno de los as -
-pectos de las competencias, de forma que la máxima puntuación de la tarea sea 40. 
-Tarea 1: 4 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en 
+pectos de las competencias, de forma que la máxima puntuación de la tarea sea 40.
+Tarea 1: 4 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en
 todos los aspectos y se divide entre 10).
-Puntuación de 
+Puntuación de
 la consigna CONSIGNA
 4
 Cubre ampliamente el objetivo de la comunicación, recogiendo todos los puntos de la
@@ -612,7 +613,7 @@ sión del léxico, siempre según la tarea propuesta y dentro del nivel de compe
 evaluado.
 Ortografía
 Se refiere tanto a la ortografía literal como, en su caso, a otros signos gráficos que
-acompañan la escritura (tildes, diéresis…). 
+acompañan la escritura (tildes, diéresis…).
 Incluye también las reglas referidas a mayúsculas y minúsculas.
 Atiende también al empleo adecuado de los signos de puntuación que transcriben
 gráficamente las pausas y la entonación.
@@ -646,7 +647,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
-Puntuación de 
+Puntuación de
 la organización y los conectores
 ORGANIZACIÓN Y COHESIÓN
 6
@@ -689,22 +690,22 @@ EDUCACIÓN  DE  ADULTOS  POR  LA  QUE  SE  DETERMINAN  LAS
 CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
-Puntuación de 
+Puntuación de
 la ortografía ORTOGRAFÍA
 4 Escribe con total corrección ortográfica.
 3 Escribe con corrección ortográfica.
 2 Escribe con errores ortográficos leves.
 1 Escribe con graves errores ortográficos.
 0 Escribe con errores ortográficos muy graves.
-Puntuación de 
+Puntuación de
 la gramática GRAMÁTICA
 10 Utiliza adecuadamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 7 Utiliza adecuadamente varias estructuras y formas gramaticales propias del nivel.
-5 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel. 
-3 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel. 
+5 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel.
+3 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas
-gramaticales propias del nivel 
+gramaticales propias del nivel
 Puntuación del
 registro REGISTRO
 2 El texto se ajusta a la situación de comunicación y emplea adecuadamente los marca -
@@ -728,10 +729,10 @@ CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 La segunda tarea se calificará tiendo en cuenta la escala establecida para cada uno de los aspec -
-tos de las competencias, de forma que la máxima puntuación de la tarea sea 60. 
+tos de las competencias, de forma que la máxima puntuación de la tarea sea 60.
 Tarea 2: 6 puntos (para obtener la calificación de la tarea, se suma la puntuación alcanzada en
 todos los aspectos y se divide entre 10).
-Puntuación 
+Puntuación
 de la consigna
 CONSIGNA
 6
@@ -747,7 +748,7 @@ requerido.
 1 El objetivo de la comunicación no se alcanza de manera suficiente, trata menos de la mitad de los puntos de la tarea y no utiliza el número de palabras requerido.
 0 No consigue el objetivo de la comunicación, no utiliza el número de palabras requerido
 y el número de puntos tratados no alcanza la cuarta parte de los propuestos.
-Puntuación 
+Puntuación
 del formato FORMATO
 6 Adapta, de manera muy adecuada, el contenido a las convenciones organizativas y tipo -
 gráficas propias del texto.
@@ -771,7 +772,7 @@ cas propias del texto.
 propias del texto.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
-Puntuación 
+Puntuación
 de organización y conectores
 ORGANIZACIÓN Y COHESIÓN
 8
@@ -794,7 +795,7 @@ el nivel y contiene importantes errores de puntuación.
 El escrito no está organizado ni estructurado de forma coherente, ni sigue un orden lógi -
 co. No emplea de manera adecuada los conectores y marcadores discursivos, y hay nu -
 merosos errores en el uso de los signos de puntuación.
-Puntuación 
+Puntuación
 de léxico LÉXICO
 14 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 10 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -818,7 +819,7 @@ cas propias del texto.
 propias del texto.
 0 El contenido no responde a las convenciones organizativas y tipográficas propias del
 texto.
-Puntuación 
+Puntuación
 de organización y conectores
 ORGANIZACIÓN Y COHESIÓN
 8
@@ -841,7 +842,7 @@ el nivel y contiene importantes errores de puntuación.
 El escrito no está organizado ni estructurado de forma coherente, ni sigue un orden lógi -
 co. No emplea de manera adecuada los conectores y marcadores discursivos, y hay nu -
 merosos errores en el uso de los signos de puntuación.
-Puntuación 
+Puntuación
 de léxico LÉXICO
 14 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 10 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -860,23 +861,23 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 4 Muestra un uso del vocabulario poco adecuado a la tarea y limitado.
 0 Utiliza un vocabulario inadecuado y muy limitado para la tarea.
-Puntuación 
+Puntuación
 de ortografía ORTOGRAFÍA
 8 Escribe con total corrección ortográfica.
 6 Escribe con corrección ortográfica.
 4 Escribe con errores ortográficos leves.
 2 Escribe con graves errores ortográficos.
 0 Escribe con errores ortográficos muy graves.
-Puntuación 
+Puntuación
 de gramática GRAMÁTICA
 14 Utiliza adecuadamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 10 Utiliza adecuadamente varias estructuras y formas gramaticales propias del nivel.
-7 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel. 
-4 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel. 
+7 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel.
+4 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas gra -
-maticales propias del nivel. 
-Puntuación 
+maticales propias del nivel.
+Puntuación
 del registro REGISTRO
 4 El texto se ajusta a la situación de comunicación y emplea adecuadamente los marcado -
 res de relaciones sociales y fórmulas de cortesía.
@@ -899,23 +900,23 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 4 Muestra un uso del vocabulario poco adecuado a la tarea y limitado.
 0 Utiliza un vocabulario inadecuado y muy limitado para la tarea.
-Puntuación 
+Puntuación
 de ortografía ORTOGRAFÍA
 8 Escribe con total corrección ortográfica.
 6 Escribe con corrección ortográfica.
 4 Escribe con errores ortográficos leves.
 2 Escribe con graves errores ortográficos.
 0 Escribe con errores ortográficos muy graves.
-Puntuación 
+Puntuación
 de gramática GRAMÁTICA
 14 Utiliza adecuadamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 10 Utiliza adecuadamente varias estructuras y formas gramaticales propias del nivel.
-7 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel. 
-4 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel. 
+7 Utiliza de manera suficiente estructuras y formas gramaticales propias del nivel.
+4 Utiliza de manera insuficiente estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas gra -
-maticales propias del nivel. 
-Puntuación 
+maticales propias del nivel.
+Puntuación
 del registro REGISTRO
 4 El texto se ajusta a la situación de comunicación y emplea adecuadamente los marcado -
 res de relaciones sociales y fórmulas de cortesía.
@@ -936,7 +937,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 dores de relaciones sociales y fórmulas de cortesía.
 3.4. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntua -
-ciones máximas de cada tarea a partir de los aspectos de las competencias. 
+ciones máximas de cada tarea a partir de los aspectos de las competencias.
 La parte de expresión oral constará de dos tareas en las que se propondrán situaciones reales o
 verosímiles de interacción con otras personas y de exposición.
 Para la realización de esta prueba se elaborarán veinte modelos de fichas gráficas, 10 para la ta -
@@ -947,10 +948,10 @@ como guía durante el desarrollo de su intervención. Los aspirantes deberán pr
 interacción individualmente.
 a) Tarea expositiva.
 La tarea expositiva consistirá en un monólogo y tendrá la duración y puntuación máxima que se
-indican en el siguiente cuadro: 
+indican en el siguiente cuadro:
 Tiempo de
 preparación
-Tiempo de 
+Tiempo de
 exposición
 Puntuación
 máxima de la
@@ -958,7 +959,7 @@ tarea
 Puntuación
 total de la destreza
 4 minutos 5 minutos 4 10
- 
+
 b) Tarea de interacción.
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -976,7 +977,7 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 dores de relaciones sociales y fórmulas de cortesía.
 3.4. Expresión e interacción oral: tareas, tiempos de preparación e intervención y puntua -
-ciones máximas de cada tarea a partir de los aspectos de las competencias. 
+ciones máximas de cada tarea a partir de los aspectos de las competencias.
 La parte de expresión oral constará de dos tareas en las que se propondrán situaciones reales o
 verosímiles de interacción con otras personas y de exposición.
 Para la realización de esta prueba se elaborarán veinte modelos de fichas gráficas, 10 para la ta -
@@ -987,10 +988,10 @@ como guía durante el desarrollo de su intervención. Los aspirantes deberán pr
 interacción individualmente.
 a) Tarea expositiva.
 La tarea expositiva consistirá en un monólogo y tendrá la duración y puntuación máxima que se
-indican en el siguiente cuadro: 
+indican en el siguiente cuadro:
 Tiempo de
 preparación
-Tiempo de 
+Tiempo de
 exposición
 Puntuación
 máxima de la
@@ -998,7 +999,7 @@ tarea
 Puntuación
 total de la destreza
 4 minutos 5 minutos 4 10
- 
+
 b) Tarea de interacción.
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -1013,10 +1014,10 @@ CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
-vención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
+vención, así como las puntuaciones máximas recogidas en el siguiente cuadro:
 Tiempo de
 preparación
-Tiempo de 
+Tiempo de
 intervención
 Puntuación
 máxima de la
@@ -1026,10 +1027,10 @@ total de la destreza
 3 minutos Parejas Tríos
 6 107-8 minutos
 9-10 minutos
- 
+
 La producción oral, tanto en la tarea expositiva como en la de interacción, se evaluará con arre -
 glo a las siguientes compe
-tencias: 
+tencias:
 Competencia Lo que evalúa
 Pragmática
 El cumplimiento del objetivo de la comunicación y de la tarea propuesta;
@@ -1037,7 +1038,7 @@ la extensión de las intervenciones y la adaptación del contenido a las con -
 venciones organizativas del texto oral, según lo establecido para el nivel.
 En la tarea expositiva: la organización y estructuración del discurso.
 En la tarea de interacción: la naturalidad, el uso de conectores y marcado -
-res de la conversación.  
+res de la conversación.
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel;
 el ritmo, la entonación y la claridad de la expresión.
 Sociolingüística
@@ -1061,10 +1062,10 @@ CARACTERÍSTICAS DE LAS PRUEBAS PARA LA OBTENCIÓN DEL CERTIFICADO
 DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 La tarea de interacción oral consistirá en una conversación entre aspirantes, que actuarán por parejas o tríos, y se desarrollará teniendo en cuenta los tiempos previstos para preparación e inter -
-vención, así como las puntuaciones máximas recogidas en el siguiente cuadro: 
+vención, así como las puntuaciones máximas recogidas en el siguiente cuadro:
 Tiempo de
 preparación
-Tiempo de 
+Tiempo de
 intervención
 Puntuación
 máxima de la
@@ -1074,9 +1075,9 @@ total de la destreza
 3 minutos Parejas Tríos
 6 107-8 minutos
 9-10 minutos
- 
+
 La producción oral, tanto en la tarea expositiva como en la de interacción, se evaluará con arre -
-glo a las siguientes competencias: 
+glo a las siguientes competencias:
 Competencia Lo que evalúa
 Pragmática
 El cumplimiento del objetivo de la comunicación y de la tarea propuesta;
@@ -1084,7 +1085,7 @@ la extensión de las intervenciones y la adaptación del contenido a las con -
 venciones organizativas del texto oral, según lo establecido para el nivel.
 En la tarea expositiva: la organización y estructuración del discurso.
 En la tarea de interacción: la naturalidad, el uso de conectores y marcado -
-res de la conversación.  
+res de la conversación.
 Lingüística El uso de vocabulario, estructuras y formas gramaticales propias del nivel;
 el ritmo, la entonación y la claridad de la expresión.
 Sociolingüística
@@ -1217,8 +1218,8 @@ Los criterios para calificar la expresión e interacción oral son los que se in
 - Tarea expositiva
 Esta tarea se calificará teniendo en cuenta la escala establecida para cada uno de los aspectos de
 las competencias, de forma que la máxima puntuación de la tarea sea 40. Esta puntuación se di -
-vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes: 
-Puntuación de 
+vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes:
+Puntuación de
 la consigna CONSIGNA
 6 Cubre ampliamente el objetivo de la comunicación, ajustándose al tiempo establecido
 y trata todos los puntos de la tarea con detalle.
@@ -1258,8 +1259,8 @@ Los criterios para calificar la expresión e interacción oral son los que se in
 - Tarea expositiva
 Esta tarea se calificará teniendo en cuenta la escala establecida para cada uno de los aspectos de
 las competencias, de forma que la máxima puntuación de la tarea sea 40. Esta puntuación se di -
-vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes: 
-Puntuación de 
+vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes:
+Puntuación de
 la consigna CONSIGNA
 6 Cubre ampliamente el objetivo de la comunicación, ajustándose al tiempo establecido
 y trata todos los puntos de la tarea con detalle.
@@ -1294,7 +1295,7 @@ cadores del discurso propios del nivel.
 nectores y marcadores del discurso.
 0 Produce un monólogo desorganizado y mal estructurado, y hace un uso muy limitado
 de los conectores y marcadores del discurso.
-Puntuación de 
+Puntuación de
 léxico LÉXICO
 8 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 6 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -1332,7 +1333,7 @@ cadores del discurso propios del nivel.
 nectores y marcadores del discurso.
 0 Produce un monólogo desorganizado y mal estructurado, y hace un uso muy limitado
 de los conectores y marcadores del discurso.
-Puntuación de 
+Puntuación de
 léxico LÉXICO
 8 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 6 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -1359,23 +1360,23 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 1 La pronunciación es poco clara y la entonación poco apropiada.
 0 La pronunciación es muy defectuosa y la entonación poco apropiada.
-Puntuación de 
+Puntuación de
 fluidez FLUIDEZ
 4 La exposición se realiza con una gran fluidez y soltura, y con las pausas apropiadas.
 3 La exposición se realiza con fluidez y soltura, y las pausas apropiadas.
 2 La exposición se realiza con la fluidez y las pausas apropiadas.
 1 La exposición se realiza con escasa fluidez y pausas incorrectas.
 0 La exposición se realiza sin fluidez y con pausas incorrectas.
-Puntuación de 
+Puntuación de
 gramática GRAMÁTICA
-8 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias 
+8 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 6 Utiliza correctamente estructuras y formas gramaticales propias del nivel.
 4 Utiliza las estructuras y formas gramaticales propias del nivel, de forma suficiente.
 2 Utiliza de manera insuficiente las estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas
-gramaticales propias del nivel. 
-Puntuación de 
+gramaticales propias del nivel.
+Puntuación de
 registro REGISTRO
 4 Se ajusta a la situación de comunicación durante toda la tarea y hace un uso correcto
 de los marcadores del contexto social.
@@ -1397,11 +1398,11 @@ COMUNIDAD AUTÓNOMA DE CANARIAS.
 de los marcadores del contexto social.
 0 No se ajusta a la situación de comunicación ni utiliza los marcadores apropiados del
 contexto social.
-- Tarea de interacción 
+- Tarea de interacción
 Esta tarea se calificará teniendo en cuenta la escala establecida para cada uno de los aspectos de
 las competencias, de forma que la máxima puntuación de la tarea sea 60. Esta puntuación se di -
-vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes: 
-Puntuación de 
+vidirá por 10. Los criterios para calificar la tarea se indican en las tablas siguientes:
+Puntuación de
 la consigna CONSIGNA
 10 Cubre ampliamente el objetivo de la comunicación, ajustándose al tiempo establecido
 y trata todos los puntos de la tarea con detalle.
@@ -1412,7 +1413,7 @@ de los puntos de la tarea.
 3 El grado de cumplimiento de la comunicación es insuficiente y trata menos de la mi -
 tad de los puntos de la tarea.
 0 No consigue el objetivo de la comunicación y trata pocos puntos de la tarea.
-Puntuación de 
+Puntuación de
 organización y
 cohesión
 ORGANIZACIÓN Y COHESIÓN
@@ -1434,23 +1435,23 @@ DE NIVEL C2  DE ENSEÑANZAS  DE IDIOMAS  DE RÉGIMEN ESPECIAL,  EN LA
 COMUNIDAD AUTÓNOMA DE CANARIAS.
 1 La pronunciación es poco clara y la entonación poco apropiada.
 0 La pronunciación es muy defectuosa y la entonación poco apropiada.
-Puntuación de 
+Puntuación de
 fluidez FLUIDEZ
 4 La exposición se realiza con una gran fluidez y soltura, y con las pausas apropiadas.
 3 La exposición se realiza con fluidez y soltura, y las pausas apropiadas.
 2 La exposición se realiza con la fluidez y las pausas apropiadas.
 1 La exposición se realiza con escasa fluidez y pausas incorrectas.
 0 La exposición se realiza sin fluidez y con pausas incorrectas.
-Puntuación de 
+Puntuación de
 gramática GRAMÁTICA
-8 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias 
+8 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 6 Utiliza correctamente estructuras y formas gramaticales propias del nivel.
 4 Utiliza las estructuras y formas gramaticales propias del nivel, de forma suficiente.
 2 Utiliza de manera insuficiente las estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas
-gramaticales propias del nivel. 
-Puntuación de 
+gramaticales propias del nivel.
+Puntuación de
 registro REGISTRO
 4 Se ajusta a la situación de comunicación durante toda la tarea y hace un uso correcto
 de los marcadores del contexto social.
@@ -1474,8 +1475,8 @@ municación y hace uso adecuado de los marcadores del discurso.
 3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del discurso.
 0 No interactúa adecuadamente, ni emplea de forma apropiada los marcadores del dis -
 curso.
-      
-Puntuación de 
+
+Puntuación de
 léxico LÉXICO
 12 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 8 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -1490,7 +1491,7 @@ pronunciación PRONUNCIACIÓN
 3 La pronunciación y la entonación son adecuadas.
 2 La pronunciación es poco clara y la entonación poco apropiada.
 0 La pronunciación es muy defectuosa y la entonación poco apropiada.
-Puntuación de 
+Puntuación de
 fluidez FLUIDEZ
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -1511,16 +1512,16 @@ COMUNIDAD AUTÓNOMA DE CANARIAS.
 3 El diálogo se realiza con la fluidez y las pausas apropiadas.
 2 El diálogo se realiza con escasa fluidez y pausas incorrectas.
 0 El diálogo se realiza sin fluidez y con pausas incorrectas.
-Puntuación de 
+Puntuación de
 gramática GRAMÁTICA
-12 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias 
+12 Utiliza correctamente una gran variedad de estructuras y formas gramaticales propias
 del nivel.
 8 Utiliza correctamente estructuras y formas gramaticales propias del nivel.
 6 Utiliza las estructuras y formas gramaticales propias del nivel, de forma suficiente.
 4 Utiliza de manera insuficiente las estructuras y formas gramaticales propias del nivel.
 0 Utiliza un número muy limitado, y con numerosos errores, de estructuras y formas
-gramaticales propias del nivel. 
-Puntuación de 
+gramaticales propias del nivel.
+Puntuación de
 registro REGISTRO
 4 Se ajusta a la situación de comunicación durante toda la tarea y hace un uso correcto
 de los marcadores del contexto social.
@@ -1528,7 +1529,7 @@ de los marcadores del contexto social.
 de los marcadores del contexto social.
 0 No se ajusta a la situación de comunicación ni utiliza los marcadores apropiados del
 contexto social.
-                                                     
+
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
 En la dirección https://sede.gobcan.es/sede/verifica_doc puede ser comprobada la
@@ -1546,8 +1547,8 @@ municación y hace uso adecuado de los marcadores del discurso.
 3 Interactúa de forma poco coherente y hace un uso limitado de los marcadores del discurso.
 0 No interactúa adecuadamente, ni emplea de forma apropiada los marcadores del dis -
 curso.
-      
-Puntuación de 
+
+Puntuación de
 léxico LÉXICO
 12 Utiliza un vocabulario, muy variado y preciso, adecuado a la tarea.
 8 Utiliza un vocabulario adecuado a la tarea, variado y preciso.
@@ -1562,7 +1563,7 @@ pronunciación PRONUNCIACIÓN
 3 La pronunciación y la entonación son adecuadas.
 2 La pronunciación es poco clara y la entonación poco apropiada.
 0 La pronunciación es muy defectuosa y la entonación poco apropiada.
-Puntuación de 
+Puntuación de
 fluidez FLUIDEZ
 Este documento ha sido firmado electrónicamente por:
 MANUEL JORGE PEREZ - D. GRAL. DE F.P. Y EDUCACION DE ADULTOS Fecha: 27/02/2018 - 10:33:18
@@ -1595,4 +1596,3 @@ El presente documento ha sido descargado el 05/03/2018 - 13:29:37
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 135/2016**](../01_marco_normativo_general_y_organico/D135_2016_reglamento_organico_consejeria_educacion_universidades_cultura.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

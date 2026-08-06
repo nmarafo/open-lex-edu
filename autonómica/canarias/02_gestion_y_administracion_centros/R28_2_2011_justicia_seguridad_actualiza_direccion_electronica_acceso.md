@@ -36,11 +36,12 @@ fundamentos_derecho:
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2011-049-1191.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64885
 ---
+
 ## Preámbulo
 
 # Resolución de 28 de febrero de 2011, de la Dirección General de Telecomunicaciones y Nuevas Tecnologías de la Consejería de Presidencia, Justicia y Seguridad, por la que se actualiza la dirección electrónica de acceso al Registro General Electrónico de la Administración Pública de la Comunidad Autónoma de Canarias (BOC n.º 49, de 8 de marzo).
 
-Consejería de Presidencia, 
+Consejería de Presidencia,
 Justicia y Seguridad
 1191 Dirección General de Telecomunicaciones y
 Nuevas Tecnologías.- Resolución de 28 de febrero de 2011, por la que se actualiza la dirección electrónica de acceso al Registro General Electrónico de la Administración Pública
@@ -61,11 +62,11 @@ Pública de la Comunidad Autónoma de Canarias y
 de sus organismos públicos vinculados o dependientes. Asimismo se establece que este punto de acceso
 será la dirección electrónica https://sede.gobcan.es.
 Por todo lo expuesto, visto el informe de la Inspección General de Servicios y en virtud de lo dispuesto en el artículo 4.2 de la Orden de la Consejería de Presidencia, Justicia y Seguridad de 8 de abril
-de 2010, anteriormente referenciada, 
+de 2010, anteriormente referenciada,
 R E S U E L V O:
 Primero.- Actualizar la dirección electrónica de
 acceso al Registro General Electrónico de la
-Administración Pública de la Comunidad Autónoma de Canarias. 
+Administración Pública de la Comunidad Autónoma de Canarias.
 Segundo.- La dirección electrónica de acceso a dicho Registro será https://sede.gobcan.es.
 Tercero.- Publicar la presente Resolución en el Boletín Oficial de Canarias.
 Santa Cruz de Tenerife, a 28 de febrero de 2011.-
@@ -85,4 +86,3 @@ boc-a-2011-049-1191
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

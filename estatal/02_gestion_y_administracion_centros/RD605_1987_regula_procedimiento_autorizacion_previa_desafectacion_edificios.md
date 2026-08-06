@@ -35,6 +35,7 @@ fundamentos_derecho:
   - '120'
 - norma_id: norm-es-1987-13494
 ---
+
 # [Real Decreto 605/1987](RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md), de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.
 
 EL REAL DECRETO 3186/1978, DE 1 DE DICIEMBRE, DE DESCONCENTRACION DE FUNCIONES EN LAS DIRECCIONES PROVINCIALES DEL MINISTERIO DE EDUCACION Y CIENCIA, DISPONE EN SU ARTICULO 2.6 QUE SE TRANSFIERE A LOS ORGANOS PERIFERICOS DEL DEPARTAMENTO LA COMPETENCIA DE CONCEDER LA AUTORIZACION PARA QUE LOS EDIFICIOS PUBLICOS ESCOLARES DE PROPIEDAD MUNICIPAL PUEDAN SER OBJETO DE DESAFECTACION Y, EN CONSECUENCIA, DESTINADOS A OTROS SERVICIOS O FINALIDADES DISTINTAS DE LA ENSEÑANZA. ESTE PRECEPTO FUE DESARROLLADO POR EL PUNTO SEGUNDO DE LA ORDEN MINISTERIAL DE 8 DE FEBRERO DE 1979.
@@ -108,4 +109,3 @@ JOSE MARIA MARAVALL HERRERO
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-1987-13494**](./RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md)
-

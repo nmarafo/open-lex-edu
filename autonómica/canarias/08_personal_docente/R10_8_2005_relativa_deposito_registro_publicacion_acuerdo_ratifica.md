@@ -48,6 +48,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2005/167/boc-2005-167-019.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=64565
 ---
+
 ## Preámbulo
 
 # Resolución de 10 de agosto de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa a depósito, registro y publicación del Acuerdo por el que se ratifica el Segundo Protocolo para la Gestión del Profesorado Interino y Sustituto del Sistema Educativo Público Canario (Consejería de Educación, Cultura y Deportes) (BOC n.º 167, de 25 de agosto).
@@ -69,7 +70,7 @@ se estime procedente.
 Las Palmas de Gran Canaria, a 1 de agosto de 2005.-
 El Director General de Ordenación del Territorio,
 Miguel Ángel Pulido Rodríguez.
-Consejería de Empleo 
+Consejería de Empleo
 y Asuntos Sociales
 3088 Dirección General de Protección del Menor
 y la Familia.- Anuncio de 8 de agosto de 2005,
@@ -242,7 +243,7 @@ los meses de julio y agosto de ese año.
 3. El personal sustituto que acumule durante un
 curso escolar nombramientos por un período inferior
 a 165 días percibirá la retribución proporcional de sus
-vacaciones anuales. 
+vacaciones anuales.
 
 Quinto.- 1. La Consejería de Educación, Cultura
 y Deportes, con el fin de continuar reduciendo la excesiva inestabilidad laboral, procederá a convocar anualmente una oferta de empleo público docente en los
@@ -345,7 +346,7 @@ Cultura y Deportes.
 2. Através de las Comisiones Territoriales de formación del profesorado, la Administración Educativa y las organizaciones sindicales pactarán anualmente
 los cursos específicos necesarios para posibilitar la
 formación de este personal docente en las diferentes
-pruebas de acceso a la función pública. 
+pruebas de acceso a la función pública.
 Décimo.- Con el ánimo de reducir la inestabilidad
 de determinados claustros, situados en las islas no capitalinas principalmente, la Administración mantendrá las siguientes medidas dirigidas al profesorado
 interino y sustituto:
@@ -431,7 +432,7 @@ asociación empresarial que se detalla:
 DENOMINACIÓN: Asociación de Archiveros de CanariasASARCA.
 ÁMBITO TERRITORIAL: Comunidad Autónoma de Canarias.
 DOMICILIO: Avenida Primero de Mayo, 17, Las Palmas de Gran
-Canaria. 
+Canaria.
 ÁMBITO FUNCIONAL: podrán pertenecer cuantas personas puedan ejercer funciones técnicas y profesionales en archivos radicados en el territorio de la Comunidad de Canarias, tengan formación archivística o ejerzan su profesión en íntima relación con
 los archivos de esta Comunidad Autónoma, estarán conformados por todas aquellas personas que estén interesadas por los archivos, como los investigadores, docentes o ciudadanos en general.
 La Asociación podrá también admitir, como socios institucionales, a los archivos ubicados en el territorio de la Comunidad de Canarias o a cualquier otra institución que tenga a su cargo algún centro de este tipo.
@@ -471,4 +472,3 @@ de la Ley 19/1977, reguladora del derecho de asociación
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L14_1990 Regimen Juridico Administraciones Canarias**](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md)
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
-

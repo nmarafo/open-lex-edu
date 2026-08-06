@@ -36,18 +36,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/11/23/BOCM-20221123-15.PDF
 ---
 
-**Orden 3413/2022, de 15 de noviembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 893/2022](./O893_2022_procedimientos_evaluacion_matricula_formacion_profesional_madrid.md) de evaluación y matrícula en Formación Profesional**
-
-MIÉRCOLES 23 DE NOVIEMBRE DE 2022
-Pág. 88
-B.O.C.M. Núm. 279
-BOCM-20221123-15
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-15
 RESOLUCIÓN de 8 de noviembre de 2022, de la Dirección General de Recursos
 Humanos, por la que se resuelve la convocatoria aprobada por Orden del Con-
 sejero de Economía, Hacienda y Empleo de 13 de septiembre de 2022 (BOLETÍN
@@ -156,7 +144,7 @@ Denominación     :
 A
 Grupo                :
 N.C.D.              :
-  22.596,00
+22.596,00
 C. Específico     :
 67678
 0*5**0*2*
@@ -170,8 +158,8 @@ Denominación      :
 29
 Grupo                  :
 N.C.D.                :
-  25.509,48
-C. Específico       : 
+25.509,48
+C. Específico       :
 PUESTO ADJUDICADO
 ADJUDICATARIO
 PUESTO LIBERADO

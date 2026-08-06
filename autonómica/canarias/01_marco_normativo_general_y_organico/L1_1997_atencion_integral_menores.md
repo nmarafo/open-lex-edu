@@ -1632,8 +1632,8 @@ Por tanto, mando a los ciudadanos y a las autoridades que la cumplan y la hagan 
 
 Santa Cruz de Tenerife, 7 de febrero de 1997.
 
-MANUEL HERMOSO ROJAS, 
-	Presidente
+MANUEL HERMOSO ROJAS,
+Presidente
 
 (Publicada en al «Diario Oficial de Canarias» número 23, de 17 de febrero de 1997.)
 
@@ -1657,4 +1657,3 @@ MANUEL HERMOSO ROJAS, 
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
-

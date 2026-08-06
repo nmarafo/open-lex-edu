@@ -56,6 +56,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2001-7022
 - norma_id: norm-es-lo-8-1985
 ---
+
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
 **JUAN CARLOS I**
@@ -4260,4 +4261,3 @@ Total nacional
 - [**BOE-A-1995-25444**](../01_marco_normativo_general_y_organico/LO10_1995_codigo_penal.md)
 - [**BOE-A-2001-7022**](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
-

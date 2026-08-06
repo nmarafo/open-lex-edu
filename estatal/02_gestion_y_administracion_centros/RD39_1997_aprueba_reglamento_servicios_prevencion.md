@@ -44,6 +44,7 @@ fundamentos_derecho:
   articulos:
   - '6'
 ---
+
 # Real Decreto 39/1997 - Reglamento de los Servicios de Prevención
 
 La [Ley 31/1995](L31_1995_prevencion_riesgos_laborales.md), de 8 de noviembre, ha venido a dar un nuevo enfoque, ya anunciado en su preámbulo, a la prevención de los riesgos laborales, que en la nueva concepción legal no se limita a un conjunto de deberes de obligado cumplimiento empresarial o a la subsanación de situaciones de riesgo ya manifestadas, sino que se integra en el conjunto de actividades y decisiones de la empresa, de las que forma parte desde el comienzo mismo del proyecto empresarial.
@@ -1277,4 +1278,3 @@ C) Área de Ergonomía y Psicosociología aplicada: Deberá acreditarse una form
 
 ### Fundamentos de Derecho
 - [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](./L31_1995_prevencion_riesgos_laborales.md)
-

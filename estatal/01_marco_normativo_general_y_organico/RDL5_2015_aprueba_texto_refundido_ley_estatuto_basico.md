@@ -2346,4 +2346,3 @@ La disposición final tercera del presente Estatuto producirá efectos en cada A
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**BOE-A-2012-9364**](../08_personal_docente/RD20_2012_real_decreto_ley_medidas_garantizar_estabilidad.md)
-

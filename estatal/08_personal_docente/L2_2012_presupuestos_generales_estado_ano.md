@@ -55,6 +55,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2003-23399
 - norma_id: norm-es-2012-9282
 ---
+
 # Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012.
 
 **JUAN CARLOS I**
@@ -349,8 +350,6 @@ Uno. Para la ejecución de los programas integrados en los estados de gastos de 
 
 Miles de euros
 
-Justicia
-
 1.612.633,09
 
 Defensa
@@ -400,8 +399,6 @@ Sanidad
 Educación
 
 2.219.464,77
-
-Cultura
 
 942.462,90
 
@@ -5101,7 +5098,7 @@ A los Ayuntamientos que no cumplieran con el envío de la documentación en la f
 
 7. Las subvenciones que se concedan a partir del ejercicio 2013 (que corresponderán a los servicios de transporte colectivo urbano prestados durante el año 2012) tendrán en cuenta criterios medioambientales. El Plan de Medidas Urgentes para la Estrategia Española de cambio climático y energía limpia contempla la incorporación de criterios de eficiencia energética para la concesión de subvenciones al transporte público urbano. Esta medida, definida en el Plan de Activación de Ahorro y Eficiencia Energética ejecutado por el Ministerio de Industria, Energía y Turismo a través del IDAE, consiste en establecer un mecanismo de valoración de la eficiencia energética aplicada a los sistemas de transporte público, que permita evaluar de forma homogénea los avances producidos, y tenerlos en cuenta para la distribución de estas ayudas.
 
-A este respecto, una parte de la subvención se repartirá en función de la puntuación obtenida en el cumplimiento de criterios medioambientales, que, a título indicativo, serán los que figuran en el cuadro que se indica a continuación, teniendo en cuenta que el importe que se distribuya por este concepto reducirá la cuantía del importe a repartir en concepto de déficit de explotación. 
+A este respecto, una parte de la subvención se repartirá en función de la puntuación obtenida en el cumplimiento de criterios medioambientales, que, a título indicativo, serán los que figuran en el cuadro que se indica a continuación, teniendo en cuenta que el importe que se distribuya por este concepto reducirá la cuantía del importe a repartir en concepto de déficit de explotación.
 
 Municipios gran población
 
@@ -14032,4 +14029,3 @@ Fundación Víctimas del Terrorismo.
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
 - [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
 - [**BOE-A-2012-9282**](./L4_2012_medidas_administrativas_fiscales.md)
-

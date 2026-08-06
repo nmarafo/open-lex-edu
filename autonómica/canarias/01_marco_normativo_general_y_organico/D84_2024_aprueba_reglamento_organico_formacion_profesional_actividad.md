@@ -126,6 +126,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-117-1913.
 ocr_procesado: true
 motor_ocr: rapidocr_onnxruntime
 ---
+
 ## Preámbulo
 
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.
@@ -643,7 +644,7 @@ g) Suscribir convenios y acuerdos con otras Administraciones, instituciones y en
 publicas o privadas relativos a planes, programas, servicios, actividades y medios relacionados
 con las areas materiales de educacion, formacion profesional, actividad fisica y deportes.
 h) Aprobar el plan estratégico de subvenciones conforme al contenido establecido en
-s             
+s
 establece el regimen general de subvenciones de la Comunidad Autonoma de Canarias, o
 norma que lo sustituya.
 i) Establecer, impulsar o desarrollar los cauces de colaboracion, cooperacion, coordinacion
@@ -2101,4 +2102,3 @@ y tiene la composicion, organizacion y funciones establecidas reglamentariamente
 - [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
 - [**BOE-A-2021-11382**](../../../estatal/07_convivencia_bienestar_y_protocolos/L2_2021_igualdad_social_no_discriminacion_razon_identidad.md)
 - [**Decreto BOC 212/1991**](./D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

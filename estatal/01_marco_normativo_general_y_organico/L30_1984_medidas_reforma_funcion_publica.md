@@ -48,6 +48,7 @@ fundamentos_derecho:
   articulos:
   - '27'
 ---
+
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**
@@ -2993,4 +2994,3 @@ FELIPE GONZÁLEZ MÁRQUEZ
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
-

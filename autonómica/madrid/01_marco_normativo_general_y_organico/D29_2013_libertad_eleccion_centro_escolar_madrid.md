@@ -37,40 +37,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Inicio
-ELI
-Comunidad de Madrid
-Decreto
-2019
-Marzo
-05
-11
-Boletín Oficial de la Comunidad de Madrid - Núm 59
-Fecha del Boletín
-11-03-2019
-Sección 1.1.90.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20190311-1
-Páginas: 4
-Permalink ELI:
-https://www.bocm.es/eli/es-md/d/2019/03/05/11
-PDF de la disposición  (113 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-CONSEJERÍA DE EDUCACIÓN E INVESTIGACIÓN
-1
 DECRETO 11/2019, de 5 de marzo, del Consejo de Gobierno, por el que se modifica el Decreto 29/2013, de 11 de abril, de Libertad de Elección de Centro Escolar en la Comunidad de Madrid.
 El Decreto 29/2013, de 11 de abril, del Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de Madrid establece el marco y el procedimiento general para la admisión de alumnos en centros docentes sostenidos con fondos públicos de segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria, Bachillerato y Educación Especial en la Comunidad de Madrid.
 La experiencia acumulada desde su entrada en vigor y las mejoras procedimentales derivadas de la aplicación de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, hacen necesaria su modificación con el fin de facilitar, entre otros objetivos, la mejora de la equidad y transparencia en la admisión de alumnos en centros sostenidos con fondos públicos, el agrupamiento de hermanos en un mismo centro educativo y la unificación del sorteo público que permita resolver los posibles casos de empate en puntuación que se produzcan en cada centro.
@@ -220,9 +186,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20190311-1
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

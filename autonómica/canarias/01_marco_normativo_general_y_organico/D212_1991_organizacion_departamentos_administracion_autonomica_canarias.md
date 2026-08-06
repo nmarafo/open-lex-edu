@@ -95,12 +95,12 @@ Disposiciones generales
 
 Artículo 1.- La organización de los Departamentos en que se estructura la Administración autonómica de Canarias se efectuará, a tenor de los principios constitucionales, estatutarios y legales que regulan la materia, en la forma que se establece en este Decreto.
 
-Artículo 2.- 
-1. La Administración autonómica se organiza y funciona bajo el principio de ordenación jerárquica de sus órganos. 
+Artículo 2.-
+1. La Administración autonómica se organiza y funciona bajo el principio de ordenación jerárquica de sus órganos.
 2. Son órganos superiores de los Departamentos las viceconsejerías, las secretarías generales técnicas y las direcciones generales.
 3. Se podrán establecer direcciones territoriales para desarrollar las funciones del Departamento, o un sector material de éstas, en un ámbito espacial localizado.
 
-Artículo 3.- 
+Artículo 3.-
 1. Los órganos de superior rango jerárquico dirigen la actuación de los inferiores y unidades administrativas que les estén adscritos o dependan de ellos funcionalmente.
 2. El ejercicio del poder de dirección comprende las facultades necesarias para integrar la acción pública del conjunto orgánico dentro del marco jurídico aplicable, y en particular las siguientes:
 a) fijar los objetivos a alcanzar;
@@ -111,18 +111,18 @@ e) supervisar el cumplimiento de las líneas de actuación;
 f) inspeccionar y evaluar el rendimiento de los servicios;
 g) corregir las desviaciones que se produzcan.
 
-Artículo 4.- 
+Artículo 4.-
 1. Los órganos departamentales, en el ámbito de atribuciones que les sea propio, podrán dictar instrucciones y directrices a los órganos y unidades que dependan funcionalmente de los mismos.
 2. Las instrucciones son obligatorias para sus destinatarios en todos sus elementos.
 3. Las directrices obligan a sus destinatarios por lo que respecta a los resultados que deban conseguirse y, en su caso, al plazo para alcanzarlos, con libertad en cuanto a los medios dentro de los límites del ordenamiento jurídico.
 
-Artículo 5.- 
+Artículo 5.-
 1. La sustitución de los titulares de las Consejerías se efectuará por el Presidente del Gobierno, de acuerdo con el artículo 9.1 de la Ley territorial 1/1983, de 14 de abril.
 2. En los casos de vacante, ausencia o enfermedad sustituirán al titular del órgano superior correspondiente los de los órganos inferiores, o en su defecto, unidades administrativas que le estén adscritos, por el orden que se establezca en el reglamento orgánico aplicable, salvo que el titular del Departamento disponga expresamente otra cosa.
 
 Artículo 6.- Si alguna disposición atribuye competencia a la Administración autonómica, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes no corresponde a los órganos centrales, sino a los inferiores competentes por razón de la materia y del territorio, y, de existir varios de éstos la instrucción y la resolución se entenderá atribuida al órgano de competencia territorial más amplia.
 
-Artículo 7.- 
+Artículo 7.-
 1. Los órganos superiores podrán recabar el conocimiento de los asuntos que competan a los inferiores jerárquicos en los supuestos previstos en las leyes.
 2. La avocación supone una excepción al sistema de reparto de competencias establecido en la normativa, por lo que su ejercicio no podrá alcanzar efectos generales sino limitarse a un expediente o conjunto de expedientes determinados.
 3. La efectividad de la avocación requiere que se adopte en forma motivada y que sea comunicada al órgano afectado y a los interesados en el procedimiento.
@@ -134,15 +134,15 @@ Capítulo II
 Órganos y unidades departamentales
 
 Sección 1ª - Viceconsejerías
-Artículo 9.- 
+Artículo 9.-
 1. Las viceconsejerías son órganos de los Departamentos a los que corresponde un sector material de las funciones de éstos.
 2. En el ámbito de sus atribuciones, las viceconsejerías dependen directamente de los titulares de los Departamentos.
-3. De las viceconsejerías dependen las direcciones generales y territoriales que les estén adscritos. 
+3. De las viceconsejerías dependen las direcciones generales y territoriales que les estén adscritos.
 4. Los viceconsejeros se asimilan a los consejeros en cuanto al régimen de incompatibilidades e inelegibilidades.
 
 Artículo 10.- Los viceconsejeros son nombrados y cesados por Decreto del Gobierno a propuesta del Consejero correspondiente.
 
-Artículo 11.- 
+Artículo 11.-
 1. Los viceconsejeros, en el área de actividad que tengan encomendada, desempeñan las atribuciones que se especifiquen en el correspondiente reglamento orgánico, ejercen la iniciativa, dirección e inspección de todas las unidades que tienen adscritas, elaboran las propuestas de planes y programas de actuación e instruyen y formulan la propuesta de resolución en aquellos procedimientos en que deban resolver los consejeros.
 2. Salvo lo establecido en norma autonómica de rango legal, las viceconsejerías tienen competencia para incoar y resolver los procedimientos sancionadores por infracciones calificadas como graves.
 3. Las viceconsejerías son órganos de contratación, con todas las facultades inherentes, hasta un límite de cincuenta millones de pesetas, en cuanto sea necesario para la consecución de los intereses públicos que tienen confiados.
@@ -150,13 +150,13 @@ Artículo 11.-
 Artículo 12.- Contra los actos administrativos que dicten los viceconsejeros cabe recurso de alzada ante el Consejero correspondiente en los términos previstos en el procedimiento administrativo común.
 
 Sección 2ª - Secretarías generales técnicas
-Artículo 13.- 
+Artículo 13.-
 1. Las secretarías generales técnicas son órganos horizontales de coordinación administrativa general de los Departamentos.
 2. En el ámbito de sus atribuciones, las secretarías generales técnicas dependen directamente de los consejeros.
 
 Artículo 14.- Los secretarios generales técnicos son nombrados y cesados por Decreto del Gobierno a propuesta del Consejero correspondiente.
 
-Artículo 15.- 
+Artículo 15.-
 1. Los secretarios generales técnicos, en el área de actividad que tienen encomendada, instruyen y formulan la propuesta de resolución en aquellos procedimientos en que deban resolver los consejeros.
 2. Corresponden a las secretarías generales técnicas la elaboración de los proyectos de planes y programas de los Departamentos, integrando las iniciativas y propuestas de los demás órganos departamentales, y la coordinación de la ejecución de los planes y programas aprobados.
 3. En materia presupuestaria son funciones de las secretarías generales técnicas:
@@ -168,7 +168,7 @@ d) realizar el seguimiento y evaluación de los programas de gastos.
 Artículo 16.- Contra los actos administrativos que dicten los secretarios generales técnicos cabe recurso de alzada ante el Consejero correspondiente.
 
 Sección 3ª - Direcciones generales
-Artículo 17.- 
+Artículo 17.-
 1. Las direcciones generales son órganos a los que corresponde un sector material de las funciones del Departamento.
 2. En el ámbito de sus atribuciones, las direcciones generales dependen directamente de las viceconsejerías a que estén adscritas.
 
@@ -248,4 +248,3 @@ Establecen el régimen de conflictos de atribuciones, derogaciones y entrada en 
 
 ### Fundamentos de Derecho
 - `norm-can-l-1-1983`
-

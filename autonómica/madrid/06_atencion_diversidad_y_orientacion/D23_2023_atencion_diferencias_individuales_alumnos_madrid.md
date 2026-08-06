@@ -36,30 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Boletín Oficial de la Comunidad de Madrid - Núm 47
-Fecha del Boletín
-24-02-2023
-Sección 1.2.26.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20230224-4
-Páginas: 1
-PDF de la disposición  (74 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-CONSEJERÍA DE PRESIDENCIA, JUSTICIA E INTERIOR
-4
 DECRETO 10/2023, de 23 de febrero, del Consejo de Gobierno, por el que cesa doña Sandra María Fernández Hernández como Directora General de Medios de Comunicación.
 De conformidad con lo dispuesto en los artículos 21.m) y 31.c) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, a propuesta del Consejero de Presidencia, Justicia e Interior, y previa deliberación, el Consejo de Gobierno, en su reunión del día 23 de febrero de 2023,
 DISPONE
@@ -77,9 +53,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20230224-4
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

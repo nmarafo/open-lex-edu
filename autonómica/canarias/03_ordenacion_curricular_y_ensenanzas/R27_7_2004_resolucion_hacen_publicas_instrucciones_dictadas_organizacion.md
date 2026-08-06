@@ -44,6 +44,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
 anexos_extraidos_pdf: true
 ---
+
 ## Preámbulo
 
 # - Resolución de la Dirección General de Formación Profesional y Educación de Adultos,de 27 de julio de 2004, por la que se hacen públicas las instrucciones dictadas sobre la organización y funcionamiento de los Conservatorios y Centros Autorizados elementales y profesionales de música, en la Comunidad Autónoma de Canarias
@@ -52,14 +53,9 @@ BOC - 2004/189. Miércoles 29 de Septiembre de 2004 - 1380
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 2004
 2004/189. Miércoles 29 de Septiembre de 2004
@@ -263,4 +259,3 @@ segunda en junio o septiembre, respectivamente.
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
-

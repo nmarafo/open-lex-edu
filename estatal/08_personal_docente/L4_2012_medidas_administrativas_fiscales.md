@@ -49,6 +49,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2010-4518
 ---
+
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## EXPOSICIÓN DE MOTIVOS
@@ -5228,4 +5229,3 @@ Santa Cruz de Tenerife, 25 de junio de 2012.–El Presidente del Gobierno, Paul
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2010-4518**](../07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
-

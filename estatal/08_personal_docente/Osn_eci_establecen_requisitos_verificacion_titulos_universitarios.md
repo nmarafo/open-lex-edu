@@ -37,6 +37,7 @@ fundamentos_derecho:
   - '1'
   - '2'
 ---
+
 # Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas.
 
 La disposición adicional novena del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, establece que el Ministerio de Educación y Ciencia precisará los contenidos de su anexo I a los que habrán de ajustarse las solicitudes presentadas por las universidades para la obtención de la verificación de los planes de estudios conducentes a la obtención de títulos oficiales de Grado o de Máster, prevista en su artículo 24, que habiliten para el ejercicio de profesiones reguladas.
@@ -186,4 +187,3 @@ Adquirir experiencia en la planificación, la docencia y la evaluación de las m
 
 ### Fundamentos de Derecho
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-

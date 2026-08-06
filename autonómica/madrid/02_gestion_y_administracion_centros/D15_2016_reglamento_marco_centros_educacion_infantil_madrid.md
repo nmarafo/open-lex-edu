@@ -37,18 +37,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 15/2016, de 23 de febrero, del Consejo de Gobierno, por el que se aprueba el Reglamento marco de organización y funcionamiento de los centros públicos de Educación Infantil de la Comunidad de Madrid**
-
-MIÉRCOLES 24 DE FEBRERO DE 2016
-B.O.C.M. Núm. 46
-Pág. 9
-BOCM-20160224-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Empleo y Hacienda
-1
 ORDEN de 12 de febrero de 2016, de la Consejera de Economía, Empleo y Ha-
 cienda, por la que se aprueba la convocatoria pública para la provisión de pues-
 tos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso

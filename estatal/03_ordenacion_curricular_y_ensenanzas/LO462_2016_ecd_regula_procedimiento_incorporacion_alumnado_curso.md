@@ -75,6 +75,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
 
 La Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa, establece una nueva ordenación de las enseñanzas del sistema educativo español cuyo calendario de implantación se recoge en su disposición final quinta. De acuerdo con el mismo, se prevé que la nueva ordenación sustituya de manera progresiva a la definida por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción original.
@@ -205,8 +206,6 @@ Tecnologías (1.º-3.º ESO).
 
 Tecnología (1.º-3.º ESO).
 
-Bachillerato
-
 Troncales
 
 Cultura audiovisual.
@@ -282,4 +281,3 @@ Tecnologías de la Información y la Comunicación I.
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

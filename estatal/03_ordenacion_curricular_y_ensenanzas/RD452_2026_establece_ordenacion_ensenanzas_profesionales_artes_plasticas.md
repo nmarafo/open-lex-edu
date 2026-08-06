@@ -67,6 +67,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2013-12632
 ---
+
 # [Real Decreto 452/2026](RD452_2026_correccion_errores_real_decreto_establece_ordenacion.md), de 3 de junio, por el que se establece la ordenación de las Enseñanzas Profesionales de Artes Plásticas y Diseño.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, incluye las Enseñanzas Profesionales de Artes Plásticas y Diseño entre las enseñanzas artísticas, a las que dedica el capítulo VI de su título I. Su finalidad es proporcionar una formación artística de calidad al alumnado y garantizar la cualificación de los futuros profesionales del ámbito de las artes plásticas y el diseño.
@@ -1351,4 +1352,3 @@ CE9.5. Se ha integrado la transformación digital como un elemento natural de 
 - [**BOE-A-2007-10487**](../05_alumnado_y_servicios_escolares/RD596_2007_establece_ordenacion_general_ensenanzas_profesionales_artes.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2013-12632**](../07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
-

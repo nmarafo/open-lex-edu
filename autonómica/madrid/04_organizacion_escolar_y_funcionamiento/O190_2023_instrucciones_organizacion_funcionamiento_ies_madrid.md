@@ -37,171 +37,37 @@ relaciones:
 
 wleg_pub - Comunidad de Madrid - madrid.org
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
-    
-        
-        
-
-        
-
-    
-
-        
-            
-                
-                
-            
-        
-
-    
-    
-        
-        
-
-            
-                        
-            
-
-        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-
-        
-
-        
-                    
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
 ## Legislación de la Comunidad de Madrid
 
-        
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-        
-        
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-    
-    
+Búsqueda
 
-    
-        
-            
-                 
-            
-            
-            
-                 
-                    
-                
-            
-        
+Orden 103/2023, de 30 de enero
 
-    
-        
-        
-                
-                    
-                        
-                    
-                
-                
-                    
-                        
-                    
-                
+Navegar entre documentos consultados
 
-        
-            
-                
-                
-            
-        
-        
-
-    
-
-        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
-        
-
-        
-        
-
-        
-        
-
-    
-            
-        
-            
-                
-    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-                
-    
-                
-                    
-        
-            
-			
-            
-            Búsqueda   
-            
-                Orden 103/2023, de 30 de enero
-                
-       
-                    
-                    
-                        Navegar entre documentos consultados
-
-         
 Enviar EMAIL:                                         Orden 103/2023, de 30 de eneroDestinatarioEnviar
-                        
-                        
-                        
 
-                        
+Se ha copiado en el portapapeles el enlace a la norma:                                    Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Orden 103/2023, de 30 de enerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13110Se ha copiado en el portapapeles la URI-ELI de la norma: Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Orden 103/2023, de 30 de eneroGuardar:                          Orden 103/2023, de 30 de enero
 
-                        
-						
-						
-        
-        
-						Se ha copiado en el portapapeles el enlace a la norma:                                    Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Orden 103/2023, de 30 de enerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13110Se ha copiado en el portapapeles la URI-ELI de la norma: Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Orden 103/2023, de 30 de eneroGuardar:                          Orden 103/2023, de 30 de enero
+HTML
 
-            
-          
-                 
-				
-                 
-                
-                               
-                               HTML
-                
-          
-         
- 
-         
-            
-                   
-                    Obtener enlace
-							Enviar
-							Guardar                
-                        
-							Imprimir
-                        
-                        Nueva Búsqueda
-                                                    
-							Documentos
-                       
-                    
-                    
-                    
-                    
-                    [ Disposición derogada ]
+Obtener enlace
+Enviar
+Guardar
+
+Imprimir
+
+Nueva Búsqueda
+
+Documentos
+
+[ Disposición derogada ]
 
 Consejería de Presidencia, Justicia y Administración Local
 Comunidad de Madrid

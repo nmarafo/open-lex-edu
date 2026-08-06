@@ -79,14 +79,6 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
@@ -94,8 +86,6 @@ Búsqueda
 SEDE
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -808,4 +798,3 @@ Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. S
 - [**BOE-A-2010-4518**](../../../estatal/07_convivencia_bienestar_y_protocolos/L1_2010_canaria_igualdad_entre_mujeres_hombres.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
-

@@ -35,6 +35,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 ## Preámbulo
 
 # Resolución por la que se dictan instrucciones para la organización y funcionamiento de los centros docentes públicos para el curso escolar 2025-2026.

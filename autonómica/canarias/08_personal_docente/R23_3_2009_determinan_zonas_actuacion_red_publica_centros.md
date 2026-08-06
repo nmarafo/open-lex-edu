@@ -41,6 +41,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2009/082/boc-2009-082-009.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=61148
 ---
+
 ## Preámbulo
 
 # Dirección General de Formación Profesional y Educación de Adultos.- Resolución de 23 de marzo de 2009, por la que se determinan las zonas de actuación de la red pública de Centros de Educación de Personas Adultas de la Comunidad Autónoma de Canarias (BOC n.º 82, de 30 de abril).
@@ -58,7 +59,7 @@ Primero.- Los Centros de Educación de Personas
 Adultas tienen una oferta educativa orientada a dar respuesta a las demandas y necesidades formativas de la
 población adulta, en sus ámbitos geográficos de actuación.
 Segundo.- Para evitar que la lejanía dificulte la igualdad de oportunidades en el acceso a la educación de personas adultas, es preciso establecer unos ámbitos geográficos de admisión preferente para los que demandan
-esta formación. 
+esta formación.
 Tercero.- Igualmente, es necesario garantizar la
 coordinación de la oferta formativa de educación de
 personas adultas y de los recursos humanos, así como
@@ -75,7 +76,7 @@ Segundo.- El Decreto 61/2007, de 26 de marzo, por
 el que se regula la admisión del alumnado de enseñanzas no universitarias en los centros docentes públicos y
 privados concertados de la Comunidad Autónoma de Canarias (B.O.C. nº 67, de 3 de abril), que en su Disposición Adicional Tercera.- Admisión del alumnado en centros que impartan enseñanzas de régimen especial o de
 educación de personas adultas, determina que en las enseñanzas destinadas a personas adultas será de aplicación su norma específica de admisión, actuando dicho
-Decreto como norma supletoria para aquellos supuestos no contemplados en aquélla. 
+Decreto como norma supletoria para aquellos supuestos no contemplados en aquélla.
 Tercero.- La Orden de la Consejería de Educación,
 Cultura y Deportes, de 27 de marzo de 2007, por la que
 se desarrolla el procedimiento de admisión del alumnado en las enseñanzas no universitarias en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Canarias (B.O.C. nº70, de 9 de abril),
@@ -91,9 +92,9 @@ de Centros de Educación de Personas Adultas (CEPA)
 de Canarias, de acuerdo con lo establecido en el anexo
 de esta Resolución.
 Segundo.- Los equipos directivos de los CEPAarbitrarán el procedimiento más adecuado para que la presente Resolución sea conocida y difundida entre la comunidad educativa, haciéndoles llegar copia de la misma,
-cuando así se solicite por las personas interesadas, y exponiendo permanentemente una en el tablón de anuncios del centro. 
+cuando así se solicite por las personas interesadas, y exponiendo permanentemente una en el tablón de anuncios del centro.
 Tercero.- La Inspección de Educación velará por el
-cumplimiento de esta Resolución y asesorará en aquellos aspectos que le soliciten los centros. 
+cumplimiento de esta Resolución y asesorará en aquellos aspectos que le soliciten los centros.
 Santa Cruz de Tenerife, a 23 de marzo de 2009.- El
 Director General de Formación Profesional y Educación
 de Adultos, Manuel Jorge Pérez.
@@ -115,7 +116,7 @@ La finalidad de la red de Centros de Educación de
 Personas Adultas es posibilitar la organización de la
 respuesta educativa de cada CEPA, de acuerdo con
 las características del territorio que han de atender,
-en sus distintos ámbitos de actuación. 
+en sus distintos ámbitos de actuación.
 2. Objetivos de la red de centros.
 Con carácter general, la red de CEPAde Canarias
 ha de facilitar la consecución de los siguientes objetivos:
@@ -168,4 +169,3 @@ realizar los Ayuntamientos.
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

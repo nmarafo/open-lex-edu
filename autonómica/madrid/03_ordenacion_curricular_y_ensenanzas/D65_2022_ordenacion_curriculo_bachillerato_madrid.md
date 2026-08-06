@@ -35,202 +35,45 @@ relaciones:
 
 wleg_pub - Comunidad de Madrid - madrid.org
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
-    
-        
-        
-
-        
-
-    
-
-        
-            
-                
-                
-            
-        
-
-    
-    
-        
-        
-
-            
-                        
-            
-
-        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-
-        
-
-        
-                    
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
 ## Legislación de la Comunidad de Madrid
 
-        
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-        
-        
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-    
-    
-
-    
-        
-            
-                 
-            
-            
-            
-                 
-                    
-                
-            
-        
-
-    
-        
-        
-                
-                    
-                        
-                    
-                
-                
-                    
-                        
-                    
-                
-
-        
-            
-                
-                
-            
-        
-        
-
-    
-
-        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
-        
-
-        
-        
-
-        
-        
-
-    
-            
-        
-            
-                
-    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-                
-    
-                
-                    
-        
-            
-			
-            
-            Búsqueda   
-            
-                Resolución 17/2022, de 11 de febrero
-                
-       
-                    
-                    
-                        Navegar entre documentos consultados
+Búsqueda
 
 Resolución 17/2022, de 11 de febrero
-         
+
+Navegar entre documentos consultados
+
+Resolución 17/2022, de 11 de febrero
+
 Enviar EMAIL:                                         Resolución 17/2022, de 11 de febreroDestinatarioEnviar
-                        
-                        
-                        
 
-                        
+Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución 17/2022, de 11 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución 17/2022, de 11 de febrerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12520Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución 17/2022, de 11 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución 17/2022, de 11 de febreroGuardar:                          Resolución 17/2022, de 11 de febrero
 
-                        
-						
-						
-        
-        
-						Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución 17/2022, de 11 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución 17/2022, de 11 de febrerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=12520Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución 17/2022, de 11 de febreroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución 17/2022, de 11 de febreroGuardar:                          Resolución 17/2022, de 11 de febrero
+PDF
 
-            
-          
-                 
-				
-							
-                               PDF
-                               
-                
-                 
-				
-							
-                               WORD
-                               
-                
-                 
-				
-                 
-                
-                               
-                               HTML
-                
-          
-         
- 
-         
-            
-                   
-                    Obtener enlace
-							Enviar
-							Guardar                
-                        
-							Imprimir
-                        
-                        Nueva Búsqueda
-                                                    
-							Documentos
-                       
-                    
-                    
-                    
-                    
-                    
-                             
-							
-                             
-                            
-							
-                                           ver PDF
-                                           
-                            
-                             
-							
-                             
-                            
-							
-                                           ver WORD
-                                           
-                            
-                             
-							
+WORD
+
+HTML
+
+Obtener enlace
+Enviar
+Guardar
+
+Imprimir
+
+Nueva Búsqueda
+
+Documentos
+
+ver PDF
+
+ver WORD
 
 Consejería de Presidencia, Justicia y Administración Local
 Comunidad de Madrid

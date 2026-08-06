@@ -37,41 +37,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Inicio
-ELI
-Comunidad de Madrid
-Ley
-2022
-Febrero
-10
-1
-Boletín Oficial de la Comunidad de Madrid - Núm 38
-Fecha del Boletín
-15-02-2022
-Sección 1.1.25.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20220215-1
-Páginas: 18
-Permalink ELI:
-https://www.bocm.es/eli/es-md/l/2022/02/10/1
-Ver texto consolidado
-PDF de la disposición  (265 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-PRESIDENCIA DE LA COMUNIDAD
-1
 LEY 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.
 La Presidenta de la Comunidad de Madrid.
 Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
@@ -398,9 +363,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20220215-1
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

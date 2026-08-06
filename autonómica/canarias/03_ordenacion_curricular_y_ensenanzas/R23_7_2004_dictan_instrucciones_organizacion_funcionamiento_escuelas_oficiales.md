@@ -48,6 +48,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2004/160/boc-2004-160-003.pdf
 fuente_juriscan: http://www.gobcan.es/juriscan/ficha.jsp?id=49002
 ---
+
 ## Preámbulo
 
 # Resolución de 23 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para la organización y funcionamiento de las Escuelas Oficiales de Idiomas dependientes de la Consejería de Educación, Cultura y Deportes del Gobierno de Canarias (BOC n.º 160, de 19 de agosto).
@@ -1259,4 +1260,3 @@ para la organización de la oferta de la Formación Básica de Personas Adultas 
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
 - [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
 - [**BOE-A-2001-7022**](../../../estatal/02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
-

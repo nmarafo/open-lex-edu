@@ -47,6 +47,7 @@ fundamentos_derecho:
   articulos:
   - '40.2'
 ---
+
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
 **JUAN CARLOS I**
@@ -1298,4 +1299,3 @@ FELIPE GONZALEZ MARQUEZ
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-

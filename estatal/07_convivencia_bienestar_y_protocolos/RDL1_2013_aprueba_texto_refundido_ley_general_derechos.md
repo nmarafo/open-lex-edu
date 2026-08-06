@@ -52,17 +52,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
-# Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
-
-Las personas con discapacidad conforman un grupo vulnerable y numeroso al que el modo en que se estructura y funciona la sociedad ha mantenido habitualmente en conocidas condiciones de exclusión. Este hecho ha comportado la restricción de sus derechos básicos y libertades condicionando u obstaculizando su desarrollo personal, así como el disfrute de los recursos y servicios disponibles para toda la población y la posibilidad de contribuir con sus capacidades al progreso de la sociedad.
-
-El anhelo de una vida plena y la necesidad de realización personal mueven a todas las personas, pero esas aspiraciones no pueden ser satisfechas si se hallan restringidos o ignorados los derechos a la libertad, la igualdad y la dignidad. Este es el caso en que se encuentran aún hoy mujeres y hombres con discapacidad, quienes, a pesar de los innegables progresos sociales alcanzados, ven limitados esos derechos en el acceso o uso de entornos, procesos o servicios que o bien no han sido concebidos teniendo en cuenta sus necesidades específicas o bien se revelan expresamente restrictivos a su participación en ellos.
-
-Existe, pues, un variado y profuso conjunto de impedimentos que privan a las personas con discapacidad del pleno ejercicio de sus derechos y los efectos de estos obstáculos se materializan en una situación de exclusión social, que debe ser inexcusablemente abordada por los poderes públicos.
-
-El impulso de las medidas que promuevan la igualdad de oportunidades suprimiendo los inconvenientes que se oponen a la presencia integral de las personas con discapacidad concierne a todos los ciudadanos, organizaciones y entidades, pero, en primer lugar, al legislador, que ha de recoger las necesidades detectadas y proponer las soluciones y las líneas generales de acción más adecuadas. Como ya se ha demostrado con anterioridad, es necesario que el marco normativo y las acciones públicas en materia de discapacidad intervengan en la organización social y en sus expresiones materiales o relacionales que con sus estructuras y actuaciones segregadoras postergan o apartan a las personas con discapacidad de la vida social ordinaria, todo ello con el objetivo último de que éstas puedan ser partícipes, como sujetos activos titulares de derechos, de una vida en iguales condiciones que el resto de los ciudadanos.
-
-En este sentido, la Ley 13/1982, de 7 de abril, de integración social de las personas con discapacidad, fue la primera ley aprobada en España dirigida a regular la atención y los apoyos a las personas con discapacidad y sus familias, en el marco de los artículos 9, 10, 14 y 49 de la Constitución, y supuso un avance relevante para la época.
 
 La Ley 13/1982, de 7 de abril, participaba ya de la idea de que el amparo especial y las medidas de equiparación para garantizar los derechos de las personas con discapacidad debía basarse en apoyos complementarios, ayudas técnicas y servicios especializados que les permitieran llevar una vida normal en su entorno. Estableció un sistema de prestaciones económicas y servicios, medidas de integración laboral, de accesibilidad y subsidios económicos, y una serie de principios que posteriormente se incorporaron a las leyes de sanidad, educación y empleo.
 
@@ -1328,4 +1317,3 @@ Asimismo, en el caso de las enseñanzas universitarias, el Gobierno fomentará q
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

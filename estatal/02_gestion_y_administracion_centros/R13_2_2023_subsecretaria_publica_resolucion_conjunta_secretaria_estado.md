@@ -52,6 +52,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Resolución de 13 de febrero de 2023, de la Subsecretaría, por la que se publica la Resolución de 8 de febrero de 2023, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
 
 El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha 8 de febrero de 2023, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2022-2023.
@@ -226,4 +227,3 @@ Humanidades y Ciencias Sociales.
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

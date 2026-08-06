@@ -34,202 +34,29 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-wleg_pub - Comunidad de Madrid - madrid.org
+Decreto 35/2023, de 12 de abril
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-   
-    
-        
-        
+Navegar entre documentos consultados
 
-        
-
-    
-
-        
-            
-                
-                
-            
-        
-
-    
-    
-        
-        
-
-            
-                        
-            
-
-        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-
-        
-
-        
-                    
-
-## Legislación de la Comunidad de Madrid
-
-        
-
-        
-        
-
-    
-    
-
-    
-        
-            
-                 
-            
-            
-            
-                 
-                    
-                
-            
-        
-
-    
-        
-        
-                
-                    
-                        
-                    
-                
-                
-                    
-                        
-                    
-                
-
-        
-            
-                
-                
-            
-        
-        
-
-    
-
-        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
-        
-
-        
-        
-
-        
-        
-
-    
-            
-        
-            
-                
-    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-                
-    
-                
-                    
-        
-            
-			
-            
-            Búsqueda   
-            
-                Decreto 35/2023, de 12 de abril
-                
-       
-                    
-                    
-                        Navegar entre documentos consultados
-
-         
 Enviar EMAIL:                                         Decreto 35/2023, de 12 de abrilDestinatarioEnviar
-                        
-                        
-                        
 
-                        
+Se ha copiado en el portapapeles el enlace a la norma:                                    Decreto 35/2023, de 12 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Decreto 35/2023, de 12 de abrilhttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13200Se ha copiado en el portapapeles la URI-ELI de la norma: Decreto 35/2023, de 12 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Decreto 35/2023, de 12 de abrilhttps://www.bocm.es/eli/es-md/d/2023/04/12/35/conGuardar:                          Decreto 35/2023, de 12 de abril
 
-                        
-						
-						
-        
-        
-						Se ha copiado en el portapapeles el enlace a la norma:                                    Decreto 35/2023, de 12 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Decreto 35/2023, de 12 de abrilhttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13200Se ha copiado en el portapapeles la URI-ELI de la norma: Decreto 35/2023, de 12 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Decreto 35/2023, de 12 de abrilhttps://www.bocm.es/eli/es-md/d/2023/04/12/35/conGuardar:                          Decreto 35/2023, de 12 de abril
+HTML
 
-            
-          
-                 
-				
-                 
-                
-                               
-                               HTML
-                
-          
-         
- 
-         
-            
-                   
-                    Obtener enlace
-							Enviar
-							Guardar                
-                        
-							Imprimir
-                        
-                        Nueva Búsqueda
-                                                    
-							Documentos
-                       
-                    
-                                                 
-                    		
-                       ELI    Obtener PERMALINK
-                    
-                    
-                    [ Disposición derogada ]
+Obtener enlace
+Enviar
+Guardar
+
+Imprimir
+
+Nueva Búsqueda
+
+Documentos
+
+ELI    Obtener PERMALINK
+
+[ Disposición derogada ]
 
 Consejería de Presidencia, Justicia y Administración Local
 Comunidad de Madrid

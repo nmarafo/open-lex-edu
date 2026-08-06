@@ -47,7 +47,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-6115
 ---
-# Real Decreto 935/2010, de 23 de julio, por el que se establecen los títulos de Técnico Deportivo en vela con aparejo fijo y Técnico Deportivo en vela con aparejo libre, y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
 
@@ -5063,7 +5062,7 @@ h.	Se ha elaborado un ciclo/etapa de preparación completa de un regatista o gru
 
 –	Sesiones de entrenamiento.
 
- Y adecuándose a las características del regatista o grupo de regatistas y los medios de entrenamiento existentes.
+Y adecuándose a las características del regatista o grupo de regatistas y los medios de entrenamiento existentes.
 
 i.	Se han explicado los contenidos de la sesión de entrenamiento básico y perfeccionamiento técnico en vela con aparejo fijo, siguiendo los protocolos y técnicas establecidas de forma clara y motivadora.
 
@@ -7210,4 +7209,3 @@ MED-VEVE202: Competiciones y eventos a vela. MED-VEVE201: Escuela de vela.
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
-

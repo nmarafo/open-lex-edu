@@ -36,18 +36,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2015/06/02/BOCM-20150602-1.PDF
 ---
 
-**Orden 1493/2015, de 22 de mayo, de la Consejería de Educación, Juventud y Deporte, por la que se regula la evaluación de los alumnos con necesidades específicas de apoyo educativo en la Comunidad de Madrid**
-
-MARTES 2 DE JUNIO DE 2015
-Pág. 10
-B.O.C.M. Núm. 129
-BOCM-20150602-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía y Hacienda
-1
 RESOLUCIÓN de 21 de mayo de 2015, del Secretario General Técnico de la
 Consejería de Economía y Hacienda, por la que se convoca un puesto de trabajo
 para su provisión por el sistema de Libre Designación en la Consejería de Eco-
@@ -211,7 +199,7 @@ TRIBUTARIAS Y
 NOMINAS
 A/B
 26
-    18.038,64
+18.038,64
 COMUNIDAD DE MADRID
 CONSEJERIA ECONOMIA Y HACIENDA
 VICECONSEJERIA HACIENDA Y POLITICA

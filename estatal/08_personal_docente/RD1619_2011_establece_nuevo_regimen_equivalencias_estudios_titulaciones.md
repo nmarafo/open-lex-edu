@@ -35,6 +35,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Real Decreto 1619/2011, de 14 de noviembre, por el que se establece el nuevo régimen de equivalencias de los estudios y titulaciones de Ciencias Eclesiásticas de nivel universitario respecto de los títulos universitarios oficiales españoles, en cumplimiento de lo dispuesto en el Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979 sobre Enseñanza y Asuntos Culturales.
 
 El Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, sobre Enseñanza y Asuntos Culturales, establece que la convalidación de los estudios y el reconocimiento por parte del Estado de los efectos civiles de los títulos otorgados en los Centros Superiores de Ciencias Eclesiásticas de la Iglesia Católica, sitos en España o en el extranjero, será objeto de regulación específica de común acuerdo entre las autoridades de la Iglesia y del Estado.
@@ -294,4 +295,3 @@ Facultad de Literatura Cristiana y Clásica «San Justino» de la Universidad Ec
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**L39_2015 Procedimiento Administrativo Comun**](../01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-

@@ -57,129 +57,130 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-141-2508.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 2026, por las que se dictan instrucciones para la implantación y desarrollo de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de Canarias, a partir del curso escolar 2026/2027. (BOC n.º 141, de 15 de julio)
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-2508 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios 
-establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de 
-2026, por las que se dictan instrucciones para la implantación y desarrollo de la 
-oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad 
+2508 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+Resolución de 2 de julio de 2026, por la que se modifican cuadros horarios
+establecidos en las Resoluciones de 26 de noviembre de 2025 y de 27 de enero de
+2026, por las que se dictan instrucciones para la implantación y desarrollo de la
+oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad
 Autónoma de Canarias, a partir del curso escolar 2026/2027.
-Vista la propuesta formulada por la persona responsable del Servicio de Formación 
-Profesional de la Dirección General de Formación Profesional y Enseñanzas de Régimen 
+Vista la propuesta formulada por la persona responsable del Servicio de Formación
+Profesional de la Dirección General de Formación Profesional y Enseñanzas de Régimen
 Especial, y de conformidad con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Con fecha 18 de diciembre de 2025, se publicó la Resolución de 26 de 
-noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de 
-Régimen Especial, por la que se dictan instrucciones para la implantación y desarrollo 
-de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad 
+Primero.- Con fecha 18 de diciembre de 2025, se publicó la Resolución de 26 de
+noviembre de 2025, de la Dirección General de Formación Profesional y Enseñanzas de
+Régimen Especial, por la que se dictan instrucciones para la implantación y desarrollo
+de la oferta de dobles titulaciones de formación profesional (Grados D) en la Comunidad
 Autónoma de Canarias, a partir del curso escolar 2026/2027.
-En el Anexo III de la citada Resolución, se establece, entre otros aspectos, la distribución 
+En el Anexo III de la citada Resolución, se establece, entre otros aspectos, la distribución
 horaria y estructura modular de las siguientes dobles titulaciones de formación profesional:
 Administración y Finanzas y Asistencia a la Dirección.
 Gestión de Ventas y Espacios Comerciales y Marketing y Publicidad.
 Transporte y Logística y Comercio Internacional.
 Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma.
-Segundo.- Con fecha 12 de febrero de 2026, se publicó la Resolución de 27 de enero 
-de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen 
-Especial (en lo sucesivo, 
-DGFPERE), por la que se modifican la Resolución de 26 de 
-noviembre de 2025, que dicta instrucciones para la implantación y desarrollo de la oferta 
-de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de 
-Canarias, a partir del curso escolar 2026/2027, y la [Resolución de 2 de mayo de 2025](R2_5_2025_resoluci_n_mayo_direcci_n_general.md), que 
-dicta instrucciones para la organización de la oferta de dobles titulaciones de formación 
-profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad 
+Segundo.- Con fecha 12 de febrero de 2026, se publicó la Resolución de 27 de enero
+de 2026, de la Dirección General de Formación Profesional y Enseñanzas de Régimen
+Especial (en lo sucesivo,
+DGFPERE), por la que se modifican la Resolución de 26 de
+noviembre de 2025, que dicta instrucciones para la implantación y desarrollo de la oferta
+de dobles titulaciones de formación profesional (Grados D) en la Comunidad Autónoma de
+Canarias, a partir del curso escolar 2026/2027, y la [Resolución de 2 de mayo de 2025](R2_5_2025_resoluci_n_mayo_direcci_n_general.md), que
+dicta instrucciones para la organización de la oferta de dobles titulaciones de formación
+profesional (Grados D) de ciclos formativos con el primer curso en común en la Comunidad
 Autónoma de Canarias, a partir del curso 2025/2026.
-El Anexo I de la Resolución de 27 de enero de 2026, de la 
-DGFPERE, antes citada, 
-establece la distribución horaria y estructura modular de la Doble Titulación de Formación 
-Profesional en Guía, Información y Asistencias Turísticas y Agencias de Viajes y Gestión 
+El Anexo I de la Resolución de 27 de enero de 2026, de la
+DGFPERE, antes citada,
+establece la distribución horaria y estructura modular de la Doble Titulación de Formación
+Profesional en Guía, Información y Asistencias Turísticas y Agencias de Viajes y Gestión
 de Eventos.
-Tercero.- Tras la publicación de las citadas resoluciones, se ha constatado la necesidad 
-de introducir ajustes en los cuadros horarios relativos a la distribución horaria y a la estructura 
-modular de las dobles titulaciones señaladas en los antecedentes primero y segundo. 
+Tercero.- Tras la publicación de las citadas resoluciones, se ha constatado la necesidad
+de introducir ajustes en los cuadros horarios relativos a la distribución horaria y a la estructura
+modular de las dobles titulaciones señaladas en los antecedentes primero y segundo.
 
-Dichos ajustes responden a la solicitud de las familias profesionales correspondientes y a 
-razones pedagógicas y organizativas relacionadas con la adecuada planificación de estas 
-enseñanzas y con el desarrollo de la formación en empresa u organismo equiparado en los 
+Dichos ajustes responden a la solicitud de las familias profesionales correspondientes y a
+razones pedagógicas y organizativas relacionadas con la adecuada planificación de estas
+enseñanzas y con el desarrollo de la formación en empresa u organismo equiparado en los
 centros docentes de la Comunidad Autónoma de Canarias.
-Asimismo, las modificaciones no afectan al resto de las instrucciones contenidas en las 
-resoluciones citadas ni a otros cuadros horarios distintos de los expresamente identificados 
+Asimismo, las modificaciones no afectan al resto de las instrucciones contenidas en las
+resoluciones citadas ni a otros cuadros horarios distintos de los expresamente identificados
 en los antecedentes anteriores.
 A los antecedentes expuestos les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
-Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
-Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
-de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
-que conducen a la obtención de un título académico o profesional con validez en todo el 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de
+Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad
+Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia
+de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias
+que conducen a la obtención de un título académico o profesional con validez en todo el
 Estado (...)”.
-Asimismo, de acuerdo con lo previsto en el artículo 133.3.c) del citado texto legal, 
-dicha competencia comprende el establecimiento de los correspondientes planes de estudio 
+Asimismo, de acuerdo con lo previsto en el artículo 133.3.c) del citado texto legal,
+dicha competencia comprende el establecimiento de los correspondientes planes de estudio
 y la ordenación curricular de las enseñanzas.
-Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez 
-aprobado el real decreto correspondiente a un título de formación profesional y hasta que 
-sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+dispone en su artículo 33.3 que, de acuerdo con la normativa básica del Estado, una vez
+aprobado el real decreto correspondiente a un título de formación profesional y hasta que
+sea completado el currículo propio de la Comunidad Autónoma, dicho real decreto actuará
 como norma subsidiaria.
-Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la 
-Formación Profesional, dispone en su artículo 42.2 que podrán realizarse ofertas de dobles 
-titulaciones del Catálogo Nacional de Ofertas de Formación Profesional, siempre que se 
-respete la duración, los módulos profesionales y el porcentaje de optatividad de cada uno 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la
+Formación Profesional, dispone en su artículo 42.2 que podrán realizarse ofertas de dobles
+titulaciones del Catálogo Nacional de Ofertas de Formación Profesional, siempre que se
+respete la duración, los módulos profesionales y el porcentaje de optatividad de cada uno
 de los ciclos formativos.
-Cuarto.- El artículo 84 del [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
-desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad 
-de que las administraciones competentes, de oficio o previa solicitud de los centros del 
-Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo 
-Nacional de Ofertas de Formación Profesional, bajo la denominación de “doble titulación 
+Cuarto.- El artículo 84 del [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
+desarrolla la ordenación del Sistema de Formación Profesional, establece la posibilidad
+de que las administraciones competentes, de oficio o previa solicitud de los centros del
+Sistema de Formación Profesional, integren dos titulaciones del mismo nivel del Catálogo
+Nacional de Ofertas de Formación Profesional, bajo la denominación de “doble titulación
 de formación profesional”.
-Quinto.- Asimismo, el artículo 7.2 del citado [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
-dispone que “Las administraciones educativas establecerán los currículos correspondientes 
-a los Grados D y E, respetando las atribuciones competenciales establecidas en el 
-artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo 
-prescrito por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
-la Formación Profesional, esta disposición y el resto de los desarrollos normativos del 
-Sistema de Formación Profesional. En todo caso, se respetarán siempre todos los elementos 
+Quinto.- Asimismo, el artículo 7.2 del citado [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
+dispone que “Las administraciones educativas establecerán los currículos correspondientes
+a los Grados D y E, respetando las atribuciones competenciales establecidas en el
+artículo 6 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo
+prescrito por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de
+la Formación Profesional, esta disposición y el resto de los desarrollos normativos del
+Sistema de Formación Profesional. En todo caso, se respetarán siempre todos los elementos
 contemplados en el currículo básico”.
 
-En su virtud, y en uso de las competencias que tengo conferidas con base a lo dispuesto 
-en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los 
-Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del 
-Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad 
-Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan 
-las competencias generales y específicas a la Dirección General de Formación Profesional 
+En su virtud, y en uso de las competencias que tengo conferidas con base a lo dispuesto
+en el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de organización de los
+Departamentos de la Administración Autonómica de Canarias, y en el artículo 20 del
+Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad
+Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se asignan
+las competencias generales y específicas a la Dirección General de Formación Profesional
 y Enseñanzas de Régimen Especial,
 RESUELVO :
-Primero.- Modificar la distribución horaria y estructura modular de las dobles 
-titulaciones de formación profesional que se relacionan a continuación, de acuerdo con lo 
+Primero.- Modificar la distribución horaria y estructura modular de las dobles
+titulaciones de formación profesional que se relacionan a continuación, de acuerdo con lo
 recogido en el anexo de la presente Resolución:
-a) Las dobles titulaciones establecidas en el Anexo III de la Resolución de 26 de 
-noviembre de 2025, de la 
+a) Las dobles titulaciones establecidas en el Anexo III de la Resolución de 26 de
+noviembre de 2025, de la
 DGFPERE:
 Administración y Finanzas y Asistencia a la Dirección.
 Gestión de Ventas y Espacios Comerciales y Marketing y Publicidad.
 Transporte y Logística y Comercio Internacional.
 Desarrollo de Aplicaciones web y Desarrollo de Aplicaciones Multiplataforma.
-b) La doble titulación establecida en el Anexo I de la Resolución de 27 de enero de 
+b) La doble titulación establecida en el Anexo I de la Resolución de 27 de enero de
 2026, de la DGFPERE:
 Guía, Información y Asistencias Turísticas y Agencias de Viajes y Gestión de Eventos.
-Segundo.- Encomendar a la Inspección de Educación el asesoramiento a los equipos 
-directivos de los centros docentes en aquellos aspectos específicos relacionados con la 
+Segundo.- Encomendar a la Inspección de Educación el asesoramiento a los equipos
+directivos de los centros docentes en aquellos aspectos específicos relacionados con la
 aplicación de la presente Resolución, así como la supervisión de su adecuado cumplimiento.
-Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de 
-Canarias, así como en la página web de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes, para su general conocimiento. Asimismo, se encomienda a 
-los equipos directivos de los centros docentes que adopten las medidas oportunas para 
+Tercero.- Ordenar la publicación de la presente Resolución en el Boletín Oficial de
+Canarias, así como en la página web de la Consejería de Educación, Formación Profesional,
+Actividad Física y Deportes, para su general conocimiento. Asimismo, se encomienda a
+los equipos directivos de los centros docentes que adopten las medidas oportunas para
 garantizar su difusión entre los distintos sectores de la comunidad educativa.
-Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse 
-recurso de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones 
-Profesionales, en el plazo de un mes, contado a partir del día siguiente al de su publicación 
+Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse
+recurso de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones
+Profesionales, en el plazo de un mes, contado a partir del día siguiente al de su publicación
 en el Boletín Oficial de Canarias, sin perjuicio de cualquier otro que se estime procedente.
-Las Palmas de Gran Canaria, a 2 de julio de 2026.- La Directora General de Formación 
+Las Palmas de Gran Canaria, a 2 de julio de 2026.- La Directora General de Formación
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 Folio 4/8
@@ -189,11 +190,11 @@ DOBLE TITULACIÓN DE FORMACIÓN PROFESIONAL
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN GRADO: SUPERIOR
 CICLO FORMATIVO: ADMINISTRACIÓN Y FINANZAS Y ASISTENCIA A LA DIRECCIÓN
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -229,20 +230,20 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
+RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 ANEXO
-RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE DOBLE 
+RELACIÓN DE CICLOS FORMATIVOS DE GRADO SUPERIOR DE DOBLE
 TITULACIÓN DE FORMACIÓN PROFESIONAL
 
 Folio 5/8
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES Y MARKETING Y PUBLICIDAD
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -264,7 +265,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 1110 Atención al cliente, consumidor y usuario 5 106 3 SÍ
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 0932 Proyecto intermodular de gestión de ventas y espacios 
+2 0932 Proyecto intermodular de gestión de ventas y espacios
 comerciales 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 879 26
 3 0626 Logística de aprovisionamiento* 7 141 4 SÍ
@@ -281,16 +282,16 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 26 27
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
+RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
 Folio 6/8
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING GRADO: SUPERIOR
 CICLO FORMATIVO: TRANSPORTE Y LOGÍSTICA Y COMERCIO INTERNACIONAL
 Curso
-Código Real 
+Código Real
 Decreto DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -326,18 +327,18 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 25 28
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
+RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
 Folio 7/8
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES GRADO: SUPERIOR
-CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB  Y DESARROLLO  DE  APLICACIONES  
+CICLO  FORMATIVO:  DESARROLLO  DE  APLICACIONES  WEB  Y DESARROLLO  DE  APLICACIONES
 MULTIPLATAFORMA
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -358,7 +359,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 0615 Diseño de interfaces web 10 138 4 SÍ
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 0492 Proyecto intermodular de desarrollo de aplicaciones 
+2 0492 Proyecto intermodular de desarrollo de aplicaciones
 multiplataforma
 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 910 27
@@ -374,18 +375,18 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2776 30 27 26
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
+RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 
 Folio 8/8
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO GRADO: SUPERIOR
-CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS Y AGENCIAS DE VIAJES Y GESTIÓN DE 
+CICLO FORMATIVO: GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS Y AGENCIAS DE VIAJES Y GESTIÓN DE
 EVENTOS
 Curso
-Código Real 
+Código Real
 Decreto
 DENOMINACIÓN DEL MÓDULO
 Créditos ECTS
-Duración horas 
+Duración horas
 anuales
 1er curso 2º curso 3er curso
 Asociados a ECP
@@ -403,7 +404,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 0387 Diseño de productos turísticos 9 170 5 SÍ
 2 0398 Venta de servicios turísticos 9 202 6 SÍ
 2 0180 Segunda lengua extranjera* 8 202 6 SÍ
-2 0388 Proyecto intermodular de guía, información y asistencia 
+2 0388 Proyecto intermodular de guía, información y asistencia
 turística 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 840 25
 3 0385 Servicios de información turística 7 138 4
@@ -411,7 +412,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 840 25
 3 0399 Dirección de entidades de intermediación turística 9 170 5 SÍ
 3 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 3 1710 Itinerario personal para la empleabilidad II 5 96 3
-3 0400 Proyecto intermodular de agencias de viaje y gestión de 
+3 0400 Proyecto intermodular de agencias de viaje y gestión de
 eventos 5 64
 2
 3 Módulo profesional optativo 5 96 3
@@ -425,7 +426,7 @@ RESOLUCION - Nº: 297 / 2026 - Tomo: 1 - Libro: 570 - Fecha: 03/07/2026 08:17:22
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
+RP001-000Q9Mv65zCwbVqHOAGHC4rmQ==
 El presente documento ha sido descargado el 03/07/2026 - 10:05:29
 
 ---
@@ -461,4 +462,3 @@ El presente documento ha sido descargado el 03/07/2026 - 10:05:29
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Resolucion BOC 30**](./R2_5_2025_resoluci_n_mayo_direcci_n_general.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

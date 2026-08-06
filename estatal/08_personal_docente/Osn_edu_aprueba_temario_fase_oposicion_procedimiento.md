@@ -47,6 +47,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en su disposición adicional duodécima que el acceso al Cuerpo de Inspectores de Educación se realizará mediante concurso-oposición.
@@ -264,4 +265,3 @@ Parte B del temario de la fase de oposición del procedimiento de Acceso al Cuer
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

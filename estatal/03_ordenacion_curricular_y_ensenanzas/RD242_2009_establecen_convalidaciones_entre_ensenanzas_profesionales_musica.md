@@ -44,6 +44,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece en el capítulo VI del título I las enseñanzas artísticas, que tienen como finalidad proporcionar al alumnado una formación artística de calidad y garantizar la cualificación de los futuros profesionales. Entre estas enseñanzas se encuentran las enseñanzas profesionales de Música y de Danza, en cuyo desarrollo las Administraciones educativas establecen unos currículos que suponen una considerable cantidad de horas de presencia en el centro, así como unos altos niveles de exigencia que requieren una intensa dedicación al estudio para ser alcanzados.
@@ -375,4 +376,3 @@ Literatura universal.
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

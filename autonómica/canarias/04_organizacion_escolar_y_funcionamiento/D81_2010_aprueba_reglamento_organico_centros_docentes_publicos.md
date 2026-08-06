@@ -82,7 +82,7 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-143-4245.
 # [Decreto 81/2010](Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de 8 de julio, por el que se aprueba el Reglamento Orgánico de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 I. Disposiciones generales
-Consejería de Educación, Universidades, 
+Consejería de Educación, Universidades,
 Cultura y Deportes
 4245 [DECRETO 81/2010](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md), de 8 de julio, por el que
 se aprueba el Reglamento Orgánico de los
@@ -133,7 +133,7 @@ el que se aprueba el Reglamento Orgánico de los institutos de educación secund
 de 25 de mayo, por el que se regula la creación de
 los centros de educación obligatoria de la Comunidad Autónoma de Canarias y se aprueba su Reglamento Orgánico.
 Por otra parte, el presente Reglamento refuerza la finalidad de regular de manera ordenada la
-estructura de organización y gestión de los centros y su régimen académico, recogiendo los nuevos principios de actuación establecidos en la normativa vigente. 
+estructura de organización y gestión de los centros y su régimen académico, recogiendo los nuevos principios de actuación establecidos en la normativa vigente.
 En su virtud, a propuesta de la Consejera de Educación, Universidades, Cultura y Deportes, con el preceptivo informe del Consejo Escolar de Canarias y
 previa deliberación del Gobierno en su reunión del
 día 8 de julio de 2010,
@@ -217,8 +217,8 @@ Disposición Final Tercera.- Entrada en vigor.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de
 Canarias.
 Dado en Santa Cruz de Tenerife, a 8 de julio de
-2010. 
-EL PRESIDENTE 
+2010.
+EL PRESIDENTE
 DEL GOBIERNO,
 Paulino Rivero Baute.
 LA CONSEJERA DE EDUCACIÓN,
@@ -306,7 +306,7 @@ TÍTULO IV
 SOCIAL
 Artículo 49.- Órganos de participación y colaboración
 social.
-Artículo 50.- Asociaciones de padres y madres del alumnado. 
+Artículo 50.- Asociaciones de padres y madres del alumnado.
 Artículo 51.- Asociaciones del alumnado.
 Artículo 52.- Funcionamiento de las asociaciones de padres y madres y de alumnado.
 Articulo 53.- Delegados y delegadas del alumnado.
@@ -370,7 +370,7 @@ genérica.
 Artículo 5.- Denominación específica de los centros docentes públicos.
 1. Los centros docentes públicos dependientes de
 la Consejería competente en materia educativa tendrán la denominación específica que apruebe dicha
-Consejería, a propuesta formulada por el Consejo Escolar de los respectivos centros, oídos los Ayuntamientos de los municipios donde estén radicados. 
+Consejería, a propuesta formulada por el Consejo Escolar de los respectivos centros, oídos los Ayuntamientos de los municipios donde estén radicados.
 2. En el caso de centros de nueva creación, se esperará a la constitución del Consejo Escolar para
 realizar la propuesta de denominación del nuevo centro. Los actuales colectivos de escuelas rurales tendrán la denominación específica que se apruebe a propuesta del Consejo Escolar del colectivo, previa
 consulta a los Ayuntamientos implicados.
@@ -381,7 +381,7 @@ Artículo 6.- Régimen de enseñanzas.
 1. En los centros docentes que se determine podrá combinarse la impartición de distintos tipos de enseñanzas,
 incluidas las enseñanzas de régimen especial.
 2. La Consejería competente en materia educativa establecerá los requisitos para autorizar a los centros la impartición parcial o total de áreas, materias
-o módulos del currículo en lenguas extranjeras. 
+o módulos del currículo en lenguas extranjeras.
 3. En los centros docentes se podrá impartir educación de personas adultas de acuerdo con la normativa vigente en esta materia y con las instrucciones
 dictadas a dicho efecto.
 4. Los centros docentes podrán ofrecer, en su caso, formación profesional y para el empleo. La autorización para impartir dichas enseñanzas corresponde a la Administración competente en materia educativa
@@ -402,12 +402,12 @@ se establecerá el procedimiento para que la designación sea de común acuerdo 
 independientemente de la titularidad del centro
 seleccionado.
 2. Los centros coordinadores de familia profesional se regirán por las instrucciones específicas que
-las Administraciones competentes establezcan, acogiéndose a lo establecido en el presente Reglamento y sus desarrollos en lo no previsto en su normativa específica. 
+las Administraciones competentes establezcan, acogiéndose a lo establecido en el presente Reglamento y sus desarrollos en lo no previsto en su normativa específica.
 Artículo 9.- Centros integrados de formación
 profesional.
 1. Las Administraciones competentes en materia
 educativa o laboral podrán promover la creación de
-centros integrados de formación profesional. 
+centros integrados de formación profesional.
 2. Los centros docentes que, a propuesta de las Administraciones con competencia en materia de educativa y laboral, se transformen en centros integrados de formación profesional, adaptarán el equipo
 directivo y los órganos colegiados a las exigencias y
 competencias derivadas del Decreto por el que se
@@ -456,13 +456,13 @@ cumplimiento de los deberes de la comunidad educativa, así como su participaci�
 del centro, en su gestión y evaluación, respetando el
 ejercicio de su participación democrática.
 c) Favorecer las medidas de equidad que garanticen la igualdad de oportunidades, la inclusión educativa y la no discriminación y actúen como elemento compensador de las desigualdades personales,
-culturales, económicas y sociales. 
+culturales, económicas y sociales.
 d) Fomentar la convivencia democrática y participativa, favoreciendo medidas y actuaciones que
 impulsen la prevención y la resolución pacífica de los
 conflictos, así como el plan de convivencia.
 e) Impulsar el uso de las tecnologías de la comunicación y de la información como instrumento de
 modernización administrativa de los centros y de
-adaptación e incorporación del alumnado a una sociedad en cambio constante. 
+adaptación e incorporación del alumnado a una sociedad en cambio constante.
 Artículo 13.- El Consejo Escolar.
 1. El Consejo Escolar de los centros es el órgano
 colegiado de gobierno a través del cual se garantiza
@@ -493,7 +493,7 @@ representantes del alumnado en el Consejo Escolar
 será designado por la junta de delegados y delegadas. Los alumnos y alumnas podrán ser elegidos
 miembros del Consejo Escolar a partir del tercer ciclo de educación primaria. No obstante, sólo el alumnado de tercero y cuarto de educación secundaria obligatoria o de etapas o niveles postobligatorios, podrá
 participar en la comisión de gestión económica, así
-como en la selección o cese de la persona que ejerza la dirección. 
+como en la selección o cese de la persona que ejerza la dirección.
 
 f) Un representante del personal de administración y servicios del centro.
 g) La persona titular de la secretaría del centro que
@@ -546,7 +546,7 @@ centro, el Consejo Escolar, a instancia de padres y madres, podrá revisar la de
 en su caso, las medidas oportunas.
 k) Decidir sobre la admisión del alumnado con sujeción a lo establecido en la normativa específica en
 esta materia.
-l) Fijar las directrices para la colaboración, con fines educativos y culturales, con las Administraciones locales, con otros centros docentes, o con entidades y organismos públicos o privados. 
+l) Fijar las directrices para la colaboración, con fines educativos y culturales, con las Administraciones locales, con otros centros docentes, o con entidades y organismos públicos o privados.
 m) Analizar y valorar el funcionamiento general
 del centro docente, la evolución del rendimiento escolar y los resultados de las evaluaciones internas y
 externas en las que participe el centro.
@@ -570,13 +570,13 @@ Consejo Escolar, que se desarrollará durante el primer trimestre del curso acad
 2. En todo caso, en la presentación de candidaturas de los distintos sectores de la comunidad educativa en el Consejo Escolar de los centros docentes públicos, se favorecerá la presencia equilibrada de
 hombres y mujeres.
 3. La condición de miembro electo del Consejo
-Escolar se adquiere por cuatro años. 
+Escolar se adquiere por cuatro años.
 4. El Consejo Escolar se renovará por mitades cada dos años de forma alternativa, previa convocatoria de la Consejería competente en materia educativa. Aquellos representantes que antes de la renovación
 que les corresponda dejaran de cumplir los requisitos necesarios para pertenecer a dicho órgano, producirán vacantes, que serán cubiertas por los siguientes candidatos de acuerdo con el número de votos
 obtenidos según las listas de las actas de la última renovación parcial. La Consejería competente en materia educativa establecerá los procedimientos necesarios para cubrir dichas vacantes.
 5. Asimismo, la Consejería competente en materia educativa establecerá el procedimiento para la
 designación de aquellos miembros del Consejo Escolar que representen a determinadas asociaciones o
-entidades. La condición de miembro designado se adquiere por dos años. 
+entidades. La condición de miembro designado se adquiere por dos años.
 Artículo 17.- Régimen de funcionamiento del
 Consejo Escolar.
 1. El Consejo Escolar se reunirá, como mínimo,
@@ -701,7 +701,7 @@ abandono escolar temprano y la mejora de la convivencia.
 i) Informar las normas de organización y funcionamiento del centro docente antes de su presentación
 al Consejo Escolar.
 j) Analizar y valorar los resultados de las evaluaciones internas y externas en las que participe
-el centro. 
+el centro.
 k) Promover y aprobar iniciativas en el ámbito de
 la innovación y de la formación del profesorado del
 centro.
@@ -741,7 +741,7 @@ ningún asunto que no figure en el orden del día, salvo que estén presentes to
 6. Los acuerdos serán aprobados por mayoría simple de los miembros presentes. Los miembros del Claustro no podrán abstenerse en las votaciones, por ser
 personal de la Administración, aunque podrán formular su voto particular expresado por escrito con el sentido del voto y los motivos que lo justifican.
 CAPÍTULO II
-ÓRGANOS DE COORDINACIÓN 
+ÓRGANOS DE COORDINACIÓN
 Y ORIENTACIÓN DOCENTE
 Artículo 23.- Órganos de coordinación y orientación docente.
 1. Corresponde a la Consejería competente en
@@ -802,7 +802,7 @@ pedagógica.
 y permanente, los asuntos relacionados con las actuaciones pedagógicas, el desarrollo de los programas educativos y su evaluación.
 2. En los centros que imparten educación secundaria estará integrada por las personas que ejerzan:
 a) La dirección del centro, que la presidirá.
-b) La jefatura de estudios. 
+b) La jefatura de estudios.
 c) La coordinación de la comisión de actividades
 complementarias y extraescolares.
 
@@ -812,12 +812,12 @@ f) Las funciones del equipo de orientación educativa y psicopedagógico que int
 g) La representación del profesorado especialista en la atención a las necesidades específicas de
 apoyo educativo designada por la dirección.
 h) La representación del profesorado de los distintos ámbitos que forma parte del Departamento de
-Orientación. 
+Orientación.
 3. En los centros que imparten educación infantil
 o primaria estará integrada por las personas que
 ejerzan:
 a) La dirección del centro, que la presidirá.
-b) La jefatura de estudios. 
+b) La jefatura de estudios.
 c) La coordinación de la comisión de actividades
 complementarias y extraescolares.
 d) La coordinación de ciclo.
@@ -848,7 +848,7 @@ coordinación pedagógica.
 1. La comisión de coordinación pedagógica tendrá las siguientes competencias:
 a) Garantizar el desarrollo del proyecto educativo del centro, y coordinar su seguimiento y evaluación.
 b) Trasladar al equipo directivo propuestas para
-la elaboración de la programación general anual. 
+la elaboración de la programación general anual.
 c) Ejercer la coordinación entre las distintas etapas educativas y, en su caso, ciclos educativos.
 d) Promover la innovación pedagógica, el trabajo interdisciplinar, el uso de las nuevas tecnologías
 y el trabajo colaborativo del profesorado.
@@ -900,7 +900,7 @@ Artículo 28.- Departamento de orientación.
 propia educación, inseparable de toda acción educativa y que afecta al conjunto de toda la comunidad
 escolar. El departamento de orientación es el órgano donde se articulan las funciones de orientación y
 tutoría, así como una oferta curricular adaptada y
-diversificada. 
+diversificada.
 2. En educación primaria estas funciones se asumen por la comisión de coordinación pedagógica.
 3. El departamento de orientación estará integrado, al menos, por los siguientes componentes:
 a) El orientador u orientadora que intervenga en
@@ -990,7 +990,7 @@ f) Cualquier otra que le sea atribuida por la normativa vigente.
 6. Las jefaturas de departamentos de coordinación didáctica de familias profesionales que, en su caso, se
 constituyan, tendrán además las siguientes atribuciones:
 a) Organizar actividades que garanticen el acercamiento entre la familia profesional y las empresas
-del sector que favorezcan el desarrollo de la formación práctica. 
+del sector que favorezcan el desarrollo de la formación práctica.
 
 b) Inventariar las empresas que tienen capacidad
 para acoger al profesorado que precise actualización
@@ -1000,7 +1000,7 @@ ausencia del profesorado tutor.
 d) Colaborar con las actividades de orientación profesional y propiciar el empleo y el autoempleo.
 e) Proponer a la dirección del centro acuerdos
 con empresas e instituciones que añadan valor a la
-formación profesional, optimicen la gestión de los recursos o incrementen los mismos. 
+formación profesional, optimicen la gestión de los recursos o incrementen los mismos.
 Artículo 32.- Competencias de los departamentos de coordinación didáctica.
 Son competencias de los departamentos de coordinación didáctica, las siguientes:
 a) Formular propuestas al equipo directivo, a la
@@ -1024,7 +1024,7 @@ intervención con el alumnado que presenta necesidades específicas de apoyo edu
 las directrices emanadas de la comisión de coordinación pedagógica y del departamento de
 orientación.
 h) Establecer los planes de recuperación para el
-alumnado con materias pendientes de superar de cursos anteriores. 
+alumnado con materias pendientes de superar de cursos anteriores.
 i) Informar sobre las reclamaciones del alumnado a las calificaciones obtenidas en las materias, ámbitos y módulos de su competencia.
 j) Colaborar en la organización y desarrollo de cualquier actividad del centro aprobada en la programación general anual.
 k) Organizar y realizar actividades complementarias relacionadas con las materias, ámbitos y módulos que imparte el profesorado adscrito al departamento, procurando la coordinación con otros
@@ -1060,7 +1060,7 @@ Artículo 34.- Competencias de los equipos docentes de ciclo.
 Son competencias de los equipos docentes de ciclo, las siguientes:
 1. Formular propuestas al equipo directivo, a la comisión de coordinación pedagógica y al Claustro del
 profesorado, relativas a la elaboración y modificación
-del proyecto educativo. 
+del proyecto educativo.
 2. Elaborar la propuesta pedagógica de educación
 infantil y las programaciones didácticas de cada ciclo y nivel de la educación primaria, de acuerdo con
 las directrices de la comisión de coordinación pedagógica y bajo la supervisión de la jefatura de estudios.
@@ -1105,7 +1105,7 @@ Artículo 36.- Equipos docentes de grupo.
 por el profesorado tutor, que será designado por
 la dirección del centro a propuesta motivada de la
 jefatura de estudios.
-2. Son atribuciones del profesorado tutor de grupo: 
+2. Son atribuciones del profesorado tutor de grupo:
 
 a) Informar al equipo docente de las características del grupo al comienzo del curso escolar y de
 cualquier aspecto que se considere relevante a lo largo del curso.
@@ -1145,7 +1145,7 @@ f) Colaborar con la comisión de actividades extraescolares y complementarias en
 y desarrollo de actividades.
 g) Cualquier otra que le sea atribuida por la normativa vigente.
 TÍTULO III
-AUTONOMÍA Y EV ALUACIÓN DE 
+AUTONOMÍA Y EV ALUACIÓN DE
 LOS CENTROS DOCENTES
 CAPÍTULO I
 AUTONOMÍA DE LOS CENTROS
@@ -1169,12 +1169,12 @@ alumnado, la junta de delegados y, en su caso, de
 otros órganos de participación del profesorado. Asimismo, garantizará el acceso al documento a todos los miembros de la comunidad educativa para su conocimiento.
 3. El proyecto educativo recogerá aportaciones debatidas y analizadas por todos los sectores de la comunidad educativa y será aprobado por el Consejo
 
-Escolar del centro. Dicho proyecto habrá de incorporar los siguientes aspectos: 
+Escolar del centro. Dicho proyecto habrá de incorporar los siguientes aspectos:
 a) Los principios, valores, objetivos y prioridades
 de actuación del centro respetando, a su vez, el principio de no discriminación y de inclusión educativa,
 así como los demás principios y fines recogidos en
-la normativa educativa vigente. 
-b) Las características del entorno social y cultural, que permitan su contextualización. 
+la normativa educativa vigente.
+b) Las características del entorno social y cultural, que permitan su contextualización.
 c) La organización general del centro y de las enseñanzas que se imparten.
 d) La concreción de los currículos establecidos por
 la Administración educativa para las enseñanzas que
@@ -1185,7 +1185,7 @@ de la educación obligatoria, aquellos aspectos favorecedores de la adquisición
 básicas.
 e) Los centros que impartan educación infantil
 habrán de incorporar su propuesta pedagógica para
-cada uno de los ciclos de esa etapa. 
+cada uno de los ciclos de esa etapa.
 f) El plan de atención a la diversidad, que contendrá las medidas organizativas y de intervención desarrolladas por el centro docente para facilitar el acceso al currículo del alumnado en función de sus
 necesidades y características con objeto de contribuir
 a la superación de las dificultades que presente.
@@ -1204,7 +1204,7 @@ i) Planes de mejora de la comunicación lingüísti-
 ca, cuyo objetivo es establecer las actuaciones interdisciplinares encaminadas a enriquecer la competencia en comunicación lingüística del alumnado, entendida
 como un elemento fundamental para la adquisición de
 nuevos conocimientos y para su desarrollo personal y
-social. Estos planes recogerán las decisiones y acuerdos adoptados en el centro sobre el aprendizaje de lenguas, desde todas las áreas o materias. 
+social. Estos planes recogerán las decisiones y acuerdos adoptados en el centro sobre el aprendizaje de lenguas, desde todas las áreas o materias.
 Entre ellos, deberá figurar el plan de lectura, que
 concretará las acciones que favorezcan la competencia comunicativa a través del desarrollo de las
 capacidades lectora y escritora del alumnado, así como el fomento del hábito lector y el desarrollo de la
@@ -1213,7 +1213,7 @@ como consecuencia de una actuación planificada y
 coordinada de los procesos didácticos.
 j) El plan de integración de las tecnologías de la
 información y la comunicación recogerá las actuaciones que fomenten su uso como herramienta de trabajo en el aula y en las relaciones de los miembros
-de la comunidad educativa. 
+de la comunidad educativa.
 k) El plan de adaptación para el alumnado que se
 incorpora por primera vez al centro.
 l) El plan de formación del profesorado.
@@ -1272,7 +1272,7 @@ educativa.
 los recursos económicos necesarios para cumplir sus
 objetivos con criterios de calidad, podrán obtener
 recursos complementarios, previa aprobación del
-Consejo Escolar del centro y en la forma y por el procedimiento que la Administración educativa determine reglamentariamente. 
+Consejo Escolar del centro y en la forma y por el procedimiento que la Administración educativa determine reglamentariamente.
 5. La Administración educativa podrá delegar
 en los órganos de gobierno de los centros públicos las competencias que determine, incluidas las
 relativas a gestión de personal, responsabilizando
@@ -1290,7 +1290,7 @@ Artículo 41.- Normas de organización y funcionamiento.
 organización y funcionamiento que le permita desarrollar su proyecto educativo, en el marco del presente Reglamento y de las disposiciones generales sobre los fines de la educación y los derechos y libertades
 reconocidos a todos los miembros de la comunidad
 educativa.
-2. Las normas de organización y funcionamiento deberán concretar, entre otros, los siguientes aspectos: 
+2. Las normas de organización y funcionamiento deberán concretar, entre otros, los siguientes aspectos:
 a) Los cauces de participación de los distintos
 sectores de la comunidad educativa.
 
@@ -1320,7 +1320,7 @@ entorno.
 m) La organización general de la atención a los
 padres y madres en relación con el seguimiento educativo del alumnado.
 n) Los procedimientos establecidos para la atención del alumnado en las ausencias del profesorado
-para garantizar que no se interrumpa su formación. 
+para garantizar que no se interrumpa su formación.
 ñ) El procedimiento para su aplicación y revisión,
 que ha de garantizar la participación democrática de
 toda la comunidad educativa.
@@ -1337,7 +1337,7 @@ Artículo 42.- Programación general anual.
 centros elaborarán al comienzo de cada curso escolar, para concretar las actuaciones derivadas del proyecto educativo. Recoge los aspectos relativos a la
 organización y funcionamiento del centro, incluidos
 los proyectos, las programaciones didácticas y todos
-los planes de actuación acordados para el curso. 
+los planes de actuación acordados para el curso.
 2. La programación general anual incluirá, al
 menos:
 a) Datos del centro: memoria administrativa, la estadística de principio de curso, los recursos y la situación de las instalaciones y del equipamiento.
@@ -1462,7 +1462,7 @@ de ciclo y los departamentos de coordinación didáctica podrán acordar alguna 
 la programación establecida como consecuencia de
 decisiones del equipo docente para dar respuesta a
 las necesidades educativas del grupo. Dicha variación
-y la justificación correspondiente, deberá ser incluida en la memoria final del curso. 
+y la justificación correspondiente, deberá ser incluida en la memoria final del curso.
 CAPÍTULO II
 EV ALUACIÓN INSTITUCIONAL
 Artículo 45.- Evaluación de diagnóstico.
@@ -1481,7 +1481,7 @@ de mejora.
 escolares y el grado de consecución por el alumnado de las competencias básicas. Esta información
 debe servir de referencia al centro, al profesorado, al
 alumnado y a las familias. La Administración educativa establecerá los procedimientos para dar a conocer a la comunidad educativa los resultados de estas evaluaciones.
-4. Corresponde a la Administración educativa desarrollar y controlar las evaluaciones, así como facilitar los modelos y apoyos adecuados para que los centros puedan realizar estas evaluaciones. 
+4. Corresponde a la Administración educativa desarrollar y controlar las evaluaciones, así como facilitar los modelos y apoyos adecuados para que los centros puedan realizar estas evaluaciones.
 Artículo 46.- Evaluación de los centros.
 1. La evaluación de los centros es un instrumento para propiciar la mejora de la calidad del sistema
 educativo.
@@ -1514,7 +1514,7 @@ que se recogerán en la memoria final de curso.
 objetivos claves en la autoevaluación de los centros.
 Artículo 48.- Evaluación externa de los centros.
 1. La Consejería competente en materia educativa impulsará la elaboración y el desarrollo de planes
-de evaluación de los centros educativos y de valoración de la función directiva y docente. 
+de evaluación de los centros educativos y de valoración de la función directiva y docente.
 2. En los planes de evaluación externa de los centros que corresponde a la Administración educativa,
 deberán colaborar los órganos colegiados y el equipo directivo, los órganos de coordinación didáctica
 y los servicios externos, así como los distintos sectores de la comunidad educativa y sus organizaciones.
@@ -1525,19 +1525,19 @@ recursos de que dispone.
 4. La Consejería competente en materia educativa colaborará con los centros en la resolución de los
 problemas que hubieran sido detectados en la evaluación realizada.
 5. Los resultados de la evaluación serán comunicados al Consejo Escolar y al Claustro del profesorado de
-cada centro para su análisis y valoración. Las conclusiones obtenidas por ambos órganos se harán públicas. 
+cada centro para su análisis y valoración. Las conclusiones obtenidas por ambos órganos se harán públicas.
 6. Los equipos directivos participarán en el diagnóstico sobre los niveles efectivos de las prestaciones o servicios de los centros y su relación con las
 expectativas de los ciudadanos, así como la medición
 del grado de cumplimiento de los compromisos declarados en sus Cartas de Servicios.
 TÍTULO IV
-ÓRGANOS DE PARTICIPACIÓN 
+ÓRGANOS DE PARTICIPACIÓN
 Y COLABORACIÓN SOCIAL
 Artículo 49.- Órganos de participación y colaboración social.
 Son órganos de participación y colaboración social en los centros docentes no universitarios de Canarias las asociaciones de madres y padres del alumnado, las asociaciones del alumnado, la junta de
 delegados y delegadas y cualquier otra que pudiera
 crearse para lograr los fines establecidos.
 Artículo 50.- Asociaciones de padres y madres del
-alumnado. 
+alumnado.
 En los centros docentes podrán constituirse asociaciones de padres y madres del alumnado, a través de las
 cuales se favorecerá la participación y colaboración de
 las familias con el centro educativo, conforme a lo estipulado en la normativa reguladora de dichas asociaciones y de sus federaciones y confederaciones.
@@ -1594,7 +1594,7 @@ y subdelegadas asumen el deber de actuar de forma
 pacífica y democrática, siendo un modelo de respeto con sus iguales y con el resto de la comunidad
 educativa.
 6. El delegado o delegada tiene el deber de asistir a las reuniones de la junta de delegados y delegadas, participando en sus deliberaciones e informando a la persona que ejerza la tutoría y a su grupo, sobre
-todos los temas que puedan afectar a sus intereses. 
+todos los temas que puedan afectar a sus intereses.
 7. El subdelegado o la subdelegada sustituirán al
 delegado o delegada en caso de ausencia o enfermedad y le apoyará en sus funciones.
 Artículo 54.- Junta de delegados y delegadas.
@@ -1668,4 +1668,3 @@ la comunidad educativa.
 - [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](./Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

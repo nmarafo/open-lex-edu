@@ -48,6 +48,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2002-25289
 - norma_id: norm-es-2016-3229
 ---
+
 # Resolución de 23 de marzo de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.
 
 Dentro del marco legal fijado por el [Real Decreto 104/1988](RD104_1988_homologacion_convalidacion_titulos_estudios_extranjeros_educacion.md), de 29 de enero, sobre homologación y convalidación de títulos y estudios extranjeros de educación no universitaria, el apartado 2 de la Resolución de 29 de abril de 2010, de la Secretaría de Estado de Educación y Formación Profesional, por la que se establecen las instrucciones para el cálculo de la nota media que debe figurar en las credenciales de convalidación y homologación de estudios y títulos extranjeros con el bachiller español, preveía también la aplicación de dichas instrucciones para el cálculo de dicha calificación final de los estudios extranjeros homologables al título de Graduado o Graduada en Educación Secundaria Obligatoria, si bien limitaba esta aplicación únicamente a aquellos casos en los que el solicitante indicase la necesidad de dicha calificación final para la solicitud de plaza en determinadas enseñanzas en centros sostenidos con fondos públicos.
@@ -2736,4 +2737,3 @@ MAx: Máximo aprobatorio extranjero según tabla de anexo I.
 - [**BOE-A-1988-6938**](./RD104_1988_aplicacion_lo_dispuesto_real_decreto_homologacion.md)
 - [**BOE-A-2002-25289**](./RD3305_2002_ecd_modifican_aplicacion_lo_dispuesto_real.md)
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
-

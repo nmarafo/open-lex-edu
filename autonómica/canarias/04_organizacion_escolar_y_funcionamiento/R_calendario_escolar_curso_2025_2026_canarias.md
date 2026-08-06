@@ -35,6 +35,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 ## Preámbulo
 
 # Resolución por la que se establece el calendario escolar para el curso 2025-2026 en la Comunidad Autónoma de Canarias.

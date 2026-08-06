@@ -33,173 +33,27 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-wleg_pub - Comunidad de Madrid - madrid.org
+Resolución de 11 de enero
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   
-    
-        
-        
+Navegar entre documentos consultados
 
-        
-
-    
-
-        
-            
-                
-                
-            
-        
-
-    
-    
-        
-        
-
-            
-                        
-            
-
-        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-
-        
-
-        
-                    
-
-## Legislación de la Comunidad de Madrid
-
-        
-
-        
-        
-
-    
-    
-
-    
-        
-            
-                 
-            
-            
-            
-                 
-                    
-                
-            
-        
-
-    
-        
-        
-                
-                    
-                        
-                    
-                
-                
-                    
-                        
-                    
-                
-
-        
-            
-                
-                
-            
-        
-        
-
-    
-
-        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
-        
-
-        
-        
-
-        
-        
-
-    
-            
-        
-            
-                
-    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
-                
-    
-                
-                    
-        
-            
-			
-            
-            Búsqueda   
-            
-                Resolución de 11 de enero
-                
-       
-                    
-                    
-                        Navegar entre documentos consultados
-
-         
 Enviar EMAIL:                                         Resolución de 11 de eneroDestinatarioEnviar
-                        
-                        
-                        
 
-                        
+Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución de 11 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución de 11 de enerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8040Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución de 11 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución de 11 de eneroGuardar:                          Resolución de 11 de enero
 
-                        
-						
-						
-        
-        
-						Se ha copiado en el portapapeles el enlace a la norma:                                    Resolución de 11 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Resolución de 11 de enerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=8040Se ha copiado en el portapapeles la URI-ELI de la norma: Resolución de 11 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Resolución de 11 de eneroGuardar:                          Resolución de 11 de enero
+HTML
 
-            
-          
-                 
-				
-                 
-                
-                               
-                               HTML
-                
-          
-         
- 
-         
-            
-                   
-                    Obtener enlace
-							Enviar
-							Guardar                
-                        
-							Imprimir
-                        
-                        Nueva Búsqueda
-                                                    
-							Documentos
-                       
-                    
-                    
-                    
-                    
-                    [ Disposición derogada ]
+Obtener enlace
+Enviar
+Guardar
+
+Imprimir
+
+Nueva Búsqueda
+
+Documentos
+
+[ Disposición derogada ]
 
 Consejería de Presidencia, Justicia y Administración Local
 Comunidad de Madrid

@@ -41,6 +41,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 ## Preámbulo
 
 # Resolución de 15 de julio de 1992, de la Dirección General de Promoción Educativa, por la que se dictan instrucciones para la organización y funcionamiento de las Residencias Escolares.
@@ -49,14 +50,9 @@ BOC - 1992/106. Viernes 31 de Julio de 1992 - 1164
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 1992
 1992/106. Viernes 31 de Julio de 1992
@@ -182,4 +178,3 @@ En las Residencias de menos de 250 residentes dispondrá de cinco horas semanale
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

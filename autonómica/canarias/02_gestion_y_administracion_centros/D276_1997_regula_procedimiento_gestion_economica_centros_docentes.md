@@ -46,6 +46,7 @@ fundamentos_derecho:
   articulos:
   - '63'
 ---
+
 ## Preámbulo
 
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
@@ -56,21 +57,11 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -126,4 +117,3 @@ José Carlos Francisco Díaz.
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

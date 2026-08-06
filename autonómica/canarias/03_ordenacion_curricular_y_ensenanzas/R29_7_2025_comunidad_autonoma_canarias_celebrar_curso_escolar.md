@@ -56,451 +56,452 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-158-2923.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 29 de julio de 2025, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial por la que se dictan instrucciones y se establece el calendario para la renovación parcial o la nueva constitución de los Consejos Sociales en los centros integrados de formación profesional, de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 2025/2026 (BOC núm. 158, de 11 de agosto).
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-2923 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 29 de julio de 2025, por la que se dictan instrucciones y se establece 
-el calendario para la renovación parcial o la nueva constitución de los Consejos 
-Sociales en los centros integrados de formación profesional, de la Comunidad 
+2923 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+Resolución de 29 de julio de 2025, por la que se dictan instrucciones y se establece
+el calendario para la renovación parcial o la nueva constitución de los Consejos
+Sociales en los centros integrados de formación profesional, de la Comunidad
 Autónoma de Canarias, a celebrar en el curso escolar 2025/2026.
-Existiendo la necesidad de dictar instrucciones para la constitución y/o renovación 
-parcial de los Consejos Sociales de los centros integrados de formación profesional 
-dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y 
+Existiendo la necesidad de dictar instrucciones para la constitución y/o renovación
+parcial de los Consejos Sociales de los centros integrados de formación profesional
+dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y
 Deportes, para el curso académico 2025/2026, y teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Entre los órganos colegiados de participación de los centros integrados de 
-formación profesional se encuentra el Consejo Social, que está formado por representantes 
-de la administración, representantes de cada uno de los distintos colectivos del centro y 
+Primero.- Entre los órganos colegiados de participación de los centros integrados de
+formación profesional se encuentra el Consejo Social, que está formado por representantes
+de la administración, representantes de cada uno de los distintos colectivos del centro y
 representantes de las organizaciones empresariales y sindicales más representativas.
-Segundo.- Entre otras funciones asignadas al Consejo Social de los centros integrados 
-de formación profesional en la Comunidad Autónoma de Canarias, están, elaborar y aprobar 
-el proyecto funcional del centro, elaborar las propuestas sobre los ajustes de la oferta 
-formativa, incluso el régimen y la modalidad en que ha de ofertarse, plantear las líneas 
-de apertura y colaboración del centro con empresas y el entorno productivo, y realizar 
-el seguimiento de las actividades del centro, incorporando propuestas que garanticen la 
+Segundo.- Entre otras funciones asignadas al Consejo Social de los centros integrados
+de formación profesional en la Comunidad Autónoma de Canarias, están, elaborar y aprobar
+el proyecto funcional del centro, elaborar las propuestas sobre los ajustes de la oferta
+formativa, incluso el régimen y la modalidad en que ha de ofertarse, plantear las líneas
+de apertura y colaboración del centro con empresas y el entorno productivo, y realizar
+el seguimiento de las actividades del centro, incorporando propuestas que garanticen la
 incorporación de los avances tecnológicos.
 A estos antecedentes les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se 
-contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española, 
-se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que 
-“los poderes públicos garantizarán el derecho de todos a la educación mediante una 
-programación general de la enseñanza, con la participación efectiva de todos los sectores 
-afectados”; y en el artículo 27, apartado 7, cuando prevé que “el profesorado, los padres 
-y, en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos 
+Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se
+contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española,
+se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que
+“los poderes públicos garantizarán el derecho de todos a la educación mediante una
+programación general de la enseñanza, con la participación efectiva de todos los sectores
+afectados”; y en el artículo 27, apartado 7, cuando prevé que “el profesorado, los padres
+y, en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos
 por la Administración con fondos públicos, en los términos que la Ley establezca”.
-Segundo.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, está 
-dedicado a la participación, la autonomía y el gobierno de los centros; reconociendo 
-que la participación es un valor básico para la formación de ciudadanos autónomos, 
-libres, responsables y comprometidos con los principios y valores de la Constitución y 
-estableciendo que las Administraciones educativas garantizarán la participación activa de 
-la comunidad educativa en las cuestiones relevantes de la organización, el gobierno, el 
+Segundo.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, está
+dedicado a la participación, la autonomía y el gobierno de los centros; reconociendo
+que la participación es un valor básico para la formación de ciudadanos autónomos,
+libres, responsables y comprometidos con los principios y valores de la Constitución y
+estableciendo que las Administraciones educativas garantizarán la participación activa de
+la comunidad educativa en las cuestiones relevantes de la organización, el gobierno, el
 funcionamiento y la evaluación de los centros.
 
-Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
-la Formación Profesional, establece para los centros integrados sostenidos con fondos 
-públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano 
+Tercero.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de
+la Formación Profesional, establece para los centros integrados sostenidos con fondos
+públicos que impartan, al menos, ofertas de grados D y E, el establecimiento como órgano
 colegiado de un Consejo Social.
-Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
-Autonomía de Canarias, establece que los miembros de la comunidad educativa tienen 
-derecho a participar en los asuntos escolares y universitarios en los términos establecidos 
+Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de
+Autonomía de Canarias, establece que los miembros de la comunidad educativa tienen
+derecho a participar en los asuntos escolares y universitarios en los términos establecidos
 por las leyes.
-Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-reconoce la relevancia de la participación de la comunidad educativa en la vida escolar, 
-por cuanto que entre los principios rectores que regirán el sistema educativo canario está 
-el de facilitar la participación social como elemento de calidad del propio sistema, como se 
+Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+reconoce la relevancia de la participación de la comunidad educativa en la vida escolar,
+por cuanto que entre los principios rectores que regirán el sistema educativo canario está
+el de facilitar la participación social como elemento de calidad del propio sistema, como se
 regula en su artículo 3, apartado a).
-Sexto.- El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los 
-requisitos básicos de los Centros integrados de formación profesional, en su redacción 
-actual, establece en su artículo 14.1 que “El Consejo Social es el órgano de participación 
+Sexto.- El [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, por el que se regulan los
+requisitos básicos de los Centros integrados de formación profesional, en su redacción
+actual, establece en su artículo 14.1 que “El Consejo Social es el órgano de participación
 de la sociedad en los centros integrados de formación profesional”.
-Séptimo.- El [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la 
-ordenación del Sistema de Formación Profesional, en su redacción actual, especifica en su 
-artículo 203 que “El Consejo Social es el órgano de participación del entorno económico y 
+Séptimo.- El [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la
+ordenación del Sistema de Formación Profesional, en su redacción actual, especifica en su
+artículo 203 que “El Consejo Social es el órgano de participación del entorno económico y
 productivo en los centros especializados del Sistema de Formación Profesional”.
-Octavo.- El Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento 
-de organización y funcionamiento de los centros integrados de formación profesional en la 
+Octavo.- El Decreto 224/2017, de 13 de noviembre, por el que se aprueba el Reglamento
+de organización y funcionamiento de los centros integrados de formación profesional en la
 Comunidad Autónoma de Canarias.
-Noveno.- El Decreto 151/2024, de 16 de septiembre, por el que se crea el Centro 
-Integrado de Formación Profesional en el municipio de Adeje, isla de Tenerife, y el Decreto 
-2/2025, de 29 de enero, por el que se transforma el Instituto de Educación Secundaria 
-(IES) “Profesor Antonio Cabrera Pérez” en un Centro Integrado de Formación Profesional 
+Noveno.- El Decreto 151/2024, de 16 de septiembre, por el que se crea el Centro
+Integrado de Formación Profesional en el municipio de Adeje, isla de Tenerife, y el Decreto
+2/2025, de 29 de enero, por el que se transforma el Instituto de Educación Secundaria
+(IES) “Profesor Antonio Cabrera Pérez” en un Centro Integrado de Formación Profesional
 (
-CIFP) en Telde, isla de Gran Canaria. Así mismo, el futuro Decreto de creación de los CIFP 
-en Valverde (El Hierro), en San Sebastián de La Gomera (La Gomera), en Morro Jable 
+CIFP) en Telde, isla de Gran Canaria. Así mismo, el futuro Decreto de creación de los CIFP
+en Valverde (El Hierro), en San Sebastián de La Gomera (La Gomera), en Morro Jable
 (Fuerteventura) y en Guía (Gran Canaria).
-Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
-de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas 
-de Canarias, y en el artículo 20 del Reglamento Orgánico de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 
+Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a),
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas
+de Canarias, y en el artículo 20 del Reglamento Orgánico de la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10
 de junio,
 RESUELVO :
-Primero.- Dictar y aprobar las instrucciones y el calendario para la constitución 
-y/o renovación parcial de los Consejos Sociales en los centros integrados de formación 
-profesional, dependientes de la Comunidad Autónoma de Canarias, a celebrar en el curso 
-escolar 2025/2026, de acuerdo a lo establecido en los Anexo I y II que forman parte de esta 
+Primero.- Dictar y aprobar las instrucciones y el calendario para la constitución
+y/o renovación parcial de los Consejos Sociales en los centros integrados de formación
+profesional, dependientes de la Comunidad Autónoma de Canarias, a celebrar en el curso
+escolar 2025/2026, de acuerdo a lo establecido en los Anexo I y II que forman parte de esta
 Resolución.
 
-Segundo.- Encomendar a la Inspección de Educación la supervisión y asesoramiento 
-sobre aquellos aspectos específicos que le soliciten los equipos directivos de los centros 
+Segundo.- Encomendar a la Inspección de Educación la supervisión y asesoramiento
+sobre aquellos aspectos específicos que le soliciten los equipos directivos de los centros
 docentes.
-Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como en la 
-página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
-Deportes, para general conocimiento, y encomendar a los equipos directivos de los centros 
-docentes que desarrollen el procedimiento más adecuado para que la presente resolución 
+Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como en la
+página web de la Consejería de Educación, Formación Profesional, Actividad Física y
+Deportes, para general conocimiento, y encomendar a los equipos directivos de los centros
+docentes que desarrollen el procedimiento más adecuado para que la presente resolución
 sea conocida y difundida entre los distintos sectores de la comunidad educativa.
-Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer 
-en el plazo de un (1) mes, a partir del día siguiente al de su publicación en el Boletín 
-Oficial de Canarias, recurso de alzada ante la Viceconsejería de Formación Profesional y 
-Cualificaciones Profesionales, conforme a lo previsto en los artículos 121 y 122, en relación 
-con el artículo 30.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo 
+Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer
+en el plazo de un (1) mes, a partir del día siguiente al de su publicación en el Boletín
+Oficial de Canarias, recurso de alzada ante la Viceconsejería de Formación Profesional y
+Cualificaciones Profesionales, conforme a lo previsto en los artículos 121 y 122, en relación
+con el artículo 30.4 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo
 Común de las Administraciones Públicas (BOE n.º 236, de 2.10.2015).
-Las Palmas de Gran Canaria, a 29 de julio de 2025.- La Directora General de Formación 
+Las Palmas de Gran Canaria, a 29 de julio de 2025.- La Directora General de Formación
 Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ANEXO I
-INSTRUCCIONES GENERALES PARA LA CONSTITUCIÓN Y/O RENOV ACIÓN 
-DE LOS CONSEJOS SOCIALES EN LOS CENTROS INTEGRADOS DE FORMACIÓN 
+INSTRUCCIONES GENERALES PARA LA CONSTITUCIÓN Y/O RENOV ACIÓN
+DE LOS CONSEJOS SOCIALES EN LOS CENTROS INTEGRADOS DE FORMACIÓN
 PROFESIONAL EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
 Primera.- Objeto y ámbito de aplicación.
-La presente Resolución tiene por objeto aprobar las instrucciones y el calendario de 
-ejecución de constitución y/o renovación parcial de los Consejos Sociales en los centros 
-integrados de formación profesional de nueva creación y en el resto de centros integrados, 
-respectivamente, dependientes de la Comunidad Autónoma de Canarias, a celebrar en el 
+La presente Resolución tiene por objeto aprobar las instrucciones y el calendario de
+ejecución de constitución y/o renovación parcial de los Consejos Sociales en los centros
+integrados de formación profesional de nueva creación y en el resto de centros integrados,
+respectivamente, dependientes de la Comunidad Autónoma de Canarias, a celebrar en el
 curso escolar 2025/2026.
-Será de aplicación en todos los centros integrados de formación profesional dependientes 
-de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del 
+Será de aplicación en todos los centros integrados de formación profesional dependientes
+de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes del
 Gobierno de Canarias.
 Segunda.- Funciones del Consejo Social.
-Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 
-de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de 
-formación profesional, se han visto ampliadas con el desarrollo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), 
-de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, 
+Las funciones del Consejo Social dispuestas en el [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23
+de diciembre, por el que se regulan los requisitos básicos de los Centros integrados de
+formación profesional, se han visto ampliadas con el desarrollo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md),
+de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional,
 estableciéndose las siguientes:
-a) Establecer las directrices para elaborar el proyecto funcional de centro que incluirá 
-lo relativo a ofertas de formación, orientación profesional y acreditación de competencias 
-profesionales, aprobar dicho proyecto, y realizar durante su vigencia las propuestas de 
-mejora del mismo, el cual seguirá el plan de actuación plurianual recogido en el artículo 10, 
-apartado 1, del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, y el artículo 10 del Decreto 
+a) Establecer las directrices para elaborar el proyecto funcional de centro que incluirá
+lo relativo a ofertas de formación, orientación profesional y acreditación de competencias
+profesionales, aprobar dicho proyecto, y realizar durante su vigencia las propuestas de
+mejora del mismo, el cual seguirá el plan de actuación plurianual recogido en el artículo 10,
+apartado 1, del [Real Decreto 1558/2005](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1558_2005_regulan_requisitos_basicos_centros_integrados_formacion.md), de 23 de diciembre, y el artículo 10 del Decreto
 112/2011, de 11 de mayo, así como aprobar dicho proyecto.
-b) Elaborar las propuestas sobre los ajustes de la oferta formativa y el régimen y 
+b) Elaborar las propuestas sobre los ajustes de la oferta formativa y el régimen y
 modalidad en que ha de ofertarse y que deberán elevarse a la Administración competente.
-c) Plantear líneas de apertura y colaboración del centro con las empresas y el entorno 
-productivo del centro, para establecer canales estables de trabajo con el tejido productivo, 
+c) Plantear líneas de apertura y colaboración del centro con las empresas y el entorno
+productivo del centro, para establecer canales estables de trabajo con el tejido productivo,
 asegurando la calidad y el rendimiento de los servicios.
-d) Realizar el seguimiento de las actividades del centro, incorporando propuestas que 
-garanticen la incorporación de los avances tecnológicos en el centro y la internacionalización, 
+d) Realizar el seguimiento de las actividades del centro, incorporando propuestas que
+garanticen la incorporación de los avances tecnológicos en el centro y la internacionalización,
 asegurando la calidad y el rendimiento de los servicios.
-e) Aprobar la propuesta del proyecto de presupuesto del centro de acuerdo con 
-lo establecido en su proyecto funcional, así como supervisar su ejecución y aprobar la 
+e) Aprobar la propuesta del proyecto de presupuesto del centro de acuerdo con
+lo establecido en su proyecto funcional, así como supervisar su ejecución y aprobar la
 liquidación del mismo.
-f) Emitir informe con carácter previo al nombramiento de la persona titular de la 
+f) Emitir informe con carácter previo al nombramiento de la persona titular de la
 dirección del centro.
 
 g) Aprobar planes, proyectos y normas de funcionamiento del centro.
-h) Promover e impulsar ante el titular de la Consejería a la que esté adscrito el centro 
+h) Promover e impulsar ante el titular de la Consejería a la que esté adscrito el centro
 la suscripción de convenios de colaboración.
-i) Aprobar el Plan Anual y la Memoria Anual del centro, elaborado por el equipo 
+i) Aprobar el Plan Anual y la Memoria Anual del centro, elaborado por el equipo
 directivo.
-j) Cuantas otras funciones le atribuya este Reglamento o determinen las Consejerías 
+j) Cuantas otras funciones le atribuya este Reglamento o determinen las Consejerías
 competentes en formación profesional.
 Tercera.- Calendario del proceso electoral.
-El proceso para la elección de las personas representantes de las distintas agrupaciones 
-electorales de la comunidad educativa se desarrollará conforme al calendario que figura en 
+El proceso para la elección de las personas representantes de las distintas agrupaciones
+electorales de la comunidad educativa se desarrollará conforme al calendario que figura en
 el Anexo II de esta Resolución.
 Cuarta.- Composición del Consejo Social.
-1. El Consejo Social de los centros integrados de formación profesional tendrá la 
-composición que se establece en el Decreto 224/2017, de 13 de noviembre, por el que 
-se aprueba el Reglamento de organización y funcionamiento de los centros integrados de 
+1. El Consejo Social de los centros integrados de formación profesional tendrá la
+composición que se establece en el Decreto 224/2017, de 13 de noviembre, por el que
+se aprueba el Reglamento de organización y funcionamiento de los centros integrados de
 formación profesional en la Comunidad Autónoma de Canarias.
-2. De acuerdo con el artículo 203 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), el Consejo Social contará 
-con un mínimo de 6 y un máximo de 12 miembros, procurando el principio de presencia 
+2. De acuerdo con el artículo 203 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), el Consejo Social contará
+con un mínimo de 6 y un máximo de 12 miembros, procurando el principio de presencia
 equilibrada de mujeres y hombres.
-3. De acuerdo con el artículo 11 del Decreto 224/2017, los Consejos Sociales de los 
+3. De acuerdo con el artículo 11 del Decreto 224/2017, los Consejos Sociales de los
 CIFP de la Comunidad Autónoma de Canarias estarán constituidos por:
-a) Dos representantes designados por la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes. Uno de ellos perteneciente a la Dirección General de Formación 
-Profesional y Enseñanzas de Régimen Especial, y otro de ellos perteneciente a la Dirección 
+a) Dos representantes designados por la Consejería de Educación, Formación Profesional,
+Actividad Física y Deportes. Uno de ellos perteneciente a la Dirección General de Formación
+Profesional y Enseñanzas de Régimen Especial, y otro de ellos perteneciente a la Dirección
 General de Cualificaciones Profesionales.
 b) Un representante de la Consejería de Turismo y Empleo.
-c) Cuatro representantes de los agentes sociales, dos de ellos de las organizaciones 
-sindicales más representativas y dos de las organizaciones empresariales más representativas 
+c) Cuatro representantes de los agentes sociales, dos de ellos de las organizaciones
+sindicales más representativas y dos de las organizaciones empresariales más representativas
 que pertenezcan al Consejo Canario de Formación Profesional.
-d) Cuatro representantes del centro. Dos docentes, un representante del personal de 
+d) Cuatro representantes del centro. Dos docentes, un representante del personal de
 administración y un miembro del alumnado.
-e) El responsable de la secretaría del centro ejercerá la secretaría del Consejo Social, 
+e) El responsable de la secretaría del centro ejercerá la secretaría del Consejo Social,
 con voz pero sin voto.
-4. Los representantes del centro en el Consejo Social serán elegidos por sus respectivos 
+4. Los representantes del centro en el Consejo Social serán elegidos por sus respectivos
 sectores que son el personal docente, el personal no docente y el alumnado.
 
-5. Serán electores todos los miembros de cada sector o agrupación electoral y serán 
+5. Serán electores todos los miembros de cada sector o agrupación electoral y serán
 elegibles aquellos miembros de cada sector que hayan presentado su candidatura.
-6. En todo caso se favorecerá la presencia equilibrada de hombres y mujeres en las 
+6. En todo caso se favorecerá la presencia equilibrada de hombres y mujeres en las
 candidaturas.
 Quinta.- Renovación o nueva constitución.
-1. Los centros integrados de formación profesional de nueva creación en el curso 
+1. Los centros integrados de formación profesional de nueva creación en el curso
 escolar 2025/2026 deberán constituir el Consejo Social en su totalidad.
-2. El resto de los centros integrados de formación profesional dependientes de la 
-Consejería de Educación, Formación Profesional, Actividad Física y Deportes a los que, 
-por vencimiento del periodo de vigencia de cuatro años, les corresponda la renovación de 
+2. El resto de los centros integrados de formación profesional dependientes de la
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes a los que,
+por vencimiento del periodo de vigencia de cuatro años, les corresponda la renovación de
 sus miembros, deberán renovar:
-a) La totalidad de los miembros designados y miembros elegidos del personal no 
+a) La totalidad de los miembros designados y miembros elegidos del personal no
 docente y del alumnado.
-b) Para el caso del profesorado al menos la mitad de los miembros titulares y la totalidad 
+b) Para el caso del profesorado al menos la mitad de los miembros titulares y la totalidad
 de los suplentes.
-3. A partir del curso escolar 2025/2026 los miembros designados por el alumnado se 
+3. A partir del curso escolar 2025/2026 los miembros designados por el alumnado se
 renovarán bienalmente.
 Sexta.- Personas invitadas permanentes.
-Para poder contar con las personas invitadas permanentes del Consejo Social, que 
-actúan con voz pero sin voto, la Junta Electoral solicitará la designación de un representante 
-del Cabildo Insular de la isla, así como de un representante nombrado por la Federación 
-Canaria de Municipios, en calidad de asociación de municipios más representativa, de entre 
-los Ayuntamientos pertenecientes a la zona formativa en la que estuviese ubicado el centro 
+Para poder contar con las personas invitadas permanentes del Consejo Social, que
+actúan con voz pero sin voto, la Junta Electoral solicitará la designación de un representante
+del Cabildo Insular de la isla, así como de un representante nombrado por la Federación
+Canaria de Municipios, en calidad de asociación de municipios más representativa, de entre
+los Ayuntamientos pertenecientes a la zona formativa en la que estuviese ubicado el centro
 integrado.
 Séptima.- Juntas Electorales.
-1. Las Juntas Electorales se ocuparán de organizar el proceso de elección de las personas 
-representantes del Consejo Social en las condiciones que mejor aseguren la designación de 
+1. Las Juntas Electorales se ocuparán de organizar el proceso de elección de las personas
+representantes del Consejo Social en las condiciones que mejor aseguren la designación de
 representantes y la participación de todos los miembros de la comunidad educativa.
-2. La Junta Electoral será presidida por la persona que ejerce la dirección del centro y 
-una vez constituida, estudiará y planificará el proceso conforme al calendario establecido al 
-efecto, concretando especialmente el horario de recepción de candidaturas por la secretaría 
+2. La Junta Electoral será presidida por la persona que ejerce la dirección del centro y
+una vez constituida, estudiará y planificará el proceso conforme al calendario establecido al
+efecto, concretando especialmente el horario de recepción de candidaturas por la secretaría
 del centro.
-3. La Junta Electoral estará integrada por la persona que ejerza la dirección del centro, 
-que la presidirá, y por tres miembros representantes de cada uno de los grupos integrantes 
-de la comunidad educativa: un docente que actuará como secretario, un miembro del 
+3. La Junta Electoral estará integrada por la persona que ejerza la dirección del centro,
+que la presidirá, y por tres miembros representantes de cada uno de los grupos integrantes
+de la comunidad educativa: un docente que actuará como secretario, un miembro del
 personal de administración y servicios y un miembro del alumnado.
-Estos integrantes serán elegidos a través de sorteo público entre la totalidad de las 
+Estos integrantes serán elegidos a través de sorteo público entre la totalidad de las
 personas incluidas en la lista de electores de la mesa correspondiente.
 
-4. Entre otras funciones, la Junta Electoral aprobará y publicará los censos electorales 
-presentados previamente por la dirección del centro, admitiendo y proclamando las distintas 
-candidaturas; elaborará y aprobará, en su caso, los modelos de papeletas electorales; 
-realizará en acto público los sorteos para la constitución de las mesas electorales; y 
-acreditará la identidad de los supervisores y supervisoras, comunicándolo por escrito a las 
+4. Entre otras funciones, la Junta Electoral aprobará y publicará los censos electorales
+presentados previamente por la dirección del centro, admitiendo y proclamando las distintas
+candidaturas; elaborará y aprobará, en su caso, los modelos de papeletas electorales;
+realizará en acto público los sorteos para la constitución de las mesas electorales; y
+acreditará la identidad de los supervisores y supervisoras, comunicándolo por escrito a las
 distintas mesas electorales.
-5. La Junta Electoral solicitará la designación de dos titulares y dos suplentes a la 
-Consejería de Educación, Formación Profesional, Actividad Física y Deportes, de un titular 
-y un suplente a la Consejería de Turismo y Empleo y cuatro titulares y cuatro suplentes al 
+5. La Junta Electoral solicitará la designación de dos titulares y dos suplentes a la
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes, de un titular
+y un suplente a la Consejería de Turismo y Empleo y cuatro titulares y cuatro suplentes al
 Consejo Canario de Formación Profesional.
-6. La Junta Electoral resolverá en primera instancia las reclamaciones sobre cualquier 
-cuestión relativa al proceso electoral; atenderá las solicitudes de voto no presencial, 
-comprobando las circunstancias que se alegan para garantizar este derecho y la inscripción 
-en el censo de la persona interesada; y facilitará la documentación necesaria, conservando 
+6. La Junta Electoral resolverá en primera instancia las reclamaciones sobre cualquier
+cuestión relativa al proceso electoral; atenderá las solicitudes de voto no presencial,
+comprobando las circunstancias que se alegan para garantizar este derecho y la inscripción
+en el censo de la persona interesada; y facilitará la documentación necesaria, conservando
 los votos recibidos y haciéndolos llegar a la mesa electoral correspondiente.
-7. Además de lo anteriormente indicado, la Junta Electoral determinará y dará publicidad 
-del horario de las votaciones, garantizando la máxima participación y proclamará las 
-candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de 
+7. Además de lo anteriormente indicado, la Junta Electoral determinará y dará publicidad
+del horario de las votaciones, garantizando la máxima participación y proclamará las
+candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de
 empate en las votaciones de cualquiera de los sectores.
-8. La Inspección de Educación comprobará, por los medios que estime oportunos, que 
-todos sus centros integrados de formación profesional han formado sus Juntas Electorales, 
+8. La Inspección de Educación comprobará, por los medios que estime oportunos, que
+todos sus centros integrados de formación profesional han formado sus Juntas Electorales,
 iniciando así el trámite de la convocatoria.
 Octava.- Personas que pueden elegir y ser elegidas.
-1. El derecho a elegir y ser elegido o elegida representante lo tienen el profesorado, el 
-alumnado y el personal de administración y servicios, según corresponda. Se establecen así 
+1. El derecho a elegir y ser elegido o elegida representante lo tienen el profesorado, el
+alumnado y el personal de administración y servicios, según corresponda. Se establecen así
 los sectores electorales.
-2. La elección de las personas representantes de los diversos sectores de la comunidad 
-educativa se realizará por medio de candidaturas abiertas. Cada elector o electora podrá 
-seleccionar de entre la lista de candidaturas proclamadas por la Junta Electoral del centro 
-aquella o aquellas que estime oportunas, dentro del número máximo establecido para cada 
-sector, es decir, podrán elegir al menos a un representante, salvo el profesorado que podrá 
+2. La elección de las personas representantes de los diversos sectores de la comunidad
+educativa se realizará por medio de candidaturas abiertas. Cada elector o electora podrá
+seleccionar de entre la lista de candidaturas proclamadas por la Junta Electoral del centro
+aquella o aquellas que estime oportunas, dentro del número máximo establecido para cada
+sector, es decir, podrán elegir al menos a un representante, salvo el profesorado que podrá
 elegir dos.
-3. En todo caso, los miembros de la comunidad educativa solo podrán ser candidatos o 
-candidatas al Consejo Social por el sector del que son miembros, aunque pertenezcan a más 
+3. En todo caso, los miembros de la comunidad educativa solo podrán ser candidatos o
+candidatas al Consejo Social por el sector del que son miembros, aunque pertenezcan a más
 de uno o reunieran las condiciones para ser miembro designado.
 Novena.- Mesas electorales.
-1. El titular de la dirección, como presidente de la Junta Electoral, convocará reuniones 
-extraordinarias en cada uno de los sectores, en las que, como único punto del orden del 
-día, figurará el acto de elección y proclamación de los representantes electos. El día de las 
-votaciones respectivas se constituirán las mesas electorales, observando las determinaciones 
+1. El titular de la dirección, como presidente de la Junta Electoral, convocará reuniones
+extraordinarias en cada uno de los sectores, en las que, como único punto del orden del
+día, figurará el acto de elección y proclamación de los representantes electos. El día de las
+votaciones respectivas se constituirán las mesas electorales, observando las determinaciones
 de la Junta Electoral.
 
-2. En la sesión de elección se constituirá una mesa electoral por cada sector (docentes, 
-personal de administración y servicios, y alumnado). Dicha mesa estará integrada por el 
-titular de la dirección del centro, que ejercerá la presidencia, el miembro de mayor edad y 
-el de menor edad de cada sector, que actuará de secretario de la mesa. Cuando coincidan 
-varios miembros de igual edad formarán parte de la mesa según el orden alfabético del 
+2. En la sesión de elección se constituirá una mesa electoral por cada sector (docentes,
+personal de administración y servicios, y alumnado). Dicha mesa estará integrada por el
+titular de la dirección del centro, que ejercerá la presidencia, el miembro de mayor edad y
+el de menor edad de cada sector, que actuará de secretario de la mesa. Cuando coincidan
+varios miembros de igual edad formarán parte de la mesa según el orden alfabético del
 primer apellido.
-En el supuesto de que las personas integrantes de la mesa no se presentaran en el 
-momento de la formalización de la misma, se constituirá esta con las dos primeras personas 
+En el supuesto de que las personas integrantes de la mesa no se presentaran en el
+momento de la formalización de la misma, se constituirá esta con las dos primeras personas
 que acudan a votar.
 3. La elección se realizará por votación, siendo el voto directo, secreto y no delegable.
-4. Cuando el sector del alumnado o del personal no docente no realice elección por 
+4. Cuando el sector del alumnado o del personal no docente no realice elección por
 carecer de candidatura, se asignará la vacante al personal docente.
 Décima.- Papeletas.
-1. Las papeletas para las votaciones deberán llevar el sello del centro y contener 
-la relación de todas las candidaturas proclamadas por la Junta Electoral, ordenadas 
-alfabéticamente por el primer apellido y numeradas de forma correlativa. En el margen 
-izquierdo y delante del número cardinal, figurará un recuadro en blanco donde la persona 
-electora señalará con una cruz la candidatura o las candidaturas por las que vota. Si la Junta 
-Electoral, de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, 
+1. Las papeletas para las votaciones deberán llevar el sello del centro y contener
+la relación de todas las candidaturas proclamadas por la Junta Electoral, ordenadas
+alfabéticamente por el primer apellido y numeradas de forma correlativa. En el margen
+izquierdo y delante del número cardinal, figurará un recuadro en blanco donde la persona
+electora señalará con una cruz la candidatura o las candidaturas por las que vota. Si la Junta
+Electoral, de acuerdo con sus competencias, hubiera establecido el modelo de papeleta,
 este se hará público en el tablón de anuncios y en la web del centro, en su caso.
-2. En las papeletas de votos del alumnado se hará constar, además, el curso, el grupo y, 
+2. En las papeletas de votos del alumnado se hará constar, además, el curso, el grupo y,
 en su caso, el turno al que pertenezca el candidato o la candidata.
-3. La Junta Electoral del centro facilitará a los candidatos y las candidatas  
-proclamados/as que lo soliciten el modelo de papeleta oficialmente aprobado para su 
+3. La Junta Electoral del centro facilitará a los candidatos y las candidatas
+proclamados/as que lo soliciten el modelo de papeleta oficialmente aprobado para su
 reproducción y distribución.
-4. Los miembros de cada sector podrán hacer constar en su papeleta, como máximo, 
-tantos nombres en la lista de candidaturas como puestos a cubrir. Serán elegidos los 
-miembros con mayor número de votos. Si en la primera votación no hubiese resultado 
-elegido el número de miembros titulares y suplentes de cada sector que corresponda, se 
+4. Los miembros de cada sector podrán hacer constar en su papeleta, como máximo,
+tantos nombres en la lista de candidaturas como puestos a cubrir. Serán elegidos los
+miembros con mayor número de votos. Si en la primera votación no hubiese resultado
+elegido el número de miembros titulares y suplentes de cada sector que corresponda, se
 procederá a realizar en el mismo acto sucesivas votaciones hasta alcanzar dicho número.
 Undécima.- Características del voto.
 1. La votación se efectuará mediante sufragio directo, secreto y personal.
-2. Cada votante depositará en la mesa electoral una papeleta con su voto. La mesa 
-electoral podrá requerir, si fuera necesario, la identificación del votante con su DNI, o 
+2. Cada votante depositará en la mesa electoral una papeleta con su voto. La mesa
+electoral podrá requerir, si fuera necesario, la identificación del votante con su DNI, o
 Número de Identidad de Extranjero (NIE) o pasaporte, en el caso de personas extranjeras.
 Duodécima.- Voto por correo o no presencial.
-1. El voto por correo se admitirá hasta el momento del escrutinio, para lo que, al menos, 
-diez días antes de la votación, las personas electoras deberán solicitar a la Junta Electoral 
+1. El voto por correo se admitirá hasta el momento del escrutinio, para lo que, al menos,
+diez días antes de la votación, las personas electoras deberán solicitar a la Junta Electoral
 del centro la documentación necesaria para ejercer el voto por correo.
 
-2. La Junta Electoral comprobará en el censo la inscripción de la persona interesada, 
-realizará la anotación correspondiente, a fin de que el día de las elecciones no se emita el 
-voto personalmente, y extenderá un certificado de inscripción. Igualmente, facilitará al 
-elector o la electora la lista de candidaturas, papeletas y sobres electorales, y un sobre con 
+2. La Junta Electoral comprobará en el censo la inscripción de la persona interesada,
+realizará la anotación correspondiente, a fin de que el día de las elecciones no se emita el
+voto personalmente, y extenderá un certificado de inscripción. Igualmente, facilitará al
+elector o la electora la lista de candidaturas, papeletas y sobres electorales, y un sobre con
 la dirección postal de la Junta Electoral para su remisión posterior por correo certificado.
-3. La persona electora rellenará la papeleta de voto y la introducirá en el sobre electoral. 
-Este sobre, con una fotocopia del DNI en vigor o del documento identificativo de validez 
+3. La persona electora rellenará la papeleta de voto y la introducirá en el sobre electoral.
+Este sobre, con una fotocopia del DNI en vigor o del documento identificativo de validez
 oficial, y el certificado de inscripción se incluirán en el sobre con la dirección postal.
-4. Una vez recibido el voto por correo, se entregará en mano a la persona que ejerce la 
+4. Una vez recibido el voto por correo, se entregará en mano a la persona que ejerce la
 dirección del centro, quien abrirá el mismo y notificará el voto emitido a la Junta Electoral.
 Decimotercera.- Escrutinio de votos y elaboración del acta.
-1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán 
-al escrutinio de los votos en acto público. A continuación, extenderán un acta en la que 
-figurará la relación de los candidatos y las candidatas presentados, y el número de votos 
-obtenidos por cada uno de ellos, así como la lista de las personas representantes elegidas 
-como miembros titulares y como miembros suplentes. Del mismo modo contendrá la 
+1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán
+al escrutinio de los votos en acto público. A continuación, extenderán un acta en la que
+figurará la relación de los candidatos y las candidatas presentados, y el número de votos
+obtenidos por cada uno de ellos, así como la lista de las personas representantes elegidas
+como miembros titulares y como miembros suplentes. Del mismo modo contendrá la
 correspondiente lista de reserva.
-2. Cuando se produzca empate en las votaciones, la elección se dirimirá por sorteo, 
+2. Cuando se produzca empate en las votaciones, la elección se dirimirá por sorteo,
 según los términos previamente acordados y recogidos en acta por la Junta Electoral.
-3. Igualmente, tras cada una de las votaciones, la dirección del centro cargará los 
-resultados en la aplicación informática creada al efecto, para que la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes pueda informar al instante sobre los 
-datos de participación de cada sector. Esta aplicación se encuentra ubicada para los centros 
-públicos en el Portal docente-Centros/Escritorio del centro/Gestiones Generales/Elecciones 
+3. Igualmente, tras cada una de las votaciones, la dirección del centro cargará los
+resultados en la aplicación informática creada al efecto, para que la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes pueda informar al instante sobre los
+datos de participación de cada sector. Esta aplicación se encuentra ubicada para los centros
+públicos en el Portal docente-Centros/Escritorio del centro/Gestiones Generales/Elecciones
 al Consejo Escolar/Consejos Sociales de los centros integrados de formación profesional.
 Decimocuarta.- Reclamaciones e impugnaciones.
-1. El acto de proclamación de las personas candidatas electas se realizará por la Junta 
-Electoral del centro, tras el escrutinio de votos realizado por las mesas electorales de cada 
-una de los sectores intervinientes en el proceso y una vez recibidas las correspondientes 
+1. El acto de proclamación de las personas candidatas electas se realizará por la Junta
+Electoral del centro, tras el escrutinio de votos realizado por las mesas electorales de cada
+una de los sectores intervinientes en el proceso y una vez recibidas las correspondientes
 actas.
-2. La Junta Electoral resolverá en primera instancia las reclamaciones sobre cualquier 
-cuestión relativa al proceso electoral; atenderá las solicitudes de voto no presencial, 
-comprobando las circunstancias que se alegan para garantizar este derecho y la inscripción 
-en el censo de la persona interesada; y facilitará la documentación necesaria, conservando 
+2. La Junta Electoral resolverá en primera instancia las reclamaciones sobre cualquier
+cuestión relativa al proceso electoral; atenderá las solicitudes de voto no presencial,
+comprobando las circunstancias que se alegan para garantizar este derecho y la inscripción
+en el censo de la persona interesada; y facilitará la documentación necesaria, conservando
 los votos recibidos y haciéndolos llegar a la mesa electoral correspondiente.
-3. Contra las decisiones de dicha Junta en materia de proclamación de las personas electas 
-se podrá interponer en las secretarías de los centros escolares recurso ante la Dirección 
-Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al 
+3. Contra las decisiones de dicha Junta en materia de proclamación de las personas electas
+se podrá interponer en las secretarías de los centros escolares recurso ante la Dirección
+Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al
 de su notificación o publicación, cuya resolución pondrá fin a la vía administrativa.
 
 Decimoquinta.- Finalización del proceso.
-1. Concluidas las votaciones y proclamadas por la Junta Electoral las candidaturas electas 
-y suplentes de cada uno de los sectores, la dirección del centro finalizará la cumplimentación 
-del “Acta de proclamación de candidatos y candidatas electos como miembro del Consejo 
-Social” (# Doc-30), en el que se deberán precisar tanto las personas candidatas electas 
-como las personas representantes designadas. Este documento se tramitará exclusivamente 
+1. Concluidas las votaciones y proclamadas por la Junta Electoral las candidaturas electas
+y suplentes de cada uno de los sectores, la dirección del centro finalizará la cumplimentación
+del “Acta de proclamación de candidatos y candidatas electos como miembro del Consejo
+Social” (# Doc-30), en el que se deberán precisar tanto las personas candidatas electas
+como las personas representantes designadas. Este documento se tramitará exclusivamente
 por vía telemática, a través de la intranet del escritorio del centro.
-2. En atención al apartado anterior, el “Acta de proclamación de candidatos y candidatas 
-electos/as como miembro del Consejo Escolar”, una vez firmado se publicará en el tablón de 
-anuncios y en la página web del centro y se añadirá al resto del expediente correspondiente 
-al procedimiento de renovación o constitución del Consejo Social, cuya documentación en 
+2. En atención al apartado anterior, el “Acta de proclamación de candidatos y candidatas
+electos/as como miembro del Consejo Escolar”, una vez firmado se publicará en el tablón de
+anuncios y en la página web del centro y se añadirá al resto del expediente correspondiente
+al procedimiento de renovación o constitución del Consejo Social, cuya documentación en
 papel quedará custodiada en la secretaría del centro.
-3. Una vez proclamadas las candidaturas electas y suplentes, la Junta Electoral, 
-conforme a las actas de escrutinio de cada una de las mesas electorales, elaborará las listas 
-de reserva para cada una de los sectores, para cubrir las posibles vacantes en los cursos en 
+3. Una vez proclamadas las candidaturas electas y suplentes, la Junta Electoral,
+conforme a las actas de escrutinio de cada una de las mesas electorales, elaborará las listas
+de reserva para cada una de los sectores, para cubrir las posibles vacantes en los cursos en
 que no se convoca el procedimiento de renovación parcial.
-4. Cuando se produzca la sustitución del titular de algún miembro electo como 
-consecuencia de su renuncia o pérdida de los requisitos necesarios para pertenecer al 
-Consejo Social, será sustituido por el respectivo suplente y se utilizará la lista de reserva 
-para cubrir la suplencia que ha quedado vacante. En caso de no existir lista de reserva, 
-quedará vacante hasta la nueva constitución o renovación parcial del Consejo Social, 
+4. Cuando se produzca la sustitución del titular de algún miembro electo como
+consecuencia de su renuncia o pérdida de los requisitos necesarios para pertenecer al
+Consejo Social, será sustituido por el respectivo suplente y se utilizará la lista de reserva
+para cubrir la suplencia que ha quedado vacante. En caso de no existir lista de reserva,
+quedará vacante hasta la nueva constitución o renovación parcial del Consejo Social,
 siempre y cuando se cumpla el mínimo de integrantes.
-5. Esta documentación permanecerá bajo la custodia y la responsabilidad del centro, y a 
-disposición de la Administración educativa. Se guardarán, además, los votos, si se hubiera 
+5. Esta documentación permanecerá bajo la custodia y la responsabilidad del centro, y a
+disposición de la Administración educativa. Se guardarán, además, los votos, si se hubiera
 producido alguna reclamación al proceso y hasta su finalización.
 Decimosexta.- Constitución del Consejo Social.
-1. En el plazo máximo de diez días hábiles contados desde la fecha de proclamación 
-de las personas electas y suplentes, la dirección del centro convocará la sesión constitutiva 
-del nuevo Consejo Social. Si el último día del plazo fuera sábado, domingo o festivo, su 
+1. En el plazo máximo de diez días hábiles contados desde la fecha de proclamación
+de las personas electas y suplentes, la dirección del centro convocará la sesión constitutiva
+del nuevo Consejo Social. Si el último día del plazo fuera sábado, domingo o festivo, su
 constitución se aplazará al siguiente día lectivo.
-2. Si alguna de los sectores que participan en el Consejo Social por el centro no eligiera 
-a sus representantes en el mismo por causas imputables a dichos sectores, este hecho no 
-invalidará la constitución del Consejo Social. A tales efectos, la Consejería al que esté 
+2. Si alguna de los sectores que participan en el Consejo Social por el centro no eligiera
+a sus representantes en el mismo por causas imputables a dichos sectores, este hecho no
+invalidará la constitución del Consejo Social. A tales efectos, la Consejería al que esté
 adscrito el centro tomará las medidas oportunas para la constitución de dicho órgano.
-3. En esta sesión constitutiva se procederá a nombrar cuantas comisiones tenga acordado 
+3. En esta sesión constitutiva se procederá a nombrar cuantas comisiones tenga acordado
 el Consejo Social.
-4. Solo en el caso de razones excepcionales y justificadas, dicha constitución podrá 
-retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de 
+4. Solo en el caso de razones excepcionales y justificadas, dicha constitución podrá
+retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de
 Educación correspondiente.
 
 Decimoséptima.- Difusión del proceso electoral.
-1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
-a través de la Dirección General de Formación Profesional y Enseñanzas de Régimen 
-Especial, adoptará medidas y estrategias que tengan por objetivo la participación del 
+1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes,
+a través de la Dirección General de Formación Profesional y Enseñanzas de Régimen
+Especial, adoptará medidas y estrategias que tengan por objetivo la participación del
 alumnado en el gobierno del CIFP fomentando su participación en este procedimiento.
-2. La APP Docente y el escritorio docente del portal web de la Consejería de 
-Educación, Formación Profesional, Actividad Física y Deportes difundirán igualmente este 
+2. La APP Docente y el escritorio docente del portal web de la Consejería de
+Educación, Formación Profesional, Actividad Física y Deportes difundirán igualmente este
 procedimiento administrativo.
-3. Para promocionar la participación de toda la comunidad educativa, la Consejería con 
-competencias en materia de educación se servirá de la página web para la divulgación de 
+3. Para promocionar la participación de toda la comunidad educativa, la Consejería con
+competencias en materia de educación se servirá de la página web para la divulgación de
 toda la información relativa a ese proceso.
-4. Los modelos de todos los documentos necesarios para realizar el proceso de 
-renovación parcial o nueva constitución de los Consejos Sociales están disponibles a través 
+4. Los modelos de todos los documentos necesarios para realizar el proceso de
+renovación parcial o nueva constitución de los Consejos Sociales están disponibles a través
 de la intranet, en formato editable (odt) en el Portal docente-Centros/Escritorio del centro/
-Gestiones generales, pulsando en el botón info, correspondiente al apartado de Elecciones 
+Gestiones generales, pulsando en el botón info, correspondiente al apartado de Elecciones
 a Consejo Social.
 Decimoctava.- Fomento de la participación de la comunidad educativa.
-1. Dado el valor formativo que implica la participación en el proceso de elección y 
-constitución de los Consejos Sociales, los órganos de gobierno de los centros integrados 
-de formación profesional deberán prestar la máxima colaboración para la realización de 
-aquellas actuaciones tendentes a fomentar la participación de toda la comunidad educativa 
-implicada en el proceso de elección a Consejos Sociales, para lo que propiciarán estrategias 
+1. Dado el valor formativo que implica la participación en el proceso de elección y
+constitución de los Consejos Sociales, los órganos de gobierno de los centros integrados
+de formación profesional deberán prestar la máxima colaboración para la realización de
+aquellas actuaciones tendentes a fomentar la participación de toda la comunidad educativa
+implicada en el proceso de elección a Consejos Sociales, para lo que propiciarán estrategias
 de difusión de todo el proceso electoral.
-2. El equipo directivo del centro propiciará, al menos, un encuentro-debate con los 
-candidatos y las candidatas del alumnado, dentro del horario lectivo, para que puedan 
-darse a conocer a sus compañeros y compañeras, y presentar sus programas respectivos. Al 
-mismo tiempo, deberá favorecer también la convocatoria de reuniones del propio alumnado 
+2. El equipo directivo del centro propiciará, al menos, un encuentro-debate con los
+candidatos y las candidatas del alumnado, dentro del horario lectivo, para que puedan
+darse a conocer a sus compañeros y compañeras, y presentar sus programas respectivos. Al
+mismo tiempo, deberá favorecer también la convocatoria de reuniones del propio alumnado
 con tales objetivos.
 Decimonovena.- Asesoramiento y supervisión del proceso electoral.
-1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral 
-de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente 
-o persona en quien delegue, e integrada por una persona representante de la Inspección 
-Educativa, previamente designada por la Inspección General, y por un funcionario o 
-funcionaria o, en su caso, por un empleado público, designado al efecto que actuará como 
-secretario o secretaria. La citada Comisión tendrá como funciones asesorar y efectuar 
-propuesta en las reclamaciones que se produzcan contra las resoluciones de la Junta 
+1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral
+de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente
+o persona en quien delegue, e integrada por una persona representante de la Inspección
+Educativa, previamente designada por la Inspección General, y por un funcionario o
+funcionaria o, en su caso, por un empleado público, designado al efecto que actuará como
+secretario o secretaria. La citada Comisión tendrá como funciones asesorar y efectuar
+propuesta en las reclamaciones que se produzcan contra las resoluciones de la Junta
 Electoral ante la Dirección Territorial competente.
-2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, velará por 
-el cumplimiento de los procesos de elección y renovación parcial de los Consejos Sociales, 
+2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, velará por
+el cumplimiento de los procesos de elección y renovación parcial de los Consejos Sociales,
 
-informando y asesorando a los centros educativos del comienzo del procedimiento, y 
-supervisando su desarrollo y finalización. Asimismo, colaborará con la Dirección Territorial 
+informando y asesorando a los centros educativos del comienzo del procedimiento, y
+supervisando su desarrollo y finalización. Asimismo, colaborará con la Dirección Territorial
 de Educación correspondiente en cualquier aspecto relacionado con este procedimiento.
 Vigésima.- Supervisión del proceso electoral.
-El director o directora del centro docente debe velar por el correcto desarrollo del 
+El director o directora del centro docente debe velar por el correcto desarrollo del
 proceso para la renovación parcial o la nueva constitución del Consejo Social.
 Vigesimoprimera.- Normativa supletoria.
-En todos aquellos aspectos no regulados en la presente Resolución habrá que estar a lo 
-previsto, con carácter supletorio, a lo establecido en la Orden de 12 de mayo de 2016, por 
-la que se regulan la composición y el procedimiento para la constitución y la renovación 
-de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito 
+En todos aquellos aspectos no regulados en la presente Resolución habrá que estar a lo
+previsto, con carácter supletorio, a lo establecido en la Orden de 12 de mayo de 2016, por
+la que se regulan la composición y el procedimiento para la constitución y la renovación
+de los Consejos Escolares de los centros educativos sostenidos con fondos públicos del ámbito
 de la Comunidad Autónoma de Canarias.
 
 ANEXO II
-CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN 
-PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS SOCIALES CURSO 
+CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN
+PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS SOCIALES CURSO
 2025/2026
 APERTURA DEL PROCEDIMIENTO
-Hasta el 24 de 
+Hasta el 24 de
 octubre
 - Constitución de las respectivas comisiones electorales provinciales.
-- Creación  de  un  tablón  de  anuncios  visible  en  el  centro,  destinado  a  la 
-información del procedimiento de renovación parcial o nueva constitución del  
+- Creación  de  un  tablón  de  anuncios  visible  en  el  centro,  destinado  a  la
+información del procedimiento de renovación parcial o nueva constitución del
 Consejo Social en el curso 2025/2026
 a. Creación  de  una  sección,  dentro  de  la  web  del  centro,  destinada  a  la
 información del procedimiento de renovación parcial o nueva constitución del
@@ -515,14 +516,14 @@ comunidad educativa.
 mediante  publicación,  en  los  tablones  de  anuncios  y  en  la  página  web  del
 centro.
 * Este material está disponible en la página web de la Consejería de Educación,
-Formación Profesional, Actividad Física  y Deportes y en el “Portal docente y  
+Formación Profesional, Actividad Física  y Deportes y en el “Portal docente y
 centros educativos”, en el “Escritorio del centro”.
 CONSTITUCIÓN DE LA JUNTA ELECTORAL
-Hasta  24 de 
+Hasta  24 de
 octubre
 a) Anuncio del Sorteo Público para la elección de las personas miembros de la
 Junta Electoral. #Doc-1
-Hasta  31 de 
+Hasta  31 de
 octubre
 • Celebración en acto público del sorteo para la designación de los miembros de
 la Junta Electoral del centro.
@@ -534,8 +535,8 @@ centro.#Doc-3
 • Constitución de la Junta Electoral del centro y publicación en el tablón de
 anuncios y web* del centro del Acta de constitución.#Doc-4
 ANEXO II
-CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOV ACIÓN 
-PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS SOCIALES  
+CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOV ACIÓN
+PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS SOCIALES
 CURSO 2025/2026
 
 CONVOCATORIA DE ELECCIONES AL CONSEJO SOCIAL
@@ -551,31 +552,31 @@ correspondientes a cada uno de los sectores.
 • Remisión de escritos de comunicación para la designación de representantes
 en el Consejo Social, dirigidos:
 - A la Consejería de  Educación,  Formación Profesional, Actividad Física  y
-Deportes.#Doc-  6  
+Deportes.#Doc-  6
 - A la Consejería de Turismo y Empleo.#Doc-  7   hacer
-- Cuatro  representantes  de  los  agentes  sociales,  dos  de  ellos  de  las 
-organizaciones  sindicales  más  representativas  y  dos  de  las 
-organizaciones empresariales más representativas que pertenezcan al  
+- Cuatro  representantes  de  los  agentes  sociales,  dos  de  ellos  de  las
+organizaciones  sindicales  más  representativas  y  dos  de  las
+organizaciones empresariales más representativas que pertenezcan al
 Consejo Canario de Formación Profesional. #Doc-8
-- Representantes del centro: alumnado y  personal no docente para que  
-designe a su representante en el Consejo Social. #Doc-  9  
-Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas 
+- Representantes del centro: alumnado y  personal no docente para que
+designe a su representante en el Consejo Social. #Doc-  9
+Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas
 designadas antes del 1 de diciembre.
 • Remisión  de  escritos  de  comunicación  para  la  designación  de  personas
 invitadas permanentes en el Consejo Social, dirigidos:
-- Al Cabildo. #Doc-   
-11  
+- Al Cabildo. #Doc-
+11
 - A la FECAM.#Doc-12
-Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas 
+Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas
 designadas antes del 1 de diciembre.
-3 y 4 de 
+3 y 4 de
 noviembre • Reclamaciones sobre los censos electorales publicados. #Doc-13
 7 de noviembre • Resolución de las reclamaciones y aprobación definitiva de los censos por la
 Junta Electoral. #Doc-1
 4
 
 PRESENTACIÓN DE CANDIDATURAS
-Hasta el  10 de 
+Hasta el  10 de
 noviembre
 • Recepción, en la secretaría del centro educativo, de escritos de presentación de
 candidaturas como representantes de los sectores del centro en el Consejo
@@ -587,18 +588,18 @@ Social recibidas en la secretaría del centro.
 • Proclamación,  por  la  Junta  Electoral  del  centro,  de  las  candidaturas
 admitidas.#Doc-1
 7
-10 y 11 de 
+10 y 11 de
 noviembre • Reclamación a la proclamación de candidaturas admitidas.#Doc-18
 14 de noviembre • Resolución  a  la  reclamación  de  la  proclamación  de  candidaturas
 admitidas.#Doc-1
 9
 • Publicación en el tablón y en la web* del centro de las candidaturas admitidas.
-Del 17 al  25 de 
+Del 17 al  25 de
 noviembre
 • Realización de encuentros o debates entre el alumnado para que las personas
 candidatas hagan divulgación de su candidatura.
 COMPOSICIÓN DE MESAS ELECTORALES
-Hasta el 17 de 
+Hasta el 17 de
 noviembre
 • Comunicación  y  publicación  de  la  celebración  del  sorteo  público  para  la
 elección de las personas miembros de las mesas electorales del alumnado y del
@@ -608,15 +609,15 @@ personal no docente. #Doc-
 de las mesas electorales en la elección de los representantes del alumnado y
 del personal no docente. En dicho sorteo se preverán las suplencias necesarias.
 • Acta de resultados del sorteo de las mesas electorales.#Doc-
-21 
+21
 • Publicación del acta de resultados del sorteo.
 • Comunicado de resultados del sorteo público y convocatoria de constitución
 de las mesas electorales. #Doc-
 22
 • Reestructuración de la Junta Electoral del centro y de las mesas electorales en
 el caso de que alguno de sus miembros sea candidato o candidata.
-Hasta el 
-20 de 
+Hasta el
+20 de
 noviembre
 • Presentación de solicitudes para actuar como supervisores y supervisoras de
 las votaciones del alumnado. #Doc-
@@ -626,8 +627,8 @@ para la elección de sus representantes en el Consejo Social del centro.#Doc-
 24
 
 CELEBRACIÓN DE ELECCIONES
-Hasta el 
-28 de 
+Hasta el
+28 de
 noviembre
 • Convocatorias de reuniones extraordinarias para realizar el acto de elección de
 las personas representantes del alumnado y del personal no docente, en el caso
@@ -650,40 +651,40 @@ suplentes del profesorado.
 • Acta del claustro de carácter extraordinario para realizar la elección de las
 personas representantes titulares y suplentes del profesorado en el Consejo
 Social. #Doc-
-27 
-Hasta el 1 
-de 
+27
+Hasta el 1
+de
 diciembre
 • Publicación de las actas en el tablón de anuncios y en la web* del centro, con
 el nombre y número de votos obtenidos por cada persona candidata.
 • Recepción de escrito con los nombres de las personas designadas por cada una
 de las distintas instituciones.
-Desde el  1 
-al 9 de 
+Desde el  1
+al 9 de
 diciembre
 • Tras cada una de las votaciones, la dirección del centro cargará los resultados
 en la aplicación informática creada al efecto.
 * Dicha aplicación estará cerrada fuera de este período.
-Del 2 al  4 
-de 
+Del 2 al  4
+de
 diciembre
 • Reclamaciones  al  proceso  electoral,  dirigidas  a  la  Junta  Electoral  del
 centro.#Doc-
 28
-Hasta el 9 
-de 
+Hasta el 9
+de
 diciembre
 • Resolución  a  las  reclamaciones  sobre  el  proceso  electoral  presentadas  y
 publicación en el tablón de anuncios y en la web* del centro.#Doc-
 29
 
-Hasta el 12 
-de 
+Hasta el 12
+de
 diciembre
 • Proclamación  por  la  Junta  Electoral  del  centro  de  las  personas  candidatas
 electas y suplentes y publicación en el tablón de anuncios y en la web* del
 centro, en su caso.  #Doc-3
-0 
+0
 • Comunicación a las personas candidatas electas y suplentes.#Doc-31
 • Una vez finalizado el procedimiento y resueltas las reclamaciones, la dirección
 del centro cargará los resultados en la aplicación informática creada al efecto
@@ -698,14 +699,14 @@ expediente.#Doc-32
 • Comienzo del plazo de un mes para presentar ante la Dirección Territorial de
 Educación  correspondiente  recurso  contra  las  resoluciones  de  la  Junta
 Electoral del centro.
-Plazo de diez 
-días hábiles 
-desde la fecha de 
-proclamación de 
-los miembros 
+Plazo de diez
+días hábiles
+desde la fecha de
+proclamación de
+los miembros
 electos
-• Sesión de constitución del Consejo Social.(*) Tener en cuenta que debe darse divulgación de cada uno de los apartados del procedimiento en la  
-página web del centro, con acceso restringido, para prestar especial atención a los datos personales  
+• Sesión de constitución del Consejo Social.(*) Tener en cuenta que debe darse divulgación de cada uno de los apartados del procedimiento en la
+página web del centro, con acceso restringido, para prestar especial atención a los datos personales
 publicados.
 
 ---
@@ -742,4 +743,3 @@ publicados.
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

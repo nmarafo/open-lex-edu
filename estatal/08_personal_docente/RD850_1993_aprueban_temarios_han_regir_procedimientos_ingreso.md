@@ -44,6 +44,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 # Orden de 9 de septiembre de 1993 por la que se aprueban los temarios que han de regir en los procedimientos de ingreso, adquisición de nuevas especialidades y movilidad para determinadas especialidades de los Cuerpos de Maestros, Profesores de Enseñanza Secundaria y Profesores de Escuelas Oficiales de Idiomas, regulados por el Real Decreto 850/1993, de 4 de junio.
 
 Ir a contenido
@@ -70,13 +71,7 @@ en / English
 
 fr / Français
 
-Buscar
-
 Mi BOE Desconectado.Pulse para acceder al servicio 'Mi BOE'
-
-Menú
-
-Menú
 
 Diarios Oficiales
 
@@ -105,8 +100,6 @@ Anunciantes
 Datos abiertos
 
 Está Vd. en
-
-Inicio
 
 Buscar Documento BOE-A-1993-23257
 
@@ -148,10 +141,6 @@ Sobre la sede electrónica
 
 Mapa
 
-Accesibilidad
-
-Protección de datos
-
 Sistema Interno de Información
 
 Tutoriales
@@ -175,4 +164,3 @@ Avda. de Manoteras, 54 - 28050 Madrid
 ### Fundamentos de Derecho
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-

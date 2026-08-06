@@ -53,6 +53,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 984/2021, de 16 de noviembre, por el que se regulan la evaluación y la promoción en la Educación Primaria, así como la evaluación, la promoción y la titulación en la Educación Secundaria Obligatoria, el Bachillerato y la Formación Profesional.
 
 La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, aborda una ambiciosa transformación del sistema educativo con el objetivo principal, según declara la propia ley en su preámbulo, de establecer un renovado ordenamiento legal que aumente las oportunidades educativas y formativas de toda la población, que contribuya a la mejora de los resultados educativos del alumnado y que satisfaga la demanda de una educación de calidad para todos.
@@ -257,8 +258,6 @@ La superación de la totalidad de los módulos incluidos en un ciclo de Formaci�
 
 CAPÍTULO V
 
-Bachillerato
-
 #### Artículo 19. Evaluación.
 
 1. La evaluación del aprendizaje del alumnado será continua y diferenciada según las distintas materias.
@@ -445,4 +444,3 @@ MARÍA DEL PILAR ALEGRÍA CONTINENTE
 - [**BOE-A-2014-2222**](./RD126_2014_establece_curriculo_basico_educacion_primaria.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

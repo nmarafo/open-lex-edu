@@ -51,6 +51,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles.
 
 Con fecha 16 de mayo de 2005 se firma el Acuerdo Marco entre el Gobierno del Reino de España y el Gobierno de la República Francesa relativo a programas educativos, lingüísticos y culturales en centros escolares de los dos Estados. Dicho Acuerdo hace referencia en su artículo 7 a una posible integración de los currículos respectivos de Educación Secundaria en un currículo común mixto, con objeto de otorgar una doble titulación al término de los estudios secundarios, a los alumnos que superen este currículo integrado.
@@ -186,4 +187,3 @@ El Ministro de Educación,
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

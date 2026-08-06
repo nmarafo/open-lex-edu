@@ -54,6 +54,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Orden ECI/592/2007, de 12 de marzo, por la que se aprueba el temario que ha de regir en el procedimiento de ingreso, accesos y adquisición de nuevas especialidades, para la especialidad de Primaria en el Cuerpo de Maestros, regulada por el [Real Decreto 276/2007](LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md), de 23 de febrero.
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su disposición adicional sexta establece que, además de las recogidas en la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, de Medidas para la Reforma de la Función Pública, modificada por la Ley 23/1988, de 28 de julio, son bases de régimen estatutario de los funcionarios públicos docentes, las reguladas por la propia Ley Orgánica y la normativa que la desarrolla, para el ingreso y la movilidad entre los cuerpos docentes, encomendando al Gobierno su desarrollo reglamentario en aquellos aspectos básicos que sean necesarios para garantizar el marco común básico de la función pública docente.
@@ -129,4 +130,3 @@ Especialidad: Primaria
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

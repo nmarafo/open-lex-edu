@@ -35,6 +35,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 ## Preámbulo
 
 # Resolución de 14 de julio de 2004, de la Dirección General de Formación Profesional y Educación de Adultos, por la que se dictan instrucciones para el funcionamiento de las Aulas Mentor.
@@ -43,14 +44,9 @@ BOC - 2004/158. Martes 17 de Agosto de 2004 - 1219
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 2004
 2004/158. Martes 17 de Agosto de 2004
@@ -142,4 +138,3 @@ c) Mantener un registro mensual de uso de las aulas, bajas y altas de las mismas
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

@@ -2787,4 +2787,3 @@ MARIANO RAJOY BREY
 - [**L19_2013 Transparencia y Buen Gobierno**](./L19_2013_transparencia_acceso_informacion_publica_buen_gobierno.md)
 - [**BOE-A-1985-5392**](../02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
 - [**BOE-A-2003-23399**](../02_gestion_y_administracion_centros/L59_2003_firma_electronica.md)
-

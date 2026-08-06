@@ -44,6 +44,7 @@ fundamentos_derecho:
   articulos:
   - '103.3'
 ---
+
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**
@@ -451,4 +452,3 @@ FELIPE GONZÁLEZ MÁRQUEZ
 
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
-

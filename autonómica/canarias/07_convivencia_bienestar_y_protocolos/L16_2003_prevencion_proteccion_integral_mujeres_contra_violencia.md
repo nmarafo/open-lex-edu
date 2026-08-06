@@ -804,4 +804,3 @@ Presidente
 
 ### Fundamentos de Derecho
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md)
-

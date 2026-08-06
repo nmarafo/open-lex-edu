@@ -1469,7 +1469,7 @@ De la información y participación ciudadana
 
 Sección 1.ª Del derecho de los ciudadanos a la información
 
-#### Artículo 156. 
+#### Artículo 156.
 
 Constituyen derechos de todo ciudadano:
 
@@ -1780,4 +1780,3 @@ Presidente del Gobierno
 - [**CE_1978 Constitucion Espanola**](../../../estatal/01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO1_2018 Estatuto de Autonomia de Canarias**](./LO1_2018_reforma_estatuto_autonomia_canarias.md)
 - [**BOE-A-1985-5392**](../../../estatal/02_gestion_y_administracion_centros/L7_1985_reguladora_bases_regimen_local.md)
-

@@ -48,7 +48,6 @@ Autentificación y verificación
 Qué es el BOCM
 Organismo
 Publicar un anuncio
-Transparencia
 Boletín Oficial de la Comunidad de Madrid - Núm 95
 Fecha del Boletín
 22-04-2025
@@ -91,9 +90,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20250422-7
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

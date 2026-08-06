@@ -75,6 +75,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-22017
 ---
+
 # Real Decreto 1834/2008 - Condiciones de Formación para el Ejercicio de la Docencia
 
 La [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica. En la disposición adicional séptima, a su vez, se especifican las funciones de los diferentes cuerpos en los que se ordena la función pública docente.
@@ -771,4 +772,3 @@ Los profesores de Formación y orientación laboral podrán impartir las materia
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-22017**](../08_personal_docente/R17_12_2007_secretaria_estado_universidades_e_investigacion_publica.md)
-

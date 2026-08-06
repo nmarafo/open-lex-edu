@@ -53,21 +53,11 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -2378,4 +2368,3 @@ NOTA: todas las cuantías son anuales.
 
 ### Fundamentos de Derecho
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
-

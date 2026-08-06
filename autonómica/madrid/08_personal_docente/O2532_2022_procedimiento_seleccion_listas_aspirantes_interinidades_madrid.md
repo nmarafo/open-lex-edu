@@ -37,18 +37,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/07/BOCM-20220907-1.PDF
 ---
 
-**Orden 2532/2022, de 29 de agosto, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se regula la formación de listas de aspirantes a interinidades en cuerpos docentes no universitarios**
-
-MIÉRCOLES 7 DE SEPTIEMBRE DE 2022
-Pág. 12
-B.O.C.M. Núm. 213
-BOCM-20220907-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-1
 ORDEN de 25 de agosto de 2022, del Consejero de Economía, Hacienda y Empleo,
 por la que se resuelve la convocatoria aprobada por Orden de 8 de julio de 2022
 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 20 de julio de 2022), para la
@@ -138,7 +126,7 @@ Denominación     :
 A
 Grupo                :
 N.C.D.               :
-  25.509,48
+25.509,48
 C. Específico      :
 **8*98*9*
 ESTEBANEZ PALACIOS,MARIA

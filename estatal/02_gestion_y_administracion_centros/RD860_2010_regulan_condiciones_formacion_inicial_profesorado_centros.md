@@ -50,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 860/2010, de 2 de julio, por el que se regulan las condiciones de formación inicial del profesorado de los centros privados para ejercer la docencia en las enseñanzas de educación secundaria obligatoria o de bachillerato.
 
 El artículo 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, supedita el ejercicio de la docencia en las enseñanzas de Educación Secundaria Obligatoria y de Bachillerato a dos requisitos de formación. En primer lugar, será necesario tener un título oficial de Licenciado, Ingeniero o Arquitecto, o un título de Educación superior de Graduado, sin perjuicio de la habilitación de otras titulaciones que, a efectos de docencia pudiera establecerse. Además, será necesario estar en posesión de un título oficial de Máster que acredite la formación pedagógica y didáctica de acuerdo con lo exigido por el artículos 94 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
@@ -467,4 +468,3 @@ c) Cualquier certificado que acredite el dominio de las competencias correspondi
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

@@ -38,18 +38,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid**
-
-JUEVES 11 DE ABRIL DE 2019
-Pág. 20
-B.O.C.M. Núm. 86
-BOCM-20190411-2
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-Consejería de Transportes, Vivienda e Infraestructuras
-2
 DECRETO 35/2019, de 9 de abril, del Consejo de Gobierno, por el que se modifi-
 ca el Reglamento de los Servicios de Transporte Público Urbano en Automóviles
 de Turismo aprobado por Decreto 74/2005, de 28 de julio.

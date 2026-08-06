@@ -56,6 +56,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2007-5478
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa.
 
 El Cuerpo de Inspectores de Educación, como institución, se remonta a 1849, año en que se publica el real decreto de su creación, cuyo preámbulo la justifica por la necesidad del Gobierno de «observar muchas cosas que solo se descubren a los ojos de personas facultativas», con el objetivo último de promover mejoras en la educación.
@@ -721,4 +722,3 @@ c) Competencias personales dirigidas a establecer relaciones constructivas con
 - [**LO8_2021 Proteccion Integral a la Infancia y Adolescencia (LOPIVI)**](../07_convivencia_bienestar_y_protocolos/LO8_2021_proteccion_integral_infancia_adolescencia_frente_violencia.md)
 - [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

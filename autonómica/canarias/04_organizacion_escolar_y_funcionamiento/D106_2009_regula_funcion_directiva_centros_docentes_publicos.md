@@ -54,6 +54,7 @@ fundamentos_derecho:
   - '132'
 anexos_extraidos_pdf: true
 ---
+
 ## Preámbulo
 
 # Decreto 106/2009, de 28 de julio, por el que se regula la función directiva en los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
@@ -64,21 +65,11 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -446,4 +437,3 @@ A N E X O I
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-

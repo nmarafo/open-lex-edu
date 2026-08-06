@@ -1218,57 +1218,55 @@ Pág. 135
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO I 
- 
-BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
-EL CURSO 2026/2027 EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS. 
-CENTROS QUE IMPARTEN SEGUNDO CICLO DE EDUCACIÓN INFANTIL, EDUCACIÓN 
-PRIMARIA, EDUCACIÓN ESPECIAL Y EDUCACIÓN SECUNDARIA OBLIGATORIA  
- 
- 
-Criterios prioritarios: 
- 
-1. Hermanos matriculados en el centro.  
-En caso de que haya un hermano matriculado en el centro solicitado: 15 puntos.  
-En caso de que haya dos o más hermanos matriculados en el centro solicitado: 30 
-puntos. 
- 
-2. Proximidad del domicilio o lugar de trabajo de los padres o tutores legales del 
-alumno. 
-Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del 
-alumno situado en el mismo municipio que el centro solicitado: 12 puntos.  
-En el caso del municipio de Madrid, además de la puntuación obtenida por el 
-apartado anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o 
-tutores legales del alumno está ubicado en el mismo distrito municipal que el centro 
-solicitado: 1 punto. 
-Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del 
-alumno situado en un municipio de la Comunidad de Madrid distinto al del centro 
-solicitado: 8 puntos. 
- 
-3. Renta de la unidad familiar. 
-Alguno de los padres o tutores legales del alumno es beneficiario de la ayuda de la 
-Renta Mínima de Inserción o del Ingreso Mínimo Vital: 12 puntos. 
- 
-Criterios complementarios: 
- 
-4. Padres o tutores legales del alumno que trabajen en el mismo centro para el que se 
-solicita plaza: 10 puntos.  
- 
-5. Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se 
-contabilizará a los efectos de aplicación del presente criterio de admisión. 
-1º Familia numerosa general: 10 puntos. 
-2º Familia numerosa especial: 11 puntos. 
- 
-6. Alumno solicitante nacido de parto múltiple: 3 puntos. 
- 
-7. Alumno solicitante perteneciente a familia monoparental: 3 puntos. 
- 
-8. Alumno solicitante en situación de acogimiento familiar: 3 puntos. 
- 
-9. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del 
-alumno solicitante, de los padres, hermanos o, en su caso, de los tutores legales del 
-alumno: 7 puntos. 
- 
+ANEXO I
+
+BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA
+EL CURSO 2026/2027 EN CENTROS SOSTENIDOS CON FONDOS PÚBLICOS.
+CENTROS QUE IMPARTEN SEGUNDO CICLO DE EDUCACIÓN INFANTIL, EDUCACIÓN
+PRIMARIA, EDUCACIÓN ESPECIAL Y EDUCACIÓN SECUNDARIA OBLIGATORIA
+
+Criterios prioritarios:
+
+1. Hermanos matriculados en el centro.
+En caso de que haya un hermano matriculado en el centro solicitado: 15 puntos.
+En caso de que haya dos o más hermanos matriculados en el centro solicitado: 30
+puntos.
+
+2. Proximidad del domicilio o lugar de trabajo de los padres o tutores legales del
+alumno.
+Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del
+alumno situado en el mismo municipio que el centro solicitado: 12 puntos.
+En el caso del municipio de Madrid, además de la puntuación obtenida por el
+apartado anterior, si el domicilio familiar o lugar de trabajo de uno de los padres o
+tutores legales del alumno está ubicado en el mismo distrito municipal que el centro
+solicitado: 1 punto.
+Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del
+alumno situado en un municipio de la Comunidad de Madrid distinto al del centro
+solicitado: 8 puntos.
+
+3. Renta de la unidad familiar.
+Alguno de los padres o tutores legales del alumno es beneficiario de la ayuda de la
+Renta Mínima de Inserción o del Ingreso Mínimo Vital: 12 puntos.
+
+Criterios complementarios:
+
+4. Padres o tutores legales del alumno que trabajen en el mismo centro para el que se
+solicita plaza: 10 puntos.
+
+5. Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se
+contabilizará a los efectos de aplicación del presente criterio de admisión.
+1º Familia numerosa general: 10 puntos.
+2º Familia numerosa especial: 11 puntos.
+
+6. Alumno solicitante nacido de parto múltiple: 3 puntos.
+
+7. Alumno solicitante perteneciente a familia monoparental: 3 puntos.
+
+8. Alumno solicitante en situación de acogimiento familiar: 3 puntos.
+
+9. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del
+alumno solicitante, de los padres, hermanos o, en su caso, de los tutores legales del
+alumno: 7 puntos.
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 136
@@ -1276,57 +1274,44 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-10. Condición de víctima de violencia de género o del terrorismo: 2 puntos. 
- 
-11. Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de 
-alguno de los hermanos del solicitante, en el centro para el que solicita plaza: 4 
-puntos. 
- 
-12. Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios 
-de admisión, acordada por el centro según criterios objetivos y que deben ser hechos 
-públicos por el centro: 3 puntos. 
- 
-Criterios de desempate: 
- 
-Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden 
-que a continuación se exponen. 
- 
-1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro 
-solicitado.  
-2. Mayor puntuación obtenida en el apartado de proximidad del domicilio o lugar de 
-trabajo de alguno de los padres o tutores legales del alumno. 
-3. Mayor puntuación obtenida en el apartado de renta de la unidad familiar. 
-4. Mayor puntuación en el apartado de padres o tutores legales del alumno que trabajen 
-en el mismo centro para el que se solicita plaza. 
-5. Mayor puntuación en el apartado alumno perteneciente a familia numerosa. 
-6. Mayor puntuación en el apartado alumno solicitante nacido de parto múltiple. 
-7. Mayor puntuación en el apartado alumno solicitante perteneciente a familia 
-monoparental. 
-8. Mayor puntuación en el apartado alumno solicitante en situación de acogimiento 
-familiar. 
-9. Mayor puntuación en el apartado discapacidad legalmente reconocida del alumno 
-solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno. 
-10. Mayor puntuación en el apartado condición de víctima de violencia de género o del 
-terrorismo. 
-11. Mayor puntuación en el apartado condición de antiguo alumno del propio alumno, de 
-los padres, tutores legales o de alguno de los hermanos del solicitante, en el centro 
-para el que solicita plaza. 
-12. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según 
-criterios objetivos y que deben ser hechos públicos por el centro. 
-13. Sorteo público realizado por la consejería competente en materia de Educación.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+10. Condición de víctima de violencia de género o del terrorismo: 2 puntos.
+
+11. Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de
+alguno de los hermanos del solicitante, en el centro para el que solicita plaza: 4
+puntos.
+
+12. Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios
+de admisión, acordada por el centro según criterios objetivos y que deben ser hechos
+públicos por el centro: 3 puntos.
+
+Criterios de desempate:
+
+Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden
+que a continuación se exponen.
+
+1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro
+solicitado.
+2. Mayor puntuación obtenida en el apartado de proximidad del domicilio o lugar de
+trabajo de alguno de los padres o tutores legales del alumno.
+3. Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
+4. Mayor puntuación en el apartado de padres o tutores legales del alumno que trabajen
+en el mismo centro para el que se solicita plaza.
+5. Mayor puntuación en el apartado alumno perteneciente a familia numerosa.
+6. Mayor puntuación en el apartado alumno solicitante nacido de parto múltiple.
+7. Mayor puntuación en el apartado alumno solicitante perteneciente a familia
+monoparental.
+8. Mayor puntuación en el apartado alumno solicitante en situación de acogimiento
+familiar.
+9. Mayor puntuación en el apartado discapacidad legalmente reconocida del alumno
+solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno.
+10. Mayor puntuación en el apartado condición de víctima de violencia de género o del
+terrorismo.
+11. Mayor puntuación en el apartado condición de antiguo alumno del propio alumno, de
+los padres, tutores legales o de alguno de los hermanos del solicitante, en el centro
+para el que solicita plaza.
+12. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según
+criterios objetivos y que deben ser hechos públicos por el centro.
+13. Sorteo público realizado por la consejería competente en materia de Educación.
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1334,60 +1319,58 @@ Pág. 137
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO II 
- 
-BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA 
-EL CURSO 2026/2027 EN BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS 
- 
- 
-Criterios prioritarios: 
- 
-1. 
-Hermanos matriculados en el centro.  
-En caso de que haya un hermano matriculado en el centro solicitado: 15 puntos. 
-En caso de que haya dos o más hermanos matriculados en el centro solicitado: 30 
-puntos. 
- 
-2.    Proximidad del domicilio o lugar de trabajo de padres o tutores legales del alumno. 
-Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del 
-alumno situado en el mismo municipio que el centro solicitado: 12 puntos.  
-En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado 
-anterior, si el domicilio o lugar de trabajo de uno de los padres o tutores legales del 
-alumno está ubicado en el mismo distrito municipal que el centro solicitado: 1 punto. 
-Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del 
-alumno situado en un municipio de la Comunidad de Madrid distinto al del centro 
-solicitado: 8 puntos. 
- 
-3. 
-Renta de la unidad familiar. 
-Alguno de los padres o tutores legales del alumno es beneficiario de la ayuda de la 
-Renta Mínima de Inserción o del Ingreso Mínimo Vital: 12 puntos. 
- 
-Criterios complementarios: 
- 
-4.   Valoración del expediente académico. La valoración se referirá al último curso finalizado 
-y se calculará según el procedimiento único y común para todos los centros que 
-establezca la consejería competente en materia de Educación. 
-1º Nota media mayor o igual a 9: 11 puntos. 
-2º Nota media mayor o igual a 8 y menor a 9: 9 puntos. 
-3º Nota media mayor o igual a 7 y menor a 8: 7 puntos. 
-4º Nota media mayor o igual a 6 y menor a 7: 6 puntos. 
- 
-5.   Padres o tutores legales del alumno que trabajen en el mismo centro para el que solicita 
-plaza: 10 puntos.  
- 
-6. 
-Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se 
-contabilizará a los efectos de aplicación del presente criterio de admisión. 
-1º Familia numerosa general: 10 puntos. 
-2º Familia numerosa especial: 11 puntos. 
- 
-7.    Alumno solicitante nacido de parto múltiple: 3 puntos. 
- 
-8.   Alumno solicitante perteneciente a familia monoparental: 3 puntos. 
- 
-9.   Alumno solicitante en situación de acogimiento familiar: 3 puntos. 
- 
+ANEXO II
+
+BAREMO DE SOLICITUDES PARA EL PROCESO DE ADMISIÓN DE ALUMNOS PARA
+EL CURSO 2026/2027 EN BACHILLERATO SOSTENIDO CON FONDOS PÚBLICOS
+
+Criterios prioritarios:
+
+1.
+Hermanos matriculados en el centro.
+En caso de que haya un hermano matriculado en el centro solicitado: 15 puntos.
+En caso de que haya dos o más hermanos matriculados en el centro solicitado: 30
+puntos.
+
+2.    Proximidad del domicilio o lugar de trabajo de padres o tutores legales del alumno.
+Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del
+alumno situado en el mismo municipio que el centro solicitado: 12 puntos.
+En el caso del municipio de Madrid, además de la puntuación obtenida por el apartado
+anterior, si el domicilio o lugar de trabajo de uno de los padres o tutores legales del
+alumno está ubicado en el mismo distrito municipal que el centro solicitado: 1 punto.
+Domicilio o lugar de trabajo de uno cualquiera de los padres o tutores legales del
+alumno situado en un municipio de la Comunidad de Madrid distinto al del centro
+solicitado: 8 puntos.
+
+3.
+Renta de la unidad familiar.
+Alguno de los padres o tutores legales del alumno es beneficiario de la ayuda de la
+Renta Mínima de Inserción o del Ingreso Mínimo Vital: 12 puntos.
+
+Criterios complementarios:
+
+4.   Valoración del expediente académico. La valoración se referirá al último curso finalizado
+y se calculará según el procedimiento único y común para todos los centros que
+establezca la consejería competente en materia de Educación.
+1º Nota media mayor o igual a 9: 11 puntos.
+2º Nota media mayor o igual a 8 y menor a 9: 9 puntos.
+3º Nota media mayor o igual a 7 y menor a 8: 7 puntos.
+4º Nota media mayor o igual a 6 y menor a 7: 6 puntos.
+
+5.   Padres o tutores legales del alumno que trabajen en el mismo centro para el que solicita
+plaza: 10 puntos.
+
+6.
+Alumno solicitante perteneciente a familia numerosa. El concebido no nacido se
+contabilizará a los efectos de aplicación del presente criterio de admisión.
+1º Familia numerosa general: 10 puntos.
+2º Familia numerosa especial: 11 puntos.
+
+7.    Alumno solicitante nacido de parto múltiple: 3 puntos.
+
+8.   Alumno solicitante perteneciente a familia monoparental: 3 puntos.
+
+9.   Alumno solicitante en situación de acogimiento familiar: 3 puntos.
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 138
@@ -1395,57 +1378,49 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-10. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del alumno 
-solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno: 7  
-puntos. 
- 
-11. Condición de víctima de violencia de género o del terrorismo: 2 puntos. 
- 
-12.  Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de 
-alguno de los hermanos del solicitante, en el centro para el que solicita plaza: 4 puntos. 
- 
-13.  Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios de 
-admisión, acordada por el centro según criterios objetivos y que deben ser hechos 
-públicos por el centro: 3 puntos. 
- 
-Criterios de desempate: 
- 
-Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden 
-que a continuación se exponen. 
- 
-1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro 
-solicitado.  
-2. Mayor puntuación obtenida en el apartado de proximidad del domicilio o lugar de 
-trabajo de alguno de los padres o tutores legales del alumno. 
-3. Mayor puntuación obtenida en el apartado de renta de la unidad familiar. 
-4. Mayor puntuación obtenida en el apartado valoración del expediente académico. 
-5. Mayor puntuación en el apartado de padres o tutores legales del alumno que trabajen 
-en el mismo centro para el que solicita plaza.  
-6. Mayor puntuación en el apartado alumno solicitante perteneciente a familia 
-numerosa. 
-7. Mayor puntuación en el apartado alumno solicitante nacido de parto múltiple. 
-8. Mayor puntuación en el apartado alumno solicitante perteneciente a familia 
-monoparental. 
-9. Mayor puntuación en el apartado alumno solicitante en situación de acogimiento 
-familiar. 
-10. Mayor puntuación en el apartado discapacidad legalmente reconocida del alumno 
-solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno.  
-11. Mayor puntuación en el apartado condición de víctima de violencia de género o del 
-terrorismo. 
-12. Mayor puntuación en el apartado condición de antiguo alumno del propio alumno, de 
-los padres, tutores legales o de alguno de los hermanos del solicitante, en el centro 
-para el que solicita plaza. 
-13. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según 
-criterios objetivos y que deben ser hechos públicos por el centro. 
-14. Sorteo público realizado por la consejería competente en materia de Educación.  
- 
- 
- 
- 
- 
- 
- 
- 
+10. Existencia de discapacidad física, psíquica o sensorial legalmente acreditada del alumno
+solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno: 7
+puntos.
+
+11. Condición de víctima de violencia de género o del terrorismo: 2 puntos.
+
+12.  Condición de antiguo alumno del propio alumno, de los padres, tutores legales o de
+alguno de los hermanos del solicitante, en el centro para el que solicita plaza: 4 puntos.
+
+13.  Otra circunstancia, que podrá ser coincidente con algunos de los restantes criterios de
+admisión, acordada por el centro según criterios objetivos y que deben ser hechos
+públicos por el centro: 3 puntos.
+
+Criterios de desempate:
+
+Los empates que, en su caso, se produzcan se dirimirán aplicando los criterios en el orden
+que a continuación se exponen.
+
+1. Mayor puntuación obtenida en el apartado de hermanos matriculados en el centro
+solicitado.
+2. Mayor puntuación obtenida en el apartado de proximidad del domicilio o lugar de
+trabajo de alguno de los padres o tutores legales del alumno.
+3. Mayor puntuación obtenida en el apartado de renta de la unidad familiar.
+4. Mayor puntuación obtenida en el apartado valoración del expediente académico.
+5. Mayor puntuación en el apartado de padres o tutores legales del alumno que trabajen
+en el mismo centro para el que solicita plaza.
+6. Mayor puntuación en el apartado alumno solicitante perteneciente a familia
+numerosa.
+7. Mayor puntuación en el apartado alumno solicitante nacido de parto múltiple.
+8. Mayor puntuación en el apartado alumno solicitante perteneciente a familia
+monoparental.
+9. Mayor puntuación en el apartado alumno solicitante en situación de acogimiento
+familiar.
+10. Mayor puntuación en el apartado discapacidad legalmente reconocida del alumno
+solicitante, de los padres, hermanos o, en su caso, de los tutores legales del alumno.
+11. Mayor puntuación en el apartado condición de víctima de violencia de género o del
+terrorismo.
+12. Mayor puntuación en el apartado condición de antiguo alumno del propio alumno, de
+los padres, tutores legales o de alguno de los hermanos del solicitante, en el centro
+para el que solicita plaza.
+13. Mayor puntuación en el apartado de otra circunstancia acordada por el centro según
+criterios objetivos y que deben ser hechos públicos por el centro.
+14. Sorteo público realizado por la consejería competente en materia de Educación.
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1453,57 +1428,56 @@ Pág. 139
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO III 
- 
-CRITERIOS PARA LA BAREMACIÓN DE SOLICITUDES PARA EL PROCESO DE 
-ADMISIÓN DE ALUMNOS PARA EL CURSO 2026/2027 EN CENTROS SOSTENIDOS 
-CON FONDOS PÚBLICOS 
- 
- 
-Se utilizarán los criterios de baremación recogidos en la normativa vigente y que se 
-reproducen en los anexos I y II de la presente resolución.  
- 
-En el caso de los siguientes criterios de baremación que tienen un carácter específico para 
-cada centro: hermanos matriculados, padres, madres o tutores legales que trabajen en el 
-centro, condición de antiguo alumno, o el criterio complementario que permite al Consejo 
-Escolar o titular del centro asignar puntuación adicional, las familias señalarán en su 
-solicitud el centro o los centros para los que alegan alguno de dichos criterios y adjuntarán la 
-información que permita a los centros comprobar su veracidad. Durante el proceso de 
-baremación de solicitudes, los centros comprobarán y, en su caso, validarán, la puntuación 
-correspondiente a dicho criterio o criterios.   
- 
-a) Hermanos matriculados en el centro: 
- 
- Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
-solicitud. Dicha información deberá estar referida al período de presentación de 
-solicitudes de admisión. Los centros comprobarán la información aportada y, en su 
-caso, asignarán la puntuación correspondiente. 
- 
- Con el fin de favorecer el agrupamiento familiar, en el caso de la existencia de dos o 
-más solicitudes de hermanos en un mismo centro cuando en el proceso de 
-adjudicación de plaza alguno de ellos vaya a figurar entre los alumnos admitidos en el 
-centro, se concederá puntuación por este apartado al resto de los hermanos 
-solicitantes. Dicha puntuación tendrá efecto en el proceso de adjudicación de plazas 
-escolares en el centro. 
- 
- Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
-Dirección General de Infancia, Familia y Fomento de la Natalidad o cuya guarda o 
-tutela sea ostentada por la citada Dirección General, obtendrán plaza escolar con 
-cargo a las plazas reservadas para alumnos con necesidades específicas de apoyo 
-educativo y necesidad de compensación educativa. En el caso de que la familia de 
-acogida tenga escolarizado algún hijo en el centro escolar solicitado por el alumno 
-acogido, con el fin de facilitar su escolarización se asignará a éste la puntuación que le 
-corresponda por el presente apartado.  
- 
-b)  Proximidad del domicilio familiar o lugar de trabajo: 
- 
- Con el fin de garantizar que todos los solicitantes de plaza escolar cuyo domicilio 
-familiar esté situado en la Comunidad de Madrid puedan obtener la máxima 
-puntuación por el concepto de proximidad para dichas enseñanzas, aquellos 
-solicitantes que residan en municipios que no cuenten con ningún centro sostenido 
-con fondos públicos que imparta segundo ciclo de Educación Infantil, Educación 
-Especial, Educación Primaria y/o Educación Secundaria Obligatoria obtendrán 12 
-puntos cuando soliciten plaza escolar para cursar alguna de dichas enseñanzas en 
+ANEXO III
+
+CRITERIOS PARA LA BAREMACIÓN DE SOLICITUDES PARA EL PROCESO DE
+ADMISIÓN DE ALUMNOS PARA EL CURSO 2026/2027 EN CENTROS SOSTENIDOS
+CON FONDOS PÚBLICOS
+
+Se utilizarán los criterios de baremación recogidos en la normativa vigente y que se
+reproducen en los anexos I y II de la presente resolución.
+
+En el caso de los siguientes criterios de baremación que tienen un carácter específico para
+cada centro: hermanos matriculados, padres, madres o tutores legales que trabajen en el
+centro, condición de antiguo alumno, o el criterio complementario que permite al Consejo
+Escolar o titular del centro asignar puntuación adicional, las familias señalarán en su
+solicitud el centro o los centros para los que alegan alguno de dichos criterios y adjuntarán la
+información que permita a los centros comprobar su veracidad. Durante el proceso de
+baremación de solicitudes, los centros comprobarán y, en su caso, validarán, la puntuación
+correspondiente a dicho criterio o criterios.
+
+a) Hermanos matriculados en el centro:
+
+ Las familias indicarán dicha circunstancia para el centro o centros concretos en la
+solicitud. Dicha información deberá estar referida al período de presentación de
+solicitudes de admisión. Los centros comprobarán la información aportada y, en su
+caso, asignarán la puntuación correspondiente.
+
+ Con el fin de favorecer el agrupamiento familiar, en el caso de la existencia de dos o
+más solicitudes de hermanos en un mismo centro cuando en el proceso de
+adjudicación de plaza alguno de ellos vaya a figurar entre los alumnos admitidos en el
+centro, se concederá puntuación por este apartado al resto de los hermanos
+solicitantes. Dicha puntuación tendrá efecto en el proceso de adjudicación de plazas
+escolares en el centro.
+
+ Los alumnos en situación de acogimiento familiar debidamente acreditado por la
+Dirección General de Infancia, Familia y Fomento de la Natalidad o cuya guarda o
+tutela sea ostentada por la citada Dirección General, obtendrán plaza escolar con
+cargo a las plazas reservadas para alumnos con necesidades específicas de apoyo
+educativo y necesidad de compensación educativa. En el caso de que la familia de
+acogida tenga escolarizado algún hijo en el centro escolar solicitado por el alumno
+acogido, con el fin de facilitar su escolarización se asignará a éste la puntuación que le
+corresponda por el presente apartado.
+
+b)  Proximidad del domicilio familiar o lugar de trabajo:
+
+ Con el fin de garantizar que todos los solicitantes de plaza escolar cuyo domicilio
+familiar esté situado en la Comunidad de Madrid puedan obtener la máxima
+puntuación por el concepto de proximidad para dichas enseñanzas, aquellos
+solicitantes que residan en municipios que no cuenten con ningún centro sostenido
+con fondos públicos que imparta segundo ciclo de Educación Infantil, Educación
+Especial, Educación Primaria y/o Educación Secundaria Obligatoria obtendrán 12
+puntos cuando soliciten plaza escolar para cursar alguna de dichas enseñanzas en
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 140
@@ -1511,57 +1485,54 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-centros educativos situados en el municipio próximo en el que de forma habitual se 
-escolaricen dichos alumnos. Las DAT adoptarán las medidas oportunas a través del 
-Sistema Integral de Gestión Educativa Raíces para que pueda aplicarse este criterio. 
- 
- Las familias indicarán el domicilio elegido a efectos de baremación en la solicitud. La 
-Comunidad de Madrid consultará, por medios electrónicos, el domicilio familiar. En 
-caso de manifestar oposición expresa a la consulta de datos será necesario aportar 
-la copia del certificado o volante de empadronamiento de la unidad familiar. En caso 
-de elegir el domicilio laboral se deberá presentar la certificación del lugar de trabajo 
-o documento equivalente en el que se indique el domicilio laboral. 
- 
- Se tomará en consideración, indistintamente, y a elección de la familia el domicilio 
-familiar o el lugar de trabajo de cualquiera de los padres, madres o tutores legales del 
-alumno. En el caso de las solicitudes que aleguen a efectos de baremación un 
-domicilio laboral que esté afectado durante el período de presentación de solicitudes 
-por un Expediente Temporal de Regulación de Empleo (ERTE) dicho domicilio será 
-considerado válido a efectos de baremación.  El domicilio alegado, ya sea familiar o 
-laboral, deberá ser único para todos los centros incluidos en la solicitud. 
-El domicilio indicado será el que se utilice como referencia para la baremación en 
-todos los centros incluidos en la solicitud. 
- 
- Las familias que acrediten la previsión de cambio de domicilio dentro de la Comunidad 
-de Madrid o de traslado a la misma motivado por la movilidad forzosa de cualquiera de 
-los padres, madres o tutores legales, una discapacidad sobrevenida de cualquiera de 
-los miembros de la familia o a un cambio de residencia derivado de actos de violencia 
-de género, o por otras razones durante el año 2026, podrán solicitar plaza escolar en 
-el período ordinario de admisión de alumnos. Para ello habrá que justificar 
-fehacientemente el domicilio laboral o familiar previsto en la Comunidad de Madrid, y 
-se les asignará la puntuación correspondiente, indicándose el domicilio actual a 
-efectos de comunicación.  
- 
- De acuerdo con el Código Civil (artículo 40 y 154), salvo pérdida de la patria potestad 
-por parte de los padres, madres o tutores legales debidamente documentada, el 
-domicilio de los hijos menores y no emancipados, necesariamente y por imperativo 
-legal, es: 
-1. El de cualquiera de los padres, madres o tutores legales que tenga la patria 
-potestad. 
-2. El del padre o madre a quien el Juez haya atribuido la custodia, en caso de 
-separación, divorcio o nulidad matrimonial. 
-3. El del tutor del alumno que legalmente ostente la patria potestad.        
- 
- Los alumnos en situación de acogimiento familiar debidamente acreditado por la 
-Dirección General de Infancia, Familia y Fomento de la Natalidad harán constar, en su 
-caso, el domicilio familiar o laboral de la familia acogedora.  
- 
- No se admitirá como domicilio a efectos de escolarización, el de parientes o familiares 
-en ninguna línea ni grado de consanguinidad o afinidad que no pertenezcan a la 
-unidad familiar. 
- 
- 
- 
+centros educativos situados en el municipio próximo en el que de forma habitual se
+escolaricen dichos alumnos. Las DAT adoptarán las medidas oportunas a través del
+Sistema Integral de Gestión Educativa Raíces para que pueda aplicarse este criterio.
+
+ Las familias indicarán el domicilio elegido a efectos de baremación en la solicitud. La
+Comunidad de Madrid consultará, por medios electrónicos, el domicilio familiar. En
+caso de manifestar oposición expresa a la consulta de datos será necesario aportar
+la copia del certificado o volante de empadronamiento de la unidad familiar. En caso
+de elegir el domicilio laboral se deberá presentar la certificación del lugar de trabajo
+o documento equivalente en el que se indique el domicilio laboral.
+
+ Se tomará en consideración, indistintamente, y a elección de la familia el domicilio
+familiar o el lugar de trabajo de cualquiera de los padres, madres o tutores legales del
+alumno. En el caso de las solicitudes que aleguen a efectos de baremación un
+domicilio laboral que esté afectado durante el período de presentación de solicitudes
+por un Expediente Temporal de Regulación de Empleo (ERTE) dicho domicilio será
+considerado válido a efectos de baremación.  El domicilio alegado, ya sea familiar o
+laboral, deberá ser único para todos los centros incluidos en la solicitud.
+El domicilio indicado será el que se utilice como referencia para la baremación en
+todos los centros incluidos en la solicitud.
+
+ Las familias que acrediten la previsión de cambio de domicilio dentro de la Comunidad
+de Madrid o de traslado a la misma motivado por la movilidad forzosa de cualquiera de
+los padres, madres o tutores legales, una discapacidad sobrevenida de cualquiera de
+los miembros de la familia o a un cambio de residencia derivado de actos de violencia
+de género, o por otras razones durante el año 2026, podrán solicitar plaza escolar en
+el período ordinario de admisión de alumnos. Para ello habrá que justificar
+fehacientemente el domicilio laboral o familiar previsto en la Comunidad de Madrid, y
+se les asignará la puntuación correspondiente, indicándose el domicilio actual a
+efectos de comunicación.
+
+ De acuerdo con el Código Civil (artículo 40 y 154), salvo pérdida de la patria potestad
+por parte de los padres, madres o tutores legales debidamente documentada, el
+domicilio de los hijos menores y no emancipados, necesariamente y por imperativo
+legal, es:
+1. El de cualquiera de los padres, madres o tutores legales que tenga la patria
+potestad.
+2. El del padre o madre a quien el Juez haya atribuido la custodia, en caso de
+separación, divorcio o nulidad matrimonial.
+3. El del tutor del alumno que legalmente ostente la patria potestad.
+
+ Los alumnos en situación de acogimiento familiar debidamente acreditado por la
+Dirección General de Infancia, Familia y Fomento de la Natalidad harán constar, en su
+caso, el domicilio familiar o laboral de la familia acogedora.
+
+ No se admitirá como domicilio a efectos de escolarización, el de parientes o familiares
+en ninguna línea ni grado de consanguinidad o afinidad que no pertenezcan a la
+unidad familiar.
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1569,57 +1540,57 @@ Pág. 141
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-c) Renta de la unidad familiar: 
-                                
- Se asignará puntuación por este apartado a aquellos solicitantes cuyo padre, madre o 
-tutor legal del alumno sean beneficiarios y perciban la Renta Mínima de Inserción o el 
-Ingreso Mínimo Vital en el período de presentación de las solicitudes. Para ello es 
-necesario indicar dicha circunstancia en la solicitud. La Comunidad de Madrid 
-consultará, por medios electrónicos, la documentación de ser beneficiario de la 
-Renta Mínima de Inserción o el Ingreso Mínimo Vital. En caso de manifestar 
-oposición expresa a la consulta de datos será necesario aportar la documentación 
-que la acredite fehacientemente. 
- 
- Aquellos solicitantes que señalen la situación de ser beneficiarios de la Renta Mínima 
-de Inserción o el Ingreso Mínimo Vital y se opongan a la consulta sin aportar la 
-documentación justificativa de dicha situación, según corresponda en cada caso, no 
-podrán obtener puntuación por el citado criterio de admisión ni tampoco podrán ser 
-tenidos en cuenta en el caso de un posible desempate por dicho apartado. 
- 
-d) Padres o tutores legales que trabajen en el mismo centro para el que solicita plaza: 
- 
- Para acreditar la condición de padre, madre o tutor legal del alumno que trabaje en el 
-centro deberá indicar dicha circunstancia en la solicitud y será necesario adjuntar a la 
-solicitud la siguiente información: Nombre, apellidos y NIF o NIE, del padre, madre o 
-tutor legal del alumno solicitante y la denominación del puesto laboral desempeñado 
-en el centro o, en su defecto, aportar un certificado del centro que acredite dicha 
-circunstancia. Dicha información deberá estar referida al período de presentación de 
-solicitudes de admisión. Los centros comprobarán la información aportada y, en su 
-caso, asignarán la puntuación correspondiente. 
- 
-e)  Alumno solicitante perteneciente a familia numerosa: 
- 
- Para acreditar la situación de familia numerosa deberá indicar tal circunstancia en la 
-solicitud. La Comunidad de Madrid consultará, por medios electrónicos, la 
-documentación para aquellos solicitantes que ya tengan reconocida dicha situación. 
-En caso de manifestar oposición expresa a la consulta se aportará el título o carné 
-actualizado de familia numerosa en el que figurará reflejado si se trata de una familia 
-numerosa de tipo general o especial.  
- 
- El concebido no nacido se contabilizará a los efectos de aplicación del presente criterio 
-de admisión. Para ello es necesario aportar certificación médica oficial que acredite el 
-embarazo en el momento de la presentación de la solicitud de admisión, semana de 
-gestación y la fecha prevista para el nacimiento. En la misma certificación aparecerá, 
-en su caso, si se trata de una gestación múltiple.  
- 
-En el caso de los solicitantes que ya tengan reconocida la condición de familia 
-numerosa de categoría general y vayan a pasar a categoría especial, aportarán 
-fotocopia del título o carné de familia numerosa y certificación médica acreditando la 
-gestación que, conforme a lo establecido en el párrafo anterior, justifique el cambio de 
-categoría. 
- 
- En el caso de que la familia solicitante aún no tenga el título de familia numerosa 
-también es necesario que aporte documentación por no ser todavía posible realizar 
+c) Renta de la unidad familiar:
+
+ Se asignará puntuación por este apartado a aquellos solicitantes cuyo padre, madre o
+tutor legal del alumno sean beneficiarios y perciban la Renta Mínima de Inserción o el
+Ingreso Mínimo Vital en el período de presentación de las solicitudes. Para ello es
+necesario indicar dicha circunstancia en la solicitud. La Comunidad de Madrid
+consultará, por medios electrónicos, la documentación de ser beneficiario de la
+Renta Mínima de Inserción o el Ingreso Mínimo Vital. En caso de manifestar
+oposición expresa a la consulta de datos será necesario aportar la documentación
+que la acredite fehacientemente.
+
+ Aquellos solicitantes que señalen la situación de ser beneficiarios de la Renta Mínima
+de Inserción o el Ingreso Mínimo Vital y se opongan a la consulta sin aportar la
+documentación justificativa de dicha situación, según corresponda en cada caso, no
+podrán obtener puntuación por el citado criterio de admisión ni tampoco podrán ser
+tenidos en cuenta en el caso de un posible desempate por dicho apartado.
+
+d) Padres o tutores legales que trabajen en el mismo centro para el que solicita plaza:
+
+ Para acreditar la condición de padre, madre o tutor legal del alumno que trabaje en el
+centro deberá indicar dicha circunstancia en la solicitud y será necesario adjuntar a la
+solicitud la siguiente información: Nombre, apellidos y NIF o NIE, del padre, madre o
+tutor legal del alumno solicitante y la denominación del puesto laboral desempeñado
+en el centro o, en su defecto, aportar un certificado del centro que acredite dicha
+circunstancia. Dicha información deberá estar referida al período de presentación de
+solicitudes de admisión. Los centros comprobarán la información aportada y, en su
+caso, asignarán la puntuación correspondiente.
+
+e)  Alumno solicitante perteneciente a familia numerosa:
+
+ Para acreditar la situación de familia numerosa deberá indicar tal circunstancia en la
+solicitud. La Comunidad de Madrid consultará, por medios electrónicos, la
+documentación para aquellos solicitantes que ya tengan reconocida dicha situación.
+En caso de manifestar oposición expresa a la consulta se aportará el título o carné
+actualizado de familia numerosa en el que figurará reflejado si se trata de una familia
+numerosa de tipo general o especial.
+
+ El concebido no nacido se contabilizará a los efectos de aplicación del presente criterio
+de admisión. Para ello es necesario aportar certificación médica oficial que acredite el
+embarazo en el momento de la presentación de la solicitud de admisión, semana de
+gestación y la fecha prevista para el nacimiento. En la misma certificación aparecerá,
+en su caso, si se trata de una gestación múltiple.
+
+En el caso de los solicitantes que ya tengan reconocida la condición de familia
+numerosa de categoría general y vayan a pasar a categoría especial, aportarán
+fotocopia del título o carné de familia numerosa y certificación médica acreditando la
+gestación que, conforme a lo establecido en el párrafo anterior, justifique el cambio de
+categoría.
+
+ En el caso de que la familia solicitante aún no tenga el título de familia numerosa
+también es necesario que aporte documentación por no ser todavía posible realizar
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 142
@@ -1627,57 +1598,53 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-dicha consulta por medios electrónicos: información sobre los datos obrantes en el 
-Registro Civil, documentación acreditativa que corresponda o, en su caso, copia del 
-libro de familia y/o certificado individual de todos los miembros de la unidad familiar.  
- 
-f) Alumno solicitante nacido de parto múltiple:  
- 
- Para acreditar que el alumno ha nacido de parto múltiple deberá indicar dicha 
-circunstancia en la solicitud y será necesario aportar información sobre los datos 
-obrantes en el Registro Civil, documentación acreditativa que corresponda o, en su 
-caso, copia del libro de familia y/o certificado individual de todos los miembros de la 
-unidad familiar. 
- 
-g) Alumno solicitante perteneciente a familia monoparental:  
- 
- A efectos del proceso de admisión de alumnos se considera familia monoparental 
-aquella constituida por un solo ascendiente, con el que vive el alumno, y que es el 
-único sustentador de la familia. De esta manera, se entiende que un alumno sujeto a 
-patria potestad prorrogada o tutela, pertenece a una familia con la condición de 
-monoparental, cuando la patria potestad esté ejercida por una sola persona o, cuando 
-siendo ejercida por dos personas, exista orden de alejamiento de una de ellas con 
-respecto a la otra con la que convive el alumno. Para la acreditación de la condición de 
-familia monoparental deberá indicar dicha circunstancia en la solicitud, además de 
-aportar documentación por no ser todavía posible realizar dicha consulta por medios 
-electrónicos: información sobre los datos obrantes en el Registro Civil, documentación 
-acreditativa que corresponda o, en su caso, copia del libro de familia y/o certificado 
-individual de todos los miembros de la unidad familiar. 
- 
-h) Alumno solicitante en situación de acogimiento familiar:  
- 
- Para acreditar la situación de acogimiento del solicitante deberá indicar dicha 
-circunstancia en la solicitud y aportar copia de la documentación administrativa que la 
-justifique. 
- 
-i) Discapacidad física, psíquica o sensorial del alumno solicitante, padres, hermanos 
-o tutores legales: 
- 
- Se deberá indicar tal circunstancia en la solicitud para que la administración 
-competente realice la consulta electrónica correspondiente. En caso de manifestar 
-oposición expresa a la consulta de datos, será necesario acreditar dicha circunstancia 
-mediante la presentación de los correspondientes certificados e informes emitidos por 
-la Consejería de Familia, Juventud y Asuntos Sociales por los órganos competentes 
-de otras Comunidades Autónomas o, anteriormente, por el IMSERSO. De acuerdo con 
-el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se aprueba el 
-Texto Refundido de la Ley General de derechos de las personas con discapacidad y 
-de su inclusión social, tendrán validez a efectos de baremación y obtención de 
-puntuación de las solicitudes de admisión, los certificados en los que figure un grado 
-de discapacidad igual o superior al 33 %. 
- 
- 
- 
- 
+dicha consulta por medios electrónicos: información sobre los datos obrantes en el
+Registro Civil, documentación acreditativa que corresponda o, en su caso, copia del
+libro de familia y/o certificado individual de todos los miembros de la unidad familiar.
+
+f) Alumno solicitante nacido de parto múltiple:
+
+ Para acreditar que el alumno ha nacido de parto múltiple deberá indicar dicha
+circunstancia en la solicitud y será necesario aportar información sobre los datos
+obrantes en el Registro Civil, documentación acreditativa que corresponda o, en su
+caso, copia del libro de familia y/o certificado individual de todos los miembros de la
+unidad familiar.
+
+g) Alumno solicitante perteneciente a familia monoparental:
+
+ A efectos del proceso de admisión de alumnos se considera familia monoparental
+aquella constituida por un solo ascendiente, con el que vive el alumno, y que es el
+único sustentador de la familia. De esta manera, se entiende que un alumno sujeto a
+patria potestad prorrogada o tutela, pertenece a una familia con la condición de
+monoparental, cuando la patria potestad esté ejercida por una sola persona o, cuando
+siendo ejercida por dos personas, exista orden de alejamiento de una de ellas con
+respecto a la otra con la que convive el alumno. Para la acreditación de la condición de
+familia monoparental deberá indicar dicha circunstancia en la solicitud, además de
+aportar documentación por no ser todavía posible realizar dicha consulta por medios
+electrónicos: información sobre los datos obrantes en el Registro Civil, documentación
+acreditativa que corresponda o, en su caso, copia del libro de familia y/o certificado
+individual de todos los miembros de la unidad familiar.
+
+h) Alumno solicitante en situación de acogimiento familiar:
+
+ Para acreditar la situación de acogimiento del solicitante deberá indicar dicha
+circunstancia en la solicitud y aportar copia de la documentación administrativa que la
+justifique.
+
+i) Discapacidad física, psíquica o sensorial del alumno solicitante, padres, hermanos
+o tutores legales:
+
+ Se deberá indicar tal circunstancia en la solicitud para que la administración
+competente realice la consulta electrónica correspondiente. En caso de manifestar
+oposición expresa a la consulta de datos, será necesario acreditar dicha circunstancia
+mediante la presentación de los correspondientes certificados e informes emitidos por
+la Consejería de Familia, Juventud y Asuntos Sociales por los órganos competentes
+de otras Comunidades Autónomas o, anteriormente, por el IMSERSO. De acuerdo con
+el [Real Decreto Legislativo 1/2013](../../../estatal/07_convivencia_bienestar_y_protocolos/RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md), de 29 de noviembre, por el que se aprueba el
+Texto Refundido de la Ley General de derechos de las personas con discapacidad y
+de su inclusión social, tendrán validez a efectos de baremación y obtención de
+puntuación de las solicitudes de admisión, los certificados en los que figure un grado
+de discapacidad igual o superior al 33 %.
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1685,57 +1652,57 @@ Pág. 143
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-j) Condición de víctima de violencia de género o del terrorismo: 
- 
- La condición de víctima de violencia de género podrá acreditarse conforme a lo 
-establecido en el artículo 23 de la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de 
-medidas de protección integral contra la violencia de género, mediante títulos de 
-carácter judicial o administrativo según corresponda. 
- Los solicitantes acreditarán la condición de víctima del terrorismo mediante la 
-presentación del certificado que emite el Ministerio del Interior.  
- 
-k) Valoración del expediente académico (último curso finalizado) exclusivamente para 
-la admisión a las enseñanzas de Bachillerato: 
- 
- Las familias indicarán dicha circunstancia para el centro o centros concretos en la 
-solicitud. 
- 
- En cumplimiento de lo dispuesto en el anexo II del [Decreto 29/2013](../01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del 
-Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de 
-Madrid, modificado y actualizado por el Decreto 244/2021, de 29 de diciembre, el 
-centro valorará el expediente académico de los solicitantes en el último curso 
-finalizado y superado en el Sistema Educativo Español. El expediente académico se 
-acreditará mediante certificación académica personal o documentación equivalente. 
- 
- Procedimiento para el cálculo de la nota media. Se utilizarán las calificaciones 
-numéricas de todas las materias o, en su caso, ámbitos, que integran el último curso 
-finalizado y superado. 
- 
- Complementariamente a lo anterior, para valorar los resultados académicos en el 
-acceso al Bachillerato de Artes se realizará una valoración adicional de las 
-calificaciones obtenidas en materias relacionadas directamente con esta modalidad, 
-que podrá suponer como máximo un punto y medio adicional. Dicha valoración se 
-realizará según lo recogido en el Sistema Integral de Gestión Educativa Raíces. 
- 
-l)  Condición de antiguo alumno del propio alumno, de los padres, tutores legales o 
-de alguno de los hermanos del solicitante, en el centro en el que se solicita plaza: 
- 
- Dicho criterio se aplicará cuando el propio alumno solicitante, o el padre, madre, tutor 
-legal o alguno de los hermanos del alumno tenga la condición de antiguo alumno del 
-centro para el que se solicita plaza por haber estado escolarizados en el mismo con 
-anterioridad al curso actual. Los solicitantes indicarán dicha circunstancia en la 
-solicitud y adjuntarán la información o, en su defecto, la documentación que permita al 
-centro su fácil comprobación. 
- 
-m)  Para determinar la aplicación del criterio complementario que permite al centro    
-asignar puntuación adicional por otra circunstancia que podrá ser coincidente con 
-algunos de los restantes criterios de admisión, acordada por el órgano del centro 
-competente en materia de admisión según criterios públicos y objetivos: 
- 
- Los criterios acordados, que podrán ser coincidentes con otros criterios recogidos en 
-el baremo, junto a la documentación necesaria para acreditarlos, deberán ser 
-expuestos públicamente en la página web de cada centro antes del inicio del plazo de 
-admisión de solicitudes. Cada centro solo podrá adjudicar puntuación a cada 
+j) Condición de víctima de violencia de género o del terrorismo:
+
+ La condición de víctima de violencia de género podrá acreditarse conforme a lo
+establecido en el artículo 23 de la [Ley Orgánica 1/2004](../../../estatal/07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md), de 28 de diciembre, de
+medidas de protección integral contra la violencia de género, mediante títulos de
+carácter judicial o administrativo según corresponda.
+ Los solicitantes acreditarán la condición de víctima del terrorismo mediante la
+presentación del certificado que emite el Ministerio del Interior.
+
+k) Valoración del expediente académico (último curso finalizado) exclusivamente para
+la admisión a las enseñanzas de Bachillerato:
+
+ Las familias indicarán dicha circunstancia para el centro o centros concretos en la
+solicitud.
+
+ En cumplimiento de lo dispuesto en el anexo II del [Decreto 29/2013](../01_marco_normativo_general_y_organico/D29_2013_libertad_eleccion_centro_escolar_madrid.md), de 11 de abril, del
+Consejo de Gobierno, de libertad de elección de centro escolar en la Comunidad de
+Madrid, modificado y actualizado por el Decreto 244/2021, de 29 de diciembre, el
+centro valorará el expediente académico de los solicitantes en el último curso
+finalizado y superado en el Sistema Educativo Español. El expediente académico se
+acreditará mediante certificación académica personal o documentación equivalente.
+
+ Procedimiento para el cálculo de la nota media. Se utilizarán las calificaciones
+numéricas de todas las materias o, en su caso, ámbitos, que integran el último curso
+finalizado y superado.
+
+ Complementariamente a lo anterior, para valorar los resultados académicos en el
+acceso al Bachillerato de Artes se realizará una valoración adicional de las
+calificaciones obtenidas en materias relacionadas directamente con esta modalidad,
+que podrá suponer como máximo un punto y medio adicional. Dicha valoración se
+realizará según lo recogido en el Sistema Integral de Gestión Educativa Raíces.
+
+l)  Condición de antiguo alumno del propio alumno, de los padres, tutores legales o
+de alguno de los hermanos del solicitante, en el centro en el que se solicita plaza:
+
+ Dicho criterio se aplicará cuando el propio alumno solicitante, o el padre, madre, tutor
+legal o alguno de los hermanos del alumno tenga la condición de antiguo alumno del
+centro para el que se solicita plaza por haber estado escolarizados en el mismo con
+anterioridad al curso actual. Los solicitantes indicarán dicha circunstancia en la
+solicitud y adjuntarán la información o, en su defecto, la documentación que permita al
+centro su fácil comprobación.
+
+m)  Para determinar la aplicación del criterio complementario que permite al centro
+asignar puntuación adicional por otra circunstancia que podrá ser coincidente con
+algunos de los restantes criterios de admisión, acordada por el órgano del centro
+competente en materia de admisión según criterios públicos y objetivos:
+
+ Los criterios acordados, que podrán ser coincidentes con otros criterios recogidos en
+el baremo, junto a la documentación necesaria para acreditarlos, deberán ser
+expuestos públicamente en la página web de cada centro antes del inicio del plazo de
+admisión de solicitudes. Cada centro solo podrá adjudicar puntuación a cada
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 144
@@ -1743,17 +1710,17 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-solicitante por una circunstancia de entre las aprobadas por el centro. La puntuación 
-no podrá ser fraccionada o modificada. Las familias indicarán dicha circunstancia para 
-el centro o centros concretos en la solicitud y adjuntarán la información o 
-documentación que permita a los centros su fácil comprobación y baremación. 
- 
-RESOLUCIÓN DE EMPATES 
- 
-Con el fin de unificar para el conjunto de centros sostenidos con fondos públicos el sorteo 
-que permita resolver posibles empates en puntuación entre varios solicitantes de plaza 
-escolar, la Consejería de Educación, Ciencia y Universidades llevará a cabo el sorteo que se 
-describe en la Instrucción novena. 
+solicitante por una circunstancia de entre las aprobadas por el centro. La puntuación
+no podrá ser fraccionada o modificada. Las familias indicarán dicha circunstancia para
+el centro o centros concretos en la solicitud y adjuntarán la información o
+documentación que permita a los centros su fácil comprobación y baremación.
+
+RESOLUCIÓN DE EMPATES
+
+Con el fin de unificar para el conjunto de centros sostenidos con fondos públicos el sorteo
+que permita resolver posibles empates en puntuación entre varios solicitantes de plaza
+escolar, la Consejería de Educación, Ciencia y Universidades llevará a cabo el sorteo que se
+describe en la Instrucción novena.
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1761,73 +1728,72 @@ Pág. 145
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO IV 
- 
-CALENDARIO DE ACTUACIONES PARA EL PROCESO ORDINARIO DE ADMISIÓN DE 
-ALUMNOS PARA EL CURSO 2026/2027 
- 
- 
-RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES 
-CALENDARIO 
-Las DAT acceden a través de la aplicación informática de gestión a la 
-zonificación, así como a las adscripciones de los centros.  
-A partir del 9 de 
-enero de 2026 
-Las DAT revisan y actualizan, a través del Sistema Integral de 
-Gestión Educativa Raíces, la zonificación de los centros públicos que 
-incluye la posibilidad de diferenciar, en caso necesario, la zonificación 
-existente para E.S.O. y Bachillerato. Igualmente revisarán las 
-adscripciones de los centros públicos para el curso 2026/2027 y la 
-organización y ubicación de los SAE. 
-Hasta el 23 de 
-enero de 2026 
-Los centros educativos pueden acceder a la información provisional 
-sobre adscripciones para el curso 2026/2027. 
-A partir del 27 de 
-enero de 2026 
-Plazo para que los centros puedan proponer y solicitar a las DAT 
-modificaciones en las adscripciones provisionales de centros para el 
-curso 2026/2027. 
-Hasta el 30 de 
-enero de 2026 
-Grabación de las unidades previstas y acordadas en la REOR por 
-parte de las respectivas Direcciones Generales. 
-Del 2 al 6 de 
-febrero de 2026 
-En los centros públicos, autorización de grupos en cada centro por 
-parte de las DAT a partir de las comunicaciones recibidas de las 
-respectivas Direcciones Generales.  
-En los centros privados sostenidos con fondos públicos, distribución 
-por la titularidad del centro de unidades por nivel educativo para cada 
-etapa, en función de las unidades de concierto aprobadas en la 
-valoración provisional por la Dirección General competente. 
-Del 9 al 13 de 
-febrero de 2026 
-Las DAT analizan las propuestas recibidas, revisan las propuestas 
-provisionales de adscripción y graban en la aplicación informática de 
-gestión las adscripciones entre centros que se aplicarán en el 
-proceso de admisión para el curso 2026/2027.  
-Hasta el 10 de 
-febrero de 2026 
-Los centros con adscripción única a otros centros verifican que han 
-informado en el Sistema Integral de Gestión Educativa Raíces a 
-todos los alumnos que finalizan sus enseñanzas en el centro. 
-Hasta el 20 de 
-febrero de 2026 
-Elaboración por parte de los centros de la propuesta de vacantes 
-para el proceso ordinario de admisión. Se consignarán de manera 
-diferenciada respecto al resto de vacantes las bilingües para primer 
-curso de ESO en IES que cuentan con sección lingüística en lengua 
-francesa o alemana, y, según corresponda, la reserva de plaza para 
-alumnos con NEE y necesidades de compensación educativa. 
-Hasta el 20 de 
-febrero de 2026 
-Revisión por parte de las DAT de las propuestas de vacantes 
-elaboradas por los centros y comunicación de la oferta de vacantes 
-autorizada.  
-Hasta el 6 de 
-marzo de 2026 
+ANEXO IV
+
+CALENDARIO DE ACTUACIONES PARA EL PROCESO ORDINARIO DE ADMISIÓN DE
+ALUMNOS PARA EL CURSO 2026/2027
+
+RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y
+RESPONSABLES
+CALENDARIO
+Las DAT acceden a través de la aplicación informática de gestión a la
+zonificación, así como a las adscripciones de los centros.
+A partir del 9 de
+enero de 2026
+Las DAT revisan y actualizan, a través del Sistema Integral de
+Gestión Educativa Raíces, la zonificación de los centros públicos que
+incluye la posibilidad de diferenciar, en caso necesario, la zonificación
+existente para E.S.O. y Bachillerato. Igualmente revisarán las
+adscripciones de los centros públicos para el curso 2026/2027 y la
+organización y ubicación de los SAE.
+Hasta el 23 de
+enero de 2026
+Los centros educativos pueden acceder a la información provisional
+sobre adscripciones para el curso 2026/2027.
+A partir del 27 de
+enero de 2026
+Plazo para que los centros puedan proponer y solicitar a las DAT
+modificaciones en las adscripciones provisionales de centros para el
+curso 2026/2027.
+Hasta el 30 de
+enero de 2026
+Grabación de las unidades previstas y acordadas en la REOR por
+parte de las respectivas Direcciones Generales.
+Del 2 al 6 de
+febrero de 2026
+En los centros públicos, autorización de grupos en cada centro por
+parte de las DAT a partir de las comunicaciones recibidas de las
+respectivas Direcciones Generales.
+En los centros privados sostenidos con fondos públicos, distribución
+por la titularidad del centro de unidades por nivel educativo para cada
+etapa, en función de las unidades de concierto aprobadas en la
+valoración provisional por la Dirección General competente.
+Del 9 al 13 de
+febrero de 2026
+Las DAT analizan las propuestas recibidas, revisan las propuestas
+provisionales de adscripción y graban en la aplicación informática de
+gestión las adscripciones entre centros que se aplicarán en el
+proceso de admisión para el curso 2026/2027.
+Hasta el 10 de
+febrero de 2026
+Los centros con adscripción única a otros centros verifican que han
+informado en el Sistema Integral de Gestión Educativa Raíces a
+todos los alumnos que finalizan sus enseñanzas en el centro.
+Hasta el 20 de
+febrero de 2026
+Elaboración por parte de los centros de la propuesta de vacantes
+para el proceso ordinario de admisión. Se consignarán de manera
+diferenciada respecto al resto de vacantes las bilingües para primer
+curso de ESO en IES que cuentan con sección lingüística en lengua
+francesa o alemana, y, según corresponda, la reserva de plaza para
+alumnos con NEE y necesidades de compensación educativa.
+Hasta el 20 de
+febrero de 2026
+Revisión por parte de las DAT de las propuestas de vacantes
+elaboradas por los centros y comunicación de la oferta de vacantes
+autorizada.
+Hasta el 6 de
+marzo de 2026
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 146
@@ -1835,73 +1801,73 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
- 
-RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES 
-CALENDARIO 
-Distribución a las DAT y a los SAE de las solicitudes de admisión y 
-los cuadernillos informativos. 
-Hasta el 27 de 
-febrero de 2026 
-Reunión del presidente de cada SAE con los directores de los centros 
-con el fin de coordinar el proceso de admisión. 
-Hasta el 6 de 
-marzo de 2026 
-La Secretaría Virtual y los centros, a través de su página web, 
-difunden la información correspondiente al proceso de admisión, que 
-incluirá la oferta de vacantes, la información sobre centros adscritos, 
-así como las circunstancias y requisitos aprobados por el centro para 
-la adjudicación de la puntuación adicional relativa al criterio 
-complementario. 
-9 de marzo de 
-2026 
-Las familias pueden acceder a través de la página web de admisión 
-de alumnos de la Comunidad de Madrid, a los listados de centros 
-para la atención preferente de alumnos con NEE. 
-10 de marzo de 
-2026 
-Plazo de presentación de solicitudes para el proceso de admisión.  
-Las solicitudes se presentarán preferentemente de forma telemática. 
-En caso de dificultad o imposibilidad técnica se podrán entregar 
-presencialmente en el primer centro incluido en la solicitud. 
-Los centros graban las solicitudes entregadas de forma presencial a 
-medida que las van recibiendo. 
-Del 11 al 25 de 
-marzo de 2026 
-Celebración del sorteo para resolver posibles empates organizado 
-por la Consejería de Educación, Ciencia y Universidades. 
-8 de abril de 
-2026 
-Fin del proceso de valoración y grabación de solicitudes por parte de 
-los centros. 
-10 de abril de 
-2026 
-Se hace pública la información provisional de todos los alumnos que 
-han solicitado el centro en primera opción. Se podrá consultar, a 
-través de la Secretaría Virtual, si entre las instancias de admisión del 
-centro incluido como primera opción se encuentra la del solicitante. 
-Aquellos que no tengan acceso a la Secretaría Virtual podrán realizar 
-esa consulta de manera presencial, y previa identificación, en el 
-centro solicitado en primera opción. 
-14 de abril de 
-2026 
-Plazo de reclamaciones a través de la Secretaría Virtual o de forma 
-presencial, en función de la opción elegida para la presentación de 
-solicitudes, a la información provisional de alumnos solicitantes. Las 
-reclamaciones surtirán efecto a través de la publicación provisional de 
-solicitudes baremadas. 
-15, 16 y 17 de 
-abril de 2026 
-Se hace pública, a través de la Secretaría Virtual, la información 
-provisional con la puntuación obtenida por los solicitantes que incluirá 
-el resultado de las reclamaciones presentadas a la información sobre 
-los alumnos solicitantes. La puntuación de cada solicitud contendrá la 
-correspondiente al centro solicitado en primera opción, así como la 
-puntuación de todas las opciones solicitadas. La puntuación también 
-se podrá consultar, previa identificación del solicitante, a través de la 
-secretaría del centro solicitado en primer lugar. 
-23 de abril de 
-2026 
+
+RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y
+RESPONSABLES
+CALENDARIO
+Distribución a las DAT y a los SAE de las solicitudes de admisión y
+los cuadernillos informativos.
+Hasta el 27 de
+febrero de 2026
+Reunión del presidente de cada SAE con los directores de los centros
+con el fin de coordinar el proceso de admisión.
+Hasta el 6 de
+marzo de 2026
+La Secretaría Virtual y los centros, a través de su página web,
+difunden la información correspondiente al proceso de admisión, que
+incluirá la oferta de vacantes, la información sobre centros adscritos,
+así como las circunstancias y requisitos aprobados por el centro para
+la adjudicación de la puntuación adicional relativa al criterio
+complementario.
+9 de marzo de
+2026
+Las familias pueden acceder a través de la página web de admisión
+de alumnos de la Comunidad de Madrid, a los listados de centros
+para la atención preferente de alumnos con NEE.
+10 de marzo de
+2026
+Plazo de presentación de solicitudes para el proceso de admisión.
+Las solicitudes se presentarán preferentemente de forma telemática.
+En caso de dificultad o imposibilidad técnica se podrán entregar
+presencialmente en el primer centro incluido en la solicitud.
+Los centros graban las solicitudes entregadas de forma presencial a
+medida que las van recibiendo.
+Del 11 al 25 de
+marzo de 2026
+Celebración del sorteo para resolver posibles empates organizado
+por la Consejería de Educación, Ciencia y Universidades.
+8 de abril de
+2026
+Fin del proceso de valoración y grabación de solicitudes por parte de
+los centros.
+10 de abril de
+2026
+Se hace pública la información provisional de todos los alumnos que
+han solicitado el centro en primera opción. Se podrá consultar, a
+través de la Secretaría Virtual, si entre las instancias de admisión del
+centro incluido como primera opción se encuentra la del solicitante.
+Aquellos que no tengan acceso a la Secretaría Virtual podrán realizar
+esa consulta de manera presencial, y previa identificación, en el
+centro solicitado en primera opción.
+14 de abril de
+2026
+Plazo de reclamaciones a través de la Secretaría Virtual o de forma
+presencial, en función de la opción elegida para la presentación de
+solicitudes, a la información provisional de alumnos solicitantes. Las
+reclamaciones surtirán efecto a través de la publicación provisional de
+solicitudes baremadas.
+15, 16 y 17 de
+abril de 2026
+Se hace pública, a través de la Secretaría Virtual, la información
+provisional con la puntuación obtenida por los solicitantes que incluirá
+el resultado de las reclamaciones presentadas a la información sobre
+los alumnos solicitantes. La puntuación de cada solicitud contendrá la
+correspondiente al centro solicitado en primera opción, así como la
+puntuación de todas las opciones solicitadas. La puntuación también
+se podrá consultar, previa identificación del solicitante, a través de la
+secretaría del centro solicitado en primer lugar.
+23 de abril de
+2026
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -1909,82 +1875,82 @@ Pág. 147
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
- 
-RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES 
-CALENDARIO 
-Plazo de reclamaciones a través de la Secretaría Virtual o de forma 
-presencial, en función de la opción elegida para la presentación de 
-solicitudes, a la puntuación provisional obtenida en cada centro 
-incluido en las solicitudes de admisión. 
-24, 27 y 28 de 
-abril de 2026 
-Los SAE responsables de la escolarización de los alumnos con NEE 
-en 
-cada 
-DAT 
-elaboran 
-las 
-propuestas 
-de 
-escolarización 
-considerando el perfil específico del alumno, la baremación 
-obtenida, la solicitud priorizada de centros presentada por la familia 
-y la reserva de vacantes para estos alumnos. 
-Hasta el 4 de 
-mayo de 2026 
-Propuesta provisional escolarización de alumnos con NEE: las 
-familias pueden informarse a través de la Secretaría Virtual y del 
-SAE correspondiente. 
-5 de mayo de 
-2026 
-Plazo de consulta, y en su caso alegaciones, a las propuestas 
-provisionales de escolarización de los alumnos con NEE elaboradas 
-por los SAE. Plazo voluntario para realizar solicitud complementaria 
-de centros en el SAE para alumnos con NEE que no hayan obtenido 
-plaza escolar en ninguno de los centros solicitados y no dispongan 
-de plaza para el curso 2026/2027. 
-6, 7 y 8 de mayo 
-de 2026 
-Publicación de la información definitiva de puntuaciones de las 
-solicitudes baremadas, salvo las de los alumnos con NEE, una vez 
-revisadas las reclamaciones recibidas.  
-7 de mayo de 
-2026 
-Los SAE respectivos informan sobre la adjudicación definitiva de 
-plaza escolar a los alumnos que presentan NEE. 
-13 de mayo de 
-2026 
-Fin del proceso extraordinario de escolarización para el curso 
-2025/2026. 
-14 de mayo de 
-2026 
-Fecha límite para que los centros puedan solicitar al director del 
-Área Territorial la modificación, en unidades y cursos concretos y 
-específicamente justificados, del número de alumnos por unidad 
-escolar, lo que repercutirá directamente en el número de vacantes 
-de la edad correspondiente. 
-18 de mayo de 
-2026 
-Fin del proceso de grabación de solicitudes del proceso 
-extraordinario para el curso 2025/2026 por parte de los centros. 
-19 de mayo de 
-2026 
-Los SAE de cada Dirección de Área Territorial gestionan la 
-liberación de las plazas reservadas para alumnos con NEE que 
-vayan a quedar vacantes. 
-20 de mayo de 
-2026 
-Cierre temporal del acceso al Sistema Integral de Gestión Educativa 
-Raíces para los centros educativos. 
-21 de mayo de 
-2026 
-Se hace pública a través de la Secretaría Virtual la información 
-sobre los alumnos admitidos en cada centro, ya sean solicitantes de 
-primera opción o solicitantes en otras opciones que hayan obtenido 
-plaza en el mismo. 
-27 de mayo de 
-2026 
+
+RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y
+RESPONSABLES
+CALENDARIO
+Plazo de reclamaciones a través de la Secretaría Virtual o de forma
+presencial, en función de la opción elegida para la presentación de
+solicitudes, a la puntuación provisional obtenida en cada centro
+incluido en las solicitudes de admisión.
+24, 27 y 28 de
+abril de 2026
+Los SAE responsables de la escolarización de los alumnos con NEE
+en
+cada
+DAT
+elaboran
+las
+propuestas
+de
+escolarización
+considerando el perfil específico del alumno, la baremación
+obtenida, la solicitud priorizada de centros presentada por la familia
+y la reserva de vacantes para estos alumnos.
+Hasta el 4 de
+mayo de 2026
+Propuesta provisional escolarización de alumnos con NEE: las
+familias pueden informarse a través de la Secretaría Virtual y del
+SAE correspondiente.
+5 de mayo de
+2026
+Plazo de consulta, y en su caso alegaciones, a las propuestas
+provisionales de escolarización de los alumnos con NEE elaboradas
+por los SAE. Plazo voluntario para realizar solicitud complementaria
+de centros en el SAE para alumnos con NEE que no hayan obtenido
+plaza escolar en ninguno de los centros solicitados y no dispongan
+de plaza para el curso 2026/2027.
+6, 7 y 8 de mayo
+de 2026
+Publicación de la información definitiva de puntuaciones de las
+solicitudes baremadas, salvo las de los alumnos con NEE, una vez
+revisadas las reclamaciones recibidas.
+7 de mayo de
+2026
+Los SAE respectivos informan sobre la adjudicación definitiva de
+plaza escolar a los alumnos que presentan NEE.
+13 de mayo de
+2026
+Fin del proceso extraordinario de escolarización para el curso
+2025/2026.
+14 de mayo de
+2026
+Fecha límite para que los centros puedan solicitar al director del
+Área Territorial la modificación, en unidades y cursos concretos y
+específicamente justificados, del número de alumnos por unidad
+escolar, lo que repercutirá directamente en el número de vacantes
+de la edad correspondiente.
+18 de mayo de
+2026
+Fin del proceso de grabación de solicitudes del proceso
+extraordinario para el curso 2025/2026 por parte de los centros.
+19 de mayo de
+2026
+Los SAE de cada Dirección de Área Territorial gestionan la
+liberación de las plazas reservadas para alumnos con NEE que
+vayan a quedar vacantes.
+20 de mayo de
+2026
+Cierre temporal del acceso al Sistema Integral de Gestión Educativa
+Raíces para los centros educativos.
+21 de mayo de
+2026
+Se hace pública a través de la Secretaría Virtual la información
+sobre los alumnos admitidos en cada centro, ya sean solicitantes de
+primera opción o solicitantes en otras opciones que hayan obtenido
+plaza en el mismo.
+27 de mayo de
+2026
 
 MARTES 9 DE DICIEMBRE DE 2025
 Pág. 148
@@ -1992,68 +1958,65 @@ B.O.C.M. Núm. 293
 BOCM-20251209-19
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
- 
- 
- 
-RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y 
-RESPONSABLES 
-CALENDARIO 
-Plazo voluntario para realizar solicitud complementaria de admisión 
-exclusivamente para alumnos que hayan participado en el proceso 
-de admisión, no hayan obtenido plaza escolar en ninguno de los 
-centros solicitados y no dispongan de plaza para el curso 
-2026/2027. 
-Las solicitudes se presentarán preferentemente de forma telemática 
-a través de la Secretaría Virtual del centro que figure como primera 
-opción en la solicitud. También puede presentarse presencialmente 
-en el SAE que corresponda al centro solicitado en primera opción. 
- 28 y 29 de mayo 
-de 2026 
-Adjudicación automática de plaza escolar, en función de las 
-vacantes disponibles, para los alumnos que hayan presentado 
-solicitud complementaria.  
-5 de junio de 2026 
-Adjudicación de plaza escolar por los SAE a los alumnos que no 
-hayan podido ser admitidos en ninguna de las opciones solicitadas y 
-no disponga de plaza para el curso 2026/2027, así como a las 
-solicitudes duplicadas, las que contengan datos erróneos y las 
-presentadas fuera de plazo o no presentadas que no dispongan de 
-plaza para el curso 2026/2027. 
-Hasta 12 de junio 
-de 2026 
-Plazo de matriculación en los centros de Educación Infantil, Primaria 
-y Especial. 
-Del 11 al 25 de 
-junio de 2026 
-Plazo general de matriculación en los centros de Educación 
-Secundaria.  
-Del 11 de junio al 
-3 de julio de 2026 
-Inicio del plazo de presentación de solicitudes para proceso 
-extraordinario de admisión en Educación Infantil, Primaria y Especial 
-para el curso 2026/2027. 
-25 de junio de 
-2026 
-Inicio del plazo de presentación de solicitudes para proceso 
-extraordinario de admisión en Educación Secundaria Obligatoria y 
-Bachillerato para el curso 2026/2027. 
-3 de julio de 2026 
-Todos los centros enviarán al Ayuntamiento o Junta Municipal 
-respectiva la relación de todos los alumnos que no continúen en el 
-centro y cuya documentación académica no haya sido solicitada por 
-otro 
-centro 
-por 
-si correspondieran 
-a casos 
-de 
-alumnos 
-desescolarizados o de absentismo escolar. 
-Asimismo, los centros remitirán copia de dichas comunicaciones a 
-su respectiva DAT. 
-30 de octubre de 
-2026 
- 
+
+RESUMEN DE LAS ACTUACIONES A REALIZAR, PERFILES Y
+RESPONSABLES
+CALENDARIO
+Plazo voluntario para realizar solicitud complementaria de admisión
+exclusivamente para alumnos que hayan participado en el proceso
+de admisión, no hayan obtenido plaza escolar en ninguno de los
+centros solicitados y no dispongan de plaza para el curso
+2026/2027.
+Las solicitudes se presentarán preferentemente de forma telemática
+a través de la Secretaría Virtual del centro que figure como primera
+opción en la solicitud. También puede presentarse presencialmente
+en el SAE que corresponda al centro solicitado en primera opción.
+28 y 29 de mayo
+de 2026
+Adjudicación automática de plaza escolar, en función de las
+vacantes disponibles, para los alumnos que hayan presentado
+solicitud complementaria.
+5 de junio de 2026
+Adjudicación de plaza escolar por los SAE a los alumnos que no
+hayan podido ser admitidos en ninguna de las opciones solicitadas y
+no disponga de plaza para el curso 2026/2027, así como a las
+solicitudes duplicadas, las que contengan datos erróneos y las
+presentadas fuera de plazo o no presentadas que no dispongan de
+plaza para el curso 2026/2027.
+Hasta 12 de junio
+de 2026
+Plazo de matriculación en los centros de Educación Infantil, Primaria
+y Especial.
+Del 11 al 25 de
+junio de 2026
+Plazo general de matriculación en los centros de Educación
+Secundaria.
+Del 11 de junio al
+3 de julio de 2026
+Inicio del plazo de presentación de solicitudes para proceso
+extraordinario de admisión en Educación Infantil, Primaria y Especial
+para el curso 2026/2027.
+25 de junio de
+2026
+Inicio del plazo de presentación de solicitudes para proceso
+extraordinario de admisión en Educación Secundaria Obligatoria y
+Bachillerato para el curso 2026/2027.
+3 de julio de 2026
+Todos los centros enviarán al Ayuntamiento o Junta Municipal
+respectiva la relación de todos los alumnos que no continúen en el
+centro y cuya documentación académica no haya sido solicitada por
+otro
+centro
+por
+si correspondieran
+a casos
+de
+alumnos
+desescolarizados o de absentismo escolar.
+Asimismo, los centros remitirán copia de dichas comunicaciones a
+su respectiva DAT.
+30 de octubre de
+2026
 
 MARTES 9 DE DICIEMBRE DE 2025
 B.O.C.M. Núm. 293
@@ -2064,60 +2027,57 @@ BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
 BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
-ANEXO V 
- ALUMNOS QUE PRESENTAN NECESIDADES EDUCATIVAS ESPECIALES  
-INFORMACIÓN PARA EL PROCESO DE ADMISIÓN 
-MUY IMPORTANTE:  
-Este anexo, una vez cumplimentado, debe adjuntarse a todas las solicitudes de admisión para 
-alumnos que presentan necesidades educativas especiales. 
-En el caso de los alumnos que pudieran presentar necesidades educativas especiales este anexo 
-será cumplimentado una vez realizada la evaluación psicopedagógica y el preceptivo informe 
-psicopedagógico, y será enviado por la red de orientación especializada al SAE que corresponda. 
- 
-1. DATOS DE LA RED DE ORIENTACIÓN ESPECIALIZADA  
- 
-SERVICIO:   
-PROFESIONAL:   
-CORREO ELECTRÓNICO DEL PROFESIONAL:  
- 
-2. DATOS DEL ALUMNO 
- 
-NOMBRE Y APELLIDOS:  
-N.I.A:                                                              
-CENTRO EDUCATIVO ACTUAL:  
-ETAPA/CURSO: 
- 
-3. DATOS PARA EL PROCESO DE ADMISIÓN PARA EL CURSO 2026/2027 
- 
-MODALIDAD DE ESCOLARIZACIÓN 
- CENTRO ORDINARIO 
- Presenta necesidades educativas especiales           SÍ                     NO   
- EDUCACION ESPECIAL 
- Unidad de Educación Especial en centro ordinario 
- Centro de Educación Especial 
- 
-CENTRO ORDINARIO DE ATENCIÓN PREFERENTE 
- Discapacidad Auditiva 
- Discapacidad Motora 
- Trastorno del espectro autista 
- Apoyo extenso y especializado (requiere en todos los casos contar 
-previamente con informe técnico favorable)  
- 
-ETAPA Y CURSO PARA EL QUE SOLICITA ESCOLARIZACIÓN 
-Etapa:  
-Curso:  
- 
-El orientador 
-Vº Bº director EOEP-jefe de departamento 
-orientación, director del centro 
- 
- 
-Fdo.: _________________________ 
- 
- 
-Fdo.: _________________________ 
- 
- 
-DESTINATARIO 
-SERVICIO DE APOYO A LA ESCOLARIZACIÓN_________________________ 
+ANEXO V
+ALUMNOS QUE PRESENTAN NECESIDADES EDUCATIVAS ESPECIALES
+INFORMACIÓN PARA EL PROCESO DE ADMISIÓN
+MUY IMPORTANTE:
+Este anexo, una vez cumplimentado, debe adjuntarse a todas las solicitudes de admisión para
+alumnos que presentan necesidades educativas especiales.
+En el caso de los alumnos que pudieran presentar necesidades educativas especiales este anexo
+será cumplimentado una vez realizada la evaluación psicopedagógica y el preceptivo informe
+psicopedagógico, y será enviado por la red de orientación especializada al SAE que corresponda.
+
+1. DATOS DE LA RED DE ORIENTACIÓN ESPECIALIZADA
+
+SERVICIO:
+PROFESIONAL:
+CORREO ELECTRÓNICO DEL PROFESIONAL:
+
+2. DATOS DEL ALUMNO
+
+NOMBRE Y APELLIDOS:
+N.I.A:
+CENTRO EDUCATIVO ACTUAL:
+ETAPA/CURSO:
+
+3. DATOS PARA EL PROCESO DE ADMISIÓN PARA EL CURSO 2026/2027
+
+MODALIDAD DE ESCOLARIZACIÓN
+ CENTRO ORDINARIO
+ Presenta necesidades educativas especiales           SÍ                     NO  
+ EDUCACION ESPECIAL
+ Unidad de Educación Especial en centro ordinario
+ Centro de Educación Especial
+
+CENTRO ORDINARIO DE ATENCIÓN PREFERENTE
+ Discapacidad Auditiva
+ Discapacidad Motora
+ Trastorno del espectro autista
+ Apoyo extenso y especializado (requiere en todos los casos contar
+previamente con informe técnico favorable)
+
+ETAPA Y CURSO PARA EL QUE SOLICITA ESCOLARIZACIÓN
+Etapa:
+Curso:
+
+El orientador
+Vº Bº director EOEP-jefe de departamento
+orientación, director del centro
+
+Fdo.: _________________________
+
+Fdo.: _________________________
+
+DESTINATARIO
+SERVICIO DE APOYO A LA ESCOLARIZACIÓN_________________________
 (03/19.697/25)

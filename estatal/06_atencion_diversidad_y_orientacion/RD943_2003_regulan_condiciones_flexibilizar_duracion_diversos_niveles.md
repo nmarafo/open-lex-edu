@@ -47,6 +47,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-lo-8-1985
 ---
+
 # Real Decreto 943/2003 - Flexibilización de la escolarización para alumnado con Altas Capacidades
 
 La Ley Orgánica 10/2002, de 23 de diciembre, de Calidad de la Educación, establece, en su preámbulo, que uno de sus objetivos esenciales es conseguir el mayor poder cualificador del sistema educativo junto a la integración en éste del máximo número posible de alumnos; que el sistema educativo debe procurar una configuración flexible, que se adapte a las diferencias individuales de aptitudes, necesidades, intereses y ritmos de maduración de las personas para no renunciar al logro de resultados de calidad para todos; asimismo, a través de esta ley, se establece un marco general que permita a las Administraciones educativas garantizar una adecuada respuesta educativa a las circunstancias y necesidades que concurren en los alumnos superdotados intelectualmente.
@@ -162,4 +163,3 @@ PILAR DEL CASTILLO VERA
 - [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
-

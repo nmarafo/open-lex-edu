@@ -114,6 +114,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-rdl-2-2015
 ---
+
 # [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**
@@ -6596,19 +6597,7 @@ De conformidad con cuanto antecede, en el ejercicio de las facultades que legalm
 
 Por la empresa/organismo equiparado,
 
- 
-
- 
-
- 
-
 Por el centro de Formación Profesional,
-
- 
-
- 
-
- 
 
 Nota: Cuando alguna de las partes firmantes del convenio tenga la condición de Administración pública, se atendrá a la normativa que, a este respecto, prevé la de [Ley 40/2015](../01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público, así como la que en el ámbito autonómico le fuera de aplicación.
 
@@ -6710,4 +6699,3 @@ Y para que así conste, y en su caso, surta los efectos previstos en el apartado
 - [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](./RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
-

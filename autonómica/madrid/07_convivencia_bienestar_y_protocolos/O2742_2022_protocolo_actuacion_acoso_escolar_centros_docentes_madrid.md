@@ -38,18 +38,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20220926-1.PDF
 ---
 
-**Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid**
-
-LUNES 26 DE SEPTIEMBRE DE 2022
-Pág. 8
-B.O.C.M. Núm. 229
-BOCM-20220926-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Presidencia, Justicia e Interior
-1
 ORDEN de 14 de septiembre de 2022, de la Consejería de Presidencia Justicia e
 Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 25
 de mayo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de junio
@@ -180,9 +168,9 @@ Grupo                :
 N.C.D.               :
 N.C.D.               :
 N.C.D.               :
-  10.578,00
-  10.578,00
-   8.051,16
+10.578,00
+10.578,00
+8.051,16
 C. Específico      :
 C. Específico      :
 C. Específico      :
@@ -233,7 +221,7 @@ Denominación     :
 B / C
 Grupo                :
 N.C.D.               :
-  10.578,00
+10.578,00
 C. Específico      :
 DESIERTO
 PUESTO ADJUDICADO

@@ -45,7 +45,6 @@ Autentificación y verificación
 Qué es el BOCM
 Organismo
 Publicar un anuncio
-Transparencia
 Boletín Oficial de la Comunidad de Madrid - Núm 292
 Fecha del Boletín
 09-12-2011
@@ -101,9 +100,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20111209-1
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

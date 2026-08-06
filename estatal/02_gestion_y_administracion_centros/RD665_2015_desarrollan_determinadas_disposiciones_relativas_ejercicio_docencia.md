@@ -54,6 +54,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Real Decreto 665/2015, de 17 de julio, por el que se desarrollan determinadas disposiciones relativas al ejercicio de la docencia en la Educación Secundaria Obligatoria, el Bachillerato, la Formación Profesional y las enseñanzas de régimen especial, a la formación inicial del profesorado y a las especialidades de los cuerpos docentes de Enseñanza Secundaria.
 
 El [Real Decreto 1834/2008](RD1834_2008_definen_condiciones_formacion_ejercicio_docencia_educacion.md), de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, estableció las especialidades de los cuerpos docentes de enseñanza secundaria, asignando en sus anexos las materias del currículo que correspondía impartir a cada una de estas.
@@ -948,8 +949,6 @@ Lengua extranjera.
 
 Primera Lengua Extranjera.
 
-Bachillerato
-
 Cultura audiovisual (1.º curso).
 
 Cultura Audiovisual I.
@@ -1062,4 +1061,3 @@ El Ministro de Educación, Cultura y Deporte,
 - [**BOE-A-2016-3229**](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

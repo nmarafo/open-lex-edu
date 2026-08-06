@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 ## Preámbulo
 
 # Resolución de instrucciones del procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026.

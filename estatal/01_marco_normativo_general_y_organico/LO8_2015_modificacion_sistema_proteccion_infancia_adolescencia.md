@@ -41,15 +41,6 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-1996
 - norma_id: norm-es-lo-1-2004
 ---
-# Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
-
-**FELIPE VI**
-
-**REY DE ESPAÑA**
-
-A todos los que la presente vieren y entendieren.
-
-Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
 
 ## PREÁMBULO
 
@@ -532,4 +523,3 @@ MARIANO RAJOY BREY
 - [**BOE-A-2000-544**](./LO4_2000_derechos_libertades_extranjeros_espana_integracion_social.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

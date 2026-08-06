@@ -55,6 +55,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-443-2001
 anexos_extraidos_pdf: true
 ---
+
 ## Preámbulo
 
 # Orden de 2 de agosto de 2006, por la que se aprueban las bases que regulan la prestación del servicio de transporte escolar en la Comunidad Autónoma de Canarias.
@@ -65,21 +66,11 @@ Comunidad Autónoma de Canarias
 
 Boletín Oficial de Canarias
 
-Accesibilidad
-
-Mapa web
-
-Contacto
-
-Inicio
-
 Archivo
 
 Búsqueda
 
 Estás en:
-
-Inicio
 
 Archivo
 
@@ -324,4 +315,3 @@ Ver anexos - páginas 19249-19266
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**RD443_2001 Condiciones de Seguridad en el Transporte Escolar**](../../../estatal/05_alumnado_y_servicios_escolares/RD443_2001_condiciones_seguridad_transporte_escolar_menores.md)
-

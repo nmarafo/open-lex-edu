@@ -36,18 +36,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-1.PDF
 ---
 
-**Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Educación Primaria en la Comunidad de Madrid**
-
-MARTES 31 DE ENERO DE 2023
-B.O.C.M. Núm. 26
-Pág. 9
-BOCM-20230131-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Economía, Hacienda y Empleo
-1
 ORDEN de 17 de enero de 2023, del Consejero de Economía, Hacienda y Em-
 pleo, por la que se resuelve la convocatoria aprobada por Orden de 7 de noviem-
 bre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de noviem-
@@ -138,7 +126,7 @@ Denominación     :
 A / B
 Grupo                :
 N.C.D.               :
-  20.953,80
+20.953,80
 C. Específico      :
 34674
 4**9*4*7*
@@ -157,8 +145,8 @@ Denominación     :
 25
 Grupo                 :
 N.C.D.                :
-  13.536,12
-C. Específico       : 
+13.536,12
+C. Específico       :
 PUESTO ADJUDICADO
 ADJUDICATARIO
 PUESTO LIBERADO

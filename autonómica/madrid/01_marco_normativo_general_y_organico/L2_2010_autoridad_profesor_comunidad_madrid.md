@@ -45,8 +45,6 @@ Autentificación y verificación
 Qué es el BOCM
 Organismo
 Publicar un anuncio
-Transparencia
-Inicio
 ELI
 Comunidad de Madrid
 Ley
@@ -178,9 +176,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20100629-353
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

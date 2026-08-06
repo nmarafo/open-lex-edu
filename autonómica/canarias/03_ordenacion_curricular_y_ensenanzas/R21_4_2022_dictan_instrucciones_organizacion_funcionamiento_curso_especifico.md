@@ -43,148 +43,149 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-3-2022
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-087-1481.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación Profesional de Grado Medio que se impartirá en centros de educación de personas adultas dependientes de esta Consejería (BOC n.º 87, de 4 de mayo).
 
 III. Otras Resoluciones
 Consejería de Educación, Universidades, Cultura y Deportes
-1481 Dirección General de Formación Profesional y Educación de Adultos.- Resolución 
-de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el 
-funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación 
-Profesional de Grado Medio que se impartirá en centros de educación de personas 
+1481 Dirección General de Formación Profesional y Educación de Adultos.- Resolución
+de 21 de abril de 2022, por la que se dictan instrucciones para la organización y el
+funcionamiento del Curso Específico de Acceso a Ciclos Formativos de Formación
+Profesional de Grado Medio que se impartirá en centros de educación de personas
 adultas dependientes de esta Consejería.
-Vista la memoria propuesta por el Servicio de Educación de Personas Adultas en 
-relación con la necesidad de dictar instrucciones para la organización y la autorización 
-del Curso Específico de Acceso a Ciclos Formativos de Grado Medio que se impartirá en 
-centros de educación de personas adultas (CEPA) de la Comunidad Autónoma de Canarias, 
+Vista la memoria propuesta por el Servicio de Educación de Personas Adultas en
+relación con la necesidad de dictar instrucciones para la organización y la autorización
+del Curso Específico de Acceso a Ciclos Formativos de Grado Medio que se impartirá en
+centros de educación de personas adultas (CEPA) de la Comunidad Autónoma de Canarias,
 teniendo en cuenta el siguiente
 ANTECEDENTE DE HECHO
-Único.- Con el objetivo de facilitar que los jóvenes y las personas adultas que abandonaron 
-sus estudios de manera temprana puedan retomarlos y completarlos, favoreciendo de este 
-modo el aprendizaje permanente que se desarrolla a lo largo de toda la vida, se procede 
-a organizar el Curso Específico de Acceso a Ciclos Formativos de Grado Medio que se 
-impartirá en centros de educación de personas adultas (CEPA) en la Comunidad Autónoma 
+Único.- Con el objetivo de facilitar que los jóvenes y las personas adultas que abandonaron
+sus estudios de manera temprana puedan retomarlos y completarlos, favoreciendo de este
+modo el aprendizaje permanente que se desarrolla a lo largo de toda la vida, se procede
+a organizar el Curso Específico de Acceso a Ciclos Formativos de Grado Medio que se
+impartirá en centros de educación de personas adultas (CEPA) en la Comunidad Autónoma
 de Canarias.
 Al anterior antecedente de hecho le son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
-Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo único, apartado 
-treinta y cinco, las condiciones en que queda redactado el artículo 41 “Condiciones de 
-acceso y admisión”, estableciendo, en su apartado 41.2.b), como una de las condiciones 
-para el acceso a ciclos formativos de grado medio “haber superado un curso de formación 
-específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados 
+Primero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley
+Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo único, apartado
+treinta y cinco, las condiciones en que queda redactado el artículo 41 “Condiciones de
+acceso y admisión”, estableciendo, en su apartado 41.2.b), como una de las condiciones
+para el acceso a ciclos formativos de grado medio “haber superado un curso de formación
+específico preparatorio para el acceso a ciclos de grado medio en centros públicos o privados
 autorizados por la administración educativa”.
-Asimismo, en el preámbulo de esta ley se establece que “es importante resaltar que 
-todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de 
-poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por 
-esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una 
-certificación oficial en la que constará el número de años cursados y el nivel de adquisición 
-de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá 
-una propuesta sobre la opción u opciones académicas o profesionales más convenientes 
+Asimismo, en el preámbulo de esta ley se establece que “es importante resaltar que
+todos los alumnos o alumnas que finalizan educación secundaria obligatoria, además de
+poder incorporarse al mundo laboral, deben tener opciones de formación posterior. Por
+esta razón, los alumnos y alumnas que no obtengan el título correspondiente recibirán una
+certificación oficial en la que constará el número de años cursados y el nivel de adquisición
+de las competencias. Asimismo, recibirán un consejo orientador individualizado que incluirá
+una propuesta sobre la opción u opciones académicas o profesionales más convenientes
 para continuar su proceso formativo”.
-Segundo.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
-la Formación Profesional, establece, en el artículo 46, que las administraciones educativas 
-ofertarán cursos de formación específicos preparatorios para el acceso a la formación 
+Segundo.- La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de
+la Formación Profesional, establece, en el artículo 46, que las administraciones educativas
+ofertarán cursos de formación específicos preparatorios para el acceso a la formación
 
-profesional destinados a personas que no cumplan los requisitos de acceso y que “la 
-superación de la totalidad o de parte de estos cursos dependientes de las administraciones 
-educativas comportará la exención, total o parcial, de la prueba de acceso, considerando, 
-en su caso, la posesión de un Grado A, B o C de formación profesional o de experiencia 
+profesional destinados a personas que no cumplan los requisitos de acceso y que “la
+superación de la totalidad o de parte de estos cursos dependientes de las administraciones
+educativas comportará la exención, total o parcial, de la prueba de acceso, considerando,
+en su caso, la posesión de un Grado A, B o C de formación profesional o de experiencia
 laboral”.
-Tercero.- El Real Decreto 1147/2011, de 29 de julio, por el que se establece la 
-ordenación general de la formación profesional del sistema educativo, que en su  
-artículo 15 dispone que “para acceder a los ciclos formativos de grado medio se requerirá 
-una de las siguientes condiciones: c) Haber superado el curso de formación específico 
-para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la 
+Tercero.- El Real Decreto 1147/2011, de 29 de julio, por el que se establece la
+ordenación general de la formación profesional del sistema educativo, que en su
+artículo 15 dispone que “para acceder a los ciclos formativos de grado medio se requerirá
+una de las siguientes condiciones: c) Haber superado el curso de formación específico
+para el acceso a ciclos de grado medio en centros públicos o privados autorizados por la
 Administración educativa”.
-En su artículo 16, en relación con el 21, se establecen instrucciones respecto al curso 
-formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso, 
-y específicamente en su apartado 5 se concreta que “las Administraciones educativas 
+En su artículo 16, en relación con el 21, se establecen instrucciones respecto al curso
+formativo específico y las disposiciones comunes para los cursos y las pruebas de acceso,
+y específicamente en su apartado 5 se concreta que “las Administraciones educativas
 determinarán los centros públicos que podrán impartir estos cursos”.
-Cuarto.-  La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-establece en su artículo 5 como uno de los objetivos del sistema educativo canario 
-“garantizar el desarrollo integral de todas las personas para que puedan alcanzar el mayor 
-nivel en sus capacidades que les permitan el pleno ejercicio de sus derechos y deberes de 
+Cuarto.-  La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+establece en su artículo 5 como uno de los objetivos del sistema educativo canario
+“garantizar el desarrollo integral de todas las personas para que puedan alcanzar el mayor
+nivel en sus capacidades que les permitan el pleno ejercicio de sus derechos y deberes de
 ciudadanía, así como una adecuada inclusión social y profesional”.
-En virtud de lo anteriormente expuesto, y en el ejercicio de las competencias conferidas 
-por el artículo 18 del Decreto 7/2021, de 18 de febrero, por el que se aprueba el Reglamento 
+En virtud de lo anteriormente expuesto, y en el ejercicio de las competencias conferidas
+por el artículo 18 del Decreto 7/2021, de 18 de febrero, por el que se aprueba el Reglamento
 Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes,
 RESUELVO :
-Primero.- Dictar instrucciones para la organización y el funcionamiento del Curso 
-Específico de Acceso a Ciclos Formativos de Grado Medio que se impartirá en centros de 
-educación de personas adultas (CEPA) de la Comunidad Autónoma de Canarias, según se 
+Primero.- Dictar instrucciones para la organización y el funcionamiento del Curso
+Específico de Acceso a Ciclos Formativos de Grado Medio que se impartirá en centros de
+educación de personas adultas (CEPA) de la Comunidad Autónoma de Canarias, según se
 determina en el anexo de la presente Resolución.
-Segundo.- Facultar a los equipos directivos de los centros educativos para que arbitren 
-el procedimiento más adecuado para que la presente Resolución sea conocida y difundida 
-entre los distintos sectores de la comunidad educativa, haciéndoles llegar copia de la misma 
-cuando así se solicite por la persona interesada y exponiéndose en el tablón de anuncios y 
+Segundo.- Facultar a los equipos directivos de los centros educativos para que arbitren
+el procedimiento más adecuado para que la presente Resolución sea conocida y difundida
+entre los distintos sectores de la comunidad educativa, haciéndoles llegar copia de la misma
+cuando así se solicite por la persona interesada y exponiéndose en el tablón de anuncios y
 en la web del centro.
-Tercero.- Encomendar a la Inspección de Educación la supervisión, asesoramiento y 
+Tercero.- Encomendar a la Inspección de Educación la supervisión, asesoramiento y
 seguimiento en aquellos aspectos que le soliciten los equipos directivos de los centros.
-Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
-plazo de un (1) mes recurso de alzada, a contar desde el día siguiente al de su publicación, 
-ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio de cualesquiera 
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el
+plazo de un (1) mes recurso de alzada, a contar desde el día siguiente al de su publicación,
+ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio de cualesquiera
 otros que se estime procedente interponer.
-Santa Cruz de Tenerife, a 21 de abril de 2022.- La Directora General de Formación 
+Santa Cruz de Tenerife, a 21 de abril de 2022.- La Directora General de Formación
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
 ANEXO
-INSTRUCCIONES PARA EL DESARROLLO DEL CURSO ESPECÍFICO DE ACCESO 
+INSTRUCCIONES PARA EL DESARROLLO DEL CURSO ESPECÍFICO DE ACCESO
 A CICLOS FORMATIVOS DE GRADO MEDIO DE FORMACIÓN PROFESIONAL (CE2).
 1. Finalidades del curso.
-Con el Curso Específico de Acceso a Ciclos Formativos de Grado Medio de Formación 
+Con el Curso Específico de Acceso a Ciclos Formativos de Grado Medio de Formación
 Profesional se persiguen las siguientes finalidades:
-• Atender a personas que presentan dificultades para el acceso a la Formación 
+• Atender a personas que presentan dificultades para el acceso a la Formación
 Profesional.
-• Promover una educación integradora con especial hincapié en zonas y grupos con 
+• Promover una educación integradora con especial hincapié en zonas y grupos con
 necesidades específicas.
-• Proporcionar a las personas jóvenes y a los adultos que no hayan completado la 
-enseñanza obligatoria y que se encuentren en riesgo de exclusión social una alternativa 
-para la adquisición de las competencias necesarias que les permitan abordar con éxito la 
+• Proporcionar a las personas jóvenes y a los adultos que no hayan completado la
+enseñanza obligatoria y que se encuentren en riesgo de exclusión social una alternativa
+para la adquisición de las competencias necesarias que les permitan abordar con éxito la
 Formación Profesional de grado medio.
 2. Características del curso.
 2.1. Objetivo.
-Conseguir que el alumnado adquiera las competencias necesarias que le permitan 
-acceder y cursar con aprovechamiento un ciclo formativo de grado medio de Formación 
+Conseguir que el alumnado adquiera las competencias necesarias que le permitan
+acceder y cursar con aprovechamiento un ciclo formativo de grado medio de Formación
 Profesional.
 2.2. Duración.
-Este curso tiene una duración mínima de 600 horas, que se desarrollarán a lo largo de 
+Este curso tiene una duración mínima de 600 horas, que se desarrollarán a lo largo de
 un único curso escolar y a razón de 18 horas semanales.
 2.3. Alumnado al que va dirigido el curso y requisitos de acceso.
-Este curso va dirigido a alumnado que no cuenta con los requisitos necesarios para el 
-acceso a ciclos formativos de grado medio y que tiene 17 años, o más, o los cumple en el 
+Este curso va dirigido a alumnado que no cuenta con los requisitos necesarios para el
+acceso a ciclos formativos de grado medio y que tiene 17 años, o más, o los cumple en el
 año natural en el que inicia el curso.
-Salvo para el alumnado mayor de edad, o para el que cumpla 18 años en el año natural en 
-que comienza el curso, será requisito indispensable contar con un informe individualizado 
+Salvo para el alumnado mayor de edad, o para el que cumpla 18 años en el año natural en
+que comienza el curso, será requisito indispensable contar con un informe individualizado
 de propuesta de orientación con visto bueno de la Inspección de Educación.
 2.4. Asistencia del alumnado.
-El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o 
-que supere el 50% de faltas de asistencia durante el primer mes podrá ser dado de baja 
-de oficio. Se le comunicará para que, en el plazo de dos días, presente las alegaciones 
-que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si 
-estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se 
+El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o
+que supere el 50% de faltas de asistencia durante el primer mes podrá ser dado de baja
+de oficio. Se le comunicará para que, en el plazo de dos días, presente las alegaciones
+que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si
+estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se
 procederá a darle de baja.
 
-En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de 
-aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el 
+En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de
+aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el
 día siguiente al de formalización de su matrícula.
-Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos 
-anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido 
-más de un mes desde el inicio del curso (sin contar el plazo de dos días para la presentación 
+Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos
+anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido
+más de un mes desde el inicio del curso (sin contar el plazo de dos días para la presentación
 de las alegaciones).
 2.5. Incompatibilidades.
 El alumnado matriculado en este curso no podrá simultanear los siguientes estudios:
-• Estudios conducentes a la obtención del Título de Graduado en Educación Secundaria 
+• Estudios conducentes a la obtención del Título de Graduado en Educación Secundaria
 Obligatoria.
-• Ciclos formativos de Formación Profesional Básica o ciclos formativos de grado 
+• Ciclos formativos de Formación Profesional Básica o ciclos formativos de grado
 básico.
 • Curso de preparación de la prueba de acceso a ciclos formativos de grado medio.
-No obstante, el alumnado matriculado en un curso específico podrá optar, si así lo 
-desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado 
+No obstante, el alumnado matriculado en un curso específico podrá optar, si así lo
+desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado
 medio.
 3. Estructura del curso específico: ámbitos.
-En el Curso Específico de Acceso a Ciclos Formativos de Grado Medio se establece 
+En el Curso Específico de Acceso a Ciclos Formativos de Grado Medio se establece
 una estructura con tres ámbitos y una tutoría:
 • Ámbito de Comunicación (ACO).
 • Ámbito Social (ASO).
@@ -203,7 +204,7 @@ materias de la Educación Secundaria Obligatoria:
 1. Ámbito de Comunicación:
 a. Lengua Castellana y Literatura
 b. Lengua Extranjera (Inglés)
-2. Ámbito Social: 
+2. Ámbito Social:
 a. Geografía e Historia
 b. Economía y Emprendimiento
 3. Ámbito Científico-Tecnológico:
@@ -221,9 +222,9 @@ Los centros, en el caso de que deseen impartir una modalidad diferente a la auto
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
-Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las 
+Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las
 siguientes materias de la Educación Secundaria Obligatoria:
 1. Ámbito de Comunicación:
 a. Lengua Castellana y Literatura.
@@ -238,19 +239,19 @@ c. Física y Química.
 d. Tecnología y Digitalización.
 4. Organización del curso específico.
 4.1. Duración y distribución horaria.
-Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas 
+Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas
 semanales (con un mínimo de 600 horas).
 4.2. Regímenes.
 El curso se puede desarrollar en los regímenes presencial y semipresencial.
-Los centros, en el caso de que deseen impartir una modalidad diferente a la autorizada, 
-deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y 
+Los centros, en el caso de que deseen impartir una modalidad diferente a la autorizada,
+deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y
 Educación de Adultos.
 A. Régimen presencial.
 La distribución horaria de los ámbitos y de la tutoría será la siguiente:
 Folio 7/16
 deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y
 Educación de Adultos.
-A  . Régimen presencial  
+A  . Régimen presencial
 La distribución horaria de los ámbitos y de la tutoría será la siguiente:
 ÁMBITOS/TUTORÍA
 RÉGIMEN PRESENCIAL
@@ -261,7 +262,7 @@ SEMANALES
 Ámbito Científico-Tecnológico (ACT) 7
 Tutoría (TUO) 1
 TOTAL 18
-B  . Régimen semipresencial  
+B  . Régimen semipresencial
 En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la siguiente:
 ÁMBITOS/TUTORÍA HORAS
 SEMANALES
@@ -282,15 +283,15 @@ a impartir 10 horas presenciales y 8 online.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
 B. Régimen semipresencial.
-En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la 
+En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la
 siguiente:
 Folio 7/16
 deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y
 Educación de Adultos.
-A  . Régimen presencial  
+A  . Régimen presencial
 La distribución horaria de los ámbitos y de la tutoría será la siguiente:
 ÁMBITOS/TUTORÍA
 RÉGIMEN PRESENCIAL
@@ -301,7 +302,7 @@ SEMANALES
 Ámbito Científico-Tecnológico (ACT) 7
 Tutoría (TUO) 1
 TOTAL 18
-B  . Régimen semipresencial  
+B  . Régimen semipresencial
 En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la siguiente:
 ÁMBITOS/TUTORÍA HORAS
 SEMANALES
@@ -322,22 +323,22 @@ a impartir 10 horas presenciales y 8 online.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
-Durante el primer mes del curso, con el fin de fomentar el conocimiento del alumnado 
-y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo online, 
-toda la actividad lectiva (18 horas) se impartirá presencialmente. A partir de ese mes, se 
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+Durante el primer mes del curso, con el fin de fomentar el conocimiento del alumnado
+y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo online,
+toda la actividad lectiva (18 horas) se impartirá presencialmente. A partir de ese mes, se
 comenzarán a impartir 10 horas presenciales y 8 online.
 4.3. Ratio.
 La ratio mínima será de 20 y la máxima de 30 alumnos/as.
 4.4. Centros en los que se imparte.
-Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que 
-la Dirección General de Formación Profesional y Educación de Adultos establezca en la 
+Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que
+la Dirección General de Formación Profesional y Educación de Adultos establezca en la
 planificación anual.
 4.5. Profesorado.
-El profesorado con nombramiento en los centros será el encargado de impartir aquellos 
-ámbitos cuya atribución docente tenga reconocida. En la medida de lo posible, cada ámbito 
+El profesorado con nombramiento en los centros será el encargado de impartir aquellos
+ámbitos cuya atribución docente tenga reconocida. En la medida de lo posible, cada ámbito
 será impartido por un único docente.
-El profesorado que imparta los ámbitos del curso específico debe pertenecer a alguno 
+El profesorado que imparta los ámbitos del curso específico debe pertenecer a alguno
 de los siguientes cuerpos:
 • Cuerpo de catedráticos de enseñanza secundaria.
 • Cuerpo de profesores de enseñanza secundaria.
@@ -365,8 +366,8 @@ Además, en cada ámbito deben disponer de la siguiente atribución docente:
 ACO
 • Ámbito  de  Comunicación  Lengua  (320)
 con acreditación mínima B2 en Inglés
-• Ámbito de Comunicación Inglés (310) 
-ASO • Ámbito de Conocimiento Social (303) 
+• Ámbito de Comunicación Inglés (310)
+ASO • Ámbito de Conocimiento Social (303)
 ACT • Ámbito Científico-Tecnológico (302)
 TUO • Docentes  que  impartan  uno de  los
 ámbitos anteriores
@@ -378,18 +379,18 @@ Asimismo, se centrará en los aspectos esenciales de los currículos de las mate
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 5. Currículo, programación y evaluación.
 5.1. Currículo.
-El currículo de referencia para la organización del curso se centrará en las competencias 
+El currículo de referencia para la organización del curso se centrará en las competencias
 de la Educación Secundaria Obligatoria (ESO).
-Asimismo, se centrará en los aspectos esenciales de los currículos de las materias de 
+Asimismo, se centrará en los aspectos esenciales de los currículos de las materias de
 la ESO.
-En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las 
-competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según 
+En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las
+competencias recogidas en el Anexo II del Real Decreto 1147/2011, de 29 de julio, según
 se establece en su artículo 21.
 5.2. Programación.
-Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia 
+Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia
 curricular, a las características del alumnado y a la asignación horaria de los ámbitos.
 Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Competencias específicas.
@@ -400,91 +401,91 @@ Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Los procedimientos, instrumentos y criterios de calificación.
 • Las medidas de atención a la diversidad previstas.
 • Las actividades complementarias y extraescolares que se van a realizar.
-• El procedimiento de evaluación del desarrollo de la programación y de la práctica 
+• El procedimiento de evaluación del desarrollo de la programación y de la práctica
 docente.
 
-La programación de los ámbitos garantizará la necesaria integración curricular de 
-las materias que lo componen, de forma que el desarrollo de la misma constituya una 
-referencia del ámbito como un todo integrado, no como un desarrollo de materias sin 
+La programación de los ámbitos garantizará la necesaria integración curricular de
+las materias que lo componen, de forma que el desarrollo de la misma constituya una
+referencia del ámbito como un todo integrado, no como un desarrollo de materias sin
 conexión entre sí.
-En el caso de que algún ámbito no pueda ser impartido por un único docente, la 
-programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma 
+En el caso de que algún ámbito no pueda ser impartido por un único docente, la
+programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma
 coordinada.
-La programación de cada ámbito será elaborada por el departamento de coordinación 
-didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación 
+La programación de cada ámbito será elaborada por el departamento de coordinación
+didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación
 General Anual del centro.
 5.3. Evaluación.
 La evaluación de cada ámbito se realizará en tres momentos del curso escolar:
-1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación 
-será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la 
-metodología, necesidades de adaptaciones de las programaciones, respuesta coordinada 
+1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación
+será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la
+metodología, necesidades de adaptaciones de las programaciones, respuesta coordinada
 para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine.
-2. Durante el mes de enero o en la primera quincena de febrero se desarrollará la 
+2. Durante el mes de enero o en la primera quincena de febrero se desarrollará la
 evaluación del primer cuatrimestre (1ª evaluación).
 3. A final de curso se realizará la 2ª evaluación (evaluación final).
-En la primera evaluación y en la evaluación final cada ámbito se calificará con 
-una nota entera de 1 a 10. La calificación de cada ámbito será única, incluso cuando, 
+En la primera evaluación y en la evaluación final cada ámbito se calificará con
+una nota entera de 1 a 10. La calificación de cada ámbito será única, incluso cuando,
 excepcionalmente, sea impartido por más de un docente.
-En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la 
-alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación 
-correspondiente el ítem “EX” seguido de la calificación final numérica, entre paréntesis, 
+En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la
+alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación
+correspondiente el ítem “EX” seguido de la calificación final numérica, entre paréntesis,
 con la que superó dicho ámbito.
 A. Evaluación del primer cuatrimestre.
-1. Permitirá, en el caso de no superación de alguno de los ámbitos, establecer cauces de 
+1. Permitirá, en el caso de no superación de alguno de los ámbitos, establecer cauces de
 recuperación para la evaluación final.
-2. La nota media de este cuatrimestre, calculada según se indica en el apartado 5.3.C, se 
-utilizará para el proceso de admisión a los ciclos formativos de grado medio en el siguiente 
+2. La nota media de este cuatrimestre, calculada según se indica en el apartado 5.3.C, se
+utilizará para el proceso de admisión a los ciclos formativos de grado medio en el siguiente
 curso escolar.
 B. Evaluación final.
 1. La superación del curso específico tendrá validez en todo el territorio nacional.
-2. Asimismo, permitirá el acceso directo, sin prueba, a ciclos formativos de grado 
+2. Asimismo, permitirá el acceso directo, sin prueba, a ciclos formativos de grado
 medio en las condiciones que determine el proceso de admisión.
 
-3. No obstante, para el acceso a ciclos formativos de grado medio de Enseñanzas 
-Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o 
+3. No obstante, para el acceso a ciclos formativos de grado medio de Enseñanzas
+Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o
 alumna únicamente deberá presentarse a la parte específica que se requiera.
 C. Superación del curso. Cálculo de la nota media en ambas evaluaciones.
-1. La nota media del curso específico, tanto en la primera como en la segunda evaluación, 
-será una nota de 1 a 10, calculada como la media aritmética de las notas de los ámbitos de 
-Comunicación, Social y Científico-Tecnológico y redondeada a dos decimales. La tutoría 
-(TUO) no calificará. Para aquellos ámbitos que están exentos por haber sido superados en 
-un curso escolar anterior, se tomará la calificación final obtenida en su momento en dicho 
+1. La nota media del curso específico, tanto en la primera como en la segunda evaluación,
+será una nota de 1 a 10, calculada como la media aritmética de las notas de los ámbitos de
+Comunicación, Social y Científico-Tecnológico y redondeada a dos decimales. La tutoría
+(TUO) no calificará. Para aquellos ámbitos que están exentos por haber sido superados en
+un curso escolar anterior, se tomará la calificación final obtenida en su momento en dicho
 ámbito.
-2. La superación del curso específico requiere de una nota media igual o superior a 
+2. La superación del curso específico requiere de una nota media igual o superior a
 cinco (5) puntos.
 3. La superación de un ámbito requiere de una nota igual o superior a cinco (5) puntos.
-4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán 
+4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán
 tener una nota mínima de cuatro (4) puntos.
-5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación 
+5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación
 final, no será posible la superación del curso.
 D. Certificación.
-Una vez finalizado el curso y realizada la evaluación final, el centro entregará al 
-alumnado la certificación académica correspondiente. En ella se reflejarán las notas por 
+Una vez finalizado el curso y realizada la evaluación final, el centro entregará al
+alumnado la certificación académica correspondiente. En ella se reflejarán las notas por
 ámbito y la calificación final obtenida en el curso en el caso de que se haya superado.
 E. Repetición del curso.
-El alumnado que no haya superado el curso de formación específico podrá repetirlo por 
+El alumnado que no haya superado el curso de formación específico podrá repetirlo por
 una sola vez. En este caso, deberá matricularse solo de los ámbitos no superados.
 6. Admisión.
-El proceso de admisión y su calendario serán establecidos anualmente junto al resto de 
+El proceso de admisión y su calendario serán establecidos anualmente junto al resto de
 enseñanzas ofertadas por la Consejería de Educación, Universidades, Cultura y Deportes.
-Para el curso 2022-2023 se seguirá el procedimiento que se recoge en el apéndice I 
-de este anexo. El modelo de formulario de solicitud de plaza, los centros donde se puede 
-solicitar plaza y el modelo de declaración jurada o de responsabilidad de no simultanear 
+Para el curso 2022-2023 se seguirá el procedimiento que se recoge en el apéndice I
+de este anexo. El modelo de formulario de solicitud de plaza, los centros donde se puede
+solicitar plaza y el modelo de declaración jurada o de responsabilidad de no simultanear
 estudios quedan recogidos, respectivamente, en los apéndices II, III y IV de este anexo.
-Cuando el número de solicitudes al curso supere el número de plazas ofertadas, se 
+Cuando el número de solicitudes al curso supere el número de plazas ofertadas, se
 constituirá una lista de adjudicación de plazas siguiendo, por orden, los siguientes criterios:
 
-1. Alumnado que haya cursado y no superado el curso específico en alguna convocatoria 
+1. Alumnado que haya cursado y no superado el curso específico en alguna convocatoria
 anterior por orden de mayor a menor edad.
 2. Resto del alumnado por orden de mayor a menor edad.
-Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada 
-siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del 
+Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada
+siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del
 curso escolar.
-Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de 
+Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de
 la lista de reserva por orden de presentación.
-La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna 
+La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna
 vacante.
-Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las 
+Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las
 medidas necesarias para la superación de los contenidos impartidos.
 
 Folio 12/16
@@ -518,7 +519,7 @@ de inicio del curso específico
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
 Folio 13/16
 APÉNDICE II
@@ -527,7 +528,7 @@ CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO
 1. DATOS DEL SOLICITANTE
 En __________________________________ a ______ de __________________________ de 20_______
 (Firma de la persona solicitante/representante legal)
-Sr./Sra.  director/a del CEPA: 
+Sr./Sra.  director/a del CEPA:
 DATOS DEL/DE LA SOLICITANTE:
 PERSONA FÍSICA
 Tipo de documento: Documento: Nombre:
@@ -546,12 +547,12 @@ Segundo apellido:
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
 Folio 14/16
 2. DATOS FAMILIARES
 3. DOCUMENTACIÓN QUE SE ADJUNTA
-Fotocopia del DNI/NIE 
+Fotocopia del DNI/NIE
 Fotocopia del DNI/NIE del padre, madre, tutor/a legal (solo menores de edad)
 Consejo orientador/Propuesta para el Curso Específico de Acceso a CFGM (solo menores de edad)
 Consentimiento familiar (solo menores de edad)
@@ -570,10 +571,10 @@ Segundo apellido:
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
 APÉNDICE III
- Centros autorizados a impartir el curso específico en el curso escolar 2022-2023
+Centros autorizados a impartir el curso específico en el curso escolar 2022-2023
 El Curso Específico de Acceso a Ciclos Formativos de Grado Medio se impartirá en el curso 2022-2023 y en las modalidades indicadas, siempre que
 exista demanda suficiente, en los siguientes centros de educación de personas adultas (CEPA):
 ISLA CEPA TELÉFONO CORREO N.º DE GRUPOS
@@ -594,12 +595,12 @@ Icod de los Vinos 922815927 38011741@gobiernodecanarias.org - 1
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 
 APÉNDICE IV
 Declaración jurada o de responsabilidad para la admisión en el curso escolar 2022-2023
-Nombre:                                                      Apellidos:                                                                              
-DNI/NIE:                                                                  
+Nombre:                                                      Apellidos:
+DNI/NIE:
 Declaro  bajo  mi  responsabilidad  que  no  me  encuentro  simultaneando  dos  o  más  de  los
 siguientes estudios en uno o más centros docentes sostenidos con fondos públicos:
 • Curso Específico de Acceso a Ciclos Formativos de Grado Medio.
@@ -608,8 +609,8 @@ Secundaria Obligatoria.
 • Ciclos  formativos  de  formación  profesional  básica  o  ciclos  formativos  de  grado
 básico.
 • Curso de preparación para la prueba de acceso a ciclos de grado medio.
-En                                                                 , a         de                                                    de 20                  
-Fdo.:                                                                                         
+En                                                                 , a         de                                                    de 20
+Fdo.:
 Este documento ha sido firmado electrónicamente por:
 MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 21/04/2022 - 14:36:36
 Este documento ha sido registrado electrónicamente:
@@ -617,7 +618,7 @@ RESOLUCION - Nº: 538 / 2022 - Tomo: 1 - Libro: 570 - Fecha: 22/04/2022 09:01:00
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
+0P-V8R6LCMlo2Ji0n3LMSWtuO1EY3plwZ
 El presente documento ha sido descargado el 22/04/2022 - 12:59:14
 
 ---
@@ -637,4 +638,3 @@ El presente documento ha sido descargado el 22/04/2022 - 12:59:14
 - [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - [**Resolucion BOC 134**](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md)
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
-

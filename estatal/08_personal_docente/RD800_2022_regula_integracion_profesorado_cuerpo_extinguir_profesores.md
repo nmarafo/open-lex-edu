@@ -61,6 +61,7 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-1364-2010
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 800/2022, de 4 de octubre, por el que se regula la integración del profesorado del Cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, y se modifican diversos reales decretos relativos al profesorado de enseñanzas no universitarias.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, efectuó la creación, en sus disposiciones adicionales décima y undécima, del Cuerpo de Profesores Técnicos de Formación Profesional, en el marco de la ordenación de la función pública docente de la enseñanza no universitaria. El Cuerpo de Profesores Técnicos de Formación Profesional desempeñaría sus funciones en la formación profesional y, excepcionalmente, en las condiciones que se pudieran establecer, en la educación secundaria obligatoria.
@@ -621,4 +622,3 @@ MARÍA DEL PILAR ALEGRÍA CONTINENTE
 - [**BOE-A-2007-5478**](./RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
 - [**RD1364_2010 Regulacion del Concurso de Traslados Docente**](./LO1364_2010_regula_concurso_traslados_ambito_estatal_entre.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](./LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

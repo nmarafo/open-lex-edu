@@ -56,6 +56,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 1/2024, de 7 de junio, por la que se regulan las enseñanzas artísticas superiores y se establece la organización y equivalencias de las enseñanzas artísticas profesionales.
 
 **FELIPE VI**
@@ -872,8 +873,6 @@ Personal de administración y servicios de los centros públicos
 
 CAPÍTULO XI
 
-Investigación
-
 #### Artículo 57. Investigación.
 
 1. La investigación es una función esencial de las enseñanzas artísticas superiores y deberá abarcar todos los ámbitos de conocimiento, ya sean científicos, tecnológicos, humanísticos, artísticos o culturales. Se impulsarán estructuras de investigación y de transferencia del conocimiento.
@@ -1424,4 +1423,3 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](./LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](../07_convivencia_bienestar_y_protocolos/LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

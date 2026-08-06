@@ -39,6 +39,7 @@ fundamentos_derecho:
 fuente_pdf_oficial: http://www.gobiernodecanarias.org/boc/2007/238/boc-2007-238-005.pdf
 fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=58182
 ---
+
 ## Preámbulo
 
 # Inspección General de Servicios.- Resolución de 20 de noviembre de 2007, por la que se publica el Protocolo para la coordinación del procedimiento de identificación, valoración, expurgo y eliminación de series documentales específicas (BOC n.º 238, de 28 de noviembre).
@@ -84,7 +85,7 @@ la Ley de Procedimiento Laboral.
 Santa Cruz de Tenerife, a 19 de noviembre de 2007.-
 El Director General de la Función Pública, Juan Manuel
 Santana Pérez.
-Consejería de Presidencia, 
+Consejería de Presidencia,
 Justicia y Seguridad
 1945 Inspección General de Servicios.- Resolución de
 20 de noviembre de 2007, por la que se publica
@@ -144,28 +145,28 @@ Beato Castellano.
 A N E X O
 PROTOCOLO PARA LA COORDINACIÓN DEL PROCEDIMIENTO DE IDENTIFICACIÓN, VALORACIÓN, EXPURGO YELIMINACIÓN DE SERIES DOCUMENTALES ESPECÍFICAS.
 ÍNDICE
-I. 
+I.
 INTRODUCCIÓN
-II. 
-OBJETIVOS DEL PROTOCOLO 
-III. 
-PROCEDIMIENTO DE IDENTIFICACIÓN YVALORACIÓN DE SERIES DOCUMENTALES 
-IV. 
+II.
+OBJETIVOS DEL PROTOCOLO
+III.
+PROCEDIMIENTO DE IDENTIFICACIÓN YVALORACIÓN DE SERIES DOCUMENTALES
+IV.
 LA COMISIÓN GENERAL DE VALORACIÓN DOCUMENTAL
-V. 
+V.
 DESCRIPCIÓN DEL PROCEDIMIENTO
-VI. 
+VI.
 INSTRUCCIONES PARA LA IDENTIFICACIÓN Y
-VALORACIÓN DE SERIES DOCUMENTALES 
-VII. 
-ANEXO: FORMULARIO PARA LA IDENTIFICACIÓN Y VALORACIÓN DE SERIES DOCUMENTALES ESPECÍFICAS 
+VALORACIÓN DE SERIES DOCUMENTALES
+VII.
+ANEXO: FORMULARIO PARA LA IDENTIFICACIÓN Y VALORACIÓN DE SERIES DOCUMENTALES ESPECÍFICAS
 I. INTRODUCCIÓN.
 El Decreto 160/2006, de 8 de noviembre, regula
 el Sistema de gestión documental y organización de
 los archivos dependientes de la Administración Pública de la Comunidad Autónoma de Canarias, entendiendo como tal “el conjunto de operaciones y técnicas, integradas en la gestión administrativa general
 que, basadas en el análisis de la producción, tramitación y valor de los documentos, se dirigen a la planificación, el control, el uso, la conservación y la transferencia o eliminación de los documentos con el
 objetivo de racionalizar y unificar su tratamiento y
-conseguir una gestión eficaz y rentable”. 
+conseguir una gestión eficaz y rentable”.
 En su Disposición Adicional Segunda, se añade
 un artículo 61 bis al Reglamento Orgánico de la Consejería de Presidencia y Justicia, en el que se establecen las funciones de la Inspección General de
 Servicios en materia de archivos dependientes de la
@@ -204,7 +205,7 @@ con valor informativo e histórico.
 Teniendo en cuenta además, que este procedimiento de identificación y valoración de documentos afecta a todos los departamentos de la Administración Autonómica, aún con más razón se hace
 necesaria la coordinación entre el Servicio de Coordinación de gestión documental y archivos, con funciones de Archivo General, adscrito a la Inspección
 General de Servicios, y las secretarías generales técnicas u órganos de coordinación administrativa horizontal a los que se adscriban los archivos centrales
-departamentales, que son los responsables e implicados en la valoración documental. 
+departamentales, que son los responsables e implicados en la valoración documental.
 Con este objetivo se presenta este protocolo de actuación para la coordinación de este Servicio de
 Coordinación de gestión documental y archivos, adscrito a la Inspección General de Servicios, y los archivos centrales departamentales, que persigue establecer
 las pautas de actuación y los cauces de coordinación
@@ -285,21 +286,21 @@ eliminación.
 - Transferencia documental: comprende el conjunto
 de operaciones por las que los documentos, así como las responsabilidades derivadas de su custodia,
 pasan de una fase de archivo a otra en función de las
-normas y plazos establecidos. 
+normas y plazos establecidos.
 - Acceso: derecho de los ciudadanos a la consulta del Patrimonio Documental, de acuerdo con la
 normativa vigente.
 - Accesibilidad: posibilidad de consulta de documentos de archivo, determinada por la normativa vigente, su control archivístico y su estado de conservación.
 - Expurgo: selección de los documentos que van
 a destruirse conforme a los plazos establecidos en la
 correspondiente tabla de valoración documental.
-- Eliminación: acto físico de destrucción de documentos. 
+- Eliminación: acto físico de destrucción de documentos.
 IV. LA COMISIÓN GENERAL DE VALORACIÓN DOCUMENTAL.
 Según lo establecido en la Disposición Adicional
 Segunda del Decreto 160/2006, por el que se modifica el Reglamento Orgánico de la Consejería de Presidencia y Justicia, la Comisión General de Valoración Documental es el órgano colegiado de carácter
 técnico para el establecimiento de los valores primarios
 y secundarios de los documentos con el fin de establecer su eliminación y/o conservación, y valorar individualmente las series documentales.
 
-Su composición es la siguiente: 
+Su composición es la siguiente:
 1) Presidente: el Inspector General de Servicios.
 2) Vicepresidente: el titular de la unidad administrativa
 competente en materia de Archivo General.
@@ -355,7 +356,7 @@ con las firmas correspondientes para su comprobación, verificándose que el con
 se ajusta al cumplimentado en la aplicación corporativa de valoración de series documentales.
 8. El Archivo General realizará la programación
 de celebración de sesiones de la Comisión General
-de Valoración Documental para proceder a la aprobación definitiva de las tablas de valoración documental. 
+de Valoración Documental para proceder a la aprobación definitiva de las tablas de valoración documental.
 
 9. Convocada la Comisión General de Valoración
 Documental, se elevarán las propuestas de las tablas
@@ -451,7 +452,7 @@ estructurar esta información es una tarea que tiene que
 realizarse en la fase de análisis documental, previo
 a la valoración. Los campos que deben completarse
 son:
-- Código de la tabla: 
+- Código de la tabla:
 Lo establece la Comisión General de Valoración
 Documental.
 - Denominación de la serie:
@@ -475,7 +476,7 @@ Si se propone la valoración de una serie que es activa hemos de citar el año d
 Si es una serie cerrada debe hacerse referencia expresa; por ejemplo: 1979-1999 Serie cerrada.
 - Función administrativa:
 Ha de reseñarse brevemente la función para la
-que ha sido creada la documentación. 
+que ha sido creada la documentación.
 - Marco legal:
 Hay que consignar la referencia de todas las normativas que afectan directamente a la documentación
 que se valora. Estas referencias deben incluir, además de las leyes, decretos y órdenes, las normas específicas de los organismos (circulares ...). Se puede aportar copia de la legislación y la normativa;
@@ -487,7 +488,7 @@ forma completa (número de disposición, año, día y
 mes, título y número de la correspondiente publicación oficial). Cuando proceda, es recomendable citar los artículos concretos de las normas.
 - Documentos que forman el expediente:
 Deben enumerarse los diversos documentos que
-forman el expediente administrativo. Si es un documento simple hay que decirlo. 
+forman el expediente administrativo. Si es un documento simple hay que decirlo.
 Por ejemplo un acta o bien el caso en el que no
 hay formación de expediente.
 Probablemente, detallar los documentos que integran
@@ -542,7 +543,7 @@ En el caso de la existencia de copias de los originales también hay que informa
 Hay que indicar si se ha traspasado (o previsto
 traspasar) la documentación de su soporte original a otro. Por ejemplo, de papel a microfilm o a
 formato digital. En el caso de que se haya realizado esta práctica debe informarse desde qué fecha se ha realizado esta operación y si se conservan los documentos en su soporte original.
-3) Valor de la documentación. 
+3) Valor de la documentación.
 Este apartado recoge todos aquellos aspectos relacionados con los diversos valores que puedan contener los documentos administrativos. Distinguiremos y definiremos dos clases de valores: el
 primario y el secundario. Se recuerda que es preciso justificar y motivar expresamente la existencia o no de estos valores.
 Valor primario. Lo determina el motivo por el
@@ -594,7 +595,7 @@ de documentos sobre política fiscal y económica
 pueden tener valor permanente.
 - Valor informativo histórico.
 Incluye la información que los documentos contienen sobre personas, objetos, problemas y condiciones con las que trata el organismo. Se caracteriza por ser información originada como resultado
-del desarrollo de las políticas de este organismo. 
+del desarrollo de las políticas de este organismo.
 El análisis del valor informativo no se hace en
 relación al organismo que ha generado los documentos sino en relación a las personas, las cosas,
 los lugares y los fenómenos que tratan los documentos.
@@ -604,7 +605,7 @@ análisis del valor informativo podemos mencionar:
 la información que con carácter exclusivo nos
 ofrece un grupo de documentos, no pudiéndola
 encontrar en otro lugar de manera completa y de
-forma aprovechable. 
+forma aprovechable.
 • Importancia. La importancia es una estimación
 culta del evaluador. Muchas de las decisiones de
 valoración se adoptan gracias al amplio conocimiento
@@ -655,7 +656,7 @@ contrario, es decir, que el acceso sea libre, no es
 necesario justificarlo legalmente.
 5) Plazos de transferencias.
 Se establece el plazo a partir del cual deben
-trasladarse los documentos a cada una de las fases de archivo. 
+trasladarse los documentos a cada una de las fases de archivo.
 6) Propuesta de conservación/eliminación.
 En este apartado ha de realizarse la propuesta
 concreta del plazo de conservación que se asigna
@@ -720,7 +721,7 @@ error.
 - Observaciones: en este último punto del formulario se recogerán las anotaciones que se consideren oportunas para aclarar algún aspecto del
 tratamiento archivístico de la serie documental
 que se está valorando. Deben ser lo más escuetas
-posible. 
+posible.
 Finalmente hay que tener presente que las propuestas de valoración, antes de ser elevadas a la
 Comisión, deben ser firmadas, en el caso de las series documentales específicas, por el archivero, el
 jefe de la unidad administrativa a quien correspondan
@@ -728,10 +729,10 @@ las series y el Secretario General Técnico o responsable
 del órgano horizontal de coordinación administrativa que determine el Reglamento Orgánico de
 la Consejería correspondiente.
 
-A N E X O 
+A N E X O
 
-Consejería de Empleo, 
-Industria y Comercio 
+Consejería de Empleo,
+Industria y Comercio
 1946 Servicio Canario de Empleo.- Resolución de
 16 de noviembre de 2007, del Director, por
 la que se concede subvención en el ámbito de
@@ -763,4 +764,3 @@ nº 127, de 26.6.07), y a la vista de los siguientes
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-

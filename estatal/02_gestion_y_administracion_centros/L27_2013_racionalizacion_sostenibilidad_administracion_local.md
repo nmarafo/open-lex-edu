@@ -33,6 +33,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1985-5392
 ---
+
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**
@@ -1278,4 +1279,3 @@ MARIANO RAJOY BREY
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1985-5392**](./L7_1985_reguladora_bases_regimen_local.md)
-

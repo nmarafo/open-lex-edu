@@ -50,6 +50,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-1996
 - norma_id: norm-es-1999-23750
 ---
+
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores
 
 **JUAN CARLOS I**
@@ -1008,4 +1009,3 @@ JOSÉ MARÍA AZNAR LÓPEZ
 - [**BOE-A-1995-25444**](./LO10_1995_codigo_penal.md)
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
-

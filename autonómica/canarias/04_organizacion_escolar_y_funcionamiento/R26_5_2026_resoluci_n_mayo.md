@@ -54,297 +54,298 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2026-109-1901.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 26 de mayo de 2026
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-1901 Dirección General de Administración de Centros, Escolarización y Servicios 
-Complementarios.- Resolución de 26 de mayo de 2026, por la que se convoca el 
-proceso y se aprueba el calendario para la renovación parcial o la nueva constitución 
-de los Consejos Escolares de los centros educativos sostenidos con fondos públicos 
-del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar 
+1901 Dirección General de Administración de Centros, Escolarización y Servicios
+Complementarios.- Resolución de 26 de mayo de 2026, por la que se convoca el
+proceso y se aprueba el calendario para la renovación parcial o la nueva constitución
+de los Consejos Escolares de los centros educativos sostenidos con fondos públicos
+del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso escolar
 2026-2027.
-Al objeto de regular el proceso y aprobar el calendario para la renovación parcial o 
-la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con 
-fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso 
+Al objeto de regular el proceso y aprobar el calendario para la renovación parcial o
+la nueva constitución de los Consejos Escolares de los centros educativos sostenidos con
+fondos públicos del ámbito de la Comunidad Autónoma de Canarias, a celebrar en el curso
 escolar 2026-2027, y teniendo en cuenta los siguientes
 ANTECEDENTES DE HECHO
-Primero.- La participación de la comunidad educativa en las instituciones escolares 
-sostenidas con fondos públicos debe ser plena. En este sentido, la intervención de la 
-Administración educativa tiene que garantizar que se respeten los derechos, las libertades y 
-las obligaciones establecidos en las leyes, así como facilitar los cauces e instrumentos que 
-hagan posible una participación real, eficaz y efectiva. Por ello, el principio de participación 
-y corresponsabilidad de los miembros de la comunidad educativa, dada su importancia 
-social, debe inspirar las actuaciones educativas, y la organización y el funcionamiento de 
-los centros docentes sostenidos con fondos públicos. Esta participación se canaliza a través 
-del Consejo Escolar que, como órgano colegiado representativo, resulta fundamental en 
-la dinamización del quehacer educador del centro, porque convierte a todos los sectores 
+Primero.- La participación de la comunidad educativa en las instituciones escolares
+sostenidas con fondos públicos debe ser plena. En este sentido, la intervención de la
+Administración educativa tiene que garantizar que se respeten los derechos, las libertades y
+las obligaciones establecidos en las leyes, así como facilitar los cauces e instrumentos que
+hagan posible una participación real, eficaz y efectiva. Por ello, el principio de participación
+y corresponsabilidad de los miembros de la comunidad educativa, dada su importancia
+social, debe inspirar las actuaciones educativas, y la organización y el funcionamiento de
+los centros docentes sostenidos con fondos públicos. Esta participación se canaliza a través
+del Consejo Escolar que, como órgano colegiado representativo, resulta fundamental en
+la dinamización del quehacer educador del centro, porque convierte a todos los sectores
 implicados en coprotagonistas de su propia acción educativa.
-Segundo.- De acuerdo con la normativa vigente, es necesario convocar elecciones a 
-los Consejos Escolares cada dos años con el objetivo de renovar la mitad de las personas 
-representantes de cada sector, y cuya última convocatoria de renovación parcial se realizó 
-en el curso 2024-2025. Dicho proceso deberá desarrollarse durante el primer trimestre del 
-curso escolar, tanto en los centros públicos dependientes de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes como en los centros privados concertados 
-de la Comunidad Autónoma de Canarias. Este mecanismo de renovación periódica permite 
-mantener actualizada la presencia de la comunidad educativa en la vida de los centros, 
-a través de sus representantes en un órgano colegiado tan destacado como es el Consejo 
+Segundo.- De acuerdo con la normativa vigente, es necesario convocar elecciones a
+los Consejos Escolares cada dos años con el objetivo de renovar la mitad de las personas
+representantes de cada sector, y cuya última convocatoria de renovación parcial se realizó
+en el curso 2024-2025. Dicho proceso deberá desarrollarse durante el primer trimestre del
+curso escolar, tanto en los centros públicos dependientes de la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes como en los centros privados concertados
+de la Comunidad Autónoma de Canarias. Este mecanismo de renovación periódica permite
+mantener actualizada la presencia de la comunidad educativa en la vida de los centros,
+a través de sus representantes en un órgano colegiado tan destacado como es el Consejo
 Escolar.
 A estos antecedentes les son de aplicación los siguientes
 FUNDAMENTOS DE DERECHO
-Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se 
-contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española, 
-se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que 
-los poderes públicos garantizarán el derecho de todos a la educación mediante una 
-programación general de la enseñanza, con la participación efectiva de todos los sectores 
-afectados; y en el artículo 27, apartado 7, cuando prevé que el profesorado, las familias y, 
-en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos por 
+Primero.- El derecho a la participación ciudadana en los asuntos públicos, que se
+contempla de forma genérica en el artículo 23, apartado 1, de la Constitución Española,
+se concreta en el ámbito educativo en el artículo 27, apartado 5, cuando se indica que
+los poderes públicos garantizarán el derecho de todos a la educación mediante una
+programación general de la enseñanza, con la participación efectiva de todos los sectores
+afectados; y en el artículo 27, apartado 7, cuando prevé que el profesorado, las familias y,
+en su caso, el alumnado intervendrán en el control y la gestión de los centros sostenidos por
 la Administración con fondos públicos, en los términos que la Ley establezca.
 
-Segundo.- La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la 
-Educación, se ocupa de los órganos de gobierno de los centros públicos, con una mayor 
-concreción respecto de los centros concertados, dejando claro que la participación de la 
+Segundo.- La [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la
+Educación, se ocupa de los órganos de gobierno de los centros públicos, con una mayor
+concreción respecto de los centros concertados, dejando claro que la participación de la
 comunidad escolar se transmite a través del Consejo Escolar del centro.
-Tercero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, está 
-dedicado a la participación, la autonomía y el gobierno de los centros; en este sentido, 
-el Consejo Escolar, como órgano colegiado de gobierno de los centros educativos, se 
-constituye, en gran medida, en el responsable de impulsar y dinamizar la autonomía del 
-centro. De ahí deriva la importancia y trascendencia que tienen las elecciones a miembro 
-del Consejo Escolar, ya sea para su constitución como para su renovación, toda vez que 
-este órgano colegiado, junto con la dirección, conforman el eje de la organización y el 
+Tercero.- El Título V de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, está
+dedicado a la participación, la autonomía y el gobierno de los centros; en este sentido,
+el Consejo Escolar, como órgano colegiado de gobierno de los centros educativos, se
+constituye, en gran medida, en el responsable de impulsar y dinamizar la autonomía del
+centro. De ahí deriva la importancia y trascendencia que tienen las elecciones a miembro
+del Consejo Escolar, ya sea para su constitución como para su renovación, toda vez que
+este órgano colegiado, junto con la dirección, conforman el eje de la organización y el
 funcionamiento de los centros sostenidos con fondos públicos.
-Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
-Autonomía de Canarias, en el artículo 21, punto 10, establece que los miembros de la 
-comunidad educativa tienen derecho a participar en los asuntos escolares y universitarios 
+Cuarto.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de
+Autonomía de Canarias, en el artículo 21, punto 10, establece que los miembros de la
+comunidad educativa tienen derecho a participar en los asuntos escolares y universitarios
 en los términos establecidos por las leyes.
-Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-reconoce la relevancia de la participación de la comunidad educativa en la vida escolar, 
-por cuanto que, entre los principios rectores que regirán el sistema educativo canario, está 
-el de facilitar la participación social como elemento de calidad del propio sistema, como se 
+Quinto.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+reconoce la relevancia de la participación de la comunidad educativa en la vida escolar,
+por cuanto que, entre los principios rectores que regirán el sistema educativo canario, está
+el de facilitar la participación social como elemento de calidad del propio sistema, como se
 regula en su artículo 3, apartado a).
-Sexto.- El Reglamento Orgánico de los centros docentes públicos no universitarios de la 
-Comunidad Autónoma de Canarias, aprobado por [Decreto 81/2010](D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, establece 
-en el artículo 16, apartados 1 y 4, que la Consejería competente en materia educativa 
-establecerá el procedimiento de elección, renovación y constitución del Consejo Escolar, 
-que se desarrollará durante el primer trimestre del curso académico que corresponda. 
-El Consejo Escolar se renovará por mitades cada dos años de forma alternativa, previa 
+Sexto.- El Reglamento Orgánico de los centros docentes públicos no universitarios de la
+Comunidad Autónoma de Canarias, aprobado por [Decreto 81/2010](D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md), de 8 de julio, establece
+en el artículo 16, apartados 1 y 4, que la Consejería competente en materia educativa
+establecerá el procedimiento de elección, renovación y constitución del Consejo Escolar,
+que se desarrollará durante el primer trimestre del curso académico que corresponda.
+El Consejo Escolar se renovará por mitades cada dos años de forma alternativa, previa
 convocatoria de la Consejería competente en materia de educación.
-Séptimo.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y el 
-procedimiento para la constitución y la renovación de los consejos escolares de los centros 
-educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de 
-Canarias, prevé, en su artículo 15, apartado 1, que la elección y renovación de las personas 
-representantes del Consejo Escolar se publicará a finales del curso anterior a dicho proceso, 
-y se desarrollará durante el primer trimestre del curso académico, siendo la Dirección 
-General de Administración de Centros, Escolarización y Servicios Complementarios quien 
-fije el calendario de su celebración, excepto para dar cobertura de las vacantes que se 
-produzcan entre un proceso electoral y otro, en cuyo caso se estará a lo dispuesto en el 
+Séptimo.- La Orden de 12 de mayo de 2016, por la que se regulan la composición y el
+procedimiento para la constitución y la renovación de los consejos escolares de los centros
+educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de
+Canarias, prevé, en su artículo 15, apartado 1, que la elección y renovación de las personas
+representantes del Consejo Escolar se publicará a finales del curso anterior a dicho proceso,
+y se desarrollará durante el primer trimestre del curso académico, siendo la Dirección
+General de Administración de Centros, Escolarización y Servicios Complementarios quien
+fije el calendario de su celebración, excepto para dar cobertura de las vacantes que se
+produzcan entre un proceso electoral y otro, en cuyo caso se estará a lo dispuesto en el
 artículo 27 de la citada Orden.
-Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a), 
-de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de 
-Canarias, y en el artículo 18.2.A) del Reglamento Orgánico de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 
+Por ello, en virtud de las competencias atribuidas en el artículo 29, apartado 1, letra a),
+de la [Ley 14/1990](../01_marco_normativo_general_y_organico/L14_1990_regimen_juridico_administraciones_publicas_canarias.md), de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de
+Canarias, y en el artículo 18.2.A) del Reglamento Orgánico de la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes, aprobado por el [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de
 10 de junio,
 
 RESUELVO :
 Primero.- Objeto y ámbito de aplicación.
-1. La presente Resolución tiene por objeto regular el proceso y aprobar el calendario 
-para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros 
-educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de 
+1. La presente Resolución tiene por objeto regular el proceso y aprobar el calendario
+para la renovación parcial o la nueva constitución de los Consejos Escolares de los centros
+educativos sostenidos con fondos públicos del ámbito de la Comunidad Autónoma de
 Canarias, a celebrar en el curso escolar 2026-2027.
-2. Esta Resolución se aplicará en los siguientes centros educativos dependientes de la 
-Consejería de Educación, Formación Profesional, Actividad Física y Deportes: Escuelas 
+2. Esta Resolución se aplicará en los siguientes centros educativos dependientes de la
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes: Escuelas
 Infantiles (
-EEI), Colegios de Educación Primaria ( CEP), Colegios de Educación Infantil 
-y Primaria ( CEIP), Centros de Educación Obligatoria ( CEO), Institutos de Educación 
-Secundaria (IES), Centro de Enseñanzas en Línea de Canarias (CEL), Centros de Educación 
-Especial (CEE), Centros de Educación de Personas Adultas (CEPA), Centros de Educación 
-a Distancia ( CEAD), Escuelas Oficiales de Idiomas ( EOI), Escuela Oficial de Idiomas a 
-Distancia de Canarias ( EOI), Escuelas de Arte ( EA), Escuelas de Arte y Superiores de 
+EEI), Colegios de Educación Primaria ( CEP), Colegios de Educación Infantil
+y Primaria ( CEIP), Centros de Educación Obligatoria ( CEO), Institutos de Educación
+Secundaria (IES), Centro de Enseñanzas en Línea de Canarias (CEL), Centros de Educación
+Especial (CEE), Centros de Educación de Personas Adultas (CEPA), Centros de Educación
+a Distancia ( CEAD), Escuelas Oficiales de Idiomas ( EOI), Escuela Oficial de Idiomas a
+Distancia de Canarias ( EOI), Escuelas de Arte ( EA), Escuelas de Arte y Superiores de
 Diseño (EASD), Conservatorio Profesional de Música (CPM) y Residencias Escolares.
-3. El Consejo Rector del Conservatorio Superior de Música ( CSM), el Consejo de los 
-Colectivos de Escuelas Rurales ( CER) y el Consejo Social de los Centros Integrados de 
-Formación Profesional (CIFP) atenderán a lo que su propia normativa establezca sobre su 
-constitución y renovación, aplicándose con carácter supletorio la Orden de 12 de mayo 
-de 2016, por la que se regulan la composición y el procedimiento para la constitución y 
-la renovación de los consejos escolares de los centros educativos sostenidos con fondos 
+3. El Consejo Rector del Conservatorio Superior de Música ( CSM), el Consejo de los
+Colectivos de Escuelas Rurales ( CER) y el Consejo Social de los Centros Integrados de
+Formación Profesional (CIFP) atenderán a lo que su propia normativa establezca sobre su
+constitución y renovación, aplicándose con carácter supletorio la Orden de 12 de mayo
+de 2016, por la que se regulan la composición y el procedimiento para la constitución y
+la renovación de los consejos escolares de los centros educativos sostenidos con fondos
 públicos del ámbito de la Comunidad Autónoma de Canarias.
-4. Asimismo, la presente Resolución se aplicará en aquellos centros escolares de 
-titularidad privada que se encuentren en régimen de concierto con la Administración 
-educativa de la Comunidad Autónoma de Canarias, conforme a lo establecido en el artículo 
+4. Asimismo, la presente Resolución se aplicará en aquellos centros escolares de
+titularidad privada que se encuentren en régimen de concierto con la Administración
+educativa de la Comunidad Autónoma de Canarias, conforme a lo establecido en el artículo
 14 de la antedicha Orden de 12 de mayo de 2016.
 Segundo.- Calendario del proceso electoral.
-El proceso para la elección de las personas representantes de los distintos sectores de 
-la comunidad educativa se desarrollará conforme al calendario que figura en el anexo de 
+El proceso para la elección de las personas representantes de los distintos sectores de
+la comunidad educativa se desarrollará conforme al calendario que figura en el anexo de
 esta Resolución.
 Tercero.- Composición de los Consejos Escolares.
-1. El Consejo Escolar de los centros docentes sostenidos con fondos públicos tendrá la 
-composición que se establece en los artículos 4 al 13 de la Orden de 12 de mayo de 2016, 
-en función de su tipología y de las unidades asignadas por la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes para su funcionamiento en el curso 
+1. El Consejo Escolar de los centros docentes sostenidos con fondos públicos tendrá la
+composición que se establece en los artículos 4 al 13 de la Orden de 12 de mayo de 2016,
+en función de su tipología y de las unidades asignadas por la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes para su funcionamiento en el curso
 escolar 2026-2027.
-2. Cada sector de la comunidad educativa elegirá y designará los representantes que le 
-correspondan, según el tipo de centro. En todo caso, en la presentación de candidaturas de 
+2. Cada sector de la comunidad educativa elegirá y designará los representantes que le
+correspondan, según el tipo de centro. En todo caso, en la presentación de candidaturas de
 los distintos sectores se favorecerá la presencia equilibrada de hombres y mujeres.
 
-3. La composición del Consejo Escolar de los centros privados concertados es la 
+3. La composición del Consejo Escolar de los centros privados concertados es la
 establecida en el artículo 14 de la predicha Orden de 12 de mayo de 2016.
-4. Los sectores con puestos de designación procederán, para el ejercicio de este derecho, 
+4. Los sectores con puestos de designación procederán, para el ejercicio de este derecho,
 según lo determinado en el artículo 18 de la Orden de 12 de mayo de 2016.
 Cuarto.- Renovación o nueva constitución.
-1. La presente convocatoria se realizará en todos los centros docentes a los que les 
+1. La presente convocatoria se realizará en todos los centros docentes a los que les
 resulta de aplicación esta Resolución, para su renovación parcial.
-2. Los centros de nueva creación en el curso escolar 2026-2027 y los centros privados 
-que acceden por primera vez al régimen de concierto, deberán constituir el Consejo Escolar 
+2. Los centros de nueva creación en el curso escolar 2026-2027 y los centros privados
+que acceden por primera vez al régimen de concierto, deberán constituir el Consejo Escolar
 en su totalidad.
-3. Los centros de nueva creación en el curso 2025-2026 renovarán la mitad de su 
-Consejo Escolar, aunque sus miembros no hayan finalizado el mandato, conforme a lo 
+3. Los centros de nueva creación en el curso 2025-2026 renovarán la mitad de su
+Consejo Escolar, aunque sus miembros no hayan finalizado el mandato, conforme a lo
 establecido en el artículo 16 de la antedicha Orden de 12 de mayo de 2016.
 Quinto.- Juntas electorales.
-1. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas 
-representantes del Consejo Escolar en las condiciones que mejor aseguren la designación y 
-la participación de todos los sectores de la comunidad educativa, conforme a lo establecido 
+1. Las juntas electorales se ocuparán de organizar el proceso de elección de las personas
+representantes del Consejo Escolar en las condiciones que mejor aseguren la designación y
+la participación de todos los sectores de la comunidad educativa, conforme a lo establecido
 en el artículo 16 de la antedicha Orden de 12 de mayo de 2016.
-2. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario 
-establecido al efecto, concretando especialmente el horario de recepción de candidaturas 
-por la secretaría del centro y teniendo en cuenta la posibilidad de recibir candidaturas del 
-sector de padres, madres y personas tutoras legales en horario de tarde, cuando, de forma 
+2. Constituida la Junta electoral, estudiará y planificará el proceso conforme al calendario
+establecido al efecto, concretando especialmente el horario de recepción de candidaturas
+por la secretaría del centro y teniendo en cuenta la posibilidad de recibir candidaturas del
+sector de padres, madres y personas tutoras legales en horario de tarde, cuando, de forma
 justificada, no puedan ser presentadas en otro momento.
-3. La Junta electoral informará de los miembros que continúan su mandato y, como 
+3. La Junta electoral informará de los miembros que continúan su mandato y, como
 consecuencia, del número de vacantes a cubrir en cada uno de los sectores.
-4. Además, la Junta electoral aprobará y publicará los censos electorales presentados 
-previamente por la dirección del centro, admitiendo y proclamando las distintas candidaturas; 
-elaborará y aprobará, en su caso, los modelos de papeletas electorales; realizará en acto 
-público los sorteos para la constitución de las mesas electorales; y acreditará la identidad de 
+4. Además, la Junta electoral aprobará y publicará los censos electorales presentados
+previamente por la dirección del centro, admitiendo y proclamando las distintas candidaturas;
+elaborará y aprobará, en su caso, los modelos de papeletas electorales; realizará en acto
+público los sorteos para la constitución de las mesas electorales; y acreditará la identidad de
 los supervisores y supervisoras, comunicándolo por escrito a las distintas mesas electorales.
-5. La Junta electoral solicitará del ayuntamiento, en cuyo término municipal se encuentre 
-ubicado el centro, la designación del concejal o la concejala, o la persona representante del 
-municipio que haya de formar parte del Consejo Escolar; de la asociación de padres, madres 
-y personas tutoras legales del alumnado legalmente constituida y con mayor número de 
-miembros, el nombre de la persona representante designada en uso del derecho que le asiste; 
-de la junta de delegados y delegadas, y de la asociación de alumnado con mayor número 
-de miembros, el nombre de las personas representantes designadas en uso del derecho 
-que las asiste, no pudiendo ser nunca de un curso inferior a 5.º de Educación Primaria; y 
+5. La Junta electoral solicitará del ayuntamiento, en cuyo término municipal se encuentre
+ubicado el centro, la designación del concejal o la concejala, o la persona representante del
+municipio que haya de formar parte del Consejo Escolar; de la asociación de padres, madres
+y personas tutoras legales del alumnado legalmente constituida y con mayor número de
+miembros, el nombre de la persona representante designada en uso del derecho que le asiste;
+de la junta de delegados y delegadas, y de la asociación de alumnado con mayor número
+de miembros, el nombre de las personas representantes designadas en uso del derecho
+que las asiste, no pudiendo ser nunca de un curso inferior a 5.º de Educación Primaria; y
 
-de las organizaciones, instituciones o asociaciones profesionales y empresariales para los 
-centros que impartan enseñanzas de formación profesional y enseñanzas de artes plásticas 
+de las organizaciones, instituciones o asociaciones profesionales y empresariales para los
+centros que impartan enseñanzas de formación profesional y enseñanzas de artes plásticas
 y diseño, el nombre de su representante.
-6. Además de lo anteriormente indicado, la Junta electoral determinará y dará publicidad 
-del horario de las votaciones, garantizando la máxima participación y proclamará las 
-candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de 
+6. Además de lo anteriormente indicado, la Junta electoral determinará y dará publicidad
+del horario de las votaciones, garantizando la máxima participación y proclamará las
+candidaturas elegidas, acordando los términos en los que se realizará el sorteo en el caso de
 empate en las votaciones de cualquiera de los sectores.
-7. Las juntas electorales de los CEPA o de las EOI podrán organizar las votaciones para 
-la elección de las personas representantes del alumnado, adaptándolas a la dispersión de las 
-aulas establecidas en la zona de actuación del mismo. Por ello y con la finalidad de facilitar 
-la votación del alumnado, se podrá instalar una mesa electoral en cada unidad de actuación, 
-estableciéndose las medidas que garanticen las condiciones de transparencia del proceso 
+7. Las juntas electorales de los CEPA o de las EOI podrán organizar las votaciones para
+la elección de las personas representantes del alumnado, adaptándolas a la dispersión de las
+aulas establecidas en la zona de actuación del mismo. Por ello y con la finalidad de facilitar
+la votación del alumnado, se podrá instalar una mesa electoral en cada unidad de actuación,
+estableciéndose las medidas que garanticen las condiciones de transparencia del proceso
 electoral.
-8. La Inspección de zona comprobará, por los medios que estime oportunos, que todos 
-sus centros educativos han formado sus juntas electorales, iniciando así el trámite de la 
+8. La Inspección de zona comprobará, por los medios que estime oportunos, que todos
+sus centros educativos han formado sus juntas electorales, iniciando así el trámite de la
 convocatoria.
 Sexto.- Personas que pueden elegir y ser elegidas.
-1. El derecho a elegir y ser elegido o elegida representante lo tienen los padres, las 
-madres o las personas tutoras legales del alumnado, el profesorado, el propio alumnado 
-y el personal de administración y servicios. En los centros privados concertados pueden elegir 
-y ser elegidas por los correspondientes sectores aquellas personas de la comunidad educativa 
-vinculadas, como padres, madres y personas tutoras legales del alumnado, profesorado y 
+1. El derecho a elegir y ser elegido o elegida representante lo tienen los padres, las
+madres o las personas tutoras legales del alumnado, el profesorado, el propio alumnado
+y el personal de administración y servicios. En los centros privados concertados pueden elegir
+y ser elegidas por los correspondientes sectores aquellas personas de la comunidad educativa
+vinculadas, como padres, madres y personas tutoras legales del alumnado, profesorado y
 alumnado, a alguna de las etapas educativas concertadas total o parcialmente.
-2. Será elector y elegible tanto el padre, como la madre o como la persona representante 
-legal del alumnado, o quienes tengan legalmente reconocida la guarda sobre el menor, 
-teniendo siempre en cuenta lo regulado en el artículo 22, apartado 10, de la antedicha Orden 
-de 12 de mayo de 2016. Únicamente cuando la patria potestad de hijos e hijas se encuentre 
-conferida a uno solo de los progenitores, corresponderá en exclusiva a esta persona el 
+2. Será elector y elegible tanto el padre, como la madre o como la persona representante
+legal del alumnado, o quienes tengan legalmente reconocida la guarda sobre el menor,
+teniendo siempre en cuenta lo regulado en el artículo 22, apartado 10, de la antedicha Orden
+de 12 de mayo de 2016. Únicamente cuando la patria potestad de hijos e hijas se encuentre
+conferida a uno solo de los progenitores, corresponderá en exclusiva a esta persona el
 derecho a ser electora y elegible.
-3. La elección de las personas representantes de los diversos sectores de la comunidad 
-educativa se realizará por medio de candidaturas abiertas. Cada elector o electora podrá 
-seleccionar, de entre la lista de candidaturas proclamadas por la Junta electoral del centro, 
-aquella o aquellas que estime oportunas, dentro del número máximo establecido en la 
+3. La elección de las personas representantes de los diversos sectores de la comunidad
+educativa se realizará por medio de candidaturas abiertas. Cada elector o electora podrá
+seleccionar, de entre la lista de candidaturas proclamadas por la Junta electoral del centro,
+aquella o aquellas que estime oportunas, dentro del número máximo establecido en la
 normativa que le sea de aplicación a cada sector.
-4. En todo caso, los miembros de la comunidad educativa solo podrán ser candidatos 
-o candidatas al Consejo Escolar por uno de los sectores que la componen, aunque pertenezcan 
-a más de uno o reúnan las condiciones para ser miembro designado. En los centros privados 
-concertados, los miembros designados por el titular del centro no podrán simultanear 
-su condición con la de representantes elegidos por ningún otro sector de la comunidad 
+4. En todo caso, los miembros de la comunidad educativa solo podrán ser candidatos
+o candidatas al Consejo Escolar por uno de los sectores que la componen, aunque pertenezcan
+a más de uno o reúnan las condiciones para ser miembro designado. En los centros privados
+concertados, los miembros designados por el titular del centro no podrán simultanear
+su condición con la de representantes elegidos por ningún otro sector de la comunidad
 educativa.
 
 Séptimo.- Candidaturas diferenciadas.
-1. Además de las candidaturas individuales a las que se hace referencia en el apartado 
+1. Además de las candidaturas individuales a las que se hace referencia en el apartado
 anterior, la Junta electoral de cada centro admitirá candidaturas diferenciadas.
-2. Tanto las asociaciones legalmente constituidas de padres, madres o representantes 
-legales del alumnado, como las del propio alumnado, podrán presentar candidaturas 
-diferenciadas, en cuyo caso supondrá su participación como candidato por el sector 
+2. Tanto las asociaciones legalmente constituidas de padres, madres o representantes
+legales del alumnado, como las del propio alumnado, podrán presentar candidaturas
+diferenciadas, en cuyo caso supondrá su participación como candidato por el sector
 correspondiente.
 Octavo.- Mesas electorales.
-1. El día de las votaciones respectivas se constituirán las mesas electorales, observando 
+1. El día de las votaciones respectivas se constituirán las mesas electorales, observando
 las determinaciones de la Junta electoral.
-2. En el supuesto de que el número de electores y electoras del personal de administración 
-y servicios en los centros de Educación Infantil y Primaria sea inferior a tres, la votación de 
-este sector se realizará ante la mesa electoral del profesorado, en urna separada. Lo mismo 
-ocurrirá en el resto de los centros cuando el número de las personas que pueden elegir sea 
+2. En el supuesto de que el número de electores y electoras del personal de administración
+y servicios en los centros de Educación Infantil y Primaria sea inferior a tres, la votación de
+este sector se realizará ante la mesa electoral del profesorado, en urna separada. Lo mismo
+ocurrirá en el resto de los centros cuando el número de las personas que pueden elegir sea
 inferior a cinco.
 Noveno.- Papeletas.
-1. Las papeletas para las votaciones deberán llevar el sello del centro y contener la relación 
-de todas las candidaturas proclamadas por la Junta electoral, ordenadas alfabéticamente por 
-el primer apellido y numeradas de forma correlativa, así como especificar, de forma clara, 
-el número máximo de personas candidatas que puedan señalar. En el margen izquierdo, y 
-delante del número cardinal, figurará un recuadro en blanco en donde la persona electora 
-señalará con una cruz la candidatura o las candidaturas por las que vota. Si la Junta electoral, 
-de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, este se hará 
+1. Las papeletas para las votaciones deberán llevar el sello del centro y contener la relación
+de todas las candidaturas proclamadas por la Junta electoral, ordenadas alfabéticamente por
+el primer apellido y numeradas de forma correlativa, así como especificar, de forma clara,
+el número máximo de personas candidatas que puedan señalar. En el margen izquierdo, y
+delante del número cardinal, figurará un recuadro en blanco en donde la persona electora
+señalará con una cruz la candidatura o las candidaturas por las que vota. Si la Junta electoral,
+de acuerdo con sus competencias, hubiera establecido el modelo de papeleta, este se hará
 público en el tablón de anuncios y en la web del centro, en su caso.
-2. En las papeletas de votos del alumnado se hará constar, además, el curso, el grupo y, 
+2. En las papeletas de votos del alumnado se hará constar, además, el curso, el grupo y,
 en su caso, el turno al que pertenezca el candidato o la candidata.
-3. Las candidaturas diferenciadas presentadas por asociaciones de padres, madres o 
-representantes legales del alumnado, así como por las asociaciones del alumnado, llevarán 
-en las correspondientes papeletas, a continuación de los apellidos y el nombre de los 
-candidatos y candidatas, la denominación propia de la asociación a la que representan. 
-Si así lo requirieran a la Junta electoral, la papeleta de votación podrá llevar señalada, 
+3. Las candidaturas diferenciadas presentadas por asociaciones de padres, madres o
+representantes legales del alumnado, así como por las asociaciones del alumnado, llevarán
+en las correspondientes papeletas, a continuación de los apellidos y el nombre de los
+candidatos y candidatas, la denominación propia de la asociación a la que representan.
+Si así lo requirieran a la Junta electoral, la papeleta de votación podrá llevar señalada,
 expresamente, su candidatura.
-4. La Junta electoral del centro facilitará a los candidatos y las candidatas proclamados 
-que lo soliciten el modelo de papeleta oficialmente aprobado para su reproducción y 
+4. La Junta electoral del centro facilitará a los candidatos y las candidatas proclamados
+que lo soliciten el modelo de papeleta oficialmente aprobado para su reproducción y
 distribución.
 Décimo.- Características del voto.
-La votación se efectuará mediante sufragio directo, secreto y personal. Cada votante 
-depositará en la mesa electoral una papeleta con su voto. La mesa electoral podrá requerir, 
-si fuera necesario, la identificación del votante con su 
-DNI, o Número de Identidad de 
+La votación se efectuará mediante sufragio directo, secreto y personal. Cada votante
+depositará en la mesa electoral una papeleta con su voto. La mesa electoral podrá requerir,
+si fuera necesario, la identificación del votante con su
+DNI, o Número de Identidad de
 Extranjero (NIE) o pasaporte, en el caso de personas extranjeras.
 
 Undécimo.- Voto no presencial.
-1. Se entiende por voto no presencial el voto por correo y aquel que se entrega a la 
+1. Se entiende por voto no presencial el voto por correo y aquel que se entrega a la
 persona que ejerce la dirección del centro para participar en el proceso.
-2. El voto no presencial se admitirá hasta el momento del escrutinio, para lo que, al 
-menos diez días antes de la votación, las personas electoras deberán solicitar, a la Junta 
+2. El voto no presencial se admitirá hasta el momento del escrutinio, para lo que, al
+menos diez días antes de la votación, las personas electoras deberán solicitar, a la Junta
 electoral del centro, la documentación necesaria para ejercer este derecho.
 3. La Junta electoral:
-a) Comprobará la inscripción en el censo de la persona interesada y, en el caso del 
+a) Comprobará la inscripción en el censo de la persona interesada y, en el caso del
 profesorado, las circunstancias que se alegan para garantizar este derecho.
-b) Realizará la anotación correspondiente, a fin de que el día de las elecciones no se 
+b) Realizará la anotación correspondiente, a fin de que el día de las elecciones no se
 emita el voto personalmente.
-c) Extenderá un certificado de inscripción que la persona interesada deberá incluir en 
+c) Extenderá un certificado de inscripción que la persona interesada deberá incluir en
 un sobre con el resto de documentación.
-d) Facilitará al elector o la electora la lista de candidaturas, papeletas y sobres electorales, 
-y un sobre con la dirección postal de la Junta electoral, para su entrega en mano a la persona 
+d) Facilitará al elector o la electora la lista de candidaturas, papeletas y sobres electorales,
+y un sobre con la dirección postal de la Junta electoral, para su entrega en mano a la persona
 que ejerce la dirección del centro, o para su remisión posterior por correo certificado.
-e) Conservará los votos recibidos hasta antes de la hora señalada para la finalización de 
-las votaciones, y los hará llegar a la mesa electoral correspondiente en el momento concreto 
+e) Conservará los votos recibidos hasta antes de la hora señalada para la finalización de
+las votaciones, y los hará llegar a la mesa electoral correspondiente en el momento concreto
 de empezar el escrutinio.
-4. La persona electora rellenará la papeleta de voto y la introducirá en el sobre electoral. 
-Este sobre y el certificado de inscripción se incluirán en el sobre con la dirección postal, 
-que se entregará en mano a la persona que ejerce la dirección del centro, o se enviará por 
+4. La persona electora rellenará la papeleta de voto y la introducirá en el sobre electoral.
+Este sobre y el certificado de inscripción se incluirán en el sobre con la dirección postal,
+que se entregará en mano a la persona que ejerce la dirección del centro, o se enviará por
 correo certificado.
 Duodécimo.- Escrutinio de votos y elaboración del acta.
-1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán 
+1. Una vez finalizadas las votaciones, las mesas electorales correspondientes procederán
 al escrutinio de los votos en acto público.
-2. Cuando se produzca empate en las votaciones, la elección se dirimirá por sorteo, 
+2. Cuando se produzca empate en las votaciones, la elección se dirimirá por sorteo,
 según los términos previamente acordados y recogidos en acta por la Junta electoral.
-3. A continuación, cada una de las mesas electorales extenderá un acta en la que figurará, 
-entre otros aspectos, el escrutinio, la lista de los representantes electos y electas, y la lista 
-de reserva, que en el caso de las candidaturas diferenciadas deberá figurar el nombre de la 
+3. A continuación, cada una de las mesas electorales extenderá un acta en la que figurará,
+entre otros aspectos, el escrutinio, la lista de los representantes electos y electas, y la lista
+de reserva, que en el caso de las candidaturas diferenciadas deberá figurar el nombre de la
 asociación que las presentó. Dicha acta se remitirá a la Junta electoral.
 Decimotercero.- Proclamación de las personas candidatas electas.
-La Junta electoral, una vez recibidas las actas de las mesas electorales, proclamará a los 
-candidatos y candidatas electos como miembros del Consejo Escolar, mediante el acta de 
+La Junta electoral, una vez recibidas las actas de las mesas electorales, proclamará a los
+candidatos y candidatas electos como miembros del Consejo Escolar, mediante el acta de
 proclamación, y comunicará a las personas candidatas electas el acuerdo de proclamación.
 
 Decimocuarto.- Carga de datos.
@@ -356,141 +357,141 @@ d) Las personas representantes designadas.
 e) Las personas representantes por candidatura diferenciada.
 f) Las personas representantes electas.
 Esta carga de datos configurará el Documento Resumen.
-2. Esta aplicación se encuentra ubicada para los centros públicos en el Portal DocenteCentros/Escritorio del Centro/Gestiones Generales/Elecciones al Consejo Escolar, y, para 
-los centros privados concertados, en el apartado de la web de la Consejería de Educación, 
-Formación Profesional, Actividad Física y Deportes, desde el que estos centros realizan 
+2. Esta aplicación se encuentra ubicada para los centros públicos en el Portal DocenteCentros/Escritorio del Centro/Gestiones Generales/Elecciones al Consejo Escolar, y, para
+los centros privados concertados, en el apartado de la web de la Consejería de Educación,
+Formación Profesional, Actividad Física y Deportes, desde el que estos centros realizan
 todas sus gestiones.
 Decimoquinto.- Reclamaciones e impugnaciones.
-1. La Junta electoral resolverá en primera instancia las reclamaciones sobre cualquier 
+1. La Junta electoral resolverá en primera instancia las reclamaciones sobre cualquier
 cuestión relativa al proceso electoral.
-2. Contra las decisiones de dicha Junta en materia de proclamación de las personas electas 
-se podrá interponer en las secretarías de los centros escolares recurso ante la Dirección 
-Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al 
+2. Contra las decisiones de dicha Junta en materia de proclamación de las personas electas
+se podrá interponer en las secretarías de los centros escolares recurso ante la Dirección
+Territorial de Educación correspondiente, en el plazo de un mes a partir del día siguiente al
 de su notificación o publicación, cuya resolución pondrá fin a la vía administrativa.
 Decimosexto.- Finalización del procedimiento.
-1. Concluidas las votaciones y proclamadas por la Junta electoral, las candidaturas 
-electas de cada uno de los sectores, la dirección del centro finalizará la cumplimentación del 
-Documento Resumen, en el que se deberán precisar tanto las personas candidatas electas 
-como las personas representantes designadas. Este documento se tramitará exclusivamente 
+1. Concluidas las votaciones y proclamadas por la Junta electoral, las candidaturas
+electas de cada uno de los sectores, la dirección del centro finalizará la cumplimentación del
+Documento Resumen, en el que se deberán precisar tanto las personas candidatas electas
+como las personas representantes designadas. Este documento se tramitará exclusivamente
 por vía telemática, a través de la aplicación informática creada al efecto.
-2. En atención al punto anterior se elaborará el Documento Resumen que una vez 
-firmado se publicará en el tablón de anuncios y en la página web del centro y se añadirá 
-al resto del expediente correspondiente al procedimiento de renovación o constitución del 
-Consejo Escolar, cuya documentación en papel quedará custodiada en la secretaría del 
+2. En atención al punto anterior se elaborará el Documento Resumen que una vez
+firmado se publicará en el tablón de anuncios y en la página web del centro y se añadirá
+al resto del expediente correspondiente al procedimiento de renovación o constitución del
+Consejo Escolar, cuya documentación en papel quedará custodiada en la secretaría del
 centro.
-3. Una vez proclamadas las candidaturas electas, la Junta electoral, conforme a las actas 
-de escrutinio de cada una de las mesas electorales, elaborará las listas de reserva para cada 
+3. Una vez proclamadas las candidaturas electas, la Junta electoral, conforme a las actas
+de escrutinio de cada una de las mesas electorales, elaborará las listas de reserva para cada
 uno de los sectores.
-4. Esta documentación permanecerá bajo la custodia y la responsabilidad del centro, y a 
-disposición de la Administración educativa. Se guardarán, además, los votos, si se hubiera 
+4. Esta documentación permanecerá bajo la custodia y la responsabilidad del centro, y a
+disposición de la Administración educativa. Se guardarán, además, los votos, si se hubiera
 producido alguna reclamación al proceso y hasta su finalización.
 
 Decimoséptimo.- Constitución del Consejo Escolar.
-1. En el plazo máximo de diez días naturales contados desde la fecha de proclamación 
-de las personas electas, la dirección del centro convocará la sesión constitutiva del nuevo 
-Consejo Escolar. Si el último día del plazo fuera sábado, domingo o festivo, su constitución 
+1. En el plazo máximo de diez días naturales contados desde la fecha de proclamación
+de las personas electas, la dirección del centro convocará la sesión constitutiva del nuevo
+Consejo Escolar. Si el último día del plazo fuera sábado, domingo o festivo, su constitución
 se aplazará al siguiente día lectivo.
-2. Si alguno de los sectores de la comunidad educativa no eligiera a sus representantes 
-en el Consejo Escolar por causas imputables a dichos sectores, este hecho no invalidará 
-la constitución de dicho órgano colegiado, estableciéndose la mayoría absoluta, según el 
+2. Si alguno de los sectores de la comunidad educativa no eligiera a sus representantes
+en el Consejo Escolar por causas imputables a dichos sectores, este hecho no invalidará
+la constitución de dicho órgano colegiado, estableciéndose la mayoría absoluta, según el
 número de miembros que componen, de forma efectiva, el Consejo Escolar.
-3. Solo en el caso de razones excepcionales y justificadas, dicha constitución podrá 
-retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de 
+3. Solo en el caso de razones excepcionales y justificadas, dicha constitución podrá
+retrasarse, debiendo contar, en todo caso, con la autorización de la Dirección Territorial de
 Educación correspondiente.
 Decimoctavo.- Otras normas del proceso.
-1. En los centros incompletos de Educación Infantil y Primaria, donde no se imparta 
-el tercer ciclo de la Educación Primaria, el número de puestos asignados al alumnado se sumará 
+1. En los centros incompletos de Educación Infantil y Primaria, donde no se imparta
+el tercer ciclo de la Educación Primaria, el número de puestos asignados al alumnado se sumará
 al correspondiente al sector de padres, madres o representantes legales del alumnado.
-2. Los centros que, como consecuencia del aumento o disminución de sus unidades 
-en funcionamiento, deban modificar la actual composición de sus Consejos Escolares, 
-procederán del modo siguiente para realizar su renovación parcial: una vez calculada la 
-mitad de miembros que debe renovarse de su actual composición, el Consejo Escolar se 
-adecuará a la nueva composición que le corresponda, sumando o restando, según el caso, 
-al número de miembros salientes los necesarios para ajustarse a la nueva composición; el 
+2. Los centros que, como consecuencia del aumento o disminución de sus unidades
+en funcionamiento, deban modificar la actual composición de sus Consejos Escolares,
+procederán del modo siguiente para realizar su renovación parcial: una vez calculada la
+mitad de miembros que debe renovarse de su actual composición, el Consejo Escolar se
+adecuará a la nueva composición que le corresponda, sumando o restando, según el caso,
+al número de miembros salientes los necesarios para ajustarse a la nueva composición; el
 número resultante será el de miembros a elegir.
-3. Una vez constituido el Consejo Escolar, los centros educativos aplicarán lo establecido 
-en la disposición adicional primera de la Orden de 12 de mayo de 2016, en todo lo relativo 
+3. Una vez constituido el Consejo Escolar, los centros educativos aplicarán lo establecido
+en la disposición adicional primera de la Orden de 12 de mayo de 2016, en todo lo relativo
 a la constitución de las comisiones del mismo.
-4. Salvo las adaptaciones obligadas por la coincidencia con determinadas fiestas locales 
-o por causas organizativas excepcionales o sobrevenidas, los centros no alterarán las fechas 
-establecidas en esta convocatoria, sin autorización expresa de la Dirección Territorial de 
-Educación correspondiente, previa solicitud motivada, poniéndolo en conocimiento de la 
-Junta electoral del centro, en su caso. De cualquier manera, deberá garantizarse la suficiente 
+4. Salvo las adaptaciones obligadas por la coincidencia con determinadas fiestas locales
+o por causas organizativas excepcionales o sobrevenidas, los centros no alterarán las fechas
+establecidas en esta convocatoria, sin autorización expresa de la Dirección Territorial de
+Educación correspondiente, previa solicitud motivada, poniéndolo en conocimiento de la
+Junta electoral del centro, en su caso. De cualquier manera, deberá garantizarse la suficiente
 publicidad del calendario electoral con las modificaciones que pudieran autorizarse.
 Decimonoveno.- Difusión del proceso electoral.
-1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes, 
-a través del Programa Familia y Participación Educativa, de la Dirección General de 
-Ordenación de las Enseñanzas, Inclusión e Innovación, adoptará medidas y estrategias que 
-tengan por objetivo la consolidación en el alumnado del aprendizaje de los valores sobre 
-los que se asienta el sistema democrático para su aplicación al gobierno del centro y que 
-fomenten la participación, de una forma particular, de las madres, los padres y las personas 
+1. La Consejería de Educación, Formación Profesional, Actividad Física y Deportes,
+a través del Programa Familia y Participación Educativa, de la Dirección General de
+Ordenación de las Enseñanzas, Inclusión e Innovación, adoptará medidas y estrategias que
+tengan por objetivo la consolidación en el alumnado del aprendizaje de los valores sobre
+los que se asienta el sistema democrático para su aplicación al gobierno del centro y que
+fomenten la participación, de una forma particular, de las madres, los padres y las personas
 tutoras legales del alumnado en las elecciones al Consejo Escolar.
 
-2. La APP Docente de la Consejería de Educación, Formación Profesional, Actividad 
+2. La APP Docente de la Consejería de Educación, Formación Profesional, Actividad
 Física y Deportes difundirá igualmente este procedimiento administrativo.
-3. Para promocionar la participación de toda la comunidad educativa, de manera general, 
-y de las familias, de manera particular, la Consejería con competencias en materia de 
-educación se servirá de la página web para la divulgación de toda la información relativa a 
+3. Para promocionar la participación de toda la comunidad educativa, de manera general,
+y de las familias, de manera particular, la Consejería con competencias en materia de
+educación se servirá de la página web para la divulgación de toda la información relativa a
 ese proceso: https://www.gobiernodecanarias.org/educacion/web/centros/gestion_centros/
 organos_colegiados/consejos_escolares/
-4. Así mismo, desde la Consejería competente en materia educativa, se han puesto a 
-disposición de todos los centros, recursos para la difusión del procedimiento a los distintos 
-sectores. En el caso de los centros públicos, en el portal docente y de centros educativos, 
-y para los centros privados concertados, en el apartado de la web de la Consejería de 
-Educación, Formación Profesional, Actividad Física y Deportes, desde el que estos centros 
+4. Así mismo, desde la Consejería competente en materia educativa, se han puesto a
+disposición de todos los centros, recursos para la difusión del procedimiento a los distintos
+sectores. En el caso de los centros públicos, en el portal docente y de centros educativos,
+y para los centros privados concertados, en el apartado de la web de la Consejería de
+Educación, Formación Profesional, Actividad Física y Deportes, desde el que estos centros
 realizan todas sus gestiones.
-5. La dirección del centro destinará un tablón de anuncios para la información y 
-divulgación del procedimiento de renovación parcial o nueva constitución del Consejo 
-Escolar en el curso 2026-2027. Del mismo modo, en la página web del centro, creará una 
+5. La dirección del centro destinará un tablón de anuncios para la información y
+divulgación del procedimiento de renovación parcial o nueva constitución del Consejo
+Escolar en el curso 2026-2027. Del mismo modo, en la página web del centro, creará una
 sección para el mismo fin.
 Vigésimo.- Fomento de la participación de la comunidad educativa.
-1. Dado el valor formativo que implica la participación en el proceso de elección y 
-constitución de los Consejos Escolares, los órganos de gobierno de los centros educativos 
-deberán prestar la máxima colaboración para la realización de aquellas actuaciones 
-tendentes a fomentar la participación de todos los sectores implicados en el proceso de 
-elección a Consejos Escolares, para lo que propiciarán estrategias de difusión de todo el 
+1. Dado el valor formativo que implica la participación en el proceso de elección y
+constitución de los Consejos Escolares, los órganos de gobierno de los centros educativos
+deberán prestar la máxima colaboración para la realización de aquellas actuaciones
+tendentes a fomentar la participación de todos los sectores implicados en el proceso de
+elección a Consejos Escolares, para lo que propiciarán estrategias de difusión de todo el
 proceso electoral.
-2. A los efectos señalados en el párrafo anterior, la programación de la acción tutorial 
-incluirá referencias a hábitos de participación democrática, informando al alumnado sobre 
+2. A los efectos señalados en el párrafo anterior, la programación de la acción tutorial
+incluirá referencias a hábitos de participación democrática, informando al alumnado sobre
 el funcionamiento y las competencias de los Consejos Escolares.
-3. El equipo directivo del centro propiciará, al menos, un encuentro-debate con los 
-candidatos y las candidatas del alumnado, dentro del horario lectivo, para que puedan darse 
-a conocer a sus compañeros y compañeras, y presentar sus programas respectivos. Al mismo 
-tiempo, deberá favorecer también la convocatoria de reuniones del propio alumnado y de 
+3. El equipo directivo del centro propiciará, al menos, un encuentro-debate con los
+candidatos y las candidatas del alumnado, dentro del horario lectivo, para que puedan darse
+a conocer a sus compañeros y compañeras, y presentar sus programas respectivos. Al mismo
+tiempo, deberá favorecer también la convocatoria de reuniones del propio alumnado y de
 padres, madres o representantes legales del alumnado con tales objetivos.
 Vigesimoprimero.- Asesoramiento y supervisión del proceso electoral.
-1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral 
-de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente 
-o persona en quien delegue, e integrada por una persona representante de la Inspección 
-Educativa, previamente designada por la Inspección General, y por un funcionario o 
-funcionaria o, en su caso, por un empleado público, designado al efecto que actuará como 
-secretario o secretaria. La citada Comisión tendrá como funciones asesorar y efectuar 
-propuesta en las reclamaciones que se produzcan contra las resoluciones de la Junta 
+1. En cada una de las Direcciones Territoriales se constituirá una Comisión Electoral
+de su ámbito de gestión, presidida por el Director Territorial de Educación correspondiente
+o persona en quien delegue, e integrada por una persona representante de la Inspección
+Educativa, previamente designada por la Inspección General, y por un funcionario o
+funcionaria o, en su caso, por un empleado público, designado al efecto que actuará como
+secretario o secretaria. La citada Comisión tendrá como funciones asesorar y efectuar
+propuesta en las reclamaciones que se produzcan contra las resoluciones de la Junta
 electoral ante la Dirección Territorial competente.
 
-2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones, 
-velará por el cumplimiento de los procesos de elección y renovación parcial de los 
-Consejos Escolares, informando y asesorando a los centros educativos del comienzo del 
-procedimiento, y supervisando su desarrollo y finalización. Asimismo, colaborará con la 
-Dirección Territorial de Educación correspondiente en cualquier aspecto relacionado con 
+2. La Inspección de Educación, en el ejercicio de sus funciones y atribuciones,
+velará por el cumplimiento de los procesos de elección y renovación parcial de los
+Consejos Escolares, informando y asesorando a los centros educativos del comienzo del
+procedimiento, y supervisando su desarrollo y finalización. Asimismo, colaborará con la
+Dirección Territorial de Educación correspondiente en cualquier aspecto relacionado con
 este procedimiento.
 Vigesimosegundo.- Velar por su correcto funcionamiento.
-La dirección del centro docente debe velar por el correcto desarrollo del proceso para 
+La dirección del centro docente debe velar por el correcto desarrollo del proceso para
 la renovación parcial o la nueva constitución del Consejo Escolar.
-Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el 
-plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de 
-Canarias, recurso de alzada ante la Viceconsejería de Educación, sin perjuicio de cualquier 
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el
+plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de
+Canarias, recurso de alzada ante la Viceconsejería de Educación, sin perjuicio de cualquier
 otro que se estime procedente interponer.
-Las Palmas de Gran Canaria, a 26 de mayo de 2026.- El Director General de 
-Administración de Centros, Escolarización y Servicios Complementarios, David Crego 
+Las Palmas de Gran Canaria, a 26 de mayo de 2026.- El Director General de
+Administración de Centros, Escolarización y Servicios Complementarios, David Crego
 Chávez.
 
 ANEXO
 CALENDARIO DEL PROCESO ELECTORAL
-RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN 
+RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN
 DE LOS CONSEJOS ESCOLARES CURSO 2026-2027
 I. APERTURA DEL PROCEDIMIENTO
-Hasta el martes 13 
+Hasta el martes 13
 de octubre
 • Constitución  de  una  comisión  electoral  en  cada  una  de  las  Direcciones
 Territoriales de Educación.
@@ -514,20 +515,18 @@ comunidad educativa, mediante publicación, en los tablones de anuncios y en
 la página web del centro.
 • Divulgación del voto no presencial.
 * Enmascarando los datos identificativos de DNI, NIE o pasaporte
-**  Este  material  está  disponible  en  la  página  web de  la  Consejería  de  Educación, 
-Formación Profesional, Actividad Física y Deportes y en el “Portal docente y de centros  
+**  Este  material  está  disponible  en  la  página  web de  la  Consejería  de  Educación,
+Formación Profesional, Actividad Física y Deportes y en el “Portal docente y de centros
 educativo”.
 Web: https://www.gobiernodecanarias.org/educacion/web/centros/gestion_centros/
 organos_colegiados/consejos_escolares/index.html
 II. CONSTITUCIÓN DE LA  JUNTA ELECTORAL
-Hasta el martes 13 
+Hasta el martes 13
 de octubre
 • Anuncio del Sorteo Público para la elección de las personas miembros de la
 Junta Electoral.
-                                                                                              
-                                                                                              
 
- Hasta el lunes 19 de 
+Hasta el lunes 19 de
 octubre
 • Celebración en  acto  público,  a  partir de las  17:00 h, del  sorteo para  la
 designación de los miembros de la Junta Electoral del centro.
@@ -541,7 +540,7 @@ centro.
 anuncios  y en la web del centro del Acta de constitución.
 CONVOCATORIA DE ELECCIONES AL CONSEJO ESCOLAR
 III. CONVOCATORIA Y CENSOS ELECTORALES
-Hasta el martes 20 
+Hasta el martes 20
 de octubre
  Publicación de la convocatoria de elecciones de las personas representantes de pa -
 dres, madres o personas tutoras legales del alumnado, del propio alumnado y del
@@ -568,7 +567,7 @@ Consejo Escolar, dirigidos:
 - A las organizaciones, instituciones o asociaciones profesionales y empresariales
 (en el caso de centros que impartan enseñanzas de formación profesional y/o ense -
 I. APERTURA DEL PROCEDIMIENTO
-Hasta el martes 13 
+Hasta el martes 13
 de octubre
 • Constitución  de  una  comisión  electoral  en  cada  una  de  las  Direcciones
 Territoriales de Educación.
@@ -592,18 +591,18 @@ comunidad educativa, mediante publicación, en los tablones de anuncios y en
 la página web del centro.
 • Divulgación del voto no presencial.
 * Enmascarando los datos identificativos de DNI, NIE o pasaporte
-**  Este  material  está  disponible  en  la  página  web de  la  Consejería  de  Educación, 
-Formación Profesional, Actividad Física y Deportes y en el “Portal docente y de centros  
+**  Este  material  está  disponible  en  la  página  web de  la  Consejería  de  Educación,
+Formación Profesional, Actividad Física y Deportes y en el “Portal docente y de centros
 educativo”.
 Web: https://www.gobiernodecanarias.org/educacion/web/centros/gestion_centros/
 organos_colegiados/consejos_escolares/index.html
 II. CONSTITUCIÓN DE LA  JUNTA ELECTORAL
-Hasta el martes 13 
+Hasta el martes 13
 de octubre
 • Anuncio del Sorteo Público para la elección de las personas miembros de la
 Junta Electoral.
 ñanzas de artes plásticas y diseño).
-Dichos órganos deberán remitir por escrito los nombres de las personas designadas 
+Dichos órganos deberán remitir por escrito los nombres de las personas designadas
 hasta el lunes 16 de noviembre.
  Remisión de escritos de comunicación para la designación de representantes en el
 Consejo Escolar, dirigidos:
@@ -631,11 +630,11 @@ sentarán candidatura diferenciada hasta el miércoles 28 de octubre.
 • Modelo de certificado de inscripción en el censo electoral (para hacer uso del
 voto no presencial)
 Dichas solicitudes deberán ser remitidas a la Junta hasta el viernes 6 de noviembre.
-Miércoles y jueves 
+Miércoles y jueves
 21 y 22 de octubre  Reclamaciones sobre los censos electorales publicados.
 
 ñanzas de artes plásticas y diseño).
-Dichos órganos deberán remitir por escrito los nombres de las personas designadas 
+Dichos órganos deberán remitir por escrito los nombres de las personas designadas
 hasta el lunes 16 de noviembre.
  Remisión de escritos de comunicación para la designación de representantes en el
 Consejo Escolar, dirigidos:
@@ -663,14 +662,14 @@ sentarán candidatura diferenciada hasta el miércoles 28 de octubre.
 • Modelo de certificado de inscripción en el censo electoral (para hacer uso del
 voto no presencial)
 Dichas solicitudes deberán ser remitidas a la Junta hasta el viernes 6 de noviembre.
-Miércoles y jueves 
+Miércoles y jueves
 21 y 22 de octubre  Reclamaciones sobre los censos electorales publicados.
-Viernes 23 de 
+Viernes 23 de
 octubre
- Resolución de las reclamacione s y aprobación definitiva de los censos por la Junta  
+ Resolución de las reclamacione s y aprobación definitiva de los censos por la Junta
 Electoral.
 IV . PRESENTACIÓN DE CANDIDATURAS
-Hasta el miércoles 
+Hasta el miércoles
 28 de octubre
  Recepción, en la secretaría del centro educativo, de escritos de presentación de can -
 didaturas (tanto abiertas como diferenciadas), como representantes en el Consejo
@@ -685,20 +684,20 @@ del centro.
  Presentación ante la Junta Electoral de las designaciones y candidaturas a miembros
 del Consejo Escolar recibidas en la secretaría del centro.
  Proclamación, por la Junta Electoral del centro, de las candidaturas admitidas.
-Jueves y viernes 
+Jueves y viernes
 29 y 30 de octubre
  Reclamación a la proclamación de candidaturas admitidas
-Martes 3 
+Martes 3
 de noviembre
  Resolución a la reclamación de la proclamación de candidaturas admitidas.
  Publicación en el tablón y en la web del centro de las candidaturas admitidas.
-Desde el martes 3 al 
-miércoles 11 de 
+Desde el martes 3 al
+miércoles 11 de
 noviembre
  Realización de encuentros o debates entre el alumnado para que las personas candi -
 datas hagan divulgación de su candidatura.
 V . COMPOSICIÓN DE MESAS ELECTORALES
-Hasta el miércoles 4 
+Hasta el miércoles 4
 de noviembre
  Comunicación y publicación de la celebración del sorteo público para la elección de
 las personas miembros de las mesas electorales de padres, madres o personas tutoras
@@ -713,12 +712,12 @@ preverán las suplencias necesarias.
  Publicación del acta de resultados del sorteo.
  Comunicado de resultados del sorteo público, y convocatoria* de constitución de las
 
-Viernes 23 de 
+Viernes 23 de
 octubre
- Resolución de las reclamacione s y aprobación definitiva de los censos por la Junta  
+ Resolución de las reclamacione s y aprobación definitiva de los censos por la Junta
 Electoral.
 IV . PRESENTACIÓN DE CANDIDATURAS
-Hasta el miércoles 
+Hasta el miércoles
 28 de octubre
  Recepción, en la secretaría del centro educativo, de escritos de presentación de can -
 didaturas (tanto abiertas como diferenciadas), como representantes en el Consejo
@@ -733,20 +732,20 @@ del centro.
  Presentación ante la Junta Electoral de las designaciones y candidaturas a miembros
 del Consejo Escolar recibidas en la secretaría del centro.
  Proclamación, por la Junta Electoral del centro, de las candidaturas admitidas.
-Jueves y viernes 
+Jueves y viernes
 29 y 30 de octubre
  Reclamación a la proclamación de candidaturas admitidas
-Martes 3 
+Martes 3
 de noviembre
  Resolución a la reclamación de la proclamación de candidaturas admitidas.
  Publicación en el tablón y en la web del centro de las candidaturas admitidas.
-Desde el martes 3 al 
-miércoles 11 de 
+Desde el martes 3 al
+miércoles 11 de
 noviembre
  Realización de encuentros o debates entre el alumnado para que las personas candi -
 datas hagan divulgación de su candidatura.
 V . COMPOSICIÓN DE MESAS ELECTORALES
-Hasta el miércoles 4 
+Hasta el miércoles 4
 de noviembre
  Comunicación y publicación de la celebración del sorteo público para la elección de
 las personas miembros de las mesas electorales de padres, madres o personas tutoras
@@ -765,7 +764,7 @@ mesas electorales.
 celebración de elecciones de los distintos sectores.
  Reestructuración de la Junta Electoral del centro y de las mesas electorales en el
 caso de que alguno de sus miembros sea candidato o candidata.
-Hasta el viernes 6 de 
+Hasta el viernes 6 de
 noviembre
  Presentación de solicitudes para actuar como supervisores de las votaciones de los
 padres, madres o personas tutoras legales del alumnado y en las votaciones del
@@ -777,8 +776,8 @@ acreditada por la Junta Electoral.
 alumnos  y  alumnas  supervisores  de  la  votación  para  la  elección  de  sus
 representantes en el Consejo Escolar del centro.
 VI. CELEBRACIÓN DE ELECCIONES
-Hasta el viernes 
-13 de 
+Hasta el viernes
+13 de
 noviembre
  La Junta Electoral comunicará, al presidente o presidenta de las mesas electorales de
 las  personas  representantes  de  padres,  madres  o  personas  tutoras  legales  del
@@ -800,8 +799,8 @@ profesorado en urna separada.
 de representantes de padres, madres o personas tutoras legales del alumnado, del
 propio alumnado  y  del personal de administración y servicios,  para el Consejo
 Escolar del centro.
-Hasta el viernes 
-13 de 
+Hasta el viernes
+13 de
 noviembre
  Convocatoria de claustro de carácter extraordinario para realizar la elección de las
 personas representantes del profesorado en el Consejo Escolar.
@@ -811,7 +810,7 @@ Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
 celebración de elecciones de los distintos sectores.
  Reestructuración de la Junta Electoral del centro y de las mesas electorales en el
 caso de que alguno de sus miembros sea candidato o candidata.
-Hasta el viernes 6 de 
+Hasta el viernes 6 de
 noviembre
  Presentación de solicitudes para actuar como supervisores de las votaciones de los
 padres, madres o personas tutoras legales del alumnado y en las votaciones del
@@ -824,8 +823,8 @@ acreditada por la Junta Electoral.
 alumnos  y  alumnas  supervisores  de  la  votación  para  la  elección  de  sus
 representantes en el Consejo Escolar del centro.
 VI. CELEBRACIÓN DE ELECCIONES
-Hasta el viernes 
-13 de 
+Hasta el viernes
+13 de
 noviembre
  La Junta Electoral comunicará, al presidente o presidenta de las mesas electorales de
 las  personas  representantes  de  padres,  madres  o  personas  tutoras  legales  del
@@ -847,15 +846,15 @@ profesorado en urna separada.
 de representantes de padres, madres o personas tutoras legales del alumnado, del
 propio alumnado  y  del personal de administración y servicios,  para el Consejo
 Escolar del centro.
-Hasta el viernes 
-13 de 
+Hasta el viernes
+13 de
 noviembre
  Convocatoria de claustro de carácter extraordinario para realizar la elección de las
 personas representantes del profesorado en el Consejo Escolar.
 Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
- Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elección de representantes del profesorado. 
-En los centros concertados serán personas electoras y elegibles todo el profesorado  
-del centro que imparta su docencia en aquellas etapas educativas concertadas total o  
+ Sesión extraordinaria del claustro para la constitución de la mesa electoral y la  elección de representantes del profesorado.
+En los centros concertados serán personas electoras y elegibles todo el profesorado
+del centro que imparta su docencia en aquellas etapas educativas concertadas total o
 parcialmente.
  Acta del claustro de carácter extraordinario para realizar la elección de las personas
 representantes del profesorado en el Consejo Escolar.
@@ -865,28 +864,28 @@ el Consejo Escolar.
 *En el supuesto de que el número de electores y electoras sea inferior a cinco (en el
 caso de los CEIP , inferior a tres)
 Hasta el lunes
-16 de 
+16 de
 noviembre
  Publicación de las actas en el tablón de anuncios y web del centro, con el nombre y
 número de votos obtenidos por cada persona candidata.
  Recepción  de  escrito  con  los  nombres  de  las  personas  designadas  por  el
 Ayuntamiento  o  Cabildo  o  por  las  organizaciones,  instituciones  o  asociaciones
 profesionales y empresariales.
-Desde el lunes 16 de 
-noviembre hasta el 
+Desde el lunes 16 de
+noviembre hasta el
 martes 24 de noviembre (ambos inclusive)
  Tras cada una de las votaciones, la dirección del centro cargará los resultados en la
 aplicación informática creada al efecto.
 *Dicha aplicación estará cerrada fuera de este período.
-Miércoles y jueves 
-18 y 19 de 
+Miércoles y jueves
+18 y 19 de
 noviembre
  Reclamaciones al proceso electoral, dirigidas a la Junta Electoral del centro.
-Viernes 20 de 
+Viernes 20 de
 noviembre
  Resolución a las reclamaciones sobre el proceso electoral presentadas y publicación
 en el tablón de anuncios y en la web* del centro, en su caso.
-Hasta el martes 24 
+Hasta el martes 24
 de noviembre
  Proclamación por la Junta Electoral del centro de las personas candidatas electas y
 publicación en el tablón de anuncios y en la web del centro, en su caso.
@@ -894,7 +893,7 @@ publicación en el tablón de anuncios y en la web del centro, en su caso.
  Comienzo  del  plazo  de  un  mes  para  presentar  ante  la  Dirección  Territorial  de
 Educación correspondiente recurso contra las resoluciones de la Junta Electoral del
 centro.
-Hasta el martes 24 
+Hasta el martes 24
 de noviembre
  Una vez finalizado el procedimiento y resueltas las reclamaciones, la dirección del
 centro  cargará  los  resultados  en  la  aplicación  informática  creada  al  efecto
@@ -904,9 +903,9 @@ mismo aplicativo, para su custodia con el resto del expediente del correspondien
 procedimiento y publicación en el tablón de anuncios del centro.
  Cumplimentación del documento Listas de Reserva , que se publicará en el tablón
 
-ción de representantes del profesorado. 
-En los centros concertados serán personas electoras y elegibles todo el profesorado  
-del centro que imparta su docencia en aquellas etapas educativas concertadas total o  
+ción de representantes del profesorado.
+En los centros concertados serán personas electoras y elegibles todo el profesorado
+del centro que imparta su docencia en aquellas etapas educativas concertadas total o
 parcialmente.
  Acta del claustro de carácter extraordinario para realizar la elección de las personas
 representantes del profesorado en el Consejo Escolar.
@@ -916,28 +915,28 @@ el Consejo Escolar.
 *En el supuesto de que el número de electores y electoras sea inferior a cinco (en el
 caso de los CEIP , inferior a tres)
 Hasta el lunes
-16 de 
+16 de
 noviembre
  Publicación de las actas en el tablón de anuncios y web del centro, con el nombre y
 número de votos obtenidos por cada persona candidata.
  Recepción  de  escrito  con  los  nombres  de  las  personas  designadas  por  el
 Ayuntamiento  o  Cabildo  o  por  las  organizaciones,  instituciones  o  asociaciones
 profesionales y empresariales.
-Desde el lunes 16 de 
-noviembre hasta el 
+Desde el lunes 16 de
+noviembre hasta el
 martes 24 de noviembre (ambos inclusive)
  Tras cada una de las votaciones, la dirección del centro cargará los resultados en la
 aplicación informática creada al efecto.
 *Dicha aplicación estará cerrada fuera de este período.
-Miércoles y jueves 
-18 y 19 de 
+Miércoles y jueves
+18 y 19 de
 noviembre
  Reclamaciones al proceso electoral, dirigidas a la Junta Electoral del centro.
-Viernes 20 de 
+Viernes 20 de
 noviembre
  Resolución a las reclamaciones sobre el proceso electoral presentadas y publicación
 en el tablón de anuncios y en la web* del centro, en su caso.
-Hasta el martes 24 
+Hasta el martes 24
 de noviembre
  Proclamación por la Junta Electoral del centro de las personas candidatas electas y
 publicación en el tablón de anuncios y en la web del centro, en su caso.
@@ -945,7 +944,7 @@ publicación en el tablón de anuncios y en la web del centro, en su caso.
  Comienzo  del  plazo  de  un  mes  para  presentar  ante  la  Dirección  Territorial  de
 Educación correspondiente recurso contra las resoluciones de la Junta Electoral del
 centro.
-Hasta el martes 24 
+Hasta el martes 24
 de noviembre
  Una vez finalizado el procedimiento y resueltas las reclamaciones, la dirección del
 centro  cargará  los  resultados  en  la  aplicación  informática  creada  al  efecto
@@ -955,9 +954,9 @@ mismo aplicativo, para su custodia con el resto del expediente del correspondien
 procedimiento y publicación en el tablón de anuncios del centro.
  Cumplimentación del documento Listas de Reserva , que se publicará en el tablón
 de anuncios del centro, y se custodiará en el expediente.
-Plazo de diez días 
-desde la fecha de 
-proclamación de los 
+Plazo de diez días
+desde la fecha de
+proclamación de los
 miembros electos
  Sesión de constitución del Consejo Escolar.
 
@@ -992,4 +991,3 @@ miembros electos
 - [**LO8_1985 Ley Reguladora del Derecho a la Educacion (LODE)**](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md)
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

@@ -37,41 +37,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 21/2025, de 21 de mayo, por el que se establece la ordenación del Sistema de Formación Profesional en la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Inicio
-ELI
-Comunidad de Madrid
-Decreto
-2025
-Mayo
-21
-21
-Boletín Oficial de la Comunidad de Madrid - Núm 121
-Fecha del Boletín
-22-05-2025
-Sección 1.1.106.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20250522-1
-Páginas: 42
-Permalink ELI:
-https://www.bocm.es/eli/es-md/d/2025/05/21/21
-Ver texto consolidado
-PDF de la disposición  (516 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES
-1
 DECRETO 21/2025, de 21 de mayo, del Consejo de Gobierno, por el que se regula la ordenación y organización del Sistema de Formación Profesional de la Comunidad de Madrid.
 ÍNDICE
 CAPÍTULO I.  Disposiciones generales
@@ -1013,9 +978,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20250522-1
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

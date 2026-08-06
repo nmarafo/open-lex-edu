@@ -36,18 +36,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Orden 1712/2023, de 19 de mayo, de organización, funcionamiento y evaluación en Educación Secundaria Obligatoria en Madrid**
-
-VIERNES 26 DE MAYO DE 2023
-B.O.C.M. Núm. 124
-Pág. 11
-BOCM-20230526-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Vicepresidencia, Consejería de Educación y Universidades
-1
 RESOLUCIÓN de 19 de mayo de 2023, de la Dirección General de Recursos Hu-
 manos, por la que se publican las listas definitivas de admitidos y excluidos en
 los procedimientos selectivos de ingreso y accesos a los Cuerpos de Profesores

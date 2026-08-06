@@ -34,6 +34,7 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
 ## Preámbulo
 
 # Decreto 84/2024, de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.

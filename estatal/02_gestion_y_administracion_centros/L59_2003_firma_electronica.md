@@ -31,6 +31,7 @@ fundamentos_derecho:
   - '27'
 - norma_id: norm-es-1999-23750
 ---
+
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**
@@ -898,4 +899,3 @@ JOSÉ MARÍA AZNAR LÓPEZ
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
 - [**BOE-A-1999-23750**](./LO15_1999_proteccion_datos_caracter_personal.md)
-

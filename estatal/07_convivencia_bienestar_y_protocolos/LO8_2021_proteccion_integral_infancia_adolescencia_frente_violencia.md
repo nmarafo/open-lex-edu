@@ -98,16 +98,6 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
-# Ley Orgánica 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia (LOPIVI)
-
-**FELIPE VI**
-
-**REY DE ESPAÑA**
-
-A todos los que la presente vieren y entendieren.
-
-Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:
-
 ## PREÁMBULO
 
 **I**
@@ -2183,4 +2173,3 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

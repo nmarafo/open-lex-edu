@@ -84,385 +84,386 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2024-226-3747.pdf
 ---
+
 ## Preámbulo
 
 # Resolución de 30 de octubre de 2024, de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial, por la que se dictan instrucciones y orientaciones para la implantación y desarrollo de los grados de formación D y E, a partir del curso escolar 2024/2025, y se establece la distribución horaria y modular de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
 
 III. Otras Resoluciones
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-3747 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- 
-Resolución de 30 de octubre de 2024, por la que se dictan instrucciones y 
-orientaciones para la implantación y desarrollo de los grados de formación D y E, a 
-partir del curso escolar 2024/2025, y se establece la distribución horaria y modular 
+3747 Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.-
+Resolución de 30 de octubre de 2024, por la que se dictan instrucciones y
+orientaciones para la implantación y desarrollo de los grados de formación D y E, a
+partir del curso escolar 2024/2025, y se establece la distribución horaria y modular
 de los currículos, en el ámbito de la Comunidad Autónoma de Canarias.
-La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación 
-Profesional, concreta el compromiso asumido por España de modernización de nuestro país, 
-facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. 
-Pone en el centro de la acción política, respecto a la formación, a la persona y su necesidad 
+La [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación
+Profesional, concreta el compromiso asumido por España de modernización de nuestro país,
+facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza.
+Pone en el centro de la acción política, respecto a la formación, a la persona y su necesidad
 de cualificarse y mantenerse actualizada a lo largo de toda su vida.
-Se abre así todo un amplio abanico de posibilidades formativas que necesitan de la 
-articulación de una resolución transitoria que permita a los centros docentes de titularidad 
-pública y privada, sostenidos con fondos públicos o no, que impartan Ciclos Formativos 
-de Grado D en los niveles 1 (Ciclos Formativos de Grado Básico), 2 (Ciclos Formativos 
-de Grado Medio) y 3 (Ciclos Formativos de Grado Superior), y los Cursos de especialización de 
-nivel 2 (Especialista) y 3 (Máster) en el actual sistema canario de enseñanzas de formación 
-profesional específica, disponer de un instrumento para su implantación y desarrollo, hasta 
-que se publique un nuevo Decreto en la Comunidad Autónoma de Canarias que establezca 
-el nuevo marco de ordenación del Sistema de Formación Profesional en nuestro ámbito 
-educativo, teniendo como referente el [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
-desarrolla la ordenación del Sistema de Formación Profesional que regula el carácter dual 
+Se abre así todo un amplio abanico de posibilidades formativas que necesitan de la
+articulación de una resolución transitoria que permita a los centros docentes de titularidad
+pública y privada, sostenidos con fondos públicos o no, que impartan Ciclos Formativos
+de Grado D en los niveles 1 (Ciclos Formativos de Grado Básico), 2 (Ciclos Formativos
+de Grado Medio) y 3 (Ciclos Formativos de Grado Superior), y los Cursos de especialización de
+nivel 2 (Especialista) y 3 (Máster) en el actual sistema canario de enseñanzas de formación
+profesional específica, disponer de un instrumento para su implantación y desarrollo, hasta
+que se publique un nuevo Decreto en la Comunidad Autónoma de Canarias que establezca
+el nuevo marco de ordenación del Sistema de Formación Profesional en nuestro ámbito
+educativo, teniendo como referente el [Real Decreto 659/2023](RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
+desarrolla la ordenación del Sistema de Formación Profesional que regula el carácter dual
 a estas enseñanzas.
-Vista la necesidad de establecer instrucciones para canalizar la oferta de los nuevos 
-grados de formación en la Comunidad Autónoma de Canarias, en línea con lo establecido 
-en la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) y el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) que la desarrolla, y de acuerdo con 
+Vista la necesidad de establecer instrucciones para canalizar la oferta de los nuevos
+grados de formación en la Comunidad Autónoma de Canarias, en línea con lo establecido
+en la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md) y el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) que la desarrolla, y de acuerdo con
 los siguientes
 ANTECEDENTES DE HECHO
-Primero.- En el curso 2024/2025 se completa la implantación del primer curso de todos 
-los ciclos formativos de las ofertas de Grado D y, con carácter general, de las ofertas de 
-Grado E, de conformidad con lo dispuesto en el artículo 11 del Real Decreto 278/2023, de 
-11 de abril, por el que se establece el calendario de implantación del Sistema de Formación 
-Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e 
-integración de la Formación Profesional (en adelante 
-LOOIFP). El mismo Real Decreto 
-indica en el artículo 10 que “El 1 de enero de 2024 se completará la impartición de ofertas 
-de Grado C, sin perjuicio del mantenimiento de la oferta de Certificados de Profesionalidad 
+Primero.- En el curso 2024/2025 se completa la implantación del primer curso de todos
+los ciclos formativos de las ofertas de Grado D y, con carácter general, de las ofertas de
+Grado E, de conformidad con lo dispuesto en el artículo 11 del Real Decreto 278/2023, de
+11 de abril, por el que se establece el calendario de implantación del Sistema de Formación
+Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e
+integración de la Formación Profesional (en adelante
+LOOIFP). El mismo Real Decreto
+indica en el artículo 10 que “El 1 de enero de 2024 se completará la impartición de ofertas
+de Grado C, sin perjuicio del mantenimiento de la oferta de Certificados de Profesionalidad
 de acuerdo con lo previsto en la disposición transitoria quinta”.
-Segundo.- Asimismo, continuarán en vigor las enseñanzas existentes correspondientes 
-a los cursos de segundo de los ciclos formativos de grado básico, grado medio y superior, 
-manteniéndose vigentes los currículos y planes de estudios, hasta su extinción gradual 
+Segundo.- Asimismo, continuarán en vigor las enseñanzas existentes correspondientes
+a los cursos de segundo de los ciclos formativos de grado básico, grado medio y superior,
+manteniéndose vigentes los currículos y planes de estudios, hasta su extinción gradual
 conforme al calendario de implantación del nuevo Sistema de Formación Profesional.
 
-Tercero.- Con la implantación del Sistema de Formación Profesional establecido por 
-la LOOIFP, surge la necesidad de concretar determinados aspectos para la implantación y 
+Tercero.- Con la implantación del Sistema de Formación Profesional establecido por
+la LOOIFP, surge la necesidad de concretar determinados aspectos para la implantación y
 desarrollo de las ofertas de Grado D y E en la Comunidad Autónoma de Canarias.
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de 
-Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad 
-Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia 
-de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias 
-que conducen a la obtención de un título académico o profesional con validez en todo 
-el Estado (...)”. Además del establecimiento de los correspondientes planes de estudio, 
+Primero.- La [Ley Orgánica 1/2018](../01_marco_normativo_general_y_organico/LO1_2018_reforma_estatuto_autonomia_canarias.md), de 5 de noviembre, de reforma del Estatuto de
+Autonomía de Canarias, en su artículo 133.1, establece que “Corresponde a la Comunidad
+Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución, en materia
+de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no obligatorias
+que conducen a la obtención de un título académico o profesional con validez en todo
+el Estado (...)”. Además del establecimiento de los correspondientes planes de estudio,
 incluida la ordenación curricular de conformidad con el artículo 133.3.b).
-Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria, 
-en su artículo 33, referido a la Formación Profesional, indica en su apartado tercero 3 
-que “De acuerdo con la normativa básica del Estado, una vez aprobado el real decreto 
-correspondiente a un título de formación profesional y hasta que sea completado el currículo 
-correspondiente a la comunidad autónoma, aquel actuará como norma subsidiaria”, mientras 
-que en su apartado cuarto establece que “Además de los módulos asociados a competencias 
-profesionales, todos los ciclos formativos de formación profesional incluirán en su currículo 
-formación relativa a prevención de riesgos laborales y medioambientales, tecnologías de 
-la información y la comunicación, fomento de la cultura emprendedora, creación y gestión 
-de empresas y autoempleo y conocimiento del mercado de trabajo y de las relaciones 
+Segundo.- La [Ley 6/2014](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md), de 25 de julio, Canaria de Educación no Universitaria,
+en su artículo 33, referido a la Formación Profesional, indica en su apartado tercero 3
+que “De acuerdo con la normativa básica del Estado, una vez aprobado el real decreto
+correspondiente a un título de formación profesional y hasta que sea completado el currículo
+correspondiente a la comunidad autónoma, aquel actuará como norma subsidiaria”, mientras
+que en su apartado cuarto establece que “Además de los módulos asociados a competencias
+profesionales, todos los ciclos formativos de formación profesional incluirán en su currículo
+formación relativa a prevención de riesgos laborales y medioambientales, tecnologías de
+la información y la comunicación, fomento de la cultura emprendedora, creación y gestión
+de empresas y autoempleo y conocimiento del mercado de trabajo y de las relaciones
 laborales”.
-Tercero.- El artículo 39 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece 
-en su artículo 39.3 que la formación profesional en el sistema educativo comprende los 
-ciclos formativos de grado básico, de grado medio y de grado superior, así como los cursos 
-de especialización. Todos ellos tendrán una organización modular, de duración variable, que 
-integre los contenidos teórico-prácticos adecuados a los diversos campos profesionales. Por 
-otra parte en su artículo 40 señala esta ley que entre los objetivos de la Formación Profesional 
-se encuentran, entre otros, el fomentar la igualdad efectiva de oportunidades entre hombres y 
-mujeres, así como de las personas con discapacidad, con el fin de acceder a una formación que 
-permita todo tipo de opciones profesionales y el ejercicio de las mismas, y conocer y prevenir 
-los riesgos medioambientales. Finalmente en su artículo 42 señala que corresponde a las 
+Tercero.- El artículo 39 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece
+en su artículo 39.3 que la formación profesional en el sistema educativo comprende los
+ciclos formativos de grado básico, de grado medio y de grado superior, así como los cursos
+de especialización. Todos ellos tendrán una organización modular, de duración variable, que
+integre los contenidos teórico-prácticos adecuados a los diversos campos profesionales. Por
+otra parte en su artículo 40 señala esta ley que entre los objetivos de la Formación Profesional
+se encuentran, entre otros, el fomentar la igualdad efectiva de oportunidades entre hombres y
+mujeres, así como de las personas con discapacidad, con el fin de acceder a una formación que
+permita todo tipo de opciones profesionales y el ejercicio de las mismas, y conocer y prevenir
+los riesgos medioambientales. Finalmente en su artículo 42 señala que corresponde a las
 Administraciones educativas programar la oferta de las enseñanzas de formación profesional.
-Cuarto.- El Título III de la 
-LOOIFP aborda y regula desde la norma básica el carácter 
-dual de toda la formación profesional de nuestro país, respondiendo con ello al reto 
-de convertir toda la formación profesional en una formación de excelencia, fruto de la 
+Cuarto.- El Título III de la
+LOOIFP aborda y regula desde la norma básica el carácter
+dual de toda la formación profesional de nuestro país, respondiendo con ello al reto
+de convertir toda la formación profesional en una formación de excelencia, fruto de la
 corresponsabilidad y la colaboración de centros y empresas u organismos equiparados.
-Quinto.- De conformidad con lo dispuesto en el artículo 11 del Real Decreto 
-278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de 
+Quinto.- De conformidad con lo dispuesto en el artículo 11 del Real Decreto
+278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema
+de Formación Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de
 ordenación e integración de la Formación Profesional:
-“1. En el año académico 2023-2024, comenzará la implantación gradual de las ofertas 
-de Grado D, en los términos establecidos en el artículo 40 de la Ley Orgánica. A lo largo de 
-los dos años siguientes, y en el marco temporal del calendario establecido por el presente 
+“1. En el año académico 2023-2024, comenzará la implantación gradual de las ofertas
+de Grado D, en los términos establecidos en el artículo 40 de la Ley Orgánica. A lo largo de
+los dos años siguientes, y en el marco temporal del calendario establecido por el presente
 
-real decreto, se completará su implantación, y se extinguirán los currículos correspondientes 
+real decreto, se completará su implantación, y se extinguirán los currículos correspondientes
 de los actuales ciclos formativos”.
 En el mismo sentido, el artículo 12 del citado Real Decreto 278/2023 establece:
-“2. En el año académico 2024-2025 se implantarán, con carácter general, las ofertas de 
+“2. En el año académico 2024-2025 se implantarán, con carácter general, las ofertas de
 Grado E, en los términos establecidos en los artículos 51 y 52 de la Ley Orgánica”.
-Sexto.- De acuerdo con lo establecido en el artículo 7.2 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
+Sexto.- De acuerdo con lo establecido en el artículo 7.2 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional:
-“Las administraciones educativas establecerán los currículos correspondientes a los 
-Grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la 
-[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley 
-Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, 
-esta disposición y el resto de desarrollos normativos del Sistema de Formación Profesional. 
+“Las administraciones educativas establecerán los currículos correspondientes a los
+Grados D y E, respetando las atribuciones competenciales establecidas en el artículo 6 de la
+[Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, y de acuerdo con lo prescrito por la Ley
+Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional,
+esta disposición y el resto de desarrollos normativos del Sistema de Formación Profesional.
 (...)”.
-Séptimo.- Los Reales Decretos 497/2024, de 21 de mayo, 498/2024, de 21 de mayo, 
-499/2024, de 21 de mayo, y 500/2024, de 21 de mayo, establecen los cambios de ordenación 
-necesarios de los cursos de especialización de grado medio y superior, así como de los 
-títulos de Formación Profesional de grado básico, medio y superior, para permitir su oferta 
-en el marco de la nueva estructura establecida por el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, 
+Séptimo.- Los Reales Decretos 497/2024, de 21 de mayo, 498/2024, de 21 de mayo,
+499/2024, de 21 de mayo, y 500/2024, de 21 de mayo, establecen los cambios de ordenación
+necesarios de los cursos de especialización de grado medio y superior, así como de los
+títulos de Formación Profesional de grado básico, medio y superior, para permitir su oferta
+en el marco de la nueva estructura establecida por el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio,
 por el que se desarrolla la ordenación del Sistema de Formación Profesional.
-Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del [Decreto 
-84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de 
+Por todo lo expuesto, de conformidad con lo establecido en el artículo 20 del [Decreto
+84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 10 de junio, por el que se aprueba el Reglamento Orgánico de la Consejería de
 Educación, Formación Profesional, Actividad Física y Deportes,
 RESUELVO :
-Primero.- Dictar las instrucciones específicas para la implantación y desarrollo de los 
-grados de formación D (Anexo I y II) y E (Anexo III) a partir del curso 2024/2025, así 
-como orientaciones referidas a la metodología y la adaptación del currículo al entorno 
-socio-productivo de Canarias (Anexo IV) y el establecimiento de la distribución horaria y 
-modular de los currículos de los Ciclos Formativos de Grado Básico (Anexo V), de Grado 
-Medio y Superior (Anexo VI), y Cursos de Especialización (Anexo VII), en el ámbito de 
+Primero.- Dictar las instrucciones específicas para la implantación y desarrollo de los
+grados de formación D (Anexo I y II) y E (Anexo III) a partir del curso 2024/2025, así
+como orientaciones referidas a la metodología y la adaptación del currículo al entorno
+socio-productivo de Canarias (Anexo IV) y el establecimiento de la distribución horaria y
+modular de los currículos de los Ciclos Formativos de Grado Básico (Anexo V), de Grado
+Medio y Superior (Anexo VI), y Cursos de Especialización (Anexo VII), en el ámbito de
 gestión de la Comunidad Autónoma de Canarias.
-Segundo.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos 
-aspectos específicos que le soliciten los equipos directivos de los centros docentes y la 
+Segundo.- Encomendar a la Inspección de Educación el asesoramiento sobre aquellos
+aspectos específicos que le soliciten los equipos directivos de los centros docentes y la
 supervisión del cumplimiento de esta Resolución.
-Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como en la 
-página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
-Deportes para general conocimiento. Se encomienda a los equipos directivos de los centros 
-docentes que desarrollen el procedimiento más adecuado para que la presente Resolución 
+Tercero.- Ordenar su publicación en el Boletín Oficial de Canarias, así como en la
+página web de la Consejería de Educación, Formación Profesional, Actividad Física y
+Deportes para general conocimiento. Se encomienda a los equipos directivos de los centros
+docentes que desarrollen el procedimiento más adecuado para que la presente Resolución
 sea conocida y difundida entre los distintos sectores de la comunidad educativa.
 
-Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer recurso 
-de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales, 
-en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en la web 
-de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, sin 
+Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer recurso
+de alzada ante la Viceconsejería de Formación Profesional y Cualificaciones Profesionales,
+en el plazo de un (1) mes, a contar desde el día siguiente al de su publicación en la web
+de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, sin
 perjuicio de cualquier otro que se estime procedente interponer.
-Las Palmas de Gran Canaria, a 30 de octubre de 2024.- La Directora General de 
+Las Palmas de Gran Canaria, a 30 de octubre de 2024.- La Directora General de
 Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martínez.
 
 ANEXO I
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
-DE FORMACIÓN D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3 
-(CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR 
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS
+DE FORMACIÓN D, NIVELES 2 (CICLOS FORMATIVOS DE GRADO MEDIO), Y 3
+(CICLOS FORMATIVOS DE GRADO SUPERIOR), A PARTIR DEL CURSO ESCOLAR
 2024/2025.
 Primera.- Objeto y ámbito de aplicación.
-1. Las presentes instrucciones tienen por objeto la implantación y desarrollo de los 
-grados de formación D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos 
-de grado superior), a partir del curso escolar 2024-2025, y establecer la distribución horaria 
+1. Las presentes instrucciones tienen por objeto la implantación y desarrollo de los
+grados de formación D, niveles 2 (ciclos formativos de grado medio) y 3 (ciclos formativos
+de grado superior), a partir del curso escolar 2024-2025, y establecer la distribución horaria
 y modular de los currículos.
-2. Serán de aplicación en todos los centros educativos del sistema de formación profesional 
+2. Serán de aplicación en todos los centros educativos del sistema de formación profesional
 de la Comunidad Autónoma de Canarias.
-3. La horas de dedicación docente que puedan emanar de estas instrucciones, atenderán 
-a lo que se establezca en las resoluciones que con carácter anual dicten instrucciones de 
-organización y funcionamiento para los centros docentes públicos no universitarios de la 
-Comunidad Autónoma de Canarias, en el área de gestión de la Consejería de Educación, 
+3. La horas de dedicación docente que puedan emanar de estas instrucciones, atenderán
+a lo que se establezca en las resoluciones que con carácter anual dicten instrucciones de
+organización y funcionamiento para los centros docentes públicos no universitarios de la
+Comunidad Autónoma de Canarias, en el área de gestión de la Consejería de Educación,
 Formación Profesional, Actividad Física y Deportes.
 Segunda.- Currículos.
-1. La identificación, perfil profesional, competencia general, competencias profesionales 
-y para la empleabilidad, cualificaciones profesionales, estándares de competencia de 
-referencia, objetivos generales, módulos profesionales, resultados de aprendizaje y criterios 
+1. La identificación, perfil profesional, competencia general, competencias profesionales
+y para la empleabilidad, cualificaciones profesionales, estándares de competencia de
+referencia, objetivos generales, módulos profesionales, resultados de aprendizaje y criterios
 de evaluación de cada título son los expresados en cada uno de los Reales Decretos vigentes.
-2. La actualización de la relación de los módulos profesionales que forman parte del 
-plan de estudios de cada ciclo formativo viene recogida en el [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 
-21 de mayo, por el que se modifican determinados reales decretos por los que se establecen 
-títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas, y 
-el [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales 
-decretos por los que se establecen títulos de Formación Profesional de grado superior y se 
+2. La actualización de la relación de los módulos profesionales que forman parte del
+plan de estudios de cada ciclo formativo viene recogida en el [Real Decreto 499/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD499_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de
+21 de mayo, por el que se modifican determinados reales decretos por los que se establecen
+títulos de Formación Profesional de grado medio y se fijan sus enseñanzas mínimas, y
+el [Real Decreto 500/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD500_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados reales
+decretos por los que se establecen títulos de Formación Profesional de grado superior y se
 fijan sus enseñanzas mínimas.
-3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo 
+3. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo
 de Canarias y la metodología se recogen en el Anexo IV de esta Resolución.
-4. La distribución horaria y modular de los currículos en el ámbito de la Comunidad 
+4. La distribución horaria y modular de los currículos en el ámbito de la Comunidad
 Autónoma de Canarias se establece en el Anexo VI de esta Resolución.
 Tercera.- Módulos de Itinerario personal para la empleabilidad I y II.
-1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
-los módulos de Itinerario personal para la empleabilidad I y II, cuyo currículo básico figura 
+1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios
+los módulos de Itinerario personal para la empleabilidad I y II, cuyo currículo básico figura
 como Anexos V del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
-2. El profesorado que imparta dichos módulos deberá adaptar el currículo al sector 
+2. El profesorado que imparta dichos módulos deberá adaptar el currículo al sector
 productivo en el que se incardine cada ciclo formativo.
 
-3. En cumplimiento de lo establecido en el artículo 158 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
-18 de julio, antes de iniciar el periodo de formación en empresa, el alumnado deberá haber 
-adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de 
-prevención en las actividades profesionales correspondientes al perfil profesional de cada 
-ciclo formativo. El profesorado garantizará que las actividades de enseñanza y aprendizaje 
-encaminadas a la consecución del resultado de aprendizaje 2 se realizarán antes del 
-inicio del periodo de formación en la empresa u organismo equiparado, por lo que resulta 
-obligatoria su ubicación temporal en el primer trimestre del primer curso. Para ello, el 
-profesorado de Itinerario personal para la empleabilidad I, en colaboración con el resto del 
-equipo docente en sus respectivos módulos profesionales, deberá programar las actividades 
-de enseñanza y aprendizaje, así como los sistemas de evaluación que garanticen dichas 
+3. En cumplimiento de lo establecido en el artículo 158 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
+18 de julio, antes de iniciar el periodo de formación en empresa, el alumnado deberá haber
+adquirido las competencias y los contenidos relativos a riesgos específicos y las medidas de
+prevención en las actividades profesionales correspondientes al perfil profesional de cada
+ciclo formativo. El profesorado garantizará que las actividades de enseñanza y aprendizaje
+encaminadas a la consecución del resultado de aprendizaje 2 se realizarán antes del
+inicio del periodo de formación en la empresa u organismo equiparado, por lo que resulta
+obligatoria su ubicación temporal en el primer trimestre del primer curso. Para ello, el
+profesorado de Itinerario personal para la empleabilidad I, en colaboración con el resto del
+equipo docente en sus respectivos módulos profesionales, deberá programar las actividades
+de enseñanza y aprendizaje, así como los sistemas de evaluación que garanticen dichas
 competencias.
-4. La impartición de los módulos profesionales de itinerario personal para la empleabilidad 
+4. La impartición de los módulos profesionales de itinerario personal para la empleabilidad
 I y II se atribuye al profesorado de la especialidad de Formación y Orientación Laboral.
 Cuarta.- Módulo de Digitalización aplicada a los sectores productivos.
-1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de 
-estudios el módulo profesional de Digitalización aplicada a los sectores productivos, cuyos 
+1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de
+estudios el módulo profesional de Digitalización aplicada a los sectores productivos, cuyos
 currículos básicos figuran como Anexos VI y VII del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
-2. El profesorado que imparta dichos módulos deberá adaptar los currículos al sector 
+2. El profesorado que imparta dichos módulos deberá adaptar los currículos al sector
 productivo en el que se incardine cada ciclo formativo.
-3. La impartición del módulo profesional de Digitalización aplicada a los sectores 
-productivos se atribuye al profesorado de las especialidades que imparten módulos 
-específicos del ciclo formativo, según se establece en el Anexo III de los reales decretos 
+3. La impartición del módulo profesional de Digitalización aplicada a los sectores
+productivos se atribuye al profesorado de las especialidades que imparten módulos
+específicos del ciclo formativo, según se establece en el Anexo III de los reales decretos
 de los títulos correspondientes.
 Quinta.- Módulo de Inglés profesional.
-1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
-el módulo de Inglés profesional, cuyos currículos básicos figuran como Anexos IX y X del 
+1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios
+el módulo de Inglés profesional, cuyos currículos básicos figuran como Anexos IX y X del
 [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
-2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
-productivo en el que se incardine cada ciclo formativo, especialmente en lo concerniente al 
-vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello 
+2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector
+productivo en el que se incardine cada ciclo formativo, especialmente en lo concerniente al
+vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello
 su dualización.
-3. Se establecerán medidas de flexibilización y alternativas metodológicas en el 
-aprendizaje y evaluación del módulo de “Inglés profesional” para las personas que presenten 
-necesidades específicas vinculadas a la comunicación. Las adaptaciones realizadas no serán 
+3. Se establecerán medidas de flexibilización y alternativas metodológicas en el
+aprendizaje y evaluación del módulo de “Inglés profesional” para las personas que presenten
+necesidades específicas vinculadas a la comunicación. Las adaptaciones realizadas no serán
 tenidas en cuenta en la calificación final del módulo.
-4. La impartición del módulo de Inglés profesional en los ciclos de grado medio y 
+4. La impartición del módulo de Inglés profesional en los ciclos de grado medio y
 superior se atribuye al profesorado de la especialidad de Inglés.
 
-5. El alumnado que haya superado el módulo profesional Inglés (código 0156) de 
-un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, se 
-considerará que tiene superado el módulo de Inglés profesional (código 0156), trasladándose 
+5. El alumnado que haya superado el módulo profesional Inglés (código 0156) de
+un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, se
+considerará que tiene superado el módulo de Inglés profesional (código 0156), trasladándose
 la calificación obtenida.
-6. El alumnado que haya superado el módulo profesional Inglés (código 0179) de 
-un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, 
-se considerará que tiene superado el módulo de Inglés profesional (código 0179), trasladándose 
+6. El alumnado que haya superado el módulo profesional Inglés (código 0179) de
+un ciclo formativo derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación,
+se considerará que tiene superado el módulo de Inglés profesional (código 0179), trasladándose
 la calificación obtenida.
-7. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés), 
-cuyo desarrollo curricular en Canarias fue establecido para un ciclo formativo de Grado 
-Superior derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo IV 
-de la Resolución de 4 de agosto de 2021, de la Dirección General de Formación Profesional 
-y Educación de Adultos, por la que se dictan instrucciones para el desarrollo de los 
-ciclos formativos de Formación Profesional de grado medio y superior y se establece la 
-distribución horaria y modular de los currículos en el ámbito de la Comunidad Autónoma 
-de Canarias, se considerará que tiene superado el módulo de Inglés profesional (código 
+7. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés),
+cuyo desarrollo curricular en Canarias fue establecido para un ciclo formativo de Grado
+Superior derivado de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo IV
+de la Resolución de 4 de agosto de 2021, de la Dirección General de Formación Profesional
+y Educación de Adultos, por la que se dictan instrucciones para el desarrollo de los
+ciclos formativos de Formación Profesional de grado medio y superior y se establece la
+distribución horaria y modular de los currículos en el ámbito de la Comunidad Autónoma
+de Canarias, se considerará que tiene superado el módulo de Inglés profesional (código
 0179), trasladándose la calificación obtenida.
-8. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés), 
-cuyo desarrollo curricular fue establecido para un ciclo formativo de Grado Medio derivado 
-de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo III de la Resolución 
-de 4 de agosto de 2021 citada, se considerará que tiene superado el módulo de Inglés 
+8. El alumnado que haya superado el módulo profesional Lengua extranjera (Inglés),
+cuyo desarrollo curricular fue establecido para un ciclo formativo de Grado Medio derivado
+de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en el Anexo III de la Resolución
+de 4 de agosto de 2021 citada, se considerará que tiene superado el módulo de Inglés
 profesional (código 0156), trasladándose la calificación obtenida.
-9. La convalidación del módulo Inglés profesional en los ciclos formativos de Grados 
+9. La convalidación del módulo Inglés profesional en los ciclos formativos de Grados
 de Formación D (niveles 2 y 3) atenderá a las siguientes consideraciones:
 - Módulo Inglés profesional (código 0156):
-a) Una vez superado este módulo en cualquier Ciclo Formativo de Grado Medio (nivel 2), 
-el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Medio. Se 
-considerará el módulo como superado, trasladándose la calificación obtenida al nuevo 
+a) Una vez superado este módulo en cualquier Ciclo Formativo de Grado Medio (nivel 2),
+el módulo no será objeto de convalidación en otro Ciclo Formativo de Grado Medio. Se
+considerará el módulo como superado, trasladándose la calificación obtenida al nuevo
 Ciclo de nivel 2.
-b) En cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo será objeto de 
+b) En cualquier Ciclo Formativo de Grado Medio (nivel 2), el módulo será objeto de
 convalidación cuando se tenga superado el módulo profesional Inglés profesional (0179).
-c) El módulo se convalida cuando se aporte certificados de nivel B1 o superior que 
-para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que 
-se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de 
-septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia 
-lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la 
+c) El módulo se convalida cuando se aporte certificados de nivel B1 o superior que
+para el idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que
+se actualizan los títulos y certificados establecidos en el Anexo I de la Orden de 21 de
+septiembre de 2016, que regula el reconocimiento de la acreditación de la competencia
+lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la
 Comunidad Autónoma de Canarias.
-d) El módulo será convalidado cuando se aporte título de Grado o equivalente en 
+d) El módulo será convalidado cuando se aporte título de Grado o equivalente en
 Filología Inglesa o en Traducción e Interpretación (Inglés).
-e) El módulo será objeto de convalidación cuando se aporte módulos 
-LOGSE de Lengua 
-Extranjera, de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de 
-diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos 
+e) El módulo será objeto de convalidación cuando se aporte módulos
+LOGSE de Lengua
+Extranjera, de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_establecen_convalidaciones_modulos_profesionales_titulos_formacion.md), de 9 de
+diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos
 
-de Formación Profesional del sistema educativo español y las medidas para su aplicación, y 
-se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
-general de la formación profesional del sistema educativo, siempre que la lengua extranjera 
+de Formación Profesional del sistema educativo español y las medidas para su aplicación, y
+se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación
+general de la formación profesional del sistema educativo, siempre que la lengua extranjera
 cursada y superada sea Inglés.
 - Módulo Inglés profesional (código 0179):
-a) Una vez superado en cualquier Ciclo Formativo de Grado Superior (nivel 3), el módulo 
-no será objeto de convalidación en otro Ciclo Formativo de Grado Superior. Se considera 
-el módulo como superado, trasladando la calificación obtenida en dicho módulo al nuevo 
+a) Una vez superado en cualquier Ciclo Formativo de Grado Superior (nivel 3), el módulo
+no será objeto de convalidación en otro Ciclo Formativo de Grado Superior. Se considera
+el módulo como superado, trasladando la calificación obtenida en dicho módulo al nuevo
 Ciclo de nivel 3.
-b) El módulo se convalida cuando se aporte certificados de nivel B2 o superior que para el 
-idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan 
-los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), 
-que regula el reconocimiento de la acreditación de la competencia lingüística conforme al 
-Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de 
+b) El módulo se convalida cuando se aporte certificados de nivel B2 o superior que para el
+idioma Inglés ha establecido la Orden de 25 de noviembre de 2022, por la que se actualizan
+los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](O26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md),
+que regula el reconocimiento de la acreditación de la competencia lingüística conforme al
+Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de
 Canarias.
-c) El módulo será convalidado cuando se aporte título de Grado o equivalente en 
+c) El módulo será convalidado cuando se aporte título de Grado o equivalente en
 Filología Inglesa o en Traducción e Interpretación (Inglés).
-d) El módulo será objeto de convalidación cuando se aporten módulos 
-LOGSE de Lengua 
-Extranjera de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de 
-diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos 
-de Formación Profesional del sistema educativo español y las medidas para su aplicación, y 
-se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación 
-general de la formación profesional del sistema educativo, siempre que la lengua extranjera 
+d) El módulo será objeto de convalidación cuando se aporten módulos
+LOGSE de Lengua
+Extranjera de acuerdo con lo dispuesto en el Anexo II del [Real Decreto 1085/2020](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD1085_2020_correccion_errores_real_decreto_establecen_convalidaciones.md), de 9 de
+diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos
+de Formación Profesional del sistema educativo español y las medidas para su aplicación, y
+se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación
+general de la formación profesional del sistema educativo, siempre que la lengua extranjera
 cursada y superada sea Inglés.
 Sexta.- Módulo de Sostenibilidad aplicada al sistema productivo.
-1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios 
-el módulo profesional de Sostenibilidad aplicada al sistema productivo, cuyo currículo de carácter 
-básico y común para los ciclos formativos de grado medio y superior, figura como Anexo VIII 
+1. Todos los ciclos formativos de grado medio y superior incluyen en su plan de estudios
+el módulo profesional de Sostenibilidad aplicada al sistema productivo, cuyo currículo de carácter
+básico y común para los ciclos formativos de grado medio y superior, figura como Anexo VIII
 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
-2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
+2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector
 productivo en el que se incardine cada ciclo formativo.
-3. La impartición del módulo profesional de Sostenibilidad aplicada al sistema 
-productivo se atribuye al profesorado de las especialidades que imparten módulos 
-específicos del ciclo formativo, según se establece en el Anexo III de los reales decretos 
+3. La impartición del módulo profesional de Sostenibilidad aplicada al sistema
+productivo se atribuye al profesorado de las especialidades que imparten módulos
+específicos del ciclo formativo, según se establece en el Anexo III de los reales decretos
 de los títulos correspondientes.
 Séptima.- Proyecto intermodular.
-1. En los ciclos de grado medio se sustituye el módulo de Integración por el módulo 
-denominado Proyecto intermodular, cuyo currículo básico figura como Anexo II del Real 
-Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos 
-por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus 
+1. En los ciclos de grado medio se sustituye el módulo de Integración por el módulo
+denominado Proyecto intermodular, cuyo currículo básico figura como Anexo II del Real
+Decreto 499/2024, de 21 de mayo, por el que se modifican determinados reales decretos
+por los que se establecen títulos de Formación Profesional de grado medio y se fijan sus
 enseñanzas mínimas.
 
-2. En los ciclos de grado superior se sustituye el módulo de Proyecto, que pasa a 
-denominarse Proyecto intermodular, manteniendo el resto de la denominación, número 
-de código específico y currículo que tuviera en cada uno de los reales decretos afectados. 
-El currículo del módulo de Proyecto intermodular para los ciclos de grados superior, es el 
-contenido en los respectivos reales decretos de cada título, coincidente con el módulo de 
+2. En los ciclos de grado superior se sustituye el módulo de Proyecto, que pasa a
+denominarse Proyecto intermodular, manteniendo el resto de la denominación, número
+de código específico y currículo que tuviera en cada uno de los reales decretos afectados.
+El currículo del módulo de Proyecto intermodular para los ciclos de grados superior, es el
+contenido en los respectivos reales decretos de cada título, coincidente con el módulo de
 “Proyecto”.
-3. El Proyecto intermodular en los ciclos de grado medio y superior tendrá carácter 
-integrador de los resultados de aprendizaje de los módulos profesionales que configuran 
-el ciclo formativo, con especial atención a los elementos de búsqueda de información, 
-innovación, investigación aplicada y emprendimiento vinculados a los resultados de 
+3. El Proyecto intermodular en los ciclos de grado medio y superior tendrá carácter
+integrador de los resultados de aprendizaje de los módulos profesionales que configuran
+el ciclo formativo, con especial atención a los elementos de búsqueda de información,
+innovación, investigación aplicada y emprendimiento vinculados a los resultados de
 aprendizaje correspondientes.
-4. Tendrá carácter grupal, salvo excepciones justificadas, desarrollándose de forma 
-simultánea al resto de los módulos profesionales de segundo curso. Con independencia del 
-carácter grupal del proyecto, la evaluación y calificación será individual y deberá presentarse 
+4. Tendrá carácter grupal, salvo excepciones justificadas, desarrollándose de forma
+simultánea al resto de los módulos profesionales de segundo curso. Con independencia del
+carácter grupal del proyecto, la evaluación y calificación será individual y deberá presentarse
 de manera oral ante el equipo docente, al que podrá incorporarse el tutor o tutora de empresa.
-5. El equipo docente establecerá, al comienzo de cada curso académico, uno o varios 
-retos para el Proyecto intermodular, relacionado con la especialidad del ciclo y versará 
-sobre una situación real que pueda darse en el sector productivo de referencia. Este proyecto 
+5. El equipo docente establecerá, al comienzo de cada curso académico, uno o varios
+retos para el Proyecto intermodular, relacionado con la especialidad del ciclo y versará
+sobre una situación real que pueda darse en el sector productivo de referencia. Este proyecto
 activará resultados de aprendizaje del conjunto de módulos profesionales.
-6. La impartición del módulo profesional de “Proyecto intermodular” en los ciclos 
-de grado medio y superior se atribuye al profesorado de las especialidades que imparten 
-módulos específicos del ciclo formativo, según se establece en el Anexo III de los reales 
+6. La impartición del módulo profesional de “Proyecto intermodular” en los ciclos
+de grado medio y superior se atribuye al profesorado de las especialidades que imparten
+módulos específicos del ciclo formativo, según se establece en el Anexo III de los reales
 decretos de los títulos correspondientes.
 Octava.- Módulo 0180. Segunda lengua extranjera en ciclos de grado superior.
-1. Los ciclos de determinadas familias profesionales incluyen en su plan de estudios el 
-módulo de Segunda lengua extranjera (código 0180), cuyos currículos figuran en cada uno 
+1. Los ciclos de determinadas familias profesionales incluyen en su plan de estudios el
+módulo de Segunda lengua extranjera (código 0180), cuyos currículos figuran en cada uno
 de los reales decretos que definen los títulos.
-2. En los ciclos formativos que se relacionan a continuación, el módulo profesional 
-Segunda lengua extranjera (Código 0180) seguirá impartiéndose en dos cursos lectivos, 
-figurando en el primer curso el módulo con código 0180a, y en el segundo curso el módulo 
+2. En los ciclos formativos que se relacionan a continuación, el módulo profesional
+Segunda lengua extranjera (Código 0180) seguirá impartiéndose en dos cursos lectivos,
+figurando en el primer curso el módulo con código 0180a, y en el segundo curso el módulo
 con código 0180b:
 • CFGS Agencias de Viajes y Gestión de Eventos.
 • CFGS Gestión de Alojamientos Turísticos.
 • CFGS Guía, Información y Asistencia Turísticas.
-En estos casos se considerará superado el módulo con código 0180, Segunda lengua 
+En estos casos se considerará superado el módulo con código 0180, Segunda lengua
 extranjera, cuando estén superados conjuntamente el módulo 0180a y 0180b.
 
-3. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
-productivo en el que se incardina el ciclo formativo, especialmente en lo concerniente al 
-vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello 
+3. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector
+productivo en el que se incardina el ciclo formativo, especialmente en lo concerniente al
+vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello
 su dualización.
-4. Se establecerán medidas de flexibilización y alternativas metodológicas en el 
-aprendizaje y evaluación del módulo de Segunda lengua extranjera para las personas 
-que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones 
+4. Se establecerán medidas de flexibilización y alternativas metodológicas en el
+aprendizaje y evaluación del módulo de Segunda lengua extranjera para las personas
+que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones
 realizadas no serán tenidas en cuenta en la calificación final del módulo.
-5. La impartición del módulo Segunda lengua extranjera (código 0180) en los ciclos 
+5. La impartición del módulo Segunda lengua extranjera (código 0180) en los ciclos
 de grado superior se atribuye al profesorado de la especialidad de Alemán o Francés.
-Novena.- Módulo de Segunda lengua extranjera en el Ciclo Formativo de Grado 
+Novena.- Módulo de Segunda lengua extranjera en el Ciclo Formativo de Grado
 Medio de Servicios en Restauración.
-1. El ciclo formativo de grado medio de Servicios en Restauración incluye en su plan de 
-estudios el módulo de Segunda lengua extranjera, cuyo currículo se desarrollará mediante 
-resolución que a tal fin dicte la Dirección General de Formación Profesional y Enseñanzas 
-de Régimen especial (en adelante 
+1. El ciclo formativo de grado medio de Servicios en Restauración incluye en su plan de
+estudios el módulo de Segunda lengua extranjera, cuyo currículo se desarrollará mediante
+resolución que a tal fin dicte la Dirección General de Formación Profesional y Enseñanzas
+de Régimen especial (en adelante
 DGFPERE).
-2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector 
-productivo en el que se incardina el ciclo formativo, especialmente en lo concerniente al 
-vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello 
+2. El profesorado que imparta dicho módulo deberá adaptar el currículo al sector
+productivo en el que se incardina el ciclo formativo, especialmente en lo concerniente al
+vocabulario técnico y los intercambios comunicativos más frecuentes, facilitando con ello
 su dualización.
-3. Se establecerán medidas de flexibilización y alternativas metodológicas en el 
-aprendizaje y evaluación del módulo de Segunda lengua extranjera para las personas 
-que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones 
+3. Se establecerán medidas de flexibilización y alternativas metodológicas en el
+aprendizaje y evaluación del módulo de Segunda lengua extranjera para las personas
+que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones
 realizadas no serán tenidas en cuenta en la calificación final del módulo.
-4. La impartición del módulo de Segunda lengua extranjera en los ciclos de grado medio 
-de Servicios en Restauración se atribuye al profesorado de la especialidad de Alemán o 
+4. La impartición del módulo de Segunda lengua extranjera en los ciclos de grado medio
+de Servicios en Restauración se atribuye al profesorado de la especialidad de Alemán o
 Francés.
 Décima.- Módulo optativo.
-1. Todos los ciclos formativos de grado medio y superior incluirán en su plan de 
-estudios un módulo optativo de duración anual, ubicado en 2.º curso, con un cómputo horario 
-de 96 horas, que profundice en el desarrollo de las competencias transversales o aporte 
+1. Todos los ciclos formativos de grado medio y superior incluirán en su plan de
+estudios un módulo optativo de duración anual, ubicado en 2.º curso, con un cómputo horario
+de 96 horas, que profundice en el desarrollo de las competencias transversales o aporte
 complementos de formación, facilitando la progresión del alumnado.
-2. El módulo optativo será seleccionado una vez que el alumnado matriculado en el ciclo 
-formativo haya manifestado sus preferencias entre las siguientes opciones, inicialmente 
+2. El módulo optativo será seleccionado una vez que el alumnado matriculado en el ciclo
+formativo haya manifestado sus preferencias entre las siguientes opciones, inicialmente
 ofertadas por los Centros educativos:
 1. Microacreditaciones de la misma familia profesional.
 2. Microacreditaciones de otra familia profesional.
@@ -470,670 +471,670 @@ ofertadas por los Centros educativos:
 4. Módulo de Profundización en Idioma extranjero profesional (Inglés).
 
 3. Opción consistente en microacreditaciones de la misma familia profesional.
-3.1. Esta opción, que deberá ofertarse preceptivamente por los Centros Educativos, se 
+3.1. Esta opción, que deberá ofertarse preceptivamente por los Centros Educativos, se
 compone de microacreditaciones o acreditaciones parciales de competencia.
-3.2. Las acreditaciones parciales que oferte el centro deben pertenecer a la misma familia 
-profesional del ciclo que se cursa, pudiendo ser tanto del mismo nivel de cualificación, como 
-del nivel superior o inferior correlativo. Todos los resultados de aprendizaje que se seleccionen 
-deben corresponder a un mismo módulo, no existente en el ciclo formativo que se esté 
+3.2. Las acreditaciones parciales que oferte el centro deben pertenecer a la misma familia
+profesional del ciclo que se cursa, pudiendo ser tanto del mismo nivel de cualificación, como
+del nivel superior o inferior correlativo. Todos los resultados de aprendizaje que se seleccionen
+deben corresponder a un mismo módulo, no existente en el ciclo formativo que se esté
 cursando.
-3.3. La impartición del módulo optativo compuesto por microformaciones se atribuye 
+3.3. La impartición del módulo optativo compuesto por microformaciones se atribuye
 al profesorado de las especialidades que imparten módulos específicos del ciclo formativo.
 4. Opción consistente en microacreditaciones de otra familia profesional.
-Esta opción, que podrá ofertarse por los Centros Educativos, pero no será preceptiva, se 
+Esta opción, que podrá ofertarse por los Centros Educativos, pero no será preceptiva, se
 desarrollará, en su caso, en los mismos términos que el apartado anterior.
 5. Opción consistente en módulo optativo de diseño propio.
-5.1. Esta opción, que podrá ofertarse pero no será preceptiva, consistirá en módulos 
-propuestos por los Centros formativos, previamente autorizados por la 
-DGFPERE, que permitan 
+5.1. Esta opción, que podrá ofertarse pero no será preceptiva, consistirá en módulos
+propuestos por los Centros formativos, previamente autorizados por la
+DGFPERE, que permitan
 adquirir un perfil determinado demandado por el sector productivo.
-5.2. Podrá incluir contenidos relacionados con la profundización en digitalización aplicada 
-a los sectores productivos, sostenibilidad aplicada al sistema productivo, la profundización 
-en iniciativa empresarial y emprendimiento o cualquier otra formación específica que determine 
+5.2. Podrá incluir contenidos relacionados con la profundización en digitalización aplicada
+a los sectores productivos, sostenibilidad aplicada al sistema productivo, la profundización
+en iniciativa empresarial y emprendimiento o cualquier otra formación específica que determine
 la familia profesional por las necesidades del tejido empresarial.
 6. Opción del módulo de Profundización en Idioma extranjero profesional (Inglés).
-6.1. Esta opción, que deberá ofertarse preceptivamente por los Centros Educativos, 
-incluirá el módulo de Profundización en idioma extranjero profesional (Inglés), cuyo 
+6.1. Esta opción, que deberá ofertarse preceptivamente por los Centros Educativos,
+incluirá el módulo de Profundización en idioma extranjero profesional (Inglés), cuyo
 currículo se desarrollará mediante resolución que a tal fin dicte la DGFPERE.
-6.2. El profesorado que imparta dicho módulo deberá adaptar el currículo al nivel (de 
-grado medio o superior) y al sector productivo en el que se incardine cada ciclo formativo, 
-especialmente en lo concerniente al vocabulario técnico y los intercambios comunicativos 
+6.2. El profesorado que imparta dicho módulo deberá adaptar el currículo al nivel (de
+grado medio o superior) y al sector productivo en el que se incardine cada ciclo formativo,
+especialmente en lo concerniente al vocabulario técnico y los intercambios comunicativos
 más frecuentes, prestando especial atención a las destrezas comunicativas orales.
-6.3. Se establecerán medidas de flexibilización y alternativas metodológicas en el aprendizaje 
-y evaluación del módulo de Profundización en Idioma extranjero profesional (Inglés) para las 
-personas que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones 
+6.3. Se establecerán medidas de flexibilización y alternativas metodológicas en el aprendizaje
+y evaluación del módulo de Profundización en Idioma extranjero profesional (Inglés) para las
+personas que presenten necesidades específicas vinculadas a la comunicación. Las adaptaciones
 realizadas no serán tenidas en cuenta en la calificación final del módulo.
-6.4. La impartición del módulo de Profundización en Idioma extranjero profesional 
-(Inglés) en los ciclos de grado medio y superior se atribuye al profesorado de la especialidad 
+6.4. La impartición del módulo de Profundización en Idioma extranjero profesional
+(Inglés) en los ciclos de grado medio y superior se atribuye al profesorado de la especialidad
 de Inglés.
 
 7. Reconocimiento de formaciones no formales.
-7.1. Se considerarán formaciones no formales los procesos de formación estructurados 
+7.1. Se considerarán formaciones no formales los procesos de formación estructurados
 que no conduzcan a una titulación, acreditación o certificación oficial.
-7.2. Los centros podrán reconocer, a efectos de la superación parcial o total de la parte 
-optativa del currículo, la realización y superación de cursos y actividades formativas no 
+7.2. Los centros podrán reconocer, a efectos de la superación parcial o total de la parte
+optativa del currículo, la realización y superación de cursos y actividades formativas no
 formales, por parte del alumnado.
-7.3. Dicho reconocimiento será competencia de los centros que impartan formación 
+7.3. Dicho reconocimiento será competencia de los centros que impartan formación
 profesional y se ajustará a las siguientes especificaciones:
-a) La dirección del centro nombrará una comisión de reconocimiento que, de forma 
-colegiada, evalúe las solicitudes presentadas por el alumnado y determine si el curso o 
-actividad formativa presentada cumple con los requisitos prescritos en los apartados 4.b) 
-y 4.c) del artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Dicha comisión estará 
-constituida por la persona que ocupe la jefatura de la familia profesional correspondiente, 
-la persona que ocupe la jefatura de estudios con competencias en Formación Profesional y 
+a) La dirección del centro nombrará una comisión de reconocimiento que, de forma
+colegiada, evalúe las solicitudes presentadas por el alumnado y determine si el curso o
+actividad formativa presentada cumple con los requisitos prescritos en los apartados 4.b)
+y 4.c) del artículo 102 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio. Dicha comisión estará
+constituida por la persona que ocupe la jefatura de la familia profesional correspondiente,
+la persona que ocupe la jefatura de estudios con competencias en Formación Profesional y
 el tutor o tutora del estudiante.
-b) La comisión concluirá si dichos cursos o actividades formativas, en función 
-de su duración y/o de otros parámetros que puedan resultar de relevancia, permiten el 
+b) La comisión concluirá si dichos cursos o actividades formativas, en función
+de su duración y/o de otros parámetros que puedan resultar de relevancia, permiten el
 reconocimiento total o parcial del módulo optativo.
-c) Dicha comisión se convocará siempre que exista alguna solicitud por resolver y 
-trasladará a los documentos oficiales de evaluación la calificación numérica de 5, si el 
-reconocimiento es total, o el resultado de la nota media ponderada entre la parte reconocida 
+c) Dicha comisión se convocará siempre que exista alguna solicitud por resolver y
+trasladará a los documentos oficiales de evaluación la calificación numérica de 5, si el
+reconocimiento es total, o el resultado de la nota media ponderada entre la parte reconocida
 por formación no formal (5) y la calificación obtenida en el resto del módulo cursado.
-d) El reconocimiento tendrá únicamente validez para la superación total o parcial del 
-módulo optativo del ciclo formativo concreto para el que haya formulado la solicitud y por 
+d) El reconocimiento tendrá únicamente validez para la superación total o parcial del
+módulo optativo del ciclo formativo concreto para el que haya formulado la solicitud y por
 una sola vez.
 Undécima.- Oferta bilingüe.
-1. Se considera modalidad bilingüe la docencia presencial de un ciclo formativo de 
-grado medio y superior que incluya al menos ciento veinte horas de formación de idioma 
-extranjero (Inglés) y dos módulos profesionales asociados a estándares de competencia 
-impartidos en lengua inglesa, ubicados en el primer y segundo curso respectivamente. La 
+1. Se considera modalidad bilingüe la docencia presencial de un ciclo formativo de
+grado medio y superior que incluya al menos ciento veinte horas de formación de idioma
+extranjero (Inglés) y dos módulos profesionales asociados a estándares de competencia
+impartidos en lengua inglesa, ubicados en el primer y segundo curso respectivamente. La
 carga lectiva semanal para estos módulos será la misma que para la oferta en español.
-2. La enseñanza bilingüe se ofertará de manera voluntaria para el alumnado, teniendo 
-siempre la opción de no cursar el ciclo en modalidad bilingüe. El alumnado se desdoblará 
+2. La enseñanza bilingüe se ofertará de manera voluntaria para el alumnado, teniendo
+siempre la opción de no cursar el ciclo en modalidad bilingüe. El alumnado se desdoblará
 en las horas correspondientes al módulo impartido en modalidad bilingüe.
-3. La evaluación del alumnado se realizará atendiendo a los resultados de aprendizaje 
-establecidos en los reales decretos del título correspondiente. La competencia lingüística 
-alcanzada por el alumnado en idioma extranjero (Inglés) será tenida en cuenta en la 
-evaluación de los módulos a efectos de mejorar los resultados, no pudiendo ser considerada 
+3. La evaluación del alumnado se realizará atendiendo a los resultados de aprendizaje
+establecidos en los reales decretos del título correspondiente. La competencia lingüística
+alcanzada por el alumnado en idioma extranjero (Inglés) será tenida en cuenta en la
+evaluación de los módulos a efectos de mejorar los resultados, no pudiendo ser considerada
 como elemento negativo para la calificación.
 
-4. En el expediente académico del alumnado se hará constar que ha cursado el ciclo 
+4. En el expediente académico del alumnado se hará constar que ha cursado el ciclo
 formativo de grado medio y superior en modalidad bilingüe.
-5. El profesorado que asuma la docencia de los módulos profesionales en oferta 
-bilingüe deberá contar con alguno de los certificados habilitantes reseñados en la Orden 
-de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos 
-en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento 
-de la acreditación de la competencia lingüística conforme al Marco Común Europeo de 
-Referencia para las Lenguas en la Comunidad Autónoma de Canarias, que demuestren la 
+5. El profesorado que asuma la docencia de los módulos profesionales en oferta
+bilingüe deberá contar con alguno de los certificados habilitantes reseñados en la Orden
+de 25 de noviembre de 2022, por la que se actualizan los títulos y certificados establecidos
+en el Anexo I de la Orden de 21 de septiembre de 2016, que regula el reconocimiento
+de la acreditación de la competencia lingüística conforme al Marco Común Europeo de
+Referencia para las Lenguas en la Comunidad Autónoma de Canarias, que demuestren la
 competencia lingüística correspondiente al nivel B2 o superior del marco.
 Duodécima.- Periodo de formación en empresa u organismo equiparado.
-La formación en empresa u organismo equiparado se regirá por lo dispuesto en los 
-artículos 106 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio y por la Resolución 
-que dicte la 
+La formación en empresa u organismo equiparado se regirá por lo dispuesto en los
+artículos 106 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio y por la Resolución
+que dicte la
 DGFPERE para tal fin.
 Decimotercera.- Evaluación, promoción, permanencia y titulación.
 1. Aspectos generales de la evaluación.
-1.1. La evaluación del alumnado de ciclos formativos de grado medio y superior 
-responderá a lo dispuesto en los artículos 18 y 107 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de 
-julio, y en aquellos aspectos que no contradiga con el Real Decreto citado, lo establecido 
-en la Orden de 20 de octubre de 2000, por la que se regulan los procesos de evaluación 
-de las enseñanzas de la Formación Profesional Específica en el ámbito de la Comunidad 
-Autónoma de Canarias y la Orden de 3 de diciembre de 2003, por la que se modifica y 
+1.1. La evaluación del alumnado de ciclos formativos de grado medio y superior
+responderá a lo dispuesto en los artículos 18 y 107 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de
+julio, y en aquellos aspectos que no contradiga con el Real Decreto citado, lo establecido
+en la Orden de 20 de octubre de 2000, por la que se regulan los procesos de evaluación
+de las enseñanzas de la Formación Profesional Específica en el ámbito de la Comunidad
+Autónoma de Canarias y la Orden de 3 de diciembre de 2003, por la que se modifica y
 amplía esta Orden, así como por lo dictado en esta Resolución.
-1.2. La evaluación del proceso de aprendizaje de los alumnos y las alumnas que cursan 
-estudios de Formación Profesional en cualquiera de sus grados medio y superior será continua, 
-formativa e integradora y deberá articularse, según la metodología del centro, del siguiente 
+1.2. La evaluación del proceso de aprendizaje de los alumnos y las alumnas que cursan
+estudios de Formación Profesional en cualquiera de sus grados medio y superior será continua,
+formativa e integradora y deberá articularse, según la metodología del centro, del siguiente
 modo:
-a) En el caso de trabajar con metodologías activas de aprendizaje, sin diferenciar los 
-módulos profesionales, la programación de la oferta formativa del centro habrá de recoger 
-claramente todos los resultados de aprendizaje sujetos a evaluación. En todo caso, la 
-calificación y registro en los documentos oficiales de evaluación deberá adecuarse a los 
+a) En el caso de trabajar con metodologías activas de aprendizaje, sin diferenciar los
+módulos profesionales, la programación de la oferta formativa del centro habrá de recoger
+claramente todos los resultados de aprendizaje sujetos a evaluación. En todo caso, la
+calificación y registro en los documentos oficiales de evaluación deberá adecuarse a los
 módulos profesionales y, en su caso, proyecto.
-b) En el caso de trabajar por módulos profesionales y proyecto intermodular, la 
+b) En el caso de trabajar por módulos profesionales y proyecto intermodular, la
 evaluación final habrá de tener en cuenta la globalidad del ciclo.
-1.3. En caso de no haber superado algún resultado de aprendizaje, el profesorado pondrá 
-en marcha las medidas de refuerzo necesarias para resolver la carencia mostrada desde el 
-momento en el que sea necesario. Este documento se revisará en la siguiente sesión de 
-evaluación a fin de valorar la evolución realizada e introducir las propuestas de mejora que 
+1.3. En caso de no haber superado algún resultado de aprendizaje, el profesorado pondrá
+en marcha las medidas de refuerzo necesarias para resolver la carencia mostrada desde el
+momento en el que sea necesario. Este documento se revisará en la siguiente sesión de
+evaluación a fin de valorar la evolución realizada e introducir las propuestas de mejora que
 se estimen convenientes.
-1.4. La superación de un ciclo formativo de grado medio y superior requerirá la 
+1.4. La superación de un ciclo formativo de grado medio y superior requerirá la
 evaluación positiva en todos los módulos profesionales y proyecto que lo componen.
 
-1.5. Las sesiones de evaluación se realizarán conforme a la normativa vigente para 
-la Comunidad Autónoma de Canarias hasta la actualización de la misma, valorándose el 
-progreso del alumnado en la consecución de la competencia general del ciclo, los resultados 
+1.5. Las sesiones de evaluación se realizarán conforme a la normativa vigente para
+la Comunidad Autónoma de Canarias hasta la actualización de la misma, valorándose el
+progreso del alumnado en la consecución de la competencia general del ciclo, los resultados
 de aprendizaje y las competencias profesionales y para la empleabilidad.
-A partir del 1 de septiembre de 2025 el número de sesiones de evaluación del segundo 
-curso serán las mismas que las del primer curso. Los módulos pendientes, en su caso, se 
+A partir del 1 de septiembre de 2025 el número de sesiones de evaluación del segundo
+curso serán las mismas que las del primer curso. Los módulos pendientes, en su caso, se
 evaluarán en la sesión final de segundo curso.
-Durante el curso 2025/2026 se mantendrán las sesiones de evaluación de acceso a la 
-FCT y evaluación final ordinaria de la FCT únicamente para el alumnado descrito en el 
-apartado 4 de la instrucción decimocuarta, que serán suprimidas, en todo caso, a partir del 
+Durante el curso 2025/2026 se mantendrán las sesiones de evaluación de acceso a la
+FCT y evaluación final ordinaria de la FCT únicamente para el alumnado descrito en el
+apartado 4 de la instrucción decimocuarta, que serán suprimidas, en todo caso, a partir del
 1 de septiembre de 2026.
-1.6. En la primera sesión de evaluación parcial se valorará la adquisición de las 
-competencias necesarias para el desempeño de las funciones de nivel básico en Prevención 
-de Riesgos Laborales, estableciéndose, para el alumnado que no haya alcanzado estas 
-competencias, las medidas de apoyo orientadas a su adquisición. Se podrá convocar una 
-sesión de evaluación extraordinaria específica antes de la incorporación al periodo de 
+1.6. En la primera sesión de evaluación parcial se valorará la adquisición de las
+competencias necesarias para el desempeño de las funciones de nivel básico en Prevención
+de Riesgos Laborales, estableciéndose, para el alumnado que no haya alcanzado estas
+competencias, las medidas de apoyo orientadas a su adquisición. Se podrá convocar una
+sesión de evaluación extraordinaria específica antes de la incorporación al periodo de
 formación en la empresa u organismo equiparado con el objetivo de decidir:
-• Alumnado que ha adquirido las competencias necesarias para el desempeño de las 
+• Alumnado que ha adquirido las competencias necesarias para el desempeño de las
 funciones de nivel básico en Prevención de Riesgos Laborales.
-• Alumnado que no ha adquirido las competencias necesarias, que no podrá acceder a la 
+• Alumnado que no ha adquirido las competencias necesarias, que no podrá acceder a la
 formación en la empresa u organismo equiparado y deberá continuar su formación en el centro.
-1.7. En las situaciones excepcionales en las que los contenidos relacionados con 
-la prevención de riesgos laborales no hayan sido superados, el alumnado continuará la 
-formación en el centro educativo conforme a lo establecido en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
-18 de julio, y en la resolución que regula la formación en empresa u organismo equiparado 
-en la Comunidad Autónoma de Canarias que dicte la 
+1.7. En las situaciones excepcionales en las que los contenidos relacionados con
+la prevención de riesgos laborales no hayan sido superados, el alumnado continuará la
+formación en el centro educativo conforme a lo establecido en el [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
+18 de julio, y en la resolución que regula la formación en empresa u organismo equiparado
+en la Comunidad Autónoma de Canarias que dicte la
 DGFPERE.
 2. Calificación.
-La expresión de la calificación para cada módulo profesional responderá a lo establecido 
-en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente, 
+La expresión de la calificación para cada módulo profesional responderá a lo establecido
+en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, consecuentemente,
 numérica entre 1 y 10, sin decimales.
 3. Promoción a segundo curso.
-3.1 El alumnado que se encuentra cursando el primer curso de un grado medio o 
+3.1 El alumnado que se encuentra cursando el primer curso de un grado medio o
 superior promocionará a segundo curso en los siguientes casos:
 • Alumnado que haya superado todos los módulos profesionales.
-• Alumnado que tenga uno o varios módulos profesionales pendientes, siempre y cuando 
+• Alumnado que tenga uno o varios módulos profesionales pendientes, siempre y cuando
 no supongan en su conjunto más del veinte por ciento de la carga horaria del primer curso.
-• Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de 
+• Excepcionalmente, el equipo docente podrá decidir la promoción cuando se trate de
 un solo módulo, aun cuando exceda el veinte por ciento establecido en el apartado anterior.
 
-3.2. En todo caso, el alumnado que promocione de curso con módulos pendientes 
-recibirá un informe de actividades de recuperación, donde se informará de los resultados 
-de aprendizaje no alcanzados, las actividades programadas para su recuperación, así como 
+3.2. En todo caso, el alumnado que promocione de curso con módulos pendientes
+recibirá un informe de actividades de recuperación, donde se informará de los resultados
+de aprendizaje no alcanzados, las actividades programadas para su recuperación, así como
 del periodo de su realización, temporalización y fecha en que será evaluado.
-3.3. Cuando el alumnado no promocione deberá repetir los módulos profesionales no 
-superados, para lo cual formalizará la matrícula ordinaria de primer curso y se incorporará 
+3.3. Cuando el alumnado no promocione deberá repetir los módulos profesionales no
+superados, para lo cual formalizará la matrícula ordinaria de primer curso y se incorporará
 al grupo correspondiente.
 4. Convocatorias y permanencia.
-4.1. El alumnado podrá permanecer cursando un ciclo formativo de grado medio 
-o superior durante un máximo de dos cursos académicos, consecutivos o no, más que la 
-duración prevista para el ciclo formativo, en matrícula completa y modalidad presencial. La 
+4.1. El alumnado podrá permanecer cursando un ciclo formativo de grado medio
+o superior durante un máximo de dos cursos académicos, consecutivos o no, más que la
+duración prevista para el ciclo formativo, en matrícula completa y modalidad presencial. La
 limitación de permanencia estará asociada al ejercicio de la renuncia a convocatorias.
-4.2. El alumnado, o su representante legal si es menor de edad, podrá renunciar a la 
-convocatoria de uno o varios módulos profesionales, o bien anular la matrícula completa 
-del ciclo formativo, por los motivos y en la forma establecidos en la Orden de 20 de octubre 
-de 2000 y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por 
-la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional 
+4.2. El alumnado, o su representante legal si es menor de edad, podrá renunciar a la
+convocatoria de uno o varios módulos profesionales, o bien anular la matrícula completa
+del ciclo formativo, por los motivos y en la forma establecidos en la Orden de 20 de octubre
+de 2000 y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por
+la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional
 Específica en el ámbito de la Comunidad Autónoma de Canarias.
-4.3. En los ciclos formativos de grado medio y superior se contará con una convocatoria 
-anual para cada módulo profesional, siendo el máximo para cada módulo profesional de 
-cuatro. No obstante, la formación en la empresa u organismo equiparado podrá realizarse 
+4.3. En los ciclos formativos de grado medio y superior se contará con una convocatoria
+anual para cada módulo profesional, siendo el máximo para cada módulo profesional de
+cuatro. No obstante, la formación en la empresa u organismo equiparado podrá realizarse
 en un máximo de dos ocasiones.
-4.4. La dirección del centro educativo podrá autorizar convocatorias extraordinarias, 
-una vez agotadas las cuatro ordinarias, previo informe del equipo docente, por motivos 
-de enfermedad, discapacidad u otras razones que hubieran condicionado o impedido el 
+4.4. La dirección del centro educativo podrá autorizar convocatorias extraordinarias,
+una vez agotadas las cuatro ordinarias, previo informe del equipo docente, por motivos
+de enfermedad, discapacidad u otras razones que hubieran condicionado o impedido el
 seguimiento o aprovechamiento ordinario de la formación.
 5. Titulación.
-5.1. Quienes superen un ciclo formativo de grado medio obtendrán el título de Técnico 
+5.1. Quienes superen un ciclo formativo de grado medio obtendrán el título de Técnico
 en la especialidad correspondiente.
-5.2. Quienes superen un ciclo formativo de grado superior obtendrán el título de Técnico 
+5.2. Quienes superen un ciclo formativo de grado superior obtendrán el título de Técnico
 Superior en la especialidad correspondiente.
-5.3. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por 
-el profesorado del alumno o alumna. La adopción de estas decisiones será por consenso, y 
+5.3. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por
+el profesorado del alumno o alumna. La adopción de estas decisiones será por consenso, y
 si no fuera posible, por mayoría del profesorado que imparte clase al alumnado.
-5.4. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de 
-grado medio o superior recibirán una certificación académica de los módulos profesionales 
+5.4. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de
+grado medio o superior recibirán una certificación académica de los módulos profesionales
 superados.
 
 Decimocuarta.- Transición entre planes de estudio.
-1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023, 
-de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación 
-Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e 
-integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación 
-del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el 
-segundo curso permanecerá vigente la ordenación de los ciclos formativos de grado medio y 
+1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 278/2023,
+de 11 de abril, por el que se establece el calendario de implantación del Sistema de Formación
+Profesional, establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e
+integración de la Formación Profesional, en el curso 2024-2025 se completará la implantación
+del primer curso de todos los ciclos formativos. Durante dicho curso académico, para el
+segundo curso permanecerá vigente la ordenación de los ciclos formativos de grado medio y
 superior previa a la entrada en vigor de la presente Resolución.
-2. En el curso académico 2024-2025, el alumnado matriculado en segundo curso 
-con módulos pendientes de primero que tenga pendiente de superación los módulos de 
-Formación y Orientación Laboral, Empresa e Iniciativa Emprendedora y/o Inglés, código 
-0156, en ciclos de grado medio; código 0179, en ciclos de grado superior; y Lengua 
-extranjera (Inglés) en ciclos de grado superior, recibirá los planes de refuerzo que establezca 
-el equipo docente y deberá superar las evaluaciones correspondientes a dicho(s) módulo(s), 
+2. En el curso académico 2024-2025, el alumnado matriculado en segundo curso
+con módulos pendientes de primero que tenga pendiente de superación los módulos de
+Formación y Orientación Laboral, Empresa e Iniciativa Emprendedora y/o Inglés, código
+0156, en ciclos de grado medio; código 0179, en ciclos de grado superior; y Lengua
+extranjera (Inglés) en ciclos de grado superior, recibirá los planes de refuerzo que establezca
+el equipo docente y deberá superar las evaluaciones correspondientes a dicho(s) módulo(s),
 de acuerdo con el currículo que tuvieran en el plan de estudios a extinguir.
-3. Quienes en el curso académico 2024-2025 estén repitiendo el primer curso, serán 
-adaptados a la nueva ordenación académica. A estos efectos, si se tuviera superados los 
-módulos de Formación y orientación laboral y/o Empresa e Iniciativa Emprendedora se 
-considerarán superados Itinerario personal para la empleabilidad I y II, respectivamente; 
-de igual forma, si se hubiera obtenido una evaluación positiva en los antiguos módulos de 
-Inglés [código 0156, en ciclos de grado medio; código 0179, en ciclos de grado superior; 
-y Lengua extranjera (Inglés) en ciclos de grado superior], se considerará superado el 
-módulo de Inglés profesional (GM) y (GS) respectivamente. En estos casos, se trasladará 
+3. Quienes en el curso académico 2024-2025 estén repitiendo el primer curso, serán
+adaptados a la nueva ordenación académica. A estos efectos, si se tuviera superados los
+módulos de Formación y orientación laboral y/o Empresa e Iniciativa Emprendedora se
+considerarán superados Itinerario personal para la empleabilidad I y II, respectivamente;
+de igual forma, si se hubiera obtenido una evaluación positiva en los antiguos módulos de
+Inglés [código 0156, en ciclos de grado medio; código 0179, en ciclos de grado superior;
+y Lengua extranjera (Inglés) en ciclos de grado superior], se considerará superado el
+módulo de Inglés profesional (GM) y (GS) respectivamente. En estos casos, se trasladará
 la calificación obtenida a los nuevos módulos.
-4. Quienes, únicamente durante el curso 2025-2026, se encuentren repitiendo segundo 
-curso y tengan pendiente de superación alguno de los módulos profesionales del sistema 
-que se extingue y que no contaran con la misma codificación en la nueva ordenación, 
-deberán superar las evaluaciones correspondientes a los planes de refuerzo del módulo 
-profesional correspondiente al currículo del sistema a extinguir. Excepcionalmente, podrán 
-cursar los siguientes nuevos módulos profesionales como equivalentes, de acuerdo con la 
-tabla que figura a continuación. En tal caso, deberán estar matriculados en los módulos 
-antiguos y la calificación obtenida se consignará en el expediente académico del alumnado 
-y en los documentos oficiales de evaluación con la denominación y codificación del plan 
+4. Quienes, únicamente durante el curso 2025-2026, se encuentren repitiendo segundo
+curso y tengan pendiente de superación alguno de los módulos profesionales del sistema
+que se extingue y que no contaran con la misma codificación en la nueva ordenación,
+deberán superar las evaluaciones correspondientes a los planes de refuerzo del módulo
+profesional correspondiente al currículo del sistema a extinguir. Excepcionalmente, podrán
+cursar los siguientes nuevos módulos profesionales como equivalentes, de acuerdo con la
+tabla que figura a continuación. En tal caso, deberán estar matriculados en los módulos
+antiguos y la calificación obtenida se consignará en el expediente académico del alumnado
+y en los documentos oficiales de evaluación con la denominación y codificación del plan
 de estudios a extinguir:
-Ordenación  de  acuerdo  con  Real  Decreto 
+Ordenación  de  acuerdo  con  Real  Decreto
 659/2023, de 18 de julio
-Ordenación  de  acuerdo  con  Real  Decreto 
+Ordenación  de  acuerdo  con  Real  Decreto
 1147/2011, de 29 de julio
 1079. Itinerario personal para la empleabilidad I Formación y orientación laboral
-1710. Itinerario personal para la empleabilidad II Empresa e iniciativa emprendedora 
+1710. Itinerario personal para la empleabilidad II Empresa e iniciativa emprendedora
 0179. Inglés profesional (GS) 0179. Inglés
 Lengua extranjera (Inglés)
 0156. Inglés profesional (GM) 0156. Inglés
 
-5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de 
-los módulos profesionales y proyecto intermodular establecido en la nueva ordenación 
-académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la 
+5. A partir del 1 de septiembre de 2026, el alumnado deberá cursar la totalidad de
+los módulos profesionales y proyecto intermodular establecido en la nueva ordenación
+académica, aplicando, en sentido inverso, la misma tabla de convalidaciones incluida en la
 tabla del apartado 4.
-6. Las administraciones competentes deberán garantizar la oferta del módulo de 
-Formación en centros de trabajo durante el curso académico 2025-2026 para el alumnado 
+6. Las administraciones competentes deberán garantizar la oferta del módulo de
+Formación en centros de trabajo durante el curso académico 2025-2026 para el alumnado
 al que se refiere el anterior apartado 4.
-7. Aquellos ciclos formativos en modalidad 
-LOGSE, aún en vigor, quedan con la 
-ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo 
-el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de 
-acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en 
-consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de 
+7. Aquellos ciclos formativos en modalidad
+LOGSE, aún en vigor, quedan con la
+ordenación del Sistema de Formación Profesional, sin alteración alguna, manteniendo
+el módulo de Formación en Centros de Trabajo y su distribución modular y horaria de
+acuerdo con la normativa básica y autonómica que le sea de aplicación. Mantendrán, en
+consecuencia, las sesiones de evaluación de acceso a la FCT y evaluación final ordinaria de
 la FCT correspondientes.
-Decimoquinta.- Certificación de la formación de nivel básico en prevención de 
+Decimoquinta.- Certificación de la formación de nivel básico en prevención de
 riesgos laborales.
-1. La superación del módulo de Itinerario personal para la empleabilidad I, dará derecho 
-a solicitar la certificación para el desempeño de las funciones de nivel básico en materia 
-prevención de riesgos laborales, atendiendo a lo dispuesto en los reales decretos que así 
+1. La superación del módulo de Itinerario personal para la empleabilidad I, dará derecho
+a solicitar la certificación para el desempeño de las funciones de nivel básico en materia
+prevención de riesgos laborales, atendiendo a lo dispuesto en los reales decretos que así
 lo especifiquen, conforme a lo dispuesto en el siguiente apartado.
-2. El certificado que acredita la formación de nivel básico en materia prevención de 
-riesgos laborales será expedido por la Secretaría del centro docente en el que el alumno/a 
-se encuentre matriculado/a, con el visto bueno de la persona titular de la Dirección. En 
-los centros de titularidad privada este será visado por la persona titular de la Dirección 
-del centro público al que esté adscrito. El certificado se emitirá, previa solicitud de la 
-persona interesada, una vez superado el ciclo formativo, conforme al modelo que figura en 
+2. El certificado que acredita la formación de nivel básico en materia prevención de
+riesgos laborales será expedido por la Secretaría del centro docente en el que el alumno/a
+se encuentre matriculado/a, con el visto bueno de la persona titular de la Dirección. En
+los centros de titularidad privada este será visado por la persona titular de la Dirección
+del centro público al que esté adscrito. El certificado se emitirá, previa solicitud de la
+persona interesada, una vez superado el ciclo formativo, conforme al modelo que figura en
 el Anexo VIII.
-3. Para el alumnado con titulaciones obtenidas con anterioridad o que cursa Ciclos 
-Formativos de Formación Profesional de acuerdo con el currículo del plan de estudios a 
-extinguir, los centros expedirán los certificados de formación de nivel básico en prevención 
-de riesgos laborales de acuerdo con lo establecido en la Resolución de 28 de noviembre de 
-2014, por la que se establece el procedimiento para la certificación de la formación a nivel 
-básico en prevención de riesgos laborales al alumnado que supere, en centros educativos de 
-la Comunidad Autónoma de Canarias, el módulo profesional de Formación y orientación 
-laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de 
+3. Para el alumnado con titulaciones obtenidas con anterioridad o que cursa Ciclos
+Formativos de Formación Profesional de acuerdo con el currículo del plan de estudios a
+extinguir, los centros expedirán los certificados de formación de nivel básico en prevención
+de riesgos laborales de acuerdo con lo establecido en la Resolución de 28 de noviembre de
+2014, por la que se establece el procedimiento para la certificación de la formación a nivel
+básico en prevención de riesgos laborales al alumnado que supere, en centros educativos de
+la Comunidad Autónoma de Canarias, el módulo profesional de Formación y orientación
+laboral de los ciclos formativos de grado medio y grado superior de las enseñanzas de
 formación profesional establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ANEXO II
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
-DE FORMACIÓN D DE NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO), A 
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS
+DE FORMACIÓN D DE NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO), A
 PARTIR DEL CURSO ESCOLAR 2024/2025.
 Primera.- Objeto y ámbito de aplicación.
-Las presentes instrucciones tienen por objeto la implantación y desarrollo de los grados 
-de formación D de nivel 1 (Ciclos Formativos de Grado Básico), a partir del curso escolar 
-2024-2025, y el establecimiento de la distribución horaria y modular de los currículos. 
-Serán de aplicación en todos los centros educativos del sistema de formación profesional 
+Las presentes instrucciones tienen por objeto la implantación y desarrollo de los grados
+de formación D de nivel 1 (Ciclos Formativos de Grado Básico), a partir del curso escolar
+2024-2025, y el establecimiento de la distribución horaria y modular de los currículos.
+Serán de aplicación en todos los centros educativos del sistema de formación profesional
 de la Comunidad Autónoma de Canarias.
 Segunda.- Currículos.
-1. El [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación 
-y enseñanzas mínimas en la Educación Secundaria Obligatoria, establece en el Anexo I 
-el Perfil de salida del alumnado al término de la enseñanza básica, las competencias clave 
-que debe adquirir y los descriptores operativos de las competencias clave en la enseñanza 
-básica. A su vez, el artículo 25.3 determina los ámbitos de los ciclos formativos de grado 
-básico y establece que se podrán incluir otras materias o módulos que contribuyan al 
+1. El [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md), de 29 de marzo, por el que se establece la ordenación
+y enseñanzas mínimas en la Educación Secundaria Obligatoria, establece en el Anexo I
+el Perfil de salida del alumnado al término de la enseñanza básica, las competencias clave
+que debe adquirir y los descriptores operativos de las competencias clave en la enseñanza
+básica. A su vez, el artículo 25.3 determina los ámbitos de los ciclos formativos de grado
+básico y establece que se podrán incluir otras materias o módulos que contribuyan al
 desarrollo de las competencias de la Educación Secundaria Obligatoria.
-En el Anexo V del citado [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) se determina el currículo de los ámbitos 
-comunes de los ciclos formativos de grado básico, fijando las competencias específicas, así 
+En el Anexo V del citado [Real Decreto 217/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md) se determina el currículo de los ámbitos
+comunes de los ciclos formativos de grado básico, fijando las competencias específicas, así
 como los criterios de evaluación y los contenidos, enunciados en forma de saberes básicos.
-2. En el ámbito de la Comunidad Autónoma de Canarias, el Decreto 9/2023, de 26 de 
+2. En el ámbito de la Comunidad Autónoma de Canarias, el Decreto 9/2023, de 26 de
 enero, regula y establece el currículo de veintitrés ciclos formativos de grado básico.
-3. El [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados 
-reales decretos por los que se establecen títulos de Formación Profesional de grado básico 
-y se fijan sus enseñanzas mínimas, actualiza la relación de módulos profesionales que 
+3. El [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, por el que se modifican determinados
+reales decretos por los que se establecen títulos de Formación Profesional de grado básico
+y se fijan sus enseñanzas mínimas, actualiza la relación de módulos profesionales que
 forman parte del plan de estudios de cada ciclo formativo de grado básico.
-4. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo 
+4. Las orientaciones referentes a la adaptación del currículo al entorno socio-productivo
 de Canarias y la metodología se recogen en el Anexo IV de esta Resolución.
-5. La relación de materias y módulos profesionales de cada uno de los currículos se 
+5. La relación de materias y módulos profesionales de cada uno de los currículos se
 establece en la distribución horaria de las tablas que figuran en el Anexo V .
 Tercera.- Módulo Profesional de Prevención y salud laboral.
-1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo 
-profesional de Prevención y salud laboral en el primer curso. El currículo del módulo se 
-recoge en el Decreto 9/2023, de 26 de enero, y es común para todos los ciclos formativos de 
-grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de adaptarlo 
+1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo
+profesional de Prevención y salud laboral en el primer curso. El currículo del módulo se
+recoge en el Decreto 9/2023, de 26 de enero, y es común para todos los ciclos formativos de
+grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de adaptarlo
 al sector productivo concreto en el que se incardine la especialidad del ciclo.
 
-2. En cumplimiento de lo establecido en el apartado 3 del artículo 88, del Real 
-Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa 
-u organismo equiparado, el alumnado deberá haber adquirido las competencias y los contenidos 
-relativos a riesgos específicos y las medidas de prevención en las actividades profesionales 
-correspondientes al perfil profesional de cada ciclo formativo de grado básico. Para ello, 
-el profesorado del módulo de Prevención y salud laboral, en colaboración con el resto del 
-equipo docente, deberá programar las actividades de enseñanza y aprendizaje, así como los 
+2. En cumplimiento de lo establecido en el apartado 3 del artículo 88, del Real
+Decreto 659/2023, de 18 de julio, antes de iniciar el periodo de formación en empresa
+u organismo equiparado, el alumnado deberá haber adquirido las competencias y los contenidos
+relativos a riesgos específicos y las medidas de prevención en las actividades profesionales
+correspondientes al perfil profesional de cada ciclo formativo de grado básico. Para ello,
+el profesorado del módulo de Prevención y salud laboral, en colaboración con el resto del
+equipo docente, deberá programar las actividades de enseñanza y aprendizaje, así como los
 sistemas de evaluación que garanticen dichas competencias.
-3. La impartición del módulo profesional de Prevención y salud laboral se atribuye al 
+3. La impartición del módulo profesional de Prevención y salud laboral se atribuye al
 profesorado de la especialidad de Formación y Orientación Laboral.
 Cuarta.- Módulo de Itinerario personal para la empleabilidad.
-1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo 
-profesional de Itinerario personal para la empleabilidad en el segundo curso. El currículo del 
-módulo se recoge en el Anexo III del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se 
-desarrolla la ordenación del Sistema de Formación Profesional, y es común para todos los ciclos 
-formativos de grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de 
+1. Todos los ciclos formativos de grado básico incluyen en su plan de estudios el módulo
+profesional de Itinerario personal para la empleabilidad en el segundo curso. El currículo del
+módulo se recoge en el Anexo III del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se
+desarrolla la ordenación del Sistema de Formación Profesional, y es común para todos los ciclos
+formativos de grado básico, sin perjuicio de la obligatoriedad del profesorado que lo imparta de
 adaptarlo al sector productivo concreto en el que se incardine la especialidad del ciclo.
-2. La impartición del módulo profesional de Itinerario personal para la empleabilidad 
+2. La impartición del módulo profesional de Itinerario personal para la empleabilidad
 se atribuye al profesorado de la especialidad de Formación y Orientación Laboral.
 Quinta.- Proyecto intermodular de aprendizaje colaborativo.
-1. En los ciclos de grado básico se incluye el módulo de “Proyecto intermodular de 
-aprendizaje colaborativo”, cuyo currículo figura como Anexo I del Real Decreto 489/2024, 
-de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen 
+1. En los ciclos de grado básico se incluye el módulo de “Proyecto intermodular de
+aprendizaje colaborativo”, cuyo currículo figura como Anexo I del Real Decreto 489/2024,
+de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen
 títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
-2. El proyecto intermodular de aprendizaje colaborativo tendrá carácter integrador de 
-las competencias adquiridas y será uno durante el ciclo formativo. Se desarrollará de forma 
+2. El proyecto intermodular de aprendizaje colaborativo tendrá carácter integrador de
+las competencias adquiridas y será uno durante el ciclo formativo. Se desarrollará de forma
 simultánea al resto de los módulos profesionales, desde el inicio del segundo curso.
-3. Tendrá carácter grupal, salvo excepciones justificadas. Con independencia del carácter 
-grupal del proyecto, la evaluación y calificación será individual y deberá presentarse de 
+3. Tendrá carácter grupal, salvo excepciones justificadas. Con independencia del carácter
+grupal del proyecto, la evaluación y calificación será individual y deberá presentarse de
 manera oral ante el equipo docente, al que podrá incorporarse el tutor o tutora de empresa.
-4. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología 
-basada en retos. El equipo docente establecerá, al comienzo de cada curso académico, 
-uno o varios retos para cada Proyecto intermodular, que impliquen la activación de varios 
-resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además 
-de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se 
+4. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología
+basada en retos. El equipo docente establecerá, al comienzo de cada curso académico,
+uno o varios retos para cada Proyecto intermodular, que impliquen la activación de varios
+resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además
+de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se
 trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo.
-5. La impartición del módulo profesional de Proyecto intermodular de aprendizaje 
-colaborativo en los ciclos de grado básico se atribuye al profesorado de las especialidades 
-que imparten módulos específicos del ciclo formativo, de conformidad con el artículo 
-octavo del [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, que además asumirá las funciones de 
+5. La impartición del módulo profesional de Proyecto intermodular de aprendizaje
+colaborativo en los ciclos de grado básico se atribuye al profesorado de las especialidades
+que imparten módulos específicos del ciclo formativo, de conformidad con el artículo
+octavo del [Real Decreto 498/2024](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD498_2024_modifican_determinados_reales_decretos_establecen_titulos.md), de 21 de mayo, que además asumirá las funciones de
 tutor o tutora del grupo.
 
 Sexta.- Tutoría.
-1. La acción tutorial se destinará a la orientación académica, profesional y personal. 
-La tutoría deberá entenderse como un acompañamiento personalizado del alumnado en su 
+1. La acción tutorial se destinará a la orientación académica, profesional y personal.
+La tutoría deberá entenderse como un acompañamiento personalizado del alumnado en su
 proceso madurativo y formativo.
-2. Las actividades realizadas en la tutoría en cada curso académico se planificarán e 
-incluirán en la programación específica del grupo de acuerdo con el plan de acción tutorial 
+2. Las actividades realizadas en la tutoría en cada curso académico se planificarán e
+incluirán en la programación específica del grupo de acuerdo con el plan de acción tutorial
 del centro.
-3. La tutoría del primer curso será ejercida por un profesor o profesora que imparta 
-docencia del ámbito profesional al grupo de alumnos y alumnas, preferentemente aquel o 
+3. La tutoría del primer curso será ejercida por un profesor o profesora que imparta
+docencia del ámbito profesional al grupo de alumnos y alumnas, preferentemente aquel o
 aquella con mayor número de horas lectivas con el alumnado del grupo.
-4. En el segundo curso la tutoría del grupo será asumida por el o la docente responsable 
+4. En el segundo curso la tutoría del grupo será asumida por el o la docente responsable
 del Proyecto intermodular de aprendizaje colaborativo.
-5. La acción tutorial, en colaboración con el módulo profesional de Itinerario personal 
-para la empleabilidad y el departamento de orientación, programará actividades formativas 
-para promover el acercamiento del alumnado al mundo laboral y a las empresas del entorno 
-próximo, así como el asesoramiento y orientación sobre la toma de decisiones posteriores 
+5. La acción tutorial, en colaboración con el módulo profesional de Itinerario personal
+para la empleabilidad y el departamento de orientación, programará actividades formativas
+para promover el acercamiento del alumnado al mundo laboral y a las empresas del entorno
+próximo, así como el asesoramiento y orientación sobre la toma de decisiones posteriores
 relacionadas con su futuro académico y profesional.
-6. Para garantizar los aspectos relacionados en los apartados anteriores, el horario del 
+6. Para garantizar los aspectos relacionados en los apartados anteriores, el horario del
 alumnado contemplará una hora semanal de tutoría en cada uno de los cursos.
 Séptima.- Periodo de formación en empresa u organismo equiparado.
-La formación en empresa u organismo equiparado se regirá por lo dispuesto en los 
-artículos 88 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución 
-que dicte la 
+La formación en empresa u organismo equiparado se regirá por lo dispuesto en los
+artículos 88 y 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución
+que dicte la
 DGFPERE para tal fin.
 Octava.- Evaluación.
-1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con 
-carácter general, a lo establecido en los artículo 18 y 93 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 
-18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y 
-establece el currículo de veintitrés ciclos formativos de grado básico en el ámbito de la 
+1. La evaluación del alumnado de ciclos formativos de grado básico responderá, con
+carácter general, a lo establecido en los artículo 18 y 93 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de
+18 de julio, y en el artículo 12 del Decreto 9/2023, de 26 de enero, por el que se regula y
+establece el currículo de veintitrés ciclos formativos de grado básico en el ámbito de la
 Comunidad Autónoma de Canarias.
-2. Las sesiones de evaluación, los criterios de promoción a 2.º curso y las normas de 
-calificación de los ciclos formativos de grado básico, se regularán por lo establecido en 
-la Resolución de la 
-DGFPERE de 6 de marzo de 2024, por la que se dictan instrucciones 
-transitorias para regular la evaluación, promoción y titulación del alumnado de los ciclos 
-formativos de grado básico en la Comunidad Autónoma de Canarias, con las salvedades, 
+2. Las sesiones de evaluación, los criterios de promoción a 2.º curso y las normas de
+calificación de los ciclos formativos de grado básico, se regularán por lo establecido en
+la Resolución de la
+DGFPERE de 6 de marzo de 2024, por la que se dictan instrucciones
+transitorias para regular la evaluación, promoción y titulación del alumnado de los ciclos
+formativos de grado básico en la Comunidad Autónoma de Canarias, con las salvedades,
 en cuanto a calificación, expresadas en los párrafos siguientes.
-3. Para los ciclos formativos de Grado Básico con las modificaciones derivadas de la 
+3. Para los ciclos formativos de Grado Básico con las modificaciones derivadas de la
 aplicación del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio:
 
-• La calificación de los módulos profesionales, continuará siendo numérica del 1 al 
-10 sin decimales, considerándose superado un módulo cuando se obtenga una calificación 
+• La calificación de los módulos profesionales, continuará siendo numérica del 1 al
+10 sin decimales, considerándose superado un módulo cuando se obtenga una calificación
 igual o superior a cinco.
-• Los resultados de la evaluación de los ámbitos de Comunicación y ciencias sociales y 
-Ciencias aplicadas se expresarán en los términos “Insuficiente (IN)”, para las calificaciones 
-negativas; “Suficiente (SU)”, “Bien (BI)”, “Notable (NT)”, o “Sobresaliente (SB)” para las 
-calificaciones positivas. El procedimiento para determinar la calificación correspondiente 
-continuará siendo la media ponderada de las materias que lo conforman. Esta media 
-ponderada se obtiene considerando la proporción de la carga horaria de cada materia 
+• Los resultados de la evaluación de los ámbitos de Comunicación y ciencias sociales y
+Ciencias aplicadas se expresarán en los términos “Insuficiente (IN)”, para las calificaciones
+negativas; “Suficiente (SU)”, “Bien (BI)”, “Notable (NT)”, o “Sobresaliente (SB)” para las
+calificaciones positivas. El procedimiento para determinar la calificación correspondiente
+continuará siendo la media ponderada de las materias que lo conforman. Esta media
+ponderada se obtiene considerando la proporción de la carga horaria de cada materia
 respecto a la carga horaria total del ámbito.
-4. A partir del curso escolar 2026-2027, se suprimirán las sesiones de evaluación de la 
-FCT de segundo curso, pasando a ser las mismas que se contemplan para primer curso, en 
+4. A partir del curso escolar 2026-2027, se suprimirán las sesiones de evaluación de la
+FCT de segundo curso, pasando a ser las mismas que se contemplan para primer curso, en
 cuanto a número de sesiones y temporalización de las mismas.
 Novena.- Titulación.
-1. Los alumnos y alumnas que superen la totalidad de ámbitos de un ciclo formativo 
-de grado básico recibirán el título de Graduado en Educación Secundaria Obligatoria y el 
+1. Los alumnos y alumnas que superen la totalidad de ámbitos de un ciclo formativo
+de grado básico recibirán el título de Graduado en Educación Secundaria Obligatoria y el
 título de Técnico Básico en la especialidad correspondiente.
-2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por 
-el profesorado del alumno o alumna. La adopción de estas decisiones será por consenso, y 
+2. Las decisiones sobre la obtención del título serán adoptadas de forma colegiada por
+el profesorado del alumno o alumna. La adopción de estas decisiones será por consenso, y
 si no fuera posible, por mayoría del profesorado que imparte clase al alumnado.
-3. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de 
-grado básico recibirán una certificación académica de los módulos profesionales y de las 
-competencias adquiridas y en su caso ámbitos o materias superados, que tendrá efectos 
-académicos y de acreditación parcial acumulable de las competencias adquiridas en 
-relación con el Sistema Nacional de las Cualificaciones y de la Formación Profesional. Esta 
-certificación dará derecho, a quienes lo soliciten, a la expedición por la Administración 
+3. Quienes no superen en su totalidad las enseñanzas de los ciclos formativos de
+grado básico recibirán una certificación académica de los módulos profesionales y de las
+competencias adquiridas y en su caso ámbitos o materias superados, que tendrá efectos
+académicos y de acreditación parcial acumulable de las competencias adquiridas en
+relación con el Sistema Nacional de las Cualificaciones y de la Formación Profesional. Esta
+certificación dará derecho, a quienes lo soliciten, a la expedición por la Administración
 competente del certificado o acreditaciones profesionales correspondientes.
 Décima.- Transición entre planes de estudio.
-1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto 
-278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema 
-de Formación Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, 
-de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se 
-completará la implantación del primer curso de todos los ciclos formativos. Durante dicho 
-curso académico, para el segundo curso permanecerá vigente la ordenación de los ciclos 
+1. De acuerdo con el calendario establecido en el artículo 11 del Real Decreto
+278/2023, de 11 de abril, por el que se establece el calendario de implantación del Sistema
+de Formación Profesional establecido por la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo,
+de ordenación e integración de la Formación Profesional, en el curso 2024-2025 se
+completará la implantación del primer curso de todos los ciclos formativos. Durante dicho
+curso académico, para el segundo curso permanecerá vigente la ordenación de los ciclos
 formativos de grado básico previa a la entrada en vigor de la presente Resolución.
-2. Durante el curso académico 2024-2025, el alumnado que haya promocionado al 
-segundo curso sin haber superado los ámbitos comunes (Comunicación y ciencias sociales 
-y Ciencias aplicadas) o algún módulo profesional de primero, deberá seguir los planes de 
-refuerzo que establezca el equipo docente y superar las evaluaciones correspondientes, 
+2. Durante el curso académico 2024-2025, el alumnado que haya promocionado al
+segundo curso sin haber superado los ámbitos comunes (Comunicación y ciencias sociales
+y Ciencias aplicadas) o algún módulo profesional de primero, deberá seguir los planes de
+refuerzo que establezca el equipo docente y superar las evaluaciones correspondientes,
 conforme al currículo del plan de estudios a extinguir.
 
-Cuando el alumnado no promocione deberá matricularse y cursar, nuevamente, todos 
-los ámbitos conforme a los nuevos planes. No obstante, los módulos profesionales y ámbitos 
-comunes superados con anterioridad mantendrán la calificación obtenida, y el alumnado 
+Cuando el alumnado no promocione deberá matricularse y cursar, nuevamente, todos
+los ámbitos conforme a los nuevos planes. No obstante, los módulos profesionales y ámbitos
+comunes superados con anterioridad mantendrán la calificación obtenida, y el alumnado
 los cursará con la finalidad de subir la calificación.
-3. Quienes, durante el curso 2025-2026 deban repetir segundo curso, por tener pendiente 
-de superar alguno de los ámbitos comunes (Comunicación y Ciencias sociales y Ciencias 
-aplicadas) o algún módulo profesional del sistema que se extingue, deberá matricularse 
-y cursar, nuevamente, todos los ámbitos conforme a los nuevos planes. No obstante, los 
-módulos profesionales y ámbitos comunes superados con anterioridad mantendrán la 
+3. Quienes, durante el curso 2025-2026 deban repetir segundo curso, por tener pendiente
+de superar alguno de los ámbitos comunes (Comunicación y Ciencias sociales y Ciencias
+aplicadas) o algún módulo profesional del sistema que se extingue, deberá matricularse
+y cursar, nuevamente, todos los ámbitos conforme a los nuevos planes. No obstante, los
+módulos profesionales y ámbitos comunes superados con anterioridad mantendrán la
 calificación obtenida, y el alumnado los cursará con la finalidad de subir la calificación.
-4. Quienes únicamente tengan pendiente de superar el módulo de formación en centros 
+4. Quienes únicamente tengan pendiente de superar el módulo de formación en centros
 de trabajo del sistema que se extingue, podrán cursar dicho módulo durante el curso 2025-
-2026. En tal caso, deberán estar matriculados en el módulo de FCT y la calificación obtenida 
-se consignará en el expediente académico del alumnado y en los documentos oficiales de 
+2026. En tal caso, deberán estar matriculados en el módulo de FCT y la calificación obtenida
+se consignará en el expediente académico del alumnado y en los documentos oficiales de
 evaluación con la denominación y codificación del plan de estudios a extinguir.
 Undécima.- Certificados Profesionales de Grado C.
-Una vez establecida la normativa básica que desarrolle los Grados A, B y C del 
-Sistema de Formación Profesional y su relación con los Grados D de las diferentes familias 
-profesionales en el sistema educativo, en aplicación de lo establecido en el Real Decreto 
-659/2023, la 
-DGFPERE dictará resolución respecto a esta materia que será complementaria 
+Una vez establecida la normativa básica que desarrolle los Grados A, B y C del
+Sistema de Formación Profesional y su relación con los Grados D de las diferentes familias
+profesionales en el sistema educativo, en aplicación de lo establecido en el Real Decreto
+659/2023, la
+DGFPERE dictará resolución respecto a esta materia que será complementaria
 a las instrucciones desarrolladas en este anexo.
-Duodécima.- Certificación de la formación de nivel básico en prevención de riesgos 
+Duodécima.- Certificación de la formación de nivel básico en prevención de riesgos
 laborales.
-1. La superación del módulo de Prevención y Salud Laboral de un ciclo formativo 
-derivado de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de 
-la Formación Profesional dará derecho al alumnado a solicitar la certificación para el 
-desempeño de las funciones de nivel básico en materia prevención de riesgos laborales, 
+1. La superación del módulo de Prevención y Salud Laboral de un ciclo formativo
+derivado de la [Ley Orgánica 3/2022](../08_personal_docente/LO3_2022_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de
+la Formación Profesional dará derecho al alumnado a solicitar la certificación para el
+desempeño de las funciones de nivel básico en materia prevención de riesgos laborales,
 conforme al desarrollo del currículo autonómico en esta materia.
-2. El centro en el que el alumnado haya superado el módulo profesional de Prevención 
-y salud laboral, y en todo caso antes de su incorporación a la formación de empresa u 
-organismo equiparado emitirá, previa solicitud de la persona interesada, la certificación de 
-la formación en nivel básico de prevención de riesgos laborales de acuerdo con el modelo 
+2. El centro en el que el alumnado haya superado el módulo profesional de Prevención
+y salud laboral, y en todo caso antes de su incorporación a la formación de empresa u
+organismo equiparado emitirá, previa solicitud de la persona interesada, la certificación de
+la formación en nivel básico de prevención de riesgos laborales de acuerdo con el modelo
 que se determina en el Anexo IX.
-3. Para el alumnado con titulaciones obtenidas con anterioridad o que ha iniciado Ciclos 
-Formativos de Formación Profesional antes de la entrada en vigor de esta Resolución, los 
-centros expedirán los certificados de formación de nivel básico en prevención de riesgos 
-laborales de acuerdo con lo establecido en la Resolución de 15 de mayo de 2019, por la 
-que se establece el procedimiento para la certificación de la formación a nivel básico en 
-prevención de riesgos laborales del alumnado que cursa ciclos formativos de formación 
-profesional básica en centros educativos de la Comunidad Autónoma de Canarias, y que 
-hayan obtenido el título de formación básica de las enseñanzas de formación profesional 
+3. Para el alumnado con titulaciones obtenidas con anterioridad o que ha iniciado Ciclos
+Formativos de Formación Profesional antes de la entrada en vigor de esta Resolución, los
+centros expedirán los certificados de formación de nivel básico en prevención de riesgos
+laborales de acuerdo con lo establecido en la Resolución de 15 de mayo de 2019, por la
+que se establece el procedimiento para la certificación de la formación a nivel básico en
+prevención de riesgos laborales del alumnado que cursa ciclos formativos de formación
+profesional básica en centros educativos de la Comunidad Autónoma de Canarias, y que
+hayan obtenido el título de formación básica de las enseñanzas de formación profesional
 establecidas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
 
 ANEXO III
-INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS 
-DE FORMACIÓN E, NIVELES 2 (ESPECIALISTA), Y 3 (MÁSTER), A PARTIR DEL 
-CURSO ESCOLAR 2024/2025 EN EL ÁMBITO DE LA COMUNIDAD AUTÓNOMA DE 
+INSTRUCCIONES PARA LA IMPLANTACIÓN Y DESARROLLO DE LOS GRADOS
+DE FORMACIÓN E, NIVELES 2 (ESPECIALISTA), Y 3 (MÁSTER), A PARTIR DEL
+CURSO ESCOLAR 2024/2025 EN EL ÁMBITO DE LA COMUNIDAD AUTÓNOMA DE
 CANARIAS.
 Primera.- Objeto y ámbito de aplicación.
-Las presentes instrucciones tienen por objeto la implantación y desarrollo de los Grados 
+Las presentes instrucciones tienen por objeto la implantación y desarrollo de los Grados
 de formación E, niveles 2 (Especialista) y 3 (Máster), a partir del curso escolar 2024-
-2025, y el establecimiento de la distribución horaria y modular de los currículos. Serán 
-de aplicación en todos los centros educativos del sistema de formación profesional de la 
+2025, y el establecimiento de la distribución horaria y modular de los currículos. Serán
+de aplicación en todos los centros educativos del sistema de formación profesional de la
 Comunidad Autónoma de Canarias.
 Segunda.- Currículos.
-1. La identificación, perfil profesional, la competencia general, las competencias 
-profesionales y para la empleabilidad, entorno profesional, módulos profesionales, resultados 
-de aprendizaje y criterios de evaluación de cada título, son los expresados en cada uno de 
+1. La identificación, perfil profesional, la competencia general, las competencias
+profesionales y para la empleabilidad, entorno profesional, módulos profesionales, resultados
+de aprendizaje y criterios de evaluación de cada título, son los expresados en cada uno de
 los reales decretos correspondientes.
-2. La actualización de la relación de los módulos profesionales que forman parte 
-del plan de estudios de cada curso de especialización viene recogida en el Real Decreto 
-497/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los 
-que se establecen, en el ámbito de la Formación Profesional, cursos de especialización de 
+2. La actualización de la relación de los módulos profesionales que forman parte
+del plan de estudios de cada curso de especialización viene recogida en el Real Decreto
+497/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los
+que se establecen, en el ámbito de la Formación Profesional, cursos de especialización de
 grado medio y superior y se fijan sus enseñanzas mínimas.
-3. La relación de módulos profesionales de cada uno de los currículos se establece en 
+3. La relación de módulos profesionales de cada uno de los currículos se establece en
 la distribución horaria de las tablas que figuran en el Anexo VII.
 Tercera.- Periodo de formación en empresa u organismo equiparado.
-Los cursos de especialización cuyos currículos así lo tengan recogido, incorporarán un 
-periodo de formación en empresa u organismo equiparado que se regirá por lo dispuesto en 
-los artículos 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución que 
-la 
+Los cursos de especialización cuyos currículos así lo tengan recogido, incorporarán un
+periodo de formación en empresa u organismo equiparado que se regirá por lo dispuesto en
+los artículos 151 al 164 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y por la Resolución que
+la
 DGFPERE dicte para tal fin.
 Cuarta.- Evaluación, permanencia y titulación.
 1. Aspectos generales de la evaluación.
-1.1. La evaluación del alumnado de los cursos de especialización responderá a lo 
+1.1. La evaluación del alumnado de los cursos de especialización responderá a lo
 dispuesto en los artículos 18 y 123 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio.
-1.2. En caso de no haber superado algún resultado de aprendizaje, el profesorado pondrá 
-en marcha las medidas de refuerzo necesarias para resolver la carencia mostrada desde el 
-momento en el que sea necesario. Este documento se revisará en la siguiente sesión de 
-evaluación a fin de valorar la evolución realizada e introducir las propuestas de mejora que 
+1.2. En caso de no haber superado algún resultado de aprendizaje, el profesorado pondrá
+en marcha las medidas de refuerzo necesarias para resolver la carencia mostrada desde el
+momento en el que sea necesario. Este documento se revisará en la siguiente sesión de
+evaluación a fin de valorar la evolución realizada e introducir las propuestas de mejora que
 se estimen convenientes.
 
-1.3. La superación del curso de especialización se producirá cuando los módulos 
-profesionales que lo componen, con sus respectivos resultados de aprendizaje, tengan 
-evaluación positiva, o bien el equipo docente, de manera colegiada, considere que se han 
+1.3. La superación del curso de especialización se producirá cuando los módulos
+profesionales que lo componen, con sus respectivos resultados de aprendizaje, tengan
+evaluación positiva, o bien el equipo docente, de manera colegiada, considere que se han
 adquirido las competencias profesionales objeto del curso.
 2. Sesiones de evaluación.
-2.1. Se entiende por sesiones de evaluación aquellas reuniones celebradas, por el equipo 
-docente y coordinada por el tutor o tutora, con el objeto de contrastar las informaciones 
-proporcionadas por el profesorado, y valorar el progreso del alumnado en la consecución 
-de los objetivos generales del curso de especialización, y de los resultados de aprendizaje 
+2.1. Se entiende por sesiones de evaluación aquellas reuniones celebradas, por el equipo
+docente y coordinada por el tutor o tutora, con el objeto de contrastar las informaciones
+proporcionadas por el profesorado, y valorar el progreso del alumnado en la consecución
+de los objetivos generales del curso de especialización, y de los resultados de aprendizaje
 previstos para cada uno de los módulos profesionales.
 2.2 Sesiones de evaluación:
 a) Sesiones de evaluaciones parciales:
-Se llevarán a cabo dos sesiones de evaluación parciales, que no coincidirán en el tiempo 
-con la final ordinaria, con el objetivo de estudiar el proceso de aprendizaje del alumnado y 
-el análisis de su progreso académico. Se cumplimentará acta de evaluación de cada una de 
+Se llevarán a cabo dos sesiones de evaluación parciales, que no coincidirán en el tiempo
+con la final ordinaria, con el objetivo de estudiar el proceso de aprendizaje del alumnado y
+el análisis de su progreso académico. Se cumplimentará acta de evaluación de cada una de
 ellas, donde se harán constar las calificaciones del alumnado en cada módulo.
-Una vez finalizada la sesión de evaluación parcial, el profesorado encargado de la 
+Una vez finalizada la sesión de evaluación parcial, el profesorado encargado de la
 tutoría informará al alumnado de su rendimiento.
 b) Evaluación Final Ordinaria.
-Se realizará en el tercer trimestre, una vez finalizado la actividad lectiva de los módulos. 
+Se realizará en el tercer trimestre, una vez finalizado la actividad lectiva de los módulos.
 En esta sesión se tomará la decisión para:
 • Alumnado que titula en el curso de especialización, por tener todos los módulos superados.
 • Alumnado con módulos pendientes que accede a la Evaluación Final Extraordinaria.
-Al alumnado de cursos de especialización que, tras la Evaluación Final Ordinaria, tenga 
-módulos profesionales no superados, se le informará de las actividades programadas para 
+Al alumnado de cursos de especialización que, tras la Evaluación Final Ordinaria, tenga
+módulos profesionales no superados, se le informará de las actividades programadas para
 la recuperación de dichos módulos pendientes en la Evaluación Final Extraordinaria.
 c) Evaluación Final Extraordinaria.
-Se realizará en junio, en las fechas de la evaluación final de los cursos de 1.º de los 
-ciclos superiores, que se indique en la resolución por la que se establece el calendario 
+Se realizará en junio, en las fechas de la evaluación final de los cursos de 1.º de los
+ciclos superiores, que se indique en la resolución por la que se establece el calendario
 escolar para cada curso. En esta sesión se tomará la decisión para:
 • Alumnado que titula en el curso de especialización, por tener todos los módulos superados.
-• Alumnado que no titula en el curso de especialización, por no tener todos los módulos 
+• Alumnado que no titula en el curso de especialización, por no tener todos los módulos
 superados.
 
 3. Calificación.
-3.1. La expresión de la calificación para cada módulo profesional responderá 
-a lo establecido en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será, 
+3.1. La expresión de la calificación para cada módulo profesional responderá
+a lo establecido en el artículo 18.8 del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, y será,
 consecuentemente, numérica entre 1 y 10, sin decimales.
-3.2. La nota final del curso de especialización será la media aritmética de los módulos 
-expresada con dos decimales, conforme a lo dispuesto en el artículo 124.2 del Real Decreto 
+3.2. La nota final del curso de especialización será la media aritmética de los módulos
+expresada con dos decimales, conforme a lo dispuesto en el artículo 124.2 del Real Decreto
 659/2023, de 18 de julio.
 4. Convocatorias y permanencia.
-4.1. El alumnado podrá permanecer cursando un curso de especialización durante un 
+4.1. El alumnado podrá permanecer cursando un curso de especialización durante un
 máximo de un curso académico, sin perjuicio de lo establecido en los párrafos siguientes.
-4.2. Cada módulo será objeto de evaluación en dos convocatorias durante el curso 
+4.2. Cada módulo será objeto de evaluación en dos convocatorias durante el curso
 académico.
-4.3. El alumnado podrá renunciar a la convocatoria de uno o varios módulos 
-profesionales, o bien anular la matrícula completa del curso de especialización, por los 
-motivos y en la forma establecidos para los ciclos formativos en la Orden de 20 de octubre 
-de 2000 y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por 
-la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional 
-Específica en el ámbito de la Comunidad Autónoma de Canarias. La renuncia a la 
+4.3. El alumnado podrá renunciar a la convocatoria de uno o varios módulos
+profesionales, o bien anular la matrícula completa del curso de especialización, por los
+motivos y en la forma establecidos para los ciclos formativos en la Orden de 20 de octubre
+de 2000 y su posterior modificación y ampliación por Orden de 3 de diciembre de 2003, por
+la que se regulan los procesos de evaluación de las enseñanzas de la Formación Profesional
+Específica en el ámbito de la Comunidad Autónoma de Canarias. La renuncia a la
 convocatoria se reflejará en los documentos de evaluación con la expresión de “renuncia”.
-4.4. La dirección del centro podrá autorizar una convocatoria extraordinaria para aquellas 
-personas que hayan agotado las convocatorias, por motivos de enfermedad o discapacidad u otras 
-situaciones sobrevenidas que condicionen o impidan el desarrollo ordinario del curso por parte 
+4.4. La dirección del centro podrá autorizar una convocatoria extraordinaria para aquellas
+personas que hayan agotado las convocatorias, por motivos de enfermedad o discapacidad u otras
+situaciones sobrevenidas que condicionen o impidan el desarrollo ordinario del curso por parte
 de la persona en formación.
 5. Titulación.
-5.1. Quienes superen un curso de especialización de Formación Profesional de grado 
+5.1. Quienes superen un curso de especialización de Formación Profesional de grado
 medio obtendrán el título de Especialista del perfil profesional correspondiente.
-5.2. Quienes superen un curso de especialización de Formación Profesional de grado 
-superior obtendrán el título de Máster de Formación Profesional del perfil profesional 
+5.2. Quienes superen un curso de especialización de Formación Profesional de grado
+superior obtendrán el título de Máster de Formación Profesional del perfil profesional
 correspondiente.
-5.3. El alumnado que no supere la totalidad de las enseñanzas del curso de especialización 
+5.3. El alumnado que no supere la totalidad de las enseñanzas del curso de especialización
 recibirá un certificado del centro.
 
 ANEXO IV
-ORIENTACIONES REFERIDAS A LA ADAPTACIÓN DEL CURRÍCULO AL 
-ENTORNO SOCIO-PRODUCTIVO DE CANARIAS Y LA METODOLOGÍA EN LAS 
+ORIENTACIONES REFERIDAS A LA ADAPTACIÓN DEL CURRÍCULO AL
+ENTORNO SOCIO-PRODUCTIVO DE CANARIAS Y LA METODOLOGÍA EN LAS
 OFERTAS DE FORMACIÓN PROFESIONAL DE GRADO D.
 Adaptación al entorno socio-productivo de Canarias.
-1. El currículo de los ciclos formativos que a partir del curso 2024-2025 se implanten 
-bajo el amparo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), se desarrollarán en los centros educativos 
-de la Comunidad Autónoma de Canarias considerando la realidad socioeconómica y las 
+1. El currículo de los ciclos formativos que a partir del curso 2024-2025 se implanten
+bajo el amparo del [Real Decreto 659/2023](./RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), se desarrollarán en los centros educativos
+de la Comunidad Autónoma de Canarias considerando la realidad socioeconómica y las
 características geográficas, socio-productivas y laborales propias del archipiélago canario.
-2. Los centros educativos que impartan formación profesional dispondrán de autonomía 
-pedagógica, organizativa y de gestión suficiente para el desarrollo de las enseñanzas y 
-su adaptación a las características del entorno socioeconómico, cultural y profesional de 
-Canarias; así mismo, los centros deberán incluir ofertas formativas de los grados B y/o C 
-del sistema de Formación Profesional, en los términos que establezca la 
+2. Los centros educativos que impartan formación profesional dispondrán de autonomía
+pedagógica, organizativa y de gestión suficiente para el desarrollo de las enseñanzas y
+su adaptación a las características del entorno socioeconómico, cultural y profesional de
+Canarias; así mismo, los centros deberán incluir ofertas formativas de los grados B y/o C
+del sistema de Formación Profesional, en los términos que establezca la
 DGFPERE.
-3. El currículo de los ciclos formativos se concretará en las programaciones didácticas 
-que podrán énfasis en la cultura de prevención de riesgos laborales en los espacios 
-donde se impartan los diferentes módulos profesionales y el proyecto intermodular. Las 
-programaciones reflejarán acciones concretas que potencien el respeto ambiental del 
-sector productivo hacia el archipiélago canario, el trabajo en equipo, la escucha activa, 
-el cumplimiento de normas de calidad, la creatividad, la innovación e investigación, la 
-igualdad de género, el respeto a cualquier diversidad, la igualdad de oportunidades, el 
-diseño para todas las personas en el marco de la Agenda 2030 y de accesibilidad universal 
+3. El currículo de los ciclos formativos se concretará en las programaciones didácticas
+que podrán énfasis en la cultura de prevención de riesgos laborales en los espacios
+donde se impartan los diferentes módulos profesionales y el proyecto intermodular. Las
+programaciones reflejarán acciones concretas que potencien el respeto ambiental del
+sector productivo hacia el archipiélago canario, el trabajo en equipo, la escucha activa,
+el cumplimiento de normas de calidad, la creatividad, la innovación e investigación, la
+igualdad de género, el respeto a cualquier diversidad, la igualdad de oportunidades, el
+diseño para todas las personas en el marco de la Agenda 2030 y de accesibilidad universal
 en relación con las personas con discapacidad.
-4. Los planes de trabajo de los centros podrán recoger proyectos de innovación e 
-investigación de carácter aplicado, con el fin de acercar al alumnado al conocimiento de la 
-manera en que la evolución tecnológica, los procesos avanzados y la transición ecológica 
-modifican el sector productivo de Canarias. Para ello se prestará especial atención a la 
-implantación de metodologías activas como el aprendizaje basado en retos y el aprendizajeservicio con el fin de que los procesos de enseñanza y aprendizaje estén conectados con la 
+4. Los planes de trabajo de los centros podrán recoger proyectos de innovación e
+investigación de carácter aplicado, con el fin de acercar al alumnado al conocimiento de la
+manera en que la evolución tecnológica, los procesos avanzados y la transición ecológica
+modifican el sector productivo de Canarias. Para ello se prestará especial atención a la
+implantación de metodologías activas como el aprendizaje basado en retos y el aprendizajeservicio con el fin de que los procesos de enseñanza y aprendizaje estén conectados con la
 realidad de los sectores productivos y el mundo laboral del archipiélago.
-5. Los centros educativos que impartan formación profesional deberán contar y 
-desarrollar planes de formación vinculados con la innovación tecnológica, la transformación 
+5. Los centros educativos que impartan formación profesional deberán contar y
+desarrollar planes de formación vinculados con la innovación tecnológica, la transformación
 digital, el aprendizaje inmersivo y las metodologías colaborativas avanzadas para el aprendizaje.
 Metodología.
-1. La metodología en el ámbito de la Formación Profesional debe contribuir a que el 
-alumnado alcance los resultados de aprendizaje incluidos en el ciclo formativo de que se 
-trate. Debe ser flexible y abierta, basada en el desarrollo del autoaprendizaje por parte del 
-alumnado, adaptándose sus condiciones, capacidades y necesidades personales permitiendo 
+1. La metodología en el ámbito de la Formación Profesional debe contribuir a que el
+alumnado alcance los resultados de aprendizaje incluidos en el ciclo formativo de que se
+trate. Debe ser flexible y abierta, basada en el desarrollo del autoaprendizaje por parte del
+alumnado, adaptándose sus condiciones, capacidades y necesidades personales permitiendo
 simultanear los procesos de aprendizaje con otro tipo de actividades y responsabilidades.
 
-2. En los Ciclos Formativos de Grado Básico, los docentes prestarán especial atención 
-a lo dictado sobre esta materia en el Decreto 9/2023, de 26 de enero, por el que se regula y 
-establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la 
+2. En los Ciclos Formativos de Grado Básico, los docentes prestarán especial atención
+a lo dictado sobre esta materia en el Decreto 9/2023, de 26 de enero, por el que se regula y
+establece el currículo de veintitrés Ciclos Formativos de Grado Básico en el ámbito de la
 Comunidad Autónoma de Canarias, además de lo establecido en este apartado.
-3. En todos los ciclos formativos de Grado D y E del Sistema de Formación Profesional 
-de Canarias, se implementará de manera progresiva una metodología de aprendizaje basada 
-en modelos colaborativos, inclusivos y prácticos, mediante la puesta en marcha de enfoques 
-didácticos y metodologías activas de enseñanza bajo los principios del Diseño Universal 
-para el Aprendizaje. En este marco, el aprendizaje colaborativo basado en retos (ABR) y el 
-aprendizaje servicio colaborativo (ASC) constituyen los modelos metodológicos clave para 
-la incorporación al aula de contextos y espacios de aprendizaje que permitan el desarrollo 
-de las competencias profesionales y para la empleabilidad del alumnado durante su proceso 
+3. En todos los ciclos formativos de Grado D y E del Sistema de Formación Profesional
+de Canarias, se implementará de manera progresiva una metodología de aprendizaje basada
+en modelos colaborativos, inclusivos y prácticos, mediante la puesta en marcha de enfoques
+didácticos y metodologías activas de enseñanza bajo los principios del Diseño Universal
+para el Aprendizaje. En este marco, el aprendizaje colaborativo basado en retos (ABR) y el
+aprendizaje servicio colaborativo (ASC) constituyen los modelos metodológicos clave para
+la incorporación al aula de contextos y espacios de aprendizaje que permitan el desarrollo
+de las competencias profesionales y para la empleabilidad del alumnado durante su proceso
 de aprendizaje.
-4. El desarrollo del currículo mediante el ABR conlleva el diseño y programación 
-de retos reales, significativos y vinculados al entorno productivo, en el que los módulos 
-impartidos se entrecruzan y se relacionan, para alcanzar los objetivos planteados en el reto 
-y los resultados de aprendizaje de carácter técnico y transversal de los módulos, así como 
-las competencias profesionales y para la empleabilidad del alumnado, desarrollando su 
+4. El desarrollo del currículo mediante el ABR conlleva el diseño y programación
+de retos reales, significativos y vinculados al entorno productivo, en el que los módulos
+impartidos se entrecruzan y se relacionan, para alcanzar los objetivos planteados en el reto
+y los resultados de aprendizaje de carácter técnico y transversal de los módulos, así como
+las competencias profesionales y para la empleabilidad del alumnado, desarrollando su
 pensamiento crítico.
-5. El desarrollo del currículo mediante el ASC pretende combinar procesos de aprendizaje 
-y de servicio a la comunidad a través de un proyecto o reto cuya articulación permita al 
-alumnado alcanzar los resultados de aprendizaje de carácter técnico y transversal que son 
-propios de los módulos, así como sus competencias profesionales y para la empleabilidad 
+5. El desarrollo del currículo mediante el ASC pretende combinar procesos de aprendizaje
+y de servicio a la comunidad a través de un proyecto o reto cuya articulación permita al
+alumnado alcanzar los resultados de aprendizaje de carácter técnico y transversal que son
+propios de los módulos, así como sus competencias profesionales y para la empleabilidad
 mientras trabajan en necesidades reales del entorno con la finalidad de mejorarlo.
-6. El uso de las metodologías activas señaladas, trabajando el equipo docente con el 
-alumnado sin diferenciar los módulos profesionales, implica que la programación didáctica 
-de la oferta formativa que lleve a cabo el centro educativo, debe recoger todos los resultados 
-de aprendizaje sujetos a evaluación. La calificación y registro en los documentos oficiales 
+6. El uso de las metodologías activas señaladas, trabajando el equipo docente con el
+alumnado sin diferenciar los módulos profesionales, implica que la programación didáctica
+de la oferta formativa que lleve a cabo el centro educativo, debe recoger todos los resultados
+de aprendizaje sujetos a evaluación. La calificación y registro en los documentos oficiales
 de evaluación se deberá adecuar al módulo profesional o proyecto.
-7. Durante los periodos de alternancia con la formación en empresa u organismo 
-equiparado, el equipo docente deberá trabajar con el alumnado, empleando estas metodologías, 
-retos o necesidades del entorno previamente planificado por el profesorado de los módulos 
+7. Durante los periodos de alternancia con la formación en empresa u organismo
+equiparado, el equipo docente deberá trabajar con el alumnado, empleando estas metodologías,
+retos o necesidades del entorno previamente planificado por el profesorado de los módulos
 profesionales correspondientes.
 
 ANEXO V
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 1 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 1
 (CICLOS FORMATIVOS DE GRADO BÁSICO)
 CICLO FORMATIVO DE GRADO BÁSICO EN
 INFORMÁTICA DE OFICINA (12342002)
@@ -1141,7 +1142,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Informática de Oficina
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1152,52 +1153,52 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3029 Montaje y mantenimiento de sistemas y 
+3029 Montaje y mantenimiento de sistemas y
 componentes informáticos* 302 9
 3031 Ofimática y archivo de documentos 236 7
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3016 Instalación y mantenimiento de redes para 
+3016 Instalación y mantenimiento de redes para
 transmisión de datos* 269 8
-3030 Operaciones auxiliares para la configuración y 
+3030 Operaciones auxiliares para la configuración y
 la explotación*  302 9
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 ANEXO V
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D,
 NIVEL 1 (CICLOS FORMATIVOS DE GRADO BÁSICO)
 
 CICLO FORMATIVO DE GRADO BÁSICO EN
 SERVICIOS ADMINISTRATIVOS (12342101)
 Distribución horaria semanal por cursos.
-Ciclo formativo de grado básico en Servicios Administrativos 
+Ciclo formativo de grado básico en Servicios Administrativos
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1208,36 +1209,36 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3001 Tratamiento informático de datos* 236 7
 3003 Técnicas administrativas básicas* 236 7
-3006 Preparación de pedidos y venta de 
+3006 Preparación de pedidos y venta de
 productos* 66 2
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3002 Aplicaciones básicas de ofimática* 302 9
 3005 Atención al cliente* 66 2
 3004 Archivo y comunicación*  203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1250,7 +1251,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Actividades Agropecuarias
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1261,41 +1262,41 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3051 Operaciones auxiliares de preparación del 
+3051 Operaciones auxiliares de preparación del
 terreno, plantación y siembra de cultivos* 132 4
-3052 Operaciones auxiliares de obtención y 
+3052 Operaciones auxiliares de obtención y
 recolección de cultivos 236 7
-3114 Operaciones básicas de manejo de la 
+3114 Operaciones básicas de manejo de la
 producción ganadera 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
-3111 Envasado y distribución de materias primas 
+3111 Envasado y distribución de materias primas
 agroalimentarias 170 5
-3113 Operaciones auxiliares de cría y 
+3113 Operaciones auxiliares de cría y
 alimentación del ganado 231 7
-3115 Operaciones auxiliares de mantenimiento e 
+3115 Operaciones auxiliares de mantenimiento e
 higiene en instalaciones ganaderas 170 5
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1308,7 +1309,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Agro-jardinería y Composiciones Florales
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1319,44 +1320,44 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3050 Actividades de riego, abonado y 
+3050 Actividades de riego, abonado y
 tratamientos en cultivos 135 4
-3051 Operaciones auxiliares de preparación del 
+3051 Operaciones auxiliares de preparación del
 terreno, plantación y siembra de cultivos* 135 4
-Operaciones básicas de producción y 
-mantenimiento de plantas en viveros y 
+Operaciones básicas de producción y
+mantenimiento de plantas en viveros y
 centros de jardinería*
 198 6
 3057 Materiales de floristería 70 2
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3054 Operaciones auxiliares en la elaboración de 
+3054 Operaciones auxiliares en la elaboración de
 composiciones con flores y planta 203 6
-3055 Operaciones básicas en instalación de 
+3055 Operaciones básicas en instalación de
 jardines, parques y zonas verdes 203 6
-3056 Operaciones básicas para el mantenimiento de 
+3056 Operaciones básicas para el mantenimiento de
 jardines, parques y zonas verdes* 165 5
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1369,7 +1370,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Aprovechamientos Forestales
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1380,39 +1381,39 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-Operaciones básicas de producción y 
-mantenimiento de plantas en viveros y 
+Operaciones básicas de producción y
+mantenimiento de plantas en viveros y
 centros de jardinería*
 165 5
-3056 Operaciones básicas para el mantenimiento 
+3056 Operaciones básicas para el mantenimiento
 de jardines, parques y zonas verdes* 134 4
 3119 Trabajos de aprovechamientos forestales 140 4
 3121 Recolección de productos forestales 99 3
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3118 Repoblación e infraestructuras forestales 335 10
 3120 Silvicultura y plagas 236 7
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1425,7 +1426,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Artes Gráficas
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1436,39 +1437,39 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3005 Atención al cliente* 66 2
-3123 Informática básica aplicada en industrias 
+3123 Informática básica aplicada en industrias
 gráficas 99 3
 3124 Trabajos de reprografía 203 6
-3125 Acabados de reprografía y finalización de 
+3125 Acabados de reprografía y finalización de
 productos gráficos 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3126 Operaciones de almacén en industrias 
+3126 Operaciones de almacén en industrias
 gráficas 99 3
 3127 Operaciones de producción gráfica 236 7
 3128 Manipulados en industrias gráficas 236 7
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1481,7 +1482,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Servicios Comerciales
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1492,36 +1493,36 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3001 Tratamiento informático de datos* 236 7
-3006 Preparación de pedidos y venta de 
+3006 Preparación de pedidos y venta de
 productos* 66 2
 3069 Técnicas básicas de merchandising 236 7
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3002 Aplicaciones básicas de ofimática* 302 9
 3005 Atención al cliente* 66 2
 3070 Operaciones auxiliares de almacenaje*  203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1534,7 +1535,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Reforma y Mantenimiento de Edificios
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1545,37 +1546,37 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3082 Albañilería básica 236 7
 3083 Guarnecidos y enlucidos 99 3
-3086 Reformas y mantenimiento básico de 
+3086 Reformas y mantenimiento básico de
 edificios 203 6
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3084 Falsos techos 165 5
 3085 Pintura y empapelado 203 6
-3087 Trabajos de pavimentación exterior y 
+3087 Trabajos de pavimentación exterior y
 urbanización 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1588,7 +1589,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Electricidad y Electrónica
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1599,12 +1600,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -1614,19 +1615,19 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3014 Instalaciones de telecomunicaciones* 269 8
-3016 Instalaciones y mantenimiento de redes 
+3016 Instalaciones y mantenimiento de redes
 para transmisión de datos* 302 9
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1639,7 +1640,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Fabricación de Elementos Metálicos
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1650,12 +1651,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
-sociales I 
+Comunicación
+y ciencias
+sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -1666,18 +1667,18 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3015 Equipos eléctricos y electrónicos* 302 9
 3022 Carpintería de aluminio y PVC* 269 8
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1690,7 +1691,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Instalaciones Electrotécnicas y Mecánica
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1701,12 +1702,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -1717,18 +1718,18 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3014 Instalaciones de telecomunicaciones* 269 8
 3022 Carpintería de aluminio y PVC* 302 9
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1741,7 +1742,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Fabricación y Montaje
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1752,12 +1753,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -1768,19 +1769,19 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3021 Soldadura y carpintería metálica* 203 6
 3022 Carpintería de aluminio y PVC* 269 8
 3025 Montaje de equipos de climatización* 99 3
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1793,7 +1794,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Actividades en Panadería y Pastelería
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1804,35 +1805,35 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3005 Atención al cliente* 66 2
 3017 Procesos básicos de pastelería 302 9
-3133 Operaciones auxiliares en la industria 
+3133 Operaciones auxiliares en la industria
 alimentaria* 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3007 Procesos básicos de panadería 368 11
 3026 Dispensación en panadería y pastelería 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1845,7 +1846,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Alojamiento y Lavandería
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1856,12 +1857,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -1873,22 +1874,22 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3039 Preparación y montaje de materiales para 
+3039 Preparación y montaje de materiales para
 colectividades y catering* 99 3
-3130 Puesta a punto de habitaciones y zonas 
+3130 Puesta a punto de habitaciones y zonas
 comunes en alojamientos 269 8
-3131 Lavandería y mantenimiento de lencería en 
+3131 Lavandería y mantenimiento de lencería en
 el alojamiento 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1901,7 +1902,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Cocina y Restauración
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1912,39 +1913,39 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3005 Atención al cliente* 66 2
 3037 Técnicas elementales de servicio 170 5
-3038 Procesos básicos de preparación de 
+3038 Procesos básicos de preparación de
 alimentos y bebidas 203 6
-3039 Preparación y montaje de materiales para 
+3039 Preparación y montaje de materiales para
 colectividades y catering* 99 3
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3034 Técnicas elementales de preelaboración 203 6
 3035 Procesos básicos de producción culinaria 236 7
-3036 Aprovisionamiento y conservación de 
+3036 Aprovisionamiento y conservación de
 materias primas e higiene en la manipulación 132 4
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -1957,7 +1958,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Peluquería y Estética
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -1968,37 +1969,37 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3060 Preparación del entorno profesional 99 3
-3062 Depilación mecánica y decoloración del 
+3062 Depilación mecánica y decoloración del
 vello superfluo 99 3
 3064 Lavado y cambios de forma del cabello 170 5
 3065 Cambio de color en el cabello 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3005 Atención al cliente* 66 2
 3061 Cuidados estéticos básicos de uñas 236 7
 3063 Maquillaje 269 8
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2011,7 +2012,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Industrias Alimentarias
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2022,36 +2023,36 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3070 Operaciones auxiliares de almacenaje 198 6
-3133 Operaciones auxiliares en la industria 
+3133 Operaciones auxiliares en la industria
 alimentaria* 170 5
-3135 Limpieza y mantenimiento de instalaciones 
+3135 Limpieza y mantenimiento de instalaciones
 y equipos 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3134 Elaboraciones de productos alimentarios 368 11
 3136 Operaciones básicas de laboratorio 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2064,7 +2065,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Informática y Comunicaciones
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2075,36 +2076,36 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3015 Equipos eléctricos y electrónicos* 269 8
-3016 Instalación y mantenimiento de redes para 
+3016 Instalación y mantenimiento de redes para
 transmisión de datos* 269 8
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3029 Montaje y mantenimiento de sistemas y 
+3029 Montaje y mantenimiento de sistemas y
 componentes informáticos* 302 9
-3030 Operaciones auxiliares para la configuración 
+3030 Operaciones auxiliares para la configuración
 y la explotación*  269 8
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2117,7 +2118,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Mantenimiento de Viviendas
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2128,12 +2129,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -2144,20 +2145,20 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
-3088 Mantenimiento básico de instalaciones 
+3088 Mantenimiento básico de instalaciones
 electrotécnicas en viviendas 236 7
-3090 Operaciones de conservación en la vivienda 
+3090 Operaciones de conservación en la vivienda
 y montaje de accesorios 335 10
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2170,7 +2171,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Carpintería y Mueble
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2181,37 +2182,37 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales 132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3074 Operaciones básicas de mecanizado de 
+3074 Operaciones básicas de mecanizado de
 madera y derivados 269 8
 3077 Materiales y productos textiles* 99 3
 3078 Tapizado de muebles* 170 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas aplicadas y Ciencias aplicadas 132 4
 Profesional
 3005 Atención al cliente* 66 2
-3075 Instalación de elementos de carpintería y 
+3075 Instalación de elementos de carpintería y
 mueble 269 8
 3076 Acabados básicos de madera 236 7
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2224,7 +2225,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Actividades Domésticas y Limpieza de Edificios
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2235,17 +2236,17 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
-3098 Mantenimiento de prendas de vestir y ropa 
+3098 Mantenimiento de prendas de vestir y ropa
 de hogar 165 5
 3102 Cocina doméstica 210 6
 3104 Limpieza de domicilios particulares,
@@ -2253,20 +2254,20 @@ edificios, oficinas y locales 163 5
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3116 Limpieza con máquinas 165 5
-3145 Actividades de apoyo a personas no 
+3145 Actividades de apoyo a personas no
 dependientes en la unidad convencional 203 6
 3146 Seguridad en el ámbito doméstico 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2279,7 +2280,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Tapicería y Cortinaje
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2290,36 +2291,36 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3077 Materiales y productos textiles* 99 3
 3100 Confección y montaje de cortinas y estores 236 7
-3101 Confección de artículos textiles para 
+3101 Confección de artículos textiles para
 decoración* 203 6
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3005 Atención al cliente* 66 2
 3078 Tapizado de muebles* 203 6
 3099 Tapizado de murales y entelado de superficies 302 9
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2332,7 +2333,7 @@ Distribución horaria semanal por cursos.
 Ciclo formativo de grado básico en Mantenimiento de Vehículos
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2343,12 +2344,12 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -2359,18 +2360,18 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3046 Electricidad de vehículos 269 8
 3047 Mecánica del vehículo 302 9
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2380,11 +2381,11 @@ DURACIÓN TOTAL DEL CICLO 2000
 CICLO FORMATIVO DE GRADO BÁSICO EN
 ACCESO Y CONSERV ACIÓN EN INSTALACIONES DEPORTIV AS (12342501)
 Distribución horaria semanal por cursos.
-Ciclo formativo de grado básico en 
+Ciclo formativo de grado básico en
 Acceso y Conservación en Instalaciones Deportivas
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2395,42 +2396,42 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3003 Técnicas administrativas básicas* 203 6
 3005  Atención al cliente* 66 2
-3148 Acceso de usuarios y organización de la 
+3148 Acceso de usuarios y organización de la
 instalación físico-deportiva 66 2
-3150 Reparación de averías y reposición de 
+3150 Reparación de averías y reposición de
 enseres 203 6
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
 3004 Archivo y comunicación* 165 5
-Asistencia en la organización de espacios, 
-actividades y reparto de material en la 
+Asistencia en la organización de espacios,
+actividades y reparto de material en la
 instalación físico-deportiva
 203 6
-3151 Operaciones básicas de prevención en las 
+3151 Operaciones básicas de prevención en las
 instalaciones deportivas 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2440,11 +2441,11 @@ DURACIÓN TOTAL DEL CICLO 2000
 CICLO FORMATIVO DE GRADO BÁSICO EN
 MANTENIMIENTO DE EMBARCACIONES DEPORTIV AS Y DE RECREO (12341202)
 Distribución horaria semanal por cursos.
-Ciclo formativo de grado básico en 
+Ciclo formativo de grado básico en
 Mantenimiento de Embarcaciones Deportivas y de Recreo
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2455,40 +2456,40 @@ anuales
 2º Curso
 33 sem
 h/sem h/sem
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
 Profesional
 3043 Mecanizado y soldadura* 140 4
-3028 Reparación estructural básica de 
+3028 Reparación estructural básica de
 embarcaciones deportivas 264 8
-3040 Protección y embellecimiento de 
+3040 Protección y embellecimiento de
 superficies de embarcaciones 134 4
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3048 Mantenimiento básico de la planta 
+3048 Mantenimiento básico de la planta
 propulsora y equipos asociados 203 6
-3066 Mantenimiento básico de sistemas eléctricos 
+3066 Mantenimiento básico de sistemas eléctricos
 e informáticos 203 6
-3068 Mantenimiento básico de aparejos de 
+3068 Mantenimiento básico de aparejos de
 embarcaciones deportivas 165 5
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2502,7 +2503,7 @@ Ciclo formativo de grado básico en
 Vidriería y Alfarería
 Ámbitos
 Código
-Real 
+Real
 Decreto
 Materias - Módulos profesionales
 Duración
@@ -2512,13 +2513,13 @@ anuales
 33 sem
 2º Curso
 33 sem
-h/sem h/sem 
-Comunicación 
-y ciencias 
+h/sem h/sem
+Comunicación
+y ciencias
 sociales I
 Lengua castellana  y Ciencias sociales  132 4
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas I 3163
 Matemáticas y Ciencias aplicadas 132 4
 Actividad física y bienestar emocional 66 2
@@ -2530,21 +2531,21 @@ Profesional
 Prevención y salud laboral 33 1
 Tutoría 33 1
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
-Comunicación 
-y ciencias 
+Comunicación
+y ciencias
 sociales II
 Lengua castellana  y Ciencias sociales 66 2
 Lengua extranjera de iniciación profesional 66 2
-Ciencias 
+Ciencias
 aplicadas II 3164 Matemáticas y Ciencias aplicadas 132 4
 Profesional
-3108 Mecanizados manuales y aplicaciones 
+3108 Mecanizados manuales y aplicaciones
 superficiales 165 5
 3109 Termoformado, fusing y vidrieras 203 6
-3110 Mecanizados manuales y semiautomáticos 
+3110 Mecanizados manuales y semiautomáticos
 con vidrio fundido y tubos de vidrio 203 6
 3159 Itinerario personal para la empleabilidad 66 2
-3160 Proyecto intermodular de aprendizaje 
+3160 Proyecto intermodular de aprendizaje
 colaborativo (GB) 66 2
 Tutoría 33 1
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -2552,12 +2553,12 @@ DURACIÓN TOTAL DEL CICLO 2000
 *Módulos comunes a otros ciclos formativos de grado básico.
 
 ANEXO VI
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3 (CICLOS FORMATIVOS DE GRADO 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3 (CICLOS FORMATIVOS DE GRADO
 MEDIO Y SUPERIOR)
 ESPECIALIDAD: CFGM GUÍA EN EL MEDIO NATURAL Y DE TIEMPO LIBRE (12142502)
 FAMILIA PROFESIONAL: ACTIVIDADES FÍSICAS Y DEPORTIV AS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -2588,7 +2589,7 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 ANEXO VI
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS D, NIVEL 2 Y 3
 (CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR)
 
 ESPECIALIDAD: CFGS ACONDICIONAMIENTO FÍSICO (12242501)
@@ -2662,7 +2663,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM GESTIÓN ADMINISTRATIV A (12142101)
 FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -2763,7 +2764,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM APROVECHAMIENTO Y CONSERV ACIÓN DEL MEDIO NATURAL (12140104)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -2793,10 +2794,10 @@ DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
-ESPECIALIDAD: CFGM JARDINERÍA Y FLORISTERÍA (12140103)   
+ESPECIALIDAD: CFGM JARDINERÍA Y FLORISTERÍA (12140103)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -2830,7 +2831,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM PRODUCCIÓN AGROECOLÓGICA (12140101)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -2863,7 +2864,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM PRODUCCIÓN AGROPECUARIA (12140102)
 FAMILIA PROFESIONAL: AGRARIA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3001,7 +3002,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM IMPRESIÓN GRÁFICA (12141803)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3031,7 +3032,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM PREIMPRESIÓN DIGITAL (12141802)
 FAMILIA PROFESIONAL: ARTES GRÁFICAS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3086,7 +3087,7 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 1485 Desarrollo y publicación de productos editoriales multimedia 10 234 7 SI
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 1486 Proyecto intermodular de diseño y edición de publicaciones impresas y 
+2 1486 Proyecto intermodular de diseño y edición de publicaciones impresas y
 multimedia 5 64 2
 2 Módulo  profesional optativo 5 96 3
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -3130,7 +3131,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM ACTIVIDADES COMERCIALES (12142201)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3163,7 +3164,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM COMERCIALIZACIÓN DE PRODUCTOS ALIMENTARIOS (12142202)
 FAMILIA PROFESIONAL: COMERCIO Y MARKETING Y HOSTELERÍA Y TURISMO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3335,7 +3336,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM CONSTRUCCIÓN (12141401)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3369,7 +3370,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM OBRAS DE INTERIOR, DECORACIÓN Y REHABILITACIÓN (12141402)
 FAMILIA PROFESIONAL: EDIFICACIÓN Y OBRA CIVIL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3508,7 +3509,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM INSTALACIONES  ELÉCTRICAS Y AUTOMÁTICAS (12141001)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3540,7 +3541,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM INSTALACIONES DE TELECOMUNICACIONES (12141002)
 FAMILIA PROFESIONAL: ELECTRICIDAD Y ELECTRÓNICA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3745,7 +3746,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM REDES Y ESTACIONES DE TRATAMIENTO DE AGUAS (12141101)
 FAMILIA PROFESIONAL: ENERGÍA Y AGUA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3882,7 +3883,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM MECANIZADO (12140801)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -3913,7 +3914,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM SOLDADURA Y CALDERERÍA (12140802)
 FAMILIA PROFESIONAL: FABRICACIÓN MECÁNICA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4010,7 +4011,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM COCINA Y GASTRONOMÍA (12142401)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4040,7 +4041,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM SERVICIOS EN RESTAURACIÓN (12142402)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4173,7 +4174,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
-ESPECIALIDAD: CFGS GESTIÓN DE ALOJAMIENTOS TURÍSTICOS (12242401) 
+ESPECIALIDAD: CFGS GESTIÓN DE ALOJAMIENTOS TURÍSTICOS (12242401)
 FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO
 Curso
 Código
@@ -4241,12 +4242,12 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
-Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe     
+Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
 ESPECIALIDAD: CFGM ESTÉTICA Y BELLEZA (12140501)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4280,7 +4281,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM PELUQUERÍA Y COSMÉTICA CAPILAR (12140502)
 FAMILIA PROFESIONAL: IMAGEN PERSONAL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4453,7 +4454,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM VIDEO DISC-JOCKEY Y SONIDO (12141901)
 FAMILIA PROFESIONAL: IMAGEN Y SONIDO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4653,7 +4654,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM ACEITES DE OLIV A Y VINOS (12140302)
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4686,7 +4687,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM PANADERÍA, REPOSTERÍA Y CONFITERÍA (12140301)
 FAMILIA PROFESIONAL: INDUSTRIAS ALIMENTARIAS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4753,7 +4754,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM EXCA V ACIONES Y SONDEOS (12141302)
 FAMILIA PROFESIONAL: INDUSTRIAS EXTRACTIV AS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4785,7 +4786,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM SISTEMAS MICROINFORMÁTICOS Y REDES (12142001)
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4920,7 +4921,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM INSTALACIONES DE PRODUCCIÓN DE CALOR (12140901)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4951,7 +4952,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM INSTALACIONES FRIGORÍFICAS Y DE CLIMATIZACIÓN (12140902)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -4982,7 +4983,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM MANTENIMIENTO ELECTROMECÁNICO (12140903)
 FAMILIA PROFESIONAL: INSTALACIÓN Y MANTENIMIENTO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5082,7 +5083,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM CARPINTERÍA Y MUEBLE (12141601)
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5115,7 +5116,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM INSTALACIÓN Y AMUEBLAMIENTO (12141602)
 FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5181,7 +5182,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM CULTIVOS ACUÍCOLAS (12140201)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5211,7 +5212,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM MANTENIMIENTO Y CONTROL DE LA MAQUINARIA DE BUQUES Y EMBARCACIONES (12140202)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5222,7 +5223,7 @@ Asociados a UC
 1 1032 Seguridad marítima* 96 3 SI
 1 1172 Mantenimiento de la planta propulsora y maquinaria auxiliar 237 7 SI
 1 1173 Procedimiento de mecanizado y soldadura en buques y embarcaciones 237 7 SI
-1 1175 Mantenimiento de las instalaciones y máquinas eléctricas en buques y 
+1 1175 Mantenimiento de las instalaciones y máquinas eléctricas en buques y
 embarcaciones* 174 5 SI
 1 0156 Inglés profesional (GM)* 96 3
 1 1664 Digitalización aplicada a los sectores productivos (GM) 64 2
@@ -5244,7 +5245,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM NA VEGACIÓN Y PESCA DE LITORAL (12140203)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5276,7 +5277,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM OPERACIONES SUBACUÁTICAS E HIPERBÁRICAS (12140204)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5340,7 +5341,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
 ESPECIALIDAD: CFGS ORGANIZACIÓN DEL MANTENIMIENTO DE MAQUINARIA DE BUQUES Y EMBARCACIONES (12240203)
-FAMILIA PROFESIONAL: MARÍTIMO PESQUERA   
+FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
 Curso
 Código
 Real Decreto
@@ -5352,20 +5353,20 @@ horas anuales
 Asociados a UC
 (h/semana) (h/semana)
 1 0800 Control de emergencias* 12 138 4 SI
-1 1308 Organización del mantenimiento de planta propulsora y maquinaria auxiliar de 
+1 1308 Organización del mantenimiento de planta propulsora y maquinaria auxiliar de
 buques 16 234 7 SI
-1 1309 Organización del mantenimiento en seco de buques y embarcaciones y montaje 
+1 1309 Organización del mantenimiento en seco de buques y embarcaciones y montaje
 de motores térmicos 14 202 6 SI
-1 1311 Organización del mantenimiento y montaje de instalaciones y sistemas eléctricos 
+1 1311 Organización del mantenimiento y montaje de instalaciones y sistemas eléctricos
 de buques y embarcaciones 11 170 5 SI
 1 0179 Inglés profesional (GS)* 5 96 3 SI
 1 1665 Digitalización aplicada a los sectores productivos (GS) 3 64 2
 1 1709 Itinerario personal para la empleabilidad I 5 96 3
 DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 0802 Organización de la asistencia sanitaria a bordo* 6 64 2 SI
-2 1310 Programación y mantenimiento de automatismos hidráulicos y neumáticos en 
+2 1310 Programación y mantenimiento de automatismos hidráulicos y neumáticos en
 buques y embarcaciones 10 205 6 SI
-2 1312 Organización del mantenimiento y montaje de instalaciones frigoríficas y 
+2 1312 Organización del mantenimiento y montaje de instalaciones frigoríficas y
 sistemas de climatización de buques y embarcaciones 10 205 6 SI
 2 1313 Planificación del mantenimiento de maquinaria de buques y embarcaciones 5 174 5 SI
 2 1314 Organización de la guardia de máquinas 5 64 2
@@ -5377,7 +5378,7 @@ buques y embarcaciones 5 64 2
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
 DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
-Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe  
+Los módulos profesionales asociados a unidades de competencia (UC) son susceptibles de ser impartidos en bilingüe
 
 ESPECIALIDAD: CFGS TRANSPORTE MARÍTIMO Y PESCA DE ALTURA (12240201)
 FAMILIA PROFESIONAL: MARÍTIMO PESQUERA
@@ -5415,7 +5416,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM OPERACIONES DE LABORATORIO (12140402)
 FAMILIA PROFESIONAL: QUÍMICA
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5472,11 +5473,11 @@ DURACIÓN TOTAL DEL PRIMER CURSO 1000 30
 2 1393 Técnicas de producción biotecnológica 7 170 5 SI
 2 1394 Técnicas de producción farmacéutica y afines 10 170 5 SI
 2 1395 Regulación y control en la industria farmacéutica, biotecnológica y afines 6 138 4 SI
-2 1396 Acondicionamiento y almacenamiento de productos farmacéuticos, 
+2 1396 Acondicionamiento y almacenamiento de productos farmacéuticos,
 biotecnológicos y afines 5 96 3 SI
 2 1708 Sostenibilidad aplicada al sistema productivo 3 32 1
 2 1710 Itinerario personal para la empleabilidad II 5 96 3
-2 1397 Proyecto intermodular de fabricación de productos farmacéuticos, 
+2 1397 Proyecto intermodular de fabricación de productos farmacéuticos,
 biotecnológicos y afines 5 64 2
 2 Módulo profesional optativo 5 96 3
 DURACIÓN TOTAL DEL SEGUNDO CURSO 1000 30
@@ -5555,7 +5556,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM EMERGENCIAS SANITARIAS (12140601)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5588,7 +5589,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM FARMACIA Y PARAFARMACIA (12140602)
 FAMILIA PROFESIONAL: SANIDAD
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5889,7 +5890,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM EMERGENCIAS Y PROTECCIÓN CIVIL (12140701)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -5923,7 +5924,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM SEGURIDAD (12140702)
 FAMILIA PROFESIONAL: SEGURIDAD Y MEDIO AMBIENTE
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6068,7 +6069,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM ATENCIÓN A PERSONAS EN SITUACIÓN DE DEPENDENCIA (12142301)
 FAMILIA PROFESIONAL: SERVICIOS SOCIOCULTURALES Y A LA COMUNIDAD
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6255,7 +6256,7 @@ horas anuales
 Asociados a UC
 (h/semana) (h/semana)
 1 0343 Sistemas aumentativos y alternativos de comunicación* 11 141 4 SI
-1 1111 Metodología de la integración social de las personas con dificultades de 
+1 1111 Metodología de la integración social de las personas con dificultades de
 comunicación, lenguaje y habla 5 64 2 SI
 1 1112 Sensibilización social y participación 6 96 3 SI
 1 1114 Contexto de la mediación comunicativa con personas sordociegas 10 141 4 SI
@@ -6317,7 +6318,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD: CFGM CALZADO Y COMPLEMENTOS DE MODA (12141702)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6350,7 +6351,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM CONFECCIÓN Y MODA (12141701)
 FAMILIA PROFESIONAL: TEXTIL, CONFECCIÓN Y PIEL
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6450,7 +6451,7 @@ Los módulos profesionales asociados a unidades de competencia (UC) son suscepti
 ESPECIALIDAD:  CFGM CARROCERÍA (12141201)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6480,7 +6481,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM CONDUCCIÓN DE VEHÍCULOS DE TRANSPORTE POR CARRETERA (12141204)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6511,7 +6512,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD:  CFGM ELECTROMECÁNICA DE MAQUINARIA (12141203)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6543,7 +6544,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD:  CFGM ELECTROMECÁNICA DE VEHÍCULOS AUTOMÓVILES (12141202)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6574,7 +6575,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD:  CFGM MANTENIMIENTO DE MATERIAL RODANTE FERROVIARIO (12141205)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6606,7 +6607,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2000
 ESPECIALIDAD: CFGM MANTENIMIENTO DE ESTRUCTURAS DE MADERA Y MOBILIARIO DE EMBARCACIONES DE RECREO (12141207)
 FAMILIA PROFESIONAL: TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS
 Curso
-Código 
+Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
 Duración
@@ -6676,7 +6677,7 @@ Curso
 Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
-Créditos 
+Créditos
 ECTS
 Duración
 horas anuales
@@ -6715,7 +6716,7 @@ Curso
 Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
-Créditos 
+Créditos
 ECTS
 Duración
 horas anuales
@@ -6755,7 +6756,7 @@ Curso
 Código
 Real Decreto
 DENOMINACIÓN DEL MÓDULO
-Créditos 
+Créditos
 ECTS
 Duración
 horas anuales
@@ -6791,7 +6792,7 @@ DURACIÓN TOTAL DEL CICLO FORMATIVO 2605
 *Módulos profesionales idénticos a otros títulos de Formación Profesional
 
 ANEXO VII
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E, NIVEL 2 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E, NIVEL 2
 Y 3 (CURSOS DE ESPECIALIZACIÓN)
 1. Curso de especialización en Implementación de redes 5G (Acceso GM) (12541001).
 Familia Profesional: Electricidad y Electrónica.
@@ -6832,7 +6833,7 @@ semanales
 5063 Transmisión de fuerzas y gestión térmica 150 5
 Totales 660 22
 ANEXO VII
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E, 
+DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E,
 NIVEL 2 Y 3 (CURSOS DE ESPECIALIZACIÓN)
 
 4. Curso de especialización en Panadería y bollería artesanales (Acceso GM) (12542401).
@@ -6956,7 +6957,7 @@ semanales
 5035 Sistemas avanzados de ayuda al mantenimiento 8 120 4
 Totales 36 600 20
 11. Curso de especialización en Inteligencia artificial y Big Data (Acceso GS) (12442003).
-Familia Profesional: Informática y Comunicaciones. 
+Familia Profesional: Informática y Comunicaciones.
 Código
 Real Decreto MÓDULOS PROFESIONALES Créditos
 ECTS
@@ -7058,19 +7059,19 @@ Totales 24 420 14
 
 (Anverso)
 ANEXO VIII
-D./Dña. _______________________________________________________________________________, 
-Secretario/Secretaria del centro _____________________________________________________________, 
-código ___________________ localidad _____________________________________________________, 
+D./Dña. _______________________________________________________________________________,
+Secretario/Secretaria del centro _____________________________________________________________,
+código ___________________ localidad _____________________________________________________,
 provincia de _______________________________
 CERTIFICA:
-Que  el/la  alumno/alumna  D./Dña.  _________________________________________________  con  
-documento de identidad nº _____________________, ha superado  la formación en prevención de riesgos  
-laborales  del  ciclo  formativo  de  Grado  (1)   _________________________  denominado  (2)  
-______________________________________________________,  regulado  por  el  Real  Decreto  (3)  
-__________________________, que incluye la formación que capacita para llevar a cabo responsabilidades  
-profesionales  equivalentes  a las que precisan las  actividades de nivel básico en prevención de riesgos  
-laborales establecidas en el [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de  
-los Servicios de Prevención, con la duración y contenidos que se especifican en el reverso de la presente  
+Que  el/la  alumno/alumna  D./Dña.  _________________________________________________  con
+documento de identidad nº _____________________, ha superado  la formación en prevención de riesgos
+laborales  del  ciclo  formativo  de  Grado  (1)   _________________________  denominado  (2)
+______________________________________________________,  regulado  por  el  Real  Decreto  (3)
+__________________________, que incluye la formación que capacita para llevar a cabo responsabilidades
+profesionales  equivalentes  a las que precisan las  actividades de nivel básico en prevención de riesgos
+laborales establecidas en el [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que se aprueba el Reglamento de
+los Servicios de Prevención, con la duración y contenidos que se especifican en el reverso de la presente
 certificación.
 Y , para que conste y surta los efectos oportunos, expido el presente certificado en
 _____________________________, a _____ de ________________ de _________.
@@ -7081,7 +7082,7 @@ Fdo: Fdo:
 (3) Real Decreto por el que se establece el título
 
 (Reverso)
-CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS 
+CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS
 FUNCIONES DE NIVEL BÁSICO
 Duración: 50 horas.
 I. Conceptos básicos sobre seguridad y salud en el trabajo.
@@ -7111,22 +7112,22 @@ Total horas: 5.
 
 (Anverso)
 ANEXO IX
-D./Dña.  ______________________________________________________________  Secretario/Secretaria 
-del centro _________________________________________________código ________________________ 
-Localidad_______________________________provincia  de  ________________________________que  
-imparte el Ciclo Formativo de Grado Básico (1)_________________________________________, regulado 
-por  el  Real  Decreto  (2)_______________________________________________  y  desarrollado  por  el 
-Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés Ciclos Formativos  
+D./Dña.  ______________________________________________________________  Secretario/Secretaria
+del centro _________________________________________________código ________________________
+Localidad_______________________________provincia  de  ________________________________que
+imparte el Ciclo Formativo de Grado Básico (1)_________________________________________, regulado
+por  el  Real  Decreto  (2)_______________________________________________  y  desarrollado  por  el
+Decreto 9/2023, de 26 de enero, por el que se regula y establece el currículo de veintitrés Ciclos Formativos
 de Grado Básico en el ámbito de la Comunidad Autónoma de Canarias.
 CERTIFICA:
-Que el/la alumno/alumna D/Dña. _______________________________________________________ con  
-documento  de  identidad  nº  _________________,  ha  cursado  con  aprovechamiento  la  formación  en 
-prevención de riesgos laborales del  título de (1) ____ ___________________________________ que le  
-capacita para el desempeño de las FUNCIONES DE NIVEL BÁSICO EN PREVENCIÓN DE RIESGOS  
-LABORALES, acorde a lo establecido en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que  
-se aprueba el Reglamento de los Servicios de Prevención, con la duración y contenidos que se especifican en  
+Que el/la alumno/alumna D/Dña. _______________________________________________________ con
+documento  de  identidad  nº  _________________,  ha  cursado  con  aprovechamiento  la  formación  en
+prevención de riesgos laborales del  título de (1) ____ ___________________________________ que le
+capacita para el desempeño de las FUNCIONES DE NIVEL BÁSICO EN PREVENCIÓN DE RIESGOS
+LABORALES, acorde a lo establecido en el artículo 35 del [Real Decreto 39/1997](../../../estatal/02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero, por el que
+se aprueba el Reglamento de los Servicios de Prevención, con la duración y contenidos que se especifican en
 el reverso de la presente certificación.
-Y , para que conste y surta los efectos oportunos, expido el presente certificado en 
+Y , para que conste y surta los efectos oportunos, expido el presente certificado en
 ______________________________, a _______ de ______________ de  ____________________
 Vº. Bº Director/Directora: Secretario/Secretaria:
 Fdo: Fdo:
@@ -7134,9 +7135,9 @@ Fdo: Fdo:
 (2) Real Decreto por el que se establece el currículo
 
 (Reverso)
-CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS 
+CONTENIDOS DEL PROGRAMA DE FORMACIÓN PARA EL DESEMPEÑO DE LAS
 FUNCIONES DE NIVEL BÁSICO
-Duración: 30 horas 
+Duración: 30 horas
 I. Conceptos básicos sobre seguridad y salud en el trabajo. (7 horas)
 a. El trabajo y la salud: Los riesgos profesionales. Factores de riesgo.
 b. Daños  derivados  del  trabajo.  Los  Accidentes  de  trabajo  y  las  enfermedades  profesionales:
@@ -7220,4 +7221,3 @@ d. Respiración artificial.
 - [**RD217_2022 Ordenacion y Ensenanzas Minimas de la ESO**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD217_2022_establece_ordenacion_ensenanzas_minimas_educacion_secundaria.md)
 - [**RD659_2023 Ordenacion General de la Formacion Profesional**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD659_2023_desarrolla_ordenacion_sistema_formacion_profesional.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

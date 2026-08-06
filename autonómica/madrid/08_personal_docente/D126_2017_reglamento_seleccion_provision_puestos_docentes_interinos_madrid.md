@@ -39,30 +39,6 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-**Decreto 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se aprueba el Reglamento de selección de funcionarios docentes interinos y provisión de puestos de trabajo en la Comunidad de Madrid**
-
-Pasar al contenido principal
-Toggle navigation
-Último BOCM
-Autentificación y verificación
-Qué es el BOCM
-Organismo
-Publicar un anuncio
-Transparencia
-Boletín Oficial de la Comunidad de Madrid - Núm 255
-Fecha del Boletín
-26-10-2017
-Sección 1.1.45.1:
-I. COMUNIDAD DE MADRID
-Código de Verificación Electrónica (CVE): BOCM-20171026-1
-Páginas: 12
-PDF de la disposición  (166 Kbs)
-XML de la disposición
-JSON-LD de la disposición
-I. COMUNIDAD DE MADRID
-A) Disposiciones Generales
-CONSEJERÍA DE ECONOMÍA, EMPLEO Y HACIENDA
-1
 DECRETO 126/2017, de 24 de octubre, del Consejo de Gobierno, por el que se modifica el Decreto 193/2015, de 4 de agosto, por el que se establece la estructura orgánica de la Consejería de Economía, Empleo y Hacienda.
 El Decreto 25/2015, de 26 de junio, de la Presidenta de la Comunidad de Madrid, por el que se establece el número y denominación de las Consejerías de la Comunidad de Madrid, creó la Consejería de Economía, Empleo y Hacienda con las competencias que hasta ese momento ostentaba la Consejería de Economía y Hacienda y las que, en materia de empleo, correspondían a la extinta Consejería de Empleo, Turismo y Cultura.
 El Decreto 193/2015, de 4 de agosto, del Consejo de Gobierno, por el que se establece la estructura orgánica de la Consejería de Economía, Empleo y Hacienda, distribuyó las competencias entre los distintos centros directivos, estableció su estructura hasta el nivel orgánico de subdirección general y adecuó la relación de entes y órganos colegiados adscritos a la Consejería.
@@ -291,9 +267,6 @@ https://www.bocm.es
 Código de Verificación Electrónica (CVE):  BOCM-20171026-1
 Comunidad de Madrid
 Opine
-Aviso legal
 Privacidad
-Contacto
-Accesibilidad
 Mapa Web
 RSS

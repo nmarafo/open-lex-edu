@@ -54,6 +54,7 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.pdf
 ---
+
 ## Preámbulo
 
 # [Resolución de 2 de diciembre de 2025](../../madrid/05_alumnado_y_servicios_escolares/R9_12_2025_instrucciones_admision_alumnado_curso_escolar_madrid.md), de la Dirección General de Personal y Formación del Profesorado, por la que se convoca procedimiento para la selección de directores y directoras de los centros públicos de enseñanzas no universitarias de la Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030 (BOC n.º 246, de 12 de diciembre).
@@ -61,106 +62,106 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-246-4231.
 II. Autoridades y personal
 Oposiciones y concursos
 Consejería de Educación, Formación Profesional, Actividad Física y Deportes
-4231 Dirección General de Personal y Formación del Profesorado.- Resolución de 2 
-de diciembre de 2025, por la que se convoca procedimiento para la selección de 
-directores y directoras de los centros públicos de enseñanzas no universitarias de la 
+4231 Dirección General de Personal y Formación del Profesorado.- Resolución de 2
+de diciembre de 2025, por la que se convoca procedimiento para la selección de
+directores y directoras de los centros públicos de enseñanzas no universitarias de la
 Comunidad Autónoma de Canarias para el periodo de mandato 2026-2030.
-Constituyéndose la dirección de los centros educativos como factor clave para la 
-calidad del sistema educativo, es preciso seleccionar directores y directoras responsables 
-de la gestión de los mismos, tanto en el aspecto organizativo y administrativo, como 
-desde la asunción del liderazgo y dinamización pedagógica, estableciéndose a tal fin un 
-procedimiento de selección por concurso de méritos que posibilite la máxima concurrencia 
+Constituyéndose la dirección de los centros educativos como factor clave para la
+calidad del sistema educativo, es preciso seleccionar directores y directoras responsables
+de la gestión de los mismos, tanto en el aspecto organizativo y administrativo, como
+desde la asunción del liderazgo y dinamización pedagógica, estableciéndose a tal fin un
+procedimiento de selección por concurso de méritos que posibilite la máxima concurrencia
 y la designación del personal docente más cualificado para asumir este compromiso.
-Habiéndose determinado las vacantes a proveer para el periodo de mandato 2026-2030, 
+Habiéndose determinado las vacantes a proveer para el periodo de mandato 2026-2030,
 de conformidad con los siguientes
 ANTECEDENTES DE HECHO
-Primero.- Por Resolución n.º 7044/2025, de 17 de noviembre de 2025, se publica en 
-la web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes 
-la relación de vacantes provisionales que integrarían el procedimiento de selección de 
-directores y directoras para el periodo 2026-2030, otorgándose un plazo de diez días 
-naturales para la presentación de reclamaciones que se estimasen procedentes. Examinadas 
-las reclamaciones, y consideradas las solicitudes de no renovación de quienes finalizan 
+Primero.- Por Resolución n.º 7044/2025, de 17 de noviembre de 2025, se publica en
+la web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+la relación de vacantes provisionales que integrarían el procedimiento de selección de
+directores y directoras para el periodo 2026-2030, otorgándose un plazo de diez días
+naturales para la presentación de reclamaciones que se estimasen procedentes. Examinadas
+las reclamaciones, y consideradas las solicitudes de no renovación de quienes finalizan
 mandato, quedan determinadas las vacantes definitivas a ofertar.
-Segundo.- En consecuencia a la Resolución n.º 7136/2025, de 20 de noviembre, de esta 
-Dirección General, la plaza del centro IES Los Realejos (38004311) no resulta vacante para 
+Segundo.- En consecuencia a la Resolución n.º 7136/2025, de 20 de noviembre, de esta
+Dirección General, la plaza del centro IES Los Realejos (38004311) no resulta vacante para
 este periodo de mandato 2026-2030.
-Tercero.- La relación provisional de vacantes publicada el 17 de noviembre de 2025 
-incorporaba la correspondiente al IES Los Cristianos (38010712). No obstante, dada la 
-existencia de circunstancias de naturaleza judicial que inciden en dicha plaza, procede su 
+Tercero.- La relación provisional de vacantes publicada el 17 de noviembre de 2025
+incorporaba la correspondiente al IES Los Cristianos (38010712). No obstante, dada la
+existencia de circunstancias de naturaleza judicial que inciden en dicha plaza, procede su
 no inclusión en esta fase, resultando excluida de la relación definitiva.
 FUNDAMENTOS DE DERECHO
-Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción dada 
-por la Ley Orgánica 3/2020, de 29 de diciembre, que en su Título V , Capítulo IV , regula 
-el marco general de la dirección de los centros públicos y, específicamente, en su artículo 
-135 y siguientes establece el procedimiento de selección de directores y directoras y sus 
-efectos, estableciendo que la selección se llevará a cabo mediante convocatoria en la que se 
-establezcan los criterios objetivos, el procedimiento de valoración del proyecto presentado 
-y los méritos de los candidatos y candidatas, entre los que incluirá la superación de un 
+Primero.- La [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, en su redacción dada
+por la Ley Orgánica 3/2020, de 29 de diciembre, que en su Título V , Capítulo IV , regula
+el marco general de la dirección de los centros públicos y, específicamente, en su artículo
+135 y siguientes establece el procedimiento de selección de directores y directoras y sus
+efectos, estableciendo que la selección se llevará a cabo mediante convocatoria en la que se
+establezcan los criterios objetivos, el procedimiento de valoración del proyecto presentado
+y los méritos de los candidatos y candidatas, entre los que incluirá la superación de un
 
-programa de formación sobre el desarrollo de la función directiva, efectuándose la selección 
-por una Comisión compuesta por un tercio de los miembros de entre el profesorado elegido 
-por el claustro y otro tercio elegido por y entre los miembros del Consejo Escolar que no 
-sean docentes, incluyéndose un director o directora en activo en centros que impartan las 
-mismas enseñanzas que aquel en que se desarrolla el procedimiento de selección, con uno 
+programa de formación sobre el desarrollo de la función directiva, efectuándose la selección
+por una Comisión compuesta por un tercio de los miembros de entre el profesorado elegido
+por el claustro y otro tercio elegido por y entre los miembros del Consejo Escolar que no
+sean docentes, incluyéndose un director o directora en activo en centros que impartan las
+mismas enseñanzas que aquel en que se desarrolla el procedimiento de selección, con uno
 o más periodos de ejercicio con evaluación positiva del trabajo desarrollado.
-Segundo.- El artículo 134.1.c) del mismo texto legal, en relación con el Real Decreto 
-894/2014, de 17 de octubre, por el que se desarrollan las características del curso de 
-formación sobre el desarrollo de la función directiva, así como de los correspondientes 
-cursos de actualización de competencias directivas previstos en su disposición transitoria 
+Segundo.- El artículo 134.1.c) del mismo texto legal, en relación con el Real Decreto
+894/2014, de 17 de octubre, por el que se desarrollan las características del curso de
+formación sobre el desarrollo de la función directiva, así como de los correspondientes
+cursos de actualización de competencias directivas previstos en su disposición transitoria
 única.
-Tercero.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común 
+Tercero.- La [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común
 de las Administraciones Públicas.
 Cuarto.- La [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen Jurídico del Sector Público.
-Quinto.- El [Decreto 106/2009](D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva 
-de los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma 
-de Canarias, que en su artículo 13.1 dispone que, para la selección de directores, el órgano 
-competente de la Administración educativa aprobará las convocatorias de concursos de 
-méritos, que establecerán los criterios objetivos y el procedimiento de valoración de los 
-méritos del candidato o candidata y del proyecto presentado, y se publicará según lo 
+Quinto.- El [Decreto 106/2009](D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la función directiva
+de los centros docentes públicos no universitarios dependientes de la Comunidad Autónoma
+de Canarias, que en su artículo 13.1 dispone que, para la selección de directores, el órgano
+competente de la Administración educativa aprobará las convocatorias de concursos de
+méritos, que establecerán los criterios objetivos y el procedimiento de valoración de los
+méritos del candidato o candidata y del proyecto presentado, y se publicará según lo
 establecido reglamentariamente.
-Sexto.- El Capítulo I de la Orden de 23 de diciembre 2009, por la que se determinan 
-los procedimientos para la selección, evaluación y renovación de los nombramientos de los 
-directores de los centros docentes públicos de enseñanzas no universitarias dependientes de 
-la Comunidad Autónoma de Canarias, regula el procedimiento de selección de directores, 
-disponiendo, en su artículo 3, que la Dirección General de Personal convocará anualmente 
-mediante publicación en el Boletín Oficial de Canarias o, en su caso, en la sede electrónica, 
-el procedimiento para la selección de directores y directoras de los centros públicos 
-docentes no universitarios de la Comunidad Autónoma de Canarias y en cuya disposición 
-final primera establece que corresponde a la Dirección General de Personal el desarrollo e 
+Sexto.- El Capítulo I de la Orden de 23 de diciembre 2009, por la que se determinan
+los procedimientos para la selección, evaluación y renovación de los nombramientos de los
+directores de los centros docentes públicos de enseñanzas no universitarias dependientes de
+la Comunidad Autónoma de Canarias, regula el procedimiento de selección de directores,
+disponiendo, en su artículo 3, que la Dirección General de Personal convocará anualmente
+mediante publicación en el Boletín Oficial de Canarias o, en su caso, en la sede electrónica,
+el procedimiento para la selección de directores y directoras de los centros públicos
+docentes no universitarios de la Comunidad Autónoma de Canarias y en cuya disposición
+final primera establece que corresponde a la Dirección General de Personal el desarrollo e
 interpretación de la misma y resolver cuantas dudas se susciten.
-De conformidad con lo anterior, en virtud de las competencias previstas en el artículo 
-16 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de 
-10 de junio, y en relación con el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de 
+De conformidad con lo anterior, en virtud de las competencias previstas en el artículo
+16 del Reglamento Orgánico de la Consejería de Educación, Formación Profesional,
+Actividad Física y Deportes del Gobierno de Canarias, aprobado por [Decreto 84/2024](../01_marco_normativo_general_y_organico/D84_2024_aprueba_reglamento_organico_formacion_profesional_actividad.md), de
+10 de junio, y en relación con el artículo 19 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de
 organización de los Departamentos de la Administración Autonómica de Canarias,
 RESUELVO :
-Primero.- Convocar el procedimiento para la selección de directores y directoras de los 
-centros públicos docentes no universitarios dependientes de la Comunidad Autónoma de 
-Canarias, para el periodo de mandato 2026-2030, de acuerdo con los principios de igualdad, 
-mérito y capacidad, de conformidad con el procedimiento regulado contenido en el Anexo I 
+Primero.- Convocar el procedimiento para la selección de directores y directoras de los
+centros públicos docentes no universitarios dependientes de la Comunidad Autónoma de
+Canarias, para el periodo de mandato 2026-2030, de acuerdo con los principios de igualdad,
+mérito y capacidad, de conformidad con el procedimiento regulado contenido en el Anexo I
 y el baremo de méritos establecido en el Anexo II.
 
-Segundo.- Aprobar las vacantes definitivas que se ofertan en este procedimiento 
+Segundo.- Aprobar las vacantes definitivas que se ofertan en este procedimiento
 selectivo, incluidas en el Anexo III de esta Resolución.
-Tercero.- Ordenar la publicación de esta Resolución en el Boletín Oficial de Canarias, 
-y en la web de la Consejería de Educación, Formación Profesional, Actividad Física y 
+Tercero.- Ordenar la publicación de esta Resolución en el Boletín Oficial de Canarias,
+y en la web de la Consejería de Educación, Formación Profesional, Actividad Física y
 Deportes.
-Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer, en 
-el plazo de un mes, recurso potestativo de reposición ante la Directora General de Personal 
-y Formación del Profesorado, o directamente recurso contencioso-administrativo ante el 
-Juzgado de lo Contencioso-administrativo que corresponda de la Comunidad Autónoma de 
-Canarias, en el plazo de dos meses, sin perjuicio de cualquier otro que pudiera interponerse. 
-Dichos plazos comenzarán a contar a partir del día siguiente al de la publicación de la 
-presente Resolución en el Boletín Oficial de Canarias. En el caso de presentarse recurso 
-de reposición, no se podrá interponer el recurso contencioso-administrativo hasta que se 
+Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer, en
+el plazo de un mes, recurso potestativo de reposición ante la Directora General de Personal
+y Formación del Profesorado, o directamente recurso contencioso-administrativo ante el
+Juzgado de lo Contencioso-administrativo que corresponda de la Comunidad Autónoma de
+Canarias, en el plazo de dos meses, sin perjuicio de cualquier otro que pudiera interponerse.
+Dichos plazos comenzarán a contar a partir del día siguiente al de la publicación de la
+presente Resolución en el Boletín Oficial de Canarias. En el caso de presentarse recurso
+de reposición, no se podrá interponer el recurso contencioso-administrativo hasta que se
 resuelva expresamente el de reposición o se produzca su desestimación presunta.
-Las Palmas de Gran Canaria, a 2 de diciembre de 2025.- La Directora General de 
+Las Palmas de Gran Canaria, a 2 de diciembre de 2025.- La Directora General de
 Personal y Formación del Profesorado, Mónica Ramírez Barbosa.
 
 ANEXO I
-DESARROLLO DEL PROCEDIMIENTO PARA LA SELECCIÓN DE DIRECTORES Y 
-DIRECTORAS DE LOS CENTROS PÚBLICOS DE ENSEÑANZAS NO UNIVERSITARIAS 
-DE LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL PERIODO DE MANDATO 
+DESARROLLO DEL PROCEDIMIENTO PARA LA SELECCIÓN DE DIRECTORES Y
+DIRECTORAS DE LOS CENTROS PÚBLICOS DE ENSEÑANZAS NO UNIVERSITARIAS
+DE LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL PERIODO DE MANDATO
 2026-2030.
 ÍNDICE
 1. Requisitos de los participantes.
@@ -195,11 +196,11 @@ DE LA COMUNIDAD AUTÓNOMA DE CANARIAS PARA EL PERIODO DE MANDATO
 6.1.5. Valoración del proyecto de dirección.
 6.2. Baremación de los méritos académicos y profesionales.
 7. Criterios de desempate.
-8. Puntuaciones provisionales, definitivas, publicidad de los proyectos de dirección y 
+8. Puntuaciones provisionales, definitivas, publicidad de los proyectos de dirección y
 propuesta de personas seleccionados por centro docente.
-8.1. Puntuaciones provisionales. Publicidad de los proyectos de dirección. Plazo de 
+8.1. Puntuaciones provisionales. Publicidad de los proyectos de dirección. Plazo de
 reclamaciones. Disposición Común.
-8.2. Puntuaciones definitivas y propuesta de candidatos y candidatas seleccionadas por 
+8.2. Puntuaciones definitivas y propuesta de candidatos y candidatas seleccionadas por
 centro docente.
 9. Relación de personas candidatas seleccionadas y centros a los que se les destina.
 10. Nombramiento de los directores y directoras.
@@ -208,584 +209,584 @@ centro docente.
 
 1.- Requisitos de los participantes.
 1.1. Requisitos generales.
-Podrá participar en esta convocatoria el personal funcionario de carrera de los cuerpos 
-docentes que imparta alguna de las enseñanzas en las que se estructura el sistema educativo 
-no universitario en centros dependientes de la Consejería de Educación, Formación 
-Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias y que 
+Podrá participar en esta convocatoria el personal funcionario de carrera de los cuerpos
+docentes que imparta alguna de las enseñanzas en las que se estructura el sistema educativo
+no universitario en centros dependientes de la Consejería de Educación, Formación
+Profesional, Actividad Física y Deportes de la Comunidad Autónoma de Canarias y que
 reúnan los siguientes requisitos:
-a) Tener una antigüedad de, al menos, cinco años como personal funcionario de carrera 
+a) Tener una antigüedad de, al menos, cinco años como personal funcionario de carrera
 en la función pública docente.
-b) Haber ejercido funciones docentes como persona funcionaria de carrera durante un 
-periodo de, al menos, cinco años en alguna de las enseñanzas de las que ofrece el centro al 
+b) Haber ejercido funciones docentes como persona funcionaria de carrera durante un
+periodo de, al menos, cinco años en alguna de las enseñanzas de las que ofrece el centro al
 que se opta.
-c) Presentar un proyecto de dirección con relación a cada centro al que se opta que 
+c) Presentar un proyecto de dirección con relación a cada centro al que se opta que
 deberá ajustarse a lo indicado en la base 2, apartado 2.2, de esta Resolución.
-d) Poder completar el horario lectivo en alguna de las enseñanzas del centro al que se 
+d) Poder completar el horario lectivo en alguna de las enseñanzas del centro al que se
 opta.
-e) Acreditar no haber sido condenado por sentencia firme por algún delito contra 
-la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la Ley 
-Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente 
-a la violencia, mediante la aportación de una certificación negativa del Registro Central de 
-Delincuentes Sexuales o una autorización que permita la comprobación automática de la 
+e) Acreditar no haber sido condenado por sentencia firme por algún delito contra
+la libertad e indemnidad sexual, conforme a lo dispuesto en el artículo 57.1 de la Ley
+Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente
+a la violencia, mediante la aportación de una certificación negativa del Registro Central de
+Delincuentes Sexuales o una autorización que permita la comprobación automática de la
 inexistencia de antecedentes en el citado registro.
-f) No haber sido cesado en el cargo de dirección por incumplimiento grave de las 
+f) No haber sido cesado en el cargo de dirección por incumplimiento grave de las
 funciones en los últimos cuatro años.
-g) No tener nombramiento como director o directora que se extienda a fecha posterior 
+g) No tener nombramiento como director o directora que se extienda a fecha posterior
 a la prevista para la toma de posesión en la presente convocatoria.
-Las personas seleccionadas deberán acreditar en la forma que se establezca, antes de 
-que se produzca el nombramiento, estar en posesión de la certificación acreditativa de haber 
-superado un curso de formación sobre el desarrollo de la función directiva, conforme a lo 
-establecido en el Real Decreto 894/2014, de 17 de octubre, así como de los correspondientes 
+Las personas seleccionadas deberán acreditar en la forma que se establezca, antes de
+que se produzca el nombramiento, estar en posesión de la certificación acreditativa de haber
+superado un curso de formación sobre el desarrollo de la función directiva, conforme a lo
+establecido en el Real Decreto 894/2014, de 17 de octubre, así como de los correspondientes
 cursos de actualización de competencias directivas, en su caso.
-De no poseerse la citada acreditación, las personas que resulten admitidas en el 
-presente procedimiento deberán cursar y superar la actividad formativa señalada en el 
-párrafo anterior como requisito indispensable para poder ser nombrado como Director o 
-Directora. A tal fin, el Servicio de Perfeccionamiento de esta Dirección General promoverá 
-convocatoria de formación para que quienes resulten seleccionados dispongan de la misma 
+De no poseerse la citada acreditación, las personas que resulten admitidas en el
+presente procedimiento deberán cursar y superar la actividad formativa señalada en el
+párrafo anterior como requisito indispensable para poder ser nombrado como Director o
+Directora. A tal fin, el Servicio de Perfeccionamiento de esta Dirección General promoverá
+convocatoria de formación para que quienes resulten seleccionados dispongan de la misma
 con anterioridad a que se produzca el nombramiento.
 
 1.2. Especificidades para determinados centros docentes.
-Las personas candidatas que aspiren a la dirección de los centros que se relacionan a 
-continuación, podrán presentarse a este procedimiento selectivo cumpliendo únicamente 
-uno de los requisitos previstos en las letras a) y b), siempre que cumplan el resto de 
+Las personas candidatas que aspiren a la dirección de los centros que se relacionan a
+continuación, podrán presentarse a este procedimiento selectivo cumpliendo únicamente
+uno de los requisitos previstos en las letras a) y b), siempre que cumplan el resto de
 requisitos.
-- Escuelas de educación infantil, centros incompletos de educación primaria con ocho o 
+- Escuelas de educación infantil, centros incompletos de educación primaria con ocho o
 menos de ocho unidades, y centros de educación secundaria con menos de ocho profesores.
 - Centros de enseñanzas artísticas profesionales y Escuelas de Arte.
 - Escuelas Oficiales de Idiomas.
 - Centros con enseñanzas dirigidas a personas adultas con menos de ocho profesores.
 Para concurrir a los Centros de Educación de Adultos (
-CEPA), las personas aspirantes 
-deberán haber realizado los cursos convocados o reconocidos por la Consejería de 
-Educación, Formación Profesional, Actividad Física y Deportes que acrediten el nivel 
-B1 en competencia digital docente o la capacitación en el uso de entornos virtuales de 
+CEPA), las personas aspirantes
+deberán haber realizado los cursos convocados o reconocidos por la Consejería de
+Educación, Formación Profesional, Actividad Física y Deportes que acrediten el nivel
+B1 en competencia digital docente o la capacitación en el uso de entornos virtuales de
 aprendizaje (
-E VA) y, en consecuencia, permitan al profesorado participante haber adquirido 
-los conocimientos adecuados para que de forma autónoma pueda manejar los entornos 
+E VA) y, en consecuencia, permitan al profesorado participante haber adquirido
+los conocimientos adecuados para que de forma autónoma pueda manejar los entornos
 virtuales de trabajo, con una duración igual o superior a 50 horas.
 Estas acciones de formación deberán constar de, al menos, los siguientes contenidos:
 • Uso y gestión de E VA.
 • Creación y edición de contenidos para E VA.
 • Tutorización a través de E VA.
-Esta formación se acredita con el reconocimiento en el porfolio de formación docente 
-de la “Capacitación en el uso de entornos virtuales de aprendizaje”, pudiendo acreditarse 
+Esta formación se acredita con el reconocimiento en el porfolio de formación docente
+de la “Capacitación en el uso de entornos virtuales de aprendizaje”, pudiendo acreditarse
 asimismo con otras formaciones, tales como:
-- Estar en posesión de formación superior en Informática o Ingeniería Informática, o 
-formación universitaria de posgrado relativa a la gestión de la formación y tutorización en 
-línea, creación de contenidos multimedia para el e-learning y la gestión básica de entornos 
+- Estar en posesión de formación superior en Informática o Ingeniería Informática, o
+formación universitaria de posgrado relativa a la gestión de la formación y tutorización en
+línea, creación de contenidos multimedia para el e-learning y la gestión básica de entornos
 virtuales de aprendizaje.
-- Haber superado un curso con la duración y contenidos señalados anteriormente, 
-convocados y certificados por otras Administraciones educativas, universidades u 
-homologados por la Consejería de Educación, Formación Profesional, Actividad Física y 
+- Haber superado un curso con la duración y contenidos señalados anteriormente,
+convocados y certificados por otras Administraciones educativas, universidades u
+homologados por la Consejería de Educación, Formación Profesional, Actividad Física y
 Deportes.
 1.3. Cumplimiento de requisitos.
-Los requisitos deberán tenerse cumplidos en la fecha de finalización del plazo de 
-presentación de solicitudes, mantenerse durante el proceso y hasta el inicio del curso 
-escolar en que se comience el desempeño de las funciones. En caso contrario, el candidato 
-o candidata será declarado excluido mediante resolución motivada dictada por la Dirección 
+Los requisitos deberán tenerse cumplidos en la fecha de finalización del plazo de
+presentación de solicitudes, mantenerse durante el proceso y hasta el inicio del curso
+escolar en que se comience el desempeño de las funciones. En caso contrario, el candidato
+o candidata será declarado excluido mediante resolución motivada dictada por la Dirección
 Territorial correspondiente.
 
 2.- Solicitud de participación, proyecto de dirección y méritos.
 2.1. Solicitud de participación.
-Quienes deseen participar en este procedimiento deberán relacionar en una única 
-solicitud todos los centros a cuya dirección presenta su candidatura, presentar un proyecto 
+Quienes deseen participar en este procedimiento deberán relacionar en una única
+solicitud todos los centros a cuya dirección presenta su candidatura, presentar un proyecto
 de dirección por cada uno de los centros y la documentación acreditativa de los méritos.
-La solicitud se formalizará a través de la sede electrónica del Gobierno de Canarias 
-mediante el sistema de validación ofrecido a tal fin. A la misma se adjuntará electrónicamente 
-el o los proyectos de dirección, que serán cargados por la persona solicitante a la aplicación 
-de solicitudes en formato PDF y cuyo tamaño no debe superar los 5Mb. Del mismo modo, 
-se adjuntará cada uno de los méritos que se estime aportar. No se admitirá, en ningún caso, 
+La solicitud se formalizará a través de la sede electrónica del Gobierno de Canarias
+mediante el sistema de validación ofrecido a tal fin. A la misma se adjuntará electrónicamente
+el o los proyectos de dirección, que serán cargados por la persona solicitante a la aplicación
+de solicitudes en formato PDF y cuyo tamaño no debe superar los 5Mb. Del mismo modo,
+se adjuntará cada uno de los méritos que se estime aportar. No se admitirá, en ningún caso,
 documentación en formato papel.
-En relación con el requisito previsto en la base 1.1.e), se deberá aportar certificado 
-del Registro Central de Delincuentes Sexuales que acredite expresamente que no ha sido 
-condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual, 
-siempre que no haya prestado consentimiento para su comprobación en la solicitud de 
+En relación con el requisito previsto en la base 1.1.e), se deberá aportar certificado
+del Registro Central de Delincuentes Sexuales que acredite expresamente que no ha sido
+condenado por sentencia firme por algún delito contra la libertad e indemnidad sexual,
+siempre que no haya prestado consentimiento para su comprobación en la solicitud de
 participación en este procedimiento selectivo.
-Cualquier dato omitido o consignado erróneamente por las personas participantes no 
-podrá ser invocado en futuras reclamaciones, ni considerar por tal motivo lesionados sus 
+Cualquier dato omitido o consignado erróneamente por las personas participantes no
+podrá ser invocado en futuras reclamaciones, ni considerar por tal motivo lesionados sus
 intereses y derechos.
-Finalizado el plazo de presentación de solicitudes, no será posible alterar o modificar la 
+Finalizado el plazo de presentación de solicitudes, no será posible alterar o modificar la
 petición ni el proyecto de dirección.
 2.2. Proyecto de dirección.
-Las personas candidatas deberán presentar un proyecto de dirección por cada uno de los 
+Las personas candidatas deberán presentar un proyecto de dirección por cada uno de los
 centros a cuya dirección aspira, con los siguientes requisitos:
 a) Contenido:
 - Un análisis diagnóstico del centro docente.
-- Los objetivos del proyecto y de las áreas de mejora, con especial referencia al 
+- Los objetivos del proyecto y de las áreas de mejora, con especial referencia al
 desarrollo de los aprendizajes, éxito escolar y reducción del abandono escolar.
 - Las líneas de actuación y su temporalización.
 - Los recursos y la organización del centro para el logro de los objetivos.
 - El seguimiento y la evaluación del proyecto y de los resultados: indicadores de logro.
-- Contenidos en materia de igualdad entre mujeres y hombres, no discriminación y 
+- Contenidos en materia de igualdad entre mujeres y hombres, no discriminación y
 prevención de la violencia de género.
-Opcionalmente, en el proyecto de dirección se podrá incorporar la propuesta de los 
+Opcionalmente, en el proyecto de dirección se podrá incorporar la propuesta de los
 miembros del posible equipo directivo.
 
 b) Aspectos formales.
-La extensión de este proyecto será de un mínimo de 10 y máximo de 30 páginas, 
-formato DIN A-4, tamaño de letra 11 puntos, quedando a elección los demás parámetros. 
-Las páginas referidas a la portada, índice, referencias normativas y bibliográficas no serán 
+La extensión de este proyecto será de un mínimo de 10 y máximo de 30 páginas,
+formato DIN A-4, tamaño de letra 11 puntos, quedando a elección los demás parámetros.
+Las páginas referidas a la portada, índice, referencias normativas y bibliográficas no serán
 contabilizadas.
-No serán valorados aquellos proyectos que no alcancen el mínimo de extensión 
-establecido, procediéndose a aminorar la calificación por cada página que se exceda del 
+No serán valorados aquellos proyectos que no alcancen el mínimo de extensión
+establecido, procediéndose a aminorar la calificación por cada página que se exceda del
 máximo previsto en 0,25 puntos y hasta un máximo de 1 punto.
-La Comisión podrá excluir del procedimiento a las personas candidatas que presenten 
-proyectos no originales o resulten copia de otros, ya sea de otros centros educativos como 
+La Comisión podrá excluir del procedimiento a las personas candidatas que presenten
+proyectos no originales o resulten copia de otros, ya sea de otros centros educativos como
 de cursos anteriores.
 c) Acceso a la documentación del centro.
-Los centros educativos deberán facilitar a los candidatos y candidatas el acceso a los 
-documentos oficiales que puedan servir de referencia para la redacción del proyecto de 
-dirección, tales como el proyecto educativo, el proyecto de gestión, así como las normas de 
-organización y funcionamiento del centro, debiendo solicitarse por escrito por la persona 
-interesada haciendo constar su participación en la convocatoria y adaptándose al horario y 
-espacio que el centro habilite al efecto. Los centros citarán a las personas interesadas para 
+Los centros educativos deberán facilitar a los candidatos y candidatas el acceso a los
+documentos oficiales que puedan servir de referencia para la redacción del proyecto de
+dirección, tales como el proyecto educativo, el proyecto de gestión, así como las normas de
+organización y funcionamiento del centro, debiendo solicitarse por escrito por la persona
+interesada haciendo constar su participación en la convocatoria y adaptándose al horario y
+espacio que el centro habilite al efecto. Los centros citarán a las personas interesadas para
 tal fin en un plazo máximo de cinco días hábiles desde que estas presenten dicha solicitud.
-La Secretaría del centro, en cumplimiento de la normativa sobre protección de datos, 
-velará por la preservación de aquella documentación que contenga datos de carácter 
+La Secretaría del centro, en cumplimiento de la normativa sobre protección de datos,
+velará por la preservación de aquella documentación que contenga datos de carácter
 personal, a la que únicamente podrá tener acceso la persona interesada.
 2.3. Méritos y documentación justificativa de los mismos.
-2.3.1. Acreditación de los méritos de experiencia en cargos directivos y trayectoria 
+2.3.1. Acreditación de los méritos de experiencia en cargos directivos y trayectoria
 profesional.
-La información de los méritos respecto a la experiencia en cargos directivos y trayectoria 
-profesional referidos a los apartados 1 y 2 del baremo, publicado como Anexo II de esta 
-Resolución, será facilitada directamente por la Dirección General de Personal y Formación 
-del Profesorado a la Comisión Técnica encargada de la valoración de los méritos, a través 
+La información de los méritos respecto a la experiencia en cargos directivos y trayectoria
+profesional referidos a los apartados 1 y 2 del baremo, publicado como Anexo II de esta
+Resolución, será facilitada directamente por la Dirección General de Personal y Formación
+del Profesorado a la Comisión Técnica encargada de la valoración de los méritos, a través
 de los datos que constan en la hoja de servicios y en el expediente de cada participante.
-En caso de detectarse errores u omisiones en los datos que constan en la hoja de 
-servicios en relación con el desempeño de cargos directivos y trayectoria profesional, se 
-podrá solicitar su modificación a través de la página web de esta Consejería, en el enlace 
-“Actualización telemática de la hoja de servicios”, debiendo especificarse de forma 
+En caso de detectarse errores u omisiones en los datos que constan en la hoja de
+servicios en relación con el desempeño de cargos directivos y trayectoria profesional, se
+podrá solicitar su modificación a través de la página web de esta Consejería, en el enlace
+“Actualización telemática de la hoja de servicios”, debiendo especificarse de forma
 detallada los errores u omisiones advertidos.
 Los méritos baremables en el presente procedimiento son los que figuran en el Anexo II.
-Todos los méritos alegados por los concursantes, que se harán responsables de 
-la veracidad de los mismos, han de ostentarse en la fecha de finalización del plazo de 
+Todos los méritos alegados por los concursantes, que se harán responsables de
+la veracidad de los mismos, han de ostentarse en la fecha de finalización del plazo de
 presentación de solicitudes.
 
 2.3.2. Otras reglas para la acreditación de los méritos.
-a) Respecto a los méritos contenidos en los apartados 3 y 4 del baremo, excepto aquellos 
-que figuran en su porfolio y aquellos otros sobre los que se tenga información en esta 
-Dirección General de Personal y Formación del Profesorado, que serán suministrados a la 
-Comisión Técnica, deberán ser aportados en archivos en formato PDF junto con la solicitud 
-de participación. Los aspirantes se responsabilizarán expresamente de la veracidad de la 
+a) Respecto a los méritos contenidos en los apartados 3 y 4 del baremo, excepto aquellos
+que figuran en su porfolio y aquellos otros sobre los que se tenga información en esta
+Dirección General de Personal y Formación del Profesorado, que serán suministrados a la
+Comisión Técnica, deberán ser aportados en archivos en formato PDF junto con la solicitud
+de participación. Los aspirantes se responsabilizarán expresamente de la veracidad de la
 documentación aportada.
-b) Los documentos que estén redactados en alguna de las lenguas cooficiales de otras 
+b) Los documentos que estén redactados en alguna de las lenguas cooficiales de otras
 Comunidades Autónomas, deberán ir acompañados de su traducción oficial al castellano.
-c) Los documentos expedidos en Estados miembros de la Unión Europea o que estén 
-adscritos al Acuerdo sobre el Espacio Económico Europeo deberán ser oficiales, suscritos 
-por autoridades competentes y acompañados, en su caso, de su traducción oficial al 
+c) Los documentos expedidos en Estados miembros de la Unión Europea o que estén
+adscritos al Acuerdo sobre el Espacio Económico Europeo deberán ser oficiales, suscritos
+por autoridades competentes y acompañados, en su caso, de su traducción oficial al
 castellano.
-Los documentos expedidos en el resto de países extranjeros deberán, además ser 
-legalizados por vía diplomática o consular, o, en su caso, con la correspondiente apostilla 
+Los documentos expedidos en el resto de países extranjeros deberán, además ser
+legalizados por vía diplomática o consular, o, en su caso, con la correspondiente apostilla
 de La Haya.
 2.3.3. Facultades de la Administración educativa.
-La Administración podrá requerir a las personas participantes, en cualquier momento, 
+La Administración podrá requerir a las personas participantes, en cualquier momento,
 para que justifiquen aquellos méritos sobre los que se planteen dudas o reclamaciones.
-Si se detectara de oficio o a instancia de parte algún error no conforme a las bases de 
-la convocatoria, siempre que el mismo sea material, de hecho, aritmético y no requiera de 
+Si se detectara de oficio o a instancia de parte algún error no conforme a las bases de
+la convocatoria, siempre que el mismo sea material, de hecho, aritmético y no requiera de
 interpretación jurídica, este será subsanado de oficio.
 2.4. Plazo de presentación de solicitudes, proyecto de dirección y méritos.
-El plazo de presentación de solicitudes, proyectos de dirección y méritos será de quince 
-días hábiles contados a partir del día siguiente al de la publicación de la presente Resolución 
+El plazo de presentación de solicitudes, proyectos de dirección y méritos será de quince
+días hábiles contados a partir del día siguiente al de la publicación de la presente Resolución
 en el Boletín Oficial de Canarias.
 3.- Admisión de personas candidatas.
 3.1. Relación provisional de personas admitidas y excluidas.
-Finalizado el plazo de presentación de solicitudes, por Resolución de las Direcciones 
-Territoriales de Educación, se aprobará relación provisional de personas admitidas y 
-excluidas, detallando los motivos de exclusión. Estas Resoluciones se publicarán en la 
-página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
-Deportes, otorgándose un plazo de diez días hábiles, contados a partir del día siguiente 
-al de su publicación, para la presentación de reclamaciones y la subsanación de defectos 
-detectados en la solicitud ante dichos órganos, declarándose el desistimiento y exclusión 
+Finalizado el plazo de presentación de solicitudes, por Resolución de las Direcciones
+Territoriales de Educación, se aprobará relación provisional de personas admitidas y
+excluidas, detallando los motivos de exclusión. Estas Resoluciones se publicarán en la
+página web de la Consejería de Educación, Formación Profesional, Actividad Física y
+Deportes, otorgándose un plazo de diez días hábiles, contados a partir del día siguiente
+al de su publicación, para la presentación de reclamaciones y la subsanación de defectos
+detectados en la solicitud ante dichos órganos, declarándose el desistimiento y exclusión
 del procedimiento de no hacerlo.
 
 3.2. Relación definitiva de personas admitidas y excluidas.
-Finalizado el plazo de reclamaciones y subsanación, se dictará Resolución por la 
-Dirección Territorial correspondiente, que se publicará en la página web de la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes, aprobando la relación 
-definitiva de personas admitidas y excluidas detallando los motivos de exclusión, en su 
-caso. En estas resoluciones se determinará el número de Comisiones de Selección que 
+Finalizado el plazo de reclamaciones y subsanación, se dictará Resolución por la
+Dirección Territorial correspondiente, que se publicará en la página web de la Consejería
+de Educación, Formación Profesional, Actividad Física y Deportes, aprobando la relación
+definitiva de personas admitidas y excluidas detallando los motivos de exclusión, en su
+caso. En estas resoluciones se determinará el número de Comisiones de Selección que
 deban constituirse y centros en que actuarán.
 4.- Comisiones de Selección.
 4.1. Composición.
-La selección entre las personas candidatas a la dirección de un centro público la realizará 
+La selección entre las personas candidatas a la dirección de un centro público la realizará
 una Comisión de Selección integrada por los siguientes miembros:
-- Presidencia, que será designada por la Dirección General de Personal y Formación del 
+- Presidencia, que será designada por la Dirección General de Personal y Formación del
 Profesorado, de entre funcionarios y funcionarias de la Inspección de Educación.
-- V ocal-Secretaría, designado de entre directores o directoras en activo en centros que 
-impartan las mismas enseñanzas que aquel en que se desarrolla el proceso selectivo con, al 
+- V ocal-Secretaría, designado de entre directores o directoras en activo en centros que
+impartan las mismas enseñanzas que aquel en que se desarrolla el proceso selectivo con, al
 menos, un periodo de ejercicio con evaluación positiva.
 - Dos vocales, designados de entre el Claustro del profesorado.
-- Dos vocales, elegidos por y entre los miembros del Consejo Escolar que no 
+- Dos vocales, elegidos por y entre los miembros del Consejo Escolar que no
 correspondan a representantes del profesorado de dicho órgano.
-En los centros donde se imparta la educación secundaria obligatoria, podrá participar el 
+En los centros donde se imparta la educación secundaria obligatoria, podrá participar el
 alumnado, salvo los que pertenezcan a los dos primeros cursos de la ESO.
-Por cada miembro de la Comisión de Selección se designará un suplente que deberá 
+Por cada miembro de la Comisión de Selección se designará un suplente que deberá
 intervenir en caso de cese, ausencia justificada o enfermedad del titular.
 4.2. Incompatibilidades, abstención y recusación.
 No podrán formar parte de la Comisión de Selección:
-- Los miembros del equipo directivo del centro en ejercicio de sus funciones en el 
+- Los miembros del equipo directivo del centro en ejercicio de sus funciones en el
 momento de la convocatoria.
-- Las personas candidatas a ser seleccionadas y las personas propuestas, en su caso, en 
+- Las personas candidatas a ser seleccionadas y las personas propuestas, en su caso, en
 el proyecto de dirección de aquel.
-Los miembros de las Comisiones de Selección están sujetos, además, a las causas de 
-abstención previstas en el artículo 23 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen 
-Jurídico del Sector Público, debiendo abstenerse de intervenir en el procedimiento en 
-caso de concurrir alguna causa, comunicándolo a la Dirección Territorial de Educación 
-correspondiente, que resolverá lo que proceda, pudiendo, del mismo modo, promoverse 
-recusación por los interesados, de conformidad con lo previsto en el artículo 24 de la citada 
+Los miembros de las Comisiones de Selección están sujetos, además, a las causas de
+abstención previstas en el artículo 23 de la [Ley 40/2015](../../../estatal/01_marco_normativo_general_y_organico/L40_2015_regimen_juridico_sector_publico.md), de 1 de octubre, de Régimen
+Jurídico del Sector Público, debiendo abstenerse de intervenir en el procedimiento en
+caso de concurrir alguna causa, comunicándolo a la Dirección Territorial de Educación
+correspondiente, que resolverá lo que proceda, pudiendo, del mismo modo, promoverse
+recusación por los interesados, de conformidad con lo previsto en el artículo 24 de la citada
 Ley, que será resuelta por la Dirección General de Personal y Formación del Profesorado.
 
 4.3. Designación de sus miembros.
-Tras la publicación de la relación provisional de personas admitidas, las Direcciones 
-Territoriales solicitarán a la Inspección Educativa que proponga a los presidentes y 
-presidentas de las Comisiones de Selección. Dicha propuesta deberá efectuarse en el plazo 
+Tras la publicación de la relación provisional de personas admitidas, las Direcciones
+Territoriales solicitarán a la Inspección Educativa que proponga a los presidentes y
+presidentas de las Comisiones de Selección. Dicha propuesta deberá efectuarse en el plazo
 de cinco días hábiles a contar a partir de su recepción.
-Igualmente, al día siguiente al de la citada publicación provisional, las Direcciones 
-Territoriales comunicarán a las direcciones de los centros docentes la relación de candidatos y 
-candidatas admitidos a la selección, así como los proyectos de dirección presentados a 
-efectos solamente informativos y de consulta para conocimiento exclusivo de los miembros 
-del Claustro de profesores y del Consejo Escolar; siendo responsable de la custodia de 
-dichos proyectos, el secretario o secretaria del centro que corresponda, concediéndoles 
-a las citadas direcciones de los centros un plazo de diez días hábiles para elevar a las 
-Direcciones Territoriales de Educación la correspondiente propuesta de miembros de la 
+Igualmente, al día siguiente al de la citada publicación provisional, las Direcciones
+Territoriales comunicarán a las direcciones de los centros docentes la relación de candidatos y
+candidatas admitidos a la selección, así como los proyectos de dirección presentados a
+efectos solamente informativos y de consulta para conocimiento exclusivo de los miembros
+del Claustro de profesores y del Consejo Escolar; siendo responsable de la custodia de
+dichos proyectos, el secretario o secretaria del centro que corresponda, concediéndoles
+a las citadas direcciones de los centros un plazo de diez días hábiles para elevar a las
+Direcciones Territoriales de Educación la correspondiente propuesta de miembros de la
 Comisión de Selección.
-A tal fin, el cargo directivo competente del centro, según el orden establecido en la 
-normativa vigente, que no sea aspirante a ser seleccionado por este procedimiento, convocará 
-una sesión extraordinaria del Claustro del profesorado y del Consejo Escolar del centro, 
-para comunicar las candidaturas admitidas y dará a conocer los proyectos de dirección de 
+A tal fin, el cargo directivo competente del centro, según el orden establecido en la
+normativa vigente, que no sea aspirante a ser seleccionado por este procedimiento, convocará
+una sesión extraordinaria del Claustro del profesorado y del Consejo Escolar del centro,
+para comunicar las candidaturas admitidas y dará a conocer los proyectos de dirección de
 cada candidato o candidata.
-En la misma sesión se elegirán las personas vocales representantes y suplentes que 
-formarán parte de la Comisión de Selección, mediante una única votación en la que cada 
-elector del Claustro de Profesores y del Consejo Escolar del centro correspondiente votará 
-por un máximo de dos personas candidatas. Serán vocales representantes los dos miembros 
-de cada uno de los órganos que obtengan mayor número de votos y suplentes los dos 
+En la misma sesión se elegirán las personas vocales representantes y suplentes que
+formarán parte de la Comisión de Selección, mediante una única votación en la que cada
+elector del Claustro de Profesores y del Consejo Escolar del centro correspondiente votará
+por un máximo de dos personas candidatas. Serán vocales representantes los dos miembros
+de cada uno de los órganos que obtengan mayor número de votos y suplentes los dos
 restantes ordenados según mayor número de votos obtenidos.
-En el supuesto de que el Claustro de Profesores o el Consejo Escolar no designe a sus 
-representantes por el procedimiento señalado, tanto titulares como suplentes, o se produzca 
-un empate que haga imposible su elección, corresponderá a la dirección del centro efectuar 
-la propuesta de nombramiento de estos, atendiendo exclusivamente a los criterios de mayor 
+En el supuesto de que el Claustro de Profesores o el Consejo Escolar no designe a sus
+representantes por el procedimiento señalado, tanto titulares como suplentes, o se produzca
+un empate que haga imposible su elección, corresponderá a la dirección del centro efectuar
+la propuesta de nombramiento de estos, atendiendo exclusivamente a los criterios de mayor
 y menor edad dentro de los respectivos colectivos.
-Mediante Resolución de las Direcciones Territoriales de Educación, se publicará en 
-la página web de la Consejería de Educación, Formación Profesional, Actividad Física y 
-Deportes la composición de las Comisiones de Selección con indicación de sus miembros 
+Mediante Resolución de las Direcciones Territoriales de Educación, se publicará en
+la página web de la Consejería de Educación, Formación Profesional, Actividad Física y
+Deportes la composición de las Comisiones de Selección con indicación de sus miembros
 titulares y suplentes y la sede en que hayan de constituirse.
 4.4. Constitución y normas de actuación.
-En el plazo de diez días hábiles contados a partir de la publicación de la composición de 
-las Comisiones de Selección, estas deberán haberse constituido y haber oído a las personas 
+En el plazo de diez días hábiles contados a partir de la publicación de la composición de
+las Comisiones de Selección, estas deberán haberse constituido y haber oído a las personas
 candidatas y valorado sus proyectos de dirección.
-Todos los miembros de la Comisión de Selección se identificarán ante el presidente 
-o presidenta mediante documento acreditativo de su identidad, acordándose en la misma 
+Todos los miembros de la Comisión de Selección se identificarán ante el presidente
+o presidenta mediante documento acreditativo de su identidad, acordándose en la misma
 todas las decisiones que correspondan en orden al correcto desarrollo de este procedimiento.
 
-Excepto en caso de fuerza mayor debidamente justificado, a la sesión de constitución 
-de cada Comisión de Selección deberán asistir todos sus miembros titulares y los suplentes 
-expresamente citados por el presidente. En todo caso, para la válida constitución y actuación 
-de la Comisión de Selección se requerirá la presencia de la presidencia, de la secretaría y 
+Excepto en caso de fuerza mayor debidamente justificado, a la sesión de constitución
+de cada Comisión de Selección deberán asistir todos sus miembros titulares y los suplentes
+expresamente citados por el presidente. En todo caso, para la válida constitución y actuación
+de la Comisión de Selección se requerirá la presencia de la presidencia, de la secretaría y
 de, al menos, dos de los restantes vocales.
-Las Comisiones, una vez constituidas, tendrán su sede oficial en el centro donde se 
+Las Comisiones, una vez constituidas, tendrán su sede oficial en el centro donde se
 realice la selección.
 4.5. Funciones.
 Serán funciones de la Comisión de Selección:
-a) Convocar a los candidatos y candidatas a través del tablón de anuncios de su sede 
+a) Convocar a los candidatos y candidatas a través del tablón de anuncios de su sede
 para la defensa de los proyectos de dirección presentados.
-b) Evaluar y calificar los proyectos de dirección presentados y defendidos por las 
+b) Evaluar y calificar los proyectos de dirección presentados y defendidos por las
 personas candidatas, conforme a los criterios establecidos en la presente convocatoria.
-c) Publicar la calificación provisional otorgada en la defensa del proyecto así como la 
-puntuación provisional, debidamente desglosada por apartados y subapartados, respecto 
+c) Publicar la calificación provisional otorgada en la defensa del proyecto así como la
+puntuación provisional, debidamente desglosada por apartados y subapartados, respecto
 del baremo que se publica como Anexo II de esta Resolución.
-d) Atender las reclamaciones presentadas contra la calificación provisional en la defensa 
+d) Atender las reclamaciones presentadas contra la calificación provisional en la defensa
 del proyecto.
-e) Solicitar a la Comisión Técnica informe sobre las reclamaciones presentadas contra 
+e) Solicitar a la Comisión Técnica informe sobre las reclamaciones presentadas contra
 la puntuación provisional de los méritos, y resolver dichas reclamaciones.
-f) Elevar a la Administración educativa la puntuación definitiva y la propuesta de 
+f) Elevar a la Administración educativa la puntuación definitiva y la propuesta de
 nombramiento de los candidatos y candidatas seleccionados.
-g) Emitir informes cuando estos sean requeridos por la Dirección General de Personal 
+g) Emitir informes cuando estos sean requeridos por la Dirección General de Personal
 y Formación del Profesorado.
-h) Seguir las instrucciones de funcionamiento que en su caso dicte la Dirección General 
+h) Seguir las instrucciones de funcionamiento que en su caso dicte la Dirección General
 de Personal y Formación del Profesorado.
-i) Conformar el expediente de actuación de la Comisión mediante la cumplimentación 
-de los modelos, actas y formularios que le sean facilitados por la Dirección General de 
+i) Conformar el expediente de actuación de la Comisión mediante la cumplimentación
+de los modelos, actas y formularios que le sean facilitados por la Dirección General de
 Personal y Formación del Profesorado.
 5.- Comisión técnica para la valoración de los méritos.
-Por Resolución de la Dirección General de Personal y Formación del Profesorado 
-se nombrará una Comisión Técnica que realizará la baremación de los méritos de los 
-candidatos y candidatas que, habiendo obtenido una puntuación mínima de cinco puntos en 
+Por Resolución de la Dirección General de Personal y Formación del Profesorado
+se nombrará una Comisión Técnica que realizará la baremación de los méritos de los
+candidatos y candidatas que, habiendo obtenido una puntuación mínima de cinco puntos en
 el proyecto de dirección, concurran a una misma vacante.
-Para llevar a cabo esta baremación se atenderá al baremo publicado como Anexo II 
-de esta Resolución y se tendrá en cuenta tanto la documentación que obre en esta 
+Para llevar a cabo esta baremación se atenderá al baremo publicado como Anexo II
+de esta Resolución y se tendrá en cuenta tanto la documentación que obre en esta
 Administración educativa como la aportada por las personas candidatas.
 
 Serán funciones de la Comisión Técnica:
 a) Baremar los méritos presentados por los candidatos y candidatas.
-b) Elevar a la Comisión de Selección la puntuación provisional de los méritos, expresada 
+b) Elevar a la Comisión de Selección la puntuación provisional de los méritos, expresada
 por apartados y subapartados.
-c) Estudiar e informar a las Comisiones de Selección sobre las reclamaciones presentadas 
+c) Estudiar e informar a las Comisiones de Selección sobre las reclamaciones presentadas
 contra la puntuación provisional de los méritos.
-d) Elevar a la Comisión de Selección la puntuación definitiva de los méritos, expresada 
+d) Elevar a la Comisión de Selección la puntuación definitiva de los méritos, expresada
 por apartados y subapartados.
-e) Aplicar aquellas instrucciones de funcionamiento que dicte la Dirección General de 
+e) Aplicar aquellas instrucciones de funcionamiento que dicte la Dirección General de
 Personal y Formación del Profesorado para cada convocatoria.
-f) Emitir informes cuando estos sean requeridos por la Dirección General de Personal y 
+f) Emitir informes cuando estos sean requeridos por la Dirección General de Personal y
 Formación del Profesorado o las Direcciones Territoriales de Educación.
-g) Conformar el expediente de actuación de la Comisión mediante la cumplimentación 
-de los modelos, actas y formularios que le sean facilitados por la Dirección General de 
+g) Conformar el expediente de actuación de la Comisión mediante la cumplimentación
+de los modelos, actas y formularios que le sean facilitados por la Dirección General de
 Personal y Formación del Profesorado.
-h) Las demás funciones que le atribuyan la normativa vigente, y cuantas resoluciones e 
+h) Las demás funciones que le atribuyan la normativa vigente, y cuantas resoluciones e
 instrucciones se dicten en desarrollo de la presente Resolución.
 6.- Procedimiento de selección.
-El procedimiento de selección consistirá en la valoración de los proyectos de dirección 
-presentados y defendidos por las personas candidatas, así como en la baremación de los 
+El procedimiento de selección consistirá en la valoración de los proyectos de dirección
+presentados y defendidos por las personas candidatas, así como en la baremación de los
 méritos de aquellas cuyas propuestas hayan obtenido al menos cinco puntos.
 6.1. Valoración del proyecto de dirección del centro.
 6.1.1. Criterios de valoración.
-Corresponde a la Comisión de Selección valorar los proyectos de dirección presentados 
-y defendido por los candidatos y candidatas aplicando los criterios de evaluación que a 
+Corresponde a la Comisión de Selección valorar los proyectos de dirección presentados
+y defendido por los candidatos y candidatas aplicando los criterios de evaluación que a
 continuación se detallan:
-- Calidad y viabilidad del proyecto de dirección: planteamiento de los objetivos básicos, 
-líneas de actuación, evaluación del mismo y propuestas de mejora, incluidos los proyectos 
-de innovación y los planes de mejora de los aprendizajes, de los resultados escolares y de 
+- Calidad y viabilidad del proyecto de dirección: planteamiento de los objetivos básicos,
+líneas de actuación, evaluación del mismo y propuestas de mejora, incluidos los proyectos
+de innovación y los planes de mejora de los aprendizajes, de los resultados escolares y de
 la reducción del abandono escolar. Valoración: hasta 4,00 puntos.
-- Adecuación del proyecto de dirección a las características del centro y su entorno 
-educativo: características del centro y de las enseñanzas que imparte, características del 
-alumnado, atención a la diversidad, entorno social, económico y cultural, relaciones del 
+- Adecuación del proyecto de dirección a las características del centro y su entorno
+educativo: características del centro y de las enseñanzas que imparte, características del
+alumnado, atención a la diversidad, entorno social, económico y cultural, relaciones del
 centro con la comunidad educativa y otras instituciones. Valoración: hasta 3,00 puntos.
 
-- Organización y gestión interna del centro: organización del equipo directivo, distribución 
-de funciones y tareas, coordinación y formas de participación de los órganos de coordinación 
-docente, relaciones con los órganos de participación en el control, gestión y clima de convivencia 
+- Organización y gestión interna del centro: organización del equipo directivo, distribución
+de funciones y tareas, coordinación y formas de participación de los órganos de coordinación
+docente, relaciones con los órganos de participación en el control, gestión y clima de convivencia
 del centro. Valoración: hasta 3,00 puntos.
 6.1.2. Llamamiento único.
-Cada Comisión de Selección citará, por orden alfabético, a los candidatos y candidatas 
-del centro para la exposición y defensa del proyecto de dirección. La citación, que será 
-única, se publicará en el tablón de anuncios de su centro sede con una antelación mínima 
+Cada Comisión de Selección citará, por orden alfabético, a los candidatos y candidatas
+del centro para la exposición y defensa del proyecto de dirección. La citación, que será
+única, se publicará en el tablón de anuncios de su centro sede con una antelación mínima
 de cuarenta y ocho horas e indicará el lugar, fecha y hora en que deberán presentarse.
 6.1.3. Actuación de los candidatos y candidatas ante la Comisión de Selección.
-Se efectuará por el orden alfabético de los apellidos, debiendo identificarse mediante 
-la presentación de documento acreditativo de identidad. El desarrollo de la exposición y 
+Se efectuará por el orden alfabético de los apellidos, debiendo identificarse mediante
+la presentación de documento acreditativo de identidad. El desarrollo de la exposición y
 defensa del proyecto de dirección se realizará en sesiones públicas.
-Quienes no comparezcan a dicho acto quedarán excluidos del procedimiento selectivo 
-salvo en los casos de fuerza mayor, debidamente acreditada y apreciada por la Comisión de 
-Selección. De estimarse la causa alegada y justificada conforme a derecho, la presidencia, 
-previa comunicación a la Dirección General de Personal y Formación del Profesorado, 
-fijará, mediante acuerdo motivado que se incorporará al expediente, nueva fecha y hora 
-para el segundo y último llamamiento del aspirante, publicándolo en el tablón de anuncios 
+Quienes no comparezcan a dicho acto quedarán excluidos del procedimiento selectivo
+salvo en los casos de fuerza mayor, debidamente acreditada y apreciada por la Comisión de
+Selección. De estimarse la causa alegada y justificada conforme a derecho, la presidencia,
+previa comunicación a la Dirección General de Personal y Formación del Profesorado,
+fijará, mediante acuerdo motivado que se incorporará al expediente, nueva fecha y hora
+para el segundo y último llamamiento del aspirante, publicándolo en el tablón de anuncios
 de la sede de actuación de la Comisión.
 6.1.4. Exposición y defensa del proyecto de dirección.
-El participante deberá exponer y defender el proyecto de dirección entregado, en 
-relación con el centro a cuya dirección aspira. El tiempo máximo para el desarrollo de esta 
+El participante deberá exponer y defender el proyecto de dirección entregado, en
+relación con el centro a cuya dirección aspira. El tiempo máximo para el desarrollo de esta
 fase será de cuarenta y cinco minutos, distribuidos de la siguiente manera:
-- Exposición: las personas candidatas dispondrán de un máximo de treinta minutos para 
-la exposición y explicación de las características más relevantes del proyecto, a la vista del 
+- Exposición: las personas candidatas dispondrán de un máximo de treinta minutos para
+la exposición y explicación de las características más relevantes del proyecto, a la vista del
 mismo.
-- Defensa: acto seguido, y por un tiempo máximo de quince minutos, responderá a 
-las cuestiones que le formulen y hará las aclaraciones que le soliciten los miembros de la 
+- Defensa: acto seguido, y por un tiempo máximo de quince minutos, responderá a
+las cuestiones que le formulen y hará las aclaraciones que le soliciten los miembros de la
 Comisión de Selección a efectos de la evaluación.
 6.1.5. Valoración del proyecto de dirección.
-Concluidas las intervenciones de todos los participantes, la Comisión de Selección 
-elaborará un acta en la que constarán las puntuaciones alcanzadas conforme a los criterios 
+Concluidas las intervenciones de todos los participantes, la Comisión de Selección
+elaborará un acta en la que constarán las puntuaciones alcanzadas conforme a los criterios
 de valoración descritos en el apartado 6.1.1 anterior.
-El proyecto de dirección se valorará de 0,00 a 10,00 puntos, y se obtendrá hallando 
-la media aritmética de la puntuación otorgada por todos los miembros de la Comisión de 
-Selección. No obstante, cuando en la calificación total de este proyecto exista diferencia de 
-cuatro o más enteros entre las puntuaciones otorgadas por los miembros de la Comisión de 
-Selección, será automáticamente excluida la calificación máxima y la mínima hallándose 
+El proyecto de dirección se valorará de 0,00 a 10,00 puntos, y se obtendrá hallando
+la media aritmética de la puntuación otorgada por todos los miembros de la Comisión de
+Selección. No obstante, cuando en la calificación total de este proyecto exista diferencia de
+cuatro o más enteros entre las puntuaciones otorgadas por los miembros de la Comisión de
+Selección, será automáticamente excluida la calificación máxima y la mínima hallándose
 la puntuación media entre las calificaciones restantes.
 
-Si calificados los proyectos de dirección solo uno de ellos resultase aprobado, valorado 
-como mínimo con cinco puntos, se propondrá su selección, sin necesidad de proceder a 
-la baremación de los méritos. Si más de un proyecto de dirección obtiene la calificación 
+Si calificados los proyectos de dirección solo uno de ellos resultase aprobado, valorado
+como mínimo con cinco puntos, se propondrá su selección, sin necesidad de proceder a
+la baremación de los méritos. Si más de un proyecto de dirección obtiene la calificación
 mínima, procederá la baremación de los méritos de los mismos.
 6.2. Baremación de los méritos académicos y profesionales.
-La Comisión Técnica nombrada al efecto estudiará y baremará los méritos de los 
-apartados 3 y 4 de los participantes que indique la Comisión de Selección y hayan sido 
-presentados de acuerdo con lo establecido en esta base y en el Anexo II de la presente 
+La Comisión Técnica nombrada al efecto estudiará y baremará los méritos de los
+apartados 3 y 4 de los participantes que indique la Comisión de Selección y hayan sido
+presentados de acuerdo con lo establecido en esta base y en el Anexo II de la presente
 Resolución.
-A efectos de formular su propuesta, la Comisión Técnica podrá requerir a los interesados, 
-en cualquier momento, para que justifiquen aquellos méritos sobre los que se planteen 
+A efectos de formular su propuesta, la Comisión Técnica podrá requerir a los interesados,
+en cualquier momento, para que justifiquen aquellos méritos sobre los que se planteen
 dudas o reclamaciones.
-No obstante lo anterior, si se detectara de oficio o a instancia de parte algún error 
-material de hecho o aritmético que haya dado lugar al resultado de una puntuación errónea, 
+No obstante lo anterior, si se detectara de oficio o a instancia de parte algún error
+material de hecho o aritmético que haya dado lugar al resultado de una puntuación errónea,
 será subsanado por la Comisión Técnica.
-El resultado de la valoración de los méritos académicos y profesionales de los 
-participantes realizada por la Comisión Técnica será trasladado a las Comisiones de Selección 
+El resultado de la valoración de los méritos académicos y profesionales de los
+participantes realizada por la Comisión Técnica será trasladado a las Comisiones de Selección
 para añadirlo a la puntuación obtenida en el proyecto de dirección.
 7.- Criterios de desempate.
-Cuando exista empate entre dos o más aspirantes en la valoración global de los méritos 
-y del proyecto de dirección, se resolverán atendiendo sucesivamente a los siguientes 
+Cuando exista empate entre dos o más aspirantes en la valoración global de los méritos
+y del proyecto de dirección, se resolverán atendiendo sucesivamente a los siguientes
 criterios:
 - Mayor puntuación en el proyecto de dirección.
-- Mayor puntuación en los apartados del baremo de méritos en el orden que aparecen 
+- Mayor puntuación en los apartados del baremo de méritos en el orden que aparecen
 en la convocatoria.
-- Mayor puntuación en los subapartados del baremo de méritos en el orden que aparecen 
+- Mayor puntuación en los subapartados del baremo de méritos en el orden que aparecen
 en la convocatoria.
 - En caso de persistir el empate, la mayor edad de las personas participantes.
-8.- Puntuaciones provisionales, definitivas, publicidad de los proyectos de dirección 
+8.- Puntuaciones provisionales, definitivas, publicidad de los proyectos de dirección
 y propuesta de personas seleccionados por centro docente.
-8.1. Puntuaciones provisionales. Publicidad de los proyectos de dirección. Plazo de 
+8.1. Puntuaciones provisionales. Publicidad de los proyectos de dirección. Plazo de
 reclamaciones. Disposición común.
-Las Comisiones de Selección publicarán en sus sedes de actuación las puntuaciones 
-provisionales que se les ha asignado a las personas participantes en este procedimiento: 
-calificación del proyecto de dirección y puntuación del baremo de méritos desglosada por 
-apartados y subapartados. Las personas participantes serán ordenadas de acuerdo con la 
+Las Comisiones de Selección publicarán en sus sedes de actuación las puntuaciones
+provisionales que se les ha asignado a las personas participantes en este procedimiento:
+calificación del proyecto de dirección y puntuación del baremo de méritos desglosada por
+apartados y subapartados. Las personas participantes serán ordenadas de acuerdo con la
 puntuación final asignada.
 
-Asimismo, las correspondientes Comisiones de Selección de cada centro pondrán 
-a disposición de la comunidad educativa, así como al resto de candidatos o candidatas 
-participantes, exclusivamente en el ámbito de su respectivo centro, los proyectos de 
+Asimismo, las correspondientes Comisiones de Selección de cada centro pondrán
+a disposición de la comunidad educativa, así como al resto de candidatos o candidatas
+participantes, exclusivamente en el ámbito de su respectivo centro, los proyectos de
 dirección valorados.
-En el plazo de 3 días hábiles, contados a partir del siguiente a su publicación, los 
-interesados podrán presentar en el centro, dirigido a la presidencia de su Comisión de 
-Selección, las alegaciones que estimen pertinentes sobre la puntuación asignada al proyecto. 
-Cuando se produzca la publicación de la calificación final provisional, se podrá formular, 
-en el plazo de 3 días hábiles, reclamación contra la baremación de méritos, no pudiendo en 
+En el plazo de 3 días hábiles, contados a partir del siguiente a su publicación, los
+interesados podrán presentar en el centro, dirigido a la presidencia de su Comisión de
+Selección, las alegaciones que estimen pertinentes sobre la puntuación asignada al proyecto.
+Cuando se produzca la publicación de la calificación final provisional, se podrá formular,
+en el plazo de 3 días hábiles, reclamación contra la baremación de méritos, no pudiendo en
 este momento presentarse reclamación contra el proyecto.
-Durante este plazo, las personas participantes podrán subsanar aquella documentación 
-que, habiendo sido presentada en plazo, no quedó debidamente acreditada en la forma 
-prevista en los apartados 3 y 4 del Anexo II de esta Resolución, si bien no se podrá presentar 
+Durante este plazo, las personas participantes podrán subsanar aquella documentación
+que, habiendo sido presentada en plazo, no quedó debidamente acreditada en la forma
+prevista en los apartados 3 y 4 del Anexo II de esta Resolución, si bien no se podrá presentar
 nueva documentación de méritos distintos a los alegados inicialmente.
-La Comisión de Selección remitirá a la Dirección General de Personal y Formación del 
-Profesorado, dirigidas a la atención de la Comisión Técnica, las reclamaciones presentadas 
-contra la puntuación provisional del baremo de méritos. La Comisión Técnica estudiará 
-dichas reclamaciones e informará a las Comisiones de Selección correspondientes sobre 
+La Comisión de Selección remitirá a la Dirección General de Personal y Formación del
+Profesorado, dirigidas a la atención de la Comisión Técnica, las reclamaciones presentadas
+contra la puntuación provisional del baremo de méritos. La Comisión Técnica estudiará
+dichas reclamaciones e informará a las Comisiones de Selección correspondientes sobre
 su procedencia.
 8.2. Puntuaciones definitivas y propuesta de personas seleccionadas por centro docente.
-Una vez estudiadas y resueltas las alegaciones presentadas en tiempo y forma, las 
-Comisiones de Selección elevarán a las Direcciones Territoriales de Educación la valoración 
+Una vez estudiadas y resueltas las alegaciones presentadas en tiempo y forma, las
+Comisiones de Selección elevarán a las Direcciones Territoriales de Educación la valoración
 definitiva, así como la propuesta de seleccionados.
 9.- Relación de personas candidatas seleccionadas y centros a los que se les destina.
-Por Resolución de la Dirección Territorial de Educación correspondiente se aprobará la 
-relación de candidatos y candidatas seleccionados, contra la que se podrá interponer, en el 
-plazo de un mes, a contar a partir del día siguiente al de su publicación, recurso de alzada 
+Por Resolución de la Dirección Territorial de Educación correspondiente se aprobará la
+relación de candidatos y candidatas seleccionados, contra la que se podrá interponer, en el
+plazo de un mes, a contar a partir del día siguiente al de su publicación, recurso de alzada
 ante la Dirección General de Personal y Formación del Profesorado.
-En el supuesto de que alguno de los candidatos o candidatas seleccionados no hubiera 
-superado el curso de la función directiva, se emitirá Resolución por la correspondiente 
+En el supuesto de que alguno de los candidatos o candidatas seleccionados no hubiera
+superado el curso de la función directiva, se emitirá Resolución por la correspondiente
 Dirección Territorial de Educación, de exclusión del procedimiento.
 10.- Nombramiento de los directores y directoras.
-En cada Dirección Territorial de Educación de esta Consejería, se dictará Resolución 
-que será publicada en la página web de la Consejería de Educación, Formación Profesional, 
-Actividad Física y Deportes, aprobando las puntuaciones definitivas obtenidas en la 
-convocatoria por los candidatos y candidatas, así como la relación de los seleccionados 
-como directores y directoras de los centros públicos de enseñanza no universitarias de la 
-Comunidad Autónoma de Canarias, para ser nombrados por un periodo de cuatro años, 
+En cada Dirección Territorial de Educación de esta Consejería, se dictará Resolución
+que será publicada en la página web de la Consejería de Educación, Formación Profesional,
+Actividad Física y Deportes, aprobando las puntuaciones definitivas obtenidas en la
+convocatoria por los candidatos y candidatas, así como la relación de los seleccionados
+como directores y directoras de los centros públicos de enseñanza no universitarias de la
+Comunidad Autónoma de Canarias, para ser nombrados por un periodo de cuatro años,
 contados desde el 1 de julio de 2026 hasta el 30 de junio de 2030.
 
-Los nombramientos, que serán efectuados mediante Resolución de la Dirección 
-Territorial de Educación correspondiente que se publicarán en la página web de la 
-Consejería de Educación, Formación Profesional, Actividad Física y Deportes, quedarán 
-condicionados al mantenimiento de los requisitos exigidos para la selección, la superación 
-del curso sobre la función directiva, en su caso, y a que no se produzcan las causas de cese 
+Los nombramientos, que serán efectuados mediante Resolución de la Dirección
+Territorial de Educación correspondiente que se publicarán en la página web de la
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes, quedarán
+condicionados al mantenimiento de los requisitos exigidos para la selección, la superación
+del curso sobre la función directiva, en su caso, y a que no se produzcan las causas de cese
 previstas en la normativa de aplicación.
 11.- Comisión de servicios.
-A los directores y directoras a los que se adjudique un centro para el desempeño de 
-la función directiva en el que no tengan destino definitivo, se les concederá de oficio la 
-correspondiente comisión de servicios por la Dirección General de Personal y Formación 
+A los directores y directoras a los que se adjudique un centro para el desempeño de
+la función directiva en el que no tengan destino definitivo, se les concederá de oficio la
+correspondiente comisión de servicios por la Dirección General de Personal y Formación
 del Profesorado con efectos de 1 de julio de 2026.
-Los directores y directoras que tengan destino definitivo en otras Comunidades 
-Autónomas deberán aportar, con carácter previo al nombramiento y cada año del periodo 
-de mandato, un informe favorable de la Comunidad Autónoma de origen. De no obtener la 
+Los directores y directoras que tengan destino definitivo en otras Comunidades
+Autónomas deberán aportar, con carácter previo al nombramiento y cada año del periodo
+de mandato, un informe favorable de la Comunidad Autónoma de origen. De no obtener la
 autorización señalada, no podrán ser nombrado o continuar en el cargo.
 12.- Equipo directivo: propuesta de cargos directivos, nombramientos y ceses.
-La dirección, previa comunicación al Claustro de Profesores y al Consejo Escolar, 
-formulará propuesta de nombramiento a la Dirección Territorial de Educación correspondiente 
-de los cargos que formen el equipo directivo quienes tendrán, preferentemente, destino en 
+La dirección, previa comunicación al Claustro de Profesores y al Consejo Escolar,
+formulará propuesta de nombramiento a la Dirección Territorial de Educación correspondiente
+de los cargos que formen el equipo directivo quienes tendrán, preferentemente, destino en
 el centro.
-La dirección podrá formular propuesta de nombramiento de profesorado con destino en 
-otro centro docente, siempre que puedan impartir alguna de las enseñanzas encomendadas 
+La dirección podrá formular propuesta de nombramiento de profesorado con destino en
+otro centro docente, siempre que puedan impartir alguna de las enseñanzas encomendadas
 al centro.
-El cese del resto de miembros del equipo directivo se producirá en los supuestos 
-previstos en el artículo 21 del [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la 
-función directiva en los centros docentes públicos no universitarios dependientes de la 
+El cese del resto de miembros del equipo directivo se producirá en los supuestos
+previstos en el artículo 21 del [Decreto 106/2009](./D106_2009_regula_funcion_directiva_centros_docentes_publicos.md), de 28 de julio, por el que se regula la
+función directiva en los centros docentes públicos no universitarios dependientes de la
 Comunidad Autónoma de Canarias.
 
 ANEXO II
-BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y 
+BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y
 DIRECTORAS DE CENTROS DOCENTES PÚBLICOS 2026-2030
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-1.  EXPERIENCIA  EN  CARGOS  
+1.  EXPERIENCIA  EN  CARGOS
 DIRECTIVOS
 (Ver disposiciones complementarias)
 MÁXIMO
 4,00 puntos
-A  través  del  sitio  Web  de  esta 
-Consejería,  en  el  enlace  
-“Actualización telemática de la hoja  
-de servicios” el concursante deberá  
-comprobar los datos que figuran en  
-la  misma.  Si  detectara  errores  u 
-omisiones,  deberá  cumplimentar  la 
-“solicitud  de  modificación”  que 
-consta  en  dicha  aplicación  
-informática, imprimirla y presentarla  
-junto  con  el  original  y  copia  para 
-cotejo  del  nombramiento  con  las 
-fechas de tomas de posesión y cese  
-o, en su caso, certificación en la que  
-conste que a la fecha de finalización  
-del  plazo  de  presentación  de  
-solicitudes se continúa en el cargo,  
-en  el  plazo  de  presentación  de  
+A  través  del  sitio  Web  de  esta
+Consejería,  en  el  enlace
+“Actualización telemática de la hoja
+de servicios” el concursante deberá
+comprobar los datos que figuran en
+la  misma.  Si  detectara  errores  u
+omisiones,  deberá  cumplimentar  la
+“solicitud  de  modificación”  que
+consta  en  dicha  aplicación
+informática, imprimirla y presentarla
+junto  con  el  original  y  copia  para
+cotejo  del  nombramiento  con  las
+fechas de tomas de posesión y cese
+o, en su caso, certificación en la que
+conste que a la fecha de finalización
+del  plazo  de  presentación  de
+solicitudes se continúa en el cargo,
+en  el  plazo  de  presentación  de
 instancias.
-En  cualquier  caso,  salvo  lo  
-anteriormente  dicho,  no  es  
-necesario presentar con la instancia, 
-documentación  acreditativa  de  los 
-periodos  del  ejercicio  de  estos  
-cargos  directivos  ya  mostradas  a 
-través de la aplicación informática,  
-pues no se tendrán en cuenta. Sólo  
-es  necesario  presentar  la  
-documentación  acreditativa  de  
-aquellos  periodos  de  cargos  
-directivos  que  no  figuran  en  dicha 
-relación y de los que se considere  
-que hay un error, siempre que estos  
+En  cualquier  caso,  salvo  lo
+anteriormente  dicho,  no  es
+necesario presentar con la instancia,
+documentación  acreditativa  de  los
+periodos  del  ejercicio  de  estos
+cargos  directivos  ya  mostradas  a
+través de la aplicación informática,
+pues no se tendrán en cuenta. Sólo
+es  necesario  presentar  la
+documentación  acreditativa  de
+aquellos  periodos  de  cargos
+directivos  que  no  figuran  en  dicha
+relación y de los que se considere
+que hay un error, siempre que estos
 sean baremables.
-1.1. P o r c a d a a ñ o e n e l c a r g o d e 
-dirección  en  el  centro  docente  
+1.1. P o r c a d a a ñ o e n e l c a r g o d e
+dirección  en  el  centro  docente
 público a cuya dirección se aspira:
-La fracción de año se computará a  
-razón  de  0,084  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,084  puntos  por  mes
 completo.
 1 punto
-1.2.  Por  cada  año  en  el  cargo  de 
-dirección en otros centros docentes  
-públicos,  Coordinación  de  CER  o 
-como  Dirección  de  los  Equipos  
+1.2.  Por  cada  año  en  el  cargo  de
+dirección en otros centros docentes
+públicos,  Coordinación  de  CER  o
+como  Dirección  de  los  Equipos
 Zonales de Tutorías de Jóvenes.
-La fracción de año se computará a  
-razón  de  0,042  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,042  puntos  por  mes
 completo.
 0,50 puntos
-1.3. Por cada año de desempeño de  
-la  vicedirección,  subdirección,  
-jefatura  de  estudios,  secretaría  y 
-asimilados  en  el  centro  docente  
+1.3. Por cada año de desempeño de
+la  vicedirección,  subdirección,
+jefatura  de  estudios,  secretaría  y
+asimilados  en  el  centro  docente
 público a cuya dirección se aspira:
-La fracción de año se computará a  
-razón de 0,050 puntos por cada mes  
+La fracción de año se computará a
+razón de 0,050 puntos por cada mes
 completo.
 0,60 puntos
-1.4. Por cada año de desempaño en  
-la  vicedirección,  subdirección,  
-jefatura  de  estudios,  secretaría  y 
-asimilados en otros centros públicos  
+1.4. Por cada año de desempaño en
+la  vicedirección,  subdirección,
+jefatura  de  estudios,  secretaría  y
+asimilados en otros centros públicos
 docentes:
-La fracción de año se computará a  
-razón de 0,025 puntos por cada mes  
+La fracción de año se computará a
+razón de 0,025 puntos por cada mes
 completo.
 0,30 puntos
-1.5.  Por cada año como director o  
+1.5.  Por cada año como director o
 directora en Centro de Profesorado:
-La fracción de año se computará a  
-razón  de  0,017  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,017  puntos  por  mes
 completo.
 0,20 puntos
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO II
-BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y 
+BAREMO DE CONCURSO DE MÉRITOS PARA LA SELECCIÓN DE DIRECTORES Y
 DIRECTORAS DE CENTROS DOCENTES PÚBLICOS 2026-2030
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
@@ -793,533 +794,533 @@ MÉRITOS VALORACIÓN JUSTIFICACIÓN
 (Ver disposiciones complementarias)
 MÁXIMO
 3,00 puntos
-2.1. Por la evaluación positiva en el  
-ejercicio  de  la  función  directiva  
-cuando se ha accedido a ésta por el  
-procedimiento de selección a que se  
+2.1. Por la evaluación positiva en el
+ejercicio  de  la  función  directiva
+cuando se ha accedido a ésta por el
+procedimiento de selección a que se
 refiere esta convocatoria:
-0,50 puntos Mérito aportado por la Administración  
+0,50 puntos Mérito aportado por la Administración
 educativa.
-2.2.  Por  pertenecer  al  Cuerpo  de 
+2.2.  Por  pertenecer  al  Cuerpo  de
 Catedráticos. 0,30 puntos
-Mérito aportado por la Administración  
+Mérito aportado por la Administración
 educativa.
-2.3.  Por  cada  año  de  servicios  
-efectivos  prestados  en  el  centro  a 
-cuya  dirección  se  aspira,  en  la  
-situación  de  servicio  activo  en  los 
-cuerpos  previstos  en  la  Ley  
-Orgánica 2/2006, de 3 de mayo, de  
-Educación que sobrepase los cinco  
+2.3.  Por  cada  año  de  servicios
+efectivos  prestados  en  el  centro  a
+cuya  dirección  se  aspira,  en  la
+situación  de  servicio  activo  en  los
+cuerpos  previstos  en  la  Ley
+Orgánica 2/2006, de 3 de mayo, de
+Educación que sobrepase los cinco
 años exigidos como requisito.
-La fracción de año se computará a  
-razón  de  0,033  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,033  puntos  por  mes
 completo.
 0,40 puntos
-A  través  del  sitio  Web  de  esta  
-Consejería, en el enlace “Actualización 
-telemática de la hoja de servicios” el  
-concursante  deberá  comprobar  los  
-datos  que  figuran  en  la  misma.  Si 
-detectara errores u omisiones, deberá  
-cumplimentar  la  “solicitud  de  
-modificación”  que  consta  en  dicha  
-aplicación  informática,  imprimirla  y  
-presentarla  junto  con  las  tomas  de 
-posesión y cese de aquellos periodos  
-que  reclame,  en  el  plazo  de  
+A  través  del  sitio  Web  de  esta
+Consejería, en el enlace “Actualización
+telemática de la hoja de servicios” el
+concursante  deberá  comprobar  los
+datos  que  figuran  en  la  misma.  Si
+detectara errores u omisiones, deberá
+cumplimentar  la  “solicitud  de
+modificación”  que  consta  en  dicha
+aplicación  informática,  imprimirla  y
+presentarla  junto  con  las  tomas  de
+posesión y cese de aquellos periodos
+que  reclame,  en  el  plazo  de
 presentación de instancias.
-En  cualquier  caso,  salvo  lo  
-anteriormente dicho, no es necesario  
-presentar  con  la  instancia,  
-documentación  acreditativa  de  los  
-periodos  y  servicios  ya  mostradas  a 
-través  de  la  aplicación  informática, 
-pues no se tendrán en cuenta. Sólo es  
-necesario presentar la documentación  
-acreditativa de aquellos periodos que  
-no figuran en dicha relación y de los  
-que  se  considere  que  hay  un  error, 
-siempre  que  estos  sean  baremables 
+En  cualquier  caso,  salvo  lo
+anteriormente dicho, no es necesario
+presentar  con  la  instancia,
+documentación  acreditativa  de  los
+periodos  y  servicios  ya  mostradas  a
+través  de  la  aplicación  informática,
+pues no se tendrán en cuenta. Sólo es
+necesario presentar la documentación
+acreditativa de aquellos periodos que
+no figuran en dicha relación y de los
+que  se  considere  que  hay  un  error,
+siempre  que  estos  sean  baremables
 mediante original y copia para cotejo.
-2.4.  Por  cada  año  de  servicios  
-efectivos  prestados  en  la  situación 
-de  servicio  activo  en  los  cuerpos 
-previstos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),  
-de 3  de  mayo, de  Educación, que 
-sobrepase  los  cinco  años  exigidos 
+2.4.  Por  cada  año  de  servicios
+efectivos  prestados  en  la  situación
+de  servicio  activo  en  los  cuerpos
+previstos en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md),
+de 3  de  mayo, de  Educación, que
+sobrepase  los  cinco  años  exigidos
 como requisito.
-La fracción de año se computará a  
-razón  de  0,016  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,016  puntos  por  mes
 completo.
 0,20 puntos
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-2.5. Por cada año de desempeño de  
-servicios  efectivos  en  la  función  
+2.5. Por cada año de desempeño de
+servicios  efectivos  en  la  función
 Inspectora de Educación:
-La fracción de año se computará a  
-razón  de  0,016  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,016  puntos  por  mes
 completo.
 0,20 puntos
-A  través  del  sitio  Web  de  esta  
-Consejería, en el enlace “Actualización 
-telemática de la hoja de servicios” el  
-concursante  deberá  comprobar  los  
-datos  que  figuran  en  la  misma.  Si 
-detectara errores u omisiones, deberá  
-cumplimentar  la  “solicitud  de  
-modificación” que  consta  en  dicha  
-aplicación  informática,  imprimirla  y  
-presentarla  junto  con  la  
-documentación  original  y  copia  para 
-su cotejo, del nombramiento con las  
-fechas de tomas de posesión y cese o, 
-en  su  caso,  certificación  en  la  que 
-conste que a la fecha de finalización  
-del  plazo  de  presentación  de  
-solicitudes se continúa en puesto, en  
+A  través  del  sitio  Web  de  esta
+Consejería, en el enlace “Actualización
+telemática de la hoja de servicios” el
+concursante  deberá  comprobar  los
+datos  que  figuran  en  la  misma.  Si
+detectara errores u omisiones, deberá
+cumplimentar  la  “solicitud  de
+modificación” que  consta  en  dicha
+aplicación  informática,  imprimirla  y
+presentarla  junto  con  la
+documentación  original  y  copia  para
+su cotejo, del nombramiento con las
+fechas de tomas de posesión y cese o,
+en  su  caso,  certificación  en  la  que
+conste que a la fecha de finalización
+del  plazo  de  presentación  de
+solicitudes se continúa en puesto, en
 el plazo de presentación de instancias.
-2.6. Por cada año de desempeño de  
-servicios en centros directivos de la  
+2.6. Por cada año de desempeño de
+servicios en centros directivos de la
 Administración educativa:
-La fracción de año se computará a  
-razón  de  0,016  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,016  puntos  por  mes
 completo.
 0,20 puntos
-A  través  del  sitio  Web  de  esta  
-Consejería, en el enlace “Actualización 
-telemática de la hoja de servicios” el  
-concursante  deberá  comprobar  los  
-datos  que  figuran  en  la  misma.  Si 
-detectara errores u omisiones, deberá  
-cumplimentar  la  “solicitud  de  
-modificación” que  consta  en  dicha  
-aplicación  informática,  imprimirla  y  
-presentarla  junto  con  la  
-documentación  original  y  copia  para 
-su cotejo, del nombramiento con las  
-fechas de tomas de posesión y cese o, 
-en  su  caso,  certificación  en  la  que 
-conste que a la fecha de finalización  
-del  plazo  de  presentación  de  
-solicitudes se continúa en puesto, en  
+A  través  del  sitio  Web  de  esta
+Consejería, en el enlace “Actualización
+telemática de la hoja de servicios” el
+concursante  deberá  comprobar  los
+datos  que  figuran  en  la  misma.  Si
+detectara errores u omisiones, deberá
+cumplimentar  la  “solicitud  de
+modificación” que  consta  en  dicha
+aplicación  informática,  imprimirla  y
+presentarla  junto  con  la
+documentación  original  y  copia  para
+su cotejo, del nombramiento con las
+fechas de tomas de posesión y cese o,
+en  su  caso,  certificación  en  la  que
+conste que a la fecha de finalización
+del  plazo  de  presentación  de
+solicitudes se continúa en puesto, en
 el plazo de presentación de instancias.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-2.7. Por cada año como Jefatura de  
-Seminario, Departamento o División  
-de  centros  públicos,  Asesoría  de 
-Formación  Permanente  o  
-Coordinación  de  un  Equipo  de  
-Orientación  Educativa  y  
-Psicopedagógica  en  el  centro  
-docente público a cuya dirección se  
+2.7. Por cada año como Jefatura de
+Seminario, Departamento o División
+de  centros  públicos,  Asesoría  de
+Formación  Permanente  o
+Coordinación  de  un  Equipo  de
+Orientación  Educativa  y
+Psicopedagógica  en  el  centro
+docente público a cuya dirección se
 aspira:
-La fracción de año se computará a  
-razón  de  0,016  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,016  puntos  por  mes
 completo.
 0,20 puntos
--  En  relación  con  las  jefaturas  de 
-Seminario/Departamento o División, el  
-participante a través del sitio Web de  
-esta  Consejería,  en  el  enlace  
-“Actualización telemática de la hoja de  
-servicios” deberá comprobar los datos  
-que figuran en la misma. Si detectara  
-errores  u  omisiones,  deberá  
-cumplimentar  la  “solicitud  de  
-modificación” que  consta  en  dicha  
-aplicación  informática,  imprimirla  y  
-presentarla junto con original y copia  
-para cotejo del nombramiento con las  
-fechas de tomas de posesión y cese o, 
-en  su  caso,  certificación  en  la  que 
-conste que a la fecha de finalización  
-del  plazo  de  presentación  de  
-solicitudes se continúa en puesto, en  
+-  En  relación  con  las  jefaturas  de
+Seminario/Departamento o División, el
+participante a través del sitio Web de
+esta  Consejería,  en  el  enlace
+“Actualización telemática de la hoja de
+servicios” deberá comprobar los datos
+que figuran en la misma. Si detectara
+errores  u  omisiones,  deberá
+cumplimentar  la  “solicitud  de
+modificación” que  consta  en  dicha
+aplicación  informática,  imprimirla  y
+presentarla junto con original y copia
+para cotejo del nombramiento con las
+fechas de tomas de posesión y cese o,
+en  su  caso,  certificación  en  la  que
+conste que a la fecha de finalización
+del  plazo  de  presentación  de
+solicitudes se continúa en puesto, en
 el plazo de presentación de instancias.
--Para la acreditación del desempeño  
-de la función de asesor/a de formación 
-permanente o director/a de un equipo  
-de  orientación  educativa  y  
-psicopedagógica,  deberá  presentar  
-original  y  copia  para  cotejo  del  
-nombramiento,  con  diligencia  de  
-posesión  y  cese  o,  en  su  caso,  
-certificación en la que conste que a la  
-fecha  de  finalización  del  plazo  de 
-presentación  de  solicitudes  se  
-continúa  desempeñando  la  función  
-docente, en el plazo de presentación  
+-Para la acreditación del desempeño
+de la función de asesor/a de formación
+permanente o director/a de un equipo
+de  orientación  educativa  y
+psicopedagógica,  deberá  presentar
+original  y  copia  para  cotejo  del
+nombramiento,  con  diligencia  de
+posesión  y  cese  o,  en  su  caso,
+certificación en la que conste que a la
+fecha  de  finalización  del  plazo  de
+presentación  de  solicitudes  se
+continúa  desempeñando  la  función
+docente, en el plazo de presentación
 de instancias.
-2.8.  Por cada año como Jefatura de  
-Seminario, Departamento o División  
-de  centros  públicos,  Asesoría  de 
-Formación  Permanente  o  
-Coordinación  de  un  Equipo  de  
-Orientación  Educativa  y  
-Psicopedagógica  en  otros  centros 
+2.8.  Por cada año como Jefatura de
+Seminario, Departamento o División
+de  centros  públicos,  Asesoría  de
+Formación  Permanente  o
+Coordinación  de  un  Equipo  de
+Orientación  Educativa  y
+Psicopedagógica  en  otros  centros
 públicos:
-La fracción de año se computará a  
-razón  de  0,008  puntos  por  mes  
+La fracción de año se computará a
+razón  de  0,008  puntos  por  mes
 completo.
 0,10 puntos
 3. MÉRITOS ACADÉMICOS
 (Ver disposiciones complementarias)
-A los efectos de su valoración por  
-este  apartado,  únicamente  se  
-tendrán  en  cuenta,  los  títulos  
-universitarios oficiales con validez en 
+A los efectos de su valoración por
+este  apartado,  únicamente  se
+tendrán  en  cuenta,  los  títulos
+universitarios oficiales con validez en
 el Estado español.
 MÁXIMO
 1,00 puntos
-3.1. Doctorado  y  Premios  
+3.1. Doctorado  y  Premios
 extraordinarios:
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-3.1.1. Por haber obtenido el título de  
+3.1.1. Por haber obtenido el título de
 Doctor:
 Se valora un solo título de doctor.
 0,50 puntos
-Título o certificación del abono de los  
-derechos  de  expedición  del  título  o 
-certificado  supletorio  de  la  titulación 
-expedidos de acuerdo con lo previsto,  
-en su caso, en la Orden de 8 de julio  
-de 1988 (BOE del 13) o en la Orden  
-de 13 de agosto de 2007 (BOE del 21)  
-o en el Real Decreto 1002/2010, de 5  
-de agosto, sobre expedición de títulos  
-universitarios oficiales (BOE de 6 de  
+Título o certificación del abono de los
+derechos  de  expedición  del  título  o
+certificado  supletorio  de  la  titulación
+expedidos de acuerdo con lo previsto,
+en su caso, en la Orden de 8 de julio
+de 1988 (BOE del 13) o en la Orden
+de 13 de agosto de 2007 (BOE del 21)
+o en el Real Decreto 1002/2010, de 5
+de agosto, sobre expedición de títulos
+universitarios oficiales (BOE de 6 de
 agosto).
-3.1.2 Por  el  reconocimiento  de  
-suficiencia  investigadora  o  el  
-certificado-diploma  acreditativo  de  
+3.1.2 Por  el  reconocimiento  de
+suficiencia  investigadora  o  el
+certificado-diploma  acreditativo  de
 estudios avanzados:
-Este mérito no se valorará cuando  
+Este mérito no se valorará cuando
 haya sido alegado el título de Doctor.
 0,20 puntos Certificado-diploma correspondiente.
-3.1.3.  Por  haber  obtenido  premio 
-extraordinario en el doctorado, en la  
-licenciatura o grado o, en el caso de  
-las  titulaciones  otorgadas  por  los 
-Conservatorios  Superiores  de  
-Música, por la mención honorífica en  
+3.1.3.  Por  haber  obtenido  premio
+extraordinario en el doctorado, en la
+licenciatura o grado o, en el caso de
+las  titulaciones  otorgadas  por  los
+Conservatorios  Superiores  de
+Música, por la mención honorífica en
 el grado superior:
 Se valora un solo premio.
 0,10 puntos Documentación justificativa del mismo.
 3.2. Otras titulaciones universitarias:
-Las  titulaciones  universitarias  de  
-carácter oficial, en el caso de que no  
-hubieran  sido  las  exigidas  con  
-carácter general para el ingreso en  
-el cuerpo desde el que se participa,  
+Las  titulaciones  universitarias  de
+carácter oficial, en el caso de que no
+hubieran  sido  las  exigidas  con
+carácter general para el ingreso en
+el cuerpo desde el que se participa,
 se valorarán de la forma siguiente:
 3.2.1. Titulaciones de Grado.
-Por  el  título  universitario  oficial  de 
+Por  el  título  universitario  oficial  de
 Grado o equivalente:
 Se valora un solo título de grado.
 0,50 puntos
-La misma documentación justificativa  
-que se indica para justificar el mérito  
+La misma documentación justificativa
+que se indica para justificar el mérito
 del subapartado 3.1.1.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 3.2.2. Titulaciones de primer ciclo.
-Por  la  segunda  y  restantes  
-diplomaturas,  ingenierías  técnicas, 
-arquitecturas  técnicas  o  títulos  
-declarados  legalmente equivalentes 
-y por los estudios correspondientes  
-al  primer  ciclo  de  una  licenciatura, 
+Por  la  segunda  y  restantes
+diplomaturas,  ingenierías  técnicas,
+arquitecturas  técnicas  o  títulos
+declarados  legalmente equivalentes
+y por los estudios correspondientes
+al  primer  ciclo  de  una  licenciatura,
 arquitectura o ingeniería:
-No se valorarán en ningún caso el  
-título o estudios de esta naturaleza  
-que hayan sido necesarios superar  
-para la obtención del primer título de  
-licenciado,  ingeniero  o  arquitecto  
+No se valorarán en ningún caso el
+título o estudios de esta naturaleza
+que hayan sido necesarios superar
+para la obtención del primer título de
+licenciado,  ingeniero  o  arquitecto
 que se presente.
-No se valorarán los primeros ciclos  
-que hayan permitido la obtención de  
-otras  titulaciones  académicas  de  
-ciclo  largo  que  se  aleguen  como 
+No se valorarán los primeros ciclos
+que hayan permitido la obtención de
+otras  titulaciones  académicas  de
+ciclo  largo  que  se  aleguen  como
 méritos.
 0,30 puntos
-Todos  los  títulos  que  se  posean  o 
-certificado del abono de los derechos  
-de  expedición  expedida  de  acuerdo 
-con lo previsto en la Orden de 8 de  
+Todos  los  títulos  que  se  posean  o
+certificado del abono de los derechos
+de  expedición  expedida  de  acuerdo
+con lo previsto en la Orden de 8 de
 julio de 1988 (B.O.E del 13).
-Para  la  valoración  de  los  estudios 
-correspondientes  al  primer  ciclo  de 
-una  licenciatura,  arquitectura  o  
-ingeniería, certificación académica en  
-donde conste de forma expresa que  
-se han superado todas las asignaturas  
-o  créditos  conducentes  para  la  
+Para  la  valoración  de  los  estudios
+correspondientes  al  primer  ciclo  de
+una  licenciatura,  arquitectura  o
+ingeniería, certificación académica en
+donde conste de forma expresa que
+se han superado todas las asignaturas
+o  créditos  conducentes  para  la
 obtención de dichos título o ciclos.
 3.2.3. Titulaciones de segundo ciclo.
-Por los estudios correspondientes al  
-segundo  ciclo  de  licenciaturas,  
-ingenierías,  arquitecturas  o  títulos 
+Por los estudios correspondientes al
+segundo  ciclo  de  licenciaturas,
+ingenierías,  arquitecturas  o  títulos
 declarados legalmente equivalentes:
-En el caso de personal funcionario  
-docente  del  subgrupo  A1,  no  se 
-valorarán en ningún caso, el título o  
-estudios  de  esta  naturaleza  que  
-hayan sido necesarios superar para  
-la  obtención  del  primer  título  de 
-licenciado,  ingeniero  o  arquitecto  
+En el caso de personal funcionario
+docente  del  subgrupo  A1,  no  se
+valorarán en ningún caso, el título o
+estudios  de  esta  naturaleza  que
+hayan sido necesarios superar para
+la  obtención  del  primer  título  de
+licenciado,  ingeniero  o  arquitecto
 que se presente.
-Las  titulaciones  de  solo  segundo 
-ciclo  y  los  títulos  declarados  
-equivalentes a todos los efectos al  
-título  universitario  de  Licenciado,  
-únicamente  se  valorarán  como  un 
+Las  titulaciones  de  solo  segundo
+ciclo  y  los  títulos  declarados
+equivalentes a todos los efectos al
+título  universitario  de  Licenciado,
+únicamente  se  valorarán  como  un
 segundo ciclo.
 0,30 puntos
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-3.2.4. Por el título universitario oficial  
-de Máster distinto del requerido para  
-el  ingreso  a  la  función  pública  
-docente,  para  cuya  obtención  se 
-hayan  exigido,  al  menos,  60  
+3.2.4. Por el título universitario oficial
+de Máster distinto del requerido para
+el  ingreso  a  la  función  pública
+docente,  para  cuya  obtención  se
+hayan  exigido,  al  menos,  60
 créditos:
-Solo se tendrán en cuenta los títulos  
-oficiales de Máster recogidos en el  
-artículo  15  del  Real  Decreto  
+Solo se tendrán en cuenta los títulos
+oficiales de Máster recogidos en el
+artículo  15  del  Real  Decreto
 1393/2007, de 29 de octubre.
 0,30 puntos
-La misma documentación justificativa  
-que se indica para justificar el mérito  
+La misma documentación justificativa
+que se indica para justificar el mérito
 del subapartado 3.1.1.
-3.3. Titulaciones de enseñanzas de  
+3.3. Titulaciones de enseñanzas de
 régimen especial:
-Las  titulaciones  de  enseñanzas  de 
-régimen especial otorgadas por las  
-Escuelas  Oficiales  de  Idiomas,  
-Conservatorios  Profesionales  y  
-Superiores  de  Música  y  Danza  y 
-Escuelas de Arte, así como las de la  
-formación  profesional,  caso  de  no 
-haber  sido  las  exigidas  como  
-requisito para ingreso en la función  
-pública docente o, en su caso, que  
-no  hayan  sido  necesarias  para  la 
-obtención  del  título  alegado,  se  
+Las  titulaciones  de  enseñanzas  de
+régimen especial otorgadas por las
+Escuelas  Oficiales  de  Idiomas,
+Conservatorios  Profesionales  y
+Superiores  de  Música  y  Danza  y
+Escuelas de Arte, así como las de la
+formación  profesional,  caso  de  no
+haber  sido  las  exigidas  como
+requisito para ingreso en la función
+pública docente o, en su caso, que
+no  hayan  sido  necesarias  para  la
+obtención  del  título  alegado,  se
 valorarán de la forma siguiente:
-Título  que  se  posea  o,  en  su  caso, 
-certificación  acreditativa  de  la  
-expedición  de  dicho  título  o  
-certificación  acreditativa  de  haber  
-superado los estudios conducentes a  
+Título  que  se  posea  o,  en  su  caso,
+certificación  acreditativa  de  la
+expedición  de  dicho  título  o
+certificación  acreditativa  de  haber
+superado los estudios conducentes a
 su obtención.
-a) Por cada Certificado de nivel C2  
-del  Marco  Común  Europeo  de  
+a) Por cada Certificado de nivel C2
+del  Marco  Común  Europeo  de
 Referencia para las Lenguas.
 0,60 puntos
-b) Por cada Certificado de nivel C1  
-del  Marco  Común  Europeo  de  
+b) Por cada Certificado de nivel C1
+del  Marco  Común  Europeo  de
 Referencia para las Lenguas.
 0,45 puntos
-c) Por cada Certificado de nivel B2  
-del  Marco  Común  Europeo  de  
+c) Por cada Certificado de nivel B2
+del  Marco  Común  Europeo  de
 Referencia para las Lenguas.
 0,30 puntos
-d) Por cada Certificado de nivel B1  
-del  Marco  Común  Europeo  de  
+d) Por cada Certificado de nivel B1
+del  Marco  Común  Europeo  de
 Referencia para las Lenguas.
 0,15 puntos
-Cuando  proceda  valorar  las  
-certificaciones  señaladas  en  los  
-apartados  anteriores  solo  se  
-considerará la de nivel superior que  
+Cuando  proceda  valorar  las
+certificaciones  señaladas  en  los
+apartados  anteriores  solo  se
+considerará la de nivel superior que
 presente el participante.
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-e)  Por  cada  título  de  Técnico  
-Superior de Artes Plásticas y Diseño, 
-Técnico  Deportivo  Superior  o  
-Técnico  Superior  de  Formación  
+e)  Por  cada  título  de  Técnico
+Superior de Artes Plásticas y Diseño,
+Técnico  Deportivo  Superior  o
+Técnico  Superior  de  Formación
 Profesional o equivalente.
 0,15 puntos
-f)  Por  cada  título  Profesional  de 
+f)  Por  cada  título  Profesional  de
 Música o Danza.
 0,15 puntos
 3.4. Acreditaciones profesionales
-Por estar en posesión de cualquiera 
+Por estar en posesión de cualquiera
 de las acreditaciones siguientes:
-a) Acreditación en mediación escolar 
+a) Acreditación en mediación escolar
 nivel básico.
 b) Acreditación en TIC.
 c) Acreditación en igualdad.
-d) Acreditación para el desempeño  
-de las funciones de nivel básico en  
+d) Acreditación para el desempeño
+de las funciones de nivel básico en
 prevención de riesgos laborales.
-e)  Acreditación  para  la  evaluación 
-institucional  de  los  centros  
+e)  Acreditación  para  la  evaluación
+institucional  de  los  centros
 educativos.
-f)  Acreditación  para  la  gestión  
-administrativa  y  económica  de  los 
+f)  Acreditación  para  la  gestión
+administrativa  y  económica  de  los
 centros educativos.
-g)  Acreditación  en  Competencia  
-Digital Educativa, nivel B1  (siempre 
-que  no  se  alegue  como  requisito 
+g)  Acreditación  en  Competencia
+Digital Educativa, nivel B1  (siempre
+que  no  se  alegue  como  requisito
 específico).
 0,25 puntos
-Certificado o diploma en la que conste  
+Certificado o diploma en la que conste
 de modo expreso estar acreditado.
-Podrá presentar también copia de su  
-porfolio  de  formación  donde  consten 
-sus  acreditaciones  a  través  del  sitio 
-Web de esta Consejería, en el enlace  
+Podrá presentar también copia de su
+porfolio  de  formación  donde  consten
+sus  acreditaciones  a  través  del  sitio
+Web de esta Consejería, en el enlace
 “Porfolio de formación”.
-4. FORMACIÓN Y 
+4. FORMACIÓN Y
 PERFECCIONAMIENTO
 (Ver disposiciones complementarias)
 MÁXIMO
 2,00 puntos
-4.1. Actividades  de  formación  
+4.1. Actividades  de  formación
 superadas:
-Hasta 1,50 
+Hasta 1,50
 puntos
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-Por  actividades  certificadas  que  
-tengan  por  objeto  el  
-perfeccionamiento  sobre  la  gestión 
-administrativa de centros docentes,  
-organización y convivencia escolar y  
-técnicas  de  liderazgo,  organizadas 
-por el Ministerio de Educación, las  
-Administrativas  educativas  de  las  
-Comunidades  Autónomas,  por  
-instituciones sin fin de lucro siempre  
-que  dichas  actividades  hayan  sido 
-homologadas o reconocidas por las  
-Administraciones  educativas,  así  
-como  las  organizadas  por  las  
+Por  actividades  certificadas  que
+tengan  por  objeto  el
+perfeccionamiento  sobre  la  gestión
+administrativa de centros docentes,
+organización y convivencia escolar y
+técnicas  de  liderazgo,  organizadas
+por el Ministerio de Educación, las
+Administrativas  educativas  de  las
+Comunidades  Autónomas,  por
+instituciones sin fin de lucro siempre
+que  dichas  actividades  hayan  sido
+homologadas o reconocidas por las
+Administraciones  educativas,  así
+como  las  organizadas  por  las
 Universidades.
-Se puntuarán con 0,1000 puntos por  
-cada  10  horas  de  actividades  de 
-formación  acreditadas.  A  estos  
-efectos  se  sumarán  las  horas  de 
-todas  las  actividades,  no  
-puntuándose el resto del número de  
-horas  inferiores  a  10.  Cuando  las 
-actividades  vinieran  expresadas  en 
-créditos  se  entenderá  que  cada  
+Se puntuarán con 0,1000 puntos por
+cada  10  horas  de  actividades  de
+formación  acreditadas.  A  estos
+efectos  se  sumarán  las  horas  de
+todas  las  actividades,  no
+puntuándose el resto del número de
+horas  inferiores  a  10.  Cuando  las
+actividades  vinieran  expresadas  en
+créditos  se  entenderá  que  cada
 crédito equivale a 10 horas.
-Certificado o diploma de las mismas  
-expedido por la entidad organizadora  
-en el que conste de modo expreso el  
-número  de  horas  de  duración  de  la 
-actividad.  En  el  caso  de  las  
-organizadas  por  las  instituciones  sin 
-ánimo  de  lucro  se  deberá  además 
-acreditar  fehacientemente  el  
-reconocimiento  u  homologación  de  
-dichas  actividades  por  la  
-Administración  educativa  o  
-Universidad  correspondiente,  o  
-certificado de inscripción en el registro  
-de  formación  de  la  Administración  
+Certificado o diploma de las mismas
+expedido por la entidad organizadora
+en el que conste de modo expreso el
+número  de  horas  de  duración  de  la
+actividad.  En  el  caso  de  las
+organizadas  por  las  instituciones  sin
+ánimo  de  lucro  se  deberá  además
+acreditar  fehacientemente  el
+reconocimiento  u  homologación  de
+dichas  actividades  por  la
+Administración  educativa  o
+Universidad  correspondiente,  o
+certificado de inscripción en el registro
+de  formación  de  la  Administración
 educativa.
-También  se  podrá  presentar,  como 
-documento justificativo de la formación 
-acreditada, certificación emitida por el  
-Servicio de Perfeccionamiento de esta  
-Dirección  General  a  través  de  su  
-Porfolio  de  formación  del  docente,  
-referida a la formación que se alega  
+También  se  podrá  presentar,  como
+documento justificativo de la formación
+acreditada, certificación emitida por el
+Servicio de Perfeccionamiento de esta
+Dirección  General  a  través  de  su
+Porfolio  de  formación  del  docente,
+referida a la formación que se alega
 como mérito.
-4.2. Por la dirección, coordinación o  
-impartición  de  las  actividades  de 
-formación,  proyectos  y  actividades 
-de  perfeccionamiento  indicadas  en 
+4.2. Por la dirección, coordinación o
+impartición  de  las  actividades  de
+formación,  proyectos  y  actividades
+de  perfeccionamiento  indicadas  en
 el subapartado 4.1:
-Se puntuará con 0,1000 puntos por  
-cada  3  horas  de  actividad  de  
-formación  acreditadas.  A  estos  
-efectos  se  sumarán  las  horas  de 
-todas  las  actividades,  no  
-puntuándose el resto de número de  
-horas  inferiores  a  3.  Cuando  las 
-actividades  vinieran  expresadas  en 
-créditos  se  entenderá  que  cada  
+Se puntuará con 0,1000 puntos por
+cada  3  horas  de  actividad  de
+formación  acreditadas.  A  estos
+efectos  se  sumarán  las  horas  de
+todas  las  actividades,  no
+puntuándose el resto de número de
+horas  inferiores  a  3.  Cuando  las
+actividades  vinieran  expresadas  en
+créditos  se  entenderá  que  cada
 crédito equivale a 10 horas.
-Hasta 0,50 
+Hasta 0,50
 puntos
-Certificado  o  documento  acreditativo 
-de la impartición de la actividad. en el  
-que  conste  de  modo  expreso  el  
-número  de  horas  de  duración  de  la 
+Certificado  o  documento  acreditativo
+de la impartición de la actividad. en el
+que  conste  de  modo  expreso  el
+número  de  horas  de  duración  de  la
 actividad.
-En el caso de las organizadas por las  
-instituciones  sin  ánimo  de  lucro  se 
-deberá  además  acreditar  
-fehacientemente  el  reconocimiento  u 
-homologación  de  dichas  actividades 
-por  la  Administración  educativa  
-correspondiente,  o  certificado  de  
-inscripción en el registro de formación  
+En el caso de las organizadas por las
+instituciones  sin  ánimo  de  lucro  se
+deberá  además  acreditar
+fehacientemente  el  reconocimiento  u
+homologación  de  dichas  actividades
+por  la  Administración  educativa
+correspondiente,  o  certificado  de
+inscripción en el registro de formación
 de la Administración educativa.
-4.3.Por  publicaciones  relacionadas 
-con  la  gestión  administrativa  de  
-centros  docentes,  organización  y  
-convivencia  escolar  y  técnicas  de 
-Hasta 0,50 
+4.3.Por  publicaciones  relacionadas
+con  la  gestión  administrativa  de
+centros  docentes,  organización  y
+convivencia  escolar  y  técnicas  de
+Hasta 0,50
 puntos
-- En el caso de libros (en papel, DVD o 
+- En el caso de libros (en papel, DVD o
 CD) la siguiente documentación:
-*  Certificado  de  la  editorial  donde 
-conste:  título  del  libro,  el  autor  o  
+*  Certificado  de  la  editorial  donde
+conste:  título  del  libro,  el  autor  o
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
 liderazgo:
-Para  la  valoración  de  estas  
-publicaciones se deberán presentar  
-los  documentos  justificativos  
-indicados en este subapartado con  
+Para  la  valoración  de  estas
+publicaciones se deberán presentar
+los  documentos  justificativos
+indicados en este subapartado con
 las exigencias que así se indican.
-Puntuación  específica  asignable  a 
-los  méritos  baremables  por  este  
+Puntuación  específica  asignable  a
+los  méritos  baremables  por  este
 apartado:
-a) Libros en sus distintos formatos  
+a) Libros en sus distintos formatos
 (papel o electrónico):
 - Autor...........................0.10 puntos
 - Coautor...................... 0,05 puntos
@@ -1327,185 +1328,185 @@ a) Libros en sus distintos formatos
 - 4 Autores....................0,03 puntos
 - 5 Autores....................0,02 puntos
 - Mas de 5 Autores.......0,01 puntos
-b) Revistas en sus distintos formatos  
+b) Revistas en sus distintos formatos
 (papel o electrónico):
 - Autor...........................0,05 puntos
 - Coautor...................... 0,02 puntos
 - 3 o más Autores.........0,01 puntos
-autores, el ISBN, depósito legal, fecha  
-de  primera  edición,  el  número  de  
-ejemplares  y  que  la  difusión  de  los 
-mismos  ha  sido  en  librerías  
+autores, el ISBN, depósito legal, fecha
+de  primera  edición,  el  número  de
+ejemplares  y  que  la  difusión  de  los
+mismos  ha  sido  en  librerías
 comerciales.
-*  Portada,  contraportada  y  páginas 
-donde  conste  el  título,  el  autor  o 
+*  Portada,  contraportada  y  páginas
+donde  conste  el  título,  el  autor  o
 autores, el ISBN y el depósito legal.
 En relación con los libros editados por
-*  Páginas  que  acrediten  que  la  
-temática  está  relacionada  con  la  
-gestión  administrativa  de  centros  
-docentes, organización y convivencia  
+*  Páginas  que  acrediten  que  la
+temática  está  relacionada  con  la
+gestión  administrativa  de  centros
+docentes, organización y convivencia
 escolar y técnicas de liderazgo.
-En relación con los libros editados por  
-Administraciones  Públicas  y  
-Universidades (públicas-privadas), que 
-no  se  han  difundido  en  librerías  
-comerciales,  además  de  los  datos  
-anteriores,  en  el  certificado  deben  
-constar  los  centros  de  difusión  
-(Centros  educativos,  centros  de  
-profesores,  instituciones  culturales,  
+En relación con los libros editados por
+Administraciones  Públicas  y
+Universidades (públicas-privadas), que
+no  se  han  difundido  en  librerías
+comerciales,  además  de  los  datos
+anteriores,  en  el  certificado  deben
+constar  los  centros  de  difusión
+(Centros  educativos,  centros  de
+profesores,  instituciones  culturales,
 etc.).
-En los supuestos en que la editorial o  
-asociación  hayan  desaparecido,  los 
-datos  requeridos  en  este  certificado 
-habrán  de  justificarse  por  cualquier 
-medio  de  prueba  admisible  en  
+En los supuestos en que la editorial o
+asociación  hayan  desaparecido,  los
+datos  requeridos  en  este  certificado
+habrán  de  justificarse  por  cualquier
+medio  de  prueba  admisible  en
 derecho.
--  En  el  caso  de  revistas  (en  papel, 
-DVD  o  CD)  la  siguiente  
+-  En  el  caso  de  revistas  (en  papel,
+DVD  o  CD)  la  siguiente
 documentación:
-*  Certificado  en  el  que  conste:  el 
-número  de  ejemplares,  lugares  de  
-distribución  y  venta,  o  asociación  
-científica  o  didáctica,  legalmente  
-constituida,  a  la  que  pertenece  la  
-revista,  título  de  la  publicación,  
-autor/es, ISSN o ISMN, depósito legal  
+*  Certificado  en  el  que  conste:  el
+número  de  ejemplares,  lugares  de
+distribución  y  venta,  o  asociación
+científica  o  didáctica,  legalmente
+constituida,  a  la  que  pertenece  la
+revista,  título  de  la  publicación,
+autor/es, ISSN o ISMN, depósito legal
 y fecha de edición.
-* Portada y contraportada de la revista  
-y páginas donde conste el título de la  
-publicación,  el  ISSN  o  ISMN  y  el 
+* Portada y contraportada de la revista
+y páginas donde conste el título de la
+publicación,  el  ISSN  o  ISMN  y  el
 depósito legal.
 * El artículo completo.
-En relación con las revistas editadas  
+En relación con las revistas editadas
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-por  Administraciones  Públicas  y  
-Universidades (públicas-privadas), que 
-no  se  han  difundido  en  
-establecimientos comerciales, además  
-de  los  datos  anteriores,  en  el  
-certificado deben constar los centros  
-de  difusión  (centros  educativos,  
-centros  de  profesores,  instituciones 
+por  Administraciones  Públicas  y
+Universidades (públicas-privadas), que
+no  se  han  difundido  en
+establecimientos comerciales, además
+de  los  datos  anteriores,  en  el
+certificado deben constar los centros
+de  difusión  (centros  educativos,
+centros  de  profesores,  instituciones
 culturales, etc.).
--  En  el  caso  de  publicaciones  que 
-solamente  se  dan  en  formato  
-electrónico,  para  ser  valorados  se  
-presentará un informe, en el cual, el  
-organismo  emisor  certificará  que  la 
-publicación  aparece  en  la  
-correspondiente  base  de  datos  
-bibliográfica.  En  este  documento  se 
-indicará además, los siguientes datos:  
-el título de la publicación, autor/es, el  
-año, el DOI (Digital Objet Identifier) y  
+-  En  el  caso  de  publicaciones  que
+solamente  se  dan  en  formato
+electrónico,  para  ser  valorados  se
+presentará un informe, en el cual, el
+organismo  emisor  certificará  que  la
+publicación  aparece  en  la
+correspondiente  base  de  datos
+bibliográfica.  En  este  documento  se
+indicará además, los siguientes datos:
+el título de la publicación, autor/es, el
+año, el DOI (Digital Objet Identifier) y
 la URL.
-5. CALIFICACIÓN DEL PROYECTO 
+5. CALIFICACIÓN DEL PROYECTO
 DE DIRECCIÓN
 MÁXIMO
 10,00 puntos
-5.1.  Calidad  y  viabilidad  del  
+5.1.  Calidad  y  viabilidad  del
 proyecto
-Hasta 4,00 
+Hasta 4,00
 puntos
-Diagnóstico del centro docente. Hasta 0,25 
+Diagnóstico del centro docente. Hasta 0,25
 puntos
-Objetivos básicos. Hasta 0,50 
+Objetivos básicos. Hasta 0,50
 puntos
-Líneas  de  actuación  y  
+Líneas  de  actuación  y
 temporalización. Hasta 1 punto
 Planes de Mejora. Hasta 1 punto
-Indicadores de logro. Hasta 0,50 
+Indicadores de logro. Hasta 0,50
 puntos
-Viabilidad  del  proyecto  para  el  
+Viabilidad  del  proyecto  para  el
 centro.
-Hasta 0,75 
+Hasta 0,75
 puntos
-5.2. Adecuación del proyecto a las  
+5.2. Adecuación del proyecto a las
 características del centro
-Hasta 3,00 
+Hasta 3,00
 puntos
-Idoneidad  del  proyecto  en  relación 
-con  características  de  alumnado,  
+Idoneidad  del  proyecto  en  relación
+con  características  de  alumnado,
 centro y enseñanzas.
 Hasta 1 punto
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 MÉRITOS VALORACIÓN JUSTIFICACIÓN
-Apertura de la actividad del centro al  
-entorno social, cultural y económico  
+Apertura de la actividad del centro al
+entorno social, cultural y económico
 del municipio.
-Hasta 0,50 
+Hasta 0,50
 puntos
-Fomento  de  las  relaciones  con  la 
-comunidad  educativa  y  otras  
+Fomento  de  las  relaciones  con  la
+comunidad  educativa  y  otras
 instituciones.
-Hasta 0,50 
+Hasta 0,50
 puntos
-Recursos y organización del centro  
+Recursos y organización del centro
 para el logro de objetivos.
-Hasta 0,50 
+Hasta 0,50
 puntos
-Fomento de igualdad entre hombres  
-y  mujeres,  no  discriminación  y  
+Fomento de igualdad entre hombres
+y  mujeres,  no  discriminación  y
 prevención de violencia de género.
-Hasta 0,50 
+Hasta 0,50
 puntos
-5.3. Organización  y  gestión  
+5.3. Organización  y  gestión
 interna del centro
-Hasta 3,00 
+Hasta 3,00
 puntos
-Relaciones  con  los  órganos  de  
-participación  en  el  control,  gestión 
-del centro y clima de convivencia en  
+Relaciones  con  los  órganos  de
+participación  en  el  control,  gestión
+del centro y clima de convivencia en
 el centro.
 Hasta 1 punto
-Organización del equipo directivo. Hasta 0,75 
+Organización del equipo directivo. Hasta 0,75
 puntos
-Distribución de funciones y tareas. Hasta 0,75 
+Distribución de funciones y tareas. Hasta 0,75
 puntos
-Coordinación  y  formas  de  
-participación  de  los  órganos  de  
+Coordinación  y  formas  de
+participación  de  los  órganos  de
 coordinación docente.
-Hasta 0,5 
+Hasta 0,5
 puntos
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 DISPOSICIONES COMPLEMENTARIAS.
-Primera.- Disposiciones referidas a los apartados 1 “Experiencia en cargos directivos” 
+Primera.- Disposiciones referidas a los apartados 1 “Experiencia en cargos directivos”
 y 2 “Trayectoria profesional”:
-a) Para computar los años en los apartados 1 y 2, se acumularán todos los periodos de 
-tiempo que se acrediten para cada subapartado y que sean computables en cada uno de 
-ellos, asignándose la respectiva puntuación por cada año que resulte de esta operación (12 
-meses o 365 días), sin perjuicio de las fracciones señaladas en el apartado 1. Cuando del 
+a) Para computar los años en los apartados 1 y 2, se acumularán todos los periodos de
+tiempo que se acrediten para cada subapartado y que sean computables en cada uno de
+ellos, asignándose la respectiva puntuación por cada año que resulte de esta operación (12
+meses o 365 días), sin perjuicio de las fracciones señaladas en el apartado 1. Cuando del
 cómputo resulte un resto inferior a un mes, este se despreciará, no valorándose.
-b) Cuando se produzca el desempeño simultáneo de cargos, no podrá sumarse la 
+b) Cuando se produzca el desempeño simultáneo de cargos, no podrá sumarse la
 puntuación de ambos, baremándose únicamente el cargo de mayor puntuación.
-c) Para la baremación del trabajo desempeñado como Director o Directora de los 
-Equipos Zonales de Tutorías de Jóvenes el nombramiento deberá ser posterior al Decreto 
-80/2003, de 12 de mayo (BOC n.º 98, de 23.5.2003). Por otra parte, el desempeño del cargo 
-de coordinador de CER, se baremará siempre que el nombramiento sea posterior al [Decreto 
-109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de 
+c) Para la baremación del trabajo desempeñado como Director o Directora de los
+Equipos Zonales de Tutorías de Jóvenes el nombramiento deberá ser posterior al Decreto
+80/2003, de 12 de mayo (BOC n.º 98, de 23.5.2003). Por otra parte, el desempeño del cargo
+de coordinador de CER, se baremará siempre que el nombramiento sea posterior al [Decreto
+109/1999](../02_gestion_y_administracion_centros/D109_1999_regula_regimen_creacion_funcionamiento_colectivos_escuelas.md), de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de
 los Colectivos de Escuelas Rurales (BOC n.º 79, de 18.6.1999).
-d) A los efectos previstos en el apartado 1.3 del baremo de méritos, se considerarán 
+d) A los efectos previstos en el apartado 1.3 del baremo de méritos, se considerarán
 como cargos directivos asimilados los siguientes:
 - Secretaría Adjunta en Conservatorios de Música.
-- Secretaría de los Equipos Zonales de Tutorías de Jóvenes, siempre que el nombramiento 
+- Secretaría de los Equipos Zonales de Tutorías de Jóvenes, siempre que el nombramiento
 sea posterior al Decreto 80/2003, de 12 de mayo (BOC n.º 98, de 23.5.2003).
 - Jefatura de Residencia.
-- Delegado o delegada de la Jefatura de Estudios de Instituto de Bachillerato o similares 
+- Delegado o delegada de la Jefatura de Estudios de Instituto de Bachillerato o similares
 en Comunidades Autónomas.
 - Vicedirección/Administración de Centro de Profesorado.
 - Dirección-Jefatura de Estudios de Sección Delegada.
@@ -1513,112 +1514,112 @@ en Comunidades Autónomas.
 - Dirección de Centro Oficial de Patronato de Enseñanza Media.
 - Administración en Centros de Formación Profesional.
 - Profesorado Delegado en el caso de la Sección de Formación Profesional.
-e) Por el apartado 2.2 se valorará con 0,30 puntos la pertenencia a cualquiera de los 
+e) Por el apartado 2.2 se valorará con 0,30 puntos la pertenencia a cualquiera de los
 cuerpos de Catedráticos por una sola vez.
 
-f) Por el apartado 2.5 se valorarán los años de servicio en centros directivos de la 
-Administración educativa, siempre que hayan sido desempeñados tanto en plazas de RPT 
-como en comisión de servicios en el ámbito de la Consejería de Educación, Formación 
-Profesional, Actividad Física y Deportes del Gobierno de Canarias, el Ministerio de Educación 
-y Formación Profesional u otras Administraciones educativas de las Comunidades 
+f) Por el apartado 2.5 se valorarán los años de servicio en centros directivos de la
+Administración educativa, siempre que hayan sido desempeñados tanto en plazas de RPT
+como en comisión de servicios en el ámbito de la Consejería de Educación, Formación
+Profesional, Actividad Física y Deportes del Gobierno de Canarias, el Ministerio de Educación
+y Formación Profesional u otras Administraciones educativas de las Comunidades
 Autónomas. Concretamente:
 - Gabinete de la Consejería.
 - Viceconsejerías de Educación y de Formación Profesional.
 - Agencia Canaria de Evaluación de la Calidad y Acreditación Universitaria.
 - Instituto Canario de Evaluación y Calidad Educativa.
-- Direcciones Generales dependientes de la Viceconsejería de Educación o de Formación 
+- Direcciones Generales dependientes de la Viceconsejería de Educación o de Formación
 Profesional.
 - Direcciones Territoriales de Educación.
 - Direcciones Insulares de Educación.
 - Inspección de Educación.
-Asimismo, se valorarán los puestos desempeñados equivalentes a los señalados en el 
-Ministerio de Educación, Cultura y Deporte o en otras Administraciones educativas de las 
+Asimismo, se valorarán los puestos desempeñados equivalentes a los señalados en el
+Ministerio de Educación, Cultura y Deporte o en otras Administraciones educativas de las
 Comunidades Autónomas.
-g) Por el apartado 2.6 se baremarán como asesor de formación permanente únicamente: 
+g) Por el apartado 2.6 se baremarán como asesor de formación permanente únicamente:
 Asesor de Centros de Profesores, Asesor de la Reforma y Formador de Formadores.
 Segunda.- Disposiciones referidas al apartado 3 “Méritos académicos”:
-a) Únicamente serán valorados los títulos universitarios con carácter oficial y validez 
-en todo el territorio nacional, así como los homologados, conforme a lo dispuesto en el 
+a) Únicamente serán valorados los títulos universitarios con carácter oficial y validez
+en todo el territorio nacional, así como los homologados, conforme a lo dispuesto en el
 Real Decreto 1496/1987, de 6 de noviembre (BOE de 12 y 14 de diciembre).
-De la misma forma, se actuará para los títulos expedidos en el extranjero que hayan sido 
-homologados conforme a lo dispuesto en el Real Decreto 285/2004, de 20 de febrero, por 
-el que se regulan las condiciones de homologación y convalidación de títulos y estudios 
+De la misma forma, se actuará para los títulos expedidos en el extranjero que hayan sido
+homologados conforme a lo dispuesto en el Real Decreto 285/2004, de 20 de febrero, por
+el que se regulan las condiciones de homologación y convalidación de títulos y estudios
 extranjeros de educación superior.
-b) Por el subapartado 3.1.1 se baremará un solo título de Doctor, por lo cual, el valor 
+b) Por el subapartado 3.1.1 se baremará un solo título de Doctor, por lo cual, el valor
 posible de este subapartado es 0 o 0,50 puntos.
-c) Por el subapartado 3.1.2 solo se tendrán en cuenta uno de los premios señalados, con 
+c) Por el subapartado 3.1.2 solo se tendrán en cuenta uno de los premios señalados, con
 lo cual el valor posible es 0 o 0,10 puntos.
-d) Por el subapartado 3.2.1 únicamente se tendrá en cuenta una titulación de Grado; el 
+d) Por el subapartado 3.2.1 únicamente se tendrá en cuenta una titulación de Grado; el
 valor posible es 0 o 0,50 puntos.
 
-e) Subapartado 3.2.2 “titulaciones de primer ciclo” y 3.2.3 “Titulaciones de segundo 
+e) Subapartado 3.2.2 “titulaciones de primer ciclo” y 3.2.3 “Titulaciones de segundo
 ciclo”:
-- Para determinar si las titulaciones universitarias se corresponden con títulos integrados 
-por un ciclo o dos, así como para conocer los accesos a segundos ciclos de otras carreras 
-universitarias, se tendrá en cuenta el Catálogo de Títulos Universitarios de carácter oficial 
+- Para determinar si las titulaciones universitarias se corresponden con títulos integrados
+por un ciclo o dos, así como para conocer los accesos a segundos ciclos de otras carreras
+universitarias, se tendrá en cuenta el Catálogo de Títulos Universitarios de carácter oficial
 y validez en todo el territorio nacional, así como las certificaciones académicas aportadas.
-- En el subapartado 3.2.2 se baremarán la segunda y restantes titulaciones académicas 
-de diplomado, ingeniero técnico, arquitecto técnico o títulos declarados legalmente 
+- En el subapartado 3.2.2 se baremarán la segunda y restantes titulaciones académicas
+de diplomado, ingeniero técnico, arquitecto técnico o títulos declarados legalmente
 equivalentes o bien el primer ciclo de una licenciatura, ingeniería o arquitectura.
-No se valorarán los primeros ciclos que hayan permitido la obtención de otras titulaciones 
+No se valorarán los primeros ciclos que hayan permitido la obtención de otras titulaciones
 académicas de ciclo largo que se aleguen como méritos.
-- En el subapartado 3.2.3 se baremarán la segunda o restantes titulaciones académicas 
+- En el subapartado 3.2.3 se baremarán la segunda o restantes titulaciones académicas
 de licenciado, ingeniero o arquitecto o títulos declarados legalmente equivalentes.
-En el caso de personal funcionario docente del Subgrupo A1, no se valorarán por este 
-apartado, en ningún caso, los estudios de esta naturaleza que hayan sido necesario superar 
-(primer ciclo, segundo ciclo, o, en su caso, enseñanzas complementarias) para la obtención 
+En el caso de personal funcionario docente del Subgrupo A1, no se valorarán por este
+apartado, en ningún caso, los estudios de esta naturaleza que hayan sido necesario superar
+(primer ciclo, segundo ciclo, o, en su caso, enseñanzas complementarias) para la obtención
 del primer título de licenciado, ingeniero o arquitecto que se presente.
-f) Por el subapartado 3.2.4 solo se baremarán los másteres oficiales distintos al del 
-requerido para el ingreso en la función pública docente, para acreditar la formación 
+f) Por el subapartado 3.2.4 solo se baremarán los másteres oficiales distintos al del
+requerido para el ingreso en la función pública docente, para acreditar la formación
 pedagógica.
-El artículo 15 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la 
-ordenación de las enseñanzas universitarias oficiales establece que los planes de estudios 
-conducentes a la obtención del Máster Universitario tendrán entre 60 y 120 créditos. Se 
+El artículo 15 del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la
+ordenación de las enseñanzas universitarias oficiales establece que los planes de estudios
+conducentes a la obtención del Máster Universitario tendrán entre 60 y 120 créditos. Se
 baremará un solo título de máster oficial.
 1. Apartado 3.3 “Titulaciones de régimen especial y de la formación profesional”.
-Respecto a las titulaciones de enseñanzas de régimen especial otorgadas por las 
-Escuelas Oficiales de Idiomas, en el caso de que se acredite haber superado varios niveles, 
-se tendrá en cuenta, a efectos de puntuación, únicamente el de nivel superior. En el caso de 
-acreditar un mismo nivel pero en dos idiomas diferentes, se puntuarán ambos niveles. Del 
-mismo modo se deberá puntuar, según corresponda, si se presenta un certificado de un nivel 
+Respecto a las titulaciones de enseñanzas de régimen especial otorgadas por las
+Escuelas Oficiales de Idiomas, en el caso de que se acredite haber superado varios niveles,
+se tendrá en cuenta, a efectos de puntuación, únicamente el de nivel superior. En el caso de
+acreditar un mismo nivel pero en dos idiomas diferentes, se puntuarán ambos niveles. Del
+mismo modo se deberá puntuar, según corresponda, si se presenta un certificado de un nivel
 en un idioma y otro certificado de diferente nivel en diferente idioma.
 Tercera.- Disposiciones referidas al apartado 4 “Formación y perfeccionamiento”:
-- Se valorarán únicamente las actividades que estén certificados por Administraciones 
-educativas, entendiéndose por estas, el Ministerio de Educación, Cultura y Deporte y las 
-Consejerías de Educación de las Comunidades Autónomas; por Universidades (públicas o 
-privadas), así como los cursos realizados por instituciones sin ánimo de lucro que hayan 
+- Se valorarán únicamente las actividades que estén certificados por Administraciones
+educativas, entendiéndose por estas, el Ministerio de Educación, Cultura y Deporte y las
+Consejerías de Educación de las Comunidades Autónomas; por Universidades (públicas o
+privadas), así como los cursos realizados por instituciones sin ánimo de lucro que hayan
 sido homologados o reconocidos por las Administraciones citadas.
-- Los cursos organizados o impartidos por Universidades solo serán baremados si en 
-la correspondiente certificación consta el sello de la Universidad y la firma de autoridad 
+- Los cursos organizados o impartidos por Universidades solo serán baremados si en
+la correspondiente certificación consta el sello de la Universidad y la firma de autoridad
 académica competente de la misma.
 
-- Los certificados de cursos impartidos o superados en los Centros de Profesores (CEP) 
-de Canarias solo se baremarán cuando estén firmados por cargo orgánico de la Consejería 
-de Educación, Formación Profesional, Actividad Física y Deportes, o firmados por la 
-Coordinación o Dirección del 
-CEP y que lleven el visto bueno del Servicio correspondiente 
+- Los certificados de cursos impartidos o superados en los Centros de Profesores (CEP)
+de Canarias solo se baremarán cuando estén firmados por cargo orgánico de la Consejería
+de Educación, Formación Profesional, Actividad Física y Deportes, o firmados por la
+Coordinación o Dirección del
+CEP y que lleven el visto bueno del Servicio correspondiente
 de la Dirección General de Educación correspondiente.
-- En el apartado 4.1 no serán valorados los cursos, proyectos o actividades en cuyo 
-certificado no se especifique el número de horas de su duración, aunque aparezcan en los 
-mismos los días o meses durante los que tuvieron lugar. A estos efectos, se considerará que 
-en los casos que aparezcan créditos, estos se contabilizarán como 10 horas por cada crédito. 
-Igualmente, por los citados apartados no serán valorados aquellos cursos cuya finalidad sea 
+- En el apartado 4.1 no serán valorados los cursos, proyectos o actividades en cuyo
+certificado no se especifique el número de horas de su duración, aunque aparezcan en los
+mismos los días o meses durante los que tuvieron lugar. A estos efectos, se considerará que
+en los casos que aparezcan créditos, estos se contabilizarán como 10 horas por cada crédito.
+Igualmente, por los citados apartados no serán valorados aquellos cursos cuya finalidad sea
 la obtención de un título académico.
-- En el apartado 4.2 deberá constar, en el documento acreditativo, específicamente 
-el número de horas en el que la persona aspirante desarrolló su tarea como director, 
+- En el apartado 4.2 deberá constar, en el documento acreditativo, específicamente
+el número de horas en el que la persona aspirante desarrolló su tarea como director,
 coordinador o ponente del curso, proyecto o actividad en cuestión.
 - En relación con el apartado 4.3.
 - No se valorarán aquellas publicaciones en el que autor sea el editor de las mismas.
-- No se valorarán publicaciones aparecidas en la prensa diaria, ni prólogos ni artículos 
+- No se valorarán publicaciones aparecidas en la prensa diaria, ni prólogos ni artículos
 de opinión.
 - No se valorarán las coordinaciones o ediciones de revistas, libros, etc.
 
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -1656,7 +1657,7 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III
 V ACANTES DEFINITIV AS DE LA PROVINCIA DE LAS PALMAS
 
@@ -1675,7 +1676,7 @@ V ACANTES DEFINITIV AS DE LA PROVINCIA DE LAS PALMAS
 35004270 CEIP José Tejera Santana Telde
 35007556 CEIP La Caleta de Famara Teguise
 35001074 CEIP La Calzada Las Palmas de Gran Canaria
-35004099 CEIP La Dehesa - San Juan Santa María de Guía de Gran 
+35004099 CEIP La Dehesa - San Juan Santa María de Guía de Gran
 Canaria
 35009140 CEIP La Lajita Pájara
 35005481 CEIP La Lechuza Vega de San Mateo
@@ -1695,24 +1696,24 @@ Canaria
 35006990 CEIP Mararía Yaiza
 35005225 CEIP María Auxiliadora San Bartolomé
 35009437 CEIP María Castrillo García La Oliva
-35006461 CEIP Miguel de Santiago Santa María de Guía de Gran 
+35006461 CEIP Miguel de Santiago Santa María de Guía de Gran
 Canaria
 35004518 CEIP Monseñor Socorro Lantigua Teror
 35000124 CEIP Montaña Los Vélez Agüimes
 35001025 CEIP Morro Jable Pájara
 35006898 CEIP Muñique Teguise
 35006448 CEIP Néstor de La Torre Las Palmas de Gran Canaria
-35004154 CEIP Nicolás Aguiar Jiménez Santa María de Guía de Gran 
+35004154 CEIP Nicolás Aguiar Jiménez Santa María de Guía de Gran
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -1750,12 +1751,12 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 Canaria
 35007908 CEIP Pablo Neruda Puerto del Rosario
 35005560 CEIP Padilla Firgas
 35004282 CEIP Padre Collado Telde
-35004063 CEIP Piedra de Molino Santa María de Guía de Gran 
+35004063 CEIP Piedra de Molino Santa María de Guía de Gran
 Canaria
 35007003 CEIP Playa Blanca Yaiza
 35000859 CEIP Playa de Arguineguín Mogán
@@ -1765,7 +1766,7 @@ Canaria
 35006436 CEIP Profesor Carlos Socas Muñoz Ingenio
 35004762 CEIP Profesor Rafael Gómez Santos Vega de San Mateo
 35015701 CEIP Puerto Cabras Puerto del Rosario
-35000057 CEIP Roque Aguayro 
+35000057 CEIP Roque Aguayro
 Agüimes
 35005043 CEIP San Antonio Telde
 35003964 CEIP Santa Lucía Santa Lucía de Tirajana
@@ -1798,13 +1799,13 @@ Agüimes
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 Canaria
 35007908 CEIP Pablo Neruda Puerto del Rosario
 35005560 CEIP Padilla Firgas
 35004282 CEIP Padre Collado Telde
-35004063 CEIP Piedra de Molino Santa María de Guía de Gran 
+35004063 CEIP Piedra de Molino Santa María de Guía de Gran
 Canaria
 35007003 CEIP Playa Blanca Yaiza
 35000859 CEIP Playa de Arguineguín Mogán
@@ -1846,13 +1847,13 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -1890,7 +1891,7 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 35008962 CEPA Agüimes-Ingenio Ingenio
 35007374 CPM Las Palmas de Gran Canaria Las Palmas de Gran Canaria
@@ -1924,13 +1925,13 @@ documento electrónico siguiente:
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -1968,10 +1969,10 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 VACANTES DEFINITIVAS DE LA PROVINCIA DE SANTA CRUZ DE  TENERIFE
-Código del 
+Código del
 Centro Centro Municipio del Centro
 38015230 CEE Adeje San Miguel de Abona
 38009311 CEE Chacona Güímar
@@ -2013,7 +2014,7 @@ Centro Centro Municipio del Centro
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 V ACANTES DEFINITIV AS DE LA PROVINCIA DE SANTA CRUZ DE TENERIFE
 
 38001516 CEIP Chirche Guía de Isora
@@ -2062,13 +2063,13 @@ V ACANTES DEFINITIV AS DE LA PROVINCIA DE SANTA CRUZ DE TENERIFE
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -2106,13 +2107,13 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -2150,7 +2151,7 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 38010751 CEIP Los Andenes de Taco San Cristóbal de La Laguna
 38003148 CEIP Los Campitos Los Llanos de Aridane
@@ -2198,13 +2199,13 @@ documento electrónico siguiente:
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -2242,7 +2243,7 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 38004347 CEO Bethencourt y Molina Santa Cruz de Tenerife
 38017536 CEO En San Miguel De Abona San Miguel de Abona
@@ -2281,14 +2282,14 @@ RESOLUCION - Nº: 7384 / 2025 - Tomo: 1 - Libro: 289 - Fecha: 02/12/2025 13:43:0
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 El presente documento ha sido descargado el 03/12/2025 - 11:09:46
 ANEXO III: Vacantes definitivas
 VACANTES DEFINITIVAS DE LA PROVINCIA DE LAS PALMAS
-Código del 
+Código del
 Centro Centro Municipio del Centro
 35015991 CEE En Santa Lucía De Tirajana Santa Lucía de Tirajana
-35008652 CEE Marente Santa María de Guía de Gran 
+35008652 CEE Marente Santa María de Guía de Gran
 Canaria
 35013696 CEE Siete Palmas Las Palmas de Gran Canaria
 35005420 CEIP Adán del Castillo Las Palmas de Gran Canaria
@@ -2326,7 +2327,7 @@ Canaria
 En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
 puede ser comprobada la autenticidad de esta copia, mediante el número de
 documento electrónico siguiente:
- 0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
+0XkxIvegpLKVYdx8fN7Y2zfOdFJpgny4X
 
 ---
 
@@ -2356,4 +2357,3 @@ documento electrónico siguiente:
 - [**BOE-A-2021-20113**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../../../estatal/05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-

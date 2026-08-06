@@ -44,6 +44,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2013-12632
 - norma_id: norm-es-lo-1-2004
 ---
+
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
 **FELIPE VI**
@@ -1078,4 +1079,3 @@ PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
 - [**BOE-A-2007-6115**](./LO3_2007_igualdad_efectiva_mujeres_hombres.md)
 - [**BOE-A-2013-12632**](./RDL1_2013_aprueba_texto_refundido_ley_general_derechos.md)
 - [**LO1_2004 Proteccion Integral contra la Violencia de Genero**](./LO1_2004_medidas_proteccion_integral_contra_violencia_genero.md)
-

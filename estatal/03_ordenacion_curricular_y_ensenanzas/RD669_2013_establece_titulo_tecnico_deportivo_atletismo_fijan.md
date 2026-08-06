@@ -47,7 +47,6 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 - norma_id: norm-es-2007-6115
 ---
-# Real Decreto 669/2013, de 6 de septiembre, por el que se establece el título de Técnico Deportivo en Atletismo y se fijan sus enseñanzas mínimas y los requisitos de acceso.
 
 La Ley 10/1990, de 15 de octubre, del Deporte, encomendó al Gobierno la regulación de las enseñanzas de los técnicos deportivos según las exigencias marcadas por los distintos niveles educativos.
 
@@ -5688,4 +5687,3 @@ MED-ATAT207 Atletismo adaptado.
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
 - [**BOE-A-2007-6115**](../07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md)
-

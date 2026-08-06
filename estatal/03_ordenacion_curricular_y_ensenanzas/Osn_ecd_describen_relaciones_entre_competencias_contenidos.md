@@ -41,6 +41,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2021-20113
 - norma_id: norm-es-2010-12201
 ---
+
 # Orden ECD/65/2015, de 21 de enero, por la que se describen las relaciones entre las competencias, los contenidos y los criterios de evaluación de la educación primaria, la educación secundaria obligatoria y el bachillerato.
 
 Las orientaciones de la Unión Europea insisten en la necesidad de la adquisición de las competencias clave por parte de la ciudadanía como condición indispensable para lograr que los individuos alcancen un pleno desarrollo personal, social y profesional que se ajuste a las demandas de un mundo globalizado y haga posible el desarrollo económico, vinculado al conocimiento. Así se establece, desde el Consejo Europeo de Lisboa en el año 2000 hasta las Conclusiones del Consejo de 2009 sobre el Marco Estratégico para la cooperación europea en el ámbito de la educación y la formación («ET 2020»).
@@ -448,4 +449,3 @@ Finalmente, es necesaria una adecuada coordinación entre los docentes sobre las
 - [**BOE-A-2016-3229**](./LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md)
 - [**BOE-A-2021-20113**](./LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
 - [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-

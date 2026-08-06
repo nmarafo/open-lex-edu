@@ -1002,4 +1002,3 @@ FELIPE GONZÁLEZ MÁRQUEZ
 ### Fundamentos de Derecho
 - [**CE_1978 Constitucion Espanola**](./DOC1_constitucion_espanola.md)
 - [**LO1_1982 Proteccion Civil del Derecho al Honor e Intimidad**](./LO1_1982_proteccion_civil_derecho_honor_intimidad_personal.md)
-

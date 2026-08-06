@@ -69,6 +69,7 @@ fundamentos_derecho:
 - norma_id: norm-es-2023-9553
 - norma_id: norm-es-rd-276-2007
 ---
+
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**
@@ -2369,4 +2370,3 @@ Carga horaria del currículo básico
 - [**BOE-A-2022-16194**](../08_personal_docente/RD800_2022_regula_integracion_profesorado_cuerpo_extinguir_profesores.md)
 - [**BOE-A-2023-9553**](../08_personal_docente/RD286_2023_regula_asignacion_materias_educacion_secundaria_obligatoria.md)
 - [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-

@@ -76,10 +76,10 @@ Tercera.- Entrada en vigor.
 La presente Ley entrará en vigor el día primero
 del mes siguiente al de su publicación en el Boletín
 Oficial de Canarias.
-Por tanto mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir. 
+Por tanto mando a los ciudadanos y a las autoridades que la cumplan y la hagan cumplir.
 Las Palmas de Gran Canaria, a 28 de febrero de
 2003.
-EL PRESIDENTE, 
+EL PRESIDENTE,
 Román Rodríguez Rodríguez.
 Consejería de Educación,
 Cultura y Deportes
@@ -106,7 +106,7 @@ que se regula el procedimiento de gestión económica de los centros docentes p�
 dependientes de la Consejería de Educación, Cultura
 y Deportes (B.O.C. nº 162, de 17.12.97), potencia la
 necesaria autonomía de gestión económica de los
-referidos centros docentes. 
+referidos centros docentes.
 La realidad social demanda de las administraciones educativas, la existencia de los servicios escolares de comedor en los centros docentes dependientes de la Consejería de Educación, como un servicio
 educativo complementario a la enseñanza, compensatorio y social dentro de los principios de igualdad
 y solidaridad, establecidos en las líneas de actuación
@@ -120,7 +120,7 @@ Por tratarse de una prestación educativa, el plan
 del servicio de comedor formará parte de la programación general anual del centro, de modo que su realización queda incorporada al resto de las acciones
 educativas.
 La presente Orden pretende la actualización y
-adaptación de la normativa que regula el funcionamiento de los comedores y la asignación de las ayudas por cursos escolares, así como agilizar las labores administrativas de la gestión de los mismos. 
+adaptación de la normativa que regula el funcionamiento de los comedores y la asignación de las ayudas por cursos escolares, así como agilizar las labores administrativas de la gestión de los mismos.
 3806
 
 En el funcionamiento de dicho servicio complementario de comedor escolar, se deben coordinar en
@@ -149,14 +149,14 @@ de Educación, Cultura y Deportes,
 D I S P O N G O:
 Aprobar las bases que han de regir en la organización y funcionamiento del servicio complementario de comedor escolar, así como en la adjudicación
 de plazas y ayudas a los comensales, de acuerdo con
-lo referenciado en la presente normativa. 
+lo referenciado en la presente normativa.
 CAPÍTULO I
 DISPOSICIONES GENERALES
 Artículo 1.- Los Consejos Escolares de los centros públicos, oídas las Asociaciones de Padres y
 Madres del centro, podrán solicitar a la Dirección General
 de Promoción Educativa la autorización de puesta en
 funcionamiento de un comedor escolar por acuerdo
-de sus miembros. 
+de sus miembros.
 Dicha autorización se otorgará en función de lo
 dispuesto en la presente Orden y de las disponibilidades presupuestarias.
 Artículo 2.- Elaboradas las directrices por el
@@ -208,7 +208,7 @@ los datos requeridos en el modelo de solicitud que figura como anexo I y en el i
 b) Una vez constituido el Consejo Escolar, éste deberá pronunciarse sobre la continuidad del comedor
 escolar de su centro para los siguientes cursos escolares. El acuerdo que se adopte deberá ser notificado, mediante certificación del mismo, a la Dirección
 General de Promoción Educativa. Si el acuerdo adoptado es en el sentido de renunciar al mismo, se mantendrá su funcionamiento hasta la finalización del curso escolar, pudiendo prorrogarse por motivos de
-interés público y social, si así lo aconsejan, y comunicadas al Consejo Escolar del centro. 
+interés público y social, si así lo aconsejan, y comunicadas al Consejo Escolar del centro.
 c) Una vez autorizado el funcionamiento de un comedor, no será necesario reiterar la petición anualmente. No obstante, cualquier variación que se produzca en relación con el módulo inicial autorizado
 o cualquier otra circunstancia, incluyendo la suspensión del servicio, deberá ser solicitada a la Dirección
 General de Promoción Educativa, y autorizada expresamente por ésta.
@@ -225,7 +225,7 @@ escolar, siempre y cuando existan razones suficientes para ello o cuando el corr
 servicio público educativo lo precise, previa audiencia
 del Consejo Escolar del Centro autorizado.
 CAPÍTULO III
-CLASIFICACIÓN, FINANCIACIÓN 
+CLASIFICACIÓN, FINANCIACIÓN
 Y ORGANIZACIÓN DE LOS COMEDORES
 Artículo 6.- Los Comedores, según su sistema de
 financiación y de funcionamiento, se clasifican como sigue:
@@ -265,7 +265,7 @@ concesión de ayudas a alumnos/as comensales con
 la finalidad de financiar parte o, excepcionalmente,
 la totalidad del coste del servicio, de acuerdo con las
 bases de la convocatoria establecidas en la presente
-Orden. 
+Orden.
 7.2. El comedor escolar se financiará con los siguientes ingresos:
 a) Aportaciones de los usuarios del servicio.
 3808
@@ -281,7 +281,7 @@ d) Remanente que, en su caso, se genere del curso anterior.
 comedor escolar no sufragados directamente por
 otros órganos de la Administración, serán abonados
 por el centro con cargo al presupuesto que para este
-fin tenga destinado dicho servicio. 
+fin tenga destinado dicho servicio.
 Artículo 8.- Planificación.
 8.1. Los comedores escolares tendrán un número
 de plazas autorizadas determinadas por la Dirección
@@ -292,7 +292,7 @@ mismas.
 certificado que publique la Dirección General de
 Promoción Educativa en la Resolución por la que se
 dictan instrucciones para el funcionamiento de los comedores escolares cada curso escolar. Este certificado
-sólo se cumplimentará por aquellos centros que presenten modificaciones respecto al curso escolar anterior. 
+sólo se cumplimentará por aquellos centros que presenten modificaciones respecto al curso escolar anterior.
 Artículo 9.- Organización y funcionamiento.
 9.1. Al inicio de cada curso escolar, la Dirección
 General de Promoción Educativa publicará en el
@@ -323,7 +323,7 @@ tomará las medidas de seguridad y organización adecuadas, una vez oídas las A
 Madres del centro y recogidas las aportaciones de los
 diferentes sectores de la Comunidad Educativa. Los
 Consejos Escolares establecerán los mecanismos que
-consideren más adecuados para posibilitar la colaboración de dichos sectores, en lo referente a la planificación y desarrollo de este servicio. 
+consideren más adecuados para posibilitar la colaboración de dichos sectores, en lo referente a la planificación y desarrollo de este servicio.
 Sin perjuicio de lo anterior, el Consejo Escolar se
 asegurará de que:
 a) Exista una programación adecuada de menús,
@@ -405,7 +405,7 @@ b) De suministro: cuando se contrata a una persona, física o jurídica, para qu
 preparadas al centro, o bien alimentos preparados o
 semipreparados para su posterior elaboración en el
 centro.
-11.2. Comedores de gestión directa: 
+11.2. Comedores de gestión directa:
 a) De suministros: contrato con empresas externas para el suministro de productos alimenticios para su posterior elaboración.
 b) De servicios: si el funcionamiento del comedor lo requiere, se podrá contratar a una persona física o jurídica para la elaboración o suministro de las
 comidas en las instalaciones del centro, u otros servicios, con cargo al presupuesto del comedor.
@@ -426,7 +426,7 @@ de las potestades de revocación y avocación, por
 parte del Consejero de Educación, Cultura y Deportes
 con respecto a las facultades que se delegan. Las resoluciones administrativas que se adopten en virtud
 de esta delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el Consejero
-de Educación, Cultura y Deportes. 
+de Educación, Cultura y Deportes.
 CAPÍTULO VI
 BASES DE LA CONVOCATORIA
 DE LAS PLAZAS Y LAS AYUDAS
@@ -440,7 +440,7 @@ certificarán el número de solicitudes distribuidas por
 los tramos de renta de los comensales, así como el número de éstos que, de acuerdo con los criterios objetivos que han de servir de base a la concesión de las mismas, establecidos en la presente Orden, y dentro de la
 renta familiar máxima establecida por la Dirección
 General de Promoción Educativa al inicio del curso escolar, reúnen los requisitos necesarios para su obtención. La Certificación acreditativa de estos cálculos, se
-publicará en la Resolución al efecto. 
+publicará en la Resolución al efecto.
 13.2. El Consejo Escolar concederá las ayudas a partir de la asignación efectiva de crédito que la Dirección
 General de Promoción Educativa resolvió para el curso escolar anterior. Si el número de ayudas es menor,
 la asignación se realizará proporcionalmente al número de comensales certificado. Si fuera mayor, se indicará en la lista de comensales con derecho a ayuda, que
@@ -482,7 +482,7 @@ cuya elaboración de menú se realice con personal de
 la Consejería, la autorización de gastos, orden de pagos, cobro de cuotas e instrumentación contable, será realizada por el Director de la Residencia Escolar
 afectada, sin menoscabo de las funciones del Consejo
 de Residencia, así como la cumplimentación del anexo antes referido.
-Artículo 16.- Importe que se destina a las convocatorias de las ayudas y aplicación presupuestaria. 
+Artículo 16.- Importe que se destina a las convocatorias de las ayudas y aplicación presupuestaria.
 16.1. La Dirección General de Promoción Educativa
 transferirá a los centros las asignaciones de crédito por
 
@@ -493,7 +493,7 @@ en la cuenta que para este tipo de libramientos tengan
 abierta los respectivos centros.
 16.2. Si el número de beneficiarios de ayudas finalmente concedidas, es inferior al número de asignaciones de crédito realizadas al centro, el número de
 días de servicio inferior al de ayudas o no precisan los
-comensales de la totalidad de las mismas, la diferencia formará parte del remanente. 
+comensales de la totalidad de las mismas, la diferencia formará parte del remanente.
 Artículo 17.- Requisitos exigidos y forma de acreditarlos.
 17.1. Requisitos exigidos:
 a) Haber formalizado la matrícula en el centro correspondiente.
@@ -501,7 +501,7 @@ b) No superar los límites de ingresos familiares establecidos por la Dirección
 Educativa para cada curso escolar.
 De acuerdo con lo previsto en la normativa reguladora de las ayudas y subvenciones de la Comunidad
 Autónoma, las solicitudes para tener acceso a estas ayudas se entienden implícitas en la solicitud y formalización de la matrícula. Y además, los requisitos exigidos para tener acceso a estas ayudas podrán acreditarse
-con certificación del acuerdo del Consejo Escolar. 
+con certificación del acuerdo del Consejo Escolar.
 17.2. Todo el alumnado de un Centro Escolar donde funcione el comedor podrá solicitar plaza en el
 mismo y, si lo desea, ayuda de la cuota por coste del
 servicio/día.
@@ -526,7 +526,7 @@ acreditación suficiente de tal extremo.
 Cuando una certificación oficial acredite que la renta familiar del momento es sustancialmente diferente a
 la declarada a los efectos del I.R.P.F., sus datos sustituirán a los de la hoja de liquidación antes mencionada.
 c) Fotocopia del Libro de Familia y Tarjeta de
-Identificación Fiscal. 
+Identificación Fiscal.
 d) Cualquier otra documentación que solicite el
 Consejo Escolar como acreditativa de la situación socio-económica, patrimonial o familiar.
 Artículo 19.- Plazo de presentación de solicitudes.
@@ -544,7 +544,7 @@ Excepcionalmente, la Dirección General de Promoción Educativa podrá autorizar
 Escolar, que irá acompañada con el visto bueno de los
 Servicios de la Inspección Educativa o, en cualquier
 caso, cuando motivos de interés público y social así
-lo aconsejen. 
+lo aconsejen.
 Artículo 21.- Criterios objetivos que han de servir
 de base para la baremación y posterior concesión de
 la ayuda.
@@ -565,7 +565,7 @@ de Promoción Educativa, sin perjuicio de las potestades de revocación y avocac
 de Educación, Cultura y Deportes, con respecto a las
 facultades que se delegan. Las resoluciones administrativas
 que se adopten en virtud de esta delegación indicarán
-expresamente esta circunstancia y se considerarán dictadas por el Consejero de Educación, Cultura y Deportes. 
+expresamente esta circunstancia y se considerarán dictadas por el Consejero de Educación, Cultura y Deportes.
 Las resoluciones de concesión de ayudas y fijación
 de cuotas se publicarán en los tablones de anuncios de
 los respectivos centros docentes, debidamente firmadas y selladas previo anuncio de ello, en el Boletín Oficial
@@ -609,7 +609,7 @@ la concesión de la ayuda.
 b) La obtención por el beneficiario de ayudas o subvenciones concedidas por otros órganos de la
 Administración Pública de la Comunidad Autónoma
 o por otras Administraciones o Entes públicos para el
-mismo destino o finalidad. 
+mismo destino o finalidad.
 c) La obtención de ayudas u otras atribuciones patrimoniales gratuitas de entidades privadas o particulares para el mismo destino o finalidad.
 d) La superación de los topes previstos por la normativa comunitaria como consecuencia de la acumulación de ayudas o subvenciones en los períodos establecidos en la misma.
 Artículo 25.- Forma y condiciones exigidas para
@@ -783,7 +783,7 @@ telefono
 FAX
 INFORMA
 1.- DATOS GENERALES DEL ACTUAL CURSO ESCOLAR:
-1.1.- Es Centro preferente: 
+1.1.- Es Centro preferente:
 No
 horas a
 1.2.- Horario escolar: De
@@ -905,4 +905,3 @@ SR/A. DIRECTOR/A. DEL CENTRO
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**D276_1997 Gestion Economica de Centros Docentes Publicos**](../02_gestion_y_administracion_centros/D276_1997_regula_procedimiento_gestion_economica_centros_docentes.md)
-

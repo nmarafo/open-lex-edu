@@ -42,6 +42,7 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-5-2000
 - norma_id: norm-es-1999-23750
 ---
+
 # Real Decreto 1774/2004, de 30 de julio, por el que se aprueba el Reglamento de la [Ley Orgánica 5/2000](LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 La [Ley Orgánica 5/2000](./LO5_2000_reguladora_responsabilidad_penal_menores.md), de 12 de enero, reguladora de la responsabilidad penal de los menores, en el apartado 24 de su exposición de motivos, prevé una regulación más extensa de algunos de sus aspectos en el reglamento que en su día se dicte en su desarrollo.
@@ -1360,4 +1361,3 @@ En situaciones de urgencia, cuando no sea posible actuar conforme a lo previsto 
 - [**LO1_1996 Proteccion Juridica del Menor**](./LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md)
 - [**LO5_2000 Responsabilidad Penal de los Menores**](./LO5_2000_reguladora_responsabilidad_penal_menores.md)
 - [**BOE-A-1999-23750**](../02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
-

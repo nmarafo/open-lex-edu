@@ -65,7 +65,7 @@ personal estatutario temporal en los órganos
 de prestación de servicios sanitarios del Servicio Canario de la Salud.
 La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, nace con vocación universal de aplicación y de norma de referencia para todos los empleados públicos, aspirando a ordenar el
 sistema de empleo en su conjunto y aglutinando en
-su ámbito de aplicación -salvo en determinadas cuestiones diferenciales -al personal docente y al personal estatutario de los servicios de salud. 
+su ámbito de aplicación -salvo en determinadas cuestiones diferenciales -al personal docente y al personal estatutario de los servicios de salud.
 El artículo 10 de dicha Ley, que define el concepto de funcionario interino y precisa las notas fundamentales de su régimen jurídico, establece en su
 apartado 2 que la selección de tales funcionarios habrá de realizarse mediante procedimientos ágiles que
 respetarán en todo caso los principios de igualdad,
@@ -83,7 +83,7 @@ A tal efecto el presente Decreto establece un procedimiento ordinario basado en 
 Pública. Igualmente, se podrán valorar otros méritos,
 si así se determina mediante Orden de la Consejería
 competente en materia de función pública, educación
-o sanidad. 
+o sanidad.
 También faculta la norma a los titulares de las citadas Consejerías para dictar en su respectivo ámbito cuantas disposiciones sean necesarias para su desarrollo, en particular, el régimen de funcionamiento
 de las listas de empleo temporal, que habrá de adaptarse a las peculiaridades organizativas de cada sector.
 En la tramitación del presente Decreto se ha dado cumplimiento a los requerimientos en materia de
@@ -110,7 +110,7 @@ nombramiento de funcionarios interinos en los sectores de administración genera
 estatutario temporal en los órganos de prestación de
 servicios sanitarios del Servicio Canario de la Salud,
 por razones expresamente justificadas de necesidad
-y urgencia. 
+y urgencia.
 2. El presente Decreto no será de aplicación a las
 listas de reserva de funcionarios interinos de los
 Cuerpos de Médicos Forenses, Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa
@@ -119,7 +119,7 @@ Justicia en Canarias. Estas listas de reserva se regirán por su regulación esp
 
 Artículo 2.- Listas de empleo.
 Las listas de empleo objeto del presente Decreto
-contendrán la relación de aspirantes del correspondiente Cuerpo/Escala/Especialidad de personal funcionario, o Categoría/Especialidad de personal estatutario, con arreglo a lo establecido en este Decreto. 
+contendrán la relación de aspirantes del correspondiente Cuerpo/Escala/Especialidad de personal funcionario, o Categoría/Especialidad de personal estatutario, con arreglo a lo establecido en este Decreto.
 Artículo 3.- Procedimiento ordinario.
 1. Se constituirán listas de empleo una vez finalizados los correspondientes procesos selectivos para el ingreso de funcionarios de carrera del mismo
 Cuerpo/Escala/Especialidad, o de personal estatutario con nombramiento en propiedad de la misma Categoría y, en su caso, Especialidad, quedando integradas por aquellos aspirantes que, habiéndose
@@ -135,7 +135,7 @@ titulaciones que acrediten la cualificación suficiente para impartir docencia, 
 especialidad.
 3. Las listas de empleo, integradas por aquellos aspirantes a los que hace referencia el apartado primero
 de este artículo, se conformarán mediante un sistema de
-concurso, en el cual se valorarán los siguientes méritos: 
+concurso, en el cual se valorarán los siguientes méritos:
 1. La calificación obtenida en la oposición se valorará hasta 4 puntos.
 2. La experiencia en la Administración Pública se
 valorará hasta 4 puntos.
@@ -148,7 +148,7 @@ puntos cada uno de ellos.
 la suma de los méritos del apartado anterior no podrá superar los 10 puntos.
 5. Mediante las correspondientes Órdenes Departamentales de las Consejerías competentes en materia de función pública, educación y sanidad, y previa negociación en la Mesa Sectorial correspondiente,
 se determinará si se opta por valorar los otros méritos, conforme a lo señalado en el apartado 3.3 de este artículo, así como la forma de valoración de todos
-los méritos. 
+los méritos.
 Artículo 4.- Criterios para resolver los casos de
 empate.
 En los supuestos en que exista empate, se dará preferencia al aspirante de promoción interna cuando lo
@@ -160,7 +160,7 @@ Artículo 5.- Inicio de la prestación del servicio.
 En cumplimiento del principio de agilidad que
 debe regir la práctica de los llamamientos, una vez
 notificados dichos llamamientos, los interesados deberán incorporarse al trabajo en un plazo no superior
-a 24 horas. 
+a 24 horas.
 Artículo 6.-Aprobación, aplicación y vigencia de
 las listas de empleo.
 1. En los sectores de Administración General y de
@@ -174,7 +174,7 @@ citado nombramiento.
 Canarias las listas que deriven de las convocatorias
 de pruebas selectivas para el ingreso de funcionarios
 de carrera, sin perjuicio de su anterior aprobación, se
-aplicarán para los nombramientos del curso académico que se inicia en el año siguiente al de celebración de las pruebas. 
+aplicarán para los nombramientos del curso académico que se inicia en el año siguiente al de celebración de las pruebas.
 3. Las correspondientes listas de empleo estarán
 vigentes hasta su sustitución por nuevas listas derivadas de pruebas selectivas para el ingreso de funcionarios de carrera del mismo Cuerpo/Escala/Especialidad. La aprobación de las nuevas listas de empleo, así como la derogación de las anteriores deberán ser debidamente publicadas.
 Disposición Adicional Primera.- Equivalencias
@@ -186,11 +186,11 @@ a la calificación de cero (0) y el “apto” equivale al
 50% de la calificación máxima posible. Los “retirados”, esto es, aquellos aspirantes que habiéndose
 presentado al llamamiento, no hayan entregado su ejercicio, no formarán parte de las listas de empleo.
 Disposición Adicional Segunda.- Convocatorias
-específicas para la constitución de listas de empleo. 
+específicas para la constitución de listas de empleo.
 En los supuestos de que no existieran listas de empleo, por no haberse convocado las respectivas pruebas selectivas para el ingreso de funcionarios de carrera o de personal estatutario, o, habiéndose convocado
 se hubiesen agotado y resulte necesario el nombramiento de personal interino, se realizarán convocatorias de pruebas selectivas exclusivamente para la
 constitución de listas de empleo. Dichas convocatorias específicas serán aprobadas por el órgano competente para aprobar las convocatorias de las citadas
-pruebas selectivas. 
+pruebas selectivas.
 En el caso de que la convocatoria se realice por
 haberse agotado la lista vigente, los aspirantes que
 deriven de la convocatoria específica se incluirán en
@@ -203,7 +203,7 @@ Sin perjuicio de lo previsto en la Disposición Adicional Segunda, si no existie
 correspondientes listas de empleo temporal constituidas con arreglo a lo dispuesto en el artículo 3
 de este Decreto, también se podrán realizar nombramientos, con carácter excepcional, a los integrantes de las listas de otros Cuerpos, Escalas, Categorías o Especialidades, siempre que éstos reúnan
 los requisitos exigidos, incluido el de titulación
-académica, y se trate de especialidades consideradas afines de conformidad con la normativa específica de cada sector. 
+académica, y se trate de especialidades consideradas afines de conformidad con la normativa específica de cada sector.
 Disposición Transitoria Primera.- Transitoriedad
 de las listas vigentes.
 Hasta la entrada en vigor de las correspondientes
@@ -211,7 +211,7 @@ listas de empleo que se constituyan con arreglo a las
 normas contenidas en el presente Decreto, para cubrir las necesidades de personal se procederá al nombramiento de funcionarios interinos en los sectores
 de administración general y docente no universitario de la Administración Pública de la Comunidad Autónoma de Canarias, así como de personal estatutario
 temporal en los órganos de prestación de servicios
-sanitarios del Servicio Canario de la Salud, conforme a las listas vigentes a la entrada en vigor del presente Decreto. 
+sanitarios del Servicio Canario de la Salud, conforme a las listas vigentes a la entrada en vigor del presente Decreto.
 Disposición Transitoria Segunda.- Plan Especial
 para claustros docentes inestables.
 En el ámbito de educación, el actual Plan Especial para claustros docentes inestables, contenido en
@@ -219,11 +219,11 @@ la Resolución de la Dirección General de Personal
 de 10 de mayo de 2004 (BOC n
 º101, de 26.5.04),
 tendrá una vigencia de 4 años, contados a partir de
-la entrada en vigor del presente Decreto. 
+la entrada en vigor del presente Decreto.
 En todo caso, el mantenimiento del Plan Especial
 no supone la creación de una lista diferenciada, afectando exclusivamente al orden de llamamientos.
 Disposición Transitoria Tercera.- Especificidades
-en el ámbito de educación. 
+en el ámbito de educación.
 A los aspirantes, no seleccionados, que superaron
 la fase de oposición de las pruebas selectivas para el
 ingreso en la función pública docente convocadas en
@@ -246,7 +246,7 @@ Disposición Final Segunda.- Entrada en vigor.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de
 Canarias.
 Dado en Las Palmas de Gran Canaria, a 1 de julio de 2010.
-EL PRESIDENTE 
+EL PRESIDENTE
 DEL GOBIERNO,
 Paulino Rivero Baute.
 
@@ -265,4 +265,3 @@ Paulino Rivero Baute.
 ### Fundamentos de Derecho
 - [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
 - [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-

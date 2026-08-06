@@ -97,7 +97,7 @@ las presentes bases y, con carácter supletorio, por lo
 previsto en la Ley 30/1992, de 26 de noviembre,
 modificada por la Ley 4/1999, de 13 de enero, de Régimen Jurídico de las Administraciones Públicas y
 del Procedimiento Administrativo Común (en lo sucesivo LRJAP/PAC) y en la legislación general de
-funcionarios civiles del Estado. 
+funcionarios civiles del Estado.
 Segunda.- Requisitos de participación.
 1. Para ser admitidos en el presente concurso los
 aspirantes deberán reunir los siguientes requisitos:
@@ -110,9 +110,9 @@ previsiones serán también de aplicación a los nacionales de aquellos Estados 
 circulación de trabajadores en los términos en que ésta se encuentra definida en el Tratado Constitutivo
 de la Comunidad Europea.
 La suscripción de los contratos como Personal Docente e Investigador contratado en las diferentes figuras contractuales, para nacionales de países no miembros de la UE, se condiciona a la posesión u obtención
-del permiso de residencia/trabajo (o excepción de permiso de trabajo), dentro del plazo de incorporación. 
+del permiso de residencia/trabajo (o excepción de permiso de trabajo), dentro del plazo de incorporación.
 B) Poseer la capacidad funcional para el desempeño de las tareas.
-C) Edad: tener cumplidos dieciséis años y no superar, en su caso, la edad de jubilación normativamente establecida. 
+C) Edad: tener cumplidos dieciséis años y no superar, en su caso, la edad de jubilación normativamente establecida.
 D) Estar en posesión o en condiciones de obtener
 la titulación académica exigida. Cuando el título haya sido obtenido en el extranjero, deberá estar homologado por el Ministerio de Educación. En caso de
 candidatos con títulos de la Unión Europea, deberán
@@ -142,26 +142,26 @@ del plazo de presentación de solicitudes y mantenerse en el momento de formaliz
 Tercera.- Solicitudes y documentación a aportar.
 1. La solicitud se efectuará mediante instancia-currículum, debidamente cumplimentada, según modelo establecido por la Universidad de La Laguna (anexo II),
 que se facilitará gratuitamente a los interesados en el Registro General de la Universidad y que está disponible
-en el portal electrónico de la misma (http://www.ull.es). 
+en el portal electrónico de la misma (http://www.ull.es).
 A dicha solicitud, los interesados adjuntarán, documentalmente justificados, cuantos méritos estimen oportunos en orden a la adjudicación deberán
 adjuntar los siguientes documentos acreditativos del
 cumplimiento de los requisitos establecidos para la
-participación en este concurso: 
-1.1. Documentos generales: 
-a) Fotocopia del Documento Nacional de Identidad o pasaporte. 
+participación en este concurso:
+1.1. Documentos generales:
+a) Fotocopia del Documento Nacional de Identidad o pasaporte.
 Los extranjeros no comunitarios deberán aportar
 los documentos que acrediten que se encuentran en
 España en situación de legalidad, estando habilitados para residir y para poder acceder sin limitaciones al mercado laboral.
 b) En el caso de los aspirantes que no posean la
 nacionalidad española, certificación expedida por un
-centro oficial de idiomas, acreditativa de un adecuado conocimiento del castellano. 
+centro oficial de idiomas, acreditativa de un adecuado conocimiento del castellano.
 c) La titulación requerida se acreditará mediante
 fotocopia compulsada del Título correspondiente o,
 en su caso, del justificante de haber abonado los derechos para la expedición del mismo, acompañada de
-la credencial de homologación o acreditación del reconocimiento profesional, en su caso. 
+la credencial de homologación o acreditación del reconocimiento profesional, en su caso.
 d) Certificación académica personal de notas (expediente académico), en original o fotocopia debidamente compulsada, en la que consten todas las calificaciones obtenidas en los estudios universitarios,
-así como la fecha de obtención de las mismas. 
-e) Currículum. Los méritos alegados en el currículum que no hayan sido justificados documentalmente no serán tenidos en cuenta. 
+así como la fecha de obtención de las mismas.
+e) Currículum. Los méritos alegados en el currículum que no hayan sido justificados documentalmente no serán tenidos en cuenta.
 f) Justificación documental de los méritos alegados en el Currículum vitae, aportados tal como se indica en las Instrucciones especificadas en el anexo
 III de esta convocatoria, debidamente cotejados. Dichos méritos deberán ser numerados en el orden correspondiente que figura en el currículum. En el caso de publicaciones se incluirá una relación
 circunstanciada de las mismas con mención expresa
@@ -199,20 +199,20 @@ bancaria deberá ser efectuado en la cuenta corriente
 n
 º20650067682904000069 de CajaCanarias. A la solicitud deberá adjuntarse el justificante original acreditativo del ingreso por el citado concepto. A la instancia-currículum se adjuntará el justificante acreditativo
 original del pago de los derechos. En ningún caso la
-realización del ingreso supondrá sustitución del trámite de presentación en tiempo y forma de la solicitud. 
+realización del ingreso supondrá sustitución del trámite de presentación en tiempo y forma de la solicitud.
 3. Para la compulsa de la documentación, a la que
 se refiere la base tercera 1.1.c) y d), se deberá abonar la cantidad de 2,46 euros en concepto de tasas.
 El ingreso o transferencia bancaria deberá ser efectuado en la cuenta corriente n
 º20650067632904000165
 de CajaCanarias. Se habrá de rellenar un recibo de
 ingreso por cada compulsa.
-4. Los documentos se presentarán en copia simple, acompañados de los originales para su cotejo correspondiente. 
+4. Los documentos se presentarán en copia simple, acompañados de los originales para su cotejo correspondiente.
 5. Los interesados deberán presentar una instanciacurrículum y abonar los derechos de examen por cada
-código y tipo de plaza a la que se pretenda concursar. 
+código y tipo de plaza a la que se pretenda concursar.
 6. Para cualquier información, los interesados deberán dirigirse al Servicio de Recursos Humanos de
 la Universidad de La Laguna, teléfonos (922) 316502,
 Ext. 6134 y Ext. 6132 (922) 319488, de 9,00 a 14,00
-horas, correo electrónico: mjcascaj@ull.es, o a la dirección de Internet: 
+horas, correo electrónico: mjcascaj@ull.es, o a la dirección de Internet:
 http://www.ull.es/portal/viewcategory.aspx?code=86e.
 Cuarta.- Plazo de presentación de solicitudes.
 1. Las solicitudes deberán dirigirse al Sr. Rector
@@ -226,7 +226,7 @@ lo sucesivo LRJAP/PAC), en el plazo de 15 días hábiles contados a partir del d
 solicitudes, no podrán ser aportados documentos que
 avalen nuevos méritos no declarados inicialmente.
 Quinta.- Admisión de aspirantes y remisión de la
-documentación. 
+documentación.
 1. Finalizado el plazo de presentación de instancias,
 en los 5 días hábiles siguientes, el Servicio de Recursos Humanos hará pública la resolución del Vicerrector competente en la materia, por delegación del Rector, por la que se aprueban las listas provisionales de
 aspirantes admitidos y excluidos a las distintas plazas
@@ -235,9 +235,9 @@ de su inserción, será expuesta en los tablones de anuncios del Rectorado y a t
 web de la universidad. A partir de dicha publicación,
 los interesados dispondrán de 10 días hábiles para, en
 su caso, subsanar los defectos detectados o aportar los
-documentos preceptivos, a falta de lo cual se entenderá que renuncian a concursar. 
+documentos preceptivos, a falta de lo cual se entenderá que renuncian a concursar.
 2. Transcurrido dicho plazo y realizadas las modificaciones a que hubiera lugar, la Resolución adquirirá el carácter de definitiva, y se remitirán al Departamento a que se adscribe la plaza las solicitudes,
-admitidas, en unión de la documentación que se hubiera adjuntado. 
+admitidas, en unión de la documentación que se hubiera adjuntado.
 Sexta.- Valoración de los concursantes.
 1. Los méritos alegados por los candidatos serán
 valorados conforme al baremo marco de la Universidad de La Laguna conjuntamente con el baremo específico del Departamento, si lo hubiera.
@@ -252,7 +252,7 @@ que más méritos acredite para ocupar la plaza, pudiendo asimismo designar supl
 de puntuación de sus méritos.
 2. La propuesta de contratación será publicada en
 el tablón de anuncios del Departamento en la misma
-fecha en que se remita la documentación correspondiente a la Comisión Delegada de Profesorado. 
+fecha en que se remita la documentación correspondiente a la Comisión Delegada de Profesorado.
 3. Una vez recibida la propuesta de contratación del
 Departamento por la Comisión Delegada de Profesorado, la baremación de los candidatos y la propuesta
 de provisión de plazas, éstas se harán públicas en el
@@ -269,12 +269,12 @@ por lo que no se efectuará notificación personal.
 5. El concurso podrá declararse desierto, a propuesta del Departamento cuando, en aplicación de
 su baremo específico, ningún candidato haya obtenido la puntuación mínima exigida, o bien, cuando
 ninguno de los candidatos comparezca a la entrevista, en los casos en que la misma tenga, con arreglo al baremo específico del Departamento, carácter estrictamente indispensable para elaborar la
-propuesta de contratación. 
+propuesta de contratación.
 Octava.- Presentación de documentos y formalización del contrato.
 1. El candidato propuesto dispondrá, a partir de
 la publicación de la Resolución de la Comisión Delegada de Profesorado, de un plazo máximo de diez
 días hábiles para la formalización por escrito del
-contrato. 
+contrato.
 Deberán acreditar, con carácter previo, y mediante la presentación de la documentación original, en
 el Registro General de esta Universidad o por cualesquiera de los demás procedimientos señalados en
 el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, la siguiente documentación:
@@ -285,13 +285,13 @@ Tratados Internacionales celebrados por la Unión Europea y ratificados por Espa
 libre circulación de trabajadores, deberán acreditar,
 de conformidad con lo establecido en el artículo 7.2.
 del Real Decreto 543/2001, de 18 de mayo, no haber sido objeto de sanción disciplinaria o condena
-penal que impidan, en su Estado, el acceso a la función pública. 
+penal que impidan, en su Estado, el acceso a la función pública.
 b) Certificado médico oficial acreditativo de no
 padecer enfermedad ni defecto físico o psíquico que
 le incapacite para el ejercicio de sus funciones como
 profesor.
 c) Documentación relativa a la compatibilidad
-con su actividad profesional. 
+con su actividad profesional.
 d) La documentación acreditativa de los méritos
 alegados, en el caso de no haberla aportado con
 anterioridad.
@@ -302,7 +302,7 @@ Transcurrido dicho plazo sin haber verificado tal
 trámite por causa imputable al interesado, éste decaerá en todos sus derechos y se entenderá que renuncia a la plaza adjudicada. Salvo los supuestos de
 fuerza mayor, quienes no presentasen la documentación referida o si del examen de la misma se dedujera que carecen de los requisitos señalados, no podrán ser contratados, quedando anuladas sus actuaciones
 sin perjuicio de las responsabilidades legales en que
-pudieran haber incurrido en este último caso. 
+pudieran haber incurrido en este último caso.
 Transcurrido el plazo señalado para formalizar el
 contrato, sin que éste aporte justificación del retraso o
 renuncie expresamente a la plaza, el suplente propuesto dispondrá del mismo plazo para formalizar el contrato, sin perjuicio de lo dispuesto en el apartado siguiente.
@@ -324,7 +324,7 @@ Décima.- Devolución de documentación.
 ser retirada por los interesados en el Servicio de Recursos Humanos, una vez finalizado el plazo de tres
 meses a contar desde la notificación de la resolución
 de la plaza.
-2. La documentación de los aspirantes a las plazas que hayan sido objeto de recurso no podrá ser retirada hasta la firmeza de la resolución impugnada. 
+2. La documentación de los aspirantes a las plazas que hayan sido objeto de recurso no podrá ser retirada hasta la firmeza de la resolución impugnada.
 3. En ambos casos, transcurridos los plazos máximos de custodia, si el aspirante no retirara la documentación, ésta podrá ser destruida.
 4. A través de la presentación de la solicitud de participación en el concurso, el interesado consiente en
 que los datos personales recogidos en aquélla sean
@@ -353,417 +353,417 @@ p.d., la Vicerrectora de Profesorado (Resolución de
 28.1.10; BOC de 4.3.10), Carmen Dolores Sosa
 Castilla.
 
-ANEXO I 
-RESOLUCI”N  DE 10 DE AGOSTO DE 2010 POR LA QUE SE CONVOCA CONCURSO P⁄BLICO PARA LA PROVISI”N DE PLAZ AS DE PERSONAL DOCENTE E INVESTIGADOR  
-CONTRATADO TEMPORAL, EN R…GIMEN DE DEREC HO LABORAL, EN LA FIGURA DE PROFESORES ASOCIADOS (PROCEDIMIENTO ORDINARIO)  
-DEPARTAMENTO C”DI GO DE 
+ANEXO I
+RESOLUCI”N  DE 10 DE AGOSTO DE 2010 POR LA QUE SE CONVOCA CONCURSO P⁄BLICO PARA LA PROVISI”N DE PLAZ AS DE PERSONAL DOCENTE E INVESTIGADOR
+CONTRATADO TEMPORAL, EN R…GIMEN DE DEREC HO LABORAL, EN LA FIGURA DE PROFESORES ASOCIADOS (PROCEDIMIENTO ORDINARIO)
+DEPARTAMENTO C”DI GO DE
 LA PLAZA
-CATEGORÕA, 
+CATEGORÕA,
 DEDICACI”N Y
-DURACI”N  DEL 
-CONTRATO 
+DURACI”N  DEL
+CONTRATO
 ¡REA DE  CONOCIMIENTO CENTRO ACTIVIDADES A REALIZAR
-DISCIPLINAS JURIDICAS 
-BASICAS DL0730/10 
+DISCIPLINAS JURIDICAS
+BASICAS DL0730/10
 PROFESOR ASOCIADO
 (tiempo parcial 6 horas)
-La duraciÛn del contrato ser·  por el curso 
-acadÈm ico 2010-11. 
-DERECHO 
+La duraciÛn del contrato ser·  por el curso
+acadÈm ico 2010-11.
+DERECHO
 ADMINISTRATIVO
 Facultad de Ciencias PolÌ ticas y
 Sociales, E.U. de Empresariales
 y E.U. de Arquitectura TÈ cnica
 Docencia e InvestigaciÛn  en
-Derecho Administrativo 
-DISCIPLINAS JURIDICAS 
-BASICAS DL0231/10 
+Derecho Administrativo
+DISCIPLINAS JURIDICAS
+BASICAS DL0231/10
 PROFESOR ASOCIADO
 (tiempo parcial 6 horas)
-La duraciÛn del contrato ser·  por el curso 
-acadÈm ico 2010-11. 
+La duraciÛn del contrato ser·  por el curso
+acadÈm ico 2010-11.
 DERECHO CIVIL Facultad de Derecho Docencia e InvestigaciÛn  en
 Derecho Civil
-GEOGRAFIA DL1408/10 
+GEOGRAFIA DL1408/10
 PROFESOR ASOCIADO
 (tiempo parcial 6 horas)
-La duraciÛn del contrato ser·  por el curso 
-acadÈm ico 2010-11. 
+La duraciÛn del contrato ser·  por el curso
+acadÈm ico 2010-11.
 GEOGRAFIA HUMANA
 Centros en los que imparta
 docencia el ¡ rea de
-conocimiento de GeografÌa 
-Humana 
+conocimiento de GeografÌa
+Humana
 Docencia en el ¡rea de
 conocimiento
 A N E X O  I
 
 1
-Convocado concurso público para la contratación de personal docente e investigador 
-contratado, en régimen de derecho laboral en esta Un iversidad, solicito ser admitido como aspirante: 
-1 DATOS PERSONALES 
-PRIMER APELLIDO SEGUNDO APELLIDO NO MBRE D.N.I./N.I.F. 
-FECHA DE NACIMIENTO 
-         -                   -  
-día                  mes                  año 
-LUGAR PAIS NACIONALIDAD 
-DOMICILIO, CALLE, PLAZA Y NÚMERO LOCALIDAD 
-PROVINCIA/PAÍS CÓDIGO POSTAL TELÉFONOS  E-MAIL 
-2 DATOS DE LA PLAZA SOLICITADA 
-CÓDIGO DE LA PLAZA ÁREA DE CONOCIMIENTO 
-DEPARTAMENTO 
-3 DECLARACIÓN 
-El/la abajo firmante declara que todos los datos consignados en la presente solicitud y en el 
-currículum vitae son ciertos, y que reúne las condiciones y requisitos necesarios para el 
-desempeño de la plaza solicitada asumiendo, en  caso contrario, las responsabilidades que 
-pudieran derivarse de las inexactitudes que consten en el mismo. 
-En                                                  , a               de                                          de 20          . 
-                                                                                                            (Firma) 
-NOTA INFORMATIVA 
-! Se presentará una instancia por cada plaza a la que se presente el candidato. 
-! Esta instancia, requisitos y documentos que se adjuntan se presentarán, dentro del plazo señalado en las convocatorias, en el R egistro 
-General de esta Universidad, o bien por alguno de los medios que establece el artículo 38.4 de la Ley 30/1992, de 26 de noviemb re, del 
-Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13  de 
-enero. Las solicitudes que se presenten a través de las oficinas de Correos deberán ir en sobre abierto, para se fechadas y sel ladas por el 
-funcionario de Correos antes de ser certificadas. 
-! Todos los documentos que no estén redactados en legua castellana deberán acompañarse necesariamente de la correspondiente tradu cción 
-oficial que podrá realizase en cualquiera de los siguientes organismos: 
-a) En la representación diplomática o consular de España en el extranjero. 
-b) En la representación diplomática o consular del país del que proceden los documentos en España. 
-c) Por traductor jurado debidamente inscrito y autorizado en España. 
-! El interesado aportará fotocopias que documenten los méritos señalados en el currículum: diplomas, cursos, etc., numeradas y or denadas 
-conforme a éste, debidamente cotejados. 
-SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA. 
-Servicio de Recursos Humanos 
-ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO 
-PROTECCI ÓN DE DATOS 
-En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
-datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que 
-tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica, 
-puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071. 
-La Laguna 
+Convocado concurso público para la contratación de personal docente e investigador
+contratado, en régimen de derecho laboral en esta Un iversidad, solicito ser admitido como aspirante:
+1 DATOS PERSONALES
+PRIMER APELLIDO SEGUNDO APELLIDO NO MBRE D.N.I./N.I.F.
+FECHA DE NACIMIENTO
+-                   -
+día                  mes                  año
+LUGAR PAIS NACIONALIDAD
+DOMICILIO, CALLE, PLAZA Y NÚMERO LOCALIDAD
+PROVINCIA/PAÍS CÓDIGO POSTAL TELÉFONOS  E-MAIL
+2 DATOS DE LA PLAZA SOLICITADA
+CÓDIGO DE LA PLAZA ÁREA DE CONOCIMIENTO
+DEPARTAMENTO
+3 DECLARACIÓN
+El/la abajo firmante declara que todos los datos consignados en la presente solicitud y en el
+currículum vitae son ciertos, y que reúne las condiciones y requisitos necesarios para el
+desempeño de la plaza solicitada asumiendo, en  caso contrario, las responsabilidades que
+pudieran derivarse de las inexactitudes que consten en el mismo.
+En                                                  , a               de                                          de 20          .
+(Firma)
+NOTA INFORMATIVA
+! Se presentará una instancia por cada plaza a la que se presente el candidato.
+! Esta instancia, requisitos y documentos que se adjuntan se presentarán, dentro del plazo señalado en las convocatorias, en el R egistro
+General de esta Universidad, o bien por alguno de los medios que establece el artículo 38.4 de la Ley 30/1992, de 26 de noviemb re, del
+Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13  de
+enero. Las solicitudes que se presenten a través de las oficinas de Correos deberán ir en sobre abierto, para se fechadas y sel ladas por el
+funcionario de Correos antes de ser certificadas.
+! Todos los documentos que no estén redactados en legua castellana deberán acompañarse necesariamente de la correspondiente tradu cción
+oficial que podrá realizase en cualquiera de los siguientes organismos:
+a) En la representación diplomática o consular de España en el extranjero.
+b) En la representación diplomática o consular del país del que proceden los documentos en España.
+c) Por traductor jurado debidamente inscrito y autorizado en España.
+! El interesado aportará fotocopias que documenten los méritos señalados en el currículum: diplomas, cursos, etc., numeradas y or denadas
+conforme a éste, debidamente cotejados.
+SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA.
+Servicio de Recursos Humanos
+ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO
+PROTECCI ÓN DE DATOS
+En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los
+datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que
+tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica,
+puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071.
+La Laguna
 1
-Convocado concurso público para la contratación de personal docente e investigador 
-contratado, en régimen de derecho laboral en esta Un iversidad, solicito ser admitido como aspirante: 
-1 DATOS PERSONALES 
-PRIMER APELLIDO SEGUNDO APELLIDO NO MBRE D.N.I./N.I.F. 
-FECHA DE NACIMIENTO 
-         -                   -  
-día                  mes                  año 
-LUGAR PAIS NACIONALIDAD 
-DOMICILIO, CALLE, PLAZA Y NÚMERO LOCALIDAD 
-PROVINCIA/PAÍS CÓDIGO POSTAL TELÉFONOS  E-MAIL 
-2 DATOS DE LA PLAZA SOLICITADA 
-CÓDIGO DE LA PLAZA ÁREA DE CONOCIMIENTO 
-DEPARTAMENTO 
-3 DECLARACIÓN 
-El/la abajo firmante declara que todos los datos consignados en la presente solicitud y en el 
-currículum vitae son ciertos, y que reúne las condiciones y requisitos necesarios para el 
-desempeño de la plaza solicitada asumiendo, en  caso contrario, las responsabilidades que 
-pudieran derivarse de las inexactitudes que consten en el mismo. 
-En                                                  , a               de                                          de 20          . 
-                                                                                                            (Firma) 
-NOTA INFORMATIVA 
-! Se presentará una instancia por cada plaza a la que se presente el candidato. 
-! Esta instancia, requisitos y documentos que se adjuntan se presentarán, dentro del plazo señalado en las convocatorias, en el R egistro 
-General de esta Universidad, o bien por alguno de los medios que establece el artículo 38.4 de la Ley 30/1992, de 26 de noviemb re, del 
-Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13  de 
-enero. Las solicitudes que se presenten a través de las oficinas de Correos deberán ir en sobre abierto, para se fechadas y sel ladas por el 
-funcionario de Correos antes de ser certificadas. 
-! Todos los documentos que no estén redactados en legua castellana deberán acompañarse necesariamente de la correspondiente tradu cción 
-oficial que podrá realizase en cualquiera de los siguientes organismos: 
-a) En la representación diplomática o consular de España en el extranjero. 
-b) En la representación diplomática o consular del país del que proceden los documentos en España. 
-c) Por traductor jurado debidamente inscrito y autorizado en España. 
-! El interesado aportará fotocopias que documenten los méritos señalados en el currículum: diplomas, cursos, etc., numeradas y or denadas 
-conforme a éste, debidamente cotejados. 
-SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA. 
-Servicio de Recursos Humanos 
-ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO 
-PROTECCI ÓN DE DATOS 
-En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los 
-datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que 
-tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica, 
-puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071. 
-La Laguna 
+Convocado concurso público para la contratación de personal docente e investigador
+contratado, en régimen de derecho laboral en esta Un iversidad, solicito ser admitido como aspirante:
+1 DATOS PERSONALES
+PRIMER APELLIDO SEGUNDO APELLIDO NO MBRE D.N.I./N.I.F.
+FECHA DE NACIMIENTO
+-                   -
+día                  mes                  año
+LUGAR PAIS NACIONALIDAD
+DOMICILIO, CALLE, PLAZA Y NÚMERO LOCALIDAD
+PROVINCIA/PAÍS CÓDIGO POSTAL TELÉFONOS  E-MAIL
+2 DATOS DE LA PLAZA SOLICITADA
+CÓDIGO DE LA PLAZA ÁREA DE CONOCIMIENTO
+DEPARTAMENTO
+3 DECLARACIÓN
+El/la abajo firmante declara que todos los datos consignados en la presente solicitud y en el
+currículum vitae son ciertos, y que reúne las condiciones y requisitos necesarios para el
+desempeño de la plaza solicitada asumiendo, en  caso contrario, las responsabilidades que
+pudieran derivarse de las inexactitudes que consten en el mismo.
+En                                                  , a               de                                          de 20          .
+(Firma)
+NOTA INFORMATIVA
+! Se presentará una instancia por cada plaza a la que se presente el candidato.
+! Esta instancia, requisitos y documentos que se adjuntan se presentarán, dentro del plazo señalado en las convocatorias, en el R egistro
+General de esta Universidad, o bien por alguno de los medios que establece el artículo 38.4 de la Ley 30/1992, de 26 de noviemb re, del
+Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13  de
+enero. Las solicitudes que se presenten a través de las oficinas de Correos deberán ir en sobre abierto, para se fechadas y sel ladas por el
+funcionario de Correos antes de ser certificadas.
+! Todos los documentos que no estén redactados en legua castellana deberán acompañarse necesariamente de la correspondiente tradu cción
+oficial que podrá realizase en cualquiera de los siguientes organismos:
+a) En la representación diplomática o consular de España en el extranjero.
+b) En la representación diplomática o consular del país del que proceden los documentos en España.
+c) Por traductor jurado debidamente inscrito y autorizado en España.
+! El interesado aportará fotocopias que documenten los méritos señalados en el currículum: diplomas, cursos, etc., numeradas y or denadas
+conforme a éste, debidamente cotejados.
+SR. RECTOR MAGNÍFICO DE LA UNIVERSIDAD DE LA LAGUNA.
+Servicio de Recursos Humanos
+ANEXO II. SOLICITUD DE ADMISIÓN AL CONCURSO
+PROTECCI ÓN DE DATOS
+En cumplimiento de lo dispuesto en [Ley Orgánica 15/1999](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md), de 13 de diciembre, de Protección de Datos de Carácter Personal, el Se rvicio de Recursos Humanos le informa que los
+datos personales obtenidos mediante la cumplimentación de este documento y demás que se adjuntan van a ser incorporados para su  tratamiento, en un fichero automatizado que
+tratará los datos de todos los participantes en la presente convocatoria, conforme al procedimiento establecido en la misma. Da  acuerdo con lo previsto en la citada Ley Orgánica,
+puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo un escrito al Servicio de Recursos Hu manos, Rectorado, C/ Molinos de Agua, s/n, 38071.
+La Laguna
 A N E X O  I I
 
 1
-ANEXO III. INSTRUCCIONES PARA  LA ACREDITACIÓN DE MÉRITOS 
-DEL CURRICULUM VITAE. 
-1. FORMACIÓN ACADÉMICA. 
-1.1. Título académico (Licenciado y/o Diplomado o Graduado). 
-Título de Licenciado, Dipl omado o Graduado (caso de no haberlo recepcionado 
-todavía, certificado de haberlo solicitado). 
-1.2. Premio extraordinario de Licenciatura. 
-Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la 
-Universidad, que tenga esa función 
-1.3. Tesina de Licenciatura o Grado de Licenciado. 
-Certificado o diploma de la concesión em itido por el órgano co rrespondiente de la 
-Universidad, que tenga esa función, en la  que conste la calificación obtenida, el 
-título del trabajo y la convocatoria en que se defendió. 
-1.4. Programas de doctorado. 
-Certificado o Diploma de la concesión y la obtención de la sufi ciencia investigador, 
-y, en su caso, del Diploma de Estudios  Avanzados, emitido por el órgano 
-correspondiente de la Universidad, que tenga esa función, en que consten las 
-calificaciones obtenidas. 
-1.5. Grado de doctor. 
-Título de Doctor (caso de no haberlo rece pcionado todavía, certificado de haberlo 
-solicitado). 
-1.6. Premio extraordinario de doctorado. 
-Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la 
-Universidad, que tenga esa función. 
-1.7. Doctorado europeo. 
-Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la 
-Universidad, que tenga esa función 
-1.8. Otras titulaciones universitarias distintas a las requeridas. 
-Según las pautas generales establec idas en los apartados anteriores. 
-1.9. Otras titulaciones propias universitarias o de otros organismos de 
-reconocido prestigio. 
-Título o Diploma emitido por el órga no correspondiente de la Universidad u 
-organismo de reconocido prestigio, que tenga esa función, con indicación del 
-número de horas o, en su caso, cr éditos de docencia recibidos. 
-1.10. Cursos, seminarios y talleres univ ersitarios o de otros organismos de 
-reconocido prestigio. 
-Certificación emitida por el órgano correspondiente de la Universidad u organismo 
-de reconocido prestigio, que tenga esa función, con indicación del número de 
-horas o, en su caso, créditos  de docencia recibidos. 
-1.11. Estancias formativas en otros centros. 
-Certificación emitida por el órgano corr espondiente, que tenga esa función, del 
-Centro donde se ha realizado la estancia, en la que se especifique el destino y la 
-duración de la misma. 
-1.12. Becas de pregrado competitivas. 
-(Becas de ERASMUS, Movilidad, de  Colaboración con Departamentos y 
-equivalentes). 
-Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad 
-oficial que ha dotado la beca, con indicación de los años de disfrute de la misma. 
-1.13. Otros méritos relacionados con la formación académica. 
+ANEXO III. INSTRUCCIONES PARA  LA ACREDITACIÓN DE MÉRITOS
+DEL CURRICULUM VITAE.
+1. FORMACIÓN ACADÉMICA.
+1.1. Título académico (Licenciado y/o Diplomado o Graduado).
+Título de Licenciado, Dipl omado o Graduado (caso de no haberlo recepcionado
+todavía, certificado de haberlo solicitado).
+1.2. Premio extraordinario de Licenciatura.
+Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la
+Universidad, que tenga esa función
+1.3. Tesina de Licenciatura o Grado de Licenciado.
+Certificado o diploma de la concesión em itido por el órgano co rrespondiente de la
+Universidad, que tenga esa función, en la  que conste la calificación obtenida, el
+título del trabajo y la convocatoria en que se defendió.
+1.4. Programas de doctorado.
+Certificado o Diploma de la concesión y la obtención de la sufi ciencia investigador,
+y, en su caso, del Diploma de Estudios  Avanzados, emitido por el órgano
+correspondiente de la Universidad, que tenga esa función, en que consten las
+calificaciones obtenidas.
+1.5. Grado de doctor.
+Título de Doctor (caso de no haberlo rece pcionado todavía, certificado de haberlo
+solicitado).
+1.6. Premio extraordinario de doctorado.
+Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la
+Universidad, que tenga esa función.
+1.7. Doctorado europeo.
+Certificado o Diploma de la concesión emitido por el ór gano correspondiente de la
+Universidad, que tenga esa función
+1.8. Otras titulaciones universitarias distintas a las requeridas.
+Según las pautas generales establec idas en los apartados anteriores.
+1.9. Otras titulaciones propias universitarias o de otros organismos de
+reconocido prestigio.
+Título o Diploma emitido por el órga no correspondiente de la Universidad u
+organismo de reconocido prestigio, que tenga esa función, con indicación del
+número de horas o, en su caso, cr éditos de docencia recibidos.
+1.10. Cursos, seminarios y talleres univ ersitarios o de otros organismos de
+reconocido prestigio.
+Certificación emitida por el órgano correspondiente de la Universidad u organismo
+de reconocido prestigio, que tenga esa función, con indicación del número de
+horas o, en su caso, créditos  de docencia recibidos.
+1.11. Estancias formativas en otros centros.
+Certificación emitida por el órgano corr espondiente, que tenga esa función, del
+Centro donde se ha realizado la estancia, en la que se especifique el destino y la
+duración de la misma.
+1.12. Becas de pregrado competitivas.
+(Becas de ERASMUS, Movilidad, de  Colaboración con Departamentos y
+equivalentes).
+Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad
+oficial que ha dotado la beca, con indicación de los años de disfrute de la misma.
+1.13. Otros méritos relacionados con la formación académica.
 A N E X O  I I I
 
 2
-Según las pautas generales establec idas en los apartados anteriores. 
-2. EXPERIENCIA DOCENTE Y FORMACIÓN PARA LA DOCENCIA. 
-2.1. Docencia universitaria en nivel de grado, en materias regladas. 
-Certificado de docencia impartida emitida por el órgano correspondiente, que 
-tenga esa función. 
-En el caso de los becarios de investigación, no podrá computarse más número de 
-horas de docencia por curso que las que se prevean en la correspondiente 
-convocatoria de la beca. 
-2.2. Docencia universitaria de posgrado. 
-Certificado de docencia impartida emitida por el órgano correspondiente, que 
-tenga esa función. 
-2.3. Otra docencia universitaria. 
-(Docencia universitaria que no se ajuste a lo establecido en apartados anteriores) 
-Certificación emitida por el órgano correspondiente de la Universidad u organismo 
-de reconocido prestigio, que tenga esa función, con indicación del número de 
-horas o, en su caso, créditos  de docencia recibidos. 
-2.4. Material docente universitario (lib ros de texto, recopilaciones, casos 
-prácticos, etc.) 
-Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de 
-publicación y autores/as. 
-2.5. Docencia oficial de ámbito no universitario. 
-Hoja de Servicios, con indicación del pues to, categoría, especialidad y fechas del 
-desempeño. 
-2.6. Formación didáctica para la actividad docente (participación en 
-Congresos, talleres, etc.) 
-Certificado emitido por el organismo co rrespondiente en el que haga constar el 
-número de horas, o en su caso, créditos de docencia recibida. 
-2.7. Otros méritos docentes relevantes. 
-Según las pautas generales establec idas en los apartados anteriores. 
-3. EXPERIENCIA INVESTIGADORA. 
-3.1. Libros. 
-Copia de la portada, página de identificación del ISBN, editorial, año de 
-publicación, autores/as e índice del libro. 
-3.2. Capítulos de libros con ISBN. 
-Copia de la portada, página de identificación del ISBN, editorial, año de 
-publicación, índice y primera y última página del capítulo del libro. 
-3.3. Artículos publicados en revistas citadas en el ISI, Journal  Citation 
-Reports. 
-(El artículo debe estar publicado en una revista con índice de impacto en el mismo 
-año de publicación) 
-Copia de la primera página y última página  del artículo y hoja en la que conste el 
-nombre de la revista, año de publicación, autores/as y nº de páginas. 
-En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la 
-revista o figura equivalente, en la que cons te el estado de la publicación (No se 
-aceptarán correos electrónicos).  
-3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de 
-áreas 
-Según las pautas generales establ ecidas en el apartado anterior. 
-3.5. Publicaciones en Actas de Congresos. 
+Según las pautas generales establec idas en los apartados anteriores.
+2. EXPERIENCIA DOCENTE Y FORMACIÓN PARA LA DOCENCIA.
+2.1. Docencia universitaria en nivel de grado, en materias regladas.
+Certificado de docencia impartida emitida por el órgano correspondiente, que
+tenga esa función.
+En el caso de los becarios de investigación, no podrá computarse más número de
+horas de docencia por curso que las que se prevean en la correspondiente
+convocatoria de la beca.
+2.2. Docencia universitaria de posgrado.
+Certificado de docencia impartida emitida por el órgano correspondiente, que
+tenga esa función.
+2.3. Otra docencia universitaria.
+(Docencia universitaria que no se ajuste a lo establecido en apartados anteriores)
+Certificación emitida por el órgano correspondiente de la Universidad u organismo
+de reconocido prestigio, que tenga esa función, con indicación del número de
+horas o, en su caso, créditos  de docencia recibidos.
+2.4. Material docente universitario (lib ros de texto, recopilaciones, casos
+prácticos, etc.)
+Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de
+publicación y autores/as.
+2.5. Docencia oficial de ámbito no universitario.
+Hoja de Servicios, con indicación del pues to, categoría, especialidad y fechas del
+desempeño.
+2.6. Formación didáctica para la actividad docente (participación en
+Congresos, talleres, etc.)
+Certificado emitido por el organismo co rrespondiente en el que haga constar el
+número de horas, o en su caso, créditos de docencia recibida.
+2.7. Otros méritos docentes relevantes.
+Según las pautas generales establec idas en los apartados anteriores.
+3. EXPERIENCIA INVESTIGADORA.
+3.1. Libros.
+Copia de la portada, página de identificación del ISBN, editorial, año de
+publicación, autores/as e índice del libro.
+3.2. Capítulos de libros con ISBN.
+Copia de la portada, página de identificación del ISBN, editorial, año de
+publicación, índice y primera y última página del capítulo del libro.
+3.3. Artículos publicados en revistas citadas en el ISI, Journal  Citation
+Reports.
+(El artículo debe estar publicado en una revista con índice de impacto en el mismo
+año de publicación)
+Copia de la primera página y última página  del artículo y hoja en la que conste el
+nombre de la revista, año de publicación, autores/as y nº de páginas.
+En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la
+revista o figura equivalente, en la que cons te el estado de la publicación (No se
+aceptarán correos electrónicos).
+3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de
+áreas
+Según las pautas generales establ ecidas en el apartado anterior.
+3.5. Publicaciones en Actas de Congresos.
 2
-Según las pautas generales establec idas en los apartados anteriores. 
-2. EXPERIENCIA DOCENTE Y FORMACIÓN PARA LA DOCENCIA. 
-2.1. Docencia universitaria en nivel de grado, en materias regladas. 
-Certificado de docencia impartida emitida por el órgano correspondiente, que 
-tenga esa función. 
-En el caso de los becarios de investigación, no podrá computarse más número de 
-horas de docencia por curso que las que se prevean en la correspondiente 
-convocatoria de la beca. 
-2.2. Docencia universitaria de posgrado. 
-Certificado de docencia impartida emitida por el órgano correspondiente, que 
-tenga esa función. 
-2.3. Otra docencia universitaria. 
-(Docencia universitaria que no se ajuste a lo establecido en apartados anteriores) 
-Certificación emitida por el órgano correspondiente de la Universidad u organismo 
-de reconocido prestigio, que tenga esa función, con indicación del número de 
-horas o, en su caso, créditos  de docencia recibidos. 
-2.4. Material docente universitario (lib ros de texto, recopilaciones, casos 
-prácticos, etc.) 
-Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de 
-publicación y autores/as. 
-2.5. Docencia oficial de ámbito no universitario. 
-Hoja de Servicios, con indicación del pues to, categoría, especialidad y fechas del 
-desempeño. 
-2.6. Formación didáctica para la actividad docente (participación en 
-Congresos, talleres, etc.) 
-Certificado emitido por el organismo co rrespondiente en el que haga constar el 
-número de horas, o en su caso, créditos de docencia recibida. 
-2.7. Otros méritos docentes relevantes. 
-Según las pautas generales establec idas en los apartados anteriores. 
-3. EXPERIENCIA INVESTIGADORA. 
-3.1. Libros. 
-Copia de la portada, página de identificación del ISBN, editorial, año de 
-publicación, autores/as e índice del libro. 
-3.2. Capítulos de libros con ISBN. 
-Copia de la portada, página de identificación del ISBN, editorial, año de 
-publicación, índice y primera y última página del capítulo del libro. 
-3.3. Artículos publicados en revistas citadas en el ISI, Journal  Citation 
-Reports. 
-(El artículo debe estar publicado en una revista con índice de impacto en el mismo 
-año de publicación) 
-Copia de la primera página y última página  del artículo y hoja en la que conste el 
-nombre de la revista, año de publicación, autores/as y nº de páginas. 
-En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la 
-revista o figura equivalente, en la que cons te el estado de la publicación (No se 
-aceptarán correos electrónicos).  
-3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de 
-áreas 
-Según las pautas generales establ ecidas en el apartado anterior. 
-3.5. Publicaciones en Actas de Congresos. 
+Según las pautas generales establec idas en los apartados anteriores.
+2. EXPERIENCIA DOCENTE Y FORMACIÓN PARA LA DOCENCIA.
+2.1. Docencia universitaria en nivel de grado, en materias regladas.
+Certificado de docencia impartida emitida por el órgano correspondiente, que
+tenga esa función.
+En el caso de los becarios de investigación, no podrá computarse más número de
+horas de docencia por curso que las que se prevean en la correspondiente
+convocatoria de la beca.
+2.2. Docencia universitaria de posgrado.
+Certificado de docencia impartida emitida por el órgano correspondiente, que
+tenga esa función.
+2.3. Otra docencia universitaria.
+(Docencia universitaria que no se ajuste a lo establecido en apartados anteriores)
+Certificación emitida por el órgano correspondiente de la Universidad u organismo
+de reconocido prestigio, que tenga esa función, con indicación del número de
+horas o, en su caso, créditos  de docencia recibidos.
+2.4. Material docente universitario (lib ros de texto, recopilaciones, casos
+prácticos, etc.)
+Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de
+publicación y autores/as.
+2.5. Docencia oficial de ámbito no universitario.
+Hoja de Servicios, con indicación del pues to, categoría, especialidad y fechas del
+desempeño.
+2.6. Formación didáctica para la actividad docente (participación en
+Congresos, talleres, etc.)
+Certificado emitido por el organismo co rrespondiente en el que haga constar el
+número de horas, o en su caso, créditos de docencia recibida.
+2.7. Otros méritos docentes relevantes.
+Según las pautas generales establec idas en los apartados anteriores.
+3. EXPERIENCIA INVESTIGADORA.
+3.1. Libros.
+Copia de la portada, página de identificación del ISBN, editorial, año de
+publicación, autores/as e índice del libro.
+3.2. Capítulos de libros con ISBN.
+Copia de la portada, página de identificación del ISBN, editorial, año de
+publicación, índice y primera y última página del capítulo del libro.
+3.3. Artículos publicados en revistas citadas en el ISI, Journal  Citation
+Reports.
+(El artículo debe estar publicado en una revista con índice de impacto en el mismo
+año de publicación)
+Copia de la primera página y última página  del artículo y hoja en la que conste el
+nombre de la revista, año de publicación, autores/as y nº de páginas.
+En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la
+revista o figura equivalente, en la que cons te el estado de la publicación (No se
+aceptarán correos electrónicos).
+3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de
+áreas
+Según las pautas generales establ ecidas en el apartado anterior.
+3.5. Publicaciones en Actas de Congresos.
 1
-de reconocido prestigio, que tenga esa función, con indicación del número de 
-horas o, en su caso, créditos  de docencia recibidos. 
-1.11. Estancias formativas en otros centros. 
-Certificación emitida por el órgano corr espondiente, que tenga esa función, del 
-Centro donde se ha realizado la estancia, en la que se especifique el destino y la 
-duración de la misma. 
-1.12. Becas de pregrado competitivas. 
-(Becas de ERASMUS, Movilidad, de  Colaboración con Departamentos y 
-equivalentes). 
-Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad 
-oficial que ha dotado la beca, con indicación de los años de disfrute de la misma. 
-1.13. Otros méritos relacionados con la formación académica. 
+de reconocido prestigio, que tenga esa función, con indicación del número de
+horas o, en su caso, créditos  de docencia recibidos.
+1.11. Estancias formativas en otros centros.
+Certificación emitida por el órgano corr espondiente, que tenga esa función, del
+Centro donde se ha realizado la estancia, en la que se especifique el destino y la
+duración de la misma.
+1.12. Becas de pregrado competitivas.
+(Becas de ERASMUS, Movilidad, de  Colaboración con Departamentos y
+equivalentes).
+Certificado de la concesión del Vicerre ctorado correspondiente o de la entidad
+oficial que ha dotado la beca, con indicación de los años de disfrute de la misma.
+1.13. Otros méritos relacionados con la formación académica.
 
 3
-En caso de publicaciones en libros de actas: 
-Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de 
-publicación y autores/as, primera y úl tima página de la contribución. 
-En caso de publicaciones en revistas: 
-Copia de primera y última página del artí culo y hoja en la que conste el nombre de 
-la revista, año de publicación, autores /as y página. 
-3.6. Prólogos e introducciones. 
-Copia de portada, índice en el que cons te el prólogo con identificación de los 
-autores/as, página en el que conste IBNS o D.L., editorial, año de publicación y 
-primera y última página del prólogo. 
-3.7. Anotaciones a textos de valor reconocido. 
-Según las pautas generales establec idas en los apartados anteriores. 
-3.8. Patentes y modelos de utilidad. 
-Título o certificado de invención o méto do de utilidad, emitido por el órgano 
-correspondiente que tenga esa función. 
-3.9. Proyectos y contratos de investigación. 
-Certificado del Vicerrectorado competent e en materia de investigación o de la 
-institución oficial de participar como miembro del proyecto de investigación en el 
-que conste el tipo de  participación,  entidad financiadora y la duración del 
-proyecto. 
-3.10. Estancias de investigación. 
-Concesión de la ayuda de la estancia de  la entidad financiadora, en la que se 
-especifique el destino y la duración. 
-Copia de la carta del centro receptor, en la  que se constate la estancia, el periodo 
-temporal y el tema abordado. 
-3.11. Ponencias y comunicaciones en Congresos y conferencias no 
-publicadas. 
-Certificado del organismo correspondiente qu e acredite el tipo de participación y 
-copia del resumen presentado. 
-3.12. Dirección de tesis doctorales. 
-Certificado de la Universidad en el que se incluya: nombre del doctor, título de la 
-tesis, director/es, calificac ión obtenida, mención de doct orado europeo, en su caso, 
-y mención de calidad del prog rama en el que se ha inscrito la tesis, en su caso. 
-3.13. Dirección de tesinas de Licenciatura y Proyectos Fin de Carrera. 
-Certificado de la Universidad en la que co nste la dirección, título y auto/a del 
-trabajo, año y calificación. 
-3.14. Becas o contratos de in vestigación predoctorales. 
-Certificación de la conces ión del órgano correspondiente de la Universidad, que 
-tenga esa función, o de la entidad oficial que ha dotado la beca, con indicación de 
-los años de disfrute de la misma. 
-3.15. Becas postdoctorales, contratos de reincorporación y similares 
-Según las pautas generales establ ecidas en el apartado anterior. 
-3.16. Estrenos, exposiciones, composiciones. 
-Copia u original del folleto de la exposición. 
-Copia del catálogo publicado (carátula, índice, primera y última páginas). 
-Copias justificativas de premios recibidos, publicaciones y otros méritos que considere relevantes. 
-3.17. Premios de investigación. 
-Certificado del organism o correspondiente de la concesión del premio. 
-3.18. Evaluación de Proyectos I + D. 
-Certificado de la agencia de evaluación con indicación de la duración de la 
-colaboración o número de proyectos evaluados. 
-3.19. Pertenencia a Consejos de Redacción de revistas 
+En caso de publicaciones en libros de actas:
+Copia de portada, índice, página en el que conste el ISBN o D.L., editorial, año de
+publicación y autores/as, primera y úl tima página de la contribución.
+En caso de publicaciones en revistas:
+Copia de primera y última página del artí culo y hoja en la que conste el nombre de
+la revista, año de publicación, autores /as y página.
+3.6. Prólogos e introducciones.
+Copia de portada, índice en el que cons te el prólogo con identificación de los
+autores/as, página en el que conste IBNS o D.L., editorial, año de publicación y
+primera y última página del prólogo.
+3.7. Anotaciones a textos de valor reconocido.
+Según las pautas generales establec idas en los apartados anteriores.
+3.8. Patentes y modelos de utilidad.
+Título o certificado de invención o méto do de utilidad, emitido por el órgano
+correspondiente que tenga esa función.
+3.9. Proyectos y contratos de investigación.
+Certificado del Vicerrectorado competent e en materia de investigación o de la
+institución oficial de participar como miembro del proyecto de investigación en el
+que conste el tipo de  participación,  entidad financiadora y la duración del
+proyecto.
+3.10. Estancias de investigación.
+Concesión de la ayuda de la estancia de  la entidad financiadora, en la que se
+especifique el destino y la duración.
+Copia de la carta del centro receptor, en la  que se constate la estancia, el periodo
+temporal y el tema abordado.
+3.11. Ponencias y comunicaciones en Congresos y conferencias no
+publicadas.
+Certificado del organismo correspondiente qu e acredite el tipo de participación y
+copia del resumen presentado.
+3.12. Dirección de tesis doctorales.
+Certificado de la Universidad en el que se incluya: nombre del doctor, título de la
+tesis, director/es, calificac ión obtenida, mención de doct orado europeo, en su caso,
+y mención de calidad del prog rama en el que se ha inscrito la tesis, en su caso.
+3.13. Dirección de tesinas de Licenciatura y Proyectos Fin de Carrera.
+Certificado de la Universidad en la que co nste la dirección, título y auto/a del
+trabajo, año y calificación.
+3.14. Becas o contratos de in vestigación predoctorales.
+Certificación de la conces ión del órgano correspondiente de la Universidad, que
+tenga esa función, o de la entidad oficial que ha dotado la beca, con indicación de
+los años de disfrute de la misma.
+3.15. Becas postdoctorales, contratos de reincorporación y similares
+Según las pautas generales establ ecidas en el apartado anterior.
+3.16. Estrenos, exposiciones, composiciones.
+Copia u original del folleto de la exposición.
+Copia del catálogo publicado (carátula, índice, primera y última páginas).
+Copias justificativas de premios recibidos, publicaciones y otros méritos que considere relevantes.
+3.17. Premios de investigación.
+Certificado del organism o correspondiente de la concesión del premio.
+3.18. Evaluación de Proyectos I + D.
+Certificado de la agencia de evaluación con indicación de la duración de la
+colaboración o número de proyectos evaluados.
+3.19. Pertenencia a Consejos de Redacción de revistas
 2
-Reports. 
-(El artículo debe estar publicado en una revista con índice de impacto en el mismo 
-año de publicación) 
-Copia de la primera página y última página  del artículo y hoja en la que conste el 
-nombre de la revista, año de publicación, autores/as y nº de páginas. 
-En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la 
-revista o figura equivalente, en la que cons te el estado de la publicación (No se 
-aceptarán correos electrónicos).  
-3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de 
-áreas 
-Según las pautas generales establ ecidas en el apartado anterior. 
-3.5. Publicaciones en Actas de Congresos. 
+Reports.
+(El artículo debe estar publicado en una revista con índice de impacto en el mismo
+año de publicación)
+Copia de la primera página y última página  del artículo y hoja en la que conste el
+nombre de la revista, año de publicación, autores/as y nº de páginas.
+En el caso de artículos aceptados, se adju ntará una carta firmada por el editor de la
+revista o figura equivalente, en la que cons te el estado de la publicación (No se
+aceptarán correos electrónicos).
+3.4. Artículos en revistas de reconocida relevancia para un área o conjunto de
+áreas
+Según las pautas generales establ ecidas en el apartado anterior.
+3.5. Publicaciones en Actas de Congresos.
 
 4
-Certificación del editor de la revista, o figura equivalente, en la que conste la 
-pertenencia y el período de tiempo de desempeño. 
-3.20. Otros méritos de investigación relevantes 
-Según las pautas generales establec idas en los apartados anteriores. 
-4. EXPERIENCIA Y OTROS MÉRITOS PROFESIONALES 
-4.1. Experiencia profesional con inte rés para la docencia e investigación . 
-Contratos de trabajo o certificado de la empresa, en que conste régimen de 
-dedicación, categoría, puestos desempeñad os y duración. Caso de trabajadores 
-autónomos, copia de la declaración censal, acompañados de documentos 
-acreditativos de realización de esa actividad. 
-4.2. Contratos de aplicación o consultoría . 
-Contrato/s y certificado/s del órgano comp etente de la realización y duración de 
-los trabajos. 
-4.3. Contratos de investigación. 
-Según las pautas generales establ ecidas en el apartado anterior. 
-4.4. Posesión del título de especialista en Ciencias de la Salud. 
-Título de Especialista (caso de no haberlo recepcionado todavía, certificado de 
-haberlo solicitado). 
-4.5. Otros méritos relevantes 
-Según las pautas generales establec idas en los apartados anteriores. 
-5. Otros méritos. 
-5.1. Asistencia a Congresos. 
-Certificado del Comité Organizador o Científico del Congreso. 
-5.2. Gestión universitaria. 
-Certificado del Secretario/a General de la Universidad en el que conste el tipo de 
-cargo de gestión universitario y la duración del mismo. 
-5.3. Organización de eventos científicos. 
-Certificado de la organi zación emitido por el órgano correspondiente que tenga 
-esa función (Universidad o entidad de reconocido prestigio). 
-5.4. Otros méritos relevantes. 
-Según las pautas generales establec idas en los apartados anteriores. 
+Certificación del editor de la revista, o figura equivalente, en la que conste la
+pertenencia y el período de tiempo de desempeño.
+3.20. Otros méritos de investigación relevantes
+Según las pautas generales establec idas en los apartados anteriores.
+4. EXPERIENCIA Y OTROS MÉRITOS PROFESIONALES
+4.1. Experiencia profesional con inte rés para la docencia e investigación .
+Contratos de trabajo o certificado de la empresa, en que conste régimen de
+dedicación, categoría, puestos desempeñad os y duración. Caso de trabajadores
+autónomos, copia de la declaración censal, acompañados de documentos
+acreditativos de realización de esa actividad.
+4.2. Contratos de aplicación o consultoría .
+Contrato/s y certificado/s del órgano comp etente de la realización y duración de
+los trabajos.
+4.3. Contratos de investigación.
+Según las pautas generales establ ecidas en el apartado anterior.
+4.4. Posesión del título de especialista en Ciencias de la Salud.
+Título de Especialista (caso de no haberlo recepcionado todavía, certificado de
+haberlo solicitado).
+4.5. Otros méritos relevantes
+Según las pautas generales establec idas en los apartados anteriores.
+5. Otros méritos.
+5.1. Asistencia a Congresos.
+Certificado del Comité Organizador o Científico del Congreso.
+5.2. Gestión universitaria.
+Certificado del Secretario/a General de la Universidad en el que conste el tipo de
+cargo de gestión universitario y la duración del mismo.
+5.3. Organización de eventos científicos.
+Certificado de la organi zación emitido por el órgano correspondiente que tenga
+esa función (Universidad o entidad de reconocido prestigio).
+5.4. Otros méritos relevantes.
+Según las pautas generales establec idas en los apartados anteriores.
 3
-Según las pautas generales establ ecidas en el apartado anterior. 
-3.16. Estrenos, exposiciones, composiciones. 
-Copia u original del folleto de la exposición. 
-Copia del catálogo publicado (carátula, índice, primera y última páginas). 
-Copias justificativas de premios recibidos, publicaciones y otros méritos que considere relevantes. 
-3.17. Premios de investigación. 
-Certificado del organism o correspondiente de la concesión del premio. 
-3.18. Evaluación de Proyectos I + D. 
-Certificado de la agencia de evaluación con indicación de la duración de la 
-colaboración o número de proyectos evaluados. 
+Según las pautas generales establ ecidas en el apartado anterior.
+3.16. Estrenos, exposiciones, composiciones.
+Copia u original del folleto de la exposición.
+Copia del catálogo publicado (carátula, índice, primera y última páginas).
+Copias justificativas de premios recibidos, publicaciones y otros méritos que considere relevantes.
+3.17. Premios de investigación.
+Certificado del organism o correspondiente de la concesión del premio.
+3.18. Evaluación de Proyectos I + D.
+Certificado de la agencia de evaluación con indicación de la duración de la
+colaboración o número de proyectos evaluados.
 3.19. Pertenencia a Consejos de Redacción de revistas
 
 ---
@@ -785,4 +785,3 @@ colaboración o número de proyectos evaluados.
 - [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
 - [**L53_1984 Incompatibilidades del Personal Publico**](../../../estatal/01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md)
 - [**BOE-A-1999-23750**](../../../estatal/02_gestion_y_administracion_centros/LO15_1999_proteccion_datos_caracter_personal.md)
-

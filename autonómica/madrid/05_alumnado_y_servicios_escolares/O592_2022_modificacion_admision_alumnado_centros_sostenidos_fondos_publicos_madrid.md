@@ -35,22 +35,6 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/03/24/BOCM-20220324-1.PDF
 ---
 
-**Orden 592/2022, de 16 de marzo, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se modifica la [Orden 1240/2013](./O1240_2013_procedimiento_admision_alumnado_centros_sostenidos_fondos_publicos_madrid.md) en relación con los criterios de baremación en la admisión de alumnos**
-
-JUEVES 24 DE MARZO DE 2022
-Pág. 10
-B.O.C.M. Núm. 71
-BOCM-20220324-1
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Educación, Universidades,
-Ciencia y Portavocía
-1
 DECRETO 12/2022, de 23 de marzo, del Consejo de Gobierno, por el que se
 nombra Rector de la Universidad de Alcalá a don José Vicente Saz Pérez.
 Celebradas elecciones a Rector en la Universidad de Alcalá, ubicada en Alcalá de He-

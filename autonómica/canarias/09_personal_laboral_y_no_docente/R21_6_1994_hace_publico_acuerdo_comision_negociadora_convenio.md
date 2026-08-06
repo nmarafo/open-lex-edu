@@ -33,6 +33,7 @@ fundamentos_derecho:
   articulos:
   - '1'
 ---
+
 ## Preámbulo
 
 # Resolución de 21 de junio de 1994, de la Dirección General de Trabajo, por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 83, de 8 de julio).
@@ -41,14 +42,9 @@ BOC - 1994/083. Viernes 8 de Julio de 1994 - 1066
 Gobierno de Canarias
 Comunidad Autónoma de Canarias
 Boletín Oficial de Canarias
-Accesibilidad
-Mapa web
-Contacto
-Inicio
 Archivo
 Búsqueda
 Estás en:
-Inicio
 Archivo
 Año 1994
 1994/083. Viernes 8 de Julio de 1994
@@ -156,4 +152,3 @@ Retribuye
 
 ### Fundamentos de Derecho
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-
