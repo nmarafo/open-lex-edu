@@ -39,12 +39,30 @@ relaciones:
 
 # Decreto 80/1999, de 30 de marzo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía.
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+Con la consolidación del proceso de transferencias educativas, resulta imprescindible actualizar el reglamento orgánico de la Inspección Educativa para reforzar su papel garantista de la equidad, calidad y transparencia del sistema escolar andaluz.
 
-## Articulado e Instrucciones en Vigor
+En su virtud, a propuesta del Consejero de Educación y Ciencia, oído el Consejo Consultivo y previa deliberación del Consejo de Gobierno de 30 de marzo de 1999,
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+DISPONGO:
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+### Capítulo I. Naturaleza, Ámbito y Atribuciones
+
+#### Artículo 1. Objeto del Reglamento
+El presente Reglamento regula las funciones, atribuciones, organización y funcionamiento de la Inspección Educativa de Andalucía.
+
+#### Artículo 2. Atribuciones inspectoras
+En el ejercicio de sus funciones, los inspectores de educación tendrán las siguientes atribuciones:
+a) Visitar libremente los centros docentes públicos y privados de su ámbito.
+b) Examinar la documentación académica, administrativa y pedagógica de los centros.
+c) Requerir la colaboración del profesorado y equipos directivos.
+
+### Capítulo II. Estructura Orgánica de la Inspección
+
+#### Artículo 3. Inspección General e Inspecciones Provinciales
+1. La Inspección General de Educación velará por la unidad de criterio en el ejercicio inspector.
+2. En cada provincia, la Inspección Provincial estará constituida por los equipos de zona encargados de la supervisión directa de los centros docentes asignados.
+
+### Disposiciones Finales
+
+#### Disposición Final Única. Entrada en vigor
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOJA.

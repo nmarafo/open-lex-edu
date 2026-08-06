@@ -39,12 +39,24 @@ relaciones:
 
 # Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+La necesidad de estructurar el Sistema de Cualificaciones y Formación Profesional en Andalucía exige la creación de un órgano técnico especializado encargado de la elaboración del Catálogo de Cualificaciones Profesionales.
 
-## Articulado e Instrucciones en Vigor
+En su virtud, a propuesta de los Consejeros de Trabajo e Industria y de Educación y Ciencia, el Consejo de Gobierno, en su reunión del día 10 de diciembre de 1996,
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+DISPONGO:
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+### Capítulo I. Creación y Fines del IACP
+
+#### Artículo 1. Creación y adscripción
+Se crea el Instituto Andaluz de Cualificaciones Profesionales (IACP) como órgano técnico adscrito a la Consejería competente en materia de Formación Profesional.
+
+#### Artículo 2. Funciones principales
+Corresponde al Instituto Andaluz de Cualificaciones Profesionales:
+a) Definir e investigar las cualificaciones profesionales requeridas en el mercado laboral andaluz.
+b) Diseñar la oferta del Catálogo de Títulos de Formación Profesional y Certificados de Profesionalidad.
+c) Coordinar el procedimiento de evaluación, reconocimiento y acreditación de las competencias profesionales adquiridas por experiencia laboral.
+
+### Disposiciones Finales
+
+#### Disposición Final Única. Entrada en vigor
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
