@@ -34,16 +34,173 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Orden 1605/2024, de 22 de abril, por la que se regula la organización y funcionamiento de los EOEP en Madrid.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+        
+        
 
-Establece las funciones de los EOEP Generales, Específicos y de Atención Temprana en el asesoramiento psicopedagógico, dictamen de escolarización y apoyo a los centros docentes.
+        
 
-## Articulado e Instrucciones en Vigor
+    
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+        
+            
+                
+                
+            
+        
 
-### Capítulo II. Supervisión y Control
-La Dirección de Área Territorial y la Inspección de Educación supervisarán la aplicación efectiva de esta disposición.
+    
+    
+        
+        
+
+            
+                        
+            
+
+        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+
+        
+
+        
+                    
+
+## Legislación de la Comunidad de Madrid
+
+        
+
+        
+        
+
+    
+    
+
+    
+        
+            
+                 
+            
+            
+            
+                 
+                    
+                
+            
+        
+
+    
+        
+        
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+
+        
+            
+                
+                
+            
+        
+        
+
+    
+
+        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+        
+
+        
+        
+
+        
+        
+
+    
+            
+        
+            
+                
+    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+                
+    
+                
+                    
+        
+            
+			
+            
+            Búsqueda   
+            
+                Acuerdo de 24 de febrero de 2025
+                
+       
+                    
+                    
+                        Navegar entre documentos consultados
+
+         
+Enviar EMAIL:                                         Acuerdo de 24 de febrero de 2025DestinatarioEnviar
+                        
+                        
+                        
+
+                        
+
+                        
+						
+						
+        
+        
+						Se ha copiado en el portapapeles el enlace a la norma:                                    Acuerdo de 24 de febrero de 2025Seleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Acuerdo de 24 de febrero de 2025https://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=14010Se ha copiado en el portapapeles la URI-ELI de la norma: Acuerdo de 24 de febrero de 2025Seleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Acuerdo de 24 de febrero de 2025Guardar:                          Acuerdo de 24 de febrero de 2025
+
+            
+          
+                 
+				
+                 
+                
+                               
+                               HTML
+                
+          
+         
+ 
+         
+            
+                   
+                    Obtener enlace
+							Enviar
+							Guardar                
+                        
+							Imprimir
+                        
+                        Nueva Búsqueda
+                                                    
+							Documentos
+                       
+                    
+                    
+                    
+                    
+                    [ Disposición derogada ]
+
+Consejería de Presidencia, Justicia y Administración Local
+Comunidad de Madrid

@@ -35,16 +35,173 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Orden 190/2023, de 25 de enero, sobre organización y funcionamiento de los IES en Madrid.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+        
+        
 
-Fija las normas para la elaboración de la Programación General Anual, asignación de turnos y materias, funcionamiento de departamentos y guardias del profesorado en IES.
+        
 
-## Articulado e Instrucciones en Vigor
+    
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+        
+            
+                
+                
+            
+        
 
-### Capítulo II. Supervisión y Control
-La Dirección de Área Territorial y la Inspección de Educación supervisarán la aplicación efectiva de esta disposición.
+    
+    
+        
+        
+
+            
+                        
+            
+
+        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+
+        
+
+        
+                    
+
+## Legislación de la Comunidad de Madrid
+
+        
+
+        
+        
+
+    
+    
+
+    
+        
+            
+                 
+            
+            
+            
+                 
+                    
+                
+            
+        
+
+    
+        
+        
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+
+        
+            
+                
+                
+            
+        
+        
+
+    
+
+        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+        
+
+        
+        
+
+        
+        
+
+    
+            
+        
+            
+                
+    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+                
+    
+                
+                    
+        
+            
+			
+            
+            Búsqueda   
+            
+                Orden 103/2023, de 30 de enero
+                
+       
+                    
+                    
+                        Navegar entre documentos consultados
+
+         
+Enviar EMAIL:                                         Orden 103/2023, de 30 de eneroDestinatarioEnviar
+                        
+                        
+                        
+
+                        
+
+                        
+						
+						
+        
+        
+						Se ha copiado en el portapapeles el enlace a la norma:                                    Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Orden 103/2023, de 30 de enerohttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=13110Se ha copiado en el portapapeles la URI-ELI de la norma: Orden 103/2023, de 30 de eneroSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Orden 103/2023, de 30 de eneroGuardar:                          Orden 103/2023, de 30 de enero
+
+            
+          
+                 
+				
+                 
+                
+                               
+                               HTML
+                
+          
+         
+ 
+         
+            
+                   
+                    Obtener enlace
+							Enviar
+							Guardar                
+                        
+							Imprimir
+                        
+                        Nueva Búsqueda
+                                                    
+							Documentos
+                       
+                    
+                    
+                    
+                    
+                    [ Disposición derogada ]
+
+Consejería de Presidencia, Justicia y Administración Local
+Comunidad de Madrid

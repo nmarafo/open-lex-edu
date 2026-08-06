@@ -36,16 +36,173 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Decreto 11/2019, de 5 de marzo, de régimen del profesorado interino en Madrid.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+        
+        
 
-Establece los criterios de selección, valoración de méritos, causas de exclusión y adjudicación de vacantes para el personal docente interino de Madrid.
+        
 
-## Articulado e Instrucciones en Vigor
+    
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación obligatoria en los centros docentes de la Comunidad de Madrid.
+        
+            
+                
+                
+            
+        
 
-### Capítulo II. Aplicación Institucional
-La Dirección de Área Territorial y la Inspección de Educación velarán por la aplicación efectiva de esta disposición.
+    
+    
+        
+        
+
+            
+                        
+            
+
+        InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+
+        
+
+        
+                    
+
+## Legislación de la Comunidad de Madrid
+
+        
+
+        
+        
+
+    
+    
+
+    
+        
+            
+                 
+            
+            
+            
+                 
+                    
+                
+            
+        
+
+    
+        
+        
+                
+                    
+                        
+                    
+                
+                
+                    
+                        
+                    
+                
+
+        
+            
+                
+                
+            
+        
+        
+
+    
+
+        Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+        
+
+        
+        
+
+        
+        
+
+    
+            
+        
+            
+                
+    InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+                
+    
+                
+                    
+        
+            
+			
+            
+            Búsqueda   
+            
+                Orden de 8 de abril
+                
+       
+                    
+                    
+                        Navegar entre documentos consultados
+
+         
+Enviar EMAIL:                                         Orden de 8 de abrilDestinatarioEnviar
+                        
+                        
+                        
+
+                        
+
+                        
+						
+						
+        
+        
+						Se ha copiado en el portapapeles el enlace a la norma:                                    Orden de 8 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma:                                Orden de 8 de abrilhttps://gestiona.comunidad.madrid/wleg_pub/servlet/Servidor?opcion=VerHtml&nmnorma=10730Se ha copiado en el portapapeles la URI-ELI de la norma: Orden de 8 de abrilSeleccione la URL indicada y use la combinación Ctrl+C para copiar el enlace a la norma: Orden de 8 de abrilGuardar:                          Orden de 8 de abril
+
+            
+          
+                 
+				
+                 
+                
+                               
+                               HTML
+                
+          
+         
+ 
+         
+            
+                   
+                    Obtener enlace
+							Enviar
+							Guardar                
+                        
+							Imprimir
+                        
+                        Nueva Búsqueda
+                                                    
+							Documentos
+                       
+                    
+                    
+                    
+                    
+                    [ Disposición derogada ]
+
+Consejería de Presidencia, Justicia y Administración Local
+Comunidad de Madrid
