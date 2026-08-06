@@ -75,6 +75,10 @@ relaciones:
   - norma_id: norm-and-o-25-7-2008
   - norma_id: norm-mad-r-acoso-2022
   - norma_id: norm-and-d-167-2003
+  - norma_id: norm-and-o-3-1-2000
+  - norma_id: norm-and-r-28-8-2002
+  - norma_id: norm-and-o-31-5-1994
+  - norma_id: norm-mad-o-3210-2021
   desarrollado_por:
   - norma_id: norm-can-l-1-1997
 fundamentos_derecho:

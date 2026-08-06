@@ -146,6 +146,10 @@ relaciones:
   - norma_id: norm-and-d-80-1999
   - norma_id: norm-and-o-26-5-2011-eoi
   - norma_id: norm-and-o-26-5-2011
+  - norma_id: norm-mad-r-inicio-2025
+  - norma_id: norm-and-r-27-6-2023
+  - norma_id: norm-and-d-512-1996
+  - norma_id: norm-and-d-276-1998
 fundamentos_derecho:
 - norma_id: norm-es-ce-1978
   articulos:

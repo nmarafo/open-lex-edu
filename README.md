@@ -25,10 +25,10 @@ Base de conocimiento estructurada basada en la especificación **Open Knowledge 
 
 | Ámbito / Comunidad Autónoma | Repositorio Base de Datos | Fecha de Última Actualización | Normas Totales OKF | Cobertura de Curso Escolar |
 | :--- | :--- | :---: | :---: | :---: |
-| **Estatal** | BOE (Legislación Consolidada) | **2026-08-05** | 144 normas | LOE-LOMLOE, FP y Reales Decretos 2025-2026 |
-| **Canarias** | [canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database) | **2026-08-05** | 183 normas | Completa (Vigente Curso 2025-2026) |
-| **Madrid** | [madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database) | **2026-08-05** | 93 normas | Completa (Vigente Curso 2025-2026) |
-| **Andalucía** | [andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | **2026-08-05** | 101 normas | Completa (Vigente Curso 2025-2026) |
+| **Estatal** | BOE (Legislación Consolidada) | **2026-08-06** | 144 normas | LOE-LOMLOE, FP y Reales Decretos 2025-2026 |
+| **Canarias** | [canaria-database](https://github.com/nmarafo/normativa-educativa-canaria-database) | **2026-08-06** | 183 normas | Completa (Vigente Curso 2025-2026) |
+| **Madrid** | [madrid-database](https://github.com/nmarafo/normativa-educativa-madrid-database) | **2026-08-06** | 100 normas | Completa (Vigente Curso 2025-2026) |
+| **Andalucía** | [andalucia-database](https://github.com/nmarafo/normativa-educativa-andalucia-database) | **2026-08-06** | 115 normas | Completa (Vigente Curso 2025-2026) |
 
 ---
 

@@ -138,6 +138,8 @@ relaciones:
   - norma_id: norm-mad-l-2-2010
   - norma_id: norm-and-d-80-1999
   - norma_id: norm-mad-l-4-2023
+  - norma_id: norm-and-d-276-1998
+  - norma_id: norm-and-d-512-1996
 fundamentos_derecho:
 - norma_id: norm-es-lo-2-2006
   articulos:
