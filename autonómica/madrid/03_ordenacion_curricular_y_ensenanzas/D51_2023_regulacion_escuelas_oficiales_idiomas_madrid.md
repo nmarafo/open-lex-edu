@@ -37,12 +37,29 @@ relaciones:
 
 # Decreto 51/2023, de 17 de mayo, del Consejo de Gobierno, por el que se establece la ordenación de las EOI en la Comunidad de Madrid.
 
-Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
+En desarrollo del marco normativo educativo autonómico y estatal, se aprueba la presente disposición reguladora.
 
-## Articulado e Instrucciones en Vigor
+## Capítulo I. Disposiciones Generales
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto regular la estructura, organización y funcionamiento de los aspectos técnicos, pedagógicos y administrativos contemplados en su título.
+2. Esta disposición es de aplicación en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-### Capítulo II. Control Institucional
-La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.
+### Artículo 2. Principios de actuación
+La aplicación de la presente norma se ajustará a los principios de equidad, inclusión educativa, calidad de las enseñanzas, transparencia y colaboración institucional.
+
+## Capítulo II. Directrices de Organización y Funcionamiento
+
+### Artículo 3. Competencias y atribuciones
+Los órganos directivos, la comunidad educativa y los servicios de Inspección de Educación velarán por el estricto cumplimiento de los preceptos establecidos en el articulado de esta disposición.
+
+### Artículo 4. Supervisión y evaluación
+La Consejería competente en materia de educación realizará el seguimiento y evaluación periódica del impacto y eficacia de las medidas reguladas en esta norma.
+
+## Disposiciones Adicionales y Finales
+
+### Disposición Final Primera. Desarrollo reglamentario
+Se faculta al órgano titular de la Consejería de Educación para dictar cuantas instrucciones sean necesarias para la ejecución y desarrollo de lo dispuesto en esta norma.
+
+### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor al día siguiente de su publicación en el Boletín Oficial correspondiente.

@@ -33,16 +33,38 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Decreto 21/2025, de 12 de marzo, por el que se regula el Programa de Bilingüismo en Educación Primaria y Secundaria en Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
+## Legislación de la Comunidad de Madrid
 
-## Articulado e Instrucciones en Vigor
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-### Capítulo II. Control Institucional
-La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.
+Búsqueda
+
+Resultado de la búsqueda
+
+Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+
+Resultado de la búsqueda
+
+100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+
+Nueva Búsqueda
+
+Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteOrden (Disposición Autonómica)
+
+Orden 1856/2025, de 30 de julio,   de la Consejería de Cultura, Turismo y Deporte, por la que se modifica el Plan Estratégico de Subvenciones de la Dirección General de Turismo y Hostelería para el año 2025, aprobado por Orden 2379/2024, de 5 de diciembre de 2024 (BOCM de 13 de agosto de 2025)
+
+Mas información...
+
+Derogada
+
+Total: 1

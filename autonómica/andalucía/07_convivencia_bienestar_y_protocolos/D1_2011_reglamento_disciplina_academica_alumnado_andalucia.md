@@ -34,16 +34,780 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-## Preámbulo
+<!DOCTYPE html
+>
 
-# Decreto 1/2011, de 11 de enero, por el que se establece el procedimiento corrector en materia de disciplina académica.
+Resolución de 5 de enero de 2011, de la Dirección General de Tesorería y Deuda Pública, por la que se hace público el calendario de subastas ordinarias del Programa de Emisión de Pagarés de la Junta de Andalucía para el año 2011 y se convocan las correspondientes subastas a realizar dentro del mismo.
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+<meta content="Página de disposición nº 1 del boletín nº 11 de 2011."
+name="Description"/>
+<meta content="2011, Junta de Andalucía, el portal de Andalucía, Administración andaluza, BOJA, B.O.J.A."
+name="Keywords"/>
 
-## Articulado e Instrucciones en Vigor
+<link href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"
+title="Boletín completo - BOJA"
+type="application/atom+xml"
+rel="alternate"/>
+<link type="application/atom+xml" rel="alternate"
+title="1. Disposiciones generales - BOJA"
+href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en todos los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+###
+Navegación secundaria - Portal JDA
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+Contacto
+
+Mapa web
+
+@GobAndalucia
+
+andaluciajunta
+
+andaluciajunta
+
+AndaluciaJunta
+
+juntainforma
+
+junta-de-andalucia
+
+Junta de Andalucía
+
+Inicio
+
+Buscar
+
+Menú
+
+###
+Junta de Andalucía
+
+Estudiar
+
+Estudiar
+
+Becas y ayudas al estudio
+
+Infantil (0-6 años)
+
+Primaria y ESO (6-16 años)
+
+Bachillerato
+
+Formación Profesional
+
+Otras enseñanzas
+
+Universidad
+
+Educación para adultos y mayores
+
+Investigación
+
+Información para centros
+
+Directo a
+
+Moodle Centros
+
+Secretaría Virtual
+
+iPasen
+
+Distrito Único Andaluz
+
+Becas y ayudas
+
+Trabajar
+
+Trabajar
+
+Buscar trabajo
+
+Autoempleo
+
+Empleo público
+
+Perder el trabajo
+
+Formación para el empleo
+
+Jubilación
+
+Inmigración y emigración
+
+Relaciones laborales
+
+Prevención de riesgos laborales
+
+Fomento de la empleabilidad
+
+Directo a
+
+Renovar demanda de empleo
+
+Ofertas de empleo
+
+Cursos de formación estatal para el empleo. SEPE
+
+Procesos selectivos convocados (IAAP)
+
+Sistema de provisión de interinidades (SIPRI)
+
+Tu salud
+
+Tu salud
+
+Servicios sanitarios
+
+Urgencias y primeros auxilios
+
+Derechos y calidad asistencial
+
+Consejos y prevención
+
+Apoyo al paciente
+
+Salud de las personas mayores
+
+Salud infantil
+
+Organización sanitaria en Andalucía
+
+Directo a
+
+Cita en centros sanitarios (ClicSalud+)
+
+Salud Responde
+
+Consulta listas de espera
+
+Solicita o renueva la tarjeta sanitaria
+
+Más temas
+
+Más temas
+
+Vivienda y consumo
+
+Familias e igualdad
+
+Atención administrativa e impuestos
+
+Tráfico y transporte
+
+Medio ambiente
+
+Asociaciones y voluntariado
+
+Cultura, ocio y deporte
+
+Justicia, seguridad y emergencias
+
+Tecnologías de la Información y Comunicación
+
+Contratación pública
+
+Empresas y profesionales
+
+Sectores de actividad
+
+Agricultura, ganadería y pesca
+
+Energía
+
+Sanitario
+
+Ver más
+
+Transparencia
+
+Transparencia
+
+Información institucional y organizativa
+
+Empleo público
+
+Altos cargos
+
+Planificación, evaluación y estadística
+
+Información jurídica
+
+Relaciones con la ciudadanía
+
+Contratos, convenios y subvenciones
+
+Información económica y presupuestaria
+
+Transparencia del Consejo de Gobierno
+
+Transparencia de consejerías y entidades instrumentales
+
+Acceso a la información pública
+
+Conoce más sobre la transparencia
+
+Directo a
+
+Organigrama general de la Junta de Andalucía
+
+Presupuestos de la Comunidad Autónoma
+
+Solicitar información pública
+
+Fondos NEXT Generation EU y MRR
+
+Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
+
+La Junta
+
+La Junta
+
+Consejo de Gobierno
+
+Presidente
+
+Vicepresidencias
+
+Parlamento y otras instituciones
+
+Transparencia
+
+Consejo de Gobierno
+Consejerías
+
+Presidencia, Sanidad y Emergencias
+Turismo, Justicia, Desregulación y Administración Local
+Economía, Hacienda y Fondos Europeos
+Agricultura, Pesca, Agua y Desarrollo Rural
+Educación
+Empleo, Empresa y Trabajo Autónomo
+Servicios Sociales, Familias e Igualdad
+Vivienda, Juventud y Ordenación del Territorio
+Universidad, Industria, Energía e Innovación
+Cultura, Patrimonio Histórico y Deporte
+Sostenibilidad y Medio Ambiente
+Fomento y Movilidad
+Inteligencia Artificial, Desarrollo Digital y Administración Pública
+
+Servicios
+
+Servicios
+
+Cómo tramitar
+
+Atención a la ciudadanía
+
+Trámites
+
+Servicios digitales
+
+Sede Electrónica General
+
+Ofertas de empleo público
+
+Licitaciones y contratos
+
+BOJA
+
+Último boletín
+
+Boletines anteriores
+
+Legislación Consolidada Andaluza
+
+Sobre BOJA
+
+Preguntas frecuentes
+
+Ver más
+
+Servicios de información
+
+Normativa
+
+Participación
+
+Estadística y cartografía
+
+Catálogo de publicaciones
+
+Datos abiertos
+
+Ver más
+
+Directo a
+
+Grado de Discapacidad. Reconocimiento, calificación y valoración
+
+Familia numerosa: expedición, renovación y modificación del título
+
+Registro de Turismo de Andalucía (RTA): inscripción
+
+Solicitud de licencia para la práctica de la pesca marítima de recreo
+
+Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
+
+Noticias
+
+Noticias
+
+Portada
+
+Últimas noticias
+
+Convocatorias a medios
+
+Gobierno al día
+
+Emergencias 112
+
+Economía y empleo
+
+Salud
+
+Educación
+
+Social
+
+Tecnología
+
+Infraestructuras
+
+Turismo
+
+Tierra y mar
+
+Cultura
+
+Sala de prensa
+
+Reportajes
+
+Fotogalería
+
+Videoteca
+
+Ver más
+
+Buscador de noticias
+
+Suscripción
+
+Buscar
+
+Buscar
+
+Buscar
+
+### recomendador solapa responsive
+
+Buscar
+
+BOJA Histórico >
+2011
+>
+Boletín 11
+>
+1. Disposiciones generales
+>
+
+##
+Boletín Oficial de la Junta de Andalucía -
+Histórico del BOJA
+Boletín número
+11
+de
+18/01/2011
+
+## 1. Disposiciones generales
+
+### Consejería de Hacienda y Administración Pública
+
+###
+Resolución de 5 de enero de 2011, de la Dirección General de Tesorería y Deuda Pública, por la que se hace público el calendario de subastas ordinarias del Programa de Emisión de Pagarés de la Junta de Andalucía para el año 2011 y se convocan las correspondientes subastas a realizar dentro del mismo.
+
+Atención: La información contenida en estas
+páginas no tiene validez legal.
+Ver
+más
+
+El Decreto 157/1997, de 17 de junio, por el que se establece el nuevo diseño del Programa de Emisión de Pagarés por importe de hasta sesenta mil millones de pesetas, autoriza en su apartado tercero al Director General de Tesorería y Política Financiera a emitir o contraer Deuda de la Comunidad Autónoma dentro del Programa de Emisión de Pagarés, de conformidad con las características fundamentales fijadas en el mismo. La duración del mencionado Programa ha sido ampliada hasta el 27 de mayo de 2016, mediante el Decreto 381/2009, de 1 de diciembre.
+
+El Decreto 133/2010, de 13 de abril, por el que se regula la estructura orgánica de la Consejería de Hacienda y Administración Pública, crea la Dirección General de Tesorería y Deuda Pública, incluyendo entre sus funciones, en su artículo 11.3, las atribuciones que en materia de endeudamiento le correspondan a la Consejería.
+
+Por otro lado, de acuerdo con lo preceptuado en el apartado quinto del citado Decreto 157/1997, la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001, regula actualmente el diseño y funcionamiento del Programa de Emisión de Pagarés.
+
+En cumplimiento de lo previsto en el artículo 6 de dicha Orden, esta Dirección General ha considerado oportuno llevar a efecto la publicidad del calendario de subastas ordinarias de Pagarés de la Junta de Andalucía a celebrar durante el año 2011, así como proceder a la convocatoria de las mismas.
+
+En consecuencia, en uso de las atribuciones conferidas por la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001, esta Dirección General resuelve:
+
+1. Aprobar y hacer público el calendario de subastas ordinarias de Pagarés de la Junta de Andalucía para el año 2011, que se incluye como Anexo.
+
+En dicho calendario, se determinan las fechas de celebración y resolución de las subastas, las fechas de emisión de los pagarés, que serán las de desembolso de los fondos, así como las fechas de amortización de los pagarés emitidos a los distintos plazos. No obstante, si con posterioridad a la puesta en circulación de los pagarés, la fecha fijada para su amortización deviniese inhábil a efectos de la utilización del sistema TARGET, esta se trasladará al siguiente día hábil para dicho sistema.
+
+2. Convocar las subastas ordinarias de pagarés a tres, seis, nueve, doce, y dieciocho meses, dentro del Programa de Emisión de Pagarés de la Junta de Andalucía autorizado por el Decreto 157/1997, de 17 de junio, parcialmente modificado por los Decretos 237/1998, de 24 de noviembre; 1/1999, de 12 de enero, y 72/1999, de 23 de marzo, así como por el Decreto 257/1999, de 27 de diciembre, y por el Decreto 381/2009, de 1 de diciembre, por el que se amplía la duración del Programa de Emisión de Pagarés de la Junta de Andalucía. Dichas subastas habrán de celebrarse de acuerdo con lo previsto en la Orden de la Consejería de Economía y Hacienda, de 2 de agosto de 2001, y de conformidad con el calendario aprobado en esta Resolución.
+
+2.1. Los pagarés de la Junta de Andalucía que se emitan como resultado de estas subastas tendrán las características establecidas en el Decreto 157/1997, de 17 de junio, modificado parcialmente por los Decretos antes citados, y en la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001.
+
+2.2. Los miembros del Mercado de Deuda Pública en Anotaciones presentarán sus ofertas en el Banco de España entre las 8,30 y 10,30 horas del día de presentación de peticiones fijado en el calendario para cada una de las subastas. Las ofertas se formularán a través de la red informática de comunicaciones del Servicio de Liquidación del Banco de España. En caso de no disponer de conexión con la citada red, deberán efectuar la comunicación de sus peticiones por teléfono entre las 8,30 y 10,00 horas de dicho día.
+
+2.3. La celebración y resolución de las subastas se realizarán antes de las 12,30 horas de la fecha establecida en el calendario de subastas ordinarias.
+
+2.4. No se fija objetivo alguno de colocación para las subastas que se convocan en la presente resolución. La Dirección General de Tesorería y Deuda Pública podrá fijar dicho objetivo, previa consulta con las entidades que ostenten la condición de Creadores de Mercado, antes de la fecha de celebración de la subasta.
+
+2.5. Las segundas vueltas, en caso de convocarse, se desarrollarán conforme a lo previsto en el artículo 13 de la Orden de 2 de agosto de 2001 anteriormente mencionada. La presentación de peticiones, que no excederán de cinco por entidad en las segundas vueltas a precios libres y de tres en el supuesto de segundas vueltas a precio tasado, se realizarán mediante los mecanismos que establezca el Banco de España a tal efecto.
+
+2.6. El resto de las condiciones aplicables a la presente convocatoria de subastas serán las establecidas en la Orden de la Consejería de Economía y Hacienda de 2 de agosto de 2001.
+
+Sevilla, 5 de enero de 2011.- El Director General, Luis Atienza Soldado.
+
+ANEXO
+CALENDARIO DE SUBASTAS ORDINARIAS DE PAGARÉS DE LA JUNTA DE ANDALUCÍA QUE SE CELEBRARÁN DURANTE EL AÑO 2011
+
+Fecha de presentación de ofertas y resolución
+
+Fecha de emisión y desembolso
+
+Fecha de amortización 3 meses
+
+Fecha de amortización 6 meses
+
+Fecha de amortización 9 meses
+
+Fecha de amortización 12 meses
+
+Fecha de amortización 18 meses
+
+25.1.2011
+
+28.1.2011
+
+29.4.2011
+
+29.7.2011
+
+28.10.2011
+
+27.1.2012
+
+27.7.2012
+
+22.2.2011
+
+25.2.2011
+
+27.5.2011
+
+26.8.2011
+
+25.11.2011
+
+24.2.2012
+
+31.8.2012
+
+22.3.2011
+
+25.3.2011
+
+24.6.2011
+
+30.9.2011
+
+30.12.2011
+
+30.3.2012
+
+28.9.2012
+
+26.4.2011
+
+29.4.2011
+
+29.7.2011
+
+28.10.2011
+
+27.1.2012
+
+27.4.2012
+
+26.10.2012
+
+24.5.2011
+
+27.5.2011
+
+26.8.2011
+
+25.11.2011
+
+24.2.2012
+
+25.5.2012
+
+30.11.2012
+
+28.6.2011
+
+01.7.2011
+
+30.9.2011
+
+30.12.2011
+
+30.3.2012
+
+29.6.2012
+
+28.12.2012
+
+26.7.2011
+
+29.7.2011
+
+28.10.2011
+
+27.1.2012
+
+27.4.2012
+
+27.7.2012
+
+25.1.2013
+
+23.8.2011
+
+26.8.2011
+
+25.11.2011
+
+24.2.2012
+
+25.5.2012
+
+31.8.2012
+
+22.2.2013
+
+27.9.2011
+
+30.9.2011
+
+30.12.2011
+
+30.3.2012
+
+29.6.2012
+
+28.9.2012
+
+29.3.2013
+
+25.10.2011
+
+28.10.2011
+
+27.1.2012
+
+27.4.2012
+
+27.7.2012
+
+26.10.2012
+
+26.4.2013
+
+22.11.2011
+
+25.11.2011
+
+24.2.2012
+
+25.5.2012
+
+31.8.2012
+
+30.11.2012
+
+31.5.2013
+
+27.12.2011
+
+30.12.2011
+
+30.3.2012
+
+29.6.2012
+
+28.9.2012
+
+28.12.2012
+
+28.6.2013
+
+<a title="Descargar PDF de la
+disposición"
+class="
+item_pdf_disposicion"
+href="d1.pdf"
+target="_blank">
+Descargar PDF
+
+Disposición siguiente
+
+BOJA nº
+11
+de
+18/01/2011
+
+1. Disposiciones generales
+
+2.1. Nombramientos, situaciones e incidencias
+
+2.2. Oposiciones y concursos
+
+3. Otras disposiciones
+
+4. Administración de Justicia
+
+<a href="s5.1"
+title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
+5.1. Subastas y concursos de obras, suministros y servicios públicos
+
+5.2. Otros anuncios
+
+<a target="_blank" title="Descargar el boletín completo en PDF"
+href="../../2011/11/boletin.11.pdf">Descargar boletín nº
+11 completo
+
+## Temas
+
+Temas
+
+Estudiar
+
+Trabajar
+
+Tu salud
+
+Vivienda y consumo
+
+Familias e igualdad
+
+Atención administrativa e impuestos
+
+Tráfico y transporte
+
+Medio ambiente
+
+Asociaciones y voluntariado
+
+Cultura, ocio y deporte
+
+Justicia, seguridad y emergencias
+
+Tecnologías de la Información y Comunicación
+
+Contratación pública
+
+Empresas y profesionales
+
+Sectores de actividad
+
+## La Junta
+
+La Junta
+
+Presidente
+
+Vicepresidencias
+
+Parlamento y otras instituciones
+
+Transparencia
+
+Consejo de Gobierno
+
+Consejerías
+
+## Servicios
+
+Servicios
+
+Cómo tramitar
+
+Ofertas de empleo público
+
+Licitaciones y contratos
+
+BOJA
+
+Servicios de Información
+
+Noticias
+
+Portada
+
+Últimas noticias
+
+Convocatorias a medios
+
+Gobierno al día
+
+Emergencias 112
+
+Economía y empleo
+
+Salud
+
+Educación
+
+Social
+
+Tecnología
+
+Infraestructuras
+
+Turismo
+
+Tierra y mar
+
+Cultura
+
+Sala de prensa
+
+Buscador de noticias
+
+Suscripción
+
+## Información general
+
+Sobre el portal
+
+Contacto
+
+Mapa web
+
+Listas de correo
+
+Fuentes web
+
+## Síguenos en:
+
+Síguenos en:
+
+@GobAndalucia
+andaluciajunta
+andaluciajunta
+AndaluciaJunta
+juntainforma
+junta-de-andalucia
+
+Accesibilidad
+Aviso legal
+Canal de denuncias interno
+Política de cookies
+Protección de datos

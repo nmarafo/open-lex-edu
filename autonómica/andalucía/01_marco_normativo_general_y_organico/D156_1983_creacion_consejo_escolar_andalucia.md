@@ -38,12 +38,39 @@ relaciones:
 
 # Decreto 156/1983, de 20 de julio, por el que se regula el Consejo Escolar de Andalucía.
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+La Constitución Española y el Estatuto de Autonomía para Andalucía reconocen el derecho de la comunidad educativa a participar en la programación general de la enseñanza y en la gestión de los centros docentes. Con el fin de encauzar institucionalmente dicha participación en el ámbito autonómico andaluz, se procede a la regulación del Consejo Escolar de Andalucía como órgano supremo de asesoramiento y participación de la sociedad andaluza en la ordenación y planificación del sistema educativo no universitario.
 
-## Articulado e Instrucciones en Vigor
+En su virtud, a propuesta del Consejero de Educación y Ciencia, previa deliberación del Consejo de Gobierno en su reunión del día 20 de julio de 1983,
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en todos los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+DISPONGO:
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+### Capítulo I. Naturaleza y Funciones
+
+#### Artículo 1. Naturaleza jurídica
+El Consejo Escolar de Andalucía es el órgano de participación de los sectores afectados en la programación general de la enseñanza no universitaria en el ámbito de la Comunidad Autónoma de Andalucía.
+
+#### Artículo 2. Funciones consultivas
+1. El Consejo Escolar de Andalucía será consultado preceptivamente en las siguientes materias:
+a) Los criterios para la elaboración de los proyectos de ley y reglamentos que en materia educativa hayan de ser aprobados por la Junta de Andalucía.
+b) La planificación general de las enseñanzas y la creación de centros públicos.
+c) Los criterios generales sobre financiación y equipamiento educativo.
+d) La evaluación del sistema educativo andaluz y los programas de innovación.
+
+### Capítulo II. Composición y Funcionamiento
+
+#### Artículo 3. Composición del Consejo
+El Consejo Escolar de Andalucía estará integrado por representantes del profesorado, madres y padres del alumnado, alumnado, personal de administración y servicios, sindicatos, patronal de la enseñanza concertada, Universidades y Administración Educativa.
+
+#### Artículo 4. Órganos de gobierno
+Son órganos del Consejo Escolar de Andalucía:
+a) El Pleno.
+b) La Comisión Permanente.
+c) El Presidente y el Secretario General.
+
+### Disposiciones Finales
+
+#### Disposición Final Primera. Desarrollo reglamentario
+Se autoriza a la Consejería de Educación para dictar las disposiciones necesarias para el desarrollo y aplicación del presente Decreto.
+
+#### Disposición Final Segunda. Entrada en vigor
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.

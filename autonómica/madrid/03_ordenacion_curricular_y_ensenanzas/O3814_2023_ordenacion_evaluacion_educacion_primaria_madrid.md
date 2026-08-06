@@ -33,16 +33,36 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Orden 3814/2023, de 18 de octubre, por la que se regula la evaluación y promoción en la Educación Primaria en Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
+## Legislación de la Comunidad de Madrid
 
-## Articulado e Instrucciones en Vigor
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-### Capítulo II. Control Institucional
-La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.
+Búsqueda
+
+Resultado de la búsqueda
+
+Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+
+Resultado de la búsqueda
+
+100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+
+Nueva Búsqueda
+
+Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteOrden (Disposición Autonómica)
+
+Orden 1482/2024, de 17 de mayo,   de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se modifica la Orden 100/2024, de 18 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueba el Plan Estratégico de Subvenciones 2024 de la Consejería de Familia, Juventud y Asuntos Sociales de la Comunidad de Madrid, modificada por la Orden 1270/2024, de 17 de abril, de la Consejería de Familia, Juventud y Asuntos Sociales (BOCM de 4 de junio de 2024)
+
+Derogada
+
+Total: 1

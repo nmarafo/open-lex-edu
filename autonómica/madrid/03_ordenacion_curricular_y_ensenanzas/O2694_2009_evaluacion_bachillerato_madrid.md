@@ -32,16 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Orden 2694/2009, de 9 de junio, por la que se regula la evaluación en Bachillerato en Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
+## Legislación de la Comunidad de Madrid
 
-## Articulado e Instrucciones en Vigor
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-### Capítulo II. Control Institucional
-La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.
+Búsqueda
+
+Resultado de la búsqueda
+
+Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+
+Resultado de la búsqueda
+
+100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+
+Nueva Búsqueda
+
+Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteResolución (Disposición Autonómica)
+
+Resolución 574/2009, de 6 de octubre,   del  Consejero Delegado de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid, por la que se modifica la Resolución 386/2009, de 17 de junio, por la que se designa con carácter permanente a los miembros integrantes de la Mesa de Contratación de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid (BOCM de 16 de octubre de 2009)  Resolución 548/2010, de 5 de octubre,
+
+Mas información...
+
+derogada por:
+
+Resolución 548/2010, de 5 de octubre,  del  Consejero Delegado de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid, por la que se designa con carácter permanente a los miembros integrantes de la Mesa de Contratación de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid. (BOCM de 25 de octubre de 2010)
+
+Total: 1

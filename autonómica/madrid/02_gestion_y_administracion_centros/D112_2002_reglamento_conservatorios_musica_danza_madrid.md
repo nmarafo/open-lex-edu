@@ -34,16 +34,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+wleg_pub - Comunidad de Madrid - madrid.org
 
-# Decreto 112/2002, de 11 de julio, por el que se aprueba el Reglamento Orgánico de los Conservatorios en Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-Disposición reguladora aprobada en la Comunidad de Madrid en desarrollo del marco regulador educativo regional.
+## Legislación de la Comunidad de Madrid
 
-## Articulado e Instrucciones en Vigor
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes públicos y privados concertados de la Comunidad de Madrid.
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
 
-### Capítulo II. Control Institucional
-La Dirección de Área Territorial y la Inspección Educativa velarán por la aplicación de esta disposición.
+Búsqueda
+
+Resultado de la búsqueda
+
+Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+
+Resultado de la búsqueda
+
+100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+
+Nueva Búsqueda
+
+Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteOrden (Disposición Autonómica)
+
+Orden 1436/2001, de 18 de abril,   de la Consejería de Educación, por la que se corrigen errores materiales y tipográficos de la Orden 1184/2001, de 29 de marzo, de la Consejería de Educación, por la que se desarrolla la estructura orgánica de la Consejería. (BOCM de 20 de abril de 2001)
+
+derogada por:
+
+Orden 2802/2002, de 20 de junio,  de la Consejería de Educación, por la que se desarrolla la estructura orgánica de la Consejería.(BOCM de 26 de junio de 2002)
+Corrección de errores:
+( BOCM de 8 de julio de 2002)
+
+Total: 1
