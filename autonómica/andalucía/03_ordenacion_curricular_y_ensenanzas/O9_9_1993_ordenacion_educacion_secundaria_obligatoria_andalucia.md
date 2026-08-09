@@ -33,136 +33,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-RESOLUCION de 2 de septiembre de 1993, de la Universidad de Granada, por la que se nombra a don José Mariano Ruiz de Almodóvar Rivera, Catedrático de Universidad.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 9 de septiembre de 1993, por la que se regula el currículo de la Educación Secundaria Obligatoria.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 09/09/1993.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 09/09/1993.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 09/09/1993.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 09/09/1993.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1993
-Boletín 103
-<a href="../../1993/103/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
-
-##
-
-Histórico del BOJA
-Boletín número
-103
-de
-23/9/1993
-
-## 2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
-
-### Consejería de Educación y Ciencia
-
-### RESOLUCION de 2 de septiembre de 1993, de la Universidad de Granada, por la que se nombra a don José Mariano Ruiz de Almodóvar Rivera, Catedrático de Universidad.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Vista la propuesta formulada por la comisión correspondiente que ha juzgado el concurso para proveer la Plaza del Cuerpo de Catedráticos de Universidad en el Area de conocimiento de Radiología y Medicina Física convocada por Resolución de la Universidad de Granada de fecha 18.12.92 (Boletín Oficial del Estado de 22.1.93), y teniendo en cuenta que se han cumplido los trámites reglamentarios.
-
-Este rectorado, de conformidad con lo establecido en el artículo
-
-13 del Real Decreto 1888/84, de 26 de septiembre (Boletín Oficial del Estado de 26 de octubre), artículo 4 del Real Decreto
-
-898/1985 de 30 de abril (BOE de 19 de junio) y artículos 139 a
-
-143 de los Estatutos de esta Universidad, ha resuelto aprobar el expediente del referido concurso y, en su virtud nombrar a Don José Mariano Ruiz de Almodovar Rivera, Catedrático de Universidad de esta Universidad, adscrito al Area de conocimiento de Radiología y Medicina Física.
-
-El citado Profesor ha quedado adscrito al Departamento de Radiología y Medicina Física.
-
-Granada, 2 de septiembre de 1993.- El Rector, Lorenzo Morillas Cueva.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-103
-de
-23/9/1993
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1993/103/boletin.103.pdf">Descargar boletín nº
-103 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

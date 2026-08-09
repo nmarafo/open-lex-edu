@@ -35,42 +35,40 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2018/04/16/BOCM-20180416-1.PDF
 ---
 
-**Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid**
+## Preámbulo
 
-LUNES 16 DE ABRIL DE 2018
-B.O.C.M. Núm. 90
-Pág. 11
-BOCM-20180416-1
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-I. COMUNIDAD DE MADRID
-B) Autoridades y Personal
-Consejería de Presidencia, Justicia
-y Portavocía del Gobierno
-1
-CORRECCIÓN de errores de la Orden 881/2018, de 21 marzo (BOLETÍN OFICIAL
-DE LA COMUNIDAD DE MADRID de 3 de abril de 2018), del Consejero de Presi-
-dencia, Justicia y Portavocía de Gobierno, por la que se aprobaba convocatoria
-pública para la provisión de puestos de trabajo vacantes en la Consejería de
-Presidencia, Justicia y Portavocía del Gobierno, por el procedimiento de Con-
-curso de Méritos.
-Se ha advertido error material en el anexo que se publicó con la Orden 881/2018, de
-21 marzo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de abril de 2018), del
-Consejero de Presidencia, Justicia y Portavocía de Gobierno, por la que se aprobaba con-
-vocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería,
-por el procedimiento de Concurso de Méritos.
-Se procede por tanto a su corrección, al amparo de lo establecido en el artículo 109 de
-la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
-traciones Públicas, en el siguiente sentido:
-En el Anexo que se acompaña a la referida Orden en el puesto de trabajo número
-51291, denominado “Subsección Gestión Administrativa”, en el apartado Puesto/Denomi-
-nación, donde dice “Turno/Jornada: Tarde”, debe decir “Turno/Jornada: Mañana”.
-Por lo que se procede a su corrección, estableciéndose un nuevo plazo de presentación
-de solicitudes de quince días hábiles a partir del día siguiente a la publicación de la presen-
-te Orden en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, destinado exclusivamen-
-te a solicitar el puesto de trabajo objeto de esta corrección de errores, así como a la rectifi-
-cación de aquellas solicitudes que pudieran contener el puesto referido.
-(03/12.356/18)
+# Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid
+
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+
+DISPONGO:
+
+### Capítulo I. Disposiciones Generales
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 1149/2018.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 1149/2018.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 1149/2018.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 1149/2018.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -32,132 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-RESOLUCION de 13 de enero de 1995, de la Dirección General de Administración Local y Justicia, por la que se autoriza a don Manuel López Ramírez, Secretario del Ayuntamiento de Lucena del Puerto (Huelva) , a desempeñar las funciones del puesto de trabajo de Secretaría, en el Ayuntamiento de Villanueva de las Cruces (Huelva), en régimen de acumulación.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 2/1995, de 10 de enero, por el que se establece la ordenación de la Educación Secundaria Obligatoria para personas adultas.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 2/1995.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 2/1995.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 2/1995.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 2/1995.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1995
-Boletín 12
-<a href="../../1995/12/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
-
-##
-
-Histórico del BOJA
-Boletín número
-12
-de
-24/1/1995
-
-## 2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
-
-### Consejería de Gobernación
-
-### RESOLUCION de 13 de enero de 1995, de la Dirección General de Administración Local y Justicia, por la que se autoriza a don Manuel López Ramírez, Secretario del Ayuntamiento de Lucena del Puerto (Huelva) , a desempeñar las funciones del puesto de trabajo de Secretaría, en el Ayuntamiento de Villanueva de las Cruces (Huelva), en régimen de acumulación.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-El Municipio de Villanueva de las Cruces (Huelva) acordó solicitar de esta Comunidad Autónoma en sesión celebrada el día 30 de junio de 1994, la autorización para la acumulación de las funciones de Secretaría, a favor de don Manuel López Ramírez, Secretario del Ayuntamiento de Lucena del Puerto, perteneciente asimismo a la provincia de Huelva. La petición formulada por el Ayuntamiento de Villanueva de las Cruces (Huelva) para que se autorice dicha acumulación de funciones, está fundamentada en la necesidad de asistencia profesional para los asuntos que afecten a la buena marcha de la Corporación, funciones éstas de carácter público y necesarias en todas las Corporaciones Locales, tal y como dispone el artículo92.3 de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local.
-
-Con este propósito se ha instruido el preceptivo expediente que ha sito tramitado de conformidad con lo establecido en los artículos 129 del Real Decreto Legislativo 781/1986, de 18 de abril y 31 del Real Decreto 1732/1994, de 29 de junio.
-
-En su virtud, al amparo de la legislación invocada, y de conformidad con lo establecido en el epígrafe 2º de la Disposición Adicional 9ª de la Ley
-
-22/1993, de 29 de diciembre, de medidas fiscales, de reforma del régimen jurídico de la función pública y de la protección por desempleo, he tenido a bien disponer lo siguiente:
-
-Artículo único. Autorizar la acumulación de la función del puesto de trabajo de Secretaría del Ayuntamiento de Villanueva de las Cruces (Huelva) a don Manuel López Ramírez, DNI NRP 27655217/24/A/3003, Secretario del Ayuntamiento de Lucena del Puerto (Huelva), hasta la provisión del puesto de trabajo con carácter definitivo.
-
-Sevilla, 13 de enero de 1995.- El Director General, Jesús María Rodríguez Román.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-12
-de
-24/1/1995
-
-2.1. Nombramientos, situaciones e incidencias
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1995/12/boletin.12.pdf">Descargar boletín nº
-12 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

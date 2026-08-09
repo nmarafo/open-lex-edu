@@ -36,119 +36,40 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2023/01/31/BOCM-20230131-1.PDF
 ---
 
-ORDEN de 17 de enero de 2023, del Consejero de Economía, Hacienda y Em-
-pleo, por la que se resuelve la convocatoria aprobada por Orden de 7 de noviem-
-bre de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de noviem-
-bre), para la provisión de un puesto de trabajo vacante en la citada Consejería
-por el procedimiento de Libre Designación.
-Por Orden de la Consejería de Economía, Hacienda y Empleo de 7 de noviembre de 2022
-(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 18 de noviembre), se aprobó con-
-vocatoria pública para la provisión de un puesto de trabajo vacante en la citada Consejería
-por el procedimiento de Libre Designación.
-En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
-de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA CO-
-MUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería
-de Hacienda, por la que se aprueban las bases generales que han de regir en las convocato-
-rias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación
-(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
-las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamen-
-to General de Ingreso del Personal al Servicio de la Administración General del Estado y de
-Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
-Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como
-las demás prescripciones contenidas en las bases de convocatoria correspondientes.
-De acuerdo con la propuesta formulada por la unidad responsable y el informe favora-
-ble emitido por la Consejería de Economía, Hacienda y Empleo, verificado que la candida-
-ta propuesta cumple los requisitos y especificaciones exigidos en la convocatoria, en virtud
-de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la Fun-
-ción Pública de la Comunidad de Madrid,
-RESUELVO
-Primero
-Objeto
-Se adjudica el puesto de trabajo convocado a la funcionaria que figura en el Anexo.
-Segundo
-Plazo de toma de posesión
-1.
-El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
-plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse den-
-tro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese
-haya sido formalmente diferido o aplazado por el órgano competente.
-El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias
-que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas,
-el órgano que los concedió acuerde suspender el disfrute de los mismos.
-2.
-Si la resolución comporta el reingreso al servicio activo, el plazo de toma de po-
-sesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
-aplicable.
-Tercero
-Recursos
-La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
-se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
-no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
+## Preámbulo
 
-MARTES 31 DE ENERO DE 2023
-Pág. 10
-B.O.C.M. Núm. 26
-BOCM-20230131-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
-día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
-perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
-midad con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
-cedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
-de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
-Dado en Madrid, a 17 de enero de 2023.—El Consejero de Economía, Hacienda y
-Empleo. Por delegación, (Orden de 3 de diciembre de 2021; BOLETÍN OFICIAL DE LA CO-
-MUNIDAD DE MADRID de 21 de diciembre de 2021), el Secretario General Técnico, Juan
-Revuelta González.
+# Orden 130/2023, de 23 de enero, de la Viceconsejería de Política Educativa, por la que se regulan la organización, el funcionamiento y la evaluación en la etapa de Educación Primaria en la Comunidad de Madrid
 
-MARTES 31 DE ENERO DE 2023
-B.O.C.M. Núm. 26
-Pág. 11
-BOCM-20230131-1
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN
-40059
-CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
-VICECONSEJERIA HACIENDA
-DIRECCION GENERAL TRIBUTOS
-SUBDIRECCION GENERAL VALORACIONES
-AREA VALORACIONES DE COMPROBACION
-SERVICIO VALORACION URBANA II
-Puesto de Trabajo:
-SERV. VALORACION URBANA II
-Denominación     :
-26
-A / B
-Grupo                :
-N.C.D.               :
-20.953,80
-C. Específico      :
-34674
-4**9*4*7*
-CAMINO DE LUCAS,LAURA
-Cód. identificación:
-Apellidos y Nombre:
-CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
-VICECONSEJERIA HACIENDA
-DIRECCION GENERAL TRIBUTOS
-SUBDIRECCION GENERAL VALORACIONES
-AREA VALORACIONES DE COMPROBACION
-SERVICIO VALORACION URBANA III
-Puesto de Trabajo:
-ARQUITECTO/A TECNICO/A
-Denominación     :
-25
-Grupo                 :
-N.C.D.                :
-13.536,12
-C. Específico       :
-PUESTO ADJUDICADO
-ADJUDICATARIO
-PUESTO LIBERADO
-B
-(03/997/23)
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+
+DISPONGO:
+
+### Capítulo I. Disposiciones Generales
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 130/2023.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 130/2023.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 130/2023.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 130/2023.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -35,228 +35,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-Ley 8/2011, de 5 de diciembre, relativa a modificación de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 362/2011, de 7 de diciembre, por el que se aprueba el Reglamento Orgánico de los Conservatorios Elementales y Profesionales de Música y de Danza en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 362/2011.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 362/2011.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 362/2011.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 362/2011.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2011
-Boletín 244
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-244
-de
-15/12/2011
-
-## 1. Disposiciones generales
-
-### Presidencia
-
-###
-Ley 8/2011, de 5 de diciembre, relativa a modificación de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-El Presidente de la Junta de Andalucía A todos los que la presente vieren, sabed
-
-Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente
-
-Ley relativa a modificación de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos
-
-EXPOSICIÓN DE MOTIVOS
-
-El Estatuto de Autonomía para Andalucía en su ar­tículo 10.3.19.º recoge expresamente, como uno de los objetivos básicos de la Comunidad Autónoma, «la participación ciudadana en la elaboración, prestación y evaluación de las políticas públicas, así como la participación individual y asociada en los ámbitos cívico, social, cultural, económico y político, en aras de una democracia social avanzada y participativa». La legislación constituye un pilar fundamental para el desarrollo de estas políticas, por ello el Estatuto, en su artículo 30, reconoce la iniciativa legislativa de los ciudadanos como parte fundamental de los derechos sociales, deberes y políticas públicas reconocidos en el Título I. El artículo 111 deriva a una ley el ejercicio de este derecho.
-
-En esta línea, el Presidente de la Junta de Andalucía, en el debate del estado de la Comunidad celebrado los días 29 y 30 de junio de 2011, ofreció un acuerdo para recuperar la confianza ciudadana y prestigiar la política. Un acuerdo que se pudiera tramitar como Proposición de Ley con carácter inmediato. Con este objetivo formuló una propuesta para profundizar en los mecanismos de participación –consagrada en nuestro Estatuto– de los ciudadanos en las tareas legislativas. Esta iniciativa, que el Presidente de la Junta de Andalucía denominó «el escaño 110», persigue avanzar en la línea de situar a la ciudadanía como el eje de toda democracia, que debe incorporarse de manera directa al proceso de decisión que supone la labor legislativa.
-
-Derivada de esta iniciativa, y como propuesta formulada asimismo por el Presidente de la Junta de Andalucía, se constituyó un Grupo de Trabajo sobre determinadas modificaciones legislativas y normativas en materia de transparencia y calidad democrática. Como resultado del trabajo de dicho grupo, y con el refrendo del Pleno del Parlamento de Andalucía, se elaboró un conjunto de propuestas entre las que se incluyen aquellas destinadas a fortalecer la iniciativa legislativa popular, otorgándole a la ciudadanía andaluza un cauce de participación más directo y eficiente en la vida parlamentaria de nuestra Comunidad. Esta modificación debe propiciar, a su vez, una modificación del Reglamento del Parlamento de Andalucía que posibilite la personación en el mismo de un promotor de la iniciativa legislativa popular para su presentación y defensa ante la Cámara.
-
-Esta iniciativa, destinada a fortalecer el ejercicio de este derecho de participación ciudadana, tiene su marco natural en la modificación de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos. Así, se produce una sustancial rebaja en el número de firmas necesarias para la tramitación de la iniciativa y del número de ayuntamientos que pueden promoverla.
-
-Por otro lado, para facilitar el procedimiento de recogida de las firmas necesarias para la presentación de una iniciativa legislativa popular, se va a posibilitar el establecimiento de un sistema de firma electrónica.
-
-Por todo ello se hace necesario modificar los artículos 2, 6.1 y 9.3 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, y añadir un apartado al artículo 9 de dicha Ley.
-
-Asimismo, para facilitar la comprensión de la norma y la claridad del marco legislativo, redundando de esta forma en la seguridad jurídica del ciudadano, resulta necesario modificar las referencias que la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, realiza del Estatuto de Autonomía, actualizando dichas referencias al nuevo texto estatutario.
-
-Finalmente se actualiza la unidad contable establecida en el artículo 20.2 de la Ley, para resarcir a la comisión promotora o a los entes locales interesados de los gastos realizados en la difusión de la proposición y en la recogida de firmas cuando alcance su tramitación parlamentaria, pasando a establecerse en euros.
-
-Artículo primero. Modificación de los artículos 2, 6.1 y 9.3 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos.
-
-Se modifican los artículos 2, 6.1 y 9.3 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, que quedan redactados del siguiente modo:
-
-«Artículo 2.
-
-La iniciativa legislativa popular y de los ayuntamientos se ejercerá mediante la presentación ante la Mesa del Parlamento de una Proposición de Ley suscrita:
-
-a) Por las firmas de, al menos, 40.000 ciudadanos que reúnan los requisitos prescritos en el artículo anterior y que se encuentren inscritos en el censo electoral vigente el día de presentación de la iniciativa ante la Mesa del Parlamento.
-
-b) Por acuerdo, adoptado por mayoría absoluta, de los Plenos de veinticinco ayuntamientos de nuestra Comunidad, o de diez cuando estos representen al menos globalmente a 40.000 electores, de acuerdo con el censo autonómico andaluz vigente el día de presentación de la iniciativa ante la Mesa del Parlamento».
-
-«Artículo 6.
-
-1. La iniciativa legislativa popular se ejerce mediante la presentación de Proposiciones de Ley suscritas por las firmas de, al menos, 40.000 electores andaluces, autenticadas en la forma que previene la presente Ley».
-
-«Artículo 9.
-
-3. El procedimiento de recogida de firmas deberá finalizar con la entrega a la Junta Electoral de Andalucía de las firmas recogidas, en el plazo de seis meses a contar desde la notificación a que se refiere el apartado anterior. Este plazo podrá ser prorrogado en dos meses cuando concurran razones objetivas debidamente justificadas, cuya apreciación corresponde a la Mesa del Parlamento.
-
-Agotado el plazo, y en su caso la prórroga, sin que se haya hecho entrega de las firmas recogidas, caducará la iniciativa».
-
-Artículo segundo. Adición de un apartado al artículo 9 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos.
-
-Se añade un apartado 3 bis al artículo 9 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, que queda redactado del siguiente modo:
-
-«Artículo 9.
-
-3 bis. Reglamentariamente se establecerán los requisitos necesarios para que el procedimiento de recogida de firmas pueda realizarse a través del sistema de firma electrónica».
-
-Artículo tercero. Actualización de las referencias al articulado del Estatuto de Autonomía.
-
-Se actualiza la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, adaptando las referencias estatutarias al articulado del nuevo Estatuto de Autonomía y modificando la redacción del siguiente modo:
-
-«Párrafo 4.º de la Exposición de Motivos.
-
-El Estatuto de Autonomía para Andalucía, inspirado en los mismos principios constitucionales antes indicados, contiene en su artículo 10 una declaración programática de objetivos básicos de la Comunidad, entre los que se encuentra el fomento de la calidad democrática mediante la facilitación de la participación de todos los andaluces en la vida política, económica, cultural y social».
-
-«Artículo 1.
-
-Podrán ejercer la iniciativa legislativa prevista en el artículo 111.2 del Estatuto de Autonomía para Andalucía, conforme a lo dispuesto en la presente Ley:
-
-1. Los ciudadanos que gozando de la condición política de andaluces, conforme a lo dispuesto en el artículo 5.1 del Estatuto de Autonomía, sean mayores de edad y se encuentren inscritos en el Censo Electoral.
-
-2. Los Ayuntamientos comprendidos en el territorio de la Comunidad Autónoma de Andalucía».
-
-«Artículo 3.
-
-Están excluidas de la Iniciativa Legislativa regulada en esta Ley las siguientes materias:
-
-1. Aquellas que no sean de la competencia legislativa de la Comunidad Autónoma.
-
-2. Las de naturaleza tributaria.
-
-3. La planificación económica de la Comunidad Autónoma.
-
-4. Las mencionadas en los artículos 187 y 190 del Estatuto de Autonomía.
-
-5. Las relativas a la organización de las instituciones de autogobierno».
-
-Artículo cuarto. Actualización de la unidad contable al euro.
-
-Se actualiza el artículo 20.2 de la Ley 5/1988, de 17 de octubre, de Iniciativa Legislativa Popular y de los Ayuntamientos, utilizando el euro como unidad contable y quedando redactado del siguiente modo:
-
-«Artículo 20.
-
-2. Los gastos deberán ser justificados en forma por los promotores de la iniciativa. La compensación económica no excederá, en ningún caso, de 30.050,60 euros. Esta cantidad será revisada cada dos años por el Parlamento de Andalucía».
-
-Disposición final. Las disposiciones finales primera y segunda de la Ley 5/1988 quedarán numeradas como segunda y tercera respectivamente.
-
-La nueva disposición final primera queda redactada como sigue:
-
-«Disposición final primera.
-
-Las modificaciones realizadas en la presente Ley que afecten a la composición y funcionamiento del Parlamento de Andalucía darán lugar a la adecuación normativa del Reglamento de la Cámara. En particular se determinará el procedimiento para articular la participación de las personas promotoras de las Iniciativas Legislativas Populares en la presentación y defensa en el Pleno de la Cámara y en el seguimiento de los debates, en la forma que reglamentariamente se establezca, para que resulte equivalente a la de diputados y diputadas en las Proposiciones de Ley, así como su participación en la oportuna Comisión parlamentaria».
-
-Sevilla, 5 de diciembre de 2011
-
-José Antonio Griñán Martínez
-
-Presidente de la Junta de Andalucía
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-244
-de
-15/12/2011
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2011/244/boletin.244.pdf">Descargar boletín nº
-244 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

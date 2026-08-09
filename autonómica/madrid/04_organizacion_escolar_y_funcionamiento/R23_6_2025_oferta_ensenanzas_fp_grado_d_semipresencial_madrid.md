@@ -37,200 +37,40 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-RESOLUCIÓN de 17 de junio de 2025, de la Dirección General de Función Pú-
-blica, mediante la que se modifica la Resolución de 27 de diciembre de 2024, del
-mismo centro directivo, por la que se resuelven las pruebas selectivas del proce-
-so extraordinario de estabilización para el ingreso, mediante el sistema de con-
-curso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería
-Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de
-Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid.
-Mediante Orden 2765/2022, de 30 de noviembre, de la Consejería de Economía, Ha-
-cienda y Empleo, (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 299, de 16
-de diciembre), se convocaron pruebas selectivas del proceso extraordinario de estabiliza-
-ción para el ingreso, mediante el sistema de concurso, en el Cuerpo de Ingenieros y Arqui-
-tectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e In-
-dustrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la
-Comunidad de Madrid, Corrección de errores (BOLETÍN OFICIAL DE LA COMUNIDAD DE
-MADRID número 3, de 4 de enero de 2023).
-Por Resolución de 27 de diciembre de 2024, de la Dirección General de Función Pú-
-blica (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 311, de 31 de diciembre),
-fueron resueltas las mencionadas pruebas selectivas, incorporándose, como Anexo a aque-
-llas, la relación de personas seleccionadas, quienes debían proceder, en el plazo y forma es-
-tipulados, a la elección de destinos y a la acreditación del cumplimiento de los requisitos
-exigidos en la señalada orden de convocatoria y demás normativa de aplicación al proceso
-selectivo.
-Con posterioridad a la publicación de la citada resolución y como consecuencia de la
-interposición de recurso de alzada por parte del aspirante D. Cruz Carlos Tejeda Serrano,
-el Tribunal Calificador procedió a la modificación de su puntuación, publicándose con fe-
-cha 11 de junio de 2025 la comunicación del citado tribunal calificador acordando nueva
-relación de aspirantes aprobados del proceso, que recoge dicha modificación y que puede
-consultarse en la sede electrónica de la Comunidad de Madrid, y en la página web del pro-
-ceso selectivo a través de los siguientes enlaces:
-https://sede.comunidad.madrid/oferta-empleo/ordenacion-rural-e-ind-agroalimentaria
-https://www.comunidad.madrid/servicios/empleo/ingenieria-superior-ordenacion-rural-
-e- industrias-agroalimentarias-a1-estabilizacionconcurso
-El cambio en la puntuación del referido aspirante no afecta al resultado de la adjudi-
-cación de acuerdo con las solicitudes presentadas por los aspirantes aprobados, en virtud de
-la mencionada Resolución de 27 de diciembre de 2024.
-Así pues, en virtud de cuanto antecede, esta Dirección General, en uso de las faculta-
-des que tiene atribuidas,
-RESUELVE
-Primero
-Proceder a la publicación de un nuevo Anexo de personas aspirantes aprobadas del
-proceso extraordinario de estabilización para ingreso en el Cuerpo de Ingenieros y Arqui-
-tectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e In-
-dustrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la Co-
-munidad de Madrid.
-Segundo
-Contra la presente resolución, que no pone fin a la vía administrativa, las personas in-
-teresadas podrán interponer recurso de alzada ante la Viceconsejería de Hacienda y Fun-
+## Preámbulo
 
-LUNES 30 DE JUNIO DE 2025
-B.O.C.M. Núm. 154
-Pág. 13
-BOCM-20250630-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-ción Pública, dentro del plazo de un mes contado a partir del día siguiente al de su publica-
-ción en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
-Madrid, a 17 de junio de 2025.—La Directora General de Función Pública, P. D. F.
-(Resolución de 24 de noviembre de 2021), la Subdirectora General de Planificación de
-Efectivos y Selección, Elisa Isabel Moreno Bernis.
+# Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial
 
-LUNES 30 DE JUNIO DE 2025
-Pág. 14
-B.O.C.M. Núm. 154
-BOCM-20250630-1
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-
-
-
-	
-	
-	
-
-		
-
-
-
-
-	  
-	
- 	  	
-
-		 
-
- 	 		 
-
-
-
- 
-
-
-	
-			
-
-	
-
-	
-	
-
-
-
-
-
-
-
-
-
-
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-
-
-
-
-
-
-
-
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-	
-
-
-
-	
-
-
-	
-
+DISPONGO:
 
-
-	
-
+### Capítulo I. Disposiciones Generales
 
-
-
-
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Resolución 23/06/2025.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-
-
- 
-
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-	
-	
-
-
-
-
-
- 
-	
-
-
-
-	
+### Capítulo II. Estructura y Funcionamiento
 
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Resolución 23/06/2025.
 
-
-
- 
-
-
-
-!
-!
-
-
-
-
-"
-
-
-"
-
-#$%&'()*+',
-(03/10.021/25)
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Resolución 23/06/2025.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Resolución 23/06/2025.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

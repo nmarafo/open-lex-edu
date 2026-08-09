@@ -33,173 +33,40 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-DECRETO del Presidente 1/2000, de 17 de enero, de disolución del Parlamento de Andalucía y de convocatoria de Elecciones.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 3 de enero de 2000, por la que se regula la articulación de los Planes de Orientación y Acción Tutorial.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 03/01/2000.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 03/01/2000.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 03/01/2000.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 03/01/2000.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2000
-Boletín 6
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-6
-de
-18/01/2000
-
-## 1. Disposiciones generales
-
-### Presidencia
-
-### DECRETO del Presidente 1/2000, de 17 de enero, de disolución del Parlamento de Andalucía y de convocatoria de Elecciones.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-De acuerdo con lo dispuesto en los artículos 14.d), 55 y 56 de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma, modificada por la Ley
-
-6/1994, de 18 de mayo, en uso de las facultades que me han sido atribuidas, y previa deliberación del Consejo de Gobierno en su reunión del día 20 de diciembre de 1999,
-
-DISPONGO
-
-Artículo 1. Queda disuelto el Parlamento de Andalucía elegido el día 3 de marzo de 1996.
-
-Artículo 2. Se convocan elecciones al Parlamento de Andalucía, que se celebrarán el domingo 12 de marzo de 2000.
-
-Artículo 3. De acuerdo con lo dispuesto en el artículo 17 de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, el número de Diputados a elegir en cada circunscripción es el siguiente:
-
-Circunscripción Diputados
-
-Almería Once
-
-Cádiz Quince
-
-Córdoba Trece
-
-Granada Trece
-
-Huelva Once
-
-Jaén Doce
-
-Málaga Dieciséis
-
-Sevilla Dieciocho
-
-Artículo 4. La campaña electoral durará quince días, comenzando a las cero horas del día 25 de febrero, y finalizando a las cero horas del día 11 de marzo.
-
-Artículo 5. El Parlamento elegido celebrará su sesión constitutiva el día 6 de abril a las 12 horas.
-
-Artículo 6. De conformidad con lo establecido en el artículo
-
-6 de la Ley 4/1999, de 11 de mayo, reguladora de la actividad publicitaria de las Administraciones Públicas de Andalucía, queda prohibida la realización de la publicidad comprendida en el ámbito del artículo 3, apartado b), de dicha Ley en el período comprendido entre el día de publicación del presente Decreto y el día de la votación. Queda a salvo de esta prohibición la Campaña Institucional regulada en el artículo
-
-27.2 de la Ley 1/1986, Electoral de Andalucía.
-
-Artículo 7. Las elecciones convocadas por el presente Decreto se regirán por la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General; la Ley 1/1986, de 2 de enero, Electoral de Andalucía; el Decreto 159/1999, de 13 de julio; el Real Decreto 605/1999, de 16 de abril, y por la restante normativa que sea de aplicación.
-
-Artículo 8. En cumplimiento de lo dispuesto en el artículo 15 de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, el presente Decreto se insertará íntegramente en los Boletines Oficiales de las ocho provincias andaluzas dentro de los ocho días siguientes a su publicación en el
-
-DISPOSICION FINAL
-
-El presente Decreto entrará en vigor el mismo día de su publicación en el
-
-Sevilla, 17 de enero de 2000
-
-MANUEL CHAVES GONZALEZ
-
-Presidente de la Junta de Andalucía
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-6
-de
-18/01/2000
-
-1. Disposiciones generales
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2000/6/boletin.6.pdf">Descargar boletín nº
-6 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -36,46 +36,40 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
-Decreto 1050/2020, de 1 de diciembre, y oído el Consejo General del Poder Judicial,
-dispongo:
-## Artículo 1. Objeto.
-Esta orden tiene por objeto, de conformidad con lo dispuesto en el artículo 20.5 de la
-Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, fijar la fecha de
-entrada en funcionamiento de nueve juzgados COVID-19, correspondientes a la
-programación de 2020, previstos en el artículo 5 del Real Decreto 1050/2020, de 1 de
-diciembre, de creación de treinta y tres unidades judiciales COVID-19, correspondientes
-a la programación de 2020.
-## Artículo 2. Fecha de entrada en funcionamiento de juzgados.
-1. El día 31 de marzo de 2021 entrarán en funcionamiento los 3 Juzgados de lo
-Social que a continuación se relacionan:
-Número 7 de A Coruña.
-BOLETÍN OFICIAL DEL ESTADO
-Núm. 62
-Sábado 13 de marzo de 2021
-Sec. III.   Pág. 29247
-cve: BOE-A-2021-3965
-Verificable en https://www.boe.es
-Número 4 de Lugo.
-Número 7 de Vigo.
-2. El día 30 de junio de 2021 entrarán en funcionamiento los juzgados que a
-continuación se relacionan:
-a) Juzgado de Primera Instancia número 9 de Burgos.
-b) 2 Juzgados de lo Social:
-Número de 9 de Santa Cruz de Tenerife.
-Número 5 de Badajoz.
-c) 3 Juzgados de lo Mercantil:
-Número 3 de Las Palmas de Gran Canaria.
-Número 2 de Badajoz.
-Número 3 de Bilbao.
-El Juzgado de lo Mercantil número 2 de Badajoz, se constituirá en Mérida, desde el
-mismo día de su entrada en funcionamiento, en virtud del Acuerdo de la Comisión
-Permanente del Consejo General del Poder Judicial, de 4 de febrero de 2021.
-Madrid, 10 de marzo de 2021.–El Ministro de Justicia, Juan Carlos Campo Moreno.
-BOLETÍN OFICIAL DEL ESTADO
-Núm. 62
-Sábado 13 de marzo de 2021
-Sec. III.   Pág. 29248
-cve: BOE-A-2021-3965
-Verificable en https://www.boe.es
-BOLETÍN OFICIAL DEL ESTADO
-D. L.: M-1/1958 - ISSN: 0212-033X
+## Preámbulo
+
+# Decreto-ley 2/2021, de 2 de febrero, por el que se regulan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados
+
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+
+DISPONGO:
+
+### Capítulo I. Disposiciones Generales
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto-ley 2/2021.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto-ley 2/2021.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto-ley 2/2021.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto-ley 2/2021.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

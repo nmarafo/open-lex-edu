@@ -59,140 +59,36 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.p
 
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.
 
-I. Disposiciones generales
-Consejería de Medio Ambiente
-y Ordenación Territorial
-187 DECRETO 174/2009, de 29 de diciembre, por
-el que se declaran Zonas Especiales de Conservación integrantes de la Red Natura 2000
-en Canarias y medidas para el mantenimiento en un estado de conservación favorable de
-estos espacios naturales.
-La Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres y su transposición al ordenamiento jurídico español, mediante
-Real Decreto 1.997/1995, de 7 de diciembre, por el
-que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los
-hábitats naturales y de la fauna y flora silvestres, y
-la Ley 42/2007, de 13 de diciembre, del Patrimonio
-Natural y de la Biodiversidad, establecen la necesidad de elaborar una lista de lugares de importancia
-comunitaria para contribuir a la protección de los tipos de hábitats naturales que figuran en el anexo I y
-de los hábitats de las especies que figuran en el anexo II de la citada Directiva, ya que dichos hábitats
-son considerados objeto de interés comunitario. Entre estos hábitats de interés comunitario se encuentra un grupo correspondiente a la región biogeográfica Macaronésica. Además, siete de los hábitats
-presentes en Canarias han sido calificados en la mencionada Directiva como de conservación prioritaria.
-Con la adopción de la Decisión 2002/11/CE de la
-Comisión, de 28 de diciembre (D.O.C.E. n
-ºL 5, de
-9.1.02), por la que se aprueba la lista de lugares de
-importancia comunitaria con respecto a la región
-biogeográfica Macaronésica, en aplicación de la Directiva 92/43/CEE del Consejo, la Comisión Europea aprobó la lista de los 174 lugares de importancia comunitaria canarios, que habían sido propuestos
-por la Comunidad Autónoma de Canarias. Recientemente esta lista ha sido ampliada con 3 nuevos lugares mediante la Decisión 2008/95/CE de la Comisión, de 25 de enero (D.O.U.E. n
-ºL 31, de 5.2.08),
-por la que se aprueba, de conformidad con la Directiva 92/43/CEE del Consejo, una primera actualización de la lista de lugares de importancia comunitaria de la región biogeográfica Macaronésica.
-Tanto en el artículo 4.4 de la Directiva 92/43/CEE,
-en el artículo 5 del Real Decreto 1997/1995, como
-en el artículo 42.3 de la Ley 42/2007, se establece
-que una vez elegido un lugar de importancia comunitaria, éste deberá ser declarado zona especial de
-conservación en el plazo máximo de seis años. Dicha declaración se hará fijando las prioridades en función de su importancia, para aplicarle las medidas
-de conservación necesarias para el mantenimiento
-o el restablecimiento de los hábitats. Así mismo, la
-Decisión de la Comisión 2008/95/CE reitera, en su
-Considerando n
-º6, que las obligaciones derivadas
-del artículo 4, apartado 4, y el artículo 6, apartado
-1, de la Directiva 92/43/CEE deberán aplicarse tan
-pronto como sea posible y en un plazo de seis años
-como máximo a partir de la adopción de la lista inicial de lugares de importancia comunitaria de la región biogeográfica Macaronésica.
-En consecuencia, el presente Decreto tiene por objeto aprobar la relación de las Zonas Especiales de
-Conservación integrantes de la Red Natura 2000 en
-Canarias y establecer nuevas medidas para el mantenimiento en un estado de conservación favorable
-de estos espacios naturales, además de las que ya resultan de aplicación de acuerdo con la normativa
-autonómica vigente. Al respecto, cabe señalar que las
-Zonas Especiales de Conservación terrestres coinciden en un 89% con los Espacios Naturales Protegidos previstos en el Texto Refundido de las Leyes de
-Ordenación del Territorio de Canarias y de Espacios
-Naturales de Canarias, aprobado por Decreto Legislativo 1/2000, de 8 de mayo, por lo que cuentan ya
-con las medidas de protección recogidas en los instrumentos de planeamiento de los citados Espacios
-Naturales, además de las establecidas en los planes
-de recuperación o conservación de especies. Con la
-aprobación de los planes de Espacios Naturales Protegidos de la Red Canaria coincidentes con los espacios Red Natura 2000, se establece un régimen de protección adecuado que permite disponer de las medidas
-de conservación necesarias para evitar el deterioro
-de los hábitats y de las especies presentes en estos
-espacios, manteniéndolos en un estado de conservación favorable, para la coherencia de Natura 2000 en
-función de las amenazas de deterioro y destrucción
-que pesen sobre ellos. En definitiva, ambas redes
-(Red Canaria de Espacios Naturales Protegidos y
-Red Natura 2000) persiguen los mismos objetivos.
-Para aquellos Lugares de Importancia Comunitaria que no coinciden geográficamente con Espacios
-Naturales Protegidos de la Red Canaria, este Decreto prevé dotarlos de disposiciones específicas de
-conservación que complementen sus actuales medidas de protección para antes del final del año 2010,
-siguiendo las premisas del artículo 45 de la Ley
-42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, en consonancia con los artículos 4 y 6 (1) y (2) de la Directiva 92/43/CEE.
-En su virtud, a propuesta del Consejero de Medio
-Ambiente y Ordenación Territorial, visto el dictamen
-del Consejo Consultivo de Canarias y previa deliberación del Gobierno en sesión celebrada el día 29 de
-diciembre de 2009,
-D I S P O N G O:
-Artículo 1.-Se declaran Zonas Especiales de Conservación (ZEC) de la Red Natura 2000 en Canarias
+En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-los espacios relacionados en el anexo I del presente
-Decreto, en el que se concretan los hábitats y especies por los que se declara cada uno de ellos, su representación cartográfica, así como las normas vigentes en las que se establecen las medidas específicas
-para su protección, estableciéndose en el anexo II su
-delimitación a través de su descripción geométrica.
-Artículo 2.-1. Para las Zonas Especiales de Conservación no coincidentes con espacios de la Red Canaria de Espacios Naturales Protegidos, deberán elaborarse disposiciones específicas de conservación
-que complementen las medidas protectoras establecidas, ya sea en la legislación vigente o en los instrumentos de ordenación de los recursos naturales o
-planes de recuperación y conservación de especies
-aplicables en dicho ámbito.
-2. Estas disposiciones específicas de conservación se aprobarán por el titular de la Consejería competente en materia de medio ambiente de la Administración Pública de la Comunidad Autónoma, oídos
-los Cabildos Insulares y Ayuntamientos afectados, y
-abordarán, como mínimo, los siguientes extremos:
-a) Estado actualizado de los hábitats naturales y
-de los hábitats y poblaciones de las especies por los
-cuales ha sido declarado el espacio, así como la representación cartográfica de su distribución.
-b) Especificación y valoración de amenazas que
-afecten a los objetos de conservación del lugar o lugares para los cuales se aprueban las correspondientes disposiciones específicas.
-c) Definición de objetivos, orientados al mantenimiento y restauración ecológica de los hábitats naturales y de los hábitats y poblaciones de las especies correspondientes.
-d) Medidas para el mantenimiento o restablecimiento en un estado de conservación favorable de los hábitats naturales y de los hábitats y poblaciones de las
-especies correspondientes.
-e) En los casos en que se pretenda optar por una cofinanciación en aplicación de los artículos 9 del Real
-Decreto 1.997/1995 y 8 de la Directiva 92/43/CEE, deberá incluirse la evaluación de costes y estimación de
-medidas y actuaciones dependientes de dicha cofinanciación y una evaluación del coste de las mismas.
-Disposición Adicional Única.- Las disposiciones específicas de conservación contempladas en el artículo 2 del presente Decreto deberán estar aprobadas antes del 31 de diciembre de 2010, y se han de priorizar
-en función de los factores señalados en el artículo 4.4
-de la Directiva 92/43/CEE y en el artículo 42.3 de la
-Ley 42/2007.
-Disposición Final Primera.- El presente Decreto
-se dicta en el marco de las competencias que corresponden a la Comunidad Autónoma de Canarias en materia de medio ambiente al amparo del artículo 32.12
-del Estatuto de Autonomía de Canarias, sin perjuicio de las competencias que pudieran corresponderle al Estado en virtud de la normativa vigente en la
-materia.
-Disposición Final Segunda.- Se faculta al titular
-de la Consejería competente en materia de medio ambiente de la Administración Pública de la Comunidad Autónoma para dictar cuantas disposiciones y actos resulten necesarios para el desarrollo y ejecución
-del presente Decreto.
-Disposición Final Tercera.- El presente Decreto entrará en vigor el día siguiente al de su publicación en
-el Boletín Oficial de Canarias.
-Dado en Las Palmas de Gran Canaria, a 29 de diciembre de 2009.
-EL PRESIDENTE
-DEL GOBIERNO,
-Paulino Rivero Baute.
-EL CONSEJERO DE MEDIO AMBIENTE
-Y ORDENACIÓN TERRITORIAL,
-Domingo Berriel Martínez.
-ANEXO I.- LISTADO DE ESPACIOS QUE SE DECLARAN ZONAS ESPECIALES DE CONSERV ACIÓN CON INDICACIÓN DE LOS HÁBITATS Y ESPECIES QUE MOTI-
-V ARON DICHA DECLARACIÓN, SU REPRESENTACIÓN
-CARTOGRÁFICA, ASÍ COMO, LAS NORMAS VIGENTES
-EN LAS QUE SE ESTABLECEN LAS MEDIDAS ESPECÍFICAS PARA SU PROTECCIÓN.
-ANEXO II.- COORDENADAS CORRESPONDIENTES A
-LAS DESCRIPCIONES GEOMÉTRICAS EN BASE A LAS CUALES SE DELIMITAN LOS ESPACIOS QUE SE DECLARAN
-ZONAS ESPECIALES DE CONSERV ACIÓN.
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
----
+DISPONGO:
 
-## Relaciones Normativas y Fundamentos de Derecho
+### Capítulo I. Disposiciones Generales
 
-### Relaciones Directas
-- **Desarrolla**: [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
-- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- **Fundamento de**: [**Resolucion BOC 125**](../07_convivencia_bienestar_y_protocolos/R19_2_2025_establece_protocolo_actuacion_ante_situaciones_acoso.md)
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 168/2009.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-### Fundamentos de Derecho
-- [**L31_1995 Prevencion de Riesgos Laborales (LPRL)**](../../../estatal/02_gestion_y_administracion_centros/L31_1995_prevencion_riesgos_laborales.md)
-- [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 168/2009.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 168/2009.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 168/2009.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

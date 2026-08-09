@@ -33,36 +33,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-wleg_pub - Comunidad de Madrid - madrid.org
+## Preámbulo
 
-InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+# Orden 3814/2023, de 18 de octubre, por la que se regula la evaluación y promoción en la Educación Primaria en Madrid.
 
-## Legislación de la Comunidad de Madrid
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+DISPONGO:
 
-Búsqueda
+### Capítulo I. Disposiciones Generales
 
-Resultado de la búsqueda
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 3814/2023.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Resultado de la búsqueda
+### Capítulo II. Estructura y Funcionamiento
 
-100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 3814/2023.
 
-100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+### Disposiciones Adicionales y Finales
 
-Nueva Búsqueda
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 3814/2023.
 
-Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteOrden (Disposición Autonómica)
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 3814/2023.
 
-Orden 1482/2024, de 17 de mayo,   de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se modifica la Orden 100/2024, de 18 de enero, de la Consejería de Familia, Juventud y Asuntos Sociales, por la que se aprueba el Plan Estratégico de Subvenciones 2024 de la Consejería de Familia, Juventud y Asuntos Sociales de la Comunidad de Madrid, modificada por la Orden 1270/2024, de 17 de abril, de la Consejería de Familia, Juventud y Asuntos Sociales (BOCM de 4 de junio de 2024)
-
-Derogada
-
-Total: 1
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

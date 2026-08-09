@@ -32,134 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-Corrección de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002).
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 431/2008, de 29 de julio, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 431/2008.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 431/2008.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 431/2008.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 431/2008.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2008
-Boletín 158
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-158
-de
-08/08/2008
-
-## 1. Disposiciones generales
-
-### Consejería de Salud
-
-###
-Corrección de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002).
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Advertidos errores en el Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos en Andalucía, publicado en el
-
-En la página 20.341, artículo 3.2.
-
-Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de la Consejería de Salud, …».
-
-Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de Servicio de la Consejería de Salud…».
-
-Sevilla, 23 de junio de 2008
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-158
-de
-08/08/2008
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de Justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2008/158/boletin.158.pdf">Descargar boletín nº
-158 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

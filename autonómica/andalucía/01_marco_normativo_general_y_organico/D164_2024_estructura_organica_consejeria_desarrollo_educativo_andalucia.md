@@ -39,57 +39,38 @@ relaciones:
 
 ## Preámbulo
 
-# Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional.
+# Decreto 164/2024, de 26 de agosto, por el que se establece la estructura orgánica de la Consejería de Desarrollo Educativo y Formación Profesional de la Junta de Andalucía.
 
-El Decreto del Presidente 6/2024, de 29 de julio, sobre reestructuración de Consejerías, establece en su artículo 6 que corresponden a la Consejería de Desarrollo Educativo y Formación Profesional las competencias atribuídas a la Comunidad Autónoma de Andalucía en materia de enseñanza no universitaria. Con la finalidad de adecuar la estructura orgánica de la Consejería a los principios de eficacia, eficiencia, racionalización y simplificación administrativa, resulta necesario aprobar una nueva disposición reguladora de su estructura central y territorial.
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-En su virtud, de acuerdo con lo dispuesto en el artículo 27.16 de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, a propuesta de la Consejera de Desarrollo Educativo y Formación Profesional, previa deliberación del Consejo de Gobierno en su reunión del día 26 de agosto de 2024,
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
 DISPONGO:
 
-### Capítulo I. Organización General de la Consejería
+### Capítulo I. Disposiciones Generales
 
-#### Artículo 1. Competencias de la Consejería de Desarrollo Educativo y Formación Profesional
-1. Corresponden a la Consejería de Desarrollo Educativo y Formación Profesional las competencias en materia de educación no universitaria, formación profesional, innovación educativa, orientación escolar, evaluación del sistema educativo y supervisión e inspección educativa.
-2. La Consejería ejercerá sus funciones a través de sus órganos centrales y de las Delegaciones Territoriales de Desarrollo Educativo y Formación Profesional y de Universidad, Investigación e Innovación en cada una de las provincias andaluzas.
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 164/2024.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-#### Artículo 2. Órganos centrales de la Consejería
-1. La Consejería de Desarrollo Educativo y Formación Profesional, bajo la superior dirección de su titular, se estructura en los siguientes órganos directivos centrales:
-a) Viceconsejería.
-b) Secretaría General Técnica.
-c) Secretaría General de Formación Profesional y Tecnología Educativa.
-d) Dirección General de Ordenación, Inclusión y Evaluación Educativa.
-e) Dirección General de Profesorado y Gestión de Recursos Humanos.
-f) Dirección General de Planificación, Centros y Enseñanza Concertada.
-g) Dirección General de Tecnologías Avanzadas y Transformación Educativa.
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-### Capítulo II. Funciones de los Órganos Directivos Centrales
+### Capítulo II. Estructura y Funcionamiento
 
-#### Artículo 3. Viceconsejería
-1. La persona titular de la Viceconsejería ejerce la jefatura superior de la Consejería tras su titular, correspondiéndole la representación ordinaria y la coordinación general de los órganos directivos centrales y periféricos.
-2. Le corresponde la supervisión de la Inspección General de Educación y el seguimiento de las políticas autonómicas en materia de calidad e innovación educativa.
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 164/2024.
 
-#### Artículo 4. Dirección General de Ordenación, Inclusión y Evaluación Educativa
-Corresponde a la Dirección General de Ordenación, Inclusión y Evaluación Educativa la gestión y desarrollo del currículo de las diferentes enseñanzas no universitarias, la ordenación de las medidas de atención a la diversidad y educación inclusiva, los programas de orientación educativa y la evaluación del rendimiento escolar.
-
-#### Artículo 5. Dirección General de Profesorado y Gestión de Recursos Humanos
-Corresponde a la Dirección General de Profesorado y Gestión de Recursos Humanos la planificación, gestión e inspección del personal docente no universitario, la tramitación de las ofertas de empleo público docente, los procedimientos de provisión de puestos de trabajo y la regulación del profesorado interino.
-
-#### Artículo 6. Dirección General de Formación Profesional
-Corresponde a esta Dirección General la planificación, diseño, autorización y evaluación de los ciclos formativos de Formación Profesional en sus modalidades presencial, a distancia y dual, así como la acreditación de competencias profesionales.
-
-### Capítulo III. Organización Territorial y Servicios Periféricos
-
-#### Artículo 7. Delegaciones Territoriales
-En cada una de las provincias andaluzas existirá una Delegación Territorial que ejercerá las funciones de representación ordinaria de la Consejería y la gestión directa de los centros públicos, programas escolares y servicios complementarios de su ámbito provincial.
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
 ### Disposiciones Adicionales y Finales
 
-#### Disposición Derogatoria Única. Derogación normativa
-Queda derogado el Decreto 154/2022, de 9 de agosto, por el que se establecía la anterior estructura orgánica de la Consejería, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Decreto.
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 164/2024.
 
-#### Disposición Final Primera. Habilitación para el desarrollo reglamentario
-Se faculta a la persona titular de la Consejería de Desarrollo Educativo y Formación Profesional para dictar las disposiciones necesarias en desarrollo y ejecución del presente Decreto.
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 164/2024.
 
 #### Disposición Final Segunda. Entrada en vigor
-El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía.
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

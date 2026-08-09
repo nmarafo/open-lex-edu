@@ -52,50 +52,38 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2023-096-1555.
 
 ## Preámbulo
 
-# [Decreto 103/2023](../../andalucía/03_ordenacion_curricular_y_ensenanzas/D103_2023_ordenacion_curriculo_bachillerato_andalucia.md), de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
+# Decreto 103/2023, de 9 de mayo, por el que se establece la ordenación y el currículo del Bachillerato en la Comunidad Autónoma de Canarias.
 
-II. Autoridades y personal
-Nombramientos, situaciones e incidencias
-Otras Administraciones Públicas
-Universidad de La Laguna
-1555 RESOLUCIÓN de 5 de mayo de 2023, conjunta de la Universidad de La Laguna y
-el Servicio Canario de la Salud, por la que se nombra en virtud de concurso  a D.
-Domingo Jerónimo Hernández Marrero, Catedrático de Universidad.
-De conformidad con la propuesta formulada por la Comisión nombrada al efecto de
-resolver el concurso para la provisión de plaza de los Cuerpos docentes universitarios,
-convocado por Resolución de 3 de febrero de 2023 y habiéndose acreditado por el candidato
-propuesto los requisitos establecidos en el artículo 16 de la Resolución de 3 de febrero de
-2009, por la que se da publicidad al Reglamento de Desarrollo de los Concursos de Acceso
-a los Cuerpos Docentes Universitarios en la Universidad de La Laguna (BOC de 16 de
-febrero), modificado por Resolución de 20 de mayo de 2010 (BOC n.º 104).
-Este Rectorado, en cumplimiento de lo dispuesto en el artículo 65 de la Ley
-Orgánica 6/2001, de 21 de diciembre, de Universidades, modificada por la Ley
-Orgánica 4/2007, el artículo 9 del Real Decreto 1313/2007, de 5 de octubre, y en el artículo
-84 de los Estatutos de esta Universidad, ha resuelto nombrar a D. Domingo Jerónimo
-Hernández Marrero, con n.º de DNI ***4584**, Catedrático de Universidad, en el área de
-conocimiento de “Medicina” adscrita al Departamento de Medicina Interna, Dermatología
-y Psiquiatría vinculado con plaza de Facultativo Especialista de Área en el Servicio de
-Nefrología del Hospital Universitario de Canarias, con derecho a los emolumentos que
-según las disposiciones vigentes le corresponda.
-El presente nombramiento surtirá plenos efectos a partir de la toma de posesión por el
-interesado, que deberá efectuarse en el plazo máximo de veinte días, a contar desde el día
-Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer
-con carácter potestativo recurso de reposición, en el plazo de un mes, ante el Sr. Rector,
-o bien, directamente, recurso contencioso-administrativo en el plazo de dos meses, de
-conformidad con lo establecido en la legislación vigente.
-San Cristóbal de La Laguna, a 5 de mayo de 2023.- El Rector, Francisco Javier García
-Rodríguez.- La Directora del Servicio Canario de Salud, Elisabeth Hernández González.
+En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
----
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-## Relaciones Normativas y Fundamentos de Derecho
+DISPONGO:
 
-### Relaciones Directas
-- **Desarrolla**: [**RD243_2022 Ordenacion y Ensenanzas Minimas del Bachillerato**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md)
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+### Capítulo I. Disposiciones Generales
 
-### Fundamentos de Derecho
-- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 103/2023.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 103/2023.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 103/2023.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 103/2023.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

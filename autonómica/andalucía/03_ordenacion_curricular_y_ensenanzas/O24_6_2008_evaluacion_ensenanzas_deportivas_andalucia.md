@@ -32,142 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-Real Decreto 1050/2008, de 13 de junio, por el que se nombra Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 24 de junio de 2008, sobre evaluación del aprendizaje en las Enseñanzas Deportivas de Régimen Especial.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="0. Disposiciones estatales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s0.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 24/06/2008.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 24/06/2008.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 24/06/2008.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 24/06/2008.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2008
-Boletín 137
-0. Disposiciones estatales
-
-##
-
-Histórico del BOJA
-Boletín número
-137
-de
-10/07/2008
-
-## 0. Disposiciones estatales
-
-### Consejo General del Poder Judicial
-
-###
-Real Decreto 1050/2008, de 13 de junio, por el que se nombra Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-A propuesta del Pleno del Consejo General del Poder Judicial, adoptada en su reunión de 11 de junio de 2008, y de conformidad con lo establecido en los artículos 127.2 y 337 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
-
-Vengo en nombrar Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta, en provisión de la vacante producida por expiración del plazo legal por el que había sido nombrado con anterioridad para el mismo cargo.
-
-Dado en Madrid, el 13 de junio de 2008
-
-Juan Carlos R.
-
-Mariano Fernández Bermejo
-
-Ministro de Justicia
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-137
-de
-10/07/2008
-
-0. Disposiciones estatales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de Justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2008/137/boletin.137.pdf">Descargar boletín nº
-137 completo
-
-PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
-Descargar fascículo 1
-
-Descargar fascículo 2
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

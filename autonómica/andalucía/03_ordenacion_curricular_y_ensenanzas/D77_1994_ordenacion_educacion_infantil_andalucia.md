@@ -32,159 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-DECRETO del Presidente 85/1994, de 18 de abril, por el que se convocan elecciones al Parlamento de Andalucía.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 77/1994, de 5 de abril, por el que se regula la Educación Infantil en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 77/1994.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 77/1994.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 77/1994.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 77/1994.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1994
-Boletín 52
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-52
-de
-19/4/1994
-
-## 1. Disposiciones generales
-
-### Presidencia
-
-### DECRETO del Presidente 85/1994, de 18 de abril, por el que se convocan elecciones al Parlamento de Andalucía.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Próximo a expirar el mandato del Parlamento de Andalucía por el transcurso del plazo de cuatro años fijado en el artículo 26.2 del Estatuto de Autonomía, y conforme a lo previsto en el artículo 14.c) de la Ley
-
-6/1983, del Gobierno y la Administración de la Comunidad Autónoma, modificada por la Ley 1/1990, de 30 de enero, se hace preciso expedir el Decreto de convocatoria de las próximas elecciones a dicho Parlamento. En este sentido, la modificación introducida precisamente en el artículo 14 de la Ley 6/1983 por el artículo primero de la Ley 1/1990, faculta al Presidente de la Junta, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, a anticipar el proceso electoral hasta un máximo de sesenta días cuando, como consecuencia de los plazos previstos por el procedimiento electoral, las elecciones deban celebrarse en los meses de julio y agosto, como sería el caso de estas elecciones, sin que ello afecte al mandato de los actuales diputados.
-
-Por otra parte, la Ley 1/1986, de 2 de enero, Electoral de Andalucía, establece en sus artículos 14, 15, 17 y 27 los requisitos que debe contener el Decreto de convocatoria, previsión que debe completarse con lo dispuesto en el artículo 51 de la Ley Orgánica del Régimen Electoral General. En su virtud, y en uso de la facultad que me confieren los artículos 14.c) de la Ley 6/1983 y 14.1 de la Ley Electoral de Andalucía, previa deliberación del Consejo de Gobierno en su reunión del día 12 de abril de
-
-1994,
-
-DISPONGO
-
-Artículo Primero.Se convocan elecciones al Parlamento de Andalucía que tendrán lugar el domingo 12 de junio de 1994.
-
-Artículo Segundo.En aplicación de lo dispuesto en el artículo 17.4 de la Ley Electoral de Andalucía, el número de diputados a elegir en cada circunscripción es el siguiente:
-
-Circunscripción Diputados
-
-Almería Once Cádiz Quince Córdoba Trece Granada Trece Huelva Once Jaén Doce Málaga Dieciséis Sevilla Dieciocho
-
-Artículo Tercero. La campaña electoral durará quince días, comenzando a las cero horas del viernes 27 de mayo y finalizando a las veinticuatro horas del viernes 10 de junio.
-
-Artículo Cuarto. Celebradas las elecciones convocadas por el presente Decreto, el Parlamento resultante se reunirá para su sesión constitutiva el día 5 de julio a las 12 horas.
-
-Artículo Quinto. Las elecciones convocadas por el presente Decreto se regirán por la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, modificada por las Leyes Orgánicas 1/1987, de 2 de abril; 8/1991, de 13 de marzo; 6/1992, de 2 de noviembre, y 13/1994, de 30 de marzo; la Ley
-
-1/1986, de 2 de enero, Electoral de Andalucía; el Decreto 70/1986, de 23 de abril, modificado por los Decretos 100/1990, de 13 de marzo, y 61/1994, de
-
-15 de marzo; el Real Decreto 421/1991, de 5 de abril, modificado por el Real Decreto 563/1993, de 16 de abril, y por la restante normativa de desarrollo.
-
-Artículo Sexto. En cumplimiento de lo dispuesto en el artículo 15 de la Ley Electoral de Andalucía, el presente Decreto se insertará íntegramente en los Boletines Oficiales de las ocho provincias andaluzas dentro de los ocho días siguientes a su publicación.
-
-DISPOSICION FINAL
-
-El presente Decreto entrará en vigor el mismo día de su publicación en el
-
-Sevilla, 18 de abril de 1994
-
-MANUEL CHAVES GONZALEZ
-
-Presidente de la Junta de Andalucía
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-52
-de
-19/4/1994
-
-1. Disposiciones generales
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1994/52/boletin.52.pdf">Descargar boletín nº
-52 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

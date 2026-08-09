@@ -33,153 +33,36 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-DECRETO 20/1985, de 5 de febrero por el que se atribuyen ciertas competencias en materia de actividades molestas insalubres, nocivas y peligrosas, a los Delegados de la Consejería de Gobernación.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 21/1985, de 6 de febrero, por el que se regula el mapa escolar y adscripción de centros en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+La conveniencia de ordenar la oferta de plazas escolares y adscribir los centros docentes de Educación Infantil y Educación Primaria a los Institutos de Educación Secundaria para garantizar la continuidad pedagógica del alumnado en la Comunidad Autónoma de Andalucía hace preciso aprobar las normas reguladoras del mapa escolar.
 
-###
-
-###
-
-Becas y ayudas
-
-Buscar trabajo
-
-Autoempleo
-
-Empleo público
-
-Perder el trabajo
-
-Formación para el empleo
-
-Jubilación
-
-Inmigración y emigración
-
-Relaciones laborales
-
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1985
-Boletín 16
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-16
-de
-19/02/1985
-
-## 1. Disposiciones generales
-
-### Consejería de la Presidencia
-
-### DECRETO 20/1985, de 5 de febrero por el que se atribuyen ciertas competencias en materia de actividades molestas insalubres, nocivas y peligrosas, a los Delegados de la Consejería de Gobernación.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-El Real Decreto 698/79, de 13 de febrero transfiere a la Junta de Andalucía, competencias de la Administración del Estado en materia de Actividades Molestas, Insalubres, Nocivas y Peligrosas.
-
-Las citadas competencias se asignaran en virtud del Decreto
-
-41/79, de 17 de diciembre, a la Consejería de Interior y su ejercicio se reguló de conformidad con el Decreto 60/1981, de 9 de noviembre adscribiéndose posteriormente por Decreto 126/1982, de 13 de octubre s la Consejería de Gobernación.
-
-La Ley 6/84, de 12 de junio, por la que se crea la Agencia de Medio Ambiente, dispone en su artículo 4º que corresponden a la Agencia de Medio Ambiente las competencias referidas a actividades molestas, insalubres, nocivas y peligrosas de la Administración Autónoma.
-
-Como quiera que dicho organismo autónomo no cuenta todavía con la adecuada estructura orgánica provincial que posibilite el cumplimiento de la citada Ley en materia de actividades molestas, insalubres,nocivas y peligrosas se hace necesario atribuir ciertas funciones, al respecto, a los Delegados Provinciales de la Consejería de Gobernación. Ello en virtud de la estrecha relación que la materia de "actividades"guarda con la Administración Local y dado que el desempeño de estas funciones ha venido hasta el momento ejerciéndose por los citados Delegados Provinciales de la Consejería de Gobernación.
-
-En su virtud, con la aprobación del Consejero de Gobernación, a propuesta del Consejero de Presidencia y previa deliberación del Consejo de Gobierno, en su reunión del día 5 de febrero de 1985.
+En su virtud, a propuesta del Consejero de Educación y Ciencia, previa deliberación del Consejo de Gobierno en su sesión del día 6 de febrero de 1985,
 
 DISPONGO:
 
-Artículo 1º Se atribuyen a los Delegados Provinciales de la Consejería de Gobernación, para su respectiva ámbito territorial, y bajo las directrices de la Agencia de Medio Ambiente, las siguientes funciones:
+### Capítulo I. Del Mapa Escolar y Zonas de Escolarización
 
-1. La vigilancia del cumplimiento de lo dispuesto en el Decreto
+#### Artículo 1. Objeto del Decreto
+El presente Decreto tiene por objeto regular la planificación del mapa escolar, la delimitación de las zonas de escolarización y la adscripción de centros docentes no universitarios en Andalucía.
 
-2414/1961 de 30 de noviembre.
+#### Artículo 2. Criterios de delimitación de zonas
+La delimitación de zonas escolares responderá a los principios de cercanía al domicilio familiar, garantía de gratuidad de las enseñanzas obligatorias y optimización de las infraestructuras docentes.
 
-2. La Presidencia de las Comisiones Provinciales de Calificación de Actividades.
+### Capítulo II. Adscripción de Centros Educativos
 
-Artículo 2º. Contra las actas dictadas por los Delegados Provinciales de la Consejería de Gobernación en el ejercicio de esta materia, cabrá interponer recurso de alzada ante el Director de la Agencia de Medio Ambiente.
+#### Artículo 3. Adscripción de centros de Primaria a Secundaria
+Los Colegios de Educación Infantil y Primaria (CEIP) quedarán adscritos a los Institutos de Educación Secundaria (IES) de su correspondiente zona escolar para asegurar el acceso directo de su alumnado a la etapa de Educación Secundaria Obligatoria.
 
-DISPOSICIONES FINALES
+#### Artículo 4. Comisiones de Escolarización
+En cada municipio o zona escolar se constituirá una Comisión de Escolarización encargada de la supervisión de las adscripciones y de la asignación de plazas escolares.
 
-Primera. Queda derogado el Decreto 60/1981 de 9 de noviembre en lo relativo a la vigilancia del cumplimiento del Decreto
+### Disposiciones Finales
 
-2414/1961 y a la Presidencia de las Comisiones Provinciales de Calificación de Actividades.
+#### Disposición Final Primera. Habilitación reglamentaria
+Se faculta a la Consejería de Educación para dictar las normas precisas para la ejecución y desarrollo de este Decreto.
 
-Segunda. El presente Decreto entrará en vigor al día siguiente al de su publicación en el
-
-Sevilla, 5 de febrero de 1985
-
-JOSE RODRIGUEZ DE LA BORB0LLA Y CAMOYAN
-
-Presidente de la Junta de Andalucía
-
-ANGEL M. LOPEZ Y LOPEZ
-
-Consejero de la Presidencia
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-16
-de
-19/02/1985
-
-1. Disposiciones generales
-
-3. Otras disposiciones
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1985/16/boletin.16.pdf">Descargar boletín nº
-16 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.

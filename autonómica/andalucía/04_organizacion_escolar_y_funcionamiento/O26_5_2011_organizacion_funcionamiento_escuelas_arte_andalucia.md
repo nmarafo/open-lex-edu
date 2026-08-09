@@ -33,159 +33,40 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
-Resolución de 2 de junio de 2011, de la Viceconsejería, por la que se adjudica puesto de trabajo por el sistema de libre designación convocado por Resolución que se cita.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 26 de mayo de 2011, por la que se regulan la organización y funcionamiento de las Escuelas de Arte.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 26/05/2011.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 26/05/2011.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 26/05/2011.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 26/05/2011.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2011
-Boletín 116
-<a href="../../2011/116/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
-
-##
-
-Histórico del BOJA
-Boletín número
-116
-de
-15/06/2011
-
-## 2. Autoridades y personal2.1. Nombramientos, situaciones e incidencias
-
-### Consejería de Economía, Innovación y Ciencia
-
-###
-Resolución de 2 de junio de 2011, de la Viceconsejería, por la que se adjudica puesto de trabajo por el sistema de libre designación convocado por Resolución que se cita.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, vistos los informes a que se refiere el artículo 63 del Reglamento General de Ingreso, Promoción Interna, Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios de la Administración General de la Junta de Andalucía, aprobado por el Decreto 2/2002, de 9 de enero, y teniendo en cuenta la competencia que se delega en la Orden de 24 de junio de 2010 (
-
-La toma de posesión se efectuará en los plazos establecidos en el artículo 65 del Reglamento General anteriormente citado, remitiéndose la documentación correspondiente para su inscripción al Registro General de Personal.
-
-Contra la presente Resolución, que pone fin a la vía administrativa, cabe interponer recurso contencioso-administrativo, en el plazo de dos meses contados desde el día siguiente a la notificación-publicación de esta Resolución, ante el Juzgado de lo Contencioso-Administrativo donde tenga su domicilio el/la demandante o se halle la sede del órgano autor del acto impugnado, a elección de éste/a de acuerdo con lo previsto en los arts. 8.14 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa. Sin perjuicio de la interposición del recurso potestativo de reposición en el plazo de un mes (art. 116 de la Ley 30/1992, de 26 de noviembre).
-
-Sevilla, 2 de junio de 2011.- El Viceconsejero, Luis Nieto Ballesteros.
-
-ANEXO
-
-DNI: 27322806-W.
-
-Primer apellido: Rubio.
-
-Segundo apellido: Pineda.
-
-Nombre: Juan Carlos.
-
-Código P.T.: 6680510.
-
-Puesto de trabajo: Gbte. Producción Sistemas Corporativos.
-
-Consejería/Org. Autónomo: Consejería de Economía, Innovación y Ciencia.
-
-Centro Directivo: Secretaría General de Innovación y Sociedad de la Información.
-
-Centro destino: Secretaría General de Innovación y Sociedad de la Información.
-
-Provincia: Sevilla.
-
-Localidad: Sevilla.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d3.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición anterior
-
-Disposición siguiente
-
-BOJA nº
-116
-de
-15/06/2011
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de Justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2011/116/boletin.116.pdf">Descargar boletín nº
-116 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

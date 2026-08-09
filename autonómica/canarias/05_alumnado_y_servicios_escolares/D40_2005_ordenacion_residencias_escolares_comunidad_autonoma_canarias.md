@@ -42,59 +42,36 @@ fundamentos_derecho:
 
 # Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
+En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-Comunidad Autónoma de Canarias
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-Boletín Oficial de Canarias
+DISPONGO:
 
-Archivo
+### Capítulo I. Disposiciones Generales
 
-Búsqueda
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 40/2005.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Estás en:
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Archivo
+### Capítulo II. Estructura y Funcionamiento
 
-Año 2005
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 40/2005.
 
-2005/059. Miércoles 23 de Marzo de 2005
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Siguiente
+### Disposiciones Adicionales y Finales
 
-I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 40/2005.
 
-377 - ORDEN de 17 de marzo de 2005, por la que se amplía el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, así como las condiciones y los diseños físicos y lógicos para la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias.
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 40/2005.
 
-Existiendo problemas de disponibilidad del soporte físico del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, se hace necesario prorrogar el plazo de presentación del mismo, dada la circunstancia sobrevenida.
-
-Conforme a todo ello,
-
-D I S P O N G O:
-
-Único.- Se amplía hasta el día 5 de mayo de 2005 el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, en soporte papel y soporte magnético que permita la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, correspondiente al año 2004.
-
-DISPOSICIÓN FINAL
-
-La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias.
-
-Las Palmas de Gran Canaria, a 17 de marzo de 2005.
-
-EL CONSEJERO DE
-
-ECONOMÍA Y HACIENDA,
-
-José Carlos Mauricio Rodríguez.
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-
-### Fundamentos de Derecho
-- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

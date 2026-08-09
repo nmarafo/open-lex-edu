@@ -32,153 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-Orden de 13 de junio de 2008, por la que se cesan Consejeros del Consejo Escolar de Andalucía, por el grupo de representantes de personalidades de reconocido prestigio en la enseñanza.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 12 de junio de 2008, por la que se regula la evaluación en las Enseñanzas Artísticas Superiores.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 12/06/2008.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 12/06/2008.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 12/06/2008.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 12/06/2008.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2008
-Boletín 126
-<a href="../../2008/126/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
-
-##
-
-Histórico del BOJA
-Boletín número
-126
-de
-26/06/2008
-
-## 2. Autoridades y personal2.1. Nombramientos, situaciones e incidencias
-
-### Consejería de Educación
-
-###
-Orden de 13 de junio de 2008, por la que se cesan Consejeros del Consejo Escolar de Andalucía, por el grupo de representantes de personalidades de reconocido prestigio en la enseñanza.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-De acuerdo con lo establecido en el artículo 10.1.c) del Decreto 332/1988, de 5 de diciembre, por el que se regula la composición y funcionamiento de los Consejos Escolares de ámbito territorial en la Comunidad Autónoma de Andalucía, y en virtud de las atribuciones conferidas por el mencionado artículo 10 de dicho Decreto,
-
-DISPONGO
-
-Artículo Único. Cesar como Consejeros del Consejo Escolar de Andalucía, por el grupo de representantes de Personalidades de Reconocido Prestigio en la Enseñanza a:
-
-Titular: Doña Carmen Rodríguez Martínez.
-
-Sustituto: Don Carlos Gómez Oliver.
-
-Titular: Doña M.ª José Vázquez Morillo.
-
-Sustituto: Don Fernando Contreras Ibáñez.
-
-Titular: Doña Mercedes González Fontádez.
-
-Sustituta: Doña M.ª Luz Osorio Teva.
-
-Titular: Don Emilio Iguaz de Miguel.
-
-Titular: Don Emilio Solís Ramírez.
-
-Sustituto: Don Manuel Alcaide Calderón.
-
-Sevilla, 13 de junio de 2008
-
-Teresa Jiménez VÍlchez
-
-Consejera de Educación
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-126
-de
-26/06/2008
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de Justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2008/126/boletin.126.pdf">Descargar boletín nº
-126 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

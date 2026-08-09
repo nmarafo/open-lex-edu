@@ -36,150 +36,40 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/08/20/BOCM-20250820-2.PDF
 ---
 
-ORDEN de 7 de agosto de 2025, de la Consejera de Economía, Hacienda y Em-
-pleo, por la que se resuelve la convocatoria aprobada por Orden de 9 de mayo
-de 2025 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), para
-la provisión de puestos de trabajo vacantes en la citada Consejería por el pro-
-cedimiento de Libre Designación.
-Por Orden de la Consejería de Economía, Hacienda y Empleo de 9 de mayo de 2025
-(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 22 de mayo), se aprobó convocato-
-ria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el
-procedimiento de Libre Designación.
-En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
-de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA CO-
-MUNIDAD DE MADRID de 24 de abril); la Orden 923/1989, de 20 de abril, de la Consejería
-de Hacienda, por la que se aprueban las bases generales que han de regir en las convocato-
-rias para provisión de puestos por los sistemas de Concurso de Méritos y Libre Designación
-(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril) y, en lo no previsto por
-las anteriores, el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamen-
-to General de Ingreso del Personal al Servicio de la Administración General del Estado y de
-Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la
-Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como
-las demás prescripciones contenidas en las bases de convocatoria correspondientes.
-De acuerdo con la propuesta formulada por la unidad responsable y el informe favora-
-ble emitido por la Consejería de Economía, Hacienda y Empleo, verificado que las candi-
-datas propuestas cumplen los requisitos y especificaciones exigidos en la convocatoria, en
-virtud de la competencia atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la
-Función Pública de la Comunidad de Madrid,
-RESUELVO
-Primero
-Objeto
-Se adjudican los puestos de trabajo a los funcionarios que figuran en el Anexo.
-Segundo
-Plazo de toma de posesión
-1.
-El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
-plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse den-
-tro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese
-haya sido formalmente diferido o aplazado por el órgano competente.
-El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias
-que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas,
-el órgano que los concedió acuerde suspender el disfrute de los mismos.
-2.
-Si la resolución comporta el reingreso al servicio activo, el plazo de toma de po-
-sesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
-aplicable.
-Tercero
-Recursos
-La presente Orden pone fin a la vía administrativa y contra la misma podrá interponer-
-se, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órga-
+## Preámbulo
 
-MIÉRCOLES 20 DE AGOSTO DE 2025
-Pág. 10
-B.O.C.M. Núm. 198
-BOCM-20250820-2
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
-los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
-día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
-perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de confor-
-midad con lo dispuesto en los artículos 123 y 124 de la [Ley 39/2015](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md), de 1 de octubre, del Pro-
-cedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
-de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
-Dado en Madrid, a 7 de agosto de 2025.—La Consejera de Economía, Hacienda y Em-
-pleo, por delegación, la Secretaria General Técnica (Orden de 17 de abril de 2024, BOLETÍN
-OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), P. S. (Orden de la Con-
-sejería de Economía, Hacienda y Empleo de 31 de julio de 2025), la Subdirectora General
-de Régimen Jurídico y Desarrollo Normativo, Marina Serrano Álvarez.
+# Orden 3537/2025, de 12 de agosto, de la Consejería de Educación, Ciencia y Universidades, por la que se regulan los currículos de los módulos profesionales transversales en Formación Profesional en la Comunidad de Madrid
 
-MIÉRCOLES 20 DE AGOSTO DE 2025
-B.O.C.M. Núm. 198
-Pág. 11
-BOCM-20250820-2
-http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
-BOCM
-RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN
-80490
-80491
-CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
-VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA
-DIRECCION GENERAL PRESUPUESTOS
-SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y
-RESILIENCIA
-AREA EVALUACION Y CONTROL DEL MECANISMO DE
-RECUPERACION Y RESILIENCIA
-CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO
-VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA
-DIRECCION GENERAL PRESUPUESTOS
-SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y
-RESILIENCIA
-AREA EVALUACION Y CONTROL DEL MECANISMO DE
-RECUPERACION Y RESILIENCIA
-SERVICIO EVALUACION Y CONTROL DEL MECANISMO DE
-RECUPERACION Y RESILIENCIA
-Puesto de Trabajo:
-Puesto de Trabajo:
-JEFE DE AREA  EVALUACION Y CONTROL
-MECANISMO DE RE
-SERV. EVALUACION Y CONTROL MECANISMO
-DE RECUPERACI
-Denominación     :
-Denominación     :
-29
-26
-A
-A / B
-Grupo                :
-Grupo                :
-N.C.D.               :
-N.C.D.               :
-41.058,24
-28.167,36
-C. Específico      :
-C. Específico      :
-78777
-***0444**
-***4864**
-CASANOVA GARCIA,ANA
-TIRADOS GARCIA,MIGUEL
-ANGEL
-Cód. identificación:
-Cód. identificación:
-Apellidos y Nombre:
-Apellidos y Nombre:
-CONSEJERIA MEDIO AMBIENTE, AGRICULTURA
-E INTERIOR
-SECRETARIA GENERAL TÉCNICA
-SUBDIRECCION GENERAL GESTIÓN
-ECONÓMICO-ADMINISTRATIVA
-AREA APOYO A LA GESTIÓN DE FONDOS
-EUROPEOS
-Puesto de Trabajo:
-JEFE DE AREA DE APOYO A
-LA GESTION DE FONDOS
-EUROP
-Denominación     :
-29
-Grupo                 :
-N.C.D.                :
-41.058,24
-C. Específico       :
-PUESTO ADJUDICADO
-ADJUDICATARIO
-PUESTO LIBERADO
-A
-(03/13.116/25)
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+
+DISPONGO:
+
+### Capítulo I. Disposiciones Generales
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 3537/2025.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 3537/2025.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 3537/2025.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 3537/2025.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

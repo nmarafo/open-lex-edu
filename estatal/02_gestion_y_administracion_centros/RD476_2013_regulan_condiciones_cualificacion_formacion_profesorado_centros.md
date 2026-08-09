@@ -63,230 +63,40 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
 ---
 
-# Real Decreto 476/2013 - Cualificación del Profesorado en Centros Privados
+## Preámbulo
 
-El artículo 92 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, establece que la atención educativa directa a los niños del primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Maestro con la especialización en Educación Infantil o el título de Grado equivalente y, en su caso, de otro personal con la debida titulación para la atención a las niñas y niños de esta edad. En todo caso, la elaboración y seguimiento de la propuesta pedagógica a la que hace referencia el apartado 2 del artículo 14, estarán bajo la responsabilidad de un profesional con el título de Maestro de Educación Infantil o título de Grado equivalente. El segundo ciclo de Educación Infantil será impartido por profesores con el título de Maestro y la especialidad en Educación Infantil o el título de Grado equivalente y podrán ser apoyados, en su labor docente, por Maestros de otras especialidades cuando las enseñanzas impartidas lo requieran.
+# Real Decreto 476/2013, de 21 de junio, por el que se regulan las condiciones de cualificación y formación del profesorado de los centros privados de educación secundaria obligatoria y de bachillerato.
 
-El artículo 93 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, establece que para impartir las enseñanzas de Educación Primaria será necesario tener el título de Maestro de Educación Primaria o el título de Grado equivalente, sin perjuicio de la habilitación de otras titulaciones universitarias que, a efectos de docencia pudiera establecer el Gobierno para determinadas áreas, previa consulta a las Comunidades Autónomas. La Educación Primaria será impartida por Maestros, que tendrán competencia en todas las áreas de este nivel. La enseñanza de la música, de la Educación Física, de los idiomas extranjeros o de aquellas otras enseñanzas que determine el Gobierno, previa consulta a las Comunidades Autónomas, serán impartidas por Maestros con la especialización o cualificación correspondiente.
+En desarrollo del marco normativo aplicable en la jurisdicción de España, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-El artículo 8 del [Real Decreto 132/2010](RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, por el que se establecen los requisitos mínimos de los centros que impartan las enseñanzas del segundo ciclo de la Educación Infantil, la Educación Primaria y la Educación Secundaria, establece los requisitos de titulación de los profesionales que atienden la Educación Infantil indicando que la atención educativa en el primer ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado que habilite para el ejercicio de la profesión de Maestro de Educación Infantil, el título de Maestro con la especialidad de Educación Infantil, o el título de Técnico Superior en Educación Infantil regulado en el Real Decreto 1394/2007, de 29 de octubre, por el que se establece el título de Técnico Superior en Educación Infantil y se fijan sus enseñanzas mínimas.
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-Asimismo, indica que el segundo ciclo de Educación Infantil correrá a cargo de profesionales que posean el título de Grado en Educación Infantil, o el título de Maestro con la especialidad de Educación Infantil. Cuando las enseñanzas impartidas lo requieran, el grupo podrá ser atendido por Maestros de otras especialidades.
+DISPONGO:
 
-El artículo 12 del [Real Decreto 132/2010](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md), de 12 de febrero, se refiere a los requisitos de titulación académica del profesorado que imparte Educación Primaria, que deberá ser graduado en Educación Primaria o Maestro con la cualificación adecuada para impartir la enseñanza de la Música, la Educación Física y las Lenguas Extranjeras.
+### Capítulo I. Disposiciones Generales
 
-Asimismo indica que, además del personal docente, los centros de Educación Primaria que escolaricen a niños que presenten necesidad específica de apoyo educativo contarán, en su caso, con los recursos humanos y materiales de apoyo que determine la Administración educativa competente, necesarios para garantizar la correcta atención de este alumnado, que deberá disponer de la titulación o cualificación adecuada.
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Real Decreto 476/2013.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Establecidos por tanto los requisitos de titulación para impartir la Educación Infantil y la Educación Primaria, procede dictar una nueva regulación sobre las condiciones de cualificación y formación que deben poseer los Maestros de los centros privados de Educación Infantil y Primaria, que sustituya la Orden de 11 de octubre de 1994, por la que hasta el momento se venían regulando las titulaciones mínimas que deben poseer los profesores de los centros privados de Educación Infantil y Primaria.
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+### Capítulo II. Estructura y Funcionamiento
 
-En la tramitación de este real decreto ha emitido dictamen el Consejo Escolar del Estado a través de su Comisión Permanente, se ha consultado a las comunidades autónomas en la Comisión General de la Conferencia de Educación, y ha informado el Ministerio de Hacienda y Administraciones Públicas.
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Real Decreto 476/2013.
 
-En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 21 de junio de 2013,
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-**DISPONGO:**
+### Disposiciones Adicionales y Finales
 
-#### Artículo 1. Objeto del real decreto.
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Real Decreto 476/2013.
 
-El presente real decreto tiene por objeto regular las condiciones de cualificación y formación que deben poseer los Maestros de los centros privados de Educación Infantil y de Educación Primaria, para impartir las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Real Decreto 476/2013.
 
-#### Artículo 2. Educación Infantil.
-
-1. La Educación Infantil será impartida por Maestros que posean el título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Infantil, de Maestro especialista de Educación Infantil, de Diplomado en Profesorado de Educación General Básica o de Maestro de Primera Enseñanza con la especialidad de Educación Infantil o Educación Preescolar.
-
-2. La atención educativa en el primer ciclo de Educación Infantil correrá a cargo de los Maestros a los que se refiere el apartado anterior y, en su caso, de otro personal con el título de Técnico Superior en Educación Infantil u otros títulos declarados equivalentes.
-
-3. El segundo ciclo de Educación Infantil será impartido por los Maestros a los que se refiere el apartado 1 de este artículo. Cuando las enseñanzas impartidas lo requieran, el grupo podrá ser atendido por Maestros de otras especialidades.
-
-4. Además, podrán impartir Educación Infantil en todos los centros docentes privados de este nivel educativo, los Maestros con el título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria en cualquiera de sus menciones, los Maestros que estén en posesión del título universitario oficial de Maestro en sus diversas especialidades, los diplomados en Profesorado de Educación General Básica, y los Maestros de Primera Enseñanza, siempre que estén en posesión de alguno de los siguientes requisitos:
-
-a) Especialidad en Educación Preescolar o en Pedagogía Preescolar de las licenciaturas de Filosofía y Letras (Sección Ciencias de la Educación) o de Filosofía y Ciencias de la Educación (Sección Ciencias de la Educación).
-
-b) Haber superado los cursos de la especialidad en Educación Infantil, según lo establecido en el artículo 7 de este real decreto.
-
-c) Haber superado la fase de oposición de la especialidad de Educación Infantil, según lo establecido en el artículo 8 de este real decreto.
-
-#### Artículo 3. Educación Primaria.
-
-1. La Educación Primaria será impartida por Maestros con el título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria, Maestros que estén en posesión del título universitario oficial de Maestro en cualquiera de sus especialidades, Diplomados en Profesorado de Educación General Básica en cualquiera de sus especialidades, o Maestros de Primera Enseñanza.
-
-2. Asimismo, las enseñanzas de la Educación Primaria podrán ser impartidas por Maestros con el título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Infantil, con el requisito de haber superado la fase de oposición de la especialidad de Educación Primaria según lo establecido en el artículo 8 de este real decreto.
-
-#### Artículo 4. Enseñanzas de las áreas de Educación Primaria.
-
-Los Maestros a los que se refiere el artículo anterior podrán impartir todas las áreas de conocimiento de la Educación Primaria, sin perjuicio de lo dispuesto en el artículo 5 para las enseñanzas de música, de Educación Física y de Lengua Extranjera.
-
-#### Artículo 5. Enseñanzas de Música, de Educación Física y de Lengua Extranjera (Inglés, Francés, Alemán) en la Educación Primaria.
-
-1. Las enseñanzas de Música, de Educación Física y de Lengua Extranjera (Inglés, Francés, Alemán) en la Educación Primaria, serán impartidas por Maestros que estén en posesión del título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria y que incluya, respectivamente, una mención en Música, Educación Física o Lengua Extranjera en el idioma correspondiente y, para esta última, además, la acreditación del nivel B2 del Marco Común Europeo de Referencia para las Lenguas, en la lengua correspondiente.
-
-Estas enseñanzas también podrán ser impartidas por quienes estén en posesión del título de Maestro especialista en Música, Educación Física o Lengua Extranjera en el idioma correspondiente, respectivamente, o Diplomado en Profesorado de Educación General Básica o Maestro de Primera Enseñanza con la especialidad correspondiente.
-
-2. Los Maestros a los que se refiere el apartado anterior que carezcan de la mención cualificadora, requisitos o especialidad indicada, podrán impartir las enseñanzas de Música, de Educación Física o de Lengua Extranjera en centros docentes privados de Educación Primaria, siempre que estén en posesión de alguno de los siguientes requisitos:
-
-a) Enseñanzas de Música:
-
-1.º Título Superior de Música relativo a las enseñanzas artísticas superiores a que se refiere el articulo 54 de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación.
-
-2.º Licenciado en Musicología o en Historia y Ciencia de la Música.
-
-3.º Título Superior de Música de la [Ley Orgánica 1/1990](LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, o titulaciones declaradas equivalentes a efectos de docencia.
-
-4.º Título Profesional de Música de la [Ley Orgánica 1/1990](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, o de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
-
-5.º Diploma elemental o haber cursado las enseñanzas de Solfeo y Teoría de la Música, Conjunto Coral e Instrumento correspondientes al grado elemental conforme al Decreto 2618/1966, de 10 de septiembre.
-
-6.º Haber superado los cursos de la especialidad de Música, según lo establecido en el artículo 7 del presente real decreto.
-
-7.º Haber superado la fase de oposición de la especialidad de Música según lo establecido en el artículo 8 de este real decreto.
-
-b) Enseñanzas de Educación Física:
-
-1.º Graduado en el ámbito de las ciencias de la actividad física y del deporte.
-
-2.º Licenciado en Educación Física o haber superado tres cursos completos de esta licenciatura.
-
-3.º Diplomado en Educación Física.
-
-4.º Licenciado en Ciencias de la Actividad Física y del Deporte.
-
-5.º Haber superado los cursos de la especialidad de Educación Física, según lo establecido en el artículo 7 del presente real decreto.
-
-6.º Haber superado la fase de oposición de la especialidad de Educación Física, según lo establecido en el artículo 8 de este real decreto.
-
-c) Enseñanzas de Lengua Extranjera (Inglés, Francés, Alemán):
-
-1.º Graduado en Lengua Extranjera en el idioma correspondiente.
-
-2.º Licenciado en Filología del idioma correspondiente o haber superado tres cursos completos de esa licenciatura.
-
-3.º Licenciado en el idioma correspondiente, por las Facultades de Traducción e Interpretación.
-
-4.º Diplomado en el idioma correspondiente, por las Escuelas Universitarias de Idiomas (traductores e intérpretes).
-
-5.º Certificado de nivel avanzado o Certificado de Aptitud de la Escuela Oficial de Idiomas en el idioma correspondiente.
-
-6.º Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria bilingüe en el idioma correspondiente.
-
-7.º Haber superado los cursos de la especialidad de Lengua Extranjera en el idioma correspondiente, según lo establecido en el artículo 7 del presente real decreto.
-
-8.º Haber superado la fase de oposición de la especialidad de Lengua Extranjera en el idioma correspondiente, según lo establecido en el artículo 8 de este real decreto.
-
-#### Artículo 6. Puestos de Pedagogía Terapéutica y de Audición y Lenguaje.
-
-1. Los Maestros en centros de Educación especial y los Maestros de apoyo en centros ordinarios deberán estar en posesión del título de Graduado que habilite para el ejercicio de la profesión regulada de Maestro en Educación Primaria que incluya una mención en Pedagogía Terapéutica, o aquellas otras menciones cuyo currículo esté específicamente relacionado con la atención al alumnado con necesidades educativas especiales, respectivamente, o una mención en Audición y Lenguaje, o el título de Maestro con la especialidad de Educación Especial y de Audición y Lenguaje, respectivamente, o el Diploma en Profesorado de Educación General Básica, o el título de Maestro de Primera Enseñanza con la especialidad correspondiente.
-
-2. Los Maestros a los que se refiere el apartado anterior que carezcan de la mención cualificadora o especialidad indicada podrán ocupar puestos en centros de Educación Especial o como profesores de apoyo de Pedagogía Terapéutica o Audición y Lenguaje, siempre que estén en posesión de alguno de los siguientes requisitos:
-
-a) Para puestos de Pedagogía Terapéutica:
-
-1.º Licenciado en Psicopedagogía.
-
-2.º Licenciado en Filosofía y Letras, Sección de Pedagogía, Subsección de Educación Especial, o equiparación correspondiente, de acuerdo con lo dispuesto en la Orden de 7 de noviembre de 1983 por la que se declara la equivalencia de los títulos de Licenciado en Filosofía y Letras (Sección de Ciencias de la Educación) y Licenciado en Filosofía y Ciencias de la Educación (Sección de Ciencias de la Educación) en las opciones o especialidades de Pedagogía Terapéutica o Educación Especial al título de Profesor especializado en Pedagogía Terapéutica.
-
-3.º Diploma de Educación Especial correspondiente a cursos celebrados mediante convenio entre las diferentes Administraciones educativas y Universidades.
-
-4.º Haber superado los cursos de la especialidad de Pedagogía Terapéutica, según lo establecido en el artículo 7 del presente real decreto.
-
-5.º Haber superado la fase de oposición de la especialidad de Pedagogía Terapéutica, según lo establecido en el artículo 8 de este real decreto.
-
-b) Para puestos de Audición y Lenguaje:
-
-1.º Graduado en Logopedia.
-
-2.º Diplomado en Logopedia.
-
-3.º Certificados que hubiesen sido expedidos por el Ministerio de Sanidad y Consumo: Psicopatología del lenguaje y su rehabilitación, rehabilitación del lenguaje o rehabilitación audiofonológica y técnicas logopédicas.
-
-4.º Diploma de Patología del Lenguaje, hospital de la Santa Cruz y San Pablo (Barcelona).
-
-5.º Diploma de Logopedia. Universidad Pontificia de Salamanca.
-
-6.º Diploma de Psicología del Lenguaje. Universidad Pontificia de Salamanca.
-
-7.º Diploma de Logopedia correspondiente a los cursos celebrados mediante convenio entre las diferentes Administraciones educativas y Universidades.
-
-8.º Haber superado los cursos de la especialidad de Audición y Lenguaje, según lo establecido en el artículo 7 del presente real decreto.
-
-9.º Haber superado la fase de oposición de la especialidad de Audición y Lenguaje, según lo establecido en el artículo 8 de este real decreto.
-
-#### Artículo 7. Requisito de haber superado los cursos de la especialidad.
-
-Este requisito se entenderá cumplido al haber superado los cursos de especialidad convocados bien por el Ministerio de Educación, Cultura y Deporte, o bien por los órganos correspondientes de las comunidades autónomas, en cuyo caso los cursos deben estar homologados por el Ministerio de Educación, Cultura y Deporte y haber sido iniciados con anterioridad a la fecha de entrada en vigor de este real decreto.
-
-#### Artículo 8. Requisito de haber superado la fase de oposición de la especialidad correspondiente.
-
-Dicho requisito se refiere a la superación de la fase de oposición de la especialidad correspondiente, a la que hacen referencia los artículos 18 y siguientes del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación, aprobado por el [Real Decreto 276/2007](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md), de 23 de febrero, y será de aplicación a partir de la fecha de entrada en vigor del presente real decreto.
-
-#### Disposición adicional primera. Prórroga de la actividad docente.
-
-Los Maestros que, a la entrada en vigor de este real decreto, y en aplicación de la Orden de 11 de octubre de 1994, por la que se regulan las titulaciones mínimas que deben poseer los Profesores de los centros privados de Educación Infantil y Primaria, reunían los requisitos exigidos para impartir docencia en Educación Infantil o en Educación Primaria, podrán continuar impartiendo docencia en dichas etapas.
-
-#### Disposición adicional segunda. Profesionales habilitados.
-
-Los profesionales que, a la fecha de entrada en vigor del presente real decreto, hubieran sido habilitados o tuviesen reconocimiento oficial y expreso de la Administración Educativa para la docencia en centros privados, en ambos ciclos de la Educación Infantil o en la Educación Primaria, mantendrán dicha habilitación o reconocimiento.
-
-Asimismo, los profesionales que hubieran reunido los requisitos establecidos por la normativa vigente para obtener la habilitación o reconocimiento indicado anteriormente y no la hubiesen solicitado expresamente, podrán solicitarla.
-
-#### Disposición adicional tercera. Docencia en una Lengua Extranjera en Educación Infantil y en Educación Primaria.
-
-Las Administraciones educativas regularán los requisitos de formación añadidos que se exigirán a los Maestros que impartan Educación Infantil o Educación Primaria, para impartir en una Lengua Extranjera las enseñanzas de estas etapas en los centros cuyos proyectos educativos comporten un régimen de enseñanza plurilingüe. Dichos requisitos, a partir del curso académico 2013-2014, supondrán acreditar, al menos, competencias de un nivel B2 del Marco Común Europeo de Referencia para las Lenguas, en la Lengua Extranjera correspondiente.
-
-#### Disposición adicional cuarta. Enseñanza de Lengua Extranjera en Educación Primaria por Profesorado de Educación Secundaria.
-
-El profesorado que reúna los requisitos para impartir docencia de lenguas extranjeras en la Educación Secundaria Obligatoria o Bachillerato podrá excepcionalmente y por un tiempo limitado, impartir enseñanzas de las lenguas extranjeras respectivas en la etapa de Educación Primaria, por extensión y analogía con lo dispuesto en la disposición adicional séptima de la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, de Educación. A estos efectos, las Administraciones educativas deberán fijar en su ámbito de gestión, el tiempo máximo durante el que este profesorado podrá impartir docencia en Educación Primaria.
-
-#### Disposición adicional quinta. Enseñanzas propias de las lenguas cooficiales.
-
-Las Administraciones educativas competentes determinarán los requisitos que deban reunir los Maestros que impartan las enseñanzas propias de las lenguas cooficiales en aquellas comunidades autónomas que así lo tuvieran regulado.
-
-#### Disposición adicional sexta. Maestros de otros centros.
-
-Lo dispuesto en este real decreto sobre condiciones de cualificación y formación que deben poseer los Maestros será de aplicación a los Maestros de los centros de Educación Infantil y de Educación Primaria ubicados en el ámbito de gestión de Administraciones distintas de las Administraciones educativas.
-
-#### Disposición derogatoria única. Derogación normativa.
-
-Queda derogada la Orden de 11 de octubre de 1994 por la que se regulan las titulaciones mínimas que deben poseer los Profesores de los centros privados de Educación Infantil y Primaria, así como cualquier disposición que se oponga a lo regulado en este real decreto.
-
-#### Disposición final primera. Título competencial y carácter básico.
-
-Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
-
-#### Disposición final segunda. Habilitación normativa.
-
-Se faculta al titular del Ministerio de Educación, Cultura y Deporte para dictar, en el ámbito de sus competencias, cuantas disposiciones requiera la aplicación de lo dispuesto en este real decreto.
-
-#### Disposición final tercera. Entrada en vigor.
-
-Dado en Madrid, el 21 de junio de 2013.
-
-JUAN CARLOS R.
-
-El Ministro de Educación, Cultura y Deporte,
-
-JOSÉ IGNACIO WERT ORTEGA
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
-- **Fundamentado en**: [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
-- **Fundamentado en**: [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-- **Fundamentado en**: [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
-- **Fundamentado en**: [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-- **Fundamentado en**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
-- **Fundamentado en**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
-
-### Fundamentos de Derecho
-- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- [**CE_1978 Constitucion Espanola**](../01_marco_normativo_general_y_organico/DOC1_constitucion_espanola.md)
-- [**BOE-A-2001-7022**](./LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md)
-- [**RD132_2010 Requisitos Minimos de Centros Docentes**](./RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
-- [**BOE-A-2021-20113**](../03_ordenacion_curricular_y_ensenanzas/LO721_2021_correccion_errores_orden_efp_modifica_orden.md)
-- [**BOE-A-2010-12201**](../05_alumnado_y_servicios_escolares/LO2058_2010_edu_regulan_premios_nacionales_bachillerato_establecidos.md)
-- [**BOE-A-2007-5478**](../08_personal_docente/RD592_2007_eci_aprueba_temario_ha_regir_procedimiento.md)
-- [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

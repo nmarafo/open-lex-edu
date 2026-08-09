@@ -35,137 +35,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-Real Decreto 774/2016, de 30 de diciembre, por el que se nombra Presidenta de la Audiencia Provincial de Málaga a doña Lourdes García Ortiz.
+## Preámbulo
 
-<link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"/>
-<link rel="alternate" type="application/atom+xml"
-title="0. Disposiciones estatales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s0.xml"/>
+# Decreto 6/2017, de 16 de enero, por el que se regulan los servicios complementarios de la enseñanza de aula matinal, comedor escolar y actividades extraescolares en los centros docentes públicos de la Comunidad Autónoma de Andalucía.
 
-###
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-Becas y ayudas
+DISPONGO:
 
-Buscar trabajo
+### Capítulo I. Disposiciones Generales
 
-Autoempleo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 6/2017.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Empleo público
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Perder el trabajo
+### Capítulo II. Estructura y Funcionamiento
 
-Formación para el empleo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 6/2017.
 
-Jubilación
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Inmigración y emigración
+### Disposiciones Adicionales y Finales
 
-Relaciones laborales
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 6/2017.
 
-Prevención de riesgos laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 6/2017.
 
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2017
-Boletín 13
-0. Disposiciones estatales
-
-##
-
-Histórico del BOJA
-Boletín número 13 de
-20/01/2017
-
-## 0. Disposiciones estatales
-
-### Ministerio de Justicia
-
-### Real Decreto 774/2016, de 30 de diciembre, por el que se nombra Presidenta de la Audiencia Provincial de Málaga a doña Lourdes García Ortiz.
-
-Atención: El texto que se muestra a
-continuación ha sido extraído de los mismos ficheros que se han
-utilizado para obtener el fichero PDF correspondiente del BOJA
-oficial y auténtico, habiéndose suprimido todas las imágenes,
-ciertas tablas y algunos textos de la versión oficial al existir
-dificultades de edición. Para consultar la versión oficial y
-auténtica de esta disposición puede descargarse el fichero PDF
-firmado de la disposición desde la sede electrónica del BOJA o
-utilizar el servicio de
-<a title="Verificación de
-autenticidad" href="1-verificacion"> Verificación de autenticidad  con
-CVE
-00106260.
-
-A propuesta del Pleno del Consejo General del Poder Judicial, adoptada en su reunión de 20 de diciembre de 2016, de conformidad con lo establecido en los artículos 599.1.4.ª y 337 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial
-
-Vengo en nombrar Presidenta de la Audiencia Provincial de Málaga a doña Lourdes García Ortiz, Presidenta de la sección segunda de la misma Audiencia Provincial, en provisión de la vacante producida por expiración del mandato del anteriormente nombrado.
-
-Dado en Madrid, el 30 de diciembre de 2016
-
-FELIPE R.
-
-Rafael CAtalÁ Polo
-
-Ministro de Justicia
-
-<a target="_blank" href="BOJA17-013-00001-880-01_00106260.pdf"
-class="item_pdf_disposicion item_pdf_grupo"
-title="Descargar PDF de la disposición"> Descargar PDF
-
-Disposición siguiente
-
-BOJA nº 13 de 20/01/2017
-
-0. Disposiciones estatales
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones, concursos y otras convocatorias
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-5.1. Licitaciones públicas y adjudicaciones
-
-5.2. Otros anuncios oficiales
-
-<a title="Descargar el boletín completo en PDF" target="_blank"
-href="BOJA17-013-00309.pdf"> Descargar boletín
-nº
-13 completo
-
-<a title="Descargar el sumario en PDF" target="_blank"
-href="BOJA17-013-00016_00001898.pdf"> Sumario boletín
-nº
-13
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

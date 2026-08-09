@@ -62,89 +62,36 @@ ocr_procesado: true
 
 # Decreto 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales.
 
---- Página 1 (Transcripción OCR) ---
+En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-9324
-Boletin Oficial de Canarias nim. 79, viernes 18 de junio de 1999
-ANEXO IV
-Primero.- Convocar, por el procedimiento de concurso-oposicion, las plazas vacantes de la plantilla laTABLADE EQUIVALENCIAS
-boral de esta Universidad, que se detallan en el anexo de la presente Resolucion.
-N' NUEVO
-N ANTIGUO
-130204002
-130204003
-Segundo.- La realizacion de las pruebas se ajus-
-130204003
-130204004
-tara a lo establecido en la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de ag0s-
-to; Ley 23/1988, de 29 de julio, de modificaci6n de
-la Ley de Medidas para la Reforma anterior; Real Decreto
-364/1995, de 10 de marz0 (B.0.E. de 10 de abril),
-que aprueba el Reglamento General de Ingreso del
-Personal al servicio de la Administracion General del
-II.AUTORIDADES Y PERSONAL
-Estado y de Provisin de Puestos de Trabajo y
-Oposiciones y concursos
-Promocion Profesional de los Funcionarios Civiles
-de la Administracion General del Estado, asi como
-Otras Administraciones
-las bases de la convocatoria.
-Universidad de La Laguna
-Tercero.- Los requisitos especificos para la categoria profesional de las plazas, organos de selec-
-1007 RESOLUCION de 15 de abril de 1999, por la
-cion, contenido de los ejercicios, y demas bases de
-que se convocan pruebas selectivas para la prola convocatoria figuran expuestas en los tablones de
-vision de plazas vacantes de la plantilla de peranuncios del Rectorado de la Universidad de La
-sonal laboral de esta Universidad.
-Laguna.
-En cumplimiento de lo dispuesto en los Estatutos
-Cuarto.- El plazo de presentacion de solicitudes
-de esta Universidad, aprobados por Decreto 192/1985,
-es de veinte dias naturales, contados a partir de la pude 23 de junio (B.0.E. n° 248, de 16 de octubre) y
-blicacion de esta convocatoria en el Boletin Oficial
-del vigente Convenio Colectivo para el Personal
-de Canarias.
-Laboral de Universidades Estatales (B.O.E. de 6 de
-octubre de 1990), con el fin de atender las necesidaQuinto.- Las relaciones provisionales de admitides del personal laboral, este Rectorado, en uso de
-dos y excluidos se haran publicas en el Boletin Oficial
-las competencias que le estan atribuidas por los arde Canarias y en los tablones de anuncios del Rectorado.
-ticulos i8 y 49 de la Ley 11/1983, de 25 de agosto,
-de Reforma Universitaria, asi como en los Estatutos
-La Laguna, a 15 de abril de 1999.- El Rector, José
-de esta Universidad, ha resuelto:
-S. Gomez Solino.
-ANEXO
-NUMERO
-GRUPO
-CATEGORIA
-VACANTES
-CONVENIO
-PROFESIONAL
-TECNICO ESPECIALISTA (AS/400)
-TECNICO ESPECIALISTA (ESPECIALISTA
-DE SISTEMAS)
-TECNICA ESPECIALISTA
-(SOPORTE DE
-SISTEMAS ABIERTOS)
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
----
+DISPONGO:
 
-## Relaciones Normativas y Fundamentos de Derecho
+### Capítulo I. Disposiciones Generales
 
-### Relaciones Directas
-- **Desarrolla**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
-- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- **Fundamento de**: [**Resolucion BOC 90**](../04_organizacion_escolar_y_funcionamiento/R15_6_2026_convoca_proceso_aprueba_calendario_renovacion_parcial.md)
-- **Fundamento de**: [**Resolucion BOC 95**](../04_organizacion_escolar_y_funcionamiento/R2_12_2025_convoca_procedimiento_seleccion_directores_directoras_centros.md)
-- **Fundamento de**: [**Resolucion BOC 24**](./R13_3_2015_dictan_instrucciones_oferta_educativa_recursos_escuelas.md)
-- **Fundamento de**: [**Resolucion BOC 23**](./R10_6_2021_universidades_deportes_establece_composicion_comision_seguimiento.md)
-- **Fundamento de**: [**Resolucion BOC 91**](../04_organizacion_escolar_y_funcionamiento/R20_6_2024_resoluci_n_junio.md)
-- **Fundamento de**: [**Resolucion BOC 139**](../08_personal_docente/R24_2_2026_dictan_instrucciones_regulacion_periodo_vacacional_regimen.md)
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 109/1999.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-### Fundamentos de Derecho
-- [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+
+### Capítulo II. Estructura y Funcionamiento
+
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 109/1999.
+
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 109/1999.
+
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 109/1999.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

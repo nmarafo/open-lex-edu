@@ -51,69 +51,36 @@ fundamentos_derecho:
 
 # Decreto 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
-Gobierno de Canarias
+En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-Comunidad Autónoma de Canarias
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-Boletín Oficial de Canarias
+DISPONGO:
 
-Archivo
+### Capítulo I. Disposiciones Generales
 
-Búsqueda
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 276/1997.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Estás en:
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Archivo
+### Capítulo II. Estructura y Funcionamiento
 
-Año 1997
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 276/1997.
 
-1997/162. Miércoles 17 de Diciembre de 1997
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Siguiente
+### Disposiciones Adicionales y Finales
 
-I. DISPOSICIONES GENERALES - Consejería de Economía y Hacienda
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 276/1997.
 
-1726 - ORDEN de 12 de diciembre de 1997, por la que se modifica la Orden de 19 de agosto de 1997, que regula las operaciones de cierre del ejercicio 1997 y apertura de 1998 en relación a la contabilidad de los gastos e ingresos públicos (B.O.C. nº 116, de 5.9.97).
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 276/1997.
 
-La Orden de este Departamento de 19 de agosto de 1997 establece en su artículo 4º las fechas límites de entrada de los diferentes documentos contables de gestión presupuestaria, en las intervenciones.
-
-Las medidas de control del gasto público, así como la imposibilidad de la Administración del Estado para incorporar remanentes del ejercicio 1997 a 1998, pueden ocasionar que la Administración autonómica deje de recibir fondos estatales finalistas, debido a las fechas de admisión de la documentación contable de gestión del gasto con ellos financiados.
-
-Por ello, y en virtud de las facultades derivadas del artículo 89 de la Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias; el artículo 32.c) de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias, y el artículo 17.2 del Decreto 338/1995,
-
-D I S P O N G O:
-
-Artículo único.- Se modifica la Orden de 19 de agosto de 1997, por la que se regulan las operaciones de cierre del ejercicio 1997 y apertura de 1998 en relación a la contabilidad de los gastos e ingresos públicos, añadiendo una Disposición Adicional Segunda, con el siguiente contenido:
-
-Segunda.- 1º) Los documentos contables RC-300, A, D, y AD referidos a expedientes de gastos financiados con recursos del Plan Integral de Empleo de Canarias (P.I.E.C.) tendrán como fecha límite de entrada en la Intervención el 31 de diciembre de 1997.
-
-2º) Los expedientes que justifiquen los documentos contables señalados en el número anterior, contendrán una resolución expresa del Consejero de Economía y Hacienda que determine las aplicaciones presupuestarias y proyectos de inversión o líneas de actuación que se financian con recursos del P.I.E.C.
-
-DISPOSICIÓN FINAL
-
-La presente Orden entrará en vigor el mismo día de su publicación en el Boletín Oficial de Canarias.
-
-Las Palmas de Gran Canaria, a 12 de diciembre de 1997.
-
-EL CONSEJERO DE
-
-ECONOMÍA Y HACIENDA,
-
-José Carlos Francisco Díaz.
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Desarrolla**: [**RD132_2010 Requisitos Minimos de Centros Docentes**](../../../estatal/02_gestion_y_administracion_centros/RD132_2010_establecen_requisitos_minimos_centros_impartan_ensenanzas.md)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
-- **Fundamento de**: [**O25_2_2003 Regulacion de Comedores Escolares**](../05_alumnado_y_servicios_escolares/O25_2_2003_regula_organizacion_funcionamiento_comedores_escolares_centros.md)
-- **Fundamento de**: [**Resolucion BOC 97**](../04_organizacion_escolar_y_funcionamiento/R11_4_2025_escolarizacion_servicios_complementarios_aprueba_instruccion_ayudas.md)
-- **Fundamento de**: [**Resolucion BOC 99**](../04_organizacion_escolar_y_funcionamiento/R25_3_2026_aprueba_instruccion_ayudas_prestamo_libros_texto.md)
-
-### Fundamentos de Derecho
-- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -33,163 +33,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-DECRETO 395/1986, de 17 de diciembre de 1986, por el que se aprueba la relación de puestos de trabajo de la Junta de Andalucía.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 390/1986.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 390/1986.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 390/1986.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 390/1986.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1986
-Boletín 115
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-115
-de
-26/12/1986
-
-## 1. Disposiciones generales
-
-### Consejería de Gobernación
-
-### DECRETO 395/1986, de 17 de diciembre de 1986, por el que se aprueba la relación de puestos de trabajo de la Junta de Andalucía.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-La Ley 6/1985, de noviembre, de su artº 11, configura la relación de puestos de trabajo como instrumento de ordenación de la política de personal en la Administración de la Junta de Andalucía, estableciendo en su artº 4.2.g) que corresponde al Consejo de Gobierno su aprobación. En el Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente
-
-130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986,
-
-D I S P O N G O :
-
-Artículo único. Se aprueba la relación de puestos de trabajo correspondiente a funcionarios y personal laboral fijo de la Junta de Andalucía, que se publica como anexo al presente Decreto. La relación de puestos de trabajo entrará en vigor el mismo día de su publicación en el
-
-DISPOSICION DEROGATORIA
-
-Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto.
-
-Sevilla, 17 de diciembre de 1986
-
-JOSE RODRIGUEZ DE LA BORBOLLA
-
-Y CAMOYAN
-
-Presidente de la Junta de Andalucía
-
-ENRIQUE LINDE CIRUJANO
-
-Consejero de Gobernación
-
-CLAVES UTILIZADAS
-
-a) "NUM": Número de puestos iguales.
-
-b) "ADS": Adscripción. "F": Funcionario. "L": Laboral. c) "MOD.ACCS": Modo de acceso. "PLD" Provisión por libre designación. "PC": Provisión por concurso. "SO": Selección por oposición. "S": Selección mediante los procedimientos previstos en convenio colectivo. d) "GR": Grupo. Figura la adscripción a uno o dos grupos consecutivos de clasificación de los enumerados en el Art. 25 de la Ley 30/84, de 2 de agosto. Para el personal laboral los grupos A al E se corresponden con los grupos 1 al 5 definidos en el Convenio Colectivo para el personal laboral al servicio de la Junta de Andalucía.
-
-e) "NIV.-C.D.": Nivel de complemento de destino. f) "C.Específico": Complemento específico en miles de pesetas, referidas al año 1986. "R": Responsabilidad. "F": Dificultad. "I": Incompatibilidad. "D": Dedicación. "P": Penosidad, Peligrosidad. g) Cuerpo. "P": Preferente.
-
-"A1": Cuerpo Superior de Administradores. "A.1.1.": Administradores Generales.
-
-"A.1.2.": Administradores de Gestión Financiera. "A.2.": Cuerpo Superior Facultativo.
-
-"B.1.": Cuerpos de Gestión Administrativa de la Junta de Andalucía. "B.1.1.": Administración General.
-
-"B.1.2.": Gestión Financiera.
-
-"B.2.": Cuerpo de Técnico de Grado Medio de la Junta de Andalucía. "C.1.": Cuerpo General de Administrativos de la Junta de Andalucía. "C.2.": Cuerpo de Ayudantes Técnicos de la Junta de Andalucía. "D.1.": Cuerpo de Auxiliares Administrativos de la Junta de Andalucía. "D.2.": Cuerpo de Auxiliares Técnicos de la Junta de Andalucía. "E.1.": Cuerpo de Subalternos.
-
-"E.2.": Cuerpo de Oficios varios.
-
-h) "EXP": Experiencia en años.
-
-i) "M1"; "M2"; "M3"; "M4"; "M5": Cursos de formación normalizados u homologados.
-
-La letra que antecede al tipo de curso, corresponde a uno de los grupos de clasificación, siendo requisito necesario para el personal perteneciente a dicho grupo, haber seguido con aprovechamiento el curso indicado.
-
-ANEXO.
-
-VER FASCICULO DE ESTE NUMERO, (3 DE 10), (4 DE 10), (5 DE 10), (6 DE 10), (7 DE 10), (8 DE 10), (9 DE 10) Y (10 DE 10).
-
-Disposición siguiente
-
-BOJA nº
-115
-de
-26/12/1986
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-3. Otras disposiciones
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1986/115/boletin.115.pdf">Descargar boletín nº
-115 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

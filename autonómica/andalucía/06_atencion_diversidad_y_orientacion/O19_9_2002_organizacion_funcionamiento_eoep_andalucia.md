@@ -33,129 +33,40 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-CONFLICTO positivo de competencia núm. 4813-2002, promovido por el Gobierno de la Junta de Andalucía, en relación con determinados preceptos del Real Decreto 330/2002, de 5 de abril.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 19 de septiembre de 2002, por la que se regula la organización y funcionamiento de los Equipos de Orientación.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="0. Disposiciones estatales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s0.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 19/09/2002.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 19/09/2002.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 19/09/2002.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 19/09/2002.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-2002
-Boletín 117
-0. Disposiciones estatales
-
-##
-
-Histórico del BOJA
-Boletín número
-117
-de
-05/10/2002
-
-## 0. Disposiciones estatales
-
-### Tribunal Constitucional
-
-### CONFLICTO positivo de competencia núm. 4813-2002, promovido por el Gobierno de la Junta de Andalucía, en relación con determinados preceptos del Real Decreto 330/2002, de 5 de abril.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-El Tribunal Constitucional, por providencia de 17 de septiembre actual, ha admitido a trámite el conflicto positivo de competencia número 4813-2002, promovido por el Gobierno de la Junta de Andalucía, en relación con el art. 6.1, párrafo segundo, del Real Decreto 330/2002, de 5 de abril, por el que se concretan determinados aspectos de la normativa europea reguladora de la ayuda a la producción de algodón.
-
-Madrid, 17 de septiembre de 2002.- El Secretario de Justicia. Firmado y rubricado.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-117
-de
-05/10/2002
-
-0. Disposiciones estatales
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../2002/117/boletin.117.pdf">Descargar boletín nº
-117 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

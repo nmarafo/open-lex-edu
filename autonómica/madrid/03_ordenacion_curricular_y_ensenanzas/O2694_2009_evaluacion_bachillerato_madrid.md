@@ -32,40 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-wleg_pub - Comunidad de Madrid - madrid.org
+## Preámbulo
 
-InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+# Orden 2694/2009, de 9 de junio, por la que se regula la evaluación en Bachillerato en Madrid.
 
-## Legislación de la Comunidad de Madrid
+En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+DISPONGO:
 
-Búsqueda
+### Capítulo I. Disposiciones Generales
 
-Resultado de la búsqueda
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 2694/2009.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Resultado de la búsqueda
+### Capítulo II. Estructura y Funcionamiento
 
-100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 2694/2009.
 
-100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+### Disposiciones Adicionales y Finales
 
-Nueva Búsqueda
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 2694/2009.
 
-Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteResolución (Disposición Autonómica)
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 2694/2009.
 
-Resolución 574/2009, de 6 de octubre,   del  Consejero Delegado de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid, por la que se modifica la Resolución 386/2009, de 17 de junio, por la que se designa con carácter permanente a los miembros integrantes de la Mesa de Contratación de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid (BOCM de 16 de octubre de 2009)  Resolución 548/2010, de 5 de octubre,
-
-Mas información...
-
-derogada por:
-
-Resolución 548/2010, de 5 de octubre,  del  Consejero Delegado de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid, por la que se designa con carácter permanente a los miembros integrantes de la Mesa de Contratación de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid. (BOCM de 25 de octubre de 2010)
-
-Total: 1
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

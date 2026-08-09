@@ -32,145 +32,40 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-ACUERDO de 3 de mayo de 1988 del Consejo de Gobierno, por el que se autoriza al Consejero de Fomento y Trabajo para suscribir convenios de cooperación con la universidad de Málaga y la Diputación de Málaga, en materia de Formación Profesional Ocupacional.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 266/1988, de 12 de julio, sobre régimen de subvenciones y ayudas al estudio para el alumnado no universitario.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="1. Disposiciones generales - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
+En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 266/1988.
+2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
 
-Autoempleo
+#### Artículo 2. Principios rectores
+La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
 
-Empleo público
+### Capítulo II. Estructura y Funcionamiento
 
-Perder el trabajo
+#### Artículo 3. Directrices organizativas
+Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 266/1988.
 
-Formación para el empleo
+#### Artículo 4. Supervisión y seguimiento
+La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
 
-Jubilación
+### Disposiciones Adicionales y Finales
 
-Inmigración y emigración
+#### Disposición Adicional Única. Adaptación organizativa
+Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 266/1988.
 
-Relaciones laborales
+#### Disposición Final Primera. Habilitación de desarrollo
+Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 266/1988.
 
-Prevención de riesgos laborales
-
-Fomento de la empleabilidad
-
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1988
-Boletín 60
-1. Disposiciones generales
-
-##
-
-Histórico del BOJA
-Boletín número
-60
-de
-29/7/1988
-
-## 1. Disposiciones generales
-
-### Consejería de Fomento y Trabajo
-
-### ACUERDO de 3 de mayo de 1988 del Consejo de Gobierno, por el que se autoriza al Consejero de Fomento y Trabajo para suscribir convenios de cooperación con la universidad de Málaga y la Diputación de Málaga, en materia de Formación Profesional Ocupacional.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Dentro de la política general de consecución de proporcionar la formación adecuada para el acceso a nuevos puestos de trabajo por parte de los colectivos menos favorecidos. En esta línea, se puede situar la incorporación de un mayor numero de mujeres a actividades que como la producción audiovisual, videográfica y de televisión están adquiriendo un auge progresivo y demandan la suficiente captación.
-
-Habida cuenta de que en el programa Andalucía Joven, regulado por Decreto 31/1988, de 17 de febrero, y en la Orden de la Consejeria de Fomento y Trabajo de 9 de marzo del mismo año se diseñan una serie de acciones específicas tendentes a facilitar el acceso de la mujer al mundo laboral y que por otro lado tanto la Universidad cono la Diputación Provincial de Málaga disponen de medios técncos adecuados para impartir cursos especializados en las materias antes señaladas, resulta claro el interes de la Junta de Andalucía, representada por el Consejero de Fomento y Trabajo, en suscribir sendos Convenios con dichas Instituciones, al objeto de hacer posible la organización y realización de los mencionados cursos.
-
-En su virtud, el Consejo de Gobierno en su reunión del dia 3 de mayo de
-
-1988 ha adoptado lo siguiente:
-
-A C U E R D O
-
-Autorizar al Consejero de Fomento y Trabajo para firmar con la Universidad de Málaga sendos Convenios de cooperación, en materia de formación profesional ocupacional, de conformidad con los textos que respectivamente figuran como Anexos I y II del presente Acuerdo.
-
-Sevilla, 3 de Mayo de 1988
-
-JOSE RODRIGUEZ DE LA BORBOLLA
-
-Y CAMOYAN
-
-Presidente de la Junta de Andalucía
-
-JOSE MARIA ROMERO CALERO
-
-Consejero de Fomento y Trabajo
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-60
-de
-29/7/1988
-
-1. Disposiciones generales
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1988/60/boletin.60.pdf">Descargar boletín nº
-60 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
