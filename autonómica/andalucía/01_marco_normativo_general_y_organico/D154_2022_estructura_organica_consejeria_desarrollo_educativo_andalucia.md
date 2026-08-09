@@ -44,10 +44,6 @@ relaciones:
 00266430
 Extraordinario núm. 27 - Lunes, 8 de agosto de 2022
 página 13146/1
-Boletín Oficial de la Junta de Andalucía
-BOJA
-BOJA
-Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 1. Disposiciones generales
 PRESIDENCIA
@@ -93,10 +89,6 @@ Económica, Industria, Conocimiento y Universidades.»
 00266430
 Extraordinario núm. 27 - Lunes, 8 de agosto de 2022
 página 13146/2
-Boletín Oficial de la Junta de Andalucía
-BOJA
-BOJA
-Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 Cinco. El artículo 3 queda redactado como sigue:
 «Artículo 3. Consejería de Economía, Hacienda y Fondos Europeos.
@@ -151,10 +143,6 @@ actualmente asignadas a la Consejería de Transformación Económica, Industria,
 00266430
 Extraordinario núm. 27 - Lunes, 8 de agosto de 2022
 página 13146/3
-Boletín Oficial de la Junta de Andalucía
-BOJA
-BOJA
-Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 Conocimiento y Universidades en materia de industria y minas y las que en materia de 
 energía venían siendo ejercidas por las Consejerías de la Presidencia, Administración 
@@ -209,10 +197,6 @@ vigor con las modificaciones que se deriven de las previsiones contenidas en est
 00266430
 Extraordinario núm. 27 - Lunes, 8 de agosto de 2022
 página 13146/4
-Boletín Oficial de la Junta de Andalucía
-BOJA
-BOJA
-Depósito Legal: SE-410/1979. ISSN: 2253 - 802X	
 http://www.juntadeandalucia.es/eboja
 Disposición adicional segunda. Referencias a los órganos cuya denominación se 
 modifica.

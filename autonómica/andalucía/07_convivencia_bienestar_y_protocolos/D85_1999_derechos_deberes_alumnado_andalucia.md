@@ -35,17 +35,11 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
-<!DOCTYPE html
->
-
 LEY 2/1999, de 31 de marzo, de Sociedades Cooperativas Andaluzas.
 
-<meta content="Página de disposición nº 1 del boletín nº 46 de 1999."
 name="Description"/>
-<meta content="1999, Junta de Andalucía, el portal de Andalucía, Administración andaluza, BOJA, B.O.J.A."
 name="Keywords"/>
 
-<link href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"
 title="Boletín completo - BOJA"
 type="application/atom+xml"
 rel="alternate"/>
@@ -54,74 +48,10 @@ title="1. Disposiciones generales - BOJA"
 href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
-Navegación secundaria - Portal JDA
-
-Contacto
-
-Mapa web
-
-@GobAndalucia
-
-andaluciajunta
-
-andaluciajunta
-
-AndaluciaJunta
-
-juntainforma
-
-junta-de-andalucia
-
-Junta de Andalucía
-
-Inicio
-
-Buscar
-
-Menú
 
 ###
-Junta de Andalucía
-
-Estudiar
-
-Estudiar
-
-Becas y ayudas al estudio
-
-Infantil (0-6 años)
-
-Primaria y ESO (6-16 años)
-
-Bachillerato
-
-Formación Profesional
-
-Otras enseñanzas
-
-Universidad
-
-Educación para adultos y mayores
-
-Investigación
-
-Información para centros
-
-Directo a
-
-Moodle Centros
-
-Secretaría Virtual
-
-iPasen
-
-Distrito Único Andaluz
 
 Becas y ayudas
-
-Trabajar
-
-Trabajar
 
 Buscar trabajo
 
@@ -143,279 +73,23 @@ Prevención de riesgos laborales
 
 Fomento de la empleabilidad
 
-Directo a
-
 Renovar demanda de empleo
 
 Ofertas de empleo
 
-Cursos de formación estatal para el empleo. SEPE
-
-Procesos selectivos convocados (IAAP)
-
-Sistema de provisión de interinidades (SIPRI)
-
-Tu salud
-
-Tu salud
-
-Servicios sanitarios
-
-Urgencias y primeros auxilios
-
-Derechos y calidad asistencial
-
-Consejos y prevención
-
-Apoyo al paciente
-
-Salud de las personas mayores
-
-Salud infantil
-
-Organización sanitaria en Andalucía
-
-Directo a
-
-Cita en centros sanitarios (ClicSalud+)
-
-Salud Responde
-
-Consulta listas de espera
-
-Solicita o renueva la tarjeta sanitaria
-
 Más temas
 
 Más temas
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
-Agricultura, ganadería y pesca
-
-Energía
-
-Sanitario
-
-Ver más
-
-Transparencia
-
-Transparencia
-
-Información institucional y organizativa
 
 Empleo público
 
-Altos cargos
-
-Planificación, evaluación y estadística
-
-Información jurídica
-
-Relaciones con la ciudadanía
-
-Contratos, convenios y subvenciones
-
-Información económica y presupuestaria
-
-Transparencia del Consejo de Gobierno
-
-Transparencia de consejerías y entidades instrumentales
-
-Acceso a la información pública
-
-Conoce más sobre la transparencia
-
-Directo a
-
-Organigrama general de la Junta de Andalucía
-
-Presupuestos de la Comunidad Autónoma
-
-Solicitar información pública
-
-Fondos NEXT Generation EU y MRR
-
-Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
-
-La Junta
-
-La Junta
-
-Consejo de Gobierno
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-Consejerías
-
-Presidencia, Sanidad y Emergencias
-Turismo, Justicia, Desregulación y Administración Local
-Economía, Hacienda y Fondos Europeos
-Agricultura, Pesca, Agua y Desarrollo Rural
-Educación
-Empleo, Empresa y Trabajo Autónomo
-Servicios Sociales, Familias e Igualdad
-Vivienda, Juventud y Ordenación del Territorio
-Universidad, Industria, Energía e Innovación
-Cultura, Patrimonio Histórico y Deporte
-Sostenibilidad y Medio Ambiente
-Fomento y Movilidad
-Inteligencia Artificial, Desarrollo Digital y Administración Pública
-
-Servicios
-
-Servicios
-
-Cómo tramitar
-
-Atención a la ciudadanía
-
-Trámites
-
-Servicios digitales
-
-Sede Electrónica General
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
-Último boletín
-
-Boletines anteriores
-
-Legislación Consolidada Andaluza
-
-Sobre BOJA
-
-Preguntas frecuentes
-
-Ver más
-
-Servicios de información
-
-Normativa
-
-Participación
-
-Estadística y cartografía
-
-Catálogo de publicaciones
-
-Datos abiertos
-
-Ver más
-
-Directo a
-
-Grado de Discapacidad. Reconocimiento, calificación y valoración
-
-Familia numerosa: expedición, renovación y modificación del título
-
-Registro de Turismo de Andalucía (RTA): inscripción
-
-Solicitud de licencia para la práctica de la pesca marítima de recreo
-
-Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
-
-Noticias
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Reportajes
-
-Fotogalería
-
-Videoteca
-
-Ver más
-
-Buscador de noticias
-
-Suscripción
-
-Buscar
-
-Buscar
-
-Buscar
-
-### recomendador solapa responsive
-
-Buscar
-
 BOJA Histórico >
 1999
->
 Boletín 46
->
 1. Disposiciones generales
->
 
 ##
-Boletín Oficial de la Junta de Andalucía -
+
 Histórico del BOJA
 Boletín número
 46
@@ -1671,7 +1345,7 @@ Artículo 81. Reducción del capital social.
 
 1. Si como consecuencia de la devolución a los socios o, en su caso, asociados, así como a sus derechohabientes de las aportaciones realizadas para integrar el capital social, éste quedara por debajo de la cifra de capital social mínimo estatutario, será necesario acuerdo de reducción adoptado por la Asamblea General.
 
-2. Dicho acuerdo no podrá llevarse a efecto antes de que transcurra el plazo de tres meses, a contar de la fecha de su último anuncio, que deberá ser publicado por dos veces en el Boletín Oficial de la Junta de Andalucía, y en uno de los periódicos de mayor circulación en el ámbito territorial de actuación efectivo de la cooperativa. Será nula toda devolución de aportaciones integrantes del capital social que se realice antes de transcurrido dicho plazo de tres meses.
+2. Dicho acuerdo no podrá llevarse a efecto antes de que transcurra el plazo de tres meses, a contar de la fecha de su último anuncio, que deberá ser publicado por dos veces en el
 
 Artículo 82. Aportaciones de nuevos socios.
 
@@ -2197,7 +1871,7 @@ d) Los estatutos vigentes de las cooperativas que intervengan en la fusión.
 
 e) Los datos identificativos de los miembros de los Consejos Rectores y de los Interventores de las cooperativas disueltas y de los miembros propuestos para el Consejo Rector y para los Interventores de la sociedad resultante.
 
-2. El acuerdo de fusión de cada una de las cooperativas será publicado en el Boletín Oficial de la Junta de Andalucía y en un periódico de los de mayor circulación de la provincia del domicilio social de las citadas entidades.
+2. El acuerdo de fusión de cada una de las cooperativas será publicado en el
 
 3. Los Consejos Rectores de las cooperativas que se fusionen están obligados a informar a la Asamblea General de su sociedad sobre cualquier modificación importante del activo o del pasivo acaecida en cualquiera de ellas, entre la fecha de redacción del proyecto de fusión y la de reunión de la Asamblea General.
 
@@ -2229,7 +1903,7 @@ Artículo 108. Transformación de cooperativas.
 
 a) Acuerdo expreso de la Asamblea General adoptado conforme a lo establecido en el artículo 102.
 
-b) Publicación del acuerdo de la Asamblea en el Boletín Oficial de la Junta de Andalucía y en dos periódicos de los de mayor circulación de la provincia donde tenga su domicilio social la cooperativa.
+b) Publicación del acuerdo de la Asamblea en el
 
 c) Elevación del acuerdo a escritura pública, que contendrá todas las menciones exigidas legalmente para la constitución de la nueva entidad respetando lo dispuesto en la presente Ley.
 
@@ -2315,7 +1989,7 @@ d) Si adoptase un acuerdo contrario a declarar la disolución.
 
 4. El acuerdo de disolución o la resolución judicial, en su caso, se publicará en uno de los diarios de mayor circulación de la provincia en que tenga el domicilio social la
 
-cooperativa, así como en el Boletín Oficial de la Junta de Andalucía, en el plazo de 30 días a contar de aquel en que se adoptó el acuerdo o se notificó la resolución.
+cooperativa, así como en el
 
 5. La disolución se inscribirá en el Registro de Cooperativas mediante el testimonio de la resolución judicial que la declare o la escritura pública en la que conste el cumplimiento de las formalidades y requisitos legales, y, en su caso, el
 
@@ -2387,9 +2061,9 @@ distribución del activo; ambos serán censurados por los Interventores de la co
 
 Interventores a que hace referencia el artículo 114 y se someterán a la aprobación de la Asamblea General. La
 
-convocatoria de esta Asamblea se publicará en el Boletín Oficial de la Junta de Andalucía, y en un periódico de la provincia en que tenga su domicilio social la cooperativa.
+convocatoria de esta Asamblea se publicará en el
 
-2. Si fuera imposible la celebración de la Asamblea General, los Liquidadores publicarán el balance final y el proyecto de distribución, una vez censurados, en el Boletín Oficial de la Junta de Andalucía y en un periódico de los de mayor
+2. Si fuera imposible la celebración de la Asamblea General, los Liquidadores publicarán el balance final y el proyecto de distribución, una vez censurados, en el
 
 circulación de la provincia del domicilio social de la
 
@@ -3523,7 +3197,7 @@ c) La utilización de la fórmula cooperativa para encubrir finalidades ajenas a
 
 2. El procedimiento para la descalificación se ajustará a las normas del procedimiento administrativo sancionador, con las siguientes particularidades:
 
-a) El trámite de audiencia a la sociedad se realizará con su Consejo Rector o, en su defecto, con un número de socios no inferior a tres, salvo en el caso de la cooperativa de segundo o ulterior grado o cooperativa de integración, en el que bastarán dos socios. Cuando tampoco fuese posible cumplimentar dicho trámite en los términos expuestos, se entenderá cubierto, publicando el correspondiente aviso en el Boletín Oficial de la Junta de Andalucía y en un periódico de gran circulación en la localidad del domicilio social.
+a) El trámite de audiencia a la sociedad se realizará con su Consejo Rector o, en su defecto, con un número de socios no inferior a tres, salvo en el caso de la cooperativa de segundo o ulterior grado o cooperativa de integración, en el que bastarán dos socios. Cuando tampoco fuese posible cumplimentar dicho trámite en los términos expuestos, se entenderá cubierto, publicando el correspondiente aviso en el
 
 b) Será competente para acordar la descalificación el titular de la Consejería que tenga atribuidas competencias en materia de cooperativas previo informe del Consejo Andaluz de
 
@@ -3633,7 +3307,7 @@ Transcurrido este plazo, el Registro de Cooperativas dispondrá la publicidad o 
 
 requisitos mínimos a que se refiere el presente título o defectos en la documentación presentada.
 
-La publicidad del depósito se efectuará en el Boletín Oficial de la Junta de Andalucía, adquiriendo la entidad personalidad jurídica y plena capacidad de obrar en el momento de la publicación del depósito.
+La publicidad del depósito se efectuará en el
 
 La modificación de los estatutos de las federaciones y
 
@@ -3791,7 +3465,7 @@ Se faculta al Consejo de Gobierno de la Junta de Andalucía para que, a propuest
 
 Quinta. Entrada en vigor.
 
-Esta Ley entrará en vigor a los treinta días de su publicación en el Boletín Oficial de la Junta de Andalucía¯.
+Esta Ley entrará en vigor a los treinta días de su publicación en el
 
 Sevilla, 31 de marzo de 1999
 
@@ -4132,127 +3806,12 @@ title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
 Temas
 
-Estudiar
-
-Trabajar
-
-Tu salud
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
 ## La Junta
-
-La Junta
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-
-Consejerías
 
 ## Servicios
 
-Servicios
-
-Cómo tramitar
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
 Servicios de Información
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Buscador de noticias
-
-Suscripción
 
 ## Información general
 
-Sobre el portal
-
-Contacto
-
-Mapa web
-
-Listas de correo
-
-Fuentes web
-
 ## Síguenos en:
-
-Síguenos en:
-
-@GobAndalucia
-andaluciajunta
-andaluciajunta
-AndaluciaJunta
-juntainforma
-junta-de-andalucia
-
-Accesibilidad
-Aviso legal
-Canal de denuncias interno
-Política de cookies
-Protección de datos

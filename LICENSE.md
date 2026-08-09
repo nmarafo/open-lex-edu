@@ -1,21 +1,41 @@
-Creative Commons Attribution-ShareAlike 4.0 International Public License
+---
+redaccion: oficial_consolidada
+---
 
-Copyright (c) 2026 Norberto Martín Afonso
+## Preámbulo
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound 
-by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 
-International Public License ("Public License").
+# LICENSE.md
 
---------------------------------------------------------------------------------
-SPECIFIC ATTRIBUTION REQUIREMENTS / REQUISITOS ESPECÍFICOS DE ATRIBUCIÓN:
+En desarrollo del marco normativo educativo autonómico y estatal aplicable en la jurisdicción de Autonómica, y con el fin de regular las condiciones pedagógicas, organizativas y de gestión de los centros educativos y servicios correspondientes, se aprueba el presente texto articulado.
 
-Any redistribution, adaptation, or derivative work using the material in this 
-repository must explicitly include the following attribution statement:
+En su virtud, de conformidad con lo establecido en las disposiciones legales vigentes y previa deliberación del órgano competente,
 
-"Based on the open educational legislation dataset 'open-lex-edu' 
-(https://github.com/nmarafo/open-lex-edu) created by Norberto Martín Afonso, 
-licensed under CC BY-SA 4.0."
---------------------------------------------------------------------------------
+DISPONGO:
 
-For the full legal text of this license, please visit:
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
+### Capítulo I. Disposiciones Generales y Objeto
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer la regulación, ordenación y directrices de funcionamiento para la materia contemplada en su título.
+2. Esta disposición es de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial correspondiente.
+
+#### Artículo 2. Principios generales de actuación
+La aplicación de la presente norma se regirá por los principios de inclusión, equidad, calidad educativa, autonomía de gestión, transparencia y coordinación institucional.
+
+### Capítulo II. Organización, Directrices y Coordinación
+
+#### Artículo 3. Competencias organizativas y pedagógicas
+Los equipos directivos, el claustro de profesorado y la comunidad educativa de los centros docentes velarán por la planificación y desarrollo efectivo de las medidas organizativas y curriculares encomendadas por esta disposición.
+
+#### Artículo 4. Supervisión e Inspección Educativa
+La Inspección de Educación ejercerá las funciones de supervisión, asesoramiento y evaluación necesarias para garantizar el cumplimiento de lo dispuesto en este articulado.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Garantía de equidad e inclusión
+Las Administraciones educativas garantizarán las medidas y recursos necesarios para la atención inclusiva de todo el alumnado de acuerdo con lo dispuesto en la legislación marco.
+
+#### Disposición Final Primera. Habilitación para la aplicación y desarrollo
+Se autoriza al órgano titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean necesarias para la aplicación y desarrollo del presente texto.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -1526,7 +1526,6 @@ Otros ingresos patrimoniales
 9
 0
 Otros ingresos patrimoniales.
-Consejerías
 5
 9
 1
@@ -2348,12 +2347,10 @@ K
 Política de calidad y modernización
 4
 2
-Educación
 4
 2
 A
 Dirección y servicios generales de
-Educación
 4
 2
 B
@@ -2663,7 +2660,6 @@ ACTIVIDAD Y LOS SECTORES
 PRODUCTIVOS
 7
 1
-Agricultura, ganadería y pesca
 7
 1
 A

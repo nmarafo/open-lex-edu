@@ -32,16 +32,131 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+CORRECCION de errores del Acuerdo de 22 de marzo de 2006, de la Comisión de Distrito Unico Universitario de Andalucía, por el que se establece el procedimiento para el ingreso en los primeros ciclos de las Enseñanzas Universitarias (BOJA núm. 89, de 12.5.2006).
 
-# Orden de 10 de mayo de 2006, por la que se establece la ordenación de la evaluación en la Educación de Adultos.
+name="Description"/>
+name="Keywords"/>
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+title="Boletín completo - BOJA"
+type="application/atom+xml"
+rel="alternate"/>
+<link type="application/atom+xml" rel="alternate"
+title="1. Disposiciones generales - BOJA"
+href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
-## Articulado e Instrucciones en Vigor
+###
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en todos los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+###
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+Becas y ayudas
+
+Buscar trabajo
+
+Autoempleo
+
+Empleo público
+
+Perder el trabajo
+
+Formación para el empleo
+
+Jubilación
+
+Inmigración y emigración
+
+Relaciones laborales
+
+Prevención de riesgos laborales
+
+Fomento de la empleabilidad
+
+Renovar demanda de empleo
+
+Ofertas de empleo
+
+Más temas
+
+Más temas
+
+Empleo público
+
+BOJA Histórico >
+2006
+Boletín 100
+1. Disposiciones generales
+
+##
+
+Histórico del BOJA
+Boletín número
+100
+de
+26/05/2006
+
+## 1. Disposiciones generales
+
+### Consejería de Innovación, Ciencia y Empresa
+
+### CORRECCION de errores del Acuerdo de 22 de marzo de 2006, de la Comisión de Distrito Unico Universitario de Andalucía, por el que se establece el procedimiento para el ingreso en los primeros ciclos de las Enseñanzas Universitarias (BOJA núm. 89, de 12.5.2006).
+
+Atención: La información contenida en estas
+páginas no tiene validez legal.
+Ver
+más
+
+Advertida omisión en el Acuerdo de 22 de marzo de 2006, de la Comisión de Distrito Unico Universitario de Andalucía, por el que se establece el procedimiento para el ingreso en los primeros ciclos de las Enseñanzas Universitarias, publicado en el
+
+En la página núm. 27 en el Anexo II, falta el último epígrafe de la Primera fase, con el siguiente texto:
+
+-.º plazo de matrícula (y único de Titulados): Del 4 al 14 de septiembre.
+
+Sevilla, 12 de mayo de 2006
+
+<a title="Descargar PDF de la
+disposición"
+class="
+item_pdf_disposicion"
+href="d1.pdf"
+target="_blank">
+Descargar PDF
+
+Disposición siguiente
+
+BOJA nº
+100
+de
+26/05/2006
+
+1. Disposiciones generales
+
+2.1. Nombramientos, situaciones e incidencias
+
+2.2. Oposiciones y concursos
+
+3. Otras disposiciones
+
+4. Administración de justicia
+
+<a href="s5.1"
+title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
+5.1. Subastas y concursos de obras, suministros y servicios públicos
+
+5.2. Otros anuncios
+
+<a target="_blank" title="Descargar el boletín completo en PDF"
+href="../../2006/100/boletin.100.pdf">Descargar boletín nº
+100 completo
+
+## Temas
+
+Temas
+
+## La Junta
+
+## Servicios
+
+Servicios de Información
+
+## Información general
+
+## Síguenos en:

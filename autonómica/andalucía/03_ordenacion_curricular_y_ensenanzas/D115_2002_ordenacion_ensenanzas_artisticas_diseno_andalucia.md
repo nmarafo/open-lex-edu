@@ -33,17 +33,11 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-<!DOCTYPE html
->
-
 ORDEN de 26 de febrero de 2002, por la que se aprueban las Bases Reguladoras en el ámbito de las competencias de la Dirección General de Coordinación de Políticas Migratorias y se efectúa su convocatoria para el año 2002.
 
-<meta content="Página de disposición nº 1 del boletín nº 38 de 2002."
 name="Description"/>
-<meta content="2002, Junta de Andalucía, el portal de Andalucía, Administración andaluza, BOJA, B.O.J.A."
 name="Keywords"/>
 
-<link href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"
 title="Boletín completo - BOJA"
 type="application/atom+xml"
 rel="alternate"/>
@@ -52,74 +46,10 @@ title="1. Disposiciones generales - BOJA"
 href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
-Navegación secundaria - Portal JDA
-
-Contacto
-
-Mapa web
-
-@GobAndalucia
-
-andaluciajunta
-
-andaluciajunta
-
-AndaluciaJunta
-
-juntainforma
-
-junta-de-andalucia
-
-Junta de Andalucía
-
-Inicio
-
-Buscar
-
-Menú
 
 ###
-Junta de Andalucía
-
-Estudiar
-
-Estudiar
-
-Becas y ayudas al estudio
-
-Infantil (0-6 años)
-
-Primaria y ESO (6-16 años)
-
-Bachillerato
-
-Formación Profesional
-
-Otras enseñanzas
-
-Universidad
-
-Educación para adultos y mayores
-
-Investigación
-
-Información para centros
-
-Directo a
-
-Moodle Centros
-
-Secretaría Virtual
-
-iPasen
-
-Distrito Único Andaluz
 
 Becas y ayudas
-
-Trabajar
-
-Trabajar
 
 Buscar trabajo
 
@@ -141,279 +71,23 @@ Prevención de riesgos laborales
 
 Fomento de la empleabilidad
 
-Directo a
-
 Renovar demanda de empleo
 
 Ofertas de empleo
 
-Cursos de formación estatal para el empleo. SEPE
-
-Procesos selectivos convocados (IAAP)
-
-Sistema de provisión de interinidades (SIPRI)
-
-Tu salud
-
-Tu salud
-
-Servicios sanitarios
-
-Urgencias y primeros auxilios
-
-Derechos y calidad asistencial
-
-Consejos y prevención
-
-Apoyo al paciente
-
-Salud de las personas mayores
-
-Salud infantil
-
-Organización sanitaria en Andalucía
-
-Directo a
-
-Cita en centros sanitarios (ClicSalud+)
-
-Salud Responde
-
-Consulta listas de espera
-
-Solicita o renueva la tarjeta sanitaria
-
 Más temas
 
 Más temas
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
-Agricultura, ganadería y pesca
-
-Energía
-
-Sanitario
-
-Ver más
-
-Transparencia
-
-Transparencia
-
-Información institucional y organizativa
 
 Empleo público
 
-Altos cargos
-
-Planificación, evaluación y estadística
-
-Información jurídica
-
-Relaciones con la ciudadanía
-
-Contratos, convenios y subvenciones
-
-Información económica y presupuestaria
-
-Transparencia del Consejo de Gobierno
-
-Transparencia de consejerías y entidades instrumentales
-
-Acceso a la información pública
-
-Conoce más sobre la transparencia
-
-Directo a
-
-Organigrama general de la Junta de Andalucía
-
-Presupuestos de la Comunidad Autónoma
-
-Solicitar información pública
-
-Fondos NEXT Generation EU y MRR
-
-Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
-
-La Junta
-
-La Junta
-
-Consejo de Gobierno
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-Consejerías
-
-Presidencia, Sanidad y Emergencias
-Turismo, Justicia, Desregulación y Administración Local
-Economía, Hacienda y Fondos Europeos
-Agricultura, Pesca, Agua y Desarrollo Rural
-Educación
-Empleo, Empresa y Trabajo Autónomo
-Servicios Sociales, Familias e Igualdad
-Vivienda, Juventud y Ordenación del Territorio
-Universidad, Industria, Energía e Innovación
-Cultura, Patrimonio Histórico y Deporte
-Sostenibilidad y Medio Ambiente
-Fomento y Movilidad
-Inteligencia Artificial, Desarrollo Digital y Administración Pública
-
-Servicios
-
-Servicios
-
-Cómo tramitar
-
-Atención a la ciudadanía
-
-Trámites
-
-Servicios digitales
-
-Sede Electrónica General
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
-Último boletín
-
-Boletines anteriores
-
-Legislación Consolidada Andaluza
-
-Sobre BOJA
-
-Preguntas frecuentes
-
-Ver más
-
-Servicios de información
-
-Normativa
-
-Participación
-
-Estadística y cartografía
-
-Catálogo de publicaciones
-
-Datos abiertos
-
-Ver más
-
-Directo a
-
-Grado de Discapacidad. Reconocimiento, calificación y valoración
-
-Familia numerosa: expedición, renovación y modificación del título
-
-Registro de Turismo de Andalucía (RTA): inscripción
-
-Solicitud de licencia para la práctica de la pesca marítima de recreo
-
-Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
-
-Noticias
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Reportajes
-
-Fotogalería
-
-Videoteca
-
-Ver más
-
-Buscador de noticias
-
-Suscripción
-
-Buscar
-
-Buscar
-
-Buscar
-
-### recomendador solapa responsive
-
-Buscar
-
 BOJA Histórico >
 2002
->
 Boletín 38
->
 1. Disposiciones generales
->
 
 ##
-Boletín Oficial de la Junta de Andalucía -
+
 Histórico del BOJA
 Boletín número
 38
@@ -538,7 +212,7 @@ Artículo 5. Lugar y plazo de presentación de solicitudes.
 
 1. Sin perjuicio de lo establecido en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las solicitudes se presentarán con carácter preferente, en el Registro General de la Consejería de Gobernación o en los de las Delegaciones del Gobierno de la Junta de Andalucía en la provincia donde tenga su sede la entidad solicitante.
 
-2. Las solicitudes deberán ser presentadas en el plazo de un mes, a partir del día siguiente a la fecha de publicación de la presente Orden en el Boletín Oficial de la Junta de Andalucía, salvo si se trata de solicitudes de subvenciones a las que se refiere la disposición adicional única, cuyo plazo será establecido por la misma.
+2. Las solicitudes deberán ser presentadas en el plazo de un mes, a partir del día siguiente a la fecha de publicación de la presente Orden en el
 
 Artículo 6. Subsanación de errores.
 
@@ -618,7 +292,7 @@ modificación por el interesado pudiendo entenderse desestimada por silencio adm
 
 Artículo 13. Publicidad.
 
-Las subvenciones concedidas serán publicadas trimestralmente en el Boletín Oficial de la Junta de Andalucía, conforme a lo dispuesto en el art. 109 de la Ley General de la Hacienda Pública de la Comunidad Autónoma de Andalucía.
+Las subvenciones concedidas serán publicadas trimestralmente en el
 
 Artículo 14. Abono de las subvenciones.
 
@@ -770,7 +444,7 @@ Se faculta al Director General de Coordinación de Políticas Migratorias para d
 
 Segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación el Boletín Oficial de la Junta de Andalucía.
+La presente Orden entrará en vigor el día siguiente al de su publicación el
 
 Sevilla, 26 de febrero de 2002
 
@@ -813,127 +487,12 @@ href="../../2002/38/boletin.38.pdf">Descargar boletín nº
 
 Temas
 
-Estudiar
-
-Trabajar
-
-Tu salud
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
 ## La Junta
-
-La Junta
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-
-Consejerías
 
 ## Servicios
 
-Servicios
-
-Cómo tramitar
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
 Servicios de Información
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Buscador de noticias
-
-Suscripción
 
 ## Información general
 
-Sobre el portal
-
-Contacto
-
-Mapa web
-
-Listas de correo
-
-Fuentes web
-
 ## Síguenos en:
-
-Síguenos en:
-
-@GobAndalucia
-andaluciajunta
-andaluciajunta
-AndaluciaJunta
-juntainforma
-junta-de-andalucia
-
-Accesibilidad
-Aviso legal
-Canal de denuncias interno
-Política de cookies
-Protección de datos

@@ -35,6 +35,34 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
+wleg_pub - Comunidad de Madrid - madrid.org
+
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+
+## Legislación de la Comunidad de Madrid
+
+Versión 3.0.15 - 16/03/2026                        | Copyright © Comunidad de Madrid - Atlas 2.1.0
+
+InicioNormativa relevanteNormativa recienteELIQué ofrecemosAyuda
+
+Búsqueda
+
+Resultado de la búsqueda
+
+Enviar EMAIL: Resultado de la                        búsquedaDestinatarioEnviar
+
+Resultado de la búsqueda
+
+100)                                       {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                                {jQuery('[id$=mensajeEMAIL]').html('');RichFaces.component('panelPopupEnvioContenidoNormativa').show();jQuery('[id$=email]').focus();}" style="cursor:hand;cursor:pointer;" class="botonAplicacionTXT                            titleLink">Enviar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Guardar
+
+100)                                                 {alert('Para utilizar esta funcionalidad debe restringir la búsqueda de forma que no supere las 100 normas.');} else                               {RichFaces.component('panelPopupCargando').show();return false;}" class="printComun">Imprimir
+
+Nueva Búsqueda
+
+Ordenación	Rango y fecha                            descendente	Rango y fecha                            ascendente	Fecha                                      descendente	Fecha                                      ascendenteDecreto (Disposición Autonómica)
+
 Decreto 64/2000, de 13 de abril,   del Consejo de Gobierno, por el que se modifica el Decreto 48/1998, de 26 de marzo, por el que se reforma el Consejo de Caza de la Comunidad de Madrid (BOCM de 8 de mayo de 2000)  Ley 9/2010, de 23 de diciembre,
 
 Mas información...

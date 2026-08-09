@@ -37,235 +37,48 @@ relaciones:
 
 Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022, y su Extracto.
 
-Cursos de formación estatal para el empleo. SEPE
+###
 
-Procesos selectivos convocados (IAAP)
+###
 
-Sistema de provisión de interinidades (SIPRI)
+Becas y ayudas
 
-Tu salud
+Buscar trabajo
 
-Tu salud
+Autoempleo
 
-Servicios sanitarios
+Empleo público
 
-Urgencias y primeros auxilios
+Perder el trabajo
 
-Derechos y calidad asistencial
+Formación para el empleo
 
-Consejos y prevención
+Jubilación
 
-Apoyo al paciente
+Inmigración y emigración
 
-Salud de las personas mayores
+Relaciones laborales
 
-Salud infantil
+Prevención de riesgos laborales
 
-Organización sanitaria en Andalucía
+Fomento de la empleabilidad
 
-Cita en centros sanitarios (ClicSalud+)
+Renovar demanda de empleo
 
-Salud Responde
-
-Consulta listas de espera
-
-Solicita o renueva la tarjeta sanitaria
+Ofertas de empleo
 
 Más temas
 
 Más temas
 
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
-Agricultura, ganadería y pesca
-
-Energía
-
-Sanitario
-
-Ver más
-
-Información institucional y organizativa
-
-Altos cargos
-
-Planificación, evaluación y estadística
-
-Información jurídica
-
-Relaciones con la ciudadanía
-
-Contratos, convenios y subvenciones
-
-Información económica y presupuestaria
-
-Transparencia del Consejo de Gobierno
-
-Transparencia de consejerías y entidades instrumentales
-
-Acceso a la información pública
-
-Conoce más sobre la transparencia
-
-Organigrama general de la Junta de Andalucía
-
-Presupuestos de la Comunidad Autónoma
-
-Solicitar información pública
-
-Fondos NEXT Generation EU y MRR
-
-Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
-
-La Junta
-
-La Junta
-
-Consejo de Gobierno
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Consejo de Gobierno
-Consejerías
-
-Presidencia, Sanidad y Emergencias
-Turismo, Justicia, Desregulación y Administración Local
-Economía, Hacienda y Fondos Europeos
-Agricultura, Pesca, Agua y Desarrollo Rural
-Educación
-Empleo, Empresa y Trabajo Autónomo
-Servicios Sociales, Familias e Igualdad
-Vivienda, Juventud y Ordenación del Territorio
-Universidad, Industria, Energía e Innovación
-Cultura, Patrimonio Histórico y Deporte
-Sostenibilidad y Medio Ambiente
-Fomento y Movilidad
-Inteligencia Artificial, Desarrollo Digital y Administración Pública
-
-Servicios
-
-Servicios
-
-Cómo tramitar
-
-Atención a la ciudadanía
-
-Trámites
-
-Servicios digitales
-
-Sede Electrónica General
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
-Último boletín
-
-Boletines anteriores
-
-Legislación Consolidada Andaluza
-
-Sobre BOJA
-
-Preguntas frecuentes
-
-Ver más
-
-Servicios de información
-
-Normativa
-
-Estadística y cartografía
-
-Catálogo de publicaciones
-
-Datos abiertos
-
-Ver más
-
-Grado de Discapacidad. Reconocimiento, calificación y valoración
-
-Familia numerosa: expedición, renovación y modificación del título
-
-Registro de Turismo de Andalucía (RTA): inscripción
-
-Solicitud de licencia para la práctica de la pesca marítima de recreo
-
-Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
-
-Noticias
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Tierra y mar
-
-Sala de prensa
-
-Reportajes
-
-Fotogalería
-
-Videoteca
-
-Ver más
-
-Buscador de noticias
-
-Suscripción
-
-### recomendador solapa responsive
+Empleo público
 
 BOJA Histórico >
 2023
 Boletín 104
 1. Disposiciones generales
+
+##
 
 Histórico del BOJA
 Boletín número 104 de
@@ -286,7 +99,8 @@ dificultades de edición. Para consultar la versión oficial y
 auténtica de esta disposición puede descargarse el fichero PDF
 firmado de la disposición desde la sede electrónica del BOJA o
 utilizar el servicio de
-Verificación de autenticidad  con
+<a title="Verificación de
+autenticidad" href="3-verificacion"> Verificación de autenticidad  con
 CVE
 00284635.
 
@@ -396,99 +210,12 @@ Otros anuncios oficiales
 
 Temas
 
-Tu salud
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
 ## La Junta
-
-La Junta
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Consejo de Gobierno
-
-Consejerías
 
 ## Servicios
 
-Servicios
-
-Cómo tramitar
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
 Servicios de Información
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Tierra y mar
-
-Sala de prensa
-
-Buscador de noticias
-
-Suscripción
 
 ## Información general
 
-Sobre el portal
-
-Listas de correo
-
-Fuentes web
-
 ## Síguenos en:
-
-Síguenos en:
-
-Canal de denuncias interno
-Política de cookies

@@ -35,28 +35,193 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
-## Preámbulo
+ACUERDO de 3 de diciembre de 1996, del Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia a la Corporación Municipal de Puebla del Río (Sevilla). (PD. 4162/96).
 
-# Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
+name="Description"/>
+name="Keywords"/>
 
-La necesidad de estructurar el Sistema de Cualificaciones y Formación Profesional en Andalucía exige la creación de un órgano técnico especializado encargado de la elaboración del Catálogo de Cualificaciones Profesionales.
+title="Boletín completo - BOJA"
+type="application/atom+xml"
+rel="alternate"/>
+<link type="application/atom+xml" rel="alternate"
+title="1. Disposiciones generales - BOJA"
+href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
-En su virtud, a propuesta de los Consejeros de Trabajo e Industria y de Educación y Ciencia, el Consejo de Gobierno, en su reunión del día 10 de diciembre de 1996,
+###
 
-DISPONGO:
+###
 
-### Capítulo I. Creación y Fines del IACP
+Becas y ayudas
 
-#### Artículo 1. Creación y adscripción
-Se crea el Instituto Andaluz de Cualificaciones Profesionales (IACP) como órgano técnico adscrito a la Consejería competente en materia de Formación Profesional.
+Buscar trabajo
 
-#### Artículo 2. Funciones principales
-Corresponde al Instituto Andaluz de Cualificaciones Profesionales:
-a) Definir e investigar las cualificaciones profesionales requeridas en el mercado laboral andaluz.
-b) Diseñar la oferta del Catálogo de Títulos de Formación Profesional y Certificados de Profesionalidad.
-c) Coordinar el procedimiento de evaluación, reconocimiento y acreditación de las competencias profesionales adquiridas por experiencia laboral.
+Autoempleo
 
-### Disposiciones Finales
+Empleo público
 
-#### Disposición Final Única. Entrada en vigor
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+Perder el trabajo
+
+Formación para el empleo
+
+Jubilación
+
+Inmigración y emigración
+
+Relaciones laborales
+
+Prevención de riesgos laborales
+
+Fomento de la empleabilidad
+
+Renovar demanda de empleo
+
+Ofertas de empleo
+
+Más temas
+
+Más temas
+
+Empleo público
+
+BOJA Histórico >
+1996
+Boletín 148
+1. Disposiciones generales
+
+##
+
+Histórico del BOJA
+Boletín número
+148
+de
+24/12/1996
+
+## 1. Disposiciones generales
+
+### Consejería de la Presidencia
+
+### ACUERDO de 3 de diciembre de 1996, del Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia a la Corporación Municipal de Puebla del Río (Sevilla). (PD. 4162/96).
+
+Atención: La información contenida en estas
+páginas no tiene validez legal.
+Ver
+más
+
+La Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, dispone en el artículo 26 que los servicios de radiodifusión sonora en ondas métricas con modulación de frecuencia podrán ser explotados indirectamente, mediante concesión administrativa, por las Corporaciones Locales.El Real Decreto 169/1989, de 10 de febrero, por el que se aprueba el Plan Técnico Nacional de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia, establece, en su artículo 5º y Disposición Transitoria, los criterios y condiciones a que deberán ajustarse las Emisoras correspondientes a las Corporaciones Locales.
+
+La Ley 11/1991, de 8 de abril, de Organización y Control de las Emisoras Municipales de Radiodifusión Sonora configura el marco jurídico básico para hacer efectiva la prestación del servicio de radiodifusión sonora por parte de los Ayuntamientos.
+
+La Junta de Andalucía, mediante el Decreto 202/1991, de 5 de noviembre, regula la concesión para la gestión indirecta por las Corporaciones Municipales del Servicio de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia.
+
+Por Acuerdo del Consejo de Gobierno de 27 de abril de 1993, se otorgó a la Corporación Municipal de Puebla del Río (Sevilla) concesión provisional de Emisora de radiodifusión sonora en ondas métricas con modulación de frecuencia.
+
+Se ha dado cumplimiento a los requisitos y trámites previstos, en los arts.
+
+5º y 6º del Decreto 202/1991, y extendida Acta de conformidad final a la instalación de la Emisora, de acuerdo con lo dispuesto en el apartado 6 del artículo 6º del Decreto 202/1991, de 5 de noviembre.
+
+En consecuencia, a propuesta del Consejero de la Presidencia y previa deliberación del Consejo de Gobierno, en su sesión del día 3 de diciembre de
+
+1996.
+
+ACUERDO
+
+Primero. Otorgar a la Corporación Municipal de Puebla del Río (Sevilla) concesión definitiva para el funcionamiento de la Emisora de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia.
+
+Segundo. El plazo de vigencia de la concesión se fija en diez años y podrá prorrogarse, sucesivamente, por períodos iguales, previa solicitud del concesionario con tres meses de antelación a la fecha de extinción del plazo concedido.
+
+En todo caso, el concesionario queda obligado a garantizar la prestación continuada del servicio; como, asimismo, a cumplir con los requisitos y condiciones de la concesión, tanto de carácter técnico, como de organización y control, gestión y contenidos.
+
+Tercero. La frecuencia y demás características asignadas para la emisora, de conformidad con el Proyecto Técnico aprobado y con carácter de concesión de dominio público radioeléctrico, accesoria y afecta inseparablemente a la concesión del servicio de radiodifusión sonora son las que figuran en el Anexo al presente Acuerdo.
+
+Cuarto. Cualquier modificación de las características técnicas establecidas y cuantas actuaciones puedan afectar a la gestión y funcionamiento de la Emisora, deberán ajustarse a lo previsto en la Ley 31/1987, de 18 de diciembre, Real Decreto 169/1989, de 10 de febrero, Decreto 75/1989, de 4 de abril, Ley 10/1991, de 8 de abril, Ley 11/1991, de 8 de abril, Decreto
+
+202/1991, de 5 de noviembre, Ley 32/1992, de 3 de diciembre y demás normas que puedan resultar de aplicación.
+
+Sevilla, 3 de diciembre de 1996
+
+MANUEL CHAVES GONZALEZ
+
+Presidente de la Junta de Andalucía
+
+GASPAR ZARRIAS AREVALO
+
+Consejero de la Presidencia
+
+ANEXO
+
+CARACTERISTICAS TECNICAS AUTORIZADAS PARA LA EMISORA DE RADIODIFUSION SONORA EN ONDAS METRICAS CON MODULACION DE FRECUENCIA OTORGADA A LA CORPORACION MUNICIPAL DE PUEBLA DEL RIO (SEVILLA)
+
+- Coordenadas geográficas de ubicación del transmisor:º 16 13" N. º 03 35" W.
+
+- Cota (m): 26.
+
+- Denominación de la emisión: 256KF8EHF(*).
+
+- Frecuencia de emisión (MHz): 107.5.
+
+- Potencia radiada aparente máxima (w): 42.
+
+- Potencia de salida autorizada del equipo transmisor (w): 25.
+
+- Potencia máxima nominal del equipo transmisor (w):.
+
+- Sistema radiante y características de radiación: 2 Dipolos. Omnidireccional.
+
+- Altura sobre el suelo del centro eléctrico de la antena (m):.
+
+- Altura del mástil (m): 24.
+
+- Altura efectiva máxima (m): 41.
+
+- Polarización de la emisión: Mixta.
+
+(*) De acuerdo con el apartado f) del artículo 5º del R.D. 169/1989, de 10 de febrero, la utilización de estereofonía no está garantizada con calidad satisfactoria.
+
+<a title="Descargar PDF de la
+disposición"
+class="
+item_pdf_disposicion"
+href="d1.pdf"
+target="_blank">
+Descargar PDF
+
+Disposición siguiente
+
+BOJA nº
+148
+de
+24/12/1996
+
+1. Disposiciones generales
+
+2.1. Nombramientos, situaciones e incidencias
+
+2.2. Oposiciones y concursos
+
+3. Otras disposiciones
+
+4. Administración de justicia
+
+<a href="s5.1"
+title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
+5.1. Subastas y concursos de obras, suministros y servicios públicos
+
+5.2. Otros anuncios
+
+<a target="_blank" title="Descargar el boletín completo en PDF"
+href="../../1996/148/boletin.148.pdf">Descargar boletín nº
+148 completo
+
+## Temas
+
+Temas
+
+## La Junta
+
+## Servicios
+
+Servicios de Información
+
+## Información general
+
+## Síguenos en:

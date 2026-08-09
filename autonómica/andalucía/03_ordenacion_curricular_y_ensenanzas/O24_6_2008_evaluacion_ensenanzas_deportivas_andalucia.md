@@ -32,16 +32,142 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+Real Decreto 1050/2008, de 13 de junio, por el que se nombra Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta.
 
-# Orden de 24 de junio de 2008, sobre evaluación del aprendizaje en las Enseñanzas Deportivas de Régimen Especial.
+name="Description"/>
+name="Keywords"/>
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+title="Boletín completo - BOJA"
+type="application/atom+xml"
+rel="alternate"/>
+<link type="application/atom+xml" rel="alternate"
+title="0. Disposiciones estatales - BOJA"
+href="http://www.juntadeandalucia.es/boja/distribucion/s0.xml"/>
 
-## Articulado e Instrucciones en Vigor
+###
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+###
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+Becas y ayudas
+
+Buscar trabajo
+
+Autoempleo
+
+Empleo público
+
+Perder el trabajo
+
+Formación para el empleo
+
+Jubilación
+
+Inmigración y emigración
+
+Relaciones laborales
+
+Prevención de riesgos laborales
+
+Fomento de la empleabilidad
+
+Renovar demanda de empleo
+
+Ofertas de empleo
+
+Más temas
+
+Más temas
+
+Empleo público
+
+BOJA Histórico >
+2008
+Boletín 137
+0. Disposiciones estatales
+
+##
+
+Histórico del BOJA
+Boletín número
+137
+de
+10/07/2008
+
+## 0. Disposiciones estatales
+
+### Consejo General del Poder Judicial
+
+###
+Real Decreto 1050/2008, de 13 de junio, por el que se nombra Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta.
+
+Atención: La información contenida en estas
+páginas no tiene validez legal.
+Ver
+más
+
+A propuesta del Pleno del Consejo General del Poder Judicial, adoptada en su reunión de 11 de junio de 2008, y de conformidad con lo establecido en los artículos 127.2 y 337 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+Vengo en nombrar Presidente de la Audiencia Provincial de Almería a don Benito Gálvez Acosta, en provisión de la vacante producida por expiración del plazo legal por el que había sido nombrado con anterioridad para el mismo cargo.
+
+Dado en Madrid, el 13 de junio de 2008
+
+Juan Carlos R.
+
+Mariano Fernández Bermejo
+
+Ministro de Justicia
+
+<a title="Descargar PDF de la
+disposición"
+class="
+item_pdf_disposicion"
+href="d1.pdf"
+target="_blank">
+Descargar PDF
+
+Disposición siguiente
+
+BOJA nº
+137
+de
+10/07/2008
+
+0. Disposiciones estatales
+
+2.1. Nombramientos, situaciones e incidencias
+
+2.2. Oposiciones y concursos
+
+3. Otras disposiciones
+
+4. Administración de Justicia
+
+<a href="s5.1"
+title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
+5.1. Subastas y concursos de obras, suministros y servicios públicos
+
+5.2. Otros anuncios
+
+<a target="_blank" title="Descargar el boletín completo en PDF"
+href="../../2008/137/boletin.137.pdf">Descargar boletín nº
+137 completo
+
+PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+Descargar fascículo 1
+
+Descargar fascículo 2
+
+## Temas
+
+Temas
+
+## La Junta
+
+## Servicios
+
+Servicios de Información
+
+## Información general
+
+## Síguenos en:

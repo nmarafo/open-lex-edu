@@ -35,17 +35,11 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
 ---
 
-<!DOCTYPE html
->
-
 ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
 
-<meta content="Página de disposición nº 1 del boletín nº 248 de 2012."
 name="Description"/>
-<meta content="2012, Junta de Andalucía, el portal de Andalucía, Administración andaluza, BOJA, B.O.J.A."
 name="Keywords"/>
 
-<link href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"
 title="Boletín completo - BOJA"
 type="application/atom+xml"
 rel="alternate"/>
@@ -54,74 +48,10 @@ title="1. Disposiciones generales - BOJA"
 href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
 ###
-Navegación secundaria - Portal JDA
-
-Contacto
-
-Mapa web
-
-@GobAndalucia
-
-andaluciajunta
-
-andaluciajunta
-
-AndaluciaJunta
-
-juntainforma
-
-junta-de-andalucia
-
-Junta de Andalucía
-
-Inicio
-
-Buscar
-
-Menú
 
 ###
-Junta de Andalucía
-
-Estudiar
-
-Estudiar
-
-Becas y ayudas al estudio
-
-Infantil (0-6 años)
-
-Primaria y ESO (6-16 años)
-
-Bachillerato
-
-Formación Profesional
-
-Otras enseñanzas
-
-Universidad
-
-Educación para adultos y mayores
-
-Investigación
-
-Información para centros
-
-Directo a
-
-Moodle Centros
-
-Secretaría Virtual
-
-iPasen
-
-Distrito Único Andaluz
 
 Becas y ayudas
-
-Trabajar
-
-Trabajar
 
 Buscar trabajo
 
@@ -143,279 +73,23 @@ Prevención de riesgos laborales
 
 Fomento de la empleabilidad
 
-Directo a
-
 Renovar demanda de empleo
 
 Ofertas de empleo
 
-Cursos de formación estatal para el empleo. SEPE
-
-Procesos selectivos convocados (IAAP)
-
-Sistema de provisión de interinidades (SIPRI)
-
-Tu salud
-
-Tu salud
-
-Servicios sanitarios
-
-Urgencias y primeros auxilios
-
-Derechos y calidad asistencial
-
-Consejos y prevención
-
-Apoyo al paciente
-
-Salud de las personas mayores
-
-Salud infantil
-
-Organización sanitaria en Andalucía
-
-Directo a
-
-Cita en centros sanitarios (ClicSalud+)
-
-Salud Responde
-
-Consulta listas de espera
-
-Solicita o renueva la tarjeta sanitaria
-
 Más temas
 
 Más temas
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
-Agricultura, ganadería y pesca
-
-Energía
-
-Sanitario
-
-Ver más
-
-Transparencia
-
-Transparencia
-
-Información institucional y organizativa
 
 Empleo público
 
-Altos cargos
-
-Planificación, evaluación y estadística
-
-Información jurídica
-
-Relaciones con la ciudadanía
-
-Contratos, convenios y subvenciones
-
-Información económica y presupuestaria
-
-Transparencia del Consejo de Gobierno
-
-Transparencia de consejerías y entidades instrumentales
-
-Acceso a la información pública
-
-Conoce más sobre la transparencia
-
-Directo a
-
-Organigrama general de la Junta de Andalucía
-
-Presupuestos de la Comunidad Autónoma
-
-Solicitar información pública
-
-Fondos NEXT Generation EU y MRR
-
-Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
-
-La Junta
-
-La Junta
-
-Consejo de Gobierno
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-Consejerías
-
-Presidencia, Sanidad y Emergencias
-Turismo, Justicia, Desregulación y Administración Local
-Economía, Hacienda y Fondos Europeos
-Agricultura, Pesca, Agua y Desarrollo Rural
-Educación
-Empleo, Empresa y Trabajo Autónomo
-Servicios Sociales, Familias e Igualdad
-Vivienda, Juventud y Ordenación del Territorio
-Universidad, Industria, Energía e Innovación
-Cultura, Patrimonio Histórico y Deporte
-Sostenibilidad y Medio Ambiente
-Fomento y Movilidad
-Inteligencia Artificial, Desarrollo Digital y Administración Pública
-
-Servicios
-
-Servicios
-
-Cómo tramitar
-
-Atención a la ciudadanía
-
-Trámites
-
-Servicios digitales
-
-Sede Electrónica General
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
-Último boletín
-
-Boletines anteriores
-
-Legislación Consolidada Andaluza
-
-Sobre BOJA
-
-Preguntas frecuentes
-
-Ver más
-
-Servicios de información
-
-Normativa
-
-Participación
-
-Estadística y cartografía
-
-Catálogo de publicaciones
-
-Datos abiertos
-
-Ver más
-
-Directo a
-
-Grado de Discapacidad. Reconocimiento, calificación y valoración
-
-Familia numerosa: expedición, renovación y modificación del título
-
-Registro de Turismo de Andalucía (RTA): inscripción
-
-Solicitud de licencia para la práctica de la pesca marítima de recreo
-
-Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
-
-Noticias
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Reportajes
-
-Fotogalería
-
-Videoteca
-
-Ver más
-
-Buscador de noticias
-
-Suscripción
-
-Buscar
-
-Buscar
-
-Buscar
-
-### recomendador solapa responsive
-
-Buscar
-
 BOJA Histórico >
 2012
->
 Boletín 248
->
 1. Disposiciones generales
->
 
 ##
-Boletín Oficial de la Junta de Andalucía -
+
 Histórico del BOJA
 Boletín número
 248
@@ -483,7 +157,7 @@ Artículo único. Aprobación de las bases reguladoras y de la convocatoria.
 
 Disposición adicional primera. Convocatorias anuales.
 
-La persona titular de la Dirección-Gerencia del Servicio Andaluz de Empleo podrá efectuar la convocatoria de las subvenciones que se regulan en la presente Orden, mediante Resolución que será publicada en el Boletín Oficial de la Junta de Andalucía, en la que se determinará, al menos, el plazo de presentación de solicitudes y la cuantía total máxima destinada a cada línea de subvención.
+La persona titular de la Dirección-Gerencia del Servicio Andaluz de Empleo podrá efectuar la convocatoria de las subvenciones que se regulan en la presente Orden, mediante Resolución que será publicada en el
 
 La citada Resolución deberá ser informada conforme al Decreto 162/2006, de 12 de septiembre, por el que se regulan la memoria económica y el informe en las actuaciones con incidencia económico-financiera.
 
@@ -515,7 +189,7 @@ Quedan derogadas todas las disposiciones de igual o inferior rango que se oponga
 
 Disposición final única. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía.
+La presente Orden entrará en vigor el día siguiente al de su publicación en el
 
 Sevilla, 11 de diciembre de 2012
 
@@ -741,7 +415,7 @@ Artículo 12. Plazo de presentación de solicitudes.
 
 1. El plazo de presentación de solicitudes será el establecido en el apartado 11.a) del cuadro resumen correspondiente.
 
-No obstante, siempre que así se establezca en el apartado 11.b) del cuadro resumen correspondiente, en el supuesto de que antes de finalizar el plazo de presentación de solicitudes se agotara el crédito establecido en la convocatoria, el órgano competente para efectuarla publicará en el Boletín Oficial de la Junta de Andalucía una resolución para su general conocimiento; en tal caso, el plazo de presentación de solicitudes finalizará el día de esta publicación.
+No obstante, siempre que así se establezca en el apartado 11.b) del cuadro resumen correspondiente, en el supuesto de que antes de finalizar el plazo de presentación de solicitudes se agotara el crédito establecido en la convocatoria, el órgano competente para efectuarla publicará en el
 
 2. Serán inadmitidas las solicitudes presentadas fuera de dicho plazo; la resolución de inadmisión será notificada personalmente a la persona interesada en los términos del artículo 59 de la Ley 30/1992, de 26 de noviembre.
 
@@ -859,7 +533,7 @@ Las notificaciones se cursarán personalmente y se practicarán en el lugar o po
 
 Artículo 22. Publicación trimestral de las subvenciones concedidas.
 
-1. A efectos de general conocimiento, de acuerdo con lo dispuesto en los artículos 18.1 de la Ley 38/2003, de 17 de noviembre, y 123 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, las subvenciones concedidas se publicarán trimestralmente en el Boletín Oficial de la Junta de Andalucía con expresión de la convocatoria, el programa y crédito presupuestario al que se imputen, la persona beneficiaria, la cantidad concedida y la finalidad o finalidades de la subvención.
+1. A efectos de general conocimiento, de acuerdo con lo dispuesto en los artículos 18.1 de la Ley 38/2003, de 17 de noviembre, y 123 del Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía, las subvenciones concedidas se publicarán trimestralmente en el
 
 2. No será necesaria dicha publicación respecto de las subvenciones cuyo importe individual sea de cuantía inferior a 3.000 euros. En este supuesto la publicidad se efectuará a través de la página web indicada en el apartado 19 del cuadro resumen correspondiente.
 
@@ -1372,7 +1046,7 @@ El plazo de presentación de solicitudes se establecerá en la correspondiente c
 
 11.b) En el supuesto de que antes de finalizar el plazo de presentación de solicitudes se agotara el crédito establecido en la convocatoria:
 
-Se publicará en el Boletín Oficial de la Junta de Andalucía una Resolución para su general conocimiento.
+Se publicará en el
 
 12. Órganos competentes. (Artículo 15).
 
@@ -1867,7 +1541,7 @@ El plazo de presentación de solicitudes se establecerá en la correspondiente c
 
 11.b) En el supuesto de que antes de finalizar el plazo de presentación de solicitudes se agotara el crédito establecido en la convocatoria:
 
-Se publicará en el Boletín Oficial de la Junta de Andalucía una Resolución para su general conocimiento.
+Se publicará en el
 
 12. Órganos competentes. (Artículo 15).
 
@@ -2178,127 +1852,12 @@ Sumario boletín nº 248
 
 Temas
 
-Estudiar
-
-Trabajar
-
-Tu salud
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Medio ambiente
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
 ## La Junta
-
-La Junta
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Transparencia
-
-Consejo de Gobierno
-
-Consejerías
 
 ## Servicios
 
-Servicios
-
-Cómo tramitar
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
 Servicios de Información
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Salud
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Turismo
-
-Tierra y mar
-
-Cultura
-
-Sala de prensa
-
-Buscador de noticias
-
-Suscripción
 
 ## Información general
 
-Sobre el portal
-
-Contacto
-
-Mapa web
-
-Listas de correo
-
-Fuentes web
-
 ## Síguenos en:
-
-Síguenos en:
-
-@GobAndalucia
-andaluciajunta
-andaluciajunta
-AndaluciaJunta
-juntainforma
-junta-de-andalucia
-
-Accesibilidad
-Aviso legal
-Canal de denuncias interno
-Política de cookies
-Protección de datos

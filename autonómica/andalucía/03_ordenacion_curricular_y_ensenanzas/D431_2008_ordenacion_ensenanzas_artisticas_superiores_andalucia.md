@@ -32,16 +32,134 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-## Preámbulo
+Corrección de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002).
 
-# Decreto 431/2008, de 29 de julio, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en Andalucía.
+name="Description"/>
+name="Keywords"/>
 
-Disposición reguladora aprobada en el ámbito autonómico de Andalucía en desarrollo del marco legal de la Ley 17/2007 de Educación de Andalucía (LEA).
+title="Boletín completo - BOJA"
+type="application/atom+xml"
+rel="alternate"/>
+<link type="application/atom+xml" rel="alternate"
+title="1. Disposiciones generales - BOJA"
+href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
-## Articulado e Instrucciones en Vigor
+###
 
-### Capítulo I. Disposiciones Generales
-La presente norma es de aplicación en los centros docentes no universitarios de la Comunidad Autónoma de Andalucía.
+###
 
-### Capítulo II. Directrices de Organización
-Los equipos directivos y la Inspección de Educación velarán por la aplicación efectiva de los preceptos contenidos en la presente norma.
+Becas y ayudas
+
+Buscar trabajo
+
+Autoempleo
+
+Empleo público
+
+Perder el trabajo
+
+Formación para el empleo
+
+Jubilación
+
+Inmigración y emigración
+
+Relaciones laborales
+
+Prevención de riesgos laborales
+
+Fomento de la empleabilidad
+
+Renovar demanda de empleo
+
+Ofertas de empleo
+
+Más temas
+
+Más temas
+
+Empleo público
+
+BOJA Histórico >
+2008
+Boletín 158
+1. Disposiciones generales
+
+##
+
+Histórico del BOJA
+Boletín número
+158
+de
+08/08/2008
+
+## 1. Disposiciones generales
+
+### Consejería de Salud
+
+###
+Corrección de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002).
+
+Atención: La información contenida en estas
+páginas no tiene validez legal.
+Ver
+más
+
+Advertidos errores en el Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos en Andalucía, publicado en el
+
+En la página 20.341, artículo 3.2.
+
+Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de la Consejería de Salud, …».
+
+Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de Servicio de la Consejería de Salud…».
+
+Sevilla, 23 de junio de 2008
+
+<a title="Descargar PDF de la
+disposición"
+class="
+item_pdf_disposicion"
+href="d1.pdf"
+target="_blank">
+Descargar PDF
+
+Disposición siguiente
+
+BOJA nº
+158
+de
+08/08/2008
+
+1. Disposiciones generales
+
+2.1. Nombramientos, situaciones e incidencias
+
+2.2. Oposiciones y concursos
+
+3. Otras disposiciones
+
+4. Administración de Justicia
+
+<a href="s5.1"
+title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
+5.1. Subastas y concursos de obras, suministros y servicios públicos
+
+5.2. Otros anuncios
+
+<a target="_blank" title="Descargar el boletín completo en PDF"
+href="../../2008/158/boletin.158.pdf">Descargar boletín nº
+158 completo
+
+## Temas
+
+Temas
+
+## La Junta
+
+## Servicios
+
+Servicios de Información
+
+## Información general
+
+## Síguenos en:

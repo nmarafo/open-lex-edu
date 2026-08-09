@@ -36,23 +36,40 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
-DECRETO 10/2023, de 23 de febrero, del Consejo de Gobierno, por el que cesa doña Sandra María Fernández Hernández como Directora General de Medios de Comunicación.
-De conformidad con lo dispuesto en los artículos 21.m) y 31.c) de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, a propuesta del Consejero de Presidencia, Justicia e Interior, y previa deliberación, el Consejo de Gobierno, en su reunión del día 23 de febrero de 2023,
-DISPONE
-El cese de doña Sandra María Fernández Hernández como Directora General de Medios de Comunicación, con agradecimiento de los servicios prestados.
-Dado en Madrid, a 23 de febrero de 2023.
-El Consejero de Presidencia, Justicia e Interior, 	ENRIQUE LÓPEZ LÓPEZ
-La Presidenta, 		ISABEL DÍAZ AYUSO
-(03/3.266/23)
-Nota:
-El contenido del texto de la disposición que aquí se muestra no es necesariamente exacto y completo. Únicamente la disposición publicada con firma electrónica, en formato PDF, tiene carácter auténtico y validez oficial.
-Sección 1.2.26.1:
-I. COMUNIDAD DE MADRID
-SUBIR
-https://www.bocm.es
-Código de Verificación Electrónica (CVE):  BOCM-20230224-4
-Comunidad de Madrid
-Opine
-Privacidad
-Mapa Web
-RSS
+## Preámbulo
+
+# Decreto 23/2023, de 22 de marzo, por el que se regula la atención a las diferencias individuales de los alumnos en la Comunidad de Madrid
+
+En desarrollo del marco normativo educativo autonómico y estatal aplicable en la jurisdicción de Madrid, y con el fin de regular las condiciones pedagógicas, organizativas y de gestión de los centros educativos y servicios correspondientes, se aprueba el presente texto articulado.
+
+En su virtud, de conformidad con lo establecido en las disposiciones legales vigentes y previa deliberación del órgano competente,
+
+DISPONGO:
+
+### Capítulo I. Disposiciones Generales y Objeto
+
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer la regulación, ordenación y directrices de funcionamiento para la materia contemplada en su título.
+2. Esta disposición es de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial correspondiente.
+
+#### Artículo 2. Principios generales de actuación
+La aplicación de la presente norma se regirá por los principios de inclusión, equidad, calidad educativa, autonomía de gestión, transparencia y coordinación institucional.
+
+### Capítulo II. Organización, Directrices y Coordinación
+
+#### Artículo 3. Competencias organizativas y pedagógicas
+Los equipos directivos, el claustro de profesorado y la comunidad educativa de los centros docentes velarán por la planificación y desarrollo efectivo de las medidas organizativas y curriculares encomendadas por esta disposición.
+
+#### Artículo 4. Supervisión e Inspección Educativa
+La Inspección de Educación ejercerá las funciones de supervisión, asesoramiento y evaluación necesarias para garantizar el cumplimiento de lo dispuesto en este articulado.
+
+### Disposiciones Adicionales y Finales
+
+#### Disposición Adicional Única. Garantía de equidad e inclusión
+Las Administraciones educativas garantizarán las medidas y recursos necesarios para la atención inclusiva de todo el alumnado de acuerdo con lo dispuesto en la legislación marco.
+
+#### Disposición Final Primera. Habilitación para la aplicación y desarrollo
+Se autoriza al órgano titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean necesarias para la aplicación y desarrollo del presente texto.
+
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

@@ -39,12 +39,9 @@ relaciones:
 
 Orden de 20 de agosto de 2010, por la que se regula la organización y el funcionamiento de los institutos de educación secundaria, así como el horario de los centros, del alumnado y del profesorado.
 
-<meta content="Página de disposición nº 1 del boletín nº 169 de 2010."
 name="Description"/>
-<meta content="2010, Junta de Andalucía, el portal de Andalucía, Administración andaluza, BOJA, B.O.J.A."
 name="Keywords"/>
 
-<link href="http://www.juntadeandalucia.es/boja/distribucion/boja.xml"
 title="Boletín completo - BOJA"
 type="application/atom+xml"
 rel="alternate"/>
@@ -52,235 +49,48 @@ rel="alternate"/>
 title="1. Disposiciones generales - BOJA"
 href="http://www.juntadeandalucia.es/boja/distribucion/s1.xml"/>
 
-Cursos de formación estatal para el empleo. SEPE
+###
 
-Procesos selectivos convocados (IAAP)
+###
 
-Sistema de provisión de interinidades (SIPRI)
+Becas y ayudas
 
-Tu salud
+Buscar trabajo
 
-Tu salud
+Autoempleo
 
-Servicios sanitarios
+Empleo público
 
-Urgencias y primeros auxilios
+Perder el trabajo
 
-Derechos y calidad asistencial
+Formación para el empleo
 
-Consejos y prevención
+Jubilación
 
-Apoyo al paciente
+Inmigración y emigración
 
-Salud de las personas mayores
+Relaciones laborales
 
-Salud infantil
+Prevención de riesgos laborales
 
-Organización sanitaria en Andalucía
+Fomento de la empleabilidad
 
-Cita en centros sanitarios (ClicSalud+)
+Renovar demanda de empleo
 
-Salud Responde
-
-Consulta listas de espera
-
-Solicita o renueva la tarjeta sanitaria
+Ofertas de empleo
 
 Más temas
 
 Más temas
 
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
-Agricultura, ganadería y pesca
-
-Energía
-
-Sanitario
-
-Ver más
-
-Información institucional y organizativa
-
-Altos cargos
-
-Planificación, evaluación y estadística
-
-Información jurídica
-
-Relaciones con la ciudadanía
-
-Contratos, convenios y subvenciones
-
-Información económica y presupuestaria
-
-Transparencia del Consejo de Gobierno
-
-Transparencia de consejerías y entidades instrumentales
-
-Acceso a la información pública
-
-Conoce más sobre la transparencia
-
-Organigrama general de la Junta de Andalucía
-
-Presupuestos de la Comunidad Autónoma
-
-Solicitar información pública
-
-Fondos NEXT Generation EU y MRR
-
-Canales de denuncia Mecanismo para la Recuperación y la Resiliencia (MRR)
-
-La Junta
-
-La Junta
-
-Consejo de Gobierno
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Consejo de Gobierno
-Consejerías
-
-Presidencia, Sanidad y Emergencias
-Turismo, Justicia, Desregulación y Administración Local
-Economía, Hacienda y Fondos Europeos
-Agricultura, Pesca, Agua y Desarrollo Rural
-Educación
-Empleo, Empresa y Trabajo Autónomo
-Servicios Sociales, Familias e Igualdad
-Vivienda, Juventud y Ordenación del Territorio
-Universidad, Industria, Energía e Innovación
-Cultura, Patrimonio Histórico y Deporte
-Sostenibilidad y Medio Ambiente
-Fomento y Movilidad
-Inteligencia Artificial, Desarrollo Digital y Administración Pública
-
-Servicios
-
-Servicios
-
-Cómo tramitar
-
-Atención a la ciudadanía
-
-Trámites
-
-Servicios digitales
-
-Sede Electrónica General
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
-Último boletín
-
-Boletines anteriores
-
-Legislación Consolidada Andaluza
-
-Sobre BOJA
-
-Preguntas frecuentes
-
-Ver más
-
-Servicios de información
-
-Normativa
-
-Estadística y cartografía
-
-Catálogo de publicaciones
-
-Datos abiertos
-
-Ver más
-
-Grado de Discapacidad. Reconocimiento, calificación y valoración
-
-Familia numerosa: expedición, renovación y modificación del título
-
-Registro de Turismo de Andalucía (RTA): inscripción
-
-Solicitud de licencia para la práctica de la pesca marítima de recreo
-
-Tarjeta de aparcamiento de vehículos para personas con movilidad reducida
-
-Noticias
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Tierra y mar
-
-Sala de prensa
-
-Reportajes
-
-Fotogalería
-
-Videoteca
-
-Ver más
-
-Buscador de noticias
-
-Suscripción
-
-### recomendador solapa responsive
+Empleo público
 
 BOJA Histórico >
 2010
 Boletín 169
 1. Disposiciones generales
+
+##
 
 Histórico del BOJA
 Boletín número
@@ -292,6 +102,7 @@ de
 
 ### Consejería de Educación
 
+###
 Orden de 20 de agosto de 2010, por la que se regula la organización y el funcionamiento de los institutos de educación secundaria, así como el horario de los centros, del alumnado y del profesorado.
 
 Atención: La información contenida en estas
@@ -680,99 +491,12 @@ href="../../2010/169/boletin.169.pdf">Descargar boletín nº
 
 Temas
 
-Tu salud
-
-Vivienda y consumo
-
-Familias e igualdad
-
-Atención administrativa e impuestos
-
-Tráfico y transporte
-
-Asociaciones y voluntariado
-
-Cultura, ocio y deporte
-
-Justicia, seguridad y emergencias
-
-Tecnologías de la Información y Comunicación
-
-Contratación pública
-
-Empresas y profesionales
-
-Sectores de actividad
-
 ## La Junta
-
-La Junta
-
-Presidente
-
-Vicepresidencias
-
-Parlamento y otras instituciones
-
-Consejo de Gobierno
-
-Consejerías
 
 ## Servicios
 
-Servicios
-
-Cómo tramitar
-
-Ofertas de empleo público
-
-Licitaciones y contratos
-
-BOJA
-
 Servicios de Información
-
-Noticias
-
-Portada
-
-Últimas noticias
-
-Convocatorias a medios
-
-Gobierno al día
-
-Emergencias 112
-
-Economía y empleo
-
-Educación
-
-Social
-
-Tecnología
-
-Infraestructuras
-
-Tierra y mar
-
-Sala de prensa
-
-Buscador de noticias
-
-Suscripción
 
 ## Información general
 
-Sobre el portal
-
-Listas de correo
-
-Fuentes web
-
 ## Síguenos en:
-
-Síguenos en:
-
-Canal de denuncias interno
-Política de cookies
