@@ -109,7 +109,6 @@ Santa Cruz de Tenerife, a 28 de noviembre de 2022.- La Directora General de Form
 Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
 ANEXO
-SUMARIO
 1. Documentos oficiales de evaluación de la Educación Básica de Personas Adultas
 (EBPA).
 2. Características de los documentos de evaluación.

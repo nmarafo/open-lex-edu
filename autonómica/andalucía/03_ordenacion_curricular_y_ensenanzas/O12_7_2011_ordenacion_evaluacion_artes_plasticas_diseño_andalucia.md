@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 12 de julio de 2011, sobre ordenación de la evaluación en los ciclos formativos de Artes Plásticas y Diseño.
+
 Acuerdo de 26 de julio de 2011, del Consejo de Gobierno, por el que se aprueba una línea de préstamos reintegrables de la Comunidad Autónoma de Andalucía destinados a la adquisición de vivienda libre en Andalucía y se autoriza a las Consejerías de Hacienda y Administración Pública y de Obras Públicas y Vivienda para la formalización de un convenio de colaboración con la Confederación de Empresarios de Andalucía y las entidades financieras para impulsar la venta del parque de viviendas libres en Andalucía.
 
 name="Description"/>
@@ -84,7 +88,6 @@ Empleo público
 BOJA Histórico >
 2011
 Boletín 147
-1. Disposiciones generales
 
 ##
 
@@ -185,8 +188,6 @@ En aras a alcanzar estos objetivos, la Junta de Andalucía, a través de sus Con
 Y por todo ello, las partes firmantes acuerdan las siguientes
 
 CLÁUSULAS
-
-I. Disposiciones generales
 
 Primera. Objeto.
 
@@ -470,8 +471,6 @@ BOJA nº
 147
 de
 28/07/2011
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

@@ -39,6 +39,10 @@ fundamentos_derecho:
   - '18'
 ---
 
+## Preámbulo
+
+# Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen.
+
 # Ley Orgánica 1/1982 de Protección Civil del Derecho al Honor, a la Intimidad Personal y a la Propia Imagen
 
 **DON JUAN CARLOS I, REY DE ESPAÑA**

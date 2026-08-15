@@ -46,6 +46,10 @@ fundamentos_derecho:
 - norma_id: norm-can-d-212-1991
 ---
 
+## Preámbulo
+
+# Decreto 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado en la Comunidad Autónoma de Canarias.
+
 # Decreto 82/1994, de 13 de mayo, por el que se regula la creación, organización y funcionamiento de los Centros del Profesorado.
 
 ## Preámbulo

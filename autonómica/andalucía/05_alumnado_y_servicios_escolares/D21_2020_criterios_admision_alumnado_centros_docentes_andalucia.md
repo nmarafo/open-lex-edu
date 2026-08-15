@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para impartir las enseñanzas de Educación Infantil, Educación Primaria, Educación Especial, Educación Secundaria Obligatoria y Bachillerato.
+
 Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
 <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
@@ -83,7 +87,6 @@ Empleo público
 BOJA Histórico >
 2020
 Boletín 34
-1. Disposiciones generales
 
 ##
 
@@ -906,8 +909,6 @@ title="Descargar PDF de la disposición"> Descargar PDF
 Disposición siguiente
 
 BOJA nº 34 de 19/02/2020
-
-1. Disposiciones generales
 
 2.2. Oposiciones, concursos y otras convocatorias
 

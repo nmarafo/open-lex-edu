@@ -962,6 +962,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
+## Preámbulo
+
+# Ley Orgánica 2/2006, de 3 de mayo, de Educación (Texto Consolidado con modificaciones de la LOMLOE 3/2020).
+
 ## PREÁMBULO
 
 Las sociedades actuales conceden gran importancia a la educación que reciben sus jóvenes, en la convicción de que de ella dependen tanto el bienestar individual como el colectivo. La educación es el medio más adecuado para construir su personalidad, desarrollar al máximo sus capacidades, conformar su propia identidad personal y configurar su comprensión de la realidad, integrando la dimensión cognoscitiva, la afectiva y la axiológica. Para la sociedad, la educación es el medio de transmitir y, al mismo tiempo, de renovar la cultura y el acervo de conocimientos y valores que la sustentan, de extraer las máximas posibilidades de sus fuentes de riqueza, de fomentar la convivencia democrática y el respeto a las diferencias individuales, de promover la solidaridad y evitar la discriminación, con el objetivo fundamental de lograr la necesaria cohesión social. Además, la educación es el medio más adecuado para garantizar el ejercicio de la ciudadanía democrática, responsable, libre y crítica, que resulta indispensable para la constitución de sociedades avanzadas, dinámicas y justas. Por ese motivo, una buena educación es la mayor riqueza y el principal recurso de un país y de sus ciudadanos.

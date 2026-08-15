@@ -42,29 +42,77 @@ fundamentos_derecho:
 - norma_id: norm-es-2018-4480
 ---
 
+## Preámbulo
+
 # Resolución de 9 de abril de 2018, de la Secretaría de Estado de Educación, Formación Profesional y Universidades por la que se corrigen errores en la de 23 de marzo de 2018, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español.
 
-Advertidos errores en la [Resolución de 23 de marzo de 2018](R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md), de la Secretaría de Estado de Educación, Formación Profesional y Universidades, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación por 1.º de Bachillerato y de homologación de títulos extranjeros al título de Graduado o Graduada en Educación Secundaria Obligatoria y al de Bachiller español, se procede a efectuar la oportuna rectificación:
+III. Otras Resoluciones
+Consejería de Educación, Universidades, Cultura y Deportes
+Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que 
+se delega en las Direcciones Territoriales de Educación determinada competencia 
+relativa a cargos directivos de los centros públicos docentes del ámbito de gestión 
+de este Departamento.
+Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de 
+los centros docentes públicos no universitarios, se precisa delegar en las Direcciones 
+Territoriales de Educación la competencia de esta Dirección General en relación con las 
+Jefaturas de Estudio adjuntas en los centros educativos en los que se determine.
+ANTECEDENTES DE HECHO
+Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la 
+Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, 
+dirigir, controlar y coordinar la gestión del personal docente no universitario de la 
+Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia 
+para la concesión de comisiones de servicio y la declaración de adscripciones provisionales 
+al personal docente no universitario en centros públicos, extendiéndose tal atribución a los 
+cargos directivos.
+Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las 
+normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, 
+por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente 
+no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la 
+Dirección General de Personal, la competencia administrativa para conceder comisiones de 
+servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el 
+desempeño de cargos directivos en centros docentes.
+Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
+Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros 
+públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura 
+de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
+Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones 
+Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como 
+para la concesión, cese y revocación de las comisiones de servicios para el desempeño del 
+cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución 
+de 15 de junio de 2012.
+Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace 
+necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia 
+Página 
 
-En la página 34545, en el apartado tercero, donde dice:
-
-«Se deroga la Resolución de 29 de abril de 2010, de la Secretaría de Estado de Educación y Formación Profesional, por la que se establecen las instrucciones para el cálculo de la calificación final que debe figurar en las credenciales de convalidación y homologación de estudios y títulos extranjeros con el bachiller español.»
-
-debe decir:
-
-«Se deroga la Resolución de 29 de abril de 2010, de la Secretaría de Estado de Educación y Formación Profesional, por la que se establecen las instrucciones para el cálculo de la nota media que debe figurar en las credenciales de convalidación y homologación de estudios y títulos extranjeros con el bachiller español.»
-
-Madrid, 9 de abril de 2018.–El Secretario de Estado de Educación y Formación Profesional y Universidades, Marcial Marín Hellín.
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Fundamentado en**: [**BOE-A-2018-4480**](./R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-
-### Fundamentos de Derecho
-- [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
-- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- [**BOE-A-2018-4480**](./R23_3_2018_secretaria_estado_educacion_formacion_profesional_universidades.md)
+que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de 
+gestión de esta Consejería.
+A los anteriores hechos son de aplicación los siguientes
+FUNDAMENTOS DE DERECHO
+Primero.- El artículo 12 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que 
+establece las competencias de la Dirección General de Personal, en relación con su artículo 
+17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 
+propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del 
+Departamento.
+Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Público que dispone que los órganos de las diferentes Administraciones públicas podrán 
+delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma 
+Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos 
+Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas.
+En su virtud,
+R E S U E L V O:
+Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para 
+el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones 
+de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros 
+educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección 
+y coordinación de esta Dirección General de Personal que dictará cuantas normas e 
+instrucciones considere necesarias.
+Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de 
+la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la 
+misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por 
+esta Dirección General de Personal.
+Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su 
+publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, 
+Fidel Benigno Trujillo Santana.

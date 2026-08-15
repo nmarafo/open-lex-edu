@@ -45,6 +45,10 @@ fundamentos_derecho:
   - '27'
 ---
 
+## Preámbulo
+
+# Decreto 234/1996, de 12 de septiembre, por el que se regulan las Asociaciones de Madres y Padres de Alumnos y sus Federaciones y Confederaciones en la Comunidad Autónoma de Canarias.
+
 # Decreto 234/1996, de 12 de septiembre, por el que se regulan las asociaciones de madres y padres de alumnos.
 
 ## Preámbulo

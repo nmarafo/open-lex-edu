@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
+## Preámbulo
+
+# Orden 190/2023, de 25 de enero, por la que se regula la diversificación curricular en Educación Secundaria Obligatoria
+
 RESOLUCIÓN de 26 de enero de 2023, del Director General de Recursos
 Humanos, por la que se modifica la Resolución de 1 de junio de 2021, por la que
 se publica la relación definitiva de aspirantes que han superado el procedimien-
@@ -85,9 +89,7 @@ B.O.C.M. Núm. 28
 Pág. 15
 BOCM-20230202-1
 http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 puntuación, doña Cristina Pascual Sobrado resultaría seleccionada, accediendo al Cuer-
 po de Catedráticos de Enseñanza Secundaria.

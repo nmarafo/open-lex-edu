@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
+## Preámbulo
+
+# Ley 2/2010, de 15 de junio, de Autoridad del Profesor de la Comunidad de Madrid
+
 **Ley 2/2010, de 15 de junio, de Autoridad del Profesor de la Comunidad de Madrid**
 
 Pasar al contenido principal
@@ -52,7 +56,6 @@ Ley
 Junio
 15
 2
-Boletín Oficial de la Comunidad de Madrid - Núm 154
 Fecha del Boletín
 29-06-2010
 Sección 1.1.20.1:

@@ -420,6 +420,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2003-23399
 ---
 
+## Preámbulo
+
+# Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
 # Ley 39/2015 del Procedimiento Administrativo Común
 
 **FELIPE VI**

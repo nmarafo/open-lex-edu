@@ -51,6 +51,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 ---
 
+## Preámbulo
+
+# Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+
 # Ley Orgánica 5/2000 reguladora de la responsabilidad penal de los menores
 
 **JUAN CARLOS I**

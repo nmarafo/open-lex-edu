@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 29 de septiembre de 2008, por la que se regulan las convalidaciones entre estudios de Música y Danza con ESO y Bachillerato.
+
 Orden de 8 de octubre de 2008, sobre cierre del ejercicio presupuestario de 2008.
 
 name="Description"/>
@@ -86,7 +90,6 @@ Empleo público
 BOJA Histórico >
 2008
 Boletín 206
-1. Disposiciones generales
 
 ##
 
@@ -370,8 +373,6 @@ BOJA nº
 206
 de
 16/10/2008
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

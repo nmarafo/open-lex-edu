@@ -142,7 +142,6 @@ ANEXO
 INSTRUCCIONES PARA LA ORGANIZACIÓN DE LOS CURSOS DE
 ESPECIALIZACIÓN EN IDIOMAS Y PARA LA PLANIFICACIÓN Y AUTORIZACIÓN
 DE SU OFERTA Y LA ADMISIÓN DEL ALUMNADO.
-SUMARIO:
 1. Objeto y ámbito de aplicación.
 2. Finalidad de los cursos de especialización.
 3. Organización de los cursos de especialización.

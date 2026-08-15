@@ -37,6 +37,10 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
+## Preámbulo
+
+# Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la convivencia en los centros docentes sostenidos con fondos públicos y se regula el derecho a las familias a participar en el proceso educativo de sus hijos e hijas.
+
 Orden de 15 de enero de 2007, por la que se convocan los Premios Sociedad de la Información Andaluza en su segunda edición y se publican las bases que regirán los mismos.
 
 name="Description"/>
@@ -88,7 +92,6 @@ Empleo público
 BOJA Histórico >
 2007
 Boletín 25
-1. Disposiciones generales
 
 ##
 
@@ -244,8 +247,6 @@ BOJA nº
 25
 de
 02/02/2007
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

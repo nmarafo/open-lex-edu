@@ -37,6 +37,10 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
+## Preámbulo
+
+# Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid
+
 LEY 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid.
 La Presidenta de la Comunidad de Madrid.
 Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.

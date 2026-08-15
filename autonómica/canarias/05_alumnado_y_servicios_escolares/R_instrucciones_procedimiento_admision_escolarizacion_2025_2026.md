@@ -38,36 +38,230 @@ relaciones:
 
 # Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026.
 
-En desarrollo del marco normativo educativo autonómico y estatal aplicable en la jurisdicción de Canarias, y con el fin de regular las condiciones pedagógicas, organizativas y de gestión de los centros educativos y servicios correspondientes, se aprueba el presente texto articulado.
+II. Autoridades y personal
+Oposiciones y concursos
+Consejería de Política Territorial, Cohesión Territorial y Aguas
+Secretaría General Técnica.- Resolución de 6 de febrero de 2025, por la que se convoca, 
+por el procedimiento de libre designación, la provisión del puesto de trabajo n.º 10210410, 
+denominado Jefe/a de Servicio de Asuntos Económicos, adscrito al Servicio de 
+Asuntos Económicos de la Agencia Canaria de Protección del Medio Natural.
+ANTECEDENTES
+Primero.- El puesto n.º 10210410, Jefe/a de Servicio de Asuntos Económicos, adscrito 
+al Servicio de Asuntos Económicos de la Agencia Canaria de Protección del Medio Natural, 
+con localización territorial en Las Palmas de Gran Canaria, que figura en el Decreto 
+189/2006, de 19 de diciembre (BOC n.º 1, de 2.1.2007), por el que se aprueba la relación 
+de puestos de trabajo de este organismo público adscrito a esta Consejería, modificada 
+mediante Decreto 425/2023, de 11 de diciembre (BOC n.º 247, de 19.12.2023), tiene como 
+forma de provisión la libre designación.
+Segundo.- La Directora Ejecutiva de la Agencia Canaria de Protección del Medio 
+Natural ha solicitado, con fecha 31 de enero de 2025, la provisión, por el procedimiento 
+de libre designación, de este puesto de trabajo n.º 10210410, acompañando certificación 
+acreditativa de que el puesto se encuentra sin reserva legal, y con dotación presupuestaria 
+para el año 2025, de acuerdo a lo establecido en el artículo 53.3 de la Ley 5/2024, de 26 de 
+diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2025.
+FUNDAMENTOS JURÍDICOS
+I.- Procedimiento de provisión por libre designación.- Se regula en el artículo 77.3 de 
+la Ley 2/1987, de 30 de marzo, de la Función Pública Canaria, y en el Capítulo III, de los 
+artículos 17 al 23, del Decreto 48/1998, de 17 de abril, por los que se regula la provisión 
+de puestos de trabajo del personal funcionario de la Administración de la Comunidad 
+Autónoma de Canarias. El procedimiento se inicia por convocatoria pública anunciada 
+en el Boletín Oficial de Canarias, con indicación de la denominación del puesto, sus 
+complementos retributivos, el nivel, la localización y los requisitos para su desempeño 
+contenidos en la relación de puestos de trabajo, concediendo un plazo no inferior a quince 
+días hábiles para la presentación de solicitudes.
+II.- Competencia para realizar la convocatoria del procedimiento.- Por Resolución de 
+9 de diciembre del 2019, de la Dirección General de la Función Pública (BOC n.º 238, de 
+10.12.2019), se delega en las personas titulares de la Secretaría General de la Presidencia 
+del Gobierno y de las Secretarías Generales Técnicas Departamentales, el ejercicio de la 
+competencia de la Dirección General de la Función Pública prevista en el artículo 81.1.e) del 
+Reglamento Orgánico de la Consejería de Administraciones Públicas, Justicia y Seguridad, 
+aprobado por Decreto 14/2021, de 18 de marzo, para convocar los procedimientos de 
+provisión de puestos de trabajo, mediante libre designación, de los puestos de trabajo de 
 
-En su virtud, de conformidad con lo establecido en las disposiciones legales vigentes y previa deliberación del órgano competente,
+sus correspondientes Departamentos, así como de los Organismos Públicos y Entidades 
+de Derecho Público adscritos a los mismos, y para proceder a su publicación en el Boletín 
+Oficial de Canarias.
+Asimismo, se delega también en los mismos órganos señalados anteriormente la competencia 
+prevista en el artículo 20 del Decreto 48/1998, de 17 de abril, por el que se regula la provisión 
+de puestos de trabajo del personal funcionario de la Administración Pública de la Comunidad 
+Autónoma de Canarias, respecto a la emisión del informe relativo al cumplimiento por 
+parte de las personas participantes en la convocatoria de los requisitos exigidos para la 
+provisión del puesto convocado, salvo que a la convocatoria concurran y participen en 
+ella personas funcionarias de carrera pertenecientes a otra Administración, en cuyo caso 
+el informe corresponderá a la Dirección General de la Función Pública y comprenderá la 
+determinación de la equivalencia a que se refiere el artículo 31, segundo párrafo, de la Ley 
+2/1987, de 30 de marzo, de la Función Pública Canaria.
+Por lo expuesto,
+R E S U E LV O:
+Anunciar convocatoria pública para la provisión, por el procedimiento de libre 
+designación, del puesto de trabajo n.º 10210410, Jefe/a de Servicio de Asuntos Económicos, 
+adscrito al Servicio de Asuntos Económicos de la Agencia Canaria de Protección del Medio 
+Natural con localización territorial en Las Palmas de Gran Canaria, que se efectuará de 
+acuerdo con las bases que se insertan a continuación.
+BASES
+1.- El puesto de trabajo a proveer, mediante el procedimiento de libre designación, es 
+el que figura relacionado en el Anexo I de esta Resolución.
+2.- Podrá participar el personal funcionario de carrera que reúna los requisitos exigidos 
+para su desempeño, según la vigente relación de puestos de trabajo, que se especifican en 
+el Anexo I.
+3.- Las solicitudes para participar en el procedimiento de provisión, ajustadas al modelo 
+que se inserta como Anexo II, deberán presentarse dentro del plazo de quince días hábiles, 
+contado a partir del siguiente al de la publicación de la presente Resolución en el Boletín 
+Oficial de Canarias, en los lugares previstos en el artículo 16 de la Ley 39/2015, de 1 de 
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+4.- Además de los datos previstos en el indicado modelo, los aspirantes harán constar en 
+la solicitud su curriculum vitae, en el que figuren, debidamente acreditados, el cuerpo/escala a 
+que pertenecen, el grupo en que el mismo se hallase clasificado, titulación académica, años 
+de servicio, puestos de trabajo desempeñados y cuantos otro méritos estimen oportuno poner 
+de manifiesto en relación con las funciones atribuidas al puesto solicitado, acompañando la 
+documentación fehaciente acreditativa de las circunstancias y méritos.
+5.- Los participantes deberán presentar, junto a su solicitud de participación, la declaración 
+responsable sobre el cumplimiento del deber de permanencia a que se refiere el artículo 
+52.2 del Decreto ley 7/2024, de 31 de julio, cuyo modelo figura en el Anexo III de esta 
+Resolución.
 
-DISPONGO:
+6.- La Secretaría General Técnica de este Departamento o, en su caso, la Dirección 
+General de la Función Pública, transcurrido el plazo de presentación de solicitudes, 
+examinará todas las presentadas y evacuará el informe preceptivo relativo al cumplimiento 
+por los aspirantes de los requisitos exigidos para el desempeño del puesto.
+7.- La presente convocatoria se resolverá por Orden del Consejero de Política Territorial, 
+Cohesión Territorial y Aguas, que se publicará en el Boletín Oficial de Canarias, previa 
+propuesta de la dirección del organismo público al que está adscrito el puesto de trabajo 
+objeto de provisión, pudiendo acordar, con anterioridad a la selección, la celebración de 
+una entrevista con los aspirantes.
+8.- Se declarará desierta la convocatoria cuando no concurra ningún funcionario, o 
+cuando quienes concurran no reúnan los requisitos establecidos para su desempeño.
+Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer 
+cualquiera de los recursos que se indican a continuación:
+- Recurso contencioso-administrativo ante el Juzgado de lo Contencioso-administrativo 
+de Las Palmas de Gran Canaria o ante aquel en que tenga su domicilio el recurrente, 
+a elección de este. El plazo para interponer será de dos meses, contado a partir del día 
+siguiente a su notificación, de conformidad con lo dispuesto en los artículos 8.2, 14 y 46 de la 
+Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+- Recurso potestativo de reposición ante esta Consejería, en el plazo de un mes a 
+contar a partir del día siguiente a su notificación, de conformidad con lo dispuesto en los 
+artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas.
+Transcurrido un mes desde la interposición del recurso sin que se dicte y notifique su 
+resolución, se entenderá desestimado por silencio administrativo, pudiendo en este caso 
+interponer contra la desestimación presunta recurso contencioso-administrativo dentro del 
+plazo de seis meses ante el órgano jurisdiccional competente en los términos contemplados 
+en el apartado anterior.
+No se podrá interponer el recurso contencioso-administrativo hasta que se haya resuelto 
+expresamente o se haya producido la desestimación presunta del recurso de reposición 
+interpuesto.
+Todo ello sin perjuicio de que el interesado utilice cualquier otro recurso que estime 
+pertinente.
+Las Palmas de Gran Canaria, a 6 de febrero de 2025.- El Secretario General Técnico 
+(p.d. Resolución de 9.12.2019, de la Dirección General de la Función Pública; BOC n.º 
+238, de 10.12.2019), Antonio Elías López Gulías.
 
-### Capítulo I. Disposiciones Generales y Objeto
+## ANEXO I
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, ordenación y directrices de funcionamiento para la materia contemplada en su título.
-2. Esta disposición es de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial correspondiente.
+CENTRO DIRECTIVO: Agencia Canaria de Protección del Medio Natural.
+UNIDAD: Servicio de Asuntos Económicos.
+NÚMERO DE PUESTO: 10210410.
+DENOMINACIÓN DEL PUESTO: Jefe de Servicio Asuntos Económicos.
+FUNCIONES:
+- Dirección, organización, coordinación y seguimiento de las unidades administrativas dependientes del 
+Servicio.
+- En materia de presupuesto: elaborar la propuesta de anteproyecto de presupuesto de la Agencia, proponer 
+las modificaciones presupuestarias y medidas correctivas oportunas, así como el seguimiento de la gestión 
+presupuestaria.
+- En materia de contratación: gestionar los expedientes de contratación que, con carácter general, se realicen 
+por la Agencia.
+- En materia de patrimonio: supervisión del inventario patrimonial de la Agencia y administración de los 
+inmuebles/sedes del Ente.
+- Las propias de su Cuerpo y todas aquellas recogidas en los Reglamentos de organización de la CAC, normas 
+de desarrollo y otras de aplicación directa o supletoria.
+NIVEL: 28.
+PUNTOS DE COMPLEMENTO ESPECÍFICO: 75.
+VÍNCULO: funcionario de carrera.
+ADMINISTRACIÓN DE PROCEDENCIA: CAC (Comunidad Autónoma de Canarias).
+GRUPO: A. SUBGRUPO: A1.
+ADSCRIPCIÓN CUERPO/ESCALA: A111/A112 (Escala de Administración General/Escala de Administración 
+Financiera y Tributaria).
+MÉRITOS PREFERENTES: Licenciado/a en Derecho, Económicas o Empresariales. 1 año de experiencia en 
+puestos con funciones similares. Cursos de formación en materia presupuestaria.
+LOCALIZACIÓN: Las Palmas de Gran Canaria.
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de inclusión, equidad, calidad educativa, autonomía de gestión, transparencia y coordinación institucional.
+## ANEXO II
 
-### Capítulo II. Organización, Directrices y Coordinación
+El/la funcionario/a que suscribe, cuyos datos se especifican a continuación: 
+Apellidos ……………………………………………………, nombre ………………………………,
+DNI n.º ………………………, fecha de nacimiento………………., Cuerpo o Escala a que 
+pertenece…………………………………………………….., Grupo en que se hallare clasificado 
+el Cuerpo o Escala…………………., n.º de Registro Personal…………………………., con 
+domicilio particular calle…………………………………………………………………., n.º ………, 
+localidad…………………………., provincia………………………………………………………., 
+código postal ……………………., teléfono…………………….., puesto de trabajo actual 
+………………………..,
+nivel
+………………….,
+Consejería
+o
+Dependencia
+………………………………………………, localidad…………………………………...…………..
+Solicita ser admitido/admitida a la convocatoria pública para proveer, por el sistema de libre 
+designación, la plaza: 
+N.º RPT…………   denominada ……………………………………………………………………, 
+de la Consejería ………………………………………………………………………………………., 
+anunciada por Resolución de ……..   de …………………..de 2025 (BOC n.º ……………).
+Acompaña a la presente instancia documentación acreditativa de circunstancias y méritos.
+(Indicar a continuación los datos del curriculum vitae a que se refiere la base cuarta de la 
+convocatoria). 
+…………………………, a …………. de ………………………………. de 2025.
+SR. SECRETARIO GENERAL TÉCNICO DE LA CONSEJERÍA DE POLÍTICA 
+TERRITORIAL, COHESIÓN TERRITORIAL Y AGUAS.
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los equipos directivos, el claustro de profesorado y la comunidad educativa de los centros docentes velarán por la planificación y desarrollo efectivo de las medidas organizativas y curriculares encomendadas por esta disposición.
+Nombre y apellidos
+DNI
+Puesto convocado
+Número y fecha de publicación 
+en BOC
+La persona firmante, en su condición de personal funcionario de carrera de la 
+Administración Pública de la Comunidad Autónoma de Canarias, conforme a lo previsto 
+en el artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo 
+Común de las Administraciones Públicas, declara bajo su responsabilidad, en relación 
+con el requisito del deber de permanencia previsto en el artículo 52.2 del Decreto  ley 
+7/2024, de 31 de julio, de medidas urgentes para la reducción de la temporalidad, la gestión 
+eficiente y la calidad en el empleo público de la Administración Pública de la Comunidad 
+Autónoma de Canarias, así como para la protección de la infancia en el ámbito de los juegos 
+de azar y apuestas, lo siguiente:
+1.º- Toma de posesión como personal funcionario de carrera, de nuevo ingreso, en el 
+Cuerpo, Escala o Especialidad, en su primer destino, mediante turno libre o 
+promoción interna.
+Día
+Mes
+Año
+2.º- Deber de permanencia.
+En virtud de la fecha de toma de posesión antes indicada, procede declarar lo siguiente 
+(señalar la que corresponda)
 
-#### Artículo 4. Supervisión e Inspección Educativa
-La Inspección de Educación ejercerá las funciones de supervisión, asesoramiento y evaluación necesarias para garantizar el cumplimiento de lo dispuesto en este articulado.
+## ANEXO III
 
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas garantizarán las medidas y recursos necesarios para la atención inclusiva de todo el alumnado de acuerdo con lo dispuesto en la legislación marco.
-
-#### Disposición Final Primera. Habilitación para la aplicación y desarrollo
-Se autoriza al órgano titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean necesarias para la aplicación y desarrollo del presente texto.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+DECLARACIÓN RESPONSABLE
+DEBER DE PERMANENCIA - PROVISIÓN DE PUESTOS LIBRE DESIGNACIÓN
+(X)
+Opción
+Contenido de la declaración 
+A
+Que la fecha de mi toma de posesión es anterior al 13 de agosto de 2024 
+por lo que no concurre en mi participación en la convocatoria un deber de 
+permanencia en mi primer destino.
+B
+Que la fecha de toma de posesión en mi primer destino, adquiriendo con 
+ello la condición de personal funcionario de carrera, mediante turno libre o 
+mediante promoción interna, se produjo en una fecha posterior al día 13 de 
+agosto de 2024, si bien que dicha permanencia al tiempo de presentar mi 
+solicitud de participación ya ha concluido o bien concluye dentro del plazo 
+de presentación de solicitudes por lo que no existe impedimento legal para 
+mi participación, al haber transcurrido en el momento de finalización de 
+dicho plazo, el período de permanencia de dieciocho meses desde la toma 
+de posesión.
+3.º- Efectos de la declaración responsable.
+Lo que declara a los efectos de mi participación en la convocatoria de provisión definitiva de 
+puesto de trabajo, mediante libre designación, antes indicada, asumiendo la responsabilidad 
+legal de la veracidad de lo declarado, sin perjuicio de las comprobaciones que en cualquier 
+momento realice la Administración.
+ Fecha y firma,

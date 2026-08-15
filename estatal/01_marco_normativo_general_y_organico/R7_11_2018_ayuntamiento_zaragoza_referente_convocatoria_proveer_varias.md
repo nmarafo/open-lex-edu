@@ -32,6 +32,10 @@ fundamentos_derecho:
   - '2.1'
 ---
 
+## Preámbulo
+
+# Resolución de 7 de noviembre de 2018, del Ayuntamiento de Zaragoza, referente a la convocatoria para proveer varias plazas.
+
 BOE-A-2018-15138 Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias.
 
 ## Agencia Estatal Boletín Oficial del Estado

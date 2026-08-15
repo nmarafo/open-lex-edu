@@ -57,6 +57,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-8-1985
 ---
 
+## Preámbulo
+
+# Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.
+
 # Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género
 
 **JUAN CARLOS I**

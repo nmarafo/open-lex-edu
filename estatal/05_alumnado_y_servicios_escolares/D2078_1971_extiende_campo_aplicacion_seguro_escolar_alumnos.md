@@ -41,150 +41,77 @@ fundamentos_derecho:
   - '84'
 ---
 
+## Preámbulo
+
 # Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
 
-Ir a contenido
-
-Consultar el diario oficial BOE
-
-Idioma actual:
-
-Castellano / es
-
-Puede seleccionar otro idioma:
-
-es / Castellano
-
-ca / Català
-
-gl / Galego
-
-eu / Euskara
-
-va / Valencià
-
-en / English
-
-fr / Français
-
-Mi BOE Desconectado.Pulse para acceder al servicio 'Mi BOE'
-
-Diarios Oficiales
-
-BOE
-
-BORME
-
-Otros diarios oficiales
-
-Información Jurídica
-
-Todo el Derecho
-
-Biblioteca Jurídica Digital
-
-Otros servicios
-
-Notificaciones
-
-Edictos judiciales
-
-Portal de subastas
-
-Anunciantes
-
-Datos abiertos
-
-Está Vd. en
-
-Buscar Documento BOE-A-1971-1198
-
-Documento BOE-A-1971-1198
-
-Decreto 2078/1971, de 13 de agosto, por el que se extiende el campo de aplicación del Seguro Escolar a los alumnos que siguen las enseñanzas de Formación Profesional y aquellas otras que, de conformidad con lo establecido en la Ley General de Educación y Financiamiento de la Reforma Educativa, se han de integrar en las enseñanzas de Formación Profesional.
-
-Publicado en:
-
-«BOE» núm. 224, de 18 de septiembre de 1971, páginas 15202 a 15202 (1 pág.)
-
-Sección:
-
-I. Disposiciones generales
-
-Departamento:
-
-Presidencia del Gobierno
-
-Referencia:
-
-BOE-A-1971-1198
-
-Otros formatos:
-
-PDF
-
-XML
-
-Texto
-
-TEXTO ORIGINAL
-
-Texto no disponible. Consulte el documento PDF de esta disposición.
-
-Análisis
-
-ANÁLISIS
-
-Rango: Decreto
-
-Fecha de disposición: 13/08/1971
-
-Fecha de publicación: 18/09/1971
-
-Referencias posteriores
-
-Criterio de ordenación:
-
-por contenido
-
-por fecha
-
-SE DICTA DE CONFORMIDAD el art. 1 , Incluyendo a los Alumnos de formación profesional especial: Resolución de 28 de marzo de 1990 (Ref. BOE-A-1990-8481).
-
-Referencias anteriores
-
-DE CONFORMIDAD con el art. 2 de la Ley de 17 de julio de 1953, y con los arts. 125 y 129 de la Ley 14/1970, de 4 de agosto (Ref. BOE-A-1970-852).
-
-Materias
-
-Enseñanza de Formación Profesional
-
-Seguro escolar
-
-subir
-
-Contactar
-
-Sobre la sede electrónica
-
-Mapa
-
-Sistema Interno de Información
-
-Tutoriales
-
-Empleo en la AEBOE
-
-Avda. de Manoteras, 54 - 28050 Madrid
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamento de**: [**Resolucion BOC 26**](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/O16_6_2026_ordena_publicacion_protocolo_general_actuacion_entre.md)
-
-### Fundamentos de Derecho
-- [**D9_2022 Admision del Alumnado en Canarias**](../../autonómica/canarias/05_alumnado_y_servicios_escolares/D9_2022_regula_admision_alumnado_centros_docentes_publicos.md)
-- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
+III. Otras Resoluciones
+Consejería de Educación, Universidades, Cultura y Deportes
+Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que 
+se delega en las Direcciones Territoriales de Educación determinada competencia 
+relativa a cargos directivos de los centros públicos docentes del ámbito de gestión 
+de este Departamento.
+Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de 
+los centros docentes públicos no universitarios, se precisa delegar en las Direcciones 
+Territoriales de Educación la competencia de esta Dirección General en relación con las 
+Jefaturas de Estudio adjuntas en los centros educativos en los que se determine.
+ANTECEDENTES DE HECHO
+Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la 
+Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, 
+dirigir, controlar y coordinar la gestión del personal docente no universitario de la 
+Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia 
+para la concesión de comisiones de servicio y la declaración de adscripciones provisionales 
+al personal docente no universitario en centros públicos, extendiéndose tal atribución a los 
+cargos directivos.
+Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las 
+normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, 
+por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente 
+no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la 
+Dirección General de Personal, la competencia administrativa para conceder comisiones de 
+servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el 
+desempeño de cargos directivos en centros docentes.
+Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
+Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros 
+públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura 
+de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
+Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones 
+Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como 
+para la concesión, cese y revocación de las comisiones de servicios para el desempeño del 
+cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución 
+de 15 de junio de 2012.
+Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace 
+necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia 
+Página 
+
+que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de 
+gestión de esta Consejería.
+A los anteriores hechos son de aplicación los siguientes
+FUNDAMENTOS DE DERECHO
+Primero.- El artículo 12 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que 
+establece las competencias de la Dirección General de Personal, en relación con su artículo 
+17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 
+propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del 
+Departamento.
+Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Público que dispone que los órganos de las diferentes Administraciones públicas podrán 
+delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma 
+Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos 
+Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas.
+En su virtud,
+R E S U E L V O:
+Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para 
+el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones 
+de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros 
+educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección 
+y coordinación de esta Dirección General de Personal que dictará cuantas normas e 
+instrucciones considere necesarias.
+Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de 
+la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la 
+misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por 
+esta Dirección General de Personal.
+Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su 
+publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, 
+Fidel Benigno Trujillo Santana.

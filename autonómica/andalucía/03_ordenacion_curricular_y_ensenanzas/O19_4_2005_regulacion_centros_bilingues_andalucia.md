@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 19 de abril de 2005, por la que se establece el procedimiento de autorización de Centros Bilingües en Andalucía.
+
 ORDEN de 20 de abril de 2005, por la que se convoca el Premio Andalucía de Periodismo en su XX Edición, en las modalidades de Prensa Escrita, Radio, Televisión, Fotografía e Internet.
 
 name="Description"/>
@@ -84,7 +88,6 @@ Empleo público
 BOJA Histórico >
 2005
 Boletín 86
-1. Disposiciones generales
 
 ##
 
@@ -225,8 +228,6 @@ BOJA nº
 86
 de
 05/05/2005
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

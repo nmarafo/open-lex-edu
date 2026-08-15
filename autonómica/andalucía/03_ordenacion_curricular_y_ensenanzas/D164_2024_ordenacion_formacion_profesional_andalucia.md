@@ -36,11 +36,14 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
+## Preámbulo
+
+# Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía
+
 # Decreto 164/2024, de 26 de agosto, por el que se establece la ordenación de la Formación Profesional en la Comunidad Autónoma de Andalucía
 
 Extraordinario núm. 15 - Martes, 27 de agosto de 2024
 
-1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO
 Y FORMACIÓN PROFESIONAL
 Decreto 164/2024, de 26 de agosto, por el que se establece la estructura

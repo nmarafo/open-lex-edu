@@ -63,6 +63,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 ---
 
+## Preámbulo
+
+# Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
 # Ley 9/2017 de Contratos del Sector Público
 
 **FELIPE VI**

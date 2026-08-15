@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
+## Preámbulo
+
+# Orden de 25 de julio de 2008, por la que se regula la atención a la diversidad del alumnado que cursa la Educación Secundaria Obligatoria.
+
 ORDEN de 31 de julio de 2008, por la que se resuelve la convocatoria a la que se refiere la Orden de 9 de abril de 2008, por la que se establecen las bases reguladoras de la concesión de subvenciones instrumentalizadas a través de convenios con Escuelas Hogar y Entidades de titularidad privada sin ánimo de lucro, para facilitar la escolarización del alumnado con graves discapacidades y para la realización de determinadas actuaciones de compensación educativa para el curso 2008/09.
 
 name="Description"/>
@@ -86,7 +90,6 @@ Empleo público
 BOJA Histórico >
 2008
 Boletín 167
-1. Disposiciones generales
 
 ##
 
@@ -422,8 +425,6 @@ BOJA nº
 167
 de
 22/08/2008
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

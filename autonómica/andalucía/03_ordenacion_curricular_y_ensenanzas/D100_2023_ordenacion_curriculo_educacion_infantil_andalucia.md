@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Andalucía.
+
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
 ###
@@ -74,7 +78,6 @@ Empleo público
 BOJA Histórico >
 2023
 Boletín 90
-1. Disposiciones generales
 
 ##
 

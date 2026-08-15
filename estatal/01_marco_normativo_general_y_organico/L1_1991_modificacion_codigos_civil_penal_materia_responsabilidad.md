@@ -31,6 +31,10 @@ fundamentos_derecho:
   - '2.1'
 ---
 
+## Preámbulo
+
+# Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
+
 # Ley 1/1991, de 7 de enero, de modificación de los Códigos Civil y Penal en materia de responsabilidad civil del profesorado.
 
 **JUAN CARLOS I**

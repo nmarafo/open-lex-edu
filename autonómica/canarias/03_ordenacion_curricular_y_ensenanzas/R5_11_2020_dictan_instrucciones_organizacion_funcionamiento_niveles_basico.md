@@ -157,7 +157,6 @@ ANEXO
 INSTRUCCIONES PARA LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DE LOS NIVELES
 BÁSICO, INTERMEDIO Y A V ANZADO DE LA ENSEÑANZA DEL IDIOMA INGLÉS A DISTANCIA
 PARA PERSONAS ADULTAS THAT’S ENGLISH!
-Sumario
 1. Descripción y estructura de That’s English!
 1.1. Descripción de la enseñanza.
 1.2. Estructura académica de la enseñanza.

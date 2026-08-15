@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 14 de julio de 2016, por la que se regula la utilización del Cuaderno de Evaluación del Profesorado en Séneca.
+
 Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
 
 <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
@@ -80,7 +84,6 @@ Empleo público
 BOJA Histórico >
 2016
 Boletín 143
-1. Disposiciones generales
 
 ##
 
@@ -246,8 +249,6 @@ title="Descargar PDF de la disposición"> Descargar PDF
 Disposición siguiente
 
 BOJA nº 143 de 27/07/2016
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

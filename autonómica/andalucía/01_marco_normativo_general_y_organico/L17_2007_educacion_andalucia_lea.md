@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
+## Preámbulo
+
+# Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
+
 # Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA)
 
 Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.

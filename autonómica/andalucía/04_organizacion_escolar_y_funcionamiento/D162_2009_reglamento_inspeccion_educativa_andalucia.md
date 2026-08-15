@@ -37,10 +37,13 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
+## Preámbulo
+
+# Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
+
 # Decreto 162/2009, de 19 de mayo, por el que se aprueba el Reglamento de la Inspección Educativa de Andalucía
 
 Sevilla, 29 de mayo 2009
-1.  Disposiciones generales
 CONSEJERÍA DE ECONOMÍA Y HACIENDA
 ORDEN de 26 de mayo de 2009, por la que se dic-
 tan normas para la elaboración del Presupuesto de la

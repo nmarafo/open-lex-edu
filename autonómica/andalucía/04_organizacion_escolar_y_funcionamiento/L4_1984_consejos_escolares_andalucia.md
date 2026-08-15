@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
+## Preámbulo
+
+# Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
+
 # Ley 4/1984, de 9 de enero, de Consejos Escolares de Andalucía
 
 5322

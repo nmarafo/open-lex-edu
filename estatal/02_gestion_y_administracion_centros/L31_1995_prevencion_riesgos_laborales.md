@@ -48,6 +48,10 @@ fundamentos_derecho:
   - '40.2'
 ---
 
+## Preámbulo
+
+# Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
 # Ley 31/1995 de Prevención de Riesgos Laborales
 
 **JUAN CARLOS I**

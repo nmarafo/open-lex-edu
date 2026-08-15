@@ -70,6 +70,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
 ---
 
+## Preámbulo
+
+# Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
+
 # Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

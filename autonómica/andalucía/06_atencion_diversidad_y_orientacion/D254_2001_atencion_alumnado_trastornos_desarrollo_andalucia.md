@@ -34,6 +34,10 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
+## Preámbulo
+
+# Decreto 254/2001, de 20 de noviembre, por el que se regula la atención educativa al alumnado con trastornos de desarrollo y necesidades educativas especiales asociadas.
+
 RESOLUCION de 14 de noviembre de 2001, de la Dirección General de Política Interior, por la que se publica el Plan Anual de Formación de la Escuela de Seguridad Pública de Andalucía (ESPA) para el curso académico 2002.
 
 name="Description"/>
@@ -85,7 +89,6 @@ Empleo público
 BOJA Histórico >
 2001
 Boletín 140
-1. Disposiciones generales
 
 ##
 
@@ -1099,8 +1102,6 @@ BOJA nº
 140
 de
 04/12/2001
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

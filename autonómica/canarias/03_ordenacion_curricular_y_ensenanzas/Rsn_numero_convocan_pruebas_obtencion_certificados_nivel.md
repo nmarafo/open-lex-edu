@@ -187,7 +187,6 @@ Formación Profesional y Enseñanzas de Régimen Especial, Carolina León Martí
 
 ANEXO
 INSTRUCCIONES
-SUMARIO:
 1.- Certificados objeto de las pruebas.
 2.- Idiomas y niveles convocados.
 3.- Aspirantes a quienes que se dirigen las pruebas.

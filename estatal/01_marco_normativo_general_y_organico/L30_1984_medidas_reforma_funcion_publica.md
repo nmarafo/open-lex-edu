@@ -49,6 +49,10 @@ fundamentos_derecho:
   - '27'
 ---
 
+## Preámbulo
+
+# Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
+
 # Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública.
 
 **JUAN CARLOS I,**

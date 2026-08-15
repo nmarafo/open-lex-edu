@@ -132,7 +132,6 @@ A N E X O
 CARACTERÍSTICAS DE LAS PRUEBAS COMUNES DE OBTENCIÓN DEL CERTIFICADO DE
 ESPECIALIZACIÓN DE NIVEL C1 DE ENSEÑANZAS DE IDIOMAS DE RÉGIMEN ESPECIAL, EN
 LA COMUNIDAD AUTÓNOMA DE CANARIAS.
-SUMARIO:
 1. Definición de las pruebas de certificación de nivel C1.
 2. Características generales de las técnicas e instrumentos de evaluación.
 3. Estructura de las pruebas:

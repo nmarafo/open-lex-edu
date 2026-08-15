@@ -34,6 +34,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 52/2021, de 19 de enero, por el que se regulan la simplificación de trámites administrativos en conciertos educativos.
+
 Corrección de errores de la Resolución de 19 de enero de 2021, del Instituto Andaluz de la Juventud, por la que se regula la convocatoria para la aprobación de los proyectos correspondientes al Programa de Campos de Voluntariado Juvenil 2021 (BOJA núm. 14, de 22.1.2021).
 
 <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
@@ -81,7 +85,6 @@ Empleo público
 BOJA Histórico >
 2021
 Boletín 17
-1. Disposiciones generales
 
 ##
 
@@ -134,8 +137,6 @@ title="Descargar PDF de la disposición"> Descargar PDF
 Disposición siguiente
 
 BOJA nº 17 de 27/01/2021
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

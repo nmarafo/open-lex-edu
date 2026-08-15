@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
+## Preámbulo
+
+# Orden de 26 de mayo de 2011, por la que se regulan la organización y el funcionamiento de los Conservatorios en Andalucía.
+
 Orden de 25 de mayo de 2011, por la que se aprueban las bases reguladoras para la concesión de subvenciones por el Instituto Andaluz de la Mujer en régimen de concurrencia no competitiva.
 
 name="Description"/>
@@ -86,7 +90,6 @@ Empleo público
 BOJA Histórico >
 2011
 Boletín 116
-1. Disposiciones generales
 
 ##
 
@@ -763,8 +766,6 @@ BOJA nº
 116
 de
 15/06/2011
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

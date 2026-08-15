@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 20 de julio de 2006, sobre convalidaciones y exenciones en módulos profesionales de FP.
+
 ORDEN de 10 de julio de 2006, por la que se declara apto en la Fase de Prácticas al personal seleccionado en el procedimiento selectivo, convocado por Orden que se cita, y por la que se aprueba el expediente del citado procedimiento.
 
 name="Description"/>

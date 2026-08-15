@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 56/1994, de 1 de marzo, por el que se establece la ordenación de las Enseñanzas de Idiomas de Régimen Especial en la Comunidad Autónoma de Andalucía.
+
 RESOLUCION de 9 de marzo de 1994, del Instituto Andaluz de Administración Pública, por la que se aprueba la relación provisional de aspirantes admitidos/as y excluidos/as, con indicación de las causas correspondientes a las pruebas selectivas para ingreso en el cuerpo de auxiliares administrativos (D1000).
 
 name="Description"/>

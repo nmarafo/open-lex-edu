@@ -45,6 +45,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
+## Preámbulo
+
+# Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
+
 # Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.
 
 **FELIPE VI**

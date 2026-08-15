@@ -34,6 +34,10 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
+## Preámbulo
+
+# Resolución de 27 de junio de 2023, de la Dirección General de Ordenación, por la que se dictan instrucciones sobre organización y funcionamiento de centros.
+
 Corrección de errata del Extracto de la Orden de 30 de mayo de 2023, de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, por la que se convocan subvenciones a entidades sin ánimo de lucro, en régimen de concurrencia competitiva, destinadas a atender necesidades asistenciales y situaciones de extrema necesidad de personas andaluzas residentes en el extranjero, para el año 2023 (BOJA núm. 122, de 28.6.2023).
 
 ###
@@ -75,7 +79,6 @@ Empleo público
 BOJA Histórico >
 2023
 Boletín 126
-1. Disposiciones generales
 
 ##
 

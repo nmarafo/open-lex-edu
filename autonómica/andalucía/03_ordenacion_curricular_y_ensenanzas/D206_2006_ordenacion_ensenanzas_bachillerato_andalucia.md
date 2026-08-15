@@ -32,6 +32,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 206/2006, de 28 de noviembre, por el que se establece la ordenación del Bachillerato en Andalucía.
+
 Resolución de 29 de noviembre de 2006, del Instituto Andaluz de Administración Pública, por la que se convoca el "VI Curso de Especialización en Gestión Pública Local" CEM0702H.10119, a celebrar en Granada, en el marco del Convenio de Cooperación de 7 de julio de 1993 suscrito con el CEMCI, Organismo Autónomo de la Diputación Provincial de Granada.
 
 name="Description"/>
@@ -83,7 +87,6 @@ Empleo público
 BOJA Histórico >
 2006
 Boletín 239
-1. Disposiciones generales
 
 ##
 
@@ -231,8 +234,6 @@ BOJA nº
 239
 de
 13/12/2006
-
-1. Disposiciones generales
 
 2.2. Oposiciones y concursos
 

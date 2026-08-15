@@ -361,7 +361,6 @@ Los V olcanes.
 b) En el año 2026, los que la normativa establezca en el calendario de fiestas laborales
 en el ámbito de la Comunidad Autónoma de Canarias.
 2. Los dos días correspondientes a las fiestas de ámbito local, serán los previstos en el
-Boletín Oficial de Canarias para cada municipio, en el caso de que coincidan dentro del
 calendario escolar.
 3. También tiene la consideración de festivo a efectos académicos, el 5 de diciembre de
 2025, celebración del Día del Enseñante y del Estudiante.

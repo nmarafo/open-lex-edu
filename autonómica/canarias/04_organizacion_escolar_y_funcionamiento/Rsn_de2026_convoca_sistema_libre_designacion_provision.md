@@ -285,7 +285,6 @@ para que justifiquen aquellos méritos sobre los que se planteen dudas o reclama
 2.4. Plazo de presentación de solicitudes y documentación.
 El plazo de presentación de solicitudes y documentación será de quince días hábiles
 contados a partir del día siguiente al de la publicación de la presente Resolución en el
-Boletín Oficial de Canarias.
 3. Admisión de personas candidatas.
 3.1. Relación provisional de personas admitidas y excluidas.
 Finalizado el plazo de presentación de solicitudes y previa comprobación del
@@ -444,7 +443,6 @@ el perfil idóneo para el desempeño de la dirección de un centro integrado de 
 profesional.
 Los nombramientos, que serán por un periodo de cuatro años, se publicarán por
 Resolución de la Dirección General de Personal y Formación del Profesorado en el
-Boletín Oficial de Canarias, y, a efectos informativos, en la página web de la Consejería de
 Educación, Formación Profesional, Actividad Física y Deportes, quedando condicionados
 al mantenimiento de los requisitos exigidos y a que no se produzcan las causas de cese
 previstas en la normativa de aplicación.

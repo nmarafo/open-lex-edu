@@ -117,7 +117,6 @@ ANEXO
 INSTRUCCIONES PARA LA IMPARTICIÓN DE LOS CURSOS DE PREPARACIÓN DE PRUEBAS
 DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE FORMACIÓN
 PROFESIONAL.
-Sumario
 1. Preparación para la prueba de acceso a ciclos formativos de grado medio.
 1.1. Estructura de la prueba.
 1.2. Organización del curso.
@@ -141,7 +140,6 @@ ANEXO
 INSTRUCCIONES  PARA LA IMPARTICIÓN  DE  LOS  CURSOS  DE  PREPARACIÓN  DE
 PRUEBAS DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE
 FORMACIÓN PROFESIONAL
-Sumario
 1. Preparación para la prueba de acceso a ciclos formativos de grado medio
 1.1. Estructura de la prueba
 1.2. Organización del curso

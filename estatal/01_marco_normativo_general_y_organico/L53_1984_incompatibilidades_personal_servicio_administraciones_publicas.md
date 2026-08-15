@@ -45,6 +45,10 @@ fundamentos_derecho:
   - '103.3'
 ---
 
+## Preámbulo
+
+# Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.
+
 # Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas
 
 **JUAN CARLOS I,**

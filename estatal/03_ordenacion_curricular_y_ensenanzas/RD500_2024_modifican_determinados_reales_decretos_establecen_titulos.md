@@ -68,6 +68,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rd-276-2007
 ---
 
+## Preámbulo
+
+# Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
+
 # Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas.
 
 **ÍNDICE**

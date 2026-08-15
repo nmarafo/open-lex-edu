@@ -157,7 +157,6 @@ ANEXO
 CARACTERÍSTICAS  DE  LAS  PRUEBAS  PARA  LA  OBTENCIÓN  DEL
 CERTIFICADO  DE  NIVEL C2  DE  ENSEÑANZAS  DE  IDIOMAS  DE  RÉGIMEN
 ESPECIAL, EN LA COMUNIDAD AUTÓNOMA DE CANARIAS.
-SUMARIO:
 1. Definición de las pruebas de certificación de nivel C2.
 2. Características generales de las técnicas e instrumentos de evaluación.
 3. Estructura de las pruebas:

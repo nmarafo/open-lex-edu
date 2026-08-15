@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 16 de diciembre de 2008, por la que se establece la evaluación en la Educación Secundaria para Adultos.
+
 CORRECCIÓN de errores de la Orden de 10 de diciembre de 2008, por la que se modifica la Orden de 9 de noviembre de 2006, por la que se articula la Estrategia de Turismo Sostenible de Andalucía, y se instrumentan medidas para su desarrollo.
 
 name="Description"/>
@@ -84,7 +88,6 @@ Empleo público
 BOJA Histórico >
 2009
 Boletín 3
-1. Disposiciones generales
 
 ##
 
@@ -139,8 +142,6 @@ BOJA nº
 3
 de
 07/01/2009
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

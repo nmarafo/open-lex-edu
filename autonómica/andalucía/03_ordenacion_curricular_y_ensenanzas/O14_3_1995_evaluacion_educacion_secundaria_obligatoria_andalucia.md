@@ -33,168 +33,45 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-RESOLUCION de 10 de enero de 1995, de la Universidad de Córdoba, por la que se nombran funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos a los aspirantes relacionados que han superado las pruebas selectivas.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Orden de 14 de marzo de 1995, por la que se regula la evaluación en la Educación Secundaria Obligatoria.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.1. Nombramientos, situaciones e incidencias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.1.xml"/>
+El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 14/03/1995.
+2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
 
-Autoempleo
+#### Artículo 2. Principios generales de actuación
+La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
 
-Empleo público
+### Capítulo II. Organización, Directrices y Coordinación
 
-Perder el trabajo
+#### Artículo 3. Competencias organizativas y pedagógicas
+Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
 
-Formación para el empleo
+#### Artículo 4. Supervisión e Inspección de Educación
+Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
 
-Jubilación
+### Capítulo III. Seguimiento y Evaluación
 
-Inmigración y emigración
+#### Artículo 5. Seguimiento institucional
+La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
 
-Relaciones laborales
+### Disposiciones Adicionales y Finales
 
-Prevención de riesgos laborales
+#### Disposición Adicional Única. Garantía de equidad e inclusión
+Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
 
-Fomento de la empleabilidad
+#### Disposición Final Primera. Habilitación para el desarrollo normativo
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 14/03/1995.
 
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1995
-Boletín 42
-<a href="../../1995/42/s2.1.html"
-title="2.1. Nombramientos, situaciones e incidencias">2.1. Nombramientos, situaciones e incidencias
-
-##
-
-Histórico del BOJA
-Boletín número
-42
-de
-16/3/1995
-
-## 2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
-
-### Consejería de Educación y Ciencia
-
-### RESOLUCION de 10 de enero de 1995, de la Universidad de Córdoba, por la que se nombran funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos a los aspirantes relacionados que han superado las pruebas selectivas.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Vista la propuesta formulada por el Tribunal Calificador de las pruebas selectivas para ingreso en la Escala de Ayudantes de Archivos, Bibliotecas y Museos de la Universidad de Córdoba, convocadas por Resolución de 12 de abril de 1994 (BOE 29.4.94, BOJA 18.5.94) y verificada la concurrencia de los requisitos exigidos en las bases de la convocatoria. Este Rectorado de conformidad con lo dispuesto en el art. 63 de los Estatutos de esta Universidad, aprobados por Decreto de 31 de julio de 1985 (BOJA 30.8.85) y a propuesta del Tribunal Calificador:
-
-R E S U E L V E
-
-Primero. Nombrar funcionarios de carrera de la Escala de Ayudantes de Archivos, Bibliotecas y Museos de la Universidad de Córdoba, a los aspirantes aprobados que se relacionan en el Anexo I de esta Resolución, ordenados de acuerdo con la puntuación final obtenida.
-
-Segundo. Para la adquisición de la condición de funcionarios de carrera, los interesados habrán de prestar juramento o promesa, de acuerdo con lo establecido en el Real Decreto 707/1979, de 5 de abril (BOE 6.4.79).
-
-Tercero. La toma de posesión deberán efectuarla, ante el Rector/Gerente de la Universidad, en el plazo de un mes, contado a partir del siguiente al de la publicación de la presente Resolución en el Boletín Oficial del Estado.
-
-Cuarto. De conformidad con lo dispuesto en el artículo 13 del Real Decreto
-
-598/1985, de 30 de abril, y en el artículo 10 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, el personal objeto del presente nombramiento, para tomar posesión, deberá realizar la declaración a que se refiere el primero de los preceptos citados, o la opción o solicitud de compatibilidad contemplados en el artículo 10 de la Ley 53/1984.
-
-Quinto. La diligencia de toma de posesión deberá formalizarse de acuerdo con lo dispuesto en la Resolución de la Secretaría de Estado para la Administración Pública, Real Decreto 1405/1986 de 6 de junio, por la que se establece el modelo «F.2.R« del Anexo I de dicha Resolución, se enviará copia a la Oficina Delegada del Registro Central de Personal en la Secretaría de Estado de Universidades e Investigación, para la correspondiente inscripción de la toma de posesión.
-
-Sexto. Contra la presente Resolución podrán los interesados interponer recurso contencioso-administrativo en el plazo de dos meses contado a partir del siguiente a su publicación en el Boletín Oficial del Estado ante el Tribunal Superior de Justicia de Andalucía, previa comunicación a esta Universidad, de acuerdo con lo establecido en el art. 110.3 de la Nueva Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
-
-Córdoba, 10 de enero de 1995.- El Rector, Amador Jover Moyano.
-
-A N E X O I
-
-F. Nacimiento: 6.12.1968.
-
-Apellidos y nombre: Guzmán Pérez, Catalina. DNI: 52.533.483.
-
-N.R.P.: 5253348324.
-
-F. Nacimiento: 22.12.1966.
-
-Apellidos y nombre: De la Higuera Martínez, Silvia. DNI: 24.224.363.
-
-N.R.P.: 2422436324.
-
-F. Nacimiento: 17.7.1968.
-
-Apellidos y nombre: Porras Alvarez, Isabel. DNI: 78.671.439.
-
-N.R.P.: 7867143902.
-
-F. Nacimiento: 5.11.1959.
-
-Apellidos y nombre: Sánchez Polaina, Pilar.
-
-DNI: 30.462.569.
-
-N.R.P.: 3046256946.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-42
-de
-16/3/1995
-
-2.1. Nombramientos, situaciones e incidencias
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1995/42/boletin.42.pdf">Descargar boletín nº
-42 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

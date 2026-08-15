@@ -208,7 +208,6 @@ Profesionales, Francisco Rodríguez Machado.
 
 ANEXO
 INSTRUCCIONES
-SUMARIO:
 1.- Certificados objeto de las pruebas.
 2.- Idiomas y niveles convocados.
 3.- Alumnado al que se dirigen las pruebas.

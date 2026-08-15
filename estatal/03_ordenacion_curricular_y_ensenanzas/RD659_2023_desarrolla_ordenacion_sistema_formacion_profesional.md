@@ -115,6 +115,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 ---
 
+## Preámbulo
+
+# Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+
 # [Real Decreto 659/2023](../../autonómica/canarias/03_ordenacion_curricular_y_ensenanzas/RD659_2023_dictan_instrucciones_orientaciones_formacion_dual_empresas.md) - Ordenación General del Sistema de Formación Profesional
 
 **ÍNDICE**

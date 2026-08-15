@@ -56,8 +56,6 @@ Gobierno de Canarias
 
 Comunidad Autónoma de Canarias
 
-Boletín Oficial de Canarias
-
 Archivo
 
 Búsqueda

@@ -42,36 +42,41 @@ relaciones:
 
 # Decreto 32/2019, de 9 de abril, por el que se establece el marco regulador de la convivencia en los centros docentes de la Comunidad de Madrid
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Madrid, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
 
 DISPONGO:
 
 ### Capítulo I. Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 32/2019.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 32/2019.
+2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+#### Artículo 2. Principios generales de actuación
+La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
 
-### Capítulo II. Estructura y Funcionamiento
+### Capítulo II. Organización, Directrices y Coordinación
 
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 32/2019.
+#### Artículo 3. Competencias organizativas y pedagógicas
+Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
 
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+#### Artículo 4. Supervisión e Inspección de Educación
+Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+
+### Capítulo III. Seguimiento y Evaluación
+
+#### Artículo 5. Seguimiento institucional
+La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
 
 ### Disposiciones Adicionales y Finales
 
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 32/2019.
+#### Disposición Adicional Única. Garantía de equidad e inclusión
+Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
 
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 32/2019.
+#### Disposición Final Primera. Habilitación para el desarrollo normativo
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 32/2019.
 
 #### Disposición Final Segunda. Entrada en vigor
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

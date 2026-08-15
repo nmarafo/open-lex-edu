@@ -49,8 +49,6 @@ fuente_juriscan: http://www.gobiernodecanarias.org/juriscan/ficha.jsp?id=30668
 
 Comunidad Autónoma de Canarias
 
-Boletín Oficial de Canarias
-
 Versión texto
 
 Archivo

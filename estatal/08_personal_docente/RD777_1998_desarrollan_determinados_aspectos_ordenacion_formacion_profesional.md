@@ -50,6 +50,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1995-22212
 ---
 
+## Preámbulo
+
+# Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
+
 # Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenación de la formación profesional en el ámbito del sistema educativo.
 
 La [Ley Orgánica 1/1990](../02_gestion_y_administracion_centros/LO1_1990_regula_regimen_equivalencias_estudios_basicos_medios.md), de 3 de octubre, de Ordenación General del Sistema Educativo, define en el capítulo IV del Título I la configuración de la nueva ordenación académica de la formación profesional.

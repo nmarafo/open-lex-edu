@@ -36,13 +36,16 @@ relaciones:
 fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2021/05/18/BOCM-20210518-1.PDF
 ---
 
+## Preámbulo
+
+# Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid
+
 **Orden 1312/2021, de 7 de mayo, de la Consejería de Educación y Juventud, por la que se establece el calendario escolar para los centros docentes no universitarios de la Comunidad de Madrid**
 
 MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 11
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal
@@ -87,7 +90,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 12
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ANEXO
 
@@ -163,7 +165,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 13
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 personal del Servicio Médico y del Servicio de Incendios Forestales al que se refiere
 específicamente el texto.
@@ -235,7 +236,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 14
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Comisión de Salud Laboral (CSL), de la que dependen las siguientes:
 
@@ -303,7 +303,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 15
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 capacitación de nuestro personal y permitirá la implantación de un programa de formación
 continua durante la guardia.
@@ -383,7 +382,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 16
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 un procedimiento interno que regule el paso y la permanencia en funciones de no intervención
 directa en siniestro. Este procedimiento será la base del Reglamento de Segunda Actividad futuro.
@@ -457,7 +455,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 17
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 percepción será obligatoria la presentación de la factura correspondiente emitida por entidad
 competente y fotocopia del carnet actualizado.
@@ -505,7 +502,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 18
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 esta cuestión repercuta lo menos posible a la prestación operativa del servicio, se estudiará la
 revisión de la jornada ampliada y la oferta de empleo público, si fuera necesario.
@@ -579,7 +575,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 19
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 Artículo 17.- Jornada extraordinaria.
 
@@ -661,7 +656,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 20
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 serán previamente informadas al COFO, donde se estudiarán las opciones que pueden ofrecerse
 para su recuperación. No se calendarizarán en verano.
@@ -737,7 +731,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 21
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 
 En el caso de Jefes de Equipo, Jefes de Dotación, conductores de jefatura y emisoristas
@@ -821,7 +814,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 22
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 
 Si el personal elige periodos en los que la suma de las guardias comprendidas sea menor
@@ -877,7 +869,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 23
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 que pudieran haberse reconocido se tramitarán una vez se hayan resuelto las
 antigüedades. En las peticiones individuales la prioridad la dará el orden de llegada de las
@@ -960,7 +951,6 @@ MARTES 18 DE MAYO DE 2021
 Pág. 24
 B.O.C.M. Núm. 117
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 (*) No podrán realizar jornada ampliada.
 (**) No podrán realizar jornada ampliada o servicios especiales, salvo en su propia unidad. Estarán
@@ -1057,7 +1047,6 @@ MARTES 18 DE MAYO DE 2021
 B.O.C.M. Núm. 117
 Pág. 25
 BOCM-20210518-1
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 
 Se implementará un sistema de evaluación del desempeño en el puesto de trabajo
@@ -1153,9 +1142,7 @@ Pág. 26
 B.O.C.M. Núm. 117
 BOCM-20210518-1
 http://www.bocm.es
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 D. L.: M. 19.462-1983      ISSN 1989-4791
-BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
 BOCM
 ANEXO
 CUADRO GENERAL DE RETRIBUCIONES PARA EL AÑO 2021 CON ACTUALIZACIÓN DEL COMPLEMENTO ESPECÍFICO PARA 2022

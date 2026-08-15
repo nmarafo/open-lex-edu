@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
+## Preámbulo
+
+# Orden de 18 de junio de 2001, por la que se regulan las aulas de adaptación lingüística (ATAL) para alumnado inmigrante.
+
 RESOLUCION de 13 de junio de 2001, del Instituto Andaluz de Administración Pública, por la que se convocan cursos de Formación a Distancia, a celebrar en Granada.
 
 name="Description"/>
@@ -84,7 +88,6 @@ Empleo público
 BOJA Histórico >
 2001
 Boletín 76
-1. Disposiciones generales
 
 ##
 
@@ -321,8 +324,6 @@ BOJA nº
 76
 de
 05/07/2001
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

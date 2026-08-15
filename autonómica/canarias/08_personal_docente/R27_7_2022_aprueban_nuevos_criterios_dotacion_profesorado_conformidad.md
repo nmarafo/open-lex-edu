@@ -144,7 +144,6 @@ no universitarios, excepto para las etapas de Educación Infantil y Primaria (An
 Sexto.- Aprobar criterios para la compensación de las desigualdades en centros públicos
 no universitarios (Anexo VI).
 Séptimo.- Ordenar la publicación de la presente Resolución y sus anexos en el
-Boletín Oficial de Canarias, así como en la página web de la Consejería de Educación,
 Universidades, Cultura y Deportes.
 Contra el presente acto, que pone fin a la vía administrativa, cabe interponer, en el plazo
 de un mes, recurso potestativo de reposición ante esta Dirección General, o directamente

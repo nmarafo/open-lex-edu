@@ -58,6 +58,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 ---
 
+## Preámbulo
+
+# Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
 # Ley 19/2013 de Transparencia, Acceso a la Información Pública y Buen Gobierno
 
 **JUAN CARLOS I**

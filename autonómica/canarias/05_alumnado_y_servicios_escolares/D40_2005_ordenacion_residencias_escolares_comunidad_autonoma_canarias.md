@@ -42,36 +42,71 @@ fundamentos_derecho:
 
 # Decreto 40/2005, de 16 de marzo, de ordenación de las Residencias Escolares en la Comunidad Autónoma de Canarias.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+Consejería de Economía 
+y Hacienda
+ORDEN de 17 de marzo de 2005, por la que
+se amplía el plazo de presentación del modelo 415 de declaración anual de operaciones
+con terceras personas, así como las condiciones y los diseños físicos y lógicos para la
+sustitución de las hojas interiores por soportes directamente legibles por ordenador y del
+modelo 416 de declaración anual de operaciones
+exentas del Impuesto General Indirecto Canario
+por aplicación de lo dispuesto en el artículo
+25 de la Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de
+Canarias.
+Existiendo problemas de disponibilidad del soporte
+físico del modelo 416 de declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de lo dispuesto en el artículo 25
+de la Ley 19/1994, de 6 de julio, de Modificación del
+Régimen Económico y Fiscal de Canarias, se hace
+necesario prorrogar el plazo de presentación del mismo, dada la circunstancia sobrevenida.
+Conforme a todo ello,
+D I S P O N G O:
+Único.- Se amplía hasta el día 5 de mayo de 2005
+el plazo de presentación del modelo 415 de declaración anual de operaciones con terceras personas, en
+soporte papel y soporte magnético que permita la sustitución de las hojas interiores por soportes directamente legibles por ordenador y del modelo 416 de
+declaración anual de operaciones exentas del Impuesto General Indirecto Canario por aplicación de
+lo dispuesto en el artículo 25 de la Ley 19/1994, de
+6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias, correspondiente al año 2004. 
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+#### DISPOSICIÓN FINAL
+La presente Orden entrará en vigor el mismo día
 
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 40/2005.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 40/2005.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 40/2005.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 40/2005.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+de su publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 17 de marzo de 2005.
+EL CONSEJERO DE
+ECONOMÍA Y HACIENDA,
+José Carlos Mauricio Rodríguez.
+Consejería de Educación, 
+Cultura y Deportes
+ORDEN de 11 de marzo de 2005, por la que
+se aprueban con vigencia indefinida las bases
+que han de regir las convocatorias de concesión de Becas de Postgrado para la realización de Tesis Doctorales (modalidad A).
+El Plan de Desarrollo de Canarias 2000-2006
+(PDCAN) señala como uno de sus objetivos el de mejorar la competitividad del tejido productivo de la región y entre las estrategias que establece para alcanzarlo se encuentra la de impulsar la política de I
++ D e innovación a través, entre otras medidas, del
+apoyo a la formación del personal investigador.
+Por su parte, el Plan Integrado Canario de I + D +
+I establece como uno de sus objetivos estratégicos
+movilizar los recursos humanos cualificados del Sistema Canario de Ciencia y Tecnología, pues se considera que el esfuerzo presupuestario del Gobierno de
+Canarias en esta materia sólo puede rendir beneficios
+si se dispone de personal cualificado en el sistema público y en los sectores productivos. El objetivo final
+que se persigue es situar a Canarias en la media de las
+regiones españolas en cuanto a personal de I + D + I.
+Para alcanzar el propósito anteriormente expuesto,
+el Plan señala como una de sus líneas de actuación prioritarias la potenciación de los recursos humanos en I +
+D + I, dentro de las áreas de capacitación científicatecnológica identificadas. La disponibilidad de investigadores cualificados que puedan incorporarse a los
+centros públicos de I + D de Canarias se entiende, en
+definitiva, un requisito fundamental para la mejora del
+sistema.
+Las previsiones del Plan se ajustan al mandato
+contenido en el artículo 17.2.b) de la Ley 5/2001,
+de 9 de julio, de Promoción y Desarrollo de la Investigación Científica y la Innovación (B.O.E. nº
+188, de 7.8.01). Según dicho precepto, uno de los
+objetivos de la planificación aprobada por el Gobierno es “fomentar y facilitar la formación y el
+aprovechamiento del personal investigador que
+desarrolla sus funciones en Canarias. En particular, se impulsará la formación de nuevos investigadores y equipos de investigación en las áreas y
+materias de interés estratégico para la región”.
+La presente Orden constituye, por tanto, la materialización de los mandatos del Parlamento y del Gobierno de Canarias mediante la aprobación de las bases que han de regir las sucesivas convocatorias de becas
+de postgrado para la realización de Tesis Doctorales.
+Las bases que se aprueban mediante esta Orden
+presentan dos grandes variaciones respecto a las
+convocatorias que desde hace varios años se vienen realizando para este mismo fin.

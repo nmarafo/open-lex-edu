@@ -147,6 +147,10 @@ fundamentos_derecho:
   - '2.1'
 ---
 
+## Preámbulo
+
+# Constitución Española de 1978.
+
 ## PREÁMBULO
 
 La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:

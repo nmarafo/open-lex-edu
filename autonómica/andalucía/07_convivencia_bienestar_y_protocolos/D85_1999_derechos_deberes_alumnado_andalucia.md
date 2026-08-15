@@ -39,36 +39,84 @@ relaciones:
 
 # Decreto 85/1999, de 6 de abril, por el que se regulan los derechos y deberes del alumnado y las normas de convivencia.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+CERTIFICADO DE CONFORMIDAD CON 
+EL ESQUEMA NACIONAL DE SEGURIDAD 
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato. 
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion 
+www.audertis.es Tel. - 91 838 78 82 Pº de la Castellana 95, (Edificio Torre Europa, Planta 29) 28046 – MADRID NIF: B-87635470 
+Audertis Audit Services certifica que, de acuerdo con la declaración de aplicabilidad vigente, los sistemas 
+de información reseñados, todos ellos de categoría MEDIA, y los servicios que se relacionan, de la 
+organización pública 
+AGENCIA DIGITAL DE ANDALUCÍA (ADA)  
+con NIF: Q4100953A 
+domiciliada en C/ Gonzalo Jiménez de Quesada, 2, 3ª  
+Edificio Torre Sevilla, 41092, Sevilla 
 
-DISPONGO:
+han sido auditados y encontrados conforme a las exigencias del Real Decreto 311/2022, de 3 de mayo, 
+por el que se regula el Esquema Nacional de Seguridad, según se indica en el correspondiente Informe 
+de Auditoría de fecha once de junio del 2026 para:
 
-### Capítulo I. Disposiciones Generales
+Número de certificado:   
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 85/1999.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+CERT-ENS-26471-R  
+Fecha de concesión:  
 
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
+20 de julio de 2026 
+Fecha de expiración:  
 
-### Capítulo II. Estructura y Funcionamiento
+20 de julio de 2028 
+Fecha inicial de certificación:  
 
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 85/1999.
+20 de julio de 2026 
 
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
+Certificado expedido digitalmente 
+   Dirección Técnica de AUDERTIS 
 
-### Disposiciones Adicionales y Finales
+Emitido en Madrid, a 28 de julio de 2026 
 
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 85/1999.
+La extensión “R” en el número del certificado indica la reemisión del certificado original, emitiendo un certificado individual para cada uno de los 
+sistemas de información PORTALJDA y BOJA inicialmente representados. 
 
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 85/1999.
+DESGLOSE DEL CUMPLIMIENTO GLOBAL DE LA CATEGORÍA 
+CATEGORÍA 
+MEDIA 
+C 
+I 
+T 
+A 
+D 
+Total de Medidas 
+PORTALJDA  
+Bajo 
+Medio 
+Bajo 
+Medio 
+Medio 
+“Los sistemas de información gestionados por la Agencia Digital de Andalucía, que dan soporte a la Junta 
+de Andalucía en lo que se refiere a: 
+• 
+Portal institucional de la Junta de Andalucía en Internet (PORTALJDA) 
+• 
+Punto de Acceso General Electrónico de la Administración de la Junta de Andalucía (PORTALJDA) 
+• 
+__________28/07/2026_________
+LOPEZ NEIRA, AGUSTIN (FIRMA)
 
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+CERTIFICADO DE CONFORMIDAD CON 
+EL ESQUEMA NACIONAL DE SEGURIDAD 
+
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato. 
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion 
+www.audertis.es Tel. - 91 838 78 82 Pº de la Castellana 95, (Edificio Torre Europa, Planta 29) 28046 – MADRID NIF: B-87635470 
+Ubicaciones principales para el sistema de información: 
+• 
+Sede Central: Edificio: Torre Sevilla - C/ Gonzalo Jiménez de Quesada, 2, 3ª, 41002, Sevilla 
+• 
+Sede donde presta servicios algún personal desplazado de la Agencia Digital de Andalucía: 
+o 
+Edificio Torre Triana - C/ Juan Antonio de Vizarrón, s/n, 41092, Sevilla 
+o 
+Edificio CICA - Campus Universitario Reina Mercedes; C/ Tarfia, s/n, 41012, Sevilla 
+• 
+(#2) Centros asociados (NDA)

@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
 ---
 
+## Preámbulo
+
+# Orden de 11 de diciembre de 2012, por la que se regula la adjudicación de destinos al personal docente interino (SIPRI).
+
 ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
 
 name="Description"/>
@@ -86,7 +90,6 @@ Empleo público
 BOJA Histórico >
 2012
 Boletín 248
-1. Disposiciones generales
 
 ##
 
@@ -1826,8 +1829,6 @@ BOJA nº
 de
 20/12/2012
 
-1. Disposiciones generales
-
 2.1. Nombramientos, situaciones e incidencias
 
 2.2. Oposiciones, concursos y otras convocatorias
@@ -1846,7 +1847,6 @@ Descargar boletín nº 248 completo
 
 <a target="_blank" title="Descargar el sumario en PDF"
 href="BOJA12-248-00010_00000250.pdf">
-Sumario boletín nº 248
 
 ## Temas
 

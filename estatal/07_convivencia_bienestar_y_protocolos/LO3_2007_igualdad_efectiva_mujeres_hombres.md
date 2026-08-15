@@ -52,6 +52,10 @@ fundamentos_derecho:
 - norma_id: norm-es-l-31-1995
 ---
 
+## Preámbulo
+
+# Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
 La Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, queda modificada como sigue:
 
 Uno. Se da nueva redacción al artículo 108.2:

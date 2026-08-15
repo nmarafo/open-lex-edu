@@ -42,6 +42,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
+## Preámbulo
+
+# Ley Orgánica 8/2015, de 22 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+
 ## PREÁMBULO
 
 **I**

@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-l-40-2015
 ---
 
+## Preámbulo
+
+# Resolución por la que se aprueban los calendarios escolares provinciales para el curso 2025-2026 en la Comunidad Autónoma de Andalucía.
+
 Calendario escolar - Educación
 
 ## Navegación

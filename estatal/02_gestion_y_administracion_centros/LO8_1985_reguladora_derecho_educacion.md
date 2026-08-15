@@ -64,6 +64,10 @@ fundamentos_derecho:
   - '27'
 ---
 
+## Preámbulo
+
+# Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+
 # Ley Orgánica 8/1985 reguladora del Derecho a la Educación (LODE)
 
 **JUAN CARLOS I,**

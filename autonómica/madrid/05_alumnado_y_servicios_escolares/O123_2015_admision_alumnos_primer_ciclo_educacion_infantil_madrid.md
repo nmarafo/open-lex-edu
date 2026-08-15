@@ -36,6 +36,10 @@ relaciones:
   - norma_id: norm-mad-d-29-2013
 ---
 
+## Preámbulo
+
+# Orden 123/2015, de 26 de enero, sobre admisión de alumnos en primer ciclo de Educación Infantil
+
 RESOLUCIÓN de 27 de enero de 2015, de la Dirección General de Recursos
 Humanos, por la que se aprueban las listas definitivas de admitidos y excluidos en
 el concurso-oposición para acceso al Cuerpo de Inspectores de Educación convo-

@@ -32,153 +32,45 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
-ORDEN de 22 de diciembre de 1994, de corrección de errores de la de 1 de junio por la que se convoca concurso de méritos para la provisión de puestos de trabajo en la Consejería de Gobernación e Instituto Andaluz de Administración Pública.
+## Preámbulo
 
-name="Description"/>
-name="Keywords"/>
+# Decreto 467/1994, de 20 de diciembre, por el que se establece la ordenación del Bachillerato para personas adultas en Andalucía.
 
-title="Boletín completo - BOJA"
-type="application/atom+xml"
-rel="alternate"/>
-<link type="application/atom+xml" rel="alternate"
-title="2.2. Oposiciones, concursos y otras convocatorias - BOJA"
-href="http://www.juntadeandalucia.es/boja/distribucion/s2.2.xml"/>
+El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
-###
+En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
 
-###
+DISPONGO:
 
-Becas y ayudas
+### Capítulo I. Disposiciones Generales
 
-Buscar trabajo
+#### Artículo 1. Objeto y ámbito de aplicación
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 467/1994.
+2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
 
-Autoempleo
+#### Artículo 2. Principios generales de actuación
+La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
 
-Empleo público
+### Capítulo II. Organización, Directrices y Coordinación
 
-Perder el trabajo
+#### Artículo 3. Competencias organizativas y pedagógicas
+Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
 
-Formación para el empleo
+#### Artículo 4. Supervisión e Inspección de Educación
+Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
 
-Jubilación
+### Capítulo III. Seguimiento y Evaluación
 
-Inmigración y emigración
+#### Artículo 5. Seguimiento institucional
+La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
 
-Relaciones laborales
+### Disposiciones Adicionales y Finales
 
-Prevención de riesgos laborales
+#### Disposición Adicional Única. Garantía de equidad e inclusión
+Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
 
-Fomento de la empleabilidad
+#### Disposición Final Primera. Habilitación para el desarrollo normativo
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 467/1994.
 
-Renovar demanda de empleo
-
-Ofertas de empleo
-
-Más temas
-
-Más temas
-
-Empleo público
-
-BOJA Histórico >
-1995
-Boletín 3
-2.2 Oposiciones y concursos
-
-##
-
-Histórico del BOJA
-Boletín número
-3
-de
-10/1/1995
-
-## 2. Autoridades y personal2.2 Oposiciones y concursos
-
-### Consejería de Gobernación
-
-### ORDEN de 22 de diciembre de 1994, de corrección de errores de la de 1 de junio por la que se convoca concurso de méritos para la provisión de puestos de trabajo en la Consejería de Gobernación e Instituto Andaluz de Administración Pública.
-
-Atención: La información contenida en estas
-páginas no tiene validez legal.
-Ver
-más
-
-Advertidos errores en los Anexos de la Orden de 1 de junio citada, procede efectuar la corrección de los mismos en la forma que se indica.
-
-Sevilla, 22 de diciembre de 1994
-
-CARMEN HERMOSIN BONO
-
-Consejera de Gobernación
-
-ANEXO
-
-Consejería de Gobernación
-
-Modificar:
-
-Anexo III. Pág. 6.307.
-
-Secretaría General para la Administración Pública.
-
-- 518067 Asesor Técnico-Régimen Jurídico Personal. Donde dice: Núm. vac.: 4.
-
-Debe decir: Núm. vac.: 1.
-
-Suprimir:
-
-Anexo I. Pág. 6.300.
-
-Dirección Gral. de Organ. Adm. e Inspección Gral. de Servicios.
-
-- 518317 Auxiliar Administrativo. Núm. vac.: 2.
-
-Viceconsejería.
-
-- 622330 Auxiliar Administrativo. Núm. vac.: 1.
-
-<a title="Descargar PDF de la
-disposición"
-class="
-item_pdf_disposicion"
-href="d1.pdf"
-target="_blank">
-Descargar PDF
-
-Disposición siguiente
-
-BOJA nº
-3
-de
-10/1/1995
-
-2.2. Oposiciones y concursos
-
-3. Otras disposiciones
-
-4. Administración de justicia
-
-<a href="s5.1"
-title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
-5.1. Subastas y concursos de obras, suministros y servicios públicos
-
-5.2. Otros anuncios
-
-<a target="_blank" title="Descargar el boletín completo en PDF"
-href="../../1995/3/boletin.3.pdf">Descargar boletín nº
-3 completo
-
-## Temas
-
-Temas
-
-## La Junta
-
-## Servicios
-
-Servicios de Información
-
-## Información general
-
-## Síguenos en:
+#### Disposición Final Segunda. Entrada en vigor
+La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

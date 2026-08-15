@@ -50,6 +50,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-4518
 ---
 
+## Preámbulo
+
+# Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
+
 # Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales.
 
 ## EXPOSICIÓN DE MOTIVOS

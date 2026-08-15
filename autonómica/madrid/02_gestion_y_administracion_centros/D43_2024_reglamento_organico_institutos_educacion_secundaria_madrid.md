@@ -40,36 +40,41 @@ relaciones:
 
 # Decreto 43/2024, de 10 de abril, del Consejo de Gobierno, por el que se aprueba el Reglamento Orgánico de los Institutos de Educación Secundaria de la Comunidad de Madrid.
 
-En desarrollo del marco normativo educativo autonómico y estatal aplicable en la jurisdicción de Madrid, y con el fin de regular las condiciones pedagógicas, organizativas y de gestión de los centros educativos y servicios correspondientes, se aprueba el presente texto articulado.
+El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
 
-En su virtud, de conformidad con lo establecido en las disposiciones legales vigentes y previa deliberación del órgano competente,
+En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
 
 DISPONGO:
 
-### Capítulo I. Disposiciones Generales y Objeto
+### Capítulo I. Disposiciones Generales
 
 #### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, ordenación y directrices de funcionamiento para la materia contemplada en su título.
-2. Esta disposición es de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial correspondiente.
+1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 43/2024.
+2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
 
 #### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de inclusión, equidad, calidad educativa, autonomía de gestión, transparencia y coordinación institucional.
+La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
 
 ### Capítulo II. Organización, Directrices y Coordinación
 
 #### Artículo 3. Competencias organizativas y pedagógicas
-Los equipos directivos, el claustro de profesorado y la comunidad educativa de los centros docentes velarán por la planificación y desarrollo efectivo de las medidas organizativas y curriculares encomendadas por esta disposición.
+Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
 
-#### Artículo 4. Supervisión e Inspección Educativa
-La Inspección de Educación ejercerá las funciones de supervisión, asesoramiento y evaluación necesarias para garantizar el cumplimiento de lo dispuesto en este articulado.
+#### Artículo 4. Supervisión e Inspección de Educación
+Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+
+### Capítulo III. Seguimiento y Evaluación
+
+#### Artículo 5. Seguimiento institucional
+La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
 
 ### Disposiciones Adicionales y Finales
 
 #### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas garantizarán las medidas y recursos necesarios para la atención inclusiva de todo el alumnado de acuerdo con lo dispuesto en la legislación marco.
+Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
 
-#### Disposición Final Primera. Habilitación para la aplicación y desarrollo
-Se autoriza al órgano titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean necesarias para la aplicación y desarrollo del presente texto.
+#### Disposición Final Primera. Habilitación para el desarrollo normativo
+Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 43/2024.
 
 #### Disposición Final Segunda. Entrada en vigor
 La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.

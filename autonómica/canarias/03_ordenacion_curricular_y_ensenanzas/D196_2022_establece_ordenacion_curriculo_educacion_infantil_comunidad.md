@@ -55,36 +55,44 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2022-208-3159.
 
 # Decreto 196/2022, de 13 de octubre, por el que se establece la ordenación y el currículo de la Educación Infantil en la Comunidad Autónoma de Canarias.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+V. Anuncios
+Otros anuncios
+Consejería de Administraciones Públicas, Justicia y Seguridad
+3164	 Dirección General de la Función Pública.- Anuncio por el que se hace pública la 
+Resolución de 5 de octubre de 2022, que remite el expediente y emplaza a cuantos 
+aparezcan como interesados en el recurso que se tramita como Procedimiento 
+Ordinario nº 249/2022 ante el Tribunal Superior de Justicia de Canarias, Sala de lo 
+Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, interpuesto 
+por D. Gustavo Winter Cabrera, contra el Decreto 115/2022 de 20 de mayo, por el 
+que se aprueba la Oferta Extraordinaria de Empleo Público para la estabilización 
+de empleo temporal de larga duración en el ámbito de la Administración General 
+de la Comunidad Autónoma de Canarias, exclusivamente en lo concerniente a su 
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+## Anexo I, y en lo relativo a las plazas pertenecientes a la Escala de Letrados de la 
 
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 196/2022.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 196/2022.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 196/2022.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 196/2022.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Comunidad Autónoma de Canarias, del Cuerpo A122.
+En cumplimiento de lo dispuesto por el Tribunal Superior de Justicia de Canarias, 
+Sala de lo Contencioso-Administrativo, Sección Segunda, de Santa Cruz de Tenerife, 
+en el recurso que se tramita como procedimiento ordinario nº 249/2022, interpuesto por 
+D. Gustavo Winter Cabrera, contra el Decreto 115/2022, de 20 de mayo, por el que se aprueba 
+la Oferta Extraordinaria de Empleo Público para la estabilización de empleo temporal de 
+larga duración en el ámbito de la Administración General de la Comunidad Autónoma de 
+Canarias, publicado en el BOC nº 105, de fecha 31 de mayo de 2022, exclusivamente en 
+lo concerniente a su Anexo I, y en lo relativo a las plazas pertenecientes a la Escala de 
+Letrados de la Comunidad Autónoma de Canarias, del Cuerpo A122; dado que el acto objeto 
+de la impugnación podría afectar a una pluralidad de personas por determinar, supuesto 
+subsumible en lo dispuesto en el artículo 45.1.a) de la Ley 39/2015, de 1 de octubre, del 
+Procedimiento Administrativo Común de las Administraciones Públicas, esta Dirección 
+General, conforme a lo dispuesto en los artículos 48 y 49 de la Ley 29/1998, de 13 de julio, 
+reguladora de la Jurisdicción Contencioso-administrativa,
+R E S U E LV E:
+Primero.- Ordenar la remisión del expediente administrativo judicializado que 
+corresponde al recurso contencioso-administrativo que se tramita como procedimiento 
+ordinario nº 249/2022, seguido a instancia de D. Gustavo Winter Cabrera.
+Segundo.- Emplazar a cuantos aparezcan como interesados en el recurso contenciosoadministrativo que se tramita como procedimiento ordinario nº 249/2022 en el Tribunal 
+Superior de Justicia de Canarias, Sala de lo Contencioso-Administrativo, Sección Segunda, 
+de Santa Cruz de Tenerife, para que puedan comparecer y personarse como demandados 
+ante el mencionado Tribunal en el plazo de nueve días, a partir del día siguiente al de la 
+publicación de la presente Resolución.
+Santa Cruz de Tenerife, a 5 de octubre de 2022.- La Directora General de la Función 
+Pública, Montserrat García Santana.

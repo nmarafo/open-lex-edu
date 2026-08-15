@@ -101,7 +101,6 @@ de Adultos, Manuel Jorge Pérez.
 AN E X O
 ZONAS DE ACTUACIÓN DE LA RED DE CENTROS DE
 EDUCACIÓN DE PERSONAS ADULTAS DE CANARIAS.
-SUMARIO:
 1. Finalidad de la red de centros.
 2. Objetivos de la red de centros.
 3. Zonas de actuación.

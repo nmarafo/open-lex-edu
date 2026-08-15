@@ -53,6 +53,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 ---
 
+## Preámbulo
+
+# Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
 La Ley 13/1982, de 7 de abril, participaba ya de la idea de que el amparo especial y las medidas de equiparación para garantizar los derechos de las personas con discapacidad debía basarse en apoyos complementarios, ayudas técnicas y servicios especializados que les permitieran llevar una vida normal en su entorno. Estableció un sistema de prestaciones económicas y servicios, medidas de integración laboral, de accesibilidad y subsidios económicos, y una serie de principios que posteriormente se incorporaron a las leyes de sanidad, educación y empleo.
 
 Posteriormente, la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, supuso un renovado impulso a las políticas de equiparación de las personas con discapacidad, centrándose especialmente en dos estrategias de intervención: la lucha contra la discriminación y la accesibilidad universal.

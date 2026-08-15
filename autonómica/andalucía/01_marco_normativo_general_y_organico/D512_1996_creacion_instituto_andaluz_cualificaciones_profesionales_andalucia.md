@@ -39,36 +39,202 @@ relaciones:
 
 # Decreto 512/1996, de 10 de diciembre, por el que se crea el Instituto Andaluz de Cualificaciones Profesionales.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+Sevilla, 24 de diciembre 1996
+Página núm. 16.785
+AYUNTAMIENTO DE SEVILLA
+Resolución de la Comisión Ejecutiva mediante
+el que se convoca concurso público para la
+licitación de las obras que se citan. (PP.
+4109/96).
+16.847
+UNIVERSIDAD DE CORDOBA
+Resolución de 26 de noviembre de 1996, por
+la que se anuncia concurso público para la
+concesión de la explotación de los servicios
+de reprografía de los centros que se indican.
+(PP. 4055/96).
+16.848
+5.2. Otros anuncios
+CONSEJERIA DE ECONOMIA Y HACIENDA
+Orden de 11 de diciembre de 1996, por la
+que se autorizan tarifas de agua potable de
+Villa de Fornes (Granada). (PD. 4249/96). 16.849
+Orden de 17 de diciembre de 1996, por la
+que se autorizan tarifas de agua potable de
+Alcaucín (Málaga). (PD. 4280/96).
+16.849
+CONSEJERIA DE OBRAS PUBLICAS Y TRANSPORTES
+Resolución de 2 de diciembre de 1996, de
+la Delegación Provincial de Cádiz, por la que
+se abre período de información pública para
+la declaración de urgente ocupación en el
+expediente de expropiación forzosa para la
+ejecución de las obras del proyecto que se
+cita. (Clave 2-CA-175).
+16.850
+Resolución de 3 de diciembre de 1996, de
+la Delegación Provincial de Cádiz, por la que
+se señala fecha para el levantamiento de actas
+previas a la ocupación de las obras del proyecto que se cita. (Clave: 2-CA-186).
+16.850
+Resolución de 12 de diciembre de 1996, de
+la Delegación Provincial de Jaén, por la que
+se acuerda el levantamiento de las actas previas a la ocupación de los bienes y derechos
+afectados por la obra que se cita. (JA-2-J-144). 16.851
+AYUNTAMIENTO DE TRIGUEROS (HUELVA)
+Edicto. (PP. 3473/96).
+16.852
+AYUNTAMIENTO DE TORREMOLINOS
+Edicto. (PP. 4081/96).
+16.852
+AYUNTAMIENTO DE LUCENA (CORDOBA)
+Anuncio de información pública de modificación del Plan Parcial Industrial núm. 3, del Sector de Los Polvillares, promovida por don José
+Pedro Moreno Víbora. (PP. 3961/96).
+16.853
+AYUNTAMIENTO DE ALMUÑECAR
+Anuncio sobre Estudio de Detalle Visogsa. (PP.
+3987/96).
+16.853
+AYUNTAMIENTO DE EL SAUCEJO (SEVILLA)
+Anuncio de bases.
+16.853
+CP DE ENSEÑANZA PRIMARIA CERVANTES
+Anuncio de extravío de título de Graduado
+Escolar (PP. 3990/96).
+16.856
+CAJA RURAL DE SEVILLA
+Anuncio. (PP. 4124/96).
+16.857
+SDAD. COOP. MARISMAS DEL TINTO
+Anuncio de disolución. (PP. 4251/96).
+16.858
+CONSEJERIA DE LA PRESIDENCIA
+ACUERDO de 3 de diciembre de 1996, del
+Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con
+modulación de frecuencia a la Corporación Municipal de Puebla del Río (Sevilla). (PD. 4162/96).
+La Ley 31/1987, de 18 de diciembre, de Ordenación
+de las Telecomunicaciones, dispone en el artículo 26 que
+los servicios de radiodifusión sonora en ondas métricas
+con modulación de frecuencia podrán ser explotados indirectamente, mediante concesión administrativa, por las
+Corporaciones Locales.
+El Real Decreto 169/1989, de 10 de febrero, por el
+que se aprueba el Plan Técnico Nacional de Radiodifusión
+Sonora en Ondas Métricas con Modulación de Frecuencia,
+establece, en su artículo 5.º y Disposición Transitoria, los
+criterios y condiciones a que deberán ajustarse las Emisoras
+correspondientes a las Corporaciones Locales.
+La Ley 11/1991, de 8 de abril, de Organización y
+Control de las Emisoras Municipales de Radiodifusión
+Sonora configura el marco jurídico básico para hacer efec-
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
-
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 512/1996.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 512/1996.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 512/1996.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 512/1996.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Página núm. 16.786
+Sevilla, 24 de diciembre 1996
+tiva la prestación del servicio de radiodifusión sonora por
+parte de los Ayuntamientos.
+La Junta de Andalucía, mediante el Decreto 202/1991,
+de 5 de noviembre, regula la concesión para la gestión
+indirecta por las Corporaciones Municipales del Servicio
+de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia.
+Por Acuerdo del Consejo de Gobierno de 27 de abril
+de 1993, se otorgó a la Corporación Municipal de Puebla
+del Río (Sevilla) concesión provisional de Emisora de radiodifusión sonora en ondas métricas con modulación de
+frecuencia.
+Se ha dado cumplimiento a los requisitos y trámites
+previstos, en los arts. 5.º y 6.º del Decreto 202/1991,
+y extendida Acta de conformidad final a la instalación de
+la Emisora, de acuerdo con lo dispuesto en el apartado
+6 del artículo 6.º del Decreto 202/1991, de 5 de
+noviembre.
+En consecuencia, a propuesta del Consejero de la Presidencia y previa deliberación del Consejo de Gobierno,
+en su sesión del día 3 de diciembre de 1996.
+A C U E R D O
+Primero. Otorgar a la Corporación Municipal de Puebla del Río (Sevilla) concesión definitiva para el funcionamiento de la Emisora de Radiodifusión Sonora en Ondas
+Métricas con Modulación de Frecuencia.
+Segundo. El plazo de vigencia de la concesión se fija
+en diez años y podrá prorrogarse, sucesivamente, por
+períodos iguales, previa solicitud del concesionario con
+tres meses de antelación a la fecha de extinción del plazo
+concedido.
+En todo caso, el concesionario queda obligado a
+garantizar la prestación continuada del servicio; como, asimismo, a cumplir con los requisitos y condiciones de la
+concesión, tanto de carácter técnico, como de organización
+y control, gestión y contenidos.
+Tercero. La frecuencia y demás características asignadas para la emisora, de conformidad con el Proyecto
+Técnico aprobado y con carácter de concesión de dominio
+público radioeléctrico, accesoria y afecta inseparablemente
+a la concesión del servicio de radiodifusión sonora son
+las que figuran en el Anexo al presente Acuerdo.
+Cuarto. Cualquier modificación de las características
+técnicas establecidas y cuantas actuaciones puedan afectar
+a la gestión y funcionamiento de la Emisora, deberán ajustarse a lo previsto en la Ley 31/1987, de 18 de diciembre,
+Real Decreto 169/1989, de 10 de febrero, Decreto
+75/1989, de 4 de abril, Ley 10/1991, de 8 de abril, Ley
+11/1991, de 8 de abril, Decreto 202/1991, de 5 de
+noviembre, Ley 32/1992, de 3 de diciembre y demás normas que puedan resultar de aplicación.
+Sevilla, 3 de diciembre de 1996
+MANUEL CHAVES GONZALEZ
+Presidente de la Junta de Andalucía
+GASPAR ZARRIAS AREVALO
+Consejero de la Presidencia
+A N E X O
+CARACTERISTICAS TECNICAS AUTORIZADAS PARA LA
+EMISORA DE RADIODIFUSION SONORA EN ONDAS
+METRICAS CON MODULACION DE FRECUENCIA
+OTORGADA A LA CORPORACION MUNICIPAL DE
+PUEBLA DEL RIO (SEVILLA)
+- Coordenadas geográficas de ubicación del transmisor: 37º 16’ 13” N.
+06º 03’ 35” W.
+- Cota (m): 26.
+- Denominación de la emisión: 256KF8EHF(*).
+- Frecuencia de emisión (MHz): 107.5.
+- Potencia radiada aparente máxima (w): 42.
+- Potencia de salida autorizada del equipo transmisor
+(w): 25.
+- Potencia máxima nominal del equipo transmisor
+(w): 25.
+- Sistema radiante y características de radiación: 2
+Dipolos. Omnidireccional.
+- Altura sobre el suelo del centro eléctrico de la antena
+(m): 19.
+- Altura del mástil (m): 24.
+- Altura efectiva máxima (m): 41.
+- Polarización de la emisión: Mixta.
+(*) De acuerdo con el apartado f) del artículo 5.º del
+R.D. 169/1989, de 10 de febrero, la utilización de estereofonía no está garantizada con calidad satisfactoria.
+ACUERDO de 3 de diciembre de 1996, del
+Consejo de Gobierno, por el que se otorga concesión definitiva para el funcionamiento de la emisora de radiodifusión sonora en ondas métricas con
+modulación de frecuencia a la Corporación Municipal de Paradas (Sevilla). (PD. 4163/96).
+La Ley 31/1987, de 18 de diciembre, de Ordenación
+de las Telecomunicaciones, dispone en el artículo 26 que
+los servicios de radiodifusión sonora en ondas métricas
+con modulación de frecuencia podrán ser explotados indirectamente, mediante concesión administrativa, por las
+Corporaciones Locales.
+El Real Decreto 169/1989, de 10 de febrero, por el
+que se aprueba el Plan Técnico Nacional de Radiodifusión
+Sonora en Ondas Métricas con Modulación de Frecuencia,
+establece, en su artículo 5.º y Disposición Transitoria, los
+criterios y condiciones a que deberán ajustarse las Emisoras
+correspondientes a las Corporaciones Locales.
+La Ley 11/1991, de 8 de abril, de Organización y
+Control de las Emisoras Municipales de Radiodifusión
+Sonora configura el marco jurídico básico para hacer efectiva la prestación del servicio de radiodifusión sonora por
+parte de los Ayuntamientos.
+La Junta de Andalucía, mediante el Decreto 202/1991,
+de 5 de noviembre, regula la concesión para la gestión
+indirecta por las Corporaciones Municipales del Servicio
+de Radiodifusión Sonora en Ondas Métricas con Modulación de Frecuencia.
+Por Acuerdo del Consejo de Gobierno de 27 de abril
+de 1993, se otorgó a la Corporación Municipal de Paradas
+(Sevilla) concesión provisional de Emisora de radiodifusión
+sonora en ondas métricas con modulación de frecuencia.
+Se ha dado cumplimiento a los requisitos y trámites
+previstos en los arts. 5.º y 6.º del Decreto 202/1991, y
+extendida Acta de conformidad final a la instalación de
+la Emisora, de acuerdo con lo dispuesto en el apartado 6
+del artículo 6.º del Decreto 202/1991, de 5 de noviembre.
+En consecuencia, a propuesta del Consejero de la Presidencia y previa deliberación del Consejo de Gobierno,
+en su sesión del día 3 de diciembre de 1996
+A C U E R D O
+Primero. Otorgar a la Corporación Municipal de Paradas (Sevilla) concesión definitiva para el funcionamiento
+de la Emisora de Radiodifusión Sonora en Ondas Métricas
+con Modulación de Frecuencia.

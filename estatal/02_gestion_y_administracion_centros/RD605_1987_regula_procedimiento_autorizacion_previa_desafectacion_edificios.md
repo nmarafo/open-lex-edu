@@ -36,76 +36,77 @@ fundamentos_derecho:
 - norma_id: norm-es-1987-13494
 ---
 
-# [Real Decreto 605/1987](RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md), de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.
+## Preámbulo
 
-EL REAL DECRETO 3186/1978, DE 1 DE DICIEMBRE, DE DESCONCENTRACION DE FUNCIONES EN LAS DIRECCIONES PROVINCIALES DEL MINISTERIO DE EDUCACION Y CIENCIA, DISPONE EN SU ARTICULO 2.6 QUE SE TRANSFIERE A LOS ORGANOS PERIFERICOS DEL DEPARTAMENTO LA COMPETENCIA DE CONCEDER LA AUTORIZACION PARA QUE LOS EDIFICIOS PUBLICOS ESCOLARES DE PROPIEDAD MUNICIPAL PUEDAN SER OBJETO DE DESAFECTACION Y, EN CONSECUENCIA, DESTINADOS A OTROS SERVICIOS O FINALIDADES DISTINTAS DE LA ENSEÑANZA. ESTE PRECEPTO FUE DESARROLLADO POR EL PUNTO SEGUNDO DE LA ORDEN MINISTERIAL DE 8 DE FEBRERO DE 1979.
+# Real Decreto 605/1987, de 10 de abril, por el que se regula el procedimiento de autorización previa a la desafectación de edificios públicos escolares de propiedad municipal.
 
-EL TIEMPO TRANSCURRIDO DESDE ENTONCES HA PERMITIDO QUE EL MINISTERIO DE EDUCACION Y CIENCIA ADQUIERA UNA EXPERIENCIA EN MATERIA DE DESAFECTACION QUE ACONSEJA INTRODUCIR DETERMINADAS PRECISIONES DE INDOLE ESENCIALMENTE PROCEDIMENTAL QUE, SIN VARIAR LOS PRINCIPIOS GENERALES QUE RIGEN EN CUANTO A LAS DESAFECTACIONES DE EDIFICIOS PUBLICOS ESCOLARES, SIRVAN PARA QUE LA RESOLUCION PERTINENTE SE ADOPTE CON LAS MAXIMAS GARANTIAS POSIBLES, AL MISMO TIEMPO QUE PRECONIZA UNA MAYOR HOMOGENEIDAD EN LAS RESOLUCIONES QUE DEBAN DICTAR LOS ORGANOS PROVINCIALES COMPETENTES.
+III. Otras Resoluciones
+Consejería de Educación, Universidades, Cultura y Deportes
+Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que 
+se delega en las Direcciones Territoriales de Educación determinada competencia 
+relativa a cargos directivos de los centros públicos docentes del ámbito de gestión 
+de este Departamento.
+Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de 
+los centros docentes públicos no universitarios, se precisa delegar en las Direcciones 
+Territoriales de Educación la competencia de esta Dirección General en relación con las 
+Jefaturas de Estudio adjuntas en los centros educativos en los que se determine.
+ANTECEDENTES DE HECHO
+Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la 
+Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, 
+dirigir, controlar y coordinar la gestión del personal docente no universitario de la 
+Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia 
+para la concesión de comisiones de servicio y la declaración de adscripciones provisionales 
+al personal docente no universitario en centros públicos, extendiéndose tal atribución a los 
+cargos directivos.
+Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las 
+normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, 
+por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente 
+no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la 
+Dirección General de Personal, la competencia administrativa para conceder comisiones de 
+servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el 
+desempeño de cargos directivos en centros docentes.
+Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
+Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros 
+públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura 
+de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
+Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones 
+Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como 
+para la concesión, cese y revocación de las comisiones de servicios para el desempeño del 
+cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución 
+de 15 de junio de 2012.
+Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace 
+necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia 
+Página 
 
-EN SU VIRTUD, PREVIO INFORME DEL MINISTRO DE ADMINISTRACIONES PUBLICAS, DE ACUERDO CON EL CONSEJO DE ESTADO, A PROPUESTA DEL MINISTRO DE EDUCACION Y CIENCIA Y PREVIA DELIBERACION DEL CONSEJO DE MINISTROS EN SU REUNION DEL DIA 10 DE ABRIL DE 1987,
-
-DISPONGO:
-
-ARTICULO 1. LA AUTORIZACION PREVIA A LA DESAFECTACION DE LOS INMUEBLES Y EDIFICIOS PUBLICOS ESCOLARES SOLO PODRA TENER LUGAR, CONFORME AL PROCEDIMIENTO ESTABLECIDO EN ESTA DISPOSICION, CUANDO CONCURRA ALGUNO DE LOS SUPUESTOS SIGUIENTES:
-
-1. CUANDO EL INMUEBLE DEJE DE SER NECESARIO, EN TODO O EN PARTE, PARA EL DESARROLLO DEL SERVICIO PUBLICO DE LA ENSEÑANZA.
-
-2. CUANDO,PREVIA PERITACION TECNICA, LAS CONDICIONES O CARACTERISTICAS FISICAS DEL INMUEBLE, O DE LA PARTE CUYA DESAFECTACION SE PROPONE, NO RESULTEN ADECUADAS A LA FINALIDAD EDUCATIVA.
-
-3. CUANDO CONCURRA CUALQUIER OTRA CIRCUNSTANCIA DE LA QUE SE DEDUZCA LA CONVENIENCIA O NECESIDAD DE DESAFECTARLO, PREVIA JUSTIFICACION RAZONADA EN EL EXPEDIENTE.
-
-EN EL CASO DE LAS VIVIENDAS, ADEMAS DE LA CONCURRENCIA DE ALGUNA DE LAS CAUSAS ANTERIORES, PODRA CONCEDERSE LA AUTORIZACION PREVIA PARA DESAFECTAR AQUELLAS QUE EXCEDAN DE LA PLANTILLA DE MAESTROS DE LA LOCALIDAD, EN SU CASO, EN FUNCION DE LAS NECESIDADES DE ESCOLARIZACION.
-
-ART. 2. 1. LOS EXPEDIENTES DE AUTORIZACION SERAN TRAMITADOS Y RESUELTOS POR LAS DIRECCIONES PROVINCIALES DEL MINISTERIO DE EDUCACION Y CIENCIA A SOLICITUD DE LOS AYUNTAMIENTOS QUE ESTUVIEREN TRAMITANDO EL PROCEDIMIENTO DE DESAFECTACION CON ARREGLO A LO DISPUESTO EN EL ARTICULO 8 DEL REAL DECRETO 1372/1986, DE 13 DE JUNIO, POR EL QUE SE APRUEBA EL REGLAMENTO DE BIENES DE LAS ENTIDADES LOCALES, O QUE SE PROPONGAN DESTINAR TALES EDIFICIOS A USOS O SERVICIOS PUBLICOS DE CARACTER LOCAL.
-
-2. LAS DIRECCIONES PROVINCIALES INCORPORARAN AL EXPEDIENTE CUANTOS INFORMES CONSIDEREN OPORTUNOS, SIENDO PRECEPTIVOS, EN TODO CASO, UNO DE CARACTER TECNICO-DOCENTE, OTRO TECNICO-ARQUITECTONICO Y, FINALMENTE, UNO RELATIVO A LA PLANIFICACION, QUE SE EMITIRAN POR LAS UNIDADES COMPETENTES RESPECTIVAS DE LAS DIRECCIONES PROVINCIALES.
-
-3. LOS EXPEDIENTES DE AUTORIZACION DEBERAN RESOLVERSE EN EL PLAZO MAXIMO DE TRES MESES, A CONTAR DESDE LA RECEPCION DE LA SOLICITUD. TRANSCURRIDO DICHO PLAZO SIN HABER RECAIDO RESOLUCION EXPRESA, SE ENTENDERA CONCEDIDA LA AUTORIZACION.
-
-ART. 3. NO OBSTANTE LO DISPUESTO EN EL ARTICULO ANTERIOR, EL EXPEDIENTE DE AUTORIZACION DEBERA SER SOMETIDO A LA CONFORMIDAD DE LOS SERVICIOS CENTRALES DEL DEPARTAMENTO, COMO TRAMITE PREVIO A SU RESOLUCION, EN LOS SIGUIENTES CASOS:
-
-1. CUANDO SE TRAMITE POR APLICACION DEL APARTADO 3 DEL ARTICULO 1.
-
-2. CUANDO LOS INFORMES SEAN CONTRADICTORIOS ENTRE SI O LA PROPUESTA SEA CONTRARIA A LOS MISMOS.
-
-3. CUANDO EL EDIFICIO TENGA MENOS DE VEINTE AÑOS DE ANTIGUEDAD.
-
-4. CUANDO EN EL INMUEBLE CUYA DESAFECTACION SE PROPONGA SE HAYA REALIZADO CUALQUIER TIPO DE OBRA CON CARGO A LOS PRESUPUESTOS DEL ESTADO EN LOS ULTIMOS CINCO AÑOS.
-
-5. EN EL CASO DE DESAFECTACIONES PARCIALES, CUANDO LA QUE SE TRAMITE, POR SI SOLA O SUMADA A LAS QUE SE HAYAN PRODUCIDO ANTERIORMENTE, SUPERE UN TERCIO DE LA SUPERFICIE TOTAL DEL INMUEBLE.
-
-A TAL EFECTO, EL ORGANO CORRESPONDIENTE DEL MINISTERIO DE EDUCACION Y CIENCIA EXAMINARA EL PROYECTO DE RESOLUCION JUNTO CON LA DOCUMENTACION UNIDA AL EXPEDIENTE, DEBIENDO ENTENDERSE QUE SI EN EL PLAZO DE TRES MESES NO FORMULARA OBJECION ALGUNA, ESTE PODRA SER APROBADO.
-
-EN ESTOS SUPUESTOS, EL PLAZO DE TRES MESES ESTABLECIDO EN EL NUMERO 3 DEL ARTICULO ANTERIOR QUEDARA EN SUSPENSO DESDE EL MOMENTO EN QUE LA DIRECCION PROVINCIAL REMITA EL EXPEDIENTE A LOS SERVICIOS CENTRALES, Y POR UN TIEMPO MAXIMO DE TRES MESES.
-
-DISPOSICION ADICIONAL
-
-LO DISPUESTO EN EL PRESENTE REAL DECRETO NO SERA DE APLICACION EN LAS COMUNIDADES AUTONOMAS QUE SE HALLEN EN EL PLENO USO DE SUS COMPETENCIAS EDUCATIVAS.
-
-DISPOSICION DEROGATORIA QUEDAN DEROGADAS TODAS LAS NORMAS DE IGUAL O INFERIOR RANGO QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE REAL DECRETO.
-
-DISPOSICION FINAL
-
-SE AUTORIZA AL MINISTRO DE EDUCACION Y CIENCIA PARA QUE DICTE LAS DISPOSICIONES NECESARIAS PARA EL DESARROLLO DEL PRESENTE REAL DECRETO.
-
-DADO EN MADRID A 10 DE ABRIL DE 1987.
-
-JUAN CARLOS R.
-
-EL MINISTRO DE EDUCACION Y CIENCIA,
-
-JOSE MARIA MARAVALL HERRERO
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Fundamentado en**: [**BOE-A-1987-13494**](./RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md)
-- **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- **Fundamento de**: [**BOE-A-1987-13494**](./RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md)
-
-### Fundamentos de Derecho
-- [**D81_2010 Reglamento Organico de Centros (ROC)**](../../autonómica/canarias/04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
-- [**LO2_2006 Ley Organica de Educacion**](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-- [**BOE-A-1987-13494**](./RD605_1987_desarrollo_real_decreto_regula_procedimiento_autorizacion.md)
+que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de 
+gestión de esta Consejería.
+A los anteriores hechos son de aplicación los siguientes
+FUNDAMENTOS DE DERECHO
+Primero.- El artículo 12 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que 
+establece las competencias de la Dirección General de Personal, en relación con su artículo 
+17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 
+propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del 
+Departamento.
+Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Público que dispone que los órganos de las diferentes Administraciones públicas podrán 
+delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma 
+Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos 
+Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas.
+En su virtud,
+R E S U E L V O:
+Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para 
+el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones 
+de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros 
+educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección 
+y coordinación de esta Dirección General de Personal que dictará cuantas normas e 
+instrucciones considere necesarias.
+Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de 
+la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la 
+misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por 
+esta Dirección General de Personal.
+Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su 
+publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, 
+Fidel Benigno Trujillo Santana.

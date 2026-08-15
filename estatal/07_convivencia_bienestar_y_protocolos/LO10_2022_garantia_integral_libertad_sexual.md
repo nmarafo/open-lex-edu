@@ -64,6 +64,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 ---
 
+## Preámbulo
+
+# Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual.
+
 ## PREÁMBULO
 
 **I**

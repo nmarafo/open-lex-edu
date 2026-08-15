@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Bachillerato en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+
 Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022, y su Extracto.
 
 ###
@@ -76,7 +80,6 @@ Empleo público
 BOJA Histórico >
 2023
 Boletín 104
-1. Disposiciones generales
 
 ##
 

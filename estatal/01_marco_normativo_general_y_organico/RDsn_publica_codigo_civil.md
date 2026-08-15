@@ -29,6 +29,10 @@ fundamentos_derecho:
   - '2.1'
 ---
 
+## Preámbulo
+
+# Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
+
 # Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
 
 Teniendo presente lo dispuesto en la ley de 26 de Mayo último; conformándome con lo propuesto por el Ministro de Gracia y Justicia, y de acuerdo con el parecer de mi Consejo de Ministros;

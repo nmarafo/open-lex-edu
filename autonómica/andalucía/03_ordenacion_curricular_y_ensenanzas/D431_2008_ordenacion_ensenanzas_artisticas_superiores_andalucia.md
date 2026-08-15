@@ -36,36 +36,100 @@ relaciones:
 
 # Decreto 431/2008, de 29 de julio, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en Andalucía.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Andalucía, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+ots
+o
+g
+a
+ e
+d
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+ ,alliv
+e
+S
 
-DISPONGO:
+ .
+m
+ú
+n 
+A
+J
+O
+B
 
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 431/2008.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 431/2008.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 431/2008.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 431/2008.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+ .
+m
+ú
+n a
+nig
+á
+P
+D
+U
+L
+A
+S E
+D
+ AÍ
+R
+E
+J
+E
+S
+N
+O
+C 
+CORRECCIÓN de errores del Decreto 232/2002, 
+de 17 de septiembre, por el que se regulan los órganos 
+de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002).
+Advertidos errores en el Decreto 232/2002, de 17 de 
+septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos en Andalucía, publicado en el Boletín Oficial de la Junta de Andalucía número 
+122, de 19 de octubre de 2002, se procede a su corrección en 
+los siguientes términos:
+En la página 20.341, artículo 3.2.
+Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de 
+la Consejería de Salud, …».
+Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de 
+Servicio de la Consejería de Salud…».
+Sevilla, 23 de junio de 2008 
+N
+Ó
+I
+C
+A
+C
+U
+D
+E E
+D
+ AÍ
+R
+E
+J
+E
+S
+N
+O
+C 
+ORDEN de 15 de julio de 2008, por la que se convocan los Premios Extraordinarios en las enseñanzas 
+de Artes Plásticas y Diseño correspondientes al curso 
+académico 2007/2008.
+Mediante Orden de 15 de octubre de 2007 se regulan los 
+Premios Extraordinarios en las enseñanzas de Artes Plásticas 
+y Diseño, y se establece su convocatoria para el año 2008.
+En su artículo 1.2 dispone que la convocatoria de dichos 
+Premios Extraordinarios se efectuará, preferentemente con 
+periodicidad anual, mediante Orden de la Consejería de Educación.
+En su virtud, a propuesta de la Dirección General de Ordenación y Evaluación Educativa, y de acuerdo con las facultades 
+que me confiere el artículo 1.2 de la Orden de 15 de octubre 
+de 2007, por la que se regulan los Premios Extraordinarios en 
+las enseñanzas de Artes Plásticas y Diseño y se establece su 
+convocatoria para el año 2008,
+D I S P O N G O
+Único. Convocatoria.
+Se convocan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño, para el curso 2007/2008, de 
+acuerdo con la regulación establecida en la Orden de 15 de 
+octubre de 2007, por la que se regulan los Premios Extraordinarios en las enseñanzas de Artes Plásticas y Diseño y se 
+establece su convocatoria para el año 2008.
+Sevilla, 15 de julio de 2008
+TERESA JIMÉNEZ VÍLCHEZ
+Consejera de Educación

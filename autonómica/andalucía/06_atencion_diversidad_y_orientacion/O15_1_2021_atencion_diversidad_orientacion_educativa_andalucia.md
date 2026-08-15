@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-lo-1-1996
 ---
 
+## Preámbulo
+
+# Orden de 15 de enero de 2021, por la que se desarrolla el currículo de la Educación Especial y se regulan la atención a la diversidad y la orientación educativa en la Comunidad Autónoma de Andalucía.
+
 Corrección de errores de la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan (BOJA extraordinario núm. 6, de 16.1.2021).
 
 <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
@@ -82,7 +86,6 @@ Empleo público
 BOJA Histórico >
 2021
 Boletín 13
-1. Disposiciones generales
 
 ##
 
@@ -521,8 +524,6 @@ title="Descargar PDF de la disposición"> Descargar PDF
 Disposición siguiente
 
 BOJA nº 13 de 21/01/2021
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

@@ -36,11 +36,12 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
+## Preámbulo
+
 # Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía
 
-Número 90 - Lunes, 15 de mayo de 2023
+# Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía
 
-1. Disposiciones generales
 CONSEJERÍA DE DESARROLLO EDUCATIVO
 Y FORMACIÓN PROFESIONAL
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el
@@ -89,7 +90,6 @@ necesario regular en un nuevo decreto la ordenación y el currículo de la etapa
 Educación Infantil, de acuerdo con el referido marco y el [Real Decreto 95/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD95_2022_establece_ordenacion_ensenanzas_minimas_educacion_infantil.md), de 1 de
 febrero, por el que se establece la ordenación y las enseñanzas mínimas de la Educación
 Infantil.
-Número 90 - Lunes, 15 de mayo de 2023
 
 En este decreto se definen, en consecuencia, las líneas fundamentales del currículo
 de la etapa de Educación Infantil en Andalucía, estableciendo la ordenación general,
@@ -144,7 +144,6 @@ La [Ley 17/2007](../01_marco_normativo_general_y_organico/L17_2007_educacion_and
 la Unión Europea inciden en la necesidad de la adquisición de las competencias clave
 por parte de la ciudadanía como condición indispensable para lograr que las personas
 puedan alcanzar su pleno desarrollo personal, social y profesional. El aprendizaje basado
-Número 90 - Lunes, 15 de mayo de 2023
 
 en competencias incluye, además del «saber», el «saber hacer» y el «saber ser y estar».
 Se trata de formar una ciudadanía competente a través de una educación que tenga en
@@ -194,7 +193,6 @@ alumnado en todas sus dimensiones: física, emocional, afectiva, social, sensori
 comunicativa, cognitiva y artística, potenciando la autonomía personal y la creación
 progresiva de una imagen positiva y equilibrada de sí mismo, así como a la educación en
 valores cívicos para la convivencia democrática.
-Número 90 - Lunes, 15 de mayo de 2023
 
 ## Artículo 3. Definiciones.
 1. A efectos de los elementos que articulan el currículo y teniendo en cuenta lo
@@ -248,7 +246,6 @@ e) Equidad e inclusión educativa. La programación, la gestión y el desarrollo
 etapa atenderán a la compensación de los efectos que las desigualdades de origen
 cultural, social y económico tienen en el aprendizaje y en la evolución infantil, así como a
 la detección precoz y atención temprana de necesidades específicas de apoyo educativo.
-Número 90 - Lunes, 15 de mayo de 2023
 
 Con este mismo objetivo, las medidas organizativas, metodológicas y curriculares que se
 adopten se regirán por los principios del Diseño Universal para el Aprendizaje (DUA).
@@ -298,7 +295,6 @@ llevarse a cabo en un ambiente de afecto y confianza para potenciar su autoestim
 integración social y el establecimiento de un apego seguro. Así mismo, se velará por
 garantizar, desde el primer contacto, una transición positiva desde el entorno familiar al
 escolar, así como la continuidad entre ciclos y entre etapas.
-Número 90 - Lunes, 15 de mayo de 2023
 
 c) En los dos ciclos de esta etapa, se atenderá progresivamente al desarrollo
 afectivo, a la gestión emocional, al movimiento y los hábitos de control corporal, a
@@ -351,7 +347,6 @@ ayuden a establecer relaciones entre todos los elementos que las conforman.
 del alumnado en cada uno de los ciclos. La necesaria vinculación entre los saberes
 básicos y la vida de los mismos se garantizará dotando de intencionalidad educativa a
 todo lo que acontece en la vida cotidiana del centro.
-Número 90 - Lunes, 15 de mayo de 2023
 
 5. Asimismo, en función de la regulación que establezca por Orden la Consejería
 competente en materia de educación, se podrá incorporar a su oferta educativa la lengua
@@ -402,7 +397,6 @@ aprendizaje.
 desarrollo evolutivo del alumnado tras la impartición de las enseñanzas de Educación
 Infantil. A estos efectos, se tomarán como referencia los criterios de evaluación
 establecidos para cada ciclo en cada una de las áreas, que constituirán el referente para
-Número 90 - Lunes, 15 de mayo de 2023
 
 la comprobación del grado de adquisición de las competencias clave y el logro de los
 objetivos de la etapa.
@@ -451,7 +445,6 @@ autenticidad, integridad y conservación, así como el cumplimiento de las garan
 materia de protección de datos de carácter personal, todo ello teniendo en cuenta lo
 dispuesto en el Decreto 622/2019, de 27 de diciembre, de administración electrónica,
 simplificación de procedimientos y racionalización organizativa de la Junta de Andalucía.
-Número 90 - Lunes, 15 de mayo de 2023
 
 ### CAPÍTULO IV
 Atención a la diversidad y a las diferencias individuales
@@ -504,7 +497,6 @@ facilitadoras para la individualización de la enseñanza, garantizando la acces
 universal y el diseño para todos, así como la coordinación de todos los miembros del
 equipo docente que atiendan al alumnado y, en su caso, de los equipos de orientación
 educativa.
-Número 90 - Lunes, 15 de mayo de 2023
 
 e) La equidad y excelencia como garantes de la calidad educativa e igualdad de
 oportunidades, ya que esta solo se consigue en la medida en que todo el alumnado
@@ -555,7 +547,6 @@ i) Facilitar la participación y colaboración en las actividades del centro edu
 los padres, madres o personas que ejerzan la tutela legal del alumnado.
 j) Atender y cuidar al alumnado a su cargo en los períodos de permanencia fuera del
 aula, así como en las entradas y salidas del centro.
-Número 90 - Lunes, 15 de mayo de 2023
 
 2. En el segundo ciclo de la etapa, en los centros docentes públicos, la tutoría será
 ejercida por un maestro o maestra que realizará las funciones reguladas en el apartado
@@ -604,7 +595,6 @@ ordenación y las enseñanzas correspondientes a la Educación Infantil en Andal
 opongan a lo dispuesto en este Decreto.
 ## Disposición transitoria única. Calendario de aplicación.
 El presente decreto será de aplicación a partir del curso escolar 2023/2024.
-Número 90 - Lunes, 15 de mayo de 2023
 
 ## Disposición final primera. Conformidad con la normativa estatal.
 1. El contenido de los artículos 2, 4.a, 4.b, 5, 6.a, 6.b, 6.c, 6.e, 6.f, 8.1, 9.1, 9.2,
@@ -650,7 +640,6 @@ competencias son las siguientes:
 - Competencia ciudadana.
 - Competencia emprendedora.
 - Competencia en conciencia y expresión culturales.
-Número 90 - Lunes, 15 de mayo de 2023
 
 No existe jerarquía entre las distintas competencias, ya que se consideran todas
 igualmente importantes. Tampoco se establecen entre ellas límites diferenciados, sino que
@@ -706,7 +695,6 @@ procesos evolutivos que configuran sus posibilidades de experimentar, desarrolla
 aprender. Del mismo modo, dar respuesta a esas necesidades, intereses e inquietudes,
 en función de su madurez y del momento vital en el que se encuentran, permite
 proporcionarles las herramientas que les ayuden a desenvolverse con mayor autonomía
-Número 90 - Lunes, 15 de mayo de 2023
 
 y a afrontar con responsabilidad los retos que puedan presentarse a corto y largo plazo.
 Para ello, se tendrán en cuenta las necesidades y oportunidades individuales de cada
@@ -769,7 +757,6 @@ conocidas, y participa en interacciones comunicativas
 con actitud curiosa, cooperativa y respetuosa tanto
 para intercambiar información como para construir
 vínculos personales.
-Número 90 - Lunes, 15 de mayo de 2023
 
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA
@@ -870,7 +857,6 @@ Los niños y niñas se inician en las destrezas lógico-matemáticas y dan los p
 pasos hacia el pensamiento científico a través del juego, la manipulación y la realización
 de experimentos sencillos. El proceso de enseñanza y aprendizaje en la etapa de
 Educación Infantil se plantea en un contexto sugerente y divertido en el que se estimula,
-Número 90 - Lunes, 15 de mayo de 2023
 
 desde un enfoque coeducativo, la curiosidad por entender aquello que configura su
 realidad, sobre todo lo que está al alcance de su percepción y experiencia, respetando
@@ -974,7 +960,6 @@ CD2. Se inicia en la creación de pequeñas tareas
 sencillas, usando diferentes herramientas digitales
 sencillas e intuitivas que le permitan expresar
 sentimientos, ideas, vivencias o emociones.
-Número 90 - Lunes, 15 de mayo de 2023
 
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA
@@ -1072,7 +1057,6 @@ actividades y mejorar su aprendizaje, confiando en
 sus propias posibilidades y en las de los demás,
 valorando el trabajo realizado y aceptando las
 correcciones.
-Número 90 - Lunes, 15 de mayo de 2023
 
 AL COMPLETAR EL PRIMER CICLO DE LA ETAPA
 DE EDUCACIÓN INFANTIL, EL ALUMNO O LA
@@ -1164,7 +1148,6 @@ la disposición a indagar y a crear mediante el juego, las actividades dirigidas
 los proyectos cooperativos y otras propuestas de aprendizaje, lo cual supone una
 oportunidad para potenciar la autonomía y materializar las ideas personales o colectivas.
 De esta manera, se asientan las bases tanto del pensamiento estratégico y creativo,
-Número 90 - Lunes, 15 de mayo de 2023
 
 como de la resolución de problemas, y se fomenta el análisis crítico y constructivo desde
 las primeras edades.

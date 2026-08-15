@@ -87,6 +87,10 @@ fundamentos_derecho:
 - norma_id: norm-es-rdl-2-2015
 ---
 
+## Preámbulo
+
+# Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
 ## PREÁMBULO
 
 **I**

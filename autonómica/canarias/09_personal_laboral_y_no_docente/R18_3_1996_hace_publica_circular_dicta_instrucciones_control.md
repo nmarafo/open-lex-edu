@@ -47,71 +47,73 @@ fundamentos_derecho:
 
 # Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares de la Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
 
-BOC - 1996/057. Viernes 10 de Mayo de 1996 - 679
-Gobierno de Canarias
-Comunidad Autónoma de Canarias
-Boletín Oficial de Canarias
-Archivo
-Búsqueda
-Estás en:
-Archivo
-Año 1996
-1996/057. Viernes 10 de Mayo de 1996
-Anterior
-Siguiente
-III. OTRAS RESOLUCIONES - Consejería de Educación, Cultura y Deportes
-679 - RESOLUCIÓN de 18 de marzo de 1996, de la Secretaría General Técnica, por la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares dependientes de la Consejería de Educación, Cultura y Deportes.
+III. Otras Resoluciones
+Consejería de Educación, Universidades, Cultura y Deportes
+Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que 
+se delega en las Direcciones Territoriales de Educación determinada competencia 
+relativa a cargos directivos de los centros públicos docentes del ámbito de gestión 
+de este Departamento.
+Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de 
+los centros docentes públicos no universitarios, se precisa delegar en las Direcciones 
+Territoriales de Educación la competencia de esta Dirección General en relación con las 
+Jefaturas de Estudio adjuntas en los centros educativos en los que se determine.
+ANTECEDENTES DE HECHO
+Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento 
+Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la 
+Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, 
+dirigir, controlar y coordinar la gestión del personal docente no universitario de la 
+Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia 
+para la concesión de comisiones de servicio y la declaración de adscripciones provisionales 
+al personal docente no universitario en centros públicos, extendiéndose tal atribución a los 
+cargos directivos.
+Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las 
+normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, 
+por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente 
+no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la 
+Dirección General de Personal, la competencia administrativa para conceder comisiones de 
+servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el 
+desempeño de cargos directivos en centros docentes.
+Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley 
+Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros 
+públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura 
+de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
+Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones 
+Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como 
+para la concesión, cese y revocación de las comisiones de servicios para el desempeño del 
+cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución 
+de 15 de junio de 2012.
+Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace 
+necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia 
+Página 
 
-El elevado número de Centros docentes, dependientes de la Consejería de Educación, Cultura y Deportes, a quienes se dirige la Circular 1/1996, y el interés que supone la difusión de su contenido en todos los Centros públicos, hacen necesaria su publicación.
-Por ello, en virtud de las facultades contenidas en el artículo 15.6 del [Decreto 212/1991](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md), de 11 de septiembre, de Organización de los Departamentos de la Administración Autonómica de Canarias,
+que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de 
+gestión de esta Consejería.
+A los anteriores hechos son de aplicación los siguientes
+FUNDAMENTOS DE DERECHO
+Primero.- El artículo 12 del Decreto 135/2016, de 10 de octubre, por el que se aprueba el 
+Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que 
+establece las competencias de la Dirección General de Personal, en relación con su artículo 
+17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el 
+propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del 
+Departamento.
+Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector 
+Público que dispone que los órganos de las diferentes Administraciones públicas podrán 
+delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma 
+Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos 
+Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas.
+En su virtud,
 R E S U E L V O:
-Hacer pública la Circular 1/1996 de esta Secretaría General Técnica, por la que se dictan instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares, que se contiene en el anexo.
-Santa Cruz de Tenerife, a 18 de marzo de 1996.- La Secretaria General Técnica, María Teresa Larrea Díez.
-A N E X O
-Circular nº 1/1996, de la Secretaría General Técnica de la Consejería de Educación, Cultura y Deportes, por la que se dictan instrucciones sobre control de horarios y absentismo del personal no docente de Centros escolares dependientes de la Consejería de Educación, Cultura y Deportes.
-Con el fin de generalizar la organización y funcionamiento de los Centros escolares de Infantil/Preescolar, Primaria/E.G.B., EE.MM./Secundaria y Centros de Régimen Especial, se vienen dictando resoluciones y circulares que contienen instrucciones referidas al régimen del personal docente y alumnos.
-La conveniencia de unificar las medidas de control sobre el personal no docente en relación al horario y al absentismo laboral hace necesario dictar las siguientes instrucciones:
-1. HORARIO DEL PERSONAL NO DOCENTE.
-1.1. La jornada semanal del personal no docente será la establecida en el Decreto 284/1989, de la Consejería de la Presidencia, de 19 de diciembre, por el que se fija el horario de trabajo del personal de la Comunidad Autónoma de Canarias (B.O.C. de 1 de enero de 1990):
-o Jornada normal: de lunes a viernes, de 7 horas y 45 minutos a 15 horas y 15 minutos (745-1515).
-o Jornada especial: de lunes a viernes de 7
-horas y 45 minutos a 15 horas y 15 minutos, y la tarde del lunes desde las 17 horas a las 1930 horas.
-1.2. No obstante, de conformidad con lo dispuesto en el Decreto 120/1990, de la Consejería de la Presidencia, de 29 de junio, por
-el que se modifica el Decreto 284/1989, de 19 de diciembre (B.O.C. de 1 de enero de 1990), podrá establecerse una jornada de verano, a cuyo fin se efectuará una reducción de un hora diaria.
-1.3. Por la Dirección General de la Función Pública podrá excepcionarse del cumplimiento del horario de 17 horas a 19 horas y 30 minutos de los lunes, a aquellos funcionarios que justificadamente opten por realizar la jornada especial en sábados alternos de 9 horas a 14 horas.
-1.4. Igualmente por la Dirección General de la Función Pública se determinará, a instancia del Departamento interesado, qué servicios o unidades administrativas exigen una dedicación diferente por necesidades del servicio, no pudiendo en cualquier caso superarse las 37,5 horas semanales de trabajo para la jornada normal y las 40 horas para la jornada especial, siendo los Directores de los Centros educativos, de acuerdo con las necesidades del servicio, los que realicen las propuestas correspondientes.
-2. CONTROL DE PUNTUALIDAD Y ASISTENCIA DEL PERSONAL NO DOCENTE.
-2.1. La puntualidad y asistencia al trabajo del personal funcionario y laboral que presta sus servicios en Centros educativos dependientes de la Consejería de Educación, Cultura y Deportes, serán controladas por la Secretaría del Centro mediante el procedimiento que la Dirección del mismo estime más adecuada, dejando siempre constancia documental de la asistencia de dicho personal. El registro de las incidencias se hará de tal forma que permita su archivo, sin que sea posible modificar lo que en él se consigne.
-2.2. El personal funcionario y laboral firmará diariamente, al comienzo y finalización de su jornada laboral, el parte que al efecto deberán confeccionar las Secretarías de los Centros. Aquellos que dispongan de material informático u otros medios para el control de la llegada y salida del mencionado personal, utilizarán los mismos.
-2.3. La totalidad de las incidencias que se produzcan serán recogidas en el parte diario y mensual de asistencia y absentismo que figura como anexo I para el personal funcionario y anexo II para el personal laboral. Una copia del mismo será expuesta en el tablón de anuncios del Centro en los cinco primeros días de cada mes, durante los cuales, cualquier persona no conforme podrá formular la reclamación oportuna. Una vez introducidas las modificaciones a que hubiere lugar, dicho documento junto con las reclamaciones presentadas será enviado a la Inspección Educativa y a las Direcciones Territoriales de Educación de Santa Cruz de Tenerife y de Las Palmas (Negociado de Personal Funcionario y Laboral, respectivamente) antes del día 15 del mes siguiente.
-2.4. Las ausencias del personal funcionario y laboral deberán ser siempre justificadas por escrito y de acuerdo con los supuestos establecidos en el Capítulo IV, Sección 6ª, artículos 47, 48 y 49 de la [Ley 2/1987](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md), de 30 de marzo, de la Función Pública Canaria (B.O.C. de 3 de abril), y en los artículos 20 y 21 del III Convenio Único del Personal Laboral al Servicio de la Administración de la Comunidad Autónoma de Canarias de 28 de enero de 1992, modificado por Acuerdo de 26 de mayo de 1994 (B.O.C. de 8 de julio). Los permisos serán concedidos por la Dirección del Centro y las licencias y autrorizaciones se solicitarán a través de la misma, que las remitirá a la Dirección Territorial de Educación correspondiente, dentro de las 24 horas siguientes para su concesión o no, por la autoridad competente. Éstas habrán de ser solicitadas (exceptuando las licencias por enfermedad) con antelación de diez días como mínimo, salvo casos imprevistos debidamente justificados, siendo necesaria la remisión a la Dirección Territorial de Educación de un Certificado de Incorporación al Centro una vez finalizado el periodo de licencia.
-2.5. En los casos en que un deber inexcusable surja de forma inesperada y el permiso no pueda solicitarse previamente, la persona afectada lo pondrá en conocimiento de la Dirección a la mayor urgencia posible, comunicando por escrito, tan pronto como se reincorpore al centro, el tiempo empleado y la causa que ha motivado su ausencia. La Dirección estimará el fundamento y oportunidad de las razones alegadas para la justificación de las faltas.
-2.6. Por lo que respecta a las ausencias y faltas de puntualidad en las que la persona alegue causas de enfermedad o incapacidad transitoria para el servicio, ésta lo pondrá en conocimiento de la Dirección con la mayor urgencia posible, justificándolas mediante la presentación de los oportunos partes de baja. La Dirección podrá solicitar de la Inspección Médica Territorial tanto la comprobación de la causa determinante de la baja como de la duración estimada de la misma.
-2.7. La presentación del parte de baja por enfermedad será obligatoria, en todo caso, desde el cuarto día de enfermedad referida al primer y sucesivos días de ausencia, y cada siete días (Seguridad Social) o cada quince días naturales (Muface) de duración de la misma. Dicho parte se ajustará a los modelos oficiales de la Seguridad Social y Muface, según corresponda.
-2.8. Para los supuestos de maternidad será necesaria la presentación de la solicitud de licencia con el correspondiente justificante.
-2.9. En el caso de que la consulta médica no dé lugar a la expedición del parte de baja por enfermedad, la persona afectada solicitará comprobante de asistencia a la consulta, a fin de justificar el retraso o la ausencia habida.
-2.10. Las faltas de asistencia o puntualidad, cuando constituyan faltas leves, se sancionarán con apercibimiento y entrañarán una deducción proporcional de las retribuciones, acorde con el artº. 36 de la Ley 31/1991, de Presupuestos Generales del Estado para 1992 (B.O.E. de 31 de diciembre, que modifica parcialmente la [Ley 30/1984](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto).
-2.11. A estos efectos, si en el plazo de tres días de haberse cometido una falta de asistencia y/o puntualidad no constase en el Registro de Entrada del Centro justificación escrita de la misma o, en caso de haberse presentado, no la estimase suficiente la Dirección del Centro, ésta requerirá a la persona interesada dentro de los cinco días siguientes, para que la justifique debidamente en el plazo de tres días, iniciándose con este trámite de audiencia, en su caso, el correspondiente procedimiento sancionador. Tal requerimiento deberá constar en el Registro de Salida del Centro.
-2.12. Los Directores de los Centros enviarán a la Inspección Educativa y a las respectivas Direcciones Territoriales de Educación de Santa Cruz de Tenerife y de Las Palmas (Sección de Personal no Docente) en el plazo máximo de diez días naturales, contados a partir del siguiente a aquel en que se cometió la falta no justificada, copia de las justificaciones no estimadas y de los requerimientos efectuados. Esta notificación es independiente de la contenida en el parte mensual de faltas. En todo caso, los originales tanto de las justificaciones estimadas como de las no estimadas, y de los requerimientos efectuados, deberán archivarse y estar en todo momento a disposición de la Inspección Educativa y de la Secretaría General Técnica.
-2.13. Las Direcciones Territoriales de Santa Cruz de Tenerife y de Las Palmas a través de las Secciones correspondientes, llevarán un control exhaustivo procediendo a la grabación informática inmediata de los partes de Incidencias mensuales remitidos por los diferentes Centros Educativos.
-2.14. Las Direcciones Territoriales de Santa Cruz de Tenerife y de Las Palmas enviarán a la Secretaría General Técnica (Servicio de Régimen Interior) antes del día 10 del mes siguiente un informe mensual y general de incidencias indicando las asistencias del personal funcionario y laboral en los Centros educativos dependientes de la Consejería, así como los días de falta a su puesto de trabajo.
-Ver anexos - páginas 3860-3863
-
----
-
-## Relaciones Normativas y Fundamentos de Derecho
-
-### Relaciones Directas
-- **Fundamentado en**: [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
-- **Fundamentado en**: [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
-- **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
-- **Fundamentado en**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-- **Desarrolla**: [**RDL2_2015 Texto Refundido del Estatuto de los Trabajadores (ET)**](../../../estatal/09_personal_laboral_y_no_docente/RDL2_2015_aprueba_texto_refundido_ley_estatuto_trabajadores.md)
-- **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
-
-### Fundamentos de Derecho
-- [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- [**L2_1987 Ley de la Funcion Publica Canaria**](../01_marco_normativo_general_y_organico/L2_1987_funcion_publica_canaria.md)
-- [**BOE-A-1984-17387**](../../../estatal/01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md)
-- [**Decreto BOC 212/1991**](../01_marco_normativo_general_y_organico/D212_1991_organizacion_departamentos_administracion_autonomica_canarias.md)
+Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para 
+el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones 
+de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros 
+educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección 
+y coordinación de esta Dirección General de Personal que dictará cuantas normas e 
+instrucciones considere necesarias.
+Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de 
+la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la 
+misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por 
+esta Dirección General de Personal.
+Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su 
+publicación en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, 
+Fidel Benigno Trujillo Santana.

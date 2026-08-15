@@ -88,6 +88,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-12201
 ---
 
+## Preámbulo
+
+# Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+
 ## PREÁMBULO
 
 **I**

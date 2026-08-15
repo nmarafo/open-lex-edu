@@ -34,6 +34,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1985-5392
 ---
 
+## Preámbulo
+
+# Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
+
 # Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
 
 **JUAN CARLOS I**

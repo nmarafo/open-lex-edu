@@ -113,7 +113,6 @@ de 24), principalmente en lo que respecta a los órganos colegiados y unipersona
 atribuciones competenciales, al ejercicio de sus funciones, y a la constitución y elección de los mismos.
 2º) Dictar las Instrucciones que se especifican en
 los epígrafes que componen el siguiente:
-SUMARIO
 1.- PROGRAMACIÓN GENERAL ANUAL DEL CENTRO.
 1.1. Contenido
 1.1.1. Criterios de planificación

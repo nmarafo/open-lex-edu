@@ -53,6 +53,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2010-4518
 ---
 
+## Preámbulo
+
+# Ley 2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de género, expresión de género y características sexuales.
+
 ## PREÁMBULO
 
 **I**

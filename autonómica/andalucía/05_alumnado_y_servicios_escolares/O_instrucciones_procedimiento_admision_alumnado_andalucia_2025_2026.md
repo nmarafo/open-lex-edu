@@ -34,6 +34,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden por la que se desarrollan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados para el curso escolar 2025-2026.
+
 Home - Escolarización 2026/2027 - Educación
 
 ## Navegación

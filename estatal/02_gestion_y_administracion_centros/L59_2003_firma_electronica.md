@@ -32,6 +32,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1999-23750
 ---
 
+## Preámbulo
+
+# Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
 # Ley 59/2003, de 19 de diciembre, de firma electrónica.
 
 **JUAN CARLOS I**

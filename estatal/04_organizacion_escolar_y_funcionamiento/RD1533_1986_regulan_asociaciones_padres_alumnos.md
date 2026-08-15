@@ -45,6 +45,10 @@ fundamentos_derecho:
   - '27'
 ---
 
+## Preámbulo
+
+# Real Decreto 1533/1986, de 11 de julio, por el que se regulan las asociaciones de padres de alumnos.
+
 # Real Decreto 1533/1986 por el que se regulan las asociaciones de padres de alumnos
 
 El artículo 5.º de la [Ley Orgánica 8/1985](../02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación, garantiza la libertad de asociación de padres de alumnos remitiendo a un reglamento posterior la regulación de las características específicas de dichas asociaciones. Por ello, el presente Real Decreto viene a dar cumplimiento a dicha previsión legal, dictándose de acuerdo con la autorización que al Gobierno le concede la disposición final primera de la citada Ley Orgánica.

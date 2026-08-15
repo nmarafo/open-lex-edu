@@ -98,6 +98,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
+## Preámbulo
+
+# Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
+
 ## PREÁMBULO
 
 **I**

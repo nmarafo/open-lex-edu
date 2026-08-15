@@ -60,6 +60,10 @@ fundamentos_derecho:
 - norma_id: norm-es-1984-17387
 ---
 
+## Preámbulo
+
+# Ley 2/1987, de 30 de marzo, de la Función Pública Canaria.
+
 # Ley 2/1987 de la Función Pública Canaria
 
 **EL PRESIDENTE DEL GOBIERNO DE CANARIAS**

@@ -146,7 +146,6 @@ Primero.- Aprobar el procedimiento y los indicadores para la evaluación de las 
 de la Comunidad Autónoma de Canarias, de acuerdo con lo previsto en los anexos de la presente Resolución para su aplicación por los distintos operadores que intervengan en el proceso de evaluación
 de la función directiva docente.
 Segundo.- Publicar la presente Resolución en el
-Boletín Oficial de Canarias.
 Disposición transitoria única.- Los directores y directoras que hubieran finalizado en 2010 el período
 de mandato 2007-2010 para el que fueron nombrados por nombramiento ordinario en virtud de la selección en el procedimiento convocado al efecto y que
 no estaban incluidos en el ámbito de aplicación de

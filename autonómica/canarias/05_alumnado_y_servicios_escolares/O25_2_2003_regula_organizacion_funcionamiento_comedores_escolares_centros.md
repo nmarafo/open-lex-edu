@@ -57,36 +57,91 @@ motor_ocr: rapidocr_onnxruntime
 
 # Orden de 25 de febrero de 2003, por la que se regula la organización y funcionamiento de los comedores escolares en los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+Gobierno de Canarias
+Comunidad Autónoma de
+Canarias
+•  Accesibilidad
+•  Mapa web
+•  Contacto
+•  Versión texto
+•  Inicio
+•  Archivo
+•  Búsqueda
+Estás en:
+•  Inicio
+•  Archivo
+•  Año 2003
+•  2003/046. Viernes 7 de Marzo de 2003
+•  390
+<p>Menú de búsqueda y navegación</p>
+•  Anterior
+•  Siguiente
+BOC Nº 046. Viernes 7 de Marzo de 2003 -
+II. AUTORIDADES Y PERSONAL - Oposiciones y concursos - Consejería de
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+Presidencia e Innovación Tecnológica
+390 - Dirección General de la Función Pública.-
+Resolución de 12 de febrero de 2003, por la que se
+aprueba la lista de aspirantes admitidos y excluidos a
+las pruebas selectivas para ingreso en el Cuerpo
+Superior Facultativo, Escala de Letrados (Grupo A), de
+la Administración de la Comunidad Autónoma de
+Canarias, convocadas por Orden de la Consejería de
+Presidencia e Innovación Tecnológica de 13 de
+noviembre de 2002 (B.O.C. nº 152, de 15.11.02), y se
+determinan el lugar, fecha y hora de comienzo del
+primer ejercicio de la oposición.
+[image] Descargar en formato pdf
+Terminado el plazo de presentación de solicitudes para tomar parte
+en las pruebas selectivas para ingreso en el Cuerpo Superior
+Facultativo, Escala de Letrados (Grupo A) de la Administración de
+la Comunidad Autónoma de Canarias, convocadas por Orden de la
+Consejería de Presidencia e Innovación Tecnológica de 13 de
+noviembre de 2002 (B.O.C. nº 152, de 15.11.02), procede aprobar y
+hacer pública la lista de aspirantes admitidos y excluidos y
+determinar el lugar, fecha y hora del comienzo del primer ejercicio
+de la oposición, de acuerdo con lo previsto en la base quinta de la
+convocatoria.
+En su virtud, esta Dirección General,
+R E S U E L V E:
+Primero.- Aprobar la lista de aspirantes admitidos y excluidos a las
+pruebas selectivas para ingreso en el Cuerpo Superior Facultativo,
+Escala de Letrados (Grupo A), de la Administración de la
+Comunidad Autónoma de Canarias convocadas por Orden de la
+Consejería de Presidencia e Innovación Tecnológica de 13 de
+noviembre de 2002, que figura en el anexo a la presente
+Resolución.
 
-DISPONGO:
+Segundo.- Declarar abierto el plazo para la subsanación de defectos
+durante los diez días hábiles siguientes al de la publicación de la
+presente Resolución en el Boletín Oficial de Canarias, de acuerdo a
+lo dispuesto en el artículo 71 de la Ley 30/1992, de 26 de
+noviembre, de Régimen Jurídico de las Administraciones Públicas y
+del Procedimiento Administrativo Común.
+Tercero.- El primer ejercicio de la oposición se celebrará en el lugar,
+fecha y hora que a continuación se señalan, debiendo los
+interesados comparecer provistos del Documento Nacional de
+Identidad, media hora antes del inicio del citado ejercicio.
+LUGAR: aulas del Instituto Canario de Administración Pública, calle
+José de Zárate y Penichet, Centro Residencial Anaga, Edificio Arco
+Iris, planta baja.
+FECHA: 22 de marzo de 2003.
+HORA: 10,00.
+Contra la presente Resolución cabe interponer recurso contenciosoadministrativo ante la Sala de lo Contencioso-Administrativo del
+Tribunal Superior de Justicia de Canarias en Santa Cruz de Tenerife,
+en el plazo de dos meses contados a partir del día siguiente al de su
+publicación en el Boletín Oficial de Canarias. Asimismo, a criterio
+de los interesados, podrán interponer en vía administrativa el
+recurso potestativo de reposición ante esta Dirección General, en el
+plazo de un mes a contar desde el día siguiente a la publicación de
+esta Resolución, en los términos previstos en los artículos 116 y 117
+de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las
+Administraciones Públicas y del Procedimiento Administrativo
+Común.
+Santa Cruz de Tenerife, a 12 de febrero de 2003.- La Directora
+General de la Función Pública, Cristina de León Marrero.
+Ver anexos - páginas 3560-3561
+© Gobierno de Canarias
 
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Orden 25/02/2003.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Orden 25/02/2003.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Orden 25/02/2003.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Orden 25/02/2003.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+•  Aviso Legal
+•  Sugerencias y Reclamaciones

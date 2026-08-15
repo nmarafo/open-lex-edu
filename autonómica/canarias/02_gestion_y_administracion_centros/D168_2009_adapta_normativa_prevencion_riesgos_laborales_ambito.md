@@ -59,36 +59,88 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.p
 
 # Decreto 168/2009, de 29 de diciembre, por el que se adapta la normativa sobre prevención de riesgos laborales al ámbito de la Administración Pública de la Comunidad Autónoma de Canarias y sus Organismos Autónomos.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+Gobierno de Canarias
+Comunidad Autónoma de
+Canarias
+•  Accesibilidad
+•  Mapa web
+•  Contacto
+•  Versión texto
+•  Inicio
+•  Archivo
+•  Búsqueda
+Estás en:
+•  Inicio
+•  Archivo
+•  Año 2009
+•  2009/007. Martes 13 de Enero de 2009
+•  73
+<p>Menú de búsqueda y navegación</p>
+•  Anterior
+•  Siguiente
+BOC Nº 007. Martes 13 de Enero de 2009 -
+IV. ANUNCIOS - Otros anuncios - Consejería de Medio Ambiente y
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+Ordenación Territorial
+73 - Agencia de Protección del Medio Urbano y
+Natural.- Anuncio por el que se hace pública la
+Resolución de 29 de diciembre de 2008, del Director
+Ejecutivo, sobre notificación a D. Tomás Inglés Saura,
+de la Resolución que declara la prescripción de la
+presunta infracción y se inicia procedimiento
+administrativo de reposición de las cosas a su estado
+anterior en el expediente RP 1926/08.
+[image] Descargar en formato pdf
+No habiéndose podido practicar la notificación a D. Tomás Inglés
+Saura de la Resolución por la que se declara la prescripción de la
+presunta infracción y se inicia procedimiento administrativo de
+reposición de las cosas a su estado anterior, de fecha 19 de
+diciembre de 2008, en los términos del apartado primero del
 
-DISPONGO:
+#### artículo 59 de la Ley 30/1992, de 26 de noviembre, de Régimen
 
-### Capítulo I. Disposiciones Generales
+Jurídico de las Administraciones Públicas y del Procedimiento
+Administrativo Común; a continuación se transcribe y para que
+sirva de notificación, extracto de la citada Resolución, de
+conformidad con el apartado quinto del citado artículo,
+R E S U E L V O:
+Primero.- Notificar a D. Tomás Inglés Saura, la Resolución nº 3806
+por la que se declara la prescripción de la presunta infracción y se
+inicia procedimiento administrativo de reposición de las cosas a su
+estado anterior, de la Agencia de Protección del Medio Urbano y
+Natural, 3806, de fecha 19 de diciembre de 2008, recaída en el
+expediente instruido en esta Agencia de Protección del Medio
+Urbano y Natural por infracción de la legalidad urbanística con
+referencia RP 1926/08-M y cuya parte dispositiva dice
+textualmente:
+Primero.- Declarar la prescripción de la presunta infracción
+cometida.
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Decreto 168/2009.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
-
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Decreto 168/2009.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Decreto 168/2009.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Decreto 168/2009.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Segundo.- Iniciar el procedimiento administrativo en orden a
+reponer las cosas a su estado anterior a D. Tomás Inglés Saura por
+el vertido de restos de neumáticos, escombros y chatarras, en el
+lugar denominado cruce de la carretera del Puertito de Güímar, en
+el término municipal de Güímar, mediante la retirada de dichos
+residuos, aportando los correspondientes justificantes de entrega a
+gestor autorizado y demás medidas necesarias para la restauración
+de la zona afectada.
+Tercero.- Notificar la presente Resolución a D. Tomás Inglés Saura a
+través del Boletín Oficial de Canarias y al Ayuntamiento de Güímar.
+Lo que comunico para su conocimiento, significándole que dispone
+de un plazo de audiencia de quince (15) días para aportar cuantas
+alegaciones, documentos o informaciones estime convenientes en
+esta Agencia (sita en la Rambla General Franco, 149, Edificio
+Mónaco, semisótano), y, en su caso, proponer prueba concretando
+los medios de que pretenda valerse según establece el artículo 84 de
+la Ley 30/1992, de Régimen Jurídico de las Administraciones
+Públicas y del Procedimiento Administrativo Común, modificada
+por la Ley 4/1999 a cuyos efectos tendrá de manifiesto el
+expediente administrativo en esta Agencia".
+Segundo.- Remitir la presente Resolución al Servicio de
+Publicaciones del Gobierno de Canarias, para su publicación en el
+su inserción en el tablón de edictos.
+Santa Cruz de Tenerife, a 29 de diciembre de 2008.- El Director
+Ejecutivo, Pedro Pacheco González.
+© Gobierno de Canarias
+•  Aviso Legal
+•  Sugerencias y Reclamaciones

@@ -158,7 +158,6 @@ en el anexo I de la presente Resolución, para el desarrollo de la Orden de la C
 Universidades, Cultura y Deportes de 13 de diciembre de 2010, por la que se regula la atención al alumnado con necesidades específicas de apoyo educativo en la Comunidad Autónoma de Canarias y además
 aprobar el anexo II y anexo III de esta Resolución.
 Segundo.- Publicar la presente Resolución en el
-Boletín Oficial de Canarias, en cuanto resulta conveniente por razón de dar publicidad a dichas instrucciones para conocimiento de todas las personas integrantes de la comunidad educativa.
 Contra el presente acto, que pone fin a la vía administrativa, cabe interponer recurso potestativo de
 reposición ante la Consejera de Educación, Universidades, Cultura y Deportes, en el plazo de un mes a
 contar desde el día siguiente al de su publicación, o

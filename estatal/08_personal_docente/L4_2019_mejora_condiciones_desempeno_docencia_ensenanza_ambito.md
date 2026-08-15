@@ -51,6 +51,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2012-5337
 ---
 
+## Preámbulo
+
+# Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
+
 # Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria.
 
 **FELIPE VI**

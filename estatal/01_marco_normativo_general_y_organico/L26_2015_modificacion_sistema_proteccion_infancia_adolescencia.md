@@ -61,6 +61,10 @@ fundamentos_derecho:
 - norma_id: norm-es-lo-1-2004
 ---
 
+## Preámbulo
+
+# Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+
 # Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
 
 **FELIPE VI**

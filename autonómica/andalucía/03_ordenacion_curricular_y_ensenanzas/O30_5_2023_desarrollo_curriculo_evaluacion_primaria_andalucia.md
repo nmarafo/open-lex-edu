@@ -35,6 +35,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado.
+
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
 
 ###
@@ -76,7 +80,6 @@ Empleo público
 BOJA Histórico >
 2023
 Boletín 104
-1. Disposiciones generales
 
 ##
 

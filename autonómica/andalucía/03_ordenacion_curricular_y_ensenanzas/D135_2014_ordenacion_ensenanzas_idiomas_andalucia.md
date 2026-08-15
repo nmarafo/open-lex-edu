@@ -33,6 +33,10 @@ relaciones:
   - norma_id: norm-es-l-39-2015
 ---
 
+## Preámbulo
+
+# Decreto 135/2014, de 7 de octubre, por el que se establece la ordenación de las Enseñanzas de Idiomas en Andalucía.
+
 Orden de 30 de septiembre de 2014, por la que se amplía el plazo para resolver la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014.
 
 <link rel="alternate" type="application/atom+xml" title="Boletín completo - BOJA"
@@ -80,7 +84,6 @@ Empleo público
 BOJA Histórico >
 2014
 Boletín 201
-1. Disposiciones generales
 
 ##
 
@@ -137,8 +140,6 @@ title="Descargar PDF de la disposición"> Descargar PDF
 Disposición siguiente
 
 BOJA nº 201 de 15/10/2014
-
-1. Disposiciones generales
 
 2.1. Nombramientos, situaciones e incidencias
 

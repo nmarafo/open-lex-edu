@@ -38,6 +38,10 @@ relaciones:
   - norma_id: norm-and-l17-2007
 ---
 
+## Preámbulo
+
+# Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
+
 # Decreto 19/2007, de 23 de enero, por el que se adoptan medidas para la promoción de la cultura de paz y la mejora de la convivencia en los centros educativos
 
 Sevilla, 2 de febrero 2007

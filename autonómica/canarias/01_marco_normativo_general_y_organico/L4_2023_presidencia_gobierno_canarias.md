@@ -60,36 +60,117 @@ anexos_extraidos_pdf: true
 
 # Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias.
 
-En desarrollo del marco normativo aplicable en la jurisdicción de Canarias, y con la finalidad de adecuar la ordenación pedagógica, la organización y la gestión administrativa de los centros y servicios contemplados en su título, se dicta la presente disposición.
+Ir a contenido principal
+Gobierno de Canarias - Página
+principal del Gobierno de
+Canarias
+[image]
+•  TEMAS
+•  EL GOBIERNO
+•  NOTICIAS
+•  SEDE
 
-En su virtud, de conformidad con lo establecido en la legislación vigente, a propuesta del órgano competente y previa deliberación,
+Escuchar
+Usted tiene javascript desactivado por lo que algunos elementos de
+la página puede que no funcionen correctamente.
+[image]
+Alerta por Incendios Forestales
+[image] Ley de Presupuestos 2026
+[image] Sistema Interno de Información
+[image] Fondos Europeos
+[image] Canarias 2030
+[image] Transparencia
+[image] Ver más destacados
+•  Inicio
+SERVICIOS
+[image]
 
-DISPONGO:
+[image]
+INFORMACIÓN Y ATENCIÓN CIUDADANA
+[image]
+PROCEDIMIENTOS Y SERVICIOS
+[image]
+AYUDAS Y SUBVENCIONES
+[image]
+CONTRATACIÓN PÚBLICA
+[image]
+EMPLEO PÚBLICO
+ver + servicios
+[image]
+acceder
+TEMA
+[image]
+BIENESTAR SOCIAL
+[image]
+TURISMO
+[image]
+EMPLEO
 
-### Capítulo I. Disposiciones Generales
+[image]
+INDUSTRIA
+[image]
+ENERGIA
+[image]
+AGRICULTURA
+[image]
+SANIDAD
+[image]
+EDUCACION
+ver + temas
+Noticias
+•  [image]
+ver + noticias
+Convocatorias y Eventos
+•  
+Agenda cultural
+Acceda a la Agenda Cultural del Instituto Canario de
+Desarrollo Cultural. Pulse aquí  para ir a la noticia
+•  
+Programas de incentivos ligados al autoconsumo y al
+almacenamiento, con fuentes de energía renovable, así como a la
+implantación de sistemas térmicos renovables en el sector residencial
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer las reglas de ordenación, funcionamiento e intervención para el ámbito regulado en el Ley 4/2023.
-2. Sus preceptos son de aplicación directa en todos los centros docentes no universitarios y servicios educativos de la Comunidad Autónoma.
+Subvenciones para el despliegue e integración de las energías
+renovables así como el almacenamiento con fuentes de
+energía renovable.
+El Gobierno
+•  Presidencia de Gobierno
+•  Organigrama
+•  Consejerías
+•  Empresas Públicas
+Identidad Gráfica
+•  Redes sociales
+•  App eGobcan
+•  Manual identidad gráfica
+Ayuda
+•  Contacto
+•  Política de Cookies
+•  Política de Privacidad
+•  Accesibilidad
+•  Mapa Web
+•  Sugerencias y reclamaciones
+[image]
+[image]
+[image]
+Fondo Europeo de Desarrollo Regional
+© Gobierno de Canarias, todos los derechos reservados
+Aviso legal
+INFORMACIÓN IMPORTANTE
 
-#### Artículo 2. Principios rectores
-La aplicación e interpretación de la presente disposición se guiará por los principios de legalidad, inclusión educativa, equidad, transparencia y calidad del servicio público educativo.
-
-### Capítulo II. Estructura y Funcionamiento
-
-#### Artículo 3. Directrices organizativas
-Los órganos directivos de los centros docentes y los servicios de la Inspección Educativa velarán por la estricta aplicación de lo establecido en el articulado de este Ley 4/2023.
-
-#### Artículo 4. Supervisión y seguimiento
-La Consejería competente en materia de educación realizará el seguimiento y evaluación continuada de los programas y medidas contemplados en esta norma.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Adaptación organizativa
-Los centros docentes y unidades administrativas adaptarán sus reglamentos internos y proyectos educativos a las prescripciones contenidas en el Ley 4/2023.
-
-#### Disposición Final Primera. Habilitación de desarrollo
-Se faculta al órgano titular de la Consejería de Educación para dictar las normas e instrucciones que requiera la ejecución del presente Ley 4/2023.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+SOBRE COOKIES
+Este portal web utiliza cookies propias y de terceros para recopilar
+información que ayuda a optimizar su visita.
+Las cookies no se utilizan para recoger información de carácter
+personal.
+Usted puede permitir su uso o rechazarlo, también puede cambiar
+su configuración siempre que lo desee.
+Dispone de más información en nuestra Política de Cookies.
+Aceptar Cookies
+Aviso legal Configuración de Cookie
+☒ Cookies técnicas
+Son imprescindibles y estrictamente necesarias para el correcto
+funcionamiento de la Web y la utilización de las diferentes opciones
+y servicios que ofrece.
+☒ Cookies analíticas
+Permiten el seguimiento y análisis del comportamiento del usuario
+durante la navegación

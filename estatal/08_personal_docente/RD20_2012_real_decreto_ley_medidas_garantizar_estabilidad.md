@@ -43,6 +43,10 @@ fundamentos_derecho:
 - norma_id: norm-es-2012-8745
 ---
 
+## Preámbulo
+
+# Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
 La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, aprobada con un amplio consenso entre las fuerzas políticas, supuso un avance en el bienestar de las personas y ha contado con la colaboración de todas las administraciones públicas en su desarrollo.
 
 El Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia, en sesión celebrada el día 12 de abril de 2012, aprobó el avance de la evaluación de la ley transcurridos los cinco primeros años de aplicación de la misma, adoptando el acuerdo de acometer las mejoras en el Sistema para la Autonomía y Atención a la Dependencia que fueran necesarias para asegurar su sostenibilidad. Asimismo, en la reunión mantenida el 10 de julio de 2012 aprobó la evaluación de resultados prevista en la Disposición final primera de la ley y las propuestas de mejora necesarias para asegurar la sostenibilidad presente y futura del Sistema, adoptando unos criterios comunes mínimos para todo el ámbito nacional en el desarrollo de dicha ley.
