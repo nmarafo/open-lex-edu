@@ -39,41 +39,32 @@ fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2018/04/16/BOCM-20
 
 # Orden 1149/2018, de 4 de abril, de la Consejería de Educación e Investigación, por la que se regula la organización y el funcionamiento de los centros públicos de Educación Especial en la Comunidad de Madrid
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
-
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
-
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 1149/2018.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 1149/2018.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+LUNES 16 DE ABRIL DE 2018
+B.O.C.M. Núm. 90
+Pág. 11
+BOCM-20180416-1
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Presidencia, Justicia
+y Portavocía del Gobierno
+1
+CORRECCIÓN de errores de la Orden 881/2018, de 21 marzo (BOLETÍN OFICIAL
+DE LA COMUNIDAD DE MADRID de 3 de abril de 2018), del Consejero de Presidencia, Justicia y Portavocía de Gobierno, por la que se aprobaba convocatoria
+pública para la provisión de puestos de trabajo vacantes en la Consejería de
+Presidencia, Justicia y Portavocía del Gobierno, por el procedimiento de Concurso de Méritos.
+Se ha advertido error material en el anexo que se publicó con la Orden 881/2018, de
+21 marzo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de abril de 2018), del
+Consejero de Presidencia, Justicia y Portavocía de Gobierno, por la que se aprobaba convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería,
+por el procedimiento de Concurso de Méritos.
+Se procede por tanto a su corrección, al amparo de lo establecido en el artículo 109 de
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el siguiente sentido:
+En el Anexo que se acompaña a la referida Orden en el puesto de trabajo número
+51291, denominado “Subsección Gestión Administrativa”, en el apartado Puesto/Denominación, donde dice “Turno/Jornada: Tarde”, debe decir “Turno/Jornada: Mañana”.
+Por lo que se procede a su corrección, estableciéndose un nuevo plazo de presentación
+de solicitudes de quince días hábiles a partir del día siguiente a la publicación de la presente Orden en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, destinado exclusivamente a solicitar el puesto de trabajo objeto de esta corrección de errores, así como a la rectificación de aquellas solicitudes que pudieran contener el puesto referido.
+(03/12.356/18)

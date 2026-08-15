@@ -39,41 +39,314 @@ relaciones:
 
 # Decreto 35/2019, de 9 de abril, del Consejo de Gobierno, por el que se aprueba el Reglamento Orgánico de los Centros de Educación de Personas Adultas de la Comunidad de Madrid.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
+Consejería de Cultura, Turismo y Deportes
+1
+DECRETO 29/2019, de 9 de abril, del Consejo de Gobierno, por el que se modifica el Decreto 79/2014, de 10 de julio, por el que se regulan los Apartamentos
+Turísticos y las Viviendas de Uso Turístico de la Comunidad de Madrid.
+De conformidad con lo dispuesto en el artículo 26.1.21 del Estatuto de Autonomía de
+la Comunidad de Madrid, la Comunidad de Madrid tiene atribuida la competencia exclusiva en materia de promoción y ordenación del turismo en su ámbito territorial.
+El Real Decreto 697/1984, de 25 de enero, sobre traspaso de funciones y servicios del
+Estado a la Comunidad de Madrid en materia de turismo, incluye en su Anexo I, apartado B),
+las funciones y servicios del Estado que asume la Comunidad Autónoma. Entre dichas funciones y servicios figura la ordenación de los establecimientos y empresas turísticas.
+Por su parte, la Ley 1/1999, de 12 de marzo, de Ordenación del Turismo de la Comunidad de Madrid, enumera en su artículo 25 las modalidades de alojamiento turístico ofreciendo la posibilidad de incluir en dicha enumeración la regulación de “cualquier otra que
+reglamentariamente se determine” (letra e).
+En ejercicio de dicha habilitación legal el Decreto 79/2014, de 10 de julio, por el que
+se regulan los Apartamentos Turísticos y las Viviendas de Uso Turístico de la Comunidad
+de Madrid (en adelante Decreto 79/2014), se regularon por primera vez los apartamentos
+turísticos y las viviendas de uso turístico. Transcurridos varios años desde su publicación,
+se han apreciado dificultades en la aplicación de algunos de sus artículos y han recaído pronunciamientos judiciales que afectan a su contenido.
+Mediante Sentencia número 302/2016, de 2 de junio, del Tribunal Superior de Justicia
+de Madrid se anuló la prohibición de que las viviendas de uso turístico pudieran contratarse por un período inferior a 5 días según disponía el artículo 17.3 del Decreto 79/2014.
+Mediante Sentencia número 1741/2018, de 10 de diciembre, del Tribunal Supremo,
+Sala del Contencioso-Administrativo Sección Tercera, se declaró la nulidad del artículo 17.5
+del Decreto 79/2014 en virtud del cual se establecía que una vez presentada la declaración
+responsable de inicio de actividad se efectuaría la inscripción en el Registro de Empresas Turísticas, cuyo número de referencia debía constar en toda forma de publicidad.
+Se ha tenido en cuenta la conveniencia de ajustar la normativa vigente a estos y otros
+recientes pronunciamientos judiciales recaídos en el territorio nacional sobre esta materia,
+por lo que se acomete la presente reforma que afecta fundamentalmente a la regulación de
+las viviendas de uso turístico buscando promover la prestación de un servicio turístico de calidad y favorecer un entorno competitivo.
+En este sentido, se ha considerado lo que se desprende de la normativa europea para
+su plena traslación a la regulación de este ámbito sectorial. Y es que, con arreglo a las libertades fundamentales del Tratado de Funcionamiento de la Unión Europea (arts. 49 y 56)
+y a la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre
+de 2006 relativa a los servicios en el mercado interior (en adelante Directiva 2006/123/CE),
+artículos 9 y 16, los prestadores de servicios no deben estar sujetos a requisitos de acceso
+al mercado o de otro tipo tales como regímenes de autorizaciones y requisitos para la concesión de licencias. Por esta razón, es la propia Directiva 2006/123/CE la que exige que las
+autoridades nacionales revisen la legislación nacional existente para garantizar que los requisitos de acceso al mercado sigan estando justificados por un objetivo legítimo, sean necesarios y proporcionados.
+Además, se ha tenido en cuenta el contenido de la Resolución del Parlamento Europeo,
+de 15 de junio de 2017, sobre una Agenda Europea para la economía colaborativa
+(2017/2003(INI)). Especialmente por cuanto insta a los Estados miembros a que proporcionen seguridad jurídica y a que no consideren la economía colaborativa como una amenaza
+para la economía tradicional; subrayando la importancia de regular la economía colaborativa de forma que contribuya “a facilitar y promover en vez de a restringir”. Esta resolución
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+BOCM
+reconoce también que la economía colaborativa brinda importantes oportunidades a los ciudadanos y a los consumidores al beneficiarse de más oferta y de precios más bajos; crea
+nuevas e interesantes oportunidades empresariales, crecimiento y empleo; incrementa la
+eficiencia del sistema económico y lo hace más sostenible en los planos social y ambiental,
+permitiendo una mejor asignación de los recursos y activos que, en caso contrario, se infrautilizarían.
+Como novedad destacable cabe citar, en primer lugar, la instauración del Certificado
+de idoneidad para las viviendas de uso turístico (en adelante CIVUT); un documento técnico cuya finalidad es garantizar al usuario de la vivienda donde va a alojarse que cumple
+unos concretos requisitos, razonables y proporcionados, que han sido determinados en atención al uso turístico ofertado. Es importante remarcar que la voluntad que se persigue con
+esta regulación es ajena a los condicionantes urbanísticos con los que suele vincularse y
+condicionarse esta actividad. Así, este decreto de modificación enfoca las viviendas desde
+una perspectiva turística, no urbanística, sin perjuicio de que los municipios establezcan, si
+así lo consideran, ulteriores controles en el ámbito de sus respectivas competencias.
+De dicho certificado cabe destacar también que constituye un documento técnico que,
+como tal, debe ser emitido por arquitecto o arquitecto técnico competente y que no precisa
+de visado colegial al haber desaparecido su carácter obligatorio, según se dispone en el artículo 2 del Real Decreto 1000/2010, de 5 de agosto, sobre visado colegial obligatorio. Y en
+cuanto a su contenido, debe acreditar el cumplimiento de los requisitos enumerados en el
+nuevo artículo 17 bis que son los que habilitan a una “vivienda” para que pueda destinarse a
+uso turístico.
+Desaparece el plazo mínimo de tres meses que se exigía para el ejercicio de la actividad turística. Tienen la consideración de viviendas de uso turístico aquellos pisos, estudios,
+apartamentos o casas que, de forma habitual, amueblados y equipados en condiciones de
+uso inmediato, son comercializados y promocionados en canales de oferta turística o por
+cualquier otro modo de comercialización o promoción, para ser cedidos en su totalidad con
+fines de alojamiento turístico y a cambio de un precio.
+Con la finalidad de mejorar la calidad turística y la seguridad ciudadana, los propietarios de los alojamientos turísticos quedan sujetos ahora al cumplimiento de una serie de requisitos. Entre ellos destaca sin duda la obligación para los propietarios de los establecimientos turísticos (en cualquiera de sus dos modalidades) o para sus representantes de
+remitir a las correspondientes comisarías de Policía o puestos de la Guardia Civil la información relativa a la identidad de las personas que se alojan en ellos, de acuerdo a la normativa en materia de protección ciudadana. Con ello, se pretende introducir algún mecanismo
+que permita controlar la identidad del flujo de personas que se acogen a esta modalidad de
+alojamiento turístico.
+En cuanto al resto de requisitos, de forma resumida, se incorporan la obligación de tener contratado un seguro de responsabilidad civil; poseer hojas oficiales de reclamación a
+disposición de los usuarios; disponer de calefacción y suministro de agua fría y caliente;
+respetar el ratio de capacidad de personas que puedan alojarse en función de las dimensiones de la vivienda turística; disponer de información de los teléfonos y direcciones de los
+servicios de emergencia y sanitarios en al menos dos idiomas; disponer de al menos una
+ventilación directa al exterior o a patio no cubierto; disponer de un extintor manual, a no
+más de 15 metros de la puerta de salida de la vivienda; disponer de señalización básica de
+emergencia indicando la puerta de salida; disponer de un plano de evacuación del edificio
+y de la vivienda en un lugar visible y proporcionar información acerca de la accesibilidad
+de la vivienda de uso turístico.
+Por primera vez, se hace una remisión expresa a la Ley 1/1999, en relación con los derechos y deberes de los usuarios de los alojamientos turísticos y, en este marco, se aborda
+una de las debilidades más conocidas de esta práctica turística: el uso desordenado por parte de los usuarios.
+Se establece así la obligación relativa al cumplimiento de las reglas básicas de convivencia y cívicas con referencia también a las consecuencias de su incumplimiento. Es de
+destacar aquí la obligación que ahora se impone a los propietarios o representantes de esta
+actividad de facilitar información sobre tales normas cívicas, pues con ello se pretende
+ahondar en la concienciación de los usuarios hacia un ejercicio responsable de esta forma
+de alojamiento turístico.
 
-DISPONGO:
+BOCM
+Por su parte, se introduce también por primera vez, una referencia a la Ley 49/1960,
+de 21 de julio, sobre propiedad horizontal, que contempla la posibilidad de limitar o condicionar la implantación de viviendas de uso turístico en las comunidades de propietarios.
+Este decreto ha sido sometido al procedimiento previsto en la Directiva (UE) 2015/1535
+del Parlamento Europeo y del Consejo, de 9 de septiembre, por la que se establece un procedimiento de información en materia de reglamentaciones técnicas y de reglas relativas a
+los servicios de la sociedad de la información, así como a lo dispuesto en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de
+normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad
+de la información.
+Así mismo, el presente decreto se ha elaborado de conformidad con los principios de
+buena regulación recogidos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia.
+En efecto, la norma propuesta se adecúa a los principios de necesidad y eficacia, ya
+que se funda en la protección del interés general de todos los ciudadanos y usuarios implicados, así como de los diferentes agentes que intervienen en la gestión y desarrollo del turismo en la Comunidad de Madrid, a la vez que es el instrumento más adecuado para garantizar su consecución, pues la aprobación del mismo permite su aplicación efectiva a
+partir de su entrada en vigor.
+De la misma forma, la normativa proyectada se adecúa al principio de proporcionalidad, de tal forma que contiene la regulación imprescindible para atender a la necesidad a
+cubrir, no existiendo otras medidas menos restrictivas de derechos o que impongan menos
+obligaciones a los destinatarios. Por otro lado, el rango de esta disposición responde a la importancia de la materia que regula, adaptando la normativa a la realidad actual de las viviendas de uso turístico dentro del ámbito del sector turístico.
+Resulta necesario adecuar la normativa en vigor a la realidad actual de la materia cuya
+modificación se propone, por lo que se hace imprescindible la publicación de la norma frente a la alternativa de incurrir en un vacío legal y una inseguridad jurídica injustificada.
+En consecuencia, el presente decreto se convierte en el instrumento que garantiza la
+seguridad jurídica necesaria para crear un marco normativo coherente con el resto del ordenamiento jurídico y la estabilidad y certidumbre que permita la toma de decisiones ajustadas a derecho por parte de las personas y empresas a los que se destina.
+Finalmente, el principio de transparencia normativa queda suficientemente acreditado,
+ya que a lo largo de su elaboración se han cumplido los trámites de audiencia e información
+pública a través del Portal de Transparencia de la Comunidad de Madrid, conforme a lo dispuesto en la Ley 39/2015, de 1 de octubre, y en la Ley 50/1997, de 27 de noviembre, del
+Gobierno.
+Se ha consultado al Consejo de Consumo y oído a las entidades más representativas
+del sector.
+Se ha tenido en cuenta lo dispuesto en la Ley 20/2013, de 9 de diciembre, de Garantía
+de Unidad de Mercado.
+Se ha tenido en cuenta las consideraciones emitidas en su informe por los Servicios Jurídicos de la Comunidad de Madrid.
+La Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad
+de Madrid, y el Decreto 121/2017, de 3 de octubre, del Consejo de Gobierno, por el que se
+establece la estructura orgánica de la Consejería de Cultura, Turismo y Deportes, determinan la competencia del Consejero de Cultura, Turismo y Deportes para proponer y presentar al Consejo de Gobierno el presente proyecto de decreto.
+En virtud de todo lo anterior, a propuesta del Consejero de Cultura, Turismo y Deportes, y oída la Comisión Jurídica Asesora de la Comunidad de Madrid, el Consejo de Gobierno, previa deliberación en su reunión del día 9 de abril de 2019,
 
-### Capítulo I. Disposiciones Generales
+BOCM
+DISPONE
+Artículo único
+Modificación del Decreto 79/2014, de 10 de julio, por el que se regulan los apartamentos turísticos y las viviendas de uso turístico de la Comunidad de Madrid, que queda modificado como sigue:
+Uno.—Nueva redacción del artículo 2, apartados 1 y 2, y se adicionan dos nuevos
+apartados 3 y 4, que queda redactado en los siguientes términos:
+“Artículo 2
+Definiciones
+1.
+Definición de apartamento turístico: se consideran apartamentos turísticos los inmuebles integrados por unidades de alojamiento complejas, dotadas de instalaciones, equipamientos y servicios en condiciones de ocupación inmediata, destinados de forma habitual
+por sus propietarios o representantes, al alojamiento turístico ocasional, sin carácter de residencia permanente para los usuarios, mediante precio y cumplan con el principio de unidad de explotación.
+2.
+Definición de vivienda de uso turístico: tienen la consideración de viviendas de uso
+turístico aquellos pisos, estudios, apartamentos o casas que, de forma habitual, amueblados
+y equipados en condiciones de uso inmediato, son comercializados y promocionados en canales de oferta turística o por cualquier otro modo de comercialización o promoción, para ser
+cedidos en su totalidad con fines de alojamiento turístico y a cambio de un precio.
+3.
+Ejercicio habitual de la actividad turística: la actividad de alojamiento turístico se
+ejerce de forma habitual desde el momento en que el interesado se publicita por cualquier
+medio y presenta la preceptiva Declaración Responsable de inicio de actividad prevista en
+los artículos 11 y 17.
+4.
+Certificado de idoneidad para vivienda de uso turístico (CIVUT).
+A los efectos de lo dispuesto en este Decreto se entiende por CIVUT el documento
+emitido por técnico competente en el que, tras efectuar una comprobación in situ, se acredita que una vivienda de uso turístico cumple los requisitos establecidos en el artículo 17
+bis de este Decreto. Serán técnicos competentes para la suscripción de dicho CIVUT quienes están en posesión del título de arquitecto o arquitecto técnico”.
+Dos.—Nueva redacción del artículo 3 y se suprime el apartado 3), que queda redactado en los siguientes términos:
+“Artículo 3
+Prestación del servicio de alojamiento
+1.
+Las empresas que presten servicios de alojamiento turístico bajo la modalidad de
+apartamentos turísticos, ejercerán su actividad bajo el principio de unidad de explotación
+empresarial, mediante precio, de forma profesional, y sin carácter de residencia permanente para los usuarios, entendiéndose por tal el sometimiento de la actividad turística de alojamiento a una única titularidad empresarial ejercida en cada establecimiento o conjunto
+unitario de construcciones, edificio o parte homogénea del mismo.
+2.
+La prestación del servicio de alojamiento en viviendas de uso turístico se ejercerá
+bajo el principio de unidad de explotación, mediante precio, de forma profesional y sin carácter de residencia permanente para los usuarios”.
+Tres.—Nueva redacción del contenido, denominación y estructura del artículo 5, que
+queda redactado en los siguientes términos:
+“Artículo 5
+Normativa sectorial. Remisión de documentación, derechos y deberes de los usuarios.
+Protección de seguridad ciudadana
+1.
+Los apartamentos turísticos y las viviendas de uso turístico deberán cumplir las
+normas sectoriales aplicables a la materia, concretamente las normas de seguridad, urbanismo, accesibilidad, sanidad, medio ambiente y propiedad horizontal.
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 35/2019.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+BOCM
+2.
+A los efectos del presente decreto, los propietarios de los establecimientos de ambas modalidades de alojamiento turístico, o sus representantes, deberán remitir a las correspondientes comisarías de Policía o puestos de la Guardia Civil, según el establecimiento en
+cuestión esté ubicado en demarcación de uno u otro cuerpo, la información relativa a la estancia de las personas que se alojan en ellos, de acuerdo con las normas legales de registro
+documental e información que se exigen en la normativa vigente en materia de protección
+de la seguridad ciudadana y demás disposiciones aplicables.
+3.
+Derechos y deberes de los usuarios.
+1.
+Derechos de los usuarios: corresponde a los usuarios de apartamentos turísticos y
+de viviendas de uso turístico los derechos enumerados en el artículo 8 de la
+Ley 1/1999.
+2.
+Deberes de los usuarios:
+a)
+Los usuarios de apartamentos turísticos y de viviendas de uso turístico están sujetos al cumplimiento de los deberes previstos en el artículo 9 de la Ley 1/1999.
+b)
+De igual forma, están obligados al cumplimiento de las reglas básicas de convivencia o cívicas previstas por las ordenanzas municipales y las normas de régimen
+interior que hayan sido aprobadas por las comunidades de propietarios, así como
+cualquier otra que les resulte de aplicación. A tal efecto, los propietarios de los
+apartamentos o viviendas turísticas o sus representantes deberán facilitar a los
+usuarios con carácter previo al alojamiento, un formulario informativo de dichas
+reglas que deberán ser aceptadas expresamente por estos últimos.
+En caso de incumplimiento, el propietario o representante de la actividad requerirá
+por una sola vez al usuario para que cese en su inobservancia o, en caso de gravedad, para que abandone la vivienda. De no ser atendido dicho requerimiento, dará
+debido parte a la Policía o a la autoridad competente”.
+Cuatro.—Nueva redacción del artículo 6, que queda redactado en los siguientes términos:
+“Artículo 6
+Uso turístico
+Los apartamentos turísticos y las viviendas de uso turístico, en cuanto modalidades de
+alojamiento turístico, no podrán utilizarse por los usuarios como residencia permanente, ni
+con cualquier otra finalidad distinta del uso turístico”.
+Cinco.—Modificación del título del artículo 11 y nueva redacción de los apartados 2)
+y 3), que quedan redactados en los siguientes términos:
+“Artículo 11
+Declaración responsable e inscripción en el Registro de Empresas Turísticas
+2.
+Las declaraciones responsables se presentarán en los lugares y formas previstos en
+los artículos 14 y 16 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo
+Común de las Administraciones Públicas (en adelante Ley 39/2015).
+3.
+Una vez presentada la declaración responsable de inicio de actividad, la inscripción
+del apartamento en el Registro de Empresas Turísticas de la Comunidad de Madrid se realizará, en su caso, en la forma y con los efectos determinados en el artículo 23 de la Ley 1/1999”.
+Seis.—Nueva redacción del artículo 17, que queda redactado en los siguientes términos:
+“Artículo 17
+Régimen Jurídico
+1.
+Los propietarios de viviendas de uso turístico o sus representantes están obligados a
+presentar ante la dirección general competente en materia de Turismo una declaración responsable de inicio de la actividad de alojamiento turístico, según modelo incluido en el anexo III,
+acompañada del CIVUT regulado en el apartado 4 del artículo 2 y en el artículo 17 bis de este
+Decreto, sin perjuicio de otras autorizaciones o licencias.
+2.
+Las declaraciones responsables y el CIVUT podrán presentarse en los lugares y
+formas previstos en los artículos 14 y 16 de la Ley 39/2015.
+3.
+Una vez presentada la declaración responsable de inicio de actividad, la inscripción de la vivienda en el Registro de Empresas Turísticas de la Comunidad de Madrid se
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+BOCM
+realizará, en su caso, en la forma y con los efectos determinados en el artículo 23 de la
+Ley 1/1999. La obligación de presentar la declaración responsable será de los propietarios
+o representantes.
+4.
+Cualquier modificación de las condiciones contenidas en la declaración responsable inicial deberá comunicarse a la dirección general competente en materia de Turismo.
+5.
+Cuando se trate de viviendas de uso turístico sometidas al régimen de la
+Ley 49/1960, de 21 de julio, sobre propiedad horizontal, el destino de vivienda al uso turístico podrá limitarse o condicionarse en los términos establecidos en la referida ley.
+6.
+Si el número de viviendas de uso turístico implantadas en un edificio, portal o
+equivalente, unitario, es del 100% perteneciente al mismo propietario le será de aplicación
+la normativa para apartamentos turísticos.
+7.
+No se podrá alegar la condición de domicilio para impedir la acción de la inspección competente”.
+Siete.—Se crea un artículo 17 bis que queda redactado en los siguientes términos:
+“Artículo 17 bis
+Requisitos que acredita el Certificado de idoneidad para vivienda de uso turístico
+(CIVUT)
+El CIVUT acredita el cumplimiento de los siguientes requisitos:
+a)
+Disponer de calefacción y suministro de agua fría y caliente.
+b)
+Disponer al menos de una ventilación directa al exterior o a patio no cubierto.
+c)
+Disponer de un extintor manual, en el interior de la vivienda colocado a no más de
+15 metros de la puerta de salida de la vivienda.
+d)
+Disponer de señalización básica de emergencia indicando la puerta de salida de la
+vivienda.
+e)
+Disponer de un plano de evacuación del edificio y de la vivienda en un lugar visible.
+El CIVUT estará a disposición de los usuarios de las viviendas de uso turístico”.
+Ocho.—Nueva redacción del artículo 18, que queda redactado en los siguientes términos:
+«Artículo 18
+Requisitos mínimos y condiciones
+1.
+Las viviendas de uso turístico estarán compuestas como mínimo, por un salón-comedor, cocina, dormitorio y baño, pudiendo denominarse “estudios” cuando en el salón-comedor-cocina esté integrado el dormitorio y cuente con un máximo de dos plazas.
+2.
+En cada vivienda de uso turístico debe especificarse un número de teléfono de
+atención permanente, para las incidencias o consultas que los usuarios puedan plantear; así
+mismo deberá disponer de un rótulo informativo con los teléfonos y direcciones de los
+servicios de emergencia y sanitarios redactados al menos en español e inglés.
+3.
+Las viviendas de uso turístico se contratarán amuebladas, equipadas y en condiciones de uso inmediato. Además deberán tener a disposición de los usuarios hojas oficiales de reclamación.
+4.
+Los titulares de viviendas de uso turístico deberán respetar las siguientes capacidades máximas de alojamiento:
+a)
+Para viviendas inferiores a 25 m2 útiles, hasta dos personas, en al menos una pieza
+habitable.
+b)
+Para viviendas entre 25 m2 y 40 m2 útiles, hasta cuatro personas, en al menos dos
+piezas habitables.
+c)
+Por cada 10 m2 útiles adicionales en, al menos una pieza habitable más independiente, se permitirán dos personas más.
+5.
+Los propietarios o, en su caso, sus representantes deberán disponer de seguro de
+responsabilidad civil que cubra los riesgos de los usuarios por daños corporales, materiales
+y los perjuicios económicos causados por el ejercicio de su actividad.
+6.
+Los propietarios o representantes proporcionarán a los usuarios turísticos, con carácter previo a la contratación de la vivienda de uso turístico, información relativa a la accesibilidad de la vivienda de uso turístico».
 
-### Capítulo II. Organización, Directrices y Coordinación
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+Nueve.—Nueva redacción del contenido y denominación del artículo 21, que queda
+redactado en los siguientes términos:
+“Artículo 21
+Régimen sancionador
+El régimen sancionador aplicable a los apartamentos turísticos y a las viviendas de uso
+turístico se rige por lo dispuesto en el capítulo II, de la disciplina turística del Título IV del
+Control de la Calidad de la Ley 1/1999”.
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+#### DISPOSICIÓN TRANSITORIA ÚNICA
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+Plazo de adecuación
+Las viviendas de uso turístico dadas de alta con anterioridad a la entrada en vigor de
+este Decreto dispondrán de un plazo de seis meses desde su entrada en vigor para adecuarse a sus disposiciones.
 
-### Capítulo III. Seguimiento y Evaluación
+#### DISPOSICIÓN FINAL
+Entrada en vigor
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 35/2019.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 9 de abril de 2019.
+El Consejero de Cultura, Turismo y Deportes,
+JAIME MIGUEL DE LOS SANTOS GONZÁLEZ
+El Presidente,
+ÁNGEL GARRIDO GARCÍA
+(03/13.783/19)

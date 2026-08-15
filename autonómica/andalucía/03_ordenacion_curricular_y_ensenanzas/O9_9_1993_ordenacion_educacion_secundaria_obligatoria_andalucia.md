@@ -37,41 +37,54 @@ relaciones:
 
 # Orden de 9 de septiembre de 1993, por la que se regula el currículo de la Educación Secundaria Obligatoria.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+Boletín Oficial de la Junta de Andalucía - 
+			   Histórico del BOJA
+                 Boletín número 
+                 112
+                 de 
+                 16/10/1993
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+1. Disposiciones generales
+Consejería de Gobernación
+DECRETO 95/1993, de 20 de julio, por el que se autoriza al Ayuntamiento de Polopos (Granada) el cambio de capitalidad a favor del núcleo de población de La Mamola. 
 
-DISPONGO:
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-### Capítulo I. Disposiciones Generales
+El Ayuntamiento de Polopos (Granada) ha sometido a la Consejería de Gobernación de esta Junta de Andalucía, expediente relativo al cambio de capitalidad del Municipio a favor del núcleo de población de La Mamola, perteneciente a su término municipal. 
+El citado expediente se ha tramitado de conformidad con lo dispuesto en la Ley 7/85, de 2 de abril, Reguladora de las Bases del Régimen Local, Real Decreto Legislativo 781/86, de 18 de abril, y en los artículos 26 y siguientes del Reglamento de Población y Demarcación Territorial de las Entidades Locales, de 11 de julio de 1986, y demás normativa aplicable. Las circunstancias que vienen a justificar el cambio propuesto vienen dadas ante la evolución experimentada en el asentamiento de la población, actualmente residente en su gran mayoría en los anejos costeros, lo que conlleva una mayor actividad social y económica de éstos respecto del actual núcleo capitalino, a la vez que por su situación geográfica gozan de más fácil comunicación, en especial con el núcleo poblacional de La Mamola, próximo a la Carretera Nacional 340 Cádiz-Barcelona, y frecuentado por diversos medios de transportes. Los Decretos 2/79, de 30 de julio, y 14/84, de 18 de enero, asignan a la Consejería de Gobernación las competencias, funciones y servicios en materia de Administración Local asumidas por la Junta de Andalucía a tenor de lo establecido en el artículo 
+13.3 de su Estatuto de Autonomía. 
+En su virtud, y al amparo de lo dispuesto en el artículo 16.8 de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma, a propuesta del Consejero de Gobernación, previa deliberación del Consejo de Gobierno en su reunión del día 20 de julio de 1993, 
+D I S P O N G O: 
+Artículo único. Se autoriza al Ayuntamiento de Polopos (Granada) el cambio de su capitalidad a favor del núcleo de población de La Mamola, perteneciente a ese término municipal. 
+Sevilla, 20 de julio de 1993 
+MANUEL CHAVES GONZALEZ 
+Presidente de la Junta de Andalucía 
+ANGEL MARTIN-LAGOS CONTRERAS 
+Consejero de Gobernación  
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 09/09/1993.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+							Descargar PDF 
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+Disposición siguiente
 
-### Capítulo II. Organización, Directrices y Coordinación
+               BOJA nº
+               112
+               de 
+               16/10/1993
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+1. Disposiciones generales
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+2.1. Nombramientos, situaciones e incidencias
 
-### Capítulo III. Seguimiento y Evaluación
+3. Otras disposiciones
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
+4. Administración de justicia
 
-### Disposiciones Adicionales y Finales
+5.1. Subastas y concursos de obras, suministros y servicios públicos
 
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
+5.2. Otros anuncios
 
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 09/09/1993.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Descargar boletín nº 
+                    112 completo

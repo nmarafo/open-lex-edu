@@ -37,41 +37,813 @@ relaciones:
 
 # Decreto 10/2023, de 1 de febrero, del Consejo de Gobierno, por el que se establece la ordenación de las Enseñanzas Artísticas Superiores en la Comunidad de Madrid.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Vicepresidencia, Consejería de Educación y Universidades
+1
+ORDEN 86/2023, de 31 de enero, del Vicepresidente, Consejero de Educación y
+Universidades, por la que se resuelve la convocatoria aprobada mediante Orden 2822/2022, de 26 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID de 5 de octubre de 2022), de la Vicepresidencia, Consejería de Educación y Universidades, para la provisión de puestos de trabajo por el procedimiento de Concurso de Méritos.
+Por Orden del Vicepresidente, Consejero de Educación y Universidades, 2822/2022,
+de 26 de septiembre (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 5 de octubre
+de 2022), se aprobó convocatoria pública para la provisión de puestos de trabajo vacantes
+en dicha Consejería por el procedimiento de Concurso de Méritos.
+En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
+de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo reservados a Funcionarios de la Comunidad de Madrid (BOLETÍN OFICIAL
+DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989); la Orden 923/1989, de 20 de abril,
+de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir
+en las convocatorias para provisión de puestos por los sistemas de Concurso de Méritos y
+Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la
+Orden 2094/1990, de 31 de agosto, de la Consejería de Hacienda, por la que se regula el sistema general que ha de regir en las diferentes convocatorias que se publiquen para los concursos de provisión de puestos de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID de 7 de septiembre);el Real Decreto 364/1995, de 10 de marzo, por el que se
+aprueba el Reglamento General de Ingreso del Personal al Servicio de la Administración
+General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los
+Funcionarios Civiles de la Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como las demás prescripciones contenidas en las bases de convocatoria correspondientes.
+De acuerdo con la propuesta efectuada por la Junta de Méritos y el informe favorable
+emitido por la Consejería de Economía, Hacienda y Empleo y en virtud de la competencia
+atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la Función Pública de la
+Comunidad de Madrid,
+RESUELVO
+Primero
+Objeto
+Se adjudican los puestos de trabajo convocados a los funcionarios que figuran en el
+Anexo.
+Segundo
+Plazo de toma de posesión
+1.
+El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de
+los tres días siguientes al de la publicación de la presente Resolución.
+El cómputo de los citados plazos posesorios se iniciará cuando finalicen los permisos
+o licencias que, en su caso, hayan sido concedidos a los interesados, salvo que, por causas
+justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos.
+2.
+Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
+aplicable.
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+BOCM
+Tercero
+Recursos
+La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
+los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
+día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
+perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello, de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
+de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Madrid, a 31 de enero de 2023.—El Vicepresidente, Consejero de Educación y Universidades, P. D. (Orden 11634/2012, de 27 de noviembre), la Secretaria General Técnica,
+Mar Pérez Merino.
 
-DISPONGO:
+BOCM
+RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS
+40205
+40807
+40880
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACION SECUNDARIA, FORMACIÓN
+PROFESIONAL Y  RÉGIMEN ESPECIAL
+SUBDIRECCION GENERAL ORDENACIÓN ACADÉMICA DE
+EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y
+ENSEÑANZAS DE RÉGIMEN ESPECIAL
+UNIDAD TECNICA ORDENACIÓN ACADÉMICA
+NEGOCIADO ENSEÑANZAS DE RÉGIMEN ESPECIAL II
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO PLANIFICACIÓN Y ORGANIZACIÓN EDUCATIVA DE
+CENTROS PÚBLICOS
+SUBSECCION PLANIFICACIÓN Y ORGANIZACIÓN EDUCATIVA
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-NORTE
+DIVISIÓN SECRETARÍA GENERAL
+NEGOCIADO ASUNTOS GENERALES Y RÉGIMEN INTERIOR
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+NEG. ENSEÑANZAS REGIMEN ESPECIAL II
+SUBSEC. PLANIFICACION Y ORGANIZACION
+EDUCATIVA
+NEG. ASUNTOS GENERALES Y REGIMEN
+INTERIOR
+Denominación     :
+Denominación     :
+Denominación     :
+18
+22
+18
+C / D
+B / C
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+   8.373,72
+  11.001,84
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+DESIERTO
+DESIERTO
+47483
+*01**9*9*
+CARRIZO ARRONES,MARIA
+MAR
+Cód. identificación:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRIDCAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SUBSECCION TRAMITACIÓN ELECTRÓNICA
+MADRID-CAPITAL
+Puesto de Trabajo:
+SUBSEC. TRAMITACION
+ELECTRONICA MADRIDCAPITAL
+Denominación     :
+22
+Grupo                 :
+N.C.D.                :
+  11.001,84
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+B / C
 
-### Capítulo I. Disposiciones Generales
+BOCM
+40969
+4936
+41140
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-ESTE
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO GESTIÓN DE PERSONAL
+SUBSECCION ADJUNTA A NÓMINAS Y SEGURIDAD SOCIAL
+MADRID-ESTE
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL INFRAESTRUCTURAS Y SERVICIOS
+SUBDIRECCION GENERAL GESTION DE INFRAESTRUCTURAS Y
+SERVICIOS
+AREA ACTUACIONES CONTRACTUALES
+SUBSECCION CONTRATACIÓN ADMINISTRATIVA I
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SUBSECCION REGISTRO E INFORMACIÓN
+NEGOCIADO APOYO ADMINISTRATIVO XXII
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. ADJUNTA A NOMINAS Y SEGURIDAD
+SOCIAL MADRI
+SUBSEC. CONTRATACION ADMINISTRATIVA I
+NEG. APOYO ADMINISTRATIVO XXII
+Denominación     :
+Denominación     :
+Denominación     :
+22
+22
+18
+B / C
+B / C
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+  11.388,96
+  11.001,84
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+DESIERTO
+DESIERTO
+DESIERTO
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 10/2023.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+BOCM
+65662
+40223
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO PERSONAL NO DOCENTE
+NEGOCIADO APOYO ADMINISTRATIVO XXV
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACION SECUNDARIA, FORMACIÓN
+PROFESIONAL Y  RÉGIMEN ESPECIAL
+SUBDIRECCION GENERAL ORDENACIÓN ACADÉMICA DE
+EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y
+ENSEÑANZAS DE RÉGIMEN ESPECIAL
+AREA ORDENACIÓN DE LA FORMACIÓN PROFESIONAL
+NEGOCIADO ORDENACIÓN Y COORDINACIÓN DE FORMACIÓN
+PROFESIONAL
+Puesto de Trabajo:
+Puesto de Trabajo:
+NEG. APOYO ADMINISTRATIVO XXV
+NEG. ORDENACION Y COORDINACION DE
+FORMACION PROFES
+Denominación     :
+Denominación     :
+18
+18
+C / D
+C / D
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+   8.373,72
+   8.373,72
+C. Específico      :
+C. Específico      :
+DESIERTO
+DESIERTO
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+BOCM
+40281
+40898
+40342
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACIÓN INFANTIL, PRIMARIA Y
+ESPECIAL
+SUBDIRECCION GENERAL CENTROS DE EDUCACION INFANTIL,
+PRIMARIA Y ESPECIAL
+UNIDAD TECNICA EDUCACIÓN INFANTIL
+SECCION GESTION ECONOMICA DE CENTROS DE EDUCACION
+INFANTIL
+SUBSECCION CENTROS DE EDUCACIÓN INFANTIL
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-NORTE
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO GESTIÓN ECONÓMICA
+NEGOCIADO GESTIÓN ECONÓMICA
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACIÓN INFANTIL, PRIMARIA Y
+ESPECIAL
+SUBDIRECCION GENERAL ORDENACIÓN ACADÉMICA DE
+EDUCACIÓN INFANTIL Y PRIMARIA
+NEGOCIADO GESTIÓN ECONÓMICO-ADMINISTRATIVA
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. CENTROS DE EDUCACION INFANTIL
+NEG. GESTION ECONOMICA
+NEG. GESTION ECONOMICO-ADMINISTRATIVA
+Denominación     :
+Denominación     :
+Denominación     :
+22
+18
+18
+B / C
+C / D
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+  11.001,84
+   8.373,72
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+47109
+24435
+58780
+***0*924*
+5**344***
+*22*0*0**
+RAMIREZ CADENAS,EVA
+SANCHEZ GONZALEZ,MARIA
+MAR
+NUÑEZ VIDAL,MARIA PILAR
+Cód. identificación:
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+SECRETARIA GENERAL TECNICA
+SUBDIRECCION GENERAL REGIMEN
+ECONOMICO-PRESUPUESTARIO
+AREA GESTIÓN Y CONTROL DEL GASTO
+SERVICIO GESTIÓN ECONÓMICA
+SUBSECCION GESTIÓN ECONÓMICA
+CONSEJERIA CULTURA, TURISMO Y DEPORTE
+VICECONSEJERIA CULTURA Y TURISMO
+DIRECCION GENERAL TURISMO
+SUBDIRECCION GENERAL GESTIÓN ECONÓMICOADMINISTRATIVA
+AREA DE GESTIÓN ECONÓMICA
+SERVICIO GESTION
+NEGOCIADO GESTION ADMINISTRATIVA
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. GESTION
+ECONOMICA
+NEG. GESTION
+ADMINISTRATIVA
+AUXILIAR ADMINISTRATIVO
+Denominación     :
+Denominación     :
+Denominación     :
+22
+18
+14
+Grupo                 :
+Grupo                 :
+Grupo                 :
+N.C.D.                :
+N.C.D.                :
+N.C.D.                :
+  11.001,84
+   8.373,72
+   6.296,52
+C. Específico       : 
+C. Específico       : 
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+B / C
+C / D
+D
 
-### Capítulo II. Organización, Directrices y Coordinación
+BOCM
+40134
+41170
+40879
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+SECRETARIA GENERAL TECNICA
+DIVISIÓN CONTRATACIÓN
+AREA CONTRATACIÓN II
+SERVICIO GESTIÓN CONTRACTUAL III
+SUBSECCION CONTRATACION II
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO CENTROS PÚBLICOS Y SERVICIOS ESCOLARES Y
+COMPLEMENTARIOS
+NEGOCIADO GESTIÓN ECONÓMICA III
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-NORTE
+SERVICIO UNIDAD DE PROGRAMAS EDUCATIVOS
+NEGOCIADO PROGRAMAS EDUCATIVOS
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. CONTRATACION II
+NEG. GESTION ECONOMICA III
+NEG. PROGRAMAS EDUCATIVOS
+Denominación     :
+Denominación     :
+Denominación     :
+22
+18
+18
+B / C
+C / D
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+  11.001,84
+   8.373,72
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+41110
+48367
+*4973****
+**5**966*
+04*7*2***
+MOURISCO
+HERRERO,CRISTINA
+ALONSO ALONSO,MARIA
+CONCEPCION
+BRASERO OCAMPOS,MARÍA
+MERCEDES
+Cód. identificación:
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRIDCAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SUBSECCION APOYO VII
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. APOYO VII
+ADMINISTRATIVO
+Denominación     :
+Denominación     :
+22
+16
+Grupo                 :
+Grupo                 :
+N.C.D.                :
+N.C.D.                :
+  11.001,84
+   7.448,64
+C. Específico       : 
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+B / C
+C
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+BOCM
+40975
+41126
+40843
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-OESTE
+SECRETARÍA GENERAL
+SERVICIO NÓMINAS, GESTIÓN ECONÓMICA Y CONTRATACIÓN
+NEGOCIADO APOYO VI
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+AREA PERSONAL
+SERVICIO GESTION DE PERSONAL DOCENTE SECUNDARIA
+NEGOCIADO APOYO X
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+AREA PERSONAL
+SERVICIO GESTION DE PERSONAL DOCENTE SECUNDARIA
+NEGOCIADO APOYO ADMINISTRATIVO XVII
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+NEG. APOYO VI
+NEG. APOYO X
+NEG. APOYO ADMINISTRATIVO XVII
+Denominación     :
+Denominación     :
+Denominación     :
+18
+18
+18
+C / D
+C / D
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+   8.373,72
+   8.373,72
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+DESIERTO
+DESIERTO
+39914
+*2*9*1*5*
+SANTIDRIAN
+RODRIGUEZ,MARIA ROSARIO
+Cód. identificación:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACIÓN INFANTIL,
+PRIMARIA Y ESPECIAL
+SUBDIRECCION GENERAL CENTROS DE
+EDUCACION INFANTIL, PRIMARIA Y ESPECIAL
+UNIDAD TECNICA EDUCACIÓN INFANTIL
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+#### SECCION DE CENTROS DE EDUCACIÓN INFANTIL
 
-### Capítulo III. Seguimiento y Evaluación
+SUBSECCION ORGANIZACIÓN DE CENTROS DE
+EDUCACIÓN INFANTIL
+Puesto de Trabajo:
+SUBSEC. ORGANIZACION DE
+CENTROS DE EDUCACION
+INFAN
+Denominación     :
+22
+Grupo                 :
+N.C.D.                :
+  11.001,84
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+B / C
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
+BOCM
+40813
+40416
+40395
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO PLANIFICACIÓN Y ORGANIZACIÓN EDUCATIVA DE
+CENTROS PÚBLICOS
+NEGOCIADO APOYO ADMINISTRATIVO XVIII
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+SUBDIRECCION GENERAL GESTIÓN ECONÓMICA Y DE PERSONAL
+NO DOCENTE
+AREA PROGRAMAS Y PRESUPUESTOS
+NEGOCIADO II PROGRAMAS Y PRESUPUESTOS
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+SUBDIRECCION GENERAL GESTIÓN ECONÓMICA Y DE PERSONAL
+NO DOCENTE
+AREA PRESTACIONES Y PERSONAL FUNCIONARIO NO DOCENTE
+SERVICIO PERSONAL FUNCIONARIO NO DOCENTE
+SUBSECCION I DE PERSONAL FUNCIONARIO
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+NEG. APOYO ADMINISTRATIVO XVIII
+NEG. II PROGRAMAS Y PRESUPUESTOS
+SUBSEC. I PERSONAL FUNCIONARIO
+Denominación     :
+Denominación     :
+Denominación     :
+18
+18
+22
+C / D
+C / D
+B / C
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+   8.373,72
+   8.373,72
+  11.001,84
+C. Específico      :
+C. Específico      :
+C. Específico      :
+DESIERTO
+17770
+61153
+**235*3**
+*0**072**
+MARTINEZ
+FERNANDEZ,MONTSERRAT
+ANTON CASTAÑO,RAQUEL
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION GENERAL RECURSOS HUMANOS
+Puesto de Trabajo:
+Puesto de Trabajo:
+ADMINISTRATIVO
+AUXILIAR ADMINISTRATIVO
+Denominación     :
+Denominación     :
+16
+14
+Grupo                 :
+Grupo                 :
+N.C.D.                :
+N.C.D.                :
+   7.448,64
+   6.296,52
+C. Específico       : 
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+C
+D
 
-### Disposiciones Adicionales y Finales
+BOCM
+40890
+40928
+40803
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-NORTE
+DIVISIÓN SECRETARÍA GENERAL
+SUBSECCION PERSONAL DE SECUNDARIA
+NEGOCIADO PERSONAL DE SECUNDARIA I
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-ESTE
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO GESTIÓN DE PERSONAL
+SUBSECCION PERSONAL DE SECUNDARIA
+NEGOCIADO PERSONAL DE SECUNDARIA I
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRID-CAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO PERSONAL NO DOCENTE
+NEGOCIADO PERSONAL NO DOCENTE II
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+NEG. PERSONAL DE SECUNDARIA I
+NEG. PERSONAL DE SECUNDARIA I
+NEG. PESONAL NO DOCENTE II
+Denominación     :
+Denominación     :
+Denominación     :
+18
+18
+18
+C / D
+C / D
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+   8.373,72
+   8.373,72
+   8.373,72
+C. Específico      :
+C. Específico      :
+C. Específico      :
+DESIERTO
+800181
+33978
+05**5**1*
+*8*78*2**
+ALCANTUD HIDALGO,ROSA
+MARIA
+CLAVO VARAS,MARÍA LUZ
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+CONSEJERIA SANIDAD
+VICECONSEJERIA ASISTENCIA SANITARIA Y
+SALUD PÚBLICA
+DIRECCION GENERAL SALUD PÚBLICA
+AREA UNICA DE SALUD PUBLICA
+UNIDAD TECNICA 5 DEL AREA DE SALUD PUBLICA
+ORGANISMO AUTONOMO AGENCIA MADRILEÑA
+DE ATENCIÓN SOCIAL
+RESIDENCIA DE MAYORES CISNEROS
+Puesto de Trabajo:
+Puesto de Trabajo:
+AUXILIAR ADMINISTRATIVO
+AUXILIAR ADMINISTRATIVO
+Denominación     :
+Denominación     :
+14
+14
+Grupo                 :
+Grupo                 :
+N.C.D.                :
+N.C.D.                :
+   6.296,52
+   6.296,52
+C. Específico       : 
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+D
+D
 
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 10/2023.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+40222
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA DE EDUCACIÓN Y
+UNIVERSIDADES
+VICECONSEJERIA POLÍTICA EDUCATIVA
+DIRECCION GENERAL EDUCACION SECUNDARIA, FORMACIÓN
+PROFESIONAL Y  RÉGIMEN ESPECIAL
+SUBDIRECCION GENERAL ORDENACIÓN ACADÉMICA DE
+EDUCACIÓN SECUNDARIA, FORMACIÓN PROFESIONAL Y
+ENSEÑANZAS DE RÉGIMEN ESPECIAL
+AREA ORDENACIÓN DE LA FORMACIÓN PROFESIONAL
+SERVICIO ORDENACIÓN ACADÉMICA DE FORMACIÓN
+PROFESIONAL
+SUBSECCION ORDENACIÓN DE FORMACIÓN PROFESIONAL
+Puesto de Trabajo:
+SUBSEC. ORDENACION DE FORMACION
+PROFESIONAL
+Denominación     :
+22
+B / C
+Grupo                :
+N.C.D.               :
+  11.001,84
+C. Específico      :
+40777
+*085**0**
+GARCIA ALONSO,SUSANA
+Cód. identificación:
+Apellidos y Nombre:
+CONSEJERIA : VICEPRESIDENCIA, CONSEJERÍA
+DE EDUCACIÓN Y UNIVERSIDADES
+VICECONSEJERIA ORGANIZACION EDUCATIVA
+DIRECCION DEL AREA TERRITORIAL DE MADRIDCAPITAL
+DIVISIÓN SECRETARÍA GENERAL
+SERVICIO PERSONAL NO DOCENTE
+Puesto de Trabajo:
+AUXILIAR INFORMADOR
+Denominación     :
+16
+Grupo                 :
+N.C.D.                :
+   7.798,56
+C. Específico       : 
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+C / D
+(03/1.715/23)

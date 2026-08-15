@@ -36,41 +36,46 @@ relaciones:
 
 # Decreto 276/1987, de 11 de noviembre, por el que se regulan los Equipos de Orientación Educativa en Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+DECRETO 256/1987, de 28 de octubre, por el que se desconcentran en los Delegados de Gobernación determinadas competencias en materia de Función Pública. 
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-DISPONGO:
+El artículo 103.1 de la Constitución Española establece que la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. Siguiendo el mandato constitucional, el art. 34 de la Ley 6/1983, de 21 de julio, del Gobierno y la Administración de la Comunidad Autónoma, preceptúa que la Administración de la Comunidad Autónoma sirve, con objetividad, a los intereses generales de Andalucía de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración, coordinación y participación, con sometimiento pleno a la Ley y al derecho. Dentro de los principios señalados, la desconcentración ha de desempeñar en el momento actual un decisivo papel dentro del proceso de modernización y racionalización de la Administración Pública de la Junta de Andalucía siendo en el campo de gestión de personal donde, inevitablemente y con carácter prioritario, han de aplicarse criterios desconcentradores dado el carácter horizontal con el que está concebida y configurada la Función Pública en la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía. 
+El presente Decreto viene, pues, en un primer, pero decisivo paso, a desconcentrar en los Delegados de Gobernación determinadas materias actualmente gestionadas en los Servicios Centrales de la Consejería a fin, no ya sólo de descargar a ésta de una excesiva carga de trabajo que dificulta el cumplimiento de los plazos legales previstos, sino fundamentalmente a fin de dotar a las unidades periféricas de la capacidad competencial y resolutoria que exige la eficacia en el tratamiento y solución de los asuntos públicos. 
+En su virtud, a propuesta de la Consejería de Gobernación, y previa deliberación del Consejo de Gobierno en su reunión del día 28 de octubre de 1987 
+D I S P O N G O: 
+Artículo único: Corresponden a los Delegados de Gobernación, en relación al personal al servicio de la Junta de Andalucía, destinado en los servicios periféricos del ámbito provincial, las siguientes competencias: a) El impulso y coordinación en materia de Función Pública. b) Bajo la superior dirección y coordinación del Jefe de la Inspección General de Servicios, al impulso y vigilancia del cumplimiento de lo dispuesto en el art. 9 del Decreto 77/1987, de 25 de marzo, que aprueba el Reglamento de la Inspección de Servicio de la Junta de Andalucía, respecto de las denuncias o reclamaciones que se formulen en relación con el funcionamiento de los servicios. 
+c) Ordenar las inspecciones extraordinarias a que se refiere el art. 
+19.2 del citado Reglamento. 
+d) La concesión de excedencias voluntarias. e) La Resolución de los destinos provisionales a que se refiere el art. 
+27.1 de la Ley 6/1985, de 28 de noviembre. f) La autorización previa para la contratación de personal laboral temporal y sus prórrogas así como para el nombramiento de funcionarios interinos, de acuerdo con los sistemas de selección que para este personal se establezcan por la Consejería de Gobernación. g) La supervisión y control de la finalización de los contratos laborales de carácter temporal. 
+h) El control de las inscripciones y anotaciones en el Registro General de Personal respecto de los actos y diligencias inscribibles o anotables conforme a lo dispuesto en el Decreto 9/1986, de 5 de febrero, producidas por los respectivos órganos competentes en el ámbito provincial. i) La interlocución general con los órganos de representación sindical de ámbito provincial. 
+j) El reconocimiento del grado personal. 
+k) Cuantas otras les estén atribuidas por disposiciones legales y reglamentarias. 
 
-### Capítulo I. Disposiciones Generales
+#### DISPOSICION ADICIONAL 
+Las atribuciones y funciones asignadas actualmente por el Decreto 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 276/1987.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+140/1986, de 30 de julio, al Secretario General para la Función Pública en la Orden de la Consejería de la Presidencia de 25 de abril de 1986 (BOJA no 36, de 29 de abril), que desarrolla el Decreto 9/1986, de 5 de febrero, regulador del Registro General de Personal, se entenderán referidas al Delegado de Gobernación respecto de los actos y procedimientos registrales a que se refiere el artículo Unico, apartado h) del presente Decreto. 
+DISPOSICIONES TRANSITORIAS 
+Primera. Las competencias que ostentan los Consejeros de Educación y Ciencia y de Salud, así como el Director Gerente del Servicio Andaluz de Salud respecto del personal docente y sanitario que desempeñen puestos de trabajo de tal condición, que no experimentaran alteración alguna por lo dispuesto en el presente Decreto, serán objeto de regulación reglamentaria hasta tanto no se desarrolle lo previsto en la Disposición Adicional Tercera de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía. 
+Segunda. La entrada en vigor del apartado j) del Artículo Unico del presente Decreto queda en suspenso hasta tanto así se determine por el Consejo de Gobierno. 
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+#### DISPOSICION DEROGATORIA 
+Quedán derogadas cuantas normas se opongan a lo dispuesto en el presente Decreto. 
 
-### Capítulo II. Organización, Directrices y Coordinación
+ DISPOSICION FINAL 
+Sin perjuicio de lo dispuesto en la Disposición Transitoria Segunda, el presente Decreto entrará en vigor el día uno de enero de 1988. 
+Sevilla, 28 de octubre de 1987. 
+JOSE RODRIGUEZ DE LA BORBOLLA 
+Y CAMOYAN 
+Presidente de la Junta de Andalucía 
+ENRIQUE LINDE CIRUJANO 
+Consejero de Gobernación  
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+							Descargar PDF 
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 276/1987.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Disposición siguiente

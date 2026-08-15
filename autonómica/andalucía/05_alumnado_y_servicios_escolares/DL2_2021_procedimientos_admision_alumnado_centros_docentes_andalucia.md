@@ -40,41 +40,43 @@ relaciones:
 
 # Decreto-ley 2/2021, de 2 de febrero, por el que se regulan los procedimientos de admisión del alumnado en los centros docentes públicos y privados concertados
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+Decreto del Presidente 5/2021, de 1 de febrero, por el que se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A.
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+Atención: El texto que se muestra a
+						continuación ha sido extraído de los mismos ficheros que se han
+						utilizado para obtener el fichero PDF correspondiente del BOJA
+						oficial y auténtico, habiéndose suprimido todas las imágenes,
+						ciertas tablas y algunos textos de la versión oficial al existir
+						dificultades de edición. Para consultar la versión oficial y
+						auténtica de esta disposición puede descargarse el fichero PDF
+						firmado de la disposición desde la sede electrónica del BOJA o
+						utilizar el servicio de
+						 Verificación de autenticidad  con
+						CVE
+							00185700. 
 
-DISPONGO:
+En virtud de las facultades que me vienen conferidas por el artículo 117.1 del Estatuto de Autonomía para Andalucía y por el artículo 10.1.h) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía
+DISPONGO
+Artículo único. Adscripción de la entidad Verificaciones Industriales de Andalucía, S.A.
+Se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A., en la actualidad adscrita a la Consejería de Transformación Económica, Industria, Conocimiento y Universidades.
 
-### Capítulo I. Disposiciones Generales
+#### Disposición derogatoria única. Derogación normativa.
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto-ley 2/2021.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente decreto.
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+#### Disposición final primera. Modificaciones presupuestarias.
 
-### Capítulo II. Organización, Directrices y Coordinación
+Se faculta a la Consejería de Hacienda y Financiación Europea para realizar las supresiones, transferencias y modificaciones necesarias para dar cumplimiento a lo establecido en este decreto.
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+#### Disposición final segunda. Entrada en vigor.
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial de la Junta de Andalucía.
+Sevilla, 1 de febrero de 2021 
 
-### Capítulo III. Seguimiento y Evaluación
+JUAN MANUEL MORENO BONILLA
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
+Presidente de la Junta de Andalucía
 
-### Disposiciones Adicionales y Finales
+ Descargar PDF
 
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto-ley 2/2021.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Disposición siguiente

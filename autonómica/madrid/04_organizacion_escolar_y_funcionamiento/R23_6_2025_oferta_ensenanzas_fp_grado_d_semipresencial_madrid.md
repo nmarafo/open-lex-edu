@@ -41,41 +41,154 @@ relaciones:
 
 # Resolución de 23 de junio de 2025, de oferta de enseñanzas de FP de Grado D en modalidad semipresencial
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+LUNES 30 DE JUNIO DE 2025
+Pág. 12
+B.O.C.M. Núm. 154
+BOCM-20250630-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Economía, Hacienda y Empleo
+1
+RESOLUCIÓN de 17 de junio de 2025, de la Dirección General de Función Pública, mediante la que se modifica la Resolución de 27 de diciembre de 2024, del
+mismo centro directivo, por la que se resuelven las pruebas selectivas del proceso extraordinario de estabilización para el ingreso, mediante el sistema de concurso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería
+Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de
+Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid.
+Mediante Orden 2765/2022, de 30 de noviembre, de la Consejería de Economía, Hacienda y Empleo, (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 299, de 16
+de diciembre), se convocaron pruebas selectivas del proceso extraordinario de estabilización para el ingreso, mediante el sistema de concurso, en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la
+Comunidad de Madrid, Corrección de errores (BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID número 3, de 4 de enero de 2023).
+Por Resolución de 27 de diciembre de 2024, de la Dirección General de Función Pública (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 311, de 31 de diciembre),
+fueron resueltas las mencionadas pruebas selectivas, incorporándose, como Anexo a aquellas, la relación de personas seleccionadas, quienes debían proceder, en el plazo y forma estipulados, a la elección de destinos y a la acreditación del cumplimiento de los requisitos
+exigidos en la señalada orden de convocatoria y demás normativa de aplicación al proceso
+selectivo.
+Con posterioridad a la publicación de la citada resolución y como consecuencia de la
+interposición de recurso de alzada por parte del aspirante D. Cruz Carlos Tejeda Serrano,
+el Tribunal Calificador procedió a la modificación de su puntuación, publicándose con fecha 11 de junio de 2025 la comunicación del citado tribunal calificador acordando nueva
+relación de aspirantes aprobados del proceso, que recoge dicha modificación y que puede
+consultarse en la sede electrónica de la Comunidad de Madrid, y en la página web del proceso selectivo a través de los siguientes enlaces:
+https://sede.comunidad.madrid/oferta-empleo/ordenacion-rural-e-ind-agroalimentaria
+https://www.comunidad.madrid/servicios/empleo/ingenieria-superior-ordenacion-rurale- industrias-agroalimentarias-a1-estabilizacionconcurso
+El cambio en la puntuación del referido aspirante no afecta al resultado de la adjudicación de acuerdo con las solicitudes presentadas por los aspirantes aprobados, en virtud de
+la mencionada Resolución de 27 de diciembre de 2024.
+Así pues, en virtud de cuanto antecede, esta Dirección General, en uso de las facultades que tiene atribuidas,
+RESUELVE
+Primero
+Proceder a la publicación de un nuevo Anexo de personas aspirantes aprobadas del
+proceso extraordinario de estabilización para ingreso en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid.
+Segundo
+Contra la presente resolución, que no pone fin a la vía administrativa, las personas interesadas podrán interponer recurso de alzada ante la Viceconsejería de Hacienda y Fun-
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+LUNES 30 DE JUNIO DE 2025
+B.O.C.M. Núm. 154
+Pág. 13
+BOCM-20250630-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+ción Pública, dentro del plazo de un mes contado a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 17 de junio de 2025.—La Directora General de Función Pública, P. D. F.
+(Resolución de 24 de noviembre de 2021), la Subdirectora General de Planificación de
+Efectivos y Selección, Elisa Isabel Moreno Bernis.
 
-DISPONGO:
+LUNES 30 DE JUNIO DE 2025
+Pág. 14
+B.O.C.M. Núm. 154
+BOCM-20250630-1
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+
+
+
+	
+			
+		
+  
+
+	   
+	  	  	
+
+		 
+  	 		 
+  	
+
+						
+
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+
+
 
-### Capítulo I. Disposiciones Generales
+	
+
+	
+
+	
+
+
+	
+
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Resolución 23/06/2025.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
+
+
+ 
+
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+	
+	
+
+
+
+
+
+ 
+	
+
+
+
+	
 
-### Capítulo II. Organización, Directrices y Coordinación
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Resolución 23/06/2025.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+	
+ 
+
+
+
+!
+!
+
+
+"
+
+"
+
+#$%&'()*+',
+(03/10.021/25)

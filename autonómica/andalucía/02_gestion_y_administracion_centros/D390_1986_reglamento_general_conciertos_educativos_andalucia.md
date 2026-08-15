@@ -37,41 +37,41 @@ relaciones:
 
 # Decreto 390/1986, de 10 de diciembre, por el que se aprueba el Reglamento General de Conciertos Educativos en Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+DECRETO 395/1986, de 17 de diciembre de 1986, por el que se aprueba la relación de puestos de trabajo de la Junta de Andalucía. 
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-DISPONGO:
+La Ley 6/1985, de noviembre, de su artº 11, configura la relación de puestos de trabajo como instrumento de ordenación de la política de personal en la Administración de la Junta de Andalucía, estableciendo en su artº 4.2.g) que corresponde al Consejo de Gobierno su aprobación. En el Decreto 390/1986, de 10 de diciembre, se determinan las normas de elaboración y aplicación de la relación de puestos de trabajo. El cumplimiento de tales preceptos y en virtud de lo establecido en el artº 12.4 de dicha Ley, y en el artº 3 del Decreto del Presidente 
+130/1986, de 30 de julio, a propuesta del Consejero de Gobernación y previa deliberación del Consejo de Gobierno en su reunión del día 17 de diciembre de 1986, 
+D I S P O N G O : 
+Artículo único. Se aprueba la relación de puestos de trabajo correspondiente a funcionarios y personal laboral fijo de la Junta de Andalucía, que se publica como anexo al presente Decreto. La relación de puestos de trabajo entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía, salvo los efectos derivados del cambio de sistema retributivo que se producirán a partir del 1 de enero de 1987, sin perjuicio del incremento que se establezca en la Ley de Presupuestos de 1987. 
 
-### Capítulo I. Disposiciones Generales
+#### DISPOSICION DEROGATORIA 
+Quedan derogadas cuantas normas de igual o inferior rango opongan a lo previsto en el presente Decreto. 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 390/1986.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+Sevilla, 17 de diciembre de 1986 
+JOSE RODRIGUEZ DE LA BORBOLLA 
+Y CAMOYAN 
+Presidente de la Junta de Andalucía 
+ENRIQUE LINDE CIRUJANO 
+Consejero de Gobernación 
+CLAVES UTILIZADAS 
+a) "NUM": Número de puestos iguales. 
+b) "ADS": Adscripción. "F": Funcionario. "L": Laboral. c) "MOD.ACCS": Modo de acceso. "PLD" Provisión por libre designación. "PC": Provisión por concurso. "SO": Selección por oposición. "S": Selección mediante los procedimientos previstos en convenio colectivo. d) "GR": Grupo. Figura la adscripción a uno o dos grupos consecutivos de clasificación de los enumerados en el Art. 25 de la Ley 30/84, de 2 de agosto. Para el personal laboral los grupos A al E se corresponden con los grupos 1 al 5 definidos en el Convenio Colectivo para el personal laboral al servicio de la Junta de Andalucía. 
+e) "NIV.-C.D.": Nivel de complemento de destino. f) "C.Específico": Complemento específico en miles de pesetas, referidas al año 1986. "R": Responsabilidad. "F": Dificultad. "I": Incompatibilidad. "D": Dedicación. "P": Penosidad, Peligrosidad. g) Cuerpo. "P": Preferente. 
+"A1": Cuerpo Superior de Administradores. "A.1.1.": Administradores Generales. 
+"A.1.2.": Administradores de Gestión Financiera. "A.2.": Cuerpo Superior Facultativo. 
+"B.1.": Cuerpos de Gestión Administrativa de la Junta de Andalucía. "B.1.1.": Administración General. 
+"B.1.2.": Gestión Financiera. 
+"B.2.": Cuerpo de Técnico de Grado Medio de la Junta de Andalucía. "C.1.": Cuerpo General de Administrativos de la Junta de Andalucía. "C.2.": Cuerpo de Ayudantes Técnicos de la Junta de Andalucía. "D.1.": Cuerpo de Auxiliares Administrativos de la Junta de Andalucía. "D.2.": Cuerpo de Auxiliares Técnicos de la Junta de Andalucía. "E.1.": Cuerpo de Subalternos. 
+"E.2.": Cuerpo de Oficios varios. 
+h) "EXP": Experiencia en años. 
+i) "M1"; "M2"; "M3"; "M4"; "M5": Cursos de formación normalizados u homologados. 
+La letra que antecede al tipo de curso, corresponde a uno de los grupos de clasificación, siendo requisito necesario para el personal perteneciente a dicho grupo, haber seguido con aprovechamiento el curso indicado. 
+ANEXO. 
+VER FASCICULO DE ESTE NUMERO, (3 DE 10), (4 DE 10), (5 DE 10), (6 DE 10), (7 DE 10), (8 DE 10), (9 DE 10) Y (10 DE 10).  
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 390/1986.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Disposición siguiente

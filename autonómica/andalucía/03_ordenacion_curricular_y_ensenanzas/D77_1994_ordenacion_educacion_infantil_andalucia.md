@@ -36,41 +36,36 @@ relaciones:
 
 # Decreto 77/1994, de 5 de abril, por el que se regula la Educación Infantil en Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+DECRETO del Presidente 85/1994, de 18 de abril, por el que se convocan elecciones al Parlamento de Andalucía. 
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-DISPONGO:
+Próximo a expirar el mandato del Parlamento de Andalucía por el transcurso del plazo de cuatro años fijado en el artículo 26.2 del Estatuto de Autonomía, y conforme a lo previsto en el artículo 14.c) de la Ley 
+6/1983, del Gobierno y la Administración de la Comunidad Autónoma, modificada por la Ley 1/1990, de 30 de enero, se hace preciso expedir el Decreto de convocatoria de las próximas elecciones a dicho Parlamento. En este sentido, la modificación introducida precisamente en el artículo 14 de la Ley 6/1983 por el artículo primero de la Ley 1/1990, faculta al Presidente de la Junta, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, a anticipar el proceso electoral hasta un máximo de sesenta días cuando, como consecuencia de los plazos previstos por el procedimiento electoral, las elecciones deban celebrarse en los meses de julio y agosto, como sería el caso de estas elecciones, sin que ello afecte al mandato de los actuales diputados. 
+Por otra parte, la Ley 1/1986, de 2 de enero, Electoral de Andalucía, establece en sus artículos 14, 15, 17 y 27 los requisitos que debe contener el Decreto de convocatoria, previsión que debe completarse con lo dispuesto en el artículo 51 de la Ley Orgánica del Régimen Electoral General. En su virtud, y en uso de la facultad que me confieren los artículos 14.c) de la Ley 6/1983 y 14.1 de la Ley Electoral de Andalucía, previa deliberación del Consejo de Gobierno en su reunión del día 12 de abril de 
+1994, 
+DISPONGO 
+Artículo Primero.Se convocan elecciones al Parlamento de Andalucía que tendrán lugar el domingo 12 de junio de 1994. 
+Artículo Segundo.En aplicación de lo dispuesto en el artículo 17.4 de la Ley Electoral de Andalucía, el número de diputados a elegir en cada circunscripción es el siguiente: 
+Circunscripción Diputados 
+Almería Once Cádiz Quince Córdoba Trece Granada Trece Huelva Once Jaén Doce Málaga Dieciséis Sevilla Dieciocho 
+Artículo Tercero. La campaña electoral durará quince días, comenzando a las cero horas del viernes 27 de mayo y finalizando a las veinticuatro horas del viernes 10 de junio. 
+Artículo Cuarto. Celebradas las elecciones convocadas por el presente Decreto, el Parlamento resultante se reunirá para su sesión constitutiva el día 5 de julio a las 12 horas. 
+Artículo Quinto. Las elecciones convocadas por el presente Decreto se regirán por la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, modificada por las Leyes Orgánicas 1/1987, de 2 de abril; 8/1991, de 13 de marzo; 6/1992, de 2 de noviembre, y 13/1994, de 30 de marzo; la Ley 
+1/1986, de 2 de enero, Electoral de Andalucía; el Decreto 70/1986, de 23 de abril, modificado por los Decretos 100/1990, de 13 de marzo, y 61/1994, de 
+15 de marzo; el Real Decreto 421/1991, de 5 de abril, modificado por el Real Decreto 563/1993, de 16 de abril, y por la restante normativa de desarrollo. 
+Artículo Sexto. En cumplimiento de lo dispuesto en el artículo 15 de la Ley Electoral de Andalucía, el presente Decreto se insertará íntegramente en los Boletines Oficiales de las ocho provincias andaluzas dentro de los ocho días siguientes a su publicación. 
 
-### Capítulo I. Disposiciones Generales
+#### DISPOSICION FINAL 
+El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial de la Junta de Andalucía. 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 77/1994.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+Sevilla, 18 de abril de 1994 
+MANUEL CHAVES GONZALEZ 
+Presidente de la Junta de Andalucía  
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+							Descargar PDF 
 
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 77/1994.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Disposición siguiente

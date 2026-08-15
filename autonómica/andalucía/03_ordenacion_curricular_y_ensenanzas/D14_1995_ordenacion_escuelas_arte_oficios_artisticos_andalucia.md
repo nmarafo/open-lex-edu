@@ -36,41 +36,78 @@ relaciones:
 
 # Decreto 14/1995, de 31 de enero, por el que se establece la ordenación de las Escuelas de Arte en Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+Boletín Oficial de la Junta de Andalucía - 
+			   Histórico del BOJA
+                 Boletín número 
+                 29
+                 de 
+                 21/2/1995
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+1. Disposiciones generales
+Consejería de Gobernación
+DECRETO 11/1995, de 24 de enero, por el que se modifica parcialmente el Decreto 312/1988, de 15 de noviembre, por el que se regula la creación, composición y régimen de funcionamiento de la Comisión de Protección Civil de Andalucía. 
 
-DISPONGO:
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-### Capítulo I. Disposiciones Generales
+El artículo 2º del Decreto 312/1988, de 15 de noviembre, por el que se regula la creación, composición y régimen de funcionamiento de la Comisión de Protección Civil de Andalucía, establece la composición de la misma. El Decreto del Presidente 148/1994, de 2 de agosto, sobre reestructuración de Consejerías, determina las competencias de las mismas, estableciéndose posteriormente en los correspondientes Decretos la estructura orgánica de cada Consejería. 
+Dado que esta reestructuración de competencias afecta a algunos de los vocales que componen la Comisión de Protección Civil de Andalucía, se hace necesario, pues, modificarla adaptando la representación a aquéllas. En su virtud, a propuesta de la Consejera de Gobernación, previa deliberación del Consejo de Gobierno en su reunión del día 24 de enero de 
+1995. 
+DISPONGO 
+Artículo único. Se modifica el artículo 2º del Decreto 312/1988, de 15 de noviembre, que queda redactado como sigue: 
+«Artículo 2º La Comisión de Protección Civil de Andalucía tendrá la siguiente composición: 
+Presidente. Consejera de Gobernación. 
+Vicepresidente. Viceconsejero de Gobernación. Vocales: 
+- Director General de Político Interior. 
+- Director General de Admón. Local y Justicia. 
+- Director General de Industria, Energía y Minas. 
+- Director General de Carreteras. 
+- Director General de Transportes. 
+- Director General de Pesca. 
+- Director General de Trabajo y Seguridad Social. 
+- Director Gerente del Instituto Andaluz de Servicios Sociales. 
+- Director General de Planificación, Financiación y Concertación. 
+- Director General de Asistencia Sanitaria. 
+- Director General de Construcciones y Equipamiento Escolar. 
+- Director General de Protección Ambiental. 
+- Director General de Gestión del Medio Natural. 
+- Tres representantes de la Administración del Estado, designados por la Delegada del Gobierno en Andalucía. 
+- Tres representantes de las Diputaciones Provinciales, designados por la Federación Andaluza de Municipios y Provincias. 
+- Seis representantes de los Municipios, de los cuales tres serán Concejales de Capitales de Provincia, dos serán Concejales de Municipios de más de 
+20.000 habitantes y uno será Concejal de Municipios de menos de 20.000 habitantes, designados por la Federación Andaluza de Municipios y Provincias. 
+Actuará como Secretario el Director General de Política Interior«. 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 14/1995.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+#### DISPOSICION FINAL 
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. 
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+Sevilla, 24 de enero de 1995 
+MANUEL CHAVES GONZALEZ 
+Presidente de la Junta de Andalucía 
+CARMEN HERMOSIN BONO 
+Consejera de Gobernación  
 
-### Capítulo II. Organización, Directrices y Coordinación
+							Descargar PDF 
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+Disposición siguiente
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+               BOJA nº
+               29
+               de 
+               21/2/1995
 
-### Capítulo III. Seguimiento y Evaluación
+1. Disposiciones generales
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
+2.1. Nombramientos, situaciones e incidencias
 
-### Disposiciones Adicionales y Finales
+2.2. Oposiciones y concursos
 
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
+3. Otras disposiciones
 
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 14/1995.
+5.1. Subastas y concursos de obras, suministros y servicios públicos
 
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+5.2. Otros anuncios
+
+Descargar boletín nº 
+                    29 completo

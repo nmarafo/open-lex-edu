@@ -40,41 +40,140 @@ relaciones:
 
 # Orden 1238/2023, de 27 de abril, de la Consejería de Educación, Ciencia y Universidades, por la que se regula el desarrollo del sistema de Formación Profesional Dual en la Comunidad de Madrid.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+BOCM
+I. COMUNIDAD DE MADRID
+A) Disposiciones Generales
+Consejería de Administración Local y Digitalización
+2
+ACUERDO de 10 de mayo de 2023, del Consejo de Gobierno, por el que se
+procede a la rectificación de error material del acuerdo del Consejo de Gobierno, de 20 de octubre de 2021, por el que se aprueba el Plan de Actuación
+del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026.
+ANTECEDENTES DE HECHO
+Por el Decreto 118/2020, de 23 de diciembre, de Consejo de Gobierno, se aprueba el
+“Programa de Inversión Regional de la Comunidad de Madrid para el período 2021-2025”,
+con una dotación de 1.000.000.000 de euros (PIR 2021-2025). En virtud del Decreto 211/2021,
+de 15 de septiembre, se amplía la vigencia del citado programa que pasa a ser 2022-2026.
+Mediante Acuerdo de la Junta de Gobierno Local, de fecha 20 de enero de 2021, el
+Ayuntamiento de Colmenarejo aprueba solicitar la gestión municipal de las actuaciones de
+inversión en aplicación del citado PIR.
+Por Acuerdo del Consejo de Gobierno de 20 de octubre de 2021, se aprueba el Plan de
+Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026.
+La Dirección General Inversiones y Desarrollo Local detecta error material en el
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+## Anexo I del Acuerdo de aprobación del Plan de Actuación del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026, en virtud del cual se establece que las actuaciones de inversión correspondientes al municipio de Colmenarejo sean
 
-DISPONGO:
+gestionadas por la Comunidad de Madrid.
+FUNDAMENTOS DE DERECHO
+Primero
+La competencia para la rectificación de errores materiales corresponde al Consejo de
+Gobierno de la Comunidad de Madrid, de conformidad con lo dispuesto en el artículo 53.5
+de la Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de
+Madrid, en relación con el artículo 109.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y el artículo 17.1 del Decreto 210/2003, de 16 de octubre, por el que se aprueba el Reglamento de Funcionamiento
+Interno del Consejo de Gobierno y de sus Comisiones.
+Segundo
+El artículo 109.2 de la Ley 39/2015, de 1 de octubre dispone que “Las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de
+los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos”.
+El Ayuntamiento de Colmenarejo en aplicación del artículo 6 del Decreto 118/2020,
+en tiempo y forma, solicitó gestionar las actuaciones de inversión a realizar en su municipio al amparo del citado decreto. No obstante, con fecha 20 de octubre de 2021, el Consejo de Gobierno de la Comunidad de Madrid, aprueba el Plan de Actuación del Programa
+Regional de Inversión para el período 2022-2026, estableciendo erróneamente que el ente
+gestor fuera la Comunidad de Madrid.
+En el certificado del acuerdo adoptado por la Junta de Gobierno del Ayuntamiento de
+Colmenarejo, en sesión celebrada el 20 de enero de 2021, se solicita que la gestión de las
+actuaciones de inversión sea realizada por el Ayuntamiento.
+Por ello, procede corregir el error material rectificando el Anexo I del Acuerdo de 20
+de octubre de 2021, del Consejo de Gobierno, en lo relativo al Ayuntamiento de Colmenarejo, en cuanto al ente gestor de las inversiones y donde dice: “CM”, debe decir: “AYTO”,
+de conformidad con el Acuerdo de la Junta de Gobierno de este Ayuntamiento, de fecha 20
+de enero de 2021.
 
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 1238/2023.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 1238/2023.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+En consecuencia, el Consejo de Gobierno, a propuesta del Consejero de Administración Local y Digitalización, previa deliberación en su reunión del día 10 de mayo de 2023,
+ACUERDA
+Primero
+Rectificación de error material
+Se procede a la rectificación del error material contenido en el Anexo I del Acuerdo del
+Consejo de Gobierno de 20 de octubre de 2021, por el que se aprueba el Plan de Actuación
+del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026.
+En el Anexo I, donde dice: 
+IMPORTE
+% 
+MÁXIMO
+IMPORTE
+% 
+MÍNIMO
+COLMENAREJO
+3.081.954
+25%
+770.489
+2.311.465
+95%
+121.656,05
+5%
+2.433.121,05
+CM
+AYUNTAMIENTO 
+ TOTAL CM+AYTO 
+MUNICIPIO
+ASIGNACIÓN 
+INICIAL C.M.
+GASTOS CORRIENTES 
+(s/asig. Inicial CM - 
+100% CM)
+INVERSIONES
+FINANCIACIÓN
+ENTE 
+GESTOR
+%
+IMPORTE 
+C. MADRID 
+ 
+Debe decir: 
+IMPORTE
+% 
+MÁXIMO
+IMPORTE
+% 
+MÍNIMO
+COLMENAREJO
+3.081.954
+25%
+770.489
+2.311.465
+95%
+121.656,05
+5%
+2.433.121,05
+AYTO
+AYUNTAMIENTO 
+ TOTAL CM+AYTO 
+MUNICIPIO
+ASIGNACIÓN 
+INICIAL C.M.
+GASTOS CORRIENTES 
+(s/asig. Inicial CM - 
+100% CM)
+INVERSIONES
+FINANCIACIÓN
+ENTE 
+GESTOR
+%
+IMPORTE 
+C. MADRID 
+ 
+Segundo
+Eficacia
+Publicar el presente Acuerdo en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID,
+produciendo efectos desde el mismo día en que dio comienzo la eficacia del Acuerdo del
+Consejo de Gobierno, de 20 de octubre de 2021, por el que se aprueba el Plan de Actuación
+del Programa de Inversión Regional de la Comunidad de Madrid para el período 2022-2026.
+Contra el presente Acuerdo podrá interponerse recurso contencioso-administrativo
+ante el Tribunal Superior de Justicia de Madrid, en el plazo de dos meses contados desde el
+día siguiente a su publicación, sin perjuicio de cuantos otros recursos se estime oportuno
+deducir.
+Madrid, a 10 de mayo de 2023.
+El Consejero de Administración Local y Digitalización,
+CARLOS IZQUIERDO TORRES
+La Presidenta,
+ISABEL DÍAZ AYUSO
+(03/8.094/23)

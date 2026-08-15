@@ -38,41 +38,132 @@ relaciones:
 
 # Decreto 18/2024, de 6 de marzo, por el que se aprueba el Reglamento Orgánico de Centros de Educación Especial en la Comunidad de Madrid.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Asamblea de Madrid
+1
+ACUERDO de 27 de febrero de 2024, del Tribunal Calificador de las pruebas selectivas constituido para la cobertura mediante Concurso, correspondiente al
+procedimiento excepcional de estabilización de empleo, de tres plazas del Cuerpo
+Administrativos (Grupo C1 del artículo 14 del Estatuto del Personal de la Asamblea de Madrid; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 310, del
+Primero
+El Tribunal Calificador, con fecha 27 de febrero de 2024, una vez concluido el proceso selectivo y de conformidad con lo dispuesto en la base 8 de la convocatoria, ha acordado aprobar la relación definitiva de aspirantes que han superado el proceso selectivo, ordenados por la puntuación total obtenida, aplicando, en su caso, los criterios de desempate
+establecidos en la base 8.1.
+RELACIÓN DE CANDIDATOS QUE HAN SUPERADO EL PROCESO SELECTIVO 
+APELLIDOS 
+NOMBRE 
+DNI 
+APARTADO PRIMERO 
+APARTADO SEGUNDO 
+PUNTUACIÓN 
+TOTAL 
+APARTADOS 
+1 Y 2 
+Experiencia profesional  
+(máx. 45 puntos) 
+Total 
+apto. 
+1º 
+Méritos académicos y otros méritos  
+(máx. 55 puntos) 
+Total  
+apto 
+2º 
+a) 
+Asamblea 
+b) Otros 
+Parlamentos 
+c) 
+Otras 
+AAPP 
+a) (máx. 20 
+ptos) ejercicios 
+superados 
+b) (máx. 35 
+puntos) 
+Total 
+apto 
+b) 
+1) 
+Titulación 
+2) 
+Cursos 
+1 
+Castellano 
+Rodriguez 
+Amelia 
+***6809** 
+45,00 
+  
+  
+45,00 
+20 
+  
+35,00 
+35,00 55,00 
+100,00 
+2 
+Gutierrez 
+Sánchez 
+Begoña 
+***219** 
+45,00 
+  
+  
+45,00 
+20 
+4 
+35,00 
+35,00 55,00 
+100,00 
+3 
+Díaz Díaz  
+Nuria 
+***5701** 
+45,00 
+  
+  
+45,00 
+20 
+3 
+35,00 
+35,00 55,00 
+100,00 
+Segundo
+Se informa que los opositores aprobados disponen de un plazo de veinte días naturales, a contar desde el día siguiente a aquel en que se hicieron públicas las listas de aprobados en el lugar del examen, para presentar en el Servicio de Recursos Humanos, Accesibilidad y Seguridad y Salud Laboral, los siguientes documentos:
+a)
+Fotocopia compulsada del título académico superior aducido para tomar parte en
+las pruebas selectivas o, en su caso, de la certificación académica que acredite haber realizado y aprobado los estudios completos correspondientes para la expedición de dicha titulación, junto a la acreditación del pago de la tasa correspondiente por este concepto. En el supuesto de titulaciones obtenidas en el extranjero, se
+deberá aportar copia de la credencial de homologación o, en su caso, del correspondiente certificado de equivalencia conforme a la normativa que resulte de aplicación a tal efecto.
+b)
+Documento Nacional de Identidad.
+c)
+Declaración jurada o promesa de no haber sido separado mediante expediente disciplinario de ninguna Administración Pública, o de los órganos constitucionales o
+estatutarios de las comunidades autónomas, ni hallarse en inhabilitación absoluta
+o especial para empleos o cargos públicos por resolución judicial.
+d)
+Certificado médico expedido en el que se acredite no padecer enfermedad ni estar
+afectado por limitación física o psíquica que sea incompatible con el desempeño
+de las correspondientes funciones.
+e)
+Elección de puesto de trabajo de acuerdo con el orden obtenido en el proceso selectivo y según la oferta que previamente efectuará la Secretaría General de la
+Asamblea de Madrid.
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
-
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 18/2024.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 18/2024.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+De conformidad con lo dispuesto en el artículo 23 del Real Decreto 364/1995, de 10 de
+marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la
+Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, en concordancia con lo establecido en las bases de la convocatoria, quienes tuvieren la condición de
+funcionario público estarán exentos de justificar documentalmente las condiciones y demás
+requisitos ya probados para obtener su anterior nombramiento, debiendo presentar certificación del Ministerio u organismo del que dependieren para acreditar tal condición.
+Quienes dentro del plazo fijado y salvo los casos de fuerza mayor no presentaren la documentación o del examen de la misma se dedujera que carece de alguno de los requisitos
+señalados en la base 2 no podrán ser nombrados funcionarios y quedarán anuladas sus actuaciones, sin perjuicio de responsabilidad en que hubieren incurrido por falsedad en la solicitud inicial.
+Tercero
+El presente Acuerdo se elevará por el Tribunal al Presidente de la Asamblea de Madrid
+que, una vez acreditado el cumplimiento de los requisitos exigidos en los términos exigidos
+en la convocatoria, procederá al nombramiento como funcionarios de carrera del Cuerpo de
+Administrativos de la Asamblea de Madrid.
+En Madrid, a 27 de febrero de 2024.—El Secretario del Tribunal, Ernesto Murillo
+Ulloa.
+(01/3.346/24)

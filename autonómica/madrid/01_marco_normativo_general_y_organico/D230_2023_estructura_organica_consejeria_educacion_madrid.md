@@ -39,41 +39,306 @@ relaciones:
 
 # Decreto 230/2023, de 6 de septiembre, por el que se establece la estructura orgánica de la Consejería de Educación.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Economía, Hacienda y Empleo
+1
+ORDEN de 4 de agosto de 2023, de la Consejera de Economía, Hacienda y
+Empleo, por la que se aprueba convocatoria pública para la provisión de un
+puesto de trabajo vacante en dicha Consejería, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación.
+El artículo 55 de la Ley 1/1986, de 10 abril, de la Función Pública de la Comunidad de
+Madrid, prevé la posibilidad de efectuar convocatoria pública para la provisión de puestos
+de trabajo de esta Administración, entre funcionarios de la Administración del Estado y de
+otras Comunidades Autónomas, bien por la especialidad de las actividades encomendadas,
+bien porque las necesidades del servicio así lo aconsejen, siempre que esta posibilidad esté
+prevista en la correspondiente relación de puestos de trabajo.
+Mediante Decreto 38/2023, de 23 de junio, de la Presidenta de la Comunidad de Madrid,
+se establece el número y denominación de las Consejerías de la Comunidad de Madrid. Asimismo, mediante Decreto 76/2023, de 5 de julio, del Consejo de Gobierno, se establece la
+estructura orgánica básica de las Consejerías de la Comunidad de Madrid.
+Al resultar necesaria la cobertura del puesto de trabajo que se indica en el listado y concurriendo las circunstancias señaladas, procede la provisión de dicho puesto al amparo del
+precepto citado, por el procedimiento de Libre Designación previsto en el artículo 49.1 de
+la Ley 1/1986, de 10 de abril, debido a la especial responsabilidad y confianza que supone
+el ejercicio de las funciones que tiene asignadas, de acuerdo con lo establecido en la relación de puestos de trabajo.
+Por ello y en virtud del Acuerdo del Consejo de Gobierno de 15 de noviembre de 2001
+(BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 16 de noviembre), por el que se delega la competencia a la que se refiere el artículo 55 de la Ley 1/1986, de 10 de abril,
+RESUELVO
+Primero
+Objeto
+Se aprueba convocatoria pública para la provisión del puesto de trabajo que figura en
+el listado, de conformidad con lo establecido en el artículo 55 de la Ley 1/1986, de 10 de
+abril, de la Función Pública de la Comunidad de Madrid, mediante el procedimiento de Libre Designación.
+Segundo
+Normativa aplicable
+La presente convocatoria se regirá, en todo lo referente a su organización y desarrollo,
+por lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad
+de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); el Decreto 188/2021, de 21 de julio, del Consejo de Gobierno, por el que se regula la obligación de
+relacionarse por medios electrónicos con la Administración de la Comunidad de Madrid del
+personal a su servicio y de los participantes en procesos selectivos (BOLETÍN OFICIAL DE
+LA COMUNIDAD DE MADRID de 23 de julio), la Orden 923/1989, de 20 de abril, de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir en las convocatorias para provisión de puestos de trabajo por los sistemas de Concurso de Méritos y
+Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la
+Resolución de 27 de octubre de 2011, de la Directora General de Presupuestos y Recursos
+Humanos, por la que se dictan instrucciones para la emisión de los Certificados de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre Designación, de puestos de trabajo de la Comunidad de Madrid reservados a
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+BOCM
+personal funcionario de carrera no docente (BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID de 15 de noviembre de 2011), así como por el resto de normativa que resulte de
+aplicación.
+Tercero
+Requisitos y condiciones de participación
+1.
+Se recogen en el listado los requisitos indispensables que han de reunirse para el
+desempeño del puesto de trabajo que se convoca, en cuanto a Administración de pertenencia, Grupo de clasificación profesional, Cuerpo, Escala y/o Especialidad y titulación específica exigida en su caso.
+2.
+Podrán participar en este procedimiento los funcionarios que, en la fecha de entrada
+en vigor de la presente convocatoria, se encuentren en servicio activo o quieran reingresar a
+dicha situación. El reingreso al servicio activo se efectuará con arreglo a lo dispuesto en la
+normativa vigente y deberá ser manifestado expresamente en la solicitud. Podrán asimismo
+participar los funcionarios que, en la misma fecha, se encuentren en situación de servicios
+especiales.
+3.
+Los funcionarios en situación de excedencia voluntaria por interés particular o por
+agrupación familiar podrán participar si llevan más de dos años en dicha situación en la
+fecha de entrada en vigor de la convocatoria, indicando expresamente en la solicitud que
+desean reingresar al servicio activo.
+4.
+Los funcionarios procedentes de la situación de suspenso deberán haber cumplido el período de suspensión.
+5.
+Los requisitos y condiciones de participación expresados en este apartado han de
+poseerse en la fecha de entrada en vigor de la presente convocatoria y mantenerse hasta la
+resolución del procedimiento.
+Cuarto
+Solicitudes
+1.
+Las solicitudes se presentarán telemáticamente, cumplimentando el modelo de
+impreso normalizado de “Solicitud de provisión de puestos de trabajo” al que se accederá
+desde la web: https://tramita.comunidad.madrid , adjuntándose a aquel la documentación
+correspondiente que hubiera de aportarse.
+En el caso de ser varias las plazas solicitadas, se indicará el orden de preferencia entre
+las mismas.
+2.
+Las solicitudes deberán ir acompañadas de un currículum vitae, así como de la documentación acreditativa que se considere procedente a efectos de apreciar la idoneidad del
+interesado para el desempeño del puesto.
+3.
+Los funcionarios de otras Administraciones Públicas que soliciten alguno de los
+puestos convocados, incluidos aquellos que estén ocupando un puesto de trabajo de forma
+provisional en la Comunidad de Madrid, deberán adjuntar a su solicitud el Anexo que
+acompaña a la presente Orden, debidamente cumplimentado y firmado por el titular del órgano encargado del Registro de Personal de su Administración de origen.
+4.
+Los Certificados de Registro de Personal de los interesados relativos a su situación y destinos en la Comunidad de Madrid serán emitidos de conformidad con lo previsto
+en la Resolución de 27 de octubre de 2011 (BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID de 15 de noviembre), de la Directora General de Presupuestos y Recursos Humanos, por la que se dictan instrucciones para la emisión de los Certificados de Registro de Personal en los procedimientos de provisión, por los sistemas de Concurso de Méritos y Libre
+Designación, de puestos de trabajo de la Comunidad de Madrid reservados a personal funcionario de carrera no docente, sin que deban ser solicitados ni aportados por el interesado.
+Quinto
+Presentación y plazo
+1.
+De conformidad con lo establecido en el artículo 2, base segunda de la Orden 923/1989,
+de 20 de abril, las solicitudes se presentarán telemáticamente, dirigidas a la Secretaría General Técnica de la Consejería de Economía, Hacienda y Empleo, en el plazo de quince
+días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria, en el Registro Electrónico de la Comunidad de Madrid o en la forma establecida en el artículo 16 de
 
-DISPONGO:
+BOCM
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+En el supuesto de que algún funcionario presentase la solicitud de forma presencial
+será requerido para que la subsane a través de su presentación electrónica, en los términos
+y con los efectos establecidos en el artículo 68.4 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, considerándose a
+todos los efectos como fecha de presentación de la solicitud aquella en la que se haya realizado la correspondiente subsanación.
+2.
+El mencionado plazo de presentación de solicitudes, siempre que no haya vencido, podrá ser ampliado como consecuencia de incidencias técnicas que hayan imposibilitado el funcionamiento ordinario del sistema o de la aplicación correspondiente según lo dispuesto en el artículo 32.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas.
+Sexto
+Personal seleccionado
+Los funcionarios de otras Administraciones Públicas que sean seleccionados para la
+cobertura de puestos de trabajo convocados no adquirirán la condición de funcionarios de
+la Comunidad de Madrid, pero se integrarán en la Administración de esta en la forma prevista en el artículo 55.2 de la Ley 1/1986, de 10 de abril.
+Séptimo
+Renuncias
+Los destinos adjudicados serán irrenunciables.
+Octavo
+Entrada en vigor
+La presente Orden producirá efectos desde el día siguiente al de su publicación en el
+Noveno
+Recursos
+La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados
+a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE
+MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo
+ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la
+Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Dado en Madrid, a 4 de agosto de 2023.
+La Consejera de Economía, Hacienda y Empleo,
+P. D. (Acuerdo de Consejo de Gobierno
+de 15 de noviembre de 2001; BOCM de 16 de noviembre),
+ROCÍO ALBERT LÓPEZ-IBOR
 
-### Capítulo I. Disposiciones Generales
+BOCM
+LISTADO DE PUESTOS DE TRABAJO VINCULADOS A UNA CONVOCATORIA DE LIBRE DESIGNACIÓN (ARTÍCULO 55)
+Puesto/Denominación
+NCD
+Grupo
+Unidad Orgánica
+Específico
+Administración Pública
+Cuerpo   Escala    Especialidad
+Admon
+CONOCIMIENTOS Y/O EXPERIENCIA EN GESTIÓN ECONÓMICO-PRESUPUESTARIA
+CONOCIMIENTOS Y/O EXPERIENCIA EN ELABORACIÓN, SEGUIMIENTO Y EJECUCIÓN
+PRESUPUESTARIA
+CONOCIMIENTOS Y/O EXPERIENCIA EN HOJAS DE CÁLCULO O BASES DE DATOS
+MAÑ.Y 2 TARDES
+Madrid
+Localidad........:
+Turno/Jornada:
+PERFIL
+50449
+SERV. COORDINACION
+Y ELABORACION I
+A/B
+26
+    20.953,80
+C. MADRID/ADMON. ESTADO/CCAA
+CONSEJERIA ECONOMÍA, HACIENDA Y
+EMPLEO
+VICECONSEJERIA HACIENDA Y
+FUNCIÓN PÚBLICA
+DIRECCION GENERAL PRESUPUESTOS
+SUBDIRECCION GENERAL
+COORDINACIÓN PRESUPUESTARIA
+DIVISIÓN SISTEMAS DE INFORMACION
+SERVICIO COORDINACION Y
+ELABORACION I
+VINCULADO A CUALQUIER CUERPO O ESCALA
+A
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 230/2023.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 230/2023.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+(03/14.230/23)
+ 
+CERTIFICADO DE REGISTRO DE PERSONAL 
+D./Dª . 
+CARGO:  
+ 
+CERTIFICO: Que según los antecedentes obrantes en este Registro de Personal, el funcionario de carrera abajo indicado 
+tiene acreditados los siguientes extremos: 
+DATOS PERSONALES 
+Apellidos  y Nombre……………………………….…………………………………….………………N.I.F.. ………...……..………………………… 
+Cuerpo/Escala y/o Especialidad…..…………………………………………………………………………………………………………………….. 
+Subgrupo…………………………………………………………………………………………………….N.R.P………………………………………….. 
+Administración de origen ……………………………….…………………………..…..Fecha de toma posesión…………………………… 
+ 
+SITUACIÓN ADMINISTRATIVA 
+ Servicio activo         
+ 
+ 
+ 
+ 
+ 
+ Otras situación 
+administrativa…………………………………………………………………………………………………. 
+      
+               Fecha de inicio …………/…………/…………….                              
+ 
+DESTINO ACTUAL 
+ADMINISTRACIÓN  
+(Estatal, Autonómica o Local) 
+CENTRO DIRECTIVO 
+(Ministerio, Consejería o A. Local) 
+NCD 
+OCUP. (1) 
+ 
+FECHA INICIO 
+ 
+ 
+ 
+ 
+ 
+ 
+DESTINOS ANTERIORES  
+ADMINISTRACIÓN  
+(Estatal, Autonómica o Local) 
+CENTRO DIRECTIVO 
+(Ministerio, Consejería o A. Local) 
+NCD 
+OCUP. (1) 
+FECHA INICIO 
+FECHA FINAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Debe hacerse constar si el puesto ha sido ocupado como Titular (T) o provisional (P) 
+ 
+GRADO 
+ 
+GRADO PERSONAL CONSOLIDADO: 
+ 
+FECHA CONSOLIDACIÓN: 
+ 
+ANTIGÜEDAD 
+ 
+Tiempo de servicios reconocidos en la Administración del Estado, Autonómica o Local  
+hasta la fecha de publicación de la convocatoria: 
+AÑOS 
+MESES  
+DÍAS 
+ 
+ 
+ 
+CERTIFICACIÓN que expido a petición del interesado y para que surta efecto en el proceso convocado por Orden del Consejero de Economía, 
+Hacienda y Empleo de la Comunidad de Madrid de fecha………………………………(BOCM ..…/..…./………). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Madrid, …….. de ……….. de 20……. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Firma

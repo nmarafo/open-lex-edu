@@ -37,41 +37,29 @@ relaciones:
 
 # Decreto 117/1985, de 5 de junio, por el que se regula la ordenación y coordinación de la Formación Profesional Ocupacional en Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+DECRETO 87/1985, de 17 de abril, por el que se acuerda la adquisición por la Junta de Andalucía al Grupo Editorial "Promociones Culturales Andaluzas SA" y "Argantonio, Ediciones Andaluzas, SA" de los derechos de autor de "La Gran Enciclopedia de Andalucía". 
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+Atención: La información contenida en estas
+						páginas no tiene validez legal.
+						Ver
+							más
 
-DISPONGO:
+" La Gran Enciclopedia de Andalucía", editada por la iniciativa privada ha supuesto una contribución importante a la cultura andaluza como elemento de identificación de nuestro pueblo, cuando se iniciaba el proceso Autonómico de nuestra Comunidad. 
+Pese a su significación, un esfuerzo de esta naturaleza, realizado al margen de todo apoyo institucional u oficial abocado a obtener escaso éxito, pese a la difusión conseguida inicialmente, dado que obras de esta índole tiene una virtualidad de desarrollo y actualización que que exigen un esfuerzo continuo de financiación y sostenimiento de equipos técnicos, que exceden de la potencialidad del grupo editorial que realizó la publicación. 
+Por la Consejería de Cultura se considera de máximo interés la adquisición por la Junta de Andalucía de los derechos de autor de esta obra científica para evitar que se extinga una iniciativa que tanto ha supuesto para la cultura andaluza 
+Por todo lo expuesto, a iniciativa del Consejero de Cultura y a propuesta del de Hacienda y previa deliberación del Consejo de Gobierno en su reunión del día 17 de abril de 1985. 
+DISPONGO: 
 
-### Capítulo I. Disposiciones Generales
+#### Artículo 1. De conformidad con lo dispuesto en el artículo 97 de la Ley de Patrimonio, se resuelve la adquisición por la Junta de Andalucía de los derechos de autor de la obra " La Gran Enciclopedia de Andalucía" Artículo 2. La administración y explotación de esta propiedad incorporal se encomienda específicamente a la Consejería de Cultura. 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 117/1985.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+#### Artículo 3. Por la Dirección General de Patrimonio se tramitará el oportuno expediente, para llevar a cabo la efectividad de cuanto se dispone en el presente Decreto. 
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+Sevilla, 17 de abril de 1985. 
+JOSE RODRIGUEZ DE LA BORBOLLA Y CAMOYAN 
+Presidente de la Junta de Andalucía 
+CESAR ESTRADA MARTINEZ 
+Consejero de Hacienda  
 
-### Capítulo II. Organización, Directrices y Coordinación
+							Descargar PDF 
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 117/1985.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+Disposición siguiente

@@ -39,41 +39,70 @@ relaciones:
 
 # Decreto 6/2017, de 16 de enero, por el que se regulan los servicios complementarios de la enseñanza de aula matinal, comedor escolar y actividades extraescolares en los centros docentes públicos de la Comunidad Autónoma de Andalucía.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+Boletín Oficial de la Junta de Andalucía - 
+			   Histórico del BOJA
+                     Boletín número 14 de                   
+                   23/01/2017
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+2. Autoridades y personal2.1 Nombramientos, situaciones e incidencias
 
-DISPONGO:
+Consejería de Agricultura, Pesca y Desarrollo Rural
+Resolución de 18 de enero de 2017, de la Secretaría General Técnica, por la que se adjudica el puesto de trabajo de libre designación, convocado por Resolución que se cita.
 
-### Capítulo I. Disposiciones Generales
+Atención: El texto que se muestra a
+						continuación ha sido extraído de los mismos ficheros que se han
+						utilizado para obtener el fichero PDF correspondiente del BOJA
+						oficial y auténtico, habiéndose suprimido todas las imágenes,
+						ciertas tablas y algunos textos de la versión oficial al existir
+						dificultades de edición. Para consultar la versión oficial y
+						auténtica de esta disposición puede descargarse el fichero PDF
+						firmado de la disposición desde la sede electrónica del BOJA o
+						utilizar el servicio de
+						 Verificación de autenticidad  con
+						CVE
+							00106184. 
 
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Decreto 6/2017.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Andalucía.
+De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, visto lo dispuesto en el artículo 63 del Reglamento General de Ingreso, promoción interna, provisión de puestos de trabajo y promoción profesional de los funcionarios de la Administración General de la Junta de Andalucía, aprobado por Decreto 2/2002, de 9 de enero (BOJA núm. 8, de 19.1.2002), y teniendo en cuenta la competencia que me delega la Orden de 25 de noviembre de 2009 (BOJA número 236, de 3 de diciembre), se adjudica el puesto de trabajo de libre designación convocado por Resolución de esta Secretaría General Técnica de fecha 2 de noviembre de 2016 (BOJA núm. 213, de 7 de noviembre de 2016), a la funcionaria que figura en el Anexo adjunto.
+La toma de posesión se efectuará en los plazos establecidos en los artículos 65 y 51 del citado Reglamento.
+A efectos de motivación se indica que la candidata elegida ha sido propuesta por el titular del Centro Directivo al que está adscrito el puesto y cumple todos los requisitos y especificaciones exigidos en la convocatoria según lo establecido respectivamente en los artículos 63.1 y 64.2 del citado Reglamento.
+Contra la presente Resolución, que pone fin a la vía administrativa, se podrá interponer recurso potestativo de reposición ante este órgano, en el plazo de un mes contado a partir del día siguiente a aquel en que tenga lugar la publicación de este acto, o interponer directamente el recurso contencioso-administrativo, ante los órganos judiciales de este orden, en el plazo de dos meses, contados a partir del día siguiente al de la publicación de este acto, todo ello de conformidad con lo establecido en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+Sevilla, 18 de enero de 2017.- El Secretario General Técnico, Alberto Sánchez Martínez.
+A N E X O
+CONCURSO PUESTO LIBRE DESIGNACIÓN
+DNI: 30790096-L.
+Primer apellido: Martín.
+Segundo apellido: Cabrilla.
+Nombre: María Josefa.
+Código puesto de trabajo: 11444210.
+Puesto T. adjudicado: Gabinete Planificación y Liquidación.
+Centro directivo: Consejería de Agricultura, Pesca y Desarrollo Rural.
+Centro destino: Dirección General Ayudas Directas y de Mercados.
+Provincia: Sevilla.
+Localidad: Sevilla.
 
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
+ Descargar PDF
+						
 
-### Capítulo II. Organización, Directrices y Coordinación
+Disposición siguiente
 
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
+BOJA nº 14 de 23/01/2017
 
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
+2.1. Nombramientos, situaciones e incidencias
 
-### Capítulo III. Seguimiento y Evaluación
+2.2. Oposiciones, concursos y otras convocatorias
 
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
+3. Otras disposiciones
 
-### Disposiciones Adicionales y Finales
+4. Administración de justicia
 
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
+5.1. Licitaciones públicas y adjudicaciones
 
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Decreto 6/2017.
+5.2. Otros anuncios oficiales
 
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+ Descargar boletín
+             nº
+         14 completo
+
+ Sumario boletín
+             nº
+         14

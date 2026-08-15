@@ -42,41 +42,184 @@ fuente_pdf_oficial: https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/26/BOCM-20
 
 # Orden 2742/2022, de 16 de septiembre, de la Consejería de Educación, Universidades, Ciencia y Portavocía, por la que se aprueba el protocolo de prevención y actuación ante situaciones de acoso escolar en centros docentes de la Comunidad de Madrid
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
+LUNES 26 DE SEPTIEMBRE DE 2022
+Pág. 8
+B.O.C.M. Núm. 229
+BOCM-20220926-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Consejería de Presidencia, Justicia e Interior
+1
+ORDEN de 14 de septiembre de 2022, de la Consejería de Presidencia Justicia e
+Interior, por la que se resuelve la convocatoria aprobada mediante Orden de 25
+de mayo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 6 de junio
+de 2022), por la que se aprobó convocatoria pública para la provisión de cuatro
+puestos de trabajo vacantes en la Consejería de Presidencia, Justicia e Interior,
+por el procedimiento de Concurso de Méritos.
+Por Orden de 25 de mayo de 2022 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+de 6 de junio de 2022), de la Consejería de Presidencia, Justicia e Interior, se aprobó convocatoria pública para la provisión de cuatro puestos de trabajo vacantes en la citada Consejería, por el procedimiento de Concurso de Méritos.
+En el procedimiento de provisión se han cumplido las normas de la Ley 1/1986, de 10
+de abril, de la Función Pública de la Comunidad de Madrid (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 24 de abril); la Ley 4/1989, de 6 de abril, de Provisión de Puestos de Trabajo Reservados a Funcionarios de la Comunidad de Madrid (BOLETÍN OFICIAL
+DE LA COMUNIDAD DE MADRID de 4 de mayo de 1989); la Orden 923/1989, de 20 de abril,
+de la Consejería de Hacienda, por la que se aprueban las bases generales que han de regir
+en las convocatorias para provisión de puestos por los sistemas de Concurso de Méritos y
+Libre Designación (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de abril); la
+Orden 2094/1990, de 31 de agosto, de la Consejería de Hacienda, por la que se regula el sistema general que ha de regir en las diferentes convocatorias que se publiquen para los concursos de provisión de puestos de trabajo (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+de 7 de septiembre), y, en lo no previsto por las anteriores, el Real Decreto 364/1995, de 10
+de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al Servicio de
+la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado (“Boletín Oficial del Estado” de 10 de abril), así como las demás prescripciones contenidas en las bases
+de convocatoria correspondientes.
+De acuerdo con la propuesta efectuada por la Junta de Méritos y el informe favorable
+emitido por la Consejería de Economía, Hacienda y Empleo, y en virtud de la competencia
+atribuida en el artículo 49.2 de la Ley 1/1986, de 10 de abril, de la Función Pública de la
+Comunidad de Madrid,
+RESUELVO
+Primero
+Objeto
+Adjudicar los puestos de trabajo 354, denominado “Subsección Mantenimientos Medios Técnicos”; 67683, denominado “Negociado I”, y 72057, denominado “Subsección
+Apoyo Administrativo”, a las funcionarias que se expresan en el Anexo.
+Asimismo declarar desierto el puesto de trabajo 399 denominado “Subsección Ejecución Presupuestaria”.
+Segundo
+Plazo de toma de posesión
+1.
+El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho
+plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente resolución.
+El cómputo de los citados plazos posesorios se iniciará cuando finalicen los permisos
+o licencias que, en su caso, hayan sido concedidos a las interesadas, salvo que, por causas
+justificadas, el Órgano que los concedió acuerde suspender el disfrute de los mismos.
 
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
+LUNES 26 DE SEPTIEMBRE DE 2022
+B.O.C.M. Núm. 229
+Pág. 9
+BOCM-20220926-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+2.
+Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa
+aplicable.
+Tercero
+Recursos
+La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante
+los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del
+día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin
+perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998,
+de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
+Dado en Madrid, a 14 de septiembre de 2022.—El Consejero de Presidencia, Justicia e Interior, P. D. de 10 de diciembre de 2021 (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+de 16 de diciembre de 2021), el Secretario General Técnico, Manuel Galán Rivas.
 
-DISPONGO:
+LUNES 26 DE SEPTIEMBRE DE 2022
+Pág. 10
+B.O.C.M. Núm. 229
+BOCM-20220926-1
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS
+354
+72057
+67683
+CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR
+VICECONSEJERIA INTERIOR Y DIRECCIÓN DE LA AGENCIA DE
+SEGURIDAD Y EMERGENCIAS MADRID 112
+DIRECCION GENERAL EMERGENCIAS
+DIRECCION DEL AREA GESTIÓN ECONÓMICA E
+INFRAESTRUCTURAS
+SUBDIRECCION GENERAL GESTION ECONÓMICOADMINISTRATIVA
+AREA MEDIOS TECNICOS
+SUBSECCION MANTENIMIENTO DE MEDIOS TECNICOS
+CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR
+VICECONSEJERIA INTERIOR Y DIRECCIÓN DE LA AGENCIA DE
+SEGURIDAD Y EMERGENCIAS MADRID 112
+DIRECCION GENERAL EMERGENCIAS
+UNIDAD TECNICA EXTINCIÓN, SALVAMENTO Y PREVENCIÓN
+SERVICIO UNIDADES ESPECIALES
+SUBSECCION APOYO ADMINISTRATIVO
+CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR
+VICECONSEJERIA INTERIOR Y DIRECCIÓN DE LA AGENCIA DE
+SEGURIDAD Y EMERGENCIAS MADRID 112
+DIRECCION GENERAL EMERGENCIAS
+UNIDAD TECNICA EXTINCIÓN, SALVAMENTO Y PREVENCIÓN
+SERVICIO INCENDIOS FORESTALES
+NEGOCIADO I
+Puesto de Trabajo:
+Puesto de Trabajo:
+Puesto de Trabajo:
+SUBSEC. MANTENIMIENTOS DE MEDIOS
+TECNICOS
+SUBSEC. APOYO ADMINISTRATIVO
+NEG. I
+Denominación     :
+Denominación     :
+Denominación     :
+22
+22
+18
+B / C
+B / C
+C / D
+Grupo                :
+Grupo                :
+Grupo                :
+N.C.D.               :
+N.C.D.               :
+N.C.D.               :
+  10.578,00
+  10.578,00
+   8.051,16
+C. Específico      :
+C. Específico      :
+C. Específico      :
+**280**7*
+7*05**4**
+*1***215*
+GOMEZ DEL MORAL
+RODRIGUEZ BOBADA,MARIA
+PRADO
+CUERVO ALVAREZ,MARTA
+RIVERA VEGA,MARTHA
+TERESA
+Cód. identificación:
+Cód. identificación:
+Cód. identificación:
+Apellidos y Nombre:
+Apellidos y Nombre:
+Apellidos y Nombre:
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
 
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 2742/2022.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 2742/2022.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+LUNES 26 DE SEPTIEMBRE DE 2022
+B.O.C.M. Núm. 229
+Pág. 11
+BOCM-20220926-1
+http://www.bocm.es
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID
+BOCM
+399
+CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR
+VICECONSEJERIA INTERIOR Y DIRECCIÓN DE LA AGENCIA DE
+SEGURIDAD Y EMERGENCIAS MADRID 112
+DIRECCION GENERAL EMERGENCIAS
+DIRECCION DEL AREA GESTIÓN ECONÓMICA E
+INFRAESTRUCTURAS
+SUBDIRECCION GENERAL GESTION ECONÓMICOADMINISTRATIVA
+AREA GESTION ECONOMICA Y CONTRATACION
+SERVICIO DE GESTION ECONOMICA Y PRESUPUESTARIA
+SUBSECCION EJECUCION PRESUPUESTARIA
+Puesto de Trabajo:
+SUBSEC. EJECUCION PRESUPUESTARIA
+Denominación     :
+22
+B / C
+Grupo                :
+N.C.D.               :
+  10.578,00
+C. Específico      :
+DESIERTO
+PUESTO ADJUDICADO
+ADJUDICATARIO
+PUESTO LIBERADO
+(03/17.964/22)

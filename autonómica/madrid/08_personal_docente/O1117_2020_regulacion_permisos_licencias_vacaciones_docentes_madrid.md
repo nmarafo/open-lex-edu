@@ -39,41 +39,37 @@ relaciones:
 
 # Orden 1117/2020, de 29 de mayo, sobre permisos y licencias por conciliación del personal docente.
 
-El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
-
-En su virtud, de conformidad con lo establecido en la normativa de régimen jurídico y previa deliberación del Consejo de Gobierno u órgano emisor competente,
-
-DISPONGO:
-
-### Capítulo I. Disposiciones Generales
-
-#### Artículo 1. Objeto y ámbito de aplicación
-1. La presente norma tiene por objeto establecer la regulación, directrices y criterios de aplicación para la materia dispuesta en el Orden 1117/2020.
-2. Sus preceptos son de aplicación en todos los centros docentes no universitarios y servicios educativos sostenidos con fondos públicos en el ámbito territorial de Madrid.
-
-#### Artículo 2. Principios generales de actuación
-La aplicación de la presente norma se regirá por los principios de calidad educativa, inclusión, equidad, autonomía de gestión, transparencia, colaboración institucional y bienestar de la comunidad escolar.
-
-### Capítulo II. Organización, Directrices y Coordinación
-
-#### Artículo 3. Competencias organizativas y pedagógicas
-Los órganos directivos de los centros docentes, el claustro de profesorado y las comisiones pedagógicas velarán por la planificación, ejecución y desarrollo efectivo de las medidas y programas regulados en esta disposición.
-
-#### Artículo 4. Supervisión e Inspección de Educación
-Los servicios de la Inspección de Educación ejercerán las funciones de supervisión, asesoramiento, evaluación e informe necesarias para asegurar el exacto cumplimiento de lo dispuesto en este articulado.
-
-### Capítulo III. Seguimiento y Evaluación
-
-#### Artículo 5. Seguimiento institucional
-La Consejería competente en materia de educación evaluará periódicamente la aplicación de las directrices establecidas en esta norma para garantizar la optimización continuada del servicio público educativo.
-
-### Disposiciones Adicionales y Finales
-
-#### Disposición Adicional Única. Garantía de equidad e inclusión
-Las Administraciones educativas proveerán los recursos materiales, organizativos y de personal necesarios para dar respuesta a la diversidad y necesidades de todo el alumnado.
-
-#### Disposición Final Primera. Habilitación para el desarrollo normativo
-Se faculta a la persona titular de la Consejería competente en materia de educación para dictar cuantas normas e instrucciones sean precisas para el desarrollo y aplicación del presente Orden 1117/2020.
-
-#### Disposición Final Segunda. Entrada en vigor
-La presente disposición entrará en vigor el día siguiente al de su publicación en el Boletín Oficial correspondiente.
+http://www.bocm.es
+D. L.: M. 19.462-1983      ISSN 1989-4791
+BOCM
+I. COMUNIDAD DE MADRID
+B) Autoridades y Personal
+Asamblea de Madrid
+1
+RESOLUCIÓN de 14 de mayo de 2020, de la Presidencia de la Asamblea de
+Madrid, por la que se designan los miembros del Tribunal que ha de juzgar las pruebas selectivas para la cobertura de una plaza de personal laboral, con la denominación Auxiliar de Control e Información, reservada para personas con discapacidad intelectual (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 130, del
+Esta Presidencia, en virtud de lo dispuesto en la base 6.a de la convocatoria para la cobertura de una plaza de personal laboral con la denominación de Auxiliar de Control e Información, reservada para personas con discapacidad intelectual, convocada mediante
+Resolución de Presidencia de la Asamblea de Madrid de fecha 22 de mayo de 2019,
+RESUELVE
+Primero
+Designar los miembros del Tribunal que ha de juzgar las pruebas selectivas para la cobertura de una plaza de personal laboral con la denominación de Auxiliar de Control e Información, reservada para personas con discapacidad intelectual (BOLETÍN OFICIAL DE LA
+COMUNIDAD DE MADRID número 130, del lunes 3 de junio de 2019), convocada mediante
+Resolución de Presidencia de la Asamblea de Madrid de fecha 22 de mayo de 2019, estableciendo la siguiente composición:
+Presidente: Excmo. Sr. D. Juan Trinidad Martos, Presidente de la Asamblea de
+Madrid. Suplente: Ilma. Sra. D.a Esther Ruiz Fernández, Secretaria Tercera de la Mesa de
+la Asamblea de Madrid.
+Vocales:
+— Ilma. Sra. D.a Raquel Marañón Gómez, Secretaria General de la Asamblea de
+Madrid. Suplente: D.a Ana María del Pino Carazo, Letrada de la Asamblea de
+Madrid.
+— Ilma. Sra. D.a Mónica Martín de Hijas Merino, Directora de Gestión Administrativa de la Asamblea de Madrid. Suplente: D.a Esther Villoria Varela, Jefa del Servicio de Asuntos Generales e Infraestructuras de la Asamblea de Madrid.
+— Sr. D. José Antonio Martín Delgado, representante de la Junta de Personal de la
+Asamblea de Madrid. Suplente: D. Francisco Javier de Vicente Casado, representante de la Junta de Personal de la Asamblea de Madrid.
+Secretario del Tribunal: Sr. D. Ernesto Murillo Ulloa, Jefe del Servicio de Recursos
+Humanos, Accesibilidad, Seguridad y Salud Laboral de la Asamblea de Madrid. Suplente:
+Sr. D. Óscar Sánchez Sánchez, Jefe de la Unidad de Seguridad y Salud Laboral Asamblea
+de Madrid.
+Segundo
+Ordenar su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID.
+Madrid, a 14 de mayo de 2020.—El Presidente, Juan Trinidad Martos.
+(01/11.764/20)
