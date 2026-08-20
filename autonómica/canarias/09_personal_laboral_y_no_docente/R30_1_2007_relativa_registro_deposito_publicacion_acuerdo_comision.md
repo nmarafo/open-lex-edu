@@ -1,50 +1,103 @@
 ---
-id: norm-can-res-boc-2007-036-147
-codigo_sintetizado: Resolucion BOC 147
-titulo: Resolución de 30 de enero de 2007, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 36, de 19 de febrero).
+id: norm-can-res-2007-01-30
+codigo_sintetizado: Acuerdo Encuadramiento Categorías Convenio Laboral 2007
+titulo: Resolución de 30 de enero de 2007, de la Dirección General de Trabajo, relativa
+  al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio
+  Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento
+  de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral
+  de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
-redaccion: libro_azul
-fuente_oficial: http://www.gobiernodecanarias.org/boc/2007/036/025.html
+redaccion: boc_oficial
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2007/036/025.html
 clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-  - convenio-colectivo-y-personal-laboral
-  - equipos-directivos
-  - personal-no-docente
-  - roc
-relaciones:
-  fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-  desarrolla:
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-  fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '1'
+- personal-laboral
+- convenio-colectivo
+- encuadramiento-profesional
+- categorias-laborales
+fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/036/boc-2007-036-025.pdf
+fecha_disposicion: '2007-01-30'
 ---
-# Resolución de 30 de enero de 2007, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 36, de 19 de febrero).
+# Resolución de 30 de enero de 2007, de la Dirección General de Trabajo, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-Consejería de Educación, Universidades, Cultura y Deportes Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento. Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de los centros docentes públicos no universitarios, se precisa delegar en las Direcciones Territoriales de Educación la competencia de esta Dirección General en relación con las Jefaturas de Estudio adjuntas en los centros educativos en los que se determine. ANTECEDENTES DE HECHO
-Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, dirigir, controlar y coordinar la gestión del personal docente no universitario de la Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia para la concesión de comisiones de servicio y la declaración de adscripciones provisionales al personal docente no universitario en centros públicos, extendiéndose tal atribución a los cargos directivos.
-Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la Dirección General de Personal, la competencia administrativa para conceder comisiones de servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el desempeño de cargos directivos en centros docentes.
-Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
-Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución de 15 de junio de 2012. Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia Página
+Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
 
-que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de gestión de esta Consejería. A los anteriores hechos son de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- El artículo 12 l.
+Segundo.- Disponer el depÃ³sito del texto original.
 
-Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que establece las competencias de la Dirección General de Personal, en relación con su artículo 17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del Departamento.
-Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público que dispone que los órganos de las diferentes Administraciones públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas. En su virtud,
-RESUELVO:
-Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
-Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
-Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+
+Contra el presente acto, que no agota la vÃ­a administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente resoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+
+Las Palmas de Gran Canaria, a 30 de enero de 2007.- El Director General de Trabajo, Pedro TomÃ¡s Pino PÃ©rez.
+
+Acuerdo de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias sobre encuadramiento de diferentes categorÃ­as profesionales del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias.
+
+En la reuniÃ³n celebrada por la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, el dÃ­a 15 de noviembre de 2006 se adoptÃ³, con el voto favorable de la AdministraciÃ³n y de todas las Organizaciones Sindicales el siguiente acuerdo, por el que se hace efectivo el encuadramiento definitivo de las categorÃ­as profesionales que se relacionan a continuaciÃ³n en el grupo retributivo que igualmente se seÃ±ala, del que pasan a formar parte a todos los efectos, modificÃ¡ndose el 
+
+## anexo II. del Convenio en el sentido siguiente:
+
+EN EL GRUPO II
+
+CATEGORÃAS
+
+- Administrador
+
+- Enfermera
+
+- Profesor de EducaciÃ³n FÃ­sica
+
+- Profesor de MÃºsica
+
+- Profesor IdÃ³neo
+
+EN EL GRUPO III
+
+CATEGORÃAS
+
+- Administrativo
+
+- Contable
+
+- Oficial 1Âª Administrativo
+
+EN EL GRUPO IV
+
+CATEGORÃAS
+
+- AlbaÃ±il II
+
+- Auxiliar Administrativo
+
+- Auxiliar de Empresa
+
+- Auxiliar de Laboratorio
+
+- Oficial III Laboratorio
+
+- Auxiliar de Oficina
+
+- Auxiliares
+
+- Ayudante de Laboratorio
+
+- Cocinero
+
+- Jardinero
+
+- Peluquera
+
+- Vigilante de Biblioteca
+
+- Auxiliar de servicios complementarios
+
+- Grabador
+
+La AdministraciÃ³n.- El Viceconsejero de AdministraciÃ³n PÃºblica; El Director General de la FunciÃ³n PÃºblica.- El ComitÃ© Intercentros.- El Presidente; El Secretario.

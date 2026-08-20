@@ -1,50 +1,79 @@
 ---
-id: norm-can-res-boc-2007-009-143
-codigo_sintetizado: Resolucion BOC 143
-titulo: Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera (BOC n.º 9, de 12 de enero).
+id: norm-can-res-2006-12-21
+codigo_sintetizado: Acuerdo Modificación Art 11 Convenio Personal Laboral 2006
+titulo: Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo,
+  relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora
+  del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias,
+  para la modificación del artículo 11 del vigente convenio colectivo, así como de
+  la Disposición Transitoria Primera.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
-redaccion: libro_azul
-fuente_oficial: http://www.gobiernodecanarias.org/boc/2007/009/010.html
+redaccion: boc_oficial
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2007/009/010.html
 clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-  - convenio-colectivo-y-personal-laboral
-  - equipos-directivos
-  - personal-no-docente
-  - roc
-relaciones:
-  fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-  desarrolla:
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-  fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '1'
+- personal-laboral
+- convenio-colectivo
+- seleccion-personal
+- procedimientos-selectivos
+fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2007/009/boc-2007-009-010.pdf
+fecha_disposicion: '2006-12-21'
 ---
-# Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera (BOC n.º 9, de 12 de enero).
+# Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo, relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria Primera.
 
 ## Preámbulo
 
-Consejería de Educación, Universidades, Cultura y Deportes Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento. Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de los centros docentes públicos no universitarios, se precisa delegar en las Direcciones Territoriales de Educación la competencia de esta Dirección General en relación con las Jefaturas de Estudio adjuntas en los centros educativos en los que se determine. ANTECEDENTES DE HECHO
-Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, dirigir, controlar y coordinar la gestión del personal docente no universitario de la Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia para la concesión de comisiones de servicio y la declaración de adscripciones provisionales al personal docente no universitario en centros públicos, extendiéndose tal atribución a los cargos directivos.
-Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la Dirección General de Personal, la competencia administrativa para conceder comisiones de servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el desempeño de cargos directivos en centros docentes.
-Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
-Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución de 15 de junio de 2012. Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia Página
+Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
 
-que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de gestión de esta Consejería. A los anteriores hechos son de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- El artículo 12 l.
+Segundo.- Disponer el depÃ³sito del texto original.
 
-Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que establece las competencias de la Dirección General de Personal, en relación con su artículo 17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del Departamento.
-Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público que dispone que los órganos de las diferentes Administraciones públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas. En su virtud,
-RESUELVO:
-Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
-Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
-Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+
+Contra el presente acto que no agota la vÃ­a administrativa, cabe recurso de alzada ante la Sra. Consejera de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente ResoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+
+Las Palmas de Gran Canaria, a 21 de diciembre de 2006.- El Director General de Trabajo, Pedro TomÃ¡s Pino PÃ©rez.
+
+ACUERDO DE LA COMISIÃN NEGOCIADORA DEL CONVENIO COLECTIVO DEL PERSONAL LABORAL DE LA COMUNIDAD AUTÃNOMA DE CANARIAS, PARA LA MODIFICACIÃN DEL ARTÃCULO 11 DEL VIGENTE CONVENIO COLECTIVO, ASÃ COMO DE SU DIS DISPOSICIÃN TRANSITORIA PRIMERA.
+
+En Las Palmas de Gran Canaria, el dÃ­a diecisiete de noviembre de 2006, se reunieron los miembros de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, al objeto de negociar y alcanzar un acuerdo de modificaciÃ³n parcial del vigente Convenio Colectivo, acordÃ¡ndose lo siguiente:
+
+Primero.- Se modifica el artÃ­culo 11 del vigente Convenio Colectivo, en el sentido de aÃ±adir al primer pÃ¡rrafo de dicho artÃ­culo el inciso siguiente: "Para participar en este turno serÃ¡ necesario ostentar una antigÃ¼edad de al menos dos aÃ±os como personal laboral fijo en la categorÃ­a profesional desde la que se opta".
+
+Segundo.- Se modifica en su integridad la DisposiciÃ³n Transitoria Primera del vigente Convenio Colectivo, que queda redactada en los siguientes tÃ©rminos:
+
+"DISPOSICIÃN TRANSITORIA PRIMERA:
+
+A partir del momento de la entrada en vigor de la modificaciÃ³n parcial del CapÃ­tulo II de este convenio, y al objeto de normalizar la situaciÃ³n del personal laboral sujeto al mismo, se llevarÃ¡n a cabo con carÃ¡cter excepcional y por una sola vez, los procesos selectivos que se establecen a continuaciÃ³n:
+
+1Âº) PromociÃ³n interna, por el sistema de concurso de mÃ©ritos, entre el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias sujeto a este Convenio Colectivo, para cubrir puestos de trabajo correspondientes a categorÃ­as del mismo grupo o del inmediato superior o inferior al que se pertenezca.
+
+Para poder participar en dicha promociÃ³n serÃ¡ necesario ostentar una antigÃ¼edad como personal laboral fijo de al menos cinco aÃ±os. A estos efectos, se entenderÃ¡ que la antigÃ¼edad como personal laboral fijo es aquella ostentada a partir del momento de la obtenciÃ³n del vÃ­nculo de fijeza.
+
+En esta promociÃ³n, que podrÃ¡ efectuarse mediante convocatoria conjunta o individualizada por grupos retributivos, se ofertarÃ¡n los puestos vacantes no ocupados existentes en el momento de su aprobaciÃ³n, asÃ­ como los puestos ocupados por personal laboral no sustituto que se determinen por la AdministraciÃ³n previo acuerdo con las organizaciones sindicales, y los puestos ocupados por personal laboral fijo.
+
+La adjudicaciÃ³n de los puestos de personal laboral fijo se condiciona a que queden vacantes a resultas de la promociÃ³n.
+
+El personal laboral temporal que, como consecuencia de esta promociÃ³n interna, vea extinguido su contrato de trabajo, entrarÃ¡ a formar parte de una bolsa de trabajo para la cobertura temporal de plazas de su misma categorÃ­a profesional. Dicha bolsa tendrÃ¡ la consideraciÃ³n de lista de reserva aplicable a las contrataciones a efectuar por aquellos Departamentos u Organismos que carezcan de listas propias en la categorÃ­a que se trate, y su vigencia se extenderÃ¡ hasta la culminaciÃ³n de los procedimientos previstos en esta DisposiciÃ³n Transitoria, que afecten al grupo retributivo correspondiente. En el caso de que dicho personal provenga de una convocatoria que constituyÃ³ lista de reserva, se incorporarÃ¡ a la misma segÃºn la puntuaciÃ³n obtenida en dicha convocatoria.
+
+2Âº) Con las plazas no adjudicadas en el procedimiento descrito en el apartado anterior, incluyendo las posibles vacantes originadas por trabajadores promocionados en aquÃ©l, mÃ¡s las nuevas plazas vacantes que vayan surgiendo, se realizarÃ¡ una nueva convocatoria conjunta de promociÃ³n interna y de acceso libre.
+
+En el turno de promociÃ³n interna podrÃ¡ participar el personal laboral fijo, fijo discontinuo, fijo a tiempo parcial y fijo discontinuo a tiempo parcial de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias sujeto a este convenio colectivo para cubrir aquellos puestos de trabajo ofertados correspondientes a categorÃ­as de grupos superiores, independientemente del grupo al que se pertenezca.
+
+Para poder participar en dicha promociÃ³n serÃ¡ necesario ostentar una antigÃ¼edad como personal laboral fijo de al menos cinco aÃ±os. A estos efectos, se entenderÃ¡ que la antigÃ¼edad como personal laboral fijo es aquella ostentada a partir del momento de la obtenciÃ³n del vÃ­nculo de fijeza.
+
+En el turno de acceso libre, se ofertarÃ¡n las plazas ocupadas por personal laboral temporal no sustituto que no se hayan convocado con anterioridad. AsÃ­ mismo, podrÃ¡n ofertarse las plazas no adjudicadas en el turno de promociÃ³n interna que se determinen, las cuales acrecerÃ¡n a aquÃ©l.
+
+El sistema selectivo serÃ¡ el de concurso-oposiciÃ³n. Las pruebas de la fase de oposiciÃ³n versarÃ¡n sobre un temario especÃ­fico de la categorÃ­a profesional a la que se opta. En la fase de concurso para el personal de nuevo ingreso se valorarÃ¡n preferentemente los servicios prestados en la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias. La fase de concurso para el personal de promociÃ³n interna serÃ¡ previa a la fase de oposiciÃ³n.
+
+La convocatoria podrÃ¡ efectuarse con inclusiÃ³n de todos los grupos retributivos o por grupos individualizados.
+
+2. Las bases de las convocatorias a que hace referencia el nÃºmero anterior serÃ¡n establecidas por la AdministraciÃ³n, previa negociaciÃ³n con el ComitÃ© Intercentros.
+
+3. Hasta la culminaciÃ³n de los procesos selectivos previstos en esta DisposiciÃ³n no se llevarÃ¡n a cabo los sistemas de selecciÃ³n y provisiÃ³n establecidos en el CapÃ­tulo II del Convenio."
+
+Por la AdministraciÃ³n: el Viceconsejero de AdministraciÃ³n PÃºblica; el Director General de la FunciÃ³n PÃºblica.- Por el ComitÃ© Intercentros: el Presidente; el Secretario.

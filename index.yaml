@@ -7021,192 +7021,177 @@ normas:
     - interinos
     - profesorado
     path: autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md
-  norm-can-res-boc-1996-057-140:
-    id: norm-can-res-boc-1996-057-140
-    codigo_sintetizado: Resolucion BOC 140
+  norm-can-res-1996-03-18:
+    id: norm-can-res-1996-03-18
+    codigo_sintetizado: Circular 1/1996 Horarios Personal No Docente
     titulo: Resolución de 18 de marzo de 1996, de la Secretaría General Técnica, por
       la que se hace pública la Circular 1/1996, que dicta instrucciones sobre control
-      de horarios y absentismo del personal no docente de Centros escolares de la
-      Consejería de Educación, Cultura y Deportes (BOC nº 57, de 10 de mayo).
+      de horarios y absentismo del personal no docente de Centros escolares dependientes
+      de la Consejería de Educación, Cultura y Deportes.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
-    subcategoria: Circulares, instrucciones y condiciones de trabajo
+    subcategoria: Personal no docente y control de horarios
     tags:
-    - circulares-instrucciones-y-condiciones-de-trabajo
-    - educacion-infantil
-    - educacion-primaria
-    - ensenanzas-deportivas
-    - equipos-directivos
-    - organizacion-escolar
+    - personal-laboral
     - personal-no-docente
-    - profesorado
+    - control-horarios
+    - absentismo
+    - centros-docentes
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R18_3_1996_hace_publica_circular_dicta_instrucciones_control.md
-  norm-can-res-boc-1998-140-142:
-    id: norm-can-res-boc-1998-140-142
-    codigo_sintetizado: Resolucion BOC 142
-    titulo: Resolución de 19 de agosto de 1998, de la Dirección General de Trabajo
-      de la Consejería de Empleo y Asuntos Sociales, por el que se hace público Acuerdo
-      de la Comisión Negociadora del Convenio Colectivo del Personal Laboral al servicio
-      de la Comunidad Autónoma de Canarias de 6 de abril de 1998, relativo a la posibilidad
-      de ampliar la duración máxima de los contratos a que se refiere el artículo
-      15.1.b) del Estatuto de los Trabajadores y de aplicación a la Consejería de
-      Educación, Cultura y Deportes (BOC n.º 140, de 6 de noviembre).
+  norm-can-res-1998-08-19:
+    id: norm-can-res-1998-08-19
+    codigo_sintetizado: Acuerdo Duración Contratos Personal Laboral Educación 1998
+    titulo: Resolución de 19 de agosto de 1998, de la Dirección General de Trabajo,
+      por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo
+      del Personal Laboral al servicio de la Comunidad Autónoma de Canarias de 6 de
+      abril de 1998, relativo a la posibilidad de ampliar la duración máxima de los
+      contratos a que se refiere el artº. 15.1.b) del Estatuto de los Trabajadores
+      y de aplicación a la Consejería de Educación, Cultura y Deportes.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - ensenanzas-deportivas
-    - equipos-directivos
-    - personal-no-docente
+    - personal-laboral
+    - convenio-colectivo
+    - contratacion-temporal
+    - centros-educativos
+    - educacion
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R19_8_1998_hace_publico_acuerdo_comision_negociadora_convenio.md
-  norm-can-res-boc-2002-147-141:
-    id: norm-can-res-boc-2002-147-141
-    codigo_sintetizado: Resolucion BOC 141
-    titulo: Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo
-      de la Consejería de Empleo y Asuntos Sociales, relativa al Acuerdo de la Comisión
-      Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma
-      de Canarias para la introducción en el Convenio de una Disposición Adicional
-      Novena (BOC n.º 147, de 4 de noviembre).
+  norm-can-res-2002-10-01:
+    id: norm-can-res-2002-10-01
+    codigo_sintetizado: Acuerdo DA 9ª Convenio Personal Laboral 2002
+    titulo: Resolución de 1 de octubre de 2002, de la Dirección General de Trabajo,
+      relativa al Acuerdo de la Comisión Negociadora del Convenio Colectivo del Personal
+      Laboral de la Comunidad Autónoma de Canarias para la introducción en el Convenio
+      de una Disposición Adicional Novena.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - equipos-directivos
-    - personal-no-docente
-    - roc
+    - personal-laboral
+    - convenio-colectivo
+    - fijos-discontinuos
+    - disposicion-adicional
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R1_10_2002_relativa_acuerdo_comision_negociadora_convenio_colectivo.md
-  norm-can-res-boc-2007-009-143:
-    id: norm-can-res-boc-2007-009-143
-    codigo_sintetizado: Resolucion BOC 143
-    titulo: Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo
-      de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito
-      y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo
-      del Personal Laboral de la Comunidad Autónoma de Canarias, para la modificación
-      del artículo 11 del vigente convenio colectivo, así como de la Disposición Transitoria
-      Primera (BOC n.º 9, de 12 de enero).
+  norm-can-res-2006-12-21:
+    id: norm-can-res-2006-12-21
+    codigo_sintetizado: Acuerdo Modificación Art 11 Convenio Personal Laboral 2006
+    titulo: Resolución de 21 de diciembre de 2006, de la Dirección General de Trabajo,
+      relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora
+      del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias,
+      para la modificación del artículo 11 del vigente convenio colectivo, así como
+      de la Disposición Transitoria Primera.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - equipos-directivos
-    - personal-no-docente
-    - roc
+    - personal-laboral
+    - convenio-colectivo
+    - seleccion-personal
+    - procedimientos-selectivos
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R21_12_2006_relativa_registro_deposito_publicacion_acuerdo_comision.md
-  norm-can-res-boc-1994-083-144:
-    id: norm-can-res-boc-1994-083-144
-    codigo_sintetizado: Resolucion BOC 144
+  norm-can-res-1994-06-21:
+    id: norm-can-res-1994-06-21
+    codigo_sintetizado: Acuerdo Jubilación Voluntaria Personal Laboral 1994
     titulo: Resolución de 21 de junio de 1994, de la Dirección General de Trabajo,
       por la que se hace público Acuerdo de la Comisión Negociadora del Convenio Colectivo
-      del Personal Laboral de la Comunidad Autónoma de Canarias (BOC n.º 83, de 8
-      de julio).
+      del Personal Laboral de la Comunidad Autónoma de Canarias sobre jubilación voluntaria.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - ebep
-    - equipos-directivos
-    - evaluacion
-    - personal-no-docente
-    - roc
+    - personal-laboral
+    - convenio-colectivo
+    - jubilacion-voluntaria
+    - comision-negociadora
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R21_6_1994_hace_publico_acuerdo_comision_negociadora_convenio.md
-  norm-can-convenio-3-laboral:
-    id: norm-can-convenio-3-laboral
-    codigo_sintetizado: III Convenio Colectivo del Personal Laboral de Canarias
+  norm-can-res-1992-01-28:
+    id: norm-can-res-1992-01-28
+    codigo_sintetizado: III Convenio Colectivo Personal Laboral Canarias
     titulo: Resolución de 28 de enero de 1992, de la Dirección General de Trabajo,
       por la que se hace público el III Convenio Colectivo del Personal Laboral de
       la Comunidad Autónoma de Canarias.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
-    fecha_publicacion: '1992-02-12'
+    fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - categorias-profesionales
-    - condiciones-trabajo
-    - convenio-colectivo
-    - convenio-colectivo-y-personal-laboral
-    - ebep
-    - equipos-directivos
-    - gestion-economica
     - personal-laboral
-    - personal-no-docente
+    - convenio-colectivo
+    - derechos-laborales
+    - retribuciones
+    - clasificacion-profesional
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R28_1_1992_hace_publico_iii_convenio_colectivo_personal.md
-  norm-can-res-boc-2005-080-146:
-    id: norm-can-res-boc-2005-080-146
-    codigo_sintetizado: Resolucion BOC 146
-    titulo: Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo
-      de la Consejería de Empleo y Asuntos Sociales, relativa al registro, depósito
-      y publicación del convenio colectivo del personal laboral de la Comunidad Autónoma
-      de Canarias (BOC n.º 80, de 25 de abril).
+  norm-can-res-2005-03-28:
+    id: norm-can-res-2005-03-28
+    codigo_sintetizado: Acuerdo Modificación Convenio Colectivo Personal Laboral 2005
+    titulo: Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo,
+      relativa a registro, depósito y publicación del Convenio Colectivo del Personal
+      Laboral de la Comunidad Autónoma de Canarias.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - equipos-directivos
-    - inclusiva
-    - personal-no-docente
-    - roc
+    - personal-laboral
+    - convenio-colectivo
+    - retribuciones
+    - complementos-salariales
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R28_3_2005_relativa_registro_deposito_publicacion_convenio_colectivo.md
-  norm-can-res-boc-2007-036-147:
-    id: norm-can-res-boc-2007-036-147
-    codigo_sintetizado: Resolucion BOC 147
-    titulo: Resolución de 30 de enero de 2007, de la Dirección General de Trabajo
-      de la Consejería de Empleo y Asuntos Sociales, relativa al registro, deposito
-      y publicación del Acuerdo de la Comisión Negociadora del Convenio Colectivo
-      del Personal Laboral de la Comunidad Autónoma de Canarias, sobre encuadramiento
-      de diferentes categorías profesionales del Convenio Colectivo del Personal Laboral
-      de la Comunidad Autónoma de Canarias (BOC n.º 36, de 19 de febrero).
+  norm-can-res-2007-01-30:
+    id: norm-can-res-2007-01-30
+    codigo_sintetizado: Acuerdo Encuadramiento Categorías Convenio Laboral 2007
+    titulo: Resolución de 30 de enero de 2007, de la Dirección General de Trabajo,
+      relativa al registro, depósito y publicación del Acuerdo de la Comisión Negociadora
+      del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias,
+      sobre encuadramiento de diferentes categorías profesionales del Convenio Colectivo
+      del Personal Laboral de la Comunidad Autónoma de Canarias.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
     fecha_publicacion: ''
     estado: Vigente
-    redaccion: libro_azul
+    redaccion: boc_oficial
     categoria_canonica: 09_personal_laboral_y_no_docente
     subcategoria: Convenio colectivo y personal laboral
     tags:
-    - convenio-colectivo-y-personal-laboral
-    - equipos-directivos
-    - personal-no-docente
-    - roc
+    - personal-laboral
+    - convenio-colectivo
+    - encuadramiento-profesional
+    - categorias-laborales
     path: autonómica/canarias/09_personal_laboral_y_no_docente/R30_1_2007_relativa_registro_deposito_publicacion_acuerdo_comision.md
   norm-mad-d-230-2023:
     id: norm-mad-d-230-2023
@@ -31765,236 +31750,6 @@ relaciones_grafo:
 - origen: norm-can-res-134
   tipo: articulos
   destino: norm-es-2010-12201
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentado_en
-  destino: norm-can-d-212-1991
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentado_en
-  destino: norm-can-l-2-1987
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentado_en
-  destino: norm-es-1984-17387
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: articulos
-  destino: norm-can-l-2-1987
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: articulos
-  destino: norm-es-1984-17387
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1996-057-140
-  tipo: articulos
-  destino: norm-can-d-212-1991
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1998-140-142
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1998-140-142
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1998-140-142
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1998-140-142
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1998-140-142
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2002-147-141
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2002-147-141
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2002-147-141
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2002-147-141
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2002-147-141
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-009-143
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-009-143
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-009-143
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-009-143
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-009-143
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1994-083-144
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1994-083-144
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1994-083-144
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1994-083-144
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-1994-083-144
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-convenio-3-laboral
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-convenio-3-laboral
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-convenio-3-laboral
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-convenio-3-laboral
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-convenio-3-laboral
-  tipo: fundamentos_derecho
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2005-080-146
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2005-080-146
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2005-080-146
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2005-080-146
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2005-080-146
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-036-147
-  tipo: fundamentado_en
-  destino: norm-can-l-6-2014
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-036-147
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-036-147
-  tipo: desarrolla
-  destino: norm-es-rdl-2-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-036-147
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-can-res-boc-2007-036-147
-  tipo: fundamentos_derecho
-  destino: norm-can-l-6-2014
   articulos_origen: []
   articulos_destino: []
 - origen: norm-mad-d-230-2023

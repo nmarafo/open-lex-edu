@@ -1,51 +1,61 @@
 ---
-id: norm-can-res-boc-2005-080-146
-codigo_sintetizado: Resolucion BOC 146
-titulo: Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, depósito y publicación del convenio colectivo del personal laboral de la Comunidad Autónoma de Canarias (BOC n.º 80, de 25 de abril).
+id: norm-can-res-2005-03-28
+codigo_sintetizado: Acuerdo Modificación Convenio Colectivo Personal Laboral 2005
+titulo: Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo, relativa
+  a registro, depósito y publicación del Convenio Colectivo del Personal Laboral de
+  la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Dirección General de Trabajo
 tipo_disposicion: Resolución
 estado: Vigente
-redaccion: libro_azul
-fuente_oficial: http://www.gobiernodecanarias.org/boc/2005/080/023.html
+redaccion: boc_oficial
+fuente_oficial: https://www.gobiernodecanarias.org/boc/2005/080/023.html
 clasificacion:
   categoria_canonica: 09_personal_laboral_y_no_docente
   subcategoria: Convenio colectivo y personal laboral
 tags:
-  - convenio-colectivo-y-personal-laboral
-  - equipos-directivos
-  - inclusiva
-  - personal-no-docente
-  - roc
-relaciones:
-  fundamentado_en:
-    - norma_id: norm-can-l-6-2014
-    - norma_id: norm-es-rdl-5-2015
-  desarrolla:
-    - norma_id: norm-es-rdl-2-2015
-    - norma_id: norm-es-rdl-5-2015
-  fundamentos_derecho:
-    - norma_id: norm-can-l-6-2014
-  articulos:
-    - '1'
+- personal-laboral
+- convenio-colectivo
+- retribuciones
+- complementos-salariales
+fuente_pdf_oficial: https://www.gobiernodecanarias.org/boc/2005/080/boc-2005-080-023.pdf
+fecha_disposicion: '2005-03-28'
 ---
-# Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo de la Consejería de Empleo y Asuntos Sociales, relativa al registro, depósito y publicación del convenio colectivo del personal laboral de la Comunidad Autónoma de Canarias (BOC n.º 80, de 25 de abril).
+# Resolución de 28 de marzo de 2005, de la Dirección General de Trabajo, relativa a registro, depósito y publicación del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias.
 
 ## Preámbulo
 
-Consejería de Educación, Universidades, Cultura y Deportes Dirección General de Personal.- Resolución de 12 de febrero de 2021, por la que se delega en las Direcciones Territoriales de Educación determinada competencia relativa a cargos directivos de los centros públicos docentes del ámbito de gestión de este Departamento. Con el fin de dotar de mayor eficiencia y agilidad la gestión de cargos directivos de los centros docentes públicos no universitarios, se precisa delegar en las Direcciones Territoriales de Educación la competencia de esta Dirección General en relación con las Jefaturas de Estudio adjuntas en los centros educativos en los que se determine. ANTECEDENTES DE HECHO
-Primero.- El Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes, atribuye a la Dirección General de Personal, de forma genérica, entre otras facultades, la de planificar, dirigir, controlar y coordinar la gestión del personal docente no universitario de la Comunidad Autónoma de Canarias y, concretamente, en su artículo 12.2.c) la competencia para la concesión de comisiones de servicio y la declaración de adscripciones provisionales al personal docente no universitario en centros públicos, extendiéndose tal atribución a los cargos directivos.
-Segundo.- El artículo 4 de la Orden de 10 de mayo de 2010, por la que se establecen las normas aplicables para la provisión de puestos de trabajo vacantes con carácter provisional, por parte del personal funcionario de carrera, funcionario en prácticas y laboral fijo docente no universitario, en el ámbito de la Comunidad Autónoma de Canarias, atribuye a la Dirección General de Personal, la competencia administrativa para conceder comisiones de servicios en los supuestos previstos en la misma, entre ellos, según su artículo 7.g) para el desempeño de cargos directivos en centros docentes.
-Tercero.- La Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de Educación, regula, en su artículo 131, la dirección de los centros públicos y la composición del equipo directivo distinguiendo entre la dirección, la jefatura de estudios, la secretaría y aquellos que determinen por las Administraciones Educativas.
-Cuarto.- Mediante Resolución de 1 de julio de 2010, se delega en las Direcciones Territoriales de Educación la competencia, entre otras, para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefaturas de Estudios Adjunta, resultando avocada la misma mediante Resolución de 15 de junio de 2012. Resultando precisa la unificación de la gestión de cargos directivos en su totalidad, se hace necesario conferir nuevamente a los órganos de gestión de esta Consejería tal competencia Página
+Primero.- Ordenar la inscripciÃ³n en el Registro de Convenios Colectivos con notificaciÃ³n a la ComisiÃ³n Negociadora.
 
-que tienen atribuida para el resto de cargos directivos de los centros docentes del ámbito de gestión de esta Consejería. A los anteriores hechos son de aplicación los siguientes FUNDAMENTOS DE DERECHO
-Primero.- El artículo 12 l.
+Segundo.- Disponer el depÃ³sito del texto original.
 
-Decreto 135/2016, de 10 de octubre, por el que se aprueba el Reglamento Orgánico de la Consejería de Educación, Universidades, Cultura y Deportes que establece las competencias de la Dirección General de Personal, en relación con su artículo 17 que dispone que las Direcciones Territoriales ejercerán, además de las que atribuye el propio Reglamento, las que sean delegadas y encomendadas por los órganos superiores del Departamento.
-Segundo.- El artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público que dispone que los órganos de las diferentes Administraciones públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos Públicos o Entidades de Derecho Público vinculados o dependientes de aquellas. En su virtud,
-RESUELVO:
-Primero.- Delegar en las Direcciones Territoriales de Educación la competencia para el nombramiento y cese, así como para la concesión, cese y revocación de las comisiones de servicios para el desempeño del cargo de Jefatura de Estudios Adjunta en los centros educativos en que se determine, que ejercerán, en su ámbito territorial, bajo la dirección y coordinación de esta Dirección General de Personal que dictará cuantas normas e instrucciones considere necesarias.
-Segundo.- La delegación conferida por esta Resolución se entenderá sin perjuicio de la potestad de su revocación y en las Resoluciones que se adopten en el ejercicio de la misma se hará constar esta circunstancia considerándose, a todos los efectos, dictadas por esta Dirección General de Personal.
-Tercero.- La presente Resolución entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial de Canarias. Las Palmas de Gran Canaria, a 12 de febrero de 2021.- El Director General de Personal, Fidel Benigno Trujillo Santana.
+Tercero.- Disponer su publicaciÃ³n en el BoletÃ­n Oficial de Canarias.
+
+Contra el presente acto que no agota la vÃ­a administrativa, cabe recurso de alzada ante el Sr. Consejero de Empleo y Asuntos Sociales, en el plazo de un mes desde la notificaciÃ³n o publicaciÃ³n de la presente resoluciÃ³n, y sin perjuicio de cualquier otro recurso que pudiera interponerse.
+
+Las Palmas de Gran Canaria, a 28 de marzo de 2005.- El Director General de Trabajo, AgustÃ­n HernÃ¡ndez Miranda.
+
+Acuerdo de la AdministraciÃ³n de la Comunidad AutÃ³noma de Canarias y el ComitÃ© Intercentros ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias para la modificaciÃ³n de los artÃ­culos 46 y del 
+
+## anexo V. del vigente Convenio Colectivo.
+
+En Santa Cruz de Tenerife, el dÃ­a 3 de diciembre de 2004, se reunieron los miembros de la ComisiÃ³n Negociadora del Convenio Colectivo del Personal Laboral de la Comunidad AutÃ³noma de Canarias, al objeto de estudiar la inclusiÃ³n en el artÃ­culo 46 del Complemento de atenciÃ³n al pÃºblico, asÃ­ como una inclusiÃ³n en el 
+
+## anexo V. , modificÃ¡ndose los citados artÃ­culos y anexos del citado Convenio Colectivo en el tenor literal siguiente:
+
+"ArtÃ­culo 46: Complementos y pluses.
+
+Introducir dentro del apartado b), un nuevo nÃºmero, distinguido con el 4 y que se denominarÃ¡: "Complemento de atenciÃ³n al pÃºblico".
+
+Retribuye la especial dedicaciÃ³n a tareas de atenciÃ³n al pÃºblico que conllevan determinados puestos de trabajo.
+
+SerÃ¡ de aplicaciÃ³n a aquellos puestos de trabajo, que dediquen mÃ¡s del cincuenta por ciento de la jornada laboral, a la realizaciÃ³n de tareas de atenciÃ³n al pÃºblico, y que cumplan con los demÃ¡s requisitos que determine la ComisiÃ³n Negociadora del Convenio Colectivo.
+
+La asignaciÃ³n del complemento se efectuarÃ¡ por la citada ComisiÃ³n, dentro de las disponibilidades presupuestarias que al efecto se establezcan.
+
+## ANEXO V. : AÃ±adir:
+
+Complemento de atenciÃ³n al pÃºblico: 37,29 euros/mes.
+
+La AdministraciÃ³n.- Ilma. Sra. Viceconsejera de AdministraciÃ³n PÃºblica.- Ilmo. Sr. Director General de la FunciÃ³n PÃºblica.- El ComitÃ© Intercentros.- El Presidente.- El Secretario.
