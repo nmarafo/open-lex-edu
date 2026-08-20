@@ -118,7 +118,8 @@ establecido en el Decreto 174/2018, de 3 de diciembre, de aprobación del Reglam
 #### Tercera. Sesiones de evaluación.
 
 1. Para los ciclos formativos de grado básico se realizarán, al menos, las siguientes sesiones de evaluación:
-1.1. Año académico 2024/2025. En el primer curso ( LOOIFP):
+
+**1.1.** Año académico 2024/2025. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final ordinaria.
@@ -129,13 +130,15 @@ c) Una sesión de evaluación final ordinaria de los ámbitos y el acceso a FCT.
 d) Una sesión de evaluación final extraordinaria de ámbitos comunes y módulos pendientes y evaluación final ordinaria del módulo FCT.
 e) Una sesión de evaluación final extraordinaria del módulo FCT.
 
-1.2. Año académico 2025/2026. En el primer curso (LOOIFP):
+**1.2.** Año académico 2025/2026. En el primer curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final extraordinaria.** En el segundo curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
-c) **Una sesión de evaluación final.** Con carácter excepcional, el alumnado repetidor de segundo que solo tenga pendiente de superar el módulo de FCT del sistema que se extingue podrá cursar dicho módulo durante el primer cuatrimestre del curso escolar 2025/2026 y una vez finalizado se celebrará una sesión de evaluación final de ciclo extraordinaria del módulo FCT. En tal caso, deberán estar matriculados en el módulo de FCT y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir. 1.3. Año académico 2026/2027. En el primer curso (LOOIFP):
+c) **Una sesión de evaluación final.** Con carácter excepcional, el alumnado repetidor de segundo que solo tenga pendiente de superar el módulo de FCT del sistema que se extingue podrá cursar dicho módulo durante el primer cuatrimestre del curso escolar 2025/2026 y una vez finalizado se celebrará una sesión de evaluación final de ciclo extraordinaria del módulo FCT. En tal caso, deberán estar matriculados en el módulo de FCT y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir.
+
+**1.3.** Año académico 2026/2027. En el primer curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final extraordinaria.** En el segundo curso ( LOOIFP):
@@ -300,8 +303,6 @@ segundo curso sin haber superado los ámbitos comunes (Comunicación y ciencias 
 
 3. Quienes durante el curso 2025-2026 deban repetir segundo curso, por tener pendiente de superar alguno de los ámbitos comunes (Comunicación y Ciencias sociales y Ciencias aplicadas) o algún módulo profesional del sistema que se extingue, deberán matricularse y cursar nuevamente todos los ámbitos conforme a los nuevos planes. No obstante, los
 
-módulos profesionales y ámbitos comunes superados con anterioridad mantendrán la calificación obtenida, y el alumnado los cursará con la finalidad de mejorar la calificación.
-
 4. Quienes únicamente tengan pendiente de superar el módulo de FCT del sistema que se extingue podrán cursar dicho módulo durante el curso 2025-2026. En tal caso, deberán estar matriculados en el módulo de FCT y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir.
 
 #### Undécima. Certificación de la formación de nivel básico en prevención de riesgos laborales.
@@ -353,7 +354,8 @@ cada uno de los módulos profesionales, teniendo siempre en cuenta, como referen
 #### Tercera. Sesiones de evaluación.
 
 1. Para los ciclos formativos de grado medio y superior se realizarán, al menos, las siguientes sesiones de evaluación:
-1.1. Año académico 2024/2025. En el primer curso ( LOOIFP):
+
+**1.1.** Año académico 2024/2025. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 
 b) Dos sesiones de evaluación parciales.
@@ -361,7 +363,9 @@ c) **Una sesión de evaluación final de primero.** En el segundo curso (Plan de
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final y de acceso a los módulos Integración/Proyecto y FCT, que podrá coincidir en el tiempo con la segunda evaluación parcial.
-d) **Una sesión de evaluación final de ciclo.** 1.2. Año académico 2025/2026. En el primer curso ( LOOIFP):
+d) **Una sesión de evaluación final de ciclo.**
+
+**1.2.** Año académico 2025/2026. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final de primero.** En el segundo curso ( LOOIFP):
@@ -371,7 +375,9 @@ c) **Una sesión de evaluación final de ciclo.** Para alumnado repetidor de seg
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final y de acceso a los módulos Integración/Proyecto y FCT, que podrá coincidir en el tiempo con la segunda evaluación parcial.
-d) **Una sesión de evaluación final de ciclo.** 1.3. A partir del año académico 2026/2027. En el primer curso ( LOOIFP):
+d) **Una sesión de evaluación final de ciclo.**
+
+**1.3.** A partir del año académico 2026/2027. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final de primero.
@@ -405,14 +411,14 @@ c) **Sesión de evaluación final de ciclo.** Se celebrará durante el tercer tr
 d) **Sesión de evaluación final de ciclo extraordinaria.** A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de superar la FEOE podrá realizarla en un periodo excepcional al comienzo del siguiente curso escolar. Se realizará una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
 
 4. Sesiones de evaluación para el alumnado repetidor de segundo curso en el año académico 2025/2026. El alumnado que durante el año académico 2025/2026 se encuentre repitiendo segundo curso y tenga pendiente de superación módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir, para lo que se contemplan los siguientes supuestos:
-A) Alumnado repetidor que tenga módulos pendientes cuya carga horaria sea superior al 25% de la duración del conjunto de módulos profesionales del ciclo, exceptuando los módulos profesionales de Proyecto/Integración y FCT. Deberá cursar los nuevos módulos profesionales equivalentes, tanto los que tengan la misma codificación como los que no contaran con la misma codificación de acuerdo con la tabla que figura a continuación, y superar los módulos de FCT y/o de Proyecto/Integración. En tal caso, deberá estar matriculado en los módulos pendientes antiguos y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir. Folio 22/42 El alumnado que  durante el año académico 2025/2026 se encuentre repitiendo segundo curso y tenga pendiente de superación módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir, para lo que se contemplan los siguientes supuestos:
+A) Alumnado repetidor que tenga módulos pendientes cuya carga horaria sea superior al 25% de la duración del conjunto de módulos profesionales del ciclo, exceptuando los módulos profesionales de Proyecto/Integración y FCT. Deberá cursar los nuevos módulos profesionales equivalentes, tanto los que tengan la misma codificación como los que no contaran con la misma codificación de acuerdo con la tabla que figura a continuación, y superar los módulos de FCT y/o de Proyecto/Integración. En tal caso, deberá estar matriculado en los módulos pendientes antiguos y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir. El alumnado que durante el año académico 2025/2026 se encuentre repitiendo segundo curso y tenga pendiente de superación módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir, para lo que se contemplan los siguientes supuestos:
 A) Alumnado repetidor que tenga módulos pendientes cuya carga horaria sea superior al 25% de la duración del conjunto de módulos profesionales del ciclo, exceptuando los módulos profesionales de Proyecto/Integración y FCT.
 
-Deberá cursar  los  nuevos  módulos  profesionales  equivalentes,  tanto  los  que  tengan  la  misma codificación como los que no contaran con la misma codificación de acuerdo con la tabla que figura a continuación, y superar los módulos de FCT y/o de Proyecto/Integración. En tal caso, deberá estar matriculado en los módulos pendientes antiguos y la calificación obtenida se  consignará  en  el  expediente  académico  del  alumnado  y  en  los  documentos  oficiales  de evaluación con la denominación y codificación del plan de estudios a extinguir. Ordenación  de  acuerdo  con  Real  Decreto 659/2023, de 18 de julio Ordenación  de  acuerdo  con  Real  Decreto 1147/2011, de 29 de julio
+Deberá cursar los nuevos módulos profesionales equivalentes, tanto los que tengan la misma codificación como los que no contaran con la misma codificación de acuerdo con la tabla que figura a continuación, y superar los módulos de FCT y/o de Proyecto/Integración. En tal caso, deberá estar matriculado en los módulos pendientes antiguos y la calificación obtenida se consignará en el expediente académico del alumnado y en los documentos oficiales de evaluación con la denominación y codificación del plan de estudios a extinguir. Ordenación de acuerdo con Real Decreto 659/2023, de 18 de julio Ordenación de acuerdo con Real Decreto 1147/2011, de 29 de julio
 
-1079. Itinerario personal para la empleabilidad I  Formación y orientación laboral
+1079. Itinerario personal para la empleabilidad I Formación y orientación laboral
 
-1710. Itinerario personal para la empleabilidad II  Empresa e iniciativa emprendedora
+1710. Itinerario personal para la empleabilidad II Empresa e iniciativa emprendedora
 
 0179. Inglés profesional (GS) 0179. Inglés Lengua extranjera (Inglés)
 
@@ -421,10 +427,9 @@ Deberá cursar  los  nuevos  módulos  profesionales  equivalentes,  tanto  los 
 1713. Proyecto intermodular de GM Integración Proyecto intermodular de GS Proyecto de GS Las sesiones de evaluación para este alumnado serán las siguientes:
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
-c) Una sesión de evaluación final y de acceso a los módulos Integración/Proyecto y  FCT, que podrá coincidir en el tiempo con la segunda evaluación parcial. E n ella se evaluarán y calificarán los módulos profesionales pendientes de superar de segundo curso y, en su caso, de primer curso, y se tomará la decisión de acceso a los módulos Integración/Proyecto y  FCT.
-d) **Una sesión de evaluación final de ciclo.** Al final del periodo de realización de los módulos de Integración/Proyecto y FCT se realizará una sesión de evaluación final de los mismos y, en su caso, de  aquellos  módulos  cuya  evaluación  negativa  no  haya  impedido  el  acceso  a  los  módulos  de Integración/Proyecto y FCT. En ningún caso se podrá evaluar en esta sesión a aquel alumnado que tenga que repetir curso y no haya accedido a la FCT. Estas sesiones podrán coincidir en el tiempo con las establecidas para el alumnado no repetidor.
-B) Alumnado repetidor que tenga módulos pendientes cuya carga horaria sea inferior o igual al 25% de  la  duración  del  conjunto  de  módulos  profesionales  del  ciclo,  exceptuando  los  módulos profesionales de  Proyecto/Integración y FCT. En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000Nmm44sGRjaDR5B4eXkFmnw== Las sesiones de evaluación para este alumnado serán las siguientes:
+c) Una sesión de evaluación final y de acceso a los módulos Integración/Proyecto y FCT, que podrá coincidir en el tiempo con la segunda evaluación parcial. E n ella se evaluarán y calificarán los módulos profesionales pendientes de superar de segundo curso y, en su caso, de primer curso, y se tomará la decisión de acceso a los módulos Integración/Proyecto y FCT.
+d) **Una sesión de evaluación final de ciclo.** Al final del periodo de realización de los módulos de Integración/Proyecto y FCT se realizará una sesión de evaluación final de los mismos y, en su caso, de aquellos módulos cuya evaluación negativa no haya impedido el acceso a los módulos de Integración/Proyecto y FCT. En ningún caso se podrá evaluar en esta sesión a aquel alumnado que tenga que repetir curso y no haya accedido a la FCT. Estas sesiones podrán coincidir en el tiempo con las establecidas para el alumnado no repetidor.
+B) Alumnado repetidor que tenga módulos pendientes cuya carga horaria sea inferior o igual al 25% de la duración del conjunto de módulos profesionales del ciclo, exceptuando los módulos profesionales de Proyecto/Integración y FCT. En la dirección -000Nmm44sGRjaDR5B4eXkFmnw== Las sesiones de evaluación para este alumnado serán las siguientes:
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) Una sesión de evaluación final y de acceso a los módulos Integración/Proyecto y FCT, que podrá coincidir en el tiempo con la segunda evaluación parcial. En ella se evaluarán y calificarán los módulos profesionales pendientes de superar de segundo curso y, en su caso, de primer curso, y se tomará la decisión de acceso a los módulos Integración/ Proyecto y FCT.
@@ -679,19 +684,25 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 
 1. Para los ciclos formativos de grado medio y superior en la modalidad semipresencial y virtual se realizarán, al menos, las siguientes sesiones de evaluación:
 
-1.1. Año académico 2024/2025. En el primer curso (LOOIFP):
+**1.1.** Año académico 2024/2025. En el primer curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final.** En el segundo curso y tercer curso (Plan de estudios a extinguir Real Decreto 1147/2011, de 29 de julio):
-Se llevarán a cabo las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. 1.2. Año académico 2025/2026. En el primer curso ( LOOIFP):
+Se llevarán a cabo las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
+
+**1.2.** Año académico 2025/2026. En el primer curso ( LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
 c) **Una sesión de evaluación final.** En el segundo curso (LOOIFP):
 a) Una sesión de evaluación inicial.
 b) Dos sesiones de evaluación parciales.
-c) **Una sesión de evaluación final de ciclo.** Para el alumnado que cursa una formación del plan de estudios a extinguir y que ha promocionado al tercer curso, en el caso de ciclos estructurados en tres años académicos, y alumnado con módulos pendientes en el caso de los ciclos formativos estructurados en dos años académicos, se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. 1.3. Año académico 2026/2027. A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de superar la FEOE podrá realizarla al comienzo del curso escolar. La evaluación se llevará a cabo en una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
+c) **Una sesión de evaluación final de ciclo.** Para el alumnado que cursa una formación del plan de estudios a extinguir y que ha promocionado al tercer curso, en el caso de ciclos estructurados en tres años académicos, y alumnado con módulos pendientes en el caso de los ciclos formativos estructurados en dos años académicos, se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
 
-Para alumnado que durante el año académico 2026/2027 se encuentre repitiendo con módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir. Para este alumnado se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021. 1.4. A partir de 1 de septiembre de 2027. El alumnado con módulos pendientes del sistema que se extingue será adaptado a la nueva ordenación académica. A estos efectos, se trasladarán las calificaciones obtenidas a los nuevos módulos.
+**1.3.** Año académico 2026/2027. A partir del 1 de septiembre de 2026, aquel alumnado que solo tenga pendiente de superar la FEOE podrá realizarla al comienzo del curso escolar. La evaluación se llevará a cabo en una sesión de evaluación final de ciclo extraordinaria, una vez finalizada la FEOE.
+
+Para alumnado que durante el año académico 2026/2027 se encuentre repitiendo con módulos profesionales del sistema que se extingue, deberá superarlos conforme al currículo del plan de estudios a extinguir. Para este alumnado se mantendrán las sesiones de evaluación previstas en la Resolución de 23 de septiembre de 2020, por la que se dictan instrucciones para la organización y funcionamiento de la oferta de Formación Profesional Semipresencial en la Comunidad Autónoma de Canarias, a partir del curso 2020-2021.
+
+**1.4.** A partir de 1 de septiembre de 2027. El alumnado con módulos pendientes del sistema que se extingue será adaptado a la nueva ordenación académica. A estos efectos, se trasladarán las calificaciones obtenidas a los nuevos módulos.
 
 2. Sesiones de Evaluación ( LOOIFP). Las sesiones de evaluación de los Grados D, en las modalidades semipresencial y virtual se llevarán a cabo en los mismos términos indicados para la modalidad presencial (Anexo II, instrucción Tercera de la presente Resolución) con las siguientes peculiaridades:
 • En las sesiones de evaluación parciales se evaluarán y calificarán los módulos que en dicho momento se estén impartiendo, los no impartidos se consignarán como "No evaluado" (N.E.).

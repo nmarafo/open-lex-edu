@@ -40,9 +40,9 @@ RESUELVO:
 Primero Objeto Se declara desierto el puesto de trabajo que se expresa en el listado.
 Segundo Recursos La presente Resolución no pone fin a la vía administrativa y contra la misma podrá interponerse, en el plazo de un mes contado a partir del día siguiente a su publicación en el no que la ha dictado o ante la Consejera de Economía, Empleo y Hacienda, conforme a lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de cualquier otro recurso que se estime procedente en derecho. Madrid, a 13 de agosto de 2019.—El Director General de Presupuestos y Recursos Humanos, Gregorio Moreno López.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN (ARTICULO 55) CONSEJERIA CULTURA, TURISMO Y DEPORTES VICECONSEJERIA CULTURA, TURISMO Y DEPORTES DIRECCION GENERAL TURISMO SUBDIRECCION GENERAL DESARROLLO Y SOSTENIBILIDAD Puesto de Trabajo:
-TECNICO DE APOYO Denominación     :
-26 A / B Grupo                :
-N.C.D.              :
-15.704,88 C. Específico     :
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN (ARTICULO 55) CONSEJERIA CULTURA, TURISMO Y DEPORTES VICECONSEJERIA CULTURA, TURISMO Y DEPORTES DIRECCION GENERAL TURISMO SUBDIRECCION GENERAL DESARROLLO Y SOSTENIBILIDAD Puesto de Trabajo:
+TECNICO DE APOYO Denominación :
+26 A / B Grupo :
+N.C.D. :
+15.704,88 C. Específico :
 DESIERTO PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO (03/31.502/19)

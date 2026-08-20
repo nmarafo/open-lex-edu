@@ -44,20 +44,20 @@ relaciones:
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 1995
-•  1995/034. Lunes 20 de Marzo de 1995
-•  424 <p>Menú de búsqueda y navegación</p>
-•  Anterior
-•  Siguiente
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 1995
+• 1995/034. Lunes 20 de Marzo de 1995
+• 424 <p>Menú de búsqueda y navegación</p>
+• Anterior
+• Siguiente
 
 424 - DECRETO 23/1995, de 24 de febrero, por el que se regula la orientación educativa en la Comunidad Autónoma Canaria. [image] Descargar en formato pdf La organización y el más eficaz funcionamiento de los diferentes servicios dedicados a la orientación educativa son elementos imprescindibles para alcanzar los objetivos de calidad de la enseñanza que se plantea la política educativa canaria. La concepción de la educación que incorpora la Ley de Ordenación General del Sistema Educativo implica la participación coordinada de todos sus agentes a lo largo del proceso de enseñanzaaprendizaje, desde el momento de su planificación hasta su evaluación y revisión. Reconocidas la orientación educativa y la intervención psicopedagógica como recursos necesarios dentro del sistema educativo, su organización como apoyo externo al sistema debe ser reemplazada por otra en que la actuación sea global, preventiva, cooperativa, continua e integrada en el proceso de enseñanza-aprendizaje, tomando al centro escolar como referencia básica de toda intervención. La orientación educativa es una exigencia básica en el desarrollo del nuevo currículo, lo que hace necesario que ésta se organice de tal manera que abarque en su campo de actuación a todos los niveles de enseñanza, excepto la universitaria. La experiencia acumulada durante el tiempo que llevan actuando los profesionales de la orientación en Canarias, potenciados por el esfuerzo llevado a cabo por la Consejería de Educación, Cultura y Deportes desde que asume plenas competencias, para dotar al sistema de los recursos humanos y materiales necesarios, es la base sobre la que se debe desarrollar la nueva organización de los servicios de orientación. La orientación educativa y la intervención psicopedagógica en la Comunidad Autónoma Canaria las realizan actualmente el Servicio Técnico de Orientación Educativa y Profesional, regulado por Orden de la Consejería de Educación, Cultura y Deportes de 13 de agosto de 1990, los Equipos Multiprofesionales, regulados por Orden del Ministerio de Educación y Ciencia de 9 de septiembre de 1982, y los Departamentos de Orientación de centros que anticipan la
 
@@ -290,5 +290,5 @@ rango que se opongan a lo establecido en el presente Decreto, en especial el Dec
 
 #### Segunda. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 24 de febrero de 1995. EL PRESIDENTE DEL GOBIERNO, Manuel Hermoso Rojas. EL CONSEJERO DE EDUCACIÓN, CULTURA Y DEPORTES, José Mendoza Cabrera. © Gobierno de Canarias
 
-•  Aviso Legal
-•  Sugerencias y Reclamaciones
+• Aviso Legal
+• Sugerencias y Reclamaciones

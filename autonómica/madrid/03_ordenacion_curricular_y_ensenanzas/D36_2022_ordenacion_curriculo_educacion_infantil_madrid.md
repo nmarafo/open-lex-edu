@@ -40,7 +40,16 @@ B) Autoridades y Personal Asamblea de Madrid 1 RESOLUCIÓN de 3 de junio de 2022
 Estatuto del Personal de la Asamblea de Madrid), así como las bases que han de regir dicha convocatoria. Considerando el Acuerdo de la Mesa de la Asamblea de 30 de mayo de 2022, por el que se aprueba la Oferta de Empleo Público 2022 para la Asamblea de Madrid ("Boletín Oficial de la Asamblea de Madrid" número 51, de 31 de mayo de 2022) Esta Presidencia, en virtud de las competencias atribuidas por el artículo 6.2.c) del Estatuto de Personal de Asamblea de Madrid, DISPONE Convocar las pruebas selectivas para la cobertura de dos plazas del Cuerpo de Archiveros-Bibliotecarios, Escala Superior (Grupo A, Subgrupo A1 del artículo 14 del Estatuto del Personal de la Asamblea de Madrid), según las bases adjuntas, ordenando la publicación de la presente Resolución de convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Madrid, a 3 de junio de 2022.—El Vicepresidente Primero, por delegación (Resolución de Presidencia de 2 de julio de 2021), Jorge Rodrigo Domínguez. BASES DE CONVOCATORIA 1. Normas generales Se convocan pruebas selectivas para cubrir 2 plazas del Cuerpo Archiveros Bibliotecarios, Escala Superior, de la Asamblea de Madrid (Grupo A, Subgrupo A1 del artículo 14 del Estatuto del Personal de la Asamblea de Madrid). La presente convocatoria tiene en cuenta el principio de igualdad de trato entre hombres y mujeres en el acceso al empleo público, de acuerdo con el artículo 14 de la Constitución Española, la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, y el I Plan de Igualdad de las Asamblea de Madrid, aprobado por la Mesa de la Diputación Permanente de la Asamblea, de fecha 6 de junio de 2019. De acuerdo con lo dispuesto en el punto séptimo del Acuerdo de la Mesa de la Asamblea de Madrid, de 27 de marzo de 2019, por el que se establece que en las ofertas de empleo que realice la Asamblea de Madrid se reserve un cupo no inferior al 10 por 100 de las plazas vacantes ofertadas para ser cubiertas entre personas que tengan la condición legal de personas con discapacidad con un grado igual o superior al 33 por 100, se reserva un cupo de 1 plaza siempre que reúnan los requisitos de la presente convocatoria, superen las pruebas selectivas y, en su momento, acrediten el indicado grado de discapacidad y la compatibilidad con el desempeño de las tareas y funciones correspondientes. En caso de que dicha plaza no se cubriera por este turno, incrementará el turno libre. La adjudicación de las plazas se efectuará, de acuerdo con la puntuación total obtenida. El proceso selectivo se hará por el procedimiento de oposición para el turno libre. El primer ejercicio no se celebrará antes del día 1 de septiembre de 2022. El número de aspirantes que superen el proceso selectivo, compuesto por todos y cada uno de los ejercicios de la fase oposición, de carácter eliminatorio, no podrá ser superior al de plazas convocadas.
 
 2. Requisitos de los candidatos Para ser admitido a la realización de las pruebas selectivas, los aspirantes deben reunir los siguientes requisitos:
-2.1.1. Tener la nacionalidad española. 2.1.2. Tener cumplidos los dieciocho años y no exceder, en su caso, de la edad máxima de jubilación forzosa. 2.1.3. Estar en posesión del título de Licenciado, o del título de Grado o en condiciones de obtenerlo, en la fecha en que termine el plazo de presentación de instancias. Los aspirantes con titulaciones universitarias obtenidas en el extranjero deberán acreditar que están en posesión de la correspondiente credencial de homologación o en su caso del correspondiente certificado de equivalencia. 2.1.4. No padecer enfermedad ni estar afectado por limitación física o psíquica que sea incompatible con el desempeño de las correspondientes funciones. 2.1.5. No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, para el acceso al cuerpo o escala de funcionarios. Todos los requisitos enumerados en la base 2.1 deberán poseerse en el día de la finalización del plazo de presentación de solicitudes y mantenerlos hasta el momento de la toma de posesión como funcionario de carrera. Los aspirantes que concurran por el cupo de reserva de discapacidad, además de reunir los requisitos generales exigidos en la base 2.1 deberán tener legalmente reconocido un grado de discapacidad igual o superior al 33 por 100 en el día de finalización del plazo de presentación de solicitudes y mantenerlo hasta el momento de la toma de posesión como funcionario de carrera. Esta circunstancia se acreditará una vez superado el proceso selectivo. 2. Solicitudes Las solicitudes para tomar parte en este proceso selectivo se ajustarán al modelo que se publica al final de esta convocatoria (Anexo II). La presentación de solicitudes, podrá hacerse en el Registro General de esta Asamblea de Madrid, plaza de la Asamblea de Madrid, número 1, de 9 a 14 horas de lunes a viernes en el Registro de la Asamblea de Madrid, sito en la plaza de la Asamblea, número 1, o en mediante correo certificado en las Oficinas de Correos y en Representaciones diplomáticas u Oficinas Consulares de España en el extranjero, en el plazo de veinte días naturales, a partir del siguiente al de la publicación de esta convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, y se dirigirá a la Ilustrísima Señora Secretaria General de la Asamblea de Madrid. La no presentación de la solicitud en tiempo y forma supondrá la exclusión del aspirante, siendo motivo de exclusión la falta de firma en la solicitud. A efectos del cumplimiento de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, los datos contenidos en la solicitud serán objeto de tratamiento automatizado por la Secretaría General de la Cámara para el normal desarrollo del proceso selectivo, siendo su cumplimentación obligatoria para la admisión a estas pruebas selectivas. Asimismo, los aspirantes, para los distintos actos de trámite que se deriven del proceso selectivo y que contengan datos de carácter personal, con la firma de su solicitud de participación dan su consentimiento para que la Administración actuante pueda proceder a la publicación de los mismos en su página web o en cualquier otro espacio establecido a tal efecto. Los datos personales, domicilio, dirección de correo electrónico, así como cualquier otro declarado por el aspirante en su solicitud de participación en este proceso selectivo, serán considerados como los únicos válidos a efectos de las notificaciones que, en su caso, hubieran de practicarse, siendo responsabilidad de aquél la veracidad de los mismos, así como la correspondiente comunicación al órgano convocante de cualquier cambio en los datos inicialmente consignados. Los derechos de examen serán de 52,91 euros y se ingresarán en la cuenta corriente ES79-2038-0603-28-6006392382 abierta en Caixabank a nombre de "Asamblea de Madrid". En la solicitud deberá figurar el sello o resguardo acreditativo del ingreso o transferencia haciendo constar el DNI del aspirante. La falta del abono de las tasas en el plazo señalado determinará la exclusión definitiva del aspirante del proceso selectivo. De conformidad con el artículo 76 l.
+
+**2.1.1.** Tener la nacionalidad española.
+
+**2.1.2.** Tener cumplidos los dieciocho años y no exceder, en su caso, de la edad máxima de jubilación forzosa.
+
+**2.1.3.** Estar en posesión del título de Licenciado, o del título de Grado o en condiciones de obtenerlo, en la fecha en que termine el plazo de presentación de instancias. Los aspirantes con titulaciones universitarias obtenidas en el extranjero deberán acreditar que están en posesión de la correspondiente credencial de homologación o en su caso del correspondiente certificado de equivalencia.
+
+**2.1.4.** No padecer enfermedad ni estar afectado por limitación física o psíquica que sea incompatible con el desempeño de las correspondientes funciones.
+
+**2.1.5.** No haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas o de los órganos constitucionales o estatutarios de las Comunidades Autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial, para el acceso al cuerpo o escala de funcionarios. Todos los requisitos enumerados en la base 2.1 deberán poseerse en el día de la finalización del plazo de presentación de solicitudes y mantenerlos hasta el momento de la toma de posesión como funcionario de carrera. Los aspirantes que concurran por el cupo de reserva de discapacidad, además de reunir los requisitos generales exigidos en la base 2.1 deberán tener legalmente reconocido un grado de discapacidad igual o superior al 33 por 100 en el día de finalización del plazo de presentación de solicitudes y mantenerlo hasta el momento de la toma de posesión como funcionario de carrera. Esta circunstancia se acreditará una vez superado el proceso selectivo. 2. Solicitudes Las solicitudes para tomar parte en este proceso selectivo se ajustarán al modelo que se publica al final de esta convocatoria (Anexo II). La presentación de solicitudes, podrá hacerse en el Registro General de esta Asamblea de Madrid, plaza de la Asamblea de Madrid, número 1, de 9 a 14 horas de lunes a viernes en el Registro de la Asamblea de Madrid, sito en la plaza de la Asamblea, número 1, o en mediante correo certificado en las Oficinas de Correos y en Representaciones diplomáticas u Oficinas Consulares de España en el extranjero, en el plazo de veinte días naturales, a partir del siguiente al de la publicación de esta convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, y se dirigirá a la Ilustrísima Señora Secretaria General de la Asamblea de Madrid. La no presentación de la solicitud en tiempo y forma supondrá la exclusión del aspirante, siendo motivo de exclusión la falta de firma en la solicitud. A efectos del cumplimiento de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, los datos contenidos en la solicitud serán objeto de tratamiento automatizado por la Secretaría General de la Cámara para el normal desarrollo del proceso selectivo, siendo su cumplimentación obligatoria para la admisión a estas pruebas selectivas. Asimismo, los aspirantes, para los distintos actos de trámite que se deriven del proceso selectivo y que contengan datos de carácter personal, con la firma de su solicitud de participación dan su consentimiento para que la Administración actuante pueda proceder a la publicación de los mismos en su página web o en cualquier otro espacio establecido a tal efecto. Los datos personales, domicilio, dirección de correo electrónico, así como cualquier otro declarado por el aspirante en su solicitud de participación en este proceso selectivo, serán considerados como los únicos válidos a efectos de las notificaciones que, en su caso, hubieran de practicarse, siendo responsabilidad de aquél la veracidad de los mismos, así como la correspondiente comunicación al órgano convocante de cualquier cambio en los datos inicialmente consignados. Los derechos de examen serán de 52,91 euros y se ingresarán en la cuenta corriente ES79-2038-0603-28-6006392382 abierta en Caixabank a nombre de "Asamblea de Madrid". En la solicitud deberá figurar el sello o resguardo acreditativo del ingreso o transferencia haciendo constar el DNI del aspirante. La falta del abono de las tasas en el plazo señalado determinará la exclusión definitiva del aspirante del proceso selectivo. De conformidad con el artículo 76 l.
 
 Decreto Legislativo 1/2002 de 24 de octubre por el que se aprueba el Texto Refundido de la Ley de Tasas y Precios Públicos de la
 
@@ -57,8 +66,16 @@ en cumplimiento de lo establecido en el artículo 53 de la Ley Orgánica 3/2007,
 — Bloque I. Archivística. Temas 1 a 29. — Bloque II. Biblioteconomía. Temas 30 a 55. Una vez insaculados los números de temas por el Tribunal y extraídos los correspondientes por el opositor, este dispondrá de quince minutos para reflexionar sobre ellos e incluso redactar un guion para su exposición, sin que quepa la consulta de material alguno. El tiempo mínimo dedicado a cada tema no podrá ser inferior a diez minutos. Ejercicio tercero: ejercicio de carácter práctico, que consistirá en el planteamiento y, en su caso, resolución de dos supuestos prácticos, que podrán contener varias cuestiones que permitan valorar el conocimiento de los opositores de las técnicas de análisis, organización y gestión de la información propia de los servicios bibliotecarios, documentales y archivísticos de la Asamblea de Madrid. La realización de este ejercicio tendrá una duración máxima de dos horas y el opositor podrá manejar exclusivamente los materiales que el Tribunal ponga a su disposición. Ejercicio cuarto: ejercicio de idioma, inglés, que consistirá en la traducción directa, con ayuda de diccionario, de un texto de actualidad que se entregará al opositor que dispondrá de una hora para efectuar la traducción. Los opositores actuarán en cada ejercicio según el orden del sorteo público por el que se establece el orden de actuación de los aspirantes en todas las pruebas selectivas de ingreso que se celebren durante el año y que se celebrará antes de comenzar el primer ejercicio y serán convocados para cada uno de ellos, en un único llamamiento, mediante la publicación del correspondiente anuncio en la Sede de la Asamblea de Madrid. En todo momento podrán ser requeridos para acreditar su personalidad. Embarazo de riesgo o parto: si alguna de las aspirantes no pudiera completar el proceso selectivo a causa de embarazo de riesgo o parto, debidamente acreditado, su situación quedará condicionada a la finalización de aquel y a la superación de las fases que hayan quedado aplazadas, sin que estas puedan demorarse de manera que se menoscabe el derecho de los demás aspirantes a una resolución del proceso ajustada a tiempos razonables, lo que deberá ser valorado por el Tribunal y, en todo caso, la realización de aquellas tendrá lugar antes de la publicación de la relación de aspirantes que han superado la oposición. 8. Calificación de los ejercicios Criterios de valoración de los ejercicios: en los dos primeros ejercicios serán criterios de valoración el rigor y conocimiento de los temas, así como la calidad de la exposición y defensa del ejercicio y, en particular, la claridad, coherencia, sistematización, fluidez y precisión de la terminología empleada. En el ejercicio práctico se valorará el conocimiento de las fuentes y recursos de información existentes sobre la materia o materias sobre las que versen los supuestos prácticos, la adecuación de las fuentes utilizadas, el enfoque, la estrategia y metodología empleadas en su elaboración, la claridad y orden de la presentación, así como el conocimiento de las
 
 técnicas documentales y archivísticas necesarias para su realización. Se valorará también el tiempo dedicado a cada una de las cuestiones planteadas en relación a su importancia. En el cuarto ejercicio serán criterios de valoración el conocimiento y la precisión lingüística en la traducción. Puntuación de los ejercicio: los ejercicios serán todos eliminatorios y se calificarán del siguiente modo:
-El primer ejercicio se calificará de 0 a 10 puntos, siendo necesario obtener como mínimo 5 puntos para aprobarlo. El segundo ejercicio se calificará de 0 a 20 puntos, 10 puntos por tema, siendo necesario obtener como mínimo 5 puntos en cada tema para aprobarlo. El tercer ejercicio se calificará de 0 a 20 puntos, 10 puntos por tema, siendo necesario obtener como mínimo 5 puntos en cada tema para aprobarlo. El cuarto ejercicio de idiomas se valorará de 0 a 5 puntos, siendo necesario para aprobarlo una nota mínima de 2,5 puntos. El Tribunal queda facultado para la determinación del nivel mínimo exigido para la obtención de dichas calificaciones, de conformidad con el sistema de valoración que acuerde en cada ejercicio. Con el fin de respetar los principios de publicidad, transparencia, objetividad y seguridad jurídica que deben regir el acceso al empleo público, el órgano de selección deberá publicar, con anterioridad a la realización de la prueba, los criterios de corrección, valoración y superación de la misma, que no estén expresamente establecidos en la base de la convocatoria. 9. Lista de aprobados La calificación final de los aspirantes vendrá integrada por la suma de las puntuaciones obtenidas en cada una de los ejercicios de la oposición. No podrá declararse que ha superado el proceso selectivo un número de aspirantes mayor al de plazas convocadas. Cualquier propuesta que contravenga lo indicado anteriormente será nula de pleno derecho. En el supuesto de que dos o más aspirantes obtuvieran la misma calificación total, se deshará el empate atendiendo a la mayor calificación obtenida en el tercer ejercicio. De persistir el empate se atenderá a la mayor nota obtenida en el segundo ejercicio. Si continuase el empate, se aplicará el orden de actuación de los aspirantes que se hubiera aprobado por Resolución de la Secretaría General para todas las pruebas selectivas de ingreso que se celebren durante el año en el ámbito de la Asamblea de Madrid. Finalizado el proceso selectivo, el Tribunal hará pública en su sede, y en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, para cada turno la relación de aspirantes que han superado el proceso selectivo y cuyo nombramiento se proponga, por orden de puntuación alcanzada, reflejando las calificaciones obtenidas en el ejercicio de la oposición, sin poder sobrepasar el número de plazas convocadas. Cualquier propuesta que contravenga lo indicado anteriormente será nula de pleno derecho. Esta relación se elevará por el Tribunal a la Excelentísima Señora Presidenta de la Asamblea de Madrid que, una vez acreditado el cumplimiento de los requisitos exigidos en los términos exigidos en la convocatoria, procederá al nombramiento como funcionarios de carrera del Cuerpo de Archiveros-Bibliotecarios, Escala Superior, de la Asamblea de Madrid. No obstante lo anterior, cuando se produzcan renuncias de los aspirantes seleccionados, antes de su nombramiento o toma de posesión, podrá requerirse al tribunal de selección, relación complementaria de aspirantes que sigan a los propuestos, cuya calificación hubiese alcanzado el cincuenta por ciento de la puntuación total posible de la fase de oposición y hubiesen superado todos los ejercicios de la misma, para su nombramiento como funcionarios de carrera 10. Presentación de documentos 10.1. En el plazo de veinte días naturales, a contar desde el día siguiente a aquel en que se hicieron públicas las listas de aprobados en el lugar del examen, los opositores aprobados deberán presentar en el Servicio de Recursos Humanos, Accesibilidad y Seguridad y Salud Laboral, los siguientes documentos:
-a) Fotocopia compulsada del título académico superior aducido para tomar parte en las pruebas selectivas. o, en su caso, de la certificación académica que acredite haber realizado y aprobado los estudios completos correspondientes para la expediBOCM ción de dicha titulación, junto a la acreditación del pago de la tasa correspondiente por este concepto. En el supuesto de titulaciones obtenidas en el extranjero, se deberá aportar copia de la credencial de homologación o, en su caso, del correspondiente certificado de equivalencia conforme a la normativa que resulte de aplicación a tal efecto. b) Documento Nacional de Identidad c) Declaración jurada o promesa de no haber sido separado mediante expediente disciplinario de ninguna Administración Pública, o de los órganos constitucionales o estatutarios de las Comunidades autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial. d) Certificado médico expedido en el que se acredite no padecer enfermedad ni estar afectado por limitación física o psíquica que sea incompatible con el desempeño de las correspondientes funciones. e) Elección de puesto de trabajo de acuerdo con el orden obtenido en el proceso selectivo y según la oferta que previamente efectuará la Secretaría General de la Asamblea de Madrid. 10.2. Quienes tuvieren la condición de funcionarios de carrera estarán exentos de justificar documentalmente las condiciones y demás requisitos ya probados para obtener su anterior nombramiento, debiendo presentar certificación del Ministerio u organismo del que dependieren para acreditar tal condición. 10.3. En caso de haber superado el proceso selectivo por el cupo de discapacidad, además de la documentación anteriormente señalada, deberán presentar original de la tarjeta o certificado vigente acreditativos del grado de discapacidad igual o superior al 33 por 100, expedidos por la Dirección General de Atención a Personas con Discapacidad de la Comunidad de Madrid, el Instituto de mayores y Servicios Sociales u otro órgano competente para expedir dichas certificaciones, o, en su caso, en el supuesto de pensionistas, de la documentación requerida en los párrafos b) y c) del artículo 2.1 del Real Decreto 1414/2006, de 1 de diciembre, por el que se determina la consideración de persona con discapacidad a los efectos de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad. 10.4. Quienes dentro del plazo fijado y salvo los casos de fuerza mayor no presentaren la documentación, o del examen de la misma se dedujera que carece de alguno de los requisitos señalados en la base 2 no podrán ser nombrados funcionarios y quedarán anuladas sus actuaciones, sin perjuicio de responsabilidad en que hubieren incurrido por falsedad en la solicitud inicial. 11. Lista de espera De conformidad con lo dispuesto por el Acuerdo de la Mesa de la Asamblea de Madrid de fecha 11 de diciembre de 2006, sobre la Fijación de los criterios objetivos para la selección de personal interino, se formará lista de espera con aquellos aspirantes que, no habiendo superado el proceso selectivo, manifiesten expresamente su voluntad de conformar la lista de espera en la solicitud (Anexo II) y hayan aprobado, como mínimo, el segundo ejercicio. La no solicitud de admisión en la lista de espera tendrá la consideración de error de hecho por lo que podrá subsanarse en cualquier momento, a petición del interesado, y en todo caso antes de la publicación definitiva de listas de aprobados. A los efectos de la constitución de la lista de espera, los Tribunales remitirán a la Secretaría General las relaciones de aprobados en cada uno de los ejercicios de la oposición con aquellos aspirantes del turno libre. El orden de los aspirantes en la lista vendrá determinado por la suma de las puntuaciones obtenidas en los ejercicios superados en la oposición, de mayor a menor. En caso de igualdad de puntuación, se atenderá a los siguientes criterios:
+El primer ejercicio se calificará de 0 a 10 puntos, siendo necesario obtener como mínimo 5 puntos para aprobarlo. El segundo ejercicio se calificará de 0 a 20 puntos, 10 puntos por tema, siendo necesario obtener como mínimo 5 puntos en cada tema para aprobarlo. El tercer ejercicio se calificará de 0 a 20 puntos, 10 puntos por tema, siendo necesario obtener como mínimo 5 puntos en cada tema para aprobarlo. El cuarto ejercicio de idiomas se valorará de 0 a 5 puntos, siendo necesario para aprobarlo una nota mínima de 2,5 puntos. El Tribunal queda facultado para la determinación del nivel mínimo exigido para la obtención de dichas calificaciones, de conformidad con el sistema de valoración que acuerde en cada ejercicio. Con el fin de respetar los principios de publicidad, transparencia, objetividad y seguridad jurídica que deben regir el acceso al empleo público, el órgano de selección deberá publicar, con anterioridad a la realización de la prueba, los criterios de corrección, valoración y superación de la misma, que no estén expresamente establecidos en la base de la convocatoria. 9. Lista de aprobados La calificación final de los aspirantes vendrá integrada por la suma de las puntuaciones obtenidas en cada una de los ejercicios de la oposición. No podrá declararse que ha superado el proceso selectivo un número de aspirantes mayor al de plazas convocadas. Cualquier propuesta que contravenga lo indicado anteriormente será nula de pleno derecho. En el supuesto de que dos o más aspirantes obtuvieran la misma calificación total, se deshará el empate atendiendo a la mayor calificación obtenida en el tercer ejercicio. De persistir el empate se atenderá a la mayor nota obtenida en el segundo ejercicio. Si continuase el empate, se aplicará el orden de actuación de los aspirantes que se hubiera aprobado por Resolución de la Secretaría General para todas las pruebas selectivas de ingreso que se celebren durante el año en el ámbito de la Asamblea de Madrid. Finalizado el proceso selectivo, el Tribunal hará pública en su sede, y en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, para cada turno la relación de aspirantes que han superado el proceso selectivo y cuyo nombramiento se proponga, por orden de puntuación alcanzada, reflejando las calificaciones obtenidas en el ejercicio de la oposición, sin poder sobrepasar el número de plazas convocadas. Cualquier propuesta que contravenga lo indicado anteriormente será nula de pleno derecho. Esta relación se elevará por el Tribunal a la Excelentísima Señora Presidenta de la Asamblea de Madrid que, una vez acreditado el cumplimiento de los requisitos exigidos en los términos exigidos en la convocatoria, procederá al nombramiento como funcionarios de carrera del Cuerpo de Archiveros-Bibliotecarios, Escala Superior, de la Asamblea de Madrid. No obstante lo anterior, cuando se produzcan renuncias de los aspirantes seleccionados, antes de su nombramiento o toma de posesión, podrá requerirse al tribunal de selección, relación complementaria de aspirantes que sigan a los propuestos, cuya calificación hubiese alcanzado el cincuenta por ciento de la puntuación total posible de la fase de oposición y hubiesen superado todos los ejercicios de la misma, para su nombramiento como funcionarios de carrera 10. Presentación de documentos
+
+**10.1.** En el plazo de veinte días naturales, a contar desde el día siguiente a aquel en que se hicieron públicas las listas de aprobados en el lugar del examen, los opositores aprobados deberán presentar en el Servicio de Recursos Humanos, Accesibilidad y Seguridad y Salud Laboral, los siguientes documentos:
+a) Fotocopia compulsada del título académico superior aducido para tomar parte en las pruebas selectivas. o, en su caso, de la certificación académica que acredite haber realizado y aprobado los estudios completos correspondientes para la expediBOCM ción de dicha titulación, junto a la acreditación del pago de la tasa correspondiente por este concepto. En el supuesto de titulaciones obtenidas en el extranjero, se deberá aportar copia de la credencial de homologación o, en su caso, del correspondiente certificado de equivalencia conforme a la normativa que resulte de aplicación a tal efecto. b) Documento Nacional de Identidad c) Declaración jurada o promesa de no haber sido separado mediante expediente disciplinario de ninguna Administración Pública, o de los órganos constitucionales o estatutarios de las Comunidades autónomas, ni hallarse en inhabilitación absoluta o especial para empleos o cargos públicos por resolución judicial. d) Certificado médico expedido en el que se acredite no padecer enfermedad ni estar afectado por limitación física o psíquica que sea incompatible con el desempeño de las correspondientes funciones. e) Elección de puesto de trabajo de acuerdo con el orden obtenido en el proceso selectivo y según la oferta que previamente efectuará la Secretaría General de la Asamblea de Madrid.
+
+**10.2.** Quienes tuvieren la condición de funcionarios de carrera estarán exentos de justificar documentalmente las condiciones y demás requisitos ya probados para obtener su anterior nombramiento, debiendo presentar certificación del Ministerio u organismo del que dependieren para acreditar tal condición.
+
+**10.3.** En caso de haber superado el proceso selectivo por el cupo de discapacidad, además de la documentación anteriormente señalada, deberán presentar original de la tarjeta o certificado vigente acreditativos del grado de discapacidad igual o superior al 33 por 100, expedidos por la Dirección General de Atención a Personas con Discapacidad de la Comunidad de Madrid, el Instituto de mayores y Servicios Sociales u otro órgano competente para expedir dichas certificaciones, o, en su caso, en el supuesto de pensionistas, de la documentación requerida en los párrafos b) y c) del artículo 2.1 del Real Decreto 1414/2006, de 1 de diciembre, por el que se determina la consideración de persona con discapacidad a los efectos de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
+
+**10.4.** Quienes dentro del plazo fijado y salvo los casos de fuerza mayor no presentaren la documentación, o del examen de la misma se dedujera que carece de alguno de los requisitos señalados en la base 2 no podrán ser nombrados funcionarios y quedarán anuladas sus actuaciones, sin perjuicio de responsabilidad en que hubieren incurrido por falsedad en la solicitud inicial. 11. Lista de espera De conformidad con lo dispuesto por el Acuerdo de la Mesa de la Asamblea de Madrid de fecha 11 de diciembre de 2006, sobre la Fijación de los criterios objetivos para la selección de personal interino, se formará lista de espera con aquellos aspirantes que, no habiendo superado el proceso selectivo, manifiesten expresamente su voluntad de conformar la lista de espera en la solicitud (Anexo II) y hayan aprobado, como mínimo, el segundo ejercicio. La no solicitud de admisión en la lista de espera tendrá la consideración de error de hecho por lo que podrá subsanarse en cualquier momento, a petición del interesado, y en todo caso antes de la publicación definitiva de listas de aprobados. A los efectos de la constitución de la lista de espera, los Tribunales remitirán a la Secretaría General las relaciones de aprobados en cada uno de los ejercicios de la oposición con aquellos aspirantes del turno libre. El orden de los aspirantes en la lista vendrá determinado por la suma de las puntuaciones obtenidas en los ejercicios superados en la oposición, de mayor a menor. En caso de igualdad de puntuación, se atenderá a los siguientes criterios:
 a) **Mayor calificación obtenida en el proceso selectivo.** b) Mayor calificación obtenida en el segundo ejercicio. c) Orden alfabético a partir de la letra prevista en la base 7.4 de esta convocatoria. 12. Norma final La presente convocatoria y cuantos actos administrativos se deriven de ellas y de las actuaciones del Tribunal, podrán ser impugnadas en los casos y en la forma establecida en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas y en la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa.
 
 ## Anexo I
@@ -82,53 +99,95 @@ SOLICITUD DE ADMISIÓN A PRUEBAS SELECTIVAS
 
 1. CUERPO O PLAZA A QUE ASPIRA
 
-Reservado Administración 1.1. Cuerpo/Escala 1.2. Plaza o Escala
+Reservado Administración
 
-2. CONVOCATORIA Y FORMA DE ACCESO 2.1. Fecha Convocatoria 2.2. Turno 2.3.  Procedimiento Día:
+**1.1.** Cuerpo/Escala
+
+**1.2.** Plaza o Escala
+
+2. CONVOCATORIA Y FORMA DE ACCESO
+
+**2.1.** Fecha Convocatoria
+
+**2.2.** Turno
+
+**2.3.** Procedimiento Día:
 Mes:
 Año:
 
  Libre  Promoción interna  Discapacidad D.A. 19ª Ley 30/1984  Oposición  Concurso  Concurso-Oposición
 
-3. DATOS PERSONALES 3.1. Primer Apellido
+3. DATOS PERSONALES
 
-3.2. Segundo Apellido 3.3. Nombre 3.4. N.I.F.
+**3.1.** Primer Apellido
 
-3.5. Fecha de nacimiento:
-3.6. Teléfono 3.7. Domicilio:
-3.8. Localidad y código postal
+**3.2.** Segundo Apellido
 
-3.9. Provincia:
-3.10. Correo electrónico:
+**3.3.** Nombre
 
-4. TITULACIÓN 4.1. Título Académico
+**3.4.** N.I.F.
 
-4.2. Centro de expedición
+**3.5.** Fecha de nacimiento:
 
-5. SERVICIOS EFECTIVOS PRESTADOS COMO FUNCIONARIO DE CARRERA 5.1. Cuerpo o escala a la que pertenece
+**3.6.** Teléfono
 
-5.2. Nº. De Registro de Personal 5.3. Fecha de ingreso
+**3.7.** Domicilio:
 
-6. SERVICIOS EFECTIVOS PRESTADOS CON OTRAS VINCULACIONES 6.1. Cuerpo  ó Escala 6.2. Nº Registro Personal 6.3. Fecha alta 6.4. Fecha baja 6.5. Tiempo de servicios 6.6. Vinculación
+**3.8.** Localidad y código postal
+
+**3.9.** Provincia:
+
+**3.10.** Correo electrónico:
+
+4. TITULACIÓN
+
+**4.1.** Título Académico
+
+**4.2.** Centro de expedición
+
+5. SERVICIOS EFECTIVOS PRESTADOS COMO FUNCIONARIO DE CARRERA
+
+**5.1.** Cuerpo o escala a la que pertenece
+
+**5.2.** Nº. De Registro de Personal
+
+**5.3.** Fecha de ingreso
+
+6. SERVICIOS EFECTIVOS PRESTADOS CON OTRAS VINCULACIONES
+
+**6.1.** Cuerpo ó Escala
+
+**6.2.** Nº Registro Personal
+
+**6.3.** Fecha alta
+
+**6.4.** Fecha baja
+
+**6.5.** Tiempo de servicios
+
+**6.6.** Vinculación
 
 Años:
 
 Meses:
 
-7. OTROS DATOS A CONSIGNAR SEGUN BASES DE LA CONVOCATORIA 7.1. Opción:
-7.2. Adaptaciones por minusvalía alegada:
+7. OTROS DATOS A CONSIGNAR SEGUN BASES DE LA CONVOCATORIA
 
-7.3. Causa de reducción o exención tasa:
+**7.1.** Opción:
 
-8. SOLICITUD DE INSCRIPCIÓN EN LA LISTA DE ESPERA SEGÚN BASES DE CONVOCATORIA Se solicita la inscripción en la lista de espera que se constituya en la convocatoria reseñada, en el caso de cumplirse los requisitos establecidos.   Inclusión en lista de espera:  SI               NO
+**7.2.** Adaptaciones por minusvalía alegada:
+
+**7.3.** Causa de reducción o exención tasa:
+
+8. SOLICITUD DE INSCRIPCIÓN EN LA LISTA DE ESPERA SEGÚN BASES DE CONVOCATORIA Se solicita la inscripción en la lista de espera que se constituya en la convocatoria reseñada, en el caso de cumplirse los requisitos establecidos. Inclusión en lista de espera: SI NO
 
 El abajo firmante solicita ser admitido a las pruebas selectivas a que se refiere la presente instancia y DECLARA que son ciertos los datos consignados en ella, y que reúne las condiciones exigidas para el ingreso en la Función Pública y las especialmente señaladas en la convocatoria, comprometiéndose a probar documentalmente todos los datos que figuran en esta solicitud que le sean requeridos. En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018.
 
-En Madrid, a   ........... de .................................... de ……. EL SOLICITANTE
+En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
 
 ILMA. SRA. SECRETARIA GENERAL DE LA ASAMBLEA DE MADRID
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791
 
 ## Anexo III
 
@@ -139,19 +198,26 @@ Sello de Registro General
 SOLICITUD DE ADAPTACIÓN PARA LA REALIZACIÓN DE PRUEBAS SELECTIVAS PARA EL INGRESO EN LA ASAMBLEA DE MADRID
 
 1. DATOS DEL INTERESADO:
-2.1. NIF:
-2.2. Nombre:
-2.3. Primer Apellido:
-2.4. Segundo Apellido:
+
+**2.1.** NIF:
+
+**2.2.** Nombre:
+
+**2.3.** Primer Apellido:
+
+**2.4.** Segundo Apellido:
 
 2. DATOS DE LA CONVOCATORIA:
-2.1. Fecha de la Resolución de la convocatoria:
 
-2.2. Fecha de publicación en BOCM:
-2.3. Cuerpo/Escala:
+**2.1.** Fecha de la Resolución de la convocatoria:
+
+**2.2.** Fecha de publicación en BOCM:
+
+**2.3.** Cuerpo/Escala:
 
 3. ADAPTACIÓN SOLICITADA:
-3.1. Tipo de adaptación EJERCICIOS
+
+**3.1.** Tipo de adaptación EJERCICIOS
 
 1º 2º 3º 4º Tiempo adicional
 
@@ -169,6 +235,6 @@ A efectos de la documentación que declara aportar el/la interesado/a, la mera p
 
 En cumplimiento de la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, le informamos lo siguiente: sus datos pasarán a formar parte de un fichero automatizado responsabilidad de la Asamblea de Madrid, único destinatario de la información aportada voluntariamente por usted. Sus datos se utilizarán exclusivamente para la admisión a las pruebas selectivas, pudiendo producirse el tratamiento/cesión de los mismos, no pudiéndose llevar a cabo dicha finalidad si no se nos autoriza el tratamiento/cesión. Los derechos de oposición, acceso, rectificación y cancelación que la Ley le otorga puede ejercerlos mediante escrito dirigido a la Asesoría Jurídica de la Asamblea de Madrid a la siguiente dirección: Plaza de la Asamblea de Madrid, nº 1, 28018 de Madrid (MADRID). Enterado y conforme, CONSIENTO EXPRESAMENTE Y AUTORIZO para que traten/cedan mis datos personales, según la Ley 3/2018.
 
-En Madrid, a   ........... de .................................... de ……. EL SOLICITANTE
+En Madrid, a ........... de .................................... de ……. EL SOLICITANTE
 
 ILMA. SRA. SECRETARIA GENERAL DE LA ASAMBLEA DE MADRID. (01/11.736/22)

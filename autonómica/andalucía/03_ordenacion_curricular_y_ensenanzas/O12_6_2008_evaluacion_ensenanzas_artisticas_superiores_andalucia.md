@@ -41,7 +41,9 @@ m ú n A J O B
 
 m ú n a nig á P
 
-2.  Autoridades y personal 2.1.  Nombramientos, situaciones e incidencias N Ó
+2. Autoridades y personal
+
+**2.1.** Nombramientos, situaciones e incidencias N Ó
 **I**
 **C**
 A
@@ -63,7 +65,7 @@ R O nombran Consejeros del Consejo Escolar de Andalucía por el grupo de represe
 citado Decreto,
 DISPONGO:
 Artículo Único. Nombrar como Consejeros del Consejo Escolar de Andalucía, por el grupo de representantes de Personalidades de Reconocido Prestigio en la Enseñanza, a:
-Titular: Doña María Pilar Jiménez Trueba. Sustituto: Don Manuel Alcaide Calderón. Titular: Don Emilio Iguaz de Miguel. Titular: Doña Mercedes González Fontádez. Sustituta: Doña M.ª Luz Osorio Teva. Titular:  Doña Ana Gámez Tapias. Titular: Doña María Teresa Varón García. Sustituto: Don Alberto Ollero Calatayud. Sevilla, 13 de junio de 2008 TERESA JIMÉNEZ VÍLCHEZ Consejera de Educación S E
+Titular: Doña María Pilar Jiménez Trueba. Sustituto: Don Manuel Alcaide Calderón. Titular: Don Emilio Iguaz de Miguel. Titular: Doña Mercedes González Fontádez. Sustituta: Doña M.ª Luz Osorio Teva. Titular: Doña Ana Gámez Tapias. Titular: Doña María Teresa Varón García. Sustituto: Don Alberto Ollero Calatayud. Sevilla, 13 de junio de 2008 TERESA JIMÉNEZ VÍLCHEZ Consejera de Educación S E
 **D**
 A
 **D**

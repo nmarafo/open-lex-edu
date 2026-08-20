@@ -63,9 +63,17 @@ Cuarto.- Encomendar a la Inspección de Educación la supervisión y asesoramien
 
 INSTRUCCIONES PARA LA IMPARTICIÓN DE LOS CURSOS DE PREPARACIÓN DE PRUEBAS DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE FORMACIÓN PROFESIONAL.
 
-1. Preparación para la prueba de acceso a ciclos formativos de grado medio. 1.1. Estructura de la prueba. 1.2. Organización del curso.
+1. Preparación para la prueba de acceso a ciclos formativos de grado medio.
 
-2. Preparación para la prueba de acceso a ciclos formativos de grado superior. 2.1. Estructura de la prueba. 2.2. Organización del curso.
+**1.1.** Estructura de la prueba.
+
+**1.2.** Organización del curso.
+
+2. Preparación para la prueba de acceso a ciclos formativos de grado superior.
+
+**2.1.** Estructura de la prueba.
+
+**2.2.** Organización del curso.
 
 3. Centros autorizados para impartir los cursos de preparación.
 
@@ -73,17 +81,26 @@ INSTRUCCIONES PARA LA IMPARTICIÓN DE LOS CURSOS DE PREPARACIÓN DE PRUEBAS DE A
 
 5. Evaluación del curso.
 
-1. Preparación para la prueba de acceso a ciclos formativos de grado medio. 1.1. Estructura de la prueba. La prueba de acceso a ciclos formativos de grado medio constará de cuatro partes:
+1. Preparación para la prueba de acceso a ciclos formativos de grado medio.
+
+**1.1.** Estructura de la prueba. La prueba de acceso a ciclos formativos de grado medio constará de cuatro partes:
 Sociolingüística, Matemáticas, Científico-técnica y Lengua Extranjera, siendo esta última de carácter voluntario. Las materias de referencia de Educación Secundaria Obligatoria (ESO) y áreas equivalentes de Formación Básica de Personas Adultas (FBPA) organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
-Folio 3/6
 
 ## Anexo
 
-INSTRUCCIONES  PARA LA IMPARTICIÓN  DE  LOS  CURSOS  DE  PREPARACIÓN  DE PRUEBAS DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE FORMACIÓN PROFESIONAL
+INSTRUCCIONES PARA LA IMPARTICIÓN DE LOS CURSOS DE PREPARACIÓN DE PRUEBAS DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO Y SUPERIOR DE FORMACIÓN PROFESIONAL
 
-1. Preparación para la prueba de acceso a ciclos formativos de grado medio 1.1. Estructura de la prueba 1.2. Organización del curso
+1. Preparación para la prueba de acceso a ciclos formativos de grado medio
 
-2. Preparación para la prueba de acceso a ciclos formativos de grado superior 2.1. Estructura de la prueba 2.2. Organización del curso
+**1.1.** Estructura de la prueba
+
+**1.2.** Organización del curso
+
+2. Preparación para la prueba de acceso a ciclos formativos de grado superior
+
+**2.1.** Estructura de la prueba
+
+**2.2.** Organización del curso
 
 3. Centros autorizados para impartir los cursos de preparación
 
@@ -91,8 +108,10 @@ INSTRUCCIONES  PARA LA IMPARTICIÓN  DE  LOS  CURSOS  DE  PREPARACIÓN  DE PRUEB
 
 5. Evaluación del curso
 
-1. Preparación para la prueba de acceso a ciclos formativos de grado medio 1.1. Estructura de la prueba La prueba de acceso a ciclos formativos de grado medio constará de cuatro partes:  Sociolingüística, Matemáticas, Científico-técnica y Lengua Extranjera, siendo esta última de carácter voluntario. Las  materias  de  referencia  de  Educación  Secundaria  Obligatoria  (ESO)  y  áreas  equivalentes  de Formación Básica de Personas Adultas (FBPA) organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
-PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS  EQUIV ALENTES DE  FBPA
+1. Preparación para la prueba de acceso a ciclos formativos de grado medio
+
+**1.1.** Estructura de la prueba La prueba de acceso a ciclos formativos de grado medio constará de cuatro partes: Sociolingüística, Matemáticas, Científico-técnica y Lengua Extranjera, siendo esta última de carácter voluntario. Las materias de referencia de Educación Secundaria Obligatoria (ESO) y áreas equivalentes de Formación Básica de Personas Adultas (FBPA) organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
+PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS EQUIV ALENTES DE FBPA
 - Sociolingüística
 - Lengua Castellana y Literatura
 - Geografía e Historia
@@ -103,49 +122,53 @@ PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS  EQUIV ALENTES DE  FBPA
 - Ciencias de la Naturaleza
 - Tecnología
 - Conocimiento Natural
-- Tecnología e Informática Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 24/05/2021 - 21:01:54 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 338 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 25/05/2021 14:53:32 Fecha: 25/05/2021 - 14:53:32 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX El presente documento ha sido descargado el 26/05/2021 - 11:16:47 Folio 4/6 PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS  EQUIV ALENTES DE  FBPA
-- Lengua Extranjera - Primera Lengua Extranjera - Lengua Extranjera: Inglés El curso de preparación estará orientad o a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio. 1.2. Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+- Tecnología e Informática PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS EQUIV ALENTES DE FBPA
+- Lengua Extranjera - Primera Lengua Extranjera - Lengua Extranjera: Inglés El curso de preparación estará orientad o a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio.
+
+**1.2.** Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
 PARTES MATERIAS HORAS SEMANALES Sociolingüística Lengua Castellana y Literatura 3 Ciencias Sociales 2 Matemática Matemáticas 3 Científico-técnica Ciencias de la Naturaleza 2 Tecnología 2 TOTAL 12
 
-2. Preparación para la prueba de acceso a ciclos formativos de grado superior 2.1. Estructura de la prueba La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
-- Parte común, que valorará la madurez e idoneidad de los candidatos para seguir con éxito los estudios de  Formación  Profesional de grado superior, así como su capacidad de razonamiento y de expresión escrita.  Versará sobre contenidos básicos  de la  materia de  Lengua  Castellana  y Literatura  y  sobre fundamentos  básicos  de  Matemáticas,  de  la  etapa  de  B achillerato, teniendo  en  cuenta  que  los destinatarios pueden no tener el título de Graduado en Educación Secundaria Obligatoria.
-- Parte específica, que valorará las capacidades de base referentes al campo profesional de que se trate, y versará sobre los conocimientos básicos de las materias  de Bachillerato establecidas para cada una de las opciones en las que se agrupan las familias profesionales a efectos de acceso a los ciclos formativos. Las materias de referencia organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 24/05/2021 - 21:01:54 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 338 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 25/05/2021 14:53:32 Fecha: 25/05/2021 - 14:53:32 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX El presente documento ha sido descargado el 26/05/2021 - 11:16:47
+2. Preparación para la prueba de acceso a ciclos formativos de grado superior
 
-El curso de preparación estará orientado a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio. 1.2. Organización del curso. La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+**2.1.** Estructura de la prueba La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
+- Parte común, que valorará la madurez e idoneidad de los candidatos para seguir con éxito los estudios de Formación Profesional de grado superior, así como su capacidad de razonamiento y de expresión escrita. Versará sobre contenidos básicos de la materia de Lengua Castellana y Literatura y sobre fundamentos básicos de Matemáticas, de la etapa de B achillerato, teniendo en cuenta que los destinatarios pueden no tener el título de Graduado en Educación Secundaria Obligatoria.
+- Parte específica, que valorará las capacidades de base referentes al campo profesional de que se trate, y versará sobre los conocimientos básicos de las materias de Bachillerato establecidas para cada una de las opciones en las que se agrupan las familias profesionales a efectos de acceso a los ciclos formativos. Las materias de referencia organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
+ El curso de preparación estará orientado a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio.
 
-2. Preparación para la prueba de acceso a ciclos formativos de grado superior. 2.1. Estructura de la prueba. La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
+**1.2.** Organización del curso. La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+
+2. Preparación para la prueba de acceso a ciclos formativos de grado superior.
+
+**2.1.** Estructura de la prueba. La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
 - Parte común, que valorará la madurez e idoneidad de los candidatos para seguir con éxito los estudios de Formación Profesional de grado superior, así como su capacidad de razonamiento y de expresión escrita. Versará sobre contenidos básicos de la materia de Lengua Castellana y Literatura y sobre fundamentos básicos de Matemáticas, de la etapa de Bachillerato, teniendo en cuenta que los destinatarios pueden no tener el título de Graduado en Educación Secundaria Obligatoria.
 - Parte específica, que valorará las capacidades de base referentes al campo profesional de que se trate, y versará sobre los conocimientos básicos de las materias de Bachillerato establecidas para cada una de las opciones en las que se agrupan las familias profesionales a efectos de acceso a los ciclos formativos. Las materias de referencia organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
-Folio 4/6 PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS  EQUIV ALENTES DE  FBPA
-- Lengua Extranjera - Primera Lengua Extranjera - Lengua Extranjera: Inglés El curso de preparación estará orientad o a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio. 1.2. Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+ PARTES DE LA PRUEBA MATERIAS DE REFERENCIA DE ESO ÁREAS EQUIV ALENTES DE FBPA
+- Lengua Extranjera - Primera Lengua Extranjera - Lengua Extranjera: Inglés El curso de preparación estará orientad o a proporcionar al alumnado los conocimientos y habilidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado medio.
+
+**1.2.** Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
 PARTES MATERIAS HORAS SEMANALES Sociolingüística Lengua Castellana y Literatura 3 Ciencias Sociales 2 Matemática Matemáticas 3 Científico-técnica Ciencias de la Naturaleza 2 Tecnología 2 TOTAL 12
 
-2. Preparación para la prueba de acceso a ciclos formativos de grado superior 2.1. Estructura de la prueba La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
-- Parte común, que valorará la madurez e idoneidad de los candidatos para seguir con éxito los estudios de  Formación  Profesional de grado superior, así como su capacidad de razonamiento y de expresión escrita.  Versará sobre contenidos básicos  de la  materia de  Lengua  Castellana  y Literatura  y  sobre fundamentos  básicos  de  Matemáticas,  de  la  etapa  de  B achillerato, teniendo  en  cuenta  que  los destinatarios pueden no tener el título de Graduado en Educación Secundaria Obligatoria.
-- Parte específica, que valorará las capacidades de base referentes al campo profesional de que se trate, y versará sobre los conocimientos básicos de las materias  de Bachillerato establecidas para cada una de las opciones en las que se agrupan las familias profesionales a efectos de acceso a los ciclos formativos. Las materias de referencia organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 24/05/2021 - 21:01:54 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 338 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 25/05/2021 14:53:32 Fecha: 25/05/2021 - 14:53:32 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX El presente documento ha sido descargado el 26/05/2021 - 11:16:47 Folio 5/6 PARTES DE LA PRUEBA MATERIAS DE REFERENCIA COMÚN
+2. Preparación para la prueba de acceso a ciclos formativos de grado superior
+
+**2.1.** Estructura de la prueba La prueba de acceso a ciclos formativos de grado superior constará de dos partes:
+- Parte común, que valorará la madurez e idoneidad de los candidatos para seguir con éxito los estudios de Formación Profesional de grado superior, así como su capacidad de razonamiento y de expresión escrita. Versará sobre contenidos básicos de la materia de Lengua Castellana y Literatura y sobre fundamentos básicos de Matemáticas, de la etapa de B achillerato, teniendo en cuenta que los destinatarios pueden no tener el título de Graduado en Educación Secundaria Obligatoria.
+- Parte específica, que valorará las capacidades de base referentes al campo profesional de que se trate, y versará sobre los conocimientos básicos de las materias de Bachillerato establecidas para cada una de las opciones en las que se agrupan las familias profesionales a efectos de acceso a los ciclos formativos. Las materias de referencia organizadas según las diferentes partes de la prueba son las que se recogen en el siguiente cuadro:
+ PARTES DE LA PRUEBA MATERIAS DE REFERENCIA COMÚN
 - Lengua Castellana y Literatura
 - Fundamentos de Matemáticas ESPECÍFICA
-- Se elegirán dos materias de las establecidas en la normativa vigente En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior. 2.2. Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+- Se elegirán dos materias de las establecidas en la normativa vigente En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior.
+
+**2.2.** Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
 PARTE MATERIAS HORAS SEMANALES COMÚN Lengua Castellana y Literatura 3 Fundamentos de Matemáticas 3 ESPECÍFICAS Materia 1 3 Materia 2 3 TOTAL 12
 
 3. Centros autorizados para impartir los cursos de preparación Podrán impartir este tipo de cursos los centros de educación a distancia (CEAD) y los centros de educación de personas adultas (CEPA) determinados por la Dirección General de Formación Profesional y Educación de Adultos (en adelante DGFPEA) cada curso académico.
 
-4.  Oferta de materias específicas para la prueba de acceso a ciclos formativos de grado superior Los centros ofertarán al menos dos de las siguientes materias específicas correspondientes a una misma opción:
+4. Oferta de materias específicas para la prueba de acceso a ciclos formativos de grado superior Los centros ofertarán al menos dos de las siguientes materias específicas correspondientes a una misma opción:
 - Opción A: Economía de la Empresa, Filosofía y Lengua Extranjera.
 - Opción B: Dibujo Técnico, Física y Tecnología Industrial.
-- Opción C: Biología, Ciencias de la Tierra y Medioambientales y Química. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 24/05/2021 - 21:01:54 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 338 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 25/05/2021 14:53:32 Fecha: 25/05/2021 - 14:53:32 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX El presente documento ha sido descargado el 26/05/2021 - 11:16:47
+- Opción C: Biología, Ciencias de la Tierra y Medioambientales y Química. En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior.
 
-En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior. 2.2. Organización del curso. La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+**2.2.** Organización del curso. La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
 
 3. Centros autorizados para impartir los cursos de preparación. Podrán impartir este tipo de cursos los centros de educación a distancia (CEAD) y los centros de educación de personas adultas (CEPA) determinados por la Dirección General de Formación Profesional y Educación de Adultos (en adelante DGFPEA) cada curso académico.
 
@@ -154,22 +177,20 @@ En el curso de preparación, la evaluación estará orientada a proporcionar al 
 - Opción B: Dibujo Técnico, Física y Tecnología Industrial.
 - Opción C: Biología, Ciencias de la Tierra y Medioambientales y Química. Excepcionalmente, los centros podrán solicitar a la DGFPA la ampliación de la oferta de materias específicas, si el número de alumnos lo demandara. En todo caso, se ha de contar con el número mínimo de alumnos fijado en la normativa vigente.
 
-5. Evaluación del curso. El alumnado que realice el curso de preparación para la prueba de acceso a ciclos formativos de grado medio o a ciclos formativos de grado superior, deberá ser evaluado de todas aquellas materias cursadas. Folio 5/6 PARTES DE LA PRUEBA MATERIAS DE REFERENCIA COMÚN
+5. Evaluación del curso. El alumnado que realice el curso de preparación para la prueba de acceso a ciclos formativos de grado medio o a ciclos formativos de grado superior, deberá ser evaluado de todas aquellas materias cursadas. PARTES DE LA PRUEBA MATERIAS DE REFERENCIA COMÚN
 - Lengua Castellana y Literatura
 - Fundamentos de Matemáticas ESPECÍFICA
-- Se elegirán dos materias de las establecidas en la normativa vigente En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior. 2.2. Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
+- Se elegirán dos materias de las establecidas en la normativa vigente En el curso de preparación, la evaluación estará orientada a proporcionar al alumnado conocimientos y capacidades suficientes para superar con éxito la prueba que le permita acceder a un ciclo formativo de grado superior.
+
+**2.2.** Organización del curso La carga horaria semanal del curso de preparación para la prueba de acceso a los ciclos formativos de grado medio es la siguiente:
 PARTE MATERIAS HORAS SEMANALES COMÚN Lengua Castellana y Literatura 3 Fundamentos de Matemáticas 3 ESPECÍFICAS Materia 1 3 Materia 2 3 TOTAL 12
 
 3. Centros autorizados para impartir los cursos de preparación Podrán impartir este tipo de cursos los centros de educación a distancia (CEAD) y los centros de educación de personas adultas (CEPA) determinados por la Dirección General de Formación Profesional y Educación de Adultos (en adelante DGFPEA) cada curso académico.
 
-4.  Oferta de materias específicas para la prueba de acceso a ciclos formativos de grado superior Los centros ofertarán al menos dos de las siguientes materias específicas correspondientes a una misma opción:
+4. Oferta de materias específicas para la prueba de acceso a ciclos formativos de grado superior Los centros ofertarán al menos dos de las siguientes materias específicas correspondientes a una misma opción:
 - Opción A: Economía de la Empresa, Filosofía y Lengua Extranjera.
 - Opción B: Dibujo Técnico, Física y Tecnología Industrial.
-- Opción C: Biología, Ciencias de la Tierra y Medioambientales y Química. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 24/05/2021 - 21:01:54 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 338 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 25/05/2021 14:53:32 Fecha: 25/05/2021 - 14:53:32 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0oys1rsTc2uKzap9f57JfRZrlV5Th2WMX El presente documento ha sido descargado el 26/05/2021 - 11:16:47
-
-Se evaluará numéricamente cada una de las materias con una calificación de cero a diez, salvo aquellos casos en los que el alumnado tenga derecho a exenciones en la prueba de acceso, en cuyo caso se hará constar la calificación "Exento" en las materias de la parte correspondiente. La nota final del curso será la media aritmética de las calificaciones obtenidas en cada una de las partes no exentas, expresada con dos decimales y redondeada a la centésima más próxima. En caso de que un alumno o alumna no se presente a alguna materia incluida en una parte de la que no se encuentre exento, se hará constar "No presentado" y se calificará con una puntuación de 0. Al finalizar el curso, se valorará el rendimiento del alumnado a través de un certificado con la nota final obtenida, realizado por el centro correspondiente.
+- Opción C: Biología, Ciencias de la Tierra y Medioambientales y Química. Se evaluará numéricamente cada una de las materias con una calificación de cero a diez, salvo aquellos casos en los que el alumnado tenga derecho a exenciones en la prueba de acceso, en cuyo caso se hará constar la calificación "Exento" en las materias de la parte correspondiente. La nota final del curso será la media aritmética de las calificaciones obtenidas en cada una de las partes no exentas, expresada con dos decimales y redondeada a la centésima más próxima. En caso de que un alumno o alumna no se presente a alguna materia incluida en una parte de la que no se encuentre exento, se hará constar "No presentado" y se calificará con una puntuación de 0. Al finalizar el curso, se valorará el rendimiento del alumnado a través de un certificado con la nota final obtenida, realizado por el centro correspondiente.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

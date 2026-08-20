@@ -42,7 +42,9 @@ oin uj e d
 
 ,alliv e S
 
-2.  Autoridades y personal 2.1.  Nombramientos, situaciones e incidencias N Ó
+2. Autoridades y personal
+
+**2.1.** Nombramientos, situaciones e incidencias N Ó
 **I**
 **C**
 A

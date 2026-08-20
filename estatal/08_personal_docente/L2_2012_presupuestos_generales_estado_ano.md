@@ -571,10 +571,6 @@ Agencias estatales
 
 –
 
-–
-
-–
-
 31.620,14
 
 Seguridad Social
@@ -587,21 +583,9 @@ Seguridad Social
 
 –
 
-–
-
 4.384.481,51
 
 Organismos del artículo 1.e) de la presente Ley
-
-–
-
-–
-
-–
-
-–
-
-–
 
 –
 
@@ -1283,7 +1267,7 @@ Uno. En el año 2012 continúan vigentes las retribuciones a 31 de diciembre de 
 
 1. Consejo General del Poder Judicial.
 
-1.1 Presidente del Tribunal Supremo y del Consejo General del Poder Judicial:
+**1.1** Presidente del Tribunal Supremo y del Consejo General del Poder Judicial:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1297,7 +1281,7 @@ Total
 
 130.152,62 €
 
-1.2 Vocal del Consejo General del Poder Judicial:
+**1.2** Vocal del Consejo General del Poder Judicial:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1311,7 +1295,7 @@ Total
 
 112.249,60 €
 
-1.3 Secretario General del Consejo General del Poder Judicial:
+**1.3** Secretario General del Consejo General del Poder Judicial:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1327,7 +1311,7 @@ Total
 
 2. Tribunal Constitucional.
 
-2.1 Presidente del Tribunal Constitucional:
+**2.1** Presidente del Tribunal Constitucional:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1341,7 +1325,7 @@ Total
 
 129.271,46 €
 
-2.2 Vicepresidente del Tribunal Constitucional:
+**2.2** Vicepresidente del Tribunal Constitucional:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1355,7 +1339,7 @@ Total
 
 121.865,78 €
 
-2.3 Presidente de Sección del Tribunal Constitucional:
+**2.3** Presidente de Sección del Tribunal Constitucional:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1369,7 +1353,7 @@ Total
 
 116.192,90 €
 
-2.4 Magistrado del Tribunal Constitucional:
+**2.4** Magistrado del Tribunal Constitucional:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1383,7 +1367,7 @@ Total
 
 110.520,02 €
 
-2.5 Secretario General del Tribunal Constitucional:
+**2.5** Secretario General del Tribunal Constitucional:
 
 Sueldo (a percibir en 14 mensualidades)
 
@@ -1399,25 +1383,25 @@ Total
 
 3. Tribunal de Cuentas.
 
-3.1 Presidente del Tribunal de Cuentas:
+**3.1** Presidente del Tribunal de Cuentas:
 
 Remuneraciones anuales (a percibir en 14 mensualidades)
 
 112.578,34 €
 
-3.2 Presidente de Sección del Tribunal de Cuentas:
+**3.2** Presidente de Sección del Tribunal de Cuentas:
 
 Remuneraciones anuales (a percibir en 14 mensualidades)
 
 112.578,34 €
 
-3.3 Consejero de Cuentas del Tribunal de Cuentas:
+**3.3** Consejero de Cuentas del Tribunal de Cuentas:
 
 Remuneraciones anuales (a percibir en 14 mensualidades)
 
 112.578,34 €
 
-3.4 Secretario General del Tribunal de Cuentas:
+**3.4** Secretario General del Tribunal de Cuentas:
 
 Remuneraciones anuales (a percibir en 14 mensualidades)
 
@@ -2333,18 +2317,6 @@ Euros/año
 
 39.661,46
 
-39.661,46
-
-39.661,46
-
-39.661,46
-
-39.661,46
-
-39.661,46
-
-39.661,46
-
 31.214,57
 
 27.333,43
@@ -2644,8 +2616,6 @@ Euros
 Â
 
 10.110,38
-
-3
 
 3
 
@@ -3163,10 +3133,6 @@ Jubilación:
 
 Â
 
-Â
-
-Â
-
 Titular con sesenta y cinco años
 
 10.690,40
@@ -3192,10 +3158,6 @@ Titular con 65 años procedente de gran invalidez
 12.327,00
 
 Incapacidad Permanente:
-
-Â
-
-Â
 
 Â
 
@@ -3235,8 +3197,6 @@ Total: Derivada de enfermedad común menor de sesenta años
 
 5.388,60
 
-5.388,60
-
 4.938,08
 
 Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años
@@ -3248,10 +3208,6 @@ Parcial del régimen de accidentes de trabajo: Titular con sesenta y cinco años
 8.218,00
 
 Viudedad:
-
-Â
-
-Â
 
 Â
 
@@ -3651,10 +3607,6 @@ Porcentaje
 
 0
 
-0
-
-17.707,20
-
 17.707,20
 
 132,80
@@ -3735,8 +3687,6 @@ Porcentaje
 
 0
 
-0
-
 6.000
 
 2
@@ -3782,10 +3732,6 @@ Tipo aplicable
 Porcentaje
 
 0
-
-0
-
-17.707,20
 
 17.707,20
 
@@ -4137,13 +4083,17 @@ Euros
 
 #### Sección 3. ª Impuestos Especiales artículo 71 Modificación de las definiciones de gasolina sin plomo. Con efectos desde la entrada en vigor de esta Ley, se modifica el epígrafe 1.2.1 de la Tarifa 1.ª del Impuesto sobre Hidrocarburos, contenido en el artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que queda redactado de la siguiente forma:
 
-«Epígrafe 1.2.1 Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros.»
+«Epígrafe
+
+**1.2.1** Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros.»
 
 #### Artículo 72. Adaptación a la normativa comunitaria.
 
 Con efectos desde la entrada en vigor de esta Ley, se modifica el epígrafe 1.11 de la Tarifa 1.ª del Impuesto sobre Hidrocarburos, contenido en el artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que queda redactado de la siguiente forma:
 
-«Epígrafe 1.11 Queroseno para uso general: 306 euros por 1.000 litros.»
+«Epígrafe
+
+**1.11** Queroseno para uso general: 306 euros por 1.000 litros.»
 
 ## Capítulo III. Otros Tributos artículo 73 Tasas. Uno. Se elevan, a partir de la entrada en vigor de esta Ley, los tipos de cuantía fija de las tasas de la Hacienda estatal hasta la cuantía que resulte de la aplicación del coeficiente 1,01 al importe exigible durante el año 2011, teniendo en cuenta lo dispuesto por el artículo 83.Uno de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
@@ -4807,7 +4757,9 @@ Tres. La dotación presupuestaria, una vez satisfechas las obligaciones de pago 
 
 A. El 5 por ciento del crédito en función de la longitud de la red municipal en trayecto de ida y expresada en kilómetros. Las líneas circulares que no tengan trayecto de ida y vuelta se computarán por la mitad.
 
-B. El 5 por ciento del crédito en función de la relación viajeros/habitantes de derecho de cada municipio ponderada por la razón del número de habitantes citado dividido por 50.000. La cifra de habitantes de derecho será la de población del Padrón municipal vigente a 1 de enero de 2011 y oficialmente aprobado por el Gobierno.
+B. El 5 por ciento del crédito en función de la relación viajeros/habitantes de derecho de cada municipio ponderada por la razón del número de habitantes citado dividido por
+
+**50.000.** La cifra de habitantes de derecho será la de población del Padrón municipal vigente a 1 de enero de 2011 y oficialmente aprobado por el Gobierno.
 
 C. El 90 por ciento del crédito en función del déficit medio por título de transporte emitido, con arreglo al siguiente procedimiento:
 
@@ -4982,10 +4934,6 @@ Porcentaje de conductores Bus Urbano formados (%).
 > 15 %
 
 3
-
-Paradas con información en tiempo real de llegada de autobuses (%/sobre total de paradas).
-
-> 3 %
 
 Paradas con información en tiempo real de llegada de autobuses (%/sobre total de paradas).
 
@@ -6725,8 +6673,6 @@ El resultado de la anterior operación se distribuirá, por partes iguales, entr
 
 2. A los municipios que se incluirán en 2012 por vez primera en el modelo de cesión de impuestos del Estado se les aplicará la regla del anterior apartado si bien se imputarán al Fondo Complementario de Financiación los importes que les hubiere correspondido en las entregas a cuenta determinadas con arreglo a la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, que fue prorrogada con las especialidades establecidas en el artículo 10 l.
 
-Real Decreto-ley 20/2011, de 30 de diciembre, de medidas urgentes en materia presupuestaria, tributaria y financiera para la corrección del déficit público.
-
 #### [precepto]Quincuagésima. Actividades prioritarias de mecenazgo.
 
 Uno. De acuerdo con lo establecido en el artículo 22 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, durante el año 2012 se considerarán actividades prioritarias de mecenazgo las siguientes:
@@ -7202,8 +7148,6 @@ El importe del incentivo teórico será el resultado de aplicar a los primeros 4
 citado texto refundido, en su normativa vigente a 31 de diciembre de 2006, resultaba de aplicación en esa Comunidad Autónoma para los supuestos de no utilización de financiación ajena, incrementado en 2,55 puntos porcentuales.
 
 A estos efectos, el tramo autonómico de la deducción por inversión en vivienda no podrá ser inferior al que resultaría de aplicar el porcentaje de deducción que, con arreglo a lo dispuesto en el artículo 79 l.
-
-citado texto refundido, en su normativa vigente a 31 de diciembre de 2006, resultaba de aplicación en esa Comunidad Autónoma para los supuestos de no utilización de financiación ajena, incrementado en 2,55 puntos porcentuales.
 
 Cinco. Se entenderá que el contribuyente ha adquirido su vivienda habitual utilizando financiación ajena cuando cumpla los requisitos establecidos en el artículo 55 l.
 
@@ -8139,79 +8083,147 @@ Tres. Se modifica el artículo 50, que queda redactado de la siguiente forma:
 
 Tarifa 1.ª:
 
-Epígrafe 1.1. Gasolinas con plomo: 433,79 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+Epígrafe
 
-Epígrafe 1.2.1. Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+**1.1.** Gasolinas con plomo: 433,79 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
 
-Epígrafe 1.2.2. Las demás gasolinas sin plomo: 400,69 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+Epígrafe
 
-Epígrafe 1.3. Gasóleos para uso general: 307 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+**1.2.1.** Gasolinas sin plomo de 98 I.O. o de octanaje superior: 431,92 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
 
-Epígrafe 1.4. Gasóleos utilizables como carburante en los usos previstos en el apartado 2 del artículo 54 y,.
+Epígrafe
+
+**1.2.2.** Las demás gasolinas sin plomo: 400,69 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+
+Epígrafe
+
+**1.3.** Gasóleos para uso general: 307 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+
+Epígrafe
+
+**1.4.** Gasóleos utilizables como carburante en los usos previstos en el apartado 2 del artículo 54 y,.
 
 en general, como combustible: 78,71 euros por 1.000 litros de tipo general y 6 euros por 1.000 litros de tipo especial.
 
-Epígrafe 1.5. Fuelóleos: 14,00 euros por tonelada de tipo general y 1 euro por tonelada de tipo especial.
+Epígrafe
 
-Epígrafe 1.6. GLP para uso general: 57,47 euros por tonelada.
+**1.5.** Fuelóleos: 14,00 euros por tonelada de tipo general y 1 euro por tonelada de tipo especial.
 
-Epígrafe 1.8. GLP destinados a usos distintos a los de carburante: 0 euros por tonelada.
+Epígrafe
 
-Epígrafe 1.9. Gas natural para uso general: 1,15 euros por gigajulio.
+**1.6.** GLP para uso general: 57,47 euros por tonelada.
 
-Epígrafe 1.10. Gas natural destinado a usos distintos a los de carburante, así como el gas natural destinado al uso como carburante en motores estacionarios: 0 euros por gigajulio.
+Epígrafe
 
-Epígrafe 1.11. Queroseno para uso general: 306 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+**1.8.** GLP destinados a usos distintos a los de carburante: 0 euros por tonelada.
 
-Epígrafe 1.12. Queroseno destinado a usos distintos de los de carburante: 78,71 euros por 1.000 litros.
+Epígrafe
 
-Epígrafe 1.13. Bioetanol y biometanol para uso como carburante: 400,69 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+**1.9.** Gas natural para uso general: 1,15 euros por gigajulio.
 
-Epígrafe 1.14. Biodiesel para uso como carburante: 307 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+Epígrafe
 
-Epígrafe 1.15. Biodiesel y biometanol para uso como combustible: 78,71 euros por 1.000 litros de tipo general y 6 euros por 1.000 litros de tipo especial.
+**1.10.** Gas natural destinado a usos distintos a los de carburante, así como el gas natural destinado al uso como carburante en motores estacionarios: 0 euros por gigajulio.
+
+Epígrafe
+
+**1.11.** Queroseno para uso general: 306 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+
+Epígrafe
+
+**1.12.** Queroseno destinado a usos distintos de los de carburante: 78,71 euros por 1.000 litros.
+
+Epígrafe
+
+**1.13.** Bioetanol y biometanol para uso como carburante: 400,69 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+
+Epígrafe
+
+**1.14.** Biodiesel para uso como carburante: 307 euros por 1.000 litros de tipo general y 24 euros por 1.000 litros de tipo especial.
+
+Epígrafe
+
+**1.15.** Biodiesel y biometanol para uso como combustible: 78,71 euros por 1.000 litros de tipo general y 6 euros por 1.000 litros de tipo especial.
 
 Tarifa 2.ª:
 
-Epígrafe 2.1. Alquitranes de hulla y demás productos clasificados en el código NC 2706: el tipo establecido para el epígrafe 1.5.
+Epígrafe
 
-Epígrafe 2.2. Benzoles y demás productos clasificados en los códigos NC 2707.10, 2707.20, 2707.30 y 2707.50: el tipo establecido para el epígrafe 1.1.
+**2.1.** Alquitranes de hulla y demás productos clasificados en el código NC 2706: el tipo establecido para el epígrafe
 
-Epígrafe 2.3. Aceites de creosota clasificados en el código NC 2707.91.00: el tipo establecido para el epígrafe 1.5.
+**1.5.** Epígrafe
 
-Epígrafe 2.4. Aceites brutos y demás productos clasificados en el código NC 2707 y no comprendidos en los epígrafes 2.2 y 2.3: el tipo establecido para el epígrafe 1.5.
+**2.2.** Benzoles y demás productos clasificados en los códigos NC 2707.10, 2707.20, 2707.30 y 2707.50: el tipo establecido para el epígrafe
 
-Epígrafe 2.5. Aceites crudos condensados de gas natural, clasificados en el código NC 2709, para uso general: el tipo establecido para el epígrafe 1.11.
+**1.1.** Epígrafe
 
-Epígrafe 2.6. Aceites crudos condensados de gas natural, clasificados en el código NC 2709, destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe 1.12.
+**2.3.** Aceites de creosota clasificados en el código NC 2707.91.00: el tipo establecido para el epígrafe
 
-Epígrafe 2.7. Los demás productos clasificados en el código NC 2709: el tipo establecido para el epígrafe 1.5.
+**1.5.** Epígrafe
 
-Epígrafe 2.8. Gasolinas especiales y demás productos clasificados, con independencia de su destino, en los códigos NC 2710.11.11, 2710.11.15, 2710.11.21, 2710.11.25, 2710.11.70 y 2710.11.90: el tipo establecido para el epígrafe 1.1.
+**2.4.** Aceites brutos y demás productos clasificados en el código NC 2707 y no comprendidos en los epígrafes 2.2 y 2.3: el tipo establecido para el epígrafe
 
-Epígrafe 2.9. Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29, para uso general: el tipo establecido para el epígrafe 1.11.
+**1.5.** Epígrafe
 
-Epígrafe 2.10. Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29 y destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe 1.12.
+**2.5.** Aceites crudos condensados de gas natural, clasificados en el código NC 2709, para uso general: el tipo establecido para el epígrafe
 
-Epígrafe 2.11. Aceites pesados y preparaciones clasificados, con independencia de su destino, en el código NC 2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93 y 2710.19.99: el tipo establecido para el epígrafe 1.5.
+**1.11.** Epígrafe
 
-Epígrafe 2.12. Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, para uso general: el tipo establecido para el epígrafe 1.9.
+**2.6.** Aceites crudos condensados de gas natural, clasificados en el código NC 2709, destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe
 
-Epígrafe 2.13. Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, destinados a usos distintos a los de carburante, así como el biogás destinado al uso como carburante en motores estacionarios: el tipo establecido para el epígrafe 1.10.
+**1.12.** Epígrafe
 
-Para la aplicación de este epígrafe se considera «biogás» el combustible gaseoso producido a partir de la biomasa y/o a partir de la fracción biodegradable de los residuos y que puede ser purificado hasta alcanzar una calidad similar a la del gas natural, para uso como biocarburante, o el gas producido a partir de madera.
+**2.7.** Los demás productos clasificados en el código NC 2709: el tipo establecido para el epígrafe
 
-Epígrafe 2.14. Vaselina y demás productos clasificados en el código NC 2712: el tipo establecido para el epígrafe 1.5.
+**1.5.** Epígrafe
 
-Epígrafe 2.15. Mezclas bituminosas clasificadas en el código NC 2715: el tipo establecido para el epígrafe 1.5.
+**2.8.** Gasolinas especiales y demás productos clasificados, con independencia de su destino, en los códigos NC 2710.11.11, 2710.11.15, 2710.11.21, 2710.11.25, 2710.11.70 y 2710.11.90: el tipo establecido para el epígrafe
 
-Epígrafe 2.16. Hidrocarburos de composición química definida, incluidos en el ámbito objetivo del impuesto y clasificados en los códigos NC 2901 y 2902: el tipo establecido para el epígrafe 1.1.
+**1.1.** Epígrafe
 
-Epígrafe 2.17. Preparaciones clasificadas en el código NC 3403: el tipo establecido para el epígrafe 1.5.
+**2.9.** Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29, para uso general: el tipo establecido para el epígrafe
 
-Epígrafe 2.18. Preparaciones antidetonantes y aditivos clasificados en el código NC 3811: el tipo establecido para el epígrafe 1.1.
+**1.11.** Epígrafe
 
-Epígrafe 2.19. Mezclas de alquilbencenos y mezclas de alquilnaftalenos clasificadas en el código NC 3817: el tipo establecido para el epígrafe 1.5.
+**2.10.** Aceites medios distintos de los querosenos clasificados, con independencia de su destino, en los códigos NC 2710.19.11, 2710.19.15 y 2710.19.29 y destinados a usos distintos a los de carburante: el tipo establecido para el epígrafe
+
+**1.12.** Epígrafe
+
+**2.11.** Aceites pesados y preparaciones clasificados, con independencia de su destino, en el código NC 2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93 y 2710.19.99: el tipo establecido para el epígrafe
+
+**1.5.** Epígrafe
+
+**2.12.** Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, para uso general: el tipo establecido para el epígrafe
+
+**1.9.** Epígrafe
+
+**2.13.** Hidrocarburos gaseosos clasificados en el código NC 2711.29.00 y productos clasificados en el código NC 2705, destinados a usos distintos a los de carburante, así como el biogás destinado al uso como carburante en motores estacionarios: el tipo establecido para el epígrafe
+
+**1.10.** Para la aplicación de este epígrafe se considera «biogás» el combustible gaseoso producido a partir de la biomasa y/o a partir de la fracción biodegradable de los residuos y que puede ser purificado hasta alcanzar una calidad similar a la del gas natural, para uso como biocarburante, o el gas producido a partir de madera.
+
+Epígrafe
+
+**2.14.** Vaselina y demás productos clasificados en el código NC 2712: el tipo establecido para el epígrafe
+
+**1.5.** Epígrafe
+
+**2.15.** Mezclas bituminosas clasificadas en el código NC 2715: el tipo establecido para el epígrafe
+
+**1.5.** Epígrafe
+
+**2.16.** Hidrocarburos de composición química definida, incluidos en el ámbito objetivo del impuesto y clasificados en los códigos NC 2901 y 2902: el tipo establecido para el epígrafe
+
+**1.1.** Epígrafe
+
+**2.17.** Preparaciones clasificadas en el código NC 3403: el tipo establecido para el epígrafe
+
+**1.5.** Epígrafe
+
+**2.18.** Preparaciones antidetonantes y aditivos clasificados en el código NC 3811: el tipo establecido para el epígrafe
+
+**1.1.** Epígrafe
+
+**2.19.** Mezclas de alquilbencenos y mezclas de alquilnaftalenos clasificadas en el código NC 3817: el tipo establecido para el epígrafe 1.5.
 
 2. A los productos comprendidos en los apartados 2 y 3 del artículo 46 se.
 
@@ -8499,11 +8511,7 @@ Categoría 3
 
 0
 
-0
-
 Categoría 4
-
-0
 
 0
 
@@ -8771,17 +8779,17 @@ Nueve. Se modifica el artículo 89 de la Ley 21/2003, de 7 de julio, de Segurida
 
 a) Asistencia a la aeronave:
 
-1.1. Servicios de rampa.
+**1.1.** Servicios de rampa.
 
-1.1.1. Servicios de asistencia de equipajes, grupo de servicios número 3: 58,05 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+**1.1.1.** Servicios de asistencia de equipajes, grupo de servicios número 3: 58,05 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
 
-1.1.2. Servicios de asistencia a las operaciones en pista, grupo de servicios número 5: 18,43 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+**1.1.2.** Servicios de asistencia a las operaciones en pista, grupo de servicios número 5: 18,43 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
 
-1.2. Servicios de asistencia de limpieza y servicio de la aeronave, grupo de servicios número 6 excepto la asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave: 10,12 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+**1.2.** Servicios de asistencia de limpieza y servicio de la aeronave, grupo de servicios número 6 excepto la asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave: 10,12 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
 
-1.3. Servicios de asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave, parte del grupo 6.b): 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+**1.3.** Servicios de asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave, parte del grupo 6.b): 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
 
-1.4. Servicios de asistencia de mantenimiento en línea, grupo de servicios número 8: 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
+**1.4.** Servicios de asistencia de mantenimiento en línea, grupo de servicios número 8: 2,75 € por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción.
 
 Cuando el peso máximo al despegue de las aeronaves no se encuentre comprendido entre 56 y 71 toneladas métricas, a las cuantías anteriores se le aplicarán los siguientes coeficientes en función del intervalo de peso en el que se encuentre incluida la aeronave:
 

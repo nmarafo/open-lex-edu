@@ -44,8 +44,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -71,8 +69,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -350,17 +346,19 @@ Disposición siguiente
 
 206 de 16/10/2008
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de Justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2008/206/boletin.206.pdf">Descargar boletín nº 206 completo
 
@@ -377,4 +375,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

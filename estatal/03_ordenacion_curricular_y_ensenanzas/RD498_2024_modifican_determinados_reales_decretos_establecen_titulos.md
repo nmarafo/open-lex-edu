@@ -112,7 +112,7 @@ Artículo décimo. Referencias a las familias profesionales para admisión.
 
 #### Disposición final segunda. Entrada en vigor.
 
-Anexo I. Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico.
+## Anexo I. . Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico.
 
 ## Anexo II. Tabla de adaptación horaria del currículo básico.
 
@@ -682,8 +682,6 @@ Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -952,13 +950,9 @@ Doce. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan asp
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -994,13 +988,9 @@ Trece. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1181,8 +1171,6 @@ Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -1424,8 +1412,6 @@ Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establ
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Procesos comerciales.
@@ -1437,8 +1423,6 @@ Veintidós. En el Real Decreto 774/2015, de 28 de agosto, por el que se establ
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1544,8 +1528,6 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Instalación y mantenimiento de equipos térmicos y de fluidos.
@@ -1555,8 +1537,6 @@ Veinticuatro. En el Real Decreto 774/2015, de 28 de agosto, por el que se esta
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -1712,8 +1692,6 @@ Veintisiete. En el Real Decreto 774/2015, de 28 de agosto, por el que se estab
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -1784,7 +1762,9 @@ Veintinueve. En los reales decretos a que hace referencia el artículo primero
 
 2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
 
-3. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+3. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado
+
+**5.1.** En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
 
 4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.»
 
@@ -1838,11 +1818,7 @@ Cinco. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan as
 
 Seis. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VI, con la siguiente redacción:
 
-«6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
-
 Siete. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo VII, con la siguiente redacción:
-
-«6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 UC1114_1: Realizar trabajos auxiliares en la elaboración de composiciones con flores y plantas.
 
@@ -1861,10 +1837,6 @@ UC0343_1: Realizar procesos de preparación personal, del centro de belleza y co
 UC0058_1: Preparar los equipos y lavar y acondicionar el cabello y cuero cabelludo.
 
 6 bis. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación.
-
-UC0343_1: Realizar procesos de preparación personal, del centro de belleza y control de almacén.
-
-UC0058_1: Preparar los equipos y lavar y acondicionar el cabello y cuero cabelludo.
 
 Nueve. En el Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de Formación Profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se añade un nuevo apartado 6 bis al anexo IX, con la siguiente redacción:
 
@@ -2017,8 +1989,6 @@ Dieciséis. En el Real Decreto 356/2014, de 16 de mayo, por el que se establec
 «6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 Diecisiete. En el Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete títulos de Formación Profesional Básica del catálogo de títulos de las enseñanzas de Formación Profesional, se añade un nuevo apartado 6 bis al anexo III, con la siguiente redacción:
-
-«6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.
 
 UC1322_1: Recepcionar y despachar encargos de reprografía.
 

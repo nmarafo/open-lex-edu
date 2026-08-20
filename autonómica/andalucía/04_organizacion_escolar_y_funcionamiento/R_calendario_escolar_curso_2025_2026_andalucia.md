@@ -290,8 +290,6 @@ Actualidad
 
 class com.liferay.portal.kernel.servlet.taglib.ui.BreadcrumbUtil
 
-class com.liferay.portal.kernel.servlet.taglib.ui.BreadcrumbUtil
-
 Alumnado
 
 class com.liferay.portal.kernel.servlet.taglib.ui.BreadcrumbUtil
@@ -324,7 +322,7 @@ Novedades, enlaces y actualidad Educación Infantil Educación Primaria Educaci�
 
 Nodo: sv0665:8080Oculto
 
-##  TEMÁTICOS
+## TEMÁTICOS
 
 Consejo Escolar de Andalucía
 
@@ -348,7 +346,7 @@ Flamenco
 
 Evaluación Educativa
 
-##  PORTALES EDUCATIVOS
+## PORTALES EDUCATIVOS
 
 Becas y Ayudas
 
@@ -370,7 +368,7 @@ Escuela de familias
 
 Blogs Averroes
 
-##  PLATAFORMAS
+## PLATAFORMAS
 
 Séneca
 
@@ -384,7 +382,7 @@ Centro Atención Usuarios (CAUCE)
 
 Secretaría Virtual Centros
 
-##  REVISTAS Y BOLETINES
+## REVISTAS Y BOLETINES
 
 Libro abierto
 

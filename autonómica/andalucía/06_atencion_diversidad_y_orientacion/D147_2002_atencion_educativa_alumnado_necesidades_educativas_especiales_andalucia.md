@@ -34,7 +34,9 @@ relaciones:
 
 ## Preámbulo
 
-Página núm. 8.800 Sevilla, 28 de mayo 2002 CONSEJERIA DE ECONOMIA Y HACIENDA ORDEN de 16 de mayo de 2002, por la que se aprueba el Reglamento de Régimen Interior de la Cámara Oficial de Comercio e Industria de Andújar. Ver esta disposición en fascículo 2 de 3 de este mismo número ORDEN de 23 de mayo de 2002, por la que se concretan determinadas condiciones de la emisión de Deuda Pública Anotada de la Junta de Andalucía, por importe de 190.000.000 euros, acordada mediante el Decreto 133/2002, de 23 de abril. El Decreto 133/2002, de 23 de abril (BOJA núm. 53, de 7 de mayo), por el que se dispone la emisión de Deuda Pública Anotada de la Junta de Andalucía, autoriza en su
+Página núm.
+
+**8.800** Sevilla, 28 de mayo 2002 CONSEJERIA DE ECONOMIA Y HACIENDA ORDEN de 16 de mayo de 2002, por la que se aprueba el Reglamento de Régimen Interior de la Cámara Oficial de Comercio e Industria de Andújar. Ver esta disposición en fascículo 2 de 3 de este mismo número ORDEN de 23 de mayo de 2002, por la que se concretan determinadas condiciones de la emisión de Deuda Pública Anotada de la Junta de Andalucía, por importe de 190.000.000 euros, acordada mediante el Decreto 133/2002, de 23 de abril. El Decreto 133/2002, de 23 de abril (BOJA núm. 53, de 7 de mayo), por el que se dispone la emisión de Deuda Pública Anotada de la Junta de Andalucía, autoriza en su
 
 #### Disposición final primera. a la Consejera de Economía y Hacienda a dictar las disposiciones que sean necesarias para la ejecución del referido Decreto.
 
@@ -110,7 +112,9 @@ b) Formar a la población de los territorios en materia de perspectiva de géner
 c) Fomentar la participación de la población femenina en el diseño y ejecución de todas las iniciativas que se lleven a cabo en el medio rural.
 d) Promover la colaboración de organizaciones e instituciones públicas y privadas para animar la integración de la perspectiva de género en las políticas de desarrollo rural, coordinando actuaciones y aprovechando la sinergia existente entre las mismas con los miembros de la sociedad civil.
 
-Página núm. 8.802 Sevilla, 28 de mayo 2002
+Página núm.
+
+**8.802** Sevilla, 28 de mayo 2002
 e) Favorecer el intercambio de experiencias e información y el trabajo conjunto o en red.
 
 #### Artículo 3. Financiación.
@@ -220,7 +224,9 @@ g) Acreditar, previamente al cobro de la subvención, que se encuentra al corrie
 
 Los beneficiarios de las subvenciones están obligados a hacer constar, en lugar preferente, en toda información o publicidad que se efectúe de la actividad objeto de la subvención que la misma está subvencionada por la Consejería de Agricultura y Pesca de la Junta de Andalucía, incorporando todos
 
-Página núm. 8.804 Sevilla, 28 de mayo 2002 los elementos especificados en el Manual de Identidad Corporativa de la Junta de Andalucía.
+Página núm.
+
+**8.804** Sevilla, 28 de mayo 2002 los elementos especificados en el Manual de Identidad Corporativa de la Junta de Andalucía.
 
 #### Artículo 14. Modificación de la resolución de concesión.
 

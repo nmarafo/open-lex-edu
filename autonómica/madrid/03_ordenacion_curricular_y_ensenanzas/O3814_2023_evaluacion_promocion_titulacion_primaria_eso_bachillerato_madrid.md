@@ -59,7 +59,7 @@ Se habilita a la persona titular de la consejería competente en materia de haci
 
 Modificación de la relación de puestos de trabajo y plantilla presupuestaria Por la Consejería de Economía, Hacienda y Empleo se formalizarán las modificaciones de puestos de trabajo y plantilla que resulten necesarias para la aplicación de lo dispuesto en el presente Decreto.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791
 
 #### Disposición final tercera. Modificaciones de créditos presupuestarios.
 

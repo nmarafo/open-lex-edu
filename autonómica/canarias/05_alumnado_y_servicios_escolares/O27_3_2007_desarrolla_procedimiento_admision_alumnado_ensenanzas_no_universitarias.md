@@ -165,7 +165,7 @@ Edicto de 12 de marzo de 2007, relativo al fallo de la sentencia recaída en los
 
 juicio ordinario nº 0000958/2004.
 
-y en uso de la habilitación prevista en la 
+y en uso de la habilitación prevista en la
 
 #### Disposición
 
@@ -361,7 +361,7 @@ d) El alumnado con necesidad específica de apo-
 
 yo educativo tendrá preferencia en los términos
 
-previstos en la 
+previstos en la
 
 #### Disposición Adicional Segunda de. la presente Orden.
 
@@ -1229,7 +1229,7 @@ enseñanzas deportivas lo hará presentando, en el mo-
 
 mento de formalizar la matrícula, una declaración
 
-jurada o declaración responsable, según el 
+jurada o declaración responsable, según el
 
 ## anexo
 
@@ -1285,7 +1285,7 @@ contravengan lo antedicho incurrirán en las res-
 
 ponsabilidades consiguientes, conforme lo esta-
 
-blecido en la 
+blecido en la
 
 #### Disposición Adicional Quinta del De-. creto 61/2007, de 26 de marzo.
 
@@ -1541,7 +1541,7 @@ tar el número de alumnos por unidad sólo en consi-
 
 deración a las circunstancias siguientes:
 
-1.1. Reducción del número de alumnos por uni-
+**1.1.** Reducción del número de alumnos por uni-
 
 dad:
 
@@ -1573,7 +1573,7 @@ de atención preferente por la Consejería de Educa-
 
 ción, Cultura y Deportes.
 
-1.2. Aumento del número de alumnos por uni-
+**1.2.** Aumento del número de alumnos por uni-
 
 dad:
 
@@ -1739,7 +1739,7 @@ rritorial de Educación.
 
 Cuarta.- La documentación del procedimiento
 
-de admisión a que alude la 
+de admisión a que alude la
 
 #### Disposición Adicional
 

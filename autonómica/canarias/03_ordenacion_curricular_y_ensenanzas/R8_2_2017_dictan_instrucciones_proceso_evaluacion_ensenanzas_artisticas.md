@@ -111,14 +111,19 @@ c) Los criterios de calificación, que incluirán la ponderación de las activid
 1. Los centros de enseñanzas artísticas superiores publicarán, antes del comienzo del curso, el calendario de periodo de exámenes de las citadas enseñanzas, de acuerdo a lo establecido en la correspondiente normativa vigente de aplicación para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias, garantizando las convocatorias a que legalmente tenga derecho el alumnado. Posteriormente, la convocatoria de cada examen será hecha pública por la jefatura de estudios en los tablones y medios destinados a tal efecto, con un mínimo de veinte días hábiles de antelación respecto a la fecha prevista del examen.
 
 2. El procedimiento de evaluación en estas enseñanzas se desarrollará de la siguiente manera:
-2.1. Asignaturas en primera matrícula.
+
+**2.1.** Asignaturas en primera matrícula.
 a) **Evaluación final ordinaria (primer semestre).** Se evaluarán las asignaturas de carácter semestral impartidas en el primer semestre.
 b) **Evaluación final ordinaria (segundo semestre).** Se evaluarán las asignaturas de carácter semestral impartidas en el segundo semestre y las asignaturas anuales.
-c) **Evaluación final extraordinaria.** Se evaluarán todas aquellas asignaturas, tanto semestrales como anuales, en las que se haya obtenido calificación negativa en el curso académico. 2.2. Asignaturas de carácter semestral en segunda matrícula o, excepcionalmente, en
+c) **Evaluación final extraordinaria.** Se evaluarán todas aquellas asignaturas, tanto semestrales como anuales, en las que se haya obtenido calificación negativa en el curso académico.
+
+**2.2.** Asignaturas de carácter semestral en segunda matrícula o, excepcionalmente, en
 
 #### Tercera. matrícula.
 
-Tanto para asignaturas del primer como del segundo semestre, los estudiantes dispondrán de tres momentos de evaluación que coincidirán con los tiempos de las evaluaciones definidos en el apartado anterior. En estos casos, la realización de las pruebas de evaluación podrá ser anterior a las convocatorias ordinarias de exámenes y no supondrá, en ningún caso, la suspensión de clases. De estos tres momentos de evaluación, el alumnado solo podrá presentarse a dos de ellos para hacer uso de las dos convocatorias a las que le da derecho su matrícula. 2.3. Asignaturas de carácter anual en segunda matrícula o, excepcionalmente, en tercera matrícula.
+Tanto para asignaturas del primer como del segundo semestre, los estudiantes dispondrán de tres momentos de evaluación que coincidirán con los tiempos de las evaluaciones definidos en el apartado anterior. En estos casos, la realización de las pruebas de evaluación podrá ser anterior a las convocatorias ordinarias de exámenes y no supondrá, en ningún caso, la suspensión de clases. De estos tres momentos de evaluación, el alumnado solo podrá presentarse a dos de ellos para hacer uso de las dos convocatorias a las que le da derecho su matrícula.
+
+**2.3.** Asignaturas de carácter anual en segunda matrícula o, excepcionalmente, en tercera matrícula.
 
 a) Los estudiantes dispondrán de dos momentos de evaluación que coincidirán con los tiempos de las evaluaciones final ordinaria de segundo semestre y final extraordinaria.
 b) Excepcionalmente, los estudiantes matriculados en cuarto curso con asignaturas en
@@ -151,7 +156,9 @@ d) 9.0-10: Sobresaliente (SB).
 
 4. Según lo establecido en la Resolución de 24 de octubre de 2016, por la que se dictan instrucciones sobre el reconocimiento y transferencia de créditos en las Enseñanzas Artísticas Superiores, para las asignaturas objeto de reconocimiento de créditos en las que exista calificación, esta se tendrá en cuenta a efectos de la obtención de la nota media del expediente académico. El reconocimiento de créditos en el que no exista calificación no se tendrá en cuenta a estos efectos. Ambas circunstancias deberán quedar registradas en los correspondientes documentos de evaluación recogidos en la instrucción decimotercera de la presente resolución.
 
-5. La mención de «Matrícula de Honor» podrá ser otorgada a los estudiantes que hayan obtenido una calificación igual o superior a 9.0. Su número no podrá exceder del cinco por ciento de los estudiantes matriculados en una asignatura en el correspondiente curso académico, salvo que el número de estudiantes matriculados sea inferior a 20, en cuyo caso se podrá conceder una sola «Matrícula de Honor». Cuando el número de matrículas de honor propuesto para una asignatura supere los límites citados, se adjudicará al estudiante con mayor calificación en dicha asignatura. En el caso de que varios alumnos hayan obtenido la misma calificación, el equipo educativo decidirá atendiendo en primer lugar, y en el caso de que proceda, a su trayectoria académica en dicha asignatura en cursos anteriores y, en segundo lugar, a la nota media correspondiente al resto de las asignaturas del plan de estudios de ese curso.
+5. La mención de «Matrícula de Honor» podrá ser otorgada a los estudiantes que hayan obtenido una calificación igual o superior a
+
+**9.0.** Su número no podrá exceder del cinco por ciento de los estudiantes matriculados en una asignatura en el correspondiente curso académico, salvo que el número de estudiantes matriculados sea inferior a 20, en cuyo caso se podrá conceder una sola «Matrícula de Honor». Cuando el número de matrículas de honor propuesto para una asignatura supere los límites citados, se adjudicará al estudiante con mayor calificación en dicha asignatura. En el caso de que varios alumnos hayan obtenido la misma calificación, el equipo educativo decidirá atendiendo en primer lugar, y en el caso de que proceda, a su trayectoria académica en dicha asignatura en cursos anteriores y, en segundo lugar, a la nota media correspondiente al resto de las asignaturas del plan de estudios de ese curso.
 
 6. Las prácticas externas se calificarán con los términos «Apto» y «No Apto», por lo que no computarán a efectos de cálculo de la nota media.
 
@@ -233,7 +240,11 @@ c) Para la evaluación de asignaturas del último curso, cuando así lo establez
 
 #### Decimotercera. Documentos de evaluación.
 
-1. Los documentos oficiales de evaluación de las Enseñanzas Artísticas Superiores son el expediente académico personal, las actas de calificación y la certificación académica oficial. 1.1. El expediente académico personal se ajustará al modelo que establezca la consejería competente en materia de educación y deberá incluir los datos de identificación del centro, los datos personales del estudiante, especialidad y, en su caso, itinerario cursado, la fecha de superación de la prueba de acceso a las enseñanzas y su calificación, el número y la fecha de cada matrícula y la información relativa a las asignaturas cursadas y las calificaciones, convocatoria ordinaria o extraordinaria, anulación de matrículas, años de permanencia, así como los créditos ECTS obtenidos por la superación de las asignaturas para la obtención del correspondiente título, o por haber sido reconocidos o transferidos. Asimismo, reflejará los traslados de centro, la nota media del expediente, la propuesta de titulación, la asignatura o asignaturas con matrícula de honor y, en su caso, la mención específica de premio extraordinario. 1.2. Las actas de calificación y el modelo de certificación académica personal se ajustarán al modelo generado por el sistema de gestión del que dispone la consejería competente en materia de educación.
+1. Los documentos oficiales de evaluación de las Enseñanzas Artísticas Superiores son el expediente académico personal, las actas de calificación y la certificación académica oficial.
+
+**1.1.** El expediente académico personal se ajustará al modelo que establezca la consejería competente en materia de educación y deberá incluir los datos de identificación del centro, los datos personales del estudiante, especialidad y, en su caso, itinerario cursado, la fecha de superación de la prueba de acceso a las enseñanzas y su calificación, el número y la fecha de cada matrícula y la información relativa a las asignaturas cursadas y las calificaciones, convocatoria ordinaria o extraordinaria, anulación de matrículas, años de permanencia, así como los créditos ECTS obtenidos por la superación de las asignaturas para la obtención del correspondiente título, o por haber sido reconocidos o transferidos. Asimismo, reflejará los traslados de centro, la nota media del expediente, la propuesta de titulación, la asignatura o asignaturas con matrícula de honor y, en su caso, la mención específica de premio extraordinario.
+
+**1.2.** Las actas de calificación y el modelo de certificación académica personal se ajustarán al modelo generado por el sistema de gestión del que dispone la consejería competente en materia de educación.
 
 2. La custodia y archivo de los documentos de evaluación es responsabilidad de la secretaría de los centros docentes. Los centros docentes establecerán un sistema de archivo permanente de todos los expedientes académicos que permita un acceso fácil a los documentos para su consulta.
 

@@ -44,7 +44,7 @@ Artículo Único. Se convoca la V Edición de los Premios de la Junta de Andaluc
 
 • Premios a las Mejores Prácticas de Calidad.
 
-•  Premios a las Mejores Prácticas de Administración Electrónica.
+• Premios a las Mejores Prácticas de Administración Electrónica.
 
 3. Premios a las Mejores Sugerencias de las personas empleadas de la Administración Pública. Base tercera. Premio a la Excelencia de los Servicios Públicos.
 

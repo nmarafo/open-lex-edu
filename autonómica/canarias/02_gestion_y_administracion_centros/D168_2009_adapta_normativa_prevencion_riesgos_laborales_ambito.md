@@ -55,20 +55,20 @@ fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2010-007-187.p
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 2009
-•  2009/007. Martes 13 de Enero de 2009
-•  73 <p>Menú de búsqueda y navegación</p>
-•  Anterior
-•  Siguiente IV. ANUNCIOS - Otros anuncios - Consejería de Medio Ambiente y
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 2009
+• 2009/007. Martes 13 de Enero de 2009
+• 73 <p>Menú de búsqueda y navegación</p>
+• Anterior
+• Siguiente IV. ANUNCIOS - Otros anuncios - Consejería de Medio Ambiente y
 
 Ordenación Territorial 73 - Agencia de Protección del Medio Urbano y Natural.- Anuncio por el que se hace pública la Resolución de 29 de diciembre de 2008, del Director Ejecutivo, sobre notificación a D. Tomás Inglés Saura, de la Resolución que declara la prescripción de la presunta infracción y se inicia procedimiento administrativo de reposición de las cosas a su estado anterior en el expediente RP 1926/08. [image] Descargar en formato pdf No habiéndose podido practicar la notificación a D. Tomás Inglés Saura de la Resolución por la que se declara la prescripción de la presunta infracción y se inicia procedimiento administrativo de reposición de las cosas a su estado anterior, de fecha 19 de diciembre de 2008, en los términos del apartado primero del artículo 59 de la Ley 30/1992, de 26 de noviembre, de Régimen.
 
@@ -80,5 +80,5 @@ Primero.- Declarar la prescripción de la presunta infracción cometida.
 Segundo.- Iniciar el procedimiento administrativo en orden a reponer las cosas a su estado anterior a D. Tomás Inglés Saura por el vertido de restos de neumáticos, escombros y chatarras, en el lugar denominado cruce de la carretera del Puertito de Güímar, en el término municipal de Güímar, mediante la retirada de dichos residuos, aportando los correspondientes justificantes de entrega a gestor autorizado y demás medidas necesarias para la restauración de la zona afectada.
 Tercero.- Notificar la presente Resolución a D. Tomás Inglés Saura a través del Boletín Oficial de Canarias y al Ayuntamiento de Güímar. Lo que comunico para su conocimiento, significándole que dispone de un plazo de audiencia de quince (15) días para aportar cuantas alegaciones, documentos o informaciones estime convenientes en esta Agencia (sita en la Rambla General Franco, 149, Edificio Mónaco, semisótano), y, en su caso, proponer prueba concretando los medios de que pretenda valerse según establece el artículo 84 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999 a cuyos efectos tendrá de manifiesto el expediente administrativo en esta Agencia".
 Segundo.- Remitir la presente Resolución al Servicio de Publicaciones del Gobierno de Canarias, para su publicación en el su inserción en el tablón de edictos. Santa Cruz de Tenerife, a 29 de diciembre de 2008.- El Director Ejecutivo, Pedro Pacheco González. © Gobierno de Canarias
-•  Aviso Legal
-•  Sugerencias y Reclamaciones
+• Aviso Legal
+• Sugerencias y Reclamaciones

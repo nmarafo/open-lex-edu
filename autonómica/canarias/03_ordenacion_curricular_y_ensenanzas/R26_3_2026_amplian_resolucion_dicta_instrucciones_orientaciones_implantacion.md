@@ -121,8 +121,6 @@ DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E (CURSOS DE ESPECIALIZ
 
 ## Anexo II
 
-DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS E (CURSOS DE ESPECIALIZACIÓN) DE GRADO MEDIO Y SUPERIOR
-
 Curso de especialización: Despliegue de productos software en contenedores.
 • Nivel: Formación Profesional de Grado Superior.
 • Familia Profesional: Informática y Comunicaciones.
@@ -137,7 +135,7 @@ Curso de especialización: Aprendizaje automático: gestión de datos y entrenam
 • Equivalencia en créditos ECTS: 47. Código Real Decreto MÓDULOS PROFESIONALES Créditos ECTS Horas totales Horas semanales (30 semanas) 5144 Inteligencia artificial y aprendizaje automático 5 90 3 5104 Extracción, transformación y carga de datos desde fuentes múltiples 13 230 8 5109 Depuración, limpieza y clasificación de datos 9 150 5 5134 Diseño y evaluación de modelos basados en aprendizaje automático 9 150 5 5149 Desarrollo de componentes software para sistemas de aprendizaje automático 11 180 6 Duración 47 800 27 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 200 horas. En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 280 horas. Curso de especialización: Aprendizaje automático: instalación, despliegue y explotación de siste - mas.
 • Nivel: Formación Profesional de Grado Superior.
 • Familia Profesional: Inteligencia Artificial y Data.
-• Equivalencia en créditos ECTS: 32. Código Real Decreto MÓDULOS PROFESIONALES Créditos ECTS Horas totales Horas semanales (18 semanas) Horas semanales (30 semanas) 5144 Inteligencia artificial y aprendizaje automático 5 90 5 3 5170 Instalación  y  mantenimiento  de  sistemas  de aprendizaje automático 8 130 7 4 5171 Despliegue de sistemas de aprendizaje automático 8 140 8 5 5172 Explotación de servicios de procesamiento y analítica de datos 11 180 10 6 Duración 32 540 30 18 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas. En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas.
+• Equivalencia en créditos ECTS: 32. Código Real Decreto MÓDULOS PROFESIONALES Créditos ECTS Horas totales Horas semanales (18 semanas) Horas semanales (30 semanas) 5144 Inteligencia artificial y aprendizaje automático 5 90 5 3 5170 Instalación y mantenimiento de sistemas de aprendizaje automático 8 130 7 4 5171 Despliegue de sistemas de aprendizaje automático 8 140 8 5 5172 Explotación de servicios de procesamiento y analítica de datos 11 180 10 6 Duración 32 540 30 18 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas. En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas.
 
 Curso de especialización: Insecticultura.
 • Nivel: Formación Profesional de Grado Medio.

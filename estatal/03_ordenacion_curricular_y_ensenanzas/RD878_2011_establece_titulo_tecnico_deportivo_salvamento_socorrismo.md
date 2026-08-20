@@ -730,7 +730,7 @@ m. Identificar y describir las características organizativas de las competicion
 
 n. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de salvamento y socorrismo a través del comportamiento ético personal.
 
-ñ.  Identificar y describir las variables que intervienen en el desarrollo de la actividad de iniciación al medio acuático y la iniciación deportiva al salvamento y socorrismo, aplicando los procedimientos establecidos y clasificando la información obtenida que permita el ajuste y mejora del proceso de enseñanza-aprendizaje.
+ñ. Identificar y describir las variables que intervienen en el desarrollo de la actividad de iniciación al medio acuático y la iniciación deportiva al salvamento y socorrismo, aplicando los procedimientos establecidos y clasificando la información obtenida que permita el ajuste y mejora del proceso de enseñanza-aprendizaje.
 
 o. Reconocer y promover los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo las actitudes que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
 
@@ -1496,7 +1496,7 @@ d. Se han demostrado, con seguridad y eficacia, las siguientes técnicas especí
 
 e. Se han seleccionado los aspectos de las técnicas específicas de iniciación deportiva al salvamento y socorrismo sobre los que incidir durante su demostración.
 
-f.  Se ha justificado la importancia de la demostración de las tareas por parte del técnico como factor de motivación y seguridad en las actividades de iniciación al salvamento y socorrismo.
+f. Se ha justificado la importancia de la demostración de las tareas por parte del técnico como factor de motivación y seguridad en las actividades de iniciación al salvamento y socorrismo.
 
 g. Se han identificado las posibles respuestas ante las contingencias que se puedan presentar durante el desarrollo de la sesión.
 
@@ -1546,9 +1546,9 @@ CONTENIDOS BÁSICOS:
 
 – Recursos didácticos en el proceso de enseñanza-aprendizaje:
 
-–  Adquisición de confianza en el aprendizaje de técnicas específicas de iniciación al salvamento y socorrismo.
+– Adquisición de confianza en el aprendizaje de técnicas específicas de iniciación al salvamento y socorrismo.
 
-–  Adquisición de valores en el proceso de enseñanza de la iniciación al salvamento y socorrismo.
+– Adquisición de valores en el proceso de enseñanza de la iniciación al salvamento y socorrismo.
 
 – El trabajo en equipo en la adaptación de la programación y las actividades.
 
@@ -1938,7 +1938,7 @@ b. Se ha identificado la estructura organizativa y el funcionamiento de las dist
 
 c. Se ha reconocido el tipo de asociación deportiva del club o entidad deportiva de prácticas.
 
-d.  Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
 
 e. Se ha identificado la oferta de actividades vinculadas a la iniciación deportiva o al acompañamiento de usuarios.
 
@@ -2066,7 +2066,7 @@ h. Se ha reconocido la actitud responsable que debe tener el socorrista ante los
 
 a. Se han interpretado las instrucciones recibidas e identificado la documentación asociada a los procesos de verificación y control del estado y funcionamiento del material necesario.
 
-b.  Se han reconocido y determinado las necesidades y lugares idóneos para el almacenamiento y conservación de los materiales necesarios, teniendo en cuenta los protocolos establecidos.
+b. Se han reconocido y determinado las necesidades y lugares idóneos para el almacenamiento y conservación de los materiales necesarios, teniendo en cuenta los protocolos establecidos.
 
 c. Se han realizado operaciones de mantenimiento del material, teniendo en cuenta los procedimientos, normas o instrucciones establecidos y respetando la normativa medioambiental.
 
@@ -2154,7 +2154,7 @@ m. Identificar y analizar las características organizativas, medios materiales 
 
 n. Identificar y analizar las variables que intervienen en el proceso de tecnificación deportiva en salvamento y socorrismo, aplicando procedimientos de recogida y valoración de la información y de ajuste de programas, para evaluar este proceso.
 
-ñ.  Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
+ñ. Identificar y describir las características del proceso de adquisición de valores y actitudes, siendo consciente y argumentando los efectos que provocan en los socorristas, para transmitir valores propios de la actividad deportiva a través del comportamiento ético personal.
 
 o. Reconocer, promover y justificar los valores de compromiso, trabajo bien hecho y aprendizaje constante, describiendo los aspectos observables de la conducta, que reflejan estos valores, para mantener el espíritu de responsabilidad individual, esfuerzo personal e innovación en el desempeño de su labor como técnico.
 
@@ -2296,7 +2296,7 @@ h. Se han descrito y aplicado mecanismos de adaptación de la competición para 
 
 i. Se ha valorado la importancia de fomentar el desarrollo integral del deportista y no sólo el aspecto técnico-deportivo.
 
-j.  Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
+j. Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
 
 CONTENIDOS BÁSICOS:
 
@@ -2760,7 +2760,7 @@ h. Se ha valorado la importancia de una actitud positiva hacia la inclusión por
 
 i. Se han descrito las posibilidades del material deportivo adaptado específico de los diferentes juegos y deportes adaptados.
 
-j.  Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
+j. Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
 
 3. Organiza a los deportistas con discapacidad interpretando las principales clasificaciones funcionales del deporte adaptado y las características de los deportes adaptados.
 
@@ -2902,7 +2902,7 @@ b. Se ha relacionado la legislación deportiva de ámbito nacional, con su estru
 
 c. Se han identificado las características del régimen disciplinario deportivo y sus funciones.
 
-d. Se ha descrito el régimen disciplinario deportivo aplicado a la  competición.
+d. Se ha descrito el régimen disciplinario deportivo aplicado a la competición.
 
 e. Se han expuesto las infracciones y sanciones más importantes relacionadas con el dopaje, la violencia y la disciplina deportiva general.
 
@@ -2924,7 +2924,7 @@ d. Se ha analizado el significado y alcance de los distintos tipos de señalizac
 
 e. Se han analizado los requisitos básicos de seguridad que han de cumplir las instalaciones y equipamiento deportivo para todas las personas que sean usuarias o personal laboral, según la normativa vigente
 
-f.  Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
+f. Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
 
 g. Se han descrito las medidas de protección contra actos antisociales y de violencia en el deporte, en una instalación deportiva.
 
@@ -3296,13 +3296,13 @@ g. Se han enunciado las posibilidades de las ayudas técnicas específicas atend
 
 h. Se ha realizado en un supuesto práctico, la adaptación del material teniendo en cuenta las características específicas.
 
-i.  Se ha valorado la importancia de fomentar la participación de personas con discapacidad en salvamento y socorrismo como elemento de su integración social.
+i. Se ha valorado la importancia de fomentar la participación de personas con discapacidad en salvamento y socorrismo como elemento de su integración social.
 
 CONTENIDOS BÁSICOS:
 
 1. Elabora programas de iniciación a la modalidad concretando los contenidos y las adaptaciones en los grupos de edades, coordinando su desarrollo y aplicación con otros técnicos.
 
-–  Metodología de las actividades de iniciación al salvamento y socorrismo.
+– Metodología de las actividades de iniciación al salvamento y socorrismo.
 
 – Progresiones técnicas de iniciación al salvamento y socorrismo.
 
@@ -3450,7 +3450,7 @@ c. Se ha dirigido una sesión simulada de desarrollo de la condición física de
 
 d. Se han analizado las incidencias más habituales en las sesiones de desarrollo de la condición física del socorrista, relacionándolas con las causas y posibles medidas para su solución.
 
-e.  Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones de desarrollo de la condición física del socorrista.
+e. Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones de desarrollo de la condición física del socorrista.
 
 f. Se han identificado los criterios de calidad en la organización y dirección de sesiones de desarrollo de la condición física del socorrista.
 
@@ -3520,7 +3520,7 @@ CONTENIDOS BÁSICOS:
 
 – Adaptaciones al salvamento y socorrismo.
 
-–  Parámetros de carga de los diferentes ejercicios.
+– Parámetros de carga de los diferentes ejercicios.
 
 – Adaptaciones al socorrista.
 
@@ -3626,7 +3626,7 @@ d. Se ha dirigido una sesión simulada de preparación técnica del socorrista, 
 
 e. Se han analizado las incidencias más habituales en las sesiones de preparación técnica, relacionándolas con las causas y posibles medidas para su solución.
 
-f.  Se han analizado las adaptaciones específicas de los recursos didácticos facilitadores del aprendizaje a través de la motivación, la concentración, el control de pensamiento y de emociones, en salvamento y socorrismo.
+f. Se han analizado las adaptaciones específicas de los recursos didácticos facilitadores del aprendizaje a través de la motivación, la concentración, el control de pensamiento y de emociones, en salvamento y socorrismo.
 
 g. Se han identificado los criterios de calidad en la organización y dirección de sesiones de preparación técnica del socorrista.
 
@@ -4352,11 +4352,11 @@ g. Se han aplicado procedimientos de reclamación en una competición de tecnifi
 
 h. Se han aplicado criterios de valoración de la ejecución técnico-táctica del socorrista, utilizando técnicas y procedimientos de observación adecuadas al nivel de tecnificación deportiva.
 
-i.  Se han trasladado al socorrista las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del deportista.
+i. Se han trasladado al socorrista las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del deportista.
 
 j. Se ha acompañado a los socorristas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
 
-k.  Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en salvamento y socorrismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en salvamento y socorrismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
 
 5. Adapta y concreta los programas y, dirige las sesiones de entrenamiento básico y perfeccionamiento técnico en salvamento y socorrismo, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
 
@@ -4678,8 +4678,6 @@ Pista polideportiva
 
 Â
 
-Â
-
 MED-C201: Bases del aprendizaje deportivo.
 
 MED-C202: Bases del entrenamiento deportivo.
@@ -4776,7 +4774,7 @@ Resultados de aprendizaje y criterios de evaluación
 
 a. Se ha ejecutado la zambullida y la orientación posterior en el medio acuático durante el desplazamiento de forma eficaz.
 
-■  Entrada al agua de pie manteniendo el equilibrio y control del cuerpo en el aire durante el salto.
+■ Entrada al agua de pie manteniendo el equilibrio y control del cuerpo en el aire durante el salto.
 
 ■ Entrada al agua de cabeza de forma hidrodinámica manteniendo el control del cuerpo en el aire durante el salto.
 
@@ -5328,7 +5326,7 @@ Los módulos de:
 
 ● MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales.
 
-●  MED-SSSS-207: Formación Práctica.
+● MED-SSSS-207: Formación Práctica.
 
 Acreditan la Unidad de competencia de:
 

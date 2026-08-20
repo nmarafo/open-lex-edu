@@ -367,8 +367,6 @@ Técnicas de realización de materiales.
 
 Prácticas de escenografía.
 
-Prácticas de escenografía.
-
 Técnicas de representación.
 
 Tecnología aplicada a las artes del espectáculo.
@@ -460,8 +458,6 @@ Movimiento (como acompañamiento).
 Tecnología aplicada a las artes del espectáculo.
 
 Técnicas de realización de materiales.
-
-Prácticas de escenografía.
 
 Prácticas de escenografía.
 

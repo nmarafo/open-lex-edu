@@ -1616,7 +1616,9 @@ Al finalizar el segundo curso de la educación secundaria obligatoria todos los 
 
 #### Artículo 30. Programas de cualificación profesional inicial.
 
-1. Corresponde a las Administraciones educativas organizar programas de cualificación profesional inicial destinados al alumnado mayor de dieciséis años, cumplidos antes del 31 de diciembre del año del inicio del programa, que no hayan obtenido el título de Graduado en educación secundaria obligatoria. Excepcionalmente, y con el acuerdo de alumnos y padres o tutores, dicha edad podrá reducirse a quince años para aquéllos que cumplan lo previsto en el artículo 27.2. En este caso, el alumno adquirirá el compromiso de cursar los módulos a los que hace referencia el apartado 3.c) de este artículo.
+1. Corresponde a las Administraciones educativas organizar programas de cualificación profesional inicial destinados al alumnado mayor de dieciséis años, cumplidos antes del 31 de diciembre del año del inicio del programa, que no hayan obtenido el título de Graduado en educación secundaria obligatoria. Excepcionalmente, y con el acuerdo de alumnos y padres o tutores, dicha edad podrá reducirse a quince años para aquéllos que cumplan lo previsto en el artículo
+
+**27.2.** En este caso, el alumno adquirirá el compromiso de cursar los módulos a los que hace referencia el apartado 3.c) de este artículo.
 
 2. El objetivo de los programas de cualificación profesional inicial es que todos los alumnos alcancen competencias profesionales propias de una cualificación de nivel uno de la estructura actual del Catálogo Nacional de Cualificaciones Profesionales creado por la Ley 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, así como que tengan la posibilidad de una inserción sociolaboral satisfactoria y amplíen sus competencias básicas para proseguir estudios en las diferentes enseñanzas.
 
@@ -3312,9 +3314,9 @@ Disposición adicional vigesimotercera.... Datos personales de los alumnos.
 
 Disposición adicional vigesimocuarta.... Incorporación de créditos en los Presupuestos Generales del Estado para la gratuidad del segundo ciclo de educación infantil.
 
-Los Presupuestos Generales del Estado correspondientes al ámbito temporal de aplicación de la presente Ley incorporarán progresivamente los créditos necesarios para hacer efectiva la gratuidad del segundo ciclo de la educación infantil a la que se refiere el artículo 15.2.
+Los Presupuestos Generales del Estado correspondientes al ámbito temporal de aplicación de la presente Ley incorporarán progresivamente los créditos necesarios para hacer efectiva la gratuidad del segundo ciclo de la educación infantil a la que se refiere el artículo
 
-Disposición adicional vigesimoquinta.... Fomento de la igualdad efectiva entre hombres y mujeres.
+**15.2.** Disposición adicional vigesimoquinta.... Fomento de la igualdad efectiva entre hombres y mujeres.
 
 Con el fin de favorecer la igualdad de derechos y oportunidades y fomentar la igualdad efectiva entre hombres y mujeres, los centros que desarrollen el principio de coeducación en todas las etapas educativas, serán objeto de atención preferente y prioritaria en la aplicación de las previsiones recogidas en la presente Ley, sin perjuicio de lo dispuesto en los convenios internacionales suscritos por España.
 

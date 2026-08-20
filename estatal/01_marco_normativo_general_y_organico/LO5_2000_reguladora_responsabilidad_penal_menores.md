@@ -237,7 +237,7 @@ e) **Tratamiento ambulatorio.** Las personas sometidas a esta medida habrán de 
 
 f) **Asistencia a un centro de día.** Las personas sometidas a esta medida residirán en su domicilio habitual y acudirán a un centro, plenamente integrado en la comunidad, a realizar actividades de apoyo, educativas, formativas, laborales o de ocio.
 
-g) **Permanencia de fin de semana.** Las personas sometidas a esta medida permanecerán en su domicilio o en un centro hasta un máximo de treinta y seis horas entre la tarde o noche del viernes y la noche del domingo,  a excepción del tiempo que deban dedicar a las tareas socio-educativas asignadas por el Juez.
+g) **Permanencia de fin de semana.** Las personas sometidas a esta medida permanecerán en su domicilio o en un centro hasta un máximo de treinta y seis horas entre la tarde o noche del viernes y la noche del domingo, a excepción del tiempo que deban dedicar a las tareas socio-educativas asignadas por el Juez.
 
 h) **Libertad vigilada.** En esta medida se ha de hacer un seguimiento de la actividad de la persona sometida a la misma y de su asistencia a la escuela, al centro de formación profesional o al lugar de trabajo, según los casos, procurando ayudar a aquélla a superar los factores que determinaron la infracción cometida. Asimismo, esta medida obliga, en su caso, a seguir las pautas socio-educativas que señale la entidad pública o el profesional encargado de su seguimiento, de acuerdo con el programa de intervención elaborado al efecto y aprobado por el Juez de Menores. La persona sometida a la medida también queda obligada a mantener con dicho profesional las entrevistas establecidas en el programa y a cumplir, en su caso, las reglas de conducta impuestas por el Juez, que podrán ser alguna o algunas de las siguientes:
 
@@ -457,9 +457,9 @@ Asimismo, con carácter previo a la remisión por el Fiscal del escrito de alega
 
 Cuando proceda la celebración de la audiencia, el Juez invitará al perjudicado personado en la causa a que manifieste lo que tenga por conveniente sobre la práctica de nuevas pruebas, y tras ésta se le oirá en relación a los hechos probados resultantes de las mismas y a la participación del menor, sin que en ningún caso pueda realizar manifestación alguna sobre la procedencia de las medidas propuestas.
 
-Contra los autos y providencias de los Jueces de Menores que afecten al ejercicio de las facultades reconocidas en este artículo, se estará a lo dispuesto en el artículo 41.2.
+Contra los autos y providencias de los Jueces de Menores que afecten al ejercicio de las facultades reconocidas en este artículo, se estará a lo dispuesto en el artículo
 
-Contra la sentencia dictada por el Juez de Menores, el perjudicado podrá interponer recurso de apelación de acuerdo con lo establecido en el artículo 41.1, fundamentado en la incompetencia del Juzgado, la inadecuación del procedimiento, el quebrantamiento de las formas esenciales del juicio que haya producido indefensión al perjudicado o la falta de apreciación de algún elemento de prueba esencial para la calificación de los hechos, pudiendo, si fuera necesario, solicitar su práctica, igualmente en los términos prevenidos por el artículo 41.1.
+**41.2.** Contra la sentencia dictada por el Juez de Menores, el perjudicado podrá interponer recurso de apelación de acuerdo con lo establecido en el artículo 41.1, fundamentado en la incompetencia del Juzgado, la inadecuación del procedimiento, el quebrantamiento de las formas esenciales del juicio que haya producido indefensión al perjudicado o la falta de apreciación de algún elemento de prueba esencial para la calificación de los hechos, pudiendo, si fuera necesario, solicitar su práctica, igualmente en los términos prevenidos por el artículo 41.1.
 
 #### Artículo 26. Diligencias propuestas por el letrado del menor.
 
@@ -683,7 +683,9 @@ i) Adoptar las resoluciones que, en relación con el régimen disciplinario, les
 
 #### Artículo 46. Liquidación de la medida y traslado del menor a un centro.
 
-1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el Secretario del Juzgado que la hubiere dictado practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo 28.5. Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.
+1. Una vez firme la sentencia y aprobado el programa de ejecución de la medida impuesta, el Secretario del Juzgado que la hubiere dictado practicará la liquidación de dicha medida, indicando las fechas de inicio y de terminación de la misma, con abono en su caso del tiempo cumplido por las medidas cautelares impuestas al interesado, teniendo en cuenta lo dispuesto en el artículo
+
+**28.5.** Al propio tiempo, abrirá un expediente de ejecución en el que se harán constar las incidencias que se produzcan en el desarrollo de aquélla conforme a lo establecido en la presente Ley.
 
 2. De la liquidación mencionada en el apartado anterior y del testimonio de particulares que el Juez considere necesario y que deberá incluir los informes técnicos que obren en la causa, se dará traslado a la entidad pública de protección o reforma de menores competente para el cumplimiento de las medidas acordadas en la sentencia firme. También se notificará al Ministerio Fiscal el inicio de la ejecución, y al letrado del menor si así lo solicitara del Juez de Menores.
 

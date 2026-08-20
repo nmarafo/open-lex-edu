@@ -45,11 +45,11 @@ Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la
 
 los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Madrid, a 7 de septiembre de 2020.—El Consejero de Economía, Empleo y Competitividad, P. D. (Orden de 14 de septiembre de 2015, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 17 de septiembre), el Secretario General Técnico, Ignacio Gutiérrez Llano.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, EMPLEO Y COMPETITIVIDAD VICECONSEJERIA EMPLEO Puesto de Trabajo:
-JEFE DE SECRETARIA DE VICECONSEJERO Denominación     :
-20 C / B Grupo                :
-N.C.D.               :
-12.986,04 C. Específico      :
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, EMPLEO Y COMPETITIVIDAD VICECONSEJERIA EMPLEO Puesto de Trabajo:
+JEFE DE SECRETARIA DE VICECONSEJERO Denominación :
+20 C / B Grupo :
+N.C.D. :
+12.986,04 C. Específico :
 ***0492** RAMIREZ CADENAS,EVA Cód. identificación:
 Apellidos y Nombre:
 CONSEJERIA ECONOMÍA, EMPLEO Y COMPETITIVIDAD VICECONSEJERIA EMPLEO DIRECCION GENERAL FORMACIÓN SUBDIRECCION GENERAL CUALIFICACIÓN Y ACREDITACIÓN PROFESIONAL AREA DE CUALIFICACIONES Y CERTIFICACIÓN DE LA COMPETENCIA SERVICIO DE CUALIFICACIÓN Y EVALUACIÓN DE LAS COMPETENCIAS
@@ -57,8 +57,8 @@ CONSEJERIA ECONOMÍA, EMPLEO Y COMPETITIVIDAD VICECONSEJERIA EMPLEO DIRECCION GE
 #### SECCION DE PLANIFICACIÓN Y ORDENACIÓN DE
 
 PROCEDIMIENTOS SUBSECCION DE PLANIFICACIÓN Puesto de Trabajo:
-SUBSEC. PLANIFICACION Denominación     :
-22 Grupo                 :
-N.C.D.                :
-10.278,12 C. Específico       :
+SUBSEC. PLANIFICACION Denominación :
+22 Grupo :
+N.C.D. :
+10.278,12 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO B / C (03/22.109/20)

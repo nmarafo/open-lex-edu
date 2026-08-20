@@ -369,7 +369,9 @@ académicas y económicas del Centro.
 
 l. La Junta de Centro estará formada por: el Decano/Director, que será su Presidente nato, los Vicedecanos/Subdirectores, el Secretario del centro, que actuará de Secretario de la Junta de Centro .
 
-2. Asimismo, formarán parte de la Junta en los términos establecidos en el art. 50.1 V 63:
+2. Asimismo, formarán parte de la Junta en los términos establecidos en el art.
+
+**50.1** V 63:
 
 a) Todos los profesores permanentes que impartan docencia en el Centro y una representación de las restantes
 
@@ -953,21 +955,19 @@ de
 
 1. Disposiciones generales
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 Descargar boletín nº
 
 16 completo
-
-Temas
 
 Temas
 
@@ -1003,8 +1003,6 @@ Sectores de actividad
 
 La Junta
 
-La Junta
-
 Presidente
 
 Vicepresidencias
@@ -1016,8 +1014,6 @@ Transparencia
 Consejo de Gobierno
 
 Consejerías
-
-Servicios
 
 Servicios
 
@@ -1078,10 +1074,6 @@ Listas de correo
 Fuentes web
 
 Síguenos en:
-
-Síguenos en:
-
-andaluciajunta
 
 andaluciajunta
 

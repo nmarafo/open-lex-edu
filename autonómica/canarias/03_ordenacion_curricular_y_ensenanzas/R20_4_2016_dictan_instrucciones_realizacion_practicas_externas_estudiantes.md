@@ -175,9 +175,13 @@ i) Cualquier otro deber previsto en la normativa vigente y/o en los correspondie
 
 2. El profesor o profesora que ejercerá como tutor académico de las prácticas del estudiante formará parte del profesorado que imparta docencia, preferentemente, en la especialidad de la enseñanza artística superior correspondiente y será nombrado por el director o directora del centro.
 
-3. Con el fin de que el/la tutor/a pueda atender las tareas asignadas, durante el período de realización de las prácticas externas se establecerán en su horario períodos lectivos semanales de tutoría en función del ámbito de las enseñanzas artísticas superiores, del carácter semestral o anual de las prácticas externas, tal y como queda recogido en los correspondientes planes de estudio y del número de alumnado. 3.1. En las enseñanzas artísticas superiores de Diseño, se establecerán los siguientes períodos lectivos:
+3. Con el fin de que el/la tutor/a pueda atender las tareas asignadas, durante el período de realización de las prácticas externas se establecerán en su horario períodos lectivos semanales de tutoría en función del ámbito de las enseñanzas artísticas superiores, del carácter semestral o anual de las prácticas externas, tal y como queda recogido en los correspondientes planes de estudio y del número de alumnado.
+
+**3.1.** En las enseñanzas artísticas superiores de Diseño, se establecerán los siguientes períodos lectivos:
 - Hasta 15 alumnos/as: 3 horas lectivas.
-- Más de 15 alumnos/as: 4 horas lectivas. 3.2. En las enseñanzas artísticas superiores de Música, se contemplarán los siguientes períodos lectivos:
+- Más de 15 alumnos/as: 4 horas lectivas.
+
+**3.2.** En las enseñanzas artísticas superiores de Música, se contemplarán los siguientes períodos lectivos:
 - Con 15 alumnos/as: 1,5 horas lectivas.
 - Más de 15 alumnos/as: 3 horas lectivas. Solo en el caso de que, una vez aplicados los criterios anteriores quede un número de alumnos inferior a la ratio fijada, se asignará un tutor/a para ese grupo de alumnos inferior a 15 y, con carácter excepcional, se contemplará un período de 1 hora lectiva semanal para su tutorización.
 
@@ -260,7 +264,8 @@ b) Compromiso de que la oferta se formula para el periodo completo de duración 
 B) Oferta de prácticas que formule el centro docente. Los centros de enseñanzas artísticas superiores podrán dirigirse a las empresas, instituciones o entidades colaboradoras para realizar ofertas de realización de prácticas externas curriculares por parte de los estudiantes. Los centros docentes, previo estudio y valoración y, en su caso, aceptación de las propuestas formuladas, las ofrecerá a su alumnado tras la suscripción de los acuerdos o conciertos específicos de colaboración y el documento del plan formativo. Decimoséptima.- Reconocimiento total o parcial de créditos de las prácticas externas.
 
 1. Los créditos ECTS asignados a las prácticas externas por experiencia laboral podrán ser reconocidos, total o parcialmente, siempre que el alumnado reúna alguno de los siguientes requisitos:
-1.1. Para el reconocimiento total, el estudiante deberá acreditar una experiencia laboral de seis meses a tiempo completo, por cuenta propia o ajena, relacionada con la enseñanza artística superior correspondiente. La experiencia laboral se acreditará de la forma siguiente:
+
+**1.1.** Para el reconocimiento total, el estudiante deberá acreditar una experiencia laboral de seis meses a tiempo completo, por cuenta propia o ajena, relacionada con la enseñanza artística superior correspondiente. La experiencia laboral se acreditará de la forma siguiente:
 a) En el caso de trabajadores por cuenta ajena, mediante la siguiente documentación:
 - Certificación de la empresa donde haya adquirido la experiencia laboral, relacionando las actividades realizadas en el período de trabajo desarrollado.
 - Certificado de la Tesorería General de la Seguridad Social o de la mutualidad laboral a la que estuviera afiliado el estudiante, donde conste la empresa, la categoría laboral y el período de contratación.
@@ -269,7 +274,9 @@ b) En el caso de trabajadores por cuenta propia, mediante la siguiente documenta
 - Certificado de alta en el censo de obligados tributarios con una antigüedad mínima de seis meses.
 - Declaración responsable del interesado de las actividades más representativas realizadas.
 - Certificado de la Tesorería General de la Seguridad Social donde conste el período de cotización en el Régimen Especial de Trabajadores Autónomos.
-- Cualquier medio de prueba admitido en derecho. 1.2. En el caso de reconocimiento parcial de créditos por experiencia laboral, el tiempo mínimo a considerar para el reconocimiento será el de un mes y solo se contemplarán períodos a meses completos, no considerando números de días inferiores a este período. En este caso, la acreditación de la experiencia laboral se realizará en los mismos términos recogidos en el apartado anterior.
+- Cualquier medio de prueba admitido en derecho.
+
+**1.2.** En el caso de reconocimiento parcial de créditos por experiencia laboral, el tiempo mínimo a considerar para el reconocimiento será el de un mes y solo se contemplarán períodos a meses completos, no considerando números de días inferiores a este período. En este caso, la acreditación de la experiencia laboral se realizará en los mismos términos recogidos en el apartado anterior.
 
 2. Los créditos ECTS asignados a las prácticas externas por haber superado en estudios oficiales previos una formación práctica relacionada con las enseñanzas artísticas y de similar naturaleza, atendiendo a lo establecido en el artículo 4.2, apartados a), b) y c) del Real Decreto 1618/2011, de 14 de noviembre, sobre reconocimiento de estudios en el ámbito de la Educación Superior (BOE nº 302, de 16.12.11), podrán ser reconocidos, total o parcialmente, atendiendo al número de horas acreditadas. La realización de las prácticas profesionales en entidades con las que se hayan establecido acuerdos o conciertos específicos de colaboración por parte de la consejería competente en materia de educación, se acreditará mediante certificación expedida por el centro correspondiente o, en su caso, por la administración educativa competente, en la que se haga constar el contenido, naturaleza y alcance de las mismas, su duración y el régimen horario aplicado.
 
@@ -286,12 +293,21 @@ b) En el caso de trabajadores por cuenta propia, mediante la siguiente documenta
 - Certificación de composición musical.
 - Docencia en las Escuelas Municipales de Música autorizadas por la Consejería de Educación y Universidades.
 - Participación en espacios de coworking organizados por instituciones vinculadas con el ámbito empresarial que impulsen la iniciativa y el emprendimiento en las disciplinas profesionales propias del diseño.
-- Participación en proyectos de carácter nacional o internacional que promuevan e impulsen el papel del diseño como agente de especial relevancia en el desarrollo social y cultural, y que contribuyan con la aportación de propuestas de diseño innovadoras y viables. La acreditación de este apartado se realizará mediante certificación o acreditación expedida por la entidad organizadora en la que se haga constar el contenido, naturaleza y alcance de la formación o actividad realizada, su duración y el régimen horario aplicado. 4.1. Se reconocerá un crédito por cada veinticinco horas acreditadas, no considerando los números de horas inferiores a múltiplos de veinticinco.
+- Participación en proyectos de carácter nacional o internacional que promuevan e impulsen el papel del diseño como agente de especial relevancia en el desarrollo social y cultural, y que contribuyan con la aportación de propuestas de diseño innovadoras y viables. La acreditación de este apartado se realizará mediante certificación o acreditación expedida por la entidad organizadora en la que se haga constar el contenido, naturaleza y alcance de la formación o actividad realizada, su duración y el régimen horario aplicado.
+
+**4.1.** Se reconocerá un crédito por cada veinticinco horas acreditadas, no considerando los números de horas inferiores a múltiplos de veinticinco.
 
 5. El procedimiento para el reconocimiento, parcial o total, de los créditos ECTS asignados a las prácticas externas de las enseñanzas artísticas superiores será el siguiente:
-5.1. La solicitud de reconocimiento, recogida en el Anexo II de la presente resolución, se presentará en el centro en el que se encuentre matriculado el interesado para cursar las enseñanzas para las que se requiere el reconocimiento de estudios, antes de que finalice el mes de octubre. El solicitante deberá haber satisfecho los derechos de matrícula para cursar los estudios para los que se solicita el reconocimiento e irán acompañadas de la acreditación oficial de los estudios cuyo reconocimiento se solicita. 5.2. Una vez finalizado este plazo, el centro dispondrá de quince días naturales para remitir todas las solicitudes, acompañadas de un informe de estudio y valoración de los reconocimientos solicitados, elaborado por el tutor y con el visto bueno del coordinador/a
 
-de prácticas externas a la Dirección General competente en materia de enseñanzas artísticas superiores. 5.3. El plazo máximo para resolver y notificar las resoluciones será de tres meses a partir del día siguiente al de entrada de la solicitud en el registro del órgano competente para resolver. 5.4. Asimismo, se establecerá un segundo plazo, con fecha límite a finales de enero, de presentación de solicitudes de reconocimiento total de las prácticas externas por experiencia laboral para aquel alumnado que, durante el período indicado en el procedimiento ordinario anterior, no cumpliera con los requisitos mínimos para el reconocimiento, pero sí estuviera en disposición de ellos en este nuevo plazo.
+**5.1.** La solicitud de reconocimiento, recogida en el Anexo II de la presente resolución, se presentará en el centro en el que se encuentre matriculado el interesado para cursar las enseñanzas para las que se requiere el reconocimiento de estudios, antes de que finalice el mes de octubre. El solicitante deberá haber satisfecho los derechos de matrícula para cursar los estudios para los que se solicita el reconocimiento e irán acompañadas de la acreditación oficial de los estudios cuyo reconocimiento se solicita.
+
+**5.2.** Una vez finalizado este plazo, el centro dispondrá de quince días naturales para remitir todas las solicitudes, acompañadas de un informe de estudio y valoración de los reconocimientos solicitados, elaborado por el tutor y con el visto bueno del coordinador/a
+
+de prácticas externas a la Dirección General competente en materia de enseñanzas artísticas superiores.
+
+**5.3.** El plazo máximo para resolver y notificar las resoluciones será de tres meses a partir del día siguiente al de entrada de la solicitud en el registro del órgano competente para resolver.
+
+**5.4.** Asimismo, se establecerá un segundo plazo, con fecha límite a finales de enero, de presentación de solicitudes de reconocimiento total de las prácticas externas por experiencia laboral para aquel alumnado que, durante el período indicado en el procedimiento ordinario anterior, no cumpliera con los requisitos mínimos para el reconocimiento, pero sí estuviera en disposición de ellos en este nuevo plazo.
 
 6. En el caso de que la resolución de las solicitudes de reconocimiento de créditos ECTS de las prácticas externas resulte estimatoria, tal circunstancia quedará reflejada en las actas de evaluación y en el expediente académico del alumnado con la anotación expresa del mencionado reconocimiento. Decimoctava.- Documentación.
 
@@ -347,11 +363,16 @@ h) Análisis de las características y del perfil de las prácticas externas que
 6. La calificación de las prácticas externas se realizará con los términos «Apto» o «No Apto» y no computará a efectos de cálculo de nota media.
 
 7. La calificación de las prácticas reconocidas, con carácter total o parcial, tanto por experiencia profesional, formación práctica previa superada en estudios oficiales o participación en otras actividades profesionales se consignará en acta de acuerdo con los siguientes criterios:
-7.1. Reconocimiento de la totalidad de los créditos asociados a la asignatura de prácticas externas.
+
+**7.1.** Reconocimiento de la totalidad de los créditos asociados a la asignatura de prácticas externas.
 a) Cuando se proceda al reconocimiento total de los créditos atribuidos por el plan de estudios a la asignatura de prácticas externas se deberá consignar RECONOCIDO (RC).
 b) Cuando se proceda al reconocimiento total de los créditos atribuidos por el plan de estudios a la asignatura de prácticas externas por formación práctica previa superada en
 
-estudios oficiales y siempre que en la certificación académica personal de estudiante se haya consignado la calificación de "Apto", se procederá a reflejar en acta RECONOCIDO (RC). 7.2. Reconocimiento parcial de los créditos asociados a la asignatura de prácticas externas. En aquellos casos en los que, bien por la acreditación de una experiencia profesional previa, bien por la superación de formación práctica en estudios oficiales o participación en otras actividades profesionales, se proceda a un reconocimiento parcial de los créditos, el estudiante deberá realizar las prácticas externas ajustadas al número de créditos pendientes de superación. Una vez realizadas, en la evaluación final correspondiente, se procederá a reflejar en acta RECONOCIDO (RC), así como la calificación de las prácticas externas con la calificación de "Apto" o " No Apto". 7.2.1. Asimismo, podrá ser objeto de reconocimiento parcial el tiempo de prácticas realizado para aquel alumnado que no haya podido finalizar las prácticas externas en un solo curso académico por:
+estudios oficiales y siempre que en la certificación académica personal de estudiante se haya consignado la calificación de "Apto", se procederá a reflejar en acta RECONOCIDO (RC).
+
+**7.2.** Reconocimiento parcial de los créditos asociados a la asignatura de prácticas externas. En aquellos casos en los que, bien por la acreditación de una experiencia profesional previa, bien por la superación de formación práctica en estudios oficiales o participación en otras actividades profesionales, se proceda a un reconocimiento parcial de los créditos, el estudiante deberá realizar las prácticas externas ajustadas al número de créditos pendientes de superación. Una vez realizadas, en la evaluación final correspondiente, se procederá a reflejar en acta RECONOCIDO (RC), así como la calificación de las prácticas externas con la calificación de "Apto" o " No Apto".
+
+**7.2.1.** Asimismo, podrá ser objeto de reconocimiento parcial el tiempo de prácticas realizado para aquel alumnado que no haya podido finalizar las prácticas externas en un solo curso académico por:
 a) Ser trabajadores que tengan que compatibilizar su trabajo con la realización de las prácticas externas.
 b) **Causa de enfermedad.** Se procederá a calificarlo como "No Apto" y se remitirá, para su resolución, a la Dirección General de Formación Profesional y Educación de Adultos, con la siguiente documentación:
 a) Propuesta de reconocimiento parcial de las prácticas externas, informada por el tutor y el coordinador de prácticas externas con indicación de los objetivos, competencias y actividades recogidas en el plan formativo y que han sido superadas y el número de horas realizadas para la superación de dichas competencias.

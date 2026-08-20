@@ -99,129 +99,129 @@ Artículo noveno. Modalidad destinada al personal militar.
 
 #### Disposición final segunda. Entrada en vigor.
 
-Anexo I. Tabla de adaptación horaria del currículo básico para Ciclos Formativos de Grado Medio (CFGM).
+## Anexo I. . Tabla de adaptación horaria del currículo básico para Ciclos Formativos de Grado Medio (CFGM).
 
 ## Anexo II. Currículo básico módulo de Proyecto intermodular de grado medio.
 
-Anexo III. Real Decreto 1396/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Cocina y Gastronomía.
+## Anexo III. . Real Decreto 1396/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Cocina y Gastronomía.
 
-Anexo IV. Real Decreto 1397/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Emergencias Sanitarias.
+## Anexo IV. . Real Decreto 1397/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Emergencias Sanitarias.
 
-Anexo V. Real Decreto 1398/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los en los módulos profesionales del ciclo formativo de Técnico en Mecanizado.
+## Anexo V. . Real Decreto 1398/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los en los módulos profesionales del ciclo formativo de Técnico en Mecanizado.
 
-Anexo VI. Real Decreto 1399/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Panadería, repostería y confitería.
+## Anexo VI. . Real Decreto 1399/2007, de 29 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Panadería, repostería y confitería.
 
-Anexo VII. Real Decreto 1689/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Farmacia y Parafarmacia.
+## Anexo VII. . Real Decreto 1689/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Farmacia y Parafarmacia.
 
-Anexo VIII. Real Decreto 1691/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Sistemas Microinformáticos y Redes.
+## Anexo VIII. . Real Decreto 1691/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Sistemas Microinformáticos y Redes.
 
-Anexo IX. Real Decreto 1692/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico Soldadura y Calderería.
+## Anexo IX. . Real Decreto 1692/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico Soldadura y Calderería.
 
-Anexo X. Real Decreto 176/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Carrocería.
+## Anexo X. . Real Decreto 176/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Carrocería.
 
-Anexo XI. Real Decreto 177/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones Eléctricas y Automáticas.
+## Anexo XI. . Real Decreto 177/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones Eléctricas y Automáticas.
 
-Anexo XII. Real Decreto 178/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Planta Química.
+## Anexo XII. . Real Decreto 178/2008, de 8 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Planta Química.
 
-Anexo XIII. Real Decreto 955/2008, de 6 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Confección y Moda.
+## Anexo XIII. . Real Decreto 955/2008, de 6 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Confección y Moda.
 
-Anexo XIV. Real Decreto 1798/2008, de 3 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico de Aceites en Oliva y Vinos.
+## Anexo XIV. . Real Decreto 1798/2008, de 3 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico de Aceites en Oliva y Vinos.
 
-Anexo XV. Real Decreto 1632/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones de Telecomunicaciones.
+## Anexo XV. . Real Decreto 1632/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones de Telecomunicaciones.
 
-Anexo XVI. Real Decreto 1633/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Producción Agroecológica.
+## Anexo XVI. . Real Decreto 1633/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Producción Agroecológica.
 
-Anexo XVII. Real Decreto 1634/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Producción Agropecuaria.
+## Anexo XVII. . Real Decreto 1634/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Producción Agropecuaria.
 
-Anexo XVIII. Real Decreto 452/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Elaboración de Productos Alimenticios.
+## Anexo XVIII. . Real Decreto 452/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Elaboración de Productos Alimenticios.
 
-Anexo XIX. Real Decreto 453/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Electromecánica de Vehículos Automóviles.
+## Anexo XIX. . Real Decreto 453/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Electromecánica de Vehículos Automóviles.
 
-Anexo XX. Real Decreto 454/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Fabricación de Productos Cerámicos.
+## Anexo XX. . Real Decreto 454/2010, de 16 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Fabricación de Productos Cerámicos.
 
-Anexo XXI. Real Decreto 1128/2010, de 10 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Carpintería y Mueble.
+## Anexo XXI. . Real Decreto 1128/2010, de 10 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Carpintería y Mueble.
 
-Anexo XXII. Real Decreto 1129/2010, de 10 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Jardinería y Floristería.
+## Anexo XXII. . Real Decreto 1129/2010, de 10 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Jardinería y Floristería.
 
-Anexo XXIII. Real Decreto 1792/2010, de 30 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones de Producción de Calor.
+## Anexo XXIII. . Real Decreto 1792/2010, de 30 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones de Producción de Calor.
 
-Anexo XXIV. Real Decreto 1793/2010, de 30 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones Frigoríficas y de Climatización.
+## Anexo XXIV. . Real Decreto 1793/2010, de 30 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalaciones Frigoríficas y de Climatización.
 
-Anexo XXV. Real Decreto 254/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Cultivos Acuícolas.
+## Anexo XXV. . Real Decreto 254/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Cultivos Acuícolas.
 
-Anexo XXVI. Real Decreto 255/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Electromecánica de Maquinaria.
+## Anexo XXVI. . Real Decreto 255/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Electromecánica de Maquinaria.
 
-Anexo XXVII. Real Decreto 256/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Estética y Belleza.
+## Anexo XXVII. . Real Decreto 256/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Estética y Belleza.
 
-Anexo XXVIII. Real Decreto 257/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Calzado y Complementos de Moda.
+## Anexo XXVIII. . Real Decreto 257/2011, de 28 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Calzado y Complementos de Moda.
 
-Anexo XXIX. Real Decreto 387/2011, de 18 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Conformado por Moldeo de Metales y Polímeros.
+## Anexo XXIX. . Real Decreto 387/2011, de 18 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Conformado por Moldeo de Metales y Polímeros.
 
-Anexo XXX. Real Decreto 880/2011, de 24 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalación y Amueblamiento.
+## Anexo XXX. . Real Decreto 880/2011, de 24 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Instalación y Amueblamiento.
 
-Anexo XXXI. Real Decreto 1575/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Construcción.
+## Anexo XXXI. . Real Decreto 1575/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Construcción.
 
-Anexo XXXII. Real Decreto 1586/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Preimpresión Digital.
+## Anexo XXXII. . Real Decreto 1586/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Preimpresión Digital.
 
-Anexo XXXIII. Real Decreto 1587/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Piedra Natural.
+## Anexo XXXIII. . Real Decreto 1587/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Piedra Natural.
 
-Anexo XXXIV. Real Decreto 1588/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Peluquería y Cosmética Capilar.
+## Anexo XXXIV. . Real Decreto 1588/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Peluquería y Cosmética Capilar.
 
-Anexo XXXV. Real Decreto 1589/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento Electromecánico.
+## Anexo XXXV. . Real Decreto 1589/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento Electromecánico.
 
-Anexo XXXVI. Real Decreto 1590/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Impresión Gráfica.
+## Anexo XXXVI. . Real Decreto 1590/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Impresión Gráfica.
 
-Anexo XXXVII. Real Decreto 1591/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Fabricación y Ennoblecimiento de Productos Textiles.
+## Anexo XXXVII. . Real Decreto 1591/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Fabricación y Ennoblecimiento de Productos Textiles.
 
-Anexo XXXVIII. Real Decreto 1592/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Excavaciones y Sondeos.
+## Anexo XXXVIII. . Real Decreto 1592/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Excavaciones y Sondeos.
 
-Anexo XXXIX. Real Decreto 1593/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Atención a Personas en Situación de Dependencia.
+## Anexo XXXIX. . Real Decreto 1593/2011, de 4 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Atención a Personas en Situación de Dependencia.
 
-Anexo XL. Real Decreto 1683/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Postimpresión y Acabados Gráficos.
+## Anexo XL. . Real Decreto 1683/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Postimpresión y Acabados Gráficos.
 
-Anexo XLI. Real Decreto 1689/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Obras de Interior, Decoración y Rehabilitación.
+## Anexo XLI. . Real Decreto 1689/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Obras de Interior, Decoración y Rehabilitación.
 
-Anexo XLII. Real Decreto 554/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Operaciones de Laboratorio.
+## Anexo XLII. . Real Decreto 554/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Operaciones de Laboratorio.
 
-Anexo XLIII. Real Decreto 556/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Vídeo Disc-jockey y Sonido.
+## Anexo XLIII. . Real Decreto 556/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Vídeo Disc-jockey y Sonido.
 
-Anexo XLIV. Real Decreto 1071/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Aprovechamiento y Conservación del Medio Natural.
+## Anexo XLIV. . Real Decreto 1071/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Aprovechamiento y Conservación del Medio Natural.
 
-Anexo XLV. Real Decreto 1073/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Operaciones Subacuáticas e Hiperbáricas.
+## Anexo XLV. . Real Decreto 1073/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Operaciones Subacuáticas e Hiperbáricas.
 
-Anexo XLVI. Real Decreto 1145/2012, de 27 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de Material Rodante Ferroviario.
+## Anexo XLVI. . Real Decreto 1145/2012, de 27 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de Material Rodante Ferroviario.
 
-Anexo XLVII. Real Decreto 907/2013, de 22 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Emergencias y Protección Civil.
+## Anexo XLVII. . Real Decreto 907/2013, de 22 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Emergencias y Protección Civil.
 
-Anexo XLVIII. Real Decreto 114/2017, de 17 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Redes y estaciones de tratamiento de aguas.
+## Anexo XLVIII. . Real Decreto 114/2017, de 17 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Redes y estaciones de tratamiento de aguas.
 
-Anexo XLIX. Real Decreto 652/2017, de 23 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Actividades ecuestres.
+## Anexo XLIX. . Real Decreto 652/2017, de 23 de junio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Actividades ecuestres.
 
-Anexo L. Real Decreto 74/2018, de 19 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Montaje de estructuras e instalación de sistemas aeronáuticos.
+## Anexo L. . Real Decreto 74/2018, de 19 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Montaje de estructuras e instalación de sistemas aeronáuticos.
 
-Anexo LI. Real Decreto 90/2018, de 2 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de estructuras de madera y mobiliario de embarcaciones de recreo.
+## Anexo LI. . Real Decreto 90/2018, de 2 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de estructuras de madera y mobiliario de embarcaciones de recreo.
 
-Anexo LII. Real Decreto 402/2020, de 25 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Guía en el medio natural y de tiempo libre.
+## Anexo LII. . Real Decreto 402/2020, de 25 de febrero. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Guía en el medio natural y de tiempo libre.
 
-Anexo LIII. Real Decreto 838/2020, de 15 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Procesado y transformación de la madera.
+## Anexo LIII. . Real Decreto 838/2020, de 15 de septiembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Procesado y transformación de la madera.
 
-Anexo LIV. Real Decreto 1690/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Servicios en Restauración.
+## Anexo LIV. . Real Decreto 1690/2007, de 14 de diciembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Servicios en Restauración.
 
-Anexo LV. Real Decreto 555/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Conducción de Vehículos de Transporte por Carretera.
+## Anexo LV. . Real Decreto 555/2012, de 23 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Conducción de Vehículos de Transporte por Carretera.
 
-Anexo LVI. Real Decreto 1072/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones.
+## Anexo LVI. . Real Decreto 1072/2012, de 13 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones.
 
-Anexo LVII. Real Decreto 1144/2012, de 27 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Navegación y Pesca de Litoral.
+## Anexo LVII. . Real Decreto 1144/2012, de 27 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Navegación y Pesca de Litoral.
 
-Anexo LVIII. Real Decreto 91/2018, de 2 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de embarcaciones de recreo.
+## Anexo LVIII. . Real Decreto 91/2018, de 2 de marzo. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Mantenimiento de embarcaciones de recreo.
 
-Anexo LIX. Real Decreto 570/2023, de 4 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Seguridad.
+## Anexo LIX. . Real Decreto 570/2023, de 4 de julio. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Seguridad.
 
-Anexo LX. Real Decreto 1631/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Gestión Administrativa.
+## Anexo LX. . Real Decreto 1631/2009, de 30 de octubre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Gestión Administrativa.
 
-Anexo LXI. Real Decreto 1688/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Actividades Comerciales.
+## Anexo LXI. . Real Decreto 1688/2011, de 18 de noviembre. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Actividades Comerciales.
 
-Anexo LXII. Real Decreto 189/2018, de 6 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Comercialización de productos alimentarios.
+## Anexo LXII. . Real Decreto 189/2018, de 6 de abril. Anexo III. Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Comercialización de productos alimentarios.
 
 La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional, concreta el compromiso asumido por España de modernización de nuestro país, facilitando la cualificación, la empleabilidad y, en consecuencia, la generación de riqueza. Pone en el centro de la acción política a la persona y su necesidad de cualificarse y mantenerse actualizada a lo largo de toda su vida.
 
@@ -565,11 +565,7 @@ UC2316_2: Ejecutar las operaciones de soldeo por arco con electrodo revestido.
 
 UC2314_2: Realizar las operaciones de comprobación y mejora postsoldeo al soldeo con electrodo.
 
-UC2312_2: Realizar las operaciones previas de preparación al soldeo con electrodo.
-
 UC2315_2: Ejecutar las operaciones de soldeo por arco bajo gas protector con electrodo no consumible, soldeo "TIG".
-
-UC2314_2: Realizar las operaciones de comprobación y mejora postsoldeo al soldeo con electrodo.
 
 UC2313_2: Ejecutar las operaciones de soldeo por arco bajo gas protector con electrodo consumible, soldeo "MIG/MAG".
 
@@ -966,8 +962,6 @@ UC0006_2: Montar y mantener las instalaciones, maquinaria y equipos de la explot
 f) Producción avícola AGA703_2 (Real Decreto 297/2021, de 27 de abril, por el que se establecen determinadas cualificaciones profesionales de las familias profesionales Agraria, Comercio y Marketing, Energía y Agua, Hostelería y Turismo, Instalación y Mantenimiento, Madera, Mueble y Corcho, Marítimo-Pesquera y Transporte y Mantenimiento de Vehículos, que se incluyen en el Catálogo Nacional de Cualificaciones Profesionales, y se actualizan determinadas cualificaciones profesionales de las familias profesionales Agraria, Hostelería y Turismo, Instalación y Mantenimiento, Madera, Mueble y Corcho, Marítimo-Pesquera y Transporte y Mantenimiento de Vehículos, recogidas en el Catálogo Nacional de Cualificaciones Profesionales, establecidas por determinados reales decretos):
 
 UC0281_2: Producir aves para reproducción y obtención de carne y huevos.
-
-UC0006_2: Montar y mantener las instalaciones, maquinaria y equipos de la explotación ganadera.
 
 g) Producción cunícula AGA704_2 (Real Decreto 297/2021, de 27 de abril).
 
@@ -2053,8 +2047,6 @@ UC0195_2: Reconocer materias primas y productos de confección, calzado y marroq
 
 Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación
 
-UC0195_2: Reconocer materias primas y productos de confección, calzado y marroquinería.
-
 UC0180_2: Reconocer materias y productos en procesos textiles.
 
 UC0188_2: Preparar disoluciones para los tratamientos de ennoblecimiento de materias textiles.
@@ -2161,8 +2153,6 @@ UC0419_2: Realizar el sostenimiento con cuadros, cerchas y anclajes.
 
 UC0420_2: Realizar proyecciones de hormigones.
 
-UC0420_2: Realizar proyecciones de hormigones.
-
 UC1379_2: Realizar la estabilización de taludes en excavaciones a cielo abierto.
 
 UC1381_2: Realizar la excavación con minador.
@@ -2180,8 +2170,6 @@ UC0417_2: Realizar la perforación subterránea.
 UC1378_2: Realizar la perforación a cielo abierto.
 
 UC0419_2: Realizar el sostenimiento con cuadros, cerchas y anclajes.
-
-UC0420_2: Realizar proyecciones de hormigones.
 
 UC0420_2: Realizar proyecciones de hormigones.
 
@@ -2519,7 +2507,7 @@ UC1943_2: Ejecutar solados con piezas rígidas.
 
 UC1939_2: Revestir mediante mortero monocapa, revoco y enlucido.
 
-UC1940_2: Revestir mediante pastas y morteros especiales de aislamiento,  impermeabilización y reparación.
+UC1940_2: Revestir mediante pastas y morteros especiales de aislamiento, impermeabilización y reparación.
 
 UC1920_2: Instalar tabiques y trasdosados autoportantes de placa de yeso laminado.
 
@@ -2821,11 +2809,7 @@ UC1964_2: Ejecutar labores de vigilancia y detección de incendios forestales, m
 
 UC2288_2: Realizar las operaciones de prevención, extinción de incendios y emergencia.
 
-UC1964_2: Ejecutar labores de vigilancia y detección de incendios forestales, mantenimiento de infraestructuras de prevención y extinción, e informar a la población.
-
 UC1965_2: Ejecutar operaciones de extinción de incendios forestales.
-
-UC2288_2: Realizar las operaciones de prevención, extinción de incendios y emergencia.
 
 UC1966_2: Realizar labores de apoyo en contingencias en el medio natural y rural.
 
@@ -2834,8 +2818,6 @@ UC2290_2: Realizar las operaciones de prevención y las acciones de contención 
 UC2288_2: Realizar las operaciones de prevención, extinción de incendios y emergencia.
 
 UC2289_2: Realizar las operaciones de rescate de personas y animales en peligro.
-
-UC2288_2: Realizar las operaciones de prevención, extinción de incendios y emergencia.
 
 UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia.
 
@@ -3549,25 +3531,15 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -3630,8 +3602,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -3789,16 +3759,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Organización y Proyectos de Fabricación Mecánica.
 
 – Análisis y Química Industrial.
@@ -3881,6 +3841,12 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
+– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
+
+– Catedráticos de Enseñanza Secundaria.
+
+– Profesores de Enseñanza Secundaria.
+
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
@@ -3891,25 +3857,11 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Catedráticos de Enseñanza Secundaria.
-
-– Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -3947,8 +3899,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Procesos en la industria alimentaria.
@@ -3970,8 +3920,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -3990,8 +3938,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -4269,16 +4215,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -4341,16 +4277,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -4360,8 +4286,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -4607,8 +4531,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
@@ -4625,8 +4547,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -4648,8 +4568,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -4670,8 +4588,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -4718,16 +4634,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -4819,8 +4725,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -4863,8 +4767,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -4885,8 +4787,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.
 
 – Procesos en la industria alimentaria.
@@ -4900,8 +4800,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -5319,8 +5217,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -5351,8 +5247,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -5370,8 +5264,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -5388,8 +5280,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -5416,8 +5306,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 0454. Circuitos de fluidos.
 
@@ -5456,8 +5344,6 @@ auxiliares del vehículo.
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -5609,12 +5495,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -5624,16 +5504,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -6117,24 +5987,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6205,12 +6057,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Estética.
 
 – Peluquería.
@@ -6222,8 +6068,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 0637. Técnicas de uñas artificiales.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -6325,8 +6169,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6337,12 +6179,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6352,8 +6188,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -6421,19 +6255,13 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -6553,12 +6381,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6568,12 +6390,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -6743,12 +6559,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6766,8 +6576,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -6865,8 +6673,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -6885,8 +6691,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -6904,8 +6708,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -6922,8 +6724,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -6951,8 +6751,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -6962,12 +6760,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -7058,8 +6850,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -7166,16 +6956,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -7603,16 +7383,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -7867,8 +7637,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
@@ -7885,8 +7653,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -7908,8 +7674,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -7930,8 +7694,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -8239,27 +8001,13 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Catedráticos de Enseñanza Secundaria.
-
-– Profesores de Enseñanza Secundaria.
-
-– Catedráticos de Enseñanza Secundaria.
-
-– Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -8271,17 +8019,19 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
+– Catedráticos de Enseñanza Secundaria.
+
+– Profesores de Enseñanza Secundaria.
+
+– Catedráticos de Enseñanza Secundaria.
+
+– Profesores de Enseñanza Secundaria.
+
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -8463,8 +8213,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -8492,8 +8240,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -8531,8 +8277,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Sistemas Electrotécnicos y Automáticos.
@@ -8560,8 +8304,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -8586,8 +8328,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -8761,20 +8501,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -8856,28 +8582,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de enseñanza secundaria.
 
@@ -9047,8 +8751,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -9058,8 +8760,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Fabricación e Instalación de Carpintería y Mueble.
 
@@ -9143,20 +8843,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -9234,8 +8920,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
@@ -9531,8 +9215,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
-
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
@@ -9545,8 +9227,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -9559,13 +9239,9 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
-– Cuerpo de Profesores Especialistas en Sectores Singulares de Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
 
@@ -10007,8 +9683,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -10057,8 +9731,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.
 
 – Catedráticos de Enseñanza Secundaria.
@@ -10087,8 +9759,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
-
 – Cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.
 
 – Organización y Gestión Comercial.
@@ -10106,8 +9776,6 @@ Especialidades del profesorado con atribución docente en los módulos profesion
 – Catedráticos de Enseñanza Secundaria.
 
 – Profesores de Enseñanza Secundaria.
-
-– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 
 – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
 

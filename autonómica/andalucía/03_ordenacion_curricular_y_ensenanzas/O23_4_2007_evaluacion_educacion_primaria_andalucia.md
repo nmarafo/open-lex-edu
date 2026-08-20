@@ -422,7 +422,7 @@ La presente disposición entrará en vigor el día siguiente al de su publicaci�
 
 Página núm. 14 Sevilla, 8 de mayo 2007
 
-PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Agricultura y Pesca le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la tramitación de su solicitud. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo por escrito a la D.G. de Industrias y Calidad Agroalimentaria. Consejería de Agricultura y Pesca. C/ Tabladilla, s/n. 41071. SEVILLA. SOLICITUD AYUDAS PARA LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS AGRÍCOLAS Programa de Desarrollo Rural de Andalucía  2007-2013 Orden de.......de.....................de 200.... (Boja nº.....de fecha ..... de....................de 200....)
+PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Agricultura y Pesca le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la tramitación de su solicitud. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo por escrito a la D.G. de Industrias y Calidad Agroalimentaria. Consejería de Agricultura y Pesca. C/ Tabladilla, s/n. 41071. SEVILLA. SOLICITUD AYUDAS PARA LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS AGRÍCOLAS Programa de Desarrollo Rural de Andalucía 2007-2013 Orden de.......de.....................de 200.... (Boja nº.....de fecha ..... de....................de 200....)
 
 EJERCICIO:............ EXPTE. Nº:................................... DATOS DEL/DE LA SOLICITANTE APELLIDOS Y NOMBRE O DENOMINACIÓN SOCIAL N.I.F./C.I.F. DOMICILIO SOCIAL LOCALIDAD PROVINCIA CÓDIGO POSTAL TELÉFONO FAX CORREO ELECTRÓNICO DATOS DEL/DE LA REPRESENTANTE LEGAL APELLIDOS Y NOMBRE DEL/DE LA REPRESENTANTE D.N.I. CARGO QUE OSTENTA DOMICILIO A EFECTOS DE NOTIFICACIÓN LOCALIDAD PROVINCIA C. POSTAL TELÉFONO FAX CORREO ELECTRÓNICO DATOS BANCARIOS CÓDIGO DEL BANCO CÓDIGO DE SUCURSAL D. C. NÚMERO DE CUENTA
 
@@ -442,26 +442,18 @@ DOCUMENTO COMPLEMENTARIO (ANEXO 2) INFORMACIÓN GENERAL 1.Datos del beneficiario
 
 %
 
-%
-
-%
-
-%
-
 % 2.- Inversión:
-2.1.- Descripción general de la inversión propuesta por el beneficiario. 2.2.- Localización geográfica y Nº del Registro de Industrias Agroalimentarias de Andalucía del establecimiento afectado por la inversión propuesta. 2.3.- Distribución anual de la inversión y pagos. Distribución anual de la inversión.       Distribución anual de los pagos de la inversión.
+2.1.- Descripción general de la inversión propuesta por el beneficiario. 2.2.- Localización geográfica y Nº del Registro de Industrias Agroalimentarias de Andalucía del establecimiento afectado por la inversión propuesta. 2.3.- Distribución anual de la inversión y pagos. Distribución anual de la inversión. Distribución anual de los pagos de la inversión.
 
-Año      20..             .. %                         Año      20..             .. %
+Año 20.. .. % Año 20.. .. %
 
-Año      20..             .. %                         Año      20..             .. %
-
-Año      20..             .. %                        Año      20..             .. % 2.4.- Fecha previstas para el comienzo y final de los trabajos.
+Año 20.. .. % Año 20.. .. % 2.4.- Fecha previstas para el comienzo y final de los trabajos.
 
 Comienzo:
-Día (    ) Mes (      )  Año (       )
+Día ( ) Mes ( ) Año ( )
 
 Final:
-Día (    ) Mes (      )  Año (       )
+Día ( ) Mes ( ) Año ( )
 
 Sevilla, 8 de mayo 2007 Página núm. 17
 
@@ -501,13 +493,13 @@ Página núm. 20 Sevilla, 8 de mayo 2007
 
 3.1.1.- Balances simplificados correspondientes a los tres últimos años.
 
-(p/e)  (p/e) (p/e) Nº CUENTAS
+(p/e) (p/e) (p/e) Nº CUENTAS
 
 ACTIVO
 
--3       -2        -1 190,191,192,193,194
+-3 -2 -1 190,191,192,193,194
 
-A) Accionistas por desembolsos 195,196                                              no exigidos.
+A) Accionistas por desembolsos 195,196 no exigidos.
 
 B) Inmovilizado.
 
@@ -555,7 +547,7 @@ Nº CUENTAS
 
 PASIVO
 
--3         -2        -1
+-3 -2 -1
 
 A) Fondos propios
 
@@ -607,9 +599,9 @@ Página núm. 22 Sevilla, 8 de mayo 2007
 
 3.1.2.- Cuentas de resultados analíticas, correspondientes a los tres últimos ejercicios.
 
-(p/e)  (p/e) (p/e) Nº CUENTAS
+(p/e) (p/e) (p/e) Nº CUENTAS
 
--3        -2        -1 70,752,753,754,755,759,790 Ventas netas, prestación de servicios
+-3 -2 -1 70,752,753,754,755,759,790 Ventas netas, prestación de servicios
 
 y otros ingresos de explotación.
 
@@ -695,7 +687,7 @@ Cumplimentar los cuadros de forma que las cifras del año más reciente (último
 
 Indicar el mes de cierre del ejercicio financiero en el espacio reservado para ello encima de las columnas. Si las cuentas del último ejercicio fuesen provisionales, indíquese en la parte inferior de la página, debiendo remitir, lo antes posible, el balance completo definitivo, con un nuevo apartado 3.1. actualizado. Si, durante los tres ejercicios considerados, el período contable hubiese sido inferior o superior a doce meses, indíquese en la parte inferior de la página, especificando la duración del mismo.
 
-Servirán de base a la información anterior, los balances y cuentas de pérdidas  y ganancias, elaborados según el Plan General de Contabilidad.
+Servirán de base a la información anterior, los balances y cuentas de pérdidas y ganancias, elaborados según el Plan General de Contabilidad.
 
 Página núm. 24 Sevilla, 8 de mayo 2007
 
@@ -706,7 +698,7 @@ INFORMACION COMERCIAL 1.- Programa de producción. 1.1.- Cumplimentar el formula
 
 2.2.1.- Características.
 
-2.2.2.- Forma de presentación. 2.2.3.- Niveles de protección de la calidad. 2.3.- Plan comercial. 2.4.- Indicar el destino de los productos obtenidos (mercado regional, nacional, terceros países).  Estudio de la absorción por el mercado del aumento de producción previsto (en su caso). 2.5.- Indicar porcentajes y Tm. de productos entregados a la intervención en el pasado. En el caso de inversiones en industrias con producción mixta convencionalecológica, se elaborarán dos modelos de información comercial, el primero con la información global y el segundo exclusivamente con la producción ecológica.
+2.2.2.- Forma de presentación. 2.2.3.- Niveles de protección de la calidad. 2.3.- Plan comercial. 2.4.- Indicar el destino de los productos obtenidos (mercado regional, nacional, terceros países). Estudio de la absorción por el mercado del aumento de producción previsto (en su caso). 2.5.- Indicar porcentajes y Tm. de productos entregados a la intervención en el pasado. En el caso de inversiones en industrias con producción mixta convencionalecológica, se elaborarán dos modelos de información comercial, el primero con la información global y el segundo exclusivamente con la producción ecológica.
 
 Sevilla, 8 de mayo 2007 Página núm. 25
 
@@ -796,7 +788,7 @@ VALOR (€)
 
 TOTAL EMPRESA (Tm.)
 
-Productos transformados / comercializados antes y después de la inversión. Si la actividad del beneficiario comprendiese varias unidades o filiales, indicar los datos de la columna A por separado, para toda la empresa y para la unidad o filial en que se vayan a realizar las inversiones previstas para el proyecto. Para los tres primeros ejercicios posteriores a la realización del proyecto, a precios constantes (no tener en cuenta la inflación). Únicamente deberán figurar en este cuadro los productos que se vayan a transformar y comercializar en el marco de la inversión. En el caso de las empresas de servicios (por ejemplo: subastas), se tratará de los productos que pasen por la empresa. En principio, mencionar únicamente los que representen más del 15% de volumen o del valor total, y, en cualquier caso, por lo menos los cinco productos más importantes. En la columna A deberán figurar las cantidades de productos transformados o comercializados en el conjunto de la empresa y en la columna B únicamente las cantidades y valores de los productos transformados o comercializados en el marco de inversión. Cuando sea posible, indicar la cantidad en toneladas. Los productos que normalmente se vendan por peso se expresarán preferentemente en la unidad comercial habitual, que deberá precisarse. Para cada producto afectado, indicar en los paréntesis "volumen" y "valor" las unidades de medida utilizadas, toneladas, piezas, miles de piezas, etc.  Y  €., etc. Todas las cifras deberán expresarse de acuerdo con los usos comerciales del sector, indicar en particular, a pie de página, si el valor mencionado incluye o no los envases comerciales.
+Productos transformados / comercializados antes y después de la inversión. Si la actividad del beneficiario comprendiese varias unidades o filiales, indicar los datos de la columna A por separado, para toda la empresa y para la unidad o filial en que se vayan a realizar las inversiones previstas para el proyecto. Para los tres primeros ejercicios posteriores a la realización del proyecto, a precios constantes (no tener en cuenta la inflación). Únicamente deberán figurar en este cuadro los productos que se vayan a transformar y comercializar en el marco de la inversión. En el caso de las empresas de servicios (por ejemplo: subastas), se tratará de los productos que pasen por la empresa. En principio, mencionar únicamente los que representen más del 15% de volumen o del valor total, y, en cualquier caso, por lo menos los cinco productos más importantes. En la columna A deberán figurar las cantidades de productos transformados o comercializados en el conjunto de la empresa y en la columna B únicamente las cantidades y valores de los productos transformados o comercializados en el marco de inversión. Cuando sea posible, indicar la cantidad en toneladas. Los productos que normalmente se vendan por peso se expresarán preferentemente en la unidad comercial habitual, que deberá precisarse. Para cada producto afectado, indicar en los paréntesis "volumen" y "valor" las unidades de medida utilizadas, toneladas, piezas, miles de piezas, etc. Y €., etc. Todas las cifras deberán expresarse de acuerdo con los usos comerciales del sector, indicar en particular, a pie de página, si el valor mencionado incluye o no los envases comerciales.
 
 Página núm. 28 Sevilla, 8 de mayo 2007
 
@@ -826,7 +818,7 @@ VALOR (€)
 
 TOTAL EMPRESA (Tm.)
 
-Productos ecológicos transformados / comercializados antes y después de la inversión. Si la actividad del beneficiario comprendiese varias unidades o filiales, indicar los datos de la columna A por separado, para toda la empresa y para la unidad o filial en que se vayan a realizar las inversiones previstas para el proyecto. Para los tres primeros ejercicios posteriores a la realización del proyecto, a precios constantes (no tener en cuenta la inflación). Únicamente deberán figurar en este cuadro los productos que se vayan a transformar y comercializar en el marco de la inversión. En el caso de las empresas de servicios (por ejemplo: subastas), se tratará de los productos que pasen por la empresa. En principio, mencionar únicamente los que representen más del 15% de volumen o del valor total, y, en cualquier caso, por lo menos los cinco productos más importantes. En la columna A deberán figurar las cantidades de productos ecológicos transformados o comercializados en el conjunto de la empresa y en la columna B únicamente las cantidades y valores de los productos transformados o comercializados en el marco de inversión. Cuando sea posible, indicar la cantidad en toneladas. Los productos ecológicos que normalmente se vendan por peso se expresarán preferentemente en la unidad comercial habitual, que deberá precisarse. Para cada producto afectado, indicar en los paréntesis "volumen" y "valor" las unidades de medida utilizadas, toneladas, piezas, miles de piezas, etc.  Y  €., etc. Todas las cifras deberán expresarse de acuerdo con los usos comerciales del sector, indicar en particular, a pie de página, si el valor mencionado incluye o no los envases comerciales.
+Productos ecológicos transformados / comercializados antes y después de la inversión. Si la actividad del beneficiario comprendiese varias unidades o filiales, indicar los datos de la columna A por separado, para toda la empresa y para la unidad o filial en que se vayan a realizar las inversiones previstas para el proyecto. Para los tres primeros ejercicios posteriores a la realización del proyecto, a precios constantes (no tener en cuenta la inflación). Únicamente deberán figurar en este cuadro los productos que se vayan a transformar y comercializar en el marco de la inversión. En el caso de las empresas de servicios (por ejemplo: subastas), se tratará de los productos que pasen por la empresa. En principio, mencionar únicamente los que representen más del 15% de volumen o del valor total, y, en cualquier caso, por lo menos los cinco productos más importantes. En la columna A deberán figurar las cantidades de productos ecológicos transformados o comercializados en el conjunto de la empresa y en la columna B únicamente las cantidades y valores de los productos transformados o comercializados en el marco de inversión. Cuando sea posible, indicar la cantidad en toneladas. Los productos ecológicos que normalmente se vendan por peso se expresarán preferentemente en la unidad comercial habitual, que deberá precisarse. Para cada producto afectado, indicar en los paréntesis "volumen" y "valor" las unidades de medida utilizadas, toneladas, piezas, miles de piezas, etc. Y €., etc. Todas las cifras deberán expresarse de acuerdo con los usos comerciales del sector, indicar en particular, a pie de página, si el valor mencionado incluye o no los envases comerciales.
 
 Sevilla, 8 de mayo 2007 Página núm. 29
 
@@ -846,11 +838,9 @@ CALIDAD
 **D**
 % E UNIDAD
 
-Precios pagados a los productores durante los últimos cuatro años. A.- En esta columna deberán figurar todos los productos mencionados en el formulario 'Productos utilizados antes y después de la inversión'., siempre que la empresa esté en relación directa con los productores de los mismos. B a D.- Estos datos únicamente se facilitarán en la medida en que sirvan de criterio para la fijación de los precios. B.- Presentación de los productos vegetales, categoría de peso para los bovinos, porcinos, huevos, etc. C.- Normas / Clases de calidad reconocidas oficialmente por la Comunidad (en su defecto, por los Estados Miembros). En caso de proyectos vitivinícolas describir además el sistema utilizado para clasificar y evaluar la materia prima en función de la calidad (A1.: Grado Oechsle). D.- Contenido, en porcentaje. Por ejemplo, contenido en materias grasas o proteínas de la leche, en alcohol del vino, en agua de los cereales. E.- Precisar si se trata de precio por Kilogramo, por litro, por pieza, etc... F.- Indicar los precios pagados a los productores durante los cuatro últimos años (los del año más reciente deberán figurar en la última columna), en moneda nacional, en forma de media anual. Se trata de los precios pagados en el momento de la entrega a la empresa, sin el impuesto sobre el valor añadido. Tener en cuenta los costes de recogida, en caso de que ésta corra a cargo de la empresa.
-
 Sevilla, 8 de mayo 2007 Página núm. 31
 
-INFORMACION TECNICA 1.- Memoria de las inversiones a realizar. 1.1.- Descripción de las instalaciones existentes con indicación de sus capacidades, rendimientos horarios. 1.2.- Descripción técnica detallada de las inversiones previstas y su utilización. Adjuntar planos de localización y los planos precisos para diferenciar la situación anterior y posterior a la realización del proyecto de inversión (construcciones e instalaciones). 1.3.- Cuadro de síntesis de superficies, volumen y capacidades. Cumplimentar el documento 'Trabajos de Construcción e Instalaciones'. 1.4.- Presupuesto estimativo de los trabajos previstos (indicar bases de cálculo y fecha de estimación). Presupuesto detallado para construcciones (mediciones y valoraciones). Para material y equipamiento, las inversiones deberán estar respaldadas por ofertas o facturas proforma, las cuales deberán relacionarse y cuantificarse según los subcapítulos del 'Resumen de Inversiones' a que corresponden. 1.5.- Justificar documentalmente la disponibilidad del terreno  por parte del beneficiario. En el caso de inversiones en industrias con producción mixta convencionalecológica, se elaborarán dos modelos de información técnica, el primero con la información global y el segundo exclusivamente con la producción ecológica. Nota:  Si las partidas  no coinciden con las del presupuesto técnico, será necesario incluir un resumen. En caso necesario añadir correspondencia entre oferta, presupuesto técnico y el resumen de las inversiones.
+INFORMACION TECNICA 1.- Memoria de las inversiones a realizar. 1.1.- Descripción de las instalaciones existentes con indicación de sus capacidades, rendimientos horarios. 1.2.- Descripción técnica detallada de las inversiones previstas y su utilización. Adjuntar planos de localización y los planos precisos para diferenciar la situación anterior y posterior a la realización del proyecto de inversión (construcciones e instalaciones). 1.3.- Cuadro de síntesis de superficies, volumen y capacidades. Cumplimentar el documento 'Trabajos de Construcción e Instalaciones'. 1.4.- Presupuesto estimativo de los trabajos previstos (indicar bases de cálculo y fecha de estimación). Presupuesto detallado para construcciones (mediciones y valoraciones). Para material y equipamiento, las inversiones deberán estar respaldadas por ofertas o facturas proforma, las cuales deberán relacionarse y cuantificarse según los subcapítulos del 'Resumen de Inversiones' a que corresponden. 1.5.- Justificar documentalmente la disponibilidad del terreno por parte del beneficiario. En el caso de inversiones en industrias con producción mixta convencionalecológica, se elaborarán dos modelos de información técnica, el primero con la información global y el segundo exclusivamente con la producción ecológica. Nota: Si las partidas no coinciden con las del presupuesto técnico, será necesario incluir un resumen. En caso necesario añadir correspondencia entre oferta, presupuesto técnico y el resumen de las inversiones.
 
 Página núm. 32 Sevilla, 8 de mayo 2007
 
@@ -883,13 +873,13 @@ Total instalaciones y equipos 3.- Total parcial. 4.- Honorarios y gastos general
 
 Página núm. 34 Sevilla, 8 de mayo 2007
 
-PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Agricultura y Pesca le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la tramitación de su solicitud. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo por escrito a la D.G. de Industrias y Calidad Agroalimentaria. Consejería de Agricultura y Pesca. C/ Tabladilla, s/n. 41071. SEVILLA.  Parcial SOLICITUD DE COBRO  Total AYUDAS PARA LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS AGRÍCOLAS Programa de Desarrollo Rural de Andalucía  2007-2013 Orden de___de_________de 200__ (Boja nº      de fecha __ de___________ de 200__) CONVOCATORIA:
+PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, la Consejería de Agricultura y Pesca le informa que los datos personales obtenidos mediante la cumplimentación de este documento/impreso/formulario y demás que se adjuntan van a ser incorporados, para su tratamiento, en un fichero automatizado. Asimismo, se le informa que la recogida y tratamiento de dichos datos tienen como finalidad la tramitación de su solicitud. De acuerdo con lo previsto en la citada Ley Orgánica, puede ejercitar los derechos de acceso, rectificación, cancelación y oposición dirigiendo por escrito a la D.G. de Industrias y Calidad Agroalimentaria. Consejería de Agricultura y Pesca. C/ Tabladilla, s/n. 41071. SEVILLA.  Parcial SOLICITUD DE COBRO  Total AYUDAS PARA LA TRANSFORMACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS AGRÍCOLAS Programa de Desarrollo Rural de Andalucía 2007-2013 Orden de___de_________de 200__ (Boja nº de fecha __ de___________ de 200__) CONVOCATORIA:
 DATOS DEL/DE LA SOLICITANTE APELLIDOS Y NOMBRE O DENOMINACIÓN SOCIAL N.I.F./C.I.F. DOMICILIO SOCIAL LOCALIDAD PROVINCIA CÓDIGO POSTAL TELÉFONO FAX CORREO ELECTRÓNICO DATOS DEL/DE LA REPRESENTANTE LEGAL APELLIDOS Y NOMBRE DEL/DE LA REPRESENTANTE CARGO D.N.I. DOMICILIO A EFECTOS DE NOTIFICACIÓN LOCALIDAD PROVINCIA C. POSTAL TELÉFONO FAX CORREO ELECTRÓNICO Si el representante es diferente del que solicitó inicialmente la subvención, tiene que acreditar su representación ante el registro de terceros y representante de la Delegación Provincial ANTECEDENTES DEL EXPEDIENTE Y DE LA RESOLUCIÓN NÚMERO DEL EXPEDIENTE FECHA DE LA RESOLUCIÓN INVERSIÓN ACEPTADA € SUBVENCIÓN CONCEDIDA € FECHA DE INICIO DE LAS ACTUACIONES FECHA LÍMITE DE TERMINACIÓN FECHA LÍMITE DE JUSTIFICACIÓN DOCUMENTACIÓN QUE ADJUNTA (Original y dos copias para su cotejo)
 
 ## Anexo 3. y la documentación indicada en el mismo.
 
 SOLICITUD DE COBRO, DECLARACIÓN, LUGAR, FECHA Y FIRMA DECLARO bajo mi responsabilidad que son ciertos cuantos datos figuran en la presente solicitud de cobro:
- Que no se han alterado las condiciones tenidas en cuenta para la concesión de la Resolución.  Que  no ha solicitado ni obtenido subvenciones o ayudas para la misma finalidad relacionada con esta solicitud.  Que ha solicitado y/u obtenido otras subvenciones o ayudas para la misma finalidad relacionada con esta solicitud, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales:
+ Que no se han alterado las condiciones tenidas en cuenta para la concesión de la Resolución.  Que no ha solicitado ni obtenido subvenciones o ayudas para la misma finalidad relacionada con esta solicitud.  Que ha solicitado y/u obtenido otras subvenciones o ayudas para la misma finalidad relacionada con esta solicitud, procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales o internacionales:
 Solicitadas/Aprobadas Fecha/año Otras Administraciones/Entes públicos o privados Importe
 
 SOLICITO el cobro de las ayudas que, de acuerdo con los porcentajes y límites previstos en la Resolución correspondan a las inversiones justificadas que figuran en la documentación anexa. En _____________________ a ________ de ______________ de ____________ EL/ LA REPRESENTANTE LEGAL Fdo.: ................................................................................... ILMO/A. SR/A. DIRECTOR/A GENERAL DE INDUSTRIAS Y CALIDAD AGROALIMENTARIA ILMO/A. SR/A. DIRECTOR/A GENERAL DE AGRICULTURA ECOLÓGICA
@@ -898,7 +888,7 @@ Sevilla, 8 de mayo 2007 Página núm. 35
 
 ## Anexo 3
 
-FINANCIACION DE LOS GASTOS EFECTUADOS PROYECTO Nº:                                                      Pago Parcial  ----     Pago Total  ---- 1.- Participación financiera del beneficiario.
+FINANCIACION DE LOS GASTOS EFECTUADOS PROYECTO Nº: Pago Parcial ---- Pago Total ---- 1.- Participación financiera del beneficiario.
 
 1.1.- Fondos propios.
 
@@ -910,7 +900,7 @@ FINANCIACION DE LOS GASTOS EFECTUADOS PROYECTO Nº:                             
 
 1.5.- Otros.
 
-TOTAL 1. 2.- Otras subvenciones. 3.- Importe recibido de anticipo o pagos  parciales. 4.- TOTAL GENERAL (Impuestos comprendidos) 5.- IVA recuperable. 6.- TOTAL GENERAL (Sin impuestos (1)) Hecho en      , el ------------------------------------------------ ---------------------------------------------------- sello y firma de la autoridad competente
+TOTAL 1. 2.- Otras subvenciones. 3.- Importe recibido de anticipo o pagos parciales. 4.- TOTAL GENERAL (Impuestos comprendidos) 5.- IVA recuperable. 6.- TOTAL GENERAL (Sin impuestos (1)) Hecho en , el ------------------------------------------------ ---------------------------------------------------- sello y firma de la autoridad competente
 
 firma del beneficiario
 
@@ -959,7 +949,7 @@ Página núm. 38 Sevilla, 8 de mayo 2007
 COMPARACION CUANTITATIVA ENTRE PREVISIONES Y REALIZACIONES Proyecto nº:
 CAPITULO SEGUN LA PETICION REALIZACIONES JUSTIFICACION VARIACIONES DESCRIPCION VOLUMEN,CAPACIDAD , SUPERFICIE, ETC COSTE UNITARIO VOLUMEN, CAPACIDAD, SUPERFICIE, ETC. * COSTE UNITARIO
 
-RED VIARIA Y MOVIMIENTOS  DE TIERRA CONSTRUCCIONES
+RED VIARIA Y MOVIMIENTOS DE TIERRA CONSTRUCCIONES
 
 INSTALACIONES Y EQUIPOS
 * Emplear las mismas unidades que en el documento 'Trabajos de Construcción e Instalaciones' Fecha:
@@ -972,7 +962,9 @@ Firma del beneficiario
 
 Sevilla, 8 de mayo 2007 Página núm. 39
 
-CUADRO PARA EL CUMPLIMIENTO DEL ARTÍCULO 23.3 DE LA ORDEN OFERTA Nº 1 OFERTA Nº 2 OFERTA Nº 3 OFERTA SELECCIONADA Nº JUSTIFICACIÓN ELECCIÓN CONTRATO OBJETO DEL GASTO FACTURAS DE LA LISTA DE JUSTIFICANTES QUE INCLUYE OFERENTE IMPORTE (€) OFERENT E IMPORTE (€) OFERENT E IMPORTE (€)
+CUADRO PARA EL CUMPLIMIENTO DEL ARTÍCULO
+
+**23.3** DE LA ORDEN OFERTA Nº 1 OFERTA Nº 2 OFERTA Nº 3 OFERTA SELECCIONADA Nº JUSTIFICACIÓN ELECCIÓN CONTRATO OBJETO DEL GASTO FACTURAS DE LA LISTA DE JUSTIFICANTES QUE INCLUYE OFERENTE IMPORTE (€) OFERENT E IMPORTE (€) OFERENT E IMPORTE (€)
 
 Adjuntar dos copias de las ofertas o contratos. Fecha:
 
@@ -988,13 +980,13 @@ Página núm. 40 Sevilla, 8 de mayo 2007
 
 PARQUES AGROLIMENTARIOS Y TECNOALIMENTARIOS DE ANDALUCIA
 
-1. ALMERIA PARQUE DE INNOVACIÓN Y TECNOLOGÍA DE ALMERIA.
+### 1. Almeria parque de innovación y tecnología de almeria
 
 2. CÁDIZ PARQUE TECNOALIMENTARIO DE JEREZ DE LA FRONTERA.
 
 3. CÓRDOBA PARQUE AGROALIMENTARIO "CÓRDOBA SUR". AGUILAR DE LA FRONTERA.
 
-4. GRANADA PARQUE AGROALIMENTARIO DE LOJA.
+### 4. Granada parque agroalimentario de loja
 
 5. HUELVA PARQUE AGROALIMENTARIO DE LOS CÍTRICOS DE ANDALUCÍA TARIQUEJOS-BETURIA. CARTAYA.
 
@@ -1002,4 +994,6 @@ PARQUES AGROLIMENTARIOS Y TECNOALIMENTARIOS DE ANDALUCIA
 
 7. MÁLAGA PARQUE TECNOALIMENTARIO DE VÉLEZ-MÁLAGA.
 
-8. SEVILLA PARQUE EMPRESARIAL DE LA ACEITUNA DE MESA. ARAHAL.
+### 8. Sevilla parque empresarial de la aceituna de mesa
+
+ARAHAL.

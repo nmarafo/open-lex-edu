@@ -280,4 +280,4 @@ Este Real Decreto entrará en vigor el día 1 de septiembre de 2001. Dado en Mad
 
 DISTINTIVO DE TRANSPORTE ESCOLAR
 
-Este texto consolidado no tiene valor jurídico. 
+Este texto consolidado no tiene valor jurídico.

@@ -100,7 +100,9 @@ RESOLUCIÓN de 28 de septiembre de 2023, de la Presidencia, por la que se ordena
 
 Formato de archivo en PDF/Adobe Acrobat.
 
-Tamaño: 548.2 Kb.
+Tamaño:
+
+**548.2** Kb.
 
 Firma electrónica
 
@@ -406,19 +408,19 @@ Las personas aspirantes que hayan superado la fase de oposición serán requerid
 
 La antigüedad se valorará por años completos de servicios hasta un máximo de 5 puntos, computándose a estos efectos los siguientes:
 
-1.1. Por servicios prestados en el Parlamento de Canarias, en otros Parlamentos Autonómicos o Asambleas legislativas en puestos de la misma categoría profesional y funciones o superior que las del puesto de trabajo convocado: a razón de 0,50 puntos por año de servicio, despreciándose las fracciones inferiores al año.
+**1.1.** Por servicios prestados en el Parlamento de Canarias, en otros Parlamentos Autonómicos o Asambleas legislativas en puestos de la misma categoría profesional y funciones o superior que las del puesto de trabajo convocado: a razón de 0,50 puntos por año de servicio, despreciándose las fracciones inferiores al año.
 
-1.2. Por servicios prestados en el Parlamento de Canarias, en otros Parlamentos Autonómicos o Asambleas Legislativas en puestos de categoría profesional inmediatamente inferior al del puesto de trabajo convocado: a razón de 0,23 puntos por año, despreciándose las fracciones inferiores al año.
+**1.2.** Por servicios prestados en el Parlamento de Canarias, en otros Parlamentos Autonómicos o Asambleas Legislativas en puestos de categoría profesional inmediatamente inferior al del puesto de trabajo convocado: a razón de 0,23 puntos por año, despreciándose las fracciones inferiores al año.
 
-1.3. Servicios prestados en otras administraciones públicas en puestos de la misma categoría profesional y funciones que las del puesto de trabajo convocado: a razón de 0,30 puntos, despreciándose las fracciones inferiores a un año.
+**1.3.** Servicios prestados en otras administraciones públicas en puestos de la misma categoría profesional y funciones que las del puesto de trabajo convocado: a razón de 0,30 puntos, despreciándose las fracciones inferiores a un año.
 
-1.4. Servicios prestados en otras administraciones públicas en puestos de categoría profesional inmediatamente inferior a la del puesto de trabajo convocado: a razón de 0,16 puntos por año, despreciándose las inferiores al año.
+**1.4.** Servicios prestados en otras administraciones públicas en puestos de categoría profesional inmediatamente inferior a la del puesto de trabajo convocado: a razón de 0,16 puntos por año, despreciándose las inferiores al año.
 
 2.- Cursos de formación y perfeccionamiento: asistencia y aprovechamiento.
 
 Por este concepto podrá alcanzarse un máximo de 3 puntos.
 
-2.1. Se valorará la asistencia y aprovechamiento e impartición de cursos de formación y perfeccionamiento, que versen sobre materias directamente relacionadas con las funciones propias de las plazas convocadas, organizados por el Parlamento de Canarias u otra Administración Pública: Instituto Canario de Administración Pública (ICAP), Instituto Nacional de Administración Pública (INAP), Servicio Canario de Empleo (SCE), Instituto Canario de Igualdad, Universidades, organizaciones empresariales y sindicales y asociaciones profesionales, los impartidos por los servicios de prevención propios o ajenos, así como en otros centros oficiales reconocidos. Asimismo, se valorarán aquellos cursos oficiales que por su temática general en materia de administración, organización o procedimiento sean de interés para cualquier plaza convocada.
+**2.1.** Se valorará la asistencia y aprovechamiento e impartición de cursos de formación y perfeccionamiento, que versen sobre materias directamente relacionadas con las funciones propias de las plazas convocadas, organizados por el Parlamento de Canarias u otra Administración Pública: Instituto Canario de Administración Pública (ICAP), Instituto Nacional de Administración Pública (INAP), Servicio Canario de Empleo (SCE), Instituto Canario de Igualdad, Universidades, organizaciones empresariales y sindicales y asociaciones profesionales, los impartidos por los servicios de prevención propios o ajenos, así como en otros centros oficiales reconocidos. Asimismo, se valorarán aquellos cursos oficiales que por su temática general en materia de administración, organización o procedimiento sean de interés para cualquier plaza convocada.
 
 Los cursos en materia de prevención de riesgos laborales impartidos por los servicios de prevención legalmente reconocidos serán valorados sin que la puntuación que pueda concederse por ellos sea superior a 0,10 puntos, con arreglo a la tabla que figura en este apartado.
 
@@ -428,7 +430,7 @@ Cuando el certificado no especifique el número de horas lectivas, se computará
 
 Ver anexo en la página 52553 del documento
 
-2.2. En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
+**2.2.** En relación a las titulaciones oficiales de idiomas: B1, B2, C1 y C2, se puntuarán solo los certificados que se relacionan en la Orden de 11 de abril de 2018, por la que se actualizan los títulos y certificados establecidos en el Anexo I de la [Orden de 21 de septiembre de 2016](../03_ordenacion_curricular_y_ensenanzas/R26_3_2019_determina_acceso_distintos_cursos_ensenanzas_idiomas.md), que regula el reconocimiento de la acreditación de la competencia lingüística conforme al Marco Común Europeo de Referencia para las Lenguas en la Comunidad Autónoma de Canaria, como figura en la siguiente tabla:
 
 Ver anexo en la página 52554 del documento
 
@@ -444,19 +446,19 @@ Por este concepto podrá alcanzarse un máximo de 2 puntos.
 
 Se valorarán los méritos académicos, distintos a aquellas titulaciones exigidas o aportadas para el ingreso en la categoría profesional/grupo al que se promociona, aunque no tengan conexión con el contenido formal de las plazas convocadas:
 
-3.1. Por cada doctorado: 0,75 puntos.
+**3.1.** Por cada doctorado: 0,75 puntos.
 
-3.2. Por cada licenciatura universitaria: 0,50 puntos.
+**3.2.** Por cada licenciatura universitaria: 0,50 puntos.
 
-3.3. Por cada grado universitario: 0,30 puntos.
+**3.3.** Por cada grado universitario: 0,30 puntos.
 
-3.4. Por cada diplomatura universitaria: 0,25 puntos.
+**3.4.** Por cada diplomatura universitaria: 0,25 puntos.
 
-3.5. Por cada máster universitario: 0,20 puntos.
+**3.5.** Por cada máster universitario: 0,20 puntos.
 
-3.6. Por cada título de experto universitario oficial: 0,10 puntos.
+**3.6.** Por cada título de experto universitario oficial: 0,10 puntos.
 
-3.7. Por examen de grado o tesina, DEA (Diploma de Estudios Avanzados): 0,08 puntos.
+**3.7.** Por examen de grado o tesina, DEA (Diploma de Estudios Avanzados): 0,08 puntos.
 
 La acreditación de estos méritos se hará mediante certificación oficial del órgano competente, fotocopia compulsada o copia auténtica.
 
@@ -500,13 +502,13 @@ Con una antelación de dos meses al vencimiento del plazo máximo para resolver 
 
 1.- La persona aspirante propuesta por el tribunal calificador deberá presentar en el Registro de Personal del Servicio de Personal, Documentación, Biblioteca y Archivo de la Cámara, en el plazo de veinte (20) días naturales desde que se haga pública la relación a la que se refiere la base undécima, mediante la correspondiente solicitud, la siguiente documentación:
 
-1.1. Documento nacional de identidad original o pasaporte o número de identidad de extranjeros, así como fotocopia para su compulsa.
+**1.1.** Documento nacional de identidad original o pasaporte o número de identidad de extranjeros, así como fotocopia para su compulsa.
 
-1.2. Título original de la titulación académica exigida en la base segunda de esta convocatoria o certificación académica que acredite haber realizado todos los estudios necesarios para la obtención del mismo y fotocopia para su compulsa.
+**1.2.** Título original de la titulación académica exigida en la base segunda de esta convocatoria o certificación académica que acredite haber realizado todos los estudios necesarios para la obtención del mismo y fotocopia para su compulsa.
 
-1.3. Certificado médico oficial acreditativo del cumplimiento del requisito establecido en la base segunda, 1.e), de la presente convocatoria.
+**1.3.** Certificado médico oficial acreditativo del cumplimiento del requisito establecido en la base segunda, 1.e), de la presente convocatoria.
 
-1.4. Declaración responsable de no haber sido separada, mediante expediente disciplinario, del servicio de cualquier Administración Pública, ni hallarse inhabilitada para el ejercicio de funciones públicas por sentencia firme.
+**1.4.** Declaración responsable de no haber sido separada, mediante expediente disciplinario, del servicio de cualquier Administración Pública, ni hallarse inhabilitada para el ejercicio de funciones públicas por sentencia firme.
 
 2.- Si dentro del plazo indicado, salvo los casos de fuerza mayor, la persona seleccionada no presentara la documentación, o del examen de la misma se dedujera que carecen de alguno de los requisitos exigidos en la convocatoria, no podrá ser seleccionada para formalizar el contrato y quedarán anuladas sus actuaciones, sin perjuicio de la responsabilidad en que hubiera incurrido por falsedad en la solicitud inicial.
 
@@ -756,7 +758,9 @@ Tema 108.- La seguridad en redes. Seguridad perimetral. Control de accesos.
 
 Tema 109.- Técnicas criptográficas y protocolos seguros. Mecanismos de firma digital.
 
-Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. Servicios: evolución, estado actual y perspectivas de futuro. La web 2.0. La web semántica. Internet de las Cosas (IoT).
+Tema 110.- La red Internet: arquitectura de red. Principios de funcionamiento. Servicios: evolución, estado actual y perspectivas de futuro. La web
+
+**2.0.** La web semántica. Internet de las Cosas (IoT).
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

@@ -505,7 +505,7 @@ c) Resultado de los controles periódicos de las condiciones de trabajo y de la 
 
 d) Práctica de los controles del estado de salud de los trabajadores previstos en el artículo 22 de esta Ley y conclusiones obtenidas de los mismos en los términos recogidos en el último párrafo del apartado 4 del citado artículo.
 
-e) Relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a un día de trabajo. En estos casos el empresario realizará, además, la notificación a que se refiere el apartado 3 del presente artículo.   2. En el momento de cesación de su actividad, las empresas deberán remitir a la autoridad laboral la documentación señalada en el apartado anterior.
+e) Relación de accidentes de trabajo y enfermedades profesionales que hayan causado al trabajador una incapacidad laboral superior a un día de trabajo. En estos casos el empresario realizará, además, la notificación a que se refiere el apartado 3 del presente artículo. 2. En el momento de cesación de su actividad, las empresas deberán remitir a la autoridad laboral la documentación señalada en el apartado anterior.
 
 3. El empresario estará obligado a notificar por escrito a la autoridad laboral los daños para la salud de los trabajadores a su servicio que se hubieran producido con motivo del desarrollo de su trabajo, conforme al procedimiento que se determine reglamentariamente.
 

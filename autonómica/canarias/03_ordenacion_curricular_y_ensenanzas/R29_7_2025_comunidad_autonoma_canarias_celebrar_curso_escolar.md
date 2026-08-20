@@ -271,16 +271,16 @@ informando y asesorando a los centros educativos del comienzo del procedimiento,
 
 CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS SOCIALES CURSO 2025/2026 APERTURA DEL PROCEDIMIENTO Hasta el 24 de octubre
 - Constitución de las respectivas comisiones electorales provinciales.
-- Creación  de  un  tablón  de  anuncios  visible  en  el  centro,  destinado  a  la información del procedimiento de renovación parcial o nueva constitución del Consejo Social en el curso 2025/2026
-a. Creación  de  una  sección,  dentro  de  la  web  del  centro,  destinada  a  la información del procedimiento de renovación parcial o nueva constitución del Consejo Social en el curso  2025/2026,  con acceso restringido para aquellos documentos que contengan información a proteger.
-b. Convocatoria,  en todos  los  centros  integrados  de  formación  profesional dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, de una sesión de Consejo Social, para informar de la apertura del procedimiento y del número de miembros a elegir por cada sector de la comunidad educativa.
+- Creación de un tablón de anuncios visible en el centro, destinado a la información del procedimiento de renovación parcial o nueva constitución del Consejo Social en el curso 2025/2026
+a. Creación de una sección, dentro de la web del centro, destinada a la información del procedimiento de renovación parcial o nueva constitución del Consejo Social en el curso 2025/2026, con acceso restringido para aquellos documentos que contengan información a proteger.
+b. Convocatoria, en todos los centros integrados de formación profesional dependientes de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes, de una sesión de Consejo Social, para informar de la apertura del procedimiento y del número de miembros a elegir por cada sector de la comunidad educativa.
 
-1. Divulgación* del  inicio  del  procedimiento  a  toda  la  comunidad  educativa, mediante  publicación,  en  los  tablones  de  anuncios  y  en  la  página  web  del centro.
-* Este material está disponible en la página web de la Consejería de Educación, Formación Profesional, Actividad Física  y Deportes y en el "Portal docente y centros educativos", en el "Escritorio del centro". CONSTITUCIÓN DE LA JUNTA ELECTORAL Hasta  24 de octubre
-a) Anuncio del Sorteo Público para la elección de las personas miembros de la Junta Electoral. #Doc-1 Hasta  31 de octubre
+1. Divulgación* del inicio del procedimiento a toda la comunidad educativa, mediante publicación, en los tablones de anuncios y en la página web del centro.
+* Este material está disponible en la página web de la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y en el "Portal docente y centros educativos", en el "Escritorio del centro". CONSTITUCIÓN DE LA JUNTA ELECTORAL Hasta 24 de octubre
+a) Anuncio del Sorteo Público para la elección de las personas miembros de la Junta Electoral. #Doc-1 Hasta 31 de octubre
 • Celebración en acto público del sorteo para la designación de los miembros de la Junta Electoral del centro.
 • Publicación de los resultados del sorteo público para la designación de las personas miembros de la Junta Electoral, y comunicación por escrito a los miembros designados de cada sector. #Doc-2
-• Convocatoria  para  la  reunión  de  constitución  de  la  Junta  Electoral  del centro.#Doc-3
+• Convocatoria para la reunión de constitución de la Junta Electoral del centro.#Doc-3
 • Constitución de la Junta Electoral del centro y publicación en el tablón de anuncios y web* del centro del Acta de constitución.#Doc-4
 
 ## Anexo II
@@ -288,24 +288,24 @@ a) Anuncio del Sorteo Público para la elección de las personas miembros de la 
 CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS SOCIALES CURSO 2025/2026
 
 CONVOCATORIA DE ELECCIONES AL CONSEJO SOCIAL CONVOCATORIA Y CENSOS ELECTORALES 03 de noviembre
-• Publicación de la convocatoria de elecciones de las personas representantes del  alumnado  y  del  personal  de  administración  y  servicios  en  el  Consejo Social. #Doc-5 Las votaciones para la elección del alumnado representante al Consejo Social se celebrarán durante las horas de clase.
-• Publicación  por  la  Junta  Electoral  del  centro,  de  los  censos  electorales correspondientes a cada uno de los sectores.
+• Publicación de la convocatoria de elecciones de las personas representantes del alumnado y del personal de administración y servicios en el Consejo Social. #Doc-5 Las votaciones para la elección del alumnado representante al Consejo Social se celebrarán durante las horas de clase.
+• Publicación por la Junta Electoral del centro, de los censos electorales correspondientes a cada uno de los sectores.
 • Remisión de escritos de comunicación para la designación de representantes en el Consejo Social, dirigidos:
-- A la Consejería de  Educación,  Formación Profesional, Actividad Física  y Deportes.#Doc-  6
-- A la Consejería de Turismo y Empleo.#Doc-  7   hacer
-- Cuatro  representantes  de  los  agentes  sociales,  dos  de  ellos  de  las organizaciones  sindicales  más  representativas  y  dos  de  las organizaciones empresariales más representativas que pertenezcan al Consejo Canario de Formación Profesional. #Doc-8
-- Representantes del centro: alumnado y  personal no docente para que designe a su representante en el Consejo Social. #Doc-  9 Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas designadas antes del 1 de diciembre.
-• Remisión  de  escritos  de  comunicación  para  la  designación  de  personas invitadas permanentes en el Consejo Social, dirigidos:
+- A la Consejería de Educación, Formación Profesional, Actividad Física y Deportes.#Doc- 6
+- A la Consejería de Turismo y Empleo.#Doc- 7 hacer
+- Cuatro representantes de los agentes sociales, dos de ellos de las organizaciones sindicales más representativas y dos de las organizaciones empresariales más representativas que pertenezcan al Consejo Canario de Formación Profesional. #Doc-8
+- Representantes del centro: alumnado y personal no docente para que designe a su representante en el Consejo Social. #Doc- 9 Dichos órganos deberán remitir por escrito los nombres de las personas designadas antes del 1 de diciembre.
+• Remisión de escritos de comunicación para la designación de personas invitadas permanentes en el Consejo Social, dirigidos:
 - Al Cabildo. #Doc- 11
-- A la FECAM.#Doc-12 Dichos  órganos  deberán  remitir  por  escrito  los  nombres  de  las  personas designadas antes del 1 de diciembre. 3 y 4 de noviembre • Reclamaciones sobre los censos electorales publicados. #Doc-13 7 de noviembre • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. #Doc-1 4
+- A la FECAM.#Doc-12 Dichos órganos deberán remitir por escrito los nombres de las personas designadas antes del 1 de diciembre. 3 y 4 de noviembre • Reclamaciones sobre los censos electorales publicados. #Doc-13 7 de noviembre • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. #Doc-1 4
 
-PRESENTACIÓN DE CANDIDATURAS Hasta el  10 de noviembre
+PRESENTACIÓN DE CANDIDATURAS Hasta el 10 de noviembre
 • Recepción, en la secretaría del centro educativo, de escritos de presentación de candidaturas como representantes de los sectores del centro en el Consejo Social: profesorado, alumnado y personal de administración y servicios. 5//#Doc-16
 • Presentación ante la Junta Electoral de candidaturas a miembros del Consejo Social recibidas en la secretaría del centro.
-• Proclamación,  por  la  Junta  Electoral  del  centro,  de  las  candidaturas admitidas.#Doc-1 7 10 y 11 de noviembre • Reclamación a la proclamación de candidaturas admitidas.#Doc-18 14 de noviembre • Resolución  a  la  reclamación  de  la  proclamación  de  candidaturas admitidas.#Doc-1 9
-• Publicación en el tablón y en la web* del centro de las candidaturas admitidas. Del 17 al  25 de noviembre
+• Proclamación, por la Junta Electoral del centro, de las candidaturas admitidas.#Doc-1 7 10 y 11 de noviembre • Reclamación a la proclamación de candidaturas admitidas.#Doc-18 14 de noviembre • Resolución a la reclamación de la proclamación de candidaturas admitidas.#Doc-1 9
+• Publicación en el tablón y en la web* del centro de las candidaturas admitidas. Del 17 al 25 de noviembre
 • Realización de encuentros o debates entre el alumnado para que las personas candidatas hagan divulgación de su candidatura. COMPOSICIÓN DE MESAS ELECTORALES Hasta el 17 de noviembre
-• Comunicación  y  publicación  de  la  celebración  del  sorteo  público  para  la elección de las personas miembros de las mesas electorales del alumnado y del personal no docente. #Doc- 20
+• Comunicación y publicación de la celebración del sorteo público para la elección de las personas miembros de las mesas electorales del alumnado y del personal no docente. #Doc- 20
 • Sorteo en acto público, ante la Junta Electoral, a fin de elegir a los miembros de las mesas electorales en la elección de los representantes del alumnado y del personal no docente. En dicho sorteo se preverán las suplencias necesarias.
 • Acta de resultados del sorteo de las mesas electorales.#Doc- 21
 • Publicación del acta de resultados del sorteo.
@@ -323,19 +323,19 @@ CELEBRACIÓN DE ELECCIONES Hasta el 28 de noviembre
 • Sesión extraordinaria del claustro para la elección de representantes titulares y suplentes del profesorado.
 • Acta del claustro de carácter extraordinario para realizar la elección de las personas representantes titulares y suplentes del profesorado en el Consejo Social. #Doc- 27 Hasta el 1 de diciembre
 • Publicación de las actas en el tablón de anuncios y en la web* del centro, con el nombre y número de votos obtenidos por cada persona candidata.
-• Recepción de escrito con los nombres de las personas designadas por cada una de las distintas instituciones. Desde el  1 al 9 de diciembre
+• Recepción de escrito con los nombres de las personas designadas por cada una de las distintas instituciones. Desde el 1 al 9 de diciembre
 • Tras cada una de las votaciones, la dirección del centro cargará los resultados en la aplicación informática creada al efecto.
-* Dicha aplicación estará cerrada fuera de este período. Del 2 al  4 de diciembre
-• Reclamaciones  al  proceso  electoral,  dirigidas  a  la  Junta  Electoral  del centro.#Doc- 28 Hasta el 9 de diciembre
-• Resolución  a  las  reclamaciones  sobre  el  proceso  electoral  presentadas  y publicación en el tablón de anuncios y en la web* del centro.#Doc- 29
+* Dicha aplicación estará cerrada fuera de este período. Del 2 al 4 de diciembre
+• Reclamaciones al proceso electoral, dirigidas a la Junta Electoral del centro.#Doc- 28 Hasta el 9 de diciembre
+• Resolución a las reclamaciones sobre el proceso electoral presentadas y publicación en el tablón de anuncios y en la web* del centro.#Doc- 29
 
 Hasta el 12 de diciembre
-• Proclamación  por  la  Junta  Electoral  del  centro  de  las  personas  candidatas electas y suplentes y publicación en el tablón de anuncios y en la web* del centro, en su caso.  #Doc-3 0
+• Proclamación por la Junta Electoral del centro de las personas candidatas electas y suplentes y publicación en el tablón de anuncios y en la web* del centro, en su caso. #Doc-3 0
 • Comunicación a las personas candidatas electas y suplentes.#Doc-31
 • Una vez finalizado el procedimiento y resueltas las reclamaciones, la dirección del centro cargará los resultados en la aplicación informática creada al efecto guardando dichos datos.
-• A continuación, se deberá  imprimir  el  Documento Resumen,  configurado desde el mismo aplicativo, para su custodia con el resto del expediente del correspondiente procedimiento y publicación en el tablón de anuncios y en la web* del centro.
+• A continuación, se deberá imprimir el Documento Resumen, configurado desde el mismo aplicativo, para su custodia con el resto del expediente del correspondiente procedimiento y publicación en el tablón de anuncios y en la web* del centro.
 • Cumplimentación del documento Listas de Reserva , que se publicará en el tablón de anuncios y en la web* del centro, y se custodiará en el expediente.#Doc-32
-• Comienzo del plazo de un mes para presentar ante la Dirección Territorial de Educación  correspondiente  recurso  contra  las  resoluciones  de  la  Junta Electoral del centro. Plazo de diez días hábiles desde la fecha de proclamación de los miembros electos
+• Comienzo del plazo de un mes para presentar ante la Dirección Territorial de Educación correspondiente recurso contra las resoluciones de la Junta Electoral del centro. Plazo de diez días hábiles desde la fecha de proclamación de los miembros electos
 • Sesión de constitución del Consejo Social.(*) Tener en cuenta que debe darse divulgación de cada uno de los apartados del procedimiento en la página web del centro, con acceso restringido, para prestar especial atención a los datos personales publicados.
 
 ## Relaciones Normativas y Fundamentos de Derecho

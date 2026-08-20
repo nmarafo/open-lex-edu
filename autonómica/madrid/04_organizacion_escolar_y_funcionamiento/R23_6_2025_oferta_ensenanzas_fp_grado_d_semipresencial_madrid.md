@@ -44,7 +44,7 @@ https://sede.comunidad.madrid/oferta-empleo/ordenacion-rural-e-ind-agroalimentar
 Primero Proceder a la publicación de un nuevo Anexo de personas aspirantes aprobadas del proceso extraordinario de estabilización para ingreso en el Cuerpo de Ingenieros y Arquitectos Superiores, Escala de Ingeniería Superior, Especialidad de Ordenación Rural e Industrias Agroalimentarias, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid.
 Segundo Contra la presente resolución, que no pone fin a la vía administrativa, las personas interesadas podrán interponer recurso de alzada ante la Viceconsejería de Hacienda y FunLUNES 30 DE JUNIO DE 2025 Pág. 13 ción Pública, dentro del plazo de un mes contado a partir del día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Madrid, a 17 de junio de 2025.—La Directora General de Función Pública, P. D. F. (Resolución de 24 de noviembre de 2021), la Subdirectora General de Planificación de Efectivos y Selección, Elisa Isabel Moreno Bernis.
 
-Pág. 14 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791           
+Pág. 14 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791           
 
       
 

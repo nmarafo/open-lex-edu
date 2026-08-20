@@ -270,7 +270,7 @@ b) La reutilización de la información para una finalidad distinta a la que se 
 
 c) La alteración grave del contenido de la información para cuya reutilización se haya concedido una licencia;
 
-d) El  incumplimiento grave de otras condiciones impuestas en la correspondiente licencia o en la normativa reguladora aplicable.
+d) El incumplimiento grave de otras condiciones impuestas en la correspondiente licencia o en la normativa reguladora aplicable.
 
 3. Se considerarán infracciones leves:
 

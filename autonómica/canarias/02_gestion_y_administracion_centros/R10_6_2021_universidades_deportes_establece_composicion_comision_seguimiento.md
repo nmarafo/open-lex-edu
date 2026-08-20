@@ -210,16 +210,16 @@ Vigesimosegundo.- Asesoramiento y supervisión del proceso electoral.
 
 ## Anexo
 
-CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN  DE LOS CONSEJOS DE LOS COLECTIVOS DE ESCUELAS RURALES CURSO 2022/2023 APERTURA DEL PROCEDIMIENTO Hasta el lunes 16 de enero
+CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN PARCIAL O NUEVA CONSTITUCIÓN DE LOS CONSEJOS DE LOS COLECTIVOS DE ESCUELAS RURALES CURSO 2022/2023 APERTURA DEL PROCEDIMIENTO Hasta el lunes 16 de enero
 • Constitución de las respectivas comisiones electorales provinciales.
-• Creación de un tablón de anuncios visible, en los centros del ámbito del CER y  en  el  propio  CER,  destinado  a  la  información  del  procedimiento  de renovación  parcial  o  nueva  constitución  del  Consejo  del  CER  en  el  curso 2022/2023.
-• Recopilación, por el coordinador o coordinadora del CER, de los listados de los  miembros  representantes  de  los  sectores  de padres,  madres  o  personas tutoras legales del alumnado y del propio alumnado de los consejos escolares de los centros del CER.
+• Creación de un tablón de anuncios visible, en los centros del ámbito del CER y en el propio CER, destinado a la información del procedimiento de renovación parcial o nueva constitución del Consejo del CER en el curso 2022/2023.
+• Recopilación, por el coordinador o coordinadora del CER, de los listados de los miembros representantes de los sectores de padres, madres o personas tutoras legales del alumnado y del propio alumnado de los consejos escolares de los centros del CER.
 • Convocatoria de una sesión del Consejo del CER en la que se informe de la apertura del procedimiento y del número de miembros a elegir por cada sector de la comunidad educativa.
 • Divulgación* del inicio del procedimiento a todos los sectores de la comunidad educativa, mediante publicación, en los tablones de anuncios y en la página web* del CER, si procede.
-* Este  material  está  disponible  en  la  página  web de  la  Consejería  de Educación, Universidades, Cultura y Deportes y en el Portal docente. CONSTITUCIÓN DE LA JUNTA ELECTORAL Hasta el lunes 16 de enero
+* Este material está disponible en la página web de la Consejería de Educación, Universidades, Cultura y Deportes y en el Portal docente. CONSTITUCIÓN DE LA JUNTA ELECTORAL Hasta el lunes 16 de enero
 • Anuncio del sorteo público para la elección de las personas miembros de la junta electoral. Hasta el lunes 23 de enero
 • Celebración en acto público del sorteo para la designación de los miembros de la junta electoral.
-• Publicación de los resultados del sorteo público para la designación de las personas  miembros  de la junta electoral,  y  comunicación  por escrito  a los miembros designados de cada sector.
+• Publicación de los resultados del sorteo público para la designación de las personas miembros de la junta electoral, y comunicación por escrito a los miembros designados de cada sector.
 • Convocatoria para la reunión de constitución de la junta electoral.
 • Constitución de la junta electoral y publicación en el tablón de anuncios del CER del Acta de constitución. CONVOCATORIA DE ELECCIONES AL CONSEJO DEL CER CONVOCATORIA Y CENSOS ELECTORALES Hasta el martes 24
 • Convocatoria de elecciones de las personas representantes de padres, madres o personas tutoras legales del alumnado, y del propio alumnado, en el Consejo del CER.
@@ -229,32 +229,32 @@ CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOVACIÓN PARCIAL O NUEVA CONSTI
 CALENDARIO Y DOCUMENTOS DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL O NUEV A CONSTITUCIÓN DE LOS CONSEJOS DE LOS COLECTIVOS DE ESCUELAS RURALES CURSO 2022/2023
 
 de enero
-• Publicación  por  la  junta  electoral  del  CER,  de  los  censos  electorales correspondientes a cada uno de los sectores.
-• Remisión  de  escrito  de  solicitud  al  ayuntamiento  (o  ayuntamientos)  de  la designación  del  concejal  o  concejala,  o,  en  su  caso,  del  representante  del municipio que ha de formar parte del Consejo del CER. Dicho órgano deberá remitir por escrito el nombre de la persona designada antes del 6 de febrero. PRESENTACIÓN DE CANDIDATURAS Hasta el jueves 26 de enero
+• Publicación por la junta electoral del CER, de los censos electorales correspondientes a cada uno de los sectores.
+• Remisión de escrito de solicitud al ayuntamiento (o ayuntamientos) de la designación del concejal o concejala, o, en su caso, del representante del municipio que ha de formar parte del Consejo del CER. Dicho órgano deberá remitir por escrito el nombre de la persona designada antes del 6 de febrero. PRESENTACIÓN DE CANDIDATURAS Hasta el jueves 26 de enero
 • Presentación a la junta electoral de candidaturas a miembros del Consejo del CER en representación de los distintos sectores, a través de la dirección de cada centro o del coordinador o coordinadora del CER y dentro del horario que establezca la junta electoral.
 • Proclamación, por la junta electoral, de las candidaturas admitidas.
 • Publicación en los tablones de los centros y/o del CER, de las candidaturas admitidas. COMPOSICIÓN DE MESAS ELECTORALES Hasta el martes 31 de enero
-• Sorteo en acto público por la junta electoral, a fin de elegir a los miembros de las mesas electorales en la elección de los representantes de los padres, madres o personas  tutoras  legales  del  alumnado,  y  del  propio  alumnado, respectivamente. En dicho sorteo se preverán las suplencias necesarias.
+• Sorteo en acto público por la junta electoral, a fin de elegir a los miembros de las mesas electorales en la elección de los representantes de los padres, madres o personas tutoras legales del alumnado, y del propio alumnado, respectivamente. En dicho sorteo se preverán las suplencias necesarias.
 • Acta de resultados del sorteo de las mesas electorales.
 • Publicación del acta de resultados del sorteo.
 • Comunicado de resultados del sorteo público, y convocatoria de constitución de las mesas electorales. *En el caso de que el número de personas que pueden elegir sea inferior a seis, la votación de los sectores de padres, madres o personas tutoras legales del alumnado, y del propio alumnado, se podrá realizar ante la mesa electoral del profesorado, en urnas separadas.
 • Reestructuración de la junta electoral y de las mesas electorales en el caso de que alguno de sus miembros sea candidato o candidata. CELEBRACIÓN DE ELECCIONES Hasta el viernes 3 de febrero
 • Convocatoria con las fechas de las votaciones para la elección de las personas representantes de padres, madres o personas tutoras legales del alumnado, y del propio alumnado, en el Consejo del CER. Dicha convocatoria debe realizarse al menos 48 horas antes de la votación.
-• Reunión extraordinaria para la votación de los sectores de padres, madres o personas  tutoras  legales  del  alumnado,  y  del  propio  alumnado,  y  acta  de constitución de la mesa electoral, votación y escrutinio relativo a la elección de representantes de padres, madres o personas tutoras legales del alumnado, y del alumnado, para el Consejo del CER.
+• Reunión extraordinaria para la votación de los sectores de padres, madres o personas tutoras legales del alumnado, y del propio alumnado, y acta de constitución de la mesa electoral, votación y escrutinio relativo a la elección de representantes de padres, madres o personas tutoras legales del alumnado, y del alumnado, para el Consejo del CER.
 
 Hasta el viernes 3 de febrero
 • Convocatoria de carácter extraordinario del equipo pedagógico para realizar la elección de las personas representantes del profesorado en el Consejo del CER.
-• Sesión extraordinaria del  equipo pedagógico  para la constitución de la mesa electoral y la elección de representantes del profesorado y acta de reunión, de carácter extraordinario, del equipo pedagógico, para realizar la elección de las personas representantes del profesorado en el Consejo del CER. Hasta el lunes 6 de febrero
+• Sesión extraordinaria del equipo pedagógico para la constitución de la mesa electoral y la elección de representantes del profesorado y acta de reunión, de carácter extraordinario, del equipo pedagógico, para realizar la elección de las personas representantes del profesorado en el Consejo del CER. Hasta el lunes 6 de febrero
 • Publicación de las actas en los tablones de anuncios de los centros, y en la web* del CER, en su caso, con el nombre y número de votos obtenidos por cada persona candidata.
-• Recepción  de  escrito  con  el  nombre  de  la  persona  designada  por  el ayuntamiento. Miércoles 8 de febrero
-• Reclamaciones al proceso electoral, dirigidas a la junta electoral y entregadas en el centro correspondiente. Jueves 9 de febrero • Resolución  a  las  reclamaciones  sobre  el  proceso  electoral  presentadas,  y publicación en los tablones de anuncios del CER y de los centros, y, en su caso, en la página web* del CER. Hasta el viernes 10 de febrero
-• Proclamación  por  la  junta  electoral de  las  personas  candidatas  electas  y publicación en el tablón de anuncios del CER y de los centros, y, en su caso, en su página web*.
+• Recepción de escrito con el nombre de la persona designada por el ayuntamiento. Miércoles 8 de febrero
+• Reclamaciones al proceso electoral, dirigidas a la junta electoral y entregadas en el centro correspondiente. Jueves 9 de febrero • Resolución a las reclamaciones sobre el proceso electoral presentadas, y publicación en los tablones de anuncios del CER y de los centros, y, en su caso, en la página web* del CER. Hasta el viernes 10 de febrero
+• Proclamación por la junta electoral de las personas candidatas electas y publicación en el tablón de anuncios del CER y de los centros, y, en su caso, en su página web*.
 • Comunicación a las personas candidatas electas.
 • Comienzo del plazo de un mes para presentar ante la Dirección Territorial de Educación correspondiente recurso contra las resoluciones de la junta electoral. Hasta el viernes 10 de febrero
-• Tras  cada  una  de las  votaciones,  y  una vez  finalizado  el  procedimiento  y resueltas las reclamaciones, la coordinación del CER cargará los resultados en la aplicación informática creada al efecto guardando dichos datos.
+• Tras cada una de las votaciones, y una vez finalizado el procedimiento y resueltas las reclamaciones, la coordinación del CER cargará los resultados en la aplicación informática creada al efecto guardando dichos datos.
 * Dicha aplicación estará cerrada a partir de esta fecha.
-• A continuación, se deberá  imprimir el  Documento Resumen,  configurado desde el mismo aplicativo, para su custodia con el resto del expediente del correspondiente procedimiento, y  publicación  en el tablón de anuncios del CER.
-• Cumplimentación del documento  Listas de Reserva , que se publicará en el tablón de anuncios del CER, y se custodiará en el expediente. Plazo de diez días desde la fecha de proclamación de los miembros electos
+• A continuación, se deberá imprimir el Documento Resumen, configurado desde el mismo aplicativo, para su custodia con el resto del expediente del correspondiente procedimiento, y publicación en el tablón de anuncios del CER.
+• Cumplimentación del documento Listas de Reserva , que se publicará en el tablón de anuncios del CER, y se custodiará en el expediente. Plazo de diez días desde la fecha de proclamación de los miembros electos
 • Sesión de constitución del Consejo del CER. (*) Tener en cuenta que debe darse divulgación de cada uno de los apartados del procedimiento en la página web del CER, en su caso, con acceso restringido, para prestar especial atención a los datos personales publicados.
 
 ## Relaciones Normativas y Fundamentos de Derecho

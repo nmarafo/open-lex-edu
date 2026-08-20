@@ -438,35 +438,35 @@ El reconocimiento y aprecio hacia la pluralidad sociocultural del aula se debe f
 
 Competencia específica 1.
 
-1.1 Adecuar sus acciones y reacciones a cada situación, en una interacción lúdica y espontánea con el entorno, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad.
+**1.1** Adecuar sus acciones y reacciones a cada situación, en una interacción lúdica y espontánea con el entorno, explorando sus posibilidades motoras y perceptivas y progresando en precisión, seguridad, coordinación e intencionalidad.
 
-1.2 Mostrar aceptación y respeto por el cuerpo propio y por el cuerpo de las demás personas, mejorando progresivamente en su conocimiento.
+**1.2** Mostrar aceptación y respeto por el cuerpo propio y por el cuerpo de las demás personas, mejorando progresivamente en su conocimiento.
 
-1.3 Manifestar aptitud emocional y sentimientos de seguridad y afecto en la realización de cada acción.
+**1.3** Manifestar aptitud emocional y sentimientos de seguridad y afecto en la realización de cada acción.
 
-1.4 Adquirir nociones temporales básicas para ubicarse en el tiempo a través de las actividades y rutinas de la vida cotidiana, así como de otros acontecimientos.
+**1.4** Adquirir nociones temporales básicas para ubicarse en el tiempo a través de las actividades y rutinas de la vida cotidiana, así como de otros acontecimientos.
 
 Competencia específica 2.
 
-2.1 Expresar emociones y sentimientos desarrollando de manera progresiva la conciencia emocional y estrategias de regulación emocional.
+**2.1** Expresar emociones y sentimientos desarrollando de manera progresiva la conciencia emocional y estrategias de regulación emocional.
 
-2.2 Relacionarse con las otras personas aceptando y mostrando afecto de manera libre, segura, respetuosa y alejada de todo tipo de estereotipos.
+**2.2** Relacionarse con las otras personas aceptando y mostrando afecto de manera libre, segura, respetuosa y alejada de todo tipo de estereotipos.
 
-2.3 Afrontar pequeñas adversidades manifestando actitudes de superación, así como solicitando y prestando ayuda.
+**2.3** Afrontar pequeñas adversidades manifestando actitudes de superación, así como solicitando y prestando ayuda.
 
 Competencia específica 3.
 
-3.1 Incorporar estrategias y hábitos relacionados con el cuidado del entorno y el autocuidado, manifestando satisfacción por los beneficios que le aportan.
+**3.1** Incorporar estrategias y hábitos relacionados con el cuidado del entorno y el autocuidado, manifestando satisfacción por los beneficios que le aportan.
 
-3.2 Reconocer y anticipar la sucesión temporal de actividades, ritmos biológicos y pautas socioculturales que estructuran la dinámica cotidiana, asociándola a elementos, procedimientos y actitudes concretas.
+**3.2** Reconocer y anticipar la sucesión temporal de actividades, ritmos biológicos y pautas socioculturales que estructuran la dinámica cotidiana, asociándola a elementos, procedimientos y actitudes concretas.
 
 Competencia específica 4.
 
-4.1 Establecer vínculos y relaciones de apego saludables, demostrando actitudes de afecto y empatía hacia las demás personas y respetando los distintos ritmos individuales.
+**4.1** Establecer vínculos y relaciones de apego saludables, demostrando actitudes de afecto y empatía hacia las demás personas y respetando los distintos ritmos individuales.
 
-4.2 Reproducir conductas y situaciones previamente observadas en su entorno próximo, basadas en el respeto, la empatía, la igualdad de género, el trato no discriminatorio a las personas con discapacidad y el respeto a los derechos humanos, a través del juego de imitación.
+**4.2** Reproducir conductas y situaciones previamente observadas en su entorno próximo, basadas en el respeto, la empatía, la igualdad de género, el trato no discriminatorio a las personas con discapacidad y el respeto a los derechos humanos, a través del juego de imitación.
 
-4.3 Iniciarse en la resolución de conflictos con sus iguales, con la mediación de la persona adulta, experimentando los beneficios de llegar a acuerdos.
+**4.3** Iniciarse en la resolución de conflictos con sus iguales, con la mediación de la persona adulta, experimentando los beneficios de llegar a acuerdos.
 
 Saberes básicos.
 
@@ -538,39 +538,39 @@ D. Interacción socioemocional en el entorno. La vida junto a los demás.
 
 Competencia específica 1.
 
-1.1 Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento.
+**1.1** Progresar en el conocimiento de su cuerpo ajustando acciones y reacciones y desarrollando el equilibrio, la percepción sensorial y la coordinación en el movimiento.
 
-1.2 Manifestar sentimientos de seguridad personal en la participación en juegos y en las diversas situaciones de la vida cotidiana, confiando en las propias posibilidades y mostrando iniciativa.
+**1.2** Manifestar sentimientos de seguridad personal en la participación en juegos y en las diversas situaciones de la vida cotidiana, confiando en las propias posibilidades y mostrando iniciativa.
 
-1.3 Manejar diferentes objetos, útiles y herramientas en situaciones de juego y en la realización de tareas cotidianas, mostrando un control progresivo y de coordinación de movimientos de carácter fino.
+**1.3** Manejar diferentes objetos, útiles y herramientas en situaciones de juego y en la realización de tareas cotidianas, mostrando un control progresivo y de coordinación de movimientos de carácter fino.
 
-1.4 Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.
+**1.4** Participar en contextos de juego dirigido y espontáneo, ajustándose a sus posibilidades personales.
 
 Competencia específica 2.
 
-2.1 Identificar y expresar sus necesidades y sentimientos, ajustando progresivamente el control de sus emociones.
+**2.1** Identificar y expresar sus necesidades y sentimientos, ajustando progresivamente el control de sus emociones.
 
-2.2 Ofrecer y pedir ayuda en situaciones cotidianas, valorando los beneficios de la cooperación y la ayuda entre iguales.
+**2.2** Ofrecer y pedir ayuda en situaciones cotidianas, valorando los beneficios de la cooperación y la ayuda entre iguales.
 
-2.3 Expresar inquietudes, gustos y preferencias, mostrando satisfacción y seguridad sobre los logros conseguidos.
+**2.3** Expresar inquietudes, gustos y preferencias, mostrando satisfacción y seguridad sobre los logros conseguidos.
 
 Competencia específica 3.
 
-3.1 Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
+**3.1** Realizar actividades relacionadas con el autocuidado y el cuidado del entorno con una actitud respetuosa, mostrando autoconfianza e iniciativa.
 
-3.2 Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.
+**3.2** Respetar la secuencia temporal asociada a los acontecimientos y actividades cotidianas, adaptándose a las rutinas establecidas para el grupo y desarrollando comportamientos respetuosos hacia las demás personas.
 
 Competencia específica 4.
 
-4.1 Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y de empatía, respetando los distintos ritmos individuales y evitando todo tipo de discriminación.
+**4.1** Participar con iniciativa en juegos y actividades colectivas relacionándose con otras personas con actitudes de afecto y de empatía, respetando los distintos ritmos individuales y evitando todo tipo de discriminación.
 
-4.2 Reproducir conductas, acciones o situaciones a través del juego simbólico en interacción con sus iguales, identificando y rechazando todo tipo de estereotipos.
+**4.2** Reproducir conductas, acciones o situaciones a través del juego simbólico en interacción con sus iguales, identificando y rechazando todo tipo de estereotipos.
 
-4.3 Participar activamente en actividades relacionadas con la reflexión sobre las normas sociales que regulan la convivencia y promueven valores como el respeto a la diversidad, el trato no discriminatorio hacia las personas con discapacidad y la igualdad de género.
+**4.3** Participar activamente en actividades relacionadas con la reflexión sobre las normas sociales que regulan la convivencia y promueven valores como el respeto a la diversidad, el trato no discriminatorio hacia las personas con discapacidad y la igualdad de género.
 
-4.4 Desarrollar destrezas y habilidades para la gestión de conflictos de forma positiva, proponiendo alternativas creativas y teniendo en cuenta el criterio de otras personas.
+**4.4** Desarrollar destrezas y habilidades para la gestión de conflictos de forma positiva, proponiendo alternativas creativas y teniendo en cuenta el criterio de otras personas.
 
-4.5 Participar, desde una actitud de respeto, en actividades relacionadas con costumbres y tradiciones étnicas y culturales presentes en su entorno, mostrando interés por conocerlas.
+**4.5** Participar, desde una actitud de respeto, en actividades relacionadas con costumbres y tradiciones étnicas y culturales presentes en su entorno, mostrando interés por conocerlas.
 
 Saberes básicos.
 
@@ -688,23 +688,23 @@ Este proceso de descubrimiento y conocimiento progresivo del entorno deberá ori
 
 Competencia específica 1.
 
-1.1 Relacionar objetos a partir de sus cualidades o atributos básicos, mostrando curiosidad e interés.
+**1.1** Relacionar objetos a partir de sus cualidades o atributos básicos, mostrando curiosidad e interés.
 
-1.2 Emplear los cuantificadores básicos más significativos relacionados con su experiencia diaria, utilizándolos en el contexto del juego y la interacción con los demás.
+**1.2** Emplear los cuantificadores básicos más significativos relacionados con su experiencia diaria, utilizándolos en el contexto del juego y la interacción con los demás.
 
-1.3 Aplicar sus conocimientos acerca de las nociones espaciales básicas para ubicarse en los espacios, tanto en reposo como en movimiento, jugando con el propio cuerpo y con los objetos.
+**1.3** Aplicar sus conocimientos acerca de las nociones espaciales básicas para ubicarse en los espacios, tanto en reposo como en movimiento, jugando con el propio cuerpo y con los objetos.
 
 Competencia específica 2.
 
-2.1 Gestionar las dificultades, retos y problemas con interés e iniciativa, mediante su división en secuencias de actividades más sencillas.
+**2.1** Gestionar las dificultades, retos y problemas con interés e iniciativa, mediante su división en secuencias de actividades más sencillas.
 
-2.2 Proponer soluciones y alternativas a través de distintas estrategias, escuchando y respetando las de los demás.
+**2.2** Proponer soluciones y alternativas a través de distintas estrategias, escuchando y respetando las de los demás.
 
 Competencia específica 3.
 
-3.1 Interesarse por las actividades en contacto con la naturaleza y las características de los elementos naturales del entorno, mostrando respeto hacia ellos y hacia los animales que lo habitan.
+**3.1** Interesarse por las actividades en contacto con la naturaleza y las características de los elementos naturales del entorno, mostrando respeto hacia ellos y hacia los animales que lo habitan.
 
-3.2 Identificar y nombrar los fenómenos atmosféricos habituales en su entorno, explicando sus consecuencias en la vida cotidiana.
+**3.2** Identificar y nombrar los fenómenos atmosféricos habituales en su entorno, explicando sus consecuencias en la vida cotidiana.
 
 Saberes básicos.
 
@@ -750,37 +750,37 @@ C. Indagación en el medio físico y natural: cuidado, valoración y respeto.
 
 Competencia específica 1.
 
-1.1 Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.
+**1.1** Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.
 
-1.2 Emplear los cuantificadores básicos más significativos en el contexto del juego y en la interacción con los demás.
+**1.2** Emplear los cuantificadores básicos más significativos en el contexto del juego y en la interacción con los demás.
 
-1.3 Ubicarse adecuadamente en los espacios habituales, tanto en reposo como en movimiento, aplicando sus conocimientos acerca de las nociones espaciales básicas y jugando con el propio cuerpo y con objetos.
+**1.3** Ubicarse adecuadamente en los espacios habituales, tanto en reposo como en movimiento, aplicando sus conocimientos acerca de las nociones espaciales básicas y jugando con el propio cuerpo y con objetos.
 
-1.4 Identificar las situaciones cotidianas en las que es preciso medir, utilizando el cuerpo u otros materiales y herramientas para efectuar las medidas.
+**1.4** Identificar las situaciones cotidianas en las que es preciso medir, utilizando el cuerpo u otros materiales y herramientas para efectuar las medidas.
 
-1.5 Organizar su actividad, ordenando las secuencias y utilizando las nociones temporales básicas.
+**1.5** Organizar su actividad, ordenando las secuencias y utilizando las nociones temporales básicas.
 
 Competencia específica 2.
 
-2.1 Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y la cooperación con sus iguales.
+**2.1** Gestionar situaciones, dificultades, retos o problemas mediante la planificación de secuencias de actividades, la manifestación de interés e iniciativa y la cooperación con sus iguales.
 
-2.2 Canalizar progresivamente la frustración ante las dificultades o problemas mediante la aplicación de diferentes estrategias.
+**2.2** Canalizar progresivamente la frustración ante las dificultades o problemas mediante la aplicación de diferentes estrategias.
 
-2.3 Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.
+**2.3** Plantear hipótesis acerca del comportamiento de ciertos elementos o materiales, verificándolas a través de la manipulación y la actuación sobre ellos.
 
-2.4 Utilizar diferentes estrategias para la toma de decisiones con progresiva autonomía, afrontando el proceso de creación de soluciones originales en respuesta a los retos que se le planteen.
+**2.4** Utilizar diferentes estrategias para la toma de decisiones con progresiva autonomía, afrontando el proceso de creación de soluciones originales en respuesta a los retos que se le planteen.
 
-2.5 Programar secuencias de acciones o instrucciones para la resolución de tareas analógicas y digitales, desarrollando habilidades básicas de pensamiento computacional.
+**2.5** Programar secuencias de acciones o instrucciones para la resolución de tareas analógicas y digitales, desarrollando habilidades básicas de pensamiento computacional.
 
-2.6 Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.
+**2.6** Participar en proyectos utilizando dinámicas cooperativas, compartiendo y valorando opiniones propias y ajenas, y expresando conclusiones personales a partir de ellas.
 
 Competencia específica 3.
 
-3.1 Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
+**3.1** Mostrar una actitud de respeto, cuidado y protección hacia el medio natural y los animales, identificando el impacto positivo o negativo que algunas acciones humanas ejercen sobre ellos.
 
-3.2 Identificar rasgos comunes y diferentes entre seres vivos e inertes.
+**3.2** Identificar rasgos comunes y diferentes entre seres vivos e inertes.
 
-3.3 Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico.
+**3.3** Establecer relaciones entre el medio natural y el social a partir del conocimiento y la observación de algunos fenómenos naturales y de los elementos patrimoniales presentes en el medio físico.
 
 Saberes básicos.
 
@@ -898,41 +898,41 @@ De todo ello se espera que surja un diálogo lleno de matices entre las diferent
 
 Competencia específica 1.
 
-1.1 Participar con interés en interacciones cotidianas, utilizando diferentes sistemas comunicativos.
+**1.1** Participar con interés en interacciones cotidianas, utilizando diferentes sistemas comunicativos.
 
-1.2 Participar de forma espontánea en situaciones comunicativas, adecuando la postura, los gestos y los movimientos a sus intenciones.
+**1.2** Participar de forma espontánea en situaciones comunicativas, adecuando la postura, los gestos y los movimientos a sus intenciones.
 
-1.3 Manifestar necesidades, sentimientos y vivencias, utilizando estrategias comunicativas y aprovechando las posibilidades que ofrecen los diferentes lenguajes con curiosidad y disfrute.
+**1.3** Manifestar necesidades, sentimientos y vivencias, utilizando estrategias comunicativas y aprovechando las posibilidades que ofrecen los diferentes lenguajes con curiosidad y disfrute.
 
-1.4 Tomar la iniciativa en la interacción social, disfrutando de las situaciones comunicativas con una actitud respetuosa.
+**1.4** Tomar la iniciativa en la interacción social, disfrutando de las situaciones comunicativas con una actitud respetuosa.
 
-1.5 Participar en situaciones de uso de diferentes lenguas, manifestando interés y curiosidad hacia la diversidad de perfiles lingüísticos.
+**1.5** Participar en situaciones de uso de diferentes lenguas, manifestando interés y curiosidad hacia la diversidad de perfiles lingüísticos.
 
 Competencia específica 2.
 
-2.1 Interpretar los estímulos y mensajes del entorno, reaccionando de manera adecuada.
+**2.1** Interpretar los estímulos y mensajes del entorno, reaccionando de manera adecuada.
 
-2.2 Expresar sensaciones, sentimientos y emociones a partir de distintas representaciones y manifestaciones artísticas y culturales.
+**2.2** Expresar sensaciones, sentimientos y emociones a partir de distintas representaciones y manifestaciones artísticas y culturales.
 
 Competencia específica 3.
 
-3.1 Utilizar el lenguaje oral para expresar y compartir necesidades, sentimientos, deseos, emociones, vivencias, regulando las acciones e interactuando en diferentes situaciones y contextos.
+**3.1** Utilizar el lenguaje oral para expresar y compartir necesidades, sentimientos, deseos, emociones, vivencias, regulando las acciones e interactuando en diferentes situaciones y contextos.
 
-3.2 Explorar las posibilidades expresivas de los diferentes lenguajes, utilizando los medios materiales propios de los mismos.
+**3.2** Explorar las posibilidades expresivas de los diferentes lenguajes, utilizando los medios materiales propios de los mismos.
 
-3.3 Producir mensajes, ampliando y enriqueciendo su repertorio comunicativo con seguridad y confianza.
+**3.3** Producir mensajes, ampliando y enriqueciendo su repertorio comunicativo con seguridad y confianza.
 
 Competencia específica 4.
 
-4.1 Participar en actividades lúdicas de aproximación al lenguaje escrito, mostrando una actitud activa.
+**4.1** Participar en actividades lúdicas de aproximación al lenguaje escrito, mostrando una actitud activa.
 
-4.2 Recurrir a escrituras indeterminadas, espontáneas y no convencionales, incorporándolas a sus producciones con intención comunicativa.
+**4.2** Recurrir a escrituras indeterminadas, espontáneas y no convencionales, incorporándolas a sus producciones con intención comunicativa.
 
 Competencia específica 5.
 
-5.1 Relacionarse con naturalidad en la realidad lingüística y cultural del aula.
+**5.1** Relacionarse con naturalidad en la realidad lingüística y cultural del aula.
 
-5.2 Manifestar interés y disfrute hacia actividades individuales o colectivas relacionadas con la literatura infantil, las obras musicales, los audiovisuales, las danzas o las dramatizaciones, avanzando en una actitud participativa.
+**5.2** Manifestar interés y disfrute hacia actividades individuales o colectivas relacionadas con la literatura infantil, las obras musicales, los audiovisuales, las danzas o las dramatizaciones, avanzando en una actitud participativa.
 
 Saberes básicos.
 
@@ -1020,55 +1020,55 @@ H. El lenguaje y la expresión corporales.
 
 Competencia específica 1.
 
-1.1 Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.
+**1.1** Participar de manera activa, espontánea y respetuosa con las diferencias individuales en situaciones comunicativas de progresiva complejidad, en función de su desarrollo individual.
 
-1.2 Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.
+**1.2** Ajustar su repertorio comunicativo a las propuestas, a los interlocutores y al contexto, indagando en las posibilidades expresivas de los diferentes lenguajes.
 
-1.3 Participar en situaciones de uso de diferentes lenguas, mostrando interés, curiosidad y respeto por la diversidad de perfiles lingüísticos.
+**1.3** Participar en situaciones de uso de diferentes lenguas, mostrando interés, curiosidad y respeto por la diversidad de perfiles lingüísticos.
 
-1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.
+**1.4** Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.
 
 Competencia específica 2.
 
-2.1 Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás.
+**2.1** Interpretar de forma eficaz los mensajes e intenciones comunicativas de los demás.
 
-2.2 Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.
+**2.2** Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.
 
 Competencia específica 3.
 
-3.1 Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.
+**3.1** Hacer un uso funcional del lenguaje oral, aumentando su repertorio lingüístico y construyendo progresivamente un discurso más eficaz, organizado y coherente en contextos formales e informales.
 
-3.2 Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza.
+**3.2** Utilizar el lenguaje oral como instrumento regulador de la acción en las interacciones con los demás con seguridad y confianza.
 
-3.3 Evocar y expresar espontáneamente ideas a través del relato oral.
+**3.3** Evocar y expresar espontáneamente ideas a través del relato oral.
 
-3.4 Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.
+**3.4** Elaborar creaciones plásticas, explorando y utilizando diferentes materiales y técnicas y participando activamente en el trabajo en grupo cuando se precise.
 
-3.5 Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.
+**3.5** Interpretar propuestas dramáticas y musicales, utilizando y explorando diferentes instrumentos, recursos o técnicas.
 
-3.6 Ajustar armónicamente su movimiento al de los demás y al espacio como forma de expresión corporal libre, manifestando interés e iniciativa.
+**3.6** Ajustar armónicamente su movimiento al de los demás y al espacio como forma de expresión corporal libre, manifestando interés e iniciativa.
 
-3.7 Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales.
+**3.7** Expresarse de manera creativa, utilizando diversas herramientas o aplicaciones digitales intuitivas y visuales.
 
 Competencia específica 4.
 
-4.1 Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa.
+**4.1** Mostrar interés por comunicarse a través de códigos escritos, convencionales o no, valorando su función comunicativa.
 
-4.2 Identificar, de manera acompañada, alguna de las características textuales y paratextuales mediante la indagación en textos de uso social libres de prejuicios y estereotipos sexistas.
+**4.2** Identificar, de manera acompañada, alguna de las características textuales y paratextuales mediante la indagación en textos de uso social libres de prejuicios y estereotipos sexistas.
 
-4.3 Recurrir a la biblioteca como fuente de información y disfrute, respetando sus normas de uso.
+**4.3** Recurrir a la biblioteca como fuente de información y disfrute, respetando sus normas de uso.
 
 Competencia específica 5.
 
-5.1 Relacionarse de forma respetuosa en la pluralidad lingüística y cultural de su entorno, manifestando interés por otras lenguas, etnias y culturas.
+**5.1** Relacionarse de forma respetuosa en la pluralidad lingüística y cultural de su entorno, manifestando interés por otras lenguas, etnias y culturas.
 
-5.2 Participar en interacciones comunicativas en lengua extranjera relacionadas con rutinas y situaciones cotidianas.
+**5.2** Participar en interacciones comunicativas en lengua extranjera relacionadas con rutinas y situaciones cotidianas.
 
-5.3 Participar en actividades de aproximación a la literatura infantil, tanto de carácter individual, como en contextos dialógicos y participativos, descubriendo, explorando y apreciando la belleza del lenguaje literario.
+**5.3** Participar en actividades de aproximación a la literatura infantil, tanto de carácter individual, como en contextos dialógicos y participativos, descubriendo, explorando y apreciando la belleza del lenguaje literario.
 
-5.4 Expresar emociones, ideas y pensamientos a través de manifestaciones artísticas y culturales, disfrutando del proceso creativo.
+**5.4** Expresar emociones, ideas y pensamientos a través de manifestaciones artísticas y culturales, disfrutando del proceso creativo.
 
-5.5 Expresar gustos, preferencias y opiniones sobre distintas manifestaciones artísticas, explicando las emociones que produce su disfrute.
+**5.5** Expresar gustos, preferencias y opiniones sobre distintas manifestaciones artísticas, explicando las emociones que produce su disfrute.
 
 Saberes básicos.
 

@@ -139,7 +139,7 @@ Certificado profesional: Administración y gestión de recursos humanos.
 • Título de Formación Profesional asociado: Técnico Superior en Administración y Finanzas.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (18 semanas) Horas semanales (33 semanas) 0647 Gestión de la documentación jurídica y empresarial Código del certificado de competencia: ADG_B_0647 138 8 4 0648 Recursos humanos y responsabilidad social corporativa Código del certificado de competencia: ADG_B_0648 64 4 2 0649 Ofimática y proceso de la información Código del certificado de competencia: ADG_B_0649 170 8 5 0652 Gestión de recursos humanos Código del certificado de competencia: ADG_B_0652 138 8 4 1782 Prevención de riesgos laborales 30 2 1 Duración 540 30 16 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 190 horas Certificado profesional: Gestión contable, financiera y fiscal.
 • Código: ADG_C_005_5B.
-• Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Administración  y Finanzas.
+• Título de Formación Profesional asociado: Técnico Superior en Administración y Finanzas.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (20 semanas) Horas semanales (33 semanas) 0647 Gestión de la documentación jurídica y empresarial Código del certificado de competencia: ADG_B_0647 138 7 4 0649 Ofimática y proceso de la información Código del certificado de competencia: ADG_B_0649 171 7 5 0653 Gestión financiera Código del certificado de competencia: ADG_B_0653 138 7 4 0654 Contabilidad y fiscalidad Código del certificado de competencia: ADG_B_0654 138 7 4 1782 Prevención de riesgos laborales 30 2 1 Duración 615 30 18 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 155 horas En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 220 horas
 
 ## Anexo II
@@ -209,22 +209,22 @@ Certificado profesional: Gestión del vivero forestal.
 
 Certificado profesional: Gestión de la producción ganadera.
 • Código: AGA_C_007_5B.
-• Título de Formación Profesional asociado: Técnico Superior en  Ganadería y Asistencia en Sanidad Animal.
+• Título de Formación Profesional asociado: Técnico Superior en Ganadería y Asistencia en Sanidad Animal.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (18 semanas) Horas semanales (33 semanas) 1274 Organización y control de la reproducción y cría Código del certificado de competencia: AGA_B_1274 197 11 6 1275 Gestión de la producción animal Código del certificado de competencia: AGA_B_1275 165 9 5 1278 Maquinaria e instalaciones ganaderas Código del certificado de competencia: AGA_B_1278 138 8 4 1782 Prevención de riesgos laborales 30 2 1 Duración 530 30 16 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 190 horas Certificado profesional: Gestión de la cría y manejo equino.
 • Código: AGA_C_008_5B.
-• Título de Formación Profesional asociado: Técnico Superior en  Ganadería y Asistencia en Sanidad Animal.
+• Título de Formación Profesional asociado: Técnico Superior en Ganadería y Asistencia en Sanidad Animal.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (18 semanas) Horas semanales (33 semanas) 1276 Gestión de la recría de caballos Código del certificado de competencia: AGA_B_1276 138 8 4 Organización y supervisión de la doma y manejo de équidos Código del certificado de competencia: AGA_B_1277 204 12 6 1278 Maquinaria e instalaciones ganaderas Código del certificado de competencia: AGA_B_1278 138 8 4 1782 Prevención de riesgos laborales 30 2 1 Duración 510 30 15 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 130 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 180 horas
 
 Certificado profesional: Sanidad animal y asistencia veterinaria.
 • Código: AGA_C_009_5B.
-• Título de Formación Profesional asociado: Técnico Superior en  Ganadería y Asistencia en Sanidad Animal.
+• Título de Formación Profesional asociado: Técnico Superior en Ganadería y Asistencia en Sanidad Animal.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (22 semanas) Horas semanales (33 semanas) 1279 Saneamiento ganadero Código del certificado de competencia: AGA_B_1279 138 6 4 1280 Asistencia a la atención veterinaria Código del certificado de competencia: AGA_B_1280 204 9 6 1281 Bioseguridad Código del certificado de competencia: AGA_B_1281 138 6 4 1282 Gestión de centros veterinarios 170 7 5 1782 Prevención de riesgos laborales 30 2 1 Duración 680 30 20 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 170 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 240 horas
 
 ## Anexo III
 
 FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3 Certificado profesional: Montaje y mantenimiento de equipos informáticos.
 • Código: IFC_C_001_4B.
-• Título  de  Formación  Profesional  asociado:  Técnico  en  Sistemas  Microinformáticos  y Redes.
+• Título de Formación Profesional asociado: Técnico en Sistemas Microinformáticos y Redes.
 • Nivel: 2. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (17 semanas) 0221 Montaje y mantenimiento de equipos Código del certificado de competencia: IFC_B_0221 204 12 0222 Sistemas operativos monopuesto Código del certificado de competencia: IFC_B_0222 171 10 1782 Prevención de riesgos laborales 30 2 Duración 405 24 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 105 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 145 horas Certificado profesional: Montaje y mantenimiento de redes informáticas.
 • Código: IFC_C_002_4B.
 • Título de Formación Profesional asociado: Técnico en Sistemas Microinformáticos y Redes.
@@ -234,18 +234,18 @@ FAMILIA PROFESIONAL: INFORMÁTICA Y COMUNICACIONES DISTRIBUCIÓN HORARIA Y ESTRU
 
 Certificado profesional: Instalación y uso de aplicaciones ofimáticas.
 • Código: IFC_C_003_4B.
-• Título  de  Formación  Profesional  asociado:  Técnico  en  Sistemas  Microinformáticos  y Redes.
+• Título de Formación Profesional asociado: Técnico en Sistemas Microinformáticos y Redes.
 • Nivel: 2. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (12 semanas) Horas semanales (17 semanas) 0223 Aplicaciones ofimáticas Código del certificado de competencia: IFC_B_0223 204 18 12 0228 Aplicaciones web 96 9 6 1782 Prevención de riesgos laborales 30 3 2 Duración 330 30 20 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 85 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 120 horas Certificado profesional: Gestión de bases de datos.
 • Código: IFC_C_001_5B.
-• Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Administración  de Sistemas Informáticos en Red.
+• Título de Formación Profesional asociado: Técnico Superior en Administración de Sistemas Informáticos en Red.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (10 semanas) Horas semanales (17 semanas) 0372 Gestión de bases de datos Código del certificado de competencia: IFC_B_0372 174 19 10 0377 Administración de sistemas gestores de bases de datos Código del certificado de competencia: IFC_B_0377 66 8 4 1782 Prevención de riesgos laborales 30 3 2 Duración 270 30 16 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 70 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 95 horas
 
 Certificado profesional: Administración de servicios de internet.
 • Código: IFC_C_002_5B.
-• Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Administración  de Sistemas Informáticos en Red.
+• Título de Formación Profesional asociado: Técnico Superior en Administración de Sistemas Informáticos en Red.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (18 semanas) Horas semanales (33 semanas) 0370 Planificación y administración de redes 170 9 5 0375 Servicios de red e internet Código del certificado de competencia: IFC_B_0375 170 9 5 0378 Seguridad y alta disponibilidad Código del certificado de competencia: IFC_B_0378 170 10 5 1782 Prevención de riesgos laborales 30 2 1 Duración 540 30 16 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 135 horas En régimen intensivo la formación en empresa u organismo equiparado tendrá una duración mínima de 190 horas Certificado profesional: Gestión de sistemas de información.
 • Código: IFC_C_003_5B.
-• Título  de  Formación  Profesional  asociado:  Técnico  Superior  en  Administración  de Sistemas Informáticos en Red.
+• Título de Formación Profesional asociado: Técnico Superior en Administración de Sistemas Informáticos en Red.
 • Nivel: 3. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (22 semanas) Horas semanales (33 semanas) 0369 Implantación de sistemas operativos Código del certificado de competencia: IFC_B_0369 204 10 6 0371 Fundamentos de hardware Código del certificado de competencia: IFC_B_0371 96 4 3 0374 Administración de sistemas operativos Código del certificado de competencia: IFC_B_0374 172 8 5 0376 Implantación de aplicaciones web Código del certificado de competencia: IFC_B_0376 138 6 4 1782 Prevención de riesgos laborales 30 2 1 Duración 640 30 19 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 160 horas En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 225 horas
 
 Certificado profesional: Programación de sistemas de gestión.
@@ -271,7 +271,7 @@ Certificado profesional: Desarrollo de aplicaciones web back-end.
 
 ## Anexo IV
 
-FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3 Certificado profesional:  Mecanizado de madera y derivados de carpinter ía y mueble con equipos manuales y semiautomáticos.
+FAMILIA PROFESIONAL: MADERA, MUEBLE Y CORCHO DISTRIBUCIÓN HORARIA Y ESTRUCTURA MODULAR DE LOS GRADOS C (CERTIFICADOS PROFESIONALES) Y SUS CORRESPONDIENTES GRADOS B (CERTIFICADOS DE COMPETENCIA) DE NIVELES 2 Y 3 Certificado profesional: Mecanizado de madera y derivados de carpinter ía y mueble con equipos manuales y semiautomáticos.
 • Código: MAM_C_001_4B.
 • Título de Formación Profesional asociado: Técnico en Carpintería y Mueble.
 • Nivel: 2. Código Real Decreto MÓDULOS PROFESIONALES Horas totales Horas semanales (24 semanas) Horas semanales (33 semanas) 0540 Operaciones básicas de carpintería Código del certificado de competencia: MAM_B_0540 202 8 6 0541 Operaciones básicas de mobiliario Código del certificado de competencia: MAM_B_0541 202 8 6 0544 Mecanizado de madera y derivados Código del certificado de competencia: MAM_B_0544 200 8 6 0545 Mecanizado por control numérico en carpintería y mueble Código del certificado de competencia: MAM_B_0545 106 4 3 1782 Prevención de riesgos laborales 30 2 1 Duración 740 30 22 En régimen general la formación en la empresa u organismo equiparado tendrá una duración mínima de 185 horas En régimen intensivo la formación en la empresa u organismo equiparado tendrá una duración mínima de 260 horas Certificado profesional: Montaje de carpintería y mueble.

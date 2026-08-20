@@ -1282,7 +1282,7 @@ Sin perjuicio de lo anterior, la autoridad competente para otorgar la autorizaci
 
 Si del procedimiento penal concluido no pudiera deducirse la situación de violencia de género o sexual, se incoará el expediente administrativo sancionador por infracción del artículo 53.1.a) o se continuará, en el supuesto de que se hubiera suspendido inicialmente.»
 
-#### Disposición final séptima. Modificación de la Ley Orgánica 5/2000,  de 12 de enero, reguladora de la responsabilidad penal de los menores.
+#### Disposición final séptima. Modificación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
 
 Se modifica la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, en los siguientes términos:
 
@@ -1573,8 +1573,6 @@ Uno. Se modifica la letra d) del apartado 1 del artículo 37, que queda redact
 «d) Colaborar con las campañas institucionales dirigidas a fomentar la igualdad entre mujeres y hombres y a erradicar la violencia contra las mujeres.»
 
 Dos. Se modifica la letra d) del apartado 1 del artículo 38, que queda redactada como sigue:
-
-«d) Colaborar con las campañas institucionales dirigidas a fomentar la igualdad entre mujeres y hombres y a erradicar la violencia contra las mujeres.»
 
 Tres. Se modifica el artículo 48, que queda redactado como sigue:
 

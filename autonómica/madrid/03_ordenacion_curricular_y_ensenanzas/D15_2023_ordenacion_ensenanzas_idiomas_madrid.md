@@ -311,7 +311,7 @@ Los organismos acreditados deberán llevar una contabilidad de acuerdo con lo qu
 El régimen sancionador aplicable será el establecido en el Título VI de la Ley 6/1995, de 28 de marzo, de Garantías de los derechos de la Infancia y Adolescencia de la Comunidad de Madrid en el Capítulo IV de la Ley 11/2002, de 18 de diciembre, de Ordenación de la Actividad de los Centros y Servicios de Acción Social y de Mejora de la Calidad en la Prestación de Servicios Sociales de la Comunidad de Madrid, y en el Decreto 245/2000, de 16 de noviembre, por el que se aprueba el Reglamento para el Ejercicio de la Potestad Sancionadora por la Administración de la Comunidad de Madrid con las siguientes especialidades:
 a) La incoación y tramitación de los expedientes sancionadores que se deriven de la comisión de cualquier tipo de infracción corresponderá al centro directivo competente b) La infracción muy grave o la reincidencia en infracciones graves constituirá motivo suficiente para no prorrogar la acreditación de los organismos.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791
 
 #### Disposición transitoria primera.
 

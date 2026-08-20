@@ -303,7 +303,7 @@ Lugar:
 Motivo: iniciar el procedimiento de mediación para solucionar el conflicto surgido en el ámbito escolar. Dirección del centro Fdo. D./D.ª___________________________________________ RECIBÍ:
 D./ D.ª (indicar nombre y dos apellidos)_______________________________________________
 
-DNI n.º______________________                                   Fecha ___________________________ FIRMA
+DNI n.º______________________ Fecha ___________________________ FIRMA
 
 DOCUMENTO B) ACTA DE CONSTANCIA DE LA INASISTENCIA DE UNA O AMBAS PARTES Lugar:
 Día:
@@ -315,10 +315,10 @@ D./D.ª:
 DNI n.º en calidad de (padre/madre/representante legal):
 Alumno/alumna:
 Curso:
-NO asiste ninguno de los dos (marcar con una cruz)    
+NO asiste ninguno de los dos (marcar con una cruz) 
 
-SOLO  acude D./D.ª Manifiesta Por lo que se da por finalizada la reunión, no pudiendo iniciarse el procedimiento de mediación para el que han sido convocados con el fin de resolver el conflictos originado en el ámbito escolar,  como se indicó en la comunicación remitida al efecto. Observación:
-Dirección del centro                                                                             Compareciente Fdo. D./ D.ª __________________________                                Fdo. D./ D.ª __________________________
+SOLO acude D./D.ª Manifiesta Por lo que se da por finalizada la reunión, no pudiendo iniciarse el procedimiento de mediación para el que han sido convocados con el fin de resolver el conflictos originado en el ámbito escolar, como se indicó en la comunicación remitida al efecto. Observación:
+Dirección del centro Compareciente Fdo. D./ D.ª __________________________ Fdo. D./ D.ª __________________________
 
 DOCUMENTO C) ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN ANTE LA DIRECCIÓN DEL CENTRO Centro docente:
 Día:
@@ -333,7 +333,7 @@ Curso:
 Una vez informados de las condiciones en que se realiza la mediación, y de la persona que llevará la misma, ACEPTAN voluntariamente participar en dicha mediación y se comprometen a respetar los términos del acuerdo hasta que se resuelva definitivamente el conflicto, quedando citados, desde este acto, para ello. Lugar:
 Día:
 Hora:
-Dirección del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª  ______________________________
+Dirección del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________ Fdo. D./ D.ª ______________________________
 
 DOCUMENTO D) NO ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN ANTE LA DIRECCIÓN DEL CENTRO Centro docente:
 Día:
@@ -345,7 +345,7 @@ D./D.ª:
 DNI n.º en calidad de (padre/madre/representante legal):
 Alumno/alumna:
 Curso:
-Una vez informados de las condiciones en que se realiza la mediación, y de la persona que llevaría la misma, NO ACEPTAN participar en el procedimiento de mediación ofrecido. NO ACEPTA D./ D.ª Dirección del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________     Fdo. D./ D.ª ____________________________
+Una vez informados de las condiciones en que se realiza la mediación, y de la persona que llevaría la misma, NO ACEPTAN participar en el procedimiento de mediación ofrecido. NO ACEPTA D./ D.ª Dirección del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________ Fdo. D./ D.ª ____________________________
 
 DOCUMENTO E) ACEPTACIÓN DEL PROCEDIMIENTO DE MEDIACIÓN ANTE LA INSPECCIÓN EDUCATIVA Sede de la Inspección:
 Día:
@@ -358,10 +358,10 @@ D./D.ª:
 DNI n.º en calidad de (padre/madre/representante legal):
 Alumno/alumna:
 Curso:
-Centro docente Con el objeto de alcanzar un acuerdo de mediación ante la Inspección Educativa, se ofrece la continuación del procedimiento de mediación previsto para los padres, las madres, separados, divorciados, parejas de hecho que hayan puesto fin a su convivencia, o representantes legales, en los centros docentes respecto a su hijo o hija, menor de edad, sobre quien ejerce la patria potestad compartida, o guarda legal o tutela, a fin de resolver el conflicto surgido en el ámbito escolar, de forma inmediata y en beneficio de su interés superior, hasta que  se resuelva definitivamente por resolución judicial o administrativa ACEPTANDO dicha propuesta quedando citados para ello. Lugar:
+Centro docente Con el objeto de alcanzar un acuerdo de mediación ante la Inspección Educativa, se ofrece la continuación del procedimiento de mediación previsto para los padres, las madres, separados, divorciados, parejas de hecho que hayan puesto fin a su convivencia, o representantes legales, en los centros docentes respecto a su hijo o hija, menor de edad, sobre quien ejerce la patria potestad compartida, o guarda legal o tutela, a fin de resolver el conflicto surgido en el ámbito escolar, de forma inmediata y en beneficio de su interés superior, hasta que se resuelva definitivamente por resolución judicial o administrativa ACEPTANDO dicha propuesta quedando citados para ello. Lugar:
 Día:
 Hora:
-Inspector/Inspectora del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo.  D./ D.ª  ______________________________     Fdo.  D./ D.ª ____________________________
+Inspector/Inspectora del centro Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________ Fdo. D./ D.ª ____________________________
 
 DOCUMENTO F) ACTA DE MEDIACIÓN ESCOLAR CON ACUERDO ENTRE LAS PARTES Reunidas las partes con la persona mediadora Lugar:
 Día:
@@ -375,7 +375,7 @@ Director/Directora Persona mediadora del centro Inspector/Inspectora del centro 
 #### Primero. Que en el día de la fecha se ha alcanzado un ACUERDO entre las partes.
 
 SEGUNDO. Que el acuerdo alcanzado es el siguiente:
-TERCERO. Que ambas partes se comprometen a cumplir el presente acuerdo hasta que haya, en su caso, una resolución judicial que resuelva la cuestión objeto de discrepancia y que será comunicada al centro. Y en prueba de conformidad se firma la presente acta por las partes y la persona mediadora. Se entrega copia a cada una de las partes, quedando el original en el centro docente/sede de inspección. Inspector/Inspectora   !         Director/Directora    !      Persona del centro designada ! Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________     Fdo.D./ D.ª  ____________________________
+TERCERO. Que ambas partes se comprometen a cumplir el presente acuerdo hasta que haya, en su caso, una resolución judicial que resuelva la cuestión objeto de discrepancia y que será comunicada al centro. Y en prueba de conformidad se firma la presente acta por las partes y la persona mediadora. Se entrega copia a cada una de las partes, quedando el original en el centro docente/sede de inspección. Inspector/Inspectora ! Director/Directora ! Persona del centro designada ! Fdo. D./ D.ª ___________________________________________ Comparecientes Fdo. D./ D.ª ______________________________ Fdo.D./ D.ª ____________________________
 
 DOCUMENTO G) ACTA DE MEDIACIÓN ESCOLAR SIN ACUERDO ENTRE LAS PARTES Reunidas las partes con la persona mediadora Lugar:
 Día:
@@ -388,7 +388,7 @@ Director/Directora Persona mediadora del centro Inspector/Inspectora del centro 
 
 #### Primero. Que en el día de la fecha NO se ha alcanzado un ACUERDO entre las partes.
 
-SEGUNDO.- Que NO HA SIDO POSIBLE lograr una solución ante la discrepancia surgida en el ámbito escolar por lo que se da el procedimiento de mediación por terminado SIN EFECTO. Y  a los efectos oportunos, firman la presente acta, las partes y la persona mediadora. Se entrega copia a cada una de las partes, quedando el original en el centro docente/sede de inspección. Inspector/a   !         Director/a    !      Persona del centro designada ! Fdo. D./D.ª___________________________________________ Comparecientes Fdo. D./D.ª ______________________________     Fdo. D./D.ª____________________________
+SEGUNDO.- Que NO HA SIDO POSIBLE lograr una solución ante la discrepancia surgida en el ámbito escolar por lo que se da el procedimiento de mediación por terminado SIN EFECTO. Y a los efectos oportunos, firman la presente acta, las partes y la persona mediadora. Se entrega copia a cada una de las partes, quedando el original en el centro docente/sede de inspección. Inspector/a ! Director/a ! Persona del centro designada ! Fdo. D./D.ª___________________________________________ Comparecientes Fdo. D./D.ª ______________________________ Fdo. D./D.ª____________________________
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

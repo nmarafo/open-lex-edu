@@ -376,4 +376,4 @@ Corresponde al Ministro de Educación y a los órganos competentes de las Comuni
 
 #### Disposición final tercera. Entrada en vigor.
 
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Dado en Madrid, el 12 de febrero de 2010. JUAN CARLOS R. El Ministro de Educación, ÁNGEL GABILONDO PUJOL Este documento es de carácter informativo y no tiene valor jurídico. 
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Dado en Madrid, el 12 de febrero de 2010. JUAN CARLOS R. El Ministro de Educación, ÁNGEL GABILONDO PUJOL Este documento es de carácter informativo y no tiene valor jurídico.

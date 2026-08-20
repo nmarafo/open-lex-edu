@@ -350,7 +350,7 @@ Quedan suprimidos los órganos superiores que a continuación se relacionan, cuy
 
 1. La redistribución de funciones entre departamentos, órganos y servicios administrativos implica la correlativa asignación de las dotaciones correspondientes a los programas presupuestarios afectados y, en todo caso, la de los medios personales y materiales adscritos al ejercicio de tales funciones.
 
-2. Por la Consejería de Hacienda y Relaciones con la Unión Europea se realizarán en las correspondientes secciones presupuestarias las adaptaciones técnicas y las transferencias de crédito precisas para la ejecución y cumplimiento de lo previsto en el presente Decreto, todo ello de conformidad con lo establecido a tales fines en la Ley 7/2022, de 28  de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2023.
+2. Por la Consejería de Hacienda y Relaciones con la Unión Europea se realizarán en las correspondientes secciones presupuestarias las adaptaciones técnicas y las transferencias de crédito precisas para la ejecución y cumplimiento de lo previsto en el presente Decreto, todo ello de conformidad con lo establecido a tales fines en la Ley 7/2022, de 28 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 2023.
 
 3. El reparto de dotaciones materiales correspondientes a las Secretarías Generales Técnicas afectadas se efectuará en proporción a la incidencia que la reestructuración suponga en los medios personales y materiales de los departamentos, por la Consejería de Hacienda y Relaciones con la Unión Europea, con audiencia de los departamentos afectados.
 
@@ -370,7 +370,7 @@ En tanto se lleve a efecto lo previsto en la Disposición final segunda de este 
 
 #### Disposición derogatoria única. Derogación normativa.
 
-Queda derogado el Decreto 203/2019, de 1  de agosto, por el que se determina la estructura central y periférica, así como las sedes de las Consejerías del Gobierno de Canarias, y cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con el presente Decreto.
+Queda derogado el Decreto 203/2019, de 1 de agosto, por el que se determina la estructura central y periférica, así como las sedes de las Consejerías del Gobierno de Canarias, y cuantas disposiciones de igual o inferior rango se opongan, contradigan o sean incompatibles con el presente Decreto.
 
 #### Disposición final primera. Modificación del Decreto 32/1995, de 24 de febrero.
 
@@ -385,7 +385,7 @@ b) **Mejora de la experiencia del paciente.** Diseñar y desarrollar estrategias
 c) **Desarrollo de habilidades emocionales.** Promover el desarrollo de habilidades emocionales y de comunicación en el personal de la organización.
 d) **Participación y colaboración.** Fomentar la participación activa de los empleados del SCS, pacientes y otras partes interesadas en la toma de decisiones y la mejora continua de los servicios.
 
-e) **Innovación y tecnología centrada en las personas.** Impulsar la adopción de tecnologías y  enfoques innovadores que mejoren la calidad de vida de las personas. Esto implica evaluar y utilizar tecnologías como inteligencia artificial, telemedicina, realidad virtual y aumentada, entre otros, para brindar servicios más personalizados y accesibles.
+e) **Innovación y tecnología centrada en las personas.** Impulsar la adopción de tecnologías y enfoques innovadores que mejoren la calidad de vida de las personas. Esto implica evaluar y utilizar tecnologías como inteligencia artificial, telemedicina, realidad virtual y aumentada, entre otros, para brindar servicios más personalizados y accesibles.
 f) **Responsabilidad social y sostenibilidad.** Integrar la responsabilidad social y la sostenibilidad en la estrategia de la organización. Esto incluye la adopción de prácticas sostenibles, el compromiso con la comunidad y el medio ambiente, y la promoción de valores éticos en todas las acciones de la organización.
 2) En materia de mejora de la continuidad asistencial en cronicidad:
 a) **Coordinación intersectorial.** Promover la colaboración y coordinación entre los diferentes actores involucrados en la atención de pacientes crónicos, tanto en el ámbito sanitario como en el social. Esto incluye hospitales, centros de atención primaria, servicios sociales, organizaciones de pacientes, entre otros. La colaboración intersectorial es esencial para abordar los múltiples aspectos que afectan la atención de estos pacientes.

@@ -290,7 +290,7 @@ Se modifica la Ley de Enjuiciamiento Civil a fin de reforzar la tutela judicial 
 
 Con el fin de fortalecer el principio de celeridad, vital en los procesos en los que se resuelve sobre intereses de menores y con el objeto de evitar resoluciones contradictorias, se introducen disposiciones, en línea con las previsiones de la Ley Orgánica de Protección Jurídica del Menor, para promover la acumulación cuando existieran varios procesos de impugnación de resoluciones administrativas en materia de protección en curso que afecten a un mismo menor.
 
-Por ello, se introduce en el artículo 780 de la Ley de Enjuiciamiento Civil la regla general de la acumulación de procesos y se introduce una previsión especial en el artículo  76, para determinar que, con carácter general, todos los procesos de oposición a resoluciones administrativas que se sigan respecto de un mismo menor de edad se acumulen al más antiguo de ellos y sean seguidos y resueltos, con la debida economía procesal, por el mismo juzgado. Ello se garantiza previendo que la acumulación sea promovida, incluso de oficio, por el juzgado que tenga conocimiento de la existencia de un segundo o posterior proceso.
+Por ello, se introduce en el artículo 780 de la Ley de Enjuiciamiento Civil la regla general de la acumulación de procesos y se introduce una previsión especial en el artículo 76, para determinar que, con carácter general, todos los procesos de oposición a resoluciones administrativas que se sigan respecto de un mismo menor de edad se acumulen al más antiguo de ellos y sean seguidos y resueltos, con la debida economía procesal, por el mismo juzgado. Ello se garantiza previendo que la acumulación sea promovida, incluso de oficio, por el juzgado que tenga conocimiento de la existencia de un segundo o posterior proceso.
 
 La necesidad de clarificar aspectos procesales de la protección de la infancia y la adolescencia se pone de manifiesto en el régimen actual de ejecución provisional de las sentencias dictadas en los procesos de oposición a las resoluciones administrativas en materia de protección de menores. Aunque la interpretación generalizada del artículo 525 de la Ley de Enjuiciamiento Civil viene conduciendo a la imposibilidad de ejecución provisional de esta clase de sentencias y, en particular, de las dictadas como consecuencia de un proceso de los previstos por el artículo 780 de la Ley de Enjuiciamiento Civil, lo cierto es que el tenor literal del apartado 1.º del citado artículo 525 no se refiere clara y expresamente a las mismas.
 
@@ -1134,7 +1134,9 @@ Diecinueve. Se modifica el artículo 175, que queda redactado como sigue:
 
 «Artículo 175.
 
-1. La adopción requiere que el adoptante sea mayor de veinticinco años. Si son dos los adoptantes bastará con que uno de ellos haya alcanzado dicha edad. En todo caso, la diferencia de edad entre adoptante y adoptando será de, al menos, dieciséis años y no podrá ser superior a cuarenta y cinco años, salvo en los casos previstos en el artículo 176.2. Cuando fueran dos los adoptantes, será suficiente con que uno de ellos no tenga esa diferencia máxima de edad con el adoptando. Si los futuros adoptantes están en disposición de adoptar grupos de hermanos o menores con necesidades especiales, la diferencia máxima de edad podrá ser superior.
+1. La adopción requiere que el adoptante sea mayor de veinticinco años. Si son dos los adoptantes bastará con que uno de ellos haya alcanzado dicha edad. En todo caso, la diferencia de edad entre adoptante y adoptando será de, al menos, dieciséis años y no podrá ser superior a cuarenta y cinco años, salvo en los casos previstos en el artículo
+
+**176.2.** Cuando fueran dos los adoptantes, será suficiente con que uno de ellos no tenga esa diferencia máxima de edad con el adoptando. Si los futuros adoptantes están en disposición de adoptar grupos de hermanos o menores con necesidades especiales, la diferencia máxima de edad podrá ser superior.
 
 No pueden ser adoptantes los que no puedan ser tutores de acuerdo con lo previsto en este código.
 
@@ -1946,7 +1948,9 @@ la siguiente redacción:
 
 2. La Entidad Gestora podrá revisar, por sí misma y en cualquier momento, la resolución por la cual hubiera reconocido el derecho a una prestación de muerte y supervivencia a quien fuera condenado por sentencia firme en el supuesto indicado, viniendo el mismo obligado a devolver las cantidades que, en su caso, hubiera percibido por tal concepto.
 
-La facultad de revisión de oficio a que se refiere el párrafo anterior no estará sujeta a plazo, si bien la obligación de reintegro del importe de las prestaciones percibidas prescribirá en el plazo previsto en el artículo 45.3. En todo caso, la prescripción de esta obligación se interrumpirá cuando recaiga resolución judicial de la que se deriven indicios racionales de que el sujeto investigado es responsable de un delito doloso de homicidio, así como por la tramitación del proceso penal y de los diferentes recursos.
+La facultad de revisión de oficio a que se refiere el párrafo anterior no estará sujeta a plazo, si bien la obligación de reintegro del importe de las prestaciones percibidas prescribirá en el plazo previsto en el artículo
+
+**45.3.** En todo caso, la prescripción de esta obligación se interrumpirá cuando recaiga resolución judicial de la que se deriven indicios racionales de que el sujeto investigado es responsable de un delito doloso de homicidio, así como por la tramitación del proceso penal y de los diferentes recursos.
 
 En el acuerdo de inicio del procedimiento de revisión del reconocimiento de la prestación a que se refiere este artículo se acordará, si no se hubiera producido antes, la suspensión cautelar de su percibo hasta la resolución firme que ponga fin a dicho procedimiento.»
 
@@ -2026,7 +2030,9 @@ Uno. Se añade un apartado tres al artículo 15 con.
 
 la siguiente redacción:
 
-«Artículo 15.3. Sin perjuicio de lo dispuesto en el número 1, la Administración podrá revisar los actos de reconocimiento del derecho a una prestación en favor de familiares motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiere percibido por tal concepto.»
+«Artículo
+
+**15.3.** Sin perjuicio de lo dispuesto en el número 1, la Administración podrá revisar los actos de reconocimiento del derecho a una prestación en favor de familiares motivada por la condena al beneficiario, mediante sentencia firme, por la comisión de un delito doloso de homicidio en cualquiera de sus formas, cuando la víctima fuera el sujeto causante de la prestación, que podrá efectuarse en cualquier momento, así como la reclamación de las cantidades que, en su caso, hubiere percibido por tal concepto.»
 
 Dos. Se añade un nuevo artículo, el 37 bis, con la siguiente redacción:
 

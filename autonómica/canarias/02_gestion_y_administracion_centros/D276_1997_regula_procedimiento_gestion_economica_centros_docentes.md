@@ -48,20 +48,20 @@ relaciones:
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 1997
-•  1997/162. Miércoles 17 de Diciembre de 1997
-•  1727 <p>Menú de búsqueda y navegación</p>
-•  Anterior
-•  Siguiente 1997 - 1727
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 1997
+• 1997/162. Miércoles 17 de Diciembre de 1997
+• 1727 <p>Menú de búsqueda y navegación</p>
+• Anterior
+• Siguiente 1997 - 1727
 
 Deportes 1727 - DECRETO 276/1997, de 27 de noviembre, por el que se regula el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes. [image] Descargar en formato pdf Con la entrada en vigor de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y normas que la desarrollan, se promulgó el Decreto territorial 21/1987, de 13 de marzo, por el que se regula el procedimiento de gestión económica de los centros docentes públicos de niveles no universitarios y residencias escolares dependientes de la Comunidad Autónoma de Canarias, estableciendo un sistema que ha permitido una mayor autonomía y racionalización de la gestión, garantizando el necesario control y registro de las actuaciones derivadas de su actividad económica. La Ley 3/1989, de 24 de febrero, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1989, legislaba en su
 
@@ -69,7 +69,9 @@ Deportes 1727 - DECRETO 276/1997, de 27 de noviembre, por el que se regula el pr
 
 la autonomía de la gestión económica de los centros. En virtud de la Ley 10/1992, de 23 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1993, en su artículo 22 , apartado 2, segundo párrafo, se preceptúa que los. libramientos de fondos para atención de gastos de funcionamiento de los centros, con cargo a los créditos incluidos en los Programas de la Sección 18 �Educación, Cultura y Deportes�, se efectuarán con periodicidad semestral y tendrán las consideraciones de �pagos en firme�, con aplicación definitiva a los correspondientes créditos presupuestarios; y en el tercer párrafo, se dispone que los perceptores de estos fondos quedan obligados a justificar semestralmente la aplicación de las cantidades percibidas. Dado el carácter �en firme� de los fondos recibidos, el saldo que arrojen las cuentas de gestión no será objeto de reintegro y quedará en poder de los centros docentes para su aplicación a gastos, como saldo inicial de la cuenta de gestión siguiente.
 
-Posteriores Leyes Generales de Presupuestos para la Comunidad Autónoma de Canarias han consolidado la mencionada autonomía de gestión, hasta la vigente Ley 5/1996, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1997, en su artículo 47.1. El Decreto territorial 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado, establece, en su Disposición Final Segunda, que éstos ajustarán su gestión económica a la normativa aplicable para los centros públicos no universitarios. El Decreto territorial 118/1995, de 11 de mayo, por el que se crean los Colectivos de Escuelas Rurales, dispone en su artículo 35 que la gestión económica de los mismos se regirá por lo dispuesto en el Decreto 21/1987, de 13 de marzo. En la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, evaluación y gobierno de los centros docentes, se especifica la autonomía en la gestión de los recursos económicos en los centros públicos. En consonancia con las disposiciones anteriores, el presente Decreto pretende, aprovechando la experiencia acumulada, potenciar la necesaria autonomía de gestión económica de los centros docentes públicos no universitarios, tanto en lo que se refiere a la elaboración y aprobación de sus presupuestos como a su desarrollo y aplicación, sin perjuicio, obviamente, del indispensable control que la utilización de recursos públicos lleva consigo. En ejercicio de las competencias que en materia educativa contempla el Estatuto de Autonomía, a propuesta conjunta de los Consejeros de Educación, Cultura y Deportes y de Economía y Hacienda, y previa deliberación del Gobierno en su reunión del día 27 de noviembre de 1997,
+Posteriores Leyes Generales de Presupuestos para la Comunidad Autónoma de Canarias han consolidado la mencionada autonomía de gestión, hasta la vigente Ley 5/1996, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1997, en su artículo
+
+**47.1.** El Decreto territorial 82/1994, de 13 de mayo, por el que se regulan la creación, organización y funcionamiento de los Centros del Profesorado, establece, en su Disposición Final Segunda, que éstos ajustarán su gestión económica a la normativa aplicable para los centros públicos no universitarios. El Decreto territorial 118/1995, de 11 de mayo, por el que se crean los Colectivos de Escuelas Rurales, dispone en su artículo 35 que la gestión económica de los mismos se regirá por lo dispuesto en el Decreto 21/1987, de 13 de marzo. En la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, evaluación y gobierno de los centros docentes, se especifica la autonomía en la gestión de los recursos económicos en los centros públicos. En consonancia con las disposiciones anteriores, el presente Decreto pretende, aprovechando la experiencia acumulada, potenciar la necesaria autonomía de gestión económica de los centros docentes públicos no universitarios, tanto en lo que se refiere a la elaboración y aprobación de sus presupuestos como a su desarrollo y aplicación, sin perjuicio, obviamente, del indispensable control que la utilización de recursos públicos lleva consigo. En ejercicio de las competencias que en materia educativa contempla el Estatuto de Autonomía, a propuesta conjunta de los Consejeros de Educación, Cultura y Deportes y de Economía y Hacienda, y previa deliberación del Gobierno en su reunión del día 27 de noviembre de 1997,
 DISPONGO:
 Artículo primero.- Se aprueban las normas que regulan el procedimiento de gestión económica de los centros docentes públicos no universitarios dependientes de la Consejería de Educación, Cultura y Deportes, en el ámbito territorial de Canarias,
 
@@ -288,5 +290,5 @@ en los programas centralizados de inversiones, con cargo al presupuesto anual o 
 operaciones de gestión de la cuenta del centro con su entidad bancaria, elaboración de alimentos para consumo de alumnos y personal al servicio del centro, y otros de carácter análogo.
 
 11. Reuniones y conferencias. Gastos de organización y celebración de reuniones, conferencias, grupos de trabajo, seminarios y reuniones análogas. © Gobierno de Canarias
-•  Aviso Legal
-•  Sugerencias y Reclamaciones
+• Aviso Legal
+• Sugerencias y Reclamaciones

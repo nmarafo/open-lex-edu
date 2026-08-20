@@ -58,19 +58,19 @@ anexos_extraidos_pdf: true
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 2007
-•  2007/124. Jueves 21 de Junio de 2007
-•  1001 <p>Menú de búsqueda y navegación</p>
-•  Siguiente Deportes
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 2007
+• 2007/124. Jueves 21 de Junio de 2007
+• 1001 <p>Menú de búsqueda y navegación</p>
+• Siguiente Deportes
 
 1001 - ORDEN de 7 de junio de 2007, por la que se regulan las medidas de atención a la diversidad en la enseñanza básica en la Comunidad Autónoma de Canarias. [image] Descargar en formato pdf El Decreto 126/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en la Comunidad Autónoma de Canarias, y el Decreto 127/2007, de 24 de mayo, por el que se establece la ordenación y el currículo de la Educación Secundaria Obligatoria en la Comunidad Autónoma de Canarias reconocen como uno de los principios fundamentales en la intervención educativa el de atención a la diversidad del alumnado; ambas normas constituyen el marco general de la regulación en esta materia, que requiere un desarrollo complementario mediante una orden que defina y describa las características de las medidas de atención a la diversidad que los centros educativos plasmarán en un plan que se adapte a sus peculiaridades y necesidades. En un tercer nivel se dictará anualmente una resolución que concrete aquellos aspectos que, siendo susceptibles de modificación, no procede que sean objeto de esta regulación de carácter más permanente en el tiempo. La finalidad de las medidas de atención a la diversidad en la enseñanza básica se centra en armonizar una respuesta a necesidades educativas concretas del alumnado con el desarrollo y la consecución de las competencias básicas y del título de Graduado en Educación Secundaria Obligatoria. Constituye una novedad respecto a la regulación precedente la extensión del ámbito de aplicación a los centros privados concertados en las condiciones que determinen sus conciertos, para hacer efectivo el principio de equidad en la educación que preside el desarrollo reglamentario del nuevo sistema educativo. En el capítulo primero de la orden se establece el catálogo de medidas de atención a la diversidad en una enumeración abierta respetuosa con la autonomía organizativa y curricular de los centros docentes, si bien se describen en cada una de ellas todos los
 
@@ -222,13 +222,23 @@ d) Entrevista con el alumno o alumna y sus padres o tutores legales para informa
 
 #### Artículo 17. Evaluación.
 
-1. Del alumnado. 1.1. La evaluación de los alumnos y alumnas que sigan programas de diversificación será continua y tendrá como referente las competencias básicas, los objetivos generales de la etapa y los criterios de evaluación establecidos para cada ámbito y materia. Cuando el progreso del alumno o alumna no responda a los objetivos previstos en el programa de diversificación, se tomarán las medidas educativas oportunas para su recuperación. 1.2. La evaluación será realizada por el conjunto de profesores y profesoras que imparten enseñanzas al alumnado del grupo de diversificación y coordinada por la tutora o tutor del grupo específico. 1.3. Los alumnos y alumnas que cursen programas de diversificación curricular obtendrán el título de Graduado en Educación Secundaria si superan todos los ámbitos y materias que integran el programa. Asimismo, podrán obtener dicho título aquellos que habiendo superado los dos ámbitos tengan evaluación negativa en una o dos materias, y, de manera excepcional, en tres, siempre que a juicio del equipo docente hayan alcanzado las
+1. Del alumnado.
+
+**1.1.** La evaluación de los alumnos y alumnas que sigan programas de diversificación será continua y tendrá como referente las competencias básicas, los objetivos generales de la etapa y los criterios de evaluación establecidos para cada ámbito y materia. Cuando el progreso del alumno o alumna no responda a los objetivos previstos en el programa de diversificación, se tomarán las medidas educativas oportunas para su recuperación.
+
+**1.2.** La evaluación será realizada por el conjunto de profesores y profesoras que imparten enseñanzas al alumnado del grupo de diversificación y coordinada por la tutora o tutor del grupo específico.
+
+**1.3.** Los alumnos y alumnas que cursen programas de diversificación curricular obtendrán el título de Graduado en Educación Secundaria si superan todos los ámbitos y materias que integran el programa. Asimismo, podrán obtener dicho título aquellos que habiendo superado los dos ámbitos tengan evaluación negativa en una o dos materias, y, de manera excepcional, en tres, siempre que a juicio del equipo docente hayan alcanzado las
 
 competencias básicas y los objetivos de la etapa.
 
-2. Del programa. 2.1. El desarrollo de los programas de diversificación será objeto de seguimiento y evaluación específicos. A tal efecto, el Departamento de Orientación elaborará al final de cada curso, junto con el equipo docente del grupo de diversificación, una memoria que incluya:
+2. Del programa.
+
+**2.1.** El desarrollo de los programas de diversificación será objeto de seguimiento y evaluación específicos. A tal efecto, el Departamento de Orientación elaborará al final de cada curso, junto con el equipo docente del grupo de diversificación, una memoria que incluya:
 a) Informe sobre el progreso del alumnado que ha seguido un programa de diversificación.
-b) Informe sobre el desarrollo del programa, que incluya, en su caso, propuestas de modificación. 2.2. La Comisión de Coordinación Pedagógica, teniendo en cuenta esta memoria y cuantos otros informes se considere oportuno solicitar, evaluará el programa y, con la colaboración de los diferentes departamentos didácticos, aprobará las propuestas de modificación que se estimen pertinentes.
+b) Informe sobre el desarrollo del programa, que incluya, en su caso, propuestas de modificación.
+
+**2.2.** La Comisión de Coordinación Pedagógica, teniendo en cuenta esta memoria y cuantos otros informes se considere oportuno solicitar, evaluará el programa y, con la colaboración de los diferentes departamentos didácticos, aprobará las propuestas de modificación que se estimen pertinentes.
 
 ### Sección 4.ª. Programas para la mejora de la convivencia.
 
@@ -275,14 +285,20 @@ h) Criterios y procedimientos para la evaluación y revisión del programa.
 
 #### Artículo 23. Evaluación.
 
-1. Del alumnado. 1.1. La toma de decisiones vinculadas al proceso de evaluación se desarrollará de acuerdo con lo dispuesto en la normativa vigente sobre evaluación. 1.2. El desarrollo del programa tendrá efectos en la organización de las enseñanzas pero no así en las decisiones asociadas a la evaluación, que tomará como referente el currículo de todas las materias del nivel en que el alumno o alumna se encuentre matriculado.
+1. Del alumnado.
 
-2. Del programa. 2.1. Durante el tercer trimestre del curso escolar, el equipo docente del programa, en colaboración con el Departamento de Orientación, elaborará una memoria que incluirá al menos los siguientes aspectos:
+**1.1.** La toma de decisiones vinculadas al proceso de evaluación se desarrollará de acuerdo con lo dispuesto en la normativa vigente sobre evaluación.
+
+**1.2.** El desarrollo del programa tendrá efectos en la organización de las enseñanzas pero no así en las decisiones asociadas a la evaluación, que tomará como referente el currículo de todas las materias del nivel en que el alumno o alumna se encuentre matriculado.
+
+2. Del programa.
+
+**2.1.** Durante el tercer trimestre del curso escolar, el equipo docente del programa, en colaboración con el Departamento de Orientación, elaborará una memoria que incluirá al menos los siguientes aspectos:
 - Informe individual del alumnado que cursa el programa, en el que se especifique el grado de consecución de los objetivos y el consejo orientador para el próximo curso escolar.
 - Informe cuantitativo y cualitativo de la mejora en el clima escolar, tomando como referencia, entre otros indicadores, el número de conflictos disciplinarios registrados en el curso escolar y el inmediatamente anterior a la instauración del programa, y el grado de satisfacción de los diferentes miembros de la comunidad educativa.
 - Valoración del desarrollo de las coordinaciones entre los diferentes profesores y profesoras implicados en el desarrollo del programa.
 
-2.2. A partir de dicha memoria y de cuantos otros informes se considere oportuno solicitar, la Comisión de Coordinación Pedagógica evaluará el programa para la mejora de la convivencia, y aprobará las propuestas de modificación que estime pertinentes.
+**2.2.** A partir de dicha memoria y de cuantos otros informes se considere oportuno solicitar, la Comisión de Coordinación Pedagógica evaluará el programa para la mejora de la convivencia, y aprobará las propuestas de modificación que estime pertinentes.
 
 ### Sección 5.ª. Otras medidas de atención a la diversidad.
 
@@ -337,5 +353,5 @@ Primera.- Se autoriza a los centros directivos de esta Consejería y, en especia
 #### Segunda. Esta Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Santa Cruz de Tenerife, a 7 de junio de 2007. EL CONSEJERO DE EDUCACIÓN, CULTURA Y DEPORTES en funciones, Isaac Cristóbal Godoy Delgado. Ver anexos - página 15408
 
 © Gobierno de Canarias
-•  Aviso Legal
-•  Sugerencias y Reclamaciones
+• Aviso Legal
+• Sugerencias y Reclamaciones

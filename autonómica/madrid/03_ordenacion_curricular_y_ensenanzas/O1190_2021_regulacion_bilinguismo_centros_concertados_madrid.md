@@ -41,16 +41,16 @@ Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo de
 
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dada en Madrid, a 12 de mayo de 2021.—El Consejero de Deportes, Transparencia y Portavoz del Gobierno, P. D. C. (Orden 41/2019, de 20 de noviembre; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 3 de diciembre), P. S. (Decreto 16/2021, de 11 de marzo, del Consejo de Gobierno), el Secretario General Técnico de la Consejería de Presidencia, Pablo García-Valdecasas Rodríguez de Rivera.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN 244 CONSEJERIA DEPORTES, TRANSPARENCIA Y PORTAVOCÍA DEL GOBIERNO VICECONSEJERIA TRANSPARENCIA DIRECCION GENERAL TRANSPARENCIA, GOBIERNO ABIERTO Y ATENCIÓN AL CIUDADANO SUBDIRECCION GENERAL GOBIERNO ABIERTO Y OFICINA DE COORDINACIÓN DE LA TRANSPARENCIA CONSEJERIA DEPORTES, TRANSPARENCIA Y PORTAVOCÍA DEL GOBIERNO VICECONSEJERIA DEPORTES DIRECCION GENERAL INFRAESTRUCTURAS Y PROGRAMAS DE ACTIVIDAD FÍSICA Y DEPORTE SUBDIRECCION GENERAL GESTION  DEPORTIVA Puesto de Trabajo:
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN 244 CONSEJERIA DEPORTES, TRANSPARENCIA Y PORTAVOCÍA DEL GOBIERNO VICECONSEJERIA TRANSPARENCIA DIRECCION GENERAL TRANSPARENCIA, GOBIERNO ABIERTO Y ATENCIÓN AL CIUDADANO SUBDIRECCION GENERAL GOBIERNO ABIERTO Y OFICINA DE COORDINACIÓN DE LA TRANSPARENCIA CONSEJERIA DEPORTES, TRANSPARENCIA Y PORTAVOCÍA DEL GOBIERNO VICECONSEJERIA DEPORTES DIRECCION GENERAL INFRAESTRUCTURAS Y PROGRAMAS DE ACTIVIDAD FÍSICA Y DEPORTE SUBDIRECCION GENERAL GESTION DEPORTIVA Puesto de Trabajo:
 Puesto de Trabajo:
-SUBDIRECTOR GENERAL DE GOBIERNO ABIERTO Y OFICINA TECNICO DE APOYO Denominación     :
-Denominación     :
-30 28 A A Grupo                :
-Grupo                :
-N.C.D.               :
-N.C.D.               :
-30.315,12 22.152,96 C. Específico      :
-C. Específico      :
+SUBDIRECTOR GENERAL DE GOBIERNO ABIERTO Y OFICINA TECNICO DE APOYO Denominación :
+Denominación :
+30 28 A A Grupo :
+Grupo :
+N.C.D. :
+N.C.D. :
+30.315,12 22.152,96 C. Específico :
+C. Específico :
 DESIERTO *254*7*** FERRO PICON,ROCIO Cód. identificación:
 Apellidos y Nombre:
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO (03/17.275/21)

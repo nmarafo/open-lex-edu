@@ -130,11 +130,11 @@ El Título Profesional Básico en Actividades Agropecuarias queda identificado p
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones auxiliares en explotaciones agrícola-ganaderas, relacionadas, entre otras cosas, con cultivos agrícolas; con el manejo del ganado y con el envasado y distribución de productos agroalimentarios, siguiendo instrucciones de superiores o plan de trabajo, operando con la calidad indicada, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes, las de bienestar animal, las de seguridad alimentaria, buenas prácticas ganaderas, y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -188,7 +188,7 @@ w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales completas:
 
@@ -210,11 +210,11 @@ UC0714_1: Realizar el pastoreo del ganado.
 
 UC0715_1: Realizar operaciones auxiliares de mantenimiento de instalaciones y manejo de la maquinaria y equipos en explotaciones ganaderas.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional desarrolla principalmente su actividad profesional en el área de producción y/o en el área de medioambiente en grandes, medianas y pequeñas empresas agropecuarias, tanto públicas como privadas, dedicadas a actividades relacionadas con el cultivo agrícola y con la ganadería productiva.
+**2.4.1.** Este profesional desarrolla principalmente su actividad profesional en el área de producción y/o en el área de medioambiente en grandes, medianas y pequeñas empresas agropecuarias, tanto públicas como privadas, dedicadas a actividades relacionadas con el cultivo agrícola y con la ganadería productiva.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Peón agrícola.
 
@@ -238,7 +238,7 @@ UC0715_1: Realizar operaciones auxiliares de mantenimiento de instalaciones y ma
 
 – Peón de la industria alimentaria.
 
-2.5. Prospectiva del título en el sector o sectores.
+**2.5.** Prospectiva del título en el sector o sectores.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -256,7 +256,7 @@ f) Finalmente, se hacen imprescindibles las actitudes favorables hacia el trabaj
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título
+**3.1.** Objetivos generales del título
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -314,7 +314,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -340,7 +340,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3117. Formación en centros de trabajo.
 
-3.3 Vinculación con capacitaciones profesionales.
+**3.3** Vinculación con capacitaciones profesionales.
 
 La formación establecida en el presente real decreto, en sus diferentes módulos profesionales garantiza el nivel básico de conocimiento exigido en el carné profesional de manipulador de productos fitosanitarios, de acuerdo al Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir un uso sostenible de los productos fitosanitarios». Además, garantiza el nivel de conocimiento necesario para:
 
@@ -348,7 +348,7 @@ a) Posibilitar la realización de tratamientos plaguicidas en el nivel de capaci
 
 b) Realizar operaciones básicas de tratamiento con biocidas en recintos, instalaciones y vehículos ganaderos de acuerdo a la normativa en vigor.
 
-3.4. Desarrollo de los módulos:
+**3.4.** Desarrollo de los módulos:
 
 Módulo Profesional: Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
@@ -3464,7 +3464,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -3480,7 +3480,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 (2) Variable en función de las especies ganaderas.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -3530,7 +3530,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
@@ -3554,7 +3554,7 @@ Otros:
 
 • Operaciones y equipos de producción agraria.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
@@ -3570,7 +3570,7 @@ Otros:
 
 3117. Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3051. Operaciones auxiliares de preparación del terreno, plantación y siembra de cultivos.
 
@@ -3626,11 +3626,11 @@ El Título Profesional Básico en Aprovechamientos Forestales queda identificado
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones auxiliares para la conservación, mejora y aprovechamiento del monte, así como de producción de planta en invernaderos o en centros de jardinería, y llevar a cabo operaciones auxiliares para el mantenimiento de jardines, parques y zonas verdes, operando con la calidad indicada, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -3684,9 +3684,9 @@ w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1. Cualificaciones profesionales completas:
+**2.3.1.** Cualificaciones profesionales completas:
 
 a) Actividades auxiliares en aprovechamientos forestales AGA398_1 (RD 1179/2008, de 11 de julio) que comprende las siguientes unidades de competencia:
 
@@ -3704,7 +3704,7 @@ UC1294_1 Realizar actividades auxiliares en tratamientos selvícolas.
 
 UC1295_1 Realizar actividades auxiliares en el control de agentes causantes de plagas y enfermedades a las plantas forestales.
 
-2.3.2. Cualificaciones profesionales incompletas:
+**2.3.2.** Cualificaciones profesionales incompletas:
 
 Actividades auxiliares en viveros, jardines y centros de jardinería AGA164_1 (Real Decreto 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
 
@@ -3712,13 +3712,13 @@ UC0520_1: Realizar operaciones auxiliares para la producción y mantenimiento de
 
 UC0522_1: Realizar operaciones auxiliares para el mantenimiento de jardines, parques y zonas verdes
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional desarrolla principalmente su actividad profesional en el área de producción y/o en el área de medioambiente en grandes, medianas y pequeñas empresas, tanto públicas, como privadas, dedicadas a trabajos de repoblación forestal, tratamientos selvícolas y trabajos de mejora, mantenimiento de la infraestructura forestal y aprovechamientos forestales Además, realiza trabajos auxiliares en el mantenimiento de jardines, áreas recreativas y zonas verdes.
+**2.4.1.** Este profesional desarrolla principalmente su actividad profesional en el área de producción y/o en el área de medioambiente en grandes, medianas y pequeñas empresas, tanto públicas, como privadas, dedicadas a trabajos de repoblación forestal, tratamientos selvícolas y trabajos de mejora, mantenimiento de la infraestructura forestal y aprovechamientos forestales Además, realiza trabajos auxiliares en el mantenimiento de jardines, áreas recreativas y zonas verdes.
 
 Así mismo, este profesional está capacitado para realizar tratamientos plaguicidas de nivel básico, según la actividad regulada por la normativa correspondiente.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Peón forestal.
 
@@ -3742,7 +3742,7 @@ Así mismo, este profesional está capacitado para realizar tratamientos plaguic
 
 – Peón en empresas de mantenimiento de jardines.
 
-2.5. Prospectiva del título en el sector o sectores.
+**2.5.** Prospectiva del título en el sector o sectores.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -3758,7 +3758,7 @@ e) Las actividades de ocio, tiempo libre y turismo activo, que han surgido en to
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título
+**3.1.** Objetivos generales del título
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -3816,7 +3816,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -3842,13 +3842,13 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3122. Formación en centros de trabajo.
 
-3.3 Vinculación con capacitaciones profesionales.
+**3.3** Vinculación con capacitaciones profesionales.
 
 La formación establecida en el presente real decreto, en sus diferentes módulos profesionales garantiza el nivel básico de conocimiento exigido en el carné profesional de manipulador de productos fitosanitarios, de acuerdo al Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir un uso sostenible de los productos fitosanitarios. Además, garantiza el nivel de conocimiento necesario para:
 
 a) Posibilitar la realización de tratamientos plaguicidas en el nivel de capacitación básico, de acuerdo con las exigencias del Real Decreto 3349/1983, de 30 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria para la fabricación, comercialización y utilización de plaguicidas.
 
-3.4. Desarrollo de los módulos:
+**3.4.** Desarrollo de los módulos:
 
 Módulo Profesional: Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
 
@@ -6914,7 +6914,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -6928,7 +6928,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 (1) Espacio no necesariamente ubicado en el centro.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -6976,7 +6976,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional son:
 
 3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería
 
@@ -6998,7 +6998,7 @@ Otros:
 
 • Profesor especialista, en su caso.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3053. Operaciones básicas de producción mantenimiento de plantas en viveros y centros de jardinería.
 
@@ -7014,7 +7014,7 @@ Otros:
 
 3122. Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3053. Operaciones básicas de producción y mantenimiento de plantas en viveros y centros de jardinería.
 
@@ -7033,8 +7033,6 @@ Otros:
 6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.
 
 3118. Repoblación e infraestructura forestal
-
-Â
 
 Â
 
@@ -7080,11 +7078,11 @@ El Título Profesional Básico en Artes Gráficas queda identificado por los sig
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general del título consiste en realizar trabajos de reprografía y operaciones básicas de apoyo a la producción, manipulado y finalización de productos gráficos, con autonomía, responsabilidad e iniciativa personal, operando con la calidad indicada, observando las normas de aplicación vigente medioambientales y de seguridad e higiene en el trabajo y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -7138,9 +7136,9 @@ w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1. Cualificaciones profesionales completas:
+**2.3.1.** Cualificaciones profesionales completas:
 
 a) **Reprografía.** ARG410_1 (Real Decreto 1179/2008, de 11 de julio), que comprende las siguientes unidades de competencia:
 
@@ -7158,7 +7156,7 @@ UC2139_1: Realizar operaciones básicas de manipulado en industrias gráficas me
 
 UC1668_1: Realizar operaciones de empaquetado, apilado y paletizado en industrias gráficas.
 
-2.3.2. Cualificaciones profesionales incompletas:
+**2.3.2.** Cualificaciones profesionales incompletas:
 
 a) **Operaciones auxiliares en industrias gráficas.** ARG512_1 (Real Decreto 142/2011, de 4 de febrero):
 
@@ -7170,11 +7168,11 @@ b) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11 de
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional ejerce su actividad por cuenta ajena en departamentos de impresión, encuadernación, manipulados y transformados en pequeñas, medianas o grandes industrias gráficas con niveles organizativo/ tecnológicos muy diversos. Además, también puede ejercer su actividad por cuenta propia en pequeñas empresas de reprografía, o por cuenta ajena en empresas de artes gráficas, de multiservicios gráficos y de comunicación gráfica y visual, así como en departamentos específicos de reprografía de cualquier tipo de organización. Se integra generalmente en un equipo de trabajo donde desempeña sus funciones siguiendo instrucciones recibidas y bajo la supervisión directa de un responsable.
+**2.4.1.** Este profesional ejerce su actividad por cuenta ajena en departamentos de impresión, encuadernación, manipulados y transformados en pequeñas, medianas o grandes industrias gráficas con niveles organizativo/ tecnológicos muy diversos. Además, también puede ejercer su actividad por cuenta propia en pequeñas empresas de reprografía, o por cuenta ajena en empresas de artes gráficas, de multiservicios gráficos y de comunicación gráfica y visual, así como en departamentos específicos de reprografía de cualquier tipo de organización. Se integra generalmente en un equipo de trabajo donde desempeña sus funciones siguiendo instrucciones recibidas y bajo la supervisión directa de un responsable.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Operario de reprografía.
 
@@ -7196,7 +7194,7 @@ UC1329_1: Proporcionar atención e información operativa, estructurada y protoc
 
 – Peón de la industria gráfica.
 
-2.5. Prospectiva del sector o de los sectores relacionados con el título.
+**2.5.** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -7218,7 +7216,7 @@ h) El campo de los tratamientos superficiales del impreso ha sufrido una gran re
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título.
+**3.1.** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -7276,7 +7274,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -7304,7 +7302,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3129. Formación en centros de trabajo.
 
-3.3. Desarrollo de los módulos.
+**3.3.** Desarrollo de los módulos.
 
 Módulo Profesional: Informática básica aplicada en industrias gráficas.
 
@@ -10412,7 +10410,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -10420,7 +10418,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Aula técnica de reprografía, postimpresión y acabados.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -10446,7 +10444,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3123. Informática básica aplicada en industrias gráficas.
 
@@ -10478,7 +10476,7 @@ Otros:
 
 • Profesor especialista, en su caso.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3123. Informática básica aplicada en industrias gráficas.
 
@@ -10496,7 +10494,7 @@ Otros:
 
 3129. Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3123. Informática básica aplicada en industrias gráficas.
 
@@ -10558,11 +10556,11 @@ El Título Profesional Básico en Alojamiento y Lavandería queda identificado p
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general del título consiste en realizar con autonomía la limpieza y puesta a punto de las habitaciones en alojamientos turísticos o de otra índole y de las áreas comunes de éstos, cuidando el buen estado de instalaciones y mobiliario, así como realizar las operaciones de clasificación, lavado y limpieza de artículos textiles en instalaciones industriales, asistiendo en los procesos de servicio y atención al cliente, siguiendo los protocolos de calidad establecidos, observando las normas de higiene, prevención de riesgos laborales y protección medioambiental, con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -10614,9 +10612,9 @@ v) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 w) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1 Cualificaciones profesionales completas:
+**2.3.1** Cualificaciones profesionales completas:
 
 a) **HOT222_1.** Operaciones básicas de pisos en alojamiento (Real Decreto 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
 
@@ -10636,7 +10634,7 @@ UC0436_1: Realizar el lavado en seco de ropa.
 
 UC0437_1: Realizar el secado, planchado y embolsado de ropa.
 
-2.3.2. Cualificaciones profesionales incompletas:
+**2.3.2.** Cualificaciones profesionales incompletas:
 
 a) Operaciones basicas de catering HOT325_1 (Real Decreto 1700/2007, de 14 de diciembre):
 
@@ -10646,11 +10644,11 @@ b) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11 de
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional suele ejercer su actividad habitualmente por cuenta ajena en hoteles u otro tipo de alojamientos turísticos y residencias escolares, de mayores y sanitarias entre otras, así como en empresas de servicios de atención a colectividades, en lavanderías industriales y de proximidad.
+**2.4.1.** Este profesional suele ejercer su actividad habitualmente por cuenta ajena en hoteles u otro tipo de alojamientos turísticos y residencias escolares, de mayores y sanitarias entre otras, así como en empresas de servicios de atención a colectividades, en lavanderías industriales y de proximidad.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 ‒ Camarera/o de pisos, en establecimientos de alojamiento turístico sea cual sea su tipología, modalidad o categoría.
 
@@ -10664,7 +10662,7 @@ UC1329_1: Proporcionar atención e información operativa, estructurada y protoc
 
 ‒ Operador de máquinas y equipos de planchado de prendas.
 
-2.5. Prospectiva del título en el sector o sectores.
+**2.5.** Prospectiva del título en el sector o sectores.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -10678,7 +10676,7 @@ d) Estos profesionales pueden trabajar también como personal de limpieza en ofi
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título
+**3.1.** Objetivos generales del título
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -10734,7 +10732,7 @@ x) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 y) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -10762,7 +10760,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3132. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos:
+**3.3** Desarrollo de los módulos:
 
 Módulo Profesional: Puesta a punto de habitaciones y zonas comunes en alojamiento.
 
@@ -11012,7 +11010,7 @@ e) Se han clasificado los distintos elementos complementarios, empleando la term
 
 f) Se ha verificado la coincidencia de las etiquetas con las especificaciones de la ficha técnica del material o producto.
 
-3. Almacena  los materiales y productos textiles y elementos complementarios, justificando la ubicación y condiciones de almacenamiento de los mismos.
+3. Almacena los materiales y productos textiles y elementos complementarios, justificando la ubicación y condiciones de almacenamiento de los mismos.
 
 Criterios de evaluación:
 
@@ -13658,7 +13656,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -13668,7 +13666,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 ‒ Taller de lavandería y costura.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -13694,7 +13692,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3130 Puesta a punto de habitaciones y zonas comunes en alojamiento.
 
@@ -13740,7 +13738,7 @@ Otros:
 
 • Servicios de restauración
 
-6.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**6.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3130 Puesta a punto de habitaciones y zonas comunes en alojamiento.
 
@@ -13758,7 +13756,7 @@ Otros:
 
 3132. Formación en centros de trabajo.
 
-6.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**6.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3130 Puesta a punto de habitaciones y zonas comunes en alojamiento.
 
@@ -13822,11 +13820,11 @@ El Título Profesional Básico en Industrias Alimentarias queda identificado por
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general del título consiste en recepcionar, preparar y procesar materias primas y auxiliares para la producción en industrias alimentarías y químicas, aplicando protocolos establecidos para la elaboración y envasado de productos y realizando operaciones sencillas y rutinarias de laboratorio, operando con la calidad indicada, observando las normas de higiene alimentaria, prevención de riesgos laborales y protección medioambiental correspondientes; y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -13882,9 +13880,9 @@ x) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 y) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1. Cualificaciones profesionales completas:
+**2.3.1.** Cualificaciones profesionales completas:
 
 a) Operaciones auxiliares de elaboración en la industria alimentaria INA172_1 (Real Decreto 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
 
@@ -13904,7 +13902,7 @@ UC0547_1: Ayudar en el mantenimiento operativo de máquinas e instalaciones de l
 
 UC0432_1: Manipular cargas con carretillas elevadoras.
 
-2.3.2. Cualificaciones profesionales incompletas:
+**2.3.2.** Cualificaciones profesionales incompletas:
 
 a) Operaciones auxiliares y de almacen en industrias y laboratorios químicos. QUI405_1 (Real Decreto 1179/2008, de 11 de julio):
 
@@ -13914,11 +13912,11 @@ b) Actividades auxiliares de almacén COM411_1 (Real Decreto 1179/2008, de 11 de
 
 UC1325_1: Realizar las operaciones auxiliares de recepción, colocación, mantenimiento y expedición de cargas en el almacén de forma integrada en el equipo.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional ejerce su actividad en la industria alimentaria de pequeño, mediano o gran tamaño, tanto las que se dedican a la fabricación directa de transformados alimentarios, como las de servicios y productos auxiliares para el sector. Desarrolla generalmente su actividad por cuenta ajena donde desarrolla tareas normalizasas de apoyo en las áreas de recepción, preparación, elaboración y conservación, operando de forma automáticas dispositivos, equipos e instalaciones y en areas de laboratorio realizando tareas sencillas y rutinarias. Realiza, así mismo, tareas de cuidado y mantenimiento de instalaciones y equipos y labores relacionadas con el transporte interno y almacenaje. Ocasionalmente, puede también ejercer su actividad por cuenta propia en el campo de la artesanía relacionada con la fabricación de productos alimentarios derivados de la ganadería. Opera siguiendo instrucciones de técnicos superiores y según procedimientos establecidos.
+**2.4.1.** Este profesional ejerce su actividad en la industria alimentaria de pequeño, mediano o gran tamaño, tanto las que se dedican a la fabricación directa de transformados alimentarios, como las de servicios y productos auxiliares para el sector. Desarrolla generalmente su actividad por cuenta ajena donde desarrolla tareas normalizasas de apoyo en las áreas de recepción, preparación, elaboración y conservación, operando de forma automáticas dispositivos, equipos e instalaciones y en areas de laboratorio realizando tareas sencillas y rutinarias. Realiza, así mismo, tareas de cuidado y mantenimiento de instalaciones y equipos y labores relacionadas con el transporte interno y almacenaje. Ocasionalmente, puede también ejercer su actividad por cuenta propia en el campo de la artesanía relacionada con la fabricación de productos alimentarios derivados de la ganadería. Opera siguiendo instrucciones de técnicos superiores y según procedimientos establecidos.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 ‒ Peón de la industria de la alimentación y bebidas.
 
@@ -13942,7 +13940,7 @@ UC1325_1: Realizar las operaciones auxiliares de recepción, colocación, manten
 
 ‒ Ayudante de plantas de tratamiento de aguas.
 
-2.5. Prospectiva del título en el sector o sectores.
+**2.5.** Prospectiva del título en el sector o sectores.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -13956,7 +13954,7 @@ d) Los cambios tecnológicos se basan primordialmente en la incorporación de la
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título
+**3.1.** Objetivos generales del título
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -14014,7 +14012,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -14038,11 +14036,11 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3137. Formación en centros de trabajo.
 
-3.3. Vinculación con capacitaciones profesionales.
+**3.3.** Vinculación con capacitaciones profesionales.
 
 La formación establecida en el presente real decreto garantiza el nivel de conocimiento necesario para posibilitar unas prácticas correctas de higiene y manipulación de alimentos, de acuerdo con la exigencia del artículo 4.6 del Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos.
 
-3.3. Desarrollo de los módulos:
+**3.3.** Desarrollo de los módulos:
 
 Módulo Profesional: Operaciones auxiliares en la industria alimentaria.
 
@@ -14117,8 +14115,6 @@ e) Se ha establecido la forma y el lugar donde debe depositarse los sobrantes y 
 f) Se han aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales aplicados a la utilización de máquinas y equipos de envasado y acondicionado de productos.
 
 5. Empaqueta y embala los productos alimentarios envasados, operando con equipos automáticos o semiautomáticos según las instrucciones de trabajo.
-
-Criterios de evaluación:
 
 Criterios de evaluación:
 
@@ -16694,7 +16690,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -16706,7 +16702,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 ‒ Taller de almacenaje.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -16808,7 +16804,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3133. Operaciones auxiliares en la industria alimentaria.
 
@@ -16838,7 +16834,7 @@ Otros:
 
 • Laboratorio.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3133. Operaciones auxiliares en la industria alimentaria.
 
@@ -16852,7 +16848,7 @@ Otros:
 
 3137 Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3133. Operaciones auxiliares en la industria alimentaria.
 
@@ -16920,11 +16916,11 @@ El Título Profesional Básico en Actividades Marítimo-Pesqueras queda identifi
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general de este título consiste en realizar actividades básicas de navegación, pesca, y de servicio en la sala máquinas de buques de pesca, operando con la calidad indicada, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y, en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -16982,7 +16978,7 @@ y) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 z) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales completas:
 
@@ -17014,11 +17010,11 @@ UC0734_1: Realizar las actividades extractivas de la pesca y marisqueo a flote c
 
 UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional ejerce generalmente su actividad a bordo de buques de pesca y auxiliares de acuicultura.
+**2.4.1.** Este profesional ejerce generalmente su actividad a bordo de buques de pesca y auxiliares de acuicultura.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Marinero de máquinas.
 
@@ -17028,7 +17024,7 @@ UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en 
 
 – Mariscador a flote.
 
-2.5. Prospectiva del sector o de los sectores relacionados con el título.
+**2.5.** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -17038,7 +17034,7 @@ b) Las vías de demanda de empleo en el sector apuntan a un decrecimiento genera
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título
+**3.1.** Objetivos generales del título
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -17096,7 +17092,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -17122,7 +17118,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3144 Formación en centros de trabajo
 
-3.3. Vinculación con capacitaciones profesionales.
+**3.3.** Vinculación con capacitaciones profesionales.
 
 a) El conjunto de módulos profesionales de este Título recoge la formación requerida para la expedición del «Certificado de Formación Básica» que se exige a todo el personal que ejerza funciones profesionales marítimas en los buques civiles, y la requerida para la expedición del título de marinero de puente y marinero de máquinas. (Orden FOM/2296/2002, de 4 de septiembre de 2002, de certificados de especialidad y de títulos de marinero de puente, marinero de máquinas y patrón portuario, modificada por la Orden FOM/2947/2005, de 19 de septiembre, y Orden FOM/3933/2006, de 19 de diciembre)
 
@@ -17130,7 +17126,7 @@ b) El conjunto de módulos profesionales de este Título recoge los conocimiento
 
 c) El conjunto de módulos profesionales de este Título recoge los conocimientos y requisitos mínimos exigidos para la obtención de la habilitación para el desempeño de las funciones de prevención de riesgos laborales nivel básico, de acuerdo al anexo IV del reglamento de los servicios de prevención, aprobado por el [Real Decreto 39/1997](../02_gestion_y_administracion_centros/RD39_1997_aprueba_reglamento_servicios_prevencion.md), de 17 de enero.
 
-3.4. Desarrollo de los módulos.
+**3.4.** Desarrollo de los módulos.
 
 Módulo Profesional: Actividades en cubiertas de barcos de pesca.
 
@@ -20142,7 +20138,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -20154,7 +20150,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 ‒ Aula de Seguridad Marítima y Aula de primeros auxilios.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 ‒ Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -20218,7 +20214,7 @@ Aro salvavidas.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3138 Actividades en cubiertas de barcos de pesca
 
@@ -20242,7 +20238,7 @@ Otros:
 
 • Profesor especialista, en su caso.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3138 Actividades en cubiertas de barcos de pesca.
 
@@ -20258,7 +20254,7 @@ Otros:
 
 3144 Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3138 Actividades en cubiertas de barcos de pesca.
 
@@ -20338,11 +20334,11 @@ El Título Profesional Básico en Informática de Oficina queda identificado por
 
 2. Perfil profesional.
 
-2.1. Competencia general del título.
+**2.1.** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos, periféricos y redes de comunicación de datos, y de tratamiento, reproducción y archivo de documentos, operando con la calidad indicada y actuando en condiciones de seguridad y de protección ambiental con responsabilidad e iniciativa personal y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2. Competencias del título.
+**2.2.** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -20396,9 +20392,9 @@ w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3.** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1 Cualificaciones profesionales completas:
+**2.3.1** Cualificaciones profesionales completas:
 
 Operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos IFC361_1 (Real Decreto 1701/2007, de 14 de diciembre), que comprende las siguientes unidades de competencia:
 
@@ -20408,7 +20404,7 @@ UC1208_1: Realizar operaciones auxiliares de mantenimiento de sistemas microinfo
 
 UC1209_1: Realizar operaciones auxiliares con tecnologías de la información y la comunicación.
 
-2.3.2 Cualificaciones profesionales incompletas:
+**2.3.2** Cualificaciones profesionales incompletas:
 
 Operaciones de grabación y tratamiento de datos y documentos ADG306_1 (Real Decreto 107/2008, de 1 de febrero), que comprende las siguientes unidades de competencia:
 
@@ -20416,11 +20412,11 @@ UC0974_1: Realizar operaciones básicas de tratamiento de datos y textos, y conf
 
 UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte convencional o informático.
 
-2.4. Entorno profesional.
+**2.4.** Entorno profesional.
 
-2.4.1. Este profesional ejerce su actividad por cuenta ajena en empresas dedicadas a la comercialización, montaje, mantenimiento y reparación de sistemas microinformáticos, equipos eléctricos o electrónicos y en empresas que utilicen sistemas informáticos, para su gestión.
+**2.4.1.** Este profesional ejerce su actividad por cuenta ajena en empresas dedicadas a la comercialización, montaje, mantenimiento y reparación de sistemas microinformáticos, equipos eléctricos o electrónicos y en empresas que utilicen sistemas informáticos, para su gestión.
 
-2.4.2. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2.** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 ‒ Ayudante de montador de sistemas microinformáticos.
 
@@ -20440,7 +20436,7 @@ UC0971_1: Realizar operaciones auxiliares de reproducción y archivo en soporte 
 
 ‒ Operador documental.
 
-2.5. Prospectiva del sector o de los sectores relacionados con el título.
+**2.5.** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -20460,7 +20456,7 @@ g) Debido a los rápidos avances y cambios tecnológicos del sector se demandan 
 
 3. Enseñanzas del ciclo formativo.
 
-3.1. Objetivos generales del título.
+**3.1.** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -20518,7 +20514,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2. Módulos profesionales.
+**3.2.** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -20540,7 +20536,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3033. Formación en centros de trabajo.
 
-3.3. Desarrollo de los módulos:
+**3.3.** Desarrollo de los módulos:
 
 Módulo Profesional: Montaje y mantenimiento de sistemas y componentes informáticos.
 
@@ -23138,7 +23134,7 @@ Este módulo profesional contribuye a completar las competencias y objetivos gen
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1. Espacios.
+**4.1.** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -23148,7 +23144,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 ‒ Taller de informática y comunicaciones.
 
-4.2. Equipamientos mínimos.
+**4.2.** Equipamientos mínimos.
 
 Ordenadores instalados en red, cañón de proyección e Internet.
 
@@ -23192,7 +23188,7 @@ Equipos y medios de seguridad.
 
 5. Profesorado.
 
-5.1. Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1.** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3031 Ofimática y archivo de documentos.
 
@@ -23216,7 +23212,7 @@ Especialidad:
 
 • Sistemas y aplicaciones informáticas.
 
-5.2. Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2.** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3029. Montaje y mantenimiento de sistemas y componentes informáticos.
 
@@ -23228,7 +23224,7 @@ Especialidad:
 
 3033. Formación en centros de trabajo.
 
-5.3. Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3.** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3029. Montaje y mantenimiento de sistemas y componentes informáticos.
 

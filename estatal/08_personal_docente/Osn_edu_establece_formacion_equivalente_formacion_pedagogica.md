@@ -288,8 +288,6 @@ Conocer las características de los estudiantes, sus contextos sociales y motiva
 
 Â
 
-Â
-
 con diferentes capacidades y diferentes ritmos de aprendizaje.
 
 Procesos y contextos educativos

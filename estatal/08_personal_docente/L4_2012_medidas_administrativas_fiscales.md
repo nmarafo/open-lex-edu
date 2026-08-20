@@ -1244,9 +1244,13 @@ redactado en los siguientes términos:
 
 – Tarifa primera:
 
-Epígrafe 1.1 Gasolinas de bajo contenido en plomo, clasificadas en los códigos NC 2710.12.41, 2710.12.45 y 2710.12.49 (gasolinas para motores, distintas de las gasolinas de aviación, con un contenido en plomo igual o inferior a 0,013 gramos por litro): 265 euros por 1.000 litros.
+Epígrafe
 
-Epígrafe 1.2 Restantes gasolinas clasificadas en el Código NC 2710, y gasolinas a las que se han añadido aditivos destinadas a sustituir a la gasolina con plomo: 288 euros por 1.000 litros.
+**1.1** Gasolinas de bajo contenido en plomo, clasificadas en los códigos NC 2710.12.41, 2710.12.45 y 2710.12.49 (gasolinas para motores, distintas de las gasolinas de aviación, con un contenido en plomo igual o inferior a 0,013 gramos por litro): 265 euros por 1.000 litros.
+
+Epígrafe
+
+**1.2** Restantes gasolinas clasificadas en el Código NC 2710, y gasolinas a las que se han añadido aditivos destinadas a sustituir a la gasolina con plomo: 288 euros por 1.000 litros.
 
 – Tarifa segunda: Gasóleos: 222 euros por 1.000 litros.
 
@@ -3086,8 +3090,6 @@ Reglamento de gestión de los tributos derivados del Régimen Económico y Fisca
 
 f) La vigilancia de la extracción de muestras en los términos previstos en el artículo 87 l.
 
-Reglamento de gestión de los tributos derivados del Régimen Económico y Fiscal de Canarias.
-
 g) La autorización de un régimen especial de importación o su renovación, modificación o cancelación.
 
 h) El reconocimiento de entidad o establecimiento de carácter social a que se refiere el artículo 12.2. del Real Decreto 2538/1994, de 29 de diciembre, por el que se dictan normas de desarrollo relativas al Impuesto general Indirecto Canario.
@@ -3141,8 +3143,6 @@ f) La vigilancia del reconocimiento físico de la mercancía en los términos pr
 Reglamento de gestión de los tributos derivados del Régimen Económico y Fiscal de Canarias: 130,00 €.
 
 g) La vigilancia de la extracción de muestras en los términos previstos en el artículo 87 l.
-
-Reglamento de gestión de los tributos derivados del Régimen Económico y Fiscal de Canarias: 130,00 €.
 
 h) La autorización de un régimen especial de importación o su renovación, modificación o cancelación: 110,00 €.
 
@@ -3885,8 +3885,6 @@ a) La reducción por donación de una empresa individual o un negocio profesiona
 presente texto refundido, que mejora la reducción análoga del Estado establecida en el artículo 20.6 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
 
 b) La reducción por donación de participaciones en entidades, que se establece en el artículo 26 bis l.
-
-presente texto refundido, que mejora la reducción análoga del Estado establecida en el artículo 20.6 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
 
 c) La reducción por donación de bienes del Patrimonio Histórico o Cultural, que se establece en el artículo 20.7 de la citada Ley 29/1987, de 18 de diciembre.
 

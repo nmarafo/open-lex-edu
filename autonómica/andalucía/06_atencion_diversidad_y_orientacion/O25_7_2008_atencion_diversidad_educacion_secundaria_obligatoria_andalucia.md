@@ -43,8 +43,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -70,8 +68,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -140,7 +136,7 @@ Angel Viera, 1, 11180, Alcalá de los Gazules.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-371.659,17 € 148.663,67 € 222.995,50 €  77
+371.659,17 € 148.663,67 € 222.995,50 € 77
 
 Nombre: «San Juan Bosco». Código: 11002092.
 
@@ -148,7 +144,7 @@ Nombre: «San Juan Bosco». Código: 11002092.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-157.316,69 € 62.926,68 € 94.390,01 €  29
+157.316,69 € 62.926,68 € 94.390,01 € 29
 
 Nombre: «San Rafael». Código: 11003539.
 
@@ -156,7 +152,7 @@ San Juan Bosco, s/n, 11580, San José del Valle.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-298.118,02 € 119.247,21 € 178.870,81 €  59
+298.118,02 € 119.247,21 € 178.870,81 € 59
 
 Provincia: Córdoba.
 
@@ -166,7 +162,7 @@ Ntra. Sra. de la Cabeza, 12, 14960, Rute.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-365.137,58 € 146.055,03 € 219.082,55 €  95
+365.137,58 € 146.055,03 € 219.082,55 € 95
 
 Nombre: «Ntra. Sra. de los Remedios». Código: 14006680.
 
@@ -174,7 +170,7 @@ Alcolea, 69, 14420, Villafranca de Córdoba.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-210.054,83 € 84.021,93 € 126.032,90 €  41
+210.054,83 € 84.021,93 € 126.032,90 € 41
 
 Nombre: «María Jesús Herruzo Martos». Código: 14006734.
 
@@ -182,7 +178,7 @@ Real, 30, 14440, Villanueva de Córdoba.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-239.858,25 € 95.943,30 € 143.914,95 €  50
+239.858,25 € 95.943,30 € 143.914,95 € 50
 
 Provincia: Granada.
 
@@ -192,7 +188,7 @@ Maura, 22, 18700, Albuñol.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-469.721,94 € 187.888,78 € 281.833,16 €  116
+469.721,94 € 187.888,78 € 281.833,16 € 116
 
 Nombre: «Reina Isabel». Código: 18001408.
 
@@ -200,7 +196,7 @@ Real, 14, 18198, Cájar.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-413.325,19 € 165.330,08 € 247.995,11 €  60
+413.325,19 € 165.330,08 € 247.995,11 € 60
 
 Nombre: «Andrés Manjón». Código: 18003910.
 
@@ -208,7 +204,7 @@ Molinos, 63, 18009, Granada.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-217.437,93 € 86.975,17 € 130.462,76 €  57
+217.437,93 € 86.975,17 € 130.462,76 € 57
 
 Nombre: «Divina Infantita». Código: 18003958.
 
@@ -216,7 +212,7 @@ Valle Gran Rey, 4, 18014, Granada.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-213.126,48 € 85.250,59 € 127.875,89 €  52
+213.126,48 € 85.250,59 € 127.875,89 € 52
 
 Nombre: «Ciudad de los Niños». Código: 18004021.
 
@@ -224,7 +220,7 @@ Ctra. de Málaga, s/n, 18015, Granada.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-300.219,33 € 120.087,73 € 180.131,60 €  87
+300.219,33 € 120.087,73 € 180.131,60 € 87
 
 Nombre: «Madre Teresa». Código: 18004033.
 
@@ -232,7 +228,7 @@ San Juan de los Reyes, 8, 18010, Granada.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-324.849,01 € 129.939,60 € 194.909,41 €  90
+324.849,01 € 129.939,60 € 194.909,41 € 90
 
 Nombre: «Divina Infantita». Código: 18004771.
 
@@ -240,7 +236,7 @@ Santa María, 5, 18500, Guadix.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-189.598,93 € 75.839,57 € 113.759,36 €  59
+189.598,93 € 75.839,57 € 113.759,36 € 59
 
 Nombre: «Pío XII-Cristo Rey». Código: 18005244.
 
@@ -248,7 +244,7 @@ Pío XII, 42, 18360, Huétor-Tájar.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-250.205,73 € 100.082,29 € 150.123,44 €  62
+250.205,73 € 100.082,29 € 150.123,44 € 62
 
 Nombre: «Sagrado Corazón». Código: 18008452.
 
@@ -256,7 +252,7 @@ Gloria, 20, 18480, Ugíjar.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-397.767,71 € 159.107,09 € 238.660,62 €  116
+397.767,71 € 159.107,09 € 238.660,62 € 116
 
 Provincia: Jaén.
 
@@ -266,7 +262,7 @@ Arcipreste Robles, 8, 23680, Alcalá la Real.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-301.704,06 € 120.681,63 € 181.022,43 €  80
+301.704,06 € 120.681,63 € 181.022,43 € 80
 
 Nombre: «Martínez Montañés». Código: 23002361.
 
@@ -274,7 +270,7 @@ Avda. de Europa, s/n, 23680, Alcalá la Real.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-125.788,69 € 50.315,48 € 75.473,21 €  18
+125.788,69 € 50.315,48 € 75.473,21 € 18
 
 Nombre: «Virgen de Guadalupe». Código: 23002437.
 
@@ -282,7 +278,7 @@ Avda.Cristo Rey, 25, 23400, Úbeda.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-236.409,09 € 94.563,64 € 141.845,45 €  46
+236.409,09 € 94.563,64 € 141.845,45 € 46
 
 Nombre: «Hijas de Cristo Rey». Código: 23005335.
 
@@ -290,7 +286,7 @@ Fuensanta, 14, 23330, Villanueva del Arzobispo.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-252.792,60 € 101.117,04 € 151.675,56 €  65
+252.792,60 € 101.117,04 € 151.675,56 € 65
 
 Nombre: «Madre del Divino Pastor». Código: 23005359.
 
@@ -298,7 +294,7 @@ María Ana Mogas, 28, 23740, Andújar.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-153.867,53 €  61.547,01 € 92.320,52 €  25
+153.867,53 € 61.547,01 € 92.320,52 € 25
 
 Provincia: Málaga.
 
@@ -308,7 +304,7 @@ Ctra. de Campillos, s/n, 29200, Antequera.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-473.171,10 € 189.268,44 € 283.902,66 €  120
+473.171,10 € 189.268,44 € 283.902,66 € 120
 
 ## Anexo II
 
@@ -324,7 +320,7 @@ Ctra. de Almería, 18740, Castell de Ferro (Los Gualchos).
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-91.087,50 € 36.435,00 € 54.652,50 €  50
+91.087,50 € 36.435,00 € 54.652,50 € 50
 
 ## Anexo III
 
@@ -340,7 +336,7 @@ Juan Sebastián Elcano, 11, 11100, San Fernando (Cádiz).
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-54.138,00 € 21.655,20 € 32.482,80 €  6
+54.138,00 € 21.655,20 € 32.482,80 € 6
 
 Provincia: Granada.
 
@@ -350,7 +346,7 @@ Avda.Colmenar, s/n, 18500, Guadix.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-406.035,00 € 162.414,00 € 243.621,00 €  45
+406.035,00 € 162.414,00 € 243.621,00 € 45
 
 Provincia: Huelva.
 
@@ -360,7 +356,7 @@ Camino Real, s/n, 21650, El Campillo.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-162.414,00 € 64.965,60 € 97.448,40 €  18
+162.414,00 € 64.965,60 € 97.448,40 € 18
 
 Provincia: Jaén.
 
@@ -370,7 +366,7 @@ Avda. Madrid, 15, 23001, Jaén.
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-153.391,00 € 61.356,40 € 92.034,60 €  17
+153.391,00 € 61.356,40 € 92.034,60 € 17
 
 Provincia: Sevilla.
 
@@ -380,7 +376,7 @@ Autovía Sevilla-Málaga, km 15, 41500, Alcalá de Guadaíra
 
 Importe Total Anualidad 2008 Anualidad 2009 Plazas
 
-234.598,00 €  93.839,20 € 140.758,80 €  26
+234.598,00 € 93.839,20 € 140.758,80 € 26
 
 ## Anexo IV
 
@@ -399,15 +395,17 @@ Disposición siguiente
 
 167 de 22/08/2008
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2008/167/boletin.167.pdf">Descargar boletín nº 167 completo
 
@@ -424,4 +422,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

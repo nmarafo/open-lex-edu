@@ -47,7 +47,23 @@ Cuarto. De conformidad con lo dispuesto en el artículo 13 l.
 
 Real Decreto 598/1985, de 30 de abril, y en el artículo 10 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas, el personal objeto del presente nombramiento, para tomar posesión, deberá realizar la declaración a que se refiere el primero de los preceptos citados, o la opción o solicitud de compatibilidad contemplados en el artículo 10 de la Ley 53/1984.
 Quinto. La diligencia de toma de posesión deberá formalizarse de acuerdo con lo dispuesto en la Resolución de la Secretaría de Estado para la Administración Pública, Real Decreto 1405/1986 de 6 de junio, por la que se establece el modelo «F.2.R« del Anexo I de dicha Resolución, se enviará copia a la Oficina Delegada del Registro Central de Personal en la Secretaría de Estado de Universidades e Investigación, para la correspondiente inscripción de la toma de posesión.
-Sexto. Contra la presente Resolución podrán los interesados interponer recurso contencioso-administrativo en el plazo de dos meses contado a partir del siguiente a su publicación en el Boletín Oficial del Estado ante el Tribunal Superior de Justicia de Andalucía, previa comunicación a esta Universidad, de acuerdo con lo establecido en el art. 110.3 de la Nueva Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Córdoba, 10 de enero de 1995.- El Rector, Amador Jover Moyano. A N E X O I F. Nacimiento: 6.12.1968. Apellidos y nombre: Guzmán Pérez, Catalina. DNI: 52.533.483. N.R.P.: 5253348324. F. Nacimiento: 22.12.1966. Apellidos y nombre: De la Higuera Martínez, Silvia. DNI: 24.224.363. N.R.P.: 2422436324. F. Nacimiento: 17.7.1968. Apellidos y nombre: Porras Alvarez, Isabel. DNI: 78.671.439. N.R.P.: 7867143902. F. Nacimiento: 5.11.1959. Apellidos y nombre: Sánchez Polaina, Pilar. DNI: 30.462.569. N.R.P.: 3046256946.
+Sexto. Contra la presente Resolución podrán los interesados interponer recurso contencioso-administrativo en el plazo de dos meses contado a partir del siguiente a su publicación en el Boletín Oficial del Estado ante el Tribunal Superior de Justicia de Andalucía, previa comunicación a esta Universidad, de acuerdo con lo establecido en el art. 110.3 de la Nueva Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Córdoba, 10 de enero de 1995.- El Rector, Amador Jover Moyano. A N E X O I F. Nacimiento:
+
+**6.12.1968.** Apellidos y nombre: Guzmán Pérez, Catalina. DNI:
+
+**52.533.483.** N.R.P.: 5253348324. F. Nacimiento:
+
+**22.12.1966.** Apellidos y nombre: De la Higuera Martínez, Silvia. DNI:
+
+**24.224.363.** N.R.P.: 2422436324. F. Nacimiento:
+
+**17.7.1968.** Apellidos y nombre: Porras Alvarez, Isabel. DNI:
+
+**78.671.439.** N.R.P.: 7867143902. F. Nacimiento:
+
+**5.11.1959.** Apellidos y nombre: Sánchez Polaina, Pilar. DNI:
+
+**30.462.569.** N.R.P.: 3046256946.
 
 Descargar PDF
 

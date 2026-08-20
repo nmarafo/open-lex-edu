@@ -155,7 +155,9 @@ d) Ubicación del aula, instalaciones y material didáctico con el que se cuenta
 
 1. De conformidad con lo dispuesto en el artículo 24.2 del Decreto 327/2010 y en el artículo 22.2 del Decreto 328/2010, ambos de 13 de julio, el plan de convivencia contemplará la figura del delegado o delegada de los padres y madres del alumnado en cada uno de los grupos.
 
-2. Las personas delegadas de padres y madres del alumnado en cada uno de los grupos serán elegidas para cada curso escolar por los propios padres, madres, o quienes ejerzan la tutela del alumnado en la reunión que el profesorado que ejerza la tutoría debe realizar con las familias antes de finalizar el mes de noviembre, a la que se refiere el artículo 15.2. En la convocatoria de esta reunión deberá hacerse constar, como puntos del orden del día, la elección de delegado o delegada de padres y madres del alumnado, así como la información de las funciones que se les atribuye en la presente orden y en el plan de convivencia del centro.
+2. Las personas delegadas de padres y madres del alumnado en cada uno de los grupos serán elegidas para cada curso escolar por los propios padres, madres, o quienes ejerzan la tutela del alumnado en la reunión que el profesorado que ejerza la tutoría debe realizar con las familias antes de finalizar el mes de noviembre, a la que se refiere el artículo
+
+**15.2.** En la convocatoria de esta reunión deberá hacerse constar, como puntos del orden del día, la elección de delegado o delegada de padres y madres del alumnado, así como la información de las funciones que se les atribuye en la presente orden y en el plan de convivencia del centro.
 
 3. Las asociaciones de madres y padres del alumnado legalmente constituidas en el centro podrán colaborar con la dirección y con el profesorado que ejerce la tutoría en la difusión de la convocatoria a que se refiere el apartado anterior y en el impulso de la participación de este sector de la comunidad educativa en el proceso de elección de las personas delegadas de madres y padres del alumnado en cada uno de los grupos.
 
@@ -567,7 +569,7 @@ Este compromiso educativo tendrá una duración de _______________________ y pod
 Fdo.:
 FIRMA: el tutor o tutora del alumno/a:
 Fdo.:
-Vº Bº:  El director/a del centro Fdo.: ___________________
+Vº Bº: El director/a del centro Fdo.: ___________________
 
 Sevilla, 7 de julio 2011 Página núm. 23
 
@@ -649,7 +651,7 @@ En ___________________ , a ____ , del mes de ______________ de _____ FIRMA: los 
 Fdo.:
 FIRMA: el tutor o tutora del alumno/a:
 Fdo.:
-Vº Bº:  El director/a del centro Fdo.: ___________________
+Vº Bº: El director/a del centro Fdo.: ___________________
 
 Página núm. 24 Sevilla, 7 de julio 2011
 
@@ -679,7 +681,7 @@ Por parte de la familia o responsables legales:
 
 Favorecer y controlar la asistencia diaria y puntual del alumno/a al centro y con los materiales necesarios para las clases.
 
-Aceptar y cumplir las indicaciones del profesorado para la mejora de  convivencia.
+Aceptar y cumplir las indicaciones del profesorado para la mejora de convivencia.
 
 Colaborar con el centro para la modificación de la conducta del alumno/a en relación con su convivencia.
 
@@ -713,7 +715,7 @@ Este compromiso de convivencia tendrá una duración de _______________________ 
 Fdo.:
 FIRMA: el tutor o tutora del alumno/a:
 Fdo.:
-Vº Bº:  El director/a del centro Fdo.: ___________________
+Vº Bº: El director/a del centro Fdo.: ___________________
 
 Sevilla, 7 de julio 2011 Página núm. 25
 
@@ -795,7 +797,7 @@ En ___________________ , a ____ , del mes de ______________ de _____ FIRMA: los 
 Fdo.:
 FIRMA: el tutor o tutora del alumno/a:
 Fdo.:
-Vº Bº:  El director/a del centro Fdo.: ___________________
+Vº Bº: El director/a del centro Fdo.: ___________________
 
 Página núm. 26 Sevilla, 7 de julio 2011
 

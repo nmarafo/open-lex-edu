@@ -208,5 +208,5 @@ Información necesaria, adecuada y pertinente para la intervención social que s
 
 1. Rendimientos del trabajo. 2. Rendimientos del capital mobiliario. 3. Rendimientos del capital inmobiliario. 4. Bienes y derechos de contenido patrimonial.
 
-Pág. 27 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 f) Sistema de Justicia Actuaciones de órganos judiciales relativas a asuntos vinculados al ámbito de acción de los servicios sociales, tales como:
+Pág. 27 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 f) Sistema de Justicia Actuaciones de órganos judiciales relativas a asuntos vinculados al ámbito de acción de los servicios sociales, tales como:
 a) **Valoraciones e informes sociales.** b) Informes periciales en materia civil y penal. c) Propuestas de actuación. d) Autos o resoluciones. e) Denuncias ante Fiscalía. (03/7.453/23)

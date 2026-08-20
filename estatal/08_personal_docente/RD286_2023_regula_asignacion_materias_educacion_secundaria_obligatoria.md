@@ -215,8 +215,6 @@ Moldes y Reproducciones. Escultóricos.
 
 Técnicas Escultóricas.
 
-Técnicas Escultóricas.
-
 Técnicas Escultóricas en madera.
 
 Técnicas Escultóricas en piedra.
@@ -540,8 +538,6 @@ Cultura Audiovisual.
 Proyectos Artísticos.
 
 Cultura Audiovisual.
-
-Proyectos Artísticos.
 
 Proyectos Artísticos.
 

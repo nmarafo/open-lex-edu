@@ -236,11 +236,11 @@ A estos efectos se considera también actividad en el sector público la desarro
 
 2. Para hacer efectivo lo dispuesto en el apartado anterior, se adoptarán las siguientes medidas:
 
-2.1 El personal funcionario no percibirá en el mes de diciembre las cantidades a que se refiere el artículo 22.Cinco.2 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 en concepto de sueldo y trienios.
+**2.1** El personal funcionario no percibirá en el mes de diciembre las cantidades a que se refiere el artículo 22.Cinco.2 de la [Ley 2/2012](./L2_2012_presupuestos_generales_estado_ano.md), de 29 de junio, de Presupuestos Generales del Estado para el año 2012 en concepto de sueldo y trienios.
 
 Tampoco se percibirá las cuantías correspondientes al resto de los conceptos retributivos que integran tanto la paga extraordinaria como la paga adicional de complemento específico o pagas adicionales equivalentes del mes de diciembre, pudiendo, en este caso, acordarse por cada Administración competente que dicha reducción se ejecute de forma prorrateada entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
-2.2 El personal laboral no percibirá las cantidades en concepto de gratificación extraordinaria con ocasión de las fiestas de Navidad o paga extraordinaria o equivalente del mes de diciembre del año 2012. Esta reducción comprenderá la de todos los conceptos retributivos que forman parte de dicha paga de acuerdo con los convenios colectivos que resulten de aplicación.
+**2.2** El personal laboral no percibirá las cantidades en concepto de gratificación extraordinaria con ocasión de las fiestas de Navidad o paga extraordinaria o equivalente del mes de diciembre del año 2012. Esta reducción comprenderá la de todos los conceptos retributivos que forman parte de dicha paga de acuerdo con los convenios colectivos que resulten de aplicación.
 
 La aplicación directa de esta medida se realizará en la nómina del mes de diciembre de 2012, sin perjuicio de que pueda alterarse la distribución definitiva de la reducción en los ámbitos correspondientes mediante la negociación colectiva, pudiendo, en este caso, acordarse que dicha reducción se ejecute de forma prorrateada entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
 
@@ -504,7 +504,7 @@ redactado en los siguientes términos:
 
 «1. Transcurrido el plazo reglamentario establecido para el pago de las cuotas a la Seguridad Social sin ingreso de las mismas y sin perjuicio de las especialidades previstas para los aplazamientos, se devengarán los siguientes recargos:
 
-1.1 Cuando los sujetos responsables del pago hubieran presentado los documentos de cotización dentro del plazo reglamentario, un recargo del 20 por 100 de la deuda, si se abonasen las cuotas debidas tras el vencimiento de dicho plazo».
+**1.1** Cuando los sujetos responsables del pago hubieran presentado los documentos de cotización dentro del plazo reglamentario, un recargo del 20 por 100 de la deuda, si se abonasen las cuotas debidas tras el vencimiento de dicho plazo».
 
 Dos. Se modifican los apartados 2 y 3 y se añade un nuevo apartado 4 al artículo 109, en los siguientes términos:
 
@@ -1784,25 +1784,15 @@ Miles de euros
 
 Red Eléctrica de España, S.A.
 
-1.294.173
+**1.294.173** Unión Fenosa Distribución, S.A.
 
-Unión Fenosa Distribución, S.A.
+**36.992** Total peninsular
 
-36.992
+**1.331.164** Red Eléctrica de España, S.A. (extrapeninsular)
 
-Total peninsular
+**146.288** Total extrapeninsular
 
-1.331.164
-
-Red Eléctrica de España, S.A. (extrapeninsular)
-
-146.288
-
-Total extrapeninsular
-
-146.288
-
-Total
+**146.288** Total
 
 1.477.452
 
@@ -2064,21 +2054,15 @@ Grado III
 
 715,07 €
 
-715,07 €
-
 387,64€
 
 Grado II
 
 426,12 €
 
-426,12 €
-
 268,79 €
 
 Grado I
-
-300,00 €
 
 300,00 €
 
@@ -3774,33 +3758,25 @@ Barcelona
 
 16.146.596
 
-2.642.493
-
-Palma de Mallorca
+**2.642.493** Palma de Mallorca
 
 405.318
 
 8.075.338
 
-1.429.502
-
-Sevilla
+**1.429.502** Sevilla
 
 703.021
 
 3.605.575
 
-16.058
-
-Valencia
+**16.058** Valencia
 
 798.033
 
 3.319.783
 
-378.463
-
-Granada
+**378.463** Granada
 
 240.099
 
@@ -3814,25 +3790,19 @@ Málaga
 
 1.740.028
 
-638.845
-
-Alicante
+**638.845** Alicante
 
 334.329
 
 1.425.400
 
-108.435
-
-Bilbao
+**108.435** Bilbao
 
 352.700
 
 1.370.254
 
-77.345
-
-Zaragoza
+**77.345** Zaragoza
 
 674.317
 
@@ -3854,27 +3824,21 @@ Las Palmas GC
 
 1.056.479
 
-425.881
-
-Cartagena
+**425.881** Cartagena
 
 214.918
 
 1.027.848
 
-88.081
-
-Sta. Cruz Tenerife
+**88.081** Sta. Cruz Tenerife
 
 222.271
 
 356.044
 
-607.343
+**607.343** Fuentes:
 
-Fuentes:
-
-*    INE Padrón Municipal 2011.
+*   INE Padrón Municipal 2011.
 
 **  INE Encuesta de Ocupación Hotelera 2011.
 

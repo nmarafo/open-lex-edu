@@ -48,7 +48,9 @@ A S E
 AÍ R E J E S N O
 **C**
 CORRECCIÓN de errores del Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos de Andalucía (BOJA núm. 122, de 19.10.2002). Advertidos errores en el Decreto 232/2002, de 17 de septiembre, por el que se regulan los órganos de Ética e Investigación Sanitarias y los de Ensayos Clínicos en Andalucía, publicado en el Boletín Oficial de la Junta de Andalucía número 122, de 19 de octubre de 2002, se procede a su corrección en los siguientes términos:
-En la página 20.341, artículo 3.2. Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de la Consejería de Salud, …». Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de Servicio de la Consejería de Salud…». Sevilla, 23 de junio de 2008 N Ó
+En la página 20.341, artículo
+
+**3.2.** Donde dice: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría de Jefe de Servicio de la Consejería de Salud, …». Debe decir: «El Secretario, cuyas funciones serán asumidas por un funcionario con la categoría mínima de Jefe de Servicio de la Consejería de Salud…». Sevilla, 23 de junio de 2008 N Ó
 **I**
 **C**
 A

@@ -229,55 +229,55 @@ Criterios de evaluación
 
 **Competencia específica 1**
 
-1.1 Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos auténticos de nivel B2, orales, escritos y multimodales, expresados en una variedad de lengua francesa estándar y a través de diversos soportes, que traten temas actuales de relevancia, tanto concretos como abstractos, y relacionados con los ámbitos socioculturales europeos y francófonos, realizando las inferencias necesarias.
+**1.1** Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos auténticos de nivel B2, orales, escritos y multimodales, expresados en una variedad de lengua francesa estándar y a través de diversos soportes, que traten temas actuales de relevancia, tanto concretos como abstractos, y relacionados con los ámbitos socioculturales europeos y francófonos, realizando las inferencias necesarias.
 
-1.2 Interpretar y valorar de manera crítica el contenido, la intención y los rasgos discursivos de textos orales, escritos y multimodales de nivel B2, con especial énfasis en los textos académicos y de los medios de comunicación relacionados con la actualidad y los ámbitos socioculturales europeos y francófonos, explicando y argumentando la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, a partir del conocimiento explícito de la lengua.
+**1.2** Interpretar y valorar de manera crítica el contenido, la intención y los rasgos discursivos de textos orales, escritos y multimodales de nivel B2, con especial énfasis en los textos académicos y de los medios de comunicación relacionados con la actualidad y los ámbitos socioculturales europeos y francófonos, explicando y argumentando la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, a partir del conocimiento explícito de la lengua.
 
-1.3 Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender la información global y específica, distinguir la intención y las opiniones, inferir significados e interpretar elementos no verbales, evaluando la eficacia de los procedimientos comunicativos empleados.
+**1.3** Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender la información global y específica, distinguir la intención y las opiniones, inferir significados e interpretar elementos no verbales, evaluando la eficacia de los procedimientos comunicativos empleados.
 
-1.4 Buscar, identificar y contrastar información, evaluando su fiabilidad y su calidad.
+**1.4** Buscar, identificar y contrastar información, evaluando su fiabilidad y su calidad.
 
 **Competencia específica 2**
 
-2.1 Realizar exposiciones, ensayos y argumentaciones formales bien estructurados, coherentes, cohesionados, en el registro adecuado y con diferente grado de planificación, sobre temas de actualidad relacionados con los ámbitos socioculturales europeos y francófonos, ajustándose a las convenciones propias de cada género discursivo, y utilizando de manera eficaz diferentes soportes y recursos verbales y no verbales.
+**2.1** Realizar exposiciones, ensayos y argumentaciones formales bien estructurados, coherentes, cohesionados, en el registro adecuado y con diferente grado de planificación, sobre temas de actualidad relacionados con los ámbitos socioculturales europeos y francófonos, ajustándose a las convenciones propias de cada género discursivo, y utilizando de manera eficaz diferentes soportes y recursos verbales y no verbales.
 
-2.2 Revisar las producciones propias y hacer propuestas de mejora, argumentando los cambios a partir de la reflexión sobre el funcionamiento de la lengua y el discurso, y reconociendo y subsanando los problemas identificados.
+**2.2** Revisar las producciones propias y hacer propuestas de mejora, argumentando los cambios a partir de la reflexión sobre el funcionamiento de la lengua y el discurso, y reconociendo y subsanando los problemas identificados.
 
-2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción y revisión de textos compuestos con una estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
+**2.3** Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción y revisión de textos compuestos con una estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
 **Competencia específica 3**
 
-3.1 Participar de manera activa y adecuada a la situación de comunicación en interacciones formales e informales y en el trabajo en equipo, construyendo un discurso razonado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
+**3.1** Participar de manera activa y adecuada a la situación de comunicación en interacciones formales e informales y en el trabajo en equipo, construyendo un discurso razonado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
-3.2 Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
+**3.2** Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
 **Competencia específica 4**
 
-4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
+**4.1** Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
-4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
+**4.2** Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
 
 **Competencia específica 5**
 
-5.1 Comparar y argumentar las semejanzas y diferencias entre las distintas lenguas de los repertorios lingüísticos propios, reflexionando sobre su funcionamiento, estableciendo relaciones entre ellas y apreciando la diversidad con la que se relacionan.
+**5.1** Comparar y argumentar las semejanzas y diferencias entre las distintas lenguas de los repertorios lingüísticos propios, reflexionando sobre su funcionamiento, estableciendo relaciones entre ellas y apreciando la diversidad con la que se relacionan.
 
-5.2 Utilizar con iniciativa y de forma creativa conocimientos y estrategias de mejora para comunicar y aprender la lengua francesa con apoyo de otros participantes y de soportes analógicos y digitales.
+**5.2** Utilizar con iniciativa y de forma creativa conocimientos y estrategias de mejora para comunicar y aprender la lengua francesa con apoyo de otros participantes y de soportes analógicos y digitales.
 
 **Competencia específica 6**
 
-6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, especialmente con las francófonas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y buscando soluciones a aquellos factores socioculturales que dificulten la comunicación.
+**6.1** Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, especialmente con las francófonas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y buscando soluciones a aquellos factores socioculturales que dificulten la comunicación.
 
-6.2 Valorar críticamente la diversidad lingüística, cultural y artística propia de los países donde se habla francés teniendo en cuenta los derechos humanos y adecuarse a esa diversidad, favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
+**6.2** Valorar críticamente la diversidad lingüística, cultural y artística propia de los países donde se habla francés teniendo en cuenta los derechos humanos y adecuarse a esa diversidad, favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
 
-6.3 Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
+**6.3** Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
 
 **Competencia específica 7**
 
-7.1 Leer de manera autónoma o acompañada obras relevantes de la literatura de expresión francesa, preferentemente contemporánea, adecuadas a un nivel B2, y dejar constancia del progreso del itinerario lector explicando de forma argumentada la experiencia de lectura y proponiendo una interpretación personal vinculada con otras manifestaciones artísticas y culturales.
+**7.1** Leer de manera autónoma o acompañada obras relevantes de la literatura de expresión francesa, preferentemente contemporánea, adecuadas a un nivel B2, y dejar constancia del progreso del itinerario lector explicando de forma argumentada la experiencia de lectura y proponiendo una interpretación personal vinculada con otras manifestaciones artísticas y culturales.
 
-7.2 Explicar y argumentar la interpretación de fragmentos y obras literarias expresadas en lengua francesa, analizando los aspectos formales y los efectos de estilo más relevantes.
+**7.2** Explicar y argumentar la interpretación de fragmentos y obras literarias expresadas en lengua francesa, analizando los aspectos formales y los efectos de estilo más relevantes.
 
-7.3 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo relaciones a partir del tema de estudio basadas en las obras objeto de lectura.
+**7.3** Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo relaciones a partir del tema de estudio basadas en las obras objeto de lectura.
 
 Saberes básicos
 
@@ -793,57 +793,57 @@ Criterios de evaluación
 
 **Competencia específica 1**
 
-1.1 Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la Monarquía absoluta y la construcción del Estado liberal en España y Francia a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen la aplicación efectiva de los mismos.
+**1.1** Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la Monarquía absoluta y la construcción del Estado liberal en España y Francia a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen la aplicación efectiva de los mismos.
 
-1.2 Identificar y valorar el papel de la Transición en España en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
+**1.2** Identificar y valorar el papel de la Transición en España en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
 
-1.3 Identificar y valorar el establecimiento del régimen republicano democrático en Francia y su evolución reciente como garantía de los derechos y libertades del pueblo francés a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional y a las formas de poder a través de procesos de búsqueda y tratamiento de la información.
+**1.3** Identificar y valorar el establecimiento del régimen republicano democrático en Francia y su evolución reciente como garantía de los derechos y libertades del pueblo francés a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional y a las formas de poder a través de procesos de búsqueda y tratamiento de la información.
 
 **Competencia específica 2**
 
-2.1 Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo su pluralidad identitaria y respetando los distintos sentimientos de pertenencia.
+**2.1** Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo su pluralidad identitaria y respetando los distintos sentimientos de pertenencia.
 
-2.2 Identificar y analizar críticamente las distintas formas de entender la nación, el concepto de ciudadanía y la articulación territorial del Estado que han tenido lugar en la Francia contemporánea, señalando sus diferencias y evolución, así como la influencia que han tenido sobre España, a través del análisis de documentos, principalmente de fuentes primarias.
+**2.2** Identificar y analizar críticamente las distintas formas de entender la nación, el concepto de ciudadanía y la articulación territorial del Estado que han tenido lugar en la Francia contemporánea, señalando sus diferencias y evolución, así como la influencia que han tenido sobre España, a través del análisis de documentos, principalmente de fuentes primarias.
 
-2.3 Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del Estado y en la construcción de la nación en España y Francia, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
+**2.3** Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del Estado y en la construcción de la nación en España y Francia, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
 
 **Competencia específica 3**
 
-3.1 Analizar tanto la evolución económica de España y Francia, sus ritmos y ciclos de crecimiento, como la relación económica hispanofrancesa contemporánea, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando sus particulares procesos de modernización en el contexto de los países del entorno y los debates historiográficos sobre el desarrollo industrial en ambos países, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
+**3.1** Analizar tanto la evolución económica de España y Francia, sus ritmos y ciclos de crecimiento, como la relación económica hispanofrancesa contemporánea, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando sus particulares procesos de modernización en el contexto de los países del entorno y los debates historiográficos sobre el desarrollo industrial en ambos países, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
 
-3.2 Entender los distintos significados de la idea del progreso en sus contextos históricos, aplicando el estudio multicausal de los modelos de desarrollo económico referidos a la España y a la Francia contemporáneas y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
+**3.2** Entender los distintos significados de la idea del progreso en sus contextos históricos, aplicando el estudio multicausal de los modelos de desarrollo económico referidos a la España y a la Francia contemporáneas y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
 
 **Competencia específica 4**
 
-4.1 Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España y en Francia, principalmente en la época contemporánea, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
+**4.1** Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España y en Francia, principalmente en la época contemporánea, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
-4.2 Analizar de manera multidisciplinar la diversidad y la desigualdad social existente en la historia contemporánea de España y de Francia, la evolución de la población y los cambios en las condiciones y modos de vida, interpretando las causas y motivos de la conflictividad social y su articulación en distintos movimientos sociales, considerando la acción motivada de los sujetos y las medidas de distinto tipo adoptadas por el estado.
+**4.2** Analizar de manera multidisciplinar la diversidad y la desigualdad social existente en la historia contemporánea de España y de Francia, la evolución de la población y los cambios en las condiciones y modos de vida, interpretando las causas y motivos de la conflictividad social y su articulación en distintos movimientos sociales, considerando la acción motivada de los sujetos y las medidas de distinto tipo adoptadas por el estado.
 
-4.3 Deducir la evolución del estado social a través del estudio crítico de noticias y datos estadísticos, identificando los logros y retrocesos experimentados y las medidas adoptadas por el Estado español y el Estado francés hasta el presente, la evolución de los niveles de vida y de bienestar en ambos países, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
+**4.3** Deducir la evolución del estado social a través del estudio crítico de noticias y datos estadísticos, identificando los logros y retrocesos experimentados y las medidas adoptadas por el Estado español y el Estado francés hasta el presente, la evolución de los niveles de vida y de bienestar en ambos países, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
 **Competencia específica 5**
 
-5.1 Explicar el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España y de Francia, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales, así como el anticlericalismo y los procesos de laicización.
+**5.1** Explicar el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España y de Francia, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales, así como el anticlericalismo y los procesos de laicización.
 
-5.2 Construir opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España y la Francia contemporáneas, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
+**5.2** Construir opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España y la Francia contemporáneas, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
 
-5.3 Analizar a través del método histórico las grandes reformas estructurales acometidas en ambos países en la construcción de la democracia, identificando los logros y las reacciones antidemocráticas que derivaron en el golpe de Estado de 1936 en España y el colaboracionismo de la Francia de Vichy, aproximándose a la historiografía sobre los sistemas totalitarios y autoritarios y los movimientos sociales de lucha por la libertad.
+**5.3** Analizar a través del método histórico las grandes reformas estructurales acometidas en ambos países en la construcción de la democracia, identificando los logros y las reacciones antidemocráticas que derivaron en el golpe de Estado de 1936 en España y el colaboracionismo de la Francia de Vichy, aproximándose a la historiografía sobre los sistemas totalitarios y autoritarios y los movimientos sociales de lucha por la libertad.
 
 **Competencia específica 6**
 
-6.1 Señalar los retos globales y los principales compromisos de los Estados español y francés en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
+**6.1** Señalar los retos globales y los principales compromisos de los Estados español y francés en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
 
-6.2 Reconocer el valor geoestratégico de España y de Francia, identificando el rico legado histórico y cultural de ambos países, su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución histórica con respecto al resto de Europa, la construcción de estereotipos y la influencia de las relaciones internacionales.
+**6.2** Reconocer el valor geoestratégico de España y de Francia, identificando el rico legado histórico y cultural de ambos países, su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución histórica con respecto al resto de Europa, la construcción de estereotipos y la influencia de las relaciones internacionales.
 
 **Competencia específica 7**
 
-7.1 Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual de España y de Francia, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
+**7.1** Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual de España y de Francia, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
 
-7.2 Constatar el papel relegado de la mujer en la historia de España y de Francia analizando fuentes literarias y artísticas, incluidas las fuentes orales, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras silenciadas y omitidas, individuales y colectivas, como protagonistas de la historia.
+**7.2** Constatar el papel relegado de la mujer en la historia de España y de Francia analizando fuentes literarias y artísticas, incluidas las fuentes orales, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras silenciadas y omitidas, individuales y colectivas, como protagonistas de la historia.
 
 **Competencia específica 8**
 
-8.1 Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva de España y de Francia sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural, tanto del entorno local como de otros ámbitos del territorio francés, considerando el patrimonio histórico como un bien común que se debe proteger.
+**8.1** Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva de España y de Francia sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural, tanto del entorno local como de otros ámbitos del territorio francés, considerando el patrimonio histórico como un bien común que se debe proteger.
 
 Saberes básicos
 

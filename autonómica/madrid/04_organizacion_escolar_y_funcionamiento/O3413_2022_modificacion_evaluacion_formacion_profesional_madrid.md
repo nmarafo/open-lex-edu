@@ -43,18 +43,18 @@ Primero Objeto Se adjudica el puesto de trabajo convocado a la funcionaria que f
 Segundo Toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días, salvo lo previsto en los apartados siguientes. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicaMIÉRCOLES 23 DE NOVIEMBRE DE 2022 Pág. 89 ción de la presente Resolución, salvo que la Administración de origen difiera el cese conforme a la normativa aplicable. El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la funcionaria adjudicataria se encuentra en servicio activo en otra Administración Pública, dispondrá de un plazo de toma de posesión de veinte días siempre y cuando resida en otra Comunidad Autónoma. 3. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable. En el caso de que la resolución suponga el reingreso al servicio activo en un Cuerpo de otra Administración Pública, el plazo de toma de posesión será de un mes a contar desde el día siguiente a la publicación de la presente resolución. 4. Los funcionarios procedentes de otras Administraciones Públicas deberán tomar posesión en la Dirección General de Recursos Humanos, de conformidad con lo establecido en el artículo 8.2.o) del Decreto 193/2015, de 4 de agosto, del Consejo de Gobierno.
 Tercero Recursos La presente Resolución no pone fin a la vía administrativa y contra la misma podrá interponerse, en el plazo de un mes contado a partir del día siguiente a su publicación en el dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de cualquier otro recurso que se estime procedente en derecho. Dado en Madrid, a 8 de noviembre de 2022.—La Directora General de Recursos Humanos, María Belén Anaut Escudero.
 
-Pág. 90 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN (ARTÍCULO 55) CONSEJERIA MEDIO AMBIENTE, VIVENDA Y AGRICULTURA VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL TERRITORIO DIRECCION GENERAL URBANISMO AREA ACTUACIÓN ADMIINISTRATIVA Puesto de Trabajo:
-TECNICO DE APOYO Denominación     :
-28 A Grupo                :
-N.C.D.              :
-22.596,00 C. Específico     :
+Pág. 90 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN (ARTÍCULO 55) CONSEJERIA MEDIO AMBIENTE, VIVENDA Y AGRICULTURA VICECONSEJERIA VIVIENDA Y ORDENACIÓN DEL TERRITORIO DIRECCION GENERAL URBANISMO AREA ACTUACIÓN ADMIINISTRATIVA Puesto de Trabajo:
+TECNICO DE APOYO Denominación :
+28 A Grupo :
+N.C.D. :
+22.596,00 C. Específico :
 0*5**0*2* BURGOS CHUMILLAS,BEGOÑA Cód. identificación:
 Apellidos y Nombre:
 Puesto de Trabajo :
-TECNICO DE APOYO Denominación      :
-29 Grupo                  :
-N.C.D.                :
-25.509,48 C. Específico       :
+TECNICO DE APOYO Denominación :
+29 Grupo :
+N.C.D. :
+25.509,48 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO A CONSEJERIA FAMILIA, JUVENTUD Y POLÍTICA SOCIAL SECRETARIA GENERAL TECNICA SUBDIRECCION GENERAL REGIMEN JURIDICO Y DESARROLLO NORMATIVO AREA NORMATIVA Y RELACIONES INSTITUCIONALES Cuerpo y/o escala de participación:
 CUERPO DE TÉCNICOS DE ADMINISTRACIÓN GENERAL DEL AYUNTAMIENTO DE ARROYOMOLINOS, ESPECIALIDAD TÉCNICO DE CONSUMO E INDUSTRIA Situación Administrativa:
 SERVICIO ACTIVO (03/21.729/22)

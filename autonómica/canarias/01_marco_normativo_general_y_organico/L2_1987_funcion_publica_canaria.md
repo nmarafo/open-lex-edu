@@ -1239,31 +1239,31 @@ Grupo A: Doctor, Ingeniero, Licenciado o equivalente:
 
 1. Cuerpo Superior de Administradores.
 
-1.1 Escala de Administradores Generales.
+**1.1** Escala de Administradores Generales.
 
-1.2 Escala de Administradores Financieros y Tributarios.
+**1.2** Escala de Administradores Financieros y Tributarios.
 
 2. Cuerpo Superior Facultativo.
 
-2.1 Escala de Ingenieros y Arquitectos de la Comunidad Autónoma.
+**2.1** Escala de Ingenieros y Arquitectos de la Comunidad Autónoma.
 
-2.2 Escala de Letrados de la Comunidad Autónoma.
+**2.2** Escala de Letrados de la Comunidad Autónoma.
 
-2.3 Escala de Titulados Sanitarios de la Comunidad Autónoma de Canarias.
+**2.3** Escala de Titulados Sanitarios de la Comunidad Autónoma de Canarias.
 
 Grupo B: Ingeniero Técnico, Arquitecto Técnico, Diplomado Universitario, Formación Profesional de Tercer Grado o equivalente.
 
 3. Cuerpo de Gestión de la Administración.
 
-3.1 Escala de Gestión General.
+**3.1** Escala de Gestión General.
 
-3.2 Escala de Gestión Financiera y Tributaria.
+**3.2** Escala de Gestión Financiera y Tributaria.
 
 4. Cuerpo Facultativo de Técnicos de Grado Medio.
 
-4.1 Escala de Arquitectos e Ingenieros Técnicos.
+**4.1** Escala de Arquitectos e Ingenieros Técnicos.
 
-4.2 Escala de Titulados Sanitarios de Grado Medio.
+**4.2** Escala de Titulados Sanitarios de Grado Medio.
 
 Grupo C: Bachiller Superior, Formación Profesional de Segundo Grado o equivalente.
 

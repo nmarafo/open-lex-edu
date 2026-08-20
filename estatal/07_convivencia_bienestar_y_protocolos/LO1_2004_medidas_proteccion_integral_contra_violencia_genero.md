@@ -1143,7 +1143,7 @@ Dos. Se modifica la letra e) del apartado 1.1, así como el apartado 1.2 del art
 
 «1.1.e) Por resolución voluntaria por parte del trabajador, en los supuestos previstos en los artículos 40, 41.3, 49.1.m) y 50 del Estatuto de los Trabajadores.
 
-1.2 Cuando se suspenda su relación laboral en virtud de expediente de regulación de empleo, o de resolución judicial adoptada en el seno de un procedimiento concursal, o en el supuesto contemplado en la letra n), del apartado 1 del artículo 45 l.
+**1.2** Cuando se suspenda su relación laboral en virtud de expediente de regulación de empleo, o de resolución judicial adoptada en el seno de un procedimiento concursal, o en el supuesto contemplado en la letra n), del apartado 1 del artículo 45 l.
 
 Estatuto de los Trabajadores.»
 

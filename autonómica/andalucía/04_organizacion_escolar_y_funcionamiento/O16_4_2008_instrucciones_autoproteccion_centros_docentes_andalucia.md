@@ -79,7 +79,7 @@ b) Titulaciones equivalentes, a efectos académicos y profesionales, a Técnico 
 - Calor, Frío y Aire Acondicionado (rama Electricidad y Electrónica).
 - Fontanería (rama Construcción y Obras).
 - Frío Industrial (rama Electricidad y Electrónica)
-- Instalaciones Frigoríficas y de Climatización (rama  Electricidad y Electrónica).
+- Instalaciones Frigoríficas y de Climatización (rama Electricidad y Electrónica).
 - Instalaciones de Energía Solar (rama Electricidad y Electrónica).
 • Módulos Profesionales de Nivel 3:
 - Instalaciones Térmicas Auxiliares de Proceso (rama Electricidad y Electrónica).
@@ -144,7 +144,11 @@ c.1. Será condición imprescindible para obtener la autorización la garantía 
 Sevilla, 6 de mayo 2008 Página núm. 13
 
 4. La Resolución de Autorización como entidad de formación en el RITE-07, tendrá validez en todo el ámbito territorial de la Comunidad Autónoma de Andalucía.
-Séptimo. Solicitud para la acreditación como entidad de formación autorizada en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07). 7.1. Solicitud de autorización. Las entidades solicitantes deberán dirigir la solicitud de autorización a la Delegación Provincial de la Consejería de la Junta de Andalucía, competente en materia de energía, correspondiente a su domicilio social. 7.2. Requisitos necesarios para la acreditación de las entidades de formación autorizadas en el RITE-07. La documentación a aportar por la entidad solicitante será:
+Séptimo. Solicitud para la acreditación como entidad de formación autorizada en el Reglamento de Instalaciones Térmicas en los Edificios (RITE-07).
+
+**7.1.** Solicitud de autorización. Las entidades solicitantes deberán dirigir la solicitud de autorización a la Delegación Provincial de la Consejería de la Junta de Andalucía, competente en materia de energía, correspondiente a su domicilio social.
+
+**7.2.** Requisitos necesarios para la acreditación de las entidades de formación autorizadas en el RITE-07. La documentación a aportar por la entidad solicitante será:
 
 1. Solicitud de Autorización como Entidad de Formación de Instaladores en el ámbito del Reglamento de Instalaciones Térmicas en los Edificios (RITE-07), indicando los tipos de cursos del Apéndice 3 del RITE-07 que pretende impartir, y el ámbito territorial en el que pretende ejercer su actividad (toda la Comunidad Autónoma de Andalucía, o determinadas provincias), fechada y firmada (el firmante de la solicitud debe ser representante legal de la entidad), indicando:
 - Nombre o Razón social.
@@ -169,9 +173,22 @@ Séptimo. Solicitud para la acreditación como entidad de formación autorizada 
 8. Certificado de encontrarse al corriente de la Agencia Tributaria y la Consejería de Economía y Hacienda.
 
 9. Memoria en la que consten los extremos siguientes:
-9.1. Ámbito geográfico de la actividad solicitada. 9.2. Tipos de cursos a desarrollar. 9.3. Nombre, titulación y currículos profesional del profesor coordinador, así como del cuadro de Profesores de los cursos, con justificación de poseer los conocimientos teóricos y prácticos suficientes en las materias objeto de autorización. Los currículos deberán venir firmados por los profesores correspondientes. Las titulaciones y la vinculación de los profesores con la entidad solicitante, deberán ser justificadas documentalmente. 9.4. Medios materiales disponibles, tales como locales para clases teóricas, locales para clases prácticas y material didáctico utilizado por los profesores y alumnos.
+
+**9.1.** Ámbito geográfico de la actividad solicitada.
+
+**9.2.** Tipos de cursos a desarrollar.
+
+**9.3.** Nombre, titulación y currículos profesional del profesor coordinador, así como del cuadro de Profesores de los cursos, con justificación de poseer los conocimientos teóricos y prácticos suficientes en las materias objeto de autorización. Los currículos deberán venir firmados por los profesores correspondientes. Las titulaciones y la vinculación de los profesores con la entidad solicitante, deberán ser justificadas documentalmente.
+
+**9.4.** Medios materiales disponibles, tales como locales para clases teóricas, locales para clases prácticas y material didáctico utilizado por los profesores y alumnos.
 - Deberán detallar las prácticas que se van a realizar por cada tipo de curso, con indicación del profesor responsable, material a emplear, duración y sistema de evaluación previstos.
-- Justificar mediante título de propiedad, contrato de alquiler o cualquier otro título válido en Derecho, la disponibilidad física y temporal, de los locales previstos para impartir los cursos teóricos y prácticos solicitados. 9.5. Metodología de la enseñanza con indicación de la organización de la misma y sistemas de evaluación previstos. 9.6. Experiencia anterior en la impartición de cursos para formación profesional o similares, con especial referencia de los relacionados con las Instalaciones Térmicas en los Edificios. 9.7. Tabla de tarifas a aplicar para impartir los diferentes cursos.
+- Justificar mediante título de propiedad, contrato de alquiler o cualquier otro título válido en Derecho, la disponibilidad física y temporal, de los locales previstos para impartir los cursos teóricos y prácticos solicitados.
+
+**9.5.** Metodología de la enseñanza con indicación de la organización de la misma y sistemas de evaluación previstos.
+
+**9.6.** Experiencia anterior en la impartición de cursos para formación profesional o similares, con especial referencia de los relacionados con las Instalaciones Térmicas en los Edificios.
+
+**9.7.** Tabla de tarifas a aplicar para impartir los diferentes cursos.
 
 10. Póliza de responsabilidad civil, que cubran los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros, por una cuantía mínima de 300.506,05 euros, cantidad que deberá ser anualmente actualizada según el índice de precios al consumo. Todos los documentos requeridos deberán ser originales o copias compulsadas y por duplicado ejemplar.
 Octavo. Registro de Empresas instaladoras y mantenedoras autorizadas de Instalaciones Térmicas de Edificios. Los artículos 35 y 36 del RITE-07 definen los conceptos de empresas instaladoras y mantenedoras autorizadas, y el artículo 37 regula.

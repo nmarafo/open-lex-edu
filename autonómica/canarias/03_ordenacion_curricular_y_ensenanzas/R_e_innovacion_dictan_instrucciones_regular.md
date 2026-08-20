@@ -157,7 +157,7 @@ El profesorado supervisor asumirá la tutoría y el acompañamiento del proceso 
 
 1. Con el fin de garantizar la viabilidad organizativa del Programa del Diploma, los centros educativos participantes asegurarán, como mínimo, las siguientes medidas de coordinación docente:
 
-Cargo / Función Descuento lectivo Persona coordinadora del PD 10 sesiones lectivas Profesorado participante en el PD 2 sesiones lectivas Profesorado participante con funciones de coordinación específica del PD (CAS / TdC / Monografía / coordinación docente) 2 sesiones lectivas por función Profesorado supervisor de Monografía del PD 1  sesión  lectiva  por  cada  3 monografías supervisadas
+Cargo / Función Descuento lectivo Persona coordinadora del PD 10 sesiones lectivas Profesorado participante en el PD 2 sesiones lectivas Profesorado participante con funciones de coordinación específica del PD (CAS / TdC / Monografía / coordinación docente) 2 sesiones lectivas por función Profesorado supervisor de Monografía del PD 1 sesión lectiva por cada 3 monografías supervisadas
 
 2. Las coordinaciones y funciones previstas en esta instrucción se desarrollarán sin perjuicio de otras medidas organizativas que, en su caso, determine la DGOEII para asegurar la correcta implantación del Programa del Diploma en los centros participantes.
 
@@ -278,11 +278,11 @@ c) Garantizar, en todo caso, la continuidad del alumnado en la escolarización d
 
 CALENDARIO DEL PROCEDIMIENTO DE PARTICIPACIÓN EN EL PROGRAMA DEL DIPLOMA DEL BACHILLERATO INTERNACIONAL. CURSO 2026-2027
 
-1. Solicitud Periodo Actuación Hasta el 19 de abril Difusión en los centros educativos del procedimiento de participación. Del 20 de abril al 11 de mayo Presentación de solicitudes de participación del alumnado por vía telemática. 12 de mayo Último día para la tramitación y remisión telemática de solicitudes desde los centros educativos  al  Servicio  de  Ordenación  de  las  Enseñanzas  y  cumplimentación  en  la aplicación de solicitud de los datos y circunstancias o condiciones alegadas por las personas solicitantes.
+1. Solicitud Periodo Actuación Hasta el 19 de abril Difusión en los centros educativos del procedimiento de participación. Del 20 de abril al 11 de mayo Presentación de solicitudes de participación del alumnado por vía telemática. 12 de mayo Último día para la tramitación y remisión telemática de solicitudes desde los centros educativos al Servicio de Ordenación de las Enseñanzas y cumplimentación en la aplicación de solicitud de los datos y circunstancias o condiciones alegadas por las personas solicitantes.
 
 2. Listados y reclamaciones Periodo Actuación 15 de mayo Publicación de listados provisionales (admitidos/as, reserva y excluidos/as) 18 y 19 de mayo Reclamaciones o subsanación a listados provisionales 22 de mayo Publicación de listados definitivos (admitidos/as, reserva y excluidos/as)
 
-3. Matrícula, renuncias y lista de reserva Periodo Actuación Del 19 de junio al 8 de julio El  alumnado  que  obtenga  plaza   para  cursar  el  Programa  del  Diploma  habrá  de formalizar su matrícula en el centro educativo donde ha resultado admitido. Llamamientos de lista de reserva y adjudicación de vacantes; matrícula de vacantes
+3. Matrícula, renuncias y lista de reserva Periodo Actuación Del 19 de junio al 8 de julio El alumnado que obtenga plaza para cursar el Programa del Diploma habrá de formalizar su matrícula en el centro educativo donde ha resultado admitido. Llamamientos de lista de reserva y adjudicación de vacantes; matrícula de vacantes
 
 4. Cierre Periodo Actuación 15 de julio Cierre del procedimiento y, en su caso, publicación del estado final de vacantes
 

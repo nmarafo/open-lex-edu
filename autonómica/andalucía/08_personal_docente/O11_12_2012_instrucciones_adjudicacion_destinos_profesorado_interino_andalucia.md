@@ -44,8 +44,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -74,8 +72,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 248
@@ -90,7 +86,7 @@ Histórico del BOJA Boletín número 248 de 20/12/2012
 
 ### ORDEN de 11 de diciembre de 2012, por la que se aprueban las bases reguladoras y se convocan subvenciones en régimen de concurrencia no competitiva destinadas a los Consorcios Escuela de Formación Profesional para el empleo para el año 2012.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00018358.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00018358.
 
 Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
@@ -419,7 +415,9 @@ Dentro de los diez días siguientes a la recepción de la solicitud en el regist
 
 2. Analizada la solicitud, el órgano competente emitirá la correspondiente propuesta de Resolución.
 
-3. La persona interesada en el procedimiento de concesión de subvenciones, podrá conocer a través de un acceso restringido en la dirección electrónica indicada en el apartado 13 del cuadro resumen correspondiente, el estado de tramitación del mismo. El acceso y consulta se podrá realizar en tiempo real, previa identificación mediante alguno de los sistemas de firma electrónica indicados en el artículo 11.2. La información sobre el estado de la tramitación del procedimiento comprenderá la relación de los actos de trámite realizados, su contenido y fecha en la que fueron dictados. Todo ello, sin perjuicio de lo previsto en el artículo 35.a) de la Ley 30/1992, de 26 de noviembre.
+3. La persona interesada en el procedimiento de concesión de subvenciones, podrá conocer a través de un acceso restringido en la dirección electrónica indicada en el apartado 13 del cuadro resumen correspondiente, el estado de tramitación del mismo. El acceso y consulta se podrá realizar en tiempo real, previa identificación mediante alguno de los sistemas de firma electrónica indicados en el artículo
+
+**11.2.** La información sobre el estado de la tramitación del procedimiento comprenderá la relación de los actos de trámite realizados, su contenido y fecha en la que fueron dictados. Todo ello, sin perjuicio de lo previsto en el artículo 35.a) de la Ley 30/1992, de 26 de noviembre.
 
 #### Artículo 17. Audiencia, reformulación, aportación de documentación y aceptación.
 
@@ -965,7 +963,9 @@ No se exige la aportación de fondos propios.
 
 7.b) Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
 
-Sí. Excepto para actuaciones cofinanciadas por el FSE y el FEDER, ya que existe incompatibilidad absoluta en la financiación de una actividad por diferentes Programas Operativos o instrumentos financieros comunitarios (artículos 54.2 y 54.5 R(CE) 1083/2006) y, dentro de un Programa Operativo, por distintas líneas de actuación (operaciones) debido a una posible rendición duplicada de indicadores o a una posible vulneración de la tasa de cofinanciación.
+Sí. Excepto para actuaciones cofinanciadas por el FSE y el FEDER, ya que existe incompatibilidad absoluta en la financiación de una actividad por diferentes Programas Operativos o instrumentos financieros comunitarios (artículos 54.2 y
+
+**54.5** R(CE) 1083/2006) y, dentro de un Programa Operativo, por distintas líneas de actuación (operaciones) debido a una posible rendición duplicada de indicadores o a una posible vulneración de la tasa de cofinanciación.
 
 7.c) Incremento del importe de la subvención concedida con los rendimientos financieros que se generen por los fondos librados:
 
@@ -1457,7 +1457,9 @@ No se exige la aportación de fondos propios.
 
 7.b) Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
 
-Sí. Excepto para actuaciones cofinanciadas por el FSE y el FEDER, ya que existe incompatibilidad absoluta en la financiación de una actividad por diferentes Programas Operativos o instrumentos financieros comunitarios (artículos 54.2 y 54.5 R(CE) 1083/2006) y, dentro de un Programa Operativo, por distintas líneas de actuación (operaciones) debido a una posible rendición duplicada de indicadores o a una posible vulneración de la tasa de cofinanciación.
+Sí. Excepto para actuaciones cofinanciadas por el FSE y el FEDER, ya que existe incompatibilidad absoluta en la financiación de una actividad por diferentes Programas Operativos o instrumentos financieros comunitarios (artículos 54.2 y
+
+**54.5** R(CE) 1083/2006) y, dentro de un Programa Operativo, por distintas líneas de actuación (operaciones) debido a una posible rendición duplicada de indicadores o a una posible vulneración de la tasa de cofinanciación.
 
 7.c) Incremento del importe de la subvención concedida con los rendimientos financieros que se generen por los fondos librados:
 
@@ -1781,17 +1783,17 @@ Disposición siguiente
 
 248 de 20/12/2012
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.1. Licitaciones públicas y adjudicaciones
+**5.1.** Licitaciones públicas y adjudicaciones
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="BOJA12-248-00266.pdf"> Descargar boletín nº 248 completo
 
@@ -1810,4 +1812,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

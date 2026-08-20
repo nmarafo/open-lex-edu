@@ -40,9 +40,9 @@ RESUELVO:
 Primero Objeto Declarar desierto el puesto de trabajo que se expresa en el Anexo.
 Segundo Recursos La presente Orden pone fin a la vía administrativa, y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien, recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho; todo ello, de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 28 de junio de 2021.—El Consejero de Presidencia, Justicia e Interior, PD (Orden 6/2020, de 17 de enero; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 29 de enero), el Secretario General Técnico, Pablo García-Valdecasas Rodríguez de Rivera.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR ABOGACÍA GENERAL DE LA COMUNIDAD DE MADRID SUBDIRECCION GENERAL DE LO CONTENCIOSO Puesto de Trabajo:
-SUBSEC. TRAMITACION ADMINISTRATIVA I Denominación     :
-22 B / C Grupo                :
-N.C.D.               :
-10.370,64 C. Específico      :
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS CONSEJERIA PRESIDENCIA, JUSTICIA E INTERIOR ABOGACÍA GENERAL DE LA COMUNIDAD DE MADRID SUBDIRECCION GENERAL DE LO CONTENCIOSO Puesto de Trabajo:
+SUBSEC. TRAMITACION ADMINISTRATIVA I Denominación :
+22 B / C Grupo :
+N.C.D. :
+10.370,64 C. Específico :
 DESIERTO PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO (03/22.377/21)

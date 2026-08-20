@@ -203,9 +203,17 @@ artículo 16 De las calificaciones.
 1. Superada la PAM-25, los aspirantes tendrán acceso preferente a aquellas titulaciones ofertadas por la Universidad vinculadas a cada una de las ramas recogidas en la convocatoria anual de la prueba, siempre dentro de los cupos de plazas establecidos para esta vía de acceso.
 
 2. La configuración del distrito único canario, respecto a las prioridades para el ingreso en titulaciones con límite de plazas implica el siguiente régimen:
-Prioridad 1. Solicitantes de plaza procedentes de las dos universidades canarias. 1.1. Aspirantes cuya opción de la prueba está vinculada a la titulación universitaria que solicitan, ordenados por calificación. 1.2. Resto de solicitantes, ordenados por calificación.
+Prioridad 1. Solicitantes de plaza procedentes de las dos universidades canarias.
 
-Prioridad 2. Solicitantes de plaza procedentes del resto de universidades. 2.1. Aspirantes cuya opción de la prueba está vinculada a la titulación universitaria que solicitan, ordenados por calificación. 2.2. Resto de solicitantes, ordenados por calificación.
+**1.1.** Aspirantes cuya opción de la prueba está vinculada a la titulación universitaria que solicitan, ordenados por calificación.
+
+**1.2.** Resto de solicitantes, ordenados por calificación.
+
+Prioridad 2. Solicitantes de plaza procedentes del resto de universidades.
+
+**2.1.** Aspirantes cuya opción de la prueba está vinculada a la titulación universitaria que solicitan, ordenados por calificación.
+
+**2.2.** Resto de solicitantes, ordenados por calificación.
 
 artículo 18 De la mejora de nota y cambio de opción.
 

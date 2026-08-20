@@ -42,8 +42,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -69,8 +67,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -134,13 +130,15 @@ Disposición siguiente
 
 151 de 05/08/2006
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2006/151/boletin.151.pdf">Descargar boletín nº 151 completo
 
-PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+PUBLIC "-//W3C//DTD HTML
+
+**4.01** Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 Descargar fascículo 1
 
@@ -161,4 +159,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

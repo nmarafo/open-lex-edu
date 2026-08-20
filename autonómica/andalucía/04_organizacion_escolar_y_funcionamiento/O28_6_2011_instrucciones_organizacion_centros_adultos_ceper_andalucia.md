@@ -52,41 +52,41 @@ Trabajos preliminares de indagación y localización de fosas. Actuaciones de pr
 ⊠ Es posible optar a las siguientes subvenciones:
 1) Investigación y difusión; 2) Localizaciones, exhumaciones e identificaciones de personas desaparecidas en la Guerra Civil y la Dictadura Franquista. 2.d). Ámbitos territoriales y/o funcionales de competitividad:
 
-3. Régimen Jurídico específico aplicable (artículo 2). ⊠ No se establece ningún régimen jurídico específico. □  Con carácter específico, las presentes subvenciones se regirán por las normas que seguidamente se relacionan:
+3. Régimen Jurídico específico aplicable (artículo 2). ⊠ No se establece ningún régimen jurídico específico. □ Con carácter específico, las presentes subvenciones se regirán por las normas que seguidamente se relacionan:
 
 4. Personas o entidades que pueden solicitar las subvenciones, requisitos que deben reunir, período de mantenimiento y excepciones (artículo 3). 4.a).1.º Podrán solicitar las subvenciones objeto de las presentes bases reguladoras las siguientes personas o entidades:
 - Los Ayuntamientos de municipios andaluces.
 - Las entidades sin ánimo de lucro. 4.a).2.º Requisitos que deben reunir quienes soliciten la subvención:
 Los Ayuntamiento deben ser andaluces. Las entidades sin ánimo de lucro, constituidas antes del 1 de junio de 2004, deberán incluir entre sus fines el desarrollo de las actividades de indagación, localización, exhumación e identificación de las víctimas de la Guerra Civil española y la Dictadura. 4.b). Período durante el que deben mantenerse:
 Los requisitos señalados en el apartado anterior, deberán mantenerse desde la fecha de concesión de la subvención hasta dos años posteriores a la finalización de la ejecución. 4.c). Excepciones a las prohibiciones para obtener la condición de persona beneficiaria:
-□ No se establecen. ⊠  Se establecen las siguientes excepciones al artículo 3.3. de las Bases Reguladoras. Respecto de los Ayuntamientos andaluces beneficiarios de la presente línea de subvención se excepciona la letra e) del artículo 3.3 de las Bases Reguladoras:
+□ No se establecen. ⊠ Se establecen las siguientes excepciones al artículo 3.3. de las Bases Reguladoras. Respecto de los Ayuntamientos andaluces beneficiarios de la presente línea de subvención se excepciona la letra e) del artículo 3.3 de las Bases Reguladoras:
 "No hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social impuestas por las disposiciones vigentes."
 
 5. Cuantía de la subvención y gastos subvencionables (artículo 4). 5.a). Cuantía:
-□ Porcentaje máximo de la subvención: ........................... ⊠  Cuantía máxima de la subvención: 40.000,00 euros... □ Cuantía mínima de la subvención: ................................. □ Importe cierto: ................................................................ □ Otra forma de concretar la cuantía:
+□ Porcentaje máximo de la subvención: ........................... ⊠ Cuantía máxima de la subvención: 40.000,00 euros... □ Cuantía mínima de la subvención: ................................. □ Importe cierto: ................................................................ □ Otra forma de concretar la cuantía:
 5.b). Posibilidad de prorrateo:
 ⃞ Sí. ⊠ No. 5.c).1.º Gastos subvencionables:
 - Los relacionados con la indagación y localización de las fosas.
 - Los que comportan las exhumaciones de las víctimas de la Guerra Civil y la Posguerra.
 - Todos los relacionados con la identificación de las víctimas.
 - Los relacionados con el traslado, si procede, a los cementerios. 5.c).2.º Posibilidad de compensar conceptos:
-⊠ No. □  Sí. Se podrán compensar los siguientes conceptos: ..... .......................................................................................... 5.d). Fracción del coste total que se considera coste indirecto imputable a la actividad subvencionada:
-⊠ No se establece. □  Sí. La fracción del coste total que se considera coste indirecto es:
+⊠ No. □ Sí. Se podrán compensar los siguientes conceptos: ..... .......................................................................................... 5.d). Fracción del coste total que se considera coste indirecto imputable a la actividad subvencionada:
+⊠ No se establece. □ Sí. La fracción del coste total que se considera coste indirecto es:
 
-Página núm. 8 Sevilla, 13 de julio 2011 5.e). Plazo dentro del que deben haberse realizado los gastos subvencionables: Desde la fecha de concesión de la subvención hasta aquella en que finalice el plazo de ejecución que fije la resolución de concesión. 5.f). Consideración de gasto realizado, en subvenciones que no se encuentren financiadas con fondos de la Unión Europea. ⊠  Se considera gasto realizado el que ha sido efectivamente pagado con anterioridad a la finalización del período de justificación. □  Se considera gasto realizado el que ha sido efectivamente pagado .............................. 5.g). Período durante el que se debe destinar los bienes al fin concreto: dos años a partir de la concesión de la subvención. 5.h.) Reglas especiales en materia de amortización:
+Página núm. 8 Sevilla, 13 de julio 2011 5.e). Plazo dentro del que deben haberse realizado los gastos subvencionables: Desde la fecha de concesión de la subvención hasta aquella en que finalice el plazo de ejecución que fije la resolución de concesión. 5.f). Consideración de gasto realizado, en subvenciones que no se encuentren financiadas con fondos de la Unión Europea. ⊠ Se considera gasto realizado el que ha sido efectivamente pagado con anterioridad a la finalización del período de justificación. □ Se considera gasto realizado el que ha sido efectivamente pagado .............................. 5.g). Período durante el que se debe destinar los bienes al fin concreto: dos años a partir de la concesión de la subvención. 5.h.) Reglas especiales en materia de amortización:
 ⊠ No. □ Sí.
 
 6. Régimen de control (artículo 5). ⊠ Fiscalización previa. □ Control financiero.
 
-7. Financiación y régimen de compatibilidad de las subvenciones (artículo 6). 7.a). Aportación de fondos propios. ⊠ No se exige la aportación de fondos propios. □  La aportación de fondos propios por la persona beneficiaria para financiar la actividad subvencionada será, al menos, de ................................................................... 7.b). Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
+7. Financiación y régimen de compatibilidad de las subvenciones (artículo 6). 7.a). Aportación de fondos propios. ⊠ No se exige la aportación de fondos propios. □ La aportación de fondos propios por la persona beneficiaria para financiar la actividad subvencionada será, al menos, de ................................................................... 7.b). Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
 ⊠ Sí. □ No. 7.c). Incremento del importe de la subvención concedida con los rendimientos financieros que se generen por los fondos librados:
 □ Sí. ⊠ No. 7.d). Participación en la financiación de las subvenciones:
 
 8. Entidad/es colaboradora/s (artículo 7). 8.a). Participación de entidad/es colaboradora/s:
-⊠ No. □  Sí. Identificación: ......................(salvo que se especifique en cada convocatoria). 8.b). Requisitos que deben reunir la/s entidad/es colaboradora/s:
+⊠ No. □ Sí. Identificación: ......................(salvo que se especifique en cada convocatoria). 8.b). Requisitos que deben reunir la/s entidad/es colaboradora/s:
 8.c). Período durante el que deben mantenerse:
 Los requisitos señalados en el apartado anterior, deberán mantenerse desde ........................ hasta .................. 8.d). Excepciones a las prohibiciones para obtener la condición de entidad/es colaboradora/s:
-□ No se establecen. □  Se establecen las siguientes excepciones al artículo 7.4 de las Bases Reguladoras:
+□ No se establecen. □ Se establecen las siguientes excepciones al artículo 7.4 de las Bases Reguladoras:
 8.e). Condiciones de solvencia y eficacia:
 □ No se establecen. □ Se establecen las siguientes: ......................................... 8.f). Particularidades y contenido que, en su caso, se establecen para el convenio de colaboración o contrato:
 8.g). Funciones y obligaciones de la/s entidad/es colaboradora/s:
@@ -94,18 +94,18 @@ Los requisitos señalados en el apartado anterior, deberán mantenerse desde ...
 9. Posibilidad de subcontratación (artículo 8). ⊠ Sí. Porcentaje máximo: 100% □ No.
 
 10. Solicitudes (artículos 10, 11, 13 y 17). 10.a). Obtención del formulario:
-⊠  En el Portal de la Administración de la Junta de Andalucía. ⊠  En la siguiente dirección electrónica: http://www.juntadeandalucia.es/gobernacionyjusticia/ ⊠ En las sedes de los siguientes órganos:
+⊠ En el Portal de la Administración de la Junta de Andalucía. ⊠ En la siguiente dirección electrónica: http://www.juntadeandalucia.es/gobernacionyjusticia/ ⊠ En las sedes de los siguientes órganos:
 
--  Registro General de la Consejería de Gobernación y Justicia.
+- Registro General de la Consejería de Gobernación y Justicia.
 
--  Registro de las Delegaciones del Gobierno de la Junta de Andalucía. 10.b). Órgano al que se dirigirán las solicitudes: Persona titular del Comisariado para la Recuperación de la Memoria Histórica. 10.c). Lugares y registros donde se podrán presentar las solicitudes:
-□  Exclusivamente en el Registro Telemático Único de la Administración de la Junta de Andalucía, a través de la siguiente dirección electrónica: ...................................... ⊠ En cualquiera de los registros siguientes:
+- Registro de las Delegaciones del Gobierno de la Junta de Andalucía. 10.b). Órgano al que se dirigirán las solicitudes: Persona titular del Comisariado para la Recuperación de la Memoria Histórica. 10.c). Lugares y registros donde se podrán presentar las solicitudes:
+□ Exclusivamente en el Registro Telemático Único de la Administración de la Junta de Andalucía, a través de la siguiente dirección electrónica: ...................................... ⊠ En cualquiera de los registros siguientes:
 
--  En el Registro Telemático Único de la Administración de la Junta de Andalucía, a través de la siguiente dirección electrónica: https://ws040.juntadeandalucia.es/oficinaVirtual/jsp/solicitudes/tramitacionSolicitudes/documentacionRequerida.jsf.
+- En el Registro Telemático Único de la Administración de la Junta de Andalucía, a través de la siguiente dirección electrónica: https://ws040.juntadeandalucia.es/oficinaVirtual/jsp/solicitudes/tramitacionSolicitudes/documentacionRequerida.jsf.
 
--  En los lugares y registros previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en el artículo 82 2 de la Ley 9/2007, de 22 de octubre,. de la Administración de la Junta de Andalucía. 10.d). Dirección electrónica donde se podrá consultar la relación de prestadores de servicios de certificación cuyos certificados electrónicos reconoce la Junta de Andalucía: https:// ws024.juntadeandalucia.es/pluton/adminelec/convenio/prestadores/prestadores.jsp.
+- En los lugares y registros previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en el artículo 82 2 de la Ley 9/2007, de 22 de octubre,. de la Administración de la Junta de Andalucía. 10.d). Dirección electrónica donde se podrá consultar la relación de prestadores de servicios de certificación cuyos certificados electrónicos reconoce la Junta de Andalucía: https:// ws024.juntadeandalucia.es/pluton/adminelec/convenio/prestadores/prestadores.jsp.
 
-11. Plazo para la presentación de solicitudes (artículo 12). ⊠  El plazo de presentación de solicitudes se establecerá en la convocatoria. □  El plazo de presentación de solicitudes es:
+11. Plazo para la presentación de solicitudes (artículo 12). ⊠ El plazo de presentación de solicitudes se establecerá en la convocatoria. □ El plazo de presentación de solicitudes es:
 
 12. Criterios de valoración (artículo 14). 12.a). Criterios de valoración por orden decreciente de importancia, y su ponderación:
 a) **Calidad técnica del proyecto.** Adecuación en términos de eficacia y eficiencia, de los recursos humanos y materiales previstos y de la metodología propuesta para la consecución de los objetivos programados, hasta un 30% de la puntuación total.
@@ -124,17 +124,17 @@ Funciones:
 
 ⊠ Propuesta provisional de resolución.
 
-□  Análisis de las alegaciones y documentación presentada.
+□ Análisis de las alegaciones y documentación presentada.
 
 ⊠ Propuesta definitiva de Resolución.
 
 □ Otras funciones. □ Órgano competente para resolver: Persona titular del Comisariado para la Recuperación de la Memoria Histórica., que actuará/n:
 
-□  En uso de las competencias atribuidas por el artículo 115 l.
+□ En uso de las competencias atribuidas por el artículo 115 l.
 
 Texto Refundido de la Ley General de la Hacienda Pública de la Junta de Andalucía.
 
-⊠  Por delegación de la persona titular de la Consejería de Gobernación y Justicia (Disposición Adicional Tercera de la Orden de 9 de junio de 2011). □ Órgano colegiado:
+⊠ Por delegación de la persona titular de la Consejería de Gobernación y Justicia (Disposición Adicional Tercera de la Orden de 9 de junio de 2011). □ Órgano colegiado:
 
 □ No.
 
@@ -146,13 +146,13 @@ Funciones:
 
 □ Propuesta provisional de resolución.
 
-⊠  Análisis de las alegaciones y documentación presentada.
+⊠ Análisis de las alegaciones y documentación presentada.
 
 □ Propuesta definitiva de resolución.
 
 Composición:
 
--  Presidencia: Una persona funcionaria designada por la persona titular del Comisariado para la Recuperación de la Memoria Histórica, debiendo pertenecer al Grupo A, Subgrupo A1.
+- Presidencia: Una persona funcionaria designada por la persona titular del Comisariado para la Recuperación de la Memoria Histórica, debiendo pertenecer al Grupo A, Subgrupo A1.
 
 - Vocalías:
 
@@ -179,8 +179,8 @@ d) Memoria económica con la previsión de costes de la actuación a desarrollar
 e) Memoria descriptiva de la actividad con indicación de los objetivos, actuaciones o acciones a desarrollar y método de trabajo, así como el calendario, programa y fecha de realización de las actividades para la que se solicita subvención.
 f) Declaración por escrito de los descendientes directos de los fallecidos a favor de la exhumación o de sus representantes legales. En caso de no tener conocimiento de familiares, se deberá aportar copia de la publicación realizada en boletín oficial de la Junta de Andalucía, en el de la Provincia o en diarios de mayor difusión, en las que se anuncie la actividad a desarrollar, para conocimiento general de los interesados. Dicha publicación deberá estar realizada con anterioridad a la fecha de finalización de la convocatoria.
 g) Autorización de la ocupación temporal de los terrenos:
-1)  En el supuesto de terrenos de titularidad pública, por las Administraciones Públicas.
-2)  En el supuesto de terrenos de titularidad privada, el consentimiento de los titulares de derechos afectados.
+1) En el supuesto de terrenos de titularidad pública, por las Administraciones Públicas.
+2) En el supuesto de terrenos de titularidad privada, el consentimiento de los titulares de derechos afectados.
 h) Autorizaciones y permisos municipales que fueren necesarios, especialmente en materia urbanística y de cementerios y servicios funerarios.
 i) Compromiso de realizar todas las actuaciones de conformidad con la Orden de 7 de septiembre de 2009, por la que se aprueba el Protocolo Andaluz de actuación en exhumaciones de víctimas de la Guerra Civil y la Posguerra.
 j) Compromiso de hacer constar en toda información o publicidad que se efectúe de la actividad de exhumación que la misma está subvencionada por la Administración de la Junta de Andalucía, Consejería de Gobernación y Justicia.
@@ -218,7 +218,7 @@ c) **La realización parcial de la actividad.** 21.b) La persona beneficiaria de
 ⊠ No se establecen. □ Se establecen las siguientes:
 Formas de pago Supuestos objetivos Supuestos objetivos para determinar la forma de pago en cada caso concreto, cuando se establezca más de una forma de pago:
 □ 24.a).1.º Pago previa justificación:
-□  Pago del 100% del importe de la subvención, previa justificación, por la persona o entidad beneficiaria, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento. □  Pago fraccionado, mediante pagos a cuenta que responderá al ritmo de ejecución de las actividades subvencionadas, abonándose en la parte proporcional a la cuantía de la justificación presentada y aceptada. ⊠ 24.a).2.º Pago anticipado:
+□ Pago del 100% del importe de la subvención, previa justificación, por la persona o entidad beneficiaria, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento. □ Pago fraccionado, mediante pagos a cuenta que responderá al ritmo de ejecución de las actividades subvencionadas, abonándose en la parte proporcional a la cuantía de la justificación presentada y aceptada. ⊠ 24.a).2.º Pago anticipado:
 Razones justificadas para establecer esta forma de pago:
 financiación necesaria para poder llevar a cabo las actuaciones inherentes a la subvención.
 
@@ -228,13 +228,13 @@ Garantías:
 
 □ Sí.
 
-- Procedimiento de cancelación: ................................. □  Con anticipo de un importe superior al 75% y hasta el límite del 100% del importe de la subvención:
+- Procedimiento de cancelación: ................................. □ Con anticipo de un importe superior al 75% y hasta el límite del 100% del importe de la subvención:
 
-□  Subvención de importe igual o inferior a 6.050 euros.
+□ Subvención de importe igual o inferior a 6.050 euros.
 
-□ Subvención acogida al supuesto excepcional establecido en el artículo ........... de la Ley del Presupuesto de la Comunidad Autónoma para el año 2011. ⊠  Con anticipo máximo del 75% del importe de la subvención. 24.b). Secuencia del pago:
+□ Subvención acogida al supuesto excepcional establecido en el artículo ........... de la Ley del Presupuesto de la Comunidad Autónoma para el año 2011. ⊠ Con anticipo máximo del 75% del importe de la subvención. 24.b). Secuencia del pago:
 Nº PAGO IMPORTE O PORCENTAJE DE PAGO MOMENTO O FECHA DE PAGO PLAZO DE JUSTIFICACIÓN IMPORTE O PORCENTAJE JUSTIFICADO 75% Tras la firma de la resolución concesión Desde el momento pago y durante la ejecución de la actividad 75% 25% Una vez justificado el primer pago 3 meses siguientes finalización plazo de ejecución de la actividad 25% 24.c). Requisitos previos a la propuesta de pago de la subvención:
-⊠ No se establecen. □  Antes de proponerse el pago la persona o entidad beneficiaria deberá acreditar que se encuentra al corriente de sus obligaciones tributarias y frente a la Seguridad Social, así como que no es deudora de la Junta de Andalucía por cualquier otro ingreso de derecho público. ⃞  Otros requisitos previos a la propuesta de pago: .......... .......................................................................................... 24.d) Compromiso de pago en una fecha determinada:
+⊠ No se establecen. □ Antes de proponerse el pago la persona o entidad beneficiaria deberá acreditar que se encuentra al corriente de sus obligaciones tributarias y frente a la Seguridad Social, así como que no es deudora de la Junta de Andalucía por cualquier otro ingreso de derecho público. ⃞ Otros requisitos previos a la propuesta de pago: .......... .......................................................................................... 24.d) Compromiso de pago en una fecha determinada:
 
 25. Medidas de garantías a favor de los intereses públicos (artículo 26). ⊠ No se establecen. ⃞ Sí.
 
@@ -261,9 +261,9 @@ Procede su posterior estampillado:
 
 Contenido de la cuenta justificativa:
 
-⊠  El contenido de la cuenta justificativa con aportación de justificantes de gasto será el indicado en el artículo 27.2.a).1ª de estas Bases Reguladoras.
+⊠ El contenido de la cuenta justificativa con aportación de justificantes de gasto será el indicado en el artículo 27.2.a).1ª de estas Bases Reguladoras.
 
-□  El contenido de la cuenta justificativa con aportación de justificantes de gasto será el siguiente:
+□ El contenido de la cuenta justificativa con aportación de justificantes de gasto será el siguiente:
 ................................................................ ................................................................ ................................................................ ................................................................ ................................................................ ................................................................ Razones motivadas para determinar este contenido de la cuenta justificativa:
 ................................................................................................ En caso de existir costes generales y/o costes indirectos, compensación con un tanto alzado sin necesidad de justificación:
 
@@ -271,9 +271,9 @@ Contenido de la cuenta justificativa:
 
 □ Sí.
 
-□  26.f).2.º Cuenta justificativa con aportación de informe de auditor:
+□ 26.f).2.º Cuenta justificativa con aportación de informe de auditor:
 
-□  Persona beneficiaria no obligada a auditar sus cuentas anuales, con designación de auditor por el órgano concedente. El gasto derivado de la revisión de la cuenta justificativa por el auditor es subvencionable:
+□ Persona beneficiaria no obligada a auditar sus cuentas anuales, con designación de auditor por el órgano concedente. El gasto derivado de la revisión de la cuenta justificativa por el auditor es subvencionable:
 
 □ No.
 
@@ -299,7 +299,7 @@ La retribución adicional al auditor de cuentas es gasto subvencionable:
 □ Sí. Hasta el límite de ................... euros. ⊠ 26.f).6.º Justificación mediante certificación de la intervención de la entidad local. Cuando los beneficiarios sean Ayuntamientos de municipios andaluces.
 
 27. Reintegro (artículo 28). 27.a). Causas específicas de reintegro:
-27.b). Criterios de graduación que se aplicarán a los incumplimientos. ⊠  Cuando no se consigan íntegramente los objetivos previstos, pero el cumplimiento se aproxime de modo significativo al cumplimiento total, se valorará el nivel de consecución y el importe de la subvención será proporcional a dicho nivel. Este nivel de consecución con respecto a los objetivos previstos, deberá alcanzar, al menos el siguiente porcentaje: 75%. Se considera que el cumplimiento se aproxima de modo significativo al cumplimiento total, cuando sea superior al 90%. ⊠  Si la actividad subvencionable se compone de varias fases o actuaciones y se pueden identificar objetivos vinculados a cada una de ellas, el importe de la subvención será proporcional al volumen de las fases o actuaciones de la actividad en las que se hayan conseguido los objetivos previstos. ⃞  Otros criterios proporcionales de graduación: ............... .......................................................................................... .......................................................................................... 27.c). Órganos competentes para:
+27.b). Criterios de graduación que se aplicarán a los incumplimientos. ⊠ Cuando no se consigan íntegramente los objetivos previstos, pero el cumplimiento se aproxime de modo significativo al cumplimiento total, se valorará el nivel de consecución y el importe de la subvención será proporcional a dicho nivel. Este nivel de consecución con respecto a los objetivos previstos, deberá alcanzar, al menos el siguiente porcentaje: 75%. Se considera que el cumplimiento se aproxima de modo significativo al cumplimiento total, cuando sea superior al 90%. ⊠ Si la actividad subvencionable se compone de varias fases o actuaciones y se pueden identificar objetivos vinculados a cada una de ellas, el importe de la subvención será proporcional al volumen de las fases o actuaciones de la actividad en las que se hayan conseguido los objetivos previstos. ⃞ Otros criterios proporcionales de graduación: ............... .......................................................................................... .......................................................................................... 27.c). Órganos competentes para:
 - Iniciar el procedimiento de reintegro: Persona titular del Comisariado para la Recuperación de la Memoria Histórica, que actuará por delegación.
 - Instruir el procedimiento de reintegro: Persona titular del Comisariado para la Recuperación de la Memoria Histórica, que actuará por delegación.
 
@@ -324,4 +324,4 @@ el apartado 4, tras la corrección apartado 3, donde dice:
 
 ## Anexo III
 
-PRODUCCIÓN COSECHA S E M A N A S  D E S P U É S  D E  L A  P L A N T A C I Ó N Tomate Ciclo Corto Primavera Tomate Ciclo Largo Pepino Calabacín Pimiento Lechuga 1.º 2º 3º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 16,25 12.º 13.º 14.º 15.º 16.º 17.º 18.º 19.º 20.º 21.º 88,75 22.º 23.º 96,25 24.º 25.º 47,75 26.º 27.º 53,25 28.º 29.º 58,75 30.º 31.º 64,25 32.º 33.º 69,75 34.º 35.º 75,25 36.º 37.º 80,75 38.º 39.º 86,25 40.º 41.º 91,75 42.º 43.º 97,25 44.º
+PRODUCCIÓN COSECHA S E M A N A S D E S P U É S D E L A P L A N T A C I Ó N Tomate Ciclo Corto Primavera Tomate Ciclo Largo Pepino Calabacín Pimiento Lechuga 1.º 2º 3º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 16,25 12.º 13.º 14.º 15.º 16.º 17.º 18.º 19.º 20.º 21.º 88,75 22.º 23.º 96,25 24.º 25.º 47,75 26.º 27.º 53,25 28.º 29.º 58,75 30.º 31.º 64,25 32.º 33.º 69,75 34.º 35.º 75,25 36.º 37.º 80,75 38.º 39.º 86,25 40.º 41.º 91,75 42.º 43.º 97,25 44.º

@@ -86,7 +86,7 @@ Ministerio de Justicia. Subdirección General de Medios Personales al Servicio d
 
 CONCURSO CONVOCADO POR RESOLUCIÓN DE 28 DE ABRIL DE 2011, DE LA DIRECCIÓN GENERAL DE JUSTICIA DE LA CONSEJERÍA DE PRESIDENCIA, JUSTICIA E INTERIOR
 
-SELLO DE REGISTRO DE ENTRADA Señalar  (X) en el recuadro que proceda:
+SELLO DE REGISTRO DE ENTRADA Señalar (X) en el recuadro que proceda:
 
 V1
 
@@ -106,31 +106,29 @@ CUERPO ACTUAL:
 CUERPO PARA EL QUE PARTICIPA:
 DIRECCIÓN PUESTO DE TRABAJO O DOMICILIO:
 MÓVIL/FIJO:
-Preferencias por Idioma: Especificar únicamente el Curso de nivel , perfil o grado superior de los que se posean, señalando de 1 a 3 en la casilla del ámbito de la C. A. para la que participa, según lo establecido en la Base Tercera.2. Ámbito C.A. del País Vasco Ámbito C.A. Valenciana Ámbito C.A. de Cataluña Ámbito C.A. Foral de Navarra Ámbito C.A. de Galicia Ámbito C.A. de las I. Baleares C: Sólo peticiones condicionadas. Si se acoge a la Base 5ª de la convocatoria debe especificar a continuación los apellidos,  nombre y el NIF del otro funcionario :
-SITUACIÓN ADMINISTRATIVA: señalar  (X) en el recuadro que proceda:
+Preferencias por Idioma: Especificar únicamente el Curso de nivel , perfil o grado superior de los que se posean, señalando de 1 a 3 en la casilla del ámbito de la C. A. para la que participa, según lo establecido en la Base Tercera.2. Ámbito C.A. del País Vasco Ámbito C.A. Valenciana Ámbito C.A. de Cataluña Ámbito C.A. Foral de Navarra Ámbito C.A. de Galicia Ámbito C.A. de las I. Baleares C: Sólo peticiones condicionadas. Si se acoge a la Base 5ª de la convocatoria debe especificar a continuación los apellidos, nombre y el NIF del otro funcionario :
+SITUACIÓN ADMINISTRATIVA: señalar (X) en el recuadro que proceda:
 Indicar órgano judicial donde desempeña la comisión de servicios:
-Servicio activo Comisión de servicios Excedencia por cuidado de familiares                                                 Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/ V1 Servicios especiales V2 Excedencia voluntaria por prestación de servicios en el sector público Art. 506 d) LOPJ 19/2003. Exc. Vol. por  interés particular Art. 506 e) LOPJ 19/2003                Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/
+Servicio activo Comisión de servicios Excedencia por cuidado de familiares Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/ V1 Servicios especiales V2 Excedencia voluntaria por prestación de servicios en el sector público Art. 506 d) LOPJ 19/2003. Exc. Vol. por interés particular Art. 506 e) LOPJ 19/2003 Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/
 
-Exc. Vol.. por agrupación familiar Art. 506 f) LOPJ 19/2003            Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/ Suspensión de funciones  Art. 506 g) LOPJ  19/2003 Reingreso provisional Art. 69 R.D.1451/2005 (Deberá aportar el documento F1R por el que se le adscribió provisionalmente) Reingreso provisional desde el Cuerpo de Secretarios. Art. 70 R.D. 1451/2005 Adscripción provisional desde un puesto obtenido por concurso específico. Art. 54 R.D. 1451/2005 V3 Reordenación de efectivos Art. 52. c) R.D. 249/96 P-1: Si se encuentra en adscripción provisional, según art. 70 ó 54 R.D. 1451/2005, y se acoge a la preferencia de la Base Segunda, puntos 7 u 8, especifique a continuación la localidad de adscripción, acompañando documentación acreditativa en fotocopia compulsada:
+Exc. Vol.. por agrupación familiar Art. 506 f) LOPJ 19/2003 Indicar la fecha de pase a la situación: Día _____/ Mes _____/ Año ____/ Suspensión de funciones Art. 506 g) LOPJ 19/2003 Reingreso provisional Art. 69 R.D.1451/2005 (Deberá aportar el documento F1R por el que se le adscribió provisionalmente) Reingreso provisional desde el Cuerpo de Secretarios. Art. 70 R.D. 1451/2005 Adscripción provisional desde un puesto obtenido por concurso específico. Art. 54 R.D. 1451/2005 V3 Reordenación de efectivos Art. 52. c) R.D. 249/96 P-1: Si se encuentra en adscripción provisional, según art. 70 ó 54 R.D. 1451/2005, y se acoge a la preferencia de la Base Segunda, puntos 7 u 8, especifique a continuación la localidad de adscripción, acompañando documentación acreditativa en fotocopia compulsada:
 Localidad :____________________________________________ P-2: En caso de que quiera acogerse a la preferencia establecida en la Base Segunda, punto 10 de la convocatoria, por reordenación de efectivos, indique a continuación el centro de trabajo y la localidad que desee: Centro de trabajo :_______________________________________________________________ Localidad:_____________________________________________________________
 
 (USE SÓLO ESTA HOJA SI SOLICITA HASTA 100 NÚMEROS DE ORDEN)
 
-En                                                                       a          de                                      de  2011
+En a de de 2011
 
 Firma:
 DIRECCIÓN DE ENVÍO DE LA SOLICITUD (Léase Base 4ª Convocatoria) :
-.............................................................................................................................................................. ………………………………………………………………………………………………………… Nº Orden de preferencia Nº orden de convocatoria Nº   Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria 1 21 41 61 81 2 22 42 62 82 3 23 43 63 83 4 24 44 64 84 5 25 45 65 85 6 26 46 66 86 7 27 47 67 87 8 28 48 68 88 9 29 49 69 89 10 30 50 70 90 11 31 51 71 91 12 32 52 72 92 13 33 53 73 93 14 34 54 74 94 15 35 55 75 95 16 36 56 76 96 17 37 57 77 97 18 38 58 78 98 19 39 59 79 99 20 40 60 80 100
+.............................................................................................................................................................. ………………………………………………………………………………………………………… Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria 1 21 41 61 81 2 22 42 62 82 3 23 43 63 83 4 24 44 64 84 5 25 45 65 85 6 26 46 66 86 7 27 47 67 87 8 28 48 68 88 9 29 49 69 89 10 30 50 70 90 11 31 51 71 91 12 32 52 72 92 13 33 53 73 93 14 34 54 74 94 15 35 55 75 95 16 36 56 76 96 17 37 57 77 97 18 38 58 78 98 19 39 59 79 99 20 40 60 80 100
 
 (USE TAMBIÉN ESTA HOJA SI SOLICITA MÁS DE 100 NÚMEROS DE ORDEN)
 
-En                                                                       a          de                                      de  2011
-
 Firma:
 DIRECCIÓN DE ENVÍO DE LA SOLICITUD (Léase Base 4ª Convocatoria) :
-.............................................................................................................................................................. ………………………………………………………………………………………………………… Nº Orden de preferencia Nº orden de convocatoria Nº   Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria 101 121 141 161 181 102 122 142 162 182 103 123 143 163 183 104 124 144 164 184 105 125 145 165 185 106 126 146 166 186 107 127 147 167 187 108 128 148 168 188 109 129 149 169 189 110 130 150 170 190 111 131 151 171 191 112 132 152 172 192 113 133 153 173 193 114 134 154 174 194 115 135 155 175 195 116 136 156 176 196 117 137 157 177 197 118 138 158 178 198 119 139 159 179 199 120 140 160 180 200
+.............................................................................................................................................................. ………………………………………………………………………………………………………… Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria Nº Orden de preferencia Nº orden de convocatoria 101 121 141 161 181 102 122 142 162 182 103 123 143 163 183 104 124 144 164 184 105 125 145 165 185 106 126 146 166 186 107 127 147 167 187 108 128 148 168 188 109 129 149 169 189 110 130 150 170 190 111 131 151 171 191 112 132 152 172 192 113 133 153 173 193 114 134 154 174 194 115 135 155 175 195 116 136 156 176 196 117 137 157 177 197 118 138 158 178 198 119 139 159 179 199 120 140 160 180 200
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 (03/17.476/11)
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 (03/17.476/11)
 
 ## Anexo IV
 
@@ -153,17 +151,17 @@ V-2
 
 V-3
 
-CAUSA DE LA ALEGACIÓN (SEÑÁLE  X EN EL RECUADRO  QUE PROCEDA):
+CAUSA DE LA ALEGACIÓN (SEÑÁLE X EN EL RECUADRO QUE PROCEDA):
 
 D) DISCONFORMIDAD CON LA ANTIGÜEDAD
 
 E) OTROS
 
-A)  EXCLUSIÓN DEL CONCURSO
+A) EXCLUSIÓN DEL CONCURSO
 
-B)  NO OBTENCION DE DESTINO
+B) NO OBTENCION DE DESTINO
 
-C)  DISCONFORMIDAD EN EL DESTINO OBTENIDO
+C) DISCONFORMIDAD EN EL DESTINO OBTENIDO
 
 (LAS ALEGACIONES SE DEBEN EXPONER DE FORMA CLARA Y SUCINTA, EXCLUSIVAMENTE EN EL APARTADO RESERVADO AL EFECTO. EN CASO DE MENCIÓN DE UN FUNCIONARIO AFECTADO INDICAR N.I.F..) ALEGACIONES
 

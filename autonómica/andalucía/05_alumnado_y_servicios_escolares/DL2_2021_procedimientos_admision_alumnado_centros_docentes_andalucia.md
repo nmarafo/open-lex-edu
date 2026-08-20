@@ -39,7 +39,7 @@ relaciones:
 
 Decreto del Presidente 5/2021, de 1 de febrero, por el que se adscribe a la Consejería de Hacienda y Financiación Europea la entidad Verificaciones Industriales de Andalucía, S.A.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad  con CVE 00185700.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad con CVE 00185700.
 
 En virtud de las facultades que me vienen conferidas por el artículo 117.1 del Estatuto de Autonomía para Andalucía y por el artículo 10.1.h) de la Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía
 DISPONGO:

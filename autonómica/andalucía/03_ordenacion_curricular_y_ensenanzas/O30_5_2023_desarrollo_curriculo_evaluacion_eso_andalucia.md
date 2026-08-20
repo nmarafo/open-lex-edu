@@ -107,7 +107,9 @@ b) Declaración firmada por todos los autores y autoras, o por el profesorado re
 c) Trabajo en formato digital.
 d) Declaración formal de cesión previa de los derechos de difusión y publicación a la Consejería competente en materia de educación.
 
-4. Criterios de evaluación para la selección. 4.1 En la selección de trabajos presentados se tendrán en cuenta los siguientes criterios:
+4. Criterios de evaluación para la selección.
+
+**4.1** En la selección de trabajos presentados se tendrán en cuenta los siguientes criterios:
 a) Interés o relevancia de la actividad para la inclusión del Flamenco en el currículo y en el desarrollo de las competencias clave.
 b) Grado de implicación de la comunidad educativa en la actividad.
 c) Colaboración y realización de materiales y recursos entre varios centros.
@@ -120,15 +122,23 @@ i) Adaptables por el profesorado a las necesidades y particularidades de su alum
 j) Transmisión de los valores emanados del Flamenco que fomenten la amistad, el respeto, la igualdad o la tolerancia.
 k) Que fomenten la integración, teniendo en cuenta la interculturalidad de la realidad andaluza, su diversidad, valores y señas de identidad.
 l) Actuaciones que favorezcan el desarrollo de valores a favor de la igualdad de género.
-m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración. 4.2 Estos criterios de evaluación se aplicarán con la siguiente ponderación:
+m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración.
+
+**4.2** Estos criterios de evaluación se aplicarán con la siguiente ponderación:
 El criterio a) supondrá el 40% de la valoración. Los criterios b), c), d), e), f), g), h) e i) supondrán en conjunto el 40% de la valoración. Los criterios j), k) l) y m) supondrán en conjunto el 20% de la valoración.
 Noveno. Bases específicas reguladoras del certamen para reconocer aquellos proyectos educativos basados en experiencias y buenas prácticas docentes que hayan tenido un desarrollo de al menos durante un curso escolar y hayan contribuido a acercar el Flamenco al alumnado a la vez que desarrollan competencias clave en las diferentes áreas curriculares.
 
-1. Participantes. 1.1. La participación en este certamen se realizará a través de la presentación de solicitudes proponiendo las candidaturas al Premio. 1.2. Podrán ser candidatos al Premio:
+1. Participantes.
+
+**1.1.** La participación en este certamen se realizará a través de la presentación de solicitudes proponiendo las candidaturas al Premio.
+
+**1.2.** Podrán ser candidatos al Premio:
 a) Los centros docentes sostenidos con fondos públicos andaluces.
 b) El profesorado, a título individual o en equipo.
 c) El alumnado, individualmente o en equipo.
-d) Cualquier colectivo que forme parte de la comunidad educativa de uno o varios centros. 1.3. Podrán presentar solicitudes:
+d) Cualquier colectivo que forme parte de la comunidad educativa de uno o varios centros.
+
+**1.3.** Podrán presentar solicitudes:
 a) La dirección de los centros docentes.
 b) Los centros del profesorado de Andalucía.
 c) Las entidades relacionadas con el mundo del Flamenco.
@@ -140,7 +150,9 @@ b) Memoria justificativa y desarrollo de la actividad.
 c) Documentos de apoyo a la candidatura por parte de otras entidades en el caso de existir.
 d) Declaración formal de la persona responsable de la candidatura de la veracidad de los datos aportados y disponibilidad de completar cuanta información le sea requerida.
 
-3. Criterios de evaluación para la selección. 3.1. En la selección de trabajos presentados se tendrán en cuenta especialmente los siguientes criterios:
+3. Criterios de evaluación para la selección.
+
+**3.1.** En la selección de trabajos presentados se tendrán en cuenta especialmente los siguientes criterios:
 a) Interés o relevancia de la propuesta para la inclusión del Flamenco en el currículo y desarrollo de las competencias clave.
 b) Grado de implicación de la comunidad educativa.
 c) Colaboración y realización de prácticas comunes entre varios centros.
@@ -153,7 +165,9 @@ i) Diversidad de actividades, tareas y estrategias de trabajo colaborativo, de a
 j) Valoración de la importancia del Flamenco como expresión cultural.
 k) El Flamenco como transmisión de valores interculturales que fomenten la amistad, el respeto, la igualdad o la tolerancia, en el contexto de la realidad andaluza, su diversidad, valores y señas de identidad.
 l) Actuaciones que favorezcan el desarrollo de valores a favor de la igualdad de género.
-m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración. 3.2. Los criterios de evaluación recogidos en el punto anterior se aplicarán con la siguiente ponderación:
+m) Actuaciones que incluyan la perspectiva de discapacidad favoreciendo la integración.
+
+**3.2.** Los criterios de evaluación recogidos en el punto anterior se aplicarán con la siguiente ponderación:
 a) El criterio a) supondrá el 40% de la valoración.
 b) Los criterios b), c), d) y e) supondrán en conjunto el 30% de la valoración.
 
@@ -191,7 +205,7 @@ CORREO ELECTRÓNICO:
 
 2. DOCUMENTACIÓN Material curricular o recurso didáctico presentado en formato digital, en el que no debe aparecer ningún dato identificativo de sus autores o autoras ni de sus centros de trabajo. Ficha descriptiva con las características más relevantes del trabajo, con una extensión máxima de veinte líneas o dos mil caracteres. Declaración firmada por los autores y autoras, o por el profesorado responsable en el caso de participación del alumnado, en la que se exprese que el trabajo es original y no ha sido comercializado ni premiado anteriormente. Declaración formal de cesión previa de los derechos de difusión y publicación a la Consejería competente en materia de educación.
 
-3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del                    Premio "Flamenco en el Aula" a la elaboración de materiales curriculares y recursos didácticos. En a de de Fdo.:
+3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del Premio "Flamenco en el Aula" a la elaboración de materiales curriculares y recursos didácticos. En a de de Fdo.:
 ILMO./A. SR./A. DIRECTOR/A GENERAL DE TECNOLOGÍAS AVANZADAS Y TRANSFORMACIÓN EDUCATIVA Código Directorio Común de Unidades Orgánicas y Oficinas:
 002235/6
 
@@ -211,7 +225,7 @@ e) No están previstas cesiones de datos, salvo a posibles encargados de tratami
 
 Consejería de Desarrollo Educativo y Formación Profesional Dirección General de Tecnologías Avanzadas y Transformación Educativa SOLICITUD (Página de PREMIO "FLAMENCO EN EL AULA" AL RECONOCIMIENTO DE EXPERIENCIAS Y BUENAS PRÁCTICAS DOCENTES. (Código procedimiento: 6451) Resolución de de de (BOJA nº de fecha
 
-1. DATOS DE LA CANDIDATURA PROPUESTA Y DE LA PERSONA QUE PRESENTA LA SOLICITUD Candidatura al                          Premio "Flamenco en el aula" al reconocimiento de experiencias y buenas prácticas docentes:
+1. DATOS DE LA CANDIDATURA PROPUESTA Y DE LA PERSONA QUE PRESENTA LA SOLICITUD Candidatura al Premio "Flamenco en el aula" al reconocimiento de experiencias y buenas prácticas docentes:
 CENTRO DOCENTE CÓDIGO:
 LOCALIDAD:
 PROVINCIA:
@@ -252,7 +266,7 @@ CORREO ELECTRÓNICO:
 
 2. DOCUMENTACIÓN Ficha descriptiva con las características más relevantes del trabajo. Memoria justificativa y desarrollo de la actividad Documentos de apoyo a la candidatura por parte de otras entidades en el caso de existir
 
-3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del                    Premio "Flamenco en el Aula" al reconocimiento de experiencias y buenas prácticas docentes:
+3. DECLARACIÓN, LUGAR, FECHA Y FIRMA La persona firmante como responsable o representante de la autoría del material curricular o recurso educativo que presenta, DECLARA bajo su responsabilidad que son ciertos cuantos datos figuran en la presente solicitud, así como en la documentación adjunta y 1º. Que el trabajo presentado es original y no ha sido comercializado ni premiado anteriormente. 2º. Que autoriza a la Consejería competente en materia de educación de la Junta de Andalucía para la reproduccíón, alojamiento en sus servidores, difusión y, en su caso, publicación del material presentado. 3º. Que se cumplen los requisitos exigidos en las bases reguladoras de la convocatoria. 4º. Que cuenta con autorización o licencia para el uso, difusión y publicación de los textos, imágenes, recursos multimedia y aplicaciones informáticas que se incluyen en el material presentado. Se compromete a presentar la correspondiente acreditación documental en caso de que le sea requerida y SOLICITA participar en la presente convocatoria del Premio "Flamenco en el Aula" al reconocimiento de experiencias y buenas prácticas docentes:
 En a de de Fdo.:
 ILMO./A. SR./A. DIRECTOR/A GENERAL DE TECNOLOGÍAS AVANZADAS Y TRANSFORMACIÓN EDUCATIVA Código Directorio Común de Unidades Orgánicas y Oficinas:
 INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS En cumplimiento de lo dispuesto en el Reglamento General de Protección de Datos, le informamos que:

@@ -84,8 +84,8 @@ Disposición siguiente
 
 3. Otras disposiciones
 
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 Descargar boletín nº 10 completo

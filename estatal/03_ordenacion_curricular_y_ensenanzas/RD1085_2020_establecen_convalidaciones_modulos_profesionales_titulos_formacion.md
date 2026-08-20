@@ -355,8 +355,6 @@ Módulo Profesional: Administración, gestión y comercialización en la pequeñ
 
 GS
 
-Módulo Profesional: Administración, gestión y comercialización en la pequeña empresa
-
 (Cualquier Ciclo Formativo)
 
 GS/GM
@@ -395,8 +393,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
-
 Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Medio o Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar.
 
 Módulos Profesionales de Lengua Extranjera en cualquiera de sus denominaciones.
@@ -414,8 +410,6 @@ Para todos los ciclos formativos de grado superior con lengua extranjera
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
@@ -439,8 +433,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
-
 MP Segunda Lengua Extranjera, siempre que sea la misma que la que se desea convalidar.
 
 #### Segunda. Lengua Extranjera.
@@ -458,8 +450,6 @@ Fabricación mecánica
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
@@ -484,8 +474,6 @@ Química
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
@@ -516,8 +504,6 @@ Sanidad
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
@@ -558,8 +544,6 @@ Servicios Socioculturales y a la Comunidad
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990
 
@@ -14069,8 +14053,6 @@ Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2
 
 Formación y orientación laboral.
 
-Formación y orientación laboral.
-
 Para todos los ciclos formativos con empresa e iniciativa emprendedora
 
 Formación aportada
@@ -14080,8 +14062,6 @@ Formación a convalidar
 Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
-
-Empresa e iniciativa emprendedora.
 
 Empresa e iniciativa emprendedora.
 
@@ -14203,8 +14183,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO SUPERIOR
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
@@ -14282,8 +14260,6 @@ Agraria
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -14383,8 +14359,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen.
@@ -14466,8 +14440,6 @@ Comercio y Marketing
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -14683,8 +14655,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Proyectos de Edificación
@@ -14783,15 +14753,11 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico en Redes y Estaciones de Tratamiento de Aguas
 
 (RD 114/2017, de 17 de febrero)
-
-(Energía y Agua)
 
 (Energía y Agua)
 
@@ -15078,8 +15044,6 @@ Energía y Agua
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -15459,8 +15423,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Construcciones Metálicas
@@ -15753,8 +15715,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO SUPERIOR
 
 Técnico Superior en Asistencia a la Dirección
@@ -15923,8 +15883,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Gestión de Ventas y Espacios Comerciales
@@ -16035,8 +15993,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
@@ -16142,8 +16098,6 @@ Industrias Alimentarias
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -16767,8 +16721,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico en Gestión Administrativa
@@ -17261,8 +17213,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico Superior en Programación de la Producción en Fabricación Mecánica
@@ -17487,8 +17437,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
@@ -17614,8 +17562,6 @@ Química
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -17745,8 +17691,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico en Electromecánica de Maquinaria
@@ -17864,8 +17808,6 @@ Servicios Socioculturales y a la Comunidad
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -18015,8 +17957,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 GRADO MEDIO
 
 Técnico en Superior en Marketing y Publicidad
@@ -18080,8 +18020,6 @@ Transporte y Mantenimiento de Vehículos
 Formación aportada
 
 Formación a convalidar
-
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
@@ -18487,8 +18425,6 @@ Formación a convalidar
 
 Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
 
-Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006
-
 Técnico en Mantenimiento de Material Rodante Ferroviario
 
 (RD 1145/2012, de 27 de julio)
@@ -18508,8 +18444,6 @@ Ciclo completo.
 Convalidaciones de títulos publicados a partir de 5 de marzo de 2017
 
 Las convalidaciones de los títulos publicados a partir del 5 de marzo de 2017 quedan reflejadas en los reales decretos de dichos títulos, a excepción de las siguientes:
-
-Cualquier ciclo formativo
 
 Cualquier ciclo formativo
 
@@ -18548,8 +18482,6 @@ Ciclo completo.
 Ciclo completo.
 
 0032. Presentación y venta de productos de panadería y pastelería.
-
-(En todos los ciclos formativos en los que aparece indistintamente de la familia profesional a la que pertenezcan).
 
 1610. Seguridad y calidad alimentaria en el comercio.
 

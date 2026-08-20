@@ -998,4 +998,4 @@ Las sustancias etiquetadas como H360, H360D, H360F, H360FD, H360Fd, H360Df y H37
 1. Agentes químicos:
 Las sustancias etiquetadas como H362 por el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas. Las sustancias cancerígenas y mutágenas, de categoría 1A y 1B incluidas en la parte 3 del Anexo VI del Reglamento (CE) n.º 1272/2008, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas. Plomo y derivados, en la medida en que estos agentes sean susceptibles de ser absorbidos por el organismo humano.
 
-2. Condiciones de trabajo.–Trabajos de minería subterráneos. Este documento es de carácter informativo y no tiene valor jurídico. 
+2. Condiciones de trabajo.–Trabajos de minería subterráneos. Este documento es de carácter informativo y no tiene valor jurídico.

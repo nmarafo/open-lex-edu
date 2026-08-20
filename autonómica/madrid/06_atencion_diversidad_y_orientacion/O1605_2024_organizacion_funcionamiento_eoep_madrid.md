@@ -42,21 +42,21 @@ Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo de
 
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. En Madrid, a 16 de abril de 2024.—El Consejero de Presidencia, Justicia y Administración Local, P. D. (Orden de 20 de febrero de 2024; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 27 de febrero), la Secretaria General Técnica, María Lourdes Ríos Zaldívar.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL SERVICIO APOYO TÉCNICO Puesto de Trabajo:
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL CONSEJERIA PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL VICECONSEJERIA PRESIDENCIA Y ADMINISTRACIÓN LOCAL SERVICIO APOYO TÉCNICO Puesto de Trabajo:
 Puesto de Trabajo:
 Puesto de Trabajo:
-SECRETARIA/O DE VICECONSEJERO JEFE DE SECRETARIA DE VICECONSEJERO SERV. APOYO TECNICO Denominación     :
-Denominación     :
-Denominación     :
-18 18 26 C / D C / D A / B Grupo                :
-Grupo                :
-Grupo                :
-N.C.D.               :
-N.C.D.               :
-N.C.D.               :
-13.267,32 14.036,04 27.480,36 C. Específico      :
-C. Específico      :
-C. Específico      :
+SECRETARIA/O DE VICECONSEJERO JEFE DE SECRETARIA DE VICECONSEJERO SERV. APOYO TECNICO Denominación :
+Denominación :
+Denominación :
+18 18 26 C / D C / D A / B Grupo :
+Grupo :
+Grupo :
+N.C.D. :
+N.C.D. :
+N.C.D. :
+13.267,32 14.036,04 27.480,36 C. Específico :
+C. Específico :
+C. Específico :
 DESIERTO ***9439** ***2230** PUERTAS SANCHA,MARIA PILAR CASTILLO MARTIN,PALMIRA DEL Cód. identificación:
 Cód. identificación:
 Apellidos y Nombre:

@@ -1437,11 +1437,7 @@ Instalación y mantenimiento electromecánico de maquinaria y conducción de lí
 
 Calidad en el montaje y proceso.
 
-Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas.
-
 Automatismos eléctricos, neumáticos e hidráulicos.
-
-Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas.
 
 Seguridad en el montaje y mantenimiento de equipos e instalaciones.
 
@@ -1530,8 +1526,6 @@ Máquinas y equipos frigoríficos.
 Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
 Seguridad en el montaje y mantenimiento de equipos e instalaciones.
-
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
 Calidad en el montaje y proceso.
 
@@ -2005,10 +1999,6 @@ Desarrollo de composiciones.
 
 Desarrollo de proyectos de fabricación de productos cerámicos.
 
-Desarrollo de proyectos de fabricación de productos cerámicos.
-
-Desarrollo de proyectos de fabricación de productos cerámicos.
-
 Fabricación de productos cerámicos conformados.
 
 Desarrollo de proyectos de fabricación de productos cerámicos.
@@ -2339,8 +2329,6 @@ Montaje y mantenimiento de instalaciones de frío, climatización y producción 
 
 Instalaciones eléctricas y automatismos.
 
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
-
 Electrotecnia.
 
 Mantenimiento ferroviario.
@@ -2352,8 +2340,6 @@ Mantenimiento y montaje de instalaciones de edificio y proceso.
 Sistemas automáticos en las instalaciones.
 
 Desarrollo de proyectos de instalaciones de fluidos térmicas y de manutención.
-
-Formación y orientación laboral.
 
 Formación y orientación laboral.
 
@@ -3197,17 +3183,9 @@ Instalación y mantenimiento electromecánico de maquinaria y conducción de lí
 
 Relaciones en el equipo de trabajo.
 
-Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas.
-
 Formación y orientación laboral.
-
-Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas.
 
 Administración, gestión y comercialización en la pequeña empresa.
-
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
-
-Formación y orientación laboral.
 
 Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
@@ -3557,12 +3535,6 @@ Portugués.
 
 Lengua extranjera (3).
 
-Lengua extranjera (3).
-
-Lengua extranjera (3).
-
-Lengua extranjera (3).
-
 #### Segunda. lengua extranjera (3).
 
 Cocina.
@@ -3570,8 +3542,6 @@ Cocina.
 Servicios de restaurante y bar.
 
 Restauración.
-
-Alojamiento.
 
 Alojamiento.
 
@@ -3614,12 +3584,6 @@ Lengua extranjera en Comercio Internacional (3).
 Comercio Internacional.
 
 Inglés.
-
-Lengua extranjera (inglés).
-
-Lengua extranjera (inglés).
-
-Lengua extranjera (inglés).
 
 Lengua extranjera (inglés).
 
@@ -4073,19 +4037,13 @@ Montaje y mantenimiento de instalaciones de frío, climatización y producción 
 
 Instalaciones de climatización y ventilación.
 
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
-
 Instalaciones de producción de calor.
-
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
 Instalaciones de agua y gas.
 
 Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
 Técnicas de mecanizado y unión para el montaje y mantenimiento de instalaciones.
-
-Montaje y mantenimiento de instalaciones de frío, climatización y producción de calor.
 
 Fluodinámica y termotecnia en industrias de proceso.
 
@@ -4463,8 +4421,6 @@ Instalación y mantenimiento electromecánico de maquinaria y conducción de lí
 
 Técnicas de mecanizado para el mantenimiento y montaje.
 
-Instalación y mantenimiento electromecánico de maquinaria y conducción de líneas.
-
 Montaje y mantenimiento mecánico.
 
 Mantenimiento ferroviario.
@@ -4564,10 +4520,6 @@ Organización, seguridad y ambiente químico.
 Operaciones de proceso pasta y papel.
 
 Servicios auxiliares de proceso químico.
-
-Operaciones de proceso en planta química.
-
-Operaciones de proceso en planta química.
 
 Operaciones de proceso en planta química.
 

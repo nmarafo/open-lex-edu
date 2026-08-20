@@ -60,20 +60,20 @@ ocr_procesado: true
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 1999
-•  1999/079. Viernes 18 de Junio de 1999
-•  1003 <p>Menú de búsqueda y navegación</p>
-•  Anterior
-•  Siguiente
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 1999
+• 1999/079. Viernes 18 de Junio de 1999
+• 1003 <p>Menú de búsqueda y navegación</p>
+• Anterior
+• Siguiente
 - 1003
 
 Deportes 1003 - DECRETO 109/1999, de 25 de mayo, por el que se regula el régimen de creación y funcionamiento de los Colectivos de Escuelas Rurales. [image] Descargar en formato pdf El Decreto 118/1995, de 11 de mayo, crea los Colectivos de Escuelas Rurales (C.E.R.) y el Decreto 312/1995, de 27 de octubre, establece dichos colectivos determinando los centros que corresponden a cada uno de ellos. En este primer momento la configuración de los Colectivos de Escuelas Rurales, en cuanto a ámbito territorial, obedece a la consolidación de los equipos de trabajo que ya funcionaban en zonas rurales (Compensatoria y, posteriormente, Centros de Apoyo y Recursos-C.A.R.). Los centros pertenecientes a los Colectivos de Escuelas Rurales así configurados comparten una misma realidad geográfica, socio-cultural y educativa, que ha derivado en el desarrollo de los respectivos Proyectos Educativos. Los Decretos mencionados representaron la concreción de las propuestas de la Dirección General de Promoción Educativa encaminadas al inicio de un proceso de normalización de las acciones compensadoras en el ámbito rural. Como conclusión de ese proceso, el presente Decreto tiene como meta dar carácter estable a la red de Colectivos de Escuelas Rurales de forma que, al perder su condición de acción compensadora temporal, pasarán a depender de la Dirección General de Centros. Durante los cursos 1995/96, 96/97, 97/98 y 98/99 se ha desarrollado el Decreto 118/1995, de 11 de mayo, habiéndose procedido a la elección y constitución de los Consejos de Colectivos de Escuelas Rurales, elección de Coordinadores, convocatorias sucesivas de acceso a las plazas de maestros itinerantes por concurso definitivo de puestos singulares, ingreso y justificación de las partidas correspondientes a cada ejercicio conforme a los procedimientos ordinarios de gestión económica de los centros docentes públicos no universitarios, etc.
@@ -297,5 +297,5 @@ Deportes para dictar cuantas disposiciones sean necesarias para el desarrollo de
 
 #### Tercera. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Dado en Las Palmas de Gran Canaria, a 25 de mayo de 1999. EL PRESIDENTE DEL GOBIERNO, Manuel Hermoso Rojas. EL CONSEJERO DE EDUCACIÓN, CULTURA Y DEPORTES, José Mendoza Cabrera. © Gobierno de Canarias
 
-•  Aviso Legal
-•  Sugerencias y Reclamaciones
+• Aviso Legal
+• Sugerencias y Reclamaciones

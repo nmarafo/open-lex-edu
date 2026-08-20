@@ -126,11 +126,11 @@ El Título profesional básico en actividades de panadería y pastelería queda 
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general del título consiste en recepcionar materias primas, preelaborar y elaborar productos básicos de panadería y pastelería, presentarlos para su venta y dispensarlos, aplicando los protocolos establecidos, las normas de higiene alimentaria, prevención de riesgos laborales, protección medioambiental correspondientes, y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -186,9 +186,9 @@ x) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 y) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1 Cualificación profesional completa:
+**2.3.1** Cualificación profesional completa:
 
 Operaciones básicas de pastelería HOT414_1 (Real Decreto 1179/2008, de 11 de julio), que comprende las siguientes unidades de competencia:
 
@@ -196,7 +196,7 @@ UC1333_1: Ejecutar operaciones básicas de aprovisionamiento interno y conservac
 
 UC1334_1: Preelaborar, elaborar y presentar elaboraciones sencillas de pastelería y asistir en elaboraciones complejas.
 
-2.3.2 Cualificaciones profesionales incompletas:
+**2.3.2** Cualificaciones profesionales incompletas:
 
 a) Operaciones auxiliares de elaboración en la industria alimentaria INA172_1 (Real Decreto 1228/2006, de 27 de octubre):
 
@@ -208,11 +208,11 @@ b) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11 de
 
 UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad en panaderías y pastelerías trabajando por cuenta ajena en pequeñas, medianas y grandes empresas de este sector productivo. Así mismo, puede desarrollar su actividad, siguiendo instrucciones y con cierto grado de autonomía, en pequeños establecimientos dedicados a la producción y venta de dichos productos.
+**2.4.1** Este profesional ejerce su actividad en panaderías y pastelerías trabajando por cuenta ajena en pequeñas, medianas y grandes empresas de este sector productivo. Así mismo, puede desarrollar su actividad, siguiendo instrucciones y con cierto grado de autonomía, en pequeños establecimientos dedicados a la producción y venta de dichos productos.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Auxiliar de panadería y bollería.
 
@@ -226,7 +226,7 @@ UC1329_1: Proporcionar atención e información operativa, estructurada y protoc
 
 – Auxiliar de venta.
 
-2.5 Prospectiva del título en el sector o sectores.
+**2.5** Prospectiva del título en el sector o sectores.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -246,7 +246,7 @@ g) Finalmente, en este mundo globalizado e interconexionado se hace imprescindib
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -308,7 +308,7 @@ aa) Desarrollar las técnicas de su actividad profesional asegurando la eficac
 
 bb) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo son los que a continuación se relacionan:
 
@@ -332,7 +332,7 @@ Los módulos de este ciclo formativo son los que a continuación se relacionan:
 
 3153. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos:
+**3.3** Desarrollo de los módulos:
 
 Módulo Profesional: Procesos básicos de panadería.
 
@@ -2958,7 +2958,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -2968,11 +2968,11 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Taller de panadería y pastelería.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3007. Procesos de panadería.
 
@@ -2982,7 +2982,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3133. Operaciones auxiliares en la industria alimentaria.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3007. Procesos de panadería.
 
@@ -2996,7 +2996,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3153. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3007. Procesos de panadería.
 
@@ -3042,11 +3042,11 @@ El Título profesional básico en actividades domésticas y limpieza de edificio
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general del título consiste en realizar actividades domésticas de limpieza, cocina, cuidado de ropa y apoyo a personas en el ámbito doméstico, así como realizar operaciones básicas de limpieza en edificios, oficinas y locales comerciales, siguiendo instrucciones y respetando la normas de calidad, observando las normas vigentes medioambientales y de seguridad e higiene en el trabajo, y comunicándose de forma oral y escrita en lengua castellana y ,en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -3094,9 +3094,9 @@ t) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 u) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
-2.3.1 Cualificaciones profesionales completas:
+**2.3.1** Cualificaciones profesionales completas:
 
 a) **Empleo doméstico.** SSC413_1 (Real Decreto 1179/2008, de 11 de julio, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de diecisiete cualificaciones profesionales de nivel 1, correspondientes a determinadas familias profesionales), que comprende las siguientes unidades de competencia:
 
@@ -3116,17 +3116,17 @@ UC1088_1: Realizar la limpieza y tratamiento de superficies en edificios y local
 
 UC0972_1: Realizar la limpieza de suelos, paredes y techos en edificios y locales.
 
-2.3.2 Cualificación profesional incompleta:
+**2.3.2** Cualificación profesional incompleta:
 
 Operaciones básicas de cocina: HOT091_1 (Real Decreto 295/2004, de 20 de febrero, por el que se establecen determinadas cualificaciones profesionales que se incluyen en el Catálogo nacional de cualificaciones profesionales, así como sus correspondientes módulos formativos que se incorporan al Catálogo modular de formación profesional):
 
 UC0255_1: Ejecutar operaciones básicas de aprovisionamiento, preelaboración y conservación culinarios.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad por cuenta ajena en domicilios particulares y en empresas públicas o privadas de cualquier tamaño. Además, puede desarrollar su actividad profesional en el sector de la limpieza e higienización de toda clase de edificios, locales, centros o instituciones sanitarias y de salud, públicos o privados, industrias, elementos de transporte (terrestre, aéreo, marítimo), máquinas, espacios e instalaciones, soportes publicitarios y mobiliario urbano. Desempeña sus funciones siguiendo instrucciones recibidas y bajo la supervisión directa de un responsable, pudiendo trabajar de forma autónoma o integrarse en un equipo de trabajo.
+**2.4.1** Este profesional ejerce su actividad por cuenta ajena en domicilios particulares y en empresas públicas o privadas de cualquier tamaño. Además, puede desarrollar su actividad profesional en el sector de la limpieza e higienización de toda clase de edificios, locales, centros o instituciones sanitarias y de salud, públicos o privados, industrias, elementos de transporte (terrestre, aéreo, marítimo), máquinas, espacios e instalaciones, soportes publicitarios y mobiliario urbano. Desempeña sus funciones siguiendo instrucciones recibidas y bajo la supervisión directa de un responsable, pudiendo trabajar de forma autónoma o integrarse en un equipo de trabajo.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Limpiador/a doméstico/a.
 
@@ -3144,7 +3144,7 @@ UC0255_1: Ejecutar operaciones básicas de aprovisionamiento, preelaboración y 
 
 – Limpiador/a de cristales.
 
-2.5 Prospectiva del sector o de los sectores relacionados con el título.
+**2.5** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -3156,7 +3156,7 @@ c) El fuerte crecimiento del sector servicios y la vinculación de este profesio
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -3208,7 +3208,7 @@ v) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 w) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -3234,7 +3234,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3147. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos.
+**3.3** Desarrollo de los módulos.
 
 Módulo Profesional: Mantenimiento de prendas de vestir y ropa de hogar.
 
@@ -6148,7 +6148,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -6156,11 +6156,11 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Taller de actividades domésticas.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3098. Mantenimiento de prendas de vestir y ropa de hogar.
 
@@ -6174,7 +6174,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3146. Seguridad en el ámbito doméstico.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3098. Mantenimiento de prendas de vestir y ropa de hogar.
 
@@ -6190,7 +6190,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3147. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3098. Mantenimiento de prendas de vestir y ropa de hogar.
 
@@ -6238,11 +6238,11 @@ El Título profesional básico en mantenimiento de viviendas queda identificado 
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones básicas de montaje y mantenimiento de elementos de fontanería, calefacción y climatización; pequeñas reparaciones y sustitución de elementos sencillos en instalaciones electrotécnicas, en revestimientos continuos, alicatado y pintura, así como montaje y colocación de mobiliario prefabricado y complementos mobiliarios de la vivienda, con la calidad indicada, aplicando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -6300,7 +6300,7 @@ z) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 aa) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificación profesional completa:
 
@@ -6310,11 +6310,11 @@ UC1154_1: Realizar la instalación de tuberías, preparando, cortando y uniendo 
 
 UC1155_1: Realizar operaciones básicas de instalación y mantenimiento de aparatos sanitarios, radiadores y aparatos de climatización de uso doméstico.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones de fontanería, calefacción y climatización.
+**2.4.1** Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones de fontanería, calefacción y climatización.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Ayudante de pintor/a.
 
@@ -6334,7 +6334,7 @@ UC1155_1: Realizar operaciones básicas de instalación y mantenimiento de apara
 
 – Montador/a de muebles prefabricados de madera o similares.
 
-2.5 Prospectiva del sector o de los sectores relacionados con el título.
+**2.5** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -6350,7 +6350,7 @@ e) Debido al cambio de modelo social y al auge de la introducción de nuevas tec
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -6420,7 +6420,7 @@ ee) Desarrollar las técnicas de su actividad profesional asegurando la eficac
 
 ff) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -6444,7 +6444,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3096. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos:
+**3.3** Desarrollo de los módulos:
 
 Módulo Profesional: Mantenimiento básico de instalaciones electrotécnicas en viviendas.
 
@@ -7441,8 +7441,6 @@ La definición de esta función incluye aspectos como:
 – Preparación de las zonas de trabajo.
 
 – Montaje de redes de suministro de agua.
-
-– Montaje de instalaciones de riego automático.
 
 – Montaje de instalaciones de riego automático.
 
@@ -9332,7 +9330,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 – Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -9340,11 +9338,11 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 – Taller polivalente de mantenimiento de viviendas.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3088. Mantenimiento básico de instalaciones electrotécnicas en viviendas.
 
@@ -9356,7 +9354,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 3025. Montaje de equipos de climatización.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3088. Mantenimiento de instalaciones eléctricas y domóticas en viviendas.
 
@@ -9370,7 +9368,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 3096. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3088. Mantenimiento básico de instalaciones electrotécnicas en viviendas.
 
@@ -9422,11 +9420,11 @@ El Título profesional básico en fabricación de elementos metálicos queda ide
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones básicas de mecanizado y montaje para la fabricación mecánica con materiales metálicos (férricos y no férricos) así como realizar operaciones auxiliares en el montaje y mantenimiento de elementos y equipos eléctricos y electrónicos, operando con la calidad indicada, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -9484,7 +9482,7 @@ y) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 z) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales completas:
 
@@ -9502,11 +9500,11 @@ UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctric
 
 UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de elementos metálicos mediante procedimientos de soldadura y calderería ligera, así como al montaje y mantenimiento de equipos eléctricos y electrónicos, siempre bajo la supervisión de un titulado superior, y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión.
+**2.4.1** Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de elementos metálicos mediante procedimientos de soldadura y calderería ligera, así como al montaje y mantenimiento de equipos eléctricos y electrónicos, siempre bajo la supervisión de un titulado superior, y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Operario/a de instalaciones eléctricas de baja tensión.
 
@@ -9540,7 +9538,7 @@ UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctr
 
 – Auxiliar de montador/a de estructuras metálicas.
 
-2.5 Prospectiva del sector o de los sectores relacionados con el título.
+**2.5** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -9566,7 +9564,7 @@ j) Las características del mercado de trabajo, la movilidad laboral, la apertur
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -9628,7 +9626,7 @@ aa) Desarrollar las técnicas de su actividad profesional asegurando la eficac
 
 bb) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -9652,7 +9650,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3079. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos.
+**3.3** Desarrollo de los módulos.
 
 Módulo Profesional: Equipos eléctricos y electrónicos.
 
@@ -12408,7 +12406,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -12418,11 +12416,11 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Taller de construcciones metálicas.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3015. Equipos eléctricos y electrónicos.
 
@@ -12434,7 +12432,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3073. Operaciones básicas de calderería ligera.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3015. Equipos eléctricos y electrónicos.
 
@@ -12448,7 +12446,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3079. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3015. Equipos eléctricos y electrónicos.
 
@@ -12514,11 +12512,11 @@ El Título profesional básico en instalaciones electrotécnicas y mecánica que
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general de este título consiste en realizar operaciones auxiliares en el montaje y mantenimiento de instalaciones electrotécnicas y de telecomunicaciones en edificios, así como operaciones básicas de fabricación y montaje para fabricación mecánica, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -12570,7 +12568,7 @@ v) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 w) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales completas:
 
@@ -12586,11 +12584,11 @@ UC0087_1: Realizar operaciones básicas de fabricación.
 
 UC0088_1: Realizar operaciones básicas de montaje.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones electrotécnicas de edificios, viviendas, oficinas, locales comerciales e industriales, supervisado por un nivel superior y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión y por la Normativa de las Infraestructuras Comunes de Telecomunicaciones.
+**2.4.1** Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones electrotécnicas de edificios, viviendas, oficinas, locales comerciales e industriales, supervisado por un nivel superior y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión y por la Normativa de las Infraestructuras Comunes de Telecomunicaciones.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Operario/a de instalaciones eléctricas de baja tensión.
 
@@ -12608,7 +12606,7 @@ UC0088_1: Realizar operaciones básicas de montaje.
 
 – Auxiliares de procesos automatizados.
 
-2.5 Prospectiva del sector o de los sectores relacionados con el título.
+**2.5** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -12624,7 +12622,7 @@ e) Las características del mercado de trabajo, la movilidad laboral, la apertur
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -12680,7 +12678,7 @@ x) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 y) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -12704,7 +12702,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3081. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos.
+**3.3** Desarrollo de los módulos.
 
 Módulo Profesional: Instalaciones eléctricas y domóticas.
 
@@ -15406,7 +15404,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -15416,11 +15414,11 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Taller de construcciones metálicas.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3013. Instalaciones eléctricas y domóticas.
 
@@ -15432,7 +15430,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3022. Carpintería de aluminio y PVC.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3013. Instalaciones eléctricas y domóticas.
 
@@ -15446,7 +15444,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3081. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3013. Instalaciones eléctricas y domóticas.
 
@@ -15512,11 +15510,11 @@ El Título profesional básico en mantenimiento de embarcaciones deportivas y de
 
 2. Perfil profesional.
 
-2.1 Competencia general del título.
+**2.1** Competencia general del título.
 
 La competencia general del título consiste en realizar operaciones auxiliares de mantenimiento electromecánico en sistemas y equipos, de reparaciones en elementos estructurales y aparejos, de protección y embellecimiento de superficies, tanto en embarcaciones deportivas como de recreo, siguiendo las instrucciones recibidas, adoptando las medidas de prevención de riesgos laborales y protección medioambiental correspondientes, comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
 
-2.2 Competencias del título.
+**2.2** Competencias del título.
 
 Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
 
@@ -15570,7 +15568,7 @@ w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la
 
 x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
 
-2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+**2.3** Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
 
 Cualificaciones profesionales completas:
 
@@ -15592,11 +15590,11 @@ UC1459_1: Realizar operaciones auxiliares en el mantenimiento de los sistemas el
 
 UC1460_1: Realizar operaciones auxiliares en el mantenimiento de aparejos de embarcaciones deportivas y de recreo.
 
-2.4 Entorno profesional.
+**2.4** Entorno profesional.
 
-2.4.1 Este profesional ejerce su actividad en el sector del mantenimiento de embarcaciones deportivas y de recreo, principalmente en talleres de reparación y mantenimiento naval y construcción de embarcaciones de recreo y deporte.
+**2.4.1** Este profesional ejerce su actividad en el sector del mantenimiento de embarcaciones deportivas y de recreo, principalmente en talleres de reparación y mantenimiento naval y construcción de embarcaciones de recreo y deporte.
 
-2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+**2.4.2** Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
 
 – Auxiliar de carpintero/a de ribera.
 
@@ -15610,7 +15608,7 @@ UC1460_1: Realizar operaciones auxiliares en el mantenimiento de aparejos de emb
 
 – Auxiliar de mantenimiento de aparejos de embarcaciones.
 
-2.5 Prospectiva del sector o de los sectores relacionados con el título.
+**2.5** Prospectiva del sector o de los sectores relacionados con el título.
 
 Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
 
@@ -15626,7 +15624,7 @@ e) Así mismo, se prevé el empleo de nuevas fibras y resinas en la construcció
 
 3. Enseñanzas del ciclo formativo.
 
-3.1 Objetivos generales del título.
+**3.1** Objetivos generales del título.
 
 Los objetivos generales de este ciclo formativo son los siguientes:
 
@@ -15684,7 +15682,7 @@ y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia 
 
 z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
 
-3.2 Módulos profesionales.
+**3.2** Módulos profesionales.
 
 Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
@@ -15710,7 +15708,7 @@ Los módulos de este ciclo formativo, son los que a continuación se relacionan:
 
 3071. Formación en centros de trabajo.
 
-3.3 Desarrollo de los módulos.
+**3.3** Desarrollo de los módulos.
 
 Módulo Profesional: Mecanizado y soldadura.
 
@@ -18782,7 +18780,7 @@ Contribuye, además, al afianzamiento de hábitos de orden, puntualidad, respons
 
 4. Requisitos mínimos de calidad del contexto formativo.
 
-4.1 Espacios.
+**4.1** Espacios.
 
 Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
 
@@ -18792,11 +18790,11 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 – Taller de reparación estructural.
 
-4.2 Equipamientos mínimos.
+**4.2** Equipamientos mínimos.
 
 5. Profesorado.
 
-5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
+**5.1** Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales asociados al perfil profesional, son:
 
 3043. Mecanizado y soldadura.
 
@@ -18810,7 +18808,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3068. Mantenimiento básico de aparejos de embarcaciones deportivas.
 
-5.2 Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.2** Las titulaciones requeridas para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3043. Mecanizado y soldadura.
 
@@ -18826,7 +18824,7 @@ Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo form
 
 3071. Formación en centros de trabajo.
 
-5.3 Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
+**5.3** Las titulaciones habilitantes a efectos de docencia para la impartición de los módulos profesionales, para los centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, son:
 
 3043. Mecanizado y soldadura.
 

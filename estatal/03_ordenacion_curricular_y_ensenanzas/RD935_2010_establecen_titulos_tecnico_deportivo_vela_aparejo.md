@@ -550,8 +550,6 @@ Podrán ser objeto de exención total o parcial del módulo de formación práct
 
 1. La correspondencia formativa entre los módulos de enseñanza deportiva de los ciclos desarrollados en el presente real decreto, y la experiencia deportiva acreditable en esta modalidad deportiva, se establece en el Anexo XV.
 
-2. La correspondencia formativa será aplicada por los centros, siguiendo el procedimiento establecido por la correspondiente Administración educativa.
-
 #### Disposición adicional primera. Referencia del título en el marco europeo.
 
 Una vez establecido el marco nacional de cualificaciones, de acuerdo con las Recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.
@@ -902,7 +900,7 @@ b. Se han aplicado técnicas elementales de recogida de información para la obt
 
 c. Se han identificado los intereses y las motivaciones características de las personas en la etapa de la infancia.
 
-d.  Se han descrito las características de los chicos y de las chicas a nivel motriz y psicológico en la primera etapa del proceso de aprendizaje motor.
+d. Se han descrito las características de los chicos y de las chicas a nivel motriz y psicológico en la primera etapa del proceso de aprendizaje motor.
 
 e. Se ha demostrado interés por respetar el desarrollo natural y saludable del deportista acorde con su estado madurativo.
 
@@ -1086,7 +1084,7 @@ CONTENIDOS BÁSICOS:
 
 4. Transmite valores personales y sociales aplicando las técnicas adecuadas y reflexionando sobre las propias actitudes y comportamientos.
 
-–  El deporte como trasmisor de valores personales y sociales tanto positivos como negativos.
+– El deporte como trasmisor de valores personales y sociales tanto positivos como negativos.
 
 – La responsabilidad del técnico deportivo en la transmisión de valores éticos en el deporte y en evitar los contravalores.
 
@@ -2106,7 +2104,7 @@ b. Se ha identificado la estructura organizativa y el funcionamiento de las dist
 
 c. Se ha reconocido el tipo de asociación deportiva del club o entidad deportiva de prácticas.
 
-d.  Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad deportiva.
 
 e. Se ha identificado la oferta de actividades vinculadas a la iniciación deportiva o al acompañamiento de usuarios.
 
@@ -2394,11 +2392,11 @@ h. Se han aplicado diferentes tipos de feedback desde el punto de vista de la ef
 
 i. Se han identificado las variables a tener en cuenta en la administración del feedback: momento de aplicación, frecuencia en la administración, y la cantidad.
 
-j.  Se ha identificado y aplicado las diferentes formas de distribución de la práctica como uno de los factores que influyen en el aprendizaje, a lo largo del proceso de enseñanza-aprendizaje.
+j. Se ha identificado y aplicado las diferentes formas de distribución de la práctica como uno de los factores que influyen en el aprendizaje, a lo largo del proceso de enseñanza-aprendizaje.
 
-k.  Se han descrito y argumentado las características y posibles causas de los comportamientos no deseados en las tareas y sesiones de EB y PT.
+k. Se han descrito y argumentado las características y posibles causas de los comportamientos no deseados en las tareas y sesiones de EB y PT.
 
-l.  Se han analizado y aplicado las medidas de intervención del técnico ante posibles conductas no deseadas en tareas y sesiones de EB y PT.
+l. Se han analizado y aplicado las medidas de intervención del técnico ante posibles conductas no deseadas en tareas y sesiones de EB y PT.
 
 4. Interpreta la programación de la enseñanza deportiva analizando sus componentes y diseñando actividades en función de la etapa de aprendizaje del/de la deportista.
 
@@ -2420,7 +2418,7 @@ h. Se han descrito los conceptos de progresión, interferencia contextual y sign
 
 i. Se ha valorado la importancia de la progresión y la interferencia contextual en el diseño y modificación de tareas como factor de mejora en el aprendizaje deportivo.
 
-j.  Se ha destacado la importancia de la motivación del deportista hacia la tarea como elemento clave en su mejora y su adherencia a la práctica.
+j. Se ha destacado la importancia de la motivación del deportista hacia la tarea como elemento clave en su mejora y su adherencia a la práctica.
 
 5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de gestión de recursos humanos.
 
@@ -2454,7 +2452,7 @@ h. Se han descrito y aplicado mecanismos de adaptación de la competición para 
 
 i. Se ha valorado la importancia de fomentar el desarrollo integral del/de la deportista y no sólo el aspecto técnico-deportivo.
 
-j.  Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
+j. Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
 
 CONTENIDOS BÁSICOS:
 
@@ -2916,7 +2914,7 @@ h. Se ha valorado la importancia de una actitud positiva hacia la inclusión por
 
 i. Se han descrito las posibilidades del material deportivo adaptado específico de los diferentes juegos y deportes adaptados.
 
-j.  Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
+j. Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
 
 3. Organiza a los deportistas con discapacidad interpretando las principales clasificaciones funcionales del deporte adaptado y las características de los deportes adaptados.
 
@@ -3080,7 +3078,7 @@ d. Se ha analizado el significado y alcance de los distintos tipos de señalizac
 
 e. Se han analizado los requisitos básicos de seguridad que han de cumplir las instalaciones y equipamiento deportivo para todas las personas que sean usuarias o personal laboral, según la normativa vigente.
 
-f.  Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
+f. Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
 
 g. Se han descrito las medidas de protección contra actos antisociales y de violencia en el deporte, en una instalación deportiva.
 
@@ -3586,7 +3584,7 @@ g. Se ha analizado la normativa sobre protección de medio ambiente de salvament
 
 h. Se han descrito las obligaciones de la entidad organizadora, clubes y federaciones deportivas, coordinador de seguridad en la organización de regatas Oficiales, según el RD 62/2008 de 25 de enero.
 
-i.  Se ha justificado la importancia de respetar y cumplir la normativa vigente como factor de calidad y seguridad en la organización de eventos a vela de tecnificación.
+i. Se ha justificado la importancia de respetar y cumplir la normativa vigente como factor de calidad y seguridad en la organización de eventos a vela de tecnificación.
 
 4. Recoge la información sobre el desarrollo del evento deportivo de promoción e iniciación a la vela, analizando los sistemas de recogida de datos, la documentación utilizable y aplicando técnicas para su procesamiento y archivo.
 
@@ -4016,7 +4014,7 @@ d. Se han identificando signos indicadores de riesgo antes y durante la ejecuci�
 
 e. Se han descrito las normas de seguridad que se deben observar durante la realización de test o pruebas específicas de valoración de las capacidades condicionales de las que depende la condición física específica del regatista.
 
-f.  Se han valorado, en un supuesto práctico de secuencia de medición de la condición física específica de un regatista, los cambios observados en las diferentes mediciones justificando las posibles relaciones causa-efecto.
+f. Se han valorado, en un supuesto práctico de secuencia de medición de la condición física específica de un regatista, los cambios observados en las diferentes mediciones justificando las posibles relaciones causa-efecto.
 
 g. Se han elaborado instrumentos para la recogida de la información sobre la condición física específica del regatista durante el entrenamiento y la competición (o práctica deportiva).
 
@@ -4066,7 +4064,7 @@ c. Se ha dirigido una sesión simulada de desarrollo de la condición física de
 
 d. Se han analizado las incidencias más habituales en las sesiones de desarrollo de la condición física del regatista, relacionándolas con las causas y posibles medidas para su solución.
 
-e.  Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones desarrollo de la condición física del regatista,
+e. Se han analizado las actitudes y acciones de motivación más adecuadas en las sesiones desarrollo de la condición física del regatista,
 
 f. Se han identificado los criterios de calidad en la organización y dirección de sesiones de desarrollo de la condición física del regatista,
 
@@ -4160,7 +4158,7 @@ Resultados de aprendizaje y criterios de evaluación
 
 a. Se han descrito las necesidades propias de cada discapacidad atendiendo al mecanismo funcional afectado y sus consecuencias a nivel perceptivo motor en la práctica de la vela adaptada.
 
-b.  Se han identificado las principales restricciones en la participación hacia la vela adaptada provocados por las discapacidades de los alumnos.
+b. Se han identificado las principales restricciones en la participación hacia la vela adaptada provocados por las discapacidades de los alumnos.
 
 c. Se han aplicado procedimientos específicos de recogida de información del comportamiento motor de la persona con discapacidad: especialmente en relación al transporte, autonomía en el centro donde se realiza la actividad, subir y bajar del barco y sus habilidades motrices específicas para la práctica de la vela adaptada.
 
@@ -5024,7 +5022,7 @@ i. Se han trasladado al regatista las instrucciones técnicas y tácticas durant
 
 j. Se ha acompañado a los regatistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
 
-k.  Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
 
 5. Adapta y concreta los programas y, dirige las sesiones de entrenamiento básico y perfeccionamiento técnico en vela con aparejo fijo, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
 
@@ -5034,7 +5032,7 @@ b. Se ha recibido al regatista siguiendo el protocolo establecido e identificand
 
 c. Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz propios del regatista del nivel de tecnificación en vela con aparejo fijo, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
 
-d.  Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del regatista a partir de la programación de referencia del centro náutico.
+d. Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del regatista a partir de la programación de referencia del centro náutico.
 
 e. Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de un regatista o grupo de regatistas en las sesiones de entrenamiento básico y perfeccionamiento técnico en vela con aparejo fijo.
 
@@ -5836,7 +5834,7 @@ b. Se han realizado las operaciones de gestión del seguro de accidente y activi
 
 c. Se ha reconocido y justificado la responsabilidad de un técnico en los desplazamientos de los regatistas para asistir a una competición.
 
-d.  Se ha elaborado el plan de viaje de un regatista o grupo de regatistas que participa en una competición de tecnificación en vela con aparejo libre, aplicando las instrucciones y procedimientos establecidos.
+d. Se ha elaborado el plan de viaje de un regatista o grupo de regatistas que participa en una competición de tecnificación en vela con aparejo libre, aplicando las instrucciones y procedimientos establecidos.
 
 e. Se ha comprobado la cobertura legal del regatista, durante su participación en la competición, de acuerdo con la normativa establecida.
 
@@ -5850,7 +5848,7 @@ i. Se han trasladado al regatista las instrucciones técnicas y tácticas durant
 
 j. Se ha acompañado a los regatistas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
 
-k.  Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en vela, aplicando los procedimientos adecuados y respetando las normas de la misma.
 
 5. Adapta y concreta los programas y dirige las sesiones de entrenamiento básico y perfeccionamiento técnico en vela con aparejo libre, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas y colaborando en la aplicación de técnicas de detección de talentos.
 
@@ -5860,7 +5858,7 @@ b. Se ha recibido al regatista siguiendo el protocolo establecido e identificand
 
 c. Se han aplicado técnicas y protocolos de valoración técnica y de la condición motriz propios del regatista del nivel de tecnificación en vela con aparejo libre, valorando su estado inicial, el grado de consecución de los objetivos propuestos y los errores cometidos.
 
-d.  Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del regatista a partir de la programación de referencia del centro náutico.
+d. Se ha identificado y seleccionado los objetivos técnicos y de preparación de la condición motriz del regatista a partir de la programación de referencia del centro náutico.
 
 e. Se han aplicado protocolos de control y cuantificación de la carga de entrenamiento de un regatista o grupo de regatistas en las sesiones de entrenamiento básico y perfeccionamiento técnico en vela con aparejo libre.
 
@@ -5978,7 +5976,7 @@ MED-VEVE103: Seguridad de la navegación y conservación de los materiales
 
 MED-VEVE104: Metodología de la vela e iniciación a la competición
 
-BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA  EN APAREJO FIJO
+BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA EN APAREJO FIJO
 
 Â
 
@@ -5996,7 +5994,7 @@ MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF
 
 MED-EVEAF207: Puesta a punto del material de AF
 
-BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA  CON APAREJO LIBRE
+BLOQUE ESPECÍFICO CICLO FINAL DE GRADO MEDIO EN VELA CON APAREJO LIBRE
 
 Â
 
@@ -6154,10 +6152,6 @@ Pista polideportiva 44 x 22 mts
 
 Â
 
-Â
-
-MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad.
-
 Espacio de formación
 
 Módulo de enseñanza deportiva
@@ -6241,10 +6235,6 @@ MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento dep
 Pista polideportiva. 44 x 22 mts
 
 Â
-
-Â
-
-MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad.
 
 Espacio de formación
 
@@ -6808,8 +6798,6 @@ Catedráticos de Enseñanza Secundaria.
 
 Profesor especialista.
 
-Profesor especialista.
-
 MED-VEAL211: Formación práctica.
 
 Especialidad de Educación Física con alguno de los siguientes títulos: • Técnico Deportivo Superior en Vela con aparejo fijo. • Técnico Deportivo Superior en Vela con aparejo libre.
@@ -6817,8 +6805,6 @@ Especialidad de Educación Física con alguno de los siguientes títulos: • T�
 Catedráticos de Enseñanza Secundaria.
 
 Â
-
-Profesor especialista.
 
 Profesor especialista.
 
@@ -6914,11 +6900,7 @@ Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superio
 
 MED-VEVE103: Seguridad de la navegación y conservación de los materiales.
 
-Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
-
 MED-VEVE104: Metodología de la vela e iniciación a la competición.
-
-Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
 
 MED-VEVE105: Formación práctica.
 
@@ -6928,23 +6910,17 @@ CICLOS FINALES DE GRADO MEDIO EN VELA CON APAREJO FIJO Y APAREJO LIBRE.
 
 MED-VEVE201: Escuela de vela.
 
-Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
-
 MED-VEVE202: Competiciones y eventos a vela.
 
 Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
 
 MED-VEVE203: Seguridad en la navegación a vela.
 
-Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
-
 MED-VEVE204: Preparación física del regatista.
 
 Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
 
 MED-VEVE205: Vela adaptada.
-
-Técnico Deportivo Superior en Vela con aparejo fijo. Técnico Deportivo Superior en Vela con aparejo libre.
 
 MED-EVEAF206: Perfeccionamiento técnico-táctico de la vela con AF.
 
@@ -7084,8 +7060,6 @@ CICLO FINAL VELA AF
 
 MED-VEVE201: Escuela de vela. MED-VEVE203: Seguridad en la navegación a vela. MED-VEAF206: Perfeccionamiento técnico-táctico de la vela con AF. MED-VEAF207: Puesta a punto del material de AF.
 
-Experiencia como Profesor en materias relacionadas con el correspondiente módulo de enseñanza deportiva acreditable, realizadas de acuerdo a lo establecido en la disposición transitoria primera del RD 1913/1997, de 19 de diciembre, y en la disposición transitoria primera del RD 1363/2007, de 24 de octubre. La experiencia deberá ser de, al menos, el triple de la horas establecidas en este real decreto para el módulo de enseñanza deportiva objeto de la correspondencia formativa.
-
 CICLO FINAL VELA AL
 
 MED-VEVE201: Escuela de vela. MED-VEVE203: Seguridad en la navegación a vela. MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL. MED-VEAL210: Puesta a punto del material de AL.
@@ -7117,8 +7091,6 @@ Deportista de alto nivel. Clasificado entre los 5 primeros en alguno de los camp
 CICLO FINAL DE GRADO MEDIO EN VELA CON APAREJO LIBRE
 
 MED-VEVE202: Competiciones y eventos a vela. MED-EVEAF209: Perfeccionamiento técnico-táctico de la vela con AL. MED-VEAL210: Puesta a punto del material de AL.
-
-Deportista de alto nivel. Clasificado entre los 5 primeros en alguno de los campeonatos del mundo, de Europa o de España en la modalidad correspondiente.
 
 La condición de deportista de alto nivel o alto rendimiento se acreditará de acuerdo a lo establecido en el RD 971/2007, de 13 de julio, sobre los deportistas de alto nivel y alto rendimiento.
 

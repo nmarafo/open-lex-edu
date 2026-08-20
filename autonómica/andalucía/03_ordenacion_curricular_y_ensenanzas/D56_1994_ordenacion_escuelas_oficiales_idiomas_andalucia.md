@@ -42,8 +42,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -72,11 +70,11 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
-Boletín 31 2.2 Oposiciones y concursos
+Boletín 31
+
+**2.2** Oposiciones y concursos
 
 ##
 
@@ -173,15 +171,17 @@ Disposición siguiente
 
 31 de 15/3/1994
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../1994/31/boletin.31.pdf">Descargar boletín nº 31 completo
 
@@ -198,4 +198,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

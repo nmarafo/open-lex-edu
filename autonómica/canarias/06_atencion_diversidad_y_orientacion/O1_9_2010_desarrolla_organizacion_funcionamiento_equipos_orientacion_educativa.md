@@ -598,7 +598,7 @@ Quedan derogadas cuantas disposiciones generales del mismo o inferior rango se o
 
 Primera.- Se autoriza a los centros directivos de esta Consejería y, en especial, a la Dirección General de Ordenación e Innovación Educativa, para que, en el ámbito de sus atribuciones, dicten las instrucciones necesarias para la aplicación, ejecución y desarrollo de la presente Orden.
 
-#### Segunda. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Santa Cruz de Tenerife, a 1 de septiembre de 2010. LA CONSEJERA DE EDUCACIÓN, UNIVERSIDADES, CULTURA Y DEPORTES, Milagros Luis Brito. A N E X O  I CONTENIDO DEL INFORME EDUCATIVO DE DERIVACIÓN
+#### Segunda. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Canarias. Santa Cruz de Tenerife, a 1 de septiembre de 2010. LA CONSEJERA DE EDUCACIÓN, UNIVERSIDADES, CULTURA Y DEPORTES, Milagros Luis Brito. A N E X O I CONTENIDO DEL INFORME EDUCATIVO DE DERIVACIÓN
 
 1. Datos personales del alumno o alumna.
 
@@ -607,18 +607,46 @@ Primera.- Se autoriza a los centros directivos de esta Consejería y, en especia
 3. Historia familiar, escolar, condiciones personales de salud y otros factores de riesgo.
 
 4. Señales de alerta presentes:
-4.1. Dificultades de comportamiento y aprendizaje:
-4.1.1. Presentes en el entorno familiar. 4.1.2. Presentes en el entorno escolar. 4.2. Resultado de las pruebas formales (atención, control inhibitorio, memoria de trabajo inteligencia general, ...). 4.3. Problemas de rendimiento escolar. 4.4. Actuaciones realizadas con el alumno o la alumna en el centro o en el aula.
 
-5. Conclusiones. A N E X O  I I CONTENIDO DEL PREINFORME PSICOPEDAGÓGICO (PIP)
+**4.1.** Dificultades de comportamiento y aprendizaje:
 
-1. Datos del alumno o la alumna. 1.1. Datos personales. 1.2. Condiciones de salud y sociofamiliar, si fuera necesario. 1.3. Motivo de la evaluación (a petición de quién y por qué).
+**4.1.1.** Presentes en el entorno familiar.
+
+**4.1.2.** Presentes en el entorno escolar.
+
+**4.2.** Resultado de las pruebas formales (atención, control inhibitorio, memoria de trabajo inteligencia general, ...).
+
+**4.3.** Problemas de rendimiento escolar.
+
+**4.4.** Actuaciones realizadas con el alumno o la alumna en el centro o en el aula.
+
+5. Conclusiones. A N E X O I I CONTENIDO DEL PREINFORME PSICOPEDAGÓGICO (PIP)
+
+1. Datos del alumno o la alumna.
+
+**1.1.** Datos personales.
+
+**1.2.** Condiciones de salud y sociofamiliar, si fuera necesario.
+
+**1.3.** Motivo de la evaluación (a petición de quién y por qué).
 
 2. Historia escolar (evolución académica del alumno o la alumna, respuestas inclusivas o de otro tipo que se hayan dado a las necesidades educativas que presenta el escolar, medidas tomadas por el centro y resultados, justificación y valoración de dichas medidas por el equipo docente).
 
-3. Datos sobre el nivel competencial. 3.1. Competencia curricular. 3.1.1. Logro académico de objetivos por cada área o materia y grado de desarrollo o adquisición de las competencias básicas. 3.1.2. Competencia académica basada en los procesos subyacentes a la lectura, escritura y aritmética, cuando se observen desajustes en las áreas o materias más relacionadas con tales procesos. 3.2. Competencia cognitiva. 3.3. Competencia socio-afectiva, si fuera necesario. 3.4. Competencia en comunicación y lenguaje, si fuera necesario.
+3. Datos sobre el nivel competencial.
 
-4. Conclusiones y orientaciones para la planificación de la respuesta educativa: programas educativos personalizados a desarrollar (PEP). A N E X O  I I I CONTENIDO DEL INFORME PSICOPEDAGÓGICO El informe psicopedagógico ha de recoger en la página en la que constan los datos del alumno/a y en la portada del mismo lo siguiente:
+**3.1.** Competencia curricular.
+
+**3.1.1.** Logro académico de objetivos por cada área o materia y grado de desarrollo o adquisición de las competencias básicas.
+
+**3.1.2.** Competencia académica basada en los procesos subyacentes a la lectura, escritura y aritmética, cuando se observen desajustes en las áreas o materias más relacionadas con tales procesos.
+
+**3.2.** Competencia cognitiva.
+
+**3.3.** Competencia socio-afectiva, si fuera necesario.
+
+**3.4.** Competencia en comunicación y lenguaje, si fuera necesario.
+
+4. Conclusiones y orientaciones para la planificación de la respuesta educativa: programas educativos personalizados a desarrollar (PEP). A N E X O I I I CONTENIDO DEL INFORME PSICOPEDAGÓGICO El informe psicopedagógico ha de recoger en la página en la que constan los datos del alumno/a y en la portada del mismo lo siguiente:
 a) Fecha del informe, número de informe del EOEP y nota de confidencialidad que diga: "La información
 
 recogida en el presente informe es totalmente confidencial, refleja la situación actual del alumno o de la alumna y no debe ser considerada como determinante o definitiva", tratándose dicha información conforme a la normativa de protección de datos vigente.
@@ -626,44 +654,125 @@ b) **El registro del informe psicopedagógico será el siguiente.** Código del 
 c) Si se trata de una actualización, se reflejará el número de informe inicial y se añadirá un nuevo número con las mismas condiciones, es decir, con el código del equipo actual (8 dígitos), con el número de orden que le corresponda en el año en que se actualiza (4 dígitos), y con el año en que se realiza la actualización (2 dígitos).
 d) Todas las páginas del informe deben estar numeradas conformando un solo documento, con el membrete oficial del Equipo y constando al pie de cada página el nombre y apellidos del alumno o alumna. Asimismo los epígrafes del informe psicopedagógico son los que a continuación se enumeran y describen:
 
-1. Datos del alumno o la alumna. 1.1. Datos personales. 1.2. Motivo de la evaluación (a petición de quién y por qué). 1.3. Historia escolar (evolución académica del escolar; respuestas que se hayan dado a las NEAE que presenta el alumno o alumna; medidas tomadas por el centro y resultados, justificando y valorando dichas medidas).
+1. Datos del alumno o la alumna.
+
+**1.1.** Datos personales.
+
+**1.2.** Motivo de la evaluación (a petición de quién y por qué).
+
+**1.3.** Historia escolar (evolución académica del escolar; respuestas que se hayan dado a las NEAE que presenta el alumno o alumna; medidas tomadas por el centro y resultados, justificando y valorando dichas medidas).
 
 2. Condiciones personales de salud y observaciones sobre medidas médico sanitarias:
 Se deberá explicitar, si procede, que no se observan condiciones de salud que incidan significativamente en las NEAE del alumno o alumna.
 
 3. Datos sobre el nivel competencial:
-3.1. Competencia curricular.
+
+**3.1.** Competencia curricular.
 a) Logro académico de cada área o materia donde presente dificultades, expresando el grado de desarrollo o adquisición de los objetivos, contenidos y competencias básicas, que se adjuntará en un documento anexo al informe. En este apartado sólo se recogerá el curso en que se encuentra el referente curricular en todas las áreas o materias, partiendo del acta del equipo educativo al respecto (ver
 
 ## Anexo IV. ).
 
-b) Competencia académica basada en los procesos cognitivos de lectura, escritura y cálculo, cuando se observen desajustes en las áreas o materias más relacionadas con estos procesos cognitivos. Para ello es fundamental una reunión con el equipo docente. 3.2. Competencia cognitiva. Incluir, entre otras cosas, los resultados cuantitativos obtenidos en las pruebas normalizadas aplicadas, así como su interpretación. 3.3. Competencia socio-afectiva. 3.4. Estilo de aprendizaje. 3.5. Comunicación y el lenguaje. En caso de precisar la intervención del maestro o maestra de audición y lenguaje incluir aquí el contenido del informe de la evaluación de la comunicación y el lenguaje siguiendo, al menos, los apartados del anexo V de esta Orden.
+b) Competencia académica basada en los procesos cognitivos de lectura, escritura y cálculo, cuando se observen desajustes en las áreas o materias más relacionadas con estos procesos cognitivos. Para ello es fundamental una reunión con el equipo docente.
+
+**3.2.** Competencia cognitiva. Incluir, entre otras cosas, los resultados cuantitativos obtenidos en las pruebas normalizadas aplicadas, así como su interpretación.
+
+**3.3.** Competencia socio-afectiva.
+
+**3.4.** Estilo de aprendizaje.
+
+**3.5.** Comunicación y el lenguaje. En caso de precisar la intervención del maestro o maestra de audición y lenguaje incluir aquí el contenido del informe de la evaluación de la comunicación y el lenguaje siguiendo, al menos, los apartados del anexo V de esta Orden.
 
 4. Datos del proceso de enseñanza-aprendizaje en el contexto escolar:
-4.1. Contexto de aula. 4.2. Contexto de centro. Se escribirán solamente los aspectos relevantes para la respuesta educativa, teniendo en cuenta lo observado y la información facilitada por los distintos profesionales.
+
+**4.1.** Contexto de aula.
+
+**4.2.** Contexto de centro. Se escribirán solamente los aspectos relevantes para la respuesta educativa, teniendo en cuenta lo observado y la información facilitada por los distintos profesionales.
 
 5. Contexto socio-familiar:
 Se recogerán solamente los aspectos relevantes de la influencia de la familia y del contexto social en el desarrollo del alumno o alumna, interacciones familia-centro, autonomía e independencia, empleo del tiempo libre, modelos educativos, expectativas de la familia, recursos del entorno y uso de ellos.
 
 6. Conclusiones, identificación de las necesidades específicas de apoyo educativo y la previsión de apoyos personales y materiales:
-6.1. Conclusiones del proceso de evaluación psicopedagógica. 6.2. Identificación del tipo de NEAE que presenta el escolar. 6.3. Tipo de AC o ACUS, si procede. Hay que especificar las áreas o materias sujetas a adaptación. Se reflejará p.e.: "adaptación curricular que se aparta significativamente de su currículo o adaptación curricular". Hay que tener en cuenta que la ACUS solamente procede para alumnado con NEE y es de área o materia, no procediendo una ACUS global. 6.4. Recursos materiales y personales, según las modalidades de escolarización en la Comunidad Autónoma de Canarias, que el alumnado precisa. 6.5. Modalidad de escolarización (las previstas en esta norma). 6.6. Otras necesidades o aspectos de interés.
+
+**6.1.** Conclusiones del proceso de evaluación psicopedagógica.
+
+**6.2.** Identificación del tipo de NEAE que presenta el escolar.
+
+**6.3.** Tipo de AC o ACUS, si procede. Hay que especificar las áreas o materias sujetas a adaptación. Se reflejará p.e.: "adaptación curricular que se aparta significativamente de su currículo o adaptación curricular". Hay que tener en cuenta que la ACUS solamente procede para alumnado con NEE y es de área o materia, no procediendo una ACUS global.
+
+**6.4.** Recursos materiales y personales, según las modalidades de escolarización en la Comunidad Autónoma de Canarias, que el alumnado precisa.
+
+**6.5.** Modalidad de escolarización (las previstas en esta norma).
+
+**6.6.** Otras necesidades o aspectos de interés.
 
 7. Orientaciones para la planificación de la respuesta educativa:
 Estas orientaciones han de ser útiles para realizar las adecuaciones organizativas y curriculares necesarias para el escolar.
 
 8. Documentos relevantes:
-8.1. Relación de instrumentos o pruebas normalizadas y no normalizadas empleados en la exploración. 8.2. Si existieran otros preinformes o informes psicopedagógicos, se reseñarán. 8.3. Actualizaciones del informe psicopedagógico, si las hubiera. 8.4. Otros documentos, si existieran.
+
+**8.1.** Relación de instrumentos o pruebas normalizadas y no normalizadas empleados en la exploración.
+
+**8.2.** Si existieran otros preinformes o informes psicopedagógicos, se reseñarán.
+
+**8.3.** Actualizaciones del informe psicopedagógico, si las hubiera.
+
+**8.4.** Otros documentos, si existieran.
 
 9. Dictamen o propuesta de orientación psicoeducativa. En caso de que el informe psicopedagógico finalice en dictamen, se cumplimentarán los siguientes apartados:
-9.1. Datos personales del alumno o alumna (incluirán las condiciones personales de salud, o discapacidad). 9.2. Conclusiones del proceso de evaluación psicopedagógica. 9.2.1. Desarrollo general del alumno o alumna. 9.2.2. Datos del nivel de competencia y referente curricular, por áreas o materias según el acta del equipo educativo. 9.2.3. Competencia cognitiva y socioafectiva. 9.2.4. Otras condiciones significativas para el proceso de enseñanza-aprendizaje. 9.2.5. Identificación del tipo de NEAE que presenta el alumno o alumna. 9.3. Orientaciones sobre la propuesta psicopedagógica, sobre los aspectos organizativos y metodológicos, y sobre el tipo de apoyo personal y material, teniendo en cuenta los recursos disponibles 9.3.1. Tipo de AC/ACUS y áreas o materias adaptadas. 9.3.2. Orientaciones para elaborar la AC/ACUS y los PEP. 9.3.3. Tipo de apoyos personales y materiales. 9.4. Acta de la reunión de información a la familia. Datos del acta, especialmente de la fecha y hora, de la reunión en la que se informa a los padres, madres, tutoras o tutores legales de evaluación psicopedagógica realizada y de las conclusiones principales de la misma, haciendo mención expresa, en su caso, a la existencia de una adaptación curricular, adaptación curricular significativa, a posibles escolarizaciones extraordinarias o elementos de acceso. El acta de información a los padres deberá quedar recogida en documento anexo al informe psicopedagógico, y deberá estar firmada por todos los asistentes a la sesión. 9.5. Propuesta razonada de escolarización (en función de las necesidades del alumno o alumna y de las características y posibilidades de los centros). Deberá figurar sólo una de las siguientes:
-9.5.1. Centro ordinario. 9.5.2. Aula enclave o, por necesidades de escolarización, centro ordinario. 9.5.3. Aula enclave o, por necesidades de escolarización, centro de educación especial. 9.5.4. Centro de educación especial. 9.5.5. Centros ordinarios de atención educativa preferente para discapacitados auditivos o motóricos. 9.6. Plazo de revisión de la propuesta de escolarización, si procede. Se pondrá el lugar, la fecha, el sello del Equipo, de conformidad con la nueva imagen corporativa del Gobierno de Canarias, y la firma de los profesionales de este que han participado, y Vº.Bº. del coordinador o coordinadora del Equipo. En el dictamen se incluirá el Vº.Bº. del Inspector o Inspectora de Educación del centro donde está escolarizado el alumno o alumna, con la siguiente leyenda:
+
+**9.1.** Datos personales del alumno o alumna (incluirán las condiciones personales de salud, o discapacidad).
+
+**9.2.** Conclusiones del proceso de evaluación psicopedagógica.
+
+**9.2.1.** Desarrollo general del alumno o alumna.
+
+**9.2.2.** Datos del nivel de competencia y referente curricular, por áreas o materias según el acta del equipo educativo.
+
+**9.2.3.** Competencia cognitiva y socioafectiva.
+
+**9.2.4.** Otras condiciones significativas para el proceso de enseñanza-aprendizaje.
+
+**9.2.5.** Identificación del tipo de NEAE que presenta el alumno o alumna.
+
+**9.3.** Orientaciones sobre la propuesta psicopedagógica, sobre los aspectos organizativos y metodológicos, y sobre el tipo de apoyo personal y material, teniendo en cuenta los recursos disponibles
+
+**9.3.1.** Tipo de AC/ACUS y áreas o materias adaptadas.
+
+**9.3.2.** Orientaciones para elaborar la AC/ACUS y los PEP.
+
+**9.3.3.** Tipo de apoyos personales y materiales.
+
+**9.4.** Acta de la reunión de información a la familia. Datos del acta, especialmente de la fecha y hora, de la reunión en la que se informa a los padres, madres, tutoras o tutores legales de evaluación psicopedagógica realizada y de las conclusiones principales de la misma, haciendo mención expresa, en su caso, a la existencia de una adaptación curricular, adaptación curricular significativa, a posibles escolarizaciones extraordinarias o elementos de acceso. El acta de información a los padres deberá quedar recogida en documento anexo al informe psicopedagógico, y deberá estar firmada por todos los asistentes a la sesión.
+
+**9.5.** Propuesta razonada de escolarización (en función de las necesidades del alumno o alumna y de las características y posibilidades de los centros). Deberá figurar sólo una de las siguientes:
+
+**9.5.1.** Centro ordinario.
+
+**9.5.2.** Aula enclave o, por necesidades de escolarización, centro ordinario.
+
+**9.5.3.** Aula enclave o, por necesidades de escolarización, centro de educación especial.
+
+**9.5.4.** Centro de educación especial.
+
+**9.5.5.** Centros ordinarios de atención educativa preferente para discapacitados auditivos o motóricos.
+
+**9.6.** Plazo de revisión de la propuesta de escolarización, si procede. Se pondrá el lugar, la fecha, el sello del Equipo, de conformidad con la nueva imagen corporativa del Gobierno de Canarias, y la firma de los profesionales de este que han participado, y Vº.Bº. del coordinador o coordinadora del Equipo. En el dictamen se incluirá el Vº.Bº. del Inspector o Inspectora de Educación del centro donde está escolarizado el alumno o alumna, con la siguiente leyenda:
 "Vº.Bº. del Inspector o Inspectora al dictamen de escolarización". El acta de información a los padres deberá quedar recogida en documento anexo al informe psicopedagógico, y deberá estar firmada por todos los asistentes a la sesión. En caso de que el informe psicopedagógico finalice en propuesta de orientación psico-educativa, se cumplimentarán los siguientes apartados:
-9.6.1. Datos personales del alumnado y condiciones de salud. 9.6.2. Las conclusiones del proceso de evaluación psicopedagógica referidas al desarrollo general del alumno o alumna, a su nivel de competencia curricular, cognitiva y socioafectiva, así como a otras condiciones significativas para el proceso de enseñanza y aprendizaje. Debe comprender, si procede, la identificación del tipo de NEAE que presenta. 9.6.3. Orientaciones para la respuesta psicopedagógica que mejor satisfaga sus necesidades y sobre los aspectos organizativos y metodológicos y, en su caso, sobre el tipo de apoyo personal y material necesario, teniendo en cuenta los recursos disponibles. 9.6.4. Acta de la reunión de información a la familia. Datos del acta, especialmente de la fecha y hora, de la reunión en la que se informa a los padres, madres, tutores o tutoras legales de evaluación psicopedagógica realizada y de las conclusiones principales de la misma, haciendo mención expresa a la propuesta de orientación psicoeducativa. El acta de información a los padres deberá quedar recogida en documento anexo al informe psicopedagógico, y deberá estar firmada por todos los asistentes a la sesión. 9.6.5. Plazo de revisión de la propuesta. Se pondrá el lugar, la fecha, el sello del Equipo, de conformidad con la nueva imagen corporativa del Gobierno de Canarias, y la firma de los profesionales del mismo que han participado.
+
+**9.6.1.** Datos personales del alumnado y condiciones de salud.
+
+**9.6.2.** Las conclusiones del proceso de evaluación psicopedagógica referidas al desarrollo general del alumno o alumna, a su nivel de competencia curricular, cognitiva y socioafectiva, así como a otras condiciones significativas para el proceso de enseñanza y aprendizaje. Debe comprender, si procede, la identificación del tipo de NEAE que presenta.
+
+**9.6.3.** Orientaciones para la respuesta psicopedagógica que mejor satisfaga sus necesidades y sobre los aspectos organizativos y metodológicos y, en su caso, sobre el tipo de apoyo personal y material necesario, teniendo en cuenta los recursos disponibles.
+
+**9.6.4.** Acta de la reunión de información a la familia. Datos del acta, especialmente de la fecha y hora, de la reunión en la que se informa a los padres, madres, tutores o tutoras legales de evaluación psicopedagógica realizada y de las conclusiones principales de la misma, haciendo mención expresa a la propuesta de orientación psicoeducativa. El acta de información a los padres deberá quedar recogida en documento anexo al informe psicopedagógico, y deberá estar firmada por todos los asistentes a la sesión.
+
+**9.6.5.** Plazo de revisión de la propuesta. Se pondrá el lugar, la fecha, el sello del Equipo, de conformidad con la nueva imagen corporativa del Gobierno de Canarias, y la firma de los profesionales del mismo que han participado.
 
 ## Anexo IV. ACTA PARA INFORMAR SOBRE EL NIVEL COMPETENCIAL O REFERENTE
 
 CURRICULAR Reunidos los abajo firmantes, miembros del equipo docente del/la alumno/a:
-________________________________________________CIAL_________ escolarizado en el curso/ciclo/etapa______ en el centro escolar CEIP/IES/CEO_________________________________ Informamos que, teniendo en cuenta los objetivos, contenidos y competencias establecidos en el Decreto 183/2008 del segundo ciclo de Ed. Infantil, en el  Decreto 126/2007 de Ed. Primaria, o en el Decreto 127/2007 de la ESO, en el día de la fecha, su  referente curricular1 se sitúa en las distintas áreas y materia  en los siguientes cursos:
+________________________________________________CIAL_________ escolarizado en el curso/ciclo/etapa______ en el centro escolar CEIP/IES/CEO_________________________________ Informamos que, teniendo en cuenta los objetivos, contenidos y competencias establecidos en el Decreto 183/2008 del segundo ciclo de Ed. Infantil, en el Decreto 126/2007 de Ed. Primaria, o en el Decreto 127/2007 de la ESO, en el día de la fecha, su referente curricular1 se sitúa en las distintas áreas y materia en los siguientes cursos:
 (poner una X dentro del cuadro correspondiente) EDUCACIÓN INFANTIL Conocimiento de sí mismo y autonomía personal Conocimiento del entorno Lenguaje:
 comunicación y representación
 Segundo ciclo 3 años
@@ -673,37 +782,57 @@ Segundo ciclo 3 años
 5 años
 
 EDUCACIÓN PRIMARIA Con. Med. Ed. Artíst. Ed.Física Leng.Cast.Lit. Leng. Extr. Matemáticas Primer ciclo Primer año (1º curso )
-Segundo año (2º º curso) 1 Por ejemplo, si se indica que el referente curricular es de 3º curso de Primaria, debe entenderse que el escolar  ha alcanzado el desarrollo correspondiente de los objetivos, contenidos y competencias básicas a los cursos anteriores, es decir,  del segundo curso del  primer ciclo Ed.Primaria en este caso. NEXO IV. ACTA PARA INFORMAR SOBRE EL NIVEL COMPETENCIAL O REFERENTE CURRICULAR A N E X O  I V
+Segundo año (2º º curso) 1 Por ejemplo, si se indica que el referente curricular es de 3º curso de Primaria, debe entenderse que el escolar ha alcanzado el desarrollo correspondiente de los objetivos, contenidos y competencias básicas a los cursos anteriores, es decir, del segundo curso del primer ciclo Ed.Primaria en este caso. NEXO IV. ACTA PARA INFORMAR SOBRE EL NIVEL COMPETENCIAL O REFERENTE CURRICULAR A N E X O I V
 
 EDUCACIÓN PRIMARIA Con. Med. Ed. Artíst. Ed.Física Leng.Cast.Lit. Leng. Extr. Matemáticas Primer ciclo Primer año (1º curso )
 Segundo año (2º curso)
 Segundo ciclo Primer año (3º curso)
 Segundo año (4º curso) Tercer ciclo Primer año (5º curso)
-Segundo año (6 º curso) 1 Por ejemplo, si se indica que el referente curricular es de 3º curso de Primaria, debe entenderse que el escolar  ha alcanzado el desarrollo correspondiente de los objetivos, contenidos y competencias básicas a los cursos anteriores, es decir,  del segundo curso del  primer ciclo Ed.Primaria en este caso. y que, considerando globalmente todas las áreas, el escolar  tiene un referente curricular  situado en el __curso de____ Del mismo modo, informamos que en las actas de evaluación correspondientes, expediente e historial académico del alumno/a consta como que tiene superado el ________curso/ciclo/etapa de______________ Lo que firmamos en _______________a_______ de__________de 20____ EL/LA TUTOR/A D/Dña___________________ ESO Ciencias de la Naturaleza. Ciencias Sociales, Geografía e Historia. Educación Física. Educación Plástica y Visual. Lengua Castellana y Literatura. Lengua Extranjera. Matemáticas. Primer curso
+Segundo año (6 º curso) 1 Por ejemplo, si se indica que el referente curricular es de 3º curso de Primaria, debe entenderse que el escolar ha alcanzado el desarrollo correspondiente de los objetivos, contenidos y competencias básicas a los cursos anteriores, es decir, del segundo curso del primer ciclo Ed.Primaria en este caso. y que, considerando globalmente todas las áreas, el escolar tiene un referente curricular situado en el __curso de____ Del mismo modo, informamos que en las actas de evaluación correspondientes, expediente e historial académico del alumno/a consta como que tiene superado el ________curso/ciclo/etapa de______________ Lo que firmamos en _______________a_______ de__________de 20____ EL/LA TUTOR/A D/Dña___________________ ESO Ciencias de la Naturaleza. Ciencias Sociales, Geografía e Historia. Educación Física. Educación Plástica y Visual. Lengua Castellana y Literatura. Lengua Extranjera. Matemáticas. Primer curso
 Segundo curso Tercer curso
 Cuarto curso Fdo: El/la profesor/a D/Dña__________ Fdo: El/la profesor/a D/Dña__________ VºBº El/la Director/a D/Dña.__________ Fdo: El/la profesor/a D/Dña__________
 
-A N E X O  V CONTENIDO DEL INFORME DE LA EVALUACIÓN DE LA COMUNICACIÓN Y EL LENGUAJE
+## Anexo V. CONTENIDO DEL INFORME DE LA EVALUACIÓN DE LA COMUNICACIÓN Y EL LENGUAJE
 
 1. Datos personales.
 
 2. Resultados de la evaluación del contexto sociofamiliar y escolar.
 
-3. Resultado de la valoración específica de la comunicación y el lenguaje. 3.1. Comunicación. 3.2. Lenguaje expresivo y comprensivo:
-3.2.1. Oral:
+3. Resultado de la valoración específica de la comunicación y el lenguaje.
+
+**3.1.** Comunicación.
+
+**3.2.** Lenguaje expresivo y comprensivo:
+
+**3.2.1.** Oral:
 a) Sintaxis.
 b) Morfología.
-c) **Semántica.** 3.2.2. Escrito:
-Lectura emergente, cuando proceda. 3.3. Habla:
-3.3.1. Inteligibilidad. 3.3.2. Fonología.
+c) **Semántica.**
 
-4. Evaluación complementaria de áreas colaterales. 4.1. Audición. 4.2. Motricidad del habla. 4.3. Respiración. 4.4. Cualidades de la voz.
+**3.2.2.** Escrito:
+Lectura emergente, cuando proceda.
+
+**3.3.** Habla:
+
+**3.3.1.** Inteligibilidad.
+
+**3.3.2.** Fonología.
+
+4. Evaluación complementaria de áreas colaterales.
+
+**4.1.** Audición.
+
+**4.2.** Motricidad del habla.
+
+**4.3.** Respiración.
+
+**4.4.** Cualidades de la voz.
 
 5. Elaboración del perfil comunicativo-lingüístico.
 
 6. Identificación de las necesidades educativas.
 
-7. Propuesta de acción educativa. A N E X O  V I CONTENIDO DEL INFORME DE ACTUALIZACIÓN DE LA EVALUACIÓN DE LA COMUNICACIÓN Y EL LENGUAJE
+7. Propuesta de acción educativa. A N E X O V I CONTENIDO DEL INFORME DE ACTUALIZACIÓN DE LA EVALUACIÓN DE LA COMUNICACIÓN Y EL LENGUAJE
 
 1. Datos personales.
 
@@ -711,13 +840,23 @@ Lectura emergente, cuando proceda. 3.3. Habla:
 
 3. Evolución y seguimiento de las medidas educativas adoptadas.
 
-4. Propuesta para el próximo curso (especificar las acciones educativas que habrán de desarrollarse en el curso escolar siguiente). A N E X O  V I I PLAN DE TRABAJO ANUAL DEL EOEP DE ZONA
+4. Propuesta para el próximo curso (especificar las acciones educativas que habrán de desarrollarse en el curso escolar siguiente). A N E X O V I I PLAN DE TRABAJO ANUAL DEL EOEP DE ZONA
 
 1. Datos del Equipo:
-1.1. Nombre y apellidos del coordinador o coordinadora y datos de contacto. 1.2. Dirección de la sede, teléfono, fax y correo electrónico. 1.3. Zona de actuación: municipios, distritos educativos, centros atendidos por cada profesional del Equipo. 1.4. Relación de los componentes: nombre y apellidos, especialidad, DNI, nº de registro personal, situación administrativa.
+
+**1.1.** Nombre y apellidos del coordinador o coordinadora y datos de contacto.
+
+**1.2.** Dirección de la sede, teléfono, fax y correo electrónico.
+
+**1.3.** Zona de actuación: municipios, distritos educativos, centros atendidos por cada profesional del Equipo.
+
+**1.4.** Relación de los componentes: nombre y apellidos, especialidad, DNI, nº de registro personal, situación administrativa.
 
 2. Análisis de necesidades y líneas prioritarias de actuación:
-2.1. Necesidades. 2.2. Líneas prioritarias de actuación de acuerdo a la normativa vigente.
+
+**2.1.** Necesidades.
+
+**2.2.** Líneas prioritarias de actuación de acuerdo a la normativa vigente.
 
 3. Objetivos generales del EOEP y actividades para su desarrollo.
 
@@ -729,18 +868,35 @@ Lectura emergente, cuando proceda. 3.3. Habla:
 
 7. Distribución y temporalización de tareas del equipo.
 
-8. Planes de actuación en centros asignados y no asignados. 8.1. Criterios de intervención. 8.2. Centros asignados de cada unidad de Orientación y Comunicación y Lenguaje y dedicación horaria. 8.3. Organización y temporalización de las intervenciones conjuntas previstas en los centros públicos asignados y no asignados.
+8. Planes de actuación en centros asignados y no asignados.
 
-8.4. Organización y temporalización de las intervenciones conjuntas para dar respuesta a las necesidades de valoración de alumnos y alumnas de centros privados concertados y privados.
+**8.1.** Criterios de intervención.
 
-9. Coordinaciones. 9.1. Coordinación con los EOEP específicos. 9.2. Coordinación con otros Servicios que intervengan en la zona. 9.3. Coordinación con otros agentes y servicios.
+**8.2.** Centros asignados de cada unidad de Orientación y Comunicación y Lenguaje y dedicación horaria.
+
+**8.3.** Organización y temporalización de las intervenciones conjuntas previstas en los centros públicos asignados y no asignados.
+
+**8.4.** Organización y temporalización de las intervenciones conjuntas para dar respuesta a las necesidades de valoración de alumnos y alumnas de centros privados concertados y privados.
+
+9. Coordinaciones.
+
+**9.1.** Coordinación con los EOEP específicos.
+
+**9.2.** Coordinación con otros Servicios que intervengan en la zona.
+
+**9.3.** Coordinación con otros agentes y servicios.
 
 10. Evaluación y seguimiento del plan de trabajo del EOEP.
 
 11. Proyecto de presupuesto, con indicación de partidas y cantidades asignadas a cada una, en el que se incluya el remanente del curso anterior.
 
 12. Anexos:
-12.1. Datos de los componentes del Equipo. 12.2. Anexos de los maestros y maestras de audición y lenguaje y trabajadores y trabajadoras sociales, que se establezcan. 12.3. Días y horarios de atención a los centros de los componentes del Equipo con destino en el EOEP, según el siguiente cuadro:
+
+**12.1.** Datos de los componentes del Equipo.
+
+**12.2.** Anexos de los maestros y maestras de audición y lenguaje y trabajadores y trabajadoras sociales, que se establezcan.
+
+**12.3.** Días y horarios de atención a los centros de los componentes del Equipo con destino en el EOEP, según el siguiente cuadro:
 ORIENTADOR/A DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Exclusivas:
 Maestro/a de audición y lenguaje DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Exclusivas:
 
@@ -758,7 +914,7 @@ Maestro/a de audición y lenguaje DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Ex
 
 6. Datos sobre número de informes psicopedagógicos y otros realizados por cada miembro del Equipo, según el modelo que se establezca.
 
-7. Otros aspectos que se consideren. A N E X O  V I I I GUÍA PARA LA MEMORIA FINAL DEL EOEP DE ZONA
+7. Otros aspectos que se consideren. A N E X O V I I I GUÍA PARA LA MEMORIA FINAL DEL EOEP DE ZONA
 
 1. Valoración del grado de consecución de los objetivos generales del plan de trabajo. Modificaciones efectuadas a lo largo del curso.
 
@@ -772,15 +928,23 @@ Maestro/a de audición y lenguaje DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Ex
 
 6. Datos sobre número de informes psicopedagógicos y otros realizados por cada miembro del Equipo, según el modelo que se establezca.
 
-7. Otros aspectos que se consideren. A N E X O  I X PLAN DE TRABAJO ANUAL DEL EOEP ESPECÍFICO
+7. Otros aspectos que se consideren. A N E X O I X PLAN DE TRABAJO ANUAL DEL EOEP ESPECÍFICO
 
 1. Datos del Equipo:
-1.1. Nombre y apellidos del Coordinador/a y datos de contacto. 1.2. Dirección de la sede, teléfono, fax y correo electrónico. 1.3. Zona de actuación: municipios, distritos educativos, centros atendidos por cada profesional del Equipo.
 
-1.4. Relación de los componentes: nombre y apellidos, especialidad, DNI, nº de registro personal, situación administrativa.
+**1.1.** Nombre y apellidos del Coordinador/a y datos de contacto.
+
+**1.2.** Dirección de la sede, teléfono, fax y correo electrónico.
+
+**1.3.** Zona de actuación: municipios, distritos educativos, centros atendidos por cada profesional del Equipo.
+
+**1.4.** Relación de los componentes: nombre y apellidos, especialidad, DNI, nº de registro personal, situación administrativa.
 
 2. Análisis de necesidades y líneas prioritarias de actuación:
-2.1. Necesidades. 2.2. Líneas prioritarias de actuación de acuerdo a la normativa vigente.
+
+**2.1.** Necesidades.
+
+**2.2.** Líneas prioritarias de actuación de acuerdo a la normativa vigente.
 
 3. Objetivos generales del EOEP y actividades para su desarrollo.
 
@@ -788,13 +952,19 @@ Maestro/a de audición y lenguaje DÍA DE LA SEMANA Centro HORAS DE ATENCIÓN Ex
 
 5. Planificación y temporalización de las actuaciones del Equipo.
 
-6. Coordinaciones. 6.1. Coordinación con los EOEP de zona. 6.2. Coordinación con otros Servicios que intervengan en la zona. 6.3. Coordinación con otros agentes y servicios.
+6. Coordinaciones.
+
+**6.1.** Coordinación con los EOEP de zona.
+
+**6.2.** Coordinación con otros Servicios que intervengan en la zona.
+
+**6.3.** Coordinación con otros agentes y servicios.
 
 7. Evaluación y seguimiento del plan de trabajo del EOEP.
 
 8. Proyecto de presupuesto, con indicación de partidas y cantidades asignadas a cada una, en el que se incluya el remanente del curso anterior.
 
-9. Anexos: Datos de los componentes del Equipo. A N E X O  X GUÍA PARA LA MEMORIA FINAL DEL EOEP ESPECÍFICO
+9. Anexos: Datos de los componentes del Equipo. A N E X O X GUÍA PARA LA MEMORIA FINAL DEL EOEP ESPECÍFICO
 
 1. Valoración del grado de consecución de los objetivos generales del plan de trabajo. Modificaciones efectuadas a lo largo del curso.
 

@@ -39,8 +39,6 @@ Corrección de errata del Extracto de la Orden de 30 de mayo de 2023, de la Cons
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -69,8 +67,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 126
@@ -85,7 +81,7 @@ Histórico del BOJA Boletín número 126 de 04/07/2023
 
 Corrección de errata del Extracto de la Orden de 30 de mayo de 2023, de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, por la que se convocan subvenciones a entidades sin ánimo de lucro, en régimen de concurrencia competitiva, destinadas a atender necesidades asistenciales y situaciones de extrema necesidad de personas andaluzas residentes en el extranjero, para el año 2023 (BOJA núm. 122, de 28.6.2023).
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00286332.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00286332.
 
 Advertida errata en la página 10977/1 del Extracto de la Orden de 30 de mayo de 2023, de la Consejería de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa, por la que se convocan subvenciones a entidades sin ánimo de lucro, en régimen de concurrencia competitiva, destinadas a atender necesidades asistenciales y situaciones de extrema necesidad de personas andaluzas residentes en el extranjero, para el año 2023, publicado en el
 
@@ -124,4 +120,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

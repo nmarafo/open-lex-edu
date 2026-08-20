@@ -226,28 +226,29 @@ y el maestro o la maestra que desempeñan funciones de secretario o secretaria d
 
 2. Contra las decisiones de la junta electoral en lo relativo a la proclamación de las personas candidatas cabe recurso de alzada en el plazo de un mes ante la Dirección Territorial de Educación correspondiente, cuya Resolución, oída la Comisión electoral, pondrá fin a la vía administrativa. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un mes, a contar desde el día siguiente al de su publicación en el Boletín Oficial de Canarias, recurso de alzada ante la Viceconsejería de Educación, Universidades, Cultura y Deportes, sin perjuicio de cualquier otro que se estime procedente interponer. Santa Cruz de Tenerife, a 3 de diciembre de 2020.- La Directora General de Centros, Infraestructura y Promoción Educativa, María Candelaria González Morales.
 
-A N E X O I CALENDARIO DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL  DE LOS CONSEJOS DE LOS CER CURSO 2020/2021 APERTURA DEL PROCEDIMIENTO Hasta el 1 de febrero
+## Anexo I. CALENDARIO DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL DE LOS CONSEJOS DE LOS CER CURSO 2020/2021 APERTURA DEL PROCEDIMIENTO Hasta el 1 de febrero
+
 • Constitución de las respectivas comisiones electorales provinciales.
 • Convocatoria de una sesión de los Consejos de los CER en la que se informe de la apertura del procedimiento y del número de miembros a elegir por cada sector de la comunidad educativa.
 • Recopilación de listados de los miembros de los Consejos Escolares de los centros del CER, por parte del coordinador. JUNTA ELECTORAL Hasta el 12 de febrero
 
-• Reunión prescriptiva, de carácter informativo, de los representantes de padres, madres o personas responsables legales del alumnado,  y del propio alumnado de los Consejos Escolares de los centros del CER.
+• Reunión prescriptiva, de carácter informativo, de los representantes de padres, madres o personas responsables legales del alumnado, y del propio alumnado de los Consejos Escolares de los centros del CER.
 • Celebración en acto público, a partir de las 17 h, del sorteo para la designación de los miembros de la Junta Electoral. Hasta el 22 de febrero
 
 • Constitución de la Junta Electoral del CER.
 • Aprobación de los censos de electores (de padres, madres o representantes legales del alumnado, y del propio alumnado), y remisión a los centros para su publicación y divulgación.
-• Solicitud  al  ayuntamiento  (o  a  ayuntamientos)  de  la  designación  del concejal o concejala, o, en su caso, del representante del municipio que ha de formar parte del Consejo del CER. 23 y 24 de febrero  Plazo  para  la  presentación  de  reclamaciones  a  los  censos  electorales publicados,  que  deberán  entregarse  en  el  centro  de  origen  al  que  la persona reclamante esté vinculada. A su vez, las direcciones de los centros entregarán a la  junta  electoral, de  forma  inmediata,  las reclamaciones recogidas. 25  de febrero • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. ELECCIONES AL CONSEJO ESCOLAR PRESENTACIÓN DE CANDIDATURAS
-• Presentación a la Junta Electoral de candidaturas a miembros del Consejo del  CER  en  representación  de  los  distintos  sectores,  a  través  de  la dirección de  cada centro y dentro del  horario que establezca la  Junta Electoral.
-• Presentación de solicitudes para actuar como supervisores o supervisoras de  las  votaciones  de  los  padres,  madres  o  representantes  legales  del
+• Solicitud al ayuntamiento (o a ayuntamientos) de la designación del concejal o concejala, o, en su caso, del representante del municipio que ha de formar parte del Consejo del CER. 23 y 24 de febrero  Plazo para la presentación de reclamaciones a los censos electorales publicados, que deberán entregarse en el centro de origen al que la persona reclamante esté vinculada. A su vez, las direcciones de los centros entregarán a la junta electoral, de forma inmediata, las reclamaciones recogidas. 25 de febrero • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. ELECCIONES AL CONSEJO ESCOLAR PRESENTACIÓN DE CANDIDATURAS
+• Presentación a la Junta Electoral de candidaturas a miembros del Consejo del CER en representación de los distintos sectores, a través de la dirección de cada centro y dentro del horario que establezca la Junta Electoral.
+• Presentación de solicitudes para actuar como supervisores o supervisoras de las votaciones de los padres, madres o representantes legales del
 
-Hasta el 3 de marzo alumnado, y de las del propio alumnado, propuestos por una AMPA o, en su caso, por la asociación de alumnado mayoritaria, o bien avalados por la firma de, al menos, un 5 % de las personas electoras del correspondiente sector, y cuya identificación será acreditada por la Junta Electoral. Proclamación  por  la  Junta  Electoral  del  CER  de  las  candidaturas admitidas.
-• Sorteo  en  acto  público,  ante  la  Junta  Electoral,  a  fin  de  elegir  a  los miembros  de  las  mesas  electorales.  En  dicho  sorteo  se  preverán  las suplencias necesarias.
+Hasta el 3 de marzo alumnado, y de las del propio alumnado, propuestos por una AMPA o, en su caso, por la asociación de alumnado mayoritaria, o bien avalados por la firma de, al menos, un 5 % de las personas electoras del correspondiente sector, y cuya identificación será acreditada por la Junta Electoral. Proclamación por la Junta Electoral del CER de las candidaturas admitidas.
+• Sorteo en acto público, ante la Junta Electoral, a fin de elegir a los miembros de las mesas electorales. En dicho sorteo se preverán las suplencias necesarias.
 • Reestructuración de la Junta Electoral del CER y de las mesas electorales, en el caso de que alguno o alguna de sus miembros hubiera presentado candidatura. 4 y 5 de marzo • Presentación de reclamaciones a la proclamación de candidaturas. 8 de marzo
 
-• Resolución  de  las  reclamaciones  a  la  proclamación de  candidaturas  y remisión del listado de candidaturas a los centros del ámbito. CELEBRACIÓN DE ELECCIONES Antes del 15 de marzo
+• Resolución de las reclamaciones a la proclamación de candidaturas y remisión del listado de candidaturas a los centros del ámbito. CELEBRACIÓN DE ELECCIONES Antes del 15 de marzo
 
 • Reunión extraordinaria para la votación de los sectores de padres, madres o representantes legales del alumnado, y del propio del alumnado.
-• Sesión  extraordinaria  del  equipo  pedagógico  para  la  elección  de representantes del profesorado. 16 y 17 de marzo
+• Sesión extraordinaria del equipo pedagógico para la elección de representantes del profesorado. 16 y 17 de marzo
 
 • Reclamaciones al proceso electoral, dirigidas a la Junta Electoral del CER y entregadas en el centro correspondiente. 18 de marzo
 
@@ -256,32 +257,32 @@ Hasta el 3 de marzo alumnado, y de las del propio alumnado, propuestos por una A
 • Proclamación por la Junta Electoral del CER de las candidaturas electas y publicación en el tablón de anuncios del CER y de los centros, y, en su caso, en sus páginas web. Plazo de diez días desde la fecha de proclamación de las personas electas
 • Sesión de constitución del Consejo de CER. Hasta el 5 de abril
 • Remisión, por vía telemática, del estadillo que figura como anexo II de esta Resolución a la Dirección Territorial de Educación correspondiente.
-• Plazo  para  presentar  ante  la  Dirección  Territorial  de  Educación correspondiente Recurso de  alzada contra  las resoluciones  de la Junta Electoral del CER. A N E X O I CALENDARIO DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL  DE LOS CONSEJOS DE LOS CER CURSO 2020/2021 APERTURA DEL PROCEDIMIENTO Hasta el 1 de febrero
+• Plazo para presentar ante la Dirección Territorial de Educación correspondiente Recurso de alzada contra las resoluciones de la Junta Electoral del CER. A N E X O I CALENDARIO DEL PROCESO ELECTORAL RENOV ACIÓN PARCIAL DE LOS CONSEJOS DE LOS CER CURSO 2020/2021 APERTURA DEL PROCEDIMIENTO Hasta el 1 de febrero
 • Constitución de las respectivas comisiones electorales provinciales.
 • Convocatoria de una sesión de los Consejos de los CER en la que se informe de la apertura del procedimiento y del número de miembros a elegir por cada sector de la comunidad educativa.
 • Recopilación de listados de los miembros de los Consejos Escolares de los centros del CER, por parte del coordinador. JUNTA ELECTORAL Hasta el 12 de febrero
 
-• Reunión prescriptiva, de carácter informativo, de los representantes de padres, madres o personas responsables legales del alumnado,  y del propio alumnado de los Consejos Escolares de los centros del CER.
+• Reunión prescriptiva, de carácter informativo, de los representantes de padres, madres o personas responsables legales del alumnado, y del propio alumnado de los Consejos Escolares de los centros del CER.
 • Celebración en acto público, a partir de las 17 h, del sorteo para la designación de los miembros de la Junta Electoral. Hasta el 22 de febrero
 
 • Constitución de la Junta Electoral del CER.
 • Aprobación de los censos de electores (de padres, madres o representantes legales del alumnado, y del propio alumnado), y remisión a los centros para su publicación y divulgación.
-• Solicitud  al  ayuntamiento  (o  a  ayuntamientos)  de  la  designación  del concejal o concejala, o, en su caso, del representante del municipio que ha de formar parte del Consejo del CER. 23 y 24 de febrero  Plazo  para  la  presentación  de  reclamaciones  a  los  censos  electorales publicados,  que  deberán  entregarse  en  el  centro  de  origen  al  que  la persona reclamante esté vinculada. A su vez, las direcciones de los centros entregarán a la  junta  electoral, de  forma  inmediata,  las reclamaciones recogidas. 25  de febrero • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. ELECCIONES AL CONSEJO ESCOLAR PRESENTACIÓN DE CANDIDATURAS
-• Presentación a la Junta Electoral de candidaturas a miembros del Consejo del  CER  en  representación  de  los  distintos  sectores,  a  través  de  la dirección de  cada centro y dentro del  horario que establezca la  Junta Electoral.
-• Presentación de solicitudes para actuar como supervisores o supervisoras de  las  votaciones  de  los  padres,  madres  o  representantes  legales  del
+• Solicitud al ayuntamiento (o a ayuntamientos) de la designación del concejal o concejala, o, en su caso, del representante del municipio que ha de formar parte del Consejo del CER. 23 y 24 de febrero  Plazo para la presentación de reclamaciones a los censos electorales publicados, que deberán entregarse en el centro de origen al que la persona reclamante esté vinculada. A su vez, las direcciones de los centros entregarán a la junta electoral, de forma inmediata, las reclamaciones recogidas. 25 de febrero • Resolución de las reclamaciones y aprobación definitiva de los censos por la Junta Electoral. ELECCIONES AL CONSEJO ESCOLAR PRESENTACIÓN DE CANDIDATURAS
+• Presentación a la Junta Electoral de candidaturas a miembros del Consejo del CER en representación de los distintos sectores, a través de la dirección de cada centro y dentro del horario que establezca la Junta Electoral.
+• Presentación de solicitudes para actuar como supervisores o supervisoras de las votaciones de los padres, madres o representantes legales del
 
 ## Anexo II
 
-RENOV ACIÓN PARCIAL  DE LOS CONSEJOS DE LOS CER ESTADILLO (CURSO 2020/2021)
+RENOV ACIÓN PARCIAL DE LOS CONSEJOS DE LOS CER ESTADILLO (CURSO 2020/2021)
 
-1.  DATOS DE IDENTIFICACIÓN DEL CER Denominación: Código:
+1. DATOS DE IDENTIFICACIÓN DEL CER Denominación: Código:
 Municipio: Isla:
 
-2.  PARTICIPACIÓN EN LAS ELECCIONES Y PERSONAS REPRESENTANTES ELEGIDAS PROFESORADO REPRESENTANTES DE LOS PADRES, MADRES O TUTORES LEGALES ALUMNADO CENSO TOTAL VOTANTES % VOTANTES / CENSO N.º DE PERSONAS REPRESENTANTES ELEGIDAS
+2. PARTICIPACIÓN EN LAS ELECCIONES Y PERSONAS REPRESENTANTES ELEGIDAS PROFESORADO REPRESENTANTES DE LOS PADRES, MADRES O TUTORES LEGALES ALUMNADO CENSO TOTAL VOTANTES % VOTANTES / CENSO N.º DE PERSONAS REPRESENTANTES ELEGIDAS
 
-3.  REPRESENTANTES EN CANDIDATURAS DIFERENCIADAS (a cumplimentar, en el caso de que haya candidatos y candidatas presentados en las candidaturas diferenciadas) NOMBRE Y APELLIDOS DE LA PERSONA CANDIDATA ASOCIACIÓN N.º DE VOTOS OBTENIDOS
+3. REPRESENTANTES EN CANDIDATURAS DIFERENCIADAS (a cumplimentar, en el caso de que haya candidatos y candidatas presentados en las candidaturas diferenciadas) NOMBRE Y APELLIDOS DE LA PERSONA CANDIDATA ASOCIACIÓN N.º DE VOTOS OBTENIDOS
 
-4.  REPRESENTANTE DESIGNADO AYUNTAMIENTO (S)
+4. REPRESENTANTE DESIGNADO AYUNTAMIENTO (S)
 
 En __________________________, a ____________de ________________________de 2021
 

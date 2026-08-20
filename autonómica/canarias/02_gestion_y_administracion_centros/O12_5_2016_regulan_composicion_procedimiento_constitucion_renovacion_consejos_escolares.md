@@ -63,8 +63,6 @@ En virtud de lo expuesto, dada la obligación de dar cumplimiento al mandato leg
 
 y garantizar a los ciudadanos el ejercicio de los legítimos derechos que les reconoce la citada
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 Ley Orgánica 15/1999, de 13 de diciembre, de acuerdo con lo dispuesto en el artículo 2.1
@@ -83,7 +81,7 @@ D I S P O N G O:
 
 los ficheros que contienen datos de carácter personal cuya estructura y descripción se recogen
 
-en el 
+en el
 
 ## anexo d. e esta Orden.
 
@@ -145,8 +143,6 @@ lo previsto en el Título III de la Ley Orgánica 15/1999 y Título III de su re
 
 desarrollo, aprobado por el Real Decreto 1720/2007.
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 2. Los modelos para ejercer los derechos de oposición, acceso, rectificación y/o
@@ -201,7 +197,7 @@ Pública de Canarias.
 
 Finalmente, en el plazo de diez días desde la publicación de la presente Orden, será difundida
 
-la circular informativa que comprende el 
+la circular informativa que comprende el
 
 ## Anexo I. del Documento de Seguridad del fichero, a
 
@@ -222,8 +218,6 @@ EL CONSEJERO DE ECONOMÍA, INDUSTRIA,
 COMERCIO Y CONOCIMIENTO,
 
 Pedro Ortega Rodríguez.
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -313,8 +307,6 @@ Transferencias internacionales:
 
 No se realizan
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 Nombre del fichero:
@@ -402,8 +394,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -517,8 +507,6 @@ Transferencias internacionales:
 
 No se realizan
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 Nombre del fichero:
@@ -594,8 +582,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -674,8 +660,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -768,8 +752,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -887,8 +869,6 @@ orden de subvención, fecha de revisión inicial,
 
 próxima revisión periódica, Características de
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 la instalación (Potencia prevista, potencia
@@ -954,8 +934,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 
@@ -1071,8 +1049,6 @@ Transferencias internacionales:
 
 No se realizan
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 20 de mayo de 2016
 
 Nombre del fichero:
@@ -1131,7 +1107,7 @@ fichero:
 
 Datos de registro (fecha y número de
 
-expediente),  Datos del comunicante (DNI,
+expediente), Datos del comunicante (DNI,
 
 nombre y apellidos, dirección completa,
 
@@ -1176,8 +1152,6 @@ energía
 Transferencias internacionales:
 
 No se realizan
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 20 de mayo de 2016
 

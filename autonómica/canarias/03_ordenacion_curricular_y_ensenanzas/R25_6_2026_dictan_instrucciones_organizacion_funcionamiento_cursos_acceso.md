@@ -92,17 +92,57 @@ Cuarto.- Encomendar a la Inspección de Educación la supervisión, asesoramient
 
 ## Anexo I. Curso de acceso directo a ciclos formativos de grado medio (CAD2).
 
-1. Características. 1.1. Objetivos y finalidades. 1.2. Duración. 1.3. Alumnado al que va dirigido y requisitos de acceso. 1.4. Incompatibilidades. 1.5. Asistencia del alumnado e incorporación al curso.
+1. Características.
 
-2. Organización. 2.1. Estructura. 2.2. Modalidades y distribución horaria. 2.2.1. Modalidad presencial. 2.2.2. Modalidad semipresencial.
+**1.1.** Objetivos y finalidades.
 
-3. Currículo, programación y evaluación. 3.1. Currículo. 3.2. Programación. 3.3. Evaluación. 3.3.1. Calificación de competencias. 3.3.2. Sesiones de evaluación. 3.3.3. Cálculo de la nota media. 3.3.4. Superación del curso. 3.3.5. Certificación. 3.3.6. Repetición del curso.
+**1.2.** Duración.
+
+**1.3.** Alumnado al que va dirigido y requisitos de acceso.
+
+**1.4.** Incompatibilidades.
+
+**1.5.** Asistencia del alumnado e incorporación al curso.
+
+2. Organización.
+
+**2.1.** Estructura.
+
+**2.2.** Modalidades y distribución horaria.
+
+**2.2.1.** Modalidad presencial.
+
+**2.2.2.** Modalidad semipresencial.
+
+3. Currículo, programación y evaluación.
+
+**3.1.** Currículo.
+
+**3.2.** Programación.
+
+**3.3.** Evaluación.
+
+**3.3.1.** Calificación de competencias.
+
+**3.3.2.** Sesiones de evaluación.
+
+**3.3.3.** Cálculo de la nota media.
+
+**3.3.4.** Superación del curso.
+
+**3.3.5.** Certificación.
+
+**3.3.6.** Repetición del curso.
 
 4. Tutoría.
 
 5. Aula virtual.
 
-6. Centros educativos y profesorado. 6.1. Centros en los que se imparte. 6.2. Profesorado.
+6. Centros educativos y profesorado.
+
+**6.1.** Centros en los que se imparte.
+
+**6.2.** Profesorado.
 
 7. Ratio.
 
@@ -110,21 +150,61 @@ Cuarto.- Encomendar a la Inspección de Educación la supervisión, asesoramient
 
 ## Anexo II. Curso de acceso directo a ciclos formativos de grado superior (CAD3).
 
-1. Características. 1.1. Objetivo y finalidades. 1.2. Duración. 1.3. Alumnado al que va dirigido y requisitos de acceso. 1.4. Incompatibilidades. 1.5. Asistencia del alumnado e incorporación al curso.
+1. Características.
 
-2. Organización. 2.1. Estructura. 2.2. Modalidades y distribución horaria. 2.2.1. Modalidad presencial. 2.2.2. Modalidad a distancia.
+**1.1.** Objetivo y finalidades.
 
-3. Currículo, programación y evaluación. 3.1. Currículo. 3.2. Programación. 3.3. Evaluación. 3.3.1. Calificación de competencias. 3.3.2. Sesiones de evaluación. 3.3.3. Cálculo de la nota media. 3.3.4. Superación del curso. 3.3.5. Certificación. 3.3.6. Repetición del curso.
+**1.2.** Duración.
+
+**1.3.** Alumnado al que va dirigido y requisitos de acceso.
+
+**1.4.** Incompatibilidades.
+
+**1.5.** Asistencia del alumnado e incorporación al curso.
+
+2. Organización.
+
+**2.1.** Estructura.
+
+**2.2.** Modalidades y distribución horaria.
+
+**2.2.1.** Modalidad presencial.
+
+**2.2.2.** Modalidad a distancia.
+
+3. Currículo, programación y evaluación.
+
+**3.1.** Currículo.
+
+**3.2.** Programación.
+
+**3.3.** Evaluación.
+
+**3.3.1.** Calificación de competencias.
+
+**3.3.2.** Sesiones de evaluación.
+
+**3.3.3.** Cálculo de la nota media.
+
+**3.3.4.** Superación del curso.
+
+**3.3.5.** Certificación.
+
+**3.3.6.** Repetición del curso.
 
 4. Tutoría.
 
 5. Aula virtual.
 
-6. Centros educativos y profesorado. 6.1. Centros en los que se imparte. 6.2. Profesorado.
+6. Centros educativos y profesorado.
+
+**6.1.** Centros en los que se imparte.
+
+**6.2.** Profesorado.
 
 7. Ratio.
 
-8. Admisión. APÉNDICES APÉNDICE I. Exenciones: Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE II.  Exenciones: Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE III. Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE IV . Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE V . Certificado de calificaciones: Curso de acceso directo a ciclos formativos de grado medio.
+8. Admisión. APÉNDICES APÉNDICE I. Exenciones: Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE II. Exenciones: Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE III. Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE IV . Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE V . Certificado de calificaciones: Curso de acceso directo a ciclos formativos de grado medio.
 
 APÉNDICE VI. Certificado de calificaciones: Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE VII. Acta de evaluación: Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE VIII. Acta de evaluación: Curso de acceso directo a ciclos formativos de grado superior. APÉNDICE IX. Consejo orientador para alumnado propuesto para realizar un Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE X. Consentimiento de los padres, madres o tutores/as legales (matrícula en el Curso de acceso directo a ciclos formativos de grado medio). APÉNDICE XI. Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado medio. APÉNDICE XII. Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado superior.
 
@@ -134,41 +214,67 @@ CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2) El "Curso de a
 
 Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, y se ajusta, en consecuencia, a las características establecidas en dicha norma.
 
-1. Características. 1.1. Objetivos y finalidades. Con el "Curso de acceso directo a ciclos formativos de grado medio" (CAD2) se persiguen los siguientes objetivos:
+1. Características.
+
+**1.1.** Objetivos y finalidades. Con el "Curso de acceso directo a ciclos formativos de grado medio" (CAD2) se persiguen los siguientes objetivos:
 • Atender a personas que presentan dificultades para el acceso a la Formación Profesional.
 • Proporcionar a las personas jóvenes y adultas que no hayan completado la enseñanza obligatoria una alternativa para la adquisición de las competencias necesarias que les permitan acceder y abordar con éxito la formación profesional de grado medio. Con el CAD2 se pretende, asimismo, alcanzar las siguientes finalidades:
 • Permitir, a las personas que los superen en su totalidad, el acceso sin prueba a ciclos formativos de grado medio.
 • Preparar a las personas que no cuenten con la acreditación de competencias básicas de nivel 3 o que no superen los cursos para presentarse a la prueba de acceso a ciclos formativos de grado medio.
-• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 3. 1.2. Duración. El curso tiene una duración máxima de 400 horas, que se distribuirán en 10 horas semanales a lo largo de un único curso escolar. 1.3. Alumnado al que va dirigido y requisitos de acceso. El CAD2 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado medio y que tiene 18 años o más, o los cumple en el año natural en el que se inicia el curso. El alumnado menor de edad que no cumpla 18 años en el año natural en que comienza el curso deberá aportar en su matrícula un informe individualizado de propuesta de orientación con el visto bueno de la Inspección de Educación (Apéndice IX) y el consentimiento de los padres, madres o personas que ejerzan la tutoría legal (Apéndice X).
+• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 3.
 
-1.4. Incompatibilidades. Este curso no puede ser simultaneado con ninguno de los siguientes estudios:
+**1.2.** Duración. El curso tiene una duración máxima de 400 horas, que se distribuirán en 10 horas semanales a lo largo de un único curso escolar.
+
+**1.3.** Alumnado al que va dirigido y requisitos de acceso. El CAD2 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado medio y que tiene 18 años o más, o los cumple en el año natural en el que se inicia el curso. El alumnado menor de edad que no cumpla 18 años en el año natural en que comienza el curso deberá aportar en su matrícula un informe individualizado de propuesta de orientación con el visto bueno de la Inspección de Educación (Apéndice IX) y el consentimiento de los padres, madres o personas que ejerzan la tutoría legal (Apéndice X).
+
+**1.4.** Incompatibilidades. Este curso no puede ser simultaneado con ninguno de los siguientes estudios:
 • Estudios conducentes a la obtención del título de Graduado en Educación Secundaria Obligatoria.
-• Ciclos formativos de grado básico. Para acreditar este requisito, el alumnado que se matricule en el curso deberá presentar una declaración jurada o de responsabilidad de no simultanear estudios (Apéndice III). No obstante, el alumnado matriculado en un curso de acceso directo podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado medio. 1.5. Asistencia del alumnado e incorporación al curso.
+• Ciclos formativos de grado básico. Para acreditar este requisito, el alumnado que se matricule en el curso deberá presentar una declaración jurada o de responsabilidad de no simultanear estudios (Apéndice III). No obstante, el alumnado matriculado en un curso de acceso directo podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado medio.
+
+**1.5.** Asistencia del alumnado e incorporación al curso.
 a) La asistencia a las sesiones presenciales y en línea es de carácter obligatorio.
 b) El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o que supere el 50% de faltas de asistencia durante el primer mes podrá ser dado de baja de oficio. Se le comunicará para que, en el plazo de dos días, presente las alegaciones oportunas. Transcurrido dicho plazo sin presentarlas, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja.
 c) En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el apartado b) de la presente instrucción, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula.
 d) Las vacantes que se produzcan como consecuencia de las bajas serán asignadas al alumnado en lista de reserva.
 
-2. Organización. 2.1. Estructura. El CAD2 se estructura en tres unidades de competencia, cuya referencia será el nivel 3 del marco de referencia, para su evaluación y acreditación:
+2. Organización.
+
+**2.1.** Estructura. El CAD2 se estructura en tres unidades de competencia, cuya referencia será el nivel 3 del marco de referencia, para su evaluación y acreditación:
 • Competencia básica comunicativa en lengua castellana.
 • Competencia básica matemática.
 • Competencia básica digital. La carga horaria será la siguiente:
-Folio 10/44 COMPETENCIAS BÁSICAS DURACIÓN SEMANAL Competencia básica comunicativa en lengua castellana 4 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 10 horas 2.2. Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
-COMPETENCIAS BÁSICAS Modalidad presencial Modalidad semipresencial HLG* presenciales HLG presenciales HLG en línea Competencia básica comunicativa en lengua castellana 4 2 2 Competencia básica matemática 3 2 1 Competencia básica digital 3 2 1 TOTAL 10 6 4
-* HLG: horas lectivas grupales 2.2.1 Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase. 2.2.2 Modalidad semipresencial En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso . A partir de ese mes, se impartir án 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea . Las horas en línea, de carácter síncrono, se desarrollarán a En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw==
+ COMPETENCIAS BÁSICAS DURACIÓN SEMANAL Competencia básica comunicativa en lengua castellana 4 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 10 horas
 
-2.2. Modalidades y distribución horaria. El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
-Folio 10/44 COMPETENCIAS BÁSICAS DURACIÓN SEMANAL Competencia básica comunicativa en lengua castellana 4 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 10 horas 2.2. Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
+**2.2.** Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
 COMPETENCIAS BÁSICAS Modalidad presencial Modalidad semipresencial HLG* presenciales HLG presenciales HLG en línea Competencia básica comunicativa en lengua castellana 4 2 2 Competencia básica matemática 3 2 1 Competencia básica digital 3 2 1 TOTAL 10 6 4
-* HLG: horas lectivas grupales 2.2.1 Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase. 2.2.2 Modalidad semipresencial En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso . A partir de ese mes, se impartir án 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea . Las horas en línea, de carácter síncrono, se desarrollarán a En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw== 2.2.1. Modalidad presencial. En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase. 2.2.2. Modalidad semipresencial. En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso. A partir de ese mes, se impartirán 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea. Las horas en línea, de carácter síncrono, se desarrollarán a través del entorno virtual habilitado al efecto, el cual cumplirá lo establecido en el punto 5 de estas instrucciones.
+* HLG: horas lectivas grupales
 
-3. Currículo, programación y evaluación. 3.1. Currículo. Según lo establecido en el artículo 109 l [Real.
+**2.2.1** Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
+
+**2.2.2** Modalidad semipresencial En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso . A partir de ese mes, se impartir án 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea . Las horas en línea, de carácter síncrono, se desarrollarán a En la dirección -000BNC517WyzWEB+AcQjNn7Rw==
+
+**2.2.** Modalidades y distribución horaria. El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
+ COMPETENCIAS BÁSICAS DURACIÓN SEMANAL Competencia básica comunicativa en lengua castellana 4 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 10 horas
+
+**2.2.** Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y semipresencial. La distribución horaria de las competencias será la siguiente:
+COMPETENCIAS BÁSICAS Modalidad presencial Modalidad semipresencial HLG* presenciales HLG presenciales HLG en línea Competencia básica comunicativa en lengua castellana 4 2 2 Competencia básica matemática 3 2 1 Competencia básica digital 3 2 1 TOTAL 10 6 4
+* HLG: horas lectivas grupales
+
+**2.2.1** Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
+
+**2.2.2** Modalidad semipresencial En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso . A partir de ese mes, se impartir án 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea . Las horas en línea, de carácter síncrono, se desarrollarán a En la dirección -000BNC517WyzWEB+AcQjNn7Rw==
+
+**2.2.1.** Modalidad presencial. En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
+
+**2.2.2.** Modalidad semipresencial. En la modalidad semipresencial, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo en línea, toda la actividad lectiva (10 horas) será presencial durante el primer mes del curso. A partir de ese mes, se impartirán 6 horas lectivas grupales presenciales y 4 horas lectivas grupales en línea. Las horas en línea, de carácter síncrono, se desarrollarán a través del entorno virtual habilitado al efecto, el cual cumplirá lo establecido en el punto 5 de estas instrucciones.
+
+3. Currículo, programación y evaluación.
+
+**3.1.** Currículo. Según lo establecido en el artículo 109 l [Real.
 
 Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, el "currículo de referencia para la organización del curso se centrará en las competencias básicas que permitan cursar con éxito los ciclos de Formación Profesional de grado medio y se organizará de acuerdo con el procedimiento de acreditación de las competencias básicas para personas adultas que se regule". Dicha regulación queda establecida en el Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas adquiridas por experiencia laboral, por vías no formales de formación y aprendizajes informales. Según el artículo 22, este curso que da acceso directo a ciclos formativos de grado medio tendrá como referente el nivel 3 de competencias básicas del marco de referencia descrito en el Anexo I de la citada norma.
 
-3.2. Programación. Las programaciones didácticas se adecuarán al nivel de competencia curricular, a las características del alumnado y a la carga horaria asignada. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+**3.2.** Programación. Las programaciones didácticas se adecuarán al nivel de competencia curricular, a las características del alumnado y a la carga horaria asignada. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Dominios competenciales.
 • Criterios de evaluación.
 • Saberes básicos.
@@ -177,19 +283,31 @@ Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual
 • Procedimientos, instrumentos y criterios de calificación.
 • Medidas de atención a la diversidad previstas.
 • Actividades complementarias y extraescolares programadas.
-• Procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de cada competencia básica será elaborada por el Departamento de Coordinación Didáctica al que pertenezca el profesorado que la imparta y será incluida en la programación general anual ( PGA) del centro. 3.3. Evaluación. La evaluación del curso será formativa e integradora. 3.3.1. Calificación de competencias. Cada competencia se calificará con una nota entera de 1 a 10. La superación de una competencia requiere de una nota igual o superior a cinco (5) puntos. En el Apéndice I se establecen los casos de exención para las competencias anteriormente superadas, así como las calificaciones correspondientes. Esta exención se hará constar en las actas de evaluación mediante el ítem "EX" seguido de la calificación final numérica entre paréntesis. En el caso de que exista más de una calificación positiva posible en una misma competencia, se hará constar la calificación más alta obtenida. El alumnado que desee acogerse a la exención de una o varias competencias básicas por reunir los requisitos académicos establecidos en el Apéndice I habrá de cumplimentar la correspondiente solicitud (Apéndice XI) al formalizar su matrícula. En el caso de haber realizado anteriormente el curso de acceso directo a ciclos formativos de grado medio y haber superado alguna o algunas de las competencias básicas, será obligatorio presentar la solicitud de exención.
+• Procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de cada competencia básica será elaborada por el Departamento de Coordinación Didáctica al que pertenezca el profesorado que la imparta y será incluida en la programación general anual ( PGA) del centro.
 
-3.3.2. Sesiones de evaluación. Se realizarán tres sesiones de evaluación:
+**3.3.** Evaluación. La evaluación del curso será formativa e integradora.
+
+**3.3.1.** Calificación de competencias. Cada competencia se calificará con una nota entera de 1 a 10. La superación de una competencia requiere de una nota igual o superior a cinco (5) puntos. En el Apéndice I se establecen los casos de exención para las competencias anteriormente superadas, así como las calificaciones correspondientes. Esta exención se hará constar en las actas de evaluación mediante el ítem "EX" seguido de la calificación final numérica entre paréntesis. En el caso de que exista más de una calificación positiva posible en una misma competencia, se hará constar la calificación más alta obtenida. El alumnado que desee acogerse a la exención de una o varias competencias básicas por reunir los requisitos académicos establecidos en el Apéndice I habrá de cumplimentar la correspondiente solicitud (Apéndice XI) al formalizar su matrícula. En el caso de haber realizado anteriormente el curso de acceso directo a ciclos formativos de grado medio y haber superado alguna o algunas de las competencias básicas, será obligatorio presentar la solicitud de exención.
+
+**3.3.2.** Sesiones de evaluación. Se realizarán tres sesiones de evaluación:
 a) **Evaluación sin notas, al inicio del curso.** Esta evaluación será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la metodología, necesidades de adaptación de las programaciones, respuesta coordinada para nuevas incorporaciones u otros aspectos que el equipo docente determine.
 b) Primera evaluación, durante el mes de enero o en la primera quincena de febrero. Permitirá, en el caso de no superación de alguna competencia, establecer cauces de recuperación para la evaluación final.
-c) **Segunda evaluación o evaluación final.** En esta evaluación se determinará la superación del curso. 3.3.3. Cálculo de la nota media. La nota media tanto para la primera como para la segunda evaluación será la media aritmética de las calificaciones de todas las competencias, incluidas las exentas. Dicha media quedará expresada con dos decimales y se redondeará a la centésima más próxima y, en caso de equidistancia, a la superior. Las notas medias obtenidas en estas evaluaciones se tendrán en cuenta en el procedimiento de admisión a ciclos formativos de Formación Profesional en los términos que establezca la dirección general competente. 3.3.4. Superación del curso. La superación del curso tendrá validez en todo el territorio nacional y permitirá el acceso directo, sin prueba, a ciclos formativos de grado medio en las condiciones que determine el proceso de admisión. No obstante, para el acceso a ciclos formativos de grado medio de enseñanzas profesionales de artes plásticas y diseño y de las enseñanzas deportivas, el alumno o alumna deberá cumplir las condiciones específicas de acceso que establezca la dirección general competente en estas enseñanzas. La calificación final del curso quedará recogida en el acta de evaluación correspondiente (Apéndice VII), y constará como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. Esta calificación será la media aritmética de las calificaciones obtenidas en la
+c) **Segunda evaluación o evaluación final.** En esta evaluación se determinará la superación del curso.
+
+**3.3.3.** Cálculo de la nota media. La nota media tanto para la primera como para la segunda evaluación será la media aritmética de las calificaciones de todas las competencias, incluidas las exentas. Dicha media quedará expresada con dos decimales y se redondeará a la centésima más próxima y, en caso de equidistancia, a la superior. Las notas medias obtenidas en estas evaluaciones se tendrán en cuenta en el procedimiento de admisión a ciclos formativos de Formación Profesional en los términos que establezca la dirección general competente.
+
+**3.3.4.** Superación del curso. La superación del curso tendrá validez en todo el territorio nacional y permitirá el acceso directo, sin prueba, a ciclos formativos de grado medio en las condiciones que determine el proceso de admisión. No obstante, para el acceso a ciclos formativos de grado medio de enseñanzas profesionales de artes plásticas y diseño y de las enseñanzas deportivas, el alumno o alumna deberá cumplir las condiciones específicas de acceso que establezca la dirección general competente en estas enseñanzas. La calificación final del curso quedará recogida en el acta de evaluación correspondiente (Apéndice VII), y constará como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. Esta calificación será la media aritmética de las calificaciones obtenidas en la
 
 #### Segunda. evaluación (evaluación final) y se establecerá según los siguientes criterios:
 
 • La superación del curso se determinará en la segunda evaluación y se producirá cuando en las tres competencias se obtenga una calificación igual o superior a cinco (5) puntos.
 • No obstante, en caso de que existan una o más competencias sin superar, el equipo docente podrá adoptar de manera colegiada la decisión de superación atendiendo a la suficiente madurez de la persona y su capacidad de progreso académico.
 
-La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado medio en las condiciones que determine la dirección general responsable de la convocatoria de la prueba. 3.3.5. Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice V). En ella constarán tanto la calificación de cada competencia como la calificación final obtenida en el curso, en términos de "superado" o "no superado", y seguida de una nota numérica entre 1 y 10. 3.3.6. Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice III, el alumno o la alumna hará constar si realiza el curso por primera vez o si lo repite.
+La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado medio en las condiciones que determine la dirección general responsable de la convocatoria de la prueba.
+
+**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice V). En ella constarán tanto la calificación de cada competencia como la calificación final obtenida en el curso, en términos de "superado" o "no superado", y seguida de una nota numérica entre 1 y 10.
+
+**3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice III, el alumno o la alumna hará constar si realiza el curso por primera vez o si lo repite.
 
 4. Tutoría. Cada grupo del curso contará con un tutor o tutora, a quien se le asignará una hora lectiva semanal para el desarrollo de las actividades propias de esa función. Desde el inicio del curso, se informará al alumnado del horario de la tutoría, para que pueda asistir voluntariamente y realizar las consultas y trámites oportunos. El profesorado tutor tendrá las siguientes funciones:
 a) Coordinar la intervención educativa del equipo docente.
@@ -210,10 +328,14 @@ c) Actividades configuradas en el entorno virtual de aprendizaje (cuestionarios,
 d) Calendario virtual donde consten, al menos, los plazos y fechas de realización de actividades y pruebas de evaluación.
 e) Acceso al recurso de videoconferencia para las clases síncronas de la modalidad semipresencial.
 
-6. Centros educativos y profesorado. 6.1. Centros en los que se imparte. Este curso se impartirá en los centros de educación de personas adultas (CEPA) que la dirección general competente en esta materia establezca en la planificación anual. Los centros, en el caso de que deseen impartir una modalidad diferente a la autorizada, deberán remitir solicitud argumentada a dicha dirección general. 6.2. Profesorado. Cada competencia será impartida por un único docente, que deberá, asimismo, pertenecer a alguno de los siguientes Cuerpos:
+6. Centros educativos y profesorado.
+
+**6.1.** Centros en los que se imparte. Este curso se impartirá en los centros de educación de personas adultas (CEPA) que la dirección general competente en esta materia establezca en la planificación anual. Los centros, en el caso de que deseen impartir una modalidad diferente a la autorizada, deberán remitir solicitud argumentada a dicha dirección general.
+
+**6.2.** Profesorado. Cada competencia será impartida por un único docente, que deberá, asimismo, pertenecer a alguno de los siguientes Cuerpos:
 • Cuerpos de catedráticos y profesores de enseñanza secundaria.
 • Cuerpos de catedráticos y profesores de escuelas oficiales de idiomas. Además, el profesorado debe disponer, para cada competencia, de la siguiente atribución docente:
-Folio 15/44
+
 • Cuerpos de catedráticos y profesores de escuelas oficiales de idiomas Además, el profesorado debe disponer, para cada competencia, de la siguiente atribución docente:
 COMPETENCIAS BÁSICAS / TUTORÍA ATRIBUCIÓN DOCENTE Competencia básica comunicativa en lengua castellana
 • Ámbito de Comunicación Lengua (320)
@@ -225,8 +347,7 @@ COMPETENCIAS BÁSICAS / TUTORÍA ATRIBUCIÓN DOCENTE Competencia básica comunic
 
 1. Alumnado que haya cursado y superado alguna competencia básica del «Curso de acceso directo a ciclos formativos de grado medio» en alguna convocatoria anterior, por orden de mayor a menor edad.
 
-2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacan te, en los términos establecidos en el apartado 1.5 de estas instrucciones. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articula rán las medidas necesarias para la superación de los contenidos impartidos. En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw==
+2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacan te, en los términos establecidos en el apartado 1.5 de estas instrucciones. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articula rán las medidas necesarias para la superación de los contenidos impartidos. En la dirección -000BNC517WyzWEB+AcQjNn7Rw==
 
 7. Ratio. La ratio mínima será de 20 y la máxima de 30 alumnos o alumnas.
 
@@ -242,57 +363,79 @@ CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3) El "Curso d
 
 Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, y se ajusta, en consecuencia, a las características establecidas en dicha norma.
 
-1. Características. 1.1. Objetivos y finalidades. Este curso tiene como objetivo que las personas adultas que no reúnan los requisitos exigidos para el acceso a estos ciclos formativos puedan continuar su formación e incorporarse a estas enseñanzas habiendo alcanzado las competencias, conocimientos y habilidades suficientes para poder cursarlas con aprovechamiento. Con el CAD3 se pretende, asimismo, alcanzar las siguientes finalidades:
+1. Características.
+
+**1.1.** Objetivos y finalidades. Este curso tiene como objetivo que las personas adultas que no reúnan los requisitos exigidos para el acceso a estos ciclos formativos puedan continuar su formación e incorporarse a estas enseñanzas habiendo alcanzado las competencias, conocimientos y habilidades suficientes para poder cursarlas con aprovechamiento. Con el CAD3 se pretende, asimismo, alcanzar las siguientes finalidades:
 • Permitir, a las personas que los superen en su totalidad, el acceso sin prueba a ciclos formativos de grado superior.
 • Preparar a las personas que no cuenten con la acreditación de competencias básicas de nivel 4 o que no superen los cursos para presentarse a la prueba de acceso a ciclos formativos de grado superior.
-• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 4. 1.2. Duración. El curso tiene una duración máxima de 600 horas, que se distribuirán en 15 horas semanales a lo largo de un único curso escolar. 1.3. Alumnado al que va dirigido el curso y requisitos de acceso. El CAD3 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado superior y que tiene al menos 18 años cumplidos en el año natural en el que se inicia el curso. 1.4. Incompatibilidades. El alumnado matriculado en este curso no podrá simultanearlo con ninguno de los siguientes estudios:
+• Constituir un itinerario formativo que permita, dentro del procedimiento de acreditación establecido en el Real Decreto 86/2025, la acreditación de competencias básicas de nivel 4.
+
+**1.2.** Duración. El curso tiene una duración máxima de 600 horas, que se distribuirán en 15 horas semanales a lo largo de un único curso escolar.
+
+**1.3.** Alumnado al que va dirigido el curso y requisitos de acceso. El CAD3 va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado superior y que tiene al menos 18 años cumplidos en el año natural en el que se inicia el curso.
+
+**1.4.** Incompatibilidades. El alumnado matriculado en este curso no podrá simultanearlo con ninguno de los siguientes estudios:
 • Estudios conducentes a la obtención del título de Bachiller.
 • Ciclos formativos de grado medio. Para acreditar este requisito, el alumnado que se matricule en el curso deberá presentar una declaración jurada o de responsabilidad de no simultanear estudios (Apéndice IV). No obstante, el alumnado matriculado en el curso de acceso directo podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado superior.
 
-1.5. Asistencia del alumnado e incorporación al curso.
+**1.5.** Asistencia del alumnado e incorporación al curso.
 a) La asistencia a todas las sesiones de la modalidad presencial y a las horas lectivas grupales (HLG) de la modalidad a distancia es de carácter obligatorio.
 b) El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o que supere el 50% de faltas de asistencia durante el primer mes podrá ser dado de baja de oficio. Se le comunicará para que, en el plazo de dos días, presente las alegaciones que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja.
 c) Al alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el apartado b) de la presente instrucción, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula.
 d) Las vacantes que se produzcan serán asignadas al alumnado en lista de reserva.
 
-2. Organización. 2.1. Estructura. El curso estará compuesto de una parte común y otra específica.
+2. Organización.
+
+**2.1.** Estructura. El curso estará compuesto de una parte común y otra específica.
 a) En la parte común se cursarán tres competencias básicas:
-Folio 17/44
+
 • Estudios conducentes a la obtención del título de Bachiller.
-• Ciclos formativos de grado medio. Para acreditar este requisito, el alumnado que se  matricule en el curso deberá presentar una declaración jurada o de responsabilidad de no simultanear estudios (apéndice IV). No  obstante,  el  alumnado  matriculado  en  el  curso  de  acceso  directo  podrá  optar,  si  así  lo  desea,  por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado superior. 1.5. Asistencia del alumnado e incorporación al curso
+• Ciclos formativos de grado medio. Para acreditar este requisito, el alumnado que se matricule en el curso deberá presentar una declaración jurada o de responsabilidad de no simultanear estudios (apéndice IV). No obstante, el alumnado matriculado en el curso de acceso directo podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado superior.
+
+**1.5.** Asistencia del alumnado e incorporación al curso
 a) La asistencia a todas las sesiones de la modalidad presencial y a las horas lectivas grupales (HLG) de la modalidad a distancia es de carácter obligatorio.
 b) El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o que supere el 50 % de faltas de asistencia durante el primer mes podrá ser dado de baja de oficio. Se le comunicará para que, en el plazo de dos días, presente las alegaciones que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja.
-c) Al alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el apartado  b)  de  la  presente  instrucción,  empezando  a  contarle  los  plazos  desde  el  día  siguiente  al  de formalización de su matrícula.
+c) Al alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el apartado b) de la presente instrucción, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula.
 d) Las vacantes que se produzcan serán asignadas al alumnado en lista de reserva.
 
-2. Organización 2.1. Estructura El curso estará compuesto de una parte común y otra específica.
-a) En la parte común se cursarán tres competencias básicas:
-PARTE COMÚN COMPETENCIAS BÁSICAS HORAS SEMANALES Competencia básica comunicativa en lengua castellana 3 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 9 horas En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw==
-b) En la parte específica, el alumnado cursará dos competencias clave:
-Folio 18/44
-b) En la parte específica, el alumnado cursará dos competencias clave:
-PARTE ESPECÍFICA COMPETENCIAS CLA VE HORAS SEMANALES Obligatoria Competencia clave plurilingüe (Inglés) 3 horas Elegir una opción:
-Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas Opción C Competencia clave en ciencia (Biología) 3 horas Total de horas de la parte específica 6 horas 2.2.  Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
-PARTE COMÚN Modalidad presencial Modalidad a distancia COMPETENCIAS BÁSICAS HLG* HLA** Competencia básica comunicativa en lengua castellana 3 horas 2 horas 1 hora Competencia básica matemática 3 horas 2 horas 1 hora Competencia básica digital 3 horas 2 horas 1 hora TOTAL 9 horas 9 horas (6 HLG + 3 HLA)
-* HLG: horas lectivas grupales En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw==
+2. Organización
 
-2.2. Modalidades y distribución horaria. El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
-Folio 18/44
+**2.1.** Estructura El curso estará compuesto de una parte común y otra específica.
+a) En la parte común se cursarán tres competencias básicas:
+PARTE COMÚN COMPETENCIAS BÁSICAS HORAS SEMANALES Competencia básica comunicativa en lengua castellana 3 horas Competencia básica matemática 3 horas Competencia básica digital 3 horas TOTAL 9 horas En la dirección -000BNC517WyzWEB+AcQjNn7Rw==
+b) En la parte específica, el alumnado cursará dos competencias clave:
+
 b) En la parte específica, el alumnado cursará dos competencias clave:
 PARTE ESPECÍFICA COMPETENCIAS CLA VE HORAS SEMANALES Obligatoria Competencia clave plurilingüe (Inglés) 3 horas Elegir una opción:
-Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas Opción C Competencia clave en ciencia (Biología) 3 horas Total de horas de la parte específica 6 horas 2.2.  Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
+Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas Opción C Competencia clave en ciencia (Biología) 3 horas Total de horas de la parte específica 6 horas
+
+**2.2.** Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
 PARTE COMÚN Modalidad presencial Modalidad a distancia COMPETENCIAS BÁSICAS HLG* HLA** Competencia básica comunicativa en lengua castellana 3 horas 2 horas 1 hora Competencia básica matemática 3 horas 2 horas 1 hora Competencia básica digital 3 horas 2 horas 1 hora TOTAL 9 horas 9 horas (6 HLG + 3 HLA)
-* HLG: horas lectivas grupales En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw== Folio 19/44 PARTE COMÚN Modalidad presencial Modalidad a distancia COMPETENCIAS BÁSICAS HLG* HLA** ** HLA: horas lectivas de apoyo PARTE ESPECÍFICA Modalidad presencial Modalidad a distancia COMPETENCIAS CLA VE HLG* HLA** Obligatoria Competencia clave plurilingüe (Inglés) 3 horas 2 horas 1 hora Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas 2 horas 1 hora Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas 2 horas 1 hora Opción C Competencia clave en ciencia (Biología) 3 horas 2 horas 1 hora Total de horas de la parte específica 6 horas 6 horas (4 HLG + 2 HLA)
-* HLG: horas lectivas grupales ** HLA: horas lectivas de apoyo 2.2.1 Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales,  donde se incluya  una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase. 2.2.2 Modalidad a distancia Toda la carga horaria de la modalidad a distancia se impartirá de forma síncrona a través del entorno virtual habilitado al efecto, el cual cumplirá con lo establecido en el punto 5 de estas instrucciones. En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente:
-RP001-000BNC517WyzWEB+AcQjNn7Rw== PARTE ESPECÍFICA Modalidad presencial Modalidad a distancia COMPETENCIAS CLA VE HLG* HLA** Obligatoria Competencia clave plurilingüe (Inglés) 3 horas 2 horas 1 hora Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas 2 horas 1 hora Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas 2 horas 1 hora Opción C Competencia clave en ciencia (Biología) 3 horas 2 horas 1 hora Total de horas de la parte específica 6 horas 6 horas (4 HLG + 2 HLA)
-* HLG: horas lectivas grupales ** HLA: horas lectivas de apoyo 2.2.1 Modalidad presencial. En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase. 2.2.2 Modalidad a distancia. Toda la carga horaria de la modalidad a distancia se impartirá de forma síncrona a través del entorno virtual habilitado al efecto, el cual cumplirá con lo establecido en el punto 5 de estas instrucciones.
+* HLG: horas lectivas grupales En la dirección -000BNC517WyzWEB+AcQjNn7Rw==
+
+**2.2.** Modalidades y distribución horaria. El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
+
+**2.2.** Modalidades y distribución horaria El curso se puede desarrollar en las modalidades presencial y a distancia. La distribución horaria en cada una de las partes será la siguiente:
+PARTE COMÚN Modalidad presencial Modalidad a distancia COMPETENCIAS BÁSICAS HLG* HLA** Competencia básica comunicativa en lengua castellana 3 horas 2 horas 1 hora Competencia básica matemática 3 horas 2 horas 1 hora Competencia básica digital 3 horas 2 horas 1 hora TOTAL 9 horas 9 horas (6 HLG + 3 HLA)
+* HLG: horas lectivas grupales En la dirección -000BNC517WyzWEB+AcQjNn7Rw== PARTE COMÚN Modalidad presencial Modalidad a distancia COMPETENCIAS BÁSICAS HLG* HLA** ** HLA: horas lectivas de apoyo PARTE ESPECÍFICA Modalidad presencial Modalidad a distancia COMPETENCIAS CLA VE HLG* HLA** Obligatoria Competencia clave plurilingüe (Inglés) 3 horas 2 horas 1 hora Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas 2 horas 1 hora Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas 2 horas 1 hora Opción C Competencia clave en ciencia (Biología) 3 horas 2 horas 1 hora Total de horas de la parte específica 6 horas 6 horas (4 HLG + 2 HLA)
+* HLG: horas lectivas grupales ** HLA: horas lectivas de apoyo
+
+**2.2.1** Modalidad presencial En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanza-aprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
+
+**2.2.2** Modalidad a distancia Toda la carga horaria de la modalidad a distancia se impartirá de forma síncrona a través del entorno virtual habilitado al efecto, el cual cumplirá con lo establecido en el punto 5 de estas instrucciones. En la dirección -000BNC517WyzWEB+AcQjNn7Rw== PARTE ESPECÍFICA Modalidad presencial Modalidad a distancia COMPETENCIAS CLA VE HLG* HLA** Obligatoria Competencia clave plurilingüe (Inglés) 3 horas 2 horas 1 hora Opción A Competencia clave personal, social y de aprender a aprender (Psicología) 3 horas 2 horas 1 hora Opción B Competencia clave en tecnología e ingeniería (Tecnología e Ingeniería) 3 horas 2 horas 1 hora Opción C Competencia clave en ciencia (Biología) 3 horas 2 horas 1 hora Total de horas de la parte específica 6 horas 6 horas (4 HLG + 2 HLA)
+* HLG: horas lectivas grupales ** HLA: horas lectivas de apoyo
+
+**2.2.1** Modalidad presencial. En la modalidad presencial, y con la finalidad de facilitar el proceso de enseñanzaaprendizaje, se potenciará el uso de los espacios virtuales, donde se incluya una guía didáctica del curso, además de, al menos, los recursos educativos utilizados en clase.
+
+**2.2.2** Modalidad a distancia. Toda la carga horaria de la modalidad a distancia se impartirá de forma síncrona a través del entorno virtual habilitado al efecto, el cual cumplirá con lo establecido en el punto 5 de estas instrucciones.
 
 Las sesiones de clase se distribuirán en horas lectivas grupales ( HLG) y horas lectivas de apoyo ( HLA). En las horas lectivas grupales, de carácter obligatorio y síncrono, el profesorado desarrollará la programación didáctica y avanzará sobre los aprendizajes previstos en ella. Las horas lectivas de apoyo, de carácter voluntario y síncrono, tendrán como finalidad la atención al alumnado (resolución de dudas, práctica y refuerzo de habilidades o realización de actividades complementarias, entre otras).
 
-3. Currículo, programación y evaluación. 3.1. Currículo. Según lo establecido en el artículo 113.3 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, el currículo de referencia para la organización del curso "se centrará en las competencias que permitan cursar con éxito los ciclos de formación profesional de grado superior" y "se organizará en bloques, con carácter instrumental, de acuerdo con el desarrollo reglamentario del procedimiento de acreditación de las competencias básicas para personas adultas que se regule". Dicho procedimiento queda establecido en el Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas adquiridas por experiencia laboral, por vías no formales de formación y aprendizajes informales. Según su artículo 22.2, el curso que da acceso directo a ciclos formativos de grado superior tendrá como referente el nivel 4 de competencias básicas del marco de referencia, incluido en el Anexo I del citado real decreto. También el artículo 22.2 del Real Decreto 86/2025 faculta a las Administraciones educativas para "incorporar aquellas otras competencias clave a las que se refiere el artículo 2.b) del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, siempre que a su criterio sean imprescindibles para cursar con éxito ciclos formativos de grado superior". Es por ello que se ha incorporado a la estructura del curso una parte específica con competencias clave que, además de contribuir al desarrollo de las tres competencias básicas del marco de referencia (comunicativa en lengua castellana, matemática y digital), faciliten que el alumnado adquiera las competencias necesarias para cursar y superar un ciclo formativo de grado superior de la familia profesional vinculada a la opción elegida. 3.2. Programación. Las programaciones didácticas se adecuarán al nivel de competencia curricular, a las características del alumnado y a la carga horaria asignada. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+3. Currículo, programación y evaluación.
+
+**3.1.** Currículo. Según lo establecido en el artículo 113.3 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, el currículo de referencia para la organización del curso "se centrará en las competencias que permitan cursar con éxito los ciclos de formación profesional de grado superior" y "se organizará en bloques, con carácter instrumental, de acuerdo con el desarrollo reglamentario del procedimiento de acreditación de las competencias básicas para personas adultas que se regule". Dicho procedimiento queda establecido en el Real Decreto 86/2025, de 11 de febrero, de evaluación y acreditación de las competencias básicas adquiridas por experiencia laboral, por vías no formales de formación y aprendizajes informales. Según su artículo 22.2, el curso que da acceso directo a ciclos formativos de grado superior tendrá como referente el nivel 4 de competencias básicas del marco de referencia, incluido en el Anexo I del citado real decreto. También el artículo 22.2 del Real Decreto 86/2025 faculta a las Administraciones educativas para "incorporar aquellas otras competencias clave a las que se refiere el artículo 2.b) del [Real Decreto 243/2022](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD243_2022_establecen_ordenacion_ensenanzas_minimas_bachillerato.md), de 5 de abril, por el que se establecen la ordenación y las enseñanzas mínimas del Bachillerato, siempre que a su criterio sean imprescindibles para cursar con éxito ciclos formativos de grado superior". Es por ello que se ha incorporado a la estructura del curso una parte específica con competencias clave que, además de contribuir al desarrollo de las tres competencias básicas del marco de referencia (comunicativa en lengua castellana, matemática y digital), faciliten que el alumnado adquiera las competencias necesarias para cursar y superar un ciclo formativo de grado superior de la familia profesional vinculada a la opción elegida.
+
+**3.2.** Programación. Las programaciones didácticas se adecuarán al nivel de competencia curricular, a las características del alumnado y a la carga horaria asignada. Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 • Dominio competencial.
 • Criterios de evaluación.
 
@@ -301,11 +444,21 @@ Las sesiones de clase se distribuirán en horas lectivas grupales ( HLG) y horas
 • Materiales y recursos didácticos.
 • Procedimientos, instrumentos y criterios de calificación.
 • Medidas de atención a la diversidad para el acceso al currículo.
-• Procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de cada competencia será elaborada por el Departamento de Coordinación Didáctica al que pertenezca el profesorado que la imparta y será incluida en la programación general anual (PGA) del centro. 3.3. Evaluación. La evaluación del curso será formativa e integradora. 3.3.1. Calificación de competencias. Cada competencia se calificará con una nota entera de 1 a 10. La superación de una competencia requiere de una nota igual o superior a cinco (5) puntos. En el Apéndice II se establecen los casos de exención para competencias anteriormente superadas. Esta exención se hará constar en las actas de evaluación mediante el ítem "EX" seguido de la calificación final numérica correspondiente entre paréntesis. En el caso de que exista más de una calificación positiva posible en una misma competencia, se hará constar la calificación más alta. El alumnado que desee acogerse a la exención de una o varias competencias por reunir los requisitos académicos establecidos en el Apéndice II habrá de cumplimentar la solicitud del Apéndice XII al formalizar su matrícula. En el caso de haber realizado anteriormente el curso de acceso directo a ciclos formativos de grado superior y haber superado alguna o algunas de las competencias básicas o clave, será obligatorio presentar la solicitud de exención. 3.3.2. Sesiones de evaluación. Se realizarán tres sesiones de evaluación:
+• Procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de cada competencia será elaborada por el Departamento de Coordinación Didáctica al que pertenezca el profesorado que la imparta y será incluida en la programación general anual (PGA) del centro.
+
+**3.3.** Evaluación. La evaluación del curso será formativa e integradora.
+
+**3.3.1.** Calificación de competencias. Cada competencia se calificará con una nota entera de 1 a 10. La superación de una competencia requiere de una nota igual o superior a cinco (5) puntos. En el Apéndice II se establecen los casos de exención para competencias anteriormente superadas. Esta exención se hará constar en las actas de evaluación mediante el ítem "EX" seguido de la calificación final numérica correspondiente entre paréntesis. En el caso de que exista más de una calificación positiva posible en una misma competencia, se hará constar la calificación más alta. El alumnado que desee acogerse a la exención de una o varias competencias por reunir los requisitos académicos establecidos en el Apéndice II habrá de cumplimentar la solicitud del Apéndice XII al formalizar su matrícula. En el caso de haber realizado anteriormente el curso de acceso directo a ciclos formativos de grado superior y haber superado alguna o algunas de las competencias básicas o clave, será obligatorio presentar la solicitud de exención.
+
+**3.3.2.** Sesiones de evaluación. Se realizarán tres sesiones de evaluación:
 a) **Evaluación sin notas, al inicio del curso.** Esta evaluación será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la metodología, necesidades de adaptación de las programaciones, respuesta coordinada para nuevas incorporaciones u otros aspectos que el equipo docente determine.
 
 b) Primera evaluación, durante el mes de enero o en la primera quincena de febrero. Permitirá, en el caso de no superación de alguna competencia, establecer cauces de recuperación para la evaluación final.
-c) **Segunda evaluación o evaluación final.** En esta evaluación se determinará la superación del curso. 3.3.3. Cálculo de la nota media. La nota media, tanto para la primera como para la segunda evaluación será la media aritmética de las calificaciones de todas las competencias, incluidas las exentas. Dicha media quedará expresada con dos decimales y se redondeará a la centésima más próxima y, en caso de equidistancia, a la superior. Las notas medias obtenidas en estas evaluaciones se tendrán en cuenta en el procedimiento de admisión a ciclos formativos de Formación Profesional en los términos que establezca la dirección general competente. 3.3.4. Superación del curso. La superación del curso tendrá validez en todo el territorio nacional y permitirá el acceso directo, sin prueba, a ciclos formativos de grado superior en las condiciones que determine el proceso de admisión. No obstante, para el acceso a ciclos formativos de grado superior de enseñanzas profesionales de artes plásticas y diseño, y de las enseñanzas deportivas, el alumno o alumna deberá cumplir las condiciones específicas que establezca la dirección general competente en estas enseñanzas. La calificación final del curso quedará recogida en el acta de evaluación correspondiente (Apéndice VIII), y constará como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. Esta calificación será la media aritmética de las calificaciones obtenidas en la
+c) **Segunda evaluación o evaluación final.** En esta evaluación se determinará la superación del curso.
+
+**3.3.3.** Cálculo de la nota media. La nota media, tanto para la primera como para la segunda evaluación será la media aritmética de las calificaciones de todas las competencias, incluidas las exentas. Dicha media quedará expresada con dos decimales y se redondeará a la centésima más próxima y, en caso de equidistancia, a la superior. Las notas medias obtenidas en estas evaluaciones se tendrán en cuenta en el procedimiento de admisión a ciclos formativos de Formación Profesional en los términos que establezca la dirección general competente.
+
+**3.3.4.** Superación del curso. La superación del curso tendrá validez en todo el territorio nacional y permitirá el acceso directo, sin prueba, a ciclos formativos de grado superior en las condiciones que determine el proceso de admisión. No obstante, para el acceso a ciclos formativos de grado superior de enseñanzas profesionales de artes plásticas y diseño, y de las enseñanzas deportivas, el alumno o alumna deberá cumplir las condiciones específicas que establezca la dirección general competente en estas enseñanzas. La calificación final del curso quedará recogida en el acta de evaluación correspondiente (Apéndice VIII), y constará como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. Esta calificación será la media aritmética de las calificaciones obtenidas en la
 
 #### Segunda. evaluación (evaluación final) y se establecerá según los siguientes criterios:
 
@@ -316,7 +469,11 @@ a) Que no se haya producido una inasistencia continuada y no justificada por par
 b) Que el alumno o alumna se haya presentado a las pruebas y realizado las actividades necesarias para su evaluación.
 c) Que la media aritmética de las calificaciones obtenidas en todas las competencias del curso sea igual o superior a cinco (5). En este caso, a efectos del cálculo de la calificación final del curso, se considerará la nota numérica obtenida en la competencia no superada.
 
-La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado superior en las condiciones que determine la dirección general responsable de la convocatoria de la prueba. 3.3.5. Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice VI). En ella constarán las notas por competencia y la calificación final obtenida en el curso, que quedará recogida como "superado" o "no superado" seguida de una nota numérica entre 1 y 10. 3.3.6. Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas o competencias clave no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice IV , el alumno o alumna hará constar si realiza el curso por primera vez o si lo repite.
+La superación parcial o total de este curso supondrá la exención parcial o total de la prueba de acceso a ciclos formativos de grado superior en las condiciones que determine la dirección general responsable de la convocatoria de la prueba.
+
+**3.3.5.** Certificación. Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente (Apéndice VI). En ella constarán las notas por competencia y la calificación final obtenida en el curso, que quedará recogida como "superado" o "no superado" seguida de una nota numérica entre 1 y 10.
+
+**3.3.6.** Repetición del curso. El alumnado que no haya superado el curso de acceso directo y lo repita deberá matricularse únicamente de las competencias básicas o competencias clave no superadas y solicitar la exención en las superadas. En la declaración responsable contenida en el Apéndice IV , el alumno o alumna hará constar si realiza el curso por primera vez o si lo repite.
 
 4. Tutoría. Cada grupo del curso contará con un tutor o tutora, a quien se le asignará una hora lectiva semanal para el desarrollo de las actividades propias de esa función. Desde el inicio del curso, se informará al alumnado del horario de la tutoría, para que pueda asistir voluntariamente y realizar las consultas y trámites oportunos. El profesorado tutor tendrá las siguientes funciones:
 a) Coordinar la intervención educativa del equipo docente.
@@ -336,7 +493,11 @@ d) Calendario virtual donde consten, al menos, los plazos y fechas de realizaci�
 e) Calificaciones obtenidas en pruebas y actividades.
 f) Acceso al recurso de videoconferencia para las clases síncronas de la modalidad a distancia.
 
-6. Centros educativos y profesorado. 6.1. Centros en los que se imparte. Este curso se impartirá en los centros de educación de personas adultas ( CEPA), en su modalidad presencial; y en los centros de educación a distancia ( CEAD), en la modalidad a distancia. 6.2. Profesorado. Las competencias del "Curso de acceso directo a ciclos formativos de grado superior" serán impartidas por profesorado con atribución docente en ellas. El profesorado que imparta las competencias del curso de acceso directo debe pertenecer a alguno de los siguientes Cuerpos:
+6. Centros educativos y profesorado.
+
+**6.1.** Centros en los que se imparte. Este curso se impartirá en los centros de educación de personas adultas ( CEPA), en su modalidad presencial; y en los centros de educación a distancia ( CEAD), en la modalidad a distancia.
+
+**6.2.** Profesorado. Las competencias del "Curso de acceso directo a ciclos formativos de grado superior" serán impartidas por profesorado con atribución docente en ellas. El profesorado que imparta las competencias del curso de acceso directo debe pertenecer a alguno de los siguientes Cuerpos:
 • Cuerpos de catedráticos y profesores de enseñanza secundaria.
 • Cuerpos de catedráticos y profesores de escuelas oficiales de idiomas.
 
@@ -348,60 +509,60 @@ f) Acceso al recurso de videoconferencia para las clases síncronas de la modali
 
 2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacante, en los términos establecidos en el apartado 1.5 de estas instrucciones. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las medidas necesarias para la superación de los contenidos impartidos.
 
-APÉNDICE I Exenciones: Curso de acceso directo a ciclos formativos de grado medio (CAD2) EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA Enseñanza Materias superadas Calificación 4.º de ESO Lengua Castellana y Literatura Ex (calificación)Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia  básica  comunicativa  en lengua castellana El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-2.º de BUP Lengua Española y Literatura Ex (5) Prueba libre para la obtención directa del título de GESO Ámbito de Comunicación 2.º  curso  del  PDC  (Programa  de  Diversificación Curricular) Ámbito  Sociolingüístico  /  Ámbito Lingüístico y Social Educación  Secundaria  para  Personas  Adultas  (ESPA  - LOMLOE) Ámbito de Comunicación del Nivel II Formación Básica Postinicial (FBPI - LOE) Ámbito de Comunicación del Tramo IV Formación Básica Postinicial (FBPI - LOGSE) Ámbito de Comunicación del Tramo III Ciclo formativo de grado básico Ámbito  de  Comunicación  y  Ciencias Sociales II / Lengua Castellana y Ciencias Sociales II Formación Profesional Básica Comunicación y Sociedad II 2.º curso del Programa de Cualificación Profesional Inicial conducente al título de Graduado en Educación Secundaria Obligatoria (PCE) Ámbito Social y Comunicación Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos  de  grado  medio  (RD  1147/2011  o  RD 659/2023) Ámbito de Comunicación Acreditación del nivel 3 de la competencia básica comunicativa en lengua castellana del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) APÉNDICE I EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
+APÉNDICE I Exenciones: Curso de acceso directo a ciclos formativos de grado medio (CAD2) EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA Enseñanza Materias superadas Calificación 4.º de ESO Lengua Castellana y Literatura Ex (calificación)Curso de formación preparatorio para acceder a ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia básica comunicativa en lengua castellana El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+2.º de BUP Lengua Española y Literatura Ex (5) Prueba libre para la obtención directa del título de GESO Ámbito de Comunicación 2.º curso del PDC (Programa de Diversificación Curricular) Ámbito Sociolingüístico / Ámbito Lingüístico y Social Educación Secundaria para Personas Adultas (ESPA - LOMLOE) Ámbito de Comunicación del Nivel II Formación Básica Postinicial (FBPI - LOE) Ámbito de Comunicación del Tramo IV Formación Básica Postinicial (FBPI - LOGSE) Ámbito de Comunicación del Tramo III Ciclo formativo de grado básico Ámbito de Comunicación y Ciencias Sociales II / Lengua Castellana y Ciencias Sociales II Formación Profesional Básica Comunicación y Sociedad II 2.º curso del Programa de Cualificación Profesional Inicial conducente al título de Graduado en Educación Secundaria Obligatoria (PCE) Ámbito Social y Comunicación Curso de formación preparatorio para acceder a ciclos formativos de grado medio (RD 1147/2011 o RD 659/2023) Ámbito de Comunicación Acreditación del nivel 3 de la competencia básica comunicativa en lengua castellana del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) APÉNDICE I EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
 
-EXENCIÓN DE LA COMPETENCIA BÁSICA MATEMÁTICA Enseñanza Materias superadas Calificación 4.º de ESO Matemáticas  A  o  B  /  Matemáticas orientadas a las enseñanzas académicas o aplicadas Ex (calificación) Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia básica matemática El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-2.º de BUP Matemáticas Ex (5) Prueba libre para la obtención directa del título de  GESO Ámbito Científico-Tecnológico 2.º  curso  del  PDC  (Programa  de  Diversificación Curricular) Ámbito  Científico-Tecnológico  /  Ámbito Científico Educación  Secundaria  para  Personas  Adultas  (ESPA  - LOMLOE) Ámbito Científico-Tecnológico de Nivel II Formación Básica Postinicial (FBPI - LOE) Ámbito Científico-Tecnológico de Tramo
+EXENCIÓN DE LA COMPETENCIA BÁSICA MATEMÁTICA Enseñanza Materias superadas Calificación 4.º de ESO Matemáticas A o B / Matemáticas orientadas a las enseñanzas académicas o aplicadas Ex (calificación) Curso de formación preparatorio para acceder a ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia básica matemática El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+2.º de BUP Matemáticas Ex (5) Prueba libre para la obtención directa del título de GESO Ámbito Científico-Tecnológico 2.º curso del PDC (Programa de Diversificación Curricular) Ámbito Científico-Tecnológico / Ámbito Científico Educación Secundaria para Personas Adultas (ESPA - LOMLOE) Ámbito Científico-Tecnológico de Nivel II Formación Básica Postinicial (FBPI - LOE) Ámbito Científico-Tecnológico de Tramo
 **IV**
 Formación Básica Postinicial (FBPI - LOGSE) Ámbito Científico-Tecnológico del Tramo
 **III**
-Ciclo formativo de grado básico Ámbito  de  Ciencias  Aplicadas   II  / Matemáticas y Ciencias Aplicadas II Formación Profesional Básica Ciencias Aplicadas II Programa de Cualificación Profesional Inicial conducente al título de Graduado en Educación Secundaria Obligatoria (PCE) Ámbito Científico y Técnico Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos  de  grado  medio  (RD  1147/2011  o  RD 659/2023) Ámbito de Científico-Tecnológico Acreditación  del  nivel  3  de  la  competencia  básica  matemática  del  marco  de  referencia  para  la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025)
+Ciclo formativo de grado básico Ámbito de Ciencias Aplicadas II / Matemáticas y Ciencias Aplicadas II Formación Profesional Básica Ciencias Aplicadas II Programa de Cualificación Profesional Inicial conducente al título de Graduado en Educación Secundaria Obligatoria (PCE) Ámbito Científico y Técnico Curso de formación preparatorio para acceder a ciclos formativos de grado medio (RD 1147/2011 o RD 659/2023) Ámbito de Científico-Tecnológico Acreditación del nivel 3 de la competencia básica matemática del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025)
 
-EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL Enseñanza Materias superadas Calificación 4.º  de  ESO  /  2.º  curso  del  PDC  (Programa  de Diversificación Curricular) Informática  /  Tecnologías  de  la Información  y  Comunicación  / Digitalización / Ámbito Práctico Ex (calificación) Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia básica digital El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-Educación  Secundaria  para  Personas  Adultas  (ESPA  - LOMLOE) Ámbito  Científico-Tecnológico  de  Nivel
+EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL Enseñanza Materias superadas Calificación 4.º de ESO / 2.º curso del PDC (Programa de Diversificación Curricular) Informática / Tecnologías de la Información y Comunicación / Digitalización / Ámbito Práctico Ex (calificación) Curso de formación preparatorio para acceder a ciclos formativos de grado medio (acceso directo - RD 659/2023) Competencia básica digital El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+Educación Secundaria para Personas Adultas (ESPA - LOMLOE) Ámbito Científico-Tecnológico de Nivel
 **II**
 Ex (5)Formación Básica Postinicial (FBPI - LOE) Ámbito Científico-Tecnológico de Tramo
 **IV**
 Acreditación del nivel 3 de la competencia básica digital del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025)
 
-APÉNDICE II Exenciones: Curso de acceso directo a ciclos formativos de grado superior (CAD3) EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA Enseñanza Materias superadas Calificación 2.º de Bachillerato Lengua Castellana y Literatura II Ex (calificación)Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica comunicativa en lengua castellana El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-Curso de Orientación Universitaria (COU) Lengua Española / Seminario de Lengua Española Ex (5) Prueba libre para la obtención del título de Bachiller Lengua Castellana y Literatura II Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (RD 1147/2011 o RD 659/2023) Lengua Castellana y Literatura Acreditación del nivel 4 de la competencia básica comunicativa en lengua castellana del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) EXENCIÓN DE LA COMPETENCIA BÁSICA MATEMÁTICA Enseñanza Materias superadas Calificación 2.º de Bachillerato Matemáticas  II  /  Matemáticas Aplicadas a las Ciencias Sociales II Ex (calificación)Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica matemática El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-Curso de Orientación Universitaria (COU) Matemáticas / Matemáticas I / Matemáticas II Ex (5) Prueba libre para la obtención del título de Bachiller Matemáticas II / Matemáticas Aplicadas a las Ciencias Sociales II Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (RD 1147/2011 o RD 659/2023) Matemáticas / Fundamentos Básicos de Matemáticas Acreditación  del  nivel  4  de la  competencia  básica  matemática  del  marco  de referencia  para  la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) APÉNDICE II EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3)
+APÉNDICE II Exenciones: Curso de acceso directo a ciclos formativos de grado superior (CAD3) EXENCIÓN DE LA COMPETENCIA BÁSICA COMUNICATIV A EN LENGUA CASTELLANA Enseñanza Materias superadas Calificación 2.º de Bachillerato Lengua Castellana y Literatura II Ex (calificación)Curso de formación preparatorio para acceder a ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica comunicativa en lengua castellana El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+Curso de Orientación Universitaria (COU) Lengua Española / Seminario de Lengua Española Ex (5) Prueba libre para la obtención del título de Bachiller Lengua Castellana y Literatura II Curso de formación preparatorio para acceder a ciclos formativos de grado superior (RD 1147/2011 o RD 659/2023) Lengua Castellana y Literatura Acreditación del nivel 4 de la competencia básica comunicativa en lengua castellana del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) EXENCIÓN DE LA COMPETENCIA BÁSICA MATEMÁTICA Enseñanza Materias superadas Calificación 2.º de Bachillerato Matemáticas II / Matemáticas Aplicadas a las Ciencias Sociales II Ex (calificación)Curso de formación preparatorio para acceder a ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica matemática El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+Curso de Orientación Universitaria (COU) Matemáticas / Matemáticas I / Matemáticas II Ex (5) Prueba libre para la obtención del título de Bachiller Matemáticas II / Matemáticas Aplicadas a las Ciencias Sociales II Curso de formación preparatorio para acceder a ciclos formativos de grado superior (RD 1147/2011 o RD 659/2023) Matemáticas / Fundamentos Básicos de Matemáticas Acreditación del nivel 4 de la competencia básica matemática del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) APÉNDICE II EXENCIONES: CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3)
 
-EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL Enseñanza Materias superadas Calificación 2.º de Bachillerato Tecnologías de la Información y de la Comunicación  II,  Informática  y Digitalización  II o  materia  análoga ofertada en otra comunidad autónoma Ex (calificación) Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica digital El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
-Prueba libre para la obtención del título de Bachiller Tecnologías de la Información y de la Comunicación  II,  Informática  y Digitalización II o materia análoga de 2.º  de  Bachillerato  ofertada  en  otra comunidad autónoma Ex (5) Acreditación del nivel 4 de la competencia básica digital del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) EXENCIÓN DE LAS COMPETENCIAS CLA VE Enseñanza Competencia clave Materias superadas Calificación Curso  de  formación  preparatorio  para  acceder  a  ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia clave Ex (calificación)
+EXENCIÓN DE LA COMPETENCIA BÁSICA DIGITAL Enseñanza Materias superadas Calificación 2.º de Bachillerato Tecnologías de la Información y de la Comunicación II, Informática y Digitalización II o materia análoga ofertada en otra comunidad autónoma Ex (calificación) Curso de formación preparatorio para acceder a ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia básica digital El/la alumno/a podrá optar por solicitar la exención, con una calificación de cinco (5) puntos, cuando haya superado:
+Prueba libre para la obtención del título de Bachiller Tecnologías de la Información y de la Comunicación II, Informática y Digitalización II o materia análoga de 2.º de Bachillerato ofertada en otra comunidad autónoma Ex (5) Acreditación del nivel 4 de la competencia básica digital del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas (RD 86/2025) EXENCIÓN DE LAS COMPETENCIAS CLA VE Enseñanza Competencia clave Materias superadas Calificación Curso de formación preparatorio para acceder a ciclos formativos de grado superior (acceso directo - RD 659/2023) Competencia clave Ex (calificación)
 
-APÉNDICE III Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado medio (CAD3) Nombre:  Apellidos:
+APÉNDICE III Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado medio (CAD3) Nombre: Apellidos:
 DNI/NIE:
 Declaro bajo mi responsabilidad:
 
-1. Que no curso esta enseñanza simultáneamente con ninguno de los siguientes estudios en  centros docentes sostenidos con fondos públicos:
+1. Que no curso esta enseñanza simultáneamente con ninguno de los siguientes estudios en centros docentes sostenidos con fondos públicos:
 • Enseñanzas conducentes a la obtención del título de Graduado en Educación Secundaria Obligatoria.
 • Ciclos formativos de grado básico.
 
 2. Que me encuentro en alguna de las siguientes situaciones para la inscripción en el curso:
-Me matriculo por primera vez Repito el curso y no he superado ninguna competencia básica Repito el curso y he superado una o varias competencias básicas de las que solicito exención En   , a de de 20 Fdo.:
+Me matriculo por primera vez Repito el curso y no he superado ninguna competencia básica Repito el curso y he superado una o varias competencias básicas de las que solicito exención En , a de de 20 Fdo.:
 APÉNDICE III DECLARACIÓN JURADA O DE RESPONSABILIDAD PARA LA ADMISIÓN EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD3)
 
-APÉNDICE IV Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado superior (CAD3) Nombre:  Apellidos:
+APÉNDICE IV Declaración jurada o de responsabilidad para la admisión en el Curso de acceso directo a ciclos formativos de grado superior (CAD3) Nombre: Apellidos:
 DNI/NIE:
 Declaro bajo mi responsabilidad:
 
-1. Que no curso esta enseñanza simultáneamente con ninguno de los siguientes estudios en  centros docentes sostenidos con fondos públicos:
+1. Que no curso esta enseñanza simultáneamente con ninguno de los siguientes estudios en centros docentes sostenidos con fondos públicos:
 • Enseñanzas conducentes a la obtención del título de Bachiller.
 • Ciclos formativos de grado medio.
 
 2. Que me encuentro en alguna de las siguientes situaciones para la inscripción en el curso:
-Me matriculo por primera vez. Repito el curso y no he superado ninguna competencia básica o clave. Repito el curso y he superado  una o varias competencias básicas o clave de las que solicito exención. En   , a de de 20 Fdo.:
+Me matriculo por primera vez. Repito el curso y no he superado ninguna competencia básica o clave. Repito el curso y he superado una o varias competencias básicas o clave de las que solicito exención. En , a de de 20 Fdo.:
 APÉNDICE IV DECLARACIÓN JURADA O DE RESPONSABILIDAD PARA LA ADMISIÓN EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3)
 
-APÉNDICE V CERTIFICADO DE CALIFICACIONES Curso de  acceso directo a ciclos formativos de grado medio (CAD2) D. / D.ª Secretario/a del CERTIFICA QUE:
+APÉNDICE V CERTIFICADO DE CALIFICACIONES Curso de acceso directo a ciclos formativos de grado medio (CAD2) D. / D.ª Secretario/a del CERTIFICA QUE:
 El alumno / la alumna:
 Apellidos Nombre DNI / NIE Fecha de nacimiento ha obtenido las siguientes calificaciones en el «Curso de acceso directo a ciclos formativos de grado medio»:
 CALIFICACIONES Competencia básica Calificación(1) Competencia básica comunicativa en lengua castellana Competencia básica digital Competencia básica matemática SUPERACIÓN Superado / No superado:
 Nota media (2):
-(1)  La calificación de las competencias básicas se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica correspondiente entre paréntesis.
+(1) La calificación de las competencias básicas se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica correspondiente entre paréntesis.
 (2) La calificación final numérica del curso se obtendrá calculando la media aritmética de la calificación obtenida en cada una de las competencias y se expresará de 1 a 10, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior. FECHA Y LUGAR V .º B.º El director / la directora El secretario / la secretaria (sello del centro) Fdo.: Fdo.:
 APÉNDICE V
 
@@ -415,31 +576,31 @@ Nota media(2):
 
 APÉNDICE VII ACTA DE EV ALUACIÓN ENSEÑANZA Curso de acceso directo a ciclos formativos de grado medio (CAD2) CURSO ACADÉMICO CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA COMPETENCIAS BÁSICAS CALIFICACIONES1 N.º Apellidos y nombre DNI / NIE / Pasaporte Competencia básica comunicativa en lengua castellana Competencia básica digital Competencia básica matemática SUPERADO / NO SUPERADO CALIFICACIÓN FINAL2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 APÉNDICE VII ACTA DE EV ALUACIÓN
 
-Esta acta consta de ___ páginas, siendo la presente la página n.º ___ COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA En …............................................................…….. , a ….. de ……………………………………………………… de …… . V .º  B.º La directora / el director La tutora / el tutor (sello del centro) Fdo.: Fdo.:
+Esta acta consta de ___ páginas, siendo la presente la página n.º ___ COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA En …............................................................…….. , a ….. de ……………………………………………………… de …… . V .º B.º La directora / el director La tutora / el tutor (sello del centro) Fdo.: Fdo.:
 OBSERVACIONES:
 
 1. La calificación de las competencias se expresará con una nota entera de 1 a 10. Las competencias básicas exentas constarán con el ítem «EX» seguido de la calificación final numérica correspondiente entre paréntesis.
 
-2. La calificación final del curso será la media aritmética de las calificaciones de todas las competencias, que se hará constar con una nota numérica entre 1 y 10, con dos decimales, redondeada a  la centésima más próxima y, en caso de equidistancia, a la superior.
+2. La calificación final del curso será la media aritmética de las calificaciones de todas las competencias, que se hará constar con una nota numérica entre 1 y 10, con dos decimales, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
 APÉNDICE VIII ACTA DE EV ALUACIÓN ENSEÑANZA Curso de acceso directo a ciclos formativos de grado superior (CAD3) CURSO ACADÉMICO CENTRO CÓDIGO LOCALIDAD DIRECCIÓN CP PROVINCIA GRUPO FECHA COMPETENCIAS CALIFICACIONES1 PARTE COMÚN Competencias básicas PARTE ESPECÍFICA OPCIÓN: A / B / C Competencias clave N.º Apellidos y nombre DNI/NIE/ Pasaporte Comunicativa en lengua castellana Matemática Digital Plurilingüe (Inglés) Competencia (_________) SUPERADO / NO SUPERADO CALIFICACIÓN FINAL2 1 2 3 4 5 6 7 8 9 10 Esta acta consta de ___ páginas, siendo la presente la página n.º ___ APÉNDICE VIII ACTA DE EV ALUACIÓN
 
-COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA En …............................................................…….. , a ….. de ……………………………………………………… de …… . V .º  B.º La directora / el director La tutora / el tutor (sello del centro) Fdo.: Fdo.:
+COMPETENCIAS APELLIDOS Y NOMBRE (DOCENTE) FIRMA En …............................................................…….. , a ….. de ……………………………………………………… de …… . V .º B.º La directora / el director La tutora / el tutor (sello del centro) Fdo.: Fdo.:
 OBSERVACIONES:
 
-1. La calificación de las competencias se expresará con una nota entera de 1 a 10.  Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica, entre paréntesis, con la que se superó dich a competencia.
+1. La calificación de las competencias se expresará con una nota entera de 1 a 10. Las competencias exentas constarán con el ítem «EX» seguido de la calificación final numérica, entre paréntesis, con la que se superó dich a competencia.
 
 2. La calificación final del curso será la media aritmética de las calificaciones de todas las competencias, que se hará constar con una nota numérica entre 1 y 10, con dos decimales, redondeada a la centésima más próxima y, en caso de equidistancia, a la superior.
 
 APÉNDICE IX CONSEJO ORIENTADOR PARA ALUMNADO PROPUESTO PARA REALIZAR EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
 
 1. DATOS PERSONALES Nombre y apellidos:
-CIAL: Fecha de nacimiento:      /      / Edad:
+CIAL: Fecha de nacimiento: / / Edad:
 
 2. ESTUDIOS ACTUALES Centro: Nivel/Curso:
-Ha sido propuesto por el equipo docente a los padres, madres o tutores legales para que curse esta enseñanza: Sí   � No    ⃣�
+Ha sido propuesto por el equipo docente a los padres, madres o tutores legales para que curse esta enseñanza: Sí � No ⃣�
 
-3. HISTORIA ESCOLAR Cursos repetidos en primaria 1.º    � 2.º   � 3.º   � 4.º   � 5.º   � 6.º   � Cursos repetidos en secundaria 1.º    ⃣� 2.º     ⃣� 3.º     ⃣� 4.º     ⃣� Materias pendientes (indicar, debajo de cada materia, el curso/los cursos en que está pendiente):
+3. HISTORIA ESCOLAR Cursos repetidos en primaria 1.º � 2.º � 3.º � 4.º � 5.º � 6.º � Cursos repetidos en secundaria 1.º ⃣� 2.º ⃣� 3.º ⃣� 4.º ⃣� Materias pendientes (indicar, debajo de cada materia, el curso/los cursos en que está pendiente):
 Materia:
 Curso:
 
@@ -461,26 +622,26 @@ Emprendedora Conciencia y expresión culturales
 
 2. Preparar al alumnado para su progresión en el sistema educativo
 
-3. Se han aplicado medidas de atención a la diversidad y continúa presentando dificultades para alcanzar los objetivos de la etapa 4. 5. Atendiendo a la información analizada, el equipo docente propone la incorporación del alumno o la alumna al Curso de acceso directo a ciclos formativos de grado medio para el curso escolar: 20____ / 20____ En   , a  de  de V .º B.º Inspector/a (nombre, firma y fecha) Tutor/a del grupo (nombre, firma y fecha) Orientador/a (nombre, firma y fecha)
+3. Se han aplicado medidas de atención a la diversidad y continúa presentando dificultades para alcanzar los objetivos de la etapa 4. 5. Atendiendo a la información analizada, el equipo docente propone la incorporación del alumno o la alumna al Curso de acceso directo a ciclos formativos de grado medio para el curso escolar: 20____ / 20____ En , a de de V .º B.º Inspector/a (nombre, firma y fecha) Tutor/a del grupo (nombre, firma y fecha) Orientador/a (nombre, firma y fecha)
 
-APÉNDICE X CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES (matrícula en el Curso de acceso directo a ciclos formativos de grado medio) D./D.ª con  DNI/NIE/Pasaporte n.º padre, madre, o tutor/a (marcar lo que procede) del alumno/a D./D.ª con  DNI/NIE/Pasaporte n.º padre, madre, o tutor/a (marcar lo que procede) del alumno/a con DNI/NIE/Pasaporte n.º escolarizado en el curso 20     /20     en el nivel                                   en el centro EXPONEN:
+APÉNDICE X CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES (matrícula en el Curso de acceso directo a ciclos formativos de grado medio) D./D.ª con DNI/NIE/Pasaporte n.º padre, madre, o tutor/a (marcar lo que procede) del alumno/a D./D.ª con DNI/NIE/Pasaporte n.º padre, madre, o tutor/a (marcar lo que procede) del alumno/a con DNI/NIE/Pasaporte n.º escolarizado en el curso 20 /20 en el nivel en el centro EXPONEN:
 1) Que han sido informados por el tutor o tutora y por el Departamento de Orientación del centro de la pro - puesta del equipo docente para la incorporación del alumno o alumna al Curso de acceso directo a ciclos for - mativos de grado medio.
 2) Que dan su consentimiento para que el alumno o alumna curse esta enseñanza. DERECHO DE INFORMACIÓN AL SOLICITANTE:
 Protección de datos:
 Tratamiento de datos de carácter personal ADMISIÓN DE ALUMNADO. Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado que accede por primera vez a un centro público o privado concertado de enseñanzas no universitarias o que accede a enseñanzas postobligatorias. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el Responsable del Tratamiento. Procedencia de los datos: El propio interesado o interesada o su representante legal. Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado/ Tratamiento de datos de carácter personal ADMISIÓN DEL ALUMNADO CON PRIORIDAD POR CAMBIO DE RESIDENCIA DERIV ADO DE ACTOS DE VIOLENCIA DE GÉNERO. Responsable del tratamiento: Consejería de Educación, Formación Profesional, Actividad Física y Deportes del Gobierno de Canarias. Finalidad del tratamiento: Gestionar la escolarización del alumnado de enseñanzas no universitarias, en las condiciones establecidas en la normativa de admisión, ejerciendo su prioridad en el área de escolarización que corresponda al domicilio o al lugar de trabajo de al - guno de sus padres, madres o tutores legales cuya escolarización en centros públicos y privados concertados venga motivada por traslado de la unidad familiar debido a un cambio de residencia deriva - do de actos de violencia de género. Derechos de las personas interesadas: De acuerdo con el Reglamento General de Protección de Datos, podrá ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición y a no ser objeto de decisiones individualizadas basadas únicamente en el tratamiento automatizado ante el Responsable del Tratamiento. Procedencia de los datos:
-El propio interesado o interesada o su representante legal. Información  adicional:  https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado-con-prioridad-por-cambio-de-residencia-derivado-de-actos-deviolencia-de-genero/ En   , a de  de PADRE/MADRE/TUTOR/A (nombre, firma, DNI/NIE/Pasaporte) PADRE/MADRE/TUTOR/A (nombre, firma, DNI/NIE/Pasaporte) APÉNDICE X CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES (matrícula en el Curso de acceso directo a ciclos formativos de grado medio)
+El propio interesado o interesada o su representante legal. Información adicional: https://www.gobiernodecanarias.org/protecciondedatos/registrotratamiento/eucd/ceucd/Admision-del-alumnado-con-prioridad-por-cambio-de-residencia-derivado-de-actos-deviolencia-de-genero/ En , a de de PADRE/MADRE/TUTOR/A (nombre, firma, DNI/NIE/Pasaporte) PADRE/MADRE/TUTOR/A (nombre, firma, DNI/NIE/Pasaporte) APÉNDICE X CONSENTIMIENTO DE LOS PADRES, MADRES O TUTORES/AS LEGALES (matrícula en el Curso de acceso directo a ciclos formativos de grado medio)
 
-APÉNDICE XI Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado medio (CAD2) Nombre:  Apellidos:
+APÉNDICE XI Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado medio (CAD2) Nombre: Apellidos:
 DNI/NIE:
 Solicito la exención en las competencias indicadas a continuación:
-COMPETENCIAS BÁSICAS Competencia básica comunicativa en lengua castellana Competencia básica matemática Competencia básica digital DOCUMENTACIÓN ACREDITATIV A Acreditación en la/s competencia/s básica/s de la/s que solicita exención  (nivel 3 del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas según el RD 86/2025) Certificado de calificaciones En   , a de de 20 Fdo.:
+COMPETENCIAS BÁSICAS Competencia básica comunicativa en lengua castellana Competencia básica matemática Competencia básica digital DOCUMENTACIÓN ACREDITATIV A Acreditación en la/s competencia/s básica/s de la/s que solicita exención (nivel 3 del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas según el RD 86/2025) Certificado de calificaciones En , a de de 20 Fdo.:
 APÉNDICE XI SOLICITUD DE EXENCIÓN EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO MEDIO (CAD2)
 
-APÉNDICE XII Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado superior (CAD3) Nombre:                                                           Apellidos:
+APÉNDICE XII Solicitud de exención en el Curso de acceso directo a ciclos formativos de grado superior (CAD3) Nombre: Apellidos:
 DNI/NIE:
 Solicito la exención en las competencias básicas y/o clave indicadas a continuación:
 PARTE COMÚN COMPETENCIAS BÁSICAS PARTE ESPECÍFICA - COMPETENCIAS CLA VE (SOLO LAS SUPERADAS EN EL CURSO DE ACCESO DIRECTO) Comunicativa en lengua castellana Obligatoria Plurilingüe (Inglés) Matemática Opción A Personal, social y de aprender a aprender (Psicología) Digital Opción B En tecnología e ingeniería (Tecnología e Ingeniería)
-- --- Opción C En ciencia (Biología) DOCUMENTACIÓN ACREDITATIV A Acreditación en la/s competencia/s básica/s de la/s que solicita exención  (nivel 4 del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas según el RD 86/2025) Certificado de calificaciones En   , a de de 20 Fdo.:
+- --- Opción C En ciencia (Biología) DOCUMENTACIÓN ACREDITATIV A Acreditación en la/s competencia/s básica/s de la/s que solicita exención (nivel 4 del marco de referencia para la evaluación y acreditación de competencias básicas de las personas adultas según el RD 86/2025) Certificado de calificaciones En , a de de 20 Fdo.:
 APÉNDICE XII SOLICITUD DE EXENCIÓN EN EL CURSO DE ACCESO DIRECTO A CICLOS FORMATIVOS DE GRADO SUPERIOR (CAD3)
 
 ## Relaciones Normativas y Fundamentos de Derecho

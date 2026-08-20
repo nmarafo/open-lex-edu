@@ -88,8 +88,6 @@ Seleccionar redacción:
 
 Última actualización publicada el 28/12/2022
 
-Última actualización publicada el 28/12/2022
-
 Modificación publicada el 06/11/2018
 
 Texto inicial publicado el 17/07/2010
@@ -4163,9 +4161,9 @@ presente Estatuto, se fija en setenta el número de diputados y diputadas del Pa
 
 3. A efectos de la elección en la circunscripción autonómica, sólo serán tenidas en cuenta aquellas listas de partido o coalición que hubieran obtenido, al menos, el 4 por 100 de los votos válidos emitidos en la totalidad de la Comunidad Autónoma.
 
-4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo 39.2.
+4. El Parlamento de Canarias elaborará, en un plazo no superior a tres años desde la entrada en vigor del presente Estatuto de Autonomía, la ley a que se refiere el artículo
 
-Subir
+**39.2.** Subir
 
 [Bloque 251: #dt-2]
 

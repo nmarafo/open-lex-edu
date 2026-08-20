@@ -73,7 +73,7 @@ a) Los movimientos de tierra, excavaciones, explanaciones y terraplenado en cual
 Donde dice:
 «Artículo 167 ter. Requisitos de acreditación de las entidades privadas colaboradoras urbanísticas. […] 2. Dicha acreditación deberá estar concedida en cumplimiento de la UNE-EN ISO/IEC 17020 (entidades de tipo A), siendo necesario cumplir los siguientes requisitos:
 
-Pág. 13 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 1.o Contar con dos o más profesionales con las siguientes características:
+Pág. 13 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 1.o Contar con dos o más profesionales con las siguientes características:
 a) Arquitecto o Ingeniero con experiencia acreditada por un período mínimo de diez años en las siguientes funciones:
 1.o Redactar, dirigir e interpretar proyectos de obras de edificación. 2.o Redactar, interpretar y aplicar instrumentos de planeamiento. 3.o Redactar, interpretar y aplicar instrumentos de gestión urbanística. b) Abogado, legalmente habilitado para ello, con experiencia acreditada por un período mínimo de diez años en las siguientes funciones:
 1.o Asesoramiento jurídico en materia de planeamiento, gestión y disciplina urbanística o aspectos jurídico-técnicos en materia de construcción, edificación y urbanización. 2.o Tener suscrito seguro de responsabilidad civil por cuantía mínima de 1.000.000 de euros, que debe incluir la actividad del profesional que se desarrolla como entidad urbanística de colaboración. Dicha cuantía, además de no ser limitativa de la responsabilidad, podrá ser actualizada por el Consejo de Gobierno de la Comunidad de Madrid. (…)». Debe decir:

@@ -76,7 +76,7 @@ Se faculta a la persona titular de la Secretaría General de Acción Exterior pa
 
 La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 13 de julio de 2020 ELÍAS BENDODO BENASAYAG Consejero de la Presidencia, Administración Pública e Interior
 
-(Página  1 de 10) (Página  1 de 10) CUADRO RESUMEN DE LAS BASES REGULADORAS DE SUBVENCIONES A CONCEDER POR EL PROCEDIMIENTO DE CONCURRENCIA NO COMPETITIVA. 0.- Identificación de la línea de subvención:
+() () CUADRO RESUMEN DE LAS BASES REGULADORAS DE SUBVENCIONES A CONCEDER POR EL PROCEDIMIENTO DE CONCURRENCIA NO COMPETITIVA. 0.- Identificación de la línea de subvención:
 Subvenciones para el fomento de la cooperación transfronteriza en la Eurorregión Alentejo-AlgarveAndalucía. 1.- Objeto (Artículo 1):
 La presente Orden tiene por objeto establecer las bases reguladoras para la concesión de subvenciones para la realización de proyectos o actividades que fomenten la cooperación transfronteriza en la Eurorregión Alentejo-Algarve-Andalucía. 2.- Conceptos subvencionables (Artículos 1 y 17). 2.a) Conceptos subvencionables:
 Sin perjuicio de lo dispuesto en el apartado 5.b).1º, serán conceptos subvencionables los de naturaleza corriente necesarios para la realización de proyectos o actividades que promuevan el conocimiento recíproco y fomenten la cooperación transfronteriza en el ámbito de la Eurorregión Alentejo-Algarve-Andalucía en alguna o algunas de las siguientes tipologías:
@@ -104,7 +104,7 @@ Desde la fecha de presentación de la solicitud de subvención hasta la fecha de
 No se establecen. Se establecen las siguientes excepciones al artículo 3.3. del Texto Articulado:
 Al amparo de lo establecido en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y en el artículo 116.2 del Texto Refundido de la Ley General de Hacienda Pública de la
 
-(Página  2 de 10) (Página  2 de 10) Junta de Andalucía, aprobado por el Decreto Legislativo 1/2010, de 2 de marzo, y atendiendo a la naturaleza de las subvenciones reguladas en la presente Orden, las Entidades Locales, las Universidades y las Agrupaciones Europeas de Cooperación Territorial quedan exceptuadas de hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social impuestas por las disposiciones vigentes, así como de no tener deudas en periodo ejecutivo de cualquier otro ingreso de derecho público de la Comunidad Autónoma de Andalucía. 4.e) Personas o entidades obligadas a relacionarse a través de medios electrónicos durante la tramitación del procedimiento de concesión:
+() () Junta de Andalucía, aprobado por el Decreto Legislativo 1/2010, de 2 de marzo, y atendiendo a la naturaleza de las subvenciones reguladas en la presente Orden, las Entidades Locales, las Universidades y las Agrupaciones Europeas de Cooperación Territorial quedan exceptuadas de hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social impuestas por las disposiciones vigentes, así como de no tener deudas en periodo ejecutivo de cualquier otro ingreso de derecho público de la Comunidad Autónoma de Andalucía. 4.e) Personas o entidades obligadas a relacionarse a través de medios electrónicos durante la tramitación del procedimiento de concesión:
 Todas. Ninguna. Las siguientes personas o entidades:
 5.- Cuantía de las subvenciones y gastos subvencionables (Artículo 4). 5.a) Cuantía:
 Porcentaje máximo de la subvención: 80% del presupuesto del proyecto o actividad subvencionable, con la cuantía máxima prevista a continuación. Cuantía máxima de la subvención:
@@ -134,14 +134,14 @@ Se considera gasto realizado el que ha sido efectivamente pagado con anteriorida
 5.f) Periodo durante el que se debe destinar los bienes al fin concreto:
 No es aplicable.
 
-(Página  3 de 10) (Página  3 de 10) 5.g) Reglas especiales en materia de amortización:
+() () 5.g) Reglas especiales en materia de amortización:
 No. Sí. Se establecen las siguientes reglas especiales:
 5.h) Posibilidad de acogerse al régimen de mínimis:
 No. Sí. Observaciones, en su caso:
 6.- Régimen de control (Artículo 5):
 Fiscalización previa. Control financiero. 7.- Financiación y régimen de compatibilidad de las subvenciones (Artículo 6). 7.a) Aportación de fondos propios:
 No se exige la aportación de fondos propios. La aportación de fondos propios por la persona o entidad beneficiaria para financiar la actividad subvencionada será, al menos, de:
-Al menos el 20% del presupuesto del proyecto o actividad subvencionado debe financiarse con fondos propios y/o con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales. 7.b) Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad  procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
+Al menos el 20% del presupuesto del proyecto o actividad subvencionado debe financiarse con fondos propios y/o con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales. 7.b) Compatibilidad con otras subvenciones, ayudas, ingresos o recursos para la misma finalidad procedentes de cualesquiera Administraciones o entes públicos o privados, nacionales, de la Unión Europea o de organismos internacionales:
 Sí. Observaciones, en su caso: En ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, ayudas, ingresos o recursos supere el coste total de la actividad subvencionada. En los supuestos de que dichas ayudas estén solicitadas y no concedidas, antes de la presentación del Anexo II en el trámite de audiencia, se deberá adjuntar copia de las solicitudes, sin perjuicio de la remisión posterior del acuerdo o resolución de concesión. Asimismo, en caso de que la entidad solicitante o beneficiaria obtenga dichas subvenciones, ayudas, ingresos o recursos para la misma finalidad, deberá comunicarlo inmediatamente tras recibir la correspondiente notificación al órgano instructor o competente para resolver, acompañando copia autenticada de dicho acuerdo o resolución de concesión. No. 7.c) Incremento del importe de la subvención concedida con los rendimientos financieros que se generen por los fondos librados:
 No. Si 7.d) Participación en la financiación de las subvenciones:
 Administración de la Junta de Andalucía. Porcentaje:
@@ -159,7 +159,7 @@ No se establecen. Se establecen las siguientes excepciones al artículo 7.4 del 
 8.e). Condiciones de solvencia y eficacia:
 No se establecen. Se establecen las siguientes condiciones:
 
-(Página  4 de 10) (Página  4 de 10) 8.f). Particularidades y contenido que, en su caso, se establecen para el convenio de colaboración o contrato:
+() () 8.f). Particularidades y contenido que, en su caso, se establecen para el convenio de colaboración o contrato:
 No se establecen. Se establecen las siguientes particularidades y contenido:
 8.g). Funciones y obligaciones de la/s entidad/es colaboradora/s:
 9.- Subcontratación (Artículo 8). 9.a). Posibilidad de subcontratación:
@@ -189,7 +189,7 @@ El plazo de presentación de solicitudes se establecerá en la convocatoria. 12.
 Órgano/s instructor/es: Secretaría General de Acción Exterior. Además de las funciones de Instrucción le corresponde las siguientes funciones:
 Análisis de las solicitudes. Propuesta provisional de resolución.
 
-(Página  5 de 10) (Página  5 de 10) Análisis de las alegaciones y documentos presentados. Propuesta definitiva de resolución. Otras funciones:
+() () Análisis de las alegaciones y documentos presentados. Propuesta definitiva de resolución. Otras funciones:
 Órgano/s competente/es para resolver:
 Persona titular de la Secretaría General de Acción Exterior. que actuará/n:
 En uso de las competencias atribuidas por el artículo:
@@ -219,7 +219,7 @@ h) Documentación acreditativa de que la entidad solicitante está al corriente 
 Tipo:
 Originales. Copias auténticas.
 
-(Página  6 de 10) (Página  6 de 10) Copias autenticadas. Otro:
+() () Copias autenticadas. Otro:
 Soporte:
 Papel. Electrónico. Otros:
 15.- Plazo máximo para resolver y publicar la resolución del procedimiento (Artículo 19):
@@ -245,11 +245,11 @@ No, al concurrir las circunstancias que se indican a continuación:
 - La ampliación de los plazos de ejecución y justificación.
 - La obtención de cualquier tipo de ingresos o recursos cuando, en concurrencia con las subvenciones otorgadas, supere el coste de la actividad subvencionada.
 - Las establecidas en la correspondiente resolución de concesión. 20.b) La persona o entidad beneficiaria de la subvención puede instar del órgano concedente la iniciación de oficio del procedimiento para modificar la resolución de concesión:
-No. Sí. 20.c) Posibilidad de modificar la resolución de concesión por decisiones digiridas al cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera No. Sí. Siempre que la Ley del Presupuesto de la Comunidad Autónoma de Andalucía lo prevea, el órgano competente para conceder la subvención podrá modificar la resolución de concesión  en orden al cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera, ajustándose a las siguientes determinaciones:
+No. Sí. 20.c) Posibilidad de modificar la resolución de concesión por decisiones digiridas al cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera No. Sí. Siempre que la Ley del Presupuesto de la Comunidad Autónoma de Andalucía lo prevea, el órgano competente para conceder la subvención podrá modificar la resolución de concesión en orden al cumplimiento de los objetivos de estabilidad presupuestaria y sostenibilidad financiera, ajustándose a las siguientes determinaciones:
 La modificación de la resolución de concesión podrá consistir en:
 La modificación de la resolución de concesión tendrá lugar entre las personas beneficiarias aplicando los siguientes criterios de distribución:
 
-(Página  7 de 10) (Página  7 de 10) La modificación de la resolución de concesión podrá acordarse hasta:
+() () La modificación de la resolución de concesión podrá acordarse hasta:
 La modificación de la resolución de concesión supondrá la reducción de las obligaciones de las personas beneficiarias con el siguiente alcance:
 Otras determinaciones:
 La modificación de la resolución de concesión se efectuará siguiendo las directrices dictadas por el órgano competente en materia de estabilidad presupuestaria y sostenibilidad financiera. 21.- Exigencia de estados contables y registros específicos (Artículo 24):
@@ -257,10 +257,10 @@ No. Sí. Estados contables y/o registros específicos exigidos:
 
 22. Medidas de información y publicidad, y otras condiciones y obligaciones específicas que deben cumplir y/o adoptar las personas o entidades beneficiarias (Artículo 24). 22.a) Medidas de información y publicidad. 22.a).1º Medidas de información y publicidad que deben adoptar las personas o entidades beneficiarias:
 No se establecen. Se establecen las siguientes medidas:
-La entidad beneficiaria deberá hacer constar, en toda información o publicidad que se efectúe del proyecto o  actividad subvencionado, que está subvencionado por la Consejería competente en materia de acción exterior. La entidad beneficiaria garantizará un uso inclusivo y no sexista del lenguaje y de la imagen en la totalidad de documentos y soportes que produzca, evitando cualquier imagen discriminatoria de las mujeres o estereotipos sexistas y fomentando una imagen con valores de igualdad que potencien la pluralidad de roles y de identidades de género. La entidad beneficiaria incluirá la variable sexo en toda la información referida a personas que elabore y/o proporcione, teniendo igualmente en cuenta la perspectiva de género en todos los documentos, estudios e investigaciones que se deriven de la ejecución de la actividad subvencionada. 22.a). 2º Términos y condiciones de publicidad específica en materia de transparencia:
+La entidad beneficiaria deberá hacer constar, en toda información o publicidad que se efectúe del proyecto o actividad subvencionado, que está subvencionado por la Consejería competente en materia de acción exterior. La entidad beneficiaria garantizará un uso inclusivo y no sexista del lenguaje y de la imagen en la totalidad de documentos y soportes que produzca, evitando cualquier imagen discriminatoria de las mujeres o estereotipos sexistas y fomentando una imagen con valores de igualdad que potencien la pluralidad de roles y de identidades de género. La entidad beneficiaria incluirá la variable sexo en toda la información referida a personas que elabore y/o proporcione, teniendo igualmente en cuenta la perspectiva de género en todos los documentos, estudios e investigaciones que se deriven de la ejecución de la actividad subvencionada. 22.a). 2º Términos y condiciones de publicidad específica en materia de transparencia:
 22.b) Obligaciones:
 22.b).1º Obligaciones de transparencia y suministro de información y términos y condiciones en los que se ha de cumplir:
-La entidad beneficiaria comunicará a la Secretaría General de Acción Exterior el cambio de la persona representante de la entidad o de la persona en quien se haya delegado la tramitación de la solicitud, si se hubiera producido dicho cambio en el periodo que va desde el momento de presentación de la solicitud de subvención hasta que se haya justificado completamente la misma. 22.b).2º Plazo durante el que se deben conservar los documentos justificativos de la aplicación de los fondos recibidos y se está obligado a comunicar al órgano concedente  el cambio  de  domicilio, de  dispositivo   electrónico o de dirección de correo electrónico:
+La entidad beneficiaria comunicará a la Secretaría General de Acción Exterior el cambio de la persona representante de la entidad o de la persona en quien se haya delegado la tramitación de la solicitud, si se hubiera producido dicho cambio en el periodo que va desde el momento de presentación de la solicitud de subvención hasta que se haya justificado completamente la misma. 22.b).2º Plazo durante el que se deben conservar los documentos justificativos de la aplicación de los fondos recibidos y se está obligado a comunicar al órgano concedente el cambio de domicilio, de dispositivo electrónico o de dirección de correo electrónico:
 4 años desde la finalización del plazo para presentar la justificación. 22.b).3º Otras obligaciones y condiciones específicas:
 No se establecen. Se establecen las siguientes:
 23.- Forma y secuencia de pago (Artículo 25). 23.a) Forma/s de pago:
@@ -268,7 +268,7 @@ Una sola forma de pago. formas de pago. Supuestos objetivos para determinar la f
 Forma/s de pago Supuestos objetivos Pago del 100%, previa justificación. Pago anticipado del 100%, con justificación diferida. Proyecto o actividad realizado con anterioridad a la fecha de la resolución de concesión. Proyecto o actividad no realizado con anterioridad a la fecha de la resolución de concesión, al ser el importe de la subvención concedida igual o inferior a 6.000,00 euros. 23.a).1º. Pago previa justificación:
 Pago del 100 % del importe de la subvención, previa justificación, por la persona o entidad beneficiaria, de la realización de la actividad, proyecto, objetivo o adopción del comportamiento. Pago fraccionado, mediante pagos a cuenta que responderá al ritmo de ejecución de las actividades subvencionadas, abonándose en la parte proporcional a la cuantía de la justificación presentada y aceptada. 23.a).2º. Pago anticipado.
 
-(Página  8 de 10) (Página  8 de 10) Razones justificadas para establecer esta forma de pago:
+() () Razones justificadas para establecer esta forma de pago:
 Importe máximo de la subvención igual o inferior a 6.000 euros. Garantías:
 No se establecen. Sí.
 - Forma:
@@ -280,7 +280,7 @@ Subvención de importe igual o inferior a 6.000 euros. Subvención acogida al si
 establecido en el artículo:
 de la vigente Ley del Presupuesto de la Comunidad Autónoma de Andalucía. Con anticipo máximo del 50 % del importe de la subvención. Con anticipo máximo del:
 del importe de la subvención. Secuencia del pago anticipado:
-Nº PAGO IMPORTE O PORCENTAJE DE PAGO MOMENTO O FECHA DE PAGO PLAZO DE JUSTIFICACIÓN DEL PAG0 IMPORTE  O PORCENTAJE JUSTIFICADO DE PAGOS ANTERIORES 1º 100% Tras la firma de la resolución de concesión. 3 meses desde la fecha de finalización del plazo de ejecución del proyecto o actividad subvencionado. 23.b) Requisitos previos a la propuesta de pago de la subvención:
+Nº PAGO IMPORTE O PORCENTAJE DE PAGO MOMENTO O FECHA DE PAGO PLAZO DE JUSTIFICACIÓN DEL PAG0 IMPORTE O PORCENTAJE JUSTIFICADO DE PAGOS ANTERIORES 1º 100% Tras la firma de la resolución de concesión. 3 meses desde la fecha de finalización del plazo de ejecución del proyecto o actividad subvencionado. 23.b) Requisitos previos a la propuesta de pago de la subvención:
 No se establecen. Antes de proponerse el pago la persona o entidad beneficiaria deberá acreditar que se encuentra al corriente de sus obligaciones tributarias y frente a la Seguridad Social, así como que no es deudora de la Junta de Andalucía por cualquier otro ingreso de derecho público. Otros requisitos previos a la propuesta de pago:
 23.c) Compromiso de pago en una fecha determinada:
 No se establece el compromiso de pago en una fecha determinada. Se establece el compromiso de pago en la/s siguientes fecha/s:
@@ -296,7 +296,7 @@ No se establecen. Sí.
 La persona o entidad beneficiaria. La entidad colaboradora. 25.b) Plazo máximo para la presentación de la justificación:
 El plazo máximo para la presentación de la justificación será de: 3 meses , a contar desde: la fecha de finalización del plazo de ejecución del proyecto o actividad subvencionado. Otras formas de determinar el plazo máximo para la presentación de la justificación:
 
-(Página  9 de 10) (Página  9 de 10) 25.c) Documentos justificativos del gasto:
+() () 25.c) Documentos justificativos del gasto:
 Originales. Se marcarán con una estampilla:
 Sí No Fotocopias compulsadas. 25.d) Utilización de medios electrónicos, informáticos o telemáticos en el procedimiento de justificación:
 No. Sí. Medios:
@@ -315,13 +315,13 @@ No. Sí. Hasta el límite de:
 25.f).3º Cuenta justificativa simplificada:
 Técnica de muestreo que se establece:
 25.f).4º Justificación a través de módulos:
-En su caso, concreción  de los módulos:
+En su caso, concreción de los módulos:
 Forma de actualización, en su caso, de los módulos:
 La concreción de los módulos y de la elaboración del informe técnico se establecerá de forma diferenciada para cada convocatoria:
 Sí. No. Las personas o entidades beneficiarias están obligadas a la presentación de libros, registros y documentos de trascendencia contable o mercantil:
 Sí. No.
 
-(Página  10 de 10) (Página  10 de 10) 25.f).5º Justificación a través de estados contables:
+() () 25.f).5º Justificación a través de estados contables:
 Informe complementario por auditor de cuentas:
 Sí. No. En su caso, alcance adicional de la revisión por el auditor:
 La retribución adicional al auditor de cuentas es gasto subvencionable:

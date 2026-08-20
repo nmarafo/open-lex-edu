@@ -225,11 +225,11 @@ Tanto en la prueba de Lengua y Literatura Francesas, en sus ejercicios oral y es
 
 1. Prueba de Lengua y Literatura Francesas
 
-1.1 Ejercicio escrito de Lengua y Literatura Francesas.
+**1.1** Ejercicio escrito de Lengua y Literatura Francesas.
 
 Con respecto a lo que se recoge en la Orden EDU/2157/2010, de 30 de julio, por la que se regula el currículo mixto de las enseñanzas acogidas al Acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, así como los requisitos para su obtención, sobre estructura y calificación de la prueba externa de Lengua y Literatura Francesas, en relación con cada una de las dos partes del ejercicio escrito, se matizan los siguientes aspectos:
 
-1.1.1 Primera parte.
+**1.1.1** Primera parte.
 
 Conforme a lo establecido en el artículo 5.2.a) de la orden, «La primera parte tendrá una duración de dos horas. A partir de un texto que podrá ir acompañado de un documento gráfico el alumno o alumna deberá realizar un comentario respondiendo a unas cuestiones que permitan evaluar su comprensión, así como una redacción sobre el texto propuesto».
 
@@ -241,7 +241,7 @@ El objetivo que se pretende con la redacción es demostrar el razonamiento crít
 
 Para esta primera parte se propondrán dos opciones diferentes entre las que cada estudiante deberá elegir una.
 
-1.1.2 Segunda parte.
+**1.1.2** Segunda parte.
 
 Según se establece en el artículo 5.2.b) de la orden, «La segunda parte tendrá también una duración de dos horas, y consistirá en la elaboración de un ensayo sobre uno de los temas de estudio fijados cada dos años por la Comisión de seguimiento, a partir del programa de literatura relativo a las obras y autores y autoras de los siglos XIX, XX y XXI».
 
@@ -249,7 +249,7 @@ El sentido de este ejercicio es la elaboración de un texto de carácter argumen
 
 Para esta segunda parte se propondrán dos opciones diferentes entre las que cada estudiante deberá elegir una.
 
-1.2 Ejercicio oral de Lengua y Literatura Francesas.
+**1.2** Ejercicio oral de Lengua y Literatura Francesas.
 
 De acuerdo con lo establecido en el artículo 5.3 de la orden, El ejercicio oral constará de dos partes y tendrá una duración máxima de 40 minutos:
 
@@ -269,7 +269,7 @@ Los tribunales, de acuerdo con las instrucciones dictadas por las administracion
 
 Con respecto a lo que se determina en la Orden EDU/2157/2010, de 30 de julio, sobre la estructura y calificación de la prueba externa de Historia de España y de Francia, en relación con cada una de las dos partes del ejercicio escrito, se matizan los siguientes aspectos:
 
-2.1 Primera parte.
+**2.1** Primera parte.
 
 Conforme a lo establecido en el artículo 6.2 de la orden, «La primera parte tendrá una duración de dos horas, y consistirá en la realización de un comentario sobre un texto y/o un documento gráfico».
 
@@ -283,7 +283,7 @@ La prueba tiene como objetivo que el alumnado interprete de forma razonada el do
 
 Para esta primera parte se propondrán dos opciones diferentes entre las que cada estudiante deberá elegir una.
 
-2.2 Segunda parte.
+**2.2** Segunda parte.
 
 Según se establece en el artículo 6.3 de la orden, «La segunda parte tendrá también una duración de dos horas, y consistirá en el desarrollo de un tema relacionado con el currículo integrado».
 

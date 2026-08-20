@@ -42,8 +42,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -69,8 +67,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -118,17 +114,19 @@ Disposición siguiente
 
 3 de 07/01/2009
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2009/3/boletin.3.pdf">Descargar boletín nº 3 completo
 
@@ -145,4 +143,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

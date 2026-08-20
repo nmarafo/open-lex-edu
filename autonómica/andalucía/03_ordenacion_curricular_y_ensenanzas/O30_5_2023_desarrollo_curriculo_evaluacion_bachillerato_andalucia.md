@@ -38,8 +38,6 @@ Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -68,8 +66,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 104
@@ -84,7 +80,7 @@ Histórico del BOJA Boletín número 104 de 02/06/2023
 
 Orden de 26 de mayo de 2023, por la que se modifica la Orden de 27 de septiembre de 2022, por la que se convocan para el año 2022, las ayudas previstas en la Orden de 2 de septiembre de 2022, por la que se establecen las bases reguladoras para la concesión de ayudas en régimen de concurrencia no competitiva, por la paralización temporal de la actividad pesquera de la flota pesquera y marisquera con puerto base en Andalucía, en el marco del Programa Operativo del Fondo Europeo Marítimo y de la Pesca (2014-2020), en relación con la parada temporal de la flota marisquera autorizada al uso de draga hidráulica y rastro remolcado, dedicada a la captura de la chirla en el caladero Golfo de Cádiz, que ha tenido lugar del 2 de marzo al 30 de junio de 2022, y su Extracto.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="3-verificacion"> Verificación de autenticidad  con CVE 00284635.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="3-verificacion"> Verificación de autenticidad con CVE 00284635.
 
 Mediante la Orden de 27 de septiembre de 2022, de la Consejería de Agricultura, Pesca, Agua y Desarrollo Rural, publicada en el
 
@@ -179,4 +175,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

@@ -479,41 +479,41 @@ Habitantes
 
 Referencia
 
-Más de 500.000
+Más de
 
-Secretario de Estado.
+**500.000** Secretario de Estado.
 
-300.001 a 500.000
+300.001 a
 
-Secretario de Estado -10%.
+**500.000** Secretario de Estado -10%.
 
-150.001 a 300.000
+150.001 a
 
-Secretario de Estado -20%.
+**300.000** Secretario de Estado -20%.
 
-75.001 a 150.000
+75.001 a
 
-Secretario de Estado -25%.
+**150.000** Secretario de Estado -25%.
 
-50.001 a 75.000
+50.001 a
 
-Secretario de Estado -35%.
+**75.000** Secretario de Estado -35%.
 
-20.001 a 50.000
+20.001 a
 
-Secretario de Estado -45%.
+**50.000** Secretario de Estado -45%.
 
-10.001 a 20.000
+10.001 a
 
-Secretario de Estado -50%.
+**20.000** Secretario de Estado -50%.
 
-5.001 a 10.000
+5.001 a
 
-Secretario de Estado -55%.
+**10.000** Secretario de Estado -55%.
 
-1.000 a 5.000
+1.000 a
 
-Secretario de Estado -60%.
+**5.000** Secretario de Estado -60%.
 
 Los miembros de Corporaciones locales de población inferior a 1.000 habitantes no tendrán dedicación exclusiva. Excepcionalmente, podrán desempeñar sus cargos con dedicación parcial, percibiendo sus retribuciones dentro de los límites máximos señalados al efecto en la Ley de Presupuestos Generales del Estado.
 
@@ -525,9 +525,9 @@ Habitantes
 
 Referencia
 
-Más de 150.000
+Más de
 
-Alcalde o Presidente de la Corporación municipal más poblada de su provincia.
+**150.000** Alcalde o Presidente de la Corporación municipal más poblada de su provincia.
 
 25.000 a 150.000
 

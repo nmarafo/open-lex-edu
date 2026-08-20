@@ -44,18 +44,18 @@ relaciones:
 
 ## Preámbulo
 
-•  Accesibilidad
-•  Mapa web
-•  Contacto
-•  Versión texto
-•  Inicio
-•  Archivo
-•  Búsqueda Estás en:
-•  Inicio
-•  Archivo
-•  Año 1992
-•  1992/018. Jueves 6 de Febrero de 1992
-•  125 <p>Menú de búsqueda y navegación</p>
+• Accesibilidad
+• Mapa web
+• Contacto
+• Versión texto
+• Inicio
+• Archivo
+• Búsqueda Estás en:
+• Inicio
+• Archivo
+• Año 1992
+• 1992/018. Jueves 6 de Febrero de 1992
+• 125 <p>Menú de búsqueda y navegación</p>
 - 125 125 - RESOLUCIÓN de 28 de enero de 1992, de la Dirección General de Trabajo, por la que se hace
 
 público el III Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias. [image] Descargar en formato pdf Visto el texto del Convenio Colectivo del Personal Laboral de la Comunidad Autónoma de Canarias, suscrito por los representantes de la Administración de la Comunidad Autónoma y del personal laboral a su servicio, y de conformidad con lo dispuesto en el artículo 90, números 2 y 3, de la Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores, y de los Reales Decretos 661/1984, de 25 de enero, y 1.033/1984, de 11 de abril, sobre traspaso de funciones y servicios del Estado a la Comunidad Autónoma de Canarias en materia de mediación, arbitraje y conciliación, y en materia de trabajo, respectivamente, esta Dirección General ACUERDA
@@ -638,8 +638,66 @@ GRUPO 2*
 Subalterno, Subalterno ordenanza, Taquillero, Vigilante, Vigilante nocturno, Vigilante de zona recreativa, Servicios generales. - Mozo de almacén, Almacenero.
 - Mozo, Mozo de servicio, Operario de cuadrilla de trabajo, Operario no cualificado, Peón.
 - Peón boyero, Peón agrario, Peón especialista, Peón especializado. Lavandera, Lencera, Limpiadora, Mozo de Servicios, Operario de lavandería, personal de limpieza, Planchadora.
-* Con igual titulación académica. A N E X O IV TABLA SALARIAL S. BASE (*12) P. EXTRA (*2) TOTAL ANUALIDAD (*14) GRUPO I 190.399 190.399 2.665.586 GRUPO II 150.360 150.360 2.105.040 GRUPO III 122.778 122.778 1.718.892 GRUPO IV 112.099 112.099 1.569.386 GRUPO V 104.092 104.092 1.457.288 GRUPO VI 92.524 92.524 1.295.336 A N E X O V PLUSES Y COMPLEMENTOS ARTº. 46 Cuantía mensual Plus de peligrosidad, toxicidad y penosidad 7.531 Plus de turnicidad 5.022 Plus de aislamiento 2.512 Plus de montaña 2.512 Complemento de especial responsabilidad 6.383 A N E X O V I DISTRIBUCIÓN DEL FONDO DE HOMOLOGACIÓN Y ENCUADRAMIENTO 1991 Complemento CATEGORÍAS AFECTADAS Grupo Homologación
+* Con igual titulación académica. A N E X O IV TABLA SALARIAL S. BASE (*12) P. EXTRA (*2) TOTAL ANUALIDAD (*14) GRUPO I 190.399 190.399
 
-I 284.168 Todas las categorías excepto las II 237.441 mencionadas en este anexo. III 99.150 IV 40.419 V 22.488 Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento III 301.843 50.504 Administrador. Enfermera. Profe- sor educación física. Profesor de música. Profesor idóneo. IV 118.686 18.610 Administrativo. Contable. Oficial 1º administrativo. V 58.690 14.597 Albañil II. Auxiliar administrativo. Auxiliar de empresa. Auxiliar la- boratorio. Auxiliar de oficina. Auxiliares. Ayudantes de labora- torio. Cocinero. Jardinero. Pelu- quera. Vigilante de biblioteca. Vigilante de comedor. Grabador. VI 49.438 21.292 Todas las categorías de este grupo. Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento II 284.168 Periodista*. III 237.441 Analista de informática*. Ayudante de biblioteca*. Direc- tor de centro*. Educador*. Instructor*. Maestro. Maestro*. Profesor titular*. Profesoras*. Programador*. Subdirector. NOTA: todas las cuantías son anuales. A N E X O V I I DISTRIBUCIÓN DEL FONDO DE HOMOLOGACIÓN Y ENCUADRAMIENTO 1992 Complemento CATEGORÍAS AFECTADAS Grupo Homologación I 284.168 Todas las categorías excepto las mencionadas II 237.441 en este anexo. III 99.150 IV 40.419 V 22.488 Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento III 301.843 50.504 Administrador. Enfermera. Pro- fesor educación
+**2.665.586** GRUPO II 150.360 150.360
 
-física. Profesor de música. Profesor idóneo. IV 118.686 18.610 Administrativo. Contable. Ofi- cial 1º administrativo. V 58.690 14.597 Albañil II. Auxiliar administrativo. Auxiliar de empresa. Auxi- liar laboratorio. Auxiliar de oficina. Auxiliares. Ayudantes de laboratorio. Cocinero. Jardinero. Peluquera. Vigilante de bibliote- ca. Vigilante de comedor. Grabador. VI 49.438 21.292 Todas las categorías de este grupo. Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento II 284.168 Periodista*. III 237.441 Analista de informática*. Ayudante de biblioteca*. Direc- tor de centro*. Educador*. Instructor*. Maestro. Maestro*. Profesor titular*. Profesoras*. Programador*. Sudirector. NOTA: todas las cuantías son anuales.
+**2.105.040** GRUPO III 122.778 122.778
+
+**1.718.892** GRUPO IV 112.099 112.099
+
+**1.569.386** GRUPO V 104.092 104.092
+
+**1.457.288** GRUPO VI 92.524 92.524
+
+**1.295.336** A N E X O V PLUSES Y COMPLEMENTOS ARTº. 46 Cuantía mensual Plus de peligrosidad, toxicidad y penosidad
+
+**7.531** Plus de turnicidad
+
+**5.022** Plus de aislamiento
+
+**2.512** Plus de montaña
+
+**2.512** Complemento de especial responsabilidad
+
+**6.383** A N E X O V I DISTRIBUCIÓN DEL FONDO DE HOMOLOGACIÓN Y ENCUADRAMIENTO 1991 Complemento CATEGORÍAS AFECTADAS Grupo Homologación
+
+I
+
+**284.168** Todas las categorías excepto las II 237.441 mencionadas en este anexo. III
+
+**99.150** IV
+
+**40.419** V 22.488 Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento III 301.843
+
+**50.504** Administrador. Enfermera. Profe- sor educación física. Profesor de música. Profesor idóneo. IV 118.686
+
+**18.610** Administrativo. Contable. Oficial 1º administrativo. V 58.690
+
+**14.597** Albañil II. Auxiliar administrativo. Auxiliar de empresa. Auxiliar la- boratorio. Auxiliar de oficina. Auxiliares. Ayudantes de labora- torio. Cocinero. Jardinero. Pelu- quera. Vigilante de biblioteca. Vigilante de comedor. Grabador. VI 49.438
+
+**21.292** Todas las categorías de este grupo. Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento II
+
+**284.168** Periodista*. III
+
+**237.441** Analista de informática*. Ayudante de biblioteca*. Direc- tor de centro*. Educador*. Instructor*. Maestro. Maestro*. Profesor titular*. Profesoras*. Programador*. Subdirector. NOTA: todas las cuantías son anuales. A N E X O V I I DISTRIBUCIÓN DEL FONDO DE HOMOLOGACIÓN Y ENCUADRAMIENTO 1992 Complemento CATEGORÍAS AFECTADAS Grupo Homologación I
+
+**284.168** Todas las categorías excepto las mencionadas II 237.441 en este anexo. III
+
+**99.150** IV
+
+**40.419** V 22.488 Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento III 301.843
+
+**50.504** Administrador. Enfermera. Pro- fesor educación
+
+física. Profesor de música. Profesor idóneo. IV 118.686
+
+**18.610** Administrativo. Contable. Ofi- cial 1º administrativo. V 58.690
+
+**14.597** Albañil II. Auxiliar administrativo. Auxiliar de empresa. Auxi- liar laboratorio. Auxiliar de oficina. Auxiliares. Ayudantes de laboratorio. Cocinero. Jardinero. Peluquera. Vigilante de bibliote- ca. Vigilante de comedor. Grabador. VI 49.438
+
+**21.292** Todas las categorías de este grupo. Complemento Complemento CATEGORÍAS AFECTADAS Grupo Homologación Encuadramiento II
+
+**284.168** Periodista*. III
+
+**237.441** Analista de informática*. Ayudante de biblioteca*. Direc- tor de centro*. Educador*. Instructor*. Maestro. Maestro*. Profesor titular*. Profesoras*. Programador*. Sudirector. NOTA: todas las cuantías son anuales.

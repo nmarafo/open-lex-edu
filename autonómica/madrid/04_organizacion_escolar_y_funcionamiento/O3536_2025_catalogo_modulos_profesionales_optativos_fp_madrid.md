@@ -48,18 +48,18 @@ Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo de
 Pág. 43
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Madrid, a 8 de abril de 2025.—La Consejera de Familia, Juventud y Asuntos Sociales, P. D. (Orden 3147/2023, de 5 de diciembre), el Gerente de la Agencia Madrileña de Atención Social, José Manuel Miranda de las Heras.
 
-Pág. 44 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS ORGANISMO AUTONOMO AGENCIA MADRILEÑA DE ATENCIÓN SOCIAL UNIDAD DE COORDINACION DE CENTROS DE ATENCIÓN A MAYORES NEGOCIADO TRAMITACIÓN ADMINISTRATIVA Puesto de Trabajo:
-NEG. TRAMITACION ADMINISTRATIVA Denominación     :
-18 C / D Grupo                :
-N.C.D.               :
-8.624,40 C. Específico      :
+Pág. 44 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS ORGANISMO AUTONOMO AGENCIA MADRILEÑA DE ATENCIÓN SOCIAL UNIDAD DE COORDINACION DE CENTROS DE ATENCIÓN A MAYORES NEGOCIADO TRAMITACIÓN ADMINISTRATIVA Puesto de Trabajo:
+NEG. TRAMITACION ADMINISTRATIVA Denominación :
+18 C / D Grupo :
+N.C.D. :
+8.624,40 C. Específico :
 ***0463** GARCIA RUBIO,ROSA MARIA Cód. identificación:
 Apellidos y Nombre:
 ORGANISMO AUTONOMO AGENCIA MADRILEÑA DE ATENCIÓN SOCIAL RESIDENCIA DE MAYORES GASTÓN BAQUERO Puesto de Trabajo:
-AUXILIAR ADMINISTRATIVO Denominación     :
-14 Grupo                 :
-N.C.D.                :
-6.485,16 C. Específico       :
+AUXILIAR ADMINISTRATIVO Denominación :
+14 Grupo :
+N.C.D. :
+6.485,16 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO
 **D**
 (03/5.835/25)

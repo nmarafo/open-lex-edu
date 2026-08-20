@@ -74,7 +74,7 @@ La Comunidad de Madrid garantiza la gratuidad de la educación obligatoria, conf
 
 #### Artículo 5. Principios generales.
 
-1.  La libertad de elección de centros docentes sostenidos con fondos públicos se fundamenta en los siguientes principios y derechos:
+1. La libertad de elección de centros docentes sostenidos con fondos públicos se fundamenta en los siguientes principios y derechos:
 a) **Derecho a la educación.** Todos los alumnos incluidos en las edades de enseñanza obligatoria tienen derecho a una plaza escolar sostenida con fondos públicos que les garantice una educación de calidad. Además, se promoverá un sistema progresivo de acceso gratuito a las enseñanzas no obligatorias.
 b) **Igualdad de oportunidades.** La escolarización en las enseñanzas a las que se refiere esta ley tendrá como objetivo la igualdad de oportunidades de todos los alumnos, con independencia de su lugar de residencia. En ningún caso habrá discriminación por razón de nacimiento, raza, sexo, discapacidad, religión, opinión o cualquier otra condición o circunstancia personal o social. Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional vigesimoquinta, apartado 1, de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en su redacción dada por la Ley Orgánica 3/2020, de 19 de diciembre, no constituye discriminación la admisión de alumnos o la organización de la enseñanza diferenciadas por sexos, siempre que la enseñanza que impartan se desarrolle conforme a lo dispuesto en el artículo 2 de la Convención relativa a la lucha contra las discriminaciones en la esfera de la enseñanza, aprobada por la Conferencia General de la UNESCO el 14 de diciembre de 1960, en el artículo 2 de la [ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y en el artículo 24 de la [Ley Orgánica 3/2007](../../../estatal/07_convivencia_bienestar_y_protocolos/LO3_2007_igualdad_efectiva_mujeres_hombres.md), de 22 de mayo para la igualdad efectiva de mujeres y hombres. Para desarrollar la igualdad de oportunidades podrán implementar sistemas pedagógicos que permitan desarrollar las metodologías docentes oportunas a las necesidades de los alumnos.
 c) **Derecho a recibir las enseñanzas en castellano.** Se garantiza el derecho de los alumnos a recibir las enseñanzas en castellano, como lengua oficial y vehicular de España, de manera que, al finalizar la educación básica, comprendan y se expresen, de forma oral y por escrito, en esta lengua. Los programas relacionados con la enseñanza en distintas lenguas extranjeras en la Comunidad de Madrid se desarrollan al amparo de este derecho.
@@ -85,47 +85,47 @@ g) **Transparencia informativa.** La administración educativa de la Comunidad d
 h) **Publicidad de resultados.** Los resultados individualizados por cada centro de todas las pruebas generales en la que participen los alumnos serán públicos, detallando el resultado obtenido en cada caso por etapa educativa y en cada una de las dimensiones evaluadas. En especial, los resultados de las pruebas de acceso a la Universidad, pruebas externas de carácter nacional e internacional, así como las pruebas de evaluación de la Comunidad de Madrid.
 i) **Valores constitucionales e historia.** Se incluirán, en la parte del currículo que es competencia de la Comunidad de Madrid, los contenidos sobre los derechos fundamentales y los valores consagrados por la Constitución Española, al menos en dos años por etapa, en las asignaturas de Ciencias Sociales en Primaria y de Geografía e Historia en Secundaria o sus asignaturas troncales o equivalentes. Así mismo, se garantizará el conocimiento de los alumnos de las grandes personalidades, efemérides y logros de la nación española a lo largo de la Historia universal y los que nos une e identifica como españoles.
 
-2.  La atención al alumnado con necesidades educativas especiales se regirá por los siguientes principios:
+2. La atención al alumnado con necesidades educativas especiales se regirá por los siguientes principios:
 a) La normalización, inclusión, no discriminación e igualdad efectiva en el acceso y la permanencia en el sistema educativo. Se podrán autorizar medidas de flexibilización de duración de las enseñanzas en las distintas etapas educativas, cuando se considere necesario.
 b) La escolarización en centros o unidades específicas de educación especial se resolverá favorablemente cuando las necesidades educativas del alumnado requieran de apoyos especializados o adaptaciones curriculares u organizativas que sean de difícil o imposible atención y respuesta efectiva en un centro ordinario, bien sea durante un periodo de su escolarización o a lo largo de toda ella. Cualquier medida que se adopte será consensuada con la familia del menor.
 c) La participación activa de la comunidad educativa en la puesta en práctica de acciones preventivas y la detección temprana.
 d) La intervención educativa se llevará a cabo por equipos, en los que participarán profesionales expertos en distintas disciplinas. Se concretará reglamentariamente la composición, organización y funcionamiento de estos equipos.
 
-3.  La asignación de fondos públicos a los centros educativos de la Comunidad de Madrid y el acceso a los mismos y a ayudas públicas no podrá hacerse depender de criterios no objetivos ni ideológicos y debe llevarse siempre a cabo con la debida transparencia e información de los centros.
+3. La asignación de fondos públicos a los centros educativos de la Comunidad de Madrid y el acceso a los mismos y a ayudas públicas no podrá hacerse depender de criterios no objetivos ni ideológicos y debe llevarse siempre a cabo con la debida transparencia e información de los centros.
 
 ## Título I. Libertad de elección de centro escolar
 
 #### Artículo 6. Ejercicio de la libertad de elección.
 
-1.  La Comunidad de Madrid garantiza el derecho a la educación básica, promueve la gratuidad en el marco de lo recogido en esta ley y posibilita la libertad de elección de centro docente en la programación general de la enseñanza, con la participación efectiva de los sectores interesados en la educación a través de su Consejo Escolar, regulado por Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid.
+1. La Comunidad de Madrid garantiza el derecho a la educación básica, promueve la gratuidad en el marco de lo recogido en esta ley y posibilita la libertad de elección de centro docente en la programación general de la enseñanza, con la participación efectiva de los sectores interesados en la educación a través de su Consejo Escolar, regulado por Ley 12/1999, de 29 de abril, de creación del Consejo Escolar de la Comunidad de Madrid.
 
-2.  La Comunidad de Madrid garantiza la libertad de las familias en la elección de un centro escolar sostenido con fondos públicos, de tal manera que pueda ejercerse en todo el territorio de la Comunidad sin que se vea limitado por el domicilio, con lo que se evita cualquier tipo de segregación causada por el lugar de residencia o de trabajo, si bien se considerarán criterios prioritarios en la baremación de solicitudes de admisión los incluidos en el artículo 84 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
+2. La Comunidad de Madrid garantiza la libertad de las familias en la elección de un centro escolar sostenido con fondos públicos, de tal manera que pueda ejercerse en todo el territorio de la Comunidad sin que se vea limitado por el domicilio, con lo que se evita cualquier tipo de segregación causada por el lugar de residencia o de trabajo, si bien se considerarán criterios prioritarios en la baremación de solicitudes de admisión los incluidos en el artículo 84 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
-3.  El derecho a la educación básica y gratuita y la libertad de enseñanza podrán hacerse efectivos en los centros privados mediante el régimen de conciertos, de acuerdo con lo previsto en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación y en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, así como en el Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre.
+3. El derecho a la educación básica y gratuita y la libertad de enseñanza podrán hacerse efectivos en los centros privados mediante el régimen de conciertos, de acuerdo con lo previsto en la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, reguladora del Derecho a la Educación y en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, así como en el Reglamento de Normas Básicas sobre Conciertos Educativos, aprobado por el [Real Decreto 2377/1985](../../../estatal/02_gestion_y_administracion_centros/RD2377_1985_aprueba_reglamento_normas_basicas_conciertos_educativos.md), de 18 de diciembre.
 
-4.  La libertad de elección se promueve también mediante el fomento de la gratuidad progresiva en las etapas no obligatorias.
+4. La libertad de elección se promueve también mediante el fomento de la gratuidad progresiva en las etapas no obligatorias.
 
 #### Artículo 7. Programación de puestos escolares.
 
-1.  En la programación específica de puestos escolares de nueva creación la Comunidad de Madrid, de conformidad con lo previsto en el artículo 109.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, armonizará las exigencias derivadas de la obligación que tienen los poderes públicos de garantizar el derecho de todos a la educación con los derechos individuales de los alumnos y sus padres o tutores.
+1. En la programación específica de puestos escolares de nueva creación la Comunidad de Madrid, de conformidad con lo previsto en el artículo 109.1 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, armonizará las exigencias derivadas de la obligación que tienen los poderes públicos de garantizar el derecho de todos a la educación con los derechos individuales de los alumnos y sus padres o tutores.
 
-2.  La Comunidad de Madrid garantizará, en cualquier caso, la existencia de plazas suficientes para las enseñanzas declaradas gratuitas por la ley, considerada la oferta de centros públicos y privados sostenidos con fondos públicos y la demanda social, así como las consignaciones presupuestarias y el principio de economía y eficiencia en el uso de los recursos públicos.
+2. La Comunidad de Madrid garantizará, en cualquier caso, la existencia de plazas suficientes para las enseñanzas declaradas gratuitas por la ley, considerada la oferta de centros públicos y privados sostenidos con fondos públicos y la demanda social, así como las consignaciones presupuestarias y el principio de economía y eficiencia en el uso de los recursos públicos.
 
-3.  La Comunidad de Madrid podrá convocar concursos públicos para la construcción y gestión de centros privados sostenidos con fondos públicos sobre suelo público dotacional.
+3. La Comunidad de Madrid podrá convocar concursos públicos para la construcción y gestión de centros privados sostenidos con fondos públicos sobre suelo público dotacional.
 
 #### Artículo 8. Enseñanzas sostenidas con fondos públicos.
 
-1.  La singularidad de los centros privados no dificulta ni supone un obstáculo para solicitar el acogimiento a ser sostenidos con fondos públicos.
+1. La singularidad de los centros privados no dificulta ni supone un obstáculo para solicitar el acogimiento a ser sostenidos con fondos públicos.
 
-2.  En el marco de lo establecido en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, podrán acogerse al régimen de conciertos los centros privados de la Comunidad de Madrid que ofrezcan enseñanzas declaradas gratuitas en dicha Ley y satisfagan necesidades de escolarización. En consecuencia, podrán ser objeto de concierto educativo los centros educativos, entre los que se incluyen, en su caso, los de educación especial, que impartan las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria y ciclos de formación profesional básica.
+2. En el marco de lo establecido en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, podrán acogerse al régimen de conciertos los centros privados de la Comunidad de Madrid que ofrezcan enseñanzas declaradas gratuitas en dicha Ley y satisfagan necesidades de escolarización. En consecuencia, podrán ser objeto de concierto educativo los centros educativos, entre los que se incluyen, en su caso, los de educación especial, que impartan las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación secundaria obligatoria y ciclos de formación profesional básica.
 
-3.  Los conciertos de enseñanzas postobligatorias tendrán carácter singular.
+3. Los conciertos de enseñanzas postobligatorias tendrán carácter singular.
 
 #### Artículo 9. Compromiso social.
 
-1.  El acceso al régimen de financiación pública de la Comunidad de Madrid conlleva que los centros privados asuman activamente un compromiso social en orden a la prestación del servicio de interés público de la educación.
+1. El acceso al régimen de financiación pública de la Comunidad de Madrid conlleva que los centros privados asuman activamente un compromiso social en orden a la prestación del servicio de interés público de la educación.
 
-2.  Los centros privados concertados llevarán a cabo una escolarización equitativa del alumnado e impartirán las enseñanzas concertadas en condiciones de gratuidad. Las actividades afectadas al régimen de conciertos a las que se refiere el artículo 51 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, como son las actividades escolares complementarias, las extraescolares y los servicios escolares, se realizarán, en todo caso, con carácter no lucrativo.
+2. Los centros privados concertados llevarán a cabo una escolarización equitativa del alumnado e impartirán las enseñanzas concertadas en condiciones de gratuidad. Las actividades afectadas al régimen de conciertos a las que se refiere el artículo 51 de la [Ley Orgánica 8/1985](../../../estatal/02_gestion_y_administracion_centros/LO8_1985_reguladora_derecho_educacion.md), de 3 de julio, como son las actividades escolares complementarias, las extraescolares y los servicios escolares, se realizarán, en todo caso, con carácter no lucrativo.
 
 #### Artículo 10. Centros que atiendan al alumnado con necesidades específicas de apoyo educativo.
 
@@ -137,36 +137,36 @@ Los conciertos educativos considerarán las características de los centros de e
 
 #### Artículo 11. Criterios de escolarización en las diversas modalidades inclusivas.
 
-1.  La escolarización de los alumnos con necesidades educativas especiales en centros sostenidos con fondos públicos tiene como finalidad conseguir el máximo desarrollo personal del alumno, su plena inclusión en la comunidad educativa y en la sociedad, y una enseñanza de calidad. Para lograr estos objetivos, partiendo de las circunstancias personales de cada alumno, se actuará de acuerdo con los principios de libertad de elección de centro, normalización e inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo.
+1. La escolarización de los alumnos con necesidades educativas especiales en centros sostenidos con fondos públicos tiene como finalidad conseguir el máximo desarrollo personal del alumno, su plena inclusión en la comunidad educativa y en la sociedad, y una enseñanza de calidad. Para lograr estos objetivos, partiendo de las circunstancias personales de cada alumno, se actuará de acuerdo con los principios de libertad de elección de centro, normalización e inclusión, no discriminación, información a las familias e igualdad efectiva en el acceso y la permanencia en el sistema educativo.
 
-2.  Con carácter general y de conformidad con lo previsto en el artículo 74 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios. Solo cuando las necesidades educativas de los alumnos no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de educación especial o en unidades de educación especial en centros ordinarios, o se acordará la modalidad de escolarización de educación combinada, al objeto de garantizar la inclusión adecuada del alumnado.
+2. Con carácter general y de conformidad con lo previsto en el artículo 74 de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, el alumnado con necesidades educativas especiales se escolarizará en centros ordinarios. Solo cuando las necesidades educativas de los alumnos no puedan atenderse convenientemente en los citados centros y teniendo en cuenta el interés superior del menor, previa emisión del dictamen correspondiente y el acuerdo favorable de la familia, la escolarización se determinará en centros de educación especial o en unidades de educación especial en centros ordinarios, o se acordará la modalidad de escolarización de educación combinada, al objeto de garantizar la inclusión adecuada del alumnado.
 
-3.  Con objeto de conseguir una escolarización eficiente, la Consejería competente en materia de Educación podrá establecer centros ordinarios de atención preferente de educación infantil, primaria o secundaria para que en ellos se atiendan las necesidades educativas especiales del alumnado que requiera una respuesta específica, con recursos, dotaciones y equipamientos singulares.
+3. Con objeto de conseguir una escolarización eficiente, la Consejería competente en materia de Educación podrá establecer centros ordinarios de atención preferente de educación infantil, primaria o secundaria para que en ellos se atiendan las necesidades educativas especiales del alumnado que requiera una respuesta específica, con recursos, dotaciones y equipamientos singulares.
 
 #### Artículo 12. Información a las familias.
 
-1.  Para favorecer la igualdad de oportunidades y promover la calidad y la adecuada elección de centro, la Consejería competente en materia de Educación pondrá a disposición de las familias del alumnado con necesidades educativas especiales información relevante y fácilmente accesible sobre las características de todos los centros sostenidos con fondos públicos de la Comunidad de Madrid.
+1. Para favorecer la igualdad de oportunidades y promover la calidad y la adecuada elección de centro, la Consejería competente en materia de Educación pondrá a disposición de las familias del alumnado con necesidades educativas especiales información relevante y fácilmente accesible sobre las características de todos los centros sostenidos con fondos públicos de la Comunidad de Madrid.
 
-2.  Los centros educativos sostenidos con fondos públicos facilitarán de forma explícita a las familias, por los medios de que dispongan, información detallada sobre sus programas educativos, los recursos de que disponen, los servicios complementarios que prestan, oferta educativa disponible, ideario del mismo, listado y precio de todas las actividades complementarias, extraescolares y servicios complementarios que se hayan llevado a cabo en el centro el curso anterior y las que estén previstas para el nuevo curso. En el caso de actividades complementarias deberá incluirse información exhaustiva sobre la actividad. Igualmente, elaborarán y harán públicas sus normas de organización y funcionamiento, teléfonos y correos electrónicos institucionales de contacto de la dirección, los docentes y la administración del centro, así como su proyecto educativo, que en el caso de los centros privados sostenidos con fondos públicos incorporará su carácter propio.
+2. Los centros educativos sostenidos con fondos públicos facilitarán de forma explícita a las familias, por los medios de que dispongan, información detallada sobre sus programas educativos, los recursos de que disponen, los servicios complementarios que prestan, oferta educativa disponible, ideario del mismo, listado y precio de todas las actividades complementarias, extraescolares y servicios complementarios que se hayan llevado a cabo en el centro el curso anterior y las que estén previstas para el nuevo curso. En el caso de actividades complementarias deberá incluirse información exhaustiva sobre la actividad. Igualmente, elaborarán y harán públicas sus normas de organización y funcionamiento, teléfonos y correos electrónicos institucionales de contacto de la dirección, los docentes y la administración del centro, así como su proyecto educativo, que en el caso de los centros privados sostenidos con fondos públicos incorporará su carácter propio.
 
-3.  Para facilitar la participación de las familias de este alumnado en el proceso de admisión de alumnos, en cada centro sostenido con fondos públicos se dará conveniente publicidad a la normativa reguladora del citado proceso.
+3. Para facilitar la participación de las familias de este alumnado en el proceso de admisión de alumnos, en cada centro sostenido con fondos públicos se dará conveniente publicidad a la normativa reguladora del citado proceso.
 
 #### Artículo 13. Modalidades de escolarización.
 
-1.  La escolarización inclusiva responderá a una de las siguientes modalidades:
+1. La escolarización inclusiva responderá a una de las siguientes modalidades:
 a) **Escolarización en centros ordinarios.** Algunos de estos centros podrán constituirse como centros ordinarios de atención preferente.
 b) Escolarización en centros de educación especial o en unidades de educación especial en centros ordinarios. Las unidades de educación especial en los centros ordinarios tendrán una consideración similar, en las cuestiones que les afecten, a los centros de educación especial.
 c) Escolarización en un centro ordinario y en un centro de educación especial, de manera combinada.
 
-2.  Cuando la escolarización se realice en un centro ordinario y en un centro de educación especial, el alumno pertenecerá, a efectos académicos y administrativos, al centro educativo que se determine en el reglamento que desarrolle el contenido de esta Ley.
+2. Cuando la escolarización se realice en un centro ordinario y en un centro de educación especial, el alumno pertenecerá, a efectos académicos y administrativos, al centro educativo que se determine en el reglamento que desarrolle el contenido de esta Ley.
 
-3.  Periódicamente se revisarán las necesidades educativas de los alumnos escolarizados en centros de educación especial. Reglamentariamente se establecerá el plazo de revisión en cada enseñanza, así como el procedimiento de solicitud de cambio de modalidad de escolarización.
+3. Periódicamente se revisarán las necesidades educativas de los alumnos escolarizados en centros de educación especial. Reglamentariamente se establecerá el plazo de revisión en cada enseñanza, así como el procedimiento de solicitud de cambio de modalidad de escolarización.
 
 #### Artículo 14. Escolarización en centros ordinarios.
 
-1.  La escolarización se realizará, con carácter general, en centros ordinarios.
+1. La escolarización se realizará, con carácter general, en centros ordinarios.
 
-2.  El tiempo de escolarización de estos alumnos podrá flexibilizarse de manera excepcional con el aumento de un año más en cada una de las enseñanzas, y se respetará, en todo caso, los períodos de flexibilización reconocidos en la ordenación académica de cada etapa educativa.
+2. El tiempo de escolarización de estos alumnos podrá flexibilizarse de manera excepcional con el aumento de un año más en cada una de las enseñanzas, y se respetará, en todo caso, los períodos de flexibilización reconocidos en la ordenación académica de cada etapa educativa.
 
 #### Artículo 15. Escolarización en centros ordinarios de atención preferente.
 
@@ -174,65 +174,65 @@ Cuando el alumnado con necesidades educativas especiales requiera, en función d
 
 #### Artículo 16. Escolarización en unidades de educación especial.
 
-1.  Se crearán unidades específicas de educación especial en centros ordinarios para alumnos con necesidades educativas especiales. Se justifica la apertura de estas unidades cuando las necesidades del alumnado no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios y siempre que se considere que es el modelo más adecuado para favorecer una escolarización inclusiva.
+1. Se crearán unidades específicas de educación especial en centros ordinarios para alumnos con necesidades educativas especiales. Se justifica la apertura de estas unidades cuando las necesidades del alumnado no puedan ser atendidas en el marco de las medidas de atención a la diversidad de los centros ordinarios y siempre que se considere que es el modelo más adecuado para favorecer una escolarización inclusiva.
 
-2.  Las unidades de educación especial en centros ordinarios se entienden como un recurso integrado que combina la impartición de las enseñanzas al alumnado con necesidades educativas especiales con las funciones de asesoramiento al resto del profesorado y a las familias, al objeto de asegurar la presencia y participación de los alumnos escolarizados en estas unidades en las actividades generales del centro educativo.
+2. Las unidades de educación especial en centros ordinarios se entienden como un recurso integrado que combina la impartición de las enseñanzas al alumnado con necesidades educativas especiales con las funciones de asesoramiento al resto del profesorado y a las familias, al objeto de asegurar la presencia y participación de los alumnos escolarizados en estas unidades en las actividades generales del centro educativo.
 
-3.  La escolarización en las unidades de educación especial instituidas en centros ordinarios se realizará cuando el alumnado con necesidades educativas especiales requiera una respuesta especializada, intensiva y personalizada durante la mayor parte de la jornada escolar, pero disponga de un nivel mínimo de autonomía y de competencia personal y social que facilite su inclusión en un centro ordinario.
+3. La escolarización en las unidades de educación especial instituidas en centros ordinarios se realizará cuando el alumnado con necesidades educativas especiales requiera una respuesta especializada, intensiva y personalizada durante la mayor parte de la jornada escolar, pero disponga de un nivel mínimo de autonomía y de competencia personal y social que facilite su inclusión en un centro ordinario.
 
-4.  La escolarización del alumnado en unidades de educación especial y la ordenación de su atención educativa estarán sujetas a las mismas condiciones y procedimientos que los dispuestos para los centros de educación especial, sin perjuicio de que les sea de aplicación el régimen organizativo y de funcionamiento que, con carácter general, se incluya en las normas del centro en el que se implanten.
+4. La escolarización del alumnado en unidades de educación especial y la ordenación de su atención educativa estarán sujetas a las mismas condiciones y procedimientos que los dispuestos para los centros de educación especial, sin perjuicio de que les sea de aplicación el régimen organizativo y de funcionamiento que, con carácter general, se incluya en las normas del centro en el que se implanten.
 
-5.  No obstante lo anterior, la organización propia y el funcionamiento de las unidades de educación especial deberán figurar en los proyectos educativos de los centros ordinarios, dentro de la línea estratégica que delimite la atención a la diversidad.
+5. No obstante lo anterior, la organización propia y el funcionamiento de las unidades de educación especial deberán figurar en los proyectos educativos de los centros ordinarios, dentro de la línea estratégica que delimite la atención a la diversidad.
 
-6.  Se procurará la ubicación física de las unidades de educación especial en un lugar del centro que facilite el acceso a los espacios comunes, así como la participación del alumnado en las diferentes actividades que se programen.
+6. Se procurará la ubicación física de las unidades de educación especial en un lugar del centro que facilite el acceso a los espacios comunes, así como la participación del alumnado en las diferentes actividades que se programen.
 
-7.  Los centros dispondrán las condiciones que posibiliten la participación efectiva del alumnado escolarizado en estas unidades específicas de educación especial en las actividades complementarias y extraescolares, y en los tiempos de esparcimiento, comedor y entradas y salidas, comunes al resto de los alumnos.
+7. Los centros dispondrán las condiciones que posibiliten la participación efectiva del alumnado escolarizado en estas unidades específicas de educación especial en las actividades complementarias y extraescolares, y en los tiempos de esparcimiento, comedor y entradas y salidas, comunes al resto de los alumnos.
 
 #### Artículo 17. Escolarización en centros de educación especial.
 
-1.  Cuando se justifique, en función de los informes preceptivos, que el alumnado con necesidades educativas especiales asociadas a discapacidad, trastornos graves de conducta, de la comunicación y del lenguaje que necesiten que se realicen modificaciones significativas en los elementos prescriptivos del currículo, en parte o en todas las áreas o materias, y requiera de apoyos específicos que no puedan facilitar los centros ordinarios con los medios disponibles, podrá escolarizarse en un centro de educación especial.
+1. Cuando se justifique, en función de los informes preceptivos, que el alumnado con necesidades educativas especiales asociadas a discapacidad, trastornos graves de conducta, de la comunicación y del lenguaje que necesiten que se realicen modificaciones significativas en los elementos prescriptivos del currículo, en parte o en todas las áreas o materias, y requiera de apoyos específicos que no puedan facilitar los centros ordinarios con los medios disponibles, podrá escolarizarse en un centro de educación especial.
 
-2.  En los centros de educación especial se podrá prorrogar la escolarización de estos alumnos hasta el año natural en que finalice el curso en que cumplan la edad de veintiún años.
+2. En los centros de educación especial se podrá prorrogar la escolarización de estos alumnos hasta el año natural en que finalice el curso en que cumplan la edad de veintiún años.
 
-3.  Los centros de educación especial tendrán una regulación diferenciada, marcada por sus características específicas, y podrán poner a disposición de los centros ordinarios materiales y recursos, a la vez que ejercer labores de asesoramiento y atención.
+3. Los centros de educación especial tendrán una regulación diferenciada, marcada por sus características específicas, y podrán poner a disposición de los centros ordinarios materiales y recursos, a la vez que ejercer labores de asesoramiento y atención.
 
-4.  Se promoverá la organización de actividades educativas comunes y de colaboración entre los centros de educación especial y los centros ordinarios cercanos. Entre las actividades compartidas se incluirán actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
+4. Se promoverá la organización de actividades educativas comunes y de colaboración entre los centros de educación especial y los centros ordinarios cercanos. Entre las actividades compartidas se incluirán actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
 
 #### Artículo 18. Aspectos comunes a la escolarización en unidades de educación especial y en centros de educación especial
 
-1.  En los centros de educación especial y en las unidades de educación especial en centros ordinarios se impartirá, al menos, la educación básica obligatoria y se podrán implementar programas para la transición a la vida adulta, programas que favorezcan la escolarización en el segundo ciclo de educación infantil u otros que se determinen reglamentariamente.
+1. En los centros de educación especial y en las unidades de educación especial en centros ordinarios se impartirá, al menos, la educación básica obligatoria y se podrán implementar programas para la transición a la vida adulta, programas que favorezcan la escolarización en el segundo ciclo de educación infantil u otros que se determinen reglamentariamente.
 
-2.  La educación básica obligatoria es una etapa educativa que comprende diez cursos académicos, que se cursarán, con carácter general, entre los seis y los dieciséis años de edad. Tendrá como finalidad el desarrollo de los objetivos y competencias de las enseñanzas de educación primaria y educación secundaria obligatoria.
+2. La educación básica obligatoria es una etapa educativa que comprende diez cursos académicos, que se cursarán, con carácter general, entre los seis y los dieciséis años de edad. Tendrá como finalidad el desarrollo de los objetivos y competencias de las enseñanzas de educación primaria y educación secundaria obligatoria.
 
 #### Artículo 19. Escolarización combinada.
 
-1.  La escolarización combinada entre un centro de educación especial y un centro ordinario se determinará mediante el correspondiente dictamen de escolarización, atendiendo a las características y circunstancias del alumnado. Se valorará el nivel de autonomía y de competencia personal y social del alumnado, y se requerirá un nivel mínimo en relación a su edad que, en todo caso, facilite su participación e inclusión en el centro ordinario.
+1. La escolarización combinada entre un centro de educación especial y un centro ordinario se determinará mediante el correspondiente dictamen de escolarización, atendiendo a las características y circunstancias del alumnado. Se valorará el nivel de autonomía y de competencia personal y social del alumnado, y se requerirá un nivel mínimo en relación a su edad que, en todo caso, facilite su participación e inclusión en el centro ordinario.
 
-2.  El alumnado que curse esta modalidad de escolarización constará matriculado en el centro educativo que se determine, según se indica en el artículo 13.2.
+2. El alumnado que curse esta modalidad de escolarización constará matriculado en el centro educativo que se determine, según se indica en el artículo 13.2.
 
-3.  La distribución del horario de participación en cada uno de los centros se determinará de manera conjunta entre ambos. Se considerarán las características y necesidades del alumnado, la organización propia de cada centro, las áreas, materias, ámbitos o actividades más pertinentes, las adaptaciones y apoyos necesarios y otras variables relevantes, con el fin de garantizar la respuesta educativa más adecuada en cada caso.
+3. La distribución del horario de participación en cada uno de los centros se determinará de manera conjunta entre ambos. Se considerarán las características y necesidades del alumnado, la organización propia de cada centro, las áreas, materias, ámbitos o actividades más pertinentes, las adaptaciones y apoyos necesarios y otras variables relevantes, con el fin de garantizar la respuesta educativa más adecuada en cada caso.
 
-4.  Los centros ordinarios organizarán sus horarios y apoyos y realizarán los ajustes necesarios con el objeto de facilitar la máxima participación del alumnado con necesidades educativas especiales en los diferentes espacios y en todas las actividades que se desarrollen durante el tiempo que permanezcan en cada centro.
+4. Los centros ordinarios organizarán sus horarios y apoyos y realizarán los ajustes necesarios con el objeto de facilitar la máxima participación del alumnado con necesidades educativas especiales en los diferentes espacios y en todas las actividades que se desarrollen durante el tiempo que permanezcan en cada centro.
 
-5.  El personal especializado de apoyo del centro ordinario asesorará al resto del profesorado y colaborará con él, al objeto de garantizar el acceso y la participación de este alumnado en el citado centro.
+5. El personal especializado de apoyo del centro ordinario asesorará al resto del profesorado y colaborará con él, al objeto de garantizar el acceso y la participación de este alumnado en el citado centro.
 
-6.  El personal del centro de educación especial colaborará con el del centro ordinario en el que se desarrolla la escolarización combinada, y facilitará el apoyo y el acompañamiento al alumnado. Asesorará tanto al profesorado como al personal no docente en la respuesta educativa.
+6. El personal del centro de educación especial colaborará con el del centro ordinario en el que se desarrolla la escolarización combinada, y facilitará el apoyo y el acompañamiento al alumnado. Asesorará tanto al profesorado como al personal no docente en la respuesta educativa.
 
-7.  Con el objeto de aproximar los centros de educación especial a los centros ordinarios de su entorno, se organizarán actividades compartidas entre ambos centros, que incluirán actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
+7. Con el objeto de aproximar los centros de educación especial a los centros ordinarios de su entorno, se organizarán actividades compartidas entre ambos centros, que incluirán actuaciones de sensibilización, conocimiento y respeto hacia las personas con discapacidad.
 
 ### Capítulo II. Evaluación y promoción
 
 #### Artículo 20. Identificación temprana, evaluación inicial y valoración.
 
-1.  Las medidas y recursos que necesiten estos alumnos se determinarán mediante la identificación temprana de sus necesidades y su valoración, lo que permitirá concretar una evaluación inicial y la correspondiente respuesta educativa.
+1. Las medidas y recursos que necesiten estos alumnos se determinarán mediante la identificación temprana de sus necesidades y su valoración, lo que permitirá concretar una evaluación inicial y la correspondiente respuesta educativa.
 
-2.  Para la identificación de las necesidades, su valoración y medidas a adoptar, se contará con el asesoramiento de los servicios de orientación, con la información que se haya recabado de las familias, así como con otro tipo de información procedente de servicios externos especializados que resulte de interés para la determinación de las necesidades educativas.
+2. Para la identificación de las necesidades, su valoración y medidas a adoptar, se contará con el asesoramiento de los servicios de orientación, con la información que se haya recabado de las familias, así como con otro tipo de información procedente de servicios externos especializados que resulte de interés para la determinación de las necesidades educativas.
 
-3.  Los servicios de orientación educativa se definen como los recursos necesarios para garantizar la aplicación de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en la Comunidad de Madrid, pues reconoce, entre los principios que sustentan el sistema educativo, la orientación educativa y profesional, entendida como medio para el logro de una formación personalizada, que propicie una educación integral en conocimientos, destrezas y valores.
+3. Los servicios de orientación educativa se definen como los recursos necesarios para garantizar la aplicación de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, en la Comunidad de Madrid, pues reconoce, entre los principios que sustentan el sistema educativo, la orientación educativa y profesional, entendida como medio para el logro de una formación personalizada, que propicie una educación integral en conocimientos, destrezas y valores.
 
-4.  El centro deberá informar a los padres y tutores legales de las necesidades educativas, los resultados de los procesos de identificación y valoración, y las medidas de actuación que se consideren oportunas.
+4. El centro deberá informar a los padres y tutores legales de las necesidades educativas, los resultados de los procesos de identificación y valoración, y las medidas de actuación que se consideren oportunas.
 
-5.  Los resultados conseguidos por cada alumno serán evaluados al final de cada curso en función de los objetivos propuestos y sentarán las bases para la revisión y actualización de la evaluación inicial realizada.
+5. Los resultados conseguidos por cada alumno serán evaluados al final de cada curso en función de los objetivos propuestos y sentarán las bases para la revisión y actualización de la evaluación inicial realizada.
 
 #### Artículo 21. Evaluación psicopedagógica.
 
@@ -240,25 +240,25 @@ La evaluación psicopedagógica tiene como objetivo principal la identificación
 
 #### Artículo 22. Informe psicopedagógico.
 
-1.  Las conclusiones derivadas de la información obtenida se recogerán en un informe psicopedagógico, que se adjuntará al expediente académico. Este informe dejará constancia de los aspectos valorados relacionados con el alumno, en especial, sobre su evolución personal y educativa, las necesidades educativas, las adaptaciones curriculares, la propuesta de escolarización, los apoyos educativos necesarios y cualquier otra orientación que se considere imprescindible, así como el proceso para su revisión o actualización, encaminado a la respuesta educativa más eficiente.
+1. Las conclusiones derivadas de la información obtenida se recogerán en un informe psicopedagógico, que se adjuntará al expediente académico. Este informe dejará constancia de los aspectos valorados relacionados con el alumno, en especial, sobre su evolución personal y educativa, las necesidades educativas, las adaptaciones curriculares, la propuesta de escolarización, los apoyos educativos necesarios y cualquier otra orientación que se considere imprescindible, así como el proceso para su revisión o actualización, encaminado a la respuesta educativa más eficiente.
 
-2.  Una copia del informe psicopedagógico se facilitará a las familias, así como la información sobre las medidas propuestas que derivan del citado informe.
+2. Una copia del informe psicopedagógico se facilitará a las familias, así como la información sobre las medidas propuestas que derivan del citado informe.
 
 #### Artículo 23. Dictamen de escolarización.
 
-1.  Cuando se considere que son necesarios recursos extraordinarios o una modalidad de escolarización diferente a la ordinaria, se deberá realizar un dictamen de escolarización. Reglamentariamente se determinará el modelo de dictamen que se formalizará como un informe individualizado y técnico a los efectos descritos.
+1. Cuando se considere que son necesarios recursos extraordinarios o una modalidad de escolarización diferente a la ordinaria, se deberá realizar un dictamen de escolarización. Reglamentariamente se determinará el modelo de dictamen que se formalizará como un informe individualizado y técnico a los efectos descritos.
 
-2.  Los servicios de orientación son los responsables de elaborar el dictamen de escolarización que, en todo caso, deberá contener los siguientes aspectos:
+2. Los servicios de orientación son los responsables de elaborar el dictamen de escolarización que, en todo caso, deberá contener los siguientes aspectos:
 a) Las conclusiones del informe de la evaluación psicopedagógica, la propuesta curricular y los recursos necesarios.
 b) La propuesta de la modalidad de escolarización, que adjuntará la opinión de los padres y tutores legales del alumno. Si existiese discrepancia entre la propuesta de la modalidad de escolarización y la opinión de la familia, la escolarización se resolverá priorizando la opinión de los padres o tutores legales en la elección de la modalidad educativa y considerando el interés superior del menor.
 
 #### Artículo 24. Evaluación y promoción.
 
-1.  La evaluación del alumnado será continua, global, formativa, participativa y orientadora, considerando todas las variables y elementos del centro, del alumnado, de las familias y del entorno sociocomunitario que influyen en el proceso educativo.
+1. La evaluación del alumnado será continua, global, formativa, participativa y orientadora, considerando todas las variables y elementos del centro, del alumnado, de las familias y del entorno sociocomunitario que influyen en el proceso educativo.
 
-2.  El referente de la evaluación serán los elementos curriculares decididos para cada alumno, y tendrá como objeto conocer su progreso, ajustar el plan de actuación y tomar decisiones relativas a su escolarización.
+2. El referente de la evaluación serán los elementos curriculares decididos para cada alumno, y tendrá como objeto conocer su progreso, ajustar el plan de actuación y tomar decisiones relativas a su escolarización.
 
-3.  Al finalizar cada curso escolar se evaluarán los resultados conseguidos por el alumno con el fin de valorar su progreso, proporcionar la orientación adecuada, modificar las medidas que procedan y, en su caso, realizar la propuesta de revisión de la modalidad de escolarización.
+3. Al finalizar cada curso escolar se evaluarán los resultados conseguidos por el alumno con el fin de valorar su progreso, proporcionar la orientación adecuada, modificar las medidas que procedan y, en su caso, realizar la propuesta de revisión de la modalidad de escolarización.
 
 ### Capítulo III. Actuaciones y medidas
 
@@ -288,9 +288,9 @@ La atención al alumnado con necesidades educativas especiales requiere de medid
 
 #### Artículo 28. Medidas ordinarias.
 
-1.  Las medidas ordinarias tienen por objeto responder a las diferencias curriculares y resultados de aprendizaje, con el fin de alcanzar los objetivos y competencias previstos.
+1. Las medidas ordinarias tienen por objeto responder a las diferencias curriculares y resultados de aprendizaje, con el fin de alcanzar los objetivos y competencias previstos.
 
-2.  Se consideran medidas ordinarias las siguientes:
+2. Se consideran medidas ordinarias las siguientes:
 a) Ajuste de las programaciones didácticas del alumnado e impulso de metodologías que promuevan la inclusión.
 b) Implantación de programas de refuerzo educativo y de habilidades sociales y desdoblamiento de grupos.
 c) Revisión de la estructura organizativa del centro y del aula, para su adecuación a las características de los alumnos.
@@ -304,15 +304,15 @@ Las modificaciones sustanciales y adaptaciones significativas de los elementos c
 
 #### Artículo 30. Recursos materiales.
 
-1.  La Consejería con competencias en materia de Educación dotará a los centros educativos del equipamiento necesario y de los materiales educativos específicos para atender las necesidades educativas especiales de su alumnado.
+1. La Consejería con competencias en materia de Educación dotará a los centros educativos del equipamiento necesario y de los materiales educativos específicos para atender las necesidades educativas especiales de su alumnado.
 
-2.  Las instalaciones y dependencias de los centros educativos serán accesibles para todo el alumnado escolarizado en los mismos.
+2. Las instalaciones y dependencias de los centros educativos serán accesibles para todo el alumnado escolarizado en los mismos.
 
 #### Artículo 31. Recursos humanos.
 
-1.  Los centros educativos se dotarán de los recursos humanos necesarios. Entre los profesionales especializados, se asignará el profesorado de Pedagogía Terapéutica y Audición y Lenguaje, según corresponda, para atender a estos alumnos.
+1. Los centros educativos se dotarán de los recursos humanos necesarios. Entre los profesionales especializados, se asignará el profesorado de Pedagogía Terapéutica y Audición y Lenguaje, según corresponda, para atender a estos alumnos.
 
-2.  Los profesionales asignados a los centros educativos se determinarán por parte de la Consejería competente en materia de Educación.
+2. Los profesionales asignados a los centros educativos se determinarán por parte de la Consejería competente en materia de Educación.
 
 #### Artículo 32. Formación.
 
@@ -326,19 +326,19 @@ Se fomentará la investigación y la innovación educativa con enfoques metodol�
 
 #### Artículo 34. Participación y colaboración de las familias.
 
-1.  Los padres y tutores legales del alumnado participarán en las decisiones que afecten a su escolarización y a la evolución de su aprendizaje, por lo que:
+1. Los padres y tutores legales del alumnado participarán en las decisiones que afecten a su escolarización y a la evolución de su aprendizaje, por lo que:
 a) Mantendrán entrevistas periódicas con los centros, al menos una al inicio del curso escolar y otra al finalizar cada trimestre, al objeto de participar en el seguimiento y toma de decisiones que afecten a sus hijos.
 b) Colaborarán en el proceso de evaluación inicial y evaluaciones psicopedagógicas de sus hijos.
 
-2.  La puesta en marcha de programas y otras medidas para que los padres y tutores legales del alumnado reciban información y asesoramiento serán llevados a cabo por la Consejería que detente la competencia de Educación y por los centros educativos. Asimismo, los centros educativos garantizarán la libertad educativa de padres y tutores conforme a las garantías constitucionales reconocidas en el artículo 27 de la Constitución Española.
+2. La puesta en marcha de programas y otras medidas para que los padres y tutores legales del alumnado reciban información y asesoramiento serán llevados a cabo por la Consejería que detente la competencia de Educación y por los centros educativos. Asimismo, los centros educativos garantizarán la libertad educativa de padres y tutores conforme a las garantías constitucionales reconocidas en el artículo 27 de la Constitución Española.
 
 ### Capítulo VI. Coordinación, seguimiento y evaluación
 
 #### Artículo 35. Coordinación en los centros.
 
-1.  La coordinación en los centros se llevará a cabo mediante reuniones entre el personal especializado, el profesorado de los grupos ordinarios de referencia, los profesionales que ejercen las funciones de orientación educativa, las familias y otros agentes educativos o sociosanitarios que intervengan.
+1. La coordinación en los centros se llevará a cabo mediante reuniones entre el personal especializado, el profesorado de los grupos ordinarios de referencia, los profesionales que ejercen las funciones de orientación educativa, las familias y otros agentes educativos o sociosanitarios que intervengan.
 
-2.  Los diferentes centros educativos colaborarán y se coordinarán entre ellos, en especial, cuando se trate de centros que atiendan a un mismo alumno.
+2. Los diferentes centros educativos colaborarán y se coordinarán entre ellos, en especial, cuando se trate de centros que atiendan a un mismo alumno.
 
 #### Artículo 36. Colaboración con entidades, asociaciones y otras organizaciones relacionadas con la atención a la diversidad.
 
@@ -350,29 +350,29 @@ En el seguimiento y aplicación de lo previsto en esta Ley participarán los dis
 
 #### Artículo 38. Evaluación.
 
-1.  La Consejería competente en materia educativa promoverá la evaluación del conjunto de medidas contempladas en esta Ley, con objeto de conocer el grado de eficacia en la consecución de los objetivos para adaptarlos progresivamente a las demandas de la sociedad.
+1. La Consejería competente en materia educativa promoverá la evaluación del conjunto de medidas contempladas en esta Ley, con objeto de conocer el grado de eficacia en la consecución de los objetivos para adaptarlos progresivamente a las demandas de la sociedad.
 
-2.  Los instrumentos destinados a la recogida de la información sobre la evaluación deberán contemplar tanto aspectos de tipo cuantitativo y objetivable como de tipo cualitativo.
+2. Los instrumentos destinados a la recogida de la información sobre la evaluación deberán contemplar tanto aspectos de tipo cuantitativo y objetivable como de tipo cualitativo.
 
 #### Disposición adicional primera. Inspección educativa.
 
-1.  La administración educativa ejercerá la inspección de todos los elementos y aspectos del sistema educativo no universitario para asegurar el cumplimiento de las leyes, la garantía de los derechos y la observancia de los deberes de cuantos participan en los procesos de enseñanza y aprendizaje, la mejora del sistema educativo y la calidad y equidad de la enseñanza.
+1. La administración educativa ejercerá la inspección de todos los elementos y aspectos del sistema educativo no universitario para asegurar el cumplimiento de las leyes, la garantía de los derechos y la observancia de los deberes de cuantos participan en los procesos de enseñanza y aprendizaje, la mejora del sistema educativo y la calidad y equidad de la enseñanza.
 
-2.  El ejercicio de la inspección educativa se realizará conforme a las funciones, atribuciones y principios de actuación recogidos, respectivamente, en los artículos 151, 153 y 153bis de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
+2. El ejercicio de la inspección educativa se realizará conforme a las funciones, atribuciones y principios de actuación recogidos, respectivamente, en los artículos 151, 153 y 153bis de la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo.
 
-3.  En el desempeño de sus funciones, los inspectores de educación tendrán la consideración de autoridad pública y, como tales, recibirán de los miembros de la comunidad educativa, así como de las demás autoridades y funcionarios, la ayuda y colaboración precisas para el desarrollo de su actividad.
+3. En el desempeño de sus funciones, los inspectores de educación tendrán la consideración de autoridad pública y, como tales, recibirán de los miembros de la comunidad educativa, así como de las demás autoridades y funcionarios, la ayuda y colaboración precisas para el desarrollo de su actividad.
 
-4.  El proceso selectivo de acceso al Cuerpo de Inspectores de Educación es el de concurso-oposición, con una fase de prácticas, y estará regido por los principios de igualdad, mérito, capacidad y publicidad. Los aspirantes deben tener una antigüedad y una experiencia docente mínima de ocho años en alguno de los cuerpos que integran la función pública docente, y la titulación académica que les permita acceder a dicho cuerpo.
+4. El proceso selectivo de acceso al Cuerpo de Inspectores de Educación es el de concurso-oposición, con una fase de prácticas, y estará regido por los principios de igualdad, mérito, capacidad y publicidad. Los aspirantes deben tener una antigüedad y una experiencia docente mínima de ocho años en alguno de los cuerpos que integran la función pública docente, y la titulación académica que les permita acceder a dicho cuerpo.
 
-5.  La fase de oposición consistirá en una prueba, encaminada a valorar la capacidad de liderazgo para el desempeño de la función inspectora, en la que se evaluarán conocimientos pedagógicos, de administración y de legislación educativa, así como los conocimientos de las técnicas específicas para el desempeño de las funciones asociadas.
+5. La fase de oposición consistirá en una prueba, encaminada a valorar la capacidad de liderazgo para el desempeño de la función inspectora, en la que se evaluarán conocimientos pedagógicos, de administración y de legislación educativa, así como los conocimientos de las técnicas específicas para el desempeño de las funciones asociadas.
 
-6.  En la fase de concurso se valorará la trayectoria profesional de los candidatos, sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva, la pertenencia a alguno de los Cuerpos de Catedráticos a que se refiere la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y el ejercicio, en su caso, de la función inspectora.
+6. En la fase de concurso se valorará la trayectoria profesional de los candidatos, sus méritos específicos como docentes, el desempeño de cargos directivos con evaluación positiva, la pertenencia a alguno de los Cuerpos de Catedráticos a que se refiere la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, y el ejercicio, en su caso, de la función inspectora.
 
 #### Disposición adicional segunda. Evaluación del sistema educativo.
 
-1.  La Comunidad de Madrid, además de participar en las evaluaciones previstas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, coordinadas por la Administración General del Estado, impulsará la realización de evaluaciones externas dirigidas a mejorar la calidad, la equidad, y la excelencia de la educación.
+1. La Comunidad de Madrid, además de participar en las evaluaciones previstas en la [Ley Orgánica 2/2006](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo, coordinadas por la Administración General del Estado, impulsará la realización de evaluaciones externas dirigidas a mejorar la calidad, la equidad, y la excelencia de la educación.
 
-2.  La Comunidad de Madrid podrá participar en las evaluaciones internacionales que sean coordinadas por la Administración General del Estado.
+2. La Comunidad de Madrid podrá participar en las evaluaciones internacionales que sean coordinadas por la Administración General del Estado.
 
 #### Disposición adicional tercera. Centros privados.
 
@@ -404,4 +404,4 @@ La educación inclusiva del alumnado en los centros docentes de la Comunidad de 
 
 #### Disposición final tercera. Entrada en vigor.
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar. Madrid, a 10 de febrero de 2022. La Presidenta,   ISABEL DÍAZ AYUSO
+La presente Ley entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley, que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar. Madrid, a 10 de febrero de 2022. La Presidenta, ISABEL DÍAZ AYUSO

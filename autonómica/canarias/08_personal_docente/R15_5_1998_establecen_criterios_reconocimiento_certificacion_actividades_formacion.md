@@ -94,9 +94,9 @@ Séptimo.- Dirección y coordinación: se certificarán respectivamente las func
 
 Octavo.- Impartición de ponencias: se certificarán cuando se desarrollen fuera del horario habitual de trabajo o cuando al efecto se disponga del permiso correspondiente.
 
-Noveno.- Retribución: las actividades contempladas en los apartados séptimo y octavo anteriores serán retribuidas conforme a los módulos económicos establecidos por la normativa propia de esta Consejería de Educación, Cultura y Deportes (Orden de 31 de agosto de 1995, B.O.C. nº 138, de 27.10.95
+Noveno.- Retribución: las actividades contempladas en los apartados séptimo y octavo anteriores serán retribuidas conforme a los módulos económicos establecidos por la normativa propia de esta Consejería de Educación, Cultura y Deportes (Orden de 31 de agosto de 1995, B.O.C. nº 138, de
 
-INSPECCIÓN DE EDUCACIÓN
+**27.10.95** INSPECCIÓN DE EDUCACIÓN
 
 Décimo.- Asistencia: se certificará la asistencia a las actividades de formación cuando éstas se desarrollen fuera del horario habitual de trabajo, o se disponga al efecto del permiso reglamentario correspondiente, así como la asistencia a actividades en ejecución de Planes Específicos de Formación, todo ello de conformidad con los requisitos y condiciones contemplados en las respectivas convocatorias.
 

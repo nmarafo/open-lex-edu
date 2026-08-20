@@ -180,7 +180,9 @@ En el plazo indicado deberán ejercitar la opción establecida con carácter gen
 
 1. El Ministerio de la Presidencia procederá a adoptar las medidas necesarias para que se produzca el cese en el segundo puesto o actividad y se declare al interesado en la situación que proceda, respecto del personal que hubiere realizado la opción a que se refiere la disposición transitoria primera, a), de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md).
 
-Cuando se trate de personal sometido al ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo 29.3 De la disposición legal primeramente citada.
+Cuando se trate de personal sometido al ámbito de aplicación de la [Ley 30/1984](../01_marco_normativo_general_y_organico/L30_1984_medidas_reforma_funcion_publica.md), de 2 de agosto, y el puesto en el que se haya de cesar esté comprendido en el artículo 2.º de la [Ley 53/1984](../01_marco_normativo_general_y_organico/L53_1984_incompatibilidades_personal_servicio_administraciones_publicas.md), de 26 de diciembre, la situación administrativa procedente será la que se determina en el apartado a) del artículo
+
+**29.3** De la disposición legal primeramente citada.
 
 En todos los supuestos a que se refiere este apartado, el cese del interesado en la prestación de servicios en el segundo puesto se producirá como consecuencia de la declaración de excedencia adaptada por el órgano competente, cuyos efectos, en todo caso, no podrán ser posteriores al día último del mes siguiente a aquel en que se produjera la pertinente comunicación del Ministerio de la Presidencia.
 

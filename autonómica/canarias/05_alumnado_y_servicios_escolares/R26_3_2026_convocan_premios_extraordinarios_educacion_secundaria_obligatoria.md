@@ -188,34 +188,32 @@ ALUMNADO ACREDITADO PARA INSCRIBIRSE EN LA CONVOCATORIA DE LOS PREMIOS EXTRAORDI
 
 ## Anexo I
 
-ALUMNADO ACREDITADO PARA INSCRIBIRSE EN LA CONVOCATORIA DE LOS PREMIOS EXTRAORDINARIOS DE ESO DE LA COMUNIDAD AUTÓNOMA DE CANARIAS (CURSO 2025/2026)
-
 ## Anexo II
 
 PREMIOS EXTRAORDINARIOS DE ESO CURSO 2025/2026
 
 1. HORARIO PARA LA REALIZACIÓN DE LA PRUEBA:
-9:00 Presentación del alumnado. 9:30-10:30 La prueba de Lengua Castellana y Literatura versará sobre aspectos que permitan  verificar  el  grado  de  adquisición  de  la  Competencia  en comunicación lingüística. 10:30-10:45 Descanso. 10:45-11:45 La  prueba  de  la  materia  de  Matemáticas  A  o  de  la  materia  de Matemáticas B, en función de la opción cursada, versará sobre aspectos que  permitan  verificar  el  grado  de  adquisición  de  la  competencia matemática. 11:45-12:00 Descanso. 12:00-13:00 La prueba de la materia de Lengua Extranjera versará sobre aspectos que permitan verificar el grado de adquisición de la Competencia en comunicación lingüística y de la Competencia plurilingüe, en relación con el idioma extranjero.
+9:00 Presentación del alumnado. 9:30-10:30 La prueba de Lengua Castellana y Literatura versará sobre aspectos que permitan verificar el grado de adquisición de la Competencia en comunicación lingüística. 10:30-10:45 Descanso. 10:45-11:45 La prueba de la materia de Matemáticas A o de la materia de Matemáticas B, en función de la opción cursada, versará sobre aspectos que permitan verificar el grado de adquisición de la competencia matemática. 11:45-12:00 Descanso. 12:00-13:00 La prueba de la materia de Lengua Extranjera versará sobre aspectos que permitan verificar el grado de adquisición de la Competencia en comunicación lingüística y de la Competencia plurilingüe, en relación con el idioma extranjero.
 
 2. ESPECIFICACIONES PARA LA REALIZACIÓN DE LA PRUEBA:
-• Durante la realización de los  ejercicio s no está permitido el empleo de teléfonos móviles, tabletas o instrumentos electrónicos similares.
-• Para  la  materia  de  Lengua  Extranjera  no  se  permitirá  el  uso  de  ningún  tipo  de diccionario.
-• Para las materias de  Matemáticas A o de Matemáticas B, se permitirá el uso de calculadora científica.
+• Durante la realización de los ejercicio s no está permitido el empleo de teléfonos móviles, tabletas o instrumentos electrónicos similares.
+• Para la materia de Lengua Extranjera no se permitirá el uso de ningún tipo de diccionario.
+• Para las materias de Matemáticas A o de Matemáticas B, se permitirá el uso de calculadora científica.
 
 ## Anexo II
 
 PREMIOS EXTRAORDINARIOS DE ESO CURSO 2025/2026
 
 3. LUGARES DE CELEBRACIÓN DE LA PRUEBA:
-PROVINCIA DE SANTA CRUZ DE TENERIFE TENERIFE IES ALCALDE BERNABÉ RODRÍGUEZ Dirección: Av. de San Sebastián n.º 7, 38003 Santa Cruz de Tenerife Teléfono: 922236008, 922760879   Correo electrónico: 38011984@gobiernodecanarias.org LA PALMA CENTRO DEL PROFESORADO DE LA PALMA Dirección: Camino Velachero, s/n 38700 Santa Cruz de La Palma Teléfono: 922592204    Correo electrónico: 38700406@gobiernodecanarias.org
+PROVINCIA DE SANTA CRUZ DE TENERIFE TENERIFE IES ALCALDE BERNABÉ RODRÍGUEZ Dirección: Av. de San Sebastián n.º 7, 38003 Santa Cruz de Tenerife Teléfono: 922236008, 922760879 Correo electrónico: 38011984@gobiernodecanarias.org LA PALMA CENTRO DEL PROFESORADO DE LA PALMA Dirección: Camino Velachero, s/n 38700 Santa Cruz de La Palma Teléfono: 922592204 Correo electrónico: 38700406@gobiernodecanarias.org
 
-LA GOMERA CENTRO DEL PROFESORADO DE LA GOMERA Dirección: Avenida José Aguiar, s/n 38800 San Sebastián de La Gomera Teléfono: 922141080, 922174325    Correo electrónico: 38702566@gobiernodecanarias.org
+LA GOMERA CENTRO DEL PROFESORADO DE LA GOMERA Dirección: Avenida José Aguiar, s/n 38800 San Sebastián de La Gomera Teléfono: 922141080, 922174325 Correo electrónico: 38702566@gobiernodecanarias.org
 
-EL HIERRO CENTRO DEL PROFESORADO EL HIERRO Dirección: Calle Trinista n.º 2, Trasera del Juzgado, 38900 Villa de Valverde Teléfono: 922760670    Correo electrónico: 38700140@gobiernodecanarias.org
+EL HIERRO CENTRO DEL PROFESORADO EL HIERRO Dirección: Calle Trinista n.º 2, Trasera del Juzgado, 38900 Villa de Valverde Teléfono: 922760670 Correo electrónico: 38700140@gobiernodecanarias.org
 
-PROVINCIA DE LAS PALMAS GRAN CANARIA IES PÉREZ GALDÓS Dirección: Paseo de Tomás Morales n.º 37, 35003 Las Palmas de Gran Canaria Teléfono: 928304447     Correo electrónico: 35002911@gobiernodecanarias.org LANZAROTE CENTRO DEL PROFESORADO LANZAROTE Dirección: Calle El Antonio, s/n, 35500 Arrecife Teléfono: 928815290, 928801313   Correo electrónico: 35700043@gobiernodecanarias.org
+PROVINCIA DE LAS PALMAS GRAN CANARIA IES PÉREZ GALDÓS Dirección: Paseo de Tomás Morales n.º 37, 35003 Las Palmas de Gran Canaria Teléfono: 928304447 Correo electrónico: 35002911@gobiernodecanarias.org LANZAROTE CENTRO DEL PROFESORADO LANZAROTE Dirección: Calle El Antonio, s/n, 35500 Arrecife Teléfono: 928815290, 928801313 Correo electrónico: 35700043@gobiernodecanarias.org
 
-FUERTEVENTURA CENTRO DEL PROFESORADO PUERTO DEL ROSARIO Dirección: Calle Secundino Alonso n.º 63, 35600 Puerto del Rosario Teléfono: 928455872       Correo electrónico: 35700110@gobiernodecanarias.org
+FUERTEVENTURA CENTRO DEL PROFESORADO PUERTO DEL ROSARIO Dirección: Calle Secundino Alonso n.º 63, 35600 Puerto del Rosario Teléfono: 928455872 Correo electrónico: 35700110@gobiernodecanarias.org
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

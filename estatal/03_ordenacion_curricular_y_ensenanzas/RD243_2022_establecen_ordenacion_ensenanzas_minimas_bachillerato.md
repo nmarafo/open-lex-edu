@@ -530,7 +530,9 @@ Las administraciones educativas garantizarán el derecho del alumnado a que su d
 
 2. Los resultados de la evaluación reflejados en estas actas se expresarán mediante calificaciones numéricas de cero a diez sin decimales, y se considerarán negativas las calificaciones inferiores a cinco. Cuando el alumnado no se presente a las pruebas extraordinarias se consignará No Presentado (NP).
 
-3. En las actas de segundo curso figurará, además, el alumnado con materias no superadas del curso anterior y se recogerá la propuesta de expedición del título de Bachiller, junto con la nota media de la etapa, que se calculará según lo establecido en el artículo 22.4. En este curso se extenderán actas de evaluación de materias pendientes al término del período lectivo ordinario y de la convocatoria de la prueba extraordinaria.
+3. En las actas de segundo curso figurará, además, el alumnado con materias no superadas del curso anterior y se recogerá la propuesta de expedición del título de Bachiller, junto con la nota media de la etapa, que se calculará según lo establecido en el artículo
+
+**22.4.** En este curso se extenderán actas de evaluación de materias pendientes al término del período lectivo ordinario y de la convocatoria de la prueba extraordinaria.
 
 4. Para la aplicación de lo previsto en el apartado quinto de la disposición adicional primera, se hará constar además una nota media normalizada, calculada sin tomar en cuenta la calificación de la materia de Religión.
 
@@ -864,33 +866,33 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.
+**1.1** Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.
 
-1.2 Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos.
+**1.2** Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos.
 
 Competencia específica 2.
 
-2.1 Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados.
+**2.1** Analizar, de forma guiada, obras musicales, identificando la estructura formal y los procedimientos compositivos utilizados.
 
-2.2 Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época.
+**2.2** Asociar las obras analizadas con su contexto de creación, investigando sobre su autor o autora y su época.
 
 Competencia específica 3.
 
-3.1 Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.
+**3.1** Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.
 
-3.2 Publicar reseñas musicales en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
+**3.2** Publicar reseñas musicales en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
 
 Competencia específica 4.
 
-4.1 Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.
+**4.1** Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.
 
-4.2 Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.
+**4.2** Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.
 
-4.3 Utilizar, de forma guiada, las tecnologías digitales en la composición musical.
+**4.3** Utilizar, de forma guiada, las tecnologías digitales en la composición musical.
 
 Competencia específica 5.
 
-5.1 Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador.
+**5.1** Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión (cine, teatro, danza…), analizando sus características y el efecto que genera en el espectador.
 
 Saberes básicos.
 
@@ -926,35 +928,35 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición.
+**1.1** Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición.
 
-1.2 Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras.
+**1.2** Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras.
 
 Competencia específica 2.
 
-2.1 Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.
+**2.1** Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.
 
-2.2 Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados.
+**2.2** Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados.
 
 Competencia específica 3.
 
-3.1 Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.
+**3.1** Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.
 
-3.2 Justificar la opinión propia sobre las obras analizadas, investigando y seleccionando la información más pertinente a partir de medios analógicos y digitales.
+**3.2** Justificar la opinión propia sobre las obras analizadas, investigando y seleccionando la información más pertinente a partir de medios analógicos y digitales.
 
-3.3 Publicar críticas musicales y comentarios propios en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
+**3.3** Publicar críticas musicales y comentarios propios en los medios disponibles, analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.
 
 Competencia específica 4.
 
-4.1 Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.
+**4.1** Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.
 
-4.2 Utilizar, de forma eficaz, las tecnologías digitales en la composición musical.
+**4.2** Utilizar, de forma eficaz, las tecnologías digitales en la composición musical.
 
 Competencia específica 5.
 
-5.1 Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.
+**5.1** Analizar los usos terapéuticos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.
 
-5.2 Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente.
+**5.2** Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente.
 
 Saberes básicos.
 
@@ -1052,33 +1054,33 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
+**1.1** Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
 
-1.3 Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales.
+**1.3** Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las artes escénicas actuales.
 
 Competencia específica 2.
 
-2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
+**2.1** Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
 
-2.2 Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.
+**2.2** Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.
 
 Competencia específica 3.
 
-3.1 Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
+**3.1** Emplear técnicas elementales de interpretación, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
 
-3.2 Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
+**3.2** Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
 
 Competencia específica 4.
 
-4.1 Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.
+**4.1** Participar activamente en la realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.
 
-4.2 Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos.
+**4.2** Evaluar y presentar los resultados de la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos.
 
 Competencia específica 5.
 
-5.1 Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.
+**5.1** Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.
 
-5.2 Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos.
+**5.2** Comentar manifestaciones escénicas, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos.
 
 Saberes básicos.
 
@@ -1152,35 +1154,35 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
+**1.1** Analizar, con un vocabulario adecuado, manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.
 
-1.2 Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente.
+**1.2** Valorar críticamente los hábitos, los gustos y los referentes escénicos de diferentes épocas y tradiciones, reflexionando sobre su evolución y sobre su relación con los del presente.
 
 Competencia específica 2.
 
-2.1 Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
+**2.1** Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.
 
-2.2 Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa.
+**2.2** Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas del repertorio personal de recursos más adecuadas a la intención comunicativa.
 
 Competencia específica 3.
 
-3.1 Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
+**3.1** Emplear diferentes técnicas de interpretación de forma creativa, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.
 
-3.2 Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
+**3.2** Recrear y representar la acción dramática, demostrando precisión, eficacia y expresividad, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.
 
 Competencia específica 4.
 
-4.1 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.
+**4.1** Participar, con iniciativa, responsabilidad y conciencia de grupo, en el diseño, la planificación y la realización de proyectos colectivos de creación y difusión escénica, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando y estructurando los elementos de significación, así como las directrices de interpretación, representación o escenificación.
 
-4.2 Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.
+**4.2** Evaluar y presentar los resultados de proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.
 
-4.3 Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
+**4.3** Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
 
 Competencia específica 5.
 
-5.1 Valorar la recepción brindada a un espectáculo determinado, relacionando las características de la obra, el contexto de la puesta en escena y las reacciones del público.
+**5.1** Valorar la recepción brindada a un espectáculo determinado, relacionando las características de la obra, el contexto de la puesta en escena y las reacciones del público.
 
-5.2 Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra.
+**5.2** Realizar y compartir reseñas y críticas escénicas, empleando la terminología adecuada, consultando fuentes fiables y reflexionando, con rigor y solidez, sobre las características, los presupuestos artísticos y la recepción de la obra.
 
 Saberes básicos.
 
@@ -1336,39 +1338,39 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar críticamente conceptos y procesos biológicos, seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas u otros).
+**1.1** Analizar críticamente conceptos y procesos biológicos, seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas u otros).
 
-1.2 Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos o contenidos digitales, entre otros) y respondiendo de manera fundamentada y precisa a las cuestiones que puedan surgir durante el proceso.
+**1.2** Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos o contenidos digitales, entre otros) y respondiendo de manera fundamentada y precisa a las cuestiones que puedan surgir durante el proceso.
 
-1.3 Argumentar sobre aspectos relacionados con los saberes de la materia, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
+**1.3** Argumentar sobre aspectos relacionados con los saberes de la materia, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
 
 Competencia específica 2.
 
-2.1 Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
+**2.1** Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
 
-2.2 Contrastar y justificar la veracidad de información relacionada con la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
+**2.2** Contrastar y justificar la veracidad de información relacionada con la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
 
 Competencia específica 3.
 
-3.1 Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de acuerdo a la interpretación de los resultados obtenidos.
+**3.1** Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de acuerdo a la interpretación de los resultados obtenidos.
 
-3.2 Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
+**3.2** Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
 
 Competencia específica 4.
 
-4.1 Explicar fenómenos biológicos, a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y los recursos adecuados.
+**4.1** Explicar fenómenos biológicos, a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y los recursos adecuados.
 
-4.2 Analizar críticamente la solución a un problema utilizando los saberes de la materia de Biología y reformular los procedimientos utilizados o las conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
+**4.2** Analizar críticamente la solución a un problema utilizando los saberes de la materia de Biología y reformular los procedimientos utilizados o las conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
 
 Competencia específica 5.
 
-5.1 Argumentar sobre la importancia de adoptar estilos de vida saludables y compatibles con el desarrollo sostenible, basándose en los principios de la biología molecular y relacionándolos con los procesos macroscópicos.
+**5.1** Argumentar sobre la importancia de adoptar estilos de vida saludables y compatibles con el desarrollo sostenible, basándose en los principios de la biología molecular y relacionándolos con los procesos macroscópicos.
 
 Competencia específica 6.
 
-6.1 Explicar las características y procesos vitales de los seres vivos mediante el análisis de sus biomoléculas, de las interacciones bioquímicas entre ellas y de sus reacciones metabólicas.
+**6.1** Explicar las características y procesos vitales de los seres vivos mediante el análisis de sus biomoléculas, de las interacciones bioquímicas entre ellas y de sus reacciones metabólicas.
 
-6.2 Aplicar metodologías analíticas en el laboratorio utilizando los materiales adecuados con precisión.
+**6.2** Aplicar metodologías analíticas en el laboratorio utilizando los materiales adecuados con precisión.
 
 Saberes básicos.
 
@@ -1540,49 +1542,49 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar críticamente conceptos y procesos relacionados con los saberes de la materia, interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas).
+**1.1** Analizar críticamente conceptos y procesos relacionados con los saberes de la materia, interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas).
 
-1.2 Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia o con trabajos científicos, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas y símbolos, entre otros) y herramientas digitales.
+**1.2** Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia o con trabajos científicos, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas y símbolos, entre otros) y herramientas digitales.
 
-1.3 Argumentar sobre aspectos relacionados con los saberes de la materia, defendiendo una postura de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
+**1.3** Argumentar sobre aspectos relacionados con los saberes de la materia, defendiendo una postura de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.
 
 Competencia específica 2.
 
-2.1 Plantear y resolver cuestiones relacionadas con los saberes de la materia, localizando y citando fuentes adecuadas y seleccionando, organizando y analizando críticamente la información.
+**2.1** Plantear y resolver cuestiones relacionadas con los saberes de la materia, localizando y citando fuentes adecuadas y seleccionando, organizando y analizando críticamente la información.
 
-2.2 Contrastar y justificar la veracidad de la información relacionada con los saberes de la materia, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
+**2.2** Contrastar y justificar la veracidad de la información relacionada con los saberes de la materia, utilizando fuentes fiables y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
 
-2.3 Argumentar sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución e influida por el contexto político y los recursos económicos.
+**2.3** Argumentar sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución e influida por el contexto político y los recursos económicos.
 
 Competencia específica 3.
 
-3.1 Plantear preguntas, realizar predicciones y formular hipótesis que puedan ser respondidas o contrastadas, utilizando métodos científicos y que intenten explicar fenómenos biológicos, geológicos o ambientales.
+**3.1** Plantear preguntas, realizar predicciones y formular hipótesis que puedan ser respondidas o contrastadas, utilizando métodos científicos y que intenten explicar fenómenos biológicos, geológicos o ambientales.
 
-3.2 Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos, geológicos y ambientales y seleccionar los instrumentos necesarios de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada, minimizando los sesgos en la medida de lo posible.
+**3.2** Diseñar la experimentación, la toma de datos y el análisis de fenómenos biológicos, geológicos y ambientales y seleccionar los instrumentos necesarios de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada, minimizando los sesgos en la medida de lo posible.
 
-3.3 Realizar experimentos y tomar datos cuantitativos y cualitativos sobre fenómenos biológicos, geológicos y ambientales, seleccionando y utilizando los instrumentos, herramientas o técnicas adecuadas con corrección y precisión.
+**3.3** Realizar experimentos y tomar datos cuantitativos y cualitativos sobre fenómenos biológicos, geológicos y ambientales, seleccionando y utilizando los instrumentos, herramientas o técnicas adecuadas con corrección y precisión.
 
-3.4 Interpretar y analizar resultados obtenidos en un proyecto de investigación, utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas, reconociendo su alcance y limitaciones y obteniendo conclusiones razonadas y fundamentadas o valorando la imposibilidad de hacerlo.
+**3.4** Interpretar y analizar resultados obtenidos en un proyecto de investigación, utilizando, cuando sea necesario, herramientas matemáticas y tecnológicas, reconociendo su alcance y limitaciones y obteniendo conclusiones razonadas y fundamentadas o valorando la imposibilidad de hacerlo.
 
-3.5 Establecer colaboraciones dentro y fuera del centro educativo en las distintas fases del proyecto científico con el fin de trabajar con mayor eficiencia, utilizando las herramientas tecnológicas adecuadas, valorando la importancia de la cooperación en la investigación, respetando la diversidad y favoreciendo la inclusión.
+**3.5** Establecer colaboraciones dentro y fuera del centro educativo en las distintas fases del proyecto científico con el fin de trabajar con mayor eficiencia, utilizando las herramientas tecnológicas adecuadas, valorando la importancia de la cooperación en la investigación, respetando la diversidad y favoreciendo la inclusión.
 
 Competencia específica 4.
 
-4.1 Resolver problemas o dar explicación a procesos biológicos, geológicos o ambientales, utilizando recursos variados como conocimientos propios, datos e información recabados, razonamiento lógico, pensamiento computacional o herramientas digitales.
+**4.1** Resolver problemas o dar explicación a procesos biológicos, geológicos o ambientales, utilizando recursos variados como conocimientos propios, datos e información recabados, razonamiento lógico, pensamiento computacional o herramientas digitales.
 
-4.2 Analizar críticamente la solución a un problema sobre fenómenos biológicos, geológicos o ambientales y modificar los procedimientos utilizados o las conclusiones obtenidas si dicha solución no fuese viable o ante nuevos datos aportados o recabados con posterioridad.
+**4.2** Analizar críticamente la solución a un problema sobre fenómenos biológicos, geológicos o ambientales y modificar los procedimientos utilizados o las conclusiones obtenidas si dicha solución no fuese viable o ante nuevos datos aportados o recabados con posterioridad.
 
 Competencia específica 5.
 
-5.1 Analizar las causas y consecuencias ecológicas, sociales y económicas de los principales problemas medioambientales desde una perspectiva individual, local y global, concibiéndolos como grandes retos de la humanidad y basándose en datos científicos y en los saberes de la materia.
+**5.1** Analizar las causas y consecuencias ecológicas, sociales y económicas de los principales problemas medioambientales desde una perspectiva individual, local y global, concibiéndolos como grandes retos de la humanidad y basándose en datos científicos y en los saberes de la materia.
 
-5.2 Proponer y poner en práctica hábitos e iniciativas sostenibles y saludables a nivel local y argumentar sobre sus efectos positivos y la urgencia de adoptarlos basándose en los saberes de la materia.
+**5.2** Proponer y poner en práctica hábitos e iniciativas sostenibles y saludables a nivel local y argumentar sobre sus efectos positivos y la urgencia de adoptarlos basándose en los saberes de la materia.
 
 Competencia específica 6.
 
-6.1 Relacionar los grandes eventos de la historia terrestre con determinados elementos del registro geológico y con los sucesos que ocurren en la actualidad, utilizando los principios geológicos básicos y el razonamiento lógico.
+**6.1** Relacionar los grandes eventos de la historia terrestre con determinados elementos del registro geológico y con los sucesos que ocurren en la actualidad, utilizando los principios geológicos básicos y el razonamiento lógico.
 
-6.2 Resolver problemas de datación, analizando elementos del registro geológico y fósil y aplicando métodos de datación.
+**6.2** Resolver problemas de datación, analizando elementos del registro geológico y fósil y aplicando métodos de datación.
 
 Saberes básicos.
 
@@ -1770,45 +1772,45 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Plantear y responder cuestiones acerca de procesos observados en el entorno, siguiendo las pautas de las metodologías científicas.
+**1.1** Plantear y responder cuestiones acerca de procesos observados en el entorno, siguiendo las pautas de las metodologías científicas.
 
-1.2 Contrastar hipótesis, realizando experimentos en laboratorios o en entornos virtuales, siguiendo las normas de seguridad correspondientes.
+**1.2** Contrastar hipótesis, realizando experimentos en laboratorios o en entornos virtuales, siguiendo las normas de seguridad correspondientes.
 
-1.3 Comunicar los resultados de un experimento o trabajo científico, utilizando los recursos adecuados y de acuerdo a los principios éticos básicos.
+**1.3** Comunicar los resultados de un experimento o trabajo científico, utilizando los recursos adecuados y de acuerdo a los principios éticos básicos.
 
 Competencia específica 2.
 
-2.1 Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos.
+**2.1** Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos.
 
-2.2 Explicar fenómenos que ocurren en el entorno, utilizando principios, leyes y teorías de las ciencias de la naturaleza.
+**2.2** Explicar fenómenos que ocurren en el entorno, utilizando principios, leyes y teorías de las ciencias de la naturaleza.
 
-2.3 Reconocer y analizar los fenómenos fisicoquímicos más relevantes, explicándolos a través de las principales leyes o teorías científicas.
+**2.3** Reconocer y analizar los fenómenos fisicoquímicos más relevantes, explicándolos a través de las principales leyes o teorías científicas.
 
-2.4 Explicar, utilizando los fundamentos científicos adecuados, los elementos y procesos básicos de la biosfera y la geosfera.
+**2.4** Explicar, utilizando los fundamentos científicos adecuados, los elementos y procesos básicos de la biosfera y la geosfera.
 
 Competencia específica 3.
 
-3.1 Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos.
+**3.1** Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos.
 
-3.2 Adoptar y promover hábitos saludables (dieta equilibrada, higiene, vacunación, uso adecuado de antibióticos, rechazo al consumo de drogas, legales e ilegales, ejercicio físico, higiene del sueño, posturas adecuadas…) y valorar su importancia, utilizando los fundamentos de la fisiología humana.
+**3.2** Adoptar y promover hábitos saludables (dieta equilibrada, higiene, vacunación, uso adecuado de antibióticos, rechazo al consumo de drogas, legales e ilegales, ejercicio físico, higiene del sueño, posturas adecuadas…) y valorar su importancia, utilizando los fundamentos de la fisiología humana.
 
 Competencia específica 4.
 
-4.1 Resolver problemas relacionados con fenómenos y procesos físicos, químicos, biológicos y geológicos, utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario.
+**4.1** Resolver problemas relacionados con fenómenos y procesos físicos, químicos, biológicos y geológicos, utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario.
 
-4.2 Analizar críticamente la solución de un problema relacionado con fenómenos y procesos físicos, químicos, biológicos y geológicos, modificando las conclusiones o las estrategias utilizadas si la solución no es viable, o ante nuevos datos aportados.
+**4.2** Analizar críticamente la solución de un problema relacionado con fenómenos y procesos físicos, químicos, biológicos y geológicos, modificando las conclusiones o las estrategias utilizadas si la solución no es viable, o ante nuevos datos aportados.
 
 Competencia específica 5.
 
-5.1 Reconocer la ciencia como un área de conocimiento global, analizando la interrelación e interdependencia entre cada una de las disciplinas que la forman.
+**5.1** Reconocer la ciencia como un área de conocimiento global, analizando la interrelación e interdependencia entre cada una de las disciplinas que la forman.
 
-5.2 Reconocer la relevancia de la ciencia en el progreso de la sociedad, valorando el importante papel que juegan las personas en el desempeño de la investigación científica.
+**5.2** Reconocer la relevancia de la ciencia en el progreso de la sociedad, valorando el importante papel que juegan las personas en el desempeño de la investigación científica.
 
 Competencia específica 6.
 
-6.1 Buscar, contrastar y seleccionar información sobre fenómenos y procesos físicos, químicos, biológicos o geológicos en diferentes formatos, utilizando los recursos necesarios, tecnológicos o de otro tipo.
+**6.1** Buscar, contrastar y seleccionar información sobre fenómenos y procesos físicos, químicos, biológicos o geológicos en diferentes formatos, utilizando los recursos necesarios, tecnológicos o de otro tipo.
 
-6.2 Establecer colaboraciones, utilizando los recursos necesarios en las diferentes etapas del proyecto científico, en la realización de actividades o en la resolución de problemas.
+**6.2** Establecer colaboraciones, utilizando los recursos necesarios en las diferentes etapas del proyecto científico, en la realización de actividades o en la resolución de problemas.
 
 Saberes básicos.
 
@@ -1948,21 +1950,21 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
+**1.1** Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
 
 Competencia específica 2.
 
-2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
+**2.1** Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
 
 Competencia específica 3.
 
-3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
+**3.1** Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
 
 Competencia específica 4.
 
-4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
+**4.1** Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
 
-4.2 Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo.
+**4.2** Participar activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo.
 
 Saberes básicos.
 
@@ -2018,23 +2020,23 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
+**1.1** Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.
 
-1.2 Explicar la relación del texto con la música en diferentes composiciones vocales, analizando el texto y la curva de tensiones musicales.
+**1.2** Explicar la relación del texto con la música en diferentes composiciones vocales, analizando el texto y la curva de tensiones musicales.
 
 Competencia específica 2.
 
-2.1 Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
+**2.1** Realizar ejercicios e improvisaciones para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.
 
 Competencia específica 3.
 
-3.1 Participar como intérprete de coro, demostrando eficacia, escucha activa, precisión técnica y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
+**3.1** Participar como intérprete de coro, demostrando eficacia, escucha activa, precisión técnica y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.
 
 Competencia específica 4.
 
-4.1 Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
+**4.1** Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.
 
-4.2 Participar, con iniciativa, responsabilidad y conciencia de grupo, en el montaje de proyectos escénicos, asumiendo alguna de las funciones de la producción e identificando oportunidades de desarrollo personal, social, académico o profesional.
+**4.2** Participar, con iniciativa, responsabilidad y conciencia de grupo, en el montaje de proyectos escénicos, asumiendo alguna de las funciones de la producción e identificando oportunidades de desarrollo personal, social, académico o profesional.
 
 Saberes básicos.
 
@@ -2144,37 +2146,37 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Explicar los aspectos esenciales de la evolución del lenguaje fotográfico y audiovisual, valorando los cambios que se han producido a lo largo de la historia del medio.
+**1.1** Explicar los aspectos esenciales de la evolución del lenguaje fotográfico y audiovisual, valorando los cambios que se han producido a lo largo de la historia del medio.
 
-1.2 Analizar las cualidades plásticas, formales y semánticas de producciones fotográficas y audiovisuales de distintos estilos, formatos, géneros y culturas, determinando las reglas y códigos por las que se rigen y valorando la flexibilidad de esas normas.
+**1.2** Analizar las cualidades plásticas, formales y semánticas de producciones fotográficas y audiovisuales de distintos estilos, formatos, géneros y culturas, determinando las reglas y códigos por las que se rigen y valorando la flexibilidad de esas normas.
 
-1.3 Proponer interpretaciones personales del patrimonio fotográfico y audiovisual, argumentando desde un criterio estético propio.
+**1.3** Proponer interpretaciones personales del patrimonio fotográfico y audiovisual, argumentando desde un criterio estético propio.
 
 Competencia específica 2.
 
-2.1 Diseñar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, incorporando las experiencias personales y el acercamiento a otros medios de expresión.
+**2.1** Diseñar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, incorporando las experiencias personales y el acercamiento a otros medios de expresión.
 
-2.2 Evaluar el rigor ético y formal con el que se usan las herramientas de creación fotográfica y audiovisual, analizando diversas producciones, distinguiendo críticamente los modos de presentar las informaciones y los mensajes, identificando su posible manipulación y reflexionando sobre la necesidad de respeto de la propiedad intelectual y los derechos de autor.
+**2.2** Evaluar el rigor ético y formal con el que se usan las herramientas de creación fotográfica y audiovisual, analizando diversas producciones, distinguiendo críticamente los modos de presentar las informaciones y los mensajes, identificando su posible manipulación y reflexionando sobre la necesidad de respeto de la propiedad intelectual y los derechos de autor.
 
-2.3 Realizar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, utilizando la propia presencia en la imagen y la banda de sonido y empleando el lenguaje y los medios de producción con rigor ético y formal.
+**2.3** Realizar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, utilizando la propia presencia en la imagen y la banda de sonido y empleando el lenguaje y los medios de producción con rigor ético y formal.
 
 Competencia específica 3.
 
-3.1 Confeccionar adecuadamente los equipos de trabajo para producciones audiovisuales colectivas, identificando las diferentes habilidades requeridas y repartiendo las tareas con criterio.
+**3.1** Confeccionar adecuadamente los equipos de trabajo para producciones audiovisuales colectivas, identificando las diferentes habilidades requeridas y repartiendo las tareas con criterio.
 
-3.2 Planificar producciones audiovisuales determinando los medios y habilidades necesarios, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición…, etc.), justificando razonadamente su elección y considerando los posibles imprevistos y la manera de resolverlos.
+**3.2** Planificar producciones audiovisuales determinando los medios y habilidades necesarios, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición…, etc.), justificando razonadamente su elección y considerando los posibles imprevistos y la manera de resolverlos.
 
-3.3 Demostrar flexibilidad y habilidad para resolver los imprevistos propios de las producciones audiovisuales, teniéndolos en cuenta en su planificación y considerando de manera abierta las diferentes posibilidades para resolver un problema sobrevenido.
+**3.3** Demostrar flexibilidad y habilidad para resolver los imprevistos propios de las producciones audiovisuales, teniéndolos en cuenta en su planificación y considerando de manera abierta las diferentes posibilidades para resolver un problema sobrevenido.
 
-3.4 Realizar producciones audiovisuales de manera creativa, utilizando correctamente las técnicas, herramientas y convenciones del lenguaje necesarias, valorando el trabajo colaborativo e intentando conseguir un resultado final ajustado al proyecto preparado previamente.
+**3.4** Realizar producciones audiovisuales de manera creativa, utilizando correctamente las técnicas, herramientas y convenciones del lenguaje necesarias, valorando el trabajo colaborativo e intentando conseguir un resultado final ajustado al proyecto preparado previamente.
 
 Competencia específica 4.
 
-4.1 Justificar la elección del lenguaje, el formato y los medios técnicos en producciones audiovisuales, considerando previamente el tipo de público al que se quieren dirigir.
+**4.1** Justificar la elección del lenguaje, el formato y los medios técnicos en producciones audiovisuales, considerando previamente el tipo de público al que se quieren dirigir.
 
-4.2 Seleccionar las vías de difusión más adecuadas para producciones audiovisuales, teniendo en cuenta su propósito, valorando de manera crítica e informada las posibilidades existentes, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.
+**4.2** Seleccionar las vías de difusión más adecuadas para producciones audiovisuales, teniendo en cuenta su propósito, valorando de manera crítica e informada las posibilidades existentes, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.
 
-4.3 Analizar de manera abierta y respetuosa la recepción de las producciones audiovisuales presentadas, comprobando la adecuación del lenguaje, el formato y los medios técnicos de la obra, así como de las vías de difusión, y extrayendo de ello un aprendizaje para el crecimiento creativo.
+**4.3** Analizar de manera abierta y respetuosa la recepción de las producciones audiovisuales presentadas, comprobando la adecuación del lenguaje, el formato y los medios técnicos de la obra, así como de las vías de difusión, y extrayendo de ello un aprendizaje para el crecimiento creativo.
 
 Saberes básicos.
 
@@ -2334,65 +2336,65 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Identificar el dibujo como forma de conocimiento, comunicación y expresión, reflexionando con iniciativa sobre su presencia en distintas manifestaciones culturales y artísticas y comparando de forma autónoma su uso en las mismas.
+**1.1** Identificar el dibujo como forma de conocimiento, comunicación y expresión, reflexionando con iniciativa sobre su presencia en distintas manifestaciones culturales y artísticas y comparando de forma autónoma su uso en las mismas.
 
-1.2 Comparar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares.
+**1.2** Comparar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares.
 
-1.3 Relacionar la pluralidad cultural y artística con la libertad de expresión, argumentando la opinión propia de forma activa, comprometida y respetuosa, y analizando los usos del dibujo en diversas manifestaciones artísticas.
+**1.3** Relacionar la pluralidad cultural y artística con la libertad de expresión, argumentando la opinión propia de forma activa, comprometida y respetuosa, y analizando los usos del dibujo en diversas manifestaciones artísticas.
 
 Competencia específica 2.
 
-2.1 Analizar el lenguaje, las técnicas y procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se han producido en las tendencias a lo largo de la historia y utilizando la terminología específica más adecuada.
+**2.1** Analizar el lenguaje, las técnicas y procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se han producido en las tendencias a lo largo de la historia y utilizando la terminología específica más adecuada.
 
-2.2 Analizar distintas manifestaciones culturales y artísticas, comprendiendo la función que desempeña el dibujo en las mismas y valorando el enriquecimiento que suponen para la sociedad los retos creativos y estéticos.
+**2.2** Analizar distintas manifestaciones culturales y artísticas, comprendiendo la función que desempeña el dibujo en las mismas y valorando el enriquecimiento que suponen para la sociedad los retos creativos y estéticos.
 
 Competencia específica 3.
 
-3.1 Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo (punto, línea, forma) y de su sintaxis, mejorando el proceso de creación gráfica.
+**3.1** Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo (punto, línea, forma) y de su sintaxis, mejorando el proceso de creación gráfica.
 
-3.2 Analizar, interpretar y representar gráficamente la realidad mediante bocetos y esbozos, utilizando las herramientas adecuadas y desarrollando una expresión propia, espontánea y creativa.
+**3.2** Analizar, interpretar y representar gráficamente la realidad mediante bocetos y esbozos, utilizando las herramientas adecuadas y desarrollando una expresión propia, espontánea y creativa.
 
 Competencia específica 4.
 
-4.1 Aportar una huella y un gesto propios a la realización de dibujos, combinando el uso tradicional de materiales, técnicas y soportes con la manipulación personal.
+**4.1** Aportar una huella y un gesto propios a la realización de dibujos, combinando el uso tradicional de materiales, técnicas y soportes con la manipulación personal.
 
-4.2 Realizar composiciones bidimensionales, figurativas o abstractas, explorando la percepción y ordenación del espacio e indagando sobre la representación del cuerpo humano y su posible utilización como soporte o como herramienta gráfica.
+**4.2** Realizar composiciones bidimensionales, figurativas o abstractas, explorando la percepción y ordenación del espacio e indagando sobre la representación del cuerpo humano y su posible utilización como soporte o como herramienta gráfica.
 
 Competencia específica 5.
 
-5.1 Identificar los referentes artísticos de una obra determinada, describiendo la influencia que ejercen y las conexiones que se establecen.
+**5.1** Identificar los referentes artísticos de una obra determinada, describiendo la influencia que ejercen y las conexiones que se establecen.
 
-5.2 Expresar ideas, opiniones, sentimientos y emociones a través de creaciones gráficas y dibujos propios, incorporando, de forma guiada, procedimientos o técnicas utilizados en referentes artísticos de interés para el alumnado.
+**5.2** Expresar ideas, opiniones, sentimientos y emociones a través de creaciones gráficas y dibujos propios, incorporando, de forma guiada, procedimientos o técnicas utilizados en referentes artísticos de interés para el alumnado.
 
 Competencia específica 6.
 
-6.1 Emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio, mostrando interés en sus aplicaciones.
+**6.1** Emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio, mostrando interés en sus aplicaciones.
 
-6.2 Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior, experimentando con los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
+**6.2** Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior, experimentando con los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
 
 Competencia específica 7.
 
-7.1 Proponer distintas soluciones gráficas a una misma propuesta visual, utilizando diferentes niveles de iconicidad, identificando las herramientas, medios y soportes necesarios y justificando razonada y respetuosamente la elección realizada.
+**7.1** Proponer distintas soluciones gráficas a una misma propuesta visual, utilizando diferentes niveles de iconicidad, identificando las herramientas, medios y soportes necesarios y justificando razonada y respetuosamente la elección realizada.
 
-7.2 Seleccionar y utilizar con destreza las herramientas, medios y soportes más adecuados a la intención creativa, empleando los valores expresivos del claroscuro y del color en una interpretación gráfica personal de la realidad.
+**7.2** Seleccionar y utilizar con destreza las herramientas, medios y soportes más adecuados a la intención creativa, empleando los valores expresivos del claroscuro y del color en una interpretación gráfica personal de la realidad.
 
-7.3 Investigar de forma activa y abierta sobre la presencia de tecnologías digitales en referentes artísticos contemporáneos, integrándolas en el proceso creativo y expresivo propio.
+**7.3** Investigar de forma activa y abierta sobre la presencia de tecnologías digitales en referentes artísticos contemporáneos, integrándolas en el proceso creativo y expresivo propio.
 
 Competencia específica 8.
 
-8.1 Representar gráficamente el modelo elegido, seleccionando y abstrayendo sus características más representativas, a partir del estudio y análisis del mismo.
+**8.1** Representar gráficamente el modelo elegido, seleccionando y abstrayendo sus características más representativas, a partir del estudio y análisis del mismo.
 
-8.2 Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando tanto los diferentes volúmenes como el espacio que completa el conjunto.
+**8.2** Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando tanto los diferentes volúmenes como el espacio que completa el conjunto.
 
 Competencia específica 9.
 
-9.1 Planificar proyectos gráficos colaborativos sencillos, identificando el ámbito disciplinar en que se desarrollarán, y organizando y distribuyendo las tareas de manera adecuada.
+**9.1** Planificar proyectos gráficos colaborativos sencillos, identificando el ámbito disciplinar en que se desarrollarán, y organizando y distribuyendo las tareas de manera adecuada.
 
-9.2 Realizar proyectos gráficos colaborativos enmarcados en un ámbito disciplinar concreto, utilizando con interés los valores expresivos del dibujo artístico y sus recursos.
+**9.2** Realizar proyectos gráficos colaborativos enmarcados en un ámbito disciplinar concreto, utilizando con interés los valores expresivos del dibujo artístico y sus recursos.
 
-9.3 Analizar las dificultades surgidas en la planificación y realización de proyectos gráficos compartidos, entendiendo este proceso como un instrumento de mejora del resultado final.
+**9.3** Analizar las dificultades surgidas en la planificación y realización de proyectos gráficos compartidos, entendiendo este proceso como un instrumento de mejora del resultado final.
 
-9.4 Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo, expresando la opinión propia de forma razonada y respetuosa.
+**9.4** Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo, expresando la opinión propia de forma razonada y respetuosa.
 
 Saberes básicos.
 
@@ -2472,67 +2474,67 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Identificar la presencia del dibujo en diferentes manifestaciones culturales y artísticas, estableciendo con criterio propio relaciones entre ellas y valorándolo como herramienta de expresión.
+**1.1** Identificar la presencia del dibujo en diferentes manifestaciones culturales y artísticas, estableciendo con criterio propio relaciones entre ellas y valorándolo como herramienta de expresión.
 
-1.2 Explicar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares.
+**1.2** Explicar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares.
 
-1.3 Defender la importancia de la libertad de expresión para la pluralidad cultural y artística, a través de un discurso razonado y argumentado de forma activa, comprometida y respetuosa.
+**1.3** Defender la importancia de la libertad de expresión para la pluralidad cultural y artística, a través de un discurso razonado y argumentado de forma activa, comprometida y respetuosa.
 
 Competencia específica 2.
 
-2.1 Analizar el lenguaje, las técnicas y procedimientos, la función y la expresividad del dibujo en diferentes producciones plásticas, incluyendo las contemporáneas, utilizando la terminología específica más adecuada e identificando con actitud abierta las intencionalidades de sus mensajes.
+**2.1** Analizar el lenguaje, las técnicas y procedimientos, la función y la expresividad del dibujo en diferentes producciones plásticas, incluyendo las contemporáneas, utilizando la terminología específica más adecuada e identificando con actitud abierta las intencionalidades de sus mensajes.
 
-2.2 Explicar de forma razonada la elección del dibujo como herramienta de expresión y transmisión de significados en distintas manifestaciones culturales y artísticas.
+**2.2** Explicar de forma razonada la elección del dibujo como herramienta de expresión y transmisión de significados en distintas manifestaciones culturales y artísticas.
 
 Competencia específica 3.
 
-3.1 Recrear gráficamente la realidad mediante bocetos o esbozos, partiendo tanto de la observación detallada como de la propia imaginación y utilizando una expresión personal y espontánea.
+**3.1** Recrear gráficamente la realidad mediante bocetos o esbozos, partiendo tanto de la observación detallada como de la propia imaginación y utilizando una expresión personal y espontánea.
 
-3.2 Analizar, interpretar y representar la realidad a partir de obras gráficas que exploren las posibilidades expresivas de formas y texturas, empleando con corrección y destreza los recursos del dibujo.
+**3.2** Analizar, interpretar y representar la realidad a partir de obras gráficas que exploren las posibilidades expresivas de formas y texturas, empleando con corrección y destreza los recursos del dibujo.
 
 Competencia específica 4.
 
-4.1 Usar el dibujo como medio de expresión, experimentando con diferentes materiales, técnicas y soportes, integrándolos en las producciones plásticas propias e incorporando las posibilidades que ofrece el cuerpo humano como recurso.
+**4.1** Usar el dibujo como medio de expresión, experimentando con diferentes materiales, técnicas y soportes, integrándolos en las producciones plásticas propias e incorporando las posibilidades que ofrece el cuerpo humano como recurso.
 
-4.2 Recrear gráficamente el espacio tridimensional, en producciones artísticas bidimensionales o tridimensionales, utilizando diversos materiales, técnicas y soportes y experimentando de forma abierta con los efectos perspectivos de profundidad.
+**4.2** Recrear gráficamente el espacio tridimensional, en producciones artísticas bidimensionales o tridimensionales, utilizando diversos materiales, técnicas y soportes y experimentando de forma abierta con los efectos perspectivos de profundidad.
 
-4.3 Analizar la importancia del cuerpo humano en las propuestas artísticas contemporáneas, estudiando los diferentes materiales, técnicas y soportes utilizados.
+**4.3** Analizar la importancia del cuerpo humano en las propuestas artísticas contemporáneas, estudiando los diferentes materiales, técnicas y soportes utilizados.
 
 Competencia específica 5.
 
-5.1 Describir los referentes artísticos presentes en obras contemporáneas, explicando la influencia que ejercen y las relaciones que se establecen y reconociendo la importancia de la herencia cultural.
+**5.1** Describir los referentes artísticos presentes en obras contemporáneas, explicando la influencia que ejercen y las relaciones que se establecen y reconociendo la importancia de la herencia cultural.
 
-5.2 Expresar ideas, opiniones, sentimientos y emociones propios en la práctica artística, tomando como punto de partida la exploración del entorno y de obras artísticas de interés personal.
+**5.2** Expresar ideas, opiniones, sentimientos y emociones propios en la práctica artística, tomando como punto de partida la exploración del entorno y de obras artísticas de interés personal.
 
 Competencia específica 6.
 
-6.1 Representar gráficamente las formas, sus posibles combinaciones y los espacios negativos y positivos presentes en entornos urbanos o naturales, a partir un estudio de los mismos intencionado y selectivo.
+**6.1** Representar gráficamente las formas, sus posibles combinaciones y los espacios negativos y positivos presentes en entornos urbanos o naturales, a partir un estudio de los mismos intencionado y selectivo.
 
-6.2 Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior con un trazo y un gesto personales, usando los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
+**6.2** Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior con un trazo y un gesto personales, usando los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.
 
 Competencia específica 7.
 
-7.1 Plantear soluciones alternativas en la representación de la realidad, con diferentes niveles de iconicidad, mostrando un pensamiento divergente, utilizando adecuadamente las herramientas, medios y soportes seleccionados, analizando su posible impacto ambiental y buscando activamente un resultado final ajustado a las intenciones expresivas propias.
+**7.1** Plantear soluciones alternativas en la representación de la realidad, con diferentes niveles de iconicidad, mostrando un pensamiento divergente, utilizando adecuadamente las herramientas, medios y soportes seleccionados, analizando su posible impacto ambiental y buscando activamente un resultado final ajustado a las intenciones expresivas propias.
 
-7.2 Seleccionar y utilizar con destreza y de manera creativa las herramientas, medios y soportes más adecuados a la intención personal, empleando los valores expresivos del claroscuro y del color en las interpretaciones gráficas propias de la realidad y en la representación del mundo interior.
+**7.2** Seleccionar y utilizar con destreza y de manera creativa las herramientas, medios y soportes más adecuados a la intención personal, empleando los valores expresivos del claroscuro y del color en las interpretaciones gráficas propias de la realidad y en la representación del mundo interior.
 
-7.3 Emplear creativamente las tecnologías digitales en producciones gráficas, integrándolas en el proceso creativo y expresivo propio.
+**7.3** Emplear creativamente las tecnologías digitales en producciones gráficas, integrándolas en el proceso creativo y expresivo propio.
 
 Competencia específica 8.
 
-8.1 Interpretar gráficamente la realidad observada, abstrayendo la información recibida y desarrollando la retentiva y la memoria visual.
+**8.1** Interpretar gráficamente la realidad observada, abstrayendo la información recibida y desarrollando la retentiva y la memoria visual.
 
-8.2 Lograr efectos perspectivos de profundidad en representaciones gráficas personales y creativas, atendiendo a las proporciones y los contrastes lumínicos y valorando la perspectiva como un método para recrear la tridimensionalidad.
+**8.2** Lograr efectos perspectivos de profundidad en representaciones gráficas personales y creativas, atendiendo a las proporciones y los contrastes lumínicos y valorando la perspectiva como un método para recrear la tridimensionalidad.
 
 Competencia específica 9.
 
-9.1 Planificar producciones gráficas de forma colaborativa, adaptando el diseño y el proceso al ámbito disciplinar elegido, y organizando y distribuyendo las tareas de manera adecuada.
+**9.1** Planificar producciones gráficas de forma colaborativa, adaptando el diseño y el proceso al ámbito disciplinar elegido, y organizando y distribuyendo las tareas de manera adecuada.
 
-9.2 Realizar, con decisión y actitud positiva, proyectos gráficos compartidos, respetando las aportaciones de los demás, afrontando los retos que surjan y evaluando tanto la planificación como las modificaciones realizadas.
+**9.2** Realizar, con decisión y actitud positiva, proyectos gráficos compartidos, respetando las aportaciones de los demás, afrontando los retos que surjan y evaluando tanto la planificación como las modificaciones realizadas.
 
-9.3 Afrontar con creatividad los posibles retos que surgen en la ejecución de proyectos gráficos colaborativos, contribuyendo a la consecución y la mejora del resultado final y evaluando tanto la planificación como las modificaciones realizadas.
+**9.3** Afrontar con creatividad los posibles retos que surgen en la ejecución de proyectos gráficos colaborativos, contribuyendo a la consecución y la mejora del resultado final y evaluando tanto la planificación como las modificaciones realizadas.
 
-9.4 Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo, expresando la opinión propia de forma razonada y respetuosa.
+**9.4** Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo, expresando la opinión propia de forma razonada y respetuosa.
 
 Saberes básicos.
 
@@ -2666,39 +2668,39 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar, a lo largo de la historia, la relación entre las matemáticas y el dibujo geométrico valorando su importancia en diferentes campos como la arquitectura o la ingeniería, desde la perspectiva de género y la diversidad cultural, empleando adecuadamente el vocabulario específico técnico y artístico.
+**1.1** Analizar, a lo largo de la historia, la relación entre las matemáticas y el dibujo geométrico valorando su importancia en diferentes campos como la arquitectura o la ingeniería, desde la perspectiva de género y la diversidad cultural, empleando adecuadamente el vocabulario específico técnico y artístico.
 
 Competencia específica 2.
 
-2.1 Solucionar gráficamente cálculos matemáticos y transformaciones básicas aplicando conceptos y propiedades de la geometría plana.
+**2.1** Solucionar gráficamente cálculos matemáticos y transformaciones básicas aplicando conceptos y propiedades de la geometría plana.
 
-2.2 Trazar gráficamente construcciones poligonales basándose en sus propiedades y mostrando interés por la precisión, claridad y limpieza.
+**2.2** Trazar gráficamente construcciones poligonales basándose en sus propiedades y mostrando interés por la precisión, claridad y limpieza.
 
 2.3âResolver grÃ¡ficamente tangencias y trazar curvas aplicando sus propiedades con rigor en su ejecuciÃ³n.Â
 
 Competencia específica 3.
 
-3.1 Representar en sistema diédrico elementos básicos en el espacio determinando su relación de pertenencia, posición y distancia.
+**3.1** Representar en sistema diédrico elementos básicos en el espacio determinando su relación de pertenencia, posición y distancia.
 
-3.2 Definir elementos y figuras planas en sistemas axonométricos valorando su importancia como métodos de representación espacial.
+**3.2** Definir elementos y figuras planas en sistemas axonométricos valorando su importancia como métodos de representación espacial.
 
-3.3 Representar e interpretar elementos básicos en el sistema de planos acotados haciendo uso de sus fundamentos.
+**3.3** Representar e interpretar elementos básicos en el sistema de planos acotados haciendo uso de sus fundamentos.
 
-3.4 Dibujar elementos en el espacio empleando la perspectiva cónica.
+**3.4** Dibujar elementos en el espacio empleando la perspectiva cónica.
 
-3.5 Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
+**3.5** Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
 
 Competencia específica 4.
 
-4.1 Documentar gráficamente objetos sencillos mediante sus vistas acotadas aplicando la normativa UNE e ISO en la utilización de sintaxis, escalas y formatos, valorando la importancia de usar un lenguaje técnico común.
+**4.1** Documentar gráficamente objetos sencillos mediante sus vistas acotadas aplicando la normativa UNE e ISO en la utilización de sintaxis, escalas y formatos, valorando la importancia de usar un lenguaje técnico común.
 
-4.2 Utilizar el croquis y el boceto como elementos de reflexión en la aproximación e indagación de alternativas y soluciones a los procesos de trabajo.
+**4.2** Utilizar el croquis y el boceto como elementos de reflexión en la aproximación e indagación de alternativas y soluciones a los procesos de trabajo.
 
 Competencia específica 5.
 
-5.1 Crear figuras planas y tridimensionales mediante programas de dibujo vectorial, usando las herramientas que aportan y las técnicas asociadas.
+**5.1** Crear figuras planas y tridimensionales mediante programas de dibujo vectorial, usando las herramientas que aportan y las técnicas asociadas.
 
-5.2 Recrear virtualmente piezas en tres dimensiones aplicando operaciones algebraicas entre primitivas para la presentación de proyectos en grupo.
+**5.2** Recrear virtualmente piezas en tres dimensiones aplicando operaciones algebraicas entre primitivas para la presentación de proyectos en grupo.
 
 Saberes básicos.
 
@@ -2758,35 +2760,35 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar la evolución de las estructuras geométricas y elementos técnicos en la arquitectura e ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de la arquitectura y la ingeniería.
+**1.1** Analizar la evolución de las estructuras geométricas y elementos técnicos en la arquitectura e ingeniería contemporáneas, valorando la influencia del progreso tecnológico y de las técnicas digitales de representación y modelado en los campos de la arquitectura y la ingeniería.
 
 Competencia específica 2.
 
-2.1 Construir figuras planas aplicando transformaciones geométricas y valorando su utilidad en los sistemas de representación.
+**2.1** Construir figuras planas aplicando transformaciones geométricas y valorando su utilidad en los sistemas de representación.
 
-2.2 Resolver tangencias aplicando los conceptos de potencia con una actitud de rigor en la ejecución.
+**2.2** Resolver tangencias aplicando los conceptos de potencia con una actitud de rigor en la ejecución.
 
-2.3 Trazar curvas cónicas y sus rectas tangentes aplicando propiedades y métodos de construcción, mostrando interés por la precisión.
+**2.3** Trazar curvas cónicas y sus rectas tangentes aplicando propiedades y métodos de construcción, mostrando interés por la precisión.
 
 Competencia específica 3.
 
-3.1 Resolver problemas geométricos mediante abatimientos, giros y cambios de plano, reflexionando sobre los métodos utilizados y los resultados obtenidos.
+**3.1** Resolver problemas geométricos mediante abatimientos, giros y cambios de plano, reflexionando sobre los métodos utilizados y los resultados obtenidos.
 
-3.2 Representar cuerpos geométricos y de revolución aplicando los fundamentos del sistema diédrico.
+**3.2** Representar cuerpos geométricos y de revolución aplicando los fundamentos del sistema diédrico.
 
-3.3 Recrear la realidad tridimensional mediante la representación de sólidos en perspectivas axonométricas y cónica, aplicando los conocimientos específicos de dichos sistemas de representación.
+**3.3** Recrear la realidad tridimensional mediante la representación de sólidos en perspectivas axonométricas y cónica, aplicando los conocimientos específicos de dichos sistemas de representación.
 
-3.4 Desarrollar proyectos gráficos sencillos mediante el sistema de planos acotados.
+**3.4** Desarrollar proyectos gráficos sencillos mediante el sistema de planos acotados.
 
-3.5 Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
+**3.5** Valorar el rigor gráfico del proceso; la claridad, la precisión y el proceso de resolución y construcción gráfica.
 
 Competencia específica 4.
 
-4.1 Elaborar la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos empleando croquis y planos conforme a la normativa UNE e ISO.
+**4.1** Elaborar la documentación gráfica apropiada a proyectos de diferentes campos, formalizando y definiendo diseños técnicos empleando croquis y planos conforme a la normativa UNE e ISO.
 
 Competencia específica 5.
 
-5.1 Integrar el soporte digital en la representación de objetos y construcciones mediante aplicaciones CAD valorando las posibilidades que estas herramientas aportan al dibujo y al trabajo colaborativo.
+**5.1** Integrar el soporte digital en la representación de objetos y construcciones mediante aplicaciones CAD valorando las posibilidades que estas herramientas aportan al dibujo y al trabajo colaborativo.
 
 Saberes básicos.
 
@@ -2886,33 +2888,33 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, el entorno, el arte y el diseño, analizando su función y valorando la importancia dentro del contexto histórico.
+**1.1** Reconocer diferentes tipos de estructuras, formas y relaciones geométricas en la naturaleza, el entorno, el arte y el diseño, analizando su función y valorando la importancia dentro del contexto histórico.
 
 Competencia específica 2.
 
-2.1 Dibujar formas poligonales y resolver tangencias básicas y simetrías aplicadas al diseño de formas, valorando la importancia de la limpieza y la precisión en el trazado.
+**2.1** Dibujar formas poligonales y resolver tangencias básicas y simetrías aplicadas al diseño de formas, valorando la importancia de la limpieza y la precisión en el trazado.
 
-2.2 Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas y apreciando su importancia en el dibujo.
+**2.2** Transmitir ideas, sentimientos y emociones mediante la realización de estudios, esbozos y apuntes del natural a mano alzada, identificando la geometría interna y externa de las formas y apreciando su importancia en el dibujo.
 
 Competencia específica 3.
 
-3.1 Diferenciar las características de los distintos sistemas de representación, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación.
+**3.1** Diferenciar las características de los distintos sistemas de representación, seleccionando en cada caso el sistema más apropiado a la finalidad de la representación.
 
-3.2 Representar objetos sencillos mediante sus vistas diédricas.
+**3.2** Representar objetos sencillos mediante sus vistas diédricas.
 
-3.3 Diseñar envases sencillos, representándolos en perspectiva isométrica o caballera y reflexionando sobre el proceso realizado y el resultado obtenido.
+**3.3** Diseñar envases sencillos, representándolos en perspectiva isométrica o caballera y reflexionando sobre el proceso realizado y el resultado obtenido.
 
-3.4 Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista.
+**3.4** Dibujar ilustraciones o viñetas aplicando las técnicas de la perspectiva cónica en la representación de espacios, objetos o personas desde distintos puntos de vista.
 
 Competencia específica 4.
 
-4.1 Realizar bocetos y croquis conforme a las normas UNE e ISO, comunicando la forma y dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía.
+**4.1** Realizar bocetos y croquis conforme a las normas UNE e ISO, comunicando la forma y dimensiones de objetos, proponiendo ideas creativas y resolviendo problemas con autonomía.
 
 Competencia específica 5.
 
-5.1 Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño.
+**5.1** Adquirir destrezas en el manejo de herramientas y técnicas de dibujo vectorial en 2D, aplicándolos a la realización de proyectos de diseño.
 
-5.2 Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación.
+**5.2** Iniciarse en el modelado en 3D mediante el diseño de esculturas o instalaciones, valorando su potencial como herramienta de creación.
 
 Saberes básicos.
 
@@ -2964,27 +2966,27 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Identificar y explicar la presencia de formas y relaciones geométricas en el arte y el diseño, comprendiendo el motivo o intencionalidad con la que se han utilizado.
+**1.1** Identificar y explicar la presencia de formas y relaciones geométricas en el arte y el diseño, comprendiendo el motivo o intencionalidad con la que se han utilizado.
 
 Competencia específica 2.
 
-2.1 Diseñar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos.
+**2.1** Diseñar patrones y mosaicos, aplicando las transformaciones geométricas al diseño de patrones y mosaicos.
 
-2.2 Diseñar formas creativas, empleando tangencias, enlaces y curvas cónicas.
+**2.2** Diseñar formas creativas, empleando tangencias, enlaces y curvas cónicas.
 
 Competencia específica 3.
 
-3.1 Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas.
+**3.1** Dibujar, en las perspectivas isométrica y caballera, formas volumétricas incorporando curvas.
 
-3.2 Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado obtenido.
+**3.2** Diseñar espacios o escenografías aplicando la perspectiva cónica, representando las luces y sombras de los objetos contenidos y reflexionando sobre el proceso realizado y el resultado obtenido.
 
 Competencia específica 4.
 
-4.1 Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo.
+**4.1** Proyectar, de manera individual o en grupo, un diseño sencillo, comunicando de manera clara e inequívoca su forma y dimensiones mediante el uso de la normalización, aplicando estrategias y destrezas que agilicen el trabajo colaborativo.
 
 Competencia específica 5.
 
-5.1 Realizar y presentar proyectos, aprovechando las posibilidades que las herramientas de dibujo vectorial aportan a los campos del diseño y el arte.
+**5.1** Realizar y presentar proyectos, aprovechando las posibilidades que las herramientas de dibujo vectorial aportan a los campos del diseño y el arte.
 
 Saberes básicos.
 
@@ -3100,45 +3102,45 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Reconocer la relación entre las formas y las funciones en objetos de diseño bidimensionales o tridimensionales, percibiéndolos como productos susceptibles de transformaciones y mejoras.
+**1.1** Reconocer la relación entre las formas y las funciones en objetos de diseño bidimensionales o tridimensionales, percibiéndolos como productos susceptibles de transformaciones y mejoras.
 
-1.2 Explicar en los objetos de diseño las dimensiones simbólicas y semánticas propias de su lenguaje, identificando sus elementos sintácticos y constitutivos con actitud receptiva y respetuosa.
+**1.2** Explicar en los objetos de diseño las dimensiones simbólicas y semánticas propias de su lenguaje, identificando sus elementos sintácticos y constitutivos con actitud receptiva y respetuosa.
 
 Competencia específica 2.
 
-2.1 Identificar las características fundamentales de los principales movimientos, corrientes, escuelas y teóricos relacionados con el diseño, comparando productos de diseño de contextos geográficos, históricos y sociales diversos, y reflexionando de manera crítica sobre las aportaciones de las mujeres y de las culturas no occidentales.
+**2.1** Identificar las características fundamentales de los principales movimientos, corrientes, escuelas y teóricos relacionados con el diseño, comparando productos de diseño de contextos geográficos, históricos y sociales diversos, y reflexionando de manera crítica sobre las aportaciones de las mujeres y de las culturas no occidentales.
 
-2.2 Analizar de manera crítica las diferentes soluciones de diseño vinculadas a un mismo problema, reflexionando sobre su impacto en el entorno y estableciendo argumentos que promuevan una conciencia comprometida con el medio ambiente y con el diseño sostenible.
+**2.2** Analizar de manera crítica las diferentes soluciones de diseño vinculadas a un mismo problema, reflexionando sobre su impacto en el entorno y estableciendo argumentos que promuevan una conciencia comprometida con el medio ambiente y con el diseño sostenible.
 
 Competencia específica 3.
 
-3.1 Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable.
+**3.1** Reconocer las estructuras formales, compositivas y estructurales en objetos y productos de diferentes ámbitos del diseño, analizando los procesos y métodos utilizados para desarrollarlos, así como las finalidades funcionales y comunicativas de las que parten y su impacto en aspectos tales como la inclusión, la sostenibilidad y el consumo responsable.
 
-3.2 Analizar las relaciones compositivas en distintos productos de diseño, identificando los elementos básicos del lenguaje visual y explicando su impacto en aspectos como la inclusión, la sostenibilidad y el consumo responsable.
+**3.2** Analizar las relaciones compositivas en distintos productos de diseño, identificando los elementos básicos del lenguaje visual y explicando su impacto en aspectos como la inclusión, la sostenibilidad y el consumo responsable.
 
 Competencia específica 4.
 
-4.1 Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad.
+**4.1** Planificar adecuadamente proyectos de diseño individuales o colectivos, estableciendo objetivos en función del impacto de comunicación buscado, programando las distintas fases del plan de desarrollo, seleccionando con criterio las herramientas y recursos y priorizando la sostenibilidad.
 
-4.2 Participar activamente en la organización adecuada de los equipos de trabajo de los proyectos de diseño colaborativo, identificando las habilidades requeridas y repartiendo y asumiendo las tareas con criterio.
+**4.2** Participar activamente en la organización adecuada de los equipos de trabajo de los proyectos de diseño colaborativo, identificando las habilidades requeridas y repartiendo y asumiendo las tareas con criterio.
 
-4.3 Evaluar las propuestas de planificación propias y ajenas de manera crítica y argumentada, analizando su adecuación al impacto de comunicación buscado.
+**4.3** Evaluar las propuestas de planificación propias y ajenas de manera crítica y argumentada, analizando su adecuación al impacto de comunicación buscado.
 
 Competencia específica 5.
 
-5.1 Proyectar soluciones de diseño innovadoras en respuesta a necesidades personales o de expresión propias, a partir de ideas o productos preexistentes.
+**5.1** Proyectar soluciones de diseño innovadoras en respuesta a necesidades personales o de expresión propias, a partir de ideas o productos preexistentes.
 
-5.2 Evaluar críticamente las propuestas de diseño personales, valorando su coherencia y adecuación, y considerando el respeto a la propiedad intelectual, tanto a la ajena como a la propia.
+**5.2** Evaluar críticamente las propuestas de diseño personales, valorando su coherencia y adecuación, y considerando el respeto a la propiedad intelectual, tanto a la ajena como a la propia.
 
 Competencia específica 6.
 
-6.1 Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual.
+**6.1** Realizar proyectos elementales de diseño gráfico, diseño industrial o diseño de espacios habitables, de manera individual y colectiva, aplicando soluciones creativas en la elaboración de un producto innovador, y teniendo en cuenta sus implicaciones sociales, económicas y de transformación, así como los aspectos relacionados con la propiedad intelectual.
 
-6.2 Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos, como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del producto, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual.
+**6.2** Evaluar de manera crítica y argumentada trabajos de diseño propios y ajenos, valorando tanto la selección coherente y adecuada de los recursos técnicos, como el rigor y la corrección en la aplicación de las técnicas de ejecución, desarrollo y presentación del producto, además de su grado de adecuación al impacto de comunicación buscado y al respeto a la propiedad intelectual.
 
-6.3 Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, poniendo en valor los proyectos innovadores y transformadores de la sociedad.
+**6.3** Identificar las posibilidades de intervención del diseño inclusivo en diferentes ámbitos de la actividad humana, poniendo en valor los proyectos innovadores y transformadores de la sociedad.
 
-6.4 Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas.
+**6.4** Realizar colectivamente un proyecto de diseño inclusivo, priorizando su adecuación a una o varias diversidades funcionales concretas, utilizando de manera creativa las configuraciones formales y argumentando las decisiones tomadas.
 
 Saberes básicos.
 
@@ -3298,43 +3300,43 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Comprender la realidad económica actual, analizando la repercusión de las decisiones adoptadas en el ámbito económico, valorando los procesos de integración económica y estableciendo comparaciones sobre las soluciones alternativas que ofrecen los distintos sistemas.
+**1.1** Comprender la realidad económica actual, analizando la repercusión de las decisiones adoptadas en el ámbito económico, valorando los procesos de integración económica y estableciendo comparaciones sobre las soluciones alternativas que ofrecen los distintos sistemas.
 
-1.2 Comprender el problema de la escasez identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución del mismo.
+**1.2** Comprender el problema de la escasez identificando los motivos y comparando, de manera justificada, diferentes estrategias económicas de resolución del mismo.
 
-1.3 Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad.
+**1.3** Conocer los procesos que intervienen en la toma de las decisiones económicas de manera individual y colectiva, analizando el impacto que tienen en la sociedad.
 
 Competencia específica 2.
 
-2.1 Valorar la repercusión de los fallos del mercado a nivel microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo el funcionamiento del mismo.
+**2.1** Valorar la repercusión de los fallos del mercado a nivel microeconómico y facilitar el proceso de toma de decisiones en este ámbito, reconociendo y comprendiendo el funcionamiento del mismo.
 
-2.2 Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la oferta, la demanda, los precios, los tipos de mercado y los agentes implicados y reflexionado sobre su importancia como fuente de mejora económica y social.
+**2.2** Entender el funcionamiento del mercado y la naturaleza de las transacciones que tienen lugar en él, analizando elementos como la oferta, la demanda, los precios, los tipos de mercado y los agentes implicados y reflexionado sobre su importancia como fuente de mejora económica y social.
 
-2.3 Analizar con espíritu crítico los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.
+**2.3** Analizar con espíritu crítico los fallos del mercado, evaluando sus consecuencias y reflexionando sobre sus posibles soluciones.
 
 Competencia específica 3.
 
-3.1 Conocer cómo se produce el desarrollo económico y el bienestar social valorando, con sentido crítico, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta.
+**3.1** Conocer cómo se produce el desarrollo económico y el bienestar social valorando, con sentido crítico, el papel de los distintos agentes económicos que intervienen en el flujo circular de la renta.
 
-3.2 Diferenciar los costes y beneficios que se generan en el flujo circular de la renta para cada uno de los agentes económicos, estableciendo relaciones entre ellos y determinando su repercusión en el desarrollo económico y bienestar social.
+**3.2** Diferenciar los costes y beneficios que se generan en el flujo circular de la renta para cada uno de los agentes económicos, estableciendo relaciones entre ellos y determinando su repercusión en el desarrollo económico y bienestar social.
 
 Competencia específica 4.
 
-4.1 Conocer y comprender el funcionamiento del sistema financiero valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, el ahorro, los productos financieros y la búsqueda de fuentes de financiación.
+**4.1** Conocer y comprender el funcionamiento del sistema financiero valorando sus efectos sobre la economía real y analizando los elementos que intervienen en las decisiones financieras relacionadas con la inversión, el ahorro, los productos financieros y la búsqueda de fuentes de financiación.
 
-4.2 Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y comprensión del sistema financiero y de los elementos que intervienen en las decisiones financieras, valorando los efectos que estas pueden provocar en la economía real.
+**4.2** Planificar y gestionar con responsabilidad y progresiva autonomía las finanzas personales y adoptar decisiones fundamentadas a partir del conocimiento y comprensión del sistema financiero y de los elementos que intervienen en las decisiones financieras, valorando los efectos que estas pueden provocar en la economía real.
 
-4.3 Adquirir conocimientos financieros a partir del análisis del sistema financiero, su funcionamiento y los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y las decisiones financieras personales que afectan a la vida cotidiana.
+**4.3** Adquirir conocimientos financieros a partir del análisis del sistema financiero, su funcionamiento y los efectos que se derivan de las decisiones adoptadas en él y estableciendo conexiones entre estos aprendizajes y las decisiones financieras personales que afectan a la vida cotidiana.
 
 Competencia específica 5.
 
-5.1 Proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad a partir de la identificación de los retos y desafíos que plantea la economía actual, analizando, con sentido crítico, el impacto que provocan la globalización, la nueva economía y la revolución digital en el bienestar económico y social de los ciudadanos y ciudadanas.
+**5.1** Proponer iniciativas que fomenten la equidad, la justicia y la sostenibilidad a partir de la identificación de los retos y desafíos que plantea la economía actual, analizando, con sentido crítico, el impacto que provocan la globalización, la nueva economía y la revolución digital en el bienestar económico y social de los ciudadanos y ciudadanas.
 
-5.2 Comprender los retos económicos actuales analizando, de forma crítica y constructiva, el entorno, identificando aquellos elementos que condicionan y transforman la economía y fomentando iniciativas que respondan a las necesidades que plantean estos retos.
+**5.2** Comprender los retos económicos actuales analizando, de forma crítica y constructiva, el entorno, identificando aquellos elementos que condicionan y transforman la economía y fomentando iniciativas que respondan a las necesidades que plantean estos retos.
 
 Competencia específica 6.
 
-6.1 Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía.
+**6.1** Plantear soluciones socioeconómicas que respondan a necesidades individuales y colectivas investigando y explorando la realidad económica teniendo en cuenta diversos factores y aplicando las herramientas propias del ámbito de la economía.
 
 Saberes básicos.
 
@@ -3464,35 +3466,35 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Entender la realidad partiendo del análisis crítico y reflexivo sobre las aportaciones que ofrece la ciencia económica, valorando su interrelación con otras disciplinas y adquiriendo una visión integral de la misma que favorezca la asunción de responsabilidades y compromisos.
+**1.1** Entender la realidad partiendo del análisis crítico y reflexivo sobre las aportaciones que ofrece la ciencia económica, valorando su interrelación con otras disciplinas y adquiriendo una visión integral de la misma que favorezca la asunción de responsabilidades y compromisos.
 
 Competencia específica 2.
 
-2.1 Comprender los cambios económicos y sociales desde un análisis interdisciplinar sobre el comportamiento humano en el proceso de toma de decisiones y evaluando el problema de la escasez y sus efectos, y estimulando al alumnado a actuar en consecuencia.
+**2.1** Comprender los cambios económicos y sociales desde un análisis interdisciplinar sobre el comportamiento humano en el proceso de toma de decisiones y evaluando el problema de la escasez y sus efectos, y estimulando al alumnado a actuar en consecuencia.
 
 Competencia específica 3.
 
-3.1 Mostrar actitudes sensibles y comportamientos responsables y proactivos que contribuyan a dar respuesta a los retos actuales a partir del estudio de casos reales estableciendo correspondencias entre la realidad y los aprendizajes adquiridos.
+**3.1** Mostrar actitudes sensibles y comportamientos responsables y proactivos que contribuyan a dar respuesta a los retos actuales a partir del estudio de casos reales estableciendo correspondencias entre la realidad y los aprendizajes adquiridos.
 
-3.2 Tomar conciencia de problemas globales y locales analizándolos a través de herramientas económicas y empresariales y aportando posibles soluciones a los mismos.
+**3.2** Tomar conciencia de problemas globales y locales analizándolos a través de herramientas económicas y empresariales y aportando posibles soluciones a los mismos.
 
 Competencia específica 4.
 
-4.1 Reconocer y potenciar las destrezas emprendedoras propias, identificando y valorando previamente las habilidades que poseen personas emprendedoras cercanas y analizando sus competencias a la hora de afrontar los retos que se les presentan.
+**4.1** Reconocer y potenciar las destrezas emprendedoras propias, identificando y valorando previamente las habilidades que poseen personas emprendedoras cercanas y analizando sus competencias a la hora de afrontar los retos que se les presentan.
 
-4.2 Afrontar retos sencillos de la vida cotidiana aplicando las destrezas propias que caracterizan a una persona emprendedora.
+**4.2** Afrontar retos sencillos de la vida cotidiana aplicando las destrezas propias que caracterizan a una persona emprendedora.
 
 Competencia específica 5.
 
-5.1 Reconocer las tendencias e identificar la filosofía de las empresas comprendiendo las estrategias empresariales llevadas a cabo por estas y analizando su evolución, así como los modelos de negocio desarrollados poniendo en valor, con sentido crítico, su actividad empresarial.
+**5.1** Reconocer las tendencias e identificar la filosofía de las empresas comprendiendo las estrategias empresariales llevadas a cabo por estas y analizando su evolución, así como los modelos de negocio desarrollados poniendo en valor, con sentido crítico, su actividad empresarial.
 
-5.2 Distinguir los nuevos modelos de negocio desarrollados por empresas pertenecientes a diversos sectores y ámbitos analizando sus posibilidades y limitaciones.
+**5.2** Distinguir los nuevos modelos de negocio desarrollados por empresas pertenecientes a diversos sectores y ámbitos analizando sus posibilidades y limitaciones.
 
 Competencia específica 6.
 
-6.1 Comprender las respuestas que ofrecen las empresas a los desafíos actuales, analizando la transformación económica y social que está experimentando la sociedad.
+**6.1** Comprender las respuestas que ofrecen las empresas a los desafíos actuales, analizando la transformación económica y social que está experimentando la sociedad.
 
-6.2 Proponer alternativas y nuevas soluciones a los desafíos actuales, analizando los efectos de la transformación económica y social y reconociendo la importancia que tiene la innovación y revolución digital en la actividad empresarial.
+**6.2** Proponer alternativas y nuevas soluciones a los desafíos actuales, analizando los efectos de la transformación económica y social y reconociendo la importancia que tiene la innovación y revolución digital en la actividad empresarial.
 
 Saberes básicos.
 
@@ -3632,43 +3634,43 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Planificar, elaborar y poner en práctica de manera autónoma un programa personal de actividad física dirigido a la mejora o al mantenimiento de la salud, aplicando los diferentes sistemas de desarrollo de las capacidades físicas implicadas, según las necesidades e intereses individuales y respetando la propia realidad e identidad corporal, evaluando los resultados obtenidos.
+**1.1** Planificar, elaborar y poner en práctica de manera autónoma un programa personal de actividad física dirigido a la mejora o al mantenimiento de la salud, aplicando los diferentes sistemas de desarrollo de las capacidades físicas implicadas, según las necesidades e intereses individuales y respetando la propia realidad e identidad corporal, evaluando los resultados obtenidos.
 
-1.2 Incorporar de forma autónoma, y según sus preferencias personales, los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural y relajación e higiene durante la práctica de actividades motrices, reflexionando sobre su relación con posibles estudios posteriores o futuros desempeños profesionales.
+**1.2** Incorporar de forma autónoma, y según sus preferencias personales, los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural y relajación e higiene durante la práctica de actividades motrices, reflexionando sobre su relación con posibles estudios posteriores o futuros desempeños profesionales.
 
-1.3 Conocer y aplicar de manera responsable y autónoma medidas específicas para la prevención de lesiones antes, durante y después de la actividad física, así como para la aplicación de primeros auxilios ante situaciones de emergencia o accidente, identificando las posibles transferencias que estos conocimientos tienen al ámbito profesional y ocupacional.
+**1.3** Conocer y aplicar de manera responsable y autónoma medidas específicas para la prevención de lesiones antes, durante y después de la actividad física, así como para la aplicación de primeros auxilios ante situaciones de emergencia o accidente, identificando las posibles transferencias que estos conocimientos tienen al ámbito profesional y ocupacional.
 
-1.4 Actuar de forma crítica, comprometida y responsable ante los estereotipos sociales asociados al ámbito de lo corporal y los comportamientos que pongan en riesgo la salud, aplicando con autonomía e independencia criterios científicos de validez, fiabilidad y objetividad a la información recibida.
+**1.4** Actuar de forma crítica, comprometida y responsable ante los estereotipos sociales asociados al ámbito de lo corporal y los comportamientos que pongan en riesgo la salud, aplicando con autonomía e independencia criterios científicos de validez, fiabilidad y objetividad a la información recibida.
 
-1.5 Emplear de manera autónoma aplicaciones y dispositivos digitales relacionados con la gestión de la actividad física, respetando la privacidad y las medidas básicas de seguridad vinculadas a la difusión pública de datos personales.
+**1.5** Emplear de manera autónoma aplicaciones y dispositivos digitales relacionados con la gestión de la actividad física, respetando la privacidad y las medidas básicas de seguridad vinculadas a la difusión pública de datos personales.
 
 Competencia específica 2.
 
-2.1 Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, gestionando autónomamente cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso de forma eficiente, creativa y ajustada a los objetivos que se pretendan alcanzar.
+**2.1** Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, gestionando autónomamente cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso de forma eficiente, creativa y ajustada a los objetivos que se pretendan alcanzar.
 
-2.2 Solucionar de forma autónoma situaciones de oposición, colaboración o colaboración-oposición en contextos deportivos o recreativos con fluidez, precisión y control, aplicando de manera automática procesos de percepción, decisión y ejecución en contextos reales o simulados de actuación y adaptando las estrategias a las condiciones cambiantes que se producen en la práctica.
+**2.2** Solucionar de forma autónoma situaciones de oposición, colaboración o colaboración-oposición en contextos deportivos o recreativos con fluidez, precisión y control, aplicando de manera automática procesos de percepción, decisión y ejecución en contextos reales o simulados de actuación y adaptando las estrategias a las condiciones cambiantes que se producen en la práctica.
 
-2.3 Identificar, analizar y comprender los factores clave que condicionan la intervención de los componentes cualitativos y cuantitativos de la motricidad en la realización de gestos técnicos o situaciones motrices variadas, identificando errores comunes y proponiendo soluciones a los mismos.
+**2.3** Identificar, analizar y comprender los factores clave que condicionan la intervención de los componentes cualitativos y cuantitativos de la motricidad en la realización de gestos técnicos o situaciones motrices variadas, identificando errores comunes y proponiendo soluciones a los mismos.
 
 Competencia específica 3.
 
-3.1 Organizar y practicar diversas actividades motrices, valorando su potencial como posible salida profesional y analizando sus beneficios desde la perspectiva de la salud, el disfrute, la autosuperación y las posibilidades de interacción social, adoptando actitudes de interés, esfuerzo, liderazgo y empatía al asumir y desempeñar distintos roles relacionados con ellas.
+**3.1** Organizar y practicar diversas actividades motrices, valorando su potencial como posible salida profesional y analizando sus beneficios desde la perspectiva de la salud, el disfrute, la autosuperación y las posibilidades de interacción social, adoptando actitudes de interés, esfuerzo, liderazgo y empatía al asumir y desempeñar distintos roles relacionados con ellas.
 
-3.2 Cooperar o colaborar mostrando iniciativa durante el desarrollo de proyectos y producciones motrices, solventando de forma coordinada cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso.
+**3.2** Cooperar o colaborar mostrando iniciativa durante el desarrollo de proyectos y producciones motrices, solventando de forma coordinada cualquier imprevisto o situación que pueda ir surgiendo a lo largo del proceso.
 
-3.3 Establecer mecanismos de relación y entendimiento con el resto de participantes durante el desarrollo de diversas prácticas motrices con autonomía, haciendo uso efectivo de habilidades sociales de diálogo en la resolución de conflictos y respeto ante la diversidad, ya sea de género, afectivo-sexual, de origen nacional, étnico, socio-económica o de competencia motriz, y posicionándose activa, reflexiva y críticamente frente a los estereotipos, las actuaciones discriminatorias y la violencia, así como conocer las estrategias para la prevención, la detección precoz y el abordaje de las mismas.
+**3.3** Establecer mecanismos de relación y entendimiento con el resto de participantes durante el desarrollo de diversas prácticas motrices con autonomía, haciendo uso efectivo de habilidades sociales de diálogo en la resolución de conflictos y respeto ante la diversidad, ya sea de género, afectivo-sexual, de origen nacional, étnico, socio-económica o de competencia motriz, y posicionándose activa, reflexiva y críticamente frente a los estereotipos, las actuaciones discriminatorias y la violencia, así como conocer las estrategias para la prevención, la detección precoz y el abordaje de las mismas.
 
 Competencia específica 4.
 
-4.1 Comprender y contextualizar la influencia cultural y social de las manifestaciones motrices más relevantes en el panorama actual, analizando sus orígenes y su evolución hasta la actualidad y rechazando aquellos componentes que no se ajusten a los valores de una sociedad abierta, inclusiva, diversa e igualitaria.
+**4.1** Comprender y contextualizar la influencia cultural y social de las manifestaciones motrices más relevantes en el panorama actual, analizando sus orígenes y su evolución hasta la actualidad y rechazando aquellos componentes que no se ajusten a los valores de una sociedad abierta, inclusiva, diversa e igualitaria.
 
-4.2 Crear y representar composiciones corporales individuales o colectivas, con y sin base musical, aplicando con precisión, idoneidad y coordinación escénica las técnicas expresivas más apropiadas a cada composición para representarlas ante sus compañeros y compañeras u otros miembros de la comunidad.
+**4.2** Crear y representar composiciones corporales individuales o colectivas, con y sin base musical, aplicando con precisión, idoneidad y coordinación escénica las técnicas expresivas más apropiadas a cada composición para representarlas ante sus compañeros y compañeras u otros miembros de la comunidad.
 
 Competencia específica 5.
 
-5.1 Promover y participar en actividades físico-deportivas en entornos naturales terrestres o acuáticos, interactuando con el entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir, reduciendo al máximo su huella ecológica y desarrollando actuaciones dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen.
+**5.1** Promover y participar en actividades físico-deportivas en entornos naturales terrestres o acuáticos, interactuando con el entorno de manera sostenible, minimizando el impacto ambiental que estas puedan producir, reduciendo al máximo su huella ecológica y desarrollando actuaciones dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen.
 
-5.2 Practicar y organizar actividades físico-deportivas en el medio natural y urbano, asumiendo responsabilidades y aplicando normas de seguridad individuales y colectivas para prever y controlar los riesgos intrínsecos a la propia actividad derivados de la utilización de los equipamientos, el entorno o la propia actuación de los participantes.
+**5.2** Practicar y organizar actividades físico-deportivas en el medio natural y urbano, asumiendo responsabilidades y aplicando normas de seguridad individuales y colectivas para prever y controlar los riesgos intrínsecos a la propia actividad derivados de la utilización de los equipamientos, el entorno o la propia actuación de los participantes.
 
 Saberes básicos.
 
@@ -3822,45 +3824,45 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Comprender la importancia de la actividad empresarial y el emprendimiento dentro de la economía actual, reconociendo el poder de transformación que ejercen en la sociedad y reflexionando sobre el valor la innovación y la digitalización.
+**1.1** Comprender la importancia de la actividad empresarial y el emprendimiento dentro de la economía actual, reconociendo el poder de transformación que ejercen en la sociedad y reflexionando sobre el valor la innovación y la digitalización.
 
-1.2 Analizar el papel de la I+D+I en el desarrollo social y empresarial, identificando nuevas tendencias y tecnologías que tienen un alto impacto en la economía.
+**1.2** Analizar el papel de la I+D+I en el desarrollo social y empresarial, identificando nuevas tendencias y tecnologías que tienen un alto impacto en la economía.
 
 Competencia específica 2.
 
-2.1 Valorar la capacidad de adaptación ágil, responsable y sostenible de las empresas a los cambios del entorno y a las exigencias del mercado investigando el entorno económico y social y su influencia en la actividad empresarial.
+**2.1** Valorar la capacidad de adaptación ágil, responsable y sostenible de las empresas a los cambios del entorno y a las exigencias del mercado investigando el entorno económico y social y su influencia en la actividad empresarial.
 
-2.2 Conocer los distintos tipos de empresa, sus elementos y funciones, así como las formas jurídicas que adoptan, relacionando con cada una de ellas las responsabilidades legales de sus propietarios y gestores y las exigencias de capital.
+**2.2** Conocer los distintos tipos de empresa, sus elementos y funciones, así como las formas jurídicas que adoptan, relacionando con cada una de ellas las responsabilidades legales de sus propietarios y gestores y las exigencias de capital.
 
-2.3 Identificar y analizar las características del entorno en el que la empresa desarrolla su actividad, explicando, a partir de ellas, las distintas estrategias y decisiones adoptadas y las posibles implicaciones sociales y medioambientales de su actividad.
+**2.3** Identificar y analizar las características del entorno en el que la empresa desarrolla su actividad, explicando, a partir de ellas, las distintas estrategias y decisiones adoptadas y las posibles implicaciones sociales y medioambientales de su actividad.
 
 Competencia específica 3.
 
-3.1 Proponer un modelo de negocio o de gestión diferenciado que permita dar respuesta a las necesidades actuales, comparando distintos modelos y utilizando estrategias y herramientas de diseño creativo.
+**3.1** Proponer un modelo de negocio o de gestión diferenciado que permita dar respuesta a las necesidades actuales, comparando distintos modelos y utilizando estrategias y herramientas de diseño creativo.
 
-3.2 Analizar las características organizativas y funcionales de la empresa, analizando a partir de ellas, las decisiones de planificación, gestión y optimización de actividades, recursos y asociaciones clave del modelo de negocio.
+**3.2** Analizar las características organizativas y funcionales de la empresa, analizando a partir de ellas, las decisiones de planificación, gestión y optimización de actividades, recursos y asociaciones clave del modelo de negocio.
 
-3.3 Analizar y tomar decisiones sobre los procesos productivos desde la perspectiva de la eficiencia y la productividad, definiendo el soporte necesario para hacer realidad el modelo de negocio.
+**3.3** Analizar y tomar decisiones sobre los procesos productivos desde la perspectiva de la eficiencia y la productividad, definiendo el soporte necesario para hacer realidad el modelo de negocio.
 
-3.4 Analizar las características del mercado y explicar, de acuerdo con ellas, la propuesta de valor, canales, relaciones con clientes y fuentes de ingresos del modelo de negocio.
+**3.4** Analizar las características del mercado y explicar, de acuerdo con ellas, la propuesta de valor, canales, relaciones con clientes y fuentes de ingresos del modelo de negocio.
 
 Competencia específica 4.
 
-4.1 Gestionar eficazmente la información y facilitar el proceso de toma de decisiones a partir de la información obtenida tanto en el ámbito interno como externo de la empresa y aplicando estrategias y nuevas fórmulas comunicativas.
+**4.1** Gestionar eficazmente la información y facilitar el proceso de toma de decisiones a partir de la información obtenida tanto en el ámbito interno como externo de la empresa y aplicando estrategias y nuevas fórmulas comunicativas.
 
-4.2 Seleccionar estrategias de comunicación aplicadas al mundo empresarial, utilizando nuevas fórmulas comunicativas que faciliten la gestión eficaz de la información y la trasmisión de la misma a otros.
+**4.2** Seleccionar estrategias de comunicación aplicadas al mundo empresarial, utilizando nuevas fórmulas comunicativas que faciliten la gestión eficaz de la información y la trasmisión de la misma a otros.
 
-4.3 Exponer el proyecto de modelo de negocio llevado a cabo utilizando las herramientas necesarias que permitan despertar el interés y cautivar a los demás con la propuesta de valor presentada.
+**4.3** Exponer el proyecto de modelo de negocio llevado a cabo utilizando las herramientas necesarias que permitan despertar el interés y cautivar a los demás con la propuesta de valor presentada.
 
 Competencia específica 5.
 
-5.1 Validar la propuesta de modelo de negocio diseñado dentro de un contexto determinado, definiéndolo a partir de las tendencias clave del momento, la situación macroeconómica, el mercado y la competencia, comprendiendo todo el proceso llevado a cabo y aplicando técnicas de estudio previsional y herramientas de análisis empresarial.
+**5.1** Validar la propuesta de modelo de negocio diseñado dentro de un contexto determinado, definiéndolo a partir de las tendencias clave del momento, la situación macroeconómica, el mercado y la competencia, comprendiendo todo el proceso llevado a cabo y aplicando técnicas de estudio previsional y herramientas de análisis empresarial.
 
-5.2 Determinar previsionalmente la estructura de ingresos y costes, calculando su beneficio y umbral de rentabilidad, a partir del modelo de negocio planteado.
+**5.2** Determinar previsionalmente la estructura de ingresos y costes, calculando su beneficio y umbral de rentabilidad, a partir del modelo de negocio planteado.
 
-5.3 Elaborar un plan de negocio básico sobre un escenario simulado concreto, justificando las decisiones tomadas.
+**5.3** Elaborar un plan de negocio básico sobre un escenario simulado concreto, justificando las decisiones tomadas.
 
-5.4 Analizar y explicar la situación económico-financiera, a partir de la información recogida tanto en el balance como en la cuenta de pérdidas y ganancias e indicando las posibles soluciones a los desequilibrios encontrados.
+**5.4** Analizar y explicar la situación económico-financiera, a partir de la información recogida tanto en el balance como en la cuenta de pérdidas y ganancias e indicando las posibles soluciones a los desequilibrios encontrados.
 
 Saberes básicos.
 
@@ -3998,49 +4000,49 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Reconocer la radicalidad y trascendencia de los problemas filosóficos mediante su reconocimiento, análisis y reformulación en textos y otros medios de expresión tanto filosóficos como literarios, históricos, científicos, artísticos o relativos a cualquier otro ámbito cultural.
+**1.1** Reconocer la radicalidad y trascendencia de los problemas filosóficos mediante su reconocimiento, análisis y reformulación en textos y otros medios de expresión tanto filosóficos como literarios, históricos, científicos, artísticos o relativos a cualquier otro ámbito cultural.
 
 Competencia específica 2.
 
-2.1 Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como por medios más tradicionales.
+**2.1** Demostrar un conocimiento práctico de los procedimientos elementales de la investigación filosófica a través de tareas como la identificación de fuentes fiables, la búsqueda eficiente y segura de información y la correcta organización, análisis, interpretación, evaluación, producción y comunicación de esta, tanto digitalmente como por medios más tradicionales.
 
-2.2 Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica mediante el diseño, la elaboración y la comunicación pública de productos originales tales como trabajos de investigación, disertaciones o comentarios de texto.
+**2.2** Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica mediante el diseño, la elaboración y la comunicación pública de productos originales tales como trabajos de investigación, disertaciones o comentarios de texto.
 
 Competencia específica 3.
 
-3.1 Producir y evaluar discursos argumentativos, orales y escritos, acerca de cuestiones y problemas filosóficos, demostrando un uso correcto de normas y pautas lógicas, retóricas y argumentativas.
+**3.1** Producir y evaluar discursos argumentativos, orales y escritos, acerca de cuestiones y problemas filosóficos, demostrando un uso correcto de normas y pautas lógicas, retóricas y argumentativas.
 
-3.2 Detectar y evitar modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis, explicando la naturaleza o mecanismo de dichos sesgos y falacias.
+**3.2** Detectar y evitar modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis, explicando la naturaleza o mecanismo de dichos sesgos y falacias.
 
-3.3 Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad y el rechazo de toda actitud discriminatoria o arbitraria, aplicando dichos principios a la práctica argumentativa y al diálogo con los demás.
+**3.3** Reconocer la importancia de la cooperación, el compromiso con la verdad, el respeto a la pluralidad y el rechazo de toda actitud discriminatoria o arbitraria, aplicando dichos principios a la práctica argumentativa y al diálogo con los demás.
 
 Competencia específica 4.
 
-4.1 Promover el contraste e intercambio de ideas y la práctica de una ciudadanía activa y democrática a través de la participación en actividades grupales y el ejercicio del diálogo racional, respetuoso, abierto, constructivo y comprometido con la búsqueda de la verdad, acerca de cuestiones y problemas filosóficamente relevantes.
+**4.1** Promover el contraste e intercambio de ideas y la práctica de una ciudadanía activa y democrática a través de la participación en actividades grupales y el ejercicio del diálogo racional, respetuoso, abierto, constructivo y comprometido con la búsqueda de la verdad, acerca de cuestiones y problemas filosóficamente relevantes.
 
 Competencia específica 5.
 
-5.1 Generar una concepción compleja y no dogmática de los problemas filosóficos mediante el análisis crítico de tesis filosóficas distintas y opuestas en torno a los mismos.
+**5.1** Generar una concepción compleja y no dogmática de los problemas filosóficos mediante el análisis crítico de tesis filosóficas distintas y opuestas en torno a los mismos.
 
-5.2 Comprender y exponer distintas tesis y teorías filosóficas como momentos de un proceso dinámico y siempre abierto de reflexión y diálogo, a través del análisis comparativo de los argumentos, principios, metodologías y enfoques de dichas tesis y teorías.
+**5.2** Comprender y exponer distintas tesis y teorías filosóficas como momentos de un proceso dinámico y siempre abierto de reflexión y diálogo, a través del análisis comparativo de los argumentos, principios, metodologías y enfoques de dichas tesis y teorías.
 
 Competencia específica 6.
 
-6.1 Tomar consciencia de la riqueza e influencia del pensamiento filosófico identificando y analizando las principales ideas y teorías filosóficas en textos o documentos pertenecientes a ámbitos culturales diversos, así como poniéndolas en relación con experiencias, acciones o acontecimientos comunes y de actualidad.
+**6.1** Tomar consciencia de la riqueza e influencia del pensamiento filosófico identificando y analizando las principales ideas y teorías filosóficas en textos o documentos pertenecientes a ámbitos culturales diversos, así como poniéndolas en relación con experiencias, acciones o acontecimientos comunes y de actualidad.
 
-6.2 Adquirir y demostrar un conocimiento significativo de las ideas y teorías filosóficas de algunos de los más importantes pensadores y pensadoras de la historia, mediante su aplicación y el análisis crítico en el contexto de la práctica individual o colectiva de la indagación filosófica.
+**6.2** Adquirir y demostrar un conocimiento significativo de las ideas y teorías filosóficas de algunos de los más importantes pensadores y pensadoras de la historia, mediante su aplicación y el análisis crítico en el contexto de la práctica individual o colectiva de la indagación filosófica.
 
 Competencia específica 7.
 
-7.1 Afrontar cuestiones y problemas complejos de carácter fundamental y de actualidad de modo interdisciplinar, sistemático y creativo, utilizando conceptos, ideas y procedimientos provenientes de distintos campos del saber y orientándolos y articulándolos críticamente desde una perspectiva filosófica.
+**7.1** Afrontar cuestiones y problemas complejos de carácter fundamental y de actualidad de modo interdisciplinar, sistemático y creativo, utilizando conceptos, ideas y procedimientos provenientes de distintos campos del saber y orientándolos y articulándolos críticamente desde una perspectiva filosófica.
 
 Competencia específica 8.
 
-8.1 Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en disputa y elaborando, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto.
+**8.1** Desarrollar el propio juicio y la autonomía moral mediante el análisis filosófico de problemas éticos y políticos fundamentales y de actualidad, considerando las distintas posiciones en disputa y elaborando, argumentando, exponiendo y sometiendo al diálogo con los demás las propias tesis al respecto.
 
 Competencia específica 9.
 
-9.1 Generar un adecuado equilibrio entre el aspecto racional y el emotivo en la consideración de los problemas filosóficos, especialmente los referidos al ámbito de la estética, a través de la reflexión expresa en torno al arte y a otras actividades o experiencias con valor estético y el análisis del papel de las imágenes y el lenguaje audiovisual en la cultura contemporánea.
+**9.1** Generar un adecuado equilibrio entre el aspecto racional y el emotivo en la consideración de los problemas filosóficos, especialmente los referidos al ámbito de la estética, a través de la reflexión expresa en torno al arte y a otras actividades o experiencias con valor estético y el análisis del papel de las imágenes y el lenguaje audiovisual en la cultura contemporánea.
 
 Saberes básicos.
 
@@ -4196,45 +4198,45 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Reconocer la relevancia de la física en el desarrollo de la ciencia, la tecnología, la economía, la sociedad y la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos relativos a esos ámbitos.
+**1.1** Reconocer la relevancia de la física en el desarrollo de la ciencia, la tecnología, la economía, la sociedad y la sostenibilidad ambiental, empleando adecuadamente los fundamentos científicos relativos a esos ámbitos.
 
-1.2 Resolver problemas de manera experimental y analítica, utilizando principios, leyes y teorías de la física.
+**1.2** Resolver problemas de manera experimental y analítica, utilizando principios, leyes y teorías de la física.
 
 Competencia específica 2.
 
-2.1 Analizar y comprender la evolución de los sistemas naturales, utilizando modelos, leyes y teorías de la física.
+**2.1** Analizar y comprender la evolución de los sistemas naturales, utilizando modelos, leyes y teorías de la física.
 
-2.2 Inferir soluciones a problemas generales a partir del análisis de situaciones particulares y las variables de que dependen.
+**2.2** Inferir soluciones a problemas generales a partir del análisis de situaciones particulares y las variables de que dependen.
 
-2.3 Conocer aplicaciones prácticas y productos útiles para la sociedad en el campo tecnológico, industrial y biosanitario, analizándolos en base a los modelos, las leyes y las teorías de la física.
+**2.3** Conocer aplicaciones prácticas y productos útiles para la sociedad en el campo tecnológico, industrial y biosanitario, analizándolos en base a los modelos, las leyes y las teorías de la física.
 
 Competencia específica 3.
 
-3.1 Aplicar los principios, leyes y teorías científicas en el análisis crítico de procesos físicos del entorno, como los observados y los publicados en distintos medios de comunicación, analizando, comprendiendo y explicando las causas que los producen.
+**3.1** Aplicar los principios, leyes y teorías científicas en el análisis crítico de procesos físicos del entorno, como los observados y los publicados en distintos medios de comunicación, analizando, comprendiendo y explicando las causas que los producen.
 
-3.2 Utilizar de manera rigurosa las unidades de las variables físicas en diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, así como la elaboración e interpretación adecuada de gráficas que relacionan variables físicas, posibilitando una comunicación efectiva con toda la comunidad científica.
+**3.2** Utilizar de manera rigurosa las unidades de las variables físicas en diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, así como la elaboración e interpretación adecuada de gráficas que relacionan variables físicas, posibilitando una comunicación efectiva con toda la comunidad científica.
 
-3.3 Expresar de forma adecuada los resultados, argumentando las soluciones obtenidas, en la resolución de los ejercicios y problemas que se plantean, bien sea a través de situaciones reales o ideales.
+**3.3** Expresar de forma adecuada los resultados, argumentando las soluciones obtenidas, en la resolución de los ejercicios y problemas que se plantean, bien sea a través de situaciones reales o ideales.
 
 Competencia específica 4.
 
-4.1 Consultar, elaborar e intercambiar materiales científicos y divulgativos en distintos formatos con otros miembros del entorno de aprendizaje, utilizando de forma autónoma y eficiente plataformas digitales.
+**4.1** Consultar, elaborar e intercambiar materiales científicos y divulgativos en distintos formatos con otros miembros del entorno de aprendizaje, utilizando de forma autónoma y eficiente plataformas digitales.
 
-4.2 Usar de forma crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo.
+**4.2** Usar de forma crítica, ética y responsable medios de comunicación digitales y tradicionales como modo de enriquecer el aprendizaje y el trabajo individual y colectivo.
 
 Competencia específica 5.
 
-5.1 Obtener relaciones entre variables físicas, midiendo y tratando los datos experimentales, determinando los errores y utilizando sistemas de representación gráfica.
+**5.1** Obtener relaciones entre variables físicas, midiendo y tratando los datos experimentales, determinando los errores y utilizando sistemas de representación gráfica.
 
-5.2 Reproducir en laboratorios, reales o virtuales, determinados procesos físicos modificando las variables que los condicionan, considerando los principios, leyes o teorías implicados, generando el correspondiente informe con formato adecuado e incluyendo argumentaciones, conclusiones, tablas de datos, gráficas y referencias bibliográficas.
+**5.2** Reproducir en laboratorios, reales o virtuales, determinados procesos físicos modificando las variables que los condicionan, considerando los principios, leyes o teorías implicados, generando el correspondiente informe con formato adecuado e incluyendo argumentaciones, conclusiones, tablas de datos, gráficas y referencias bibliográficas.
 
-5.3 Valorar la física, debatiendo de forma fundamentada sobre sus avances y la implicación en la sociedad, desde el punto de vista de la ética y de la sostenibilidad.
+**5.3** Valorar la física, debatiendo de forma fundamentada sobre sus avances y la implicación en la sociedad, desde el punto de vista de la ética y de la sostenibilidad.
 
 Competencia específica 6.
 
-6.1 Identificar los principales avances científicos relacionados con la física que han contribuido a la formulación de las leyes y teorías aceptadas actualmente en el conjunto de las disciplinas científicas, como las fases para el entendimiento de las metodologías de la ciencia, su evolución constante y su universalidad.
+**6.1** Identificar los principales avances científicos relacionados con la física que han contribuido a la formulación de las leyes y teorías aceptadas actualmente en el conjunto de las disciplinas científicas, como las fases para el entendimiento de las metodologías de la ciencia, su evolución constante y su universalidad.
 
-6.2 Reconocer el carácter multidisciplinar de la ciencia y las contribuciones de unas disciplinas en otras, estableciendo relaciones entre la física y la química, la biología, la geología o las matemáticas.
+**6.2** Reconocer el carácter multidisciplinar de la ciencia y las contribuciones de unas disciplinas en otras, estableciendo relaciones entre la física y la química, la biología, la geología o las matemáticas.
 
 Saberes básicos.
 
@@ -4364,49 +4366,49 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Aplicar las leyes y teorías científicas en el análisis de fenómenos fisicoquímicos cotidianos, comprendiendo las causas que los producen y explicándolas utilizando diversidad de soportes y medios de comunicación.
+**1.1** Aplicar las leyes y teorías científicas en el análisis de fenómenos fisicoquímicos cotidianos, comprendiendo las causas que los producen y explicándolas utilizando diversidad de soportes y medios de comunicación.
 
-1.2 Resolver problemas fisicoquímicos planteados a partir de situaciones cotidianas, aplicando las leyes y teorías científicas para encontrar y argumentar las soluciones, expresando adecuadamente los resultados.
+**1.2** Resolver problemas fisicoquímicos planteados a partir de situaciones cotidianas, aplicando las leyes y teorías científicas para encontrar y argumentar las soluciones, expresando adecuadamente los resultados.
 
-1.3 Identificar situaciones problemáticas en el entorno cotidiano, emprender iniciativas y buscar soluciones sostenibles desde la física y la química, analizando críticamente el impacto producido en la sociedad y el medioambiente.
+**1.3** Identificar situaciones problemáticas en el entorno cotidiano, emprender iniciativas y buscar soluciones sostenibles desde la física y la química, analizando críticamente el impacto producido en la sociedad y el medioambiente.
 
 Competencia específica 2.
 
-2.1 Formular y verificar hipótesis como respuestas a diferentes problemas y observaciones, manejando con soltura el trabajo experimental, la indagación, la búsqueda de evidencias y el razonamiento lógico-matemático.
+**2.1** Formular y verificar hipótesis como respuestas a diferentes problemas y observaciones, manejando con soltura el trabajo experimental, la indagación, la búsqueda de evidencias y el razonamiento lógico-matemático.
 
-2.2 Utilizar diferentes métodos para encontrar la respuesta a una sola cuestión u observación, cotejando los resultados obtenidos y asegurándose así de su coherencia y fiabilidad.
+**2.2** Utilizar diferentes métodos para encontrar la respuesta a una sola cuestión u observación, cotejando los resultados obtenidos y asegurándose así de su coherencia y fiabilidad.
 
-2.3 Integrar las leyes y teorías científicas conocidas en el desarrollo del procedimiento de la validación de las hipótesis formuladas, aplicando relaciones cualitativas y cuantitativas entre las diferentes variables, de manera que el proceso sea más fiable y coherente con el conocimiento científico adquirido.
+**2.3** Integrar las leyes y teorías científicas conocidas en el desarrollo del procedimiento de la validación de las hipótesis formuladas, aplicando relaciones cualitativas y cuantitativas entre las diferentes variables, de manera que el proceso sea más fiable y coherente con el conocimiento científico adquirido.
 
 Competencia específica 3.
 
-3.1 Utilizar y relacionar de manera rigurosa diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, haciendo posible una comunicación efectiva con toda la comunidad científica.
+**3.1** Utilizar y relacionar de manera rigurosa diferentes sistemas de unidades, empleando correctamente su notación y sus equivalencias, haciendo posible una comunicación efectiva con toda la comunidad científica.
 
-3.2 Nombrar y formular correctamente sustancias simples, iones y compuestos químicos inorgánicos y orgánicos utilizando las normas de la IUPAC, como parte de un lenguaje integrador y universal para toda la comunidad científica.
+**3.2** Nombrar y formular correctamente sustancias simples, iones y compuestos químicos inorgánicos y orgánicos utilizando las normas de la IUPAC, como parte de un lenguaje integrador y universal para toda la comunidad científica.
 
-3.3 Emplear diferentes formatos para interpretar y expresar información relativa a un proceso fisicoquímico concreto, relacionando entre sí la información que cada uno de ellos contiene y extrayendo de él lo más relevante durante la resolución de un problema.
+**3.3** Emplear diferentes formatos para interpretar y expresar información relativa a un proceso fisicoquímico concreto, relacionando entre sí la información que cada uno de ellos contiene y extrayendo de él lo más relevante durante la resolución de un problema.
 
-3.4 Poner en práctica los conocimientos adquiridos en la experimentación científica en laboratorio o campo, incluyendo el conocimiento de sus materiales y su normativa básica de uso, así como de las normas de seguridad propias de estos espacios, y comprendiendo la importancia en el progreso científico y emprendedor de que la experimentación sea segura, sin comprometer la integridad física propia ni colectiva.
+**3.4** Poner en práctica los conocimientos adquiridos en la experimentación científica en laboratorio o campo, incluyendo el conocimiento de sus materiales y su normativa básica de uso, así como de las normas de seguridad propias de estos espacios, y comprendiendo la importancia en el progreso científico y emprendedor de que la experimentación sea segura, sin comprometer la integridad física propia ni colectiva.
 
 Competencia específica 4.
 
-4.1 Interactuar con otros miembros de la comunidad educativa a través de diferentes entornos de aprendizaje, reales y virtuales, utilizando de forma autónoma y eficiente recursos variados, tradicionales y digitales, con rigor y respeto y analizando críticamente las aportaciones de todo el mundo.
+**4.1** Interactuar con otros miembros de la comunidad educativa a través de diferentes entornos de aprendizaje, reales y virtuales, utilizando de forma autónoma y eficiente recursos variados, tradicionales y digitales, con rigor y respeto y analizando críticamente las aportaciones de todo el mundo.
 
-4.2 Trabajar de forma autónoma y versátil, individualmente y en equipo, en la consulta de información y la creación de contenidos, utilizando con criterio las fuentes y herramientas más fiables, y desechando las menos adecuadas, mejorando así el aprendizaje propio y colectivo.
+**4.2** Trabajar de forma autónoma y versátil, individualmente y en equipo, en la consulta de información y la creación de contenidos, utilizando con criterio las fuentes y herramientas más fiables, y desechando las menos adecuadas, mejorando así el aprendizaje propio y colectivo.
 
 Competencia específica 5.
 
-5.1 Participar de manera activa en la construcción del conocimiento científico, evidenciando la presencia de la interacción, la cooperación y la evaluación entre iguales, mejorando el cuestionamiento, la reflexión y el debate al alcanzar el consenso en la resolución de un problema o situación de aprendizaje.
+**5.1** Participar de manera activa en la construcción del conocimiento científico, evidenciando la presencia de la interacción, la cooperación y la evaluación entre iguales, mejorando el cuestionamiento, la reflexión y el debate al alcanzar el consenso en la resolución de un problema o situación de aprendizaje.
 
-5.2 Construir y producir conocimientos a través del trabajo colectivo, además de explorar alternativas para superar la asimilación de conocimientos ya elaborados y encontrando momentos para el análisis, la discusión y la síntesis, obteniendo como resultado la elaboración de productos representados en informes, pósteres, presentaciones, artículos, etc.
+**5.2** Construir y producir conocimientos a través del trabajo colectivo, además de explorar alternativas para superar la asimilación de conocimientos ya elaborados y encontrando momentos para el análisis, la discusión y la síntesis, obteniendo como resultado la elaboración de productos representados en informes, pósteres, presentaciones, artículos, etc.
 
-5.3 Debatir, de manera informada y argumentada, sobre las diferentes cuestiones medioambientales, sociales y éticas relacionadas con el desarrollo de las ciencias, alcanzando un consenso sobre las consecuencias de estos avances y proponiendo soluciones creativas en común a las cuestiones planteadas.
+**5.3** Debatir, de manera informada y argumentada, sobre las diferentes cuestiones medioambientales, sociales y éticas relacionadas con el desarrollo de las ciencias, alcanzando un consenso sobre las consecuencias de estos avances y proponiendo soluciones creativas en común a las cuestiones planteadas.
 
 Competencia específica 6.
 
-6.1 Identificar y argumentar científicamente las repercusiones de las acciones que el alumno o alumna emprende en su vida cotidiana, analizando cómo mejorarlas como forma de participar activamente en la construcción de una sociedad mejor.
+**6.1** Identificar y argumentar científicamente las repercusiones de las acciones que el alumno o alumna emprende en su vida cotidiana, analizando cómo mejorarlas como forma de participar activamente en la construcción de una sociedad mejor.
 
-6.2 Detectar las necesidades de la sociedad sobre las que aplicar los conocimientos científicos adecuados que ayuden a mejorarla, incidiendo especialmente en aspectos importantes como la resolución de los grandes retos ambientales, el desarrollo sostenible y la promoción de la salud.
+**6.2** Detectar las necesidades de la sociedad sobre las que aplicar los conocimientos científicos adecuados que ayuden a mejorarla, incidiendo especialmente en aspectos importantes como la resolución de los grandes retos ambientales, el desarrollo sostenible y la promoción de la salud.
 
 Saberes básicos.
 
@@ -4538,45 +4540,45 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Explicar de forma respetuosa el enriquecimiento que supone la diversidad en el arte, estudiando obras de épocas y culturas distintas a partir de la vinculación con su contexto y analizando el concepto de arte al que responden.
+**1.1** Explicar de forma respetuosa el enriquecimiento que supone la diversidad en el arte, estudiando obras de épocas y culturas distintas a partir de la vinculación con su contexto y analizando el concepto de arte al que responden.
 
-1.2 Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en periodos y culturas diferentes y analizando sus semejanzas y diferencias.
+**1.2** Argumentar la evolución de la concepción del arte en la historia, comparando con iniciativa sus significados en periodos y culturas diferentes y analizando sus semejanzas y diferencias.
 
 Competencia específica 2.
 
-2.1 Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas.
+**2.1** Distinguir las funciones del arte a lo largo de la historia, analizando sin prejuicios su evolución a partir del estudio de diversas producciones artísticas de distintos estilos y épocas.
 
-2.2 Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa.
+**2.2** Explicar las singularidades de diversas manifestaciones culturales y artísticas, relacionándolas con su función de forma abierta, crítica y respetuosa.
 
 Competencia específica 3.
 
-3.1 Identificar los elementos constituyentes de manifestaciones artísticas de diversos periodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente.
+**3.1** Identificar los elementos constituyentes de manifestaciones artísticas de diversos periodos y estilos, reconociendo las claves de sus lenguajes y justificando su relación con la época, artista o movimiento correspondiente.
 
-3.2 Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes.
+**3.2** Analizar formal, funcional y semánticamente, con criterio y sensibilidad, diferentes manifestaciones artísticas, haciendo uso de la terminología específica asociada a sus lenguajes.
 
 Competencia específica 4.
 
-4.1 Analizar producciones artísticas de diversos estilos y épocas y realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas.
+**4.1** Analizar producciones artísticas de diversos estilos y épocas y realizadas en distintos medios y soportes, relacionándolas con su contexto social, geográfico e histórico de creación y explicando las posibles relaciones con obras de otras épocas y culturas.
 
-4.2 Compartir las conclusiones de investigaciones sobre producciones artísticas de diversos estilos y épocas y las relaciones con su contexto, usando los medios analógicos y digitales más adecuados.
+**4.2** Compartir las conclusiones de investigaciones sobre producciones artísticas de diversos estilos y épocas y las relaciones con su contexto, usando los medios analógicos y digitales más adecuados.
 
 Competencia específica 5.
 
-5.1 Explicar las diferentes posibilidades expresivas del arte y su poder de transmisión de ideas, conceptos, sentimientos y emociones a partir de obras de artistas de distintas épocas y estilos, analizando las distintas interpretaciones que se han dado de ellas.
+**5.1** Explicar las diferentes posibilidades expresivas del arte y su poder de transmisión de ideas, conceptos, sentimientos y emociones a partir de obras de artistas de distintas épocas y estilos, analizando las distintas interpretaciones que se han dado de ellas.
 
-5.2 Analizar producciones artísticas de diversos periodos y estilos, vinculándolas creativamente con experiencias vitales propias y ajenas y valorándolas como herramientas potenciadoras de la creatividad, la imaginación, la autoestima y el crecimiento personal.
+**5.2** Analizar producciones artísticas de diversos periodos y estilos, vinculándolas creativamente con experiencias vitales propias y ajenas y valorándolas como herramientas potenciadoras de la creatividad, la imaginación, la autoestima y el crecimiento personal.
 
 Competencia específica 6.
 
-6.1 Interpretar creaciones artísticas de distintos periodos y estilos, analizando su forma, su significado y su contexto de creación e incorporando las ideas, conocimientos, emociones y sentimientos propios.
+**6.1** Interpretar creaciones artísticas de distintos periodos y estilos, analizando su forma, su significado y su contexto de creación e incorporando las ideas, conocimientos, emociones y sentimientos propios.
 
-6.2 Comparar las interpretaciones que se han dado de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal.
+**6.2** Comparar las interpretaciones que se han dado de diversas manifestaciones artísticas, analizando los diferentes puntos de vista y proponiendo una valoración personal.
 
 Competencia específica 7.
 
-7.1 Plantear proyectos artísticos, individuales o colectivos, seleccionando los estilos, técnicas y lenguajes más adecuados de diversas disciplinas, y organizando y distribuyendo las tareas de manera razonada.
+**7.1** Plantear proyectos artísticos, individuales o colectivos, seleccionando los estilos, técnicas y lenguajes más adecuados de diversas disciplinas, y organizando y distribuyendo las tareas de manera razonada.
 
-7.2 Llevar a cabo con creatividad proyectos artísticos individuales o colectivos, materializando las ideas y objetivos planteados, aplicando los aprendizajes adquiridos, asumiendo los roles asignados y respetando, en su caso, las aportaciones de los demás.
+**7.2** Llevar a cabo con creatividad proyectos artísticos individuales o colectivos, materializando las ideas y objetivos planteados, aplicando los aprendizajes adquiridos, asumiendo los roles asignados y respetando, en su caso, las aportaciones de los demás.
 
 Saberes básicos.
 
@@ -4744,41 +4746,41 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Analizar críticamente conceptos y procesos, relacionados con los saberes de la materia, seleccionando e interpretando información en diversos formatos como mapas (topográficos, hidrográficos, geológicos, de vegetación, etc.), cortes, modelos, diagramas de flujo u otros.
+**1.1** Analizar críticamente conceptos y procesos, relacionados con los saberes de la materia, seleccionando e interpretando información en diversos formatos como mapas (topográficos, hidrográficos, geológicos, de vegetación, etc.), cortes, modelos, diagramas de flujo u otros.
 
-1.2 Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa y utilizando el vocabulario y los formatos adecuados como mapas (topográficos, hidrográficos, geológicos, de vegetación, etc.), cortes, modelos, diagramas de flujo, u otros y respondiendo con precisión a las cuestiones que puedan surgir durante la exposición.
+**1.2** Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa y utilizando el vocabulario y los formatos adecuados como mapas (topográficos, hidrográficos, geológicos, de vegetación, etc.), cortes, modelos, diagramas de flujo, u otros y respondiendo con precisión a las cuestiones que puedan surgir durante la exposición.
 
-1.3 Realizar discusiones científicas sobre aspectos relacionados con los saberes de la materia considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con actitud receptiva y respetuosa ante la opinión de los demás.
+**1.3** Realizar discusiones científicas sobre aspectos relacionados con los saberes de la materia considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con actitud receptiva y respetuosa ante la opinión de los demás.
 
 Competencia específica 2.
 
-2.1 Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
+**2.1** Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.
 
-2.2 Contrastar y justificar la veracidad de información relacionada con los saberes de la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
+**2.2** Contrastar y justificar la veracidad de información relacionada con los saberes de la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica hacia informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas, bulos, etc.
 
 Competencia específica 3.
 
-3.1 Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de Geología y Ciencias Ambientales de acuerdo a la interpretación de los resultados obtenidos.
+**3.1** Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de Geología y Ciencias Ambientales de acuerdo a la interpretación de los resultados obtenidos.
 
-3.2 Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
+**3.2** Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos.
 
 Competencia específica 4.
 
-4.1 Explicar fenómenos relacionados con los saberes de la materia de Geología y Ciencias Ambientales a través del planteamiento y resolución de problemas buscando y utilizando las estrategias y recursos adecuados.
+**4.1** Explicar fenómenos relacionados con los saberes de la materia de Geología y Ciencias Ambientales a través del planteamiento y resolución de problemas buscando y utilizando las estrategias y recursos adecuados.
 
-4.2 Analizar críticamente la solución a un problema relacionado con los saberes de la materia de Geología y Ciencias Ambientales y reformular los procedimientos utilizados o conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
+**4.2** Analizar críticamente la solución a un problema relacionado con los saberes de la materia de Geología y Ciencias Ambientales y reformular los procedimientos utilizados o conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.
 
 Competencia específica 5.
 
-5.1 Promover y adoptar hábitos sostenibles a partir del análisis de los diferentes tipos de recursos geológicos y de la biosfera y sus posibles usos.
+**5.1** Promover y adoptar hábitos sostenibles a partir del análisis de los diferentes tipos de recursos geológicos y de la biosfera y sus posibles usos.
 
-5.2 Relacionar el impacto de la explotación de determinados recursos con el deterioro medioambiental, argumentando sobre la importancia de su consumo y aprovechamiento responsables.
+**5.2** Relacionar el impacto de la explotación de determinados recursos con el deterioro medioambiental, argumentando sobre la importancia de su consumo y aprovechamiento responsables.
 
 Competencia específica 6.
 
-6.1 Deducir y explicar la historia geológica de un área determinada, identificando y analizando sus elementos geológicos a partir de información en diferentes formatos (fotografías, cortes, mapas geológicos, etc.).
+**6.1** Deducir y explicar la historia geológica de un área determinada, identificando y analizando sus elementos geológicos a partir de información en diferentes formatos (fotografías, cortes, mapas geológicos, etc.).
 
-6.2 Realizar predicciones sobre fenómenos geológicos y riesgos naturales en un área determinada, analizando la influencia de diferentes factores sobre ellos (actividades humanas, climatología, relieve, vegetación, localización, procesos geológicos internos, etc.) y proponer acciones para prevenir o minimizar sus posibles efectos negativos.
+**6.2** Realizar predicciones sobre fenómenos geológicos y riesgos naturales en un área determinada, analizando la influencia de diferentes factores sobre ellos (actividades humanas, climatología, relieve, vegetación, localización, procesos geológicos internos, etc.) y proponer acciones para prevenir o minimizar sus posibles efectos negativos.
 
 Saberes básicos.
 
@@ -4956,43 +4958,43 @@ Criterios de evaluación
 
 Competencia específica 1.
 
-1.1 Cuestionar modos de vida insostenibles mediante el análisis geográfico de todo tipo de fuentes de información que trate de los retos ecosociales presentes y futuros, y desde argumentos fundados en la relevancia y necesidad de las acciones para afrontarlos.
+**1.1** Cuestionar modos de vida insostenibles mediante el análisis geográfico de todo tipo de fuentes de información que trate de los retos ecosociales presentes y futuros, y desde argumentos fundados en la relevancia y necesidad de las acciones para afrontarlos.
 
-1.2 Debatir sobre los retos naturales y sociales de España de forma comprometida y respetuosa con opiniones ajenas, utilizando estrategias orales con apoyo digital de gráficos, imágenes y cartografía, y manejando datos rigurosos.
+**1.2** Debatir sobre los retos naturales y sociales de España de forma comprometida y respetuosa con opiniones ajenas, utilizando estrategias orales con apoyo digital de gráficos, imágenes y cartografía, y manejando datos rigurosos.
 
 Competencia específica 2.
 
-2.1 Valorar todo impacto de la acción antrópica desde el principio de sostenibilidad, reconociendo la complejidad sistémica del medio natural y de las propias actividades humanas.
+**2.1** Valorar todo impacto de la acción antrópica desde el principio de sostenibilidad, reconociendo la complejidad sistémica del medio natural y de las propias actividades humanas.
 
-2.2 Extraer información de paisajes naturales y humanizados, analizando fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia e interrelaciones de factores físicos y humanos.
+**2.2** Extraer información de paisajes naturales y humanizados, analizando fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia e interrelaciones de factores físicos y humanos.
 
 Competencia específica 3.
 
-3.1 Reflexionar sobre la percepción del espacio geográfico, localizando y reconociendo en mapas regiones geomorfológicas y bioclimáticas con características comunes y específicas, destacando su aportación a la sostenibilidad del medio.
+**3.1** Reflexionar sobre la percepción del espacio geográfico, localizando y reconociendo en mapas regiones geomorfológicas y bioclimáticas con características comunes y específicas, destacando su aportación a la sostenibilidad del medio.
 
-3.2 Identificar la diversidad y singularidad de paisajes naturales, comparando su distribución, características y contrastes a escala autonómica, de España y de Europa, así como formas humanas de relación con esos entornos.
+**3.2** Identificar la diversidad y singularidad de paisajes naturales, comparando su distribución, características y contrastes a escala autonómica, de España y de Europa, así como formas humanas de relación con esos entornos.
 
 Competencia específica 4.
 
-4.1 Emplear la escala apropiada para localizar o representar, con apoyo de las TIG, cualquier fenómeno físico o humano, justificando los métodos y datos elegidos, y la delimitación de regiones o categorías de análisis, así como de áreas de transición.
+**4.1** Emplear la escala apropiada para localizar o representar, con apoyo de las TIG, cualquier fenómeno físico o humano, justificando los métodos y datos elegidos, y la delimitación de regiones o categorías de análisis, así como de áreas de transición.
 
-4.2 Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG.
+**4.2** Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG.
 
 Competencia específica 5.
 
-5.1 Valorar la dignidad humana analizando críticamente las consecuencias de nuestras acciones sobre las condiciones laborales y de vida, tanto en España como en otros países, investigando el sistema de relaciones económicas globalizadas y los sectores económicos, y planteando soluciones razonables.
+**5.1** Valorar la dignidad humana analizando críticamente las consecuencias de nuestras acciones sobre las condiciones laborales y de vida, tanto en España como en otros países, investigando el sistema de relaciones económicas globalizadas y los sectores económicos, y planteando soluciones razonables.
 
-5.2 Expresar la necesidad de preservar el medio ambiente, indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora.
+**5.2** Expresar la necesidad de preservar el medio ambiente, indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora.
 
 Competencia específica 6.
 
-6.1 Justificar la necesidad de los mecanismos de compensación de las desigualdades individuales y territoriales, identificando los procesos pasados y recientes, así como sus causas y consecuencias sociolaborales y demográficas.
+**6.1** Justificar la necesidad de los mecanismos de compensación de las desigualdades individuales y territoriales, identificando los procesos pasados y recientes, así como sus causas y consecuencias sociolaborales y demográficas.
 
-6.2 Argumentar sobre el origen de los desequilibrios socioeconómicos de España y Europa, analizando los factores de localización de las actividades económicas y de la población en una sociedad terciarizada.
+**6.2** Argumentar sobre el origen de los desequilibrios socioeconómicos de España y Europa, analizando los factores de localización de las actividades económicas y de la población en una sociedad terciarizada.
 
 Competencia específica 7.
 
-7.1 Reelaborar saberes sobre fenómenos naturales y humanos relevantes a diferentes escalas y en nuevos contextos, aplicando el pensamiento geográfico, movilizando y revisando críticamente conocimientos previos y nuevos, diagnosticando problemas y oportunidades, y razonando sobre posibles previsiones y soluciones.
+**7.1** Reelaborar saberes sobre fenómenos naturales y humanos relevantes a diferentes escalas y en nuevos contextos, aplicando el pensamiento geográfico, movilizando y revisando críticamente conocimientos previos y nuevos, diagnosticando problemas y oportunidades, y razonando sobre posibles previsiones y soluciones.
 
 Saberes básicos.
 
@@ -5102,49 +5104,49 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 Competencia específica 1.
 
-1.1 Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
+**1.1** Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
 
-1.2 Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
+**1.2** Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
 
-1.3 Revisar y subsanar de manera progresivamente autónoma las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
+**1.3** Revisar y subsanar de manera progresivamente autónoma las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
 
-1.4 Realizar la lectura directa de textos griegos sencillos identificando las unidades lingüísticas básicas de la lengua griega, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del griego.
+**1.4** Realizar la lectura directa de textos griegos sencillos identificando las unidades lingüísticas básicas de la lengua griega, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del griego.
 
-1.5 Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
+**1.5** Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
 Competencia específica 2.
 
-2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
+**2.1** Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
-2.2 Explicar, de manera guiada, la relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
+**2.2** Explicar, de manera guiada, la relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
 
-2.3 Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
+**2.3** Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
 Competencia específica 3.
 
-3.1 Interpretar y comentar, de forma guiada, textos y fragmentos literarios griegos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
+**3.1** Interpretar y comentar, de forma guiada, textos y fragmentos literarios griegos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
-3.2 Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios griegos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual guiado.
+**3.2** Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios griegos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual guiado.
 
-3.3 Identificar y definir, de manera guiada, palabras griegas que designan conceptos fundamentales para el estudio y comprensión de la civilización helena y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como ἀρχή, δῆμος, μῦθος, λόγος, en textos de diferentes formatos.
+**3.3** Identificar y definir, de manera guiada, palabras griegas que designan conceptos fundamentales para el estudio y comprensión de la civilización helena y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como ἀρχή, δῆμος, μῦθος, λόγος, en textos de diferentes formatos.
 
-3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
+**3.4** Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
 
 Competencia específica 4.
 
-4.1 Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
+**4.1** Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
-4.2 Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
+**4.2** Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
 
-4.3 Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
+**4.3** Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
 Competencia específica 5.
 
-5.1 Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
+**5.1** Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
 
-5.2 Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad.
+**5.2** Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad.
 
-5.3 Explorar el legado griego en el entorno del alumnado a partir de criterios dados, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando los resultados a través de diferentes soportes.
+**5.3** Explorar el legado griego en el entorno del alumnado a partir de criterios dados, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando los resultados a través de diferentes soportes.
 
 Saberes básicos.
 
@@ -5270,49 +5272,49 @@ V. Legado y patrimonio.
 
 Competencia específica 1.
 
-1.1 Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
+**1.1** Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
 
-1.2 Seleccionar el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, léxicos de frecuencia, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
+**1.2** Seleccionar el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, léxicos de frecuencia, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
 
-1.3 Revisar y subsanar las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
+**1.3** Revisar y subsanar las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
 
-1.4 Realizar la lectura directa de textos griegos de dificultad adecuada identificando las unidades lingüísticas más frecuentes de la lengua griega, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos del griego.
+**1.4** Realizar la lectura directa de textos griegos de dificultad adecuada identificando las unidades lingüísticas más frecuentes de la lengua griega, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos del griego.
 
-1.5 Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
+**1.5** Registrar los progresos y dificultades de aprendizaje de la lengua griega, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
 Competencia específica 2.
 
-2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
+**2.1** Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de étimos y formantes griegos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
-2.2 Explicarla relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando con iniciativa estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
+**2.2** Explicarla relación del griego con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando con iniciativa estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
 
-2.3 Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal.
+**2.3** Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal.
 
 Competencia específica 3.
 
-3.1 Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
+**3.1** Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
-3.2 Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios griegos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual.
+**3.2** Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios griegos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual.
 
-3.3 Identificar y definir palabras griegas que designan conceptos fundamentales para el estudio y comprensión de la civilización helena y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como ἀρχή, δῆμος, μῦθος, λόγος, en textos de diferentes formatos.
+**3.3** Identificar y definir palabras griegas que designan conceptos fundamentales para el estudio y comprensión de la civilización helena y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como ἀρχή, δῆμος, μῦθος, λόγος, en textos de diferentes formatos.
 
-3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
+**3.4** Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura griegas como fuente de inspiración.
 
 Competencia específica 4.
 
-4.1 Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
+**4.1** Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad helena, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
-4.2 Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
+**4.2** Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado griego en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
 
-4.3 Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
+**4.3** Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización griega en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
 Competencia específica 5.
 
-5.1 Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
+**5.1** Identificar y explicar el legado material e inmaterial de la civilización griega como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
 
-5.2 Investigar el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad.
+**5.2** Investigar el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización griega, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de preservación y por aquellas actitudes cívicas que aseguran su sostenibilidad.
 
-5.3 Explorar el legado griego en el entorno del alumnado, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando sus resultados a través de diferentes soportes.
+**5.3** Explorar el legado griego en el entorno del alumnado, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando sus resultados a través de diferentes soportes.
 
 Saberes básicos.
 
@@ -5516,43 +5518,43 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, C
 
 Competencia específica 1.
 
-1.1 Valorar y respetar la diversidad de manifestaciones artísticas a partir de la investigación y el debate en torno a las diferentes concepciones del arte y el análisis de obras concretas sobre las que comprobar la pertinencia de dichas concepciones.
+**1.1** Valorar y respetar la diversidad de manifestaciones artísticas a partir de la investigación y el debate en torno a las diferentes concepciones del arte y el análisis de obras concretas sobre las que comprobar la pertinencia de dichas concepciones.
 
 Competencia específica 2.
 
-2.1 Elaborar y expresar con coherencia y fluidez juicios y emociones propios acerca de las obras de arte y mostrar respeto y empatía por los juicios y expresiones de los demás, utilizando la terminología y el vocabulario específico de la materia y demostrando un conocimiento básico de los diversos lenguajes artísticos aprendidos.
+**2.1** Elaborar y expresar con coherencia y fluidez juicios y emociones propios acerca de las obras de arte y mostrar respeto y empatía por los juicios y expresiones de los demás, utilizando la terminología y el vocabulario específico de la materia y demostrando un conocimiento básico de los diversos lenguajes artísticos aprendidos.
 
 Competencia específica 3.
 
-3.1 Distinguir y analizar las funciones y las dimensiones religiosa, ideológica, política, social, económica, expresiva y propiamente estética de las obras de arte, demostrando una comprensión y un juicio crítico y fundamentado de las mismas y de su producción y su percepción.
+**3.1** Distinguir y analizar las funciones y las dimensiones religiosa, ideológica, política, social, económica, expresiva y propiamente estética de las obras de arte, demostrando una comprensión y un juicio crítico y fundamentado de las mismas y de su producción y su percepción.
 
 Competencia específica 4.
 
-4.1 Conocer y explicar las principales manifestaciones y movimientos artísticos, identificando y analizando su contexto cultural, su vinculación con las funciones atribuibles al arte, sus características estilísticas fundamentales y su desarrollo en el tiempo.
+**4.1** Conocer y explicar las principales manifestaciones y movimientos artísticos, identificando y analizando su contexto cultural, su vinculación con las funciones atribuibles al arte, sus características estilísticas fundamentales y su desarrollo en el tiempo.
 
-4.2 Reconocer los mecanismos que rigen la evolución de la historia del arte a partir del análisis comparativo de obras de diversas épocas y de la explicación de las relaciones de influencia, préstamos, continuidad y ruptura que se producen entre estilos, autores y movimientos.
+**4.2** Reconocer los mecanismos que rigen la evolución de la historia del arte a partir del análisis comparativo de obras de diversas épocas y de la explicación de las relaciones de influencia, préstamos, continuidad y ruptura que se producen entre estilos, autores y movimientos.
 
 Competencia específica 5.
 
-5.1 Elaborar comentarios histórico-artísticos de distintas obras de arte a partir del conocimiento crítico y argumentado de su contexto histórico, sus funciones y su relevancia social, política y cultural, valorando y respetando distintas obras y formas de manifestaciones artísticas.
+**5.1** Elaborar comentarios histórico-artísticos de distintas obras de arte a partir del conocimiento crítico y argumentado de su contexto histórico, sus funciones y su relevancia social, política y cultural, valorando y respetando distintas obras y formas de manifestaciones artísticas.
 
-5.2 Identificar y analizar la complejidad del proceso de creación artística, elaborando reseñas biográficas sobre las figuras más destacadas y atendiendo a aquellos aspectos personales que faciliten la comprensión del significado y del valor de la obra, tomando conciencia del papel del artista en el proceso creador.
+**5.2** Identificar y analizar la complejidad del proceso de creación artística, elaborando reseñas biográficas sobre las figuras más destacadas y atendiendo a aquellos aspectos personales que faciliten la comprensión del significado y del valor de la obra, tomando conciencia del papel del artista en el proceso creador.
 
 Competencia específica 6.
 
-6.1 Comprender la importancia de la conservación y promoción del patrimonio artístico, investigando acerca de los procesos de adquisición, conservación, exhibición y uso sostenible de obras de arte, así como sobre el impacto positivo y negativo de las acciones humanas sobre ellas.
+**6.1** Comprender la importancia de la conservación y promoción del patrimonio artístico, investigando acerca de los procesos de adquisición, conservación, exhibición y uso sostenible de obras de arte, así como sobre el impacto positivo y negativo de las acciones humanas sobre ellas.
 
-6.2 Analizar el papel conformador de la identidad individual y colectiva que poseen el arte y el patrimonio artístico, analizando las autorrepresentaciones humanas y el uso de recursos estéticos e iconográficos en la generación y el mantenimiento de los vínculos grupales.
+**6.2** Analizar el papel conformador de la identidad individual y colectiva que poseen el arte y el patrimonio artístico, analizando las autorrepresentaciones humanas y el uso de recursos estéticos e iconográficos en la generación y el mantenimiento de los vínculos grupales.
 
 Competencia específica 7.
 
-7.1 Elaborar argumentos propios acerca de la noción de belleza, comparando cánones y obras de diversos tipos, estilos, épocas y lugares, apreciando la diversidad como fuente de enriquecimiento, superando estereotipos y prejuicios y promoviendo la formación de una imagen ajustada de sí mismo.
+**7.1** Elaborar argumentos propios acerca de la noción de belleza, comparando cánones y obras de diversos tipos, estilos, épocas y lugares, apreciando la diversidad como fuente de enriquecimiento, superando estereotipos y prejuicios y promoviendo la formación de una imagen ajustada de sí mismo.
 
 Competencia específica 8.
 
-8.1 Conocer las principales figuras femeninas de la historia del arte, dando visibilidad a la mujer como artista, analizando el contexto político, social y cultural en el que desarrollaron su producción artística y reconociendo su esfuerzo por hacerse valer en él.
+**8.1** Conocer las principales figuras femeninas de la historia del arte, dando visibilidad a la mujer como artista, analizando el contexto político, social y cultural en el que desarrollaron su producción artística y reconociendo su esfuerzo por hacerse valer en él.
 
-8.2 Conocer y analizar críticamente la imagen que se ha dado de la mujer en la historia del arte mediante el análisis comparativo de obras de distintas épocas y culturas en las que se representen figuras, roles, símbolos y temas relacionados con la feminidad.
+**8.2** Conocer y analizar críticamente la imagen que se ha dado de la mujer en la historia del arte mediante el análisis comparativo de obras de distintas épocas y culturas en las que se representen figuras, roles, símbolos y temas relacionados con la feminidad.
 
 Saberes básicos.
 
@@ -5680,53 +5682,53 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM3, 
 
 Competencia específica 1.
 
-1.1 Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la quiebra de la Monarquía Absoluta y los inicios de la España liberal a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen y la aplicación efectiva de los mismos.
+**1.1** Reconocer el legado democrático y las acciones en favor de la libertad, identificando y comparando los distintos regímenes políticos y sus respectivos textos constitucionales, desde la quiebra de la Monarquía Absoluta y los inicios de la España liberal a la actualidad, utilizando adecuadamente términos y conceptos históricos valorando el grado y alcance de los derechos y libertades que reconocen y la aplicación efectiva de los mismos.
 
-1.2 Identificar y valorar el papel de la Transición en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
+**1.2** Identificar y valorar el papel de la Transición en el establecimiento de la democracia actual y de la Constitución de 1978 como fundamento y garantía de los derechos y libertades de los españoles, a través de la elaboración de juicios propios acerca de los principales debates que afectan al sistema constitucional, mediante el dominio de procesos de búsqueda y tratamiento de la información.
 
 Competencia específica 2.
 
-2.1 Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo la pluralidad identitaria de nuestro país y respetando los distintos sentimientos de pertenencia.
+**2.1** Contrastar la información y desarrollar procesos de crítica de fuentes analizando el origen y la evolución de las identidades nacionales y regionales que se han formado a lo largo de la historia de España, reconociendo la pluralidad identitaria de nuestro país y respetando los distintos sentimientos de pertenencia.
 
-2.2 Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del estado y en la construcción de la nación española, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
+**2.2** Identificar los distintos procesos políticos, culturales y administrativos que han tenido lugar en la formación del estado y en la construcción de la nación española, analizando críticamente los logros y resultados de las acciones llevadas a cabo y las reacciones generadas, conociendo y respetando tanto las identidades múltiples como los símbolos y normas comunes que conforman el marco actual de convivencia.
 
 Competencia específica 3.
 
-3.1 Analizar la evolución económica de España, sus ritmos y ciclos de crecimiento, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando su particular proceso de modernización en el contexto de los países del entorno y los debates historiográficos sobre su desarrollo industrial, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
+**3.1** Analizar la evolución económica de España, sus ritmos y ciclos de crecimiento, valiéndose del manejo de datos, representaciones gráficas y recursos digitales, interpretando su particular proceso de modernización en el contexto de los países del entorno y los debates historiográficos sobre su desarrollo industrial, considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico y profesional en constante cambio.
 
-3.2 Entender los distintos significados de la idea del progreso en sus contextos históricos, desarrollando el estudio multicausal de los modelos de desarrollo económico aplicados a la España contemporánea y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
+**3.2** Entender los distintos significados de la idea del progreso en sus contextos históricos, desarrollando el estudio multicausal de los modelos de desarrollo económico aplicados a la España contemporánea y analizando críticamente la idea de modernización, valorando sus efectos en relación a la desigualdad social, los desequilibrios territoriales, la degradación ambiental y las relaciones de dependencia, así como reflejando actitudes en favor de los Objetivos de Desarrollo Sostenible y los comportamientos ecosociales.
 
 Competencia específica 4.
 
-4.1 Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España desde el paso del Antiguo Régimen a la nueva sociedad burguesa, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
+**4.1** Describir las grandes transformaciones sociales y los diferentes modos de organización y participación política que se han producido en España desde el paso del Antiguo Régimen a la nueva sociedad burguesa, analizando el surgimiento y evolución del concepto de ciudadanía y de las nuevas formas de sociabilidad, utilizando adecuadamente términos históricos y conceptos historiográficos, e identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
-4.2 Analizar de manera multidisciplinar la diversidad y la desigualdad social existente en la historia contemporánea de España, la evolución de la población y los cambios en las condiciones y modos de vida, interpretando las causas y motivos de la conflictividad social y su articulación en distintos movimientos sociales, considerando la acción motivada de los sujetos y las medidas de distinto tipo adoptadas por el estado.
+**4.2** Analizar de manera multidisciplinar la diversidad y la desigualdad social existente en la historia contemporánea de España, la evolución de la población y los cambios en las condiciones y modos de vida, interpretando las causas y motivos de la conflictividad social y su articulación en distintos movimientos sociales, considerando la acción motivada de los sujetos y las medidas de distinto tipo adoptadas por el estado.
 
-4.3 Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por el estado hasta el presente, la evolución de los niveles de vida y de bienestar, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
+**4.3** Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por el estado hasta el presente, la evolución de los niveles de vida y de bienestar, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
 Competencia específica 5.
 
-5.1 Referir el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales.
+**5.1** Referir el papel que han representado las creencias religiosas y las instituciones eclesiásticas en la configuración territorial y política de España, considerando críticamente aquellos momentos en los que ha primado la uniformidad y la intolerancia contra las minorías étnicas, religiosas o culturales.
 
-5.2 Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España contemporánea, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
+**5.2** Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado las ideologías en la articulación social y política de la España contemporánea, comprendiendo y contextualizando dichos fenómenos a través de la lectura de textos historiográficos e identificando las principales culturas políticas que han ido sucediéndose, sus formas de organización y los diferentes proyectos políticos que representaban, expresando actitudes respetuosas ante ideas diferentes a las propias.
 
-5.3 Emplear el rigor metodológico de la historia en el estudio de las grandes reformas estructurales que acometió la II República, identificando sus logros y las reacciones antidemocráticas que se produjeron y que derivaron en el golpe de Estado de 1936, aproximándose a la historiografía sobre la Guerra Civil y al marco conceptual del estudio de los sistemas totalitarios y autoritarios a través de la interpretación de la evolución del Franquismo.
+**5.3** Emplear el rigor metodológico de la historia en el estudio de las grandes reformas estructurales que acometió la II República, identificando sus logros y las reacciones antidemocráticas que se produjeron y que derivaron en el golpe de Estado de 1936, aproximándose a la historiografía sobre la Guerra Civil y al marco conceptual del estudio de los sistemas totalitarios y autoritarios a través de la interpretación de la evolución del Franquismo.
 
 Competencia específica 6.
 
-6.1 Señalar los retos globales y los principales compromisos del Estado español en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
+**6.1** Señalar los retos globales y los principales compromisos del Estado español en la esfera internacional, así como los que se derivan de su integración en la Unión Europea, a través de procesos de búsqueda, selección y tratamiento de la información, así como del reconocimiento de los valores de la cooperación, la seguridad nacional e internacional, la sostenibilidad, la solidaridad, el europeísmo y el ejercicio de una ciudadanía ética digital.
 
-6.2 Reconocer el valor geoestratégico de la península Ibérica, identificando el rico legado histórico y cultural generado a raíz de su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución con respecto a otros países europeos y los estereotipos asociados a las mismas, así como la influencia de las relaciones internacionales.
+**6.2** Reconocer el valor geoestratégico de la península Ibérica, identificando el rico legado histórico y cultural generado a raíz de su conexión con procesos históricos relevantes, caracterizando las especificidades y singularidades de su evolución con respecto a otros países europeos y los estereotipos asociados a las mismas, así como la influencia de las relaciones internacionales.
 
 Competencia específica 7.
 
-7.1 Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
+**7.1** Introducir la perspectiva de género en la observación y análisis de la realidad histórica y actual, identificando los mecanismos de dominación que han generado y mantenido la desigualdad entre hombres y mujeres, así como los roles asignados y los espacios de actividad ocupados tradicionalmente por la mujer.
 
-7.2 Constatar el papel relegado de la mujer en la historia analizando fuentes literarias y artísticas, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras individuales y colectivas como protagonistas silenciadas y omitidas de la historia.
+**7.2** Constatar el papel relegado de la mujer en la historia analizando fuentes literarias y artísticas, valorando las acciones en favor de la emancipación de la mujer y del movimiento feminista y recuperando figuras individuales y colectivas como protagonistas silenciadas y omitidas de la historia.
 
 Competencia específica 8.
 
-8.1 Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural del entorno local, considerando el patrimonio histórico como un bien común que se debe proteger.
+**8.1** Realizar trabajos de indagación e investigación, iniciándose en la metodología histórica y la historiografía, mediante la generación de productos relacionados con la memoria colectiva sobre acontecimientos, personajes o elementos patrimoniales de interés social o cultural del entorno local, considerando el patrimonio histórico como un bien común que se debe proteger.
 
 Saberes básicos.
 
@@ -5866,39 +5868,39 @@ Esta competencia específica se conecta con los siguientes descriptores: CPSAA4,
 
 Competencia específica 1.
 
-1.1 Generar un conocimiento riguroso de fuentes y documentos filosóficamente relevantes, aplicando técnicas de búsqueda, organización, análisis, comparación e interpretación de los mismos, y relacionándolos correctamente con contextos históricos, problemas, tesis, autores y autoras, así como con elementos pertenecientes a otros ámbitos culturales.
+**1.1** Generar un conocimiento riguroso de fuentes y documentos filosóficamente relevantes, aplicando técnicas de búsqueda, organización, análisis, comparación e interpretación de los mismos, y relacionándolos correctamente con contextos históricos, problemas, tesis, autores y autoras, así como con elementos pertenecientes a otros ámbitos culturales.
 
-1.2 Construir juicios propios acerca de problemas histórico-filosóficos, a través de la elaboración y presentación de documentos y trabajos de investigación sobre los mismos con precisión y aplicando los protocolos al uso, tanto de forma individual como grupal y cooperativa.
+**1.2** Construir juicios propios acerca de problemas histórico-filosóficos, a través de la elaboración y presentación de documentos y trabajos de investigación sobre los mismos con precisión y aplicando los protocolos al uso, tanto de forma individual como grupal y cooperativa.
 
 Competencia específica 2.
 
-2.1 Emplear argumentos de modo riguroso, reconociendo y aplicando normas, técnicas y pautas lógicas, retóricas y argumentativas, y evitando modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis.
+**2.1** Emplear argumentos de modo riguroso, reconociendo y aplicando normas, técnicas y pautas lógicas, retóricas y argumentativas, y evitando modos dogmáticos, falaces y sesgados de sostener opiniones e hipótesis.
 
-2.2 Sostener el hábito del diálogo argumentativo, empático, abierto y constructivamente comprometido con la búsqueda del conocimiento, a través de la participación activa, respetuosa y colaborativa en cuantas actividades se propongan.
+**2.2** Sostener el hábito del diálogo argumentativo, empático, abierto y constructivamente comprometido con la búsqueda del conocimiento, a través de la participación activa, respetuosa y colaborativa en cuantas actividades se propongan.
 
 Competencia específica 3.
 
-3.1 Adquirir y expresar un conocimiento significativo de las más importantes propuestas filosóficas que se han sucedido a lo largo de la historia, a través de la indagación sobre ellas y la identificación de las cuestiones a las que responden.
+**3.1** Adquirir y expresar un conocimiento significativo de las más importantes propuestas filosóficas que se han sucedido a lo largo de la historia, a través de la indagación sobre ellas y la identificación de las cuestiones a las que responden.
 
-3.2 Identificar, comprender y debatir sobre los principales problemas, ideas, tesis y controversias filosóficas de la historia del pensamiento, a través del análisis y comentario crítico de textos y documentos filosóficos o relevantes para la filosofía.
+**3.2** Identificar, comprender y debatir sobre los principales problemas, ideas, tesis y controversias filosóficas de la historia del pensamiento, a través del análisis y comentario crítico de textos y documentos filosóficos o relevantes para la filosofía.
 
 Competencia específica 4.
 
-4.1 Generar una concepción plural, dialéctica, abierta y crítica de la historia del pensamiento, a través de la comprensión, la realización de síntesis comparativas y la exposición de las relaciones de oposición y complementariedad entre tesis, escuelas, filósofos y filósofas de una misma época o tradición o de distintas épocas y tradiciones.
+**4.1** Generar una concepción plural, dialéctica, abierta y crítica de la historia del pensamiento, a través de la comprensión, la realización de síntesis comparativas y la exposición de las relaciones de oposición y complementariedad entre tesis, escuelas, filósofos y filósofas de una misma época o tradición o de distintas épocas y tradiciones.
 
 Competencia específica 5.
 
-5.1 Afrontar los grandes problemas filosóficos en su doble aspecto histórico y universal a través del análisis y exposición crítica de las condiciones culturales que han permitido en cada caso la aparición y evolución de dichos problemas en distintos momentos de la historia.
+**5.1** Afrontar los grandes problemas filosóficos en su doble aspecto histórico y universal a través del análisis y exposición crítica de las condiciones culturales que han permitido en cada caso la aparición y evolución de dichos problemas en distintos momentos de la historia.
 
-5.2 Comprender la dimensión temporal y universal de los problemas filosóficos más importantes, comparando mediante esquemas u otros productos o actividades el tratamiento filosófico que se hace de ellos en distintas épocas, escuelas, tradiciones, autores y autoras.
+**5.2** Comprender la dimensión temporal y universal de los problemas filosóficos más importantes, comparando mediante esquemas u otros productos o actividades el tratamiento filosófico que se hace de ellos en distintas épocas, escuelas, tradiciones, autores y autoras.
 
 Competencia específica 6.
 
-6.1 Adquirir una concepción sistémica y relacional de la historia de la cultura occidental y del papel de las ideas filosóficas en ella, mediante el análisis comentario y comparación de textos o documentos literarios, historiográficos, periodísticos, científicos o religiosos, así como de cualquier otra manifestación cultural, en los que se expresen problemas y concepciones filosóficamente relevantes.
+**6.1** Adquirir una concepción sistémica y relacional de la historia de la cultura occidental y del papel de las ideas filosóficas en ella, mediante el análisis comentario y comparación de textos o documentos literarios, historiográficos, periodísticos, científicos o religiosos, así como de cualquier otra manifestación cultural, en los que se expresen problemas y concepciones filosóficamente relevantes.
 
 Competencia específica 7.
 
-7.1 Desarrollar la autonomía de juicio, y promover planteamientos, actitudes y acciones ética y cívicamente consecuentes, con respecto a problemas fundamentales de la actualidad, a partir de la comprensión de ideas, teorías y controversias histórico-filosóficas que puedan contribuir a clarificar tales problemas y de la elaboración de propuestas de carácter crítico y personal con respecto a los mismos.
+**7.1** Desarrollar la autonomía de juicio, y promover planteamientos, actitudes y acciones ética y cívicamente consecuentes, con respecto a problemas fundamentales de la actualidad, a partir de la comprensión de ideas, teorías y controversias histórico-filosóficas que puedan contribuir a clarificar tales problemas y de la elaboración de propuestas de carácter crítico y personal con respecto a los mismos.
 
 Saberes básicos.
 
@@ -6024,55 +6026,55 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, S
 
 Competencia específica 1.
 
-1.1 Identificar y reconocer los logros que suponen los actuales sistemas democráticos como el resultado no lineal en el tiempo de los movimientos y acciones que han contribuido al afianzamiento y articulación del principio de libertad, a través del análisis de los principales procesos históricos que se han desarrollado, la comprensión de los textos políticos y constitucionales fundamentales y el uso adecuado de términos y conceptos históricos.
+**1.1** Identificar y reconocer los logros que suponen los actuales sistemas democráticos como el resultado no lineal en el tiempo de los movimientos y acciones que han contribuido al afianzamiento y articulación del principio de libertad, a través del análisis de los principales procesos históricos que se han desarrollado, la comprensión de los textos políticos y constitucionales fundamentales y el uso adecuado de términos y conceptos históricos.
 
-1.2 Comprender los conceptos de revolución y cambio en el mundo contemporáneo y los elementos y factores que los causan y condicionan, a través del estudio de casos significativos de las revoluciones burguesas y socialistas que han ocurrido a lo largo de la historia contemporánea, así como de los movimientos de acción y reacción que han generado.
+**1.2** Comprender los conceptos de revolución y cambio en el mundo contemporáneo y los elementos y factores que los causan y condicionan, a través del estudio de casos significativos de las revoluciones burguesas y socialistas que han ocurrido a lo largo de la historia contemporánea, así como de los movimientos de acción y reacción que han generado.
 
-1.3 Entender el significado histórico de las transiciones políticas y de los procesos de democratización de la Edad Contemporánea como fundamento y garantía para la convivencia y el ejercicio de los derechos fundamentales, valorando las implicaciones que suponen el ejercicio de la ciudadanía activa y el respeto al ordenamiento constitucional, y generando juicios propios tanto con respecto al cumplimiento de aspiraciones y expectativas como a las amenazas y riesgos de la vida en democracia.
+**1.3** Entender el significado histórico de las transiciones políticas y de los procesos de democratización de la Edad Contemporánea como fundamento y garantía para la convivencia y el ejercicio de los derechos fundamentales, valorando las implicaciones que suponen el ejercicio de la ciudadanía activa y el respeto al ordenamiento constitucional, y generando juicios propios tanto con respecto al cumplimiento de aspiraciones y expectativas como a las amenazas y riesgos de la vida en democracia.
 
 Competencia específica 2.
 
-2.1 Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por los conflictos ocurridos en el mundo contemporáneo, así como de las causas de las conflagraciones bélicas y de las múltiples transformaciones que se producen en los contendientes, a través del empleo de fuentes históricas fiables y del uso de datos contrastados, valorando el impacto social y emocional que supone el uso de la violencia y el papel de las instituciones internacionales que velan por la paz y la mediación.
+**2.1** Tomar conciencia del grado de violencia, barbarie y destrucción alcanzado por los conflictos ocurridos en el mundo contemporáneo, así como de las causas de las conflagraciones bélicas y de las múltiples transformaciones que se producen en los contendientes, a través del empleo de fuentes históricas fiables y del uso de datos contrastados, valorando el impacto social y emocional que supone el uso de la violencia y el papel de las instituciones internacionales que velan por la paz y la mediación.
 
-2.2 Analizar los principales conflictos civiles que se han producido en la Edad Contemporánea, a través del empleo de textos historiográficos y la elaboración de juicios argumentados, comprendiendo la importancia de la memoria histórica y del reconocimiento de las víctimas, del principio de Justicia Universal y del derecho a la verdad, la reparación y la garantía de no repetición.
+**2.2** Analizar los principales conflictos civiles que se han producido en la Edad Contemporánea, a través del empleo de textos historiográficos y la elaboración de juicios argumentados, comprendiendo la importancia de la memoria histórica y del reconocimiento de las víctimas, del principio de Justicia Universal y del derecho a la verdad, la reparación y la garantía de no repetición.
 
 Competencia específica 3.
 
-3.1 Describir la evolución de los conceptos de igualdad y de ciudadanía en la historia contemporánea y sus derivaciones sociales y políticas, a través del análisis multicausal de los principales sistemas políticos y sociales de los siglos XIX y XX, identificando las desigualdades y la concentración del poder en determinados grupos sociales.
+**3.1** Describir la evolución de los conceptos de igualdad y de ciudadanía en la historia contemporánea y sus derivaciones sociales y políticas, a través del análisis multicausal de los principales sistemas políticos y sociales de los siglos XIX y XX, identificando las desigualdades y la concentración del poder en determinados grupos sociales.
 
-3.2 Analizar las condiciones de vida, el mundo del trabajo y las relaciones laborales y su conflictividad, a través del estudio multidisciplinar de los movimientos sociales, particularmente los relacionados con el obrerismo, valorando el papel que representan la acción colectiva y del sujeto en la historia para el reconocimiento de los derechos sociales y el bienestar colectivo.
+**3.2** Analizar las condiciones de vida, el mundo del trabajo y las relaciones laborales y su conflictividad, a través del estudio multidisciplinar de los movimientos sociales, particularmente los relacionados con el obrerismo, valorando el papel que representan la acción colectiva y del sujeto en la historia para el reconocimiento de los derechos sociales y el bienestar colectivo.
 
-3.3 Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por los diferentes estados contemporáneos, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
+**3.3** Deducir a través del estudio crítico de noticias y datos estadísticos la evolución del estado social, identificando los logros y retrocesos experimentados y las medidas adoptadas por los diferentes estados contemporáneos, así como los límites y retos de futuro, desde una perspectiva solidaria en favor de los colectivos más vulnerables.
 
 Competencia específica 4.
 
-4.1 Analizar críticamente cómo se han ido construyendo en el tiempo las identidades colectivas, empleando los conceptos y métodos del pensamiento histórico, respetando la pluralidad y los sentimientos identitarios y valorando el legado histórico y cultural de las mismas.
+**4.1** Analizar críticamente cómo se han ido construyendo en el tiempo las identidades colectivas, empleando los conceptos y métodos del pensamiento histórico, respetando la pluralidad y los sentimientos identitarios y valorando el legado histórico y cultural de las mismas.
 
-4.2 Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, identificando las múltiples valencias de las mismas, mediante el análisis crítico de textos históricos e historiográficos y de fuentes de información actual, elaborando argumentos propios que contribuyan a un diálogo constructivo al respecto.
+**4.2** Comprender la importancia de las identidades colectivas en la configuración social, política y cultural del mundo contemporáneo, identificando las múltiples valencias de las mismas, mediante el análisis crítico de textos históricos e historiográficos y de fuentes de información actual, elaborando argumentos propios que contribuyan a un diálogo constructivo al respecto.
 
 Competencia específica 5.
 
-5.1 Analizar críticamente el fenómeno histórico de la globalización y su repercusión en el ámbito local y planetario, valiéndose del manejo de distintas fuentes de información y de una adecuada selección, validación, contraste y tratamiento de las mismas, previniendo la desinformación y considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico, social y cultural en constante cambio.
+**5.1** Analizar críticamente el fenómeno histórico de la globalización y su repercusión en el ámbito local y planetario, valiéndose del manejo de distintas fuentes de información y de una adecuada selección, validación, contraste y tratamiento de las mismas, previniendo la desinformación y considerando el emprendimiento, la innovación y el aprendizaje permanente como formas de afrontar los retos de un entorno económico, social y cultural en constante cambio.
 
-5.2 Identificar los principales retos del siglo XXI y el origen histórico de los mismos, a través del análisis de la interconexión entre diversos procesos políticos, económicos, sociales y culturales en un contexto global, argumentando la necesidad de adoptar comportamientos ecosocialmente responsables y orientados a la sostenibilidad del planeta, la defensa de las instituciones democráticas, la mejora del bienestar colectivo y la solidaridad entre las generaciones presentes y futuras.
+**5.2** Identificar los principales retos del siglo XXI y el origen histórico de los mismos, a través del análisis de la interconexión entre diversos procesos políticos, económicos, sociales y culturales en un contexto global, argumentando la necesidad de adoptar comportamientos ecosocialmente responsables y orientados a la sostenibilidad del planeta, la defensa de las instituciones democráticas, la mejora del bienestar colectivo y la solidaridad entre las generaciones presentes y futuras.
 
 Competencia específica 6.
 
-6.1 Valorar el significado histórico de la idea de progreso y sus múltiples consecuencias sociales, territoriales y ambientales, a través del tratamiento de datos numéricos, la interpretación de gráficos y la comprensión multifactorial de los ritmos y ciclos de crecimiento, argumentando la necesidad de adoptar comportamientos ecosociales que garanticen la sostenibilidad del planeta.
+**6.1** Valorar el significado histórico de la idea de progreso y sus múltiples consecuencias sociales, territoriales y ambientales, a través del tratamiento de datos numéricos, la interpretación de gráficos y la comprensión multifactorial de los ritmos y ciclos de crecimiento, argumentando la necesidad de adoptar comportamientos ecosociales que garanticen la sostenibilidad del planeta.
 
-6.2 Comparar los distintos sistemas económicos que se han desarrollado en el mundo contemporáneo, a través del análisis multidisciplinar de los mismos y de las doctrinas y teorías de las que derivan, identificando las relaciones de subordinación y de dependencia y los conflictos que generan, tanto en el ámbito nacional como internacional, y justificando la necesidad del acceso universal a los recursos básicos.
+**6.2** Comparar los distintos sistemas económicos que se han desarrollado en el mundo contemporáneo, a través del análisis multidisciplinar de los mismos y de las doctrinas y teorías de las que derivan, identificando las relaciones de subordinación y de dependencia y los conflictos que generan, tanto en el ámbito nacional como internacional, y justificando la necesidad del acceso universal a los recursos básicos.
 
 Competencia específica 7.
 
-7.1 Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado el pensamiento y las ideologías en la transformación de la realidad, desde los orígenes de la Edad Contemporánea hasta la actualidad, comprendiendo y contextualizando dicho fenómeno a través del trabajo sobre textos históricos e historiográficos y de fuentes literarias, del cine y otros documentos audiovisuales.
+**7.1** Generar opiniones argumentadas, debatir y transferir ideas y conocimientos sobre la función que han desempeñado el pensamiento y las ideologías en la transformación de la realidad, desde los orígenes de la Edad Contemporánea hasta la actualidad, comprendiendo y contextualizando dicho fenómeno a través del trabajo sobre textos históricos e historiográficos y de fuentes literarias, del cine y otros documentos audiovisuales.
 
-7.2 Abordar críticamente los principales temas clave de la historia y de la actualidad a través de la aproximación a las principales corrientes historiográficas y a los usos que se hacen de la historia, valorando críticamente los principales proyectos sociales, políticos y culturales que han tenido lugar en la historia contemporánea desde la perspectiva ética contenida en la Declaración Universal de los Derechos Humanos.
+**7.2** Abordar críticamente los principales temas clave de la historia y de la actualidad a través de la aproximación a las principales corrientes historiográficas y a los usos que se hacen de la historia, valorando críticamente los principales proyectos sociales, políticos y culturales que han tenido lugar en la historia contemporánea desde la perspectiva ética contenida en la Declaración Universal de los Derechos Humanos.
 
 Competencia específica 8.
 
-8.1 Analizar los cambios y permanencias en la historia, atendiendo a procesos de más larga duración, como los comportamientos demográficos, ciclos vitales y modos de vida en la sociedad contemporánea, a través del acercamiento al pensamiento histórico y la realización de proyectos de investigación, identificando los mecanismos de control, dominio y sumisión, los roles de género y edad asignados, así como los escenarios de lucha por la dignidad y contra la discriminación de diversos colectivos.
+**8.1** Analizar los cambios y permanencias en la historia, atendiendo a procesos de más larga duración, como los comportamientos demográficos, ciclos vitales y modos de vida en la sociedad contemporánea, a través del acercamiento al pensamiento histórico y la realización de proyectos de investigación, identificando los mecanismos de control, dominio y sumisión, los roles de género y edad asignados, así como los escenarios de lucha por la dignidad y contra la discriminación de diversos colectivos.
 
-8.2 Contrastar el papel relegado de la mujer en la historia contemporánea, identificando y valorando la importancia de las figuras individuales y colectivas como protagonistas anónimas de la historia contemporánea, así como el papel de los movimientos feministas en el reconocimiento de sus derechos y en el logro de la igualdad efectiva de mujeres y hombres, así como la corresponsabilidad en el cuidado de las personas.
+**8.2** Contrastar el papel relegado de la mujer en la historia contemporánea, identificando y valorando la importancia de las figuras individuales y colectivas como protagonistas anónimas de la historia contemporánea, así como el papel de los movimientos feministas en el reconocimiento de sus derechos y en el logro de la igualdad efectiva de mujeres y hombres, así como la corresponsabilidad en el cuidado de las personas.
 
 Saberes básicos.
 
@@ -6212,37 +6214,37 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Competencia específica 1.
 
-1.1 Reconocer los rasgos estilísticos de la música y de la danza en las diferentes épocas históricas, a través de la escucha activa y del visionado de manifestaciones artísticas, así como del análisis de partituras y textos representativos.
+**1.1** Reconocer los rasgos estilísticos de la música y de la danza en las diferentes épocas históricas, a través de la escucha activa y del visionado de manifestaciones artísticas, así como del análisis de partituras y textos representativos.
 
-1.2 Determinar la función de la música y de la danza en los diferentes contextos, estableciendo vínculos entre las características de estas manifestaciones artísticas y los hechos histórico-estéticos que determinan el periodo.
+**1.2** Determinar la función de la música y de la danza en los diferentes contextos, estableciendo vínculos entre las características de estas manifestaciones artísticas y los hechos histórico-estéticos que determinan el periodo.
 
 Competencia específica 2.
 
-2.1 Explicar la relación entre la música, la danza y otras manifestaciones artísticas, identificando los condicionantes históricos y los fundamentos estéticos que comparten y analizando su carácter interdisciplinar.
+**2.1** Explicar la relación entre la música, la danza y otras manifestaciones artísticas, identificando los condicionantes históricos y los fundamentos estéticos que comparten y analizando su carácter interdisciplinar.
 
-2.2 Analizar la importancia del patrimonio musical, escénico y artístico como expresión de una época, valorando la responsabilidad sobre su conservación y difusión.
+**2.2** Analizar la importancia del patrimonio musical, escénico y artístico como expresión de una época, valorando la responsabilidad sobre su conservación y difusión.
 
 Competencia específica 3.
 
-3.1 Experimentar con las características de la música y de la danza de un periodo histórico determinado, interpretando o dramatizando fragmentos o adaptaciones de obras relevantes con instrumentos musicales, la voz o el propio cuerpo.
+**3.1** Experimentar con las características de la música y de la danza de un periodo histórico determinado, interpretando o dramatizando fragmentos o adaptaciones de obras relevantes con instrumentos musicales, la voz o el propio cuerpo.
 
-3.2 Valorar la riqueza del patrimonio musical y dancístico a través del reconocimiento de las características de un determinado periodo en la adaptación de las interpretaciones y el contraste con las muestras originales.
+**3.2** Valorar la riqueza del patrimonio musical y dancístico a través del reconocimiento de las características de un determinado periodo en la adaptación de las interpretaciones y el contraste con las muestras originales.
 
-3.3 Participar activamente en las interpretaciones asumiendo las diferentes funciones que se asignen y mostrando interés por aproximarse al conocimiento y disfrute del repertorio propuesto.
+**3.3** Participar activamente en las interpretaciones asumiendo las diferentes funciones que se asignen y mostrando interés por aproximarse al conocimiento y disfrute del repertorio propuesto.
 
 Competencia específica 4.
 
-4.1 Analizar las diferentes corrientes interpretativas, comparando distintas versiones musicales de una misma obra e identificando su vinculación con la estética del periodo.
+**4.1** Analizar las diferentes corrientes interpretativas, comparando distintas versiones musicales de una misma obra e identificando su vinculación con la estética del periodo.
 
-4.2 Utilizar fuentes de información fiables en investigaciones sobre los principales compositores, intérpretes y obras de la historia de la música y de la danza, aplicando estrategias de búsqueda, de selección y de reelaboración de la información.
+**4.2** Utilizar fuentes de información fiables en investigaciones sobre los principales compositores, intérpretes y obras de la historia de la música y de la danza, aplicando estrategias de búsqueda, de selección y de reelaboración de la información.
 
-4.3 Reconocer la identidad cultural propia, valorando la riqueza del patrimonio musical a través de las investigaciones realizadas.
+**4.3** Reconocer la identidad cultural propia, valorando la riqueza del patrimonio musical a través de las investigaciones realizadas.
 
 Competencia específica 5.
 
-5.1 Explicar los distintos conceptos teórico-estéticos aplicados a la música y la danza, usando de forma fiable y responsable las tecnologías digitales y respetando los derechos de autor y la propiedad intelectual.
+**5.1** Explicar los distintos conceptos teórico-estéticos aplicados a la música y la danza, usando de forma fiable y responsable las tecnologías digitales y respetando los derechos de autor y la propiedad intelectual.
 
-5.2 Expresar opiniones e ideas propias, informadas y fundamentadas, sobre el patrimonio musical y dancístico, usando un vocabulario específico, formulando argumentos de carácter teórico y estético y analizando críticamente el contexto de creación de las obras.
+**5.2** Expresar opiniones e ideas propias, informadas y fundamentadas, sobre el patrimonio musical y dancístico, usando un vocabulario específico, formulando argumentos de carácter teórico y estético y analizando críticamente el contexto de creación de las obras.
 
 Saberes básicos.
 
@@ -6356,51 +6358,51 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, C
 
 Competencia específica 1.
 
-1.1 Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
+**1.1** Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.
 
-1.2 Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
+**1.2** Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
 
-1.3 Revisar y subsanar de manera progresivamente autónoma las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
+**1.3** Revisar y subsanar de manera progresivamente autónoma las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
 
-1.4 Realizar la lectura directa de textos latinos sencillos identificando las unidades lingüísticas básicas de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín.
+**1.4** Realizar la lectura directa de textos latinos sencillos identificando las unidades lingüísticas básicas de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín.
 
-1.5 Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
+**1.5** Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
 Competencia específica 2.
 
-2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
+**2.1** Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
-2.2 Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se han producido tanto desde el latín culto como desde el latín vulgar hasta las lenguas de enseñanza, sirviéndose cuando sea posible de la comparación con otras lenguas del repertorio propio.
+**2.2** Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se han producido tanto desde el latín culto como desde el latín vulgar hasta las lenguas de enseñanza, sirviéndose cuando sea posible de la comparación con otras lenguas del repertorio propio.
 
-2.3 Explicar, de manera guiada, la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando de forma guiada estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio del alumnado.
+**2.3** Explicar, de manera guiada, la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen griego y utilizando de forma guiada estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio del alumnado.
 
-2.4 Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
+**2.4** Identificar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
 Competencia específica 3.
 
-3.1 Interpretar y comentar, de forma guiada, textos y fragmentos literarios latinos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
+**3.1** Interpretar y comentar, de forma guiada, textos y fragmentos literarios latinos de diversa índole y de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
-3.2 Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios latinos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual guiado.
+**3.2** Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios latinos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual guiado.
 
-3.3 Identificar y definir, de manera guiada, palabras latinas que designan conceptos fundamentales para el estudio y comprensión de la civilización latina y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como imperium, natura, civis o paterfamilias, en textos de diferentes formatos.
+**3.3** Identificar y definir, de manera guiada, palabras latinas que designan conceptos fundamentales para el estudio y comprensión de la civilización latina y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como imperium, natura, civis o paterfamilias, en textos de diferentes formatos.
 
-3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
+**3.4** Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
 
 Competencia específica 4.
 
-4.1 Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
+**4.1** Explicar, a partir de criterios dados, los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
-4.2 Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
+**4.2** Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias de manera guiada, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
 
-4.3 Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
+**4.3** Elaborar trabajos de investigación de manera progresivamente autónoma en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
 Competencia específica 5.
 
-5.1 Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
+**5.1** Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores a partir de criterios dados.
 
-5.2 Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.
+**5.2** Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.
 
-5.3 Explorar las huellas de la romanización y el legado romano en el entorno del alumnado, a partir de criterios dados, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana, y presentando sus resultados a través de diferentes soportes.
+**5.3** Explorar las huellas de la romanización y el legado romano en el entorno del alumnado, a partir de criterios dados, aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana, y presentando sus resultados a través de diferentes soportes.
 
 Saberes básicos.
 
@@ -6532,51 +6534,51 @@ V. Legado y patrimonio.
 
 Competencia específica 1.
 
-1.1 Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
+**1.1** Realizar traducciones directas o inversas de textos o fragmentos de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua, y apreciando variantes y coincidencias con otras lenguas conocidas.
 
-1.2 Seleccionar el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
+**1.2** Seleccionar el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.
 
-1.3 Revisar y subsanar las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
+**1.3** Revisar y subsanar las propias traducciones y las de los compañeros y las compañeras, realizando propuestas de mejora y argumentando los cambios con terminología especializada a partir de la reflexión lingüística.
 
-1.4 Realizar la lectura directa de textos latinos de dificultad adecuada identificando las unidades lingüísticas más frecuentes de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos del latín.
+**1.4** Realizar la lectura directa de textos latinos de dificultad adecuada identificando las unidades lingüísticas más frecuentes de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos del latín.
 
-1.5 Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
+**1.5** Registrar los progresos y dificultades de aprendizaje de la lengua latina, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar su aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciéndolos explícitos y compartiéndolos.
 
 Competencia específica 2.
 
-2.1 Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
+**2.1** Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.
 
-2.2 Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se han producido tanto desde el latín culto como desde el latín vulgar hasta las lenguas de enseñanza, sirviéndose cuando sea posible de la comparación con otras lenguas de su repertorio.
+**2.2** Explicar cambios fonéticos, morfológicos o semánticos de complejidad creciente que se han producido tanto desde el latín culto como desde el latín vulgar hasta las lenguas de enseñanza, sirviéndose cuando sea posible de la comparación con otras lenguas de su repertorio.
 
-2.3 Explicar la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen latino y utilizando con iniciativa estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
+**2.3** Explicar la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen latino y utilizando con iniciativa estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio propio.
 
-2.4 Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
+**2.4** Analizar críticamente prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la diversidad como riqueza cultural, lingüística y dialectal, a partir de criterios dados.
 
 Competencia específica 3.
 
-3.1 Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
+**3.1** Interpretar y comentar textos y fragmentos literarios de diversa índole de creciente complejidad, aplicando estrategias de análisis y reflexión que impliquen movilizar la propia experiencia, comprender el mundo y la condición humana y desarrollar la sensibilidad estética y el hábito lector.
 
-3.2 Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios latinos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual.
+**3.2** Analizar y explicar los géneros, temas, tópicos y valores éticos o estéticos de obras o fragmentos literarios latinos comparándolos con obras o fragmentos literarios posteriores, desde un enfoque intertextual.
 
-3.3 Identificar y definir palabras latinas que designan conceptos fundamentales para el estudio y comprensión de la civilización latina y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como imperium, natura, civis o paterfamilias, en textos de diferentes formatos.
+**3.3** Identificar y definir palabras latinas que designan conceptos fundamentales para el estudio y comprensión de la civilización latina y cuyo aprendizaje combina conocimientos léxicos y culturales, tales como imperium, natura, civis o paterfamilias, en textos de diferentes formatos.
 
-3.4 Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
+**3.4** Crear textos individuales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se haya partido de la civilización y la cultura latinas como fuente de inspiración.
 
 Competencia específica 4.
 
-4.1 Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
+**4.1** Explicar los procesos históricos y políticos, las instituciones, los modos de vida y las costumbres de la sociedad romana, comparándolos con los de las sociedades actuales, valorando de manera crítica las adaptaciones y cambios experimentados a la luz de la evolución de las sociedades y los derechos humanos, y favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la memoria colectiva y los valores democráticos.
 
-4.2 Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
+**4.2** Debatir acerca de la importancia, evolución, asimilación o cuestionamiento de diferentes aspectos del legado romano en nuestra sociedad, utilizando estrategias retóricas y oratorias, mediando entre posturas cuando sea necesario, seleccionando y contrastando información y experiencias veraces y mostrando interés, respeto y empatía por otras opiniones y argumentaciones.
 
-4.3 Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
+**4.3** Elaborar trabajos de investigación en diferentes soportes sobre aspectos del legado de la civilización latina en el ámbito personal, religioso y sociopolítico localizando, seleccionando, contrastando y reelaborando información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia y respetando los principios de rigor y propiedad intelectual.
 
 Competencia específica 5.
 
-5.1 Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
+**5.1** Identificar y explicar el legado material e inmaterial de la civilización latina como fuente de inspiración, analizando producciones culturales y artísticas posteriores.
 
-5.2 Investigar el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.
+**5.2** Investigar el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.
 
-5.3 Explorar las huellas de la romanización y el legado romano en el entorno del alumnado aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando sus resultados a través de diferentes soportes.
+**5.3** Explorar las huellas de la romanización y el legado romano en el entorno del alumnado aplicando los conocimientos adquiridos y reflexionando sobre las implicaciones de sus distintos usos, dando ejemplos de la pervivencia de la Antigüedad clásica en su vida cotidiana y presentando sus resultados a través de diferentes soportes.
 
 Saberes básicos.
 
@@ -6804,67 +6806,67 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Competencia específica 1.
 
-1.1 Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, a partir de la explicación de su desarrollo histórico y sociolingüístico y de la situación actual, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las distintas lenguas, así como rasgos de los dialectos del español, en manifestaciones orales, escritas y multimodales.
+**1.1** Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, a partir de la explicación de su desarrollo histórico y sociolingüístico y de la situación actual, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las distintas lenguas, así como rasgos de los dialectos del español, en manifestaciones orales, escritas y multimodales.
 
-1.2 Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas.
+**1.2** Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, a partir de la exploración y reflexión en torno a los fenómenos del contacto entre lenguas, con especial atención al papel de las redes sociales y los medios de comunicación, y de la investigación sobre los derechos lingüísticos y diversos modelos de convivencia entre lenguas.
 
 Competencia específica 2.
 
-2.1 Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales complejos propios de diferentes ámbitos, analizando la interacción entre los diferentes códigos.
+**2.1** Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales complejos propios de diferentes ámbitos, analizando la interacción entre los diferentes códigos.
 
-2.2 Valorar la forma y el contenido de textos orales y multimodales complejos, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
+**2.2** Valorar la forma y el contenido de textos orales y multimodales complejos, evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
 Competencia específica 3.
 
-3.1 Realizar exposiciones y argumentaciones orales formales con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y con fluidez, rigor, coherencia, cohesión y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
+**3.1** Realizar exposiciones y argumentaciones orales formales con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social, ajustándose a las convenciones propias de cada género discursivo y con fluidez, rigor, coherencia, cohesión y el registro adecuado, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
 
-3.2 Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
+**3.2** Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
 Competencia específica 4.
 
-4.1 Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
+**4.1** Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
 
-4.2 Valorar la forma y el contenido de textos complejos evaluando su calidad, la fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
+**4.2** Valorar la forma y el contenido de textos complejos evaluando su calidad, la fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
 Competencia específica 5.
 
-5.1 Elaborar textos académicos coherentes, cohesionados y con el registro adecuado sobre temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal y de redacción y revisión de borradores de manera individual o entre iguales, o mediante otros instrumentos de consulta.
+**5.1** Elaborar textos académicos coherentes, cohesionados y con el registro adecuado sobre temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal y de redacción y revisión de borradores de manera individual o entre iguales, o mediante otros instrumentos de consulta.
 
-5.2 Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
+**5.2** Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
 
 Competencia específica 6.
 
-6.1 Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre temas curriculares de interés cultural que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes; calibrar su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
+**6.1** Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre temas curriculares de interés cultural que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes; calibrar su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
 
-6.2 Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
+**6.2** Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
 
 Competencia específica 7.
 
-7.1 Elegir y leer de manera autónoma obras relevantes de la literatura contemporánea y dejar constancia del progreso del itinerario lector y cultural personal mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
+**7.1** Elegir y leer de manera autónoma obras relevantes de la literatura contemporánea y dejar constancia del progreso del itinerario lector y cultural personal mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
 
-7.2 Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+**7.2** Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
 Competencia específica 8.
 
-8.1 Explicar y argumentar la interpretación de las obras leídas mediante el análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
+**8.1** Explicar y argumentar la interpretación de las obras leídas mediante el análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
-8.2 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre los clásicos de la literatura española objeto de lectura guiada y otros textos y manifestaciones artísticas clásicas o contemporáneas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura.
+**8.2** Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre los clásicos de la literatura española objeto de lectura guiada y otros textos y manifestaciones artísticas clásicas o contemporáneas, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura.
 
-8.3 Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
+**8.3** Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
 
 Competencia específica 9.
 
-9.1 Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y utilizando un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
+**9.1** Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y utilizando un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
 
-9.2 Explicar y argumentar la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, utilizando el conocimiento explícito de la lengua y un metalenguaje específico.
+**9.2** Explicar y argumentar la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, utilizando el conocimiento explícito de la lengua y un metalenguaje específico.
 
-9.3 Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
+**9.3** Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
 
 Competencia específica 10.
 
-10.1 Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
+**10.1** Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
 
-10.2 Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social.
+**10.2** Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social.
 
 Saberes básicos.
 
@@ -6984,65 +6986,65 @@ Elaboración de conclusiones propias sobre el funcionamiento del sistema lingü�
 
 Competencia específica 1.
 
-1.1 Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las lenguas y los dialectos en manifestaciones orales, escritas y multimodales, diferenciando los rasgos de lengua que responden a la diversidad dialectal de los que se corresponden con sociolectos o registros.
+**1.1** Reconocer y valorar las lenguas de España y las variedades dialectales del español, con especial atención a la del propio territorio, contrastando de manera explícita y con el metalenguaje apropiado aspectos lingüísticos y discursivos de las lenguas y los dialectos en manifestaciones orales, escritas y multimodales, diferenciando los rasgos de lengua que responden a la diversidad dialectal de los que se corresponden con sociolectos o registros.
 
-1.2 Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, atendiendo a la diversidad de normas cultas y estándares que se dan en una misma lengua, así como analizando y valorando la relevancia actual de los medios de comunicación y las redes sociales en los procesos de normalización lingüística.
+**1.2** Cuestionar y refutar prejuicios y estereotipos lingüísticos adoptando una actitud de respeto y valoración de la riqueza cultural, lingüística y dialectal, atendiendo a la diversidad de normas cultas y estándares que se dan en una misma lengua, así como analizando y valorando la relevancia actual de los medios de comunicación y las redes sociales en los procesos de normalización lingüística.
 
 Competencia específica 2.
 
-2.1 Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales especializados propios de diferentes ámbitos analizando la interacción entre los diferentes códigos.
+**2.1** Identificar el sentido global, la estructura, la información relevante en función de las necesidades comunicativas y la intención del emisor en textos orales y multimodales especializados propios de diferentes ámbitos analizando la interacción entre los diferentes códigos.
 
-2.2 Valorar la forma y el contenido de textos orales y multimodales especializados evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
+**2.2** Valorar la forma y el contenido de textos orales y multimodales especializados evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados.
 
 Competencia específica 3.
 
-3.1 Realizar exposiciones y argumentaciones orales formales extensas en las que se recojan diferentes puntos de vista, con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social ajustándose a las convenciones propias de cada género discursivo y hacerlo con fluidez, rigor, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.
+**3.1** Realizar exposiciones y argumentaciones orales formales extensas en las que se recojan diferentes puntos de vista, con diferente grado de planificación sobre temas de interés científico y cultural y de relevancia académica y social ajustándose a las convenciones propias de cada género discursivo y hacerlo con fluidez, rigor, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales.
 
-3.2 Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
+**3.2** Participar de manera activa y adecuada en interacciones orales (formales e informales) y en el trabajo en equipo con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía lingüística.
 
 Competencia específica 4.
 
-4.1 Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
+**4.1** Identificar el sentido global, la estructura, la información relevante y la intención del emisor de textos escritos y multimodales especializados, con especial atención a textos académicos y de los medios de comunicación, realizando las inferencias necesarias y con diferentes propósitos de lectura.
 
-4.2 Valorar críticamente el contenido y la forma de textos especializados evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados.
+**4.2** Valorar críticamente el contenido y la forma de textos especializados evaluando su calidad y fiabilidad, así como la eficacia de los procedimientos lingüísticos empleados.
 
 Competencia específica 5.
 
-5.1 Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta.
+**5.1** Elaborar textos académicos coherentes, cohesionados y con el registro adecuado en torno a temas curriculares o de interés social y cultural, precedidos de un proceso de planificación que atienda a la situación comunicativa, destinatario, propósito y canal, y de redacción y revisión de borradores entre iguales o utilizando otros instrumentos de consulta.
 
-5.2 Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
+**5.2** Incorporar procedimientos para enriquecer los textos, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical.
 
 Competencia específica 6.
 
-6.1 Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, con especial atención a la gestión de su almacenamiento y recuperación, así como a la evaluación de su fiabilidad y pertinencia; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
+**6.1** Elaborar trabajos de investigación de manera autónoma, en diferentes soportes, sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, con especial atención a la gestión de su almacenamiento y recuperación, así como a la evaluación de su fiabilidad y pertinencia; organizarla e integrarla en esquemas propios; y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con la propiedad intelectual.
 
-6.2 Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
+**6.2** Evaluar la veracidad de noticias e informaciones, con especial atención a las redes sociales y otros entornos digitales, siguiendo pautas de análisis, contraste y verificación, haciendo uso de las herramientas adecuadas y manteniendo una actitud crítica frente a los posibles sesgos de la información.
 
 Competencia específica 7.
 
-7.1 Elegir y leer de manera autónoma obras relevantes que se relacionen con las propuestas de lectura guiada, incluyendo ensayo literario y obras actuales que establezcan conexiones con la tradición, y dejar constancia del progreso del propio itinerario lector y cultural mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
+**7.1** Elegir y leer de manera autónoma obras relevantes que se relacionen con las propuestas de lectura guiada, incluyendo ensayo literario y obras actuales que establezcan conexiones con la tradición, y dejar constancia del progreso del propio itinerario lector y cultural mediante la explicación argumentada de los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y de la experiencia de lectura.
 
-7.2 Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+**7.2** Compartir la experiencia lectora utilizando un metalenguaje específico y elaborar una interpretación personal estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
 Competencia específica 8.
 
-8.1 Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
+**8.1** Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
-8.2 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre las obras de la literatura española o hispánica del último cuarto del siglo XIX y de los siglos XX y XXI objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura.
+**8.2** Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal, estableciendo vínculos argumentados entre las obras de la literatura española o hispánica del último cuarto del siglo XIX y de los siglos XX y XXI objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos, y explicitando la implicación y la respuesta personal del lector en la lectura.
 
 Competencia específica 9.
 
-9.1 Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y con un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
+**9.1** Revisar los propios textos y hacer propuestas de mejora argumentando los cambios a partir de la reflexión metalingüística e interlingüística y con un metalenguaje específico, e identificar y subsanar problemas de comprensión lectora utilizando los conocimientos explícitos sobre la lengua y su uso.
 
-9.2 Explicar y argumentar la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, utilizando el conocimiento explícito de la lengua y un metalenguaje específico.
+**9.2** Explicar y argumentar la interrelación entre el propósito comunicativo y las elecciones lingüísticas del emisor, así como sus efectos en el receptor, utilizando el conocimiento explícito de la lengua y un metalenguaje específico.
 
-9.3 Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
+**9.3** Elaborar y presentar los resultados de pequeños proyectos de investigación sobre aspectos relevantes del funcionamiento de la lengua, formulando hipótesis y estableciendo generalizaciones, utilizando los conceptos y la terminología lingüística adecuada y consultando de manera autónoma diccionarios, manuales y gramáticas.
 
 Competencia específica 10.
 
-10.1 Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
+**10.1** Identificar y desterrar los usos discriminatorios de la lengua, los abusos de poder a través de la palabra y los usos manipuladores del lenguaje a partir de la reflexión y el análisis de los elementos lingüísticos, textuales y discursivos utilizados, así como de los elementos no verbales que rigen la comunicación entre las personas.
 
-10.2 Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social.
+**10.2** Utilizar estrategias para la resolución dialogada de los conflictos y la búsqueda de consensos tanto en el ámbito personal como educativo y social.
 
 Saberes básicos.
 
@@ -7228,47 +7230,47 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL5, C
 
 Competencia específica 1.
 
-1.1 Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos de cierta longitud, bien organizados y de cierta complejidad, orales, escritos y multimodales, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
+**1.1** Extraer y analizar las ideas principales, la información relevante y las implicaciones generales de textos de cierta longitud, bien organizados y de cierta complejidad, orales, escritos y multimodales, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
 
-1.2 Interpretar y valorar de manera crítica el contenido, la intención y los rasgos discursivos de textos de cierta longitud y complejidad, con especial énfasis en los textos académicos y de los medios de comunicación, así como de textos de ficción, sobre temas generales o más específicos, de relevancia personal o de interés público.
+**1.2** Interpretar y valorar de manera crítica el contenido, la intención y los rasgos discursivos de textos de cierta longitud y complejidad, con especial énfasis en los textos académicos y de los medios de comunicación, así como de textos de ficción, sobre temas generales o más específicos, de relevancia personal o de interés público.
 
-1.3 Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender la información global y específica, y distinguir la intención y las opiniones, tanto implícitas como explícitas (siempre que estén claramente señalizadas), de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información.
+**1.3** Seleccionar, organizar y aplicar las estrategias y conocimientos adecuados para comprender la información global y específica, y distinguir la intención y las opiniones, tanto implícitas como explícitas (siempre que estén claramente señalizadas), de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información.
 
 Competencia específica 2.
 
-2.1 Expresar oralmente con suficiente fluidez y corrección textos claros, coherentes, bien organizados, adecuados a la situación comunicativa y en diferentes registros sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, utilizando recursos verbales y no verbales, así como estrategias de planificación, control, compensación y cooperación.
+**2.1** Expresar oralmente con suficiente fluidez y corrección textos claros, coherentes, bien organizados, adecuados a la situación comunicativa y en diferentes registros sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, utilizando recursos verbales y no verbales, así como estrategias de planificación, control, compensación y cooperación.
 
-2.2 Redactar y difundir textos detallados de cierta extensión y complejidad y de estructura clara, adecuados a la situación comunicativa, a la tipología textual y a las herramientas analógicas y digitales utilizadas, evitando errores que dificulten o impidan la comprensión, reformulando y organizando de manera coherente información e ideas de diversas fuentes y justificando las propias opiniones, sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, haciendo un uso ético del lenguaje, respetando la propiedad intelectual y evitando el plagio.
+**2.2** Redactar y difundir textos detallados de cierta extensión y complejidad y de estructura clara, adecuados a la situación comunicativa, a la tipología textual y a las herramientas analógicas y digitales utilizadas, evitando errores que dificulten o impidan la comprensión, reformulando y organizando de manera coherente información e ideas de diversas fuentes y justificando las propias opiniones, sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, haciendo un uso ético del lenguaje, respetando la propiedad intelectual y evitando el plagio.
 
-2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos de estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
+**2.3** Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos de estructura clara y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
 Competencia específica 3.
 
-3.1 Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas de relevancia personal o de interés público conocidos por el alumnado, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores e interlocutoras, y ofreciendo explicaciones, argumentos y comentarios.
+**3.1** Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas de relevancia personal o de interés público conocidos por el alumnado, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores e interlocutoras, y ofreciendo explicaciones, argumentos y comentarios.
 
-3.2 Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
+**3.2** Seleccionar, organizar y utilizar, de forma flexible y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
 Competencia específica 4.
 
-4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
+**4.1** Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas frecuentes de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
-4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
+**4.2** Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y el conocimiento previo de los interlocutores e interlocutoras.
 
 Competencia específica 5.
 
-5.1 Comparar y argumentar las semejanzas y diferencias entre distintas lenguas reflexionando sobre su funcionamiento y estableciendo relaciones entre ellas.
+**5.1** Comparar y argumentar las semejanzas y diferencias entre distintas lenguas reflexionando sobre su funcionamiento y estableciendo relaciones entre ellas.
 
-5.2 Utilizar con iniciativa y de forma creativa estrategias y conocimientos de mejora de la capacidad de comunicar y de aprender la lengua extranjera con apoyo de otros participantes y de soportes analógicos y digitales.
+**5.2** Utilizar con iniciativa y de forma creativa estrategias y conocimientos de mejora de la capacidad de comunicar y de aprender la lengua extranjera con apoyo de otros participantes y de soportes analógicos y digitales.
 
-5.3 Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
+**5.3** Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera, seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
 
 Competencia específica 6.
 
-6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y solucionando aquellos factores socioculturales que dificulten la comunicación.
+**6.1** Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, analizando y rechazando cualquier tipo de discriminación, prejuicio y estereotipo, y solucionando aquellos factores socioculturales que dificulten la comunicación.
 
-6.2 Valorar críticamente la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera teniendo en cuenta los derechos humanos y adecuarse a ella, favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
+**6.2** Valorar críticamente la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera teniendo en cuenta los derechos humanos y adecuarse a ella, favoreciendo el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
 
-6.3 Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
+**6.3** Aplicar estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
 
 Saberes básicos.
 
@@ -7330,47 +7332,47 @@ C. Interculturalidad.
 
 Competencia específica 1.
 
-1.1 Extraer y analizar las ideas principales, la información detallada y las implicaciones generales de textos de cierta longitud, bien organizados y complejos, orales, escritos y multimodales, tanto en registro formal como informal, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar o en variedades frecuentes, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
+**1.1** Extraer y analizar las ideas principales, la información detallada y las implicaciones generales de textos de cierta longitud, bien organizados y complejos, orales, escritos y multimodales, tanto en registro formal como informal, sobre temas de relevancia personal o de interés público, tanto concretos como abstractos, expresados de forma clara y en la lengua estándar o en variedades frecuentes, incluso en entornos moderadamente ruidosos, a través de diversos soportes.
 
-1.2 Interpretar y valorar de manera crítica el contenido, la intención, los rasgos discursivos y ciertos matices, como la ironía o el uso estético de la lengua, de textos de cierta longitud y complejidad, con especial énfasis en los textos académicos y de los medios de comunicación, así como de textos de ficción, sobre una amplia variedad de temas de relevancia personal o de interés público.
+**1.2** Interpretar y valorar de manera crítica el contenido, la intención, los rasgos discursivos y ciertos matices, como la ironía o el uso estético de la lengua, de textos de cierta longitud y complejidad, con especial énfasis en los textos académicos y de los medios de comunicación, así como de textos de ficción, sobre una amplia variedad de temas de relevancia personal o de interés público.
 
-1.3 Seleccionar, organizar y aplicar las estrategias y conocimientos más adecuados en cada situación comunicativa para comprender el sentido general, la información esencial y los detalles más relevantes y para distinguir la intención y las opiniones, tanto implícitas como explícitas de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información veraz.
+**1.3** Seleccionar, organizar y aplicar las estrategias y conocimientos más adecuados en cada situación comunicativa para comprender el sentido general, la información esencial y los detalles más relevantes y para distinguir la intención y las opiniones, tanto implícitas como explícitas de los textos; inferir significados e interpretar elementos no verbales; y buscar, seleccionar y contrastar información veraz.
 
 Competencia específica 2.
 
-2.1 Expresar oralmente con suficiente fluidez, facilidad y naturalidad, diversos tipos de textos claros, coherentes, detallados, bien organizados y adecuados al interlocutor o interlocutora y al propósito comunicativo sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, evitando errores importantes y utilizando registros adecuados, así como recursos verbales y no verbales, y estrategias de planificación, control, compensación y cooperación.
+**2.1** Expresar oralmente con suficiente fluidez, facilidad y naturalidad, diversos tipos de textos claros, coherentes, detallados, bien organizados y adecuados al interlocutor o interlocutora y al propósito comunicativo sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, con el fin de describir, narrar, argumentar e informar, en diferentes soportes, evitando errores importantes y utilizando registros adecuados, así como recursos verbales y no verbales, y estrategias de planificación, control, compensación y cooperación.
 
-2.2 Redactar y difundir textos detallados de creciente extensión, bien estructurados y de cierta complejidad, adecuados a la situación comunicativa, a la tipología textual y a las herramientas analógicas y digitales utilizadas evitando errores importantes y reformulando, sintetizando y organizando de manera coherente información e ideas de diversas fuentes y justificando las propias opiniones sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, haciendo un uso ético del lenguaje, respetando la propiedad intelectual y evitando el plagio.
+**2.2** Redactar y difundir textos detallados de creciente extensión, bien estructurados y de cierta complejidad, adecuados a la situación comunicativa, a la tipología textual y a las herramientas analógicas y digitales utilizadas evitando errores importantes y reformulando, sintetizando y organizando de manera coherente información e ideas de diversas fuentes y justificando las propias opiniones sobre asuntos de relevancia personal o de interés público conocidos por el alumnado, haciendo un uso ético del lenguaje, respetando la propiedad intelectual y evitando el plagio.
 
-2.3 Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos bien estructurados y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
+**2.3** Seleccionar, organizar y aplicar conocimientos y estrategias de planificación, producción, revisión y cooperación, para componer textos bien estructurados y adecuados a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando los recursos físicos o digitales más adecuados en función de la tarea y de los interlocutores e interlocutoras reales o potenciales.
 
 Competencia específica 3.
 
-3.1 Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas cotidianos, de relevancia personal o de interés público cercanos a su experiencia, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores o interlocutoras, expresando ideas y opiniones con precisión y argumentando de forma convincente.
+**3.1** Planificar, participar y colaborar asertiva y activamente, a través de diversos soportes, en situaciones interactivas sobre temas cotidianos, de relevancia personal o de interés público cercanos a su experiencia, mostrando iniciativa, empatía y respeto por la cortesía lingüística y la etiqueta digital, así como por las diferentes necesidades, ideas, inquietudes, iniciativas y motivaciones de los interlocutores o interlocutoras, expresando ideas y opiniones con precisión y argumentando de forma convincente.
 
-3.2 Seleccionar, organizar y utilizar, de forma eficaz, espontánea y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra con amabilidad, ajustar la propia contribución a la de los interlocutores e interlocutoras percibiendo sus reacciones, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
+**3.2** Seleccionar, organizar y utilizar, de forma eficaz, espontánea y en diferentes entornos, estrategias adecuadas para iniciar, mantener y terminar la comunicación, tomar y ceder la palabra con amabilidad, ajustar la propia contribución a la de los interlocutores e interlocutoras percibiendo sus reacciones, solicitar y formular aclaraciones y explicaciones, reformular, comparar y contrastar, resumir, colaborar, debatir, resolver problemas y gestionar situaciones comprometidas.
 
 Competencia específica 4.
 
-4.1 Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
+**4.1** Interpretar y explicar textos, conceptos y comunicaciones en situaciones en las que atender a la diversidad, mostrando respeto y aprecio por los interlocutores e interlocutoras y por las lenguas, variedades o registros empleados, y participando en la solución de problemas de intercomprensión y de entendimiento, a partir de diversos recursos y soportes.
 
-4.2 Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y del conocimiento previo y los intereses e ideas de los interlocutores e interlocutoras.
+**4.2** Aplicar estrategias que ayuden a crear puentes, faciliten la comunicación y sirvan para explicar y simplificar textos, conceptos y mensajes, y que sean adecuadas a las intenciones comunicativas, las características contextuales, los aspectos socioculturales y la tipología textual, usando recursos y apoyos físicos o digitales en función de la tarea y del conocimiento previo y los intereses e ideas de los interlocutores e interlocutoras.
 
 Competencia específica 5.
 
-5.1 Comparar y contrastar las semejanzas y diferencias entre distintas lenguas reflexionando de forma sistemática sobre su funcionamiento y estableciendo relaciones entre ellas.
+**5.1** Comparar y contrastar las semejanzas y diferencias entre distintas lenguas reflexionando de forma sistemática sobre su funcionamiento y estableciendo relaciones entre ellas.
 
-5.2 Utilizar con iniciativa y de forma creativa estrategias y conocimientos de mejora de la capacidad de comunicar y de aprender la lengua extranjera, con o sin apoyo de otros interlocutores e interlocutoras y de soportes analógicos y digitales.
+**5.2** Utilizar con iniciativa y de forma creativa estrategias y conocimientos de mejora de la capacidad de comunicar y de aprender la lengua extranjera, con o sin apoyo de otros interlocutores e interlocutoras y de soportes analógicos y digitales.
 
-5.3 Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
+**5.3** Registrar y reflexionar sobre los progresos y dificultades de aprendizaje de la lengua extranjera seleccionando las estrategias más adecuadas y eficaces para superar esas dificultades y consolidar el aprendizaje, realizando actividades de planificación del propio aprendizaje, autoevaluación y coevaluación, como las propuestas en el Portfolio Europeo de las Lenguas (PEL) o en un diario de aprendizaje, haciendo esos progresos y dificultades explícitos y compartiéndolos.
 
 Competencia específica 6.
 
-6.1 Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, rechazando y evaluando cualquier tipo de discriminación, prejuicio y estereotipo y solucionando a aquellos factores socioculturales que dificulten la comunicación.
+**6.1** Actuar de forma adecuada, empática y respetuosa en situaciones interculturales construyendo vínculos entre las diferentes lenguas y culturas, rechazando y evaluando cualquier tipo de discriminación, prejuicio y estereotipo y solucionando a aquellos factores socioculturales que dificulten la comunicación.
 
-6.2 Valorar críticamente la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera teniendo en cuenta los derechos humanos y adecuarse a ella favoreciendo y justificando el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
+**6.2** Valorar críticamente la diversidad lingüística, cultural y artística propia de países donde se habla la lengua extranjera teniendo en cuenta los derechos humanos y adecuarse a ella favoreciendo y justificando el desarrollo de una cultura compartida y una ciudadanía comprometida con la sostenibilidad y los valores democráticos.
 
-6.3 Aplicar de forma sistemática estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
+**6.3** Aplicar de forma sistemática estrategias para defender y apreciar la diversidad lingüística, cultural y artística, atendiendo a valores ecosociales y democráticos y respetando los principios de justicia, equidad e igualdad.
 
 Saberes básicos.
 
@@ -7496,37 +7498,37 @@ Esta competencia específica se conecta con los siguientes descriptores: CP1, CD
 
 Competencia específica 1.
 
-1.1 Reconocer y describir los diferentes parámetros y elementos musicales de una obra, aplicando estrategias de escucha activa y utilizando un vocabulario específico adecuado.
+**1.1** Reconocer y describir los diferentes parámetros y elementos musicales de una obra, aplicando estrategias de escucha activa y utilizando un vocabulario específico adecuado.
 
-1.2 Describir las sensaciones que genera la música y su posible vinculación con las características de la obra, reflexionando sobre aspectos subjetivos inherentes a la escucha musical.
+**1.2** Describir las sensaciones que genera la música y su posible vinculación con las características de la obra, reflexionando sobre aspectos subjetivos inherentes a la escucha musical.
 
 Competencia específica 2.
 
-2.1 Describir las principales características de los elementos musicales (melodía, ritmo, armonía, timbre, etc.) presentes en partituras con grafía convencional y no convencional de obras de distintos estilos y épocas, identificando y analizando sus elementos.
+**2.1** Describir las principales características de los elementos musicales (melodía, ritmo, armonía, timbre, etc.) presentes en partituras con grafía convencional y no convencional de obras de distintos estilos y épocas, identificando y analizando sus elementos.
 
-2.2 Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical.
+**2.2** Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical.
 
 Competencia específica 3.
 
-3.1 Leer, con autonomía, partituras sencillas, con o sin apoyo de la audición.
+**3.1** Leer, con autonomía, partituras sencillas, con o sin apoyo de la audición.
 
-3.2 Ejecutar fragmentos musicales sencillos, de forma individual o colectiva, a través de la voz, del cuerpo o de instrumentos musicales, atendiendo a las indicaciones de la partitura.
+**3.2** Ejecutar fragmentos musicales sencillos, de forma individual o colectiva, a través de la voz, del cuerpo o de instrumentos musicales, atendiendo a las indicaciones de la partitura.
 
-3.3 Desarrollar habilidades técnicas para la interpretación vocal, instrumental y coreográfica, utilizando los ensayos como espacios de escucha y de aprendizaje y aplicando estrategias de memorización musical.
+**3.3** Desarrollar habilidades técnicas para la interpretación vocal, instrumental y coreográfica, utilizando los ensayos como espacios de escucha y de aprendizaje y aplicando estrategias de memorización musical.
 
-3.4 Generar ideas musicales o coreográficas sencillas, utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas.
+**3.4** Generar ideas musicales o coreográficas sencillas, utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas.
 
 Competencia específica 4.
 
-4.1 Planificar y desarrollar proyectos musicales colaborativos, seleccionando materiales musicales trabajados o creando otros nuevos a partir de la aplicación de los aprendizajes propios de la materia.
+**4.1** Planificar y desarrollar proyectos musicales colaborativos, seleccionando materiales musicales trabajados o creando otros nuevos a partir de la aplicación de los aprendizajes propios de la materia.
 
-4.2 Asumir diferentes funciones en la planificación y desarrollo de proyectos musicales colaborativos, participando activamente en su ejecución, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.
+**4.2** Asumir diferentes funciones en la planificación y desarrollo de proyectos musicales colaborativos, participando activamente en su ejecución, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.
 
 Competencia específica 5.
 
-5.1 Desarrollar proyectos musicales, poniendo en práctica los aprendizajes adquiridos y utilizando herramientas de edición de partituras, de procesamiento del sonido y de producción audiovisual.
+**5.1** Desarrollar proyectos musicales, poniendo en práctica los aprendizajes adquiridos y utilizando herramientas de edición de partituras, de procesamiento del sonido y de producción audiovisual.
 
-5.2 Difundir producciones musicales y audiovisuales a través de plataformas digitales, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.
+**5.2** Difundir producciones musicales y audiovisuales a través de plataformas digitales, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.
 
 Saberes básicos.
 
@@ -7636,35 +7638,35 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Competencia específica 1.
 
-1.1 Explicar y argumentar la interpretación de las obras teatrales leídas o vistas, a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
+**1.1** Explicar y argumentar la interpretación de las obras teatrales leídas o vistas, a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
-1.2 Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas.
+**1.2** Leer en voz alta y colectivamente fragmentos y obras teatrales prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas.
 
 Competencia específica 2.
 
-2.1 Elaborar una interpretación personal a partir de la lectura, el visionado o la asistencia a obras relevantes de la literatura dramática que atienda a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo y valores éticos y estéticos de las obras y establezca vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+**2.1** Elaborar una interpretación personal a partir de la lectura, el visionado o la asistencia a obras relevantes de la literatura dramática que atienda a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo y valores éticos y estéticos de las obras y establezca vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
-2.2 Acceder de diversas formas a la cultura literaria dramática en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y como público teatral.
+**2.2** Acceder de diversas formas a la cultura literaria dramática en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y como público teatral.
 
-2.3 Participar en conversaciones literarias de manera que se compartan las propias experiencias de lectura, de visionado o de asistencia teatral con la ayuda de un metalenguaje específico.
+**2.3** Participar en conversaciones literarias de manera que se compartan las propias experiencias de lectura, de visionado o de asistencia teatral con la ayuda de un metalenguaje específico.
 
 Competencia específica 3.
 
-3.1 Comparar textos o fragmentos teatrales entre sí o con su puesta en escena, adaptación cinematográfica u otras representaciones artísticas relacionadas, argumentando oralmente o por escrito los elementos de semejanza y contraste tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos y con atención a los valores éticos y estéticos de las obras.
+**3.1** Comparar textos o fragmentos teatrales entre sí o con su puesta en escena, adaptación cinematográfica u otras representaciones artísticas relacionadas, argumentando oralmente o por escrito los elementos de semejanza y contraste tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos y con atención a los valores éticos y estéticos de las obras.
 
-3.2 Desarrollar proyectos de investigación que den lugar a una exposición oral, un ensayo o una presentación multimodal en torno a una cuestión que establezca vínculos argumentados entre obras de la literatura dramática objeto de lectura guiada y sus puestas en escena u otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, personajes, lenguaje, recursos expresivos y valores éticos y estéticos, y que muestre la implicación y la respuesta personal del lector en la lectura.
+**3.2** Desarrollar proyectos de investigación que den lugar a una exposición oral, un ensayo o una presentación multimodal en torno a una cuestión que establezca vínculos argumentados entre obras de la literatura dramática objeto de lectura guiada y sus puestas en escena u otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, personajes, lenguaje, recursos expresivos y valores éticos y estéticos, y que muestre la implicación y la respuesta personal del lector en la lectura.
 
-3.3 Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos teatrales leídos o vistos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre géneros, estilos y obras relevantes de la literatura dramática universal.
+**3.3** Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos teatrales leídos o vistos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre géneros, estilos y obras relevantes de la literatura dramática universal.
 
 Competencia específica 4.
 
-4.1 Crear textos teatrales personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos teatrales significativos en los que se empleen las convenciones formales del género, atendiendo especialmente a sus dos secuencias textuales básicas (diálogo y acotaciones) y al reflejo de los elementos de significación (espacio y objetos escénicos, iluminación y sonido, diseño de personajes o códigos interpretativos) en el texto escrito.
+**4.1** Crear textos teatrales personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos teatrales significativos en los que se empleen las convenciones formales del género, atendiendo especialmente a sus dos secuencias textuales básicas (diálogo y acotaciones) y al reflejo de los elementos de significación (espacio y objetos escénicos, iluminación y sonido, diseño de personajes o códigos interpretativos) en el texto escrito.
 
 Competencia específica 5.
 
-5.1 Realizar un proyecto de investigación sobre autoras de relevancia, personajes femeninos esenciales, obras teatrales de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
+**5.1** Realizar un proyecto de investigación sobre autoras de relevancia, personajes femeninos esenciales, obras teatrales de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
 
-5.2 Elaborar comentarios críticos o reseñas de textos teatrales, ya sean orales o escritos, participar en debates o mesas redondas acerca de lecturas, visionados o asistencias teatrales en los que se incorpore la perspectiva de género, se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría.
+**5.2** Elaborar comentarios críticos o reseñas de textos teatrales, ya sean orales o escritos, participar en debates o mesas redondas acerca de lecturas, visionados o asistencias teatrales en los que se incorpore la perspectiva de género, se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría.
 
 Saberes básicos.
 
@@ -7672,19 +7674,19 @@ A. Construcción guiada y compartida de la interpretación de algunos textos r
 
 1. El arte teatral.
 
-1.1 El texto teatral: Definición y elementos.
+**1.1** El texto teatral: Definición y elementos.
 
 − El libreto: Actos, cuadros y escenas; diálogo, monólogo y aparte; didascalias y acotaciones; drammatis personnae.
 
 − Estructura interna de la acción: conflicto, situación y personajes; construcción dramática y posdramática; lenguaje y estilo.
 
-1.2 El personaje teatral.
+**1.2** El personaje teatral.
 
 − Caracterización del personaje dramático: planos, funciones, personaje y acción, jerarquía, significado.
 
 − Modelos, tipologías y evolución del personaje teatral desde sus orígenes hasta la crisis del personaje en el teatro moderno.
 
-1.3 La realización escénica y el sistema estilístico.
+**1.3** La realización escénica y el sistema estilístico.
 
 − Espacio escénico-escenográfico y objeto escénico.
 
@@ -7694,17 +7696,17 @@ A. Construcción guiada y compartida de la interpretación de algunos textos r
 
 − Trabajo actoral y códigos interpretativos.
 
-1.4 La recepción teatral: la relación con el público. Catarsis, extrañamiento y participación.
+**1.4** La recepción teatral: la relación con el público. Catarsis, extrañamiento y participación.
 
 2. Temas y formas de la literatura dramática.
 
-2.1 El teatro del Yo: los personajes como modelos vitales.
+**2.1** El teatro del Yo: los personajes como modelos vitales.
 
 − Teatro biográfico: La construcción del sujeto teatral y la indagación en los grandes interrogantes de la condición humana: identidad, amor, dolor, muerte, etc.
 
 − Teatro autobiográfico: intimidad, testimonio y autorreferencialidad.
 
-2.2 Vivir con otros: el teatro como modelo de interpretación de las relaciones humanas.
+**2.2** Vivir con otros: el teatro como modelo de interpretación de las relaciones humanas.
 
 − La Tragedia: el ser humano, el destino y la ética.
 
@@ -7712,7 +7714,7 @@ A. Construcción guiada y compartida de la interpretación de algunos textos r
 
 − Comedia: humor complaciente, humor crítico.
 
-2.3 Vivir en el mundo: función y sentido del teatro.
+**2.3** Vivir en el mundo: función y sentido del teatro.
 
 − Mitologías y cosmogonías: teatro mítico y religioso de distintas tradiciones.
 
@@ -7722,7 +7724,7 @@ A. Construcción guiada y compartida de la interpretación de algunos textos r
 
 − Imaginar el mundo: comedia de magia, simbolismo, vanguardias, teatro posdramático, etc.
 
-2.4 El teatro habla del teatro: metaficción teatral.
+**2.4** El teatro habla del teatro: metaficción teatral.
 
 3. Estrategias de análisis, interpretación, y creación de textos teatrales.
 
@@ -7820,31 +7822,31 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL1, C
 
 Competencia específica 1.
 
-1.1 Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
+**1.1** Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.
 
-1.2 Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
+**1.2** Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.
 
 Competencia específica 2.
 
-2.1 Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo, y valores éticos y estéticos de las obras, y estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
+**2.1** Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo, y valores éticos y estéticos de las obras, y estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.
 
-2.2 Acceder de diversas formas a la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y compartir las propias experiencias de lectura con la ayuda de un metalenguaje específico.
+**2.2** Acceder de diversas formas a la cultura literaria en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y compartir las propias experiencias de lectura con la ayuda de un metalenguaje específico.
 
 Competencia específica 3.
 
-3.1 Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido, como formales y expresivos, atendiendo también a sus valores éticos y estéticos.
+**3.1** Comparar textos o fragmentos literarios entre sí y con otras manifestaciones artísticas argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido, como formales y expresivos, atendiendo también a sus valores éticos y estéticos.
 
-3.2 Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal y que muestren una implicación y respuesta personal, en torno a una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos.
+**3.2** Desarrollar proyectos de investigación que se concreten en una exposición oral, un ensayo o una presentación multimodal y que muestren una implicación y respuesta personal, en torno a una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos.
 
 Competencia específica 4.
 
-4.1 Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural, y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal.
+**4.1** Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural, y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal.
 
 Competencia específica 5.
 
-5.1 Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
+**5.1** Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios que propone la tradición literaria.
 
-5.2 Elaborar comentarios críticos de textos, orales o escritos, y participar en debates o mesas redondas acerca de lecturas en los que se incorpore la perspectiva de género y se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría.
+**5.2** Elaborar comentarios críticos de textos, orales o escritos, y participar en debates o mesas redondas acerca de lecturas en los que se incorpore la perspectiva de género y se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier minoría.
 
 Saberes básicos.
 
@@ -7852,7 +7854,7 @@ A. Construcción guiada y compartida de la interpretación de algunos clásico
 
 1. Temas y formas de la literatura universal.
 
-1.1 Decir el yo.
+**1.1** Decir el yo.
 
 − Poesía lírica.
 
@@ -7860,7 +7862,7 @@ A. Construcción guiada y compartida de la interpretación de algunos clásico
 
 − Narrativa existencial: personajes en crisis.
 
-1.2 Dialogar con los otros.
+**1.2** Dialogar con los otros.
 
 − Frente a la ley o el destino: la tragedia.
 
@@ -7868,7 +7870,7 @@ A. Construcción guiada y compartida de la interpretación de algunos clásico
 
 − Humor crítico, humor complaciente: la comedia.
 
-1.3 Imaginar el mundo, observar el mundo, actuar en el mundo.
+**1.3** Imaginar el mundo, observar el mundo, actuar en el mundo.
 
 − Mundos imaginados: mitos y narrativa. Mitologías. Héroes y heroínas. Viajes imaginarios. Espacios y criaturas fantásticas. Utopías, distopías, ciencia ficción.
 
@@ -7878,7 +7880,7 @@ A. Construcción guiada y compartida de la interpretación de algunos clásico
 
 − El arte como compromiso: el ensayo. La literatura de ideas.
 
-1.4 El ser humano, los animales y la naturaleza: admiración, sobrecogimiento, denuncia. Poesía, narrativa y ensayo.
+**1.4** El ser humano, los animales y la naturaleza: admiración, sobrecogimiento, denuncia. Poesía, narrativa y ensayo.
 
 2. Estrategias de análisis, interpretación, recreación y valoración crítica para la lectura compartida:
 
@@ -8022,57 +8024,57 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 Competencia específica 1.
 
-1.1 Manejar algunas estrategias y herramientas, incluidas las digitales, en la modelización y resolución de problemas de la vida cotidiana y de la ciencia y la tecnología, evaluando su eficiencia en cada caso.
+**1.1** Manejar algunas estrategias y herramientas, incluidas las digitales, en la modelización y resolución de problemas de la vida cotidiana y de la ciencia y la tecnología, evaluando su eficiencia en cada caso.
 
-1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
+**1.2** Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
 
 Competencia específica 2.
 
-2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
+**2.1** Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
-2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
+**2.2** Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
 Competencia específica 3.
 
-3.1 Adquirir nuevo conocimiento matemático a partir de la formulación de conjeturas y problemas de forma guiada.
+**3.1** Adquirir nuevo conocimiento matemático a partir de la formulación de conjeturas y problemas de forma guiada.
 
-3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
+**3.2** Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
 
 Competencia específica 4.
 
-4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando y creando algoritmos.
+**4.1** Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando y creando algoritmos.
 
 Competencia específica 5.
 
-5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
+**5.1** Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
-5.2 Resolver problemas en contextos matemáticos, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
+**5.2** Resolver problemas en contextos matemáticos, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
 Competencia específica 6.
 
-6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
+**6.1** Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
-6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
+**6.2** Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
 
 Competencia específica 7.
 
-7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
+**7.1** Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
-7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
+**7.2** Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
 Competencia específica 8.
 
-8.1 Mostrar organización al comunicar las ideas matemáticas empleando el soporte, la terminología y el rigor apropiados.
+**8.1** Mostrar organización al comunicar las ideas matemáticas empleando el soporte, la terminología y el rigor apropiados.
 
-8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
+**8.2** Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
 Competencia específica 9.
 
-9.1 Afrontar las situaciones de incertidumbre identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
+**9.1** Afrontar las situaciones de incertidumbre identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
-9.2 Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
+**9.2** Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
 
-9.3 Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar grupal y las relaciones saludables.
+**9.3** Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar grupal y las relaciones saludables.
 
 Saberes básicos.
 
@@ -8208,57 +8210,57 @@ F. Sentido socioafectivo.
 
 Competencia específica 1.
 
-1.1 Manejar diferentes estrategias y herramientas, incluidas las digitales, que modelizan y resuelven problemas de la vida cotidiana y de la ciencia y la tecnología, seleccionando las más adecuadas según su eficiencia.
+**1.1** Manejar diferentes estrategias y herramientas, incluidas las digitales, que modelizan y resuelven problemas de la vida cotidiana y de la ciencia y la tecnología, seleccionando las más adecuadas según su eficiencia.
 
-1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
+**1.2** Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de la ciencia y la tecnología, describiendo el procedimiento utilizado.
 
 Competencia específica 2.
 
-2.1 Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
+**2.1** Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
-2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
+**2.2** Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
 Competencia específica 3.
 
-3.1 Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
+**3.1** Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
 
-3.2 Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
+**3.2** Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
 
 Competencia específica 4.
 
-4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
+**4.1** Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de la ciencia y la tecnología, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
 
 Competencia específica 5.
 
-5.1 Demostrar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
+**5.1** Demostrar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
-5.2 Resolver problemas en contextos matemáticos estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
+**5.2** Resolver problemas en contextos matemáticos estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
 Competencia específica 6.
 
-6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
+**6.1** Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
-6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
+**6.2** Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos científicos y tecnológicos que se plantean en la sociedad.
 
 Competencia específica 7.
 
-7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
+**7.1** Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
-7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
+**7.2** Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
 Competencia específica 8.
 
-8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
+**8.1** Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
-8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
+**8.2** Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
 Competencia específica 9.
 
-9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones, y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
+**9.1** Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones, y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
-9.2 Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
+**9.2** Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
 
-9.3 Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
+**9.3** Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
 
 Saberes básicos.
 
@@ -8492,57 +8494,57 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 Competencia específica 1.
 
-1.1 Emplear algunas estrategias y herramientas, incluidas las digitales, en la resolución de problemas de la vida cotidiana y de las ciencias sociales, valorando su eficiencia en cada caso.
+**1.1** Emplear algunas estrategias y herramientas, incluidas las digitales, en la resolución de problemas de la vida cotidiana y de las ciencias sociales, valorando su eficiencia en cada caso.
 
-1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
+**1.2** Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
 
 Competencia específica 2.
 
-2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
+**2.1** Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
-2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
+**2.2** Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
 Competencia específica 3.
 
-3.1 Adquirir nuevo conocimiento matemático mediante la formulación de conjeturas y problemas de forma guiada.
+**3.1** Adquirir nuevo conocimiento matemático mediante la formulación de conjeturas y problemas de forma guiada.
 
-3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
+**3.2** Emplear herramientas tecnológicas adecuadas en la formulación o investigación de conjeturas o problemas.
 
 Competencia específica 4.
 
-4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de las ciencias sociales, utilizando el pensamiento computacional, modificando y creando algoritmos.
+**4.1** Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y de las ciencias sociales, utilizando el pensamiento computacional, modificando y creando algoritmos.
 
 Competencia específica 5.
 
-5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
+**5.1** Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
-5.2 Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
+**5.2** Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
 Competencia específica 6.
 
-6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
+**6.1** Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
-6.2 Analizar la aportación de las matemáticas al progreso de la humanidad reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos en las ciencias sociales que se planteen.
+**6.2** Analizar la aportación de las matemáticas al progreso de la humanidad reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos en las ciencias sociales que se planteen.
 
 Competencia específica 7.
 
-7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
+**7.1** Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
-7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
+**7.2** Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
 Competencia específica 8.
 
-8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
+**8.1** Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
-8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
+**8.2** Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
 Competencia específica 9.
 
-9.1 Afrontar las situaciones de incertidumbre, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
+**9.1** Afrontar las situaciones de incertidumbre, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
-9.2 Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
+**9.2** Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
 
-9.3 Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar grupal y las relaciones saludables.
+**9.3** Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar grupal y las relaciones saludables.
 
 Saberes básicos.
 
@@ -8666,55 +8668,55 @@ E. Sentido socioafectivo.
 
 Competencia específica 1.
 
-1.1 Emplear diferentes estrategias y herramientas, incluidas las digitales que resuelvan problemas de la vida cotidiana y de las ciencias sociales, seleccionando la más adecuada según su eficiencia.
+**1.1** Emplear diferentes estrategias y herramientas, incluidas las digitales que resuelvan problemas de la vida cotidiana y de las ciencias sociales, seleccionando la más adecuada según su eficiencia.
 
-1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
+**1.2** Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, describiendo el procedimiento realizado.
 
 Competencia específica 2.
 
-2.1 Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
+**2.1** Demostrar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento y la argumentación.
 
-2.2 Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
+**2.2** Seleccionar la solución más adecuada de un problema en función del contexto (de sostenibilidad, de consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
 Competencia específica 3.
 
-3.1 Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
+**3.1** Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.
 
-3.2 Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
+**3.2** Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.
 
 Competencia específica 4.
 
-4.1 Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y las ciencias sociales, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
+**4.1** Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y las ciencias sociales, utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.
 
 Competencia específica 5.
 
-5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
+**5.1** Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
 Competencia específica 6.
 
-6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
+**6.1** Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
-6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en las ciencias sociales.
+**6.2** Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en las ciencias sociales.
 
 Competencia específica 7.
 
-7.1 Representar y visualizar ideas matemáticas, estructurando diferentes procesos matemáticos y seleccionando las tecnologías más adecuadas.
+**7.1** Representar y visualizar ideas matemáticas, estructurando diferentes procesos matemáticos y seleccionando las tecnologías más adecuadas.
 
-7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
+**7.2** Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
 Competencia específica 8.
 
-8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
+**8.1** Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
-8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
+**8.2** Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
 Competencia específica 9.
 
-9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
+**9.1** Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
-9.2 Mostrar perseverancia y una motivación positiva, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
+**9.2** Mostrar perseverancia y una motivación positiva, aceptando y aprendiendo de la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
 
-9.3 Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
+**9.3** Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de los demás, escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
 
 Saberes básicos.
 
@@ -8924,57 +8926,57 @@ Esta competencia específica se conecta con los siguientes descriptores: CP3, ST
 
 Competencia específica 1.
 
-1.1 Emplear diferentes estrategias y herramientas, incluidas las digitales, que resuelvan problemas de la vida cotidiana y de ámbitos diversos, seleccionando la más adecuada en cada caso.
+**1.1** Emplear diferentes estrategias y herramientas, incluidas las digitales, que resuelvan problemas de la vida cotidiana y de ámbitos diversos, seleccionando la más adecuada en cada caso.
 
-1.2 Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de ámbitos diversos, describiendo el procedimiento realizado.
+**1.2** Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de ámbitos diversos, describiendo el procedimiento realizado.
 
 Competencia específica 2.
 
-2.1 Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento, la argumentación y las herramientas digitales.
+**2.1** Comprobar la validez matemática de las posibles soluciones de un problema, utilizando el razonamiento, la argumentación y las herramientas digitales.
 
-2.2 Seleccionar la solución más adecuada de un problema en función del contexto (sostenibilidad, consumo responsable, equidad.), usando el razonamiento y la argumentación.
+**2.2** Seleccionar la solución más adecuada de un problema en función del contexto (sostenibilidad, consumo responsable, equidad.), usando el razonamiento y la argumentación.
 
 Competencia específica 3.
 
-3.1 Adquirir nuevo conocimiento matemático mediante la formulación de preguntas de naturaleza matemática de forma autónoma.
+**3.1** Adquirir nuevo conocimiento matemático mediante la formulación de preguntas de naturaleza matemática de forma autónoma.
 
-3.2 Emplear herramientas tecnológicas adecuadas en la formulación o investigación de preguntas o problemas.
+**3.2** Emplear herramientas tecnológicas adecuadas en la formulación o investigación de preguntas o problemas.
 
 Competencia específica 4.
 
-4.1 Interpretar, modelizar y resolver situaciones problematizadas de ámbitos diversos, utilizando el pensamiento computacional, modificando o creando algoritmos.
+**4.1** Interpretar, modelizar y resolver situaciones problematizadas de ámbitos diversos, utilizando el pensamiento computacional, modificando o creando algoritmos.
 
 Competencia específica 5.
 
-5.1 Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
+**5.1** Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.
 
-5.2 Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
+**5.2** Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.
 
 Competencia específica 6.
 
-6.1 Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
+**6.1** Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.
 
-6.2 Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en la sociedad.
+**6.2** Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en la sociedad.
 
 Competencia específica 7.
 
-7.1 Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
+**7.1** Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.
 
-7.2 Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
+**7.2** Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.
 
 Competencia específica 8.
 
-8.1 Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
+**8.1** Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.
 
-8.2 Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
+**8.2** Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.
 
 Competencia específica 9.
 
-9.1 Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
+**9.1** Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.
 
-9.2 Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
+**9.2** Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.
 
-9.3 Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de las demás personas, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
+**9.3** Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de las demás personas, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.
 
 Saberes básicos.
 
@@ -9162,43 +9164,43 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 Competencia específica 1.
 
-1.1 Identificar los aspectos singulares de diversas manifestaciones culturales y artísticas desde las vanguardias hasta la actualidad, relacionándolos con el sentido de dichas obras, con los contextos en los que han sido producidas y con la tradición artística, de forma abierta, crítica y respetuosa.
+**1.1** Identificar los aspectos singulares de diversas manifestaciones culturales y artísticas desde las vanguardias hasta la actualidad, relacionándolos con el sentido de dichas obras, con los contextos en los que han sido producidas y con la tradición artística, de forma abierta, crítica y respetuosa.
 
-1.2 Establecer relaciones entre manifestaciones culturales de distintos campos creativos de los principales movimientos culturales y artísticos contemporáneos, identificando elementos comunes que configuran el espíritu de su época.
+**1.2** Establecer relaciones entre manifestaciones culturales de distintos campos creativos de los principales movimientos culturales y artísticos contemporáneos, identificando elementos comunes que configuran el espíritu de su época.
 
-1.3 Investigar acerca del papel de los movimientos culturales y artísticos como motores de cambio y evolución de la sociedad, recurriendo a fuentes fiables.
+**1.3** Investigar acerca del papel de los movimientos culturales y artísticos como motores de cambio y evolución de la sociedad, recurriendo a fuentes fiables.
 
 Competencia específica 2.
 
-2.1 Explicar la importancia de la promoción, conservación y puesta en valor del patrimonio artístico y cultural.
+**2.1** Explicar la importancia de la promoción, conservación y puesta en valor del patrimonio artístico y cultural.
 
-2.2 Explicar la repercusión y el compromiso social del arte, analizando ejemplos que muestren la implicación de las personas creadoras y los efectos generados en la sociedad.
+**2.2** Explicar la repercusión y el compromiso social del arte, analizando ejemplos que muestren la implicación de las personas creadoras y los efectos generados en la sociedad.
 
-2.3 Analizar la importancia de la diversidad cultural y de la libre expresión en el arte a partir del estudio de manifestaciones culturales y artísticas diversas, incluyendo las realizadas por mujeres o las procedentes de ámbitos diferentes a la cultura occidental.
+**2.3** Analizar la importancia de la diversidad cultural y de la libre expresión en el arte a partir del estudio de manifestaciones culturales y artísticas diversas, incluyendo las realizadas por mujeres o las procedentes de ámbitos diferentes a la cultura occidental.
 
-2.4 Desarrollar proyectos de investigación individuales o colectivos que muestren una implicación y una respuesta personales en torno a la libre expresión artística y sus posibles límites, partiendo del análisis de casos concretos.
+**2.4** Desarrollar proyectos de investigación individuales o colectivos que muestren una implicación y una respuesta personales en torno a la libre expresión artística y sus posibles límites, partiendo del análisis de casos concretos.
 
 Competencia específica 3.
 
-3.1 Identificar y explicar las características de diversas producciones culturales y artísticas a partir del análisis de sus lenguajes y códigos propios.
+**3.1** Identificar y explicar las características de diversas producciones culturales y artísticas a partir del análisis de sus lenguajes y códigos propios.
 
-3.2 Investigar y analizar la presencia de referentes comunes en distintas manifestaciones culturales y artísticas, comparando sus temas, lenguajes o intencionalidades.
+**3.2** Investigar y analizar la presencia de referentes comunes en distintas manifestaciones culturales y artísticas, comparando sus temas, lenguajes o intencionalidades.
 
-3.3 Debatir sobre diferentes propuestas culturales y artísticas, intercambiando las opiniones y los sentimientos experimentados, e incorporando juicios de valor vinculados a la apreciación estética de las obras de manera argumentada, constructiva y respetuosa.
+**3.3** Debatir sobre diferentes propuestas culturales y artísticas, intercambiando las opiniones y los sentimientos experimentados, e incorporando juicios de valor vinculados a la apreciación estética de las obras de manera argumentada, constructiva y respetuosa.
 
 Competencia específica 4.
 
-4.1 Argumentar la influencia y aportaciones que los nuevos lenguajes y tecnologías han incorporado en la cultura y el arte recientes, a partir del análisis crítico de diferentes producciones, valorando la actitud innovadora de las personas creadoras.
+**4.1** Argumentar la influencia y aportaciones que los nuevos lenguajes y tecnologías han incorporado en la cultura y el arte recientes, a partir del análisis crítico de diferentes producciones, valorando la actitud innovadora de las personas creadoras.
 
-4.2 Explorar, explicar y valorar la repercusión social y económica de diferentes manifestaciones culturales y artísticas, reflexionando sobre las oportunidades personales y profesionales que ofrecen.
+**4.2** Explorar, explicar y valorar la repercusión social y económica de diferentes manifestaciones culturales y artísticas, reflexionando sobre las oportunidades personales y profesionales que ofrecen.
 
-4.3 Identificar una variedad de ámbitos y espacios en los que se desarrolla la práctica cultural y artística en la actualidad, analizando de qué modo condicionan las manifestaciones que acogen.
+**4.3** Identificar una variedad de ámbitos y espacios en los que se desarrolla la práctica cultural y artística en la actualidad, analizando de qué modo condicionan las manifestaciones que acogen.
 
 Competencia específica 5.
 
-5.1 Explorar diferentes manifestaciones culturales y artísticas actuales con interés, curiosidad y respeto, identificando su valor expresivo y comunicativo tanto de la individualidad de las personas creadoras, como de la sociedad en la que se producen.
+**5.1** Explorar diferentes manifestaciones culturales y artísticas actuales con interés, curiosidad y respeto, identificando su valor expresivo y comunicativo tanto de la individualidad de las personas creadoras, como de la sociedad en la que se producen.
 
-5.2 Explicar algunas de las repercusiones medioambientales, sociales y económicas de la cultura y el arte sobre la sociedad actual, explorando alternativas que favorezcan la consecución de los objetivos de desarrollo sostenible.
+**5.2** Explicar algunas de las repercusiones medioambientales, sociales y económicas de la cultura y el arte sobre la sociedad actual, explorando alternativas que favorezcan la consecución de los objetivos de desarrollo sostenible.
 
 Saberes básicos.
 
@@ -9334,43 +9336,43 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL2, C
 
 Competencia específica 1.
 
-1.1 Generar y perfeccionar ideas de proyecto, consultando distintas fuentes, elaborando bocetos y maquetas, y experimentando con las técnicas y estrategias artísticas más adecuadas en cada caso.
+**1.1** Generar y perfeccionar ideas de proyecto, consultando distintas fuentes, elaborando bocetos y maquetas, y experimentando con las técnicas y estrategias artísticas más adecuadas en cada caso.
 
-1.2 Seleccionar una propuesta concreta para un proyecto, justificando su relevancia artística, su viabilidad, su sostenibilidad y su adecuación a la intención con la que fue concebida y a las características del marco de recepción previsto.
+**1.2** Seleccionar una propuesta concreta para un proyecto, justificando su relevancia artística, su viabilidad, su sostenibilidad y su adecuación a la intención con la que fue concebida y a las características del marco de recepción previsto.
 
 Competencia específica 2.
 
-2.1 Establecer el plan de trabajo de un proyecto artístico, organizando correctamente sus fases, evaluando su sostenibilidad y ajustándolo a los plazos, a las características del espacio y, en su caso, al presupuesto previsto.
+**2.1** Establecer el plan de trabajo de un proyecto artístico, organizando correctamente sus fases, evaluando su sostenibilidad y ajustándolo a los plazos, a las características del espacio y, en su caso, al presupuesto previsto.
 
-2.2 Proponer soluciones creativas en la organización de un proyecto artístico, buscando el máximo aprovechamiento de los recursos disponibles.
+**2.2** Proponer soluciones creativas en la organización de un proyecto artístico, buscando el máximo aprovechamiento de los recursos disponibles.
 
 Competencia específica 3.
 
-3.1 Participar activamente en la realización de proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones y seleccionando los espacios, las técnicas, los medios y los soportes más adecuados.
+**3.1** Participar activamente en la realización de proyectos artísticos, individuales o colectivos, asumiendo diferentes funciones y seleccionando los espacios, las técnicas, los medios y los soportes más adecuados.
 
-3.2 Explicar, de forma razonada, la intención expresiva o funcional de un proyecto artístico, detallando los efectos que se espera que este tenga en el entorno.
+**3.2** Explicar, de forma razonada, la intención expresiva o funcional de un proyecto artístico, detallando los efectos que se espera que este tenga en el entorno.
 
-3.3 Argumentar las decisiones relativas a la ejecución del proyecto, asegurando la coherencia de estas decisiones con la intención expresiva o funcional y con los efectos esperados.
+**3.3** Argumentar las decisiones relativas a la ejecución del proyecto, asegurando la coherencia de estas decisiones con la intención expresiva o funcional y con los efectos esperados.
 
-3.4 Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
+**3.4** Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma crítica y respetuosa.
 
 Competencia específica 4.
 
-4.1 Compartir, a través de diversos medios y soportes, las distintas fases del proyecto, poniéndolo en relación con el resultado final esperado y recabando, de manera abierta y respetuosa, las críticas, los comentarios y las aportaciones de mejora formuladas por distintas personas, incluido el público receptor.
+**4.1** Compartir, a través de diversos medios y soportes, las distintas fases del proyecto, poniéndolo en relación con el resultado final esperado y recabando, de manera abierta y respetuosa, las críticas, los comentarios y las aportaciones de mejora formuladas por distintas personas, incluido el público receptor.
 
-4.2 Valorar las críticas, los comentarios y las aportaciones de mejora recibidas, incorporando de manera justificada aquellas que redunden en beneficio del proyecto y de su repercusión en el entorno.
+**4.2** Valorar las críticas, los comentarios y las aportaciones de mejora recibidas, incorporando de manera justificada aquellas que redunden en beneficio del proyecto y de su repercusión en el entorno.
 
-4.3 Evaluar la repercusión que el proyecto ha tenido en el entorno, considerando las valoraciones del público receptor y analizando el logro de la intención inicial planteada, así como la pertinencia de las soluciones puestas en práctica ante las dificultades afrontadas a lo largo del proceso.
+**4.3** Evaluar la repercusión que el proyecto ha tenido en el entorno, considerando las valoraciones del público receptor y analizando el logro de la intención inicial planteada, así como la pertinencia de las soluciones puestas en práctica ante las dificultades afrontadas a lo largo del proceso.
 
 Competencia específica 5.
 
-5.1 Seleccionar diversas fuentes para la elaboración del proyecto, justificando su utilidad teórica, informativa o inspiradora.
+**5.1** Seleccionar diversas fuentes para la elaboración del proyecto, justificando su utilidad teórica, informativa o inspiradora.
 
-5.2 Elaborar la documentación necesaria para desarrollar un proyecto artístico, considerando las posibilidades de aplicación y ajustándose a los modelos más adecuados.
+**5.2** Elaborar la documentación necesaria para desarrollar un proyecto artístico, considerando las posibilidades de aplicación y ajustándose a los modelos más adecuados.
 
-5.3 Registrar las distintas fases del proyecto, adoptando un enfoque reflexivo y de autoevaluación.
+**5.3** Registrar las distintas fases del proyecto, adoptando un enfoque reflexivo y de autoevaluación.
 
-5.4 Archivar correctamente la documentación, garantizando la accesibilidad y la facilidad de su recuperación.
+**5.4** Archivar correctamente la documentación, garantizando la accesibilidad y la facilidad de su recuperación.
 
 Saberes básicos.
 
@@ -9468,53 +9470,53 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM4, 
 
 Competencia específica 1.
 
-1.1 Reconocer la importancia de la química y sus conexiones con otras áreas en el desarrollo de la sociedad, el progreso de la ciencia, la tecnología, la economía y el desarrollo sostenible respetuoso con el medioambiente, identificando los avances en el campo de la química que han sido fundamentales en estos aspectos.
+**1.1** Reconocer la importancia de la química y sus conexiones con otras áreas en el desarrollo de la sociedad, el progreso de la ciencia, la tecnología, la economía y el desarrollo sostenible respetuoso con el medioambiente, identificando los avances en el campo de la química que han sido fundamentales en estos aspectos.
 
-1.2 Describir los principales procesos químicos que suceden en el entorno y las propiedades de los sistemas materiales a partir de los conocimientos, destrezas y actitudes propios de las distintas ramas de la química.
+**1.2** Describir los principales procesos químicos que suceden en el entorno y las propiedades de los sistemas materiales a partir de los conocimientos, destrezas y actitudes propios de las distintas ramas de la química.
 
-1.3 Reconocer la naturaleza experimental e interdisciplinar de la química y su influencia en la investigación científica y en los ámbitos económico y laboral actuales, considerando los hechos empíricos y sus aplicaciones en otros campos del conocimiento y la actividad humana.
+**1.3** Reconocer la naturaleza experimental e interdisciplinar de la química y su influencia en la investigación científica y en los ámbitos económico y laboral actuales, considerando los hechos empíricos y sus aplicaciones en otros campos del conocimiento y la actividad humana.
 
 Competencia específica 2.
 
-2.1 Relacionar los principios de la química con los principales problemas de la actualidad asociados al desarrollo de la ciencia y la tecnología, analizando cómo se comunican a través de los medios de comunicación o son observados en la experiencia cotidiana.
+**2.1** Relacionar los principios de la química con los principales problemas de la actualidad asociados al desarrollo de la ciencia y la tecnología, analizando cómo se comunican a través de los medios de comunicación o son observados en la experiencia cotidiana.
 
-2.2 Reconocer y comunicar que las bases de la química constituyen un cuerpo de conocimiento imprescindible en un marco contextual de estudio y discusión de cuestiones significativas en los ámbitos social, económico, político y ético identificando la presencia e influencia de estas bases en dichos ámbitos.
+**2.2** Reconocer y comunicar que las bases de la química constituyen un cuerpo de conocimiento imprescindible en un marco contextual de estudio y discusión de cuestiones significativas en los ámbitos social, económico, político y ético identificando la presencia e influencia de estas bases en dichos ámbitos.
 
-2.3 Aplicar de manera informada, coherente y razonada los modelos y leyes de la química, explicando y prediciendo las consecuencias de experimentos, fenómenos naturales, procesos industriales y descubrimientos científicos.
+**2.3** Aplicar de manera informada, coherente y razonada los modelos y leyes de la química, explicando y prediciendo las consecuencias de experimentos, fenómenos naturales, procesos industriales y descubrimientos científicos.
 
 Competencia específica 3.
 
-3.1 Utilizar correctamente las normas de nomenclatura de la IUPAC como base de un lenguaje universal para la química que permita una comunicación efectiva en toda la comunidad científica, aplicando dichas normas al reconocimiento y escritura de fórmulas y nombres de diferentes especies químicas.
+**3.1** Utilizar correctamente las normas de nomenclatura de la IUPAC como base de un lenguaje universal para la química que permita una comunicación efectiva en toda la comunidad científica, aplicando dichas normas al reconocimiento y escritura de fórmulas y nombres de diferentes especies químicas.
 
-3.2 Emplear con rigor herramientas matemáticas para apoyar el desarrollo del pensamiento científico que se alcanza con el estudio de la química, aplicando estas herramientas en la resolución de problemas usando ecuaciones, unidades, operaciones, etc.
+**3.2** Emplear con rigor herramientas matemáticas para apoyar el desarrollo del pensamiento científico que se alcanza con el estudio de la química, aplicando estas herramientas en la resolución de problemas usando ecuaciones, unidades, operaciones, etc.
 
-3.3 Practicar y hacer respetar las normas de seguridad relacionadas con la manipulación de sustancias químicas en el laboratorio y en otros entornos, así como los procedimientos para la correcta gestión y eliminación de los residuos, utilizando correctamente los códigos de comunicación característicos de la química.
+**3.3** Practicar y hacer respetar las normas de seguridad relacionadas con la manipulación de sustancias químicas en el laboratorio y en otros entornos, así como los procedimientos para la correcta gestión y eliminación de los residuos, utilizando correctamente los códigos de comunicación característicos de la química.
 
 Competencia específica 4.
 
-4.1 Analizar la composición química de los sistemas materiales que se encuentran en el entorno más próximo, en el medio natural y en el entorno industrial y tecnológico, demostrando que sus propiedades, aplicaciones y beneficios están basados en los principios de la química.
+**4.1** Analizar la composición química de los sistemas materiales que se encuentran en el entorno más próximo, en el medio natural y en el entorno industrial y tecnológico, demostrando que sus propiedades, aplicaciones y beneficios están basados en los principios de la química.
 
-4.2 Argumentar de manera informada, aplicando las teorías y leyes de la química, que los efectos negativos de determinadas sustancias en el ambiente y en la salud se deben al mal uso que se hace de esos productos o negligencia, y no a la ciencia química en sí.
+**4.2** Argumentar de manera informada, aplicando las teorías y leyes de la química, que los efectos negativos de determinadas sustancias en el ambiente y en la salud se deben al mal uso que se hace de esos productos o negligencia, y no a la ciencia química en sí.
 
-4.3 Explicar, empleando los conocimientos científicos adecuados, cuáles son los beneficios de los numerosos productos de la tecnología química y cómo su empleo y aplicación han contribuido al progreso de la sociedad.
+**4.3** Explicar, empleando los conocimientos científicos adecuados, cuáles son los beneficios de los numerosos productos de la tecnología química y cómo su empleo y aplicación han contribuido al progreso de la sociedad.
 
 Competencia específica 5.
 
-5.1 Reconocer la importante contribución en la química del trabajo colaborativo entre especialistas de diferentes disciplinas científicas poniendo de relieve las conexiones entre las leyes y teorías propias de cada una de ellas.
+**5.1** Reconocer la importante contribución en la química del trabajo colaborativo entre especialistas de diferentes disciplinas científicas poniendo de relieve las conexiones entre las leyes y teorías propias de cada una de ellas.
 
-5.2 Reconocer la aportación de la química al desarrollo del pensamiento científico y a la autonomía de pensamiento crítico a través de la puesta en práctica de las metodologías de trabajo propias de las disciplinas científicas.
+**5.2** Reconocer la aportación de la química al desarrollo del pensamiento científico y a la autonomía de pensamiento crítico a través de la puesta en práctica de las metodologías de trabajo propias de las disciplinas científicas.
 
-5.3 Resolver problemas relacionados con la química y estudiar situaciones relacionadas con esta ciencia, reconociendo la importancia de la contribución particular de cada miembro del equipo y la diversidad de pensamiento y consolidando habilidades sociales positivas en el seno de equipos de trabajo.
+**5.3** Resolver problemas relacionados con la química y estudiar situaciones relacionadas con esta ciencia, reconociendo la importancia de la contribución particular de cada miembro del equipo y la diversidad de pensamiento y consolidando habilidades sociales positivas en el seno de equipos de trabajo.
 
-5.4 Representar y visualizar de forma eficiente los conceptos de química que presenten mayores dificultades, utilizando herramientas digitales y recursos variados, incluyendo experiencias de laboratorio real y virtual.
+**5.4** Representar y visualizar de forma eficiente los conceptos de química que presenten mayores dificultades, utilizando herramientas digitales y recursos variados, incluyendo experiencias de laboratorio real y virtual.
 
 Competencia específica 6.
 
-6.1 Explicar y razonar los conceptos fundamentales que se encuentran en la base de la química aplicando los conceptos, leyes y teorías de otras disciplinas científicas (especialmente de la física) a través de la experimentación y la indagación.
+**6.1** Explicar y razonar los conceptos fundamentales que se encuentran en la base de la química aplicando los conceptos, leyes y teorías de otras disciplinas científicas (especialmente de la física) a través de la experimentación y la indagación.
 
-6.2 Deducir las ideas fundamentales de otras disciplinas científicas (por ejemplo, la biología o la tecnología) por medio de la relación entre sus contenidos básicos y las leyes y teorías que son propias de la química.
+**6.2** Deducir las ideas fundamentales de otras disciplinas científicas (por ejemplo, la biología o la tecnología) por medio de la relación entre sus contenidos básicos y las leyes y teorías que son propias de la química.
 
-6.3 Solucionar problemas y cuestiones que son característicos de la química utilizando las herramientas provistas por las matemáticas y la tecnología, reconociendo así la relación entre los fenómenos experimentales y naturales y los conceptos propios de esta disciplina.
+**6.3** Solucionar problemas y cuestiones que son característicos de la química utilizando las herramientas provistas por las matemáticas y la tecnología, reconociendo así la relación entre los fenómenos experimentales y naturales y los conceptos propios de esta disciplina.
 
 Saberes básicos.
 
@@ -9708,37 +9710,37 @@ Esta competencia específica se conecta con los siguientes descriptores: CPSAA1.
 
 Competencia específica 1.
 
-1.1 Analizar obras gráfico-plásticas de distintos tipos y épocas, identificando los materiales, técnicas y procedimientos utilizados, valorando sus efectos expresivos e incorporando juicios de valor estético a partir del estudio de sus aspectos formales.
+**1.1** Analizar obras gráfico-plásticas de distintos tipos y épocas, identificando los materiales, técnicas y procedimientos utilizados, valorando sus efectos expresivos e incorporando juicios de valor estético a partir del estudio de sus aspectos formales.
 
-1.2 Comparar los elementos, técnicas y procedimientos empleados en distintas producciones gráfico-plásticas, identificando diferencias y aspectos comunes, y estableciendo relaciones entre ellos.
+**1.2** Comparar los elementos, técnicas y procedimientos empleados en distintas producciones gráfico-plásticas, identificando diferencias y aspectos comunes, y estableciendo relaciones entre ellos.
 
-1.3 Valorar críticamente la sostenibilidad y el impacto medioambiental de los procedimientos y materiales utilizados en la creación gráfico-plástica en distintos momentos históricos, proponiendo alternativas respetuosas con el medioambiente.
+**1.3** Valorar críticamente la sostenibilidad y el impacto medioambiental de los procedimientos y materiales utilizados en la creación gráfico-plástica en distintos momentos históricos, proponiendo alternativas respetuosas con el medioambiente.
 
 Competencia específica 2.
 
-2.1 Seleccionar creativamente los recursos gráfico-plásticos adecuados en función de la situación expresiva o la intencionalidad del desempeño solicitado.
+**2.1** Seleccionar creativamente los recursos gráfico-plásticos adecuados en función de la situación expresiva o la intencionalidad del desempeño solicitado.
 
-2.2 Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos de la expresión gráfico-plástica en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final.
+**2.2** Utilizar de manera creativa y autónoma las técnicas, materiales y procedimientos de la expresión gráfico-plástica en la resolución de distintas necesidades expresivas y comunicativas, incidiendo en el rigor en la ejecución y en la sostenibilidad del producto final.
 
 Competencia específica 3.
 
-3.1 Planificar el proceso completo de realización de obras gráfico-plásticas variadas, individuales o colectivas, estableciendo las fases de realización y argumentando la selección de las técnicas, materiales, procedimientos y lenguajes más adecuados en función de las distintas intenciones comunicativas o creativas.
+**3.1** Planificar el proceso completo de realización de obras gráfico-plásticas variadas, individuales o colectivas, estableciendo las fases de realización y argumentando la selección de las técnicas, materiales, procedimientos y lenguajes más adecuados en función de las distintas intenciones comunicativas o creativas.
 
-3.2 Planificar de manera adecuada la organización de las fases y de los equipos de trabajo en las propuestas colaborativas, identificando las habilidades requeridas en cada caso y repartiendo y asumiendo las tareas con criterio.
+**3.2** Planificar de manera adecuada la organización de las fases y de los equipos de trabajo en las propuestas colaborativas, identificando las habilidades requeridas en cada caso y repartiendo y asumiendo las tareas con criterio.
 
 Competencia específica 4.
 
-4.1 Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráfico-plásticas individuales y colaborativas de distintos tipos, referidas a distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los distintos procedimientos.
+**4.1** Expresar ideas, opiniones y sentimientos mediante la creación de producciones gráfico-plásticas individuales y colaborativas de distintos tipos, referidas a distintos motivos o planteamientos, aplicando con solvencia y dominio técnico los distintos procedimientos.
 
-4.2 Interactuar coordinada y colaborativamente en el desarrollo de producciones gráfico-plásticas colectivas, manifestando una actitud respetuosa, creativa y conciliadora cuando se produzcan diferencias de opinión entre los miembros del grupo.
+**4.2** Interactuar coordinada y colaborativamente en el desarrollo de producciones gráfico-plásticas colectivas, manifestando una actitud respetuosa, creativa y conciliadora cuando se produzcan diferencias de opinión entre los miembros del grupo.
 
-4.3 Realizar composiciones gráfico-plásticas individuales o colaborativas, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad.
+**4.3** Realizar composiciones gráfico-plásticas individuales o colaborativas, integrando el uso de materiales reciclados cuando sea posible y aplicando criterios de inclusión y sostenibilidad.
 
 Competencia específica 5.
 
-5.1 Evaluar diferentes productos gráfico-plásticos, argumentando, con la terminología específica, el grado de adecuación a la intención prevista de los lenguajes, técnicas, materiales y procedimientos utilizados, valorando el rigor y la calidad de la ejecución, así como aspectos relacionados con la sostenibilidad y la propiedad intelectual.
+**5.1** Evaluar diferentes productos gráfico-plásticos, argumentando, con la terminología específica, el grado de adecuación a la intención prevista de los lenguajes, técnicas, materiales y procedimientos utilizados, valorando el rigor y la calidad de la ejecución, así como aspectos relacionados con la sostenibilidad y la propiedad intelectual.
 
-5.2 Identificar y valorar las oportunidades de desarrollo personal y profesional que se derivan del conocimiento de las técnicas de expresión gráfico-plástica.
+**5.2** Identificar y valorar las oportunidades de desarrollo personal y profesional que se derivan del conocimiento de las técnicas de expresión gráfico-plástica.
 
 Saberes básicos.
 
@@ -9896,49 +9898,49 @@ Esta competencia específica se conecta con los siguientes descriptores: STEM2, 
 
 Competencia específica 1.
 
-1.1 Investigar y diseñar proyectos que muestren de forma gráfica la creación y mejora de un producto, seleccionando, referenciando e interpretando información relacionada.
+**1.1** Investigar y diseñar proyectos que muestren de forma gráfica la creación y mejora de un producto, seleccionando, referenciando e interpretando información relacionada.
 
-1.2 Participar en el desarrollo, gestión y coordinación de proyectos de creación y mejora continua de productos viables y socialmente responsables, identificando mejoras y creando prototipos mediante un proceso iterativo, con actitud crítica, creativa y emprendedora.
+**1.2** Participar en el desarrollo, gestión y coordinación de proyectos de creación y mejora continua de productos viables y socialmente responsables, identificando mejoras y creando prototipos mediante un proceso iterativo, con actitud crítica, creativa y emprendedora.
 
-1.3 Colaborar en tareas tecnológicas, escuchando el razonamiento de los demás, aportando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables e inclusivas.
+**1.3** Colaborar en tareas tecnológicas, escuchando el razonamiento de los demás, aportando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables e inclusivas.
 
-1.4 Elaborar documentación técnica con precisión y rigor, generando diagramas funcionales y utilizando medios manuales y aplicaciones digitales.
+**1.4** Elaborar documentación técnica con precisión y rigor, generando diagramas funcionales y utilizando medios manuales y aplicaciones digitales.
 
-1.5 Comunicar de manera eficaz y organizada las ideas y soluciones tecnológicas, empleando el soporte, la terminología y el rigor apropiados.
+**1.5** Comunicar de manera eficaz y organizada las ideas y soluciones tecnológicas, empleando el soporte, la terminología y el rigor apropiados.
 
 Competencia específica 2.
 
-2.1 Determinar el ciclo de vida de un producto, planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua.
+**2.1** Determinar el ciclo de vida de un producto, planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua.
 
-2.2 Seleccionar los materiales, tradicionales o de nueva generación, adecuados para la fabricación de productos de calidad basándose en sus características técnicas y atendiendo a criterios de sostenibilidad de manera responsable y ética.
+**2.2** Seleccionar los materiales, tradicionales o de nueva generación, adecuados para la fabricación de productos de calidad basándose en sus características técnicas y atendiendo a criterios de sostenibilidad de manera responsable y ética.
 
-2.3 Fabricar modelos o prototipos empleando las técnicas de fabricación más adecuadas y aplicando los criterios técnicos y de sostenibilidad necesarios.
+**2.3** Fabricar modelos o prototipos empleando las técnicas de fabricación más adecuadas y aplicando los criterios técnicos y de sostenibilidad necesarios.
 
 Competencia específica 3.
 
-3.1 Resolver tareas propuestas y funciones asignadas, mediante el uso y configuración de diferentes herramientas digitales de manera óptima y autónoma.
+**3.1** Resolver tareas propuestas y funciones asignadas, mediante el uso y configuración de diferentes herramientas digitales de manera óptima y autónoma.
 
-3.2 Realizar la presentación de proyectos empleando herramientas digitales adecuadas.
+**3.2** Realizar la presentación de proyectos empleando herramientas digitales adecuadas.
 
 Competencia específica 4.
 
-4.1 Resolver problemas asociados a sistemas e instalaciones mecánicas, aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones.
+**4.1** Resolver problemas asociados a sistemas e instalaciones mecánicas, aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones.
 
-4.2 Resolver problemas asociados a sistemas e instalaciones eléctricas y electrónicas, aplicando fundamentos de corriente continua y máquinas eléctricas al desarrollo de montajes o simulaciones.
+**4.2** Resolver problemas asociados a sistemas e instalaciones eléctricas y electrónicas, aplicando fundamentos de corriente continua y máquinas eléctricas al desarrollo de montajes o simulaciones.
 
 Competencia específica 5.
 
-5.1 Controlar el funcionamiento de sistemas tecnológicos y robóticos, utilizando lenguajes de programación informática y aplicando las posibilidades que ofrecen las tecnologías emergentes, tales como inteligencia artificial, internet de las cosas, big data.
+**5.1** Controlar el funcionamiento de sistemas tecnológicos y robóticos, utilizando lenguajes de programación informática y aplicando las posibilidades que ofrecen las tecnologías emergentes, tales como inteligencia artificial, internet de las cosas, big data.
 
-5.2 Automatizar, programar y evaluar movimientos de robots, mediante la modelización, la aplicación de algoritmos sencillos y el uso de herramientas informáticas.
+**5.2** Automatizar, programar y evaluar movimientos de robots, mediante la modelización, la aplicación de algoritmos sencillos y el uso de herramientas informáticas.
 
-5.3 Conocer y comprender conceptos básicos de programación textual, mostrando el progreso paso a paso de la ejecución de un programa a partir de un estado inicial y prediciendo su estado final tras la ejecución.
+**5.3** Conocer y comprender conceptos básicos de programación textual, mostrando el progreso paso a paso de la ejecución de un programa a partir de un estado inicial y prediciendo su estado final tras la ejecución.
 
 Competencia específica 6.
 
-6.1 Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos, estudiando sus características, calculando sus magnitudes y valorando su eficiencia.
+**6.1** Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos, estudiando sus características, calculando sus magnitudes y valorando su eficiencia.
 
-6.2 Analizar las diferentes instalaciones de una vivienda desde el punto de vista de su eficiencia energética, buscando aquellas opciones más comprometidas con la sostenibilidad y fomentando un uso responsable de las mismas.
+**6.2** Analizar las diferentes instalaciones de una vivienda desde el punto de vista de su eficiencia energética, buscando aquellas opciones más comprometidas con la sostenibilidad y fomentando un uso responsable de las mismas.
 
 Saberes básicos.
 
@@ -10004,43 +10006,43 @@ G. Tecnología sostenible.
 
 Competencia específica 1.
 
-1.1 Desarrollar proyectos de investigación e innovación con el fin de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles.
+**1.1** Desarrollar proyectos de investigación e innovación con el fin de crear y mejorar productos de forma continua, utilizando modelos de gestión cooperativos y flexibles.
 
-1.2 Comunicar y difundir de forma clara y comprensible proyectos elaborados y presentarlos con la documentación técnica necesaria.
+**1.2** Comunicar y difundir de forma clara y comprensible proyectos elaborados y presentarlos con la documentación técnica necesaria.
 
-1.3 Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones, aceptando y aprendiendo de la crítica razonada y utilizando el error como parte del proceso de aprendizaje.
+**1.3** Perseverar en la consecución de objetivos en situaciones de incertidumbre, identificando y gestionando emociones, aceptando y aprendiendo de la crítica razonada y utilizando el error como parte del proceso de aprendizaje.
 
 Competencia específica 2.
 
-2.1 Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad, estudiando su estructura interna, propiedades, tratamientos de modificación y mejora de sus propiedades.
+**2.1** Analizar la idoneidad de los materiales técnicos en la fabricación de productos sostenibles y de calidad, estudiando su estructura interna, propiedades, tratamientos de modificación y mejora de sus propiedades.
 
-2.2 Elaborar informes sencillos de evaluación de impacto ambiental, de manera fundamentada y estructurada.
+**2.2** Elaborar informes sencillos de evaluación de impacto ambiental, de manera fundamentada y estructurada.
 
 Competencia específica 3.
 
-3.1 Resolver problemas asociados a las distintas fases del desarrollo y gestión de un proyecto (diseño, simulación y montaje y presentación), utilizando las herramientas adecuadas que proveen las aplicaciones digitales.
+**3.1** Resolver problemas asociados a las distintas fases del desarrollo y gestión de un proyecto (diseño, simulación y montaje y presentación), utilizando las herramientas adecuadas que proveen las aplicaciones digitales.
 
 Competencia específica 4.
 
-4.1 Calcular y montar estructuras sencillas, estudiando los tipos de cargas a los que se puedan ver sometidas y su estabilidad.
+**4.1** Calcular y montar estructuras sencillas, estudiando los tipos de cargas a los que se puedan ver sometidas y su estabilidad.
 
-4.2 Analizar las máquinas térmicas: máquinas frigoríficas, bombas de calor y motores térmicos, comprendiendo su funcionamiento y realizando simulaciones y cálculos básicos sobre su eficiencia.
+**4.2** Analizar las máquinas térmicas: máquinas frigoríficas, bombas de calor y motores térmicos, comprendiendo su funcionamiento y realizando simulaciones y cálculos básicos sobre su eficiencia.
 
-4.3 Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos, a través de montajes o simulaciones, comprendiendo y documentando el funcionamiento de cada uno de sus elementos y del sistema en su totalidad.
+**4.3** Interpretar y solucionar esquemas de sistemas neumáticos e hidráulicos, a través de montajes o simulaciones, comprendiendo y documentando el funcionamiento de cada uno de sus elementos y del sistema en su totalidad.
 
-4.4 Interpretar y resolver circuitos de corriente alterna, mediante montajes o simulaciones, identificando sus elementos y comprendiendo su funcionamiento.
+**4.4** Interpretar y resolver circuitos de corriente alterna, mediante montajes o simulaciones, identificando sus elementos y comprendiendo su funcionamiento.
 
-4.5 Experimentar y diseñar circuitos combinacionales y secuenciales físicos y simulados aplicando fundamentos de la electrónica digital, y comprendiendo su funcionamiento en el diseño de soluciones tecnológicas.
+**4.5** Experimentar y diseñar circuitos combinacionales y secuenciales físicos y simulados aplicando fundamentos de la electrónica digital, y comprendiendo su funcionamiento en el diseño de soluciones tecnológicas.
 
 Competencia específica 5.
 
-5.1 Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad.
+**5.1** Comprender y simular el funcionamiento de los procesos tecnológicos basados en sistemas automáticos de lazo abierto y cerrado, aplicando técnicas de simplificación y analizando su estabilidad.
 
-5.2 Conocer y evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de los datos, analizando modelos existentes.
+**5.2** Conocer y evaluar sistemas informáticos emergentes y sus implicaciones en la seguridad de los datos, analizando modelos existentes.
 
 Competencia específica 6.
 
-6.1 Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación.
+**6.1** Analizar los distintos sistemas de ingeniería desde el punto de vista de la responsabilidad social y la sostenibilidad, estudiando las características de eficiencia energética asociadas a los materiales y a los procesos de fabricación.
 
 Saberes básicos.
 
@@ -10152,35 +10154,35 @@ Esta competencia específica se conecta con los siguientes descriptores: CCL3, S
 
 Competencia específica 1.
 
-1.1 Analizar los elementos formales y estructurales de obras volumétricas de diferentes épocas y culturas, identificando las técnicas, los materiales y los elementos compositivos empleados, incorporando, cuando proceda, las perspectivas de género e intercultural.
+**1.1** Analizar los elementos formales y estructurales de obras volumétricas de diferentes épocas y culturas, identificando las técnicas, los materiales y los elementos compositivos empleados, incorporando, cuando proceda, las perspectivas de género e intercultural.
 
-1.2 Explicar los cánones de proporción y los elementos compositivos de piezas tridimensionales de diferentes periodos artísticos dentro de su contexto histórico, diferenciando los aspectos decorativos de los estructurales.
+**1.2** Explicar los cánones de proporción y los elementos compositivos de piezas tridimensionales de diferentes periodos artísticos dentro de su contexto histórico, diferenciando los aspectos decorativos de los estructurales.
 
-1.3 Describir formas, estructuras, técnicas, materiales, proporciones y elementos compositivos tridimensionales, aplicando la terminología específica de la materia.
+**1.3** Describir formas, estructuras, técnicas, materiales, proporciones y elementos compositivos tridimensionales, aplicando la terminología específica de la materia.
 
 Competencia específica 2.
 
-2.1 Analizar los aspectos más notables de la configuración de obras tridimensionales, identificando las diferencias entre lo estructural y lo accesorio y describiendo la relación entre su función comunicativa y su nivel icónico.
+**2.1** Analizar los aspectos más notables de la configuración de obras tridimensionales, identificando las diferencias entre lo estructural y lo accesorio y describiendo la relación entre su función comunicativa y su nivel icónico.
 
-2.2 Explicar las funciones comunicativas del lenguaje tridimensional en obras significativas de diferentes artistas, justificando de forma argumentada la relación establecida entre la imagen y el contenido.
+**2.2** Explicar las funciones comunicativas del lenguaje tridimensional en obras significativas de diferentes artistas, justificando de forma argumentada la relación establecida entre la imagen y el contenido.
 
-2.3 Elaborar producciones volumétricas con una función comunicativa concreta, atendiendo a la relación entre imagen y contenido, así como entre forma, estructura y función comunicativa, con distintos niveles de iconicidad.
+**2.3** Elaborar producciones volumétricas con una función comunicativa concreta, atendiendo a la relación entre imagen y contenido, así como entre forma, estructura y función comunicativa, con distintos niveles de iconicidad.
 
 Competencia específica 3.
 
-3.1 Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos formales, funcionales, estéticos y expresivos.
+**3.1** Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos formales, funcionales, estéticos y expresivos.
 
-3.2 Explicar las cualidades expresivas del lenguaje tridimensional en las composiciones tridimensionales propuestas, justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados.
+**3.2** Explicar las cualidades expresivas del lenguaje tridimensional en las composiciones tridimensionales propuestas, justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados.
 
 Competencia específica 4.
 
-4.1 Planificar proyectos tridimensionales, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando las técnicas, las herramientas y los materiales más adecuados a las intenciones expresivas, funcionales y comunicativas.
+**4.1** Planificar proyectos tridimensionales, organizando correctamente sus fases, distribuyendo de forma razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando las técnicas, las herramientas y los materiales más adecuados a las intenciones expresivas, funcionales y comunicativas.
 
-4.2 Participar activamente en la realización de proyectos artísticos, asumiendo diferentes funciones, valorando y respetando las aportaciones y experiencias de los demás e identificando las oportunidades de desarrollo personal, social, académico y profesional que ofrece.
+**4.2** Participar activamente en la realización de proyectos artísticos, asumiendo diferentes funciones, valorando y respetando las aportaciones y experiencias de los demás e identificando las oportunidades de desarrollo personal, social, académico y profesional que ofrece.
 
-4.3 Realizar proyectos individuales o colaborativos, adecuando materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear, y aportando soluciones diversas y creativas a los retos planteados durante la ejecución.
+**4.3** Realizar proyectos individuales o colaborativos, adecuando materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear, y aportando soluciones diversas y creativas a los retos planteados durante la ejecución.
 
-4.4 Evaluar y presentar los resultados de proyectos tridimensionales, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.
+**4.4** Evaluar y presentar los resultados de proyectos tridimensionales, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.
 
 Saberes básicos.
 

@@ -59,15 +59,13 @@ de justificación de las cantidades que, por el concepto de "otros gastos", perc
 Primero.- Modificar y simplificar el modelo de certificación, en la forma que se recoge en el anexo I, al que se han de ajustar las certificaciones de los Consejos Escolares de los centros privados concertados, en relación a la cuenta de la justificación de las cantidades recibidas en concepto de "otros gastos", según el modelo del anexo II, a partir del curso 2010-2011.
 Segundo.- Dejar sin efecto la Resolución de 10 de julio de 1995, por la que se aprueba el modelo al que han de ajustarse las certificaciones acreditativas de los acuerdos adoptados por los Consejos Escolares de centros concertados en relación con la justificación de los gastos realizados con cargo a las cantidades recibidas de esta Consejería (BOC nº 106, de 14.8.95). Contra el presente acto, por ser de trámite, no cabe recurso alguno, pudiéndose, no obstante, interponer el que se considere más oportuno a su derecho, si el interesado entendiese que se da alguno de los supuestos excepcionales establecidos en el artículo 107 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con la redacción dada por la Ley 4/1999, de 13 de enero. Las Palmas de Gran Canaria, a 28 de julio de 2010.- La Directora General de Promoción Educativa, Pilar Teresa Díaz Luis.
 
-A N E X O  I
-
-## Anexo II
+## Anexo I. ## Anexo II
 
 CUENTA JUSTIFICATIVA POR EL CONCEPTO OTROS GASTOS JUSTIFICACIÓN DEL CENTRO PRIVADO CONCERTADO:
 
 CURSO :
 
-Se hace constar que de las cantidades detalladas se ha excluido, en su caso, la parte proporcional a las unidades no concertadas y la parte proporcional correspondiente a espacios dedicados a residencias, comedor escolar, utilización de los edificios fuera de las horas concertadas, o realización de actividades o servicios complementarios para los que se haya solicitado la oportuna aprobación de precios (artículo 7.3 de la citada Orden) INFANTIL PRIMARIA 1er C. ESO 2º C. ESO BACHILLERATO CFG MEDIO Y  PCPI CFG SUPERIOR EDUCACIÓN ESPECIAL
+Se hace constar que de las cantidades detalladas se ha excluido, en su caso, la parte proporcional a las unidades no concertadas y la parte proporcional correspondiente a espacios dedicados a residencias, comedor escolar, utilización de los edificios fuera de las horas concertadas, o realización de actividades o servicios complementarios para los que se haya solicitado la oportuna aprobación de precios (artículo 7.3 de la citada Orden) INFANTIL PRIMARIA 1er C. ESO 2º C. ESO BACHILLERATO CFG MEDIO Y PCPI CFG SUPERIOR EDUCACIÓN ESPECIAL
 
 1. Importe total abonado por la Consejería de Educación, Universidades, Cultura y Deportes, en concepto de de "otros gastos".
 
@@ -81,9 +79,9 @@ Se hace constar que de las cantidades detalladas se ha excluido, en su caso, la 
 
 4. Gastos de reparación de material inventariable: mobiliario escolar y equipo didáctico.
 
-5. Gastos de suministros y servicios diversos: limpieza, calefacción y refrigeración, agua, gas, electricidad, conservación y reparaciones ordinarias, y otros gastos de inmuebles. A N E X O  I I CUENTA JUSTIFICATIVA POR EL CONCEPTO OTROS GASTOS
+5. Gastos de suministros y servicios diversos: limpieza, calefacción y refrigeración, agua, gas, electricidad, conservación y reparaciones ordinarias, y otros gastos de inmuebles. A N E X O I I CUENTA JUSTIFICATIVA POR EL CONCEPTO OTROS GASTOS
 
-9 INFANTIL PRIMARIA 1 er C. ESO 2º C. ESO BACHILLERATO CFG MEDIO Y  PCPI CFG SUPERIOR EDUCACIÓN ESPECIAL 6. Gastos de administración:
+9 INFANTIL PRIMARIA 1 er C. ESO 2º C. ESO BACHILLERATO CFG MEDIO Y PCPI CFG SUPERIOR EDUCACIÓN ESPECIAL 6. Gastos de administración:
 consumo de material inventariable, comunicaciones telefónicas, postales y telegráficas, conservación y reparación de mobiliario de oficina, reprografía y otros gastos de administración.
 
 7. Gastos producidos por inmuebles. En ningún caso se imputarán gastos de alquileres que reviertan directa o indirectamente en la propia titularidad del centro como amortización de inversiones reales en la compra o construcción del inmueble.
@@ -92,7 +90,7 @@ consumo de material inventariable, comunicaciones telefónicas, postales y teleg
 
 9. Otros gastos afines no especificados anteriormente. TOTAL GASTOS
 
-DIFERENCIA ENTRE LOS INGRESOS RECIBIDOS Y LOS GASTOS REALIZADOS EN EL FUNCIONAMIENTO DE LAS UNIDADES CONCERTADAS. En ....................................., a ....... de ........................ de 20 .... . Vº. Bº. EL/LA  PRESIDENTE/A DEL CONSEJO ESCOLAR EL/LA SECRETARIO/A DEL CONSEJO ESCOLAR (firma)
+DIFERENCIA ENTRE LOS INGRESOS RECIBIDOS Y LOS GASTOS REALIZADOS EN EL FUNCIONAMIENTO DE LAS UNIDADES CONCERTADAS. En ....................................., a ....... de ........................ de 20 .... . Vº. Bº. EL/LA PRESIDENTE/A DEL CONSEJO ESCOLAR EL/LA SECRETARIO/A DEL CONSEJO ESCOLAR (firma)
 
 (sello)
 

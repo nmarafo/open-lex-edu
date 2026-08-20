@@ -800,23 +800,23 @@ Disposición adicional vigesimosegunda.... Impartición de nuevos módulos profe
 
 ## Anexo II. Informe de evaluación individualizado grado c.
 
-Anexo III. Módulo profesional de itinerario personal para la empleabilidad en los ciclos formativos de grado básico.
+## Anexo III. . Módulo profesional de itinerario personal para la empleabilidad en los ciclos formativos de grado básico.
 
 ## Anexo IV. Estructura modular de los ciclos formativos de grado medio y de grado superior.
 
-Anexo V. Currículo básico de los módulos profesionales itinerario personal para la empleabilidad I y II (ambos en Ciclos Formativos de Grado Medio y Superior).
+## Anexo V. . Currículo básico de los módulos profesionales itinerario personal para la empleabilidad I y II (ambos en Ciclos Formativos de Grado Medio y Superior).
 
-Anexo VI. Currículo básico del módulo profesional de digitalización aplicada a los sectores productivos (grado medio).
+## Anexo VI. . Currículo básico del módulo profesional de digitalización aplicada a los sectores productivos (grado medio).
 
-Anexo VII. Currículo básico del módulo profesional de digitalización aplicada a los sectores productivos (grado superior).
+## Anexo VII. . Currículo básico del módulo profesional de digitalización aplicada a los sectores productivos (grado superior).
 
-Anexo VIII. Currículo básico del módulo profesional de sostenibilidad aplicada al sistema productivo. Módulo Profesional: Sostenibilidad aplicada al sistema productivo.
+## Anexo VIII. . Currículo básico del módulo profesional de sostenibilidad aplicada al sistema productivo. Módulo Profesional: Sostenibilidad aplicada al sistema productivo.
 
-Anexo IX. Currículo básico del módulo profesional de inglés profesional (grado medio) Módulo Profesional: Inglés Profesional (GM).
+## Anexo IX. . Currículo básico del módulo profesional de inglés profesional (grado medio) Módulo Profesional: Inglés Profesional (GM).
 
 ## Anexo X. Currículo básico del módulo profesional de inglés profesional (grado superior).
 
-Anexo XI. Tabla de reconocimiento entre títulos de Formación Profesional de grado superior y títulos universitarios oficiales de grado.
+## Anexo XI. . Tabla de reconocimiento entre títulos de Formación Profesional de grado superior y títulos universitarios oficiales de grado.
 
 ## Anexo XII. Características de los títulos, certificados y acreditaciones de Formación Profesional.
 
@@ -824,13 +824,13 @@ Anexo XI. Tabla de reconocimiento entre títulos de Formación Profesional de 
 
 ## Anexo XIV. Modelos de solicitud de certificados de competencia y de Certificado profesional.
 
-Anexo XV. Especificaciones técnicas de las acreditaciones parciales de competencia, certificados de competencia, certificados profesionales.
+## Anexo XV. . Especificaciones técnicas de las acreditaciones parciales de competencia, certificados de competencia, certificados profesionales.
 
-Anexo XVI. Modelo convenio de colaboración entre el centro de Formación Profesional y la empresa u organismo equiparado para el desarrollo de planes de Formación Profesional de Grado c.
+## Anexo XVI. . Modelo convenio de colaboración entre el centro de Formación Profesional y la empresa u organismo equiparado para el desarrollo de planes de Formación Profesional de Grado c.
 
 ## Anexo XVII. Plan de formación.
 
-Anexo XVIII. Modelo de documento de acreditación de estándares de competencias profesionales obtenidos a través del procedimiento de acreditación de competencias adquiridas a través de la experiencia laboral u otras vías no formales e informales (artículo 187 apartado 1).
+## Anexo XVIII. . Modelo de documento de acreditación de estándares de competencias profesionales obtenidos a través del procedimiento de acreditación de competencias adquiridas a través de la experiencia laboral u otras vías no formales e informales (artículo 187 apartado 1).
 
 La [Ley Orgánica 3/2022](../../autonómica/canarias/08_personal_docente/R30_6_2023_ordenacion_gestion_determinadas_listas_empleo_tras.md), de 31 de marzo, de ordenación e integración de la Formación Profesional ha concretado la necesidad de reinventar el modelo de Formación Profesional para dar respuesta a las necesidades de la ciudadanía, a lo largo de toda su vida laboral, así como a las de la realidad productiva. Se evita así poner en riesgo objetivos fundamentales para el siglo XXI, ya que el fuerte cambio tecnológico y económico al que estamos sometidos exige una adecuada cualificación y flexibilidad del capital humano para adaptarse a las circunstancias cambiantes de la economía y de la tecnología.
 
@@ -4244,8 +4244,6 @@ a) Las de Grado A, B, C, los que simultáneamente:
 
 b) Las de Grado D y E, todos los centros del Sistema de Formación Profesional que simultáneamente:
 
-1.º Cumplan los requisitos establecidos al efecto en la normativa correspondiente o en el Real Decreto 62/2022, de 25 de enero, de flexibilización de los requisitos exigibles para impartir ofertas de formación profesional conducentes a la obtención de certificados de profesionalidad, así como de la oferta de formación profesional en centros del sistema educativo y de formación profesional para el empleo.
-
 2.º Además de estar inscritos en el Registro General de Centros del Sistema de Formación Profesional, lo estén en el Registro Estatal de Centros Docentes no Universitarios.
 
 3. Las administraciones competentes podrán establecer una red de centros sostenidos total o parcialmente con financiación pública para impartir los grados A, B y C, que les permitan agilizar la puesta en marcha de las ofertas de formación. A tal efecto, contarán, por este orden de prelación, con:
@@ -4822,7 +4820,7 @@ El Reglamento de Funcionamiento del Consejo General de Formación Profesional, a
 
 Uno. Se modifica el artículo 1 l.
 
-anexo único, que quedará redactado de la siguiente forma:
+## Anexo. único, que quedará redactado de la siguiente forma:
 
 #### «Artículo 1. Naturaleza.
 
@@ -5904,8 +5902,6 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 
 – Ciencias económicas, Administración y dirección de empresas, márquetin, comercio, contabilidad y turismo.
 
-– Ciencias sociales, trabajo social, relaciones laborales y recursos humanos, sociología, ciencia política y relaciones internacionales.
-
 – Derecho y especialidades jurídicas.
 
 – Ciencias agrarias y tecnología de los alimentos.
@@ -5925,8 +5921,6 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 – Periodismo, comunicación, publicidad y relaciones públicas.
 
 – Historia del arte y de la expresión artística, y bellas artes.
-
-– Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
 
 – Ciencias económicas, Administración y dirección de empresas, márquetin, comercio, contabilidad y turismo.
 
@@ -5952,10 +5946,6 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 
 – Ciencias de la Tierra.
 
-– Ingeniería eléctrica, ingeniería electrónica e ingeniería de la telecomunicación.
-
-– Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización industrial e ingeniería de la navegación.
-
 – Ingeniería química, ingeniería de los materiales e ingeniería del medio natural.
 
 – Ciencias económicas, Administración y dirección de empresas, márquetin, comercio, contabilidad y turismo.
@@ -5964,15 +5954,9 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 
 – Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
 
-– Ciencias económicas, Administración y dirección de empresas, márquetin, comercio, contabilidad y turismo.
-
 – Historia del arte y de la expresión artística, y bellas artes.
 
-– Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
-
 – Ciencias económicas, Administración y dirección de empresas, márquetin, comercio, contabilidad y turismo.
-
-– Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
 
 – Ingeniería eléctrica, ingeniería electrónica e ingeniería de la telecomunicación Periodismo, comunicación, publicidad y relaciones públicas.
 
@@ -6072,8 +6056,6 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 
 – Historia del arte y de la expresión artística, y bellas artes.
 
-– Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
-
 – Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización industrial e ingeniería de la navegación.
 
 – Ciencias medioambientales y ecología.
@@ -6087,8 +6069,6 @@ Tabla de reconocimiento entre títulos de Formación Profesional de Grado Superi
 – Historia del arte y de la expresión artística, y bellas artes.
 
 – Industrias culturales: diseño, animación, cinematografía y producción audiovisual.
-
-– Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización industrial e ingeniería de la navegación.
 
 * Con independencia de lo recogido en esta tabla, sigue vigente la posibilidad de reconocimiento y transferencia bidireccional de créditos entre títulos de Técnico Superior de Formación Profesional y de Grado por otras vías y resultante del análisis de programas.
 

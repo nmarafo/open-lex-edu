@@ -176,4 +176,4 @@ Se faculta al titular del Ministerio de Educación, Cultura y Deporte para dicta
 
 #### Disposición final tercera. Entrada en vigor.
 
-El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Dado en Madrid, el 21 de junio de 2013. JUAN CARLOS R. El Ministro de Educación, Cultura y Deporte, JOSÉ IGNACIO WERT ORTEGA Este documento es de carácter informativo y no tiene valor jurídico. 
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Dado en Madrid, el 21 de junio de 2013. JUAN CARLOS R. El Ministro de Educación, Cultura y Deporte, JOSÉ IGNACIO WERT ORTEGA Este documento es de carácter informativo y no tiene valor jurídico.

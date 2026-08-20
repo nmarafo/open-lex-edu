@@ -417,9 +417,7 @@ Asimismo se estará a lo dispuesto en los preceptos básicos de la Ley 38/2003, 
 
 ## Anexo. Fuente: https://www.gobiernodecanarias.org/boc/2009/151/boc-2009-151-anexo-17626.pdf
 
-A N E X O I
-
-## Relaciones Normativas y Fundamentos de Derecho
+## Anexo I. ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

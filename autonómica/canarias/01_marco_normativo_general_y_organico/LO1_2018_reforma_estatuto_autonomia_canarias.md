@@ -2063,7 +2063,7 @@ presente Estatuto, se fija en setenta el número de diputados y diputadas del Pa
 #### Disposición transitoria segunda. Régimen transitorio de los cabildos insulares.
 
 Hasta tanto no se desarrollen las prescripciones del título III del presente Estatuto y en lo que no se oponga a lo establecido en el mismo, los cabildos insulares se regirán por la normativa vigente, que seguirá teniendo carácter supletorio.
-Disposición derogatoria.  Derogación de la Ley Orgánica 10/1982, de 10 de agosto, modificada por la Ley Orgánica 4/1996, de 30 de diciembre. Queda derogada la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía para Canarias, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
+Disposición derogatoria. Derogación de la Ley Orgánica 10/1982, de 10 de agosto, modificada por la Ley Orgánica 4/1996, de 30 de diciembre. Queda derogada la Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía para Canarias, modificada por la Ley Orgánica 4/1996, de 30 de diciembre.
 
 Disposición final .... Entrada en vigor.
 
@@ -2114,4 +2114,4 @@ GC: Gran Canaria. TF: Tenerife. EH: El Hierro. LP: La Palma. LZ: Lanzarote. Las 
 
 ## Anexo II
 
-Mapa del Archipiélago Canario según indica el anexo I Este texto consolidado no tiene valor jurídico. 
+Mapa del Archipiélago Canario según indica el anexo I Este texto consolidado no tiene valor jurídico.

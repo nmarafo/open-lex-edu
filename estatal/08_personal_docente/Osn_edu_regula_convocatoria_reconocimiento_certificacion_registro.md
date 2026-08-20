@@ -183,8 +183,6 @@ Seminario
 
 20
 
-20
-
 50
 
 Grupo de trabajo

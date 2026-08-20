@@ -40,8 +40,6 @@ Orden de 30 de septiembre de 2014, por la que se amplía el plazo para resolver 
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -70,8 +68,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 201
@@ -86,7 +82,7 @@ Histórico del BOJA Boletín número 201 de 15/10/2014
 
 ### Orden de 30 de septiembre de 2014, por la que se amplía el plazo para resolver la convocatoria de subvenciones en materia de artesanía (Modalidad ARA/ARE), correspondiente al ejercicio 2014.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00056376.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00056376.
 
 Conforme a lo dispuesto en el artículo 19.3 de las bases reguladoras de la Orden de 9 de julio de 2014, por la que se aprueban las bases reguladoras para la concesión de subvenciones en régimen de concurrencia competitiva en materia de artesanía y se convocan, para el ejercicio 2014, las subvenciones a conceder en favor de asociaciones, federaciones y confederaciones de artesanos y artesanas y en favor de empresas, personas físicas o jurídicas, artesanas (Modalidad ARA/E) (BOJA núm. 140, de fecha 21 de julio), el plazo máximo para resolver y publicar la resolución del procedimiento será el establecido en el apartado 16 del Cuadro Resumen, y se computará a partir del día siguiente al de finalización del plazo para la presentación de solicitudes. El vencimiento del plazo máximo sin que se hubiese dictado y publicado la resolución expresa, legitima a las personas interesadas para entender desestimada por silencio administrativo la solicitud de concesión de la subvención.
 
@@ -114,17 +110,17 @@ Consejero de Turismo y Comercio
 
 Disposición siguiente
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.1. Licitaciones públicas y adjudicaciones
+**5.1.** Licitaciones públicas y adjudicaciones
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 <a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA14-201-00285.pdf"> Descargar boletín nº 201 completo
 
@@ -143,4 +139,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

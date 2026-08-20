@@ -389,9 +389,9 @@ La mujer está obligada a seguir a su marido donde quiera que fije su residencia
 
 #### Artículo 59.
 
-El marido es el administrador de los bienes de la sociedad conyugal, salvo estipulación en contrario y lo dispuesto en el artículo 1.384.
+El marido es el administrador de los bienes de la sociedad conyugal, salvo estipulación en contrario y lo dispuesto en el artículo
 
-Si fuere menor de dieciocho años, no podrá administrar sin el consentimiento de su padre; en defecto de éste, sin el de su madre, y a falta de ambos, sin el de su tutor. Tampoco podrá comparecer en juicio sin la asistencia de dichas personas.
+**1.384.** Si fuere menor de dieciocho años, no podrá administrar sin el consentimiento de su padre; en defecto de éste, sin el de su madre, y a falta de ambos, sin el de su tutor. Tampoco podrá comparecer en juicio sin la asistencia de dichas personas.
 
 En ningún caso, mientras no llegue a la mayor edad, podrá el marido, sin el consentimiento de las personas mencionadas en el párrafo anterior, tomar dinero a préstamo, gravar ni enajenar los bienes raíces.
 
@@ -6393,9 +6393,9 @@ El deudor puede pagar la deuda a cualquiera de los acreedores solidarios; pero, 
 
 #### Artículo 1143.
 
-La novación, compensación, confusión o remisión de la deuda, hechas por cualquiera de los acreedores solidarios o con cualquiera de los deudores de la misma clase, extinguen la obligación, sin perjuicio de lo dispuesto en el artículo 1.146.
+La novación, compensación, confusión o remisión de la deuda, hechas por cualquiera de los acreedores solidarios o con cualquiera de los deudores de la misma clase, extinguen la obligación, sin perjuicio de lo dispuesto en el artículo
 
-El acreedor que haya ejecutado cualquiera de estos actos, así como el que cobre la deuda, responderá a los demás de la parte que les corresponde en la obligación.
+**1.146.** El acreedor que haya ejecutado cualquiera de estos actos, así como el que cobre la deuda, responderá a los demás de la parte que les corresponde en la obligación.
 
 #### Artículo 1144.
 
@@ -7071,9 +7071,9 @@ El dolo incidental sólo obliga al que lo empleó a indemnizar daños y perjuici
 
 #### Sección segunda. Del objeto de los contratos artículo 1271 Pueden ser objeto de contrato todas las cosas que no están fuera del comercio de los hombres, aun las futuras.
 
-Sobre la herencia futura no se podrá, sin embargo, celebrar otros contratos que aquellos cuyo objeto sea participar entre vivos la división de un caudal conforme al artículo 1.056.
+Sobre la herencia futura no se podrá, sin embargo, celebrar otros contratos que aquellos cuyo objeto sea participar entre vivos la división de un caudal conforme al artículo
 
-Pueden ser igualmente objeto de contrato todos los servicios que no sean contrarios a las leyes o a las buenas costumbres.
+**1.056.** Pueden ser igualmente objeto de contrato todos los servicios que no sean contrarios a las leyes o a las buenas costumbres.
 
 #### Artículo 1272.
 
@@ -7497,9 +7497,9 @@ La hipoteca constituida por el marido en favor de la mujer garantizará la resti
 
 #### Artículo 1352.
 
-La mujer casada mayor de edad puede exigir por sí misma la constitución de hipoteca e inscripción de bienes de que trata el artículo 1.349.
+La mujer casada mayor de edad puede exigir por sí misma la constitución de hipoteca e inscripción de bienes de que trata el artículo
 
-Si no hubiese contraído aún matrimonio, o, habiéndolo contraído, fuese menor, deberán ejercitar aquel derecho en su nombre y calificar la suficiencia de la hipoteca que se constituya, el padre, la madre o el que diere la dote o los bienes que se deban garantizar.
+**1.349.** Si no hubiese contraído aún matrimonio, o, habiéndolo contraído, fuese menor, deberán ejercitar aquel derecho en su nombre y calificar la suficiencia de la hipoteca que se constituya, el padre, la madre o el que diere la dote o los bienes que se deban garantizar.
 
 A falta de estas personas, y siendo menor la mujer, esté o no casada, deberán pedir que se hagan efectivos los mismos derechos el tutor, el protutor, el consejo de familia o cualquiera de su vocales.
 
@@ -7541,9 +7541,9 @@ El marido sólo es responsable del deterioro que por su culpa o negligencia sufr
 
 #### Artículo 1361.
 
-La mujer puede enajenar, gravar e hipotecar los bienes de la dote inestimada, si fuese mayor de edad, con licencia de su marido, y, si fuese menor, con licencia judicial e intervención de las personas señaladas en el artículo 1.352.
+La mujer puede enajenar, gravar e hipotecar los bienes de la dote inestimada, si fuese mayor de edad, con licencia de su marido, y, si fuese menor, con licencia judicial e intervención de las personas señaladas en el artículo
 
-Si los enajenare, tendrá el marido obligación de constituir hipoteca, del propio modo y con iguales condiciones que respecto a los bienes de la dote estimada.
+**1.352.** Si los enajenare, tendrá el marido obligación de constituir hipoteca, del propio modo y con iguales condiciones que respecto a los bienes de la dote estimada.
 
 #### Artículo 1362.
 
@@ -7823,9 +7823,9 @@ El marido no podrá disponer por testamento sino de su mitad de gananciales.
 
 #### Artículo 1415.
 
-El marido podrá disponer de los bienes de la sociedad de gananciales para los fines expresados en el artículo 1.409.
+El marido podrá disponer de los bienes de la sociedad de gananciales para los fines expresados en el artículo
 
-También podrá hacer donaciones moderadas para objetos de piedad o beneficencia, pero sin reservarse el usufructo.
+**1.409.** También podrá hacer donaciones moderadas para objetos de piedad o beneficencia, pero sin reservarse el usufructo.
 
 #### Artículo 1416.
 
@@ -7851,9 +7851,9 @@ En el caso de renuncia, quedará siempre a salvo el derecho concedido a los acre
 
 #### Artículo 1419.
 
-El inventario comprenderá numéricamente, para colacionarlas, las cantidades que, habiendo sido pagadas por la sociedad de gananciales, deban rebajarse de la dote o del capital del marido, con arreglo a los artículos 1.366, 1.377 y 1.427.
+El inventario comprenderá numéricamente, para colacionarlas, las cantidades que, habiendo sido pagadas por la sociedad de gananciales, deban rebajarse de la dote o del capital del marido, con arreglo a los artículos 1.366, 1.377 y
 
-También se traerá a colación el importe de las donaciones y enajenaciones que deban considerarse ilegales o fraudulentas, con sujeción al artículo 1.413.
+**1.427.** También se traerá a colación el importe de las donaciones y enajenaciones que deban considerarse ilegales o fraudulentas, con sujeción al artículo 1.413.
 
 #### Artículo 1420.
 
@@ -7889,7 +7889,9 @@ El remanente líquido de los bienes gananciales se dividirá por mitad entre mar
 
 #### Artículo 1427.
 
-Del caudal de la herencia del marido se costeará el vestido de luto para la viuda, según lo dispuesto por el artículo 1.397. Los herederos de aquél lo abonarán con arreglo a su clase y fortuna.
+Del caudal de la herencia del marido se costeará el vestido de luto para la viuda, según lo dispuesto por el artículo
+
+**1.397.** Los herederos de aquél lo abonarán con arreglo a su clase y fortuna.
 
 #### Artículo 1428.
 
@@ -7965,9 +7967,9 @@ La administración de los bienes del matrimonio se transferirá a la mujer:
 
 2.º Cuando pida la declaración de ausencia del mismo marido, con arreglo a los artículos 183 y 185.
 
-3.º En el caso del párrafo primero del artículo 1.436.
+3.º En el caso del párrafo primero del artículo
 
-Los Tribunales conferirán también la administración a la mujer, con las limitaciones que estimen convenientes, si el marido estuviere prófugo o declarado rebelde en causa criminal, o si, hallándose absolutamente impedido para la administración, no hubiere proveído sobre ella.
+**1.436.** Los Tribunales conferirán también la administración a la mujer, con las limitaciones que estimen convenientes, si el marido estuviere prófugo o declarado rebelde en causa criminal, o si, hallándose absolutamente impedido para la administración, no hubiere proveído sobre ella.
 
 #### Artículo 1442.
 
@@ -8025,9 +8027,9 @@ Siempre que no pueda cumplirse la promesa de compra y venta, regirá para vended
 
 #### Artículo 1452.
 
-El daño o provecho de la cosa vendida, después de perfeccionado el contrato, se regulará por lo dispuesto en los artículos 1.096 y 1.182.
+El daño o provecho de la cosa vendida, después de perfeccionado el contrato, se regulará por lo dispuesto en los artículos 1.096 y
 
-Esta regla se aplicará a la venta de cosas fungibles hecha aisladamente y por un solo precio, o sin consideración a su peso, número o medida.
+**1.182.** Esta regla se aplicará a la venta de cosas fungibles hecha aisladamente y por un solo precio, o sin consideración a su peso, número o medida.
 
 Si las cosas fungibles se vendieren por un precio fijado con relación al peso, número o medida, no se imputará el riesgo al comprador hasta que se hayan pesado, contado o medido, a no ser que éste se haya constituido en mora.
 
@@ -8097,7 +8099,9 @@ Fuera de los casos que expresa el artículo precedente, la entrega de los bienes
 
 #### Artículo 1464.
 
-Respecto de los bienes incorporales, regirá lo dispuesto en el párrafo 2.º del artículo 1.462. En cualquier otro caso en que éste no tenga aplicación se entenderá por entrega el hecho de poner en poder del comprador los títulos de pertenencia, o el uso que haga de su derecho el mismo comprador, consintiéndolo el vendedor.
+Respecto de los bienes incorporales, regirá lo dispuesto en el párrafo 2.º del artículo
+
+**1.462.** En cualquier otro caso en que éste no tenga aplicación se entenderá por entrega el hecho de poner en poder del comprador los títulos de pertenencia, o el uso que haga de su derecho el mismo comprador, consintiéndolo el vendedor.
 
 #### Artículo 1465.
 
@@ -8427,9 +8431,9 @@ El retracto de comuneros excluye el de colindantes.
 
 En el retracto legal tendrá lugar lo dispuesto en los artículos 1.511 y 1.518.
 
-## Capítulo VII. De la transmisión de créditos y demás derechos incorporales artículo 1526 La cesión de un crédito, derecho o acción no surtirá efecto contra tercero sino desde que su fecha deba tenerse por cierta en conformidad a los artículos 1.218 y 1.227.
+## Capítulo VII. De la transmisión de créditos y demás derechos incorporales artículo 1526 La cesión de un crédito, derecho o acción no surtirá efecto contra tercero sino desde que su fecha deba tenerse por cierta en conformidad a los artículos 1.218 y
 
-Si se refiere a un inmueble, desde la fecha de su inscripción en el Registro.
+**1.227.** Si se refiere a un inmueble, desde la fecha de su inscripción en el Registro.
 
 #### Artículo 1527.
 
@@ -8443,9 +8447,9 @@ La venta o cesión de un crédito comprende la de todos los derechos accesorios,
 
 El vendedor de buena fe responderá de la existencia y legitimidad del crédito al tiempo de la venta, a no ser que se haya vendido como dudoso; pero no de la solvencia del deudor, a menos de haberse estipulado expresamente, o de que la insolvencia fuese anterior y pública.
 
-Aun en estos casos sólo responderá del precio recibido y de los gastos expresados en el número primero del artículo 1.518.
+Aun en estos casos sólo responderá del precio recibido y de los gastos expresados en el número primero del artículo
 
-El vendedor de mala fe responderá siempre del pago de todos los gastos y de los daños y perjuicios.
+**1.518.** El vendedor de mala fe responderá siempre del pago de todos los gastos y de los daños y perjuicios.
 
 #### Artículo 1530.
 
@@ -8609,9 +8613,9 @@ Si la obra es de tal naturaleza que hace inhabitable la parte que el arrendatari
 
 El arrendatario está obligado a poner en conocimiento del propietario, en el más breve plazo posible, toda usurpación o novedad dañosa que otro haya realizado o abiertamente prepare en la cosa arrendada.
 
-También está obligado a poner en conocimiento del dueño, con la misma urgencia, la necesidad de todas las reparaciones comprendidas en el número segundo del artículo 1.554.
+También está obligado a poner en conocimiento del dueño, con la misma urgencia, la necesidad de todas las reparaciones comprendidas en el número segundo del artículo
 
-En ambos casos será responsable el arrendatario de los daños y perjuicios que por su negligencia se ocasionaren al propietario.
+**1.554.** En ambos casos será responsable el arrendatario de los daños y perjuicios que por su negligencia se ocasionaren al propietario.
 
 #### Artículo 1560.
 
@@ -8803,9 +8807,9 @@ Si no hubiere pacto o costumbre en contrario, el precio de la obra deberá pagar
 
 El que ha ejecutado una obra en cosa mueble tiene el derecho de retenerla en prenda hasta que se le pague.
 
-#### Sección tercera. De los transportes por agua y tierra, tanto de personas como de cosas artículo 1601 Los conductores de efectos por tierra o por agua están sujetos, en cuanto a la guarda y conservación de las cosas que se les confían, a las mismas obligaciones que respecto a los posaderos se determinan en los artículos 1.783 y 1.784.
+#### Sección tercera. De los transportes por agua y tierra, tanto de personas como de cosas artículo 1601 Los conductores de efectos por tierra o por agua están sujetos, en cuanto a la guarda y conservación de las cosas que se les confían, a las mismas obligaciones que respecto a los posaderos se determinan en los artículos 1.783 y
 
-Lo dispuesto en este artículo se entiende sin perjuicio de lo que respecto a transporte por mar y tierra establece el Código de Comercio.
+**1.784.** Lo dispuesto en este artículo se entiende sin perjuicio de lo que respecto a transporte por mar y tierra establece el Código de Comercio.
 
 #### Artículo 1602.
 
@@ -9351,9 +9355,9 @@ Los acreedores de la sociedad son preferentes a los acreedores de cada socio sob
 
 3.º Por la muerte natural, interdicción civil o insolvencia de cualquiera de los socios, y en el caso previsto en el artículo 1.699.
 
-4.º Por la voluntad de cualquiera de los socios, con sujeción a lo dispuesto en los artículos 1.705 y 1.707.
+4.º Por la voluntad de cualquiera de los socios, con sujeción a lo dispuesto en los artículos 1.705 y
 
-Se exceptúan de lo dispuesto en los números 3.º y 4.º de este artículo las sociedades a que se refiere el artículo 1.670, en los casos en que deban subsistir con arreglo al Código de Comercio.
+**1.707.** Se exceptúan de lo dispuesto en los números 3.º y 4.º de este artículo las sociedades a que se refiere el artículo 1.670, en los casos en que deban subsistir con arreglo al Código de Comercio.
 
 #### Artículo 1701.
 

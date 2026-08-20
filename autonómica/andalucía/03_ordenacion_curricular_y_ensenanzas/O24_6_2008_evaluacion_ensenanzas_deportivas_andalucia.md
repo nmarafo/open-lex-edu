@@ -58,7 +58,11 @@ La financiación de las transferencias reguladas en la presente Orden se realiza
 2. Para determinar las cantidades que corresponden a cada provincia, que son las que posteriormente se distribuirán entre los municipios seleccionados, se ha optado por utilizar los criterios del Ministerio de Trabajo e Inmigración para la distribución del mencionado Fondo entre las Comunidades Autónomas, por lo que se ha recurrido a los siguientes criterios y fuentes:
 C1 Asignación básica, para cada provincia, en aplicación del criterio de solidaridad interterritorial, de forma que en aquellas provincias en las que haya una presencia menor de inmigrantes cuenten en todo caso con una aportación estable. Para este criterio se distribuye el 10,00% de la cantidad asignada (4.896.174 €), que se repartirá a razón de un 12,50% para cada provincia. C2 Situaciones especiales, criterio que responde a situaciones concretas de cada provincia, para ello se han tenido en cuenta los siguientes indicadores: frontera exterior, campañas de temporada (agrícola, hostelera, servicios de proximidad, etc.), composición de la población inmigrante, pirámide de edad, así como otros factores de diferente importancia. Para este criterio se distribuye el 35,00% de la cantidad asignada. C3 Población extranjera extracomunitaria empadronada en cada provincia, a fecha 1 de enero del 2007. Fuente de datos: INE. Para este criterio se distribuye el 17,50% de la cantidad asignada. C4 Número de trabajadores extracomunitarios afiliados a la Seguridad Social, excluido el régimen especial agrario, a fecha de 31 de diciembre de 2007, en cada provincia. Fuente de datos: Ministerio de Trabajo e Inmigración. Para este criterio se distribuye el 12,50% de la cantidad asignada. C5 Número de trabajadores extracomunitarios afiliados a la Seguridad Social en el régimen especial agrario, en cada provincia, a fecha de 31 de diciembre de 2007. Fuente de datos: Ministerio de Trabajo e Inmigración. Para este criterio se distribuye el 15,00% de la cantidad asignada. C6 Renta per cápita provincial, correspondientes a 2004, según datos publicados por el INE. Para este criterio se distribuye el 10,00% de la cantidad asignada.
 
-3. El modelo de baremación que permite verificar la situación de los municipios en relación con el fenómeno migratorio se determina mediante la siguiente función: P= k1 V1 +k22 + k334455+ k66. Siendo P los puntos que obtiene cada municipio en relación con las variables que se enumeran a continuación, con datos de población referidos al 1.1.2007. V1=Numero total de personas empadronadas en el municipio. V2=Número de personas inmigrantes empadronadas en el municipio. V3=Desviación del porcentaje de personas inmigrantes sobre la población total del municipio respecto al porcentaje de personas inmigrantes sobre la población total de la provincia. V4=Tasa de feminización de la población inmigrante en el municipio. V5=Financiación recibida en los últimos años destinada a políticas de acogida e integración de inmigrantes en el marco de las convocatorias de la Consejería de Gobernación en esta materia. V6=Valoración del Plan de Acción, presentado en el año 2007, en función del análisis de las acciones programadas, desarrolladas y evaluadas y sus aspectos técnicos. k son los pesos asignados a las variables y que cumplen la siguiente condición ∑ki=200. En el caso de que un municipio no haya recibido financiación en el año 2007 mediante la Orden de transferencias entonces k1=25, k2=40, k3=45, k4=10, k5=80 y k6=0. En el caso de que un municipio haya recibido financiación en el año 2007 mediante la Orden de transferencias entonces k1=25, k2=40, k3=45, k4=10, k5=0 y k6=80. Una vez determinada la puntuación asignada a cada municipio, se seleccionan aquellos que alcanzan al menos 1.065 puntos en dicha baremación. En el caso de empate en la puntuación dentro de la misma provincia se selecciona el municipio que cuenta con mayor población inmigrante empadronada a 1.1.07. En el caso de que un ayuntamiento seleccionado haya disminuido la población inmigrante respecto al ejercicio anterior, recibirá la misma cantidad que en 2007.
+3. El modelo de baremación que permite verificar la situación de los municipios en relación con el fenómeno migratorio se determina mediante la siguiente función: P= k1 V1 +k22 + k334455+ k66. Siendo P los puntos que obtiene cada municipio en relación con las variables que se enumeran a continuación, con datos de población referidos al
+
+**1.1.2007.** V1=Numero total de personas empadronadas en el municipio. V2=Número de personas inmigrantes empadronadas en el municipio. V3=Desviación del porcentaje de personas inmigrantes sobre la población total del municipio respecto al porcentaje de personas inmigrantes sobre la población total de la provincia. V4=Tasa de feminización de la población inmigrante en el municipio. V5=Financiación recibida en los últimos años destinada a políticas de acogida e integración de inmigrantes en el marco de las convocatorias de la Consejería de Gobernación en esta materia. V6=Valoración del Plan de Acción, presentado en el año 2007, en función del análisis de las acciones programadas, desarrolladas y evaluadas y sus aspectos técnicos. k son los pesos asignados a las variables y que cumplen la siguiente condición ∑ki=200. En el caso de que un municipio no haya recibido financiación en el año 2007 mediante la Orden de transferencias entonces k1=25, k2=40, k3=45, k4=10, k5=80 y k6=0. En el caso de que un municipio haya recibido financiación en el año 2007 mediante la Orden de transferencias entonces k1=25, k2=40, k3=45, k4=10, k5=0 y k6=80. Una vez determinada la puntuación asignada a cada municipio, se seleccionan aquellos que alcanzan al menos 1.065 puntos en dicha baremación. En el caso de empate en la puntuación dentro de la misma provincia se selecciona el municipio que cuenta con mayor población inmigrante empadronada a
+
+**1.1.07.** En el caso de que un ayuntamiento seleccionado haya disminuido la población inmigrante respecto al ejercicio anterior, recibirá la misma cantidad que en 2007.
 
 #### Artículo 5. Distribución de las transferencias.
 
@@ -369,16 +373,16 @@ Disposición siguiente
 
 1. Disposiciones generales
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de Justicia
 
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 Descargar boletín nº 136 completo

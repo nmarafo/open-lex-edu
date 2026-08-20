@@ -165,15 +165,13 @@ de
 
 4. Administración de justicia
 
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 Descargar boletín nº
 
 73 completo
-
-Temas
 
 Temas
 
@@ -209,8 +207,6 @@ Sectores de actividad
 
 La Junta
 
-La Junta
-
 Presidente
 
 Vicepresidencias
@@ -222,8 +218,6 @@ Transparencia
 Consejo de Gobierno
 
 Consejerías
-
-Servicios
 
 Servicios
 
@@ -284,10 +278,6 @@ Listas de correo
 Fuentes web
 
 Síguenos en:
-
-Síguenos en:
-
-andaluciajunta
 
 andaluciajunta
 

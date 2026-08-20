@@ -461,7 +461,7 @@ forme a lo definido en el artículo 4 del citado Decre-
 
 to 104/2010, su identificación se ajustará a los crite-
 
-rios e indicadores establecidos en el 
+rios e indicadores establecidos en el
 
 ## anexo I. de esta
 
@@ -791,7 +791,7 @@ texto de centro y aula; calendario de seguimiento y
 
 evaluación, y acompañado de los documentos justi-
 
-ficativos conforme se establece en el 
+ficativos conforme se establece en el
 
 ## anexo II. de es-
 
@@ -901,7 +901,7 @@ ción y se responsabilice de que se cumplimente el in-
 
 forme de seguimiento trimestral y final cuyo conte-
 
-nido recogerá, al menos, los apartados del 
+nido recogerá, al menos, los apartados del
 
 ## anexo III. de esta Orden. La evaluación de la adaptación será
 
@@ -1193,7 +1193,7 @@ ciones, procedimientos y materiales para el asesora-
 
 miento y apoyo al profesorado de este alumnado, se-
 
-gún el esquema que se adjunta en el 
+gún el esquema que se adjunta en el
 
 ## anexo IV. de esta
 
@@ -2877,7 +2877,7 @@ do “Informe sobre la evaluación de la adaptación
 
 curricular o adaptación curricular significativa”, si-
 
-guiendo el 
+guiendo el
 
 ## anexo III. de la presente Orden.
 
@@ -3269,7 +3269,7 @@ denación e Innovación Educativa para concretar,
 
 adecuar o adaptar los criterios de identificación es-
 
-tablecidos en el 
+tablecidos en el
 
 ## anexo I. de esta Orden.
 
@@ -3459,9 +3459,7 @@ UNIVERSIDADES, CULTURA Y DEPORTES,
 
 Milagros Luis Brito.
 
-A N E X O  I
-
-Criterios de identificación de los escolares con
+## Anexo I. Criterios de identificación de los escolares con
 
 NEAE a que se refieren las definiciones recogidas
 
@@ -4705,7 +4703,7 @@ disfunciones de la laringe, hormonal, neurológico,
 
 traumático o quirúrgico.
 
-A N E X O  I I
+## Anexo II.
 
 DOCUMENTO DE LAADAPTACIÓN CURRICULAR,
 
@@ -4785,7 +4783,7 @@ ______________________________________________
 
 a) Objetivos, competencias básicas y contenidos trabajados.
 
-b) Objetivos, competencias básicas  y contenidos alcanzados.
+b) Objetivos, competencias básicas y contenidos alcanzados.
 
 c) Objetivos, competencias básicas y contenidos previstos y no logrados.
 
@@ -4821,7 +4819,7 @@ ______________________________________________
 
 a) Objetivos, competencias básicas y contenidos trabajados.
 
-b) Objetivos, competencias básicas  y contenidos alcanzados.
+b) Objetivos, competencias básicas y contenidos alcanzados.
 
 c) Objetivos, competencias básicas y contenidos previstos y no logrados.
 
@@ -4829,11 +4827,11 @@ d) Valoración de la metodología y la evaluación.
 
 Miércoles 22 de diciembre de 2010
 
-A N E X O  I I I
+## Anexo II. I
 
-e) Valoración referida a si el alumno o la alumna ha alcanzado, de manera global  o
+e) Valoración referida a si el alumno o la alumna ha alcanzado, de manera global o
 
-no, los objetivos y competencias previstas en la AC  o ACUS para cada área o materia
+no, los objetivos y competencias previstas en la AC o ACUS para cada área o materia
 
 adaptada.
 
@@ -4937,8 +4935,6 @@ EL/LA DIRECTOR/A DEL CENTRO (sólo en el informe final del curso)
 
 º
 
-º
-
 EL/LA DIRECTOR/A DEL CENTRO (sólo en el informe final del curso)
 
 V.º B.º
@@ -4965,7 +4961,7 @@ Título/objetivo general del PEP:
 
 Miércoles 22 de diciembre de 2010
 
-A N E X O  I V
+## Anexo IV.
 
 Objetivos/contenidos/competencias básicas/ámbitos previos o transversales que desarrolla de
 

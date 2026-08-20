@@ -44,8 +44,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -71,8 +69,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -417,7 +413,9 @@ Dentro de los diez días siguientes a la recepción de la solicitud en el regist
 
 2. Analizada la solicitud, el órgano competente emitirá la correspondiente propuesta de resolución.
 
-3. La persona interesada en el procedimiento de concesión de subvenciones, podrá conocer a través de un acceso restringido en la dirección electrónica indicada en el apartado 13 del Cuadro Resumen, el estado de tramitación del mismo. El acceso y consulta se podrá realizar en tiempo real, previa identificación mediante alguno de los sistemas de firma electrónica indicados en el artículo 11.2. La información sobre el estado de la tramitación del procedimiento comprenderá la relación de los actos de trámite realizados, su contenido y fecha en la que fueron dictados. Todo ello, sin perjuicio de lo previsto en el artículo 35.a) de la Ley 30/1992, de 26 de noviembre.
+3. La persona interesada en el procedimiento de concesión de subvenciones, podrá conocer a través de un acceso restringido en la dirección electrónica indicada en el apartado 13 del Cuadro Resumen, el estado de tramitación del mismo. El acceso y consulta se podrá realizar en tiempo real, previa identificación mediante alguno de los sistemas de firma electrónica indicados en el artículo
+
+**11.2.** La información sobre el estado de la tramitación del procedimiento comprenderá la relación de los actos de trámite realizados, su contenido y fecha en la que fueron dictados. Todo ello, sin perjuicio de lo previsto en el artículo 35.a) de la Ley 30/1992, de 26 de noviembre.
 
 #### Artículo 17. Audiencia, reformulación, aportación de documentación y aceptación.
 
@@ -435,7 +433,7 @@ c) **Comunicar su aceptación a la subvención propuesta.** Sin perjuicio de lo 
 
 d) Optar entre las subvenciones en las que haya resultado beneficiaria provisional, cuando en el apartado 2.c) del Cuadro Resumen se haya contemplado la posibilidad solicitar dos o más subvenciones y sólo se pueda optar a una de ellas.
 
-2. Salvo que los hubiera presentado con la solicitud en los términos establecidos en el artículo 10.5, la persona beneficiaria provisional deberá acompañar al formulario-Anexo II  la documentación señalada en el apartado 14 del Cuadro Resumen, la cual será acreditativa de los datos que haya consignado en su solicitud respecto de los requisitos, en la declaración responsable.
+2. Salvo que los hubiera presentado con la solicitud en los términos establecidos en el artículo 10.5, la persona beneficiaria provisional deberá acompañar al formulario-Anexo II la documentación señalada en el apartado 14 del Cuadro Resumen, la cual será acreditativa de los datos que haya consignado en su solicitud respecto de los requisitos, en la declaración responsable.
 
 Los documentos serán originales, copias auténticas o copias autenticadas.
 
@@ -750,17 +748,19 @@ Disposición siguiente
 
 116 de 15/06/2011
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de Justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2011/116/boletin.116.pdf">Descargar boletín nº 116 completo
 
@@ -777,4 +777,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

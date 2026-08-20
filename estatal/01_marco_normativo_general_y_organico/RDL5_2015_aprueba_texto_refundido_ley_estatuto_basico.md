@@ -205,7 +205,7 @@ Disposición adicional decimoséptima.. Medidas dirigidas al control de la tempo
 
 de la Constitución Española, autoriza al Gobierno para aprobar, en el. plazo de doce meses a partir de la entrada en vigor de esta ley, un texto refundido en el que se integren, debidamente regularizadas, aclaradas y armonizadas, la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, y las que, afectando a su ámbito material, puedan, en su caso, promulgarse antes de la aprobación por Consejo de Ministros de los textos refundidos que procedan y así se haya previsto en las mismas. Asimismo, el artículo dos de la citada ley, prevé que los reales decretos legislativos que se dicten de acuerdo con la presente ley incluirán la derogación expresa de las normas que hayan sido objeto de refundición así como de aquellas disposiciones reglamentarias dictadas en aplicación y desarrollo de las mismas que resulten incompatibles con la refundición efectuada. De acuerdo con la citada habilitación se ha procedido a elaborar el texto refundido, siguiendo los criterios que a continuación se exponen. En primer lugar, se ha procedido a integrar en un texto único todas las modificaciones introducidas en la Ley 7/2007, de 12 de abril, a través de diversas leyes que bien han dado una nueva redacción a determinados preceptos, bien, han introducido nuevas disposiciones. En segundo lugar, y de acuerdo con la delegación conferida, se han incluido en el texto las disposiciones en materia de régimen jurídico del empleo público contenidas en normas con rango de ley que la hayan modificado, entendiendo por tales únicamente aquellas normas con rango de ley, y carácter de legislación básica, que de manera indiscutible afectan al ámbito material de la Ley 7/2007, de 12 de abril, y que no tengan un mero carácter coyuntural o temporal, sino que han sido aprobadas con vocación de permanencia. Por otra parte, el principio de seguridad jurídica ha guiado toda la elaboración de este texto refundido. En este sentido, en todo momento se ha perseguido el objetivo unificador que encarna esta clase de textos refundidos, lo que se ha realizado a través de la actualización, aclaración y armonización de las distintas leyes que lo conforman, dando lugar a un nuevo texto, completo y sistemático. Asimismo, se entiende que esta tendencia unificadora no puede ser óbice para que se incluyan en el texto refundido, debidamente integradas, todas aquellas normas que son necesarias para evitar que se produzca un vacío legal, como ocurre con la regulación relativa a los títulos universitarios oficiales correspondientes a la anterior ordenación exigibles para el ingreso en las Administraciones Públicas; o aquellas que, si bien podrían tener un carácter temporal, aun no se han consumado al no haberse cumplido la condición prevista para ello, condición que en la mayoría de los supuestos supone la aprobación de las correspondientes leyes de desarrollo, como es el caso de alguna de las normas incluidas en la disposición derogatoria única de la Ley 7/2007, de 12 de abril, cuya derogación se preveía que se produciría, como se señalaba, cuando entrasen en vigor las leyes de desarrollo, leyes que en la mayoría de los casos aún no se han aprobado. Por último, y como fruto de la integración operada, se ha procedido a ajustar la numeración de las disposiciones como consecuencia de las distintas derogaciones que ya se habían producido con anterioridad. En su virtud, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de octubre de 2015,
 DISPONGO:
-Artículo único.  Aprobación del texto refundido de la Ley del Estatuto Básico del Empleado Público. Se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público que se inserta a continuación.
+Artículo único. Aprobación del texto refundido de la Ley del Estatuto Básico del Empleado Público. Se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público que se inserta a continuación.
 
 #### Disposición adicional única. Remisiones normativas.
 
@@ -1415,9 +1415,9 @@ Los funcionarios de carrera tendrán garantizados los derechos económicos alcan
 
 La carrera profesional de los funcionarios de carrera se iniciará en el grado, nivel, categoría, escalón y otros conceptos análogos correspondientes a la plaza inicialmente asignada al funcionario tras la superación del correspondiente proceso selectivo, que tendrán la consideración de mínimos. A partir de aquellos, se producirán los ascensos que procedan según la modalidad de carrera aplicable en cada ámbito.
 
-#### Disposición adicional décima. Ámbito de aplicación del artículo 87.3.
+#### Disposición adicional décima. Ámbito de aplicación del artículo
 
-Al personal contemplado en el artículo 4 de este Estatuto que sea declarado en servicios especiales o en situación administrativa análoga, se le aplicarán los derechos establecidos en el artículo 87.3 del presente Estatuto en la medida en que dicha aplicación resulte compatible con lo establecido en su legislación específica.
+**87.3.** Al personal contemplado en el artículo 4 de este Estatuto que sea declarado en servicios especiales o en situación administrativa análoga, se le aplicarán los derechos establecidos en el artículo 87.3 del presente Estatuto en la medida en que dicha aplicación resulte compatible con lo establecido en su legislación específica.
 
 #### Disposición adicional undécima. Personal militar que preste servicios en la.
 
@@ -1515,9 +1515,9 @@ Hasta que se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de
 
 #### Cuarta. de esta ley se entenderán referidas a los organismos reguladores de la disposición adicional décima, 1 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
 
-#### Disposición transitoria octava. Aplicación del artículo 84.3.
+#### Disposición transitoria octava. Aplicación del artículo
 
-De acuerdo con lo previsto en la disposición final cuarta, las previsiones contenidas en el artículo 84 3 en relación con la forma de proceder en los supuestos de cese en puesto de. libre designación, resultarán de aplicación en las Administraciones Públicas en las que se hayan aprobado la correspondiente ley de desarrollo.
+**84.3.** De acuerdo con lo previsto en la disposición final cuarta, las previsiones contenidas en el artículo 84 3 en relación con la forma de proceder en los supuestos de cese en puesto de. libre designación, resultarán de aplicación en las Administraciones Públicas en las que se hayan aprobado la correspondiente ley de desarrollo.
 
 #### Disposición transitoria novena. Aplicación progresiva del permiso del progenitor diferente.
 
@@ -1531,8 +1531,6 @@ b) En 2020, la duración del permiso será de doce semanas; las cuatro primeras 
 
 la suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento.
 c) Finalmente en 2021, la duración del permiso será de dieciséis semanas; las seis primeras semanas serán ininterrumpidas e inmediatamente posteriores a la fecha del nacimiento, de la decisión judicial de guarda con fines de adopción o acogimiento o decisión judicial por la que se constituya la adopción. Las diez semanas restantes podrán ser de disfrute interrumpido; ya sea con posterioridad a las seis semanas inmediatas posteriores al periodo de descanso obligatorio para la madre, o bien con posterioridad a la finalización de los permisos contenidos en los apartados a) y b) del artículo 49 o de.
-
-la suspensión del contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento.
 
 #### Disposición derogatoria única.
 
@@ -1580,4 +1578,4 @@ presente Estatuto incluyan el factor de incompatibilidad al retribuido por aranc
 
 Función Pública que se dicten en desarrollo de este Estatuto. La disposición final tercera del presente Estatuto producirá efectos en cada Administración Pública a partir de la entrada en vigor del capítulo III del título III con la aprobación de las leyes de Función Pública de las Administraciones Públicas que se dicten en desarrollo de este Estatuto. Hasta que se hagan efectivos esos supuestos la autorización o denegación de compatibilidades continuará rigiéndose por la actual normativa.
 
-2. Hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo se mantendrán en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos en tanto no se opongan a lo establecido en este Estatuto. Este documento es de carácter informativo y no tiene valor jurídico. 
+2. Hasta que se dicten las leyes de Función Pública y las normas reglamentarias de desarrollo se mantendrán en vigor en cada Administración Pública las normas vigentes sobre ordenación, planificación y gestión de recursos humanos en tanto no se opongan a lo establecido en este Estatuto. Este documento es de carácter informativo y no tiene valor jurídico.

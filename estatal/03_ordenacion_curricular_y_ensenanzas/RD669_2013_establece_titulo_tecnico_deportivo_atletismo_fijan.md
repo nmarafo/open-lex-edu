@@ -1196,7 +1196,7 @@ f. Se han descrito los errores más comunes en la ejecución técnica ocasionado
 
 g. Se ha elaborado un protocolo de verificación de la técnica en carreras, marcha y vallas en el nivel de iniciación.
 
-h.  Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
+h. Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
 
 2. Valora la ejecución técnica en la iniciación deportiva en la agrupación de especialidades de saltos (altura, longitud, triple, pértiga) identificando los errores más habituales, relacionándolos con las tareas de corrección.
 
@@ -1214,7 +1214,7 @@ f. Se han descrito los errores más comunes en la ejecución técnica ocasionado
 
 g. Se ha elaborado un protocolo de verificación de la técnica en saltos en el nivel de iniciación.
 
-h.  Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
+h. Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
 
 3. Valora la ejecución técnica en la iniciación deportiva en la agrupación de especialidades de lanzamientos (peso, disco, jabalina, martillo) identificando los errores más habituales, relacionándolos con las tareas de corrección.
 
@@ -1232,7 +1232,7 @@ f. Se han descrito los errores más comunes en la ejecución técnica ocasionado
 
 g. Se ha elaborado un protocolo de verificación de la técnica en lanzamientos en el nivel de iniciación.
 
-h.  Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
+h. Se ha interiorizado la necesidad de informar a los alumnos sobre los errores cometidos como factor de mejora de la técnica.
 
 4. Concreta la sesión de iniciación en atletismo a partir de la programación de referencia, describiendo los elementos y organización de la programación y elaborando secuencias de aprendizaje.
 
@@ -1242,7 +1242,7 @@ b. Se han descrito las características de los objetivos, contenidos, medios y m
 
 c. Se han establecido los principios de elaboración de los contenidos y las secuencias de aprendizaje de las técnicas en las distintas agrupaciones de especialidades.
 
-d.  Se ha valorado la introducción del reglamento en el proceso de iniciación.
+d. Se ha valorado la introducción del reglamento en el proceso de iniciación.
 
 e. Se ha identificado el tiempo, espacio y material necesarios a utilizar en función de los objetivos de la sesión.
 
@@ -1492,7 +1492,7 @@ e. Se han aplicado las técnicas y procedimientos de elaboración y distribució
 
 f. Se han descrito las características y aplicado el protocolo básico en la ceremonia de entrega de trofeos en una competición en la etapa de iniciación en atletismo.
 
-g.  Se han descrito las medidas de seguridad a tener en cuenta para garantizar un buen desarrollo en una competición en la etapa de iniciación en atletismo.
+g. Se han descrito las medidas de seguridad a tener en cuenta para garantizar un buen desarrollo en una competición en la etapa de iniciación en atletismo.
 
 h. Se ha descrito el protocolo de actuación en caso de accidente deportivo
 
@@ -1654,7 +1654,7 @@ b. Se ha identificado la estructura organizativa y el funcionamiento de las dist
 
 c. Se ha reconocido el tipo de asociación atlética del club o entidad atlética de prácticas.
 
-d.  Se han identificado las relaciones jerárquicas dentro del club o entidad atlética (junta directiva, técnicos, socios, usuarios).
+d. Se han identificado las relaciones jerárquicas dentro del club o entidad atlética (junta directiva, técnicos, socios, usuarios).
 
 e. Se ha identificado la oferta de actividades vinculadas a la iniciación atlética o al acompañamiento de los jóvenes atletas.
 
@@ -1740,11 +1740,11 @@ c. Se han aplicado procedimientos de reclamación en una competición de iniciac
 
 d. Se han aplicado criterios de valoración de la ejecución técnico y táctica de los atletas en las distintas especialidades utilizando técnicas y procedimientos de observación adecuadas al nivel de iniciación al atletismo.
 
-e.  Se han trasladado al atleta las instrucciones técnicas y tácticas para la competición de iniciación al atletismo, teniendo en cuenta las características de la competición y del atleta.
+e. Se han trasladado al atleta las instrucciones técnicas y tácticas para la competición de iniciación al atletismo, teniendo en cuenta las características de la competición y del atleta.
 
-f.  Se ha acompañado a los atletas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
+f. Se ha acompañado a los atletas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
 
-g.  Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de iniciación en atletismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+g. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de iniciación en atletismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
 
 6. Realiza operaciones de prestación de los primeros auxilios, interpretando las normas y protocolos establecidos y aplicando técnicas y procedimientos de acuerdo a instrucciones o normas establecidas.
 
@@ -1828,9 +1828,9 @@ h. Se ha argumentado la contribución de la motivación en el fomento de la TD.
 
 i. Se han analizado los procedimientos del mantenimiento de la motivación durante la etapa de TD.
 
-j.  Se han aplicado estrategias psicológicas para el mantenimiento de la concentración y el control de pensamientos y emociones en entrenamientos y competiciones propios de la etapa de TD.
+j. Se han aplicado estrategias psicológicas para el mantenimiento de la concentración y el control de pensamientos y emociones en entrenamientos y competiciones propios de la etapa de TD.
 
-k.  Se ha valorado la necesidad de integrar los aspectos psico-sociales en la preparación deportiva en la etapa de TD.
+k. Se ha valorado la necesidad de integrar los aspectos psico-sociales en la preparación deportiva en la etapa de TD.
 
 2. Valora el proceso de perfeccionamiento técnico y táctico del deportista, analizando las características del aprendizaje motor y los factores que intervienen.
 
@@ -1878,11 +1878,11 @@ h. Se han aplicado diferentes tipos de feedback desde el punto de vista de la ef
 
 i. Se han identificado las variables a tener en cuenta en la administración del feedback: momento de aplicación, frecuencia en la administración, y la cantidad.
 
-j.  Se ha identificado y aplicado las diferentes formas de distribución de la práctica como uno de los factores que influyen en el aprendizaje, a lo largo del proceso de enseñanza-aprendizaje.
+j. Se ha identificado y aplicado las diferentes formas de distribución de la práctica como uno de los factores que influyen en el aprendizaje, a lo largo del proceso de enseñanza-aprendizaje.
 
-k.  Se han descrito y argumentado las características y posibles causas de los comportamientos no deseados en las tareas y sesiones de EB y PT.
+k. Se han descrito y argumentado las características y posibles causas de los comportamientos no deseados en las tareas y sesiones de EB y PT.
 
-l.  Se han analizado y aplicado las medidas de intervención del técnico ante posibles conductas no deseadas en tareas y sesiones de EB y PT.
+l. Se han analizado y aplicado las medidas de intervención del técnico ante posibles conductas no deseadas en tareas y sesiones de EB y PT.
 
 4. Interpreta la programación de la enseñanza deportiva analizando sus componentes y diseñando actividades en función de la etapa de aprendizaje del deportista.
 
@@ -1904,7 +1904,7 @@ h. Se han descrito los conceptos de progresión, interferencia contextual y sign
 
 i. Se ha valorado la importancia de la progresión y la interferencia contextual en el diseño y modificación de tareas como factor de mejora en el aprendizaje deportivo.
 
-j.  Se ha destacado la importancia de la motivación del deportista hacia la tarea como elemento clave en su mejora y su adherencia a la práctica.
+j. Se ha destacado la importancia de la motivación del deportista hacia la tarea como elemento clave en su mejora y su adherencia a la práctica.
 
 5. Coordina la intervención del personal técnico a su cargo, aplicando técnicas de gestión de recursos humanos.
 
@@ -1938,7 +1938,7 @@ h. Se han descrito y aplicado mecanismos de adaptación de la competición para 
 
 i. Se ha valorado la importancia de fomentar el desarrollo integral del deportista y no sólo el aspecto técnico deportivo.
 
-j.  Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
+j. Se han descrito y aplicado técnicas e instrumentos de evaluación y medida de actitudes y valores en el deporte.
 
 Contenidos básicos
 
@@ -2254,7 +2254,7 @@ j. Se han analizado los principales medios del entrenamiento de la flexibilidad.
 
 k. Se han analizado los principales medios del entrenamiento de las capacidades coordinativas.
 
-l.  Se ha valorado la importancia de los principios metodológicos y medios de entrenamiento de las capacidades para el correcto desarrollo de la condición motriz general de las personas.
+l. Se ha valorado la importancia de los principios metodológicos y medios de entrenamiento de las capacidades para el correcto desarrollo de la condición motriz general de las personas.
 
 Contenidos básicos
 
@@ -2400,7 +2400,7 @@ h. Se ha valorado la importancia de una actitud positiva hacia la inclusión por
 
 i. Se han descrito las posibilidades del material deportivo adaptado específico de los diferentes juegos y deportes adaptados.
 
-j.  Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
+j. Se han enunciado las posibilidades de las ayudas técnicas atendiendo al tipo de discapacidad y práctica deportiva que realicen las personas.
 
 3. Organiza a los deportistas con discapacidad interpretando las principales clasificaciones funcionales del deporte adaptado y las características de los deportes adaptados.
 
@@ -2564,7 +2564,7 @@ d. Se ha analizado el significado y alcance de los distintos tipos de señalizac
 
 e. Se han analizado los requisitos básicos de seguridad que han de cumplir las instalaciones y equipamiento deportivo para todas las personas que sean usuarias o personal laboral, según la normativa vigente.
 
-f.  Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
+f. Se han analizado, en un supuesto práctico, las características de los planes de emergencia y evacuación de una instalación deportiva.
 
 g. Se han descrito las medidas de protección contra actos antisociales y de violencia en el deporte, en una instalación deportiva.
 
@@ -2732,7 +2732,7 @@ h. Se han aplicado estrategias metodológicas para favorecer la participación, 
 
 i. Se ha valorado la importancia de una actitud positiva de los/as compañeros, personal técnico, familias y las instituciones hacia la práctica deportiva de las mujeres.
 
-j.  Se han identificado los usos sexistas del lenguaje y las formas básicas para hacer un uso del mismo que visibilice a las mujeres deportistas.
+j. Se han identificado los usos sexistas del lenguaje y las formas básicas para hacer un uso del mismo que visibilice a las mujeres deportistas.
 
 3. Apoya la incorporación de la mujer al deporte, identificando el papel de las instituciones y las líneas de apoyo al deporte femenino.
 
@@ -2924,7 +2924,7 @@ f. Se han seleccionado los sistemas de cuantificación de las cargas de trabajo 
 
 g. Se ha elaborado un ciclo completo, a partir de una programación de referencia, concretando: objetivos, medios, métodos, instrumentos de control, dinámica de la carga.
 
-h.  Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
+h. Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
 
 i. Se ha valorado la importancia de la revisión continua del trabajo realizado como factor de mejora de la calidad de los programas de entrenamiento del atleta.
 
@@ -3062,8 +3062,6 @@ Contenidos básicos
 
 - Métodos y medios de entrenamiento del acondicionamiento físico, técnico y táctico de las carreras con vallas.
 
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
-
 - Las salidas.
 
 - Métodos y medios de entrenamiento del acondicionamiento físico, técnico y táctico de las salidas. Características.
@@ -3077,8 +3075,6 @@ Contenidos básicos
 - Las pruebas de marcha:
 
 - Métodos y medios de entrenamiento del acondicionamiento físico, técnico y táctico de la marcha atlética.
-
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
 
 4. Adapta y concreta los ciclos de entrenamiento, y las competiciones del atleta, de carreras y marcha, analizando las programaciones de referencia, y los medios específicos de preparación.
 
@@ -3128,7 +3124,7 @@ Resultados de aprendizaje y criterios de evaluación
 
 1. Valora el rendimiento del atleta en el entrenamiento y durante la competición en la etapa de tecnificación deportiva, analizando los estándares técnicos de los saltos.
 
-a.  Se han explicado los factores técnicos de los que depende el rendimiento deportivo del atleta en los saltos durante la etapa de tecnificación deportiva.
+a. Se han explicado los factores técnicos de los que depende el rendimiento deportivo del atleta en los saltos durante la etapa de tecnificación deportiva.
 
 b. Se han analizado los estándares técnicos del atleta, propios de los saltos durante esta etapa.
 
@@ -3200,7 +3196,7 @@ f. Se han seleccionado los sistemas de cuantificación de las cargas de trabajo 
 
 h. Se ha elaborado un ciclo completo, a partir de una programación de referencia, concretando: objetivos, medios, métodos, instrumentos de control, dinámica de la carga.
 
-h.  Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
+h. Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
 
 i. Se ha valorado la importancia de la revisión continua del trabajo realizado como factor de mejora de la calidad de los programas de entrenamiento del atleta.
 
@@ -3212,7 +3208,7 @@ Contenidos básicos
 
 - El salto de altura.
 
--  La técnica del «Fosbury Flop» y cada una de sus fases: la carrera, la batida, el vuelo y la caída.
+- La técnica del «Fosbury Flop» y cada una de sus fases: la carrera, la batida, el vuelo y la caída.
 
 - Errores técnicos más frecuentes en ellas.
 
@@ -3282,8 +3278,6 @@ Contenidos básicos
 
 - Métodos y medios de entrenamiento del acondicionamiento físico y técnico del salto de longitud.
 
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
-
 - El triple salto.
 
 - Métodos y medios de entrenamiento del acondicionamiento físico y técnico del triple salto.
@@ -3293,8 +3287,6 @@ Contenidos básicos
 - El salto con pértiga.
 
 - Métodos y medios de entrenamiento del acondicionamiento físico y técnico del salto con pértiga.
-
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
 
 4. Adapta y concreta los ciclos de entrenamiento y las competiciones del atleta, de saltos, analizando las programaciones de referencia, y los medios específicos de preparación.
 
@@ -3430,7 +3422,7 @@ f. Se han seleccionado los sistemas de cuantificación de las cargas de trabajo 
 
 g. Se ha elaborado un ciclo completo, a partir de una programación de referencia, concretando: objetivos, medios, métodos, instrumentos de control, dinámica de la carga.
 
-h.  Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
+h. Se ha valorado la programación anticipada como factor de calidad de un programa de entrenamiento del atleta.
 
 i. Se ha valorado la importancia de la revisión continua del trabajo realizado como factor de mejora de la calidad de los programas de entrenamiento del atleta.
 
@@ -3538,8 +3530,6 @@ Contenidos básicos
 
 - Medios y métodos de entrenamiento del acondicionamiento físico y técnico del lanzamiento del disco.
 
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
-
 - El lanzamiento del martillo.
 
 - Medios y métodos de entrenamiento del acondicionamiento físico y técnico del lanzamiento de martillo.
@@ -3549,8 +3539,6 @@ Contenidos básicos
 - El lanzamiento de jabalina.
 
 - Medios y métodos de entrenamiento del acondicionamiento físico y técnico del lanzamiento de jabalina.
-
-- La sesión con objetivo técnico o de acondicionamiento físico. Características. Criterios de combinación.
 
 - Las pruebas combinadas.
 
@@ -3644,7 +3632,7 @@ b. Se han descrito y aplicado las normas de clasificación en eliminatorias, ser
 
 c. Se han descrito los métodos de cronometraje que recoge el R.I.A., indicando los ámbitos de utilización para cada uno de ellos y las características y criterios aplicación de los mismos.
 
-d.  Se han descrito y comparado técnicamente las normas de las salidas de tacos y de pie.
+d. Se han descrito y comparado técnicamente las normas de las salidas de tacos y de pie.
 
 e. Se han descrito y especificado las normas relativas a las distancias, cadencia y altura de las vallas en las carreras de este tipo, en función de la categoría de los atletas.
 
@@ -3944,7 +3932,7 @@ Contenidos básicos
 
 - Las capacidades físicas motoras condicionales.
 
--  Etapas de su proceso evolutivo.
+- Etapas de su proceso evolutivo.
 
 - La ontogenia. La intervención en las fases sensibles.
 
@@ -4036,7 +4024,7 @@ Contenidos básicos
 
 - Concepto de talento deportivo en atletismo: Identificación y evaluación de sus características técnicas, tácticas, físicas y psicológicas.
 
--  Protocolos de selección y seguimiento.
+- Protocolos de selección y seguimiento.
 
 - Recursos materiales y humanos métodos para la detección temprana del talento deportivo en atletismo:
 
@@ -4602,11 +4590,11 @@ g. Se han aplicado procedimientos de reclamación en una competición de tecnifi
 
 h. Se han aplicado criterios de valoración de la ejecución técnico y táctica del atletismo, utilizando técnicas y procedimientos de observación adecuadas al nivel de tecnificación atlética.
 
-i.  Se han trasladado al grupo de atletas las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del atleta.
+i. Se han trasladado al grupo de atletas las instrucciones técnicas y tácticas durante la competición de tecnificación deportiva, teniendo en cuenta las características de la competición y del atleta.
 
 j. Se ha acompañado a los atletas en las competiciones, aplicando los procedimientos y siguiendo las instrucciones y normas establecidas.
 
-k.  Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en atletismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
+k. Se ha velado por el respeto a los valores del juego limpio, el respeto a la salud personal y a los demás, durante la participación en la competición de tecnificación deportiva en atletismo, aplicando los procedimientos adecuados y respetando las normas de la misma.
 
 5. Adapta y concreta los programas y, dirige las sesiones de acondicionamiento físico y perfeccionamiento técnico y táctico en carreras y marcha, interpretando la información recibida, aplicando las técnicas y procedimientos de acuerdo con las instrucciones y normas establecidas, y colaborando en la aplicación de técnicas de detección de talentos.
 
@@ -4750,7 +4738,7 @@ h. Se ha propiciado una actitud positiva hacia la inclusión por parte de compa�
 
 9. Coordina el proceso de iniciación deportiva en atletismo, elaborando las programaciones de referencia, analizando la estructura de la escuela de iniciación al atletismo, y aplicando los procedimientos y técnicas adecuadas.
 
-a.  Se ha identificado la estructura y funciones de la escuela de iniciación en atletismo en el centro de prácticas.
+a. Se ha identificado la estructura y funciones de la escuela de iniciación en atletismo en el centro de prácticas.
 
 b. Se han realizado funciones y aplicado protocolos de coordinación de los técnicos de iniciación en atletismo en el centro de prácticas.
 
@@ -4815,8 +4803,6 @@ MED-ATAT206 Organización del atletismo.
 MED-ATAT207 Atletismo adaptado.
 
 ## Anexo V
-
-Acceso módulo formación práctica
 
 Acceso módulo formación práctica
 
@@ -4988,8 +4974,6 @@ Pista polideportiva
 
 Â
 
-Â
-
 MED-C201 Bases del aprendizaje deportivo.
 
 MED-C202 Bases del entrenamiento deportivo.
@@ -5079,8 +5063,6 @@ Módulo de enseñanza deportiva
 • Foso y equipamiento reglamentario de salto con pértiga.
 
 • Círculo, zona y equipamiento reglamentario de lanzamiento de peso.
-
-• Círculo, zona y equipamiento reglamentario de lanzamiento de disco.
 
 • Círculo, zona y equipamiento reglamentario de lanzamiento de disco.
 

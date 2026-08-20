@@ -586,35 +586,35 @@ Realización de proyectos.
 
 5. Realizar proyectos y presentar informes.
 
-1.1. Busca, selecciona y organiza información concreta y relevante, la analiza, obtiene conclusiones, comunica su experiencia, reflexiona acerca del proceso seguido y lo comunica oralmente y por escrito.
+**1.1.** Busca, selecciona y organiza información concreta y relevante, la analiza, obtiene conclusiones, comunica su experiencia, reflexiona acerca del proceso seguido y lo comunica oralmente y por escrito.
 
-1.2. Utiliza medios propios de la observación.
+**1.2.** Utiliza medios propios de la observación.
 
-1.3. Consulta y utiliza documentos escritos, imágenes y gráficos.
+**1.3.** Consulta y utiliza documentos escritos, imágenes y gráficos.
 
-1.4. Desarrolla estrategias adecuadas para acceder a la información de los textos de carácter científico.
+**1.4.** Desarrolla estrategias adecuadas para acceder a la información de los textos de carácter científico.
 
-2.1. Manifiesta autonomía en la planificación y ejecución de acciones y tareas y tiene iniciativa en la toma de decisiones.
+**2.1.** Manifiesta autonomía en la planificación y ejecución de acciones y tareas y tiene iniciativa en la toma de decisiones.
 
-3.1. Utiliza, de manera adecuada, el vocabulario correspondiente a cada uno de los bloques de contenidos.
+**3.1.** Utiliza, de manera adecuada, el vocabulario correspondiente a cada uno de los bloques de contenidos.
 
-3.2. Expone oralmente de forma clara y ordenada contenidos relacionados con el área manifestando la compresión de textos orales y/o escritos.
+**3.2.** Expone oralmente de forma clara y ordenada contenidos relacionados con el área manifestando la compresión de textos orales y/o escritos.
 
-4.1. Usa de forma autónoma el tratamiento de textos (ajuste de página, inserción de ilustraciones o notas, etc.).
+**4.1.** Usa de forma autónoma el tratamiento de textos (ajuste de página, inserción de ilustraciones o notas, etc.).
 
-4.2. Hace un uso adecuado de las tecnologías de la información y la comunicación como recurso de ocio.
+**4.2.** Hace un uso adecuado de las tecnologías de la información y la comunicación como recurso de ocio.
 
-4.3. Conoce y utiliza las medidas de protección y seguridad personal que debe utilizar en el uso de las tecnologías de la información y la comunicación.
+**4.3.** Conoce y utiliza las medidas de protección y seguridad personal que debe utilizar en el uso de las tecnologías de la información y la comunicación.
 
-4.4. Presenta los trabajos de manera ordenada, clara y limpia, en soporte papel y digital.
+**4.4.** Presenta los trabajos de manera ordenada, clara y limpia, en soporte papel y digital.
 
-4.5. Utiliza estrategias para realizar trabajos de forma individual y en equipo, mostrando habilidades para la resolución pacífica de conflictos.
+**4.5.** Utiliza estrategias para realizar trabajos de forma individual y en equipo, mostrando habilidades para la resolución pacífica de conflictos.
 
-4.6. Conoce y respeta las normas de uso y de seguridad de los instrumentos y de los materiales de trabajo.
+**4.6.** Conoce y respeta las normas de uso y de seguridad de los instrumentos y de los materiales de trabajo.
 
-5.1. Realiza experiencias sencillas y pequeñas investigaciones: planteando problemas, enunciando hipótesis, seleccionando el material necesario, realizando, extrayendo conclusiones, y comunicando los resultados.
+**5.1.** Realiza experiencias sencillas y pequeñas investigaciones: planteando problemas, enunciando hipótesis, seleccionando el material necesario, realizando, extrayendo conclusiones, y comunicando los resultados.
 
-5.2. Realiza un proyecto, trabajando de forma individual o en equipo y presenta un informe, utilizando soporte papel y/o digital, recogiendo información de diferentes fuentes (directas, libros, Internet), con diferentes medios y comunicando de forma oral la experiencia realizada, apoyándose en imágenes y textos escritos.
+**5.2.** Realiza un proyecto, trabajando de forma individual o en equipo y presenta un informe, utilizando soporte papel y/o digital, recogiendo información de diferentes fuentes (directas, libros, Internet), con diferentes medios y comunicando de forma oral la experiencia realizada, apoyándose en imágenes y textos escritos.
 
 Bloque 2. El ser humano y la salud
 
@@ -648,35 +648,35 @@ La igualdad entre hombres y mujeres.
 
 3. Relacionar determinadas prácticas de vida con el adecuado funcionamiento del cuerpo, adoptando estilos de vida saludables, sabiendo las repercusiones para la salud de su modo de vida.
 
-1.1. Identifica y localiza los principales órganos implicados en la realización de las funciones vitales del cuerpo humano: Nutrición (aparatos respiratorio, digestivo, circulatorio y excretor), Reproducción (aparato reproductor), Relación (órganos de los sentidos, sistema nervioso, aparato locomotor).
+**1.1.** Identifica y localiza los principales órganos implicados en la realización de las funciones vitales del cuerpo humano: Nutrición (aparatos respiratorio, digestivo, circulatorio y excretor), Reproducción (aparato reproductor), Relación (órganos de los sentidos, sistema nervioso, aparato locomotor).
 
-2.1. Identifica y describe las principales características de las funciones vitales del ser humano.
+**2.1.** Identifica y describe las principales características de las funciones vitales del ser humano.
 
-2.2. Identifica las principales características de los (aparatos respiratorio, digestivo, locomotor, circulatorio y excretor) y explica las principales funciones.
+**2.2.** Identifica las principales características de los (aparatos respiratorio, digestivo, locomotor, circulatorio y excretor) y explica las principales funciones.
 
-3.1. Reconoce estilos de vida saludables y sus efectos sobre el cuidado y mantenimiento de los diferentes órganos y aparatos.
+**3.1.** Reconoce estilos de vida saludables y sus efectos sobre el cuidado y mantenimiento de los diferentes órganos y aparatos.
 
-3.2. Identifica y valora hábitos saludables para prevenir enfermedades y mantiene una conducta responsable.
+**3.2.** Identifica y valora hábitos saludables para prevenir enfermedades y mantiene una conducta responsable.
 
-3.3. Identifica y adopta hábitos de higiene, cuidado y descanso.
+**3.3.** Identifica y adopta hábitos de higiene, cuidado y descanso.
 
-3.4. Conoce y explica los principios de las dietas equilibradas, identificando las prácticas saludables para prevenir y detectar los riesgos para la salud.
+**3.4.** Conoce y explica los principios de las dietas equilibradas, identificando las prácticas saludables para prevenir y detectar los riesgos para la salud.
 
-3.5. Reconoce los efectos nocivos del consumo de alcohol y drogas.
+**3.5.** Reconoce los efectos nocivos del consumo de alcohol y drogas.
 
-3.6. Observa, identifica y describe algunos avances de la ciencia que mejoran la salud (medicina, producción y conservación de alimentos, potabilización del agua, etc.).
+**3.6.** Observa, identifica y describe algunos avances de la ciencia que mejoran la salud (medicina, producción y conservación de alimentos, potabilización del agua, etc.).
 
-3.7. Conoce y utiliza técnicas de primeros auxilios, en situaciones simuladas y reales.
+**3.7.** Conoce y utiliza técnicas de primeros auxilios, en situaciones simuladas y reales.
 
-3.8. Identifica emociones y sentimientos propios, de sus compañeros y de los adultos manifestando conductas empáticas.
+**3.8.** Identifica emociones y sentimientos propios, de sus compañeros y de los adultos manifestando conductas empáticas.
 
-3.9. Conoce y aplica estrategias para estudiar y trabajar de manera eficaz.
+**3.9.** Conoce y aplica estrategias para estudiar y trabajar de manera eficaz.
 
-3.10. Reflexiona sobre el trabajo realizado, saca conclusiones sobre cómo trabaja y aprende y elabora estrategias para seguir aprendiendo.
+**3.10.** Reflexiona sobre el trabajo realizado, saca conclusiones sobre cómo trabaja y aprende y elabora estrategias para seguir aprendiendo.
 
-3.11. Planifica de forma autónoma y creativa actividades de ocio y tiempo libre, individuales y en grupo.
+**3.11.** Planifica de forma autónoma y creativa actividades de ocio y tiempo libre, individuales y en grupo.
 
-3.12. Manifiesta autonomía en la planificación y ejecución de acciones y tareas y desarrolla iniciativa en la toma de decisiones, identificando los criterios y las consecuencias de las decisiones tomadas.
+**3.12.** Manifiesta autonomía en la planificación y ejecución de acciones y tareas y desarrolla iniciativa en la toma de decisiones, identificando los criterios y las consecuencias de las decisiones tomadas.
 
 Bloque 3. Los seres vivos
 
@@ -714,11 +714,11 @@ Uso de medios tecnológicos para el estudio de los seres vivos.
 
 4. Usar medios tecnológicos, respetando las normas de uso, de seguridad y de mantenimiento de los instrumentos de observación y de los materiales de trabajo, mostrando interés por la observación y el estudio riguroso de todos los seres vivos, y hábitos de respeto y cuidado hacia los seres vivos.
 
-1.1. Identifica y explica las diferencias entre, seres vivos y seres inertes.
+**1.1.** Identifica y explica las diferencias entre, seres vivos y seres inertes.
 
-1.2. Identifica y describe la estructura de los seres vivos: células, tejidos, órganos, aparatos y sistemas, identificando las principales características y funciones de cada uno de ellos.
+**1.2.** Identifica y describe la estructura de los seres vivos: células, tejidos, órganos, aparatos y sistemas, identificando las principales características y funciones de cada uno de ellos.
 
-2.1. Observa e identifica las características y clasifica los seres vivos:
+**2.1.** Observa e identifica las características y clasifica los seres vivos:
 
 Reino animal.
 
@@ -728,35 +728,35 @@ Reino de los hongos.
 
 Otros reinos.
 
-2.2. Observa directa e indirectamente, identifica características, reconoce y clasifica, animales invertebrados.
+**2.2.** Observa directa e indirectamente, identifica características, reconoce y clasifica, animales invertebrados.
 
-2.3. Observa directa e indirectamente, identifica características, reconoce y clasifica, los animales vertebrados.
+**2.3.** Observa directa e indirectamente, identifica características, reconoce y clasifica, los animales vertebrados.
 
-2.4. Observa directa e indirectamente, identifica características y clasifica plantas.
+**2.4.** Observa directa e indirectamente, identifica características y clasifica plantas.
 
-2.5. Utiliza guías en la identificación de animales y plantas.
+**2.5.** Utiliza guías en la identificación de animales y plantas.
 
-2.6. Explica la importancia de la fotosíntesis para la vida en la Tierra.
+**2.6.** Explica la importancia de la fotosíntesis para la vida en la Tierra.
 
-3.1. Identifica y explica las relaciones entre los seres vivos. Cadenas alimentarias. Poblaciones, comunidades y ecosistemas.
+**3.1.** Identifica y explica las relaciones entre los seres vivos. Cadenas alimentarias. Poblaciones, comunidades y ecosistemas.
 
-3.2. Identifica y explica algunas de las causas de la extinción de especies.
+**3.2.** Identifica y explica algunas de las causas de la extinción de especies.
 
-3.3. Observa e identifica las principales características y componentes de un ecosistema.
+**3.3.** Observa e identifica las principales características y componentes de un ecosistema.
 
-3.4. Reconoce y explica algunos ecosistemas: pradera, charca, bosque, litoral y ciudad, y los seres vivos que en ellos habitan.
+**3.4.** Reconoce y explica algunos ecosistemas: pradera, charca, bosque, litoral y ciudad, y los seres vivos que en ellos habitan.
 
-3.5. Observa e identifica diferentes hábitats de los seres vivos.
+**3.5.** Observa e identifica diferentes hábitats de los seres vivos.
 
-4.1. Muestra conductas de respeto y cuidado hacia los seres vivos.
+**4.1.** Muestra conductas de respeto y cuidado hacia los seres vivos.
 
-4.2. Usa la lupa y otros medios tecnológicos en los diferentes trabajos que realiza.
+**4.2.** Usa la lupa y otros medios tecnológicos en los diferentes trabajos que realiza.
 
-4.3. Manifiesta una cierta precisión y rigor en la observación y en la elaboración de los trabajos.
+**4.3.** Manifiesta una cierta precisión y rigor en la observación y en la elaboración de los trabajos.
 
-4.4. Observa y registra algún proceso asociado a la vida de los seres vivos, utilizando los instrumentos y los medios audiovisuales y tecnológicos apropiados, comunicando de manera oral y escrita los resultados.
+**4.4.** Observa y registra algún proceso asociado a la vida de los seres vivos, utilizando los instrumentos y los medios audiovisuales y tecnológicos apropiados, comunicando de manera oral y escrita los resultados.
 
-4.5. Respeta de las normas de uso, de seguridad y de mantenimiento de los instrumentos de observación y de los materiales de trabajo.
+**4.5.** Respeta de las normas de uso, de seguridad y de mantenimiento de los instrumentos de observación y de los materiales de trabajo.
 
 Bloque 4. Materia y energía
 
@@ -794,41 +794,41 @@ Fuentes de energías renovables y no renovables. El desarrollo energético, sost
 
 5. Realizar experiencias sencillas y pequeñas investigaciones sobre diferentes fenómenos físicos y químicos de la materia.
 
-1.1. Observa, identifica, describe y clasifica algunos materiales por sus propiedades (dureza, solubilidad, estado de agregación, conductividad térmica).
+**1.1.** Observa, identifica, describe y clasifica algunos materiales por sus propiedades (dureza, solubilidad, estado de agregación, conductividad térmica).
 
-2.1. Utiliza diferentes procedimientos para la medida de la masa y el volumen de un cuerpo.
+**2.1.** Utiliza diferentes procedimientos para la medida de la masa y el volumen de un cuerpo.
 
-2.2. Identifica y explica fenómenos físicos observables en términos de diferencias de densidad.
+**2.2.** Identifica y explica fenómenos físicos observables en términos de diferencias de densidad.
 
-2.3. Identifica y explica las principales características de la flotabilidad en un medio líquido.
+**2.3.** Identifica y explica las principales características de la flotabilidad en un medio líquido.
 
-3.1. Conoce las leyes básicas que rigen fenómenos, como la reflexión de la luz, la transmisión de la corriente eléctrica.
+**3.1.** Conoce las leyes básicas que rigen fenómenos, como la reflexión de la luz, la transmisión de la corriente eléctrica.
 
-3.2. Conoce las leyes básicas que rigen el cambio de estado, las reacciones químicas: la combustión, la oxidación y la fermentación.
+**3.2.** Conoce las leyes básicas que rigen el cambio de estado, las reacciones químicas: la combustión, la oxidación y la fermentación.
 
-4.1. Planifica y realiza sencillas experiencias y predice cambios en el movimiento, en la forma o en el estado de los cuerpos por efecto de las fuerzas o de las aportaciones de energía, comunicando el proceso seguido y el resultado obtenido.
+**4.1.** Planifica y realiza sencillas experiencias y predice cambios en el movimiento, en la forma o en el estado de los cuerpos por efecto de las fuerzas o de las aportaciones de energía, comunicando el proceso seguido y el resultado obtenido.
 
-4.2. Identifica y explica algunas de las principales características de las diferentes formas de energía: mecánica, lumínica, sonora, eléctrica, térmica, química.
+**4.2.** Identifica y explica algunas de las principales características de las diferentes formas de energía: mecánica, lumínica, sonora, eléctrica, térmica, química.
 
-4.3. Identifica y explica algunas de las principales características de las energías renovables y no renovables, identificando las diferentes fuentes de energía y materias primas y el origen de las que provienen.
+**4.3.** Identifica y explica algunas de las principales características de las energías renovables y no renovables, identificando las diferentes fuentes de energía y materias primas y el origen de las que provienen.
 
-4.4. Identifica y explica los beneficios y riesgos relacionados con la utilización de la energía: agotamiento, lluvia ácida, radiactividad, exponiendo posibles actuaciones para un desarrollo sostenible.
+**4.4.** Identifica y explica los beneficios y riesgos relacionados con la utilización de la energía: agotamiento, lluvia ácida, radiactividad, exponiendo posibles actuaciones para un desarrollo sostenible.
 
-4.5. Realiza experiencias sencillas para separar los componentes de una mezcla mediante: destilación, filtración, evaporación o disolución, comunicando de forma oral y escrita el proceso seguido y el resultado obtenido.
+**4.5.** Realiza experiencias sencillas para separar los componentes de una mezcla mediante: destilación, filtración, evaporación o disolución, comunicando de forma oral y escrita el proceso seguido y el resultado obtenido.
 
-5.1. Identifica y expone las principales características de las reacciones químicas; combustión, oxidación y fermentación.
+**5.1.** Identifica y expone las principales características de las reacciones químicas; combustión, oxidación y fermentación.
 
-5.2. Separa los componentes de una mezcla mediante destilación, filtración, evaporación o disolución.
+**5.2.** Separa los componentes de una mezcla mediante destilación, filtración, evaporación o disolución.
 
-5.3. Observa de manera sistemática, aprecia y explica los efectos del calor en el aumento de temperatura y dilatación de algunos materiales.
+**5.3.** Observa de manera sistemática, aprecia y explica los efectos del calor en el aumento de temperatura y dilatación de algunos materiales.
 
-5.4. Identifica, experimenta y ejemplifica argumentando algunos cambios de estado y su reversibilidad.
+**5.4.** Identifica, experimenta y ejemplifica argumentando algunos cambios de estado y su reversibilidad.
 
-5.5. Investiga a través de la realización de experiencias sencillas sobre diferentes fenómenos físicos y químicos de la materia: planteando problemas, enunciando hipótesis, seleccionando el material necesario, extrayendo conclusiones, comunicando resultados, manifestando competencia en cada una de las fases, así como en el conocimiento de las leyes básicas que rigen los fenómenos estudiados.
+**5.5.** Investiga a través de la realización de experiencias sencillas sobre diferentes fenómenos físicos y químicos de la materia: planteando problemas, enunciando hipótesis, seleccionando el material necesario, extrayendo conclusiones, comunicando resultados, manifestando competencia en cada una de las fases, así como en el conocimiento de las leyes básicas que rigen los fenómenos estudiados.
 
-5.6. Investiga a través de la realización de experiencias sencillas para acercarse al conocimiento de las leyes básicas que rigen fenómenos, como la reflexión de la luz, la transmisión de la corriente eléctrica, el cambio de estado, las reacciones químicas: la combustión, la oxidación y la fermentación.
+**5.6.** Investiga a través de la realización de experiencias sencillas para acercarse al conocimiento de las leyes básicas que rigen fenómenos, como la reflexión de la luz, la transmisión de la corriente eléctrica, el cambio de estado, las reacciones químicas: la combustión, la oxidación y la fermentación.
 
-5.7. Respeta las normas de uso, seguridad y de conservación de los instrumentos y de los materiales de trabajo en el aula y en el centro.
+**5.7.** Respeta las normas de uso, seguridad y de conservación de los instrumentos y de los materiales de trabajo en el aula y en el centro.
 
 Bloque 5. La tecnología, objetos y máquinas
 
@@ -864,35 +864,35 @@ Tratamiento de textos. Búsqueda guiada de información en la red. Control del t
 
 4. Realizar experiencias sencillas y pequeñas investigaciones sobre diferentes fenómenos físicos de la materia: planteando problemas, enunciando hipótesis, seleccionando el material necesario, montando realizando, extrayendo conclusiones, comunicando resultados, aplicando conocimientos básicos de las leyes básicas que rigen estos fenómenos, como la reflexión de la luz, la transmisión de la corriente eléctrica.
 
-1.1. Identifica diferentes tipos de máquinas, y las clasifica según el número de piezas, la manera de accionarlas, y la acción que realizan.
+**1.1.** Identifica diferentes tipos de máquinas, y las clasifica según el número de piezas, la manera de accionarlas, y la acción que realizan.
 
-1.2. Observa, identifica y describe algunos de los componentes de las máquinas.
+**1.2.** Observa, identifica y describe algunos de los componentes de las máquinas.
 
-1.3. Observa e identifica alguna de las aplicaciones de las máquinas y aparatos, y su utilidad para facilitar las actividades humanas.
+**1.3.** Observa e identifica alguna de las aplicaciones de las máquinas y aparatos, y su utilidad para facilitar las actividades humanas.
 
-2.1. Construye alguna estructura sencilla que cumpla una función o condición para resolver un problema a partir de piezas moduladas, (escalera, puente, tobogán, etc.).
+**2.1.** Construye alguna estructura sencilla que cumpla una función o condición para resolver un problema a partir de piezas moduladas, (escalera, puente, tobogán, etc.).
 
-3.1. Observa e identifica los elementos de un circuito eléctrico y construye uno.
+**3.1.** Observa e identifica los elementos de un circuito eléctrico y construye uno.
 
-3.2. Observa, identifica y explica algunos efectos de la electricidad.
+**3.2.** Observa, identifica y explica algunos efectos de la electricidad.
 
-3.3. Expone ejemplos de materiales conductores y aislantes, argumentado su exposición.
+**3.3.** Expone ejemplos de materiales conductores y aislantes, argumentado su exposición.
 
-3.4. Observa e identifica las principales características y los imanes y relaciona la electricidad y magnetismo.
+**3.4.** Observa e identifica las principales características y los imanes y relaciona la electricidad y magnetismo.
 
-3.5. Conoce y explica algunos de los grandes descubrimientos e inventos de la humanidad.
+**3.5.** Conoce y explica algunos de los grandes descubrimientos e inventos de la humanidad.
 
-4.1. Elabora un informe como técnica para el registro de un plan de trabajo, comunicando de forma oral y escrita las conclusiones.
+**4.1.** Elabora un informe como técnica para el registro de un plan de trabajo, comunicando de forma oral y escrita las conclusiones.
 
-4.2. Valora y describe la influencia del desarrollo tecnológico en las condiciones de vida y en el trabajo.
+**4.2.** Valora y describe la influencia del desarrollo tecnológico en las condiciones de vida y en el trabajo.
 
-4.3. Conoce y explica algunos de los avances de la ciencia en: el hogar y la vida cotidiana, la medicina, la cultura y el ocio, el arte, la música, el cine y el deporte y las tecnologías de la información y la comunicación.
+**4.3.** Conoce y explica algunos de los avances de la ciencia en: el hogar y la vida cotidiana, la medicina, la cultura y el ocio, el arte, la música, el cine y el deporte y las tecnologías de la información y la comunicación.
 
-4.4. Efectúa búsquedas guiadas de información en la red.
+**4.4.** Efectúa búsquedas guiadas de información en la red.
 
-4.5. Conoce y aplica estrategias de acceso y trabajo en Internet.
+**4.5.** Conoce y aplica estrategias de acceso y trabajo en Internet.
 
-4.6. Utiliza algunos recursos a su alcance proporcionados por las tecnologías de la información para comunicarse y colaborar.
+**4.6.** Utiliza algunos recursos a su alcance proporcionados por las tecnologías de la información para comunicarse y colaborar.
 
 b) Ciencias Sociales.
 
@@ -988,39 +988,39 @@ Estrategias para la resolución de conflictos, utilización de las normas de con
 
 10. Desarrollar actitudes de cooperación y de trabajo en equipo, así como el hábito de asumir nuevos roles en una sociedad en continuo cambio.
 
-1.1. Busca, selecciona y organiza información concreta y relevante, la analiza, obtiene conclusiones, reflexiona acerca del proceso seguido y lo comunica oralmente y/o por escrito.
+**1.1.** Busca, selecciona y organiza información concreta y relevante, la analiza, obtiene conclusiones, reflexiona acerca del proceso seguido y lo comunica oralmente y/o por escrito.
 
-2.1. Utiliza la tecnologías de la información y la comunicación (Internet, blogs, redes sociales…) para elaborar trabajos con la terminología adecuada a los temas tratados.
+**2.1.** Utiliza la tecnologías de la información y la comunicación (Internet, blogs, redes sociales…) para elaborar trabajos con la terminología adecuada a los temas tratados.
 
-2.2. Analiza informaciones relacionadas con el área y maneja imágenes, tablas, gráficos, esquemas, resúmenes y las tecnologías de la información y la comunicación.
+**2.2.** Analiza informaciones relacionadas con el área y maneja imágenes, tablas, gráficos, esquemas, resúmenes y las tecnologías de la información y la comunicación.
 
-3.1. Realiza las tareas encomendadas y presenta los trabajos de manera ordenada, clara y limpia.
+**3.1.** Realiza las tareas encomendadas y presenta los trabajos de manera ordenada, clara y limpia.
 
-3.2. Utiliza con rigor y precisión el vocabulario adquirido para elaborar trabajos con la terminología adecuada a los temas tratados.
+**3.2.** Utiliza con rigor y precisión el vocabulario adquirido para elaborar trabajos con la terminología adecuada a los temas tratados.
 
-3.3. Expone oralmente, de forma clara y ordenada, contenidos relacionados con el área, que manifiesten la comprensión de textos orales y/o escritos.
+**3.3.** Expone oralmente, de forma clara y ordenada, contenidos relacionados con el área, que manifiesten la comprensión de textos orales y/o escritos.
 
-4.1. Realiza trabajos y presentaciones a nivel individual y grupal que suponen la búsqueda, selección y organización de textos de carácter geográfico, social e histórico.
+**4.1.** Realiza trabajos y presentaciones a nivel individual y grupal que suponen la búsqueda, selección y organización de textos de carácter geográfico, social e histórico.
 
-5.1. Utiliza estrategias para realizar trabajos de forma individual y en equipo, y muestra habilidades para la resolución pacífica de conflictos.
+**5.1.** Utiliza estrategias para realizar trabajos de forma individual y en equipo, y muestra habilidades para la resolución pacífica de conflictos.
 
-5.2. Participa en actividades de grupo adoptando un comportamiento responsable, constructivo y solidario y respeta los principios básicos del funcionamiento democrático.
+**5.2.** Participa en actividades de grupo adoptando un comportamiento responsable, constructivo y solidario y respeta los principios básicos del funcionamiento democrático.
 
-6.1. Valora la importancia de una convivencia pacífica y tolerante entre los diferentes grupos humanos sobre la base de los valores democráticos y los derechos humanos universalmente compartidos.
+**6.1.** Valora la importancia de una convivencia pacífica y tolerante entre los diferentes grupos humanos sobre la base de los valores democráticos y los derechos humanos universalmente compartidos.
 
-7.1. Participa de una manera eficaz y constructiva en la vida social y crea estrategias para resolver conflictos.
+**7.1.** Participa de una manera eficaz y constructiva en la vida social y crea estrategias para resolver conflictos.
 
-7.2. Identifica y utiliza los códigos de conducta y los usos generalmente aceptados en las distintas sociedades y entornos (escuela, familia, barrio etc.).
+**7.2.** Identifica y utiliza los códigos de conducta y los usos generalmente aceptados en las distintas sociedades y entornos (escuela, familia, barrio etc.).
 
-8.1. Valora la cooperación y el dialogo como forma de evitar y resolver conflictos y fomenta los valores democráticos.
+**8.1.** Valora la cooperación y el dialogo como forma de evitar y resolver conflictos y fomenta los valores democráticos.
 
-9.1. Muestra actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés, creatividad en el aprendizaje y espíritu emprendedor que le hacen activo ante las circunstancias que le rodean.
+**9.1.** Muestra actitudes de confianza en sí mismo, sentido crítico, iniciativa personal, curiosidad, interés, creatividad en el aprendizaje y espíritu emprendedor que le hacen activo ante las circunstancias que le rodean.
 
-9.2. Manifiesta autonomía en la planificación y ejecución de acciones y tareas y tiene iniciativa en la toma de decisiones.
+**9.2.** Manifiesta autonomía en la planificación y ejecución de acciones y tareas y tiene iniciativa en la toma de decisiones.
 
-10.1. Desarrolla actitudes de cooperación y de trabajo en equipo, valora las ideas ajenas y reacciona con intuición, apertura y flexibilidad ante ellas.
+**10.1.** Desarrolla actitudes de cooperación y de trabajo en equipo, valora las ideas ajenas y reacciona con intuición, apertura y flexibilidad ante ellas.
 
-10.2. Planifica trabajos en grupo, coordina equipos, toma decisiones y acepta responsabilidades.
+**10.2.** Planifica trabajos en grupo, coordina equipos, toma decisiones y acepta responsabilidades.
 
 Bloque 2. El mundo en que vivimos
 
@@ -1110,67 +1110,67 @@ Consumo responsable.
 
 18. Explicar las consecuencias que tienen nuestras acciones sobre el clima y el cambio climático.
 
-1.1. Describe cómo es y de qué forma se originó el Universo y explica sus principales componentes identificando galaxia, estrella, planeta, satélite, asteroide y cometa.
+**1.1.** Describe cómo es y de qué forma se originó el Universo y explica sus principales componentes identificando galaxia, estrella, planeta, satélite, asteroide y cometa.
 
-2.1. Describe las características, componentes y movimientos del Sistema Solar, identificando el Sol en el centro del Sistema Solar y localizando los planetas según su proximidad.
+**2.1.** Describe las características, componentes y movimientos del Sistema Solar, identificando el Sol en el centro del Sistema Solar y localizando los planetas según su proximidad.
 
-3.1. Define y representa el movimiento de traslación terrestre, el eje de giro y los polos geográficos y asocia las estaciones de año a su efecto combinado.
+**3.1.** Define y representa el movimiento de traslación terrestre, el eje de giro y los polos geográficos y asocia las estaciones de año a su efecto combinado.
 
-3.2. Explica el día y la noche como consecuencia de la rotación terrestre y como unidades para medir el tiempo.
+**3.2.** Explica el día y la noche como consecuencia de la rotación terrestre y como unidades para medir el tiempo.
 
-3.3. Define la traslación de la luna identificando y nombrando las fases lunares.
+**3.3.** Define la traslación de la luna identificando y nombrando las fases lunares.
 
-4.1. Identifica, nombra y describe las capas de la Tierra.
+**4.1.** Identifica, nombra y describe las capas de la Tierra.
 
-5.1. Explica las distintas representaciones de la Tierra, planos, mapas, planisferios y globos terráqueos.
+**5.1.** Explica las distintas representaciones de la Tierra, planos, mapas, planisferios y globos terráqueos.
 
-6.1. Identifica y clasifica los diferentes tipos de mapas, incluyendo los planisferios, define qué es la escala en un mapa y utiliza e interpreta los signos convencionales más usuales que pueden aparecer en él.
+**6.1.** Identifica y clasifica los diferentes tipos de mapas, incluyendo los planisferios, define qué es la escala en un mapa y utiliza e interpreta los signos convencionales más usuales que pueden aparecer en él.
 
-7.1. Localiza diferentes puntos de la Tierra empleando los paralelos y meridianos y las coordenadas geográficas.
+**7.1.** Localiza diferentes puntos de la Tierra empleando los paralelos y meridianos y las coordenadas geográficas.
 
-8.1. Identifica y nombra fenómenos atmosféricos y describe las causas que producen la formación de las nubes y las precipitaciones.
+**8.1.** Identifica y nombra fenómenos atmosféricos y describe las causas que producen la formación de las nubes y las precipitaciones.
 
-8.2. Explica la importancia de cuidar la atmósfera y las consecuencias de no hacerlo.
+**8.2.** Explica la importancia de cuidar la atmósfera y las consecuencias de no hacerlo.
 
-9.1. Explica cuál es la diferencia entre tiempo atmosférico y clima.
+**9.1.** Explica cuál es la diferencia entre tiempo atmosférico y clima.
 
-9.2. Identifica los distintos aparatos de medida que se utilizan para la recogida de datos atmosférico, clasificándolos según la información que proporcionan.
+**9.2.** Identifica los distintos aparatos de medida que se utilizan para la recogida de datos atmosférico, clasificándolos según la información que proporcionan.
 
-9.3. Describe una estación meteorológica, explica su función y confecciona e interpretar gráficos sencillos de temperaturas y precipitaciones.
+**9.3.** Describe una estación meteorológica, explica su función y confecciona e interpretar gráficos sencillos de temperaturas y precipitaciones.
 
-9.4. Interpreta sencillos mapas meteorológicos distinguiendo sus elementos principales.
+**9.4.** Interpreta sencillos mapas meteorológicos distinguiendo sus elementos principales.
 
-10.1. Define clima, nombra sus elementos e identifica los factores que lo determinan.
+**10.1.** Define clima, nombra sus elementos e identifica los factores que lo determinan.
 
-11.1. Explica que es una zona climática, nombrando las tres zonas climáticas del planeta y describiendo sus características principales.
+**11.1.** Explica que es una zona climática, nombrando las tres zonas climáticas del planeta y describiendo sus características principales.
 
-11.2. Describe y señala en un mapa los tipos de climas de España y las zonas a las que afecta cada uno, interpretando y analizando climogramas de distintos territorios de España relacionándolos con el clima al que pertenece.
+**11.2.** Describe y señala en un mapa los tipos de climas de España y las zonas a las que afecta cada uno, interpretando y analizando climogramas de distintos territorios de España relacionándolos con el clima al que pertenece.
 
-12.1. Define hidrosfera, e identifica y nombra masas y cursos de agua explicando cómo se forman las aguas subterráneas, cómo afloran y cómo se accede a ellas.
+**12.1.** Define hidrosfera, e identifica y nombra masas y cursos de agua explicando cómo se forman las aguas subterráneas, cómo afloran y cómo se accede a ellas.
 
-12.2. Describe ordenadamente las fases en las que se produce el ciclo del agua.
+**12.2.** Describe ordenadamente las fases en las que se produce el ciclo del agua.
 
-12.3. Diferencia cuencas y vertientes hidrográficas.
+**12.3.** Diferencia cuencas y vertientes hidrográficas.
 
-12.4. Identifica y nombra los tramos de un río y las características de cada uno de ellos.
+**12.4.** Identifica y nombra los tramos de un río y las características de cada uno de ellos.
 
-13.1. Observa, identifica, y explica la composición de las rocas nombrando algunos de sus tipos.
+**13.1.** Observa, identifica, y explica la composición de las rocas nombrando algunos de sus tipos.
 
-13.2. Identifica y explica las diferencias entre rocas y minerales, describe sus usos y utilidades, clasificando algunos minerales según sus propiedades.
+**13.2.** Identifica y explica las diferencias entre rocas y minerales, describe sus usos y utilidades, clasificando algunos minerales según sus propiedades.
 
-14.1. Define paisaje, identifica sus elementos y explica las características de los principales paisajes de España y Europa, valorando su diversidad.
+**14.1.** Define paisaje, identifica sus elementos y explica las características de los principales paisajes de España y Europa, valorando su diversidad.
 
-15.1. Localiza en un mapa las principales unidades del relieve de España y sus vertientes hidrográficas.
+**15.1.** Localiza en un mapa las principales unidades del relieve de España y sus vertientes hidrográficas.
 
-15.2. Sitúa en un mapa los mares, océanos y los grandes ríos de España.
+**15.2.** Sitúa en un mapa los mares, océanos y los grandes ríos de España.
 
-16.1. Localiza en un mapa el relieve de Europa, sus vertientes hidrográficas y sus climas.
+**16.1.** Localiza en un mapa el relieve de Europa, sus vertientes hidrográficas y sus climas.
 
-16.2. Reconoce los principales rasgos del relieve, los ríos y el clima de Europa.
+**16.2.** Reconoce los principales rasgos del relieve, los ríos y el clima de Europa.
 
-17.1. Explica el uso sostenible de los recursos naturales proponiendo y adoptando una serie de medidas y actuaciones que conducen a la mejora de las condiciones ambientales de nuestro planeta.
+**17.1.** Explica el uso sostenible de los recursos naturales proponiendo y adoptando una serie de medidas y actuaciones que conducen a la mejora de las condiciones ambientales de nuestro planeta.
 
-18.1. Explica las causas y consecuencias del cambio climático y las actuaciones responsables para frenarlo.
+**18.1.** Explica las causas y consecuencias del cambio climático y las actuaciones responsables para frenarlo.
 
 Bloque 3. Vivir en sociedad
 
@@ -1248,67 +1248,67 @@ Educación Vial. Adquisición de conocimientos que contribuyan a consolidar cond
 
 15. Conocer y respetar las normas de circulación y fomentar la seguridad vial en todos sus aspectos.
 
-1.1. Identifica, respeta y valora los principios democráticos más importantes establecidos en la Constitución y explica la importancia que la Constitución tiene para el funcionamiento del Estado español.
+**1.1.** Identifica, respeta y valora los principios democráticos más importantes establecidos en la Constitución y explica la importancia que la Constitución tiene para el funcionamiento del Estado español.
 
-2.1. Identifica las principales instituciones del Estado español y describe sus funciones y su organización.
+**2.1.** Identifica las principales instituciones del Estado español y describe sus funciones y su organización.
 
-2.2. Identifica y comprende la división de poderes del estado y cuáles son las atribuciones recogidas en la Constitución para cada uno de ellos.
+**2.2.** Identifica y comprende la división de poderes del estado y cuáles son las atribuciones recogidas en la Constitución para cada uno de ellos.
 
-3.1. Explica la organización territorial de España, nombra las estructuras básicas de gobierno y localiza en mapas políticos las distintas comunidades que forman España, así como sus provincias.
+**3.1.** Explica la organización territorial de España, nombra las estructuras básicas de gobierno y localiza en mapas políticos las distintas comunidades que forman España, así como sus provincias.
 
-4.1. Valora, partiendo de la realidad del estado español, la diversidad cultural, social, política y lingüística en un mismo territorio como fuente de enriquecimiento cultural.
+**4.1.** Valora, partiendo de la realidad del estado español, la diversidad cultural, social, política y lingüística en un mismo territorio como fuente de enriquecimiento cultural.
 
-5.1. Explica qué es la Unión Europea y cuáles son sus objetivos políticos y económicos y localiza en un mapa los países miembros y sus capitales.
+**5.1.** Explica qué es la Unión Europea y cuáles son sus objetivos políticos y económicos y localiza en un mapa los países miembros y sus capitales.
 
-5.2. Identifica las principales instituciones y sus órganos de gobierno en la Unión Europea, reconociendo sus símbolos y explicando en qué consiste el mercado único y la zona euro.
+**5.2.** Identifica las principales instituciones y sus órganos de gobierno en la Unión Europea, reconociendo sus símbolos y explicando en qué consiste el mercado único y la zona euro.
 
-6.1. Define demografía, comprende los principales conceptos demográficos y los calcula a partir de los datos de población.
+**6.1.** Define demografía, comprende los principales conceptos demográficos y los calcula a partir de los datos de población.
 
-6.2. Define población de un territorio e identifica los principales factores que inciden en la misma y los define correctamente.
+**6.2.** Define población de un territorio e identifica los principales factores que inciden en la misma y los define correctamente.
 
-6.3. Interpreta una pirámide de población y otros gráficos usados en el estudio de la población.
+**6.3.** Interpreta una pirámide de población y otros gráficos usados en el estudio de la población.
 
-7.1. Describe los principales rasgos de la población española y europea.
+**7.1.** Describe los principales rasgos de la población española y europea.
 
-7.2. Explica el proceso de la evolución de la población en España y en Europa y describe la incidencia que han tenido en la misma, factores como la esperanza de vida o la natalidad.
+**7.2.** Explica el proceso de la evolución de la población en España y en Europa y describe la incidencia que han tenido en la misma, factores como la esperanza de vida o la natalidad.
 
-7.3. Describe los factores que condicionan la distribución de la población española y europea.
+**7.3.** Describe los factores que condicionan la distribución de la población española y europea.
 
-7.4. Sitúa en un mapa los mayores núcleos de población en España y las zonas más densamente pobladas.
+**7.4.** Sitúa en un mapa los mayores núcleos de población en España y las zonas más densamente pobladas.
 
-7.5. Describe la densidad de población de España comparándola mediante gráficos con la media de la Unión Europea.
+**7.5.** Describe la densidad de población de España comparándola mediante gráficos con la media de la Unión Europea.
 
-8.1. Explica el éxodo rural, la emigración a Europa y la llegada de emigrantes a nuestro país.
+**8.1.** Explica el éxodo rural, la emigración a Europa y la llegada de emigrantes a nuestro país.
 
-8.2. Identifica y describe los principales problemas actuales de la población: superpoblación, envejecimiento, inmigración, etc.
+**8.2.** Identifica y describe los principales problemas actuales de la población: superpoblación, envejecimiento, inmigración, etc.
 
-9.1. Identifica y define materias primas y producto elaborado y los asocia con las actividades en las que se obtienen.
+**9.1.** Identifica y define materias primas y producto elaborado y los asocia con las actividades en las que se obtienen.
 
-9.2. Describe ordenadamente el proceso de obtención de un producto hasta su venta, e identifica los sectores a los que pertenecen.
+**9.2.** Describe ordenadamente el proceso de obtención de un producto hasta su venta, e identifica los sectores a los que pertenecen.
 
-10.1. Identifica los tres sectores de actividades económicas y clasifica distintas actividades en el grupo al que pertenecen.
+**10.1.** Identifica los tres sectores de actividades económicas y clasifica distintas actividades en el grupo al que pertenecen.
 
-10.2. Explica las actividades relevantes de los sectores primario, secundario y terciario en España y Europa y sus localizaciones en los territorios correspondientes.
+**10.2.** Explica las actividades relevantes de los sectores primario, secundario y terciario en España y Europa y sus localizaciones en los territorios correspondientes.
 
-11.1. Valora con espíritu crítico la función de la publicidad y reconoce y explica las técnicas publicitarias más habituales, analizando ejemplos concretos.
+**11.1.** Valora con espíritu crítico la función de la publicidad y reconoce y explica las técnicas publicitarias más habituales, analizando ejemplos concretos.
 
-12.1. Diferencia entre distintos tipos de gasto y adapta su presupuesto a cada uno de ellos.
+**12.1.** Diferencia entre distintos tipos de gasto y adapta su presupuesto a cada uno de ellos.
 
-12.2. Planifica sus ahorros para gastos futuros elaborando un pequeño presupuesto personal.
+**12.2.** Planifica sus ahorros para gastos futuros elaborando un pequeño presupuesto personal.
 
-12.3. Investiga sobre distintas estrategias de compra, comparando precios y recopilando información.
+**12.3.** Investiga sobre distintas estrategias de compra, comparando precios y recopilando información.
 
-13.1. Desarrolla la creatividad y valora la capacidad emprendedora de los miembros de una sociedad.
+**13.1.** Desarrolla la creatividad y valora la capacidad emprendedora de los miembros de una sociedad.
 
-14.1. Identifica diferentes tipos de empresa según su tamaño y el sector económico al que pertenecen las actividades que desarrollan.
+**14.1.** Identifica diferentes tipos de empresa según su tamaño y el sector económico al que pertenecen las actividades que desarrollan.
 
-14.2. Describe diversas formas de organización empresarial.
+**14.2.** Describe diversas formas de organización empresarial.
 
-14.3. Define términos sencillos relacionados con el mundo de la empresa y la economía, ilustrando las definiciones con ejemplos.
+**14.3.** Define términos sencillos relacionados con el mundo de la empresa y la economía, ilustrando las definiciones con ejemplos.
 
-15.1. Explica normas básicas de circulación y las consecuencias derivadas del desconocimiento o incumplimiento de las mismas.
+**15.1.** Explica normas básicas de circulación y las consecuencias derivadas del desconocimiento o incumplimiento de las mismas.
 
-15.2. Conoce el significado de algunas señales de tráfico, reconoce la importancia de respetarlas y las utiliza tanto como peatón y como usuario de medios de transporte (abrocharse el cinturón, no molestar al conductor…).
+**15.2.** Conoce el significado de algunas señales de tráfico, reconoce la importancia de respetarlas y las utiliza tanto como peatón y como usuario de medios de transporte (abrocharse el cinturón, no molestar al conductor…).
 
 Bloque 4. Las huellas del tiempo
 
@@ -1344,41 +1344,41 @@ Nuestro Patrimonio histórico y cultural.
 
 5. Valorar la importancia de los museos, sitios y monumentos históricos como espacios donde se enseña y se aprende mostrando una actitud de respeto a su entorno y su cultura, apreciando la herencia cultural.
 
-1.1. Define el concepto de Prehistoria, identifica la idea de edad de la historia y data las edades de la historia asociadas a los hechos que marcan sus inicios y sus finales, nombrando algunas fuentes de la historia representativas de cada una de ellas.
+**1.1.** Define el concepto de Prehistoria, identifica la idea de edad de la historia y data las edades de la historia asociadas a los hechos que marcan sus inicios y sus finales, nombrando algunas fuentes de la historia representativas de cada una de ellas.
 
-1.2. Explica y valora la importancia de la escritura, la agricultura y la ganadería, como descubrimientos que cambiaron profundamente las sociedades humanas.
+**1.2.** Explica y valora la importancia de la escritura, la agricultura y la ganadería, como descubrimientos que cambiaron profundamente las sociedades humanas.
 
-2.1. Reconoce el siglo como unidad de medida del tiempo histórico y localiza hechos situándolos como sucesivos a.C. o d.C.
+**2.1.** Reconoce el siglo como unidad de medida del tiempo histórico y localiza hechos situándolos como sucesivos a.C. o d.C.
 
-2.2. Usa diferentes técnicas para localizar en el tiempo y en el espacio hechos del pasado, percibiendo la duración, la simultaneidad y las relaciones entre los acontecimientos.
+**2.2.** Usa diferentes técnicas para localizar en el tiempo y en el espacio hechos del pasado, percibiendo la duración, la simultaneidad y las relaciones entre los acontecimientos.
 
-3.1. Sitúa en una línea del tiempo las etapas históricas más importantes de las distintas edades de la historia en España.
+**3.1.** Sitúa en una línea del tiempo las etapas históricas más importantes de las distintas edades de la historia en España.
 
-3.2. Identifica y localiza en el tiempo y en el espacio los hechos fundamentales de la Historia de España describiendo las principales características de cada una de ellos.
+**3.2.** Identifica y localiza en el tiempo y en el espacio los hechos fundamentales de la Historia de España describiendo las principales características de cada una de ellos.
 
-3.3. Explica aspectos relacionados con la forma de vida y organización social de España de las distintas épocas históricas estudiadas.
+**3.3.** Explica aspectos relacionados con la forma de vida y organización social de España de las distintas épocas históricas estudiadas.
 
-3.4. Describe en orden cronológico los principales movimientos artísticos y culturales de las distintas etapas de la historia de España citando a sus representantes más significativos.
+**3.4.** Describe en orden cronológico los principales movimientos artísticos y culturales de las distintas etapas de la historia de España citando a sus representantes más significativos.
 
-3.5. Explica la diferencia de los dos períodos en los que se divide la Prehistoria y describe las características básicas de las formas de vida en estas dos épocas.
+**3.5.** Explica la diferencia de los dos períodos en los que se divide la Prehistoria y describe las características básicas de las formas de vida en estas dos épocas.
 
-3.6. Data la Edad Antigua y describe las características básicas de la vida en aquel tiempo, en especial las referidas a la romanización.
+**3.6.** Data la Edad Antigua y describe las características básicas de la vida en aquel tiempo, en especial las referidas a la romanización.
 
-3.7. Identifica los rasgos distintivos de las culturas que convivieron en los Reinos Peninsulares durante la Edad Media describiendo la evolución política y los distintos modelos sociales.
+**3.7.** Identifica los rasgos distintivos de las culturas que convivieron en los Reinos Peninsulares durante la Edad Media describiendo la evolución política y los distintos modelos sociales.
 
-3.8. Explica las características de la Edad Moderna y ciertos acontecimientos que han determinado cambios fundamentales en el rumbo de la historia en este periodo de tiempo. (Monarquía de los Austrias. XVI-XVII. Los Borbones siglo XVIII).
+**3.8.** Explica las características de la Edad Moderna y ciertos acontecimientos que han determinado cambios fundamentales en el rumbo de la historia en este periodo de tiempo. (Monarquía de los Austrias. XVI-XVII. Los Borbones siglo XVIII).
 
-3.9. Explicar los principales acontecimientos que se produjeron durante el siglo XIX Y XX y que determinan nuestra Historia Contemporánea.
+**3.9.** Explicar los principales acontecimientos que se produjeron durante el siglo XIX Y XX y que determinan nuestra Historia Contemporánea.
 
-3.10. Describe los rasgos característicos de la sociedad española actual, y valora su carácter democrático y plural, así como su pertenencia a la Unión Europea.
+**3.10.** Describe los rasgos característicos de la sociedad española actual, y valora su carácter democrático y plural, así como su pertenencia a la Unión Europea.
 
-4.1. Identifica, valora y respeta el patrimonio natural, histórico, cultural y artístico y asume las responsabilidades que supone su conservación y mejora.
+**4.1.** Identifica, valora y respeta el patrimonio natural, histórico, cultural y artístico y asume las responsabilidades que supone su conservación y mejora.
 
-4.2. Respeta los restos históricos y los valora como un patrimonio que debemos legar y reconoce el valor que el patrimonio arqueológico monumental nos aporta para el conocimiento del pasado.
+**4.2.** Respeta los restos históricos y los valora como un patrimonio que debemos legar y reconoce el valor que el patrimonio arqueológico monumental nos aporta para el conocimiento del pasado.
 
-5.1. Respeta y asume el comportamiento que debe cumplirse cuando visita un museo o un edificio antiguo.
+**5.1.** Respeta y asume el comportamiento que debe cumplirse cuando visita un museo o un edificio antiguo.
 
-5.2. Aprecia la herencia cultural a escala local, nacional y europea como riqueza compartida que hay que conocer, preservar y cuidar.
+**5.2.** Aprecia la herencia cultural a escala local, nacional y europea como riqueza compartida que hay que conocer, preservar y cuidar.
 
 c) Lengua Castellana y Literatura.
 
@@ -1456,65 +1456,65 @@ Estrategias para utilizar el lenguaje oral como instrumento de comunicación y a
 
 11. Valorar los medios de comunicación social como instrumento de aprendizaje y de acceso a informaciones y experiencias de otras personas.
 
-1.1. Emplea la lengua oral con distintas finalidades (académica, social y lúdica) y como forma de comunicación y de expresión personal (sentimientos, emociones...) en distintos ámbitos.
+**1.1.** Emplea la lengua oral con distintas finalidades (académica, social y lúdica) y como forma de comunicación y de expresión personal (sentimientos, emociones...) en distintos ámbitos.
 
-1.2. Transmite las ideas con claridad, coherencia y corrección.
+**1.2.** Transmite las ideas con claridad, coherencia y corrección.
 
-1.3. Escucha atentamente las intervenciones de los compañeros y sigue las estrategias y normas para el intercambio comunicativo mostrando respeto y consideración por las ideas, sentimientos y emociones de los demás.
+**1.3.** Escucha atentamente las intervenciones de los compañeros y sigue las estrategias y normas para el intercambio comunicativo mostrando respeto y consideración por las ideas, sentimientos y emociones de los demás.
 
-1.4. Aplica las normas socio-comunicativas: escucha activa, espera de turnos, participación respetuosa, adecuación a la intervención del interlocutor y ciertas normas de cortesía.
+**1.4.** Aplica las normas socio-comunicativas: escucha activa, espera de turnos, participación respetuosa, adecuación a la intervención del interlocutor y ciertas normas de cortesía.
 
-2.1. Emplea conscientemente recursos lingüísticos y no lingüísticos para comunicarse en las interacciones orales.
+**2.1.** Emplea conscientemente recursos lingüísticos y no lingüísticos para comunicarse en las interacciones orales.
 
-3.1. Se expresa con una pronunciación y una dicción correctas: articulación, ritmo, entonación y volumen.
+**3.1.** Se expresa con una pronunciación y una dicción correctas: articulación, ritmo, entonación y volumen.
 
-3.2. Expresa sus propias ideas comprensiblemente, sustituyendo elementos básicos del modelo dado.
+**3.2.** Expresa sus propias ideas comprensiblemente, sustituyendo elementos básicos del modelo dado.
 
-3.3. Participa activamente en la conversación contestando preguntas y haciendo comentarios relacionados con el tema de la conversación.
+**3.3.** Participa activamente en la conversación contestando preguntas y haciendo comentarios relacionados con el tema de la conversación.
 
-3.4. Participa activamente y de forma constructiva en las tareas de aula.
+**3.4.** Participa activamente y de forma constructiva en las tareas de aula.
 
-4.1. Muestra una actitud de escucha activa.
+**4.1.** Muestra una actitud de escucha activa.
 
-4.2. Comprende la información general en textos orales de uso habitual.
+**4.2.** Comprende la información general en textos orales de uso habitual.
 
-4.3. Interpreta el sentido de elementos básicos del texto necesarios para la comprensión global (léxico, locuciones).
+**4.3.** Interpreta el sentido de elementos básicos del texto necesarios para la comprensión global (léxico, locuciones).
 
-5.1. Utiliza un vocabulario adecuado a su edad en sus expresiones adecuadas para las diferentes funciones del lenguaje.
+**5.1.** Utiliza un vocabulario adecuado a su edad en sus expresiones adecuadas para las diferentes funciones del lenguaje.
 
-5.2. Utiliza el diccionario de forma habitual en su trabajo escolar.
+**5.2.** Utiliza el diccionario de forma habitual en su trabajo escolar.
 
-5.3. Diferencia por el contexto el significado de correspondencias fonema-grafía idénticas (palabras homófonas, homónimas, parónimas, polisémicas).
+**5.3.** Diferencia por el contexto el significado de correspondencias fonema-grafía idénticas (palabras homófonas, homónimas, parónimas, polisémicas).
 
-6.1 Identifica el tema del texto.
+**6.1** Identifica el tema del texto.
 
-6.2. Es capaz de obtener las principales ideas de un texto.
+**6.2.** Es capaz de obtener las principales ideas de un texto.
 
-6.3. Resume un texto distinguiendo las ideas principales y las secundarias.
+**6.3.** Resume un texto distinguiendo las ideas principales y las secundarias.
 
-7.1. Reproduce de memoria breves textos literarios o no literarios cercanos a sus gustos e intereses, utilizando con corrección y creatividad las distintas estrategias de comunicación oral que han estudiado.
+**7.1.** Reproduce de memoria breves textos literarios o no literarios cercanos a sus gustos e intereses, utilizando con corrección y creatividad las distintas estrategias de comunicación oral que han estudiado.
 
-8.1. Actúa en respuesta a las órdenes o instrucciones dadas para llevar a cabo actividades diversas.
+**8.1.** Actúa en respuesta a las órdenes o instrucciones dadas para llevar a cabo actividades diversas.
 
-8.2. Responde de forma correcta a preguntas concernientes a la comprensión literal, interpretativa y crítica del texto, e infiere el sentido de elementos no explícitos en los textos orales.
+**8.2.** Responde de forma correcta a preguntas concernientes a la comprensión literal, interpretativa y crítica del texto, e infiere el sentido de elementos no explícitos en los textos orales.
 
-8.3. Utiliza la información recogida para llevar a cabo diversas actividades en situaciones de aprendizaje individual o colectivo.
+**8.3.** Utiliza la información recogida para llevar a cabo diversas actividades en situaciones de aprendizaje individual o colectivo.
 
-9.1. Reproduce comprensiblemente textos orales sencillos y breves imitando modelos.
+**9.1.** Reproduce comprensiblemente textos orales sencillos y breves imitando modelos.
 
-9.2. Recuerda algunas ideas básicas de un texto escuchado y las expresa oralmente en respuesta a preguntas directas.
+**9.2.** Recuerda algunas ideas básicas de un texto escuchado y las expresa oralmente en respuesta a preguntas directas.
 
-9.3. Organiza y planifica el discurso adecuándose a la situación de comunicación y a las diferentes necesidades comunicativas (narrar, describir, informarse, dialogar) utilizando los recursos lingüísticos pertinentes.
+**9.3.** Organiza y planifica el discurso adecuándose a la situación de comunicación y a las diferentes necesidades comunicativas (narrar, describir, informarse, dialogar) utilizando los recursos lingüísticos pertinentes.
 
-10.1. Utiliza de forma efectiva el lenguaje oral para comunicarse y aprender escuchando activamente, recogiendo datos pertinentes a los objetivos de la comunicación.
+**10.1.** Utiliza de forma efectiva el lenguaje oral para comunicarse y aprender escuchando activamente, recogiendo datos pertinentes a los objetivos de la comunicación.
 
-11.1. Resume entrevistas, noticias, debates infantiles… procedentes de la radio, televisión o Internet.
+**11.1.** Resume entrevistas, noticias, debates infantiles… procedentes de la radio, televisión o Internet.
 
-11.2. Transforma en noticias hechos cotidianos cercanos a su realidad ajustándose a la estructura y lenguaje propios del género e imitando modelos.
+**11.2.** Transforma en noticias hechos cotidianos cercanos a su realidad ajustándose a la estructura y lenguaje propios del género e imitando modelos.
 
-11.3. Realiza entrevistas dirigidas.
+**11.3.** Realiza entrevistas dirigidas.
 
-11.4. Prepara reportajes sobre temas de intereses cercanos, siguiendo modelos.
+**11.4.** Prepara reportajes sobre temas de intereses cercanos, siguiendo modelos.
 
 Bloque 2. Comunicación escrita: leer
 
@@ -1562,63 +1562,63 @@ Plan lector.
 
 10. Llevar a cabo el plan lector que dé respuesta a una planificación sistemática de mejora de la eficacia lectora y fomente el gusto por la lectura.
 
-1.1. Lee en voz alta diferentes tipos de textos apropiados a su edad con velocidad, fluidez y entonación adecuada.
+**1.1.** Lee en voz alta diferentes tipos de textos apropiados a su edad con velocidad, fluidez y entonación adecuada.
 
-1.2. Descodifica con precisión y rapidez todo tipo de palabras.
+**1.2.** Descodifica con precisión y rapidez todo tipo de palabras.
 
-2.1. Entiende el mensaje, de manera global, e identifica las ideas principales y las secundarias de los textos leídos a partir de la lectura de un texto en voz alta.
+**2.1.** Entiende el mensaje, de manera global, e identifica las ideas principales y las secundarias de los textos leídos a partir de la lectura de un texto en voz alta.
 
-2.2. Muestra comprensión, con cierto grado de detalle, de diferentes tipos de textos no literarios (expositivos, narrativos, descriptivos y argumentativos) y de textos de la vida cotidiana.
+**2.2.** Muestra comprensión, con cierto grado de detalle, de diferentes tipos de textos no literarios (expositivos, narrativos, descriptivos y argumentativos) y de textos de la vida cotidiana.
 
-3.1. Lee en silencio con la velocidad adecuada textos de diferente complejidad.
+**3.1.** Lee en silencio con la velocidad adecuada textos de diferente complejidad.
 
-3.2. Realiza lecturas en silencio resumiendo con brevemente los textos leídos.
+**3.2.** Realiza lecturas en silencio resumiendo con brevemente los textos leídos.
 
-4.1. Capta el propósito de los mismos. Identifica las partes de la estructura organizativa de los textos y analiza su progresión temática.
+**4.1.** Capta el propósito de los mismos. Identifica las partes de la estructura organizativa de los textos y analiza su progresión temática.
 
-4.2. Elabora resúmenes de textos leídos. Identifica los elementos característicos de los diferentes tipos de textos.
+**4.2.** Elabora resúmenes de textos leídos. Identifica los elementos característicos de los diferentes tipos de textos.
 
-4.3. Reconoce algunos mecanismos de cohesión en diferentes tipos de texto.
+**4.3.** Reconoce algunos mecanismos de cohesión en diferentes tipos de texto.
 
-4.4. Produce esquemas a partir de textos expositivos.
+**4.4.** Produce esquemas a partir de textos expositivos.
 
-5.1. Interpreta el valor del título y las ilustraciones.
+**5.1.** Interpreta el valor del título y las ilustraciones.
 
-5.2. Marca las palabras clave de un texto que ayudan a la comprensión global.
+**5.2.** Marca las palabras clave de un texto que ayudan a la comprensión global.
 
-5.3. Activa conocimientos previos ayudándose de ellos para comprender un texto.
+**5.3.** Activa conocimientos previos ayudándose de ellos para comprender un texto.
 
-5.4. Realiza inferencias y formula hipótesis.
+**5.4.** Realiza inferencias y formula hipótesis.
 
-5.5. Comprende la información contenida en los gráficos, estableciendo relaciones con la información que aparece en el texto relacionada con los mismos.
+**5.5.** Comprende la información contenida en los gráficos, estableciendo relaciones con la información que aparece en el texto relacionada con los mismos.
 
-5.6. Interpreta esquemas de llave, números, mapas conceptuales sencillos.
+**5.6.** Interpreta esquemas de llave, números, mapas conceptuales sencillos.
 
-6.1. Tiene programado un tiempo semanal para leer diferentes textos.
+**6.1.** Tiene programado un tiempo semanal para leer diferentes textos.
 
-6.2. Lee voluntariamente textos propuestos por el maestro o maestra.
+**6.2.** Lee voluntariamente textos propuestos por el maestro o maestra.
 
-7.1. Es capaz de consultar diferentes fuentes bibliográficas y textos de soporte informático para obtener datos e información para llevar a cabo trabajos individuales o en grupo.
+**7.1.** Es capaz de consultar diferentes fuentes bibliográficas y textos de soporte informático para obtener datos e información para llevar a cabo trabajos individuales o en grupo.
 
-8.1. Deduce el significado de palabras y expresiones con ayuda del contexto.
+**8.1.** Deduce el significado de palabras y expresiones con ayuda del contexto.
 
-8.2. Comprende textos periodísticos y publicitarios. Identifica su intención comunicativa. Diferencia entre información, opinión y publicidad.
+**8.2.** Comprende textos periodísticos y publicitarios. Identifica su intención comunicativa. Diferencia entre información, opinión y publicidad.
 
-8.3. Infiere, interpreta y formula hipótesis sobre el contenido. Sabe relacionar los elementos lingüísticos con los no lingüísticos en los textos periodísticos y publicitarios.
+**8.3.** Infiere, interpreta y formula hipótesis sobre el contenido. Sabe relacionar los elementos lingüísticos con los no lingüísticos en los textos periodísticos y publicitarios.
 
-8.4. Establece relaciones entre las ilustraciones y los contenidos del texto, plantea hipótesis, realiza predicciones e identifica en la lectura el tipo de texto y la intención.
+**8.4.** Establece relaciones entre las ilustraciones y los contenidos del texto, plantea hipótesis, realiza predicciones e identifica en la lectura el tipo de texto y la intención.
 
-8.5. Interpreta el lenguaje figurado, metáforas, personificaciones, hipérboles y juegos de palabras en textos publicitarios.
+**8.5.** Interpreta el lenguaje figurado, metáforas, personificaciones, hipérboles y juegos de palabras en textos publicitarios.
 
-9.1. Sabe utilizar los medios informáticos para obtener información.
+**9.1.** Sabe utilizar los medios informáticos para obtener información.
 
-9.2. Es capaz de interpretar la información y hacer un resumen de la misma.
+**9.2.** Es capaz de interpretar la información y hacer un resumen de la misma.
 
-10.1. Utiliza la biblioteca para localizar un libro determinado con seguridad y autonomía, aplicando las normas de funcionamiento de una biblioteca.
+**10.1.** Utiliza la biblioteca para localizar un libro determinado con seguridad y autonomía, aplicando las normas de funcionamiento de una biblioteca.
 
-10.2. Expone los argumentos de lecturas realizadas dando cuenta de algunas referencias bibliográficas: autor, editorial, género, ilustraciones.
+**10.2.** Expone los argumentos de lecturas realizadas dando cuenta de algunas referencias bibliográficas: autor, editorial, género, ilustraciones.
 
-10.3. Selecciona lecturas con criterio personal y expresa el gusto por la lectura de diversos géneros literarios como fuente de entretenimiento manifestando su opinión sobre los textos leídos.
+**10.3.** Selecciona lecturas con criterio personal y expresa el gusto por la lectura de diversos géneros literarios como fuente de entretenimiento manifestando su opinión sobre los textos leídos.
 
 Bloque 3. Comunicación escrita: escribir
 
@@ -1656,33 +1656,33 @@ Plan de escritura.
 
 8. Utilizar las TIC de modo eficiente y responsable para presentar sus producciones.
 
-1.1. Escribe, en diferentes soportes, textos propios del ámbito de la vida cotidiana: diarios, cartas, correos electrónicos, etc. imitando textos modelo.
+**1.1.** Escribe, en diferentes soportes, textos propios del ámbito de la vida cotidiana: diarios, cartas, correos electrónicos, etc. imitando textos modelo.
 
-1.2. Escribe textos usando el registro adecuado, organizando las ideas con claridad, enlazando enunciados en secuencias lineales cohesionadas y respetando las normas gramaticales y ortográficas.
+**1.2.** Escribe textos usando el registro adecuado, organizando las ideas con claridad, enlazando enunciados en secuencias lineales cohesionadas y respetando las normas gramaticales y ortográficas.
 
-1.3. Escribe diferentes tipos de textos adecuando el lenguaje a las características del género, siguiendo modelos, encaminados a desarrollar su capacidad creativa en la escritura.
+**1.3.** Escribe diferentes tipos de textos adecuando el lenguaje a las características del género, siguiendo modelos, encaminados a desarrollar su capacidad creativa en la escritura.
 
-2.1. Resume el contenido de textos propios del ámbito de la vida personal y del ámbito escolar, recogiendo las ideas fundamentales, evitando parafrasear el texto y utilizando una expresión personal.
+**2.1.** Resume el contenido de textos propios del ámbito de la vida personal y del ámbito escolar, recogiendo las ideas fundamentales, evitando parafrasear el texto y utilizando una expresión personal.
 
-2.2. Aplica correctamente los signos de puntuación, las reglas de acentuación y ortográficas.
+**2.2.** Aplica correctamente los signos de puntuación, las reglas de acentuación y ortográficas.
 
-2.3. Reproduce textos dictados con corrección.
+**2.3.** Reproduce textos dictados con corrección.
 
-2.4. Emplea estrategias de búsqueda y selección de la información: tomar notas, elaborar esquemas, guiones, mapas conceptuales.
+**2.4.** Emplea estrategias de búsqueda y selección de la información: tomar notas, elaborar esquemas, guiones, mapas conceptuales.
 
-3.1. Utiliza habitualmente el diccionario en el proceso de escritura.
+**3.1.** Utiliza habitualmente el diccionario en el proceso de escritura.
 
-4.1. Elabora gráficas a partir de datos seleccionados y organizados procedentes de diferentes textos (libros de consulta, periódicos, revistas, etc.).
+**4.1.** Elabora gráficas a partir de datos seleccionados y organizados procedentes de diferentes textos (libros de consulta, periódicos, revistas, etc.).
 
-4.2. Presenta un informe de forma ordenada y clara, utilizando soporte papel y digital, sobre problemas o situaciones sencillas, recogiendo información de diferentes fuentes (directas, libros, Internet), siguiendo un plan de trabajo y expresando conclusiones.
+**4.2.** Presenta un informe de forma ordenada y clara, utilizando soporte papel y digital, sobre problemas o situaciones sencillas, recogiendo información de diferentes fuentes (directas, libros, Internet), siguiendo un plan de trabajo y expresando conclusiones.
 
-4.3. Elabora un informe siguiendo un guion establecido que suponga la búsqueda, selección y organización de la información de textos de carácter científico, geográfico o histórico.
+**4.3.** Elabora un informe siguiendo un guion establecido que suponga la búsqueda, selección y organización de la información de textos de carácter científico, geográfico o histórico.
 
-5.1. Pone interés y se esfuerza por escribir correctamente de forma personal.
+**5.1.** Pone interés y se esfuerza por escribir correctamente de forma personal.
 
-6.1. Expresa, por escrito, opiniones, reflexiones y valoraciones argumentadas.
+**6.1.** Expresa, por escrito, opiniones, reflexiones y valoraciones argumentadas.
 
-7.1. Planifica y redacta textos siguiendo unos pasos: planificación, redacción, revisión y mejora.
+**7.1.** Planifica y redacta textos siguiendo unos pasos: planificación, redacción, revisión y mejora.
 
 Determina con antelación cómo será el texto, su extensión, el tratamiento autor-lector, la presentación, etc.
 
@@ -1692,11 +1692,11 @@ Presenta con limpieza, claridad, precisión y orden los escritos.
 
 Reescribe el texto.
 
-7.2. Valora su propia producción escrita, así como la producción escrita de sus compañeros.
+**7.2.** Valora su propia producción escrita, así como la producción escrita de sus compañeros.
 
-8.1. Usa con eficacia las nuevas tecnologías para escribir, presentar los textos y buscar información.
+**8.1.** Usa con eficacia las nuevas tecnologías para escribir, presentar los textos y buscar información.
 
-8.2. Utiliza Internet y las TIC: reproductor de vídeo, reproductor de DVD, ordenador, reproductor de CD-audio, cámara de fotos digital y grabadora de audio como recursos para la realización de tareas diversas: escribir y modificar un texto, crear tablas y gráficas, etc.
+**8.2.** Utiliza Internet y las TIC: reproductor de vídeo, reproductor de DVD, ordenador, reproductor de CD-audio, cámara de fotos digital y grabadora de audio como recursos para la realización de tareas diversas: escribir y modificar un texto, crear tablas y gráficas, etc.
 
 Bloque 4. Conocimiento de la lengua
 
@@ -1740,45 +1740,45 @@ Conocimiento general de realidad plurilingüe de España y su valoración como f
 
 6. Conocer la variedad lingüística de España y del español como fuente de enriquecimiento cultural. Mostrar respeto tanto hacia las lenguas y dialectos que se hablan en España, como hacia el español de América.
 
-1.1. Conoce y reconoce todas las categorías gramaticales por su función en la lengua: presentar al nombre, sustituir al nombre, expresar características del nombre, expresar acciones o estados, enlazar o relacionar palabras u oraciones, etc.
+**1.1.** Conoce y reconoce todas las categorías gramaticales por su función en la lengua: presentar al nombre, sustituir al nombre, expresar características del nombre, expresar acciones o estados, enlazar o relacionar palabras u oraciones, etc.
 
-1.2. Conjuga y usa con corrección todos los tiempos simples y compuestos en las formas personales y no personales del modo indicativo y subjuntivo de todos los verbos.
+**1.2.** Conjuga y usa con corrección todos los tiempos simples y compuestos en las formas personales y no personales del modo indicativo y subjuntivo de todos los verbos.
 
-1.3. Diferencia familias de palabras.
+**1.3.** Diferencia familias de palabras.
 
-2.1. Conoce, reconoce y usa sinónimos y antónimos, palabras polisémicas y homónimas, arcaísmos, extranjerismos y neologismos, frases hechas, siglas y abreviaturas.
+**2.1.** Conoce, reconoce y usa sinónimos y antónimos, palabras polisémicas y homónimas, arcaísmos, extranjerismos y neologismos, frases hechas, siglas y abreviaturas.
 
-2.2. Reconoce palabras compuestas, prefijos y sufijos y es capaz de crear palabras derivadas.
+**2.2.** Reconoce palabras compuestas, prefijos y sufijos y es capaz de crear palabras derivadas.
 
-2.3. Identifica y clasifica los diferentes tipos de palabras en un texto.
+**2.3.** Identifica y clasifica los diferentes tipos de palabras en un texto.
 
-2.4. Reconoce los conectores básicos necesarios que dan cohesión al texto (anáforas, deixis, elipsis, sinónimos, conectores).
+**2.4.** Reconoce los conectores básicos necesarios que dan cohesión al texto (anáforas, deixis, elipsis, sinónimos, conectores).
 
-2.5. Identifica las oraciones como unidades de significado completo. Reconoce la oración simple, diferencia sujeto y predicado.
+**2.5.** Identifica las oraciones como unidades de significado completo. Reconoce la oración simple, diferencia sujeto y predicado.
 
-3.1. Conoce la estructura del diccionario y lo usa para buscar el significado de cualquier palabra (derivados, plurales, formas verbales, sinónimos, etc.).
+**3.1.** Conoce la estructura del diccionario y lo usa para buscar el significado de cualquier palabra (derivados, plurales, formas verbales, sinónimos, etc.).
 
-3.2. Selecciona la acepción correcta según el contexto de entre las varias que le ofrece el diccionario.
+**3.2.** Selecciona la acepción correcta según el contexto de entre las varias que le ofrece el diccionario.
 
-3.3. Conoce las normas ortográficas y las aplica en sus producciones escritas.
+**3.3.** Conoce las normas ortográficas y las aplica en sus producciones escritas.
 
-4.1. Señala las características que definen a las diferentes clases de palabras: clasificación y uso para construir el discurso en los diferentes tipos de producciones.
+**4.1.** Señala las características que definen a las diferentes clases de palabras: clasificación y uso para construir el discurso en los diferentes tipos de producciones.
 
-4.2. Utiliza correctamente las normas de la concordancia de género y de número en la expresión oral y escrita.
+**4.2.** Utiliza correctamente las normas de la concordancia de género y de número en la expresión oral y escrita.
 
-4.3. Aplica correctamente las normas de acentuación y clasifica las palabras de un texto.
+**4.3.** Aplica correctamente las normas de acentuación y clasifica las palabras de un texto.
 
-4.4. Usa con corrección los signos de puntuación.
+**4.4.** Usa con corrección los signos de puntuación.
 
-4.5. Aplica las reglas de uso de la tilde.
+**4.5.** Aplica las reglas de uso de la tilde.
 
-4.6. Utiliza una sintaxis adecuada en las producciones escritas propias.
+**4.6.** Utiliza una sintaxis adecuada en las producciones escritas propias.
 
-5.1. Utiliza distintos programas educativos digítales como apoyo y refuerzo del aprendizaje.
+**5.1.** Utiliza distintos programas educativos digítales como apoyo y refuerzo del aprendizaje.
 
-6.1. Conoce y valora la variedad lingüística de España y el español de América.
+**6.1.** Conoce y valora la variedad lingüística de España y el español de América.
 
-6.2. Reconoce e identifica algunas de las características relevantes (históricas, socio-culturales, geográficas y lingüísticas) de las lenguas oficiales en España.
+**6.2.** Reconoce e identifica algunas de las características relevantes (históricas, socio-culturales, geográficas y lingüísticas) de las lenguas oficiales en España.
 
 Bloque 5. Educación literaria
 
@@ -1810,21 +1810,21 @@ Valoración de los textos literarios como vehículo de comunicación y como fuen
 
 5. Participar con interés en dramatizaciones de textos literarios adaptados a la edad y de producciones propias o de los compañeros, utilizando adecuadamente los recursos básicos de los intercambios orales y de la técnica teatral.
 
-1.1. Reconoce y valora las características fundamentales de textos literarios narrativos, poéticos y dramáticos.
+**1.1.** Reconoce y valora las características fundamentales de textos literarios narrativos, poéticos y dramáticos.
 
-2.1. Realiza lecturas guiadas de textos narrativos de tradición oral, literatura infantil, adaptaciones de obras clásicas y literatura actual.
+**2.1.** Realiza lecturas guiadas de textos narrativos de tradición oral, literatura infantil, adaptaciones de obras clásicas y literatura actual.
 
-2.2. Interpreta el lenguaje figurado, metáforas, personificaciones, hipérboles y juegos de palabras en textos literarios.
+**2.2.** Interpreta el lenguaje figurado, metáforas, personificaciones, hipérboles y juegos de palabras en textos literarios.
 
-3.1. Distingue algunos recursos retóricos y métricos propios de los poemas.
+**3.1.** Distingue algunos recursos retóricos y métricos propios de los poemas.
 
-3.2. Utiliza comparaciones, metáforas, aumentativos, diminutivos y sinónimos en textos literarios.
+**3.2.** Utiliza comparaciones, metáforas, aumentativos, diminutivos y sinónimos en textos literarios.
 
-4.1. Crea textos literarios (cuentos, poemas, canciones y pequeñas obras teatrales) a partir de pautas o modelos dados utilizando recursos léxicos, sintácticos, fónicos y rítmicos en dichas producciones.
+**4.1.** Crea textos literarios (cuentos, poemas, canciones y pequeñas obras teatrales) a partir de pautas o modelos dados utilizando recursos léxicos, sintácticos, fónicos y rítmicos en dichas producciones.
 
-5.1. Realiza dramatizaciones individualmente y en grupo de textos literarios apropiados o adecuados a su edad y de textos de producción propia.
+**5.1.** Realiza dramatizaciones individualmente y en grupo de textos literarios apropiados o adecuados a su edad y de textos de producción propia.
 
-5.2. Memoriza y reproduce textos orales breves y sencillos, cuentos, poemas, canciones, refranes adivinanzas, trabalenguas.
+**5.2.** Memoriza y reproduce textos orales breves y sencillos, cuentos, poemas, canciones, refranes adivinanzas, trabalenguas.
 
 d) Matemáticas.
 
@@ -1902,59 +1902,59 @@ Integración de las tecnologías de la información y la comunicación en el pro
 
 13. Seleccionar y utilizar las herramientas tecnológicas y estrategias para el cálculo, para conocer los principios matemáticos y resolver problemas.
 
-1.1. Comunica verbalmente de forma razonada el proceso seguido en la resolución de un problema de matemáticas o en contextos de la realidad.
+**1.1.** Comunica verbalmente de forma razonada el proceso seguido en la resolución de un problema de matemáticas o en contextos de la realidad.
 
-2.1. Analiza y comprende el enunciado de los problemas (datos, relaciones entre los datos, contexto del problema).
+**2.1.** Analiza y comprende el enunciado de los problemas (datos, relaciones entre los datos, contexto del problema).
 
-2.2. Utiliza estrategias heurísticas y procesos de razonamiento en la resolución de problemas.
+**2.2.** Utiliza estrategias heurísticas y procesos de razonamiento en la resolución de problemas.
 
-2.3. Reflexiona sobre el proceso de resolución de problemas: revisa las operaciones utilizadas, las unidades de los resultados, comprueba e interpreta las soluciones en el contexto de la situación, busca otras formas de resolución, etc.
+**2.3.** Reflexiona sobre el proceso de resolución de problemas: revisa las operaciones utilizadas, las unidades de los resultados, comprueba e interpreta las soluciones en el contexto de la situación, busca otras formas de resolución, etc.
 
-2.4. Realiza estimaciones y elabora conjeturas sobre los resultados de los problemas a resolver, contrastando su validez y valorando su utilidad y eficacia.
+**2.4.** Realiza estimaciones y elabora conjeturas sobre los resultados de los problemas a resolver, contrastando su validez y valorando su utilidad y eficacia.
 
-2.5. Identifica e interpreta datos y mensajes de textos numéricos sencillos de la vida cotidiana (facturas, folletos publicitarios, rebajas…).
+**2.5.** Identifica e interpreta datos y mensajes de textos numéricos sencillos de la vida cotidiana (facturas, folletos publicitarios, rebajas…).
 
-3.1. Identifica patrones, regularidades y leyes matemáticas en situaciones de cambio, en contextos numéricos, geométricos y funcionales.
+**3.1.** Identifica patrones, regularidades y leyes matemáticas en situaciones de cambio, en contextos numéricos, geométricos y funcionales.
 
-3.2. Realiza predicciones sobre los resultados esperados, utilizando los patrones y leyes encontrados, analizando su idoneidad y los errores que se producen.
+**3.2.** Realiza predicciones sobre los resultados esperados, utilizando los patrones y leyes encontrados, analizando su idoneidad y los errores que se producen.
 
-4.1. Profundiza en problemas una vez resueltos, analizando la coherencia de la solución y buscando otras formas de resolverlos.
+**4.1.** Profundiza en problemas una vez resueltos, analizando la coherencia de la solución y buscando otras formas de resolverlos.
 
-4.2. Se plantea nuevos problemas, a partir de uno resuelto: variando los datos, proponiendo nuevas preguntas, conectándolo con la realidad, buscando otros contextos, etc.
+**4.2.** Se plantea nuevos problemas, a partir de uno resuelto: variando los datos, proponiendo nuevas preguntas, conectándolo con la realidad, buscando otros contextos, etc.
 
-5.1. Elabora informes sobre el proceso de investigación realizado, exponiendo las fases del mismo, valorando los resultados y las conclusiones obtenidas.
+**5.1.** Elabora informes sobre el proceso de investigación realizado, exponiendo las fases del mismo, valorando los resultados y las conclusiones obtenidas.
 
-6.1. Practica el método científico, siendo ordenado, organizado y sistemático.
+**6.1.** Practica el método científico, siendo ordenado, organizado y sistemático.
 
-6.2. Planifica el proceso de trabajo con preguntas adecuadas: ¿qué quiero averiguar?, ¿qué tengo?, ¿qué busco?, ¿cómo lo puedo hacer?, ¿no me he equivocado al hacerlo?, ¿la solución es adecuada?
+**6.2.** Planifica el proceso de trabajo con preguntas adecuadas: ¿qué quiero averiguar?, ¿qué tengo?, ¿qué busco?, ¿cómo lo puedo hacer?, ¿no me he equivocado al hacerlo?, ¿la solución es adecuada?
 
-7.1. Realiza estimaciones sobre los resultados esperados y contrasta su validez, valorando los pros y los contras de su uso.
+**7.1.** Realiza estimaciones sobre los resultados esperados y contrasta su validez, valorando los pros y los contras de su uso.
 
-8.1. Elabora conjeturas y busca argumentos que las validen o las refuten, en situaciones a resolver, en contextos numéricos, geométricos o funcionales.
+**8.1.** Elabora conjeturas y busca argumentos que las validen o las refuten, en situaciones a resolver, en contextos numéricos, geométricos o funcionales.
 
-9.1. Desarrolla y muestra actitudes adecuadas para el trabajo en matemáticas: esfuerzo, perseverancia, flexibilidad y aceptación de la crítica razonada.
+**9.1.** Desarrolla y muestra actitudes adecuadas para el trabajo en matemáticas: esfuerzo, perseverancia, flexibilidad y aceptación de la crítica razonada.
 
-9.2. Se plantea la resolución de retos y problemas con la precisión, esmero e interés adecuados al nivel educativo y a la dificultad de la situación.
+**9.2.** Se plantea la resolución de retos y problemas con la precisión, esmero e interés adecuados al nivel educativo y a la dificultad de la situación.
 
-9.3. Distingue entre problemas y ejercicios y aplica las estrategias adecuadas para cada caso.
+**9.3.** Distingue entre problemas y ejercicios y aplica las estrategias adecuadas para cada caso.
 
-9.4. Se inicia en el planteamiento de preguntas y en la búsqueda de respuestas adecuadas, tanto en el estudio de los conceptos como en la resolución de problemas.
+**9.4.** Se inicia en el planteamiento de preguntas y en la búsqueda de respuestas adecuadas, tanto en el estudio de los conceptos como en la resolución de problemas.
 
-9.5. Desarrolla y aplica estrategias de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos) para crear e investigar conjeturas y construir y defender argumentos.
+**9.5.** Desarrolla y aplica estrategias de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos) para crear e investigar conjeturas y construir y defender argumentos.
 
-10.1. Toma decisiones en los procesos de resolución de problemas valorando las consecuencias de las mismas y su conveniencia por su sencillez y utilidad.
+**10.1.** Toma decisiones en los procesos de resolución de problemas valorando las consecuencias de las mismas y su conveniencia por su sencillez y utilidad.
 
-10.2. Reflexiona sobre los problemas resueltos y los procesos desarrollados, valorando las ideas claves, aprendiendo para situaciones futuras similares, etc.
+**10.2.** Reflexiona sobre los problemas resueltos y los procesos desarrollados, valorando las ideas claves, aprendiendo para situaciones futuras similares, etc.
 
-10.3. Utiliza herramientas tecnológicas para la realización de cálculos numéricos, para aprender y para resolver problemas, conjeturas y construir y defender argumentos.
+**10.3.** Utiliza herramientas tecnológicas para la realización de cálculos numéricos, para aprender y para resolver problemas, conjeturas y construir y defender argumentos.
 
-11.1. Se inicia en la reflexión sobre los problemas resueltos y los procesos desarrollados, valorando las ideas claves, aprendiendo para situaciones futuras similares, etc.
+**11.1.** Se inicia en la reflexión sobre los problemas resueltos y los procesos desarrollados, valorando las ideas claves, aprendiendo para situaciones futuras similares, etc.
 
-12.1. Se inicia en la utilización de herramientas tecnológicas para la realización de cálculos numéricos, para aprender y para resolver problemas.
+**12.1.** Se inicia en la utilización de herramientas tecnológicas para la realización de cálculos numéricos, para aprender y para resolver problemas.
 
-12.2. Se inicia en la utilización de la calculadora para la realización de cálculos numéricos, para aprender y para resolver problemas.
+**12.2.** Se inicia en la utilización de la calculadora para la realización de cálculos numéricos, para aprender y para resolver problemas.
 
-13.1. Realiza un proyecto, elabora y presenta un informe creando documentos digitales propios (texto, presentación, imagen, video, sonido…), buscando, analizando y seleccionando la información relevante, utilizando la herramienta tecnológica adecuada y compartiéndolo con sus compañeros.
+**13.1.** Realiza un proyecto, elabora y presenta un informe creando documentos digitales propios (texto, presentación, imagen, video, sonido…), buscando, analizando y seleccionando la información relevante, utilizando la herramienta tecnológica adecuada y compartiéndolo con sus compañeros.
 
 Bloque 2. Números
 
@@ -2072,93 +2072,93 @@ Utilización de la calculadora.
 
 9. Identificar, resolver problemas de la vida cotidiana, adecuados a su nivel, estableciendo conexiones entre la realidad y las matemáticas y valorando la utilidad de los conocimientos matemáticos adecuados y reflexionando sobre el proceso aplicado para la resolución de problemas.
 
-1.1. Identifica los números romanos aplicando el conocimiento a la comprensión de dataciones.
+**1.1.** Identifica los números romanos aplicando el conocimiento a la comprensión de dataciones.
 
-1.2. Lee, escribe y ordena en textos numéricos y de la vida cotidiana, números (naturales, fracciones y decimales hasta las milésimas), utilizando razonamientos apropiados e interpretando el valor de posición de cada una de sus cifras.
+**1.2.** Lee, escribe y ordena en textos numéricos y de la vida cotidiana, números (naturales, fracciones y decimales hasta las milésimas), utilizando razonamientos apropiados e interpretando el valor de posición de cada una de sus cifras.
 
-2.1. Utiliza los números ordinales en contextos reales.
+**2.1.** Utiliza los números ordinales en contextos reales.
 
-2.2. Interpreta en textos numéricos y de la vida cotidiana, números (naturales, fracciones y decimales hasta las milésimas), utilizando razonamientos apropiados e interpretando el valor de posición de cada una de sus cifras.
+**2.2.** Interpreta en textos numéricos y de la vida cotidiana, números (naturales, fracciones y decimales hasta las milésimas), utilizando razonamientos apropiados e interpretando el valor de posición de cada una de sus cifras.
 
-2.3. Descompone, compone y redondea números naturales y decimales, interpretando el valor de posición de cada una de sus cifras.
+**2.3.** Descompone, compone y redondea números naturales y decimales, interpretando el valor de posición de cada una de sus cifras.
 
-2.4. Ordena números enteros, decimales y fracciones básicas por comparación, representación en la recta numérica y transformación de unos en otros.
+**2.4.** Ordena números enteros, decimales y fracciones básicas por comparación, representación en la recta numérica y transformación de unos en otros.
 
-2.5. Utiliza los números negativos en contextos reales.
+**2.5.** Utiliza los números negativos en contextos reales.
 
-3.1. Reduce dos o más fracciones a común denominador y calcula fracciones equivalentes.
+**3.1.** Reduce dos o más fracciones a común denominador y calcula fracciones equivalentes.
 
-3.2. Redondea números decimales a la décima, centésima o milésima más cercana.
+**3.2.** Redondea números decimales a la décima, centésima o milésima más cercana.
 
-3.3. Ordena fracciones aplicando la relación entre fracción y número decimal.
+**3.3.** Ordena fracciones aplicando la relación entre fracción y número decimal.
 
-4.1. Conoce y aplica los criterios de divisibilidad por 2, 3, 5, 9 y 10.
+**4.1.** Conoce y aplica los criterios de divisibilidad por 2, 3, 5, 9 y 10.
 
-5.1. Opera con los números conociendo la jerarquía de las operaciones.
+**5.1.** Opera con los números conociendo la jerarquía de las operaciones.
 
-5.2. Utiliza diferentes tipos de números en contextos reales, estableciendo equivalencias entre ellos, identificándolos y utilizándolos como operadores en la interpretación y la resolución de problemas.
+**5.2.** Utiliza diferentes tipos de números en contextos reales, estableciendo equivalencias entre ellos, identificándolos y utilizándolos como operadores en la interpretación y la resolución de problemas.
 
-5.3. Estima y comprueba resultados mediante diferentes estrategias.
+**5.3.** Estima y comprueba resultados mediante diferentes estrategias.
 
-6.1. Realiza operaciones con números naturales: suma, resta, multiplicación y división.
+**6.1.** Realiza operaciones con números naturales: suma, resta, multiplicación y división.
 
-6.2. Identifica y usa los términos propios de la multiplicación y de la división.
+**6.2.** Identifica y usa los términos propios de la multiplicación y de la división.
 
-6.3. Resuelve problemas utilizando la multiplicación para realizar recuentos, en disposiciones rectangulares en los que interviene la ley del producto.
+**6.3.** Resuelve problemas utilizando la multiplicación para realizar recuentos, en disposiciones rectangulares en los que interviene la ley del producto.
 
-6.4. Calcula cuadrados, cubos y potencias de base 10.
+**6.4.** Calcula cuadrados, cubos y potencias de base 10.
 
-6.5. Aplica las propiedades de las operaciones y las relaciones entre ellas.
+**6.5.** Aplica las propiedades de las operaciones y las relaciones entre ellas.
 
-6.6. Realiza sumas y restas de fracciones con el mismo denominador. Calcula el producto de una fracción por un número.
+**6.6.** Realiza sumas y restas de fracciones con el mismo denominador. Calcula el producto de una fracción por un número.
 
-6.7. Realiza operaciones con números decimales.
+**6.7.** Realiza operaciones con números decimales.
 
-6.8. Aplica la jerarquía de las operaciones y los usos del paréntesis.
+**6.8.** Aplica la jerarquía de las operaciones y los usos del paréntesis.
 
-6.9. Calcula porcentajes de una cantidad.
+**6.9.** Calcula porcentajes de una cantidad.
 
-7.1. Utiliza los porcentajes para expresar partes.
+**7.1.** Utiliza los porcentajes para expresar partes.
 
-7.2. Establece la correspondencia entre fracciones sencillas, decimales y porcentajes.
+**7.2.** Establece la correspondencia entre fracciones sencillas, decimales y porcentajes.
 
-7.3. Calcula aumentos y disminuciones porcentuales.
+**7.3.** Calcula aumentos y disminuciones porcentuales.
 
-7.4. Usa la regla de tres en situaciones de proporcionalidad directa: ley del doble, triple, mitad, para resolver problemas de la vida diaria.
+**7.4.** Usa la regla de tres en situaciones de proporcionalidad directa: ley del doble, triple, mitad, para resolver problemas de la vida diaria.
 
-7.5. Resuelve problemas de la vida cotidiana utilizando porcentajes y regla de tres en situaciones de proporcionalidad directa, explicando oralmente y por escrito el significado de los datos, la situación planteada, el proceso seguido y las soluciones obtenidas.
+**7.5.** Resuelve problemas de la vida cotidiana utilizando porcentajes y regla de tres en situaciones de proporcionalidad directa, explicando oralmente y por escrito el significado de los datos, la situación planteada, el proceso seguido y las soluciones obtenidas.
 
-8.1. Utiliza y automatiza algoritmos estándar de suma, resta, multiplicación y división con distintos tipos de números, en comprobación de resultados en contextos de resolución de problemas y en situaciones cotidianas.
+**8.1.** Utiliza y automatiza algoritmos estándar de suma, resta, multiplicación y división con distintos tipos de números, en comprobación de resultados en contextos de resolución de problemas y en situaciones cotidianas.
 
-8.2. Descompone de forma aditiva y de forma aditivo-multiplicativa, números menores que un millón, atendiendo al valor posicional de sus cifras.
+**8.2.** Descompone de forma aditiva y de forma aditivo-multiplicativa, números menores que un millón, atendiendo al valor posicional de sus cifras.
 
-8.3. Construye series numéricas, ascendentes y descendentes, de cadencias 2, 10, 100 a partir de cualquier número y de cadencias 5, 25 y 50 a partir de múltiplos de 5, 25 y 50.
+**8.3.** Construye series numéricas, ascendentes y descendentes, de cadencias 2, 10, 100 a partir de cualquier número y de cadencias 5, 25 y 50 a partir de múltiplos de 5, 25 y 50.
 
-8.4. Descompone números naturales atendiendo al valor posicional de sus cifras.
+**8.4.** Descompone números naturales atendiendo al valor posicional de sus cifras.
 
-8.5. Construye y memoriza las tablas de multiplicar, utilizándolas para realizar cálculo mental.
+**8.5.** Construye y memoriza las tablas de multiplicar, utilizándolas para realizar cálculo mental.
 
-8.6. Identifica múltiplos y divisores, utilizando las tablas de multiplicar.
+**8.6.** Identifica múltiplos y divisores, utilizando las tablas de multiplicar.
 
-8.7. Calcula los primeros múltiplos de un número dado.
+**8.7.** Calcula los primeros múltiplos de un número dado.
 
-8.8. Calcula todos los divisores de cualquier número menor que 100.
+**8.8.** Calcula todos los divisores de cualquier número menor que 100.
 
-8.9. Calcula el m.c.m. y el m.c.d.
+**8.9.** Calcula el m.c.m. y el m.c.d.
 
-8.10. Descompone números decimales atendiendo al valor posicional de sus cifras.
+**8.10.** Descompone números decimales atendiendo al valor posicional de sus cifras.
 
-8.11. Calcula tantos por ciento en situaciones reales.
+**8.11.** Calcula tantos por ciento en situaciones reales.
 
-8.12. Elabora y usa estrategias de cálculo mental.
+**8.12.** Elabora y usa estrategias de cálculo mental.
 
-8.13. Estima y redondea el resultado de un cálculo valorando la respuesta.
+**8.13.** Estima y redondea el resultado de un cálculo valorando la respuesta.
 
-8.14. Usa la calculadora aplicando las reglas de su funcionamiento, para investigar y resolver problemas.
+**8.14.** Usa la calculadora aplicando las reglas de su funcionamiento, para investigar y resolver problemas.
 
-9.1. Resuelve problemas que impliquen dominio de los contenidos trabajados, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
+**9.1.** Resuelve problemas que impliquen dominio de los contenidos trabajados, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
 
-9.2. Reflexiona sobre el proceso aplicado a la resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, buscando otras formas de resolverlo.
+**9.2.** Reflexiona sobre el proceso aplicado a la resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, buscando otras formas de resolverlo.
 
 Bloque 3. Medida
 
@@ -2230,47 +2230,47 @@ Resolución de problemas de medida.
 
 8. Identificar, resolver problemas de la vida cotidiana, adecuados a su nivel, estableciendo conexiones entre la realidad y las matemáticas y valorando la utilidad de los conocimientos matemáticos adecuados y reflexionando sobre el proceso aplicado para la resolución de problemas.
 
-1.1. Identifica las unidades del Sistema Métrico Decimal. Longitud, capacidad, masa, superficie y volumen.
+**1.1.** Identifica las unidades del Sistema Métrico Decimal. Longitud, capacidad, masa, superficie y volumen.
 
-2.1. Estima longitudes, capacidades, masas, superficies y volúmenes de objetos y espacios conocidos; eligiendo la unidad y los instrumentos más adecuados para medir y expresar una medida, explicando de forma oral el proceso seguido y la estrategia utilizada.
+**2.1.** Estima longitudes, capacidades, masas, superficies y volúmenes de objetos y espacios conocidos; eligiendo la unidad y los instrumentos más adecuados para medir y expresar una medida, explicando de forma oral el proceso seguido y la estrategia utilizada.
 
-2.2. Mide con instrumentos, utilizando estrategias y unidades convencionales y no convencionales, eligiendo la unidad más adecuada para la expresión de una medida.
+**2.2.** Mide con instrumentos, utilizando estrategias y unidades convencionales y no convencionales, eligiendo la unidad más adecuada para la expresión de una medida.
 
-3.1. Suma y resta medidas de longitud, capacidad, masa, superficie y volumen en forma simple dando el resultado en la unidad determinada de antemano.
+**3.1.** Suma y resta medidas de longitud, capacidad, masa, superficie y volumen en forma simple dando el resultado en la unidad determinada de antemano.
 
-3.2. Expresa en forma simple la medición de longitud, capacidad o masa dada en forma compleja y viceversa.
+**3.2.** Expresa en forma simple la medición de longitud, capacidad o masa dada en forma compleja y viceversa.
 
-3.3. Compara y ordena de medidas de una misma magnitud.
+**3.3.** Compara y ordena de medidas de una misma magnitud.
 
-3.4. Compara superficies de figuras planas por superposición, descomposición y medición.
+**3.4.** Compara superficies de figuras planas por superposición, descomposición y medición.
 
-4.1. Conoce y utiliza las equivalencias entre las medidas de capacidad y volumen.
+**4.1.** Conoce y utiliza las equivalencias entre las medidas de capacidad y volumen.
 
-4.2. Explica de forma oral y por escrito los procesos seguidos y las estrategias utilizadas en todos los procedimientos realizados.
+**4.2.** Explica de forma oral y por escrito los procesos seguidos y las estrategias utilizadas en todos los procedimientos realizados.
 
-4.3. Resuelve problemas utilizando las unidades de medida más usuales, convirtiendo unas unidades en otras de la misma magnitud, expresando los resultados en las unidades de medida más adecuadas, explicando oralmente y por escrito, el proceso seguido.
+**4.3.** Resuelve problemas utilizando las unidades de medida más usuales, convirtiendo unas unidades en otras de la misma magnitud, expresando los resultados en las unidades de medida más adecuadas, explicando oralmente y por escrito, el proceso seguido.
 
-5.1. Conoce y utiliza las unidades de medida del tiempo y sus relaciones. Segundo, minuto, hora, día, semana y año.
+**5.1.** Conoce y utiliza las unidades de medida del tiempo y sus relaciones. Segundo, minuto, hora, día, semana y año.
 
-5.2. Realiza equivalencias y transformaciones entre horas, minutos y segundos.
+**5.2.** Realiza equivalencias y transformaciones entre horas, minutos y segundos.
 
-5.3. Lee en relojes analógicos y digitales.
+**5.3.** Lee en relojes analógicos y digitales.
 
-5.4. Resuelve problemas de la vida diaria utilizando las medidas temporales y sus relaciones.
+**5.4.** Resuelve problemas de la vida diaria utilizando las medidas temporales y sus relaciones.
 
-6.1. Identifica el ángulo como medida de un giro o abertura.
+**6.1.** Identifica el ángulo como medida de un giro o abertura.
 
-6.2. Mide ángulos usando instrumentos convencionales.
+**6.2.** Mide ángulos usando instrumentos convencionales.
 
-6.3. Resuelve problemas realizando cálculos con medidas angulares.
+**6.3.** Resuelve problemas realizando cálculos con medidas angulares.
 
-7.1. Conoce la función, el valor y las equivalencias entre las diferentes monedas y billetes del sistema monetario de la Unión Europea utilizándolas tanto para resolver problemas en situaciones reales como figuradas.
+**7.1.** Conoce la función, el valor y las equivalencias entre las diferentes monedas y billetes del sistema monetario de la Unión Europea utilizándolas tanto para resolver problemas en situaciones reales como figuradas.
 
-7.2. Calcula múltiplos y submúltiplos del euro.
+**7.2.** Calcula múltiplos y submúltiplos del euro.
 
-8.1. Resuelve problemas de medida, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
+**8.1.** Resuelve problemas de medida, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
 
-8.2. Reflexiona sobre el proceso seguido en la resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, buscando otras formas de resolverlo.
+**8.2.** Reflexiona sobre el proceso seguido en la resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, buscando otras formas de resolverlo.
 
 Bloque 4. Geometría
 
@@ -2320,49 +2320,49 @@ Regularidades y simetrías: Reconocimiento de regularidades.
 
 7. Identificar, resolver problemas de la vida cotidiana, adecuados a su nivel, estableciendo conexiones entre la realidad y las matemáticas y valorando la utilidad de los conocimientos matemáticos adecuados y reflexionando sobre el proceso aplicado para la resolución de problemas.
 
-1.1. Identifica y representa posiciones relativas de rectas y circunferencias.
+**1.1.** Identifica y representa posiciones relativas de rectas y circunferencias.
 
-1.2. Identifica y representa ángulos en diferentes posiciones: consecutivos, adyacentes, opuestos por el vértice…
+**1.2.** Identifica y representa ángulos en diferentes posiciones: consecutivos, adyacentes, opuestos por el vértice…
 
-1.3. Describe posiciones y movimientos por medio de coordenadas, distancias, ángulos, giros.
+**1.3.** Describe posiciones y movimientos por medio de coordenadas, distancias, ángulos, giros.
 
-1.4. Realiza escalas y gráficas sencillas, para hacer representaciones elementales en el espacio.
+**1.4.** Realiza escalas y gráficas sencillas, para hacer representaciones elementales en el espacio.
 
-1.5. Identifica en situaciones muy sencillas la simetría de tipo axial y especular.
+**1.5.** Identifica en situaciones muy sencillas la simetría de tipo axial y especular.
 
-1.6. Traza una figura plana simétrica de otra respecto de un eje.
+**1.6.** Traza una figura plana simétrica de otra respecto de un eje.
 
-1.7. Realiza ampliaciones y reducciones.
+**1.7.** Realiza ampliaciones y reducciones.
 
-2.1. Clasifica triángulos atendiendo a sus lados y sus ángulos, identificando las relaciones entre sus lados y entre ángulos.
+**2.1.** Clasifica triángulos atendiendo a sus lados y sus ángulos, identificando las relaciones entre sus lados y entre ángulos.
 
-2.2. Utiliza instrumentos de dibujo y herramientas tecnológicas para la construcción y exploración de formas geométricas.
+**2.2.** Utiliza instrumentos de dibujo y herramientas tecnológicas para la construcción y exploración de formas geométricas.
 
-3.1. Calcula el área y el perímetro de: rectángulo, cuadrado, triángulo.
+**3.1.** Calcula el área y el perímetro de: rectángulo, cuadrado, triángulo.
 
-3.2. Aplica los conceptos de perímetro y superficie de figuras para la realización de cálculos sobre planos y espacios reales y para interpretar situaciones de la vida diaria.
+**3.2.** Aplica los conceptos de perímetro y superficie de figuras para la realización de cálculos sobre planos y espacios reales y para interpretar situaciones de la vida diaria.
 
-4.1. Clasifica cuadriláteros atendiendo al paralelismo de sus lados.
+**4.1.** Clasifica cuadriláteros atendiendo al paralelismo de sus lados.
 
-4.2. Identifica y diferencia los elementos básicos de circunferencia y circulo: centro, radio, diámetro, cuerda, arco, tangente y sector circular.
+**4.2.** Identifica y diferencia los elementos básicos de circunferencia y circulo: centro, radio, diámetro, cuerda, arco, tangente y sector circular.
 
-4.3. Calcula, perímetro y área de la circunferencia y el círculo.
+**4.3.** Calcula, perímetro y área de la circunferencia y el círculo.
 
-4.4. Utiliza la composición y descomposición para formar figuras planas y cuerpos geométricos a partir de otras.
+**4.4.** Utiliza la composición y descomposición para formar figuras planas y cuerpos geométricos a partir de otras.
 
-5.1. Identifica y nombra polígonos atendiendo al número de lados.
+**5.1.** Identifica y nombra polígonos atendiendo al número de lados.
 
-5.2. Reconoce e identifica, poliedros, prismas, pirámides y sus elementos básicos: vértices, caras y aristas.
+**5.2.** Reconoce e identifica, poliedros, prismas, pirámides y sus elementos básicos: vértices, caras y aristas.
 
-5.3. Reconoce e identifica cuerpos redondos: cono, cilindro y esfera y sus elementos básicos.
+**5.3.** Reconoce e identifica cuerpos redondos: cono, cilindro y esfera y sus elementos básicos.
 
-6.1. Comprende y describe situaciones de la vida cotidiana, e interpreta y elabora representaciones espaciales (planos, croquis de itinerarios, maquetas…), utilizando las nociones geométricas básicas (situación, movimiento, paralelismo, perpendicularidad, escala, simetría, perímetro, superficie).
+**6.1.** Comprende y describe situaciones de la vida cotidiana, e interpreta y elabora representaciones espaciales (planos, croquis de itinerarios, maquetas…), utilizando las nociones geométricas básicas (situación, movimiento, paralelismo, perpendicularidad, escala, simetría, perímetro, superficie).
 
-6.2. Interpreta y describe situaciones, mensajes y hechos de la vida diaria utilizando el vocabulario geométrico adecuado: indica una dirección, explica un recorrido, se orienta en el espacio.
+**6.2.** Interpreta y describe situaciones, mensajes y hechos de la vida diaria utilizando el vocabulario geométrico adecuado: indica una dirección, explica un recorrido, se orienta en el espacio.
 
-7.1. Resuelve problemas geométricos que impliquen dominio de los contenidos trabajados, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
+**7.1.** Resuelve problemas geométricos que impliquen dominio de los contenidos trabajados, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
 
-7.2. Reflexiona sobre el proceso de resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, proponiendo otras formas de resolverlo.
+**7.2.** Reflexiona sobre el proceso de resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, proponiendo otras formas de resolverlo.
 
 Bloque 5. Estadística y probabilidad
 
@@ -2392,23 +2392,23 @@ Iniciación intuitiva al cálculo de la probabilidad de un suceso.
 
 5. Identificar, resolver problemas de la vida cotidiana, adecuados a su nivel, estableciendo conexiones entre la realidad y las matemáticas y valorando la utilidad de los conocimientos matemáticos adecuados y reflexionando sobre el proceso aplicado para la resolución de problemas.
 
-1.1. Identifica datos cualitativos y cuantitativos en situaciones familiares.
+**1.1.** Identifica datos cualitativos y cuantitativos en situaciones familiares.
 
-2.1. Recoge y clasifica datos cualitativos y cuantitativos, de situaciones de su entorno, utilizándolos para construir tablas de frecuencias absolutas y relativas.
+**2.1.** Recoge y clasifica datos cualitativos y cuantitativos, de situaciones de su entorno, utilizándolos para construir tablas de frecuencias absolutas y relativas.
 
-2.2. Aplica de forma intuitiva a situaciones familiares, las medidas de centralización: la media aritmética, la moda y el rango.
+**2.2.** Aplica de forma intuitiva a situaciones familiares, las medidas de centralización: la media aritmética, la moda y el rango.
 
-2.3. Realiza e interpreta gráficos muy sencillos: diagramas de barras, poligonales y sectoriales, con datos obtenidos de situaciones muy cercanas.
+**2.3.** Realiza e interpreta gráficos muy sencillos: diagramas de barras, poligonales y sectoriales, con datos obtenidos de situaciones muy cercanas.
 
-3.1. Realiza análisis crítico argumentado sobre las informaciones que se presentan mediante gráficos estadísticos.
+**3.1.** Realiza análisis crítico argumentado sobre las informaciones que se presentan mediante gráficos estadísticos.
 
-4.1. Identifica situaciones de carácter aleatorio.
+**4.1.** Identifica situaciones de carácter aleatorio.
 
-4.2. Realiza conjeturas y estimaciones sobre algunos juegos (monedas, dados, cartas, lotería…).
+**4.2.** Realiza conjeturas y estimaciones sobre algunos juegos (monedas, dados, cartas, lotería…).
 
-5.1. Resuelve problemas que impliquen dominio de los contenidos propios de estadística y probabilidad, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
+**5.1.** Resuelve problemas que impliquen dominio de los contenidos propios de estadística y probabilidad, utilizando estrategias heurísticas, de razonamiento (clasificación, reconocimiento de las relaciones, uso de contraejemplos), creando conjeturas, construyendo, argumentando, y tomando decisiones, valorando las consecuencias de las mismas y la conveniencia de su utilización.
 
-5.2. Reflexiona sobre el proceso de resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, proponiendo otras formas de resolverlo.
+**5.2.** Reflexiona sobre el proceso de resolución de problemas: revisando las operaciones utilizadas, las unidades de los resultados, comprobando e interpretando las soluciones en el contexto, proponiendo otras formas de resolverlo.
 
 e) Primera Lengua Extranjera.
 
@@ -2882,29 +2882,29 @@ Bloque 1. Educación audiovisual
 
 3. Utilizar las tecnologías de la información y la comunicación de manera responsable para la búsqueda, creación y difusión de imágenes fijas y en movimiento.
 
-1.1. Reconoce las imágenes fijas y en movimiento en su entorno y la clasifica.
+**1.1.** Reconoce las imágenes fijas y en movimiento en su entorno y la clasifica.
 
-2.1. Analiza de manera sencilla y utilizando la terminología adecuada imágenes fijas atendiendo al tamaño, formato, elementos básicos (puntos, rectas, planos, colores, iluminación, función…).
+**2.1.** Analiza de manera sencilla y utilizando la terminología adecuada imágenes fijas atendiendo al tamaño, formato, elementos básicos (puntos, rectas, planos, colores, iluminación, función…).
 
-2.2. Conoce la evolución de la fotografía del blanco y negro al color, de la fotografía en papel a la digital, y valora las posibilidades que ha proporcionado la tecnología.
+**2.2.** Conoce la evolución de la fotografía del blanco y negro al color, de la fotografía en papel a la digital, y valora las posibilidades que ha proporcionado la tecnología.
 
-2.3. Reconoce los diferentes temas de la fotografía.
+**2.3.** Reconoce los diferentes temas de la fotografía.
 
-2.4. Realiza fotografías, utilizando medios tecnológicos, analizando posteriormente si el encuadre es el más adecuado al propósito inicial.
+**2.4.** Realiza fotografías, utilizando medios tecnológicos, analizando posteriormente si el encuadre es el más adecuado al propósito inicial.
 
-2.5. Elabora carteles con diversas informaciones considerando los conceptos de tamaño, equilibrio, proporción y color, y añadiendo textos en los utilizando la tipografía más adecuada a su función.
+**2.5.** Elabora carteles con diversas informaciones considerando los conceptos de tamaño, equilibrio, proporción y color, y añadiendo textos en los utilizando la tipografía más adecuada a su función.
 
-2.6. Secuencia una historia en diferentes viñetas en las que incorpora imágenes y textos siguiendo el patrón de un cómic.
+**2.6.** Secuencia una historia en diferentes viñetas en las que incorpora imágenes y textos siguiendo el patrón de un cómic.
 
-2.7. Reconoce el cine de animación como un género del cine y comenta el proceso empleado para la creación, montaje y difusión de una película de animación, realizado tanto con la técnica tradicional como la técnica actual.
+**2.7.** Reconoce el cine de animación como un género del cine y comenta el proceso empleado para la creación, montaje y difusión de una película de animación, realizado tanto con la técnica tradicional como la técnica actual.
 
-2.8. Realiza sencillas obras de animación para familiarizarse con los conceptos elementales de la creación audiovisual: guión, realización, montaje, sonido.
+**2.8.** Realiza sencillas obras de animación para familiarizarse con los conceptos elementales de la creación audiovisual: guión, realización, montaje, sonido.
 
-3.1. Maneja programas informáticos sencillos de elaboración y retoque de imágenes digitales (copiar, cortar, pegar, modificar tamaño, color, brillo, contraste…) que le sirvan para la ilustración de trabajos con textos.
+**3.1.** Maneja programas informáticos sencillos de elaboración y retoque de imágenes digitales (copiar, cortar, pegar, modificar tamaño, color, brillo, contraste…) que le sirvan para la ilustración de trabajos con textos.
 
-3.2. Conoce las consecuencias de la difusión de imágenes sin el consentimiento de las personas afectadas y respeta las decisiones de las mismas.
+**3.2.** Conoce las consecuencias de la difusión de imágenes sin el consentimiento de las personas afectadas y respeta las decisiones de las mismas.
 
-3.3. No consiente la difusión de su propia imagen cuando no considera adecuados los fines de dicha difusión.
+**3.3.** No consiente la difusión de su propia imagen cuando no considera adecuados los fines de dicha difusión.
 
 Bloque 2. Expresión artística
 
@@ -2920,35 +2920,35 @@ Bloque 2. Expresión artística
 
 6. Conocer las manifestaciones artísticas más significativas que forman parte del patrimonio artístico y cultural, adquiriendo actitudes de respeto y valoración de dicho patrimonio.
 
-1.1. Utiliza el punto, la línea y el plano al representar el entorno próximo y el imaginario.
+**1.1.** Utiliza el punto, la línea y el plano al representar el entorno próximo y el imaginario.
 
-2.1. Distingue y explica las características del color, en cuanto a su luminosidad, tono y saturación, aplicándolas con un propósito concreto en sus producciones.
+**2.1.** Distingue y explica las características del color, en cuanto a su luminosidad, tono y saturación, aplicándolas con un propósito concreto en sus producciones.
 
-2.1. Clasifica y ordena los colores primarios (magenta, cyan y amarillo) y secundarios (verde, violeta y rojo) en el círculo cromático y los utiliza con sentido en sus obras.
+**2.1.** Clasifica y ordena los colores primarios (magenta, cyan y amarillo) y secundarios (verde, violeta y rojo) en el círculo cromático y los utiliza con sentido en sus obras.
 
-2.2. Conoce la simbología de los colores fríos y cálidos y aplica dichos conocimientos para transmitir diferentes sensaciones en las composiciones plásticas que realiza.
+**2.2.** Conoce la simbología de los colores fríos y cálidos y aplica dichos conocimientos para transmitir diferentes sensaciones en las composiciones plásticas que realiza.
 
-2.3. Analiza y compara las texturas naturales y artificiales, así como las texturas visuales y táctiles siendo capaz de realizar trabajos artísticos utilizando estos conocimientos.
+**2.3.** Analiza y compara las texturas naturales y artificiales, así como las texturas visuales y táctiles siendo capaz de realizar trabajos artísticos utilizando estos conocimientos.
 
-2.4. Organiza el espacio de sus producciones bidimensionales utilizando conceptos básicos de composición, equilibrio y proporción.
+**2.4.** Organiza el espacio de sus producciones bidimensionales utilizando conceptos básicos de composición, equilibrio y proporción.
 
-2.5. Distingue el tema o género de obras plásticas.
+**2.5.** Distingue el tema o género de obras plásticas.
 
-3.1. Utiliza las técnicas dibujísticas y/o pictóricas más adecuadas para sus creaciones manejando los materiales e instrumentos de manera adecuada, cuidando el material y el espacio de uso.
+**3.1.** Utiliza las técnicas dibujísticas y/o pictóricas más adecuadas para sus creaciones manejando los materiales e instrumentos de manera adecuada, cuidando el material y el espacio de uso.
 
-3.2. Lleva a cabo proyectos en grupo respetando las ideas de los demás y colaborando con las tareas que le hayan sido encomendadas.
+**3.2.** Lleva a cabo proyectos en grupo respetando las ideas de los demás y colaborando con las tareas que le hayan sido encomendadas.
 
-3.3. Explica con la terminología aprendida el propósito de sus trabajos y las características de los mismos.
+**3.3.** Explica con la terminología aprendida el propósito de sus trabajos y las características de los mismos.
 
-4.1. Organiza y planea su propio proceso creativo partiendo de la idea, recogiendo información bibliográfica, de los medios de comunicación o de Internet, desarrollándola en bocetos y eligiendo los que mejor se adecúan a sus propósitos en la obra final, sin utilizar elementos estereotipados, siendo capaz de compartir con otros alumnos el proceso y el producto final obtenido.
+**4.1.** Organiza y planea su propio proceso creativo partiendo de la idea, recogiendo información bibliográfica, de los medios de comunicación o de Internet, desarrollándola en bocetos y eligiendo los que mejor se adecúan a sus propósitos en la obra final, sin utilizar elementos estereotipados, siendo capaz de compartir con otros alumnos el proceso y el producto final obtenido.
 
-5.1. Confecciona obras tridimensionales con diferentes materiales planificando el proceso y eligiendo la solución más adecuada a sus propósitos en su producción final.
+**5.1.** Confecciona obras tridimensionales con diferentes materiales planificando el proceso y eligiendo la solución más adecuada a sus propósitos en su producción final.
 
-6.1. Reconoce, respeta y valora las manifestaciones artísticas más importantes del patrimonio cultural y artístico español, especialmente aquellas que han sido declaradas patrimonio de la humanidad.
+**6.1.** Reconoce, respeta y valora las manifestaciones artísticas más importantes del patrimonio cultural y artístico español, especialmente aquellas que han sido declaradas patrimonio de la humanidad.
 
-6.2. Aprecia y disfruta las posibilidades que ofrecen los museos de conocer las obras de arte que en ellos se exponen.
+**6.2.** Aprecia y disfruta las posibilidades que ofrecen los museos de conocer las obras de arte que en ellos se exponen.
 
-6.3. Conoce alguna de las profesiones de los ámbitos artísticos, interesándose por las características del trabajo de los artistas y artesanos y disfrutando como público en la observación de sus producciones.
+**6.3.** Conoce alguna de las profesiones de los ámbitos artísticos, interesándose por las características del trabajo de los artistas y artesanos y disfrutando como público en la observación de sus producciones.
 
 Bloque 3. Dibujo geométrico
 
@@ -2956,35 +2956,35 @@ Bloque 3. Dibujo geométrico
 
 2. Iniciarse en el conocimiento y manejo de los instrumentos y materiales propios del dibujo técnico manejándolos adecuadamente.
 
-1.1. Identifica los conceptos de horizontalidad y verticalidad utilizándolo en sus composiciones con fines expresivos.
+**1.1.** Identifica los conceptos de horizontalidad y verticalidad utilizándolo en sus composiciones con fines expresivos.
 
-1.2. Traza, utilizando la escuadra y el cartabón, rectas paralelas y perpendiculares.
+**1.2.** Traza, utilizando la escuadra y el cartabón, rectas paralelas y perpendiculares.
 
-1.3. Utiliza la regla considerando el milímetro como unidad de medida habitual aplicada al dibujo técnico.
+**1.3.** Utiliza la regla considerando el milímetro como unidad de medida habitual aplicada al dibujo técnico.
 
-1.4. Suma y resta de segmentos utilizando la regla y el compás.
+**1.4.** Suma y resta de segmentos utilizando la regla y el compás.
 
-1.5. Calcula gráficamente la mediatriz de un segmento utilizando la regla y el compás.
+**1.5.** Calcula gráficamente la mediatriz de un segmento utilizando la regla y el compás.
 
-1.6. Traza círculos conociendo el radio con el compás.
+**1.6.** Traza círculos conociendo el radio con el compás.
 
-1.7. Divide la circunferencia en dos, tres, cuatro y seis parte iguales utilizando los materiales propios del dibujo técnico.
+**1.7.** Divide la circunferencia en dos, tres, cuatro y seis parte iguales utilizando los materiales propios del dibujo técnico.
 
-1.8. Aplica la división de la circunferencia a la construcción de estrellas y elementos florales a los que posteriormente aplica el color.
+**1.8.** Aplica la división de la circunferencia a la construcción de estrellas y elementos florales a los que posteriormente aplica el color.
 
-1.9. Continúa series con motivos geométricos (rectas y curvas) utilizando una cuadrícula facilitada con los instrumentos propios del dibujo técnico.
+**1.9.** Continúa series con motivos geométricos (rectas y curvas) utilizando una cuadrícula facilitada con los instrumentos propios del dibujo técnico.
 
-1.10. Suma y resta ángulos de 90, 60, 45 y 30 grados utilizando la escuadra y el cartabón.
+**1.10.** Suma y resta ángulos de 90, 60, 45 y 30 grados utilizando la escuadra y el cartabón.
 
-1.11. Analiza la realidad descomponiéndola en formas geométricas básicas y trasladando la misma a composiciones bidimensionales.
+**1.11.** Analiza la realidad descomponiéndola en formas geométricas básicas y trasladando la misma a composiciones bidimensionales.
 
-1.12. Identifica en una obra bidimensional formas geométricas simples.
+**1.12.** Identifica en una obra bidimensional formas geométricas simples.
 
-1.13. Realiza composiciones utilizando forma geométricas básicas sugeridas por el profesor.
+**1.13.** Realiza composiciones utilizando forma geométricas básicas sugeridas por el profesor.
 
-1.14. Conoce y comprende el término de escala y es capaz de aplicarlo cambiando la escala de un dibujo sencillo mediante el uso de una cuadrícula.
+**1.14.** Conoce y comprende el término de escala y es capaz de aplicarlo cambiando la escala de un dibujo sencillo mediante el uso de una cuadrícula.
 
-2.1. Conoce y aprecia el resultado de la utilización correcta de los instrumentos de dibujo valorando la precisión en los resultados.
+**2.1.** Conoce y aprecia el resultado de la utilización correcta de los instrumentos de dibujo valorando la precisión en los resultados.
 
 **B) Educación Musical**
 
@@ -3000,15 +3000,15 @@ Bloque 1. Escucha
 
 3. Conocer ejemplos de obras variadas de nuestra cultura y otras para valorar el patrimonio musical conociendo la importancia de su mantenimiento y difusión aprendiendo el respeto con el que deben afrontar las audiciones y representaciones.
 
-1.1. Identifica, clasifica y describe utilizando un vocabulario preciso las cualidades de los sonidos del entorno natural y social.
+**1.1.** Identifica, clasifica y describe utilizando un vocabulario preciso las cualidades de los sonidos del entorno natural y social.
 
-2.1. Distingue tipos de voces, instrumentos, variaciones y contrastes de velocidad e intensidad tras la escucha de obras musicales, siendo capaz de emitir una valoración de las mismas.
+**2.1.** Distingue tipos de voces, instrumentos, variaciones y contrastes de velocidad e intensidad tras la escucha de obras musicales, siendo capaz de emitir una valoración de las mismas.
 
-2.2. Se interesa por descubrir obras musicales de diferentes características, y las utiliza como marco de referencia para las creaciones propias.
+**2.2.** Se interesa por descubrir obras musicales de diferentes características, y las utiliza como marco de referencia para las creaciones propias.
 
-3.1. Conoce, entiende y observa las normas de comportamiento en audiciones y representaciones musicales.
+**3.1.** Conoce, entiende y observa las normas de comportamiento en audiciones y representaciones musicales.
 
-3.2. Comprende, acepta y respeta el contenido de las normas que regulan la propiedad intelectual en cuanto a la reproducción y copia de obras musicales.
+**3.2.** Comprende, acepta y respeta el contenido de las normas que regulan la propiedad intelectual en cuanto a la reproducción y copia de obras musicales.
 
 Bloque 2. La interpretación musical
 
@@ -3018,35 +3018,35 @@ Bloque 2. La interpretación musical
 
 3. Explorar y utilizar las posibilidades sonoras y expresivas de diferentes materiales, instrumentos y dispositivos electrónicos.
 
-1.1. Reconoce y describe las cualidades de la voz a través de audiciones diversas y recrearlas.
+**1.1.** Reconoce y describe las cualidades de la voz a través de audiciones diversas y recrearlas.
 
-2.1. Reconoce y clasifica instrumentos acústicos y electrónicos, de diferentes registros de la voz y de las agrupaciones vocales e instrumentales.
+**2.1.** Reconoce y clasifica instrumentos acústicos y electrónicos, de diferentes registros de la voz y de las agrupaciones vocales e instrumentales.
 
-2.2. Utiliza el lenguaje musical para la interpretación de obras.
+**2.2.** Utiliza el lenguaje musical para la interpretación de obras.
 
-2.3. Traduce al lenguaje musical convencional melodías y ritmos sencillos.
+**2.3.** Traduce al lenguaje musical convencional melodías y ritmos sencillos.
 
-2.4. Interpreta piezas vocales e instrumentales de diferentes épocas, estilos y culturas para distintos agrupamientos con y sin acompañamiento.
+**2.4.** Interpreta piezas vocales e instrumentales de diferentes épocas, estilos y culturas para distintos agrupamientos con y sin acompañamiento.
 
-2.5. Conoce e interpreta canciones de distintos lugares, épocas y estilos, valorando su aportación al enriquecimiento personal, social y cultural.
+**2.5.** Conoce e interpreta canciones de distintos lugares, épocas y estilos, valorando su aportación al enriquecimiento personal, social y cultural.
 
-3.1. Busca información bibliográfica, en medios de comunicación o en Internet información sobre instrumentos, compositores, intérpretes y eventos musicales.
+**3.1.** Busca información bibliográfica, en medios de comunicación o en Internet información sobre instrumentos, compositores, intérpretes y eventos musicales.
 
-3.2. Utiliza los medios audiovisuales y recursos informáticos para crear piezas musicales y para la sonorización de imágenes y representaciones dramáticas.
+**3.2.** Utiliza los medios audiovisuales y recursos informáticos para crear piezas musicales y para la sonorización de imágenes y representaciones dramáticas.
 
 Bloque 3. La música, el movimiento y la danza
 
 1. Adquirir capacidades expresivas y creativas que ofrecen la expresión corporal y la danza valorando su aportación al patrimonio y disfrutando de su interpretación como una forma de interacción social.
 
-1.1. Identifica el cuerpo como instrumento para la expresión de sentimientos y emociones y como forma de interacción social.
+**1.1.** Identifica el cuerpo como instrumento para la expresión de sentimientos y emociones y como forma de interacción social.
 
-1.2. Controla la postura y la coordinación con la música cuando interpreta danzas.
+**1.2.** Controla la postura y la coordinación con la música cuando interpreta danzas.
 
-1.3. Conoce danzas de distintas épocas y lugares valorando su aportación al patrimonio artístico y cultural.
+**1.3.** Conoce danzas de distintas épocas y lugares valorando su aportación al patrimonio artístico y cultural.
 
-1.4. Reproduce y disfruta interpretando danzas tradicionales españolas entendiendo la importancia de su continuidad y el traslado a las generaciones futuras.
+**1.4.** Reproduce y disfruta interpretando danzas tradicionales españolas entendiendo la importancia de su continuidad y el traslado a las generaciones futuras.
 
-1.5. Inventa coreografías que corresponden con la forma interna de una obra musical y conlleva un orden espacial y temporal.
+**1.5.** Inventa coreografías que corresponden con la forma interna de una obra musical y conlleva un orden espacial y temporal.
 
 b) Educación Física.
 
@@ -3114,93 +3114,93 @@ Estándares de aprendizaje
 
 13. Demostrar un comportamiento personal y social responsable, respetándose a sí mismo y a los otros en las actividades físicas y en los juegos, aceptando las normas y reglas establecidas y actuando con interés e iniciativa individual y trabajo en equipo.
 
-1.1. Adapta los desplazamientos a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas ajustando su realización a los parámetros espacio-temporales y manteniendo el equilibrio postural.
+**1.1.** Adapta los desplazamientos a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas ajustando su realización a los parámetros espacio-temporales y manteniendo el equilibrio postural.
 
-1.2. Adapta la habilidad motriz básica de salto a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas, ajustando su realización a los parámetros espacio-temporales y manteniendo el equilibrio postural.
+**1.2.** Adapta la habilidad motriz básica de salto a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas, ajustando su realización a los parámetros espacio-temporales y manteniendo el equilibrio postural.
 
-1.3. Adapta las habilidades motrices básicas de manipulación de objetos (lanzamiento, recepción, golpeo, etc.) a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas aplicando correctamente los gestos y utilizando los segmentos dominantes y no dominantes.
+**1.3.** Adapta las habilidades motrices básicas de manipulación de objetos (lanzamiento, recepción, golpeo, etc.) a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas aplicando correctamente los gestos y utilizando los segmentos dominantes y no dominantes.
 
-1.3. Aplica las habilidades motrices de giro a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas teniendo en cuenta los tres ejes corporales y los dos sentidos, y ajustando su realización a los parámetros espacio temporales y manteniendo el equilibrio postural.
+**1.3.** Aplica las habilidades motrices de giro a diferentes tipos de entornos y de actividades físico deportivas y artístico expresivas teniendo en cuenta los tres ejes corporales y los dos sentidos, y ajustando su realización a los parámetros espacio temporales y manteniendo el equilibrio postural.
 
-1.4. Mantiene el equilibrio en diferentes posiciones y superficies.
+**1.4.** Mantiene el equilibrio en diferentes posiciones y superficies.
 
-1.5. Realiza actividades físicas y juegos en el medo natural o en entornos no habituales, adaptando las habilidades motrices a la diversidad e incertidumbre procedente del entorno y a sus posibilidades.
+**1.5.** Realiza actividades físicas y juegos en el medo natural o en entornos no habituales, adaptando las habilidades motrices a la diversidad e incertidumbre procedente del entorno y a sus posibilidades.
 
-2.1. Representa personajes, situaciones, ideas, sentimientos utilizando los recursos expresivos del cuerpo individualmente, en parejas o en grupos.
+**2.1.** Representa personajes, situaciones, ideas, sentimientos utilizando los recursos expresivos del cuerpo individualmente, en parejas o en grupos.
 
-2.2. Representa o expresa movimientos a partir de estímulos rítmicos o musicales, individualmente, en parejas o grupos.
+**2.2.** Representa o expresa movimientos a partir de estímulos rítmicos o musicales, individualmente, en parejas o grupos.
 
-2.3. Conoce y lleva a cabo bailes y danzas sencillas representativas de distintas culturas y distintas épocas, siguiendo una coreografía establecida.
+**2.3.** Conoce y lleva a cabo bailes y danzas sencillas representativas de distintas culturas y distintas épocas, siguiendo una coreografía establecida.
 
-2.4. Construye composiciones grupales en interacción con los compañeros y compañeras utilizando los recursos expresivos del cuerpo y partiendo de estímulos musicales, plásticos o verbales.
+**2.4.** Construye composiciones grupales en interacción con los compañeros y compañeras utilizando los recursos expresivos del cuerpo y partiendo de estímulos musicales, plásticos o verbales.
 
-3.1. Utiliza los recursos adecuados para resolver situaciones básicas de táctica individual y colectiva en diferentes situaciones motrices.
+**3.1.** Utiliza los recursos adecuados para resolver situaciones básicas de táctica individual y colectiva en diferentes situaciones motrices.
 
-3.2. Realiza combinaciones de habilidades motrices básicas ajustándose a un objetivo y a unos parámetros espacio-temporales.
+**3.2.** Realiza combinaciones de habilidades motrices básicas ajustándose a un objetivo y a unos parámetros espacio-temporales.
 
-4.1. Identifica la capacidad física básica implicada de forma más significativa en los ejercicios.
+**4.1.** Identifica la capacidad física básica implicada de forma más significativa en los ejercicios.
 
-4.2. Reconoce la importancia del desarrollo de las capacidades físicas para la mejora de las habilidades motrices.
+**4.2.** Reconoce la importancia del desarrollo de las capacidades físicas para la mejora de las habilidades motrices.
 
-4.3. Distingue en juegos y deportes individuales y colectivos estrategias de cooperación y de oposición.
+**4.3.** Distingue en juegos y deportes individuales y colectivos estrategias de cooperación y de oposición.
 
-4.4. Comprende la explicación y describe los ejercicios realizados, usando los términos y conocimientos que sobre el aparato locomotor se desarrollan en el área de ciencias de la naturaleza.
+**4.4.** Comprende la explicación y describe los ejercicios realizados, usando los términos y conocimientos que sobre el aparato locomotor se desarrollan en el área de ciencias de la naturaleza.
 
-5.1. Tiene interés por mejorar las capacidades físicas.
+**5.1.** Tiene interés por mejorar las capacidades físicas.
 
-5.2. Relaciona los principales hábitos de alimentación con la actividad física (horarios de comidas, calidad/cantidad de los alimentos ingeridos, etc...).
+**5.2.** Relaciona los principales hábitos de alimentación con la actividad física (horarios de comidas, calidad/cantidad de los alimentos ingeridos, etc...).
 
-5.3. Identifica los efectos beneficiosos del ejercicio físico para la salud.
+**5.3.** Identifica los efectos beneficiosos del ejercicio físico para la salud.
 
-5.4. Describe los efectos negativos del sedentarismo, de una dieta desequilibrada y del consumo de alcohol, tabaco y otras sustancias.
+**5.4.** Describe los efectos negativos del sedentarismo, de una dieta desequilibrada y del consumo de alcohol, tabaco y otras sustancias.
 
-5.5. Realiza los calentamientos valorando su función preventiva.
+**5.5.** Realiza los calentamientos valorando su función preventiva.
 
-6.1. Muestra una mejora global con respecto a su nivel de partida de las capacidades físicas orientadas a la salud.
+**6.1.** Muestra una mejora global con respecto a su nivel de partida de las capacidades físicas orientadas a la salud.
 
-6.2. Identifica su frecuencia cardiaca y respiratoria, en distintas intensidades de esfuerzo.
+**6.2.** Identifica su frecuencia cardiaca y respiratoria, en distintas intensidades de esfuerzo.
 
-6.3. Adapta la intensidad de su esfuerzo al tiempo de duración de la actividad.
+**6.3.** Adapta la intensidad de su esfuerzo al tiempo de duración de la actividad.
 
-6.4. Identifica su nivel comparando los resultados obtenidos en pruebas de valoración de las capacidades físicas y coordinativas con los valores correspondientes a su edad.
+**6.4.** Identifica su nivel comparando los resultados obtenidos en pruebas de valoración de las capacidades físicas y coordinativas con los valores correspondientes a su edad.
 
-7.1. Respeta la diversidad de realidades corporales y de niveles de competencia motriz entre los niños y niñas de la clase.
+**7.1.** Respeta la diversidad de realidades corporales y de niveles de competencia motriz entre los niños y niñas de la clase.
 
-7.2. Toma de conciencia de las exigencias y valoración del esfuerzo que comportan los aprendizajes de nuevas habilidades.
+**7.2.** Toma de conciencia de las exigencias y valoración del esfuerzo que comportan los aprendizajes de nuevas habilidades.
 
-8.1. Expone las diferencias, características y/o relaciones entre juegos populares, deportes colectivos, deportes individuales y actividades en la naturaleza.
+**8.1.** Expone las diferencias, características y/o relaciones entre juegos populares, deportes colectivos, deportes individuales y actividades en la naturaleza.
 
-8.2. Reconoce la riqueza cultural, la historia y el origen de los juegos y el deporte.
+**8.2.** Reconoce la riqueza cultural, la historia y el origen de los juegos y el deporte.
 
-9.1. Adopta una actitud crítica ante las modas y la imagen corporal de los modelos publicitarios.
+**9.1.** Adopta una actitud crítica ante las modas y la imagen corporal de los modelos publicitarios.
 
-9.2. Explica a sus compañeros las características de un juego practicado en clase y su desarrollo.
+**9.2.** Explica a sus compañeros las características de un juego practicado en clase y su desarrollo.
 
-9.3. Muestra buena disposición para solucionar los conflictos de manera razonable.
+**9.3.** Muestra buena disposición para solucionar los conflictos de manera razonable.
 
-9.4. Reconoce y califica negativamente las conductas inapropiadas que se producen en la práctica o en los espectáculos deportivos.
+**9.4.** Reconoce y califica negativamente las conductas inapropiadas que se producen en la práctica o en los espectáculos deportivos.
 
-10.1. Se hace responsable de la eliminación de los residuos que se genera en las actividades en el medio natural.
+**10.1.** Se hace responsable de la eliminación de los residuos que se genera en las actividades en el medio natural.
 
-10.2. Utiliza los espacios naturales respetando la flora y la fauna del lugar.
+**10.2.** Utiliza los espacios naturales respetando la flora y la fauna del lugar.
 
-11.1. Explica y reconoce las lesiones y enfermedades deportivas más comunes, así como las acciones preventivas y los primeros auxilios.
+**11.1.** Explica y reconoce las lesiones y enfermedades deportivas más comunes, así como las acciones preventivas y los primeros auxilios.
 
-12.1. Utiliza las nuevas tecnologías para localizar y extraer la información que se le solicita.
+**12.1.** Utiliza las nuevas tecnologías para localizar y extraer la información que se le solicita.
 
-12.2. Presenta sus trabajos atendiendo a las pautas proporcionadas, con orden, estructura y limpieza y utilizando programas de presentación.
+**12.2.** Presenta sus trabajos atendiendo a las pautas proporcionadas, con orden, estructura y limpieza y utilizando programas de presentación.
 
-12.3. Expone sus ideas de forma coherente y se expresa de forma correcta en diferentes situaciones y respeta las opiniones de los demás.
+**12.3.** Expone sus ideas de forma coherente y se expresa de forma correcta en diferentes situaciones y respeta las opiniones de los demás.
 
-13.1. Tiene interés por mejorar la competencia motriz.
+**13.1.** Tiene interés por mejorar la competencia motriz.
 
-13.2. Demuestra autonomía y confianza en diferentes situaciones, resolviendo problemas motores con espontaneidad, creatividad.
+**13.2.** Demuestra autonomía y confianza en diferentes situaciones, resolviendo problemas motores con espontaneidad, creatividad.
 
-13.3. Incorpora en sus rutinas el cuidado e higiene del cuerpo.
+**13.3.** Incorpora en sus rutinas el cuidado e higiene del cuerpo.
 
-13.4. Participa en la recogida y organización de material utilizado en las clases.
+**13.4.** Participa en la recogida y organización de material utilizado en las clases.
 
-13.5. Acepta formar parte del grupo que le corresponda y el resultado de las competiciones con deportividad.
+**13.5.** Acepta formar parte del grupo que le corresponda y el resultado de las competiciones con deportividad.
 
 c) Segunda Lengua Extranjera.
 
@@ -3360,59 +3360,59 @@ Bloque 1. La identidad y la dignidad de la persona
 
 7. Proponerse desafíos y llevarlos a cabo mediante una toma de decisiones personal, meditada y responsable, desarrollando un buen sentido del compromiso respecto a uno mismo y a los demás.
 
-1.1. Explica el valor de la respetabilidad y la dignidad personal.
+**1.1.** Explica el valor de la respetabilidad y la dignidad personal.
 
-1.2. Razona el sentido del compromiso respecto a uno mismo y a los demás.
+**1.2.** Razona el sentido del compromiso respecto a uno mismo y a los demás.
 
-1.3. Actúa de forma respetable y digna.
+**1.3.** Actúa de forma respetable y digna.
 
-2.1. Trabaja en equipo valorando el esfuerzo individual y colectivo para la consecución de objetivos.
+**2.1.** Trabaja en equipo valorando el esfuerzo individual y colectivo para la consecución de objetivos.
 
-2.2. Explica razones para asumir sus responsabilidades durante la colaboración.
+**2.2.** Explica razones para asumir sus responsabilidades durante la colaboración.
 
-2.3. Genera confianza en los demás realizando una autoevaluación responsable de la ejecución de las tareas.
+**2.3.** Genera confianza en los demás realizando una autoevaluación responsable de la ejecución de las tareas.
 
-3.1. Utiliza el pensamiento creativo en el análisis de problemas y el planteamiento de propuestas de actuación.
+**3.1.** Utiliza el pensamiento creativo en el análisis de problemas y el planteamiento de propuestas de actuación.
 
-3.2. Propone alternativas a la resolución de problemas sociales.
+**3.2.** Propone alternativas a la resolución de problemas sociales.
 
-3.3. Sabe hacer frente a la incertidumbre, el miedo o el fracaso.
+**3.3.** Sabe hacer frente a la incertidumbre, el miedo o el fracaso.
 
-4.1. Conoce y asume los rasgos característicos de su personalidad poniéndolos de manifiesto asertivamente.
+**4.1.** Conoce y asume los rasgos característicos de su personalidad poniéndolos de manifiesto asertivamente.
 
-4.2. Expresa la percepción de su propia identidad integrando la representación que hace de sí mismo y la imagen que expresan los demás.
+**4.2.** Expresa la percepción de su propia identidad integrando la representación que hace de sí mismo y la imagen que expresan los demás.
 
-4.3. Manifiesta verbalmente una visión positiva de sus propias cualidades y limitaciones.
+**4.3.** Manifiesta verbalmente una visión positiva de sus propias cualidades y limitaciones.
 
-5.1. Reflexiona, sintetiza y estructura sus pensamientos.
+**5.1.** Reflexiona, sintetiza y estructura sus pensamientos.
 
-5.2. Utiliza estrategias de reestructuración cognitiva.
+**5.2.** Utiliza estrategias de reestructuración cognitiva.
 
-5.3. Describe el valor de la reestructuración cognitiva y la resiliencia.
+**5.3.** Describe el valor de la reestructuración cognitiva y la resiliencia.
 
-5.4. Aplica el autocontrol a la toma de decisiones, la negociación y la resolución de conflictos.
+**5.4.** Aplica el autocontrol a la toma de decisiones, la negociación y la resolución de conflictos.
 
-5.5. Realiza un adecuado reconocimiento e identificación de sus emociones.
+**5.5.** Realiza un adecuado reconocimiento e identificación de sus emociones.
 
-5.6. Expresa sus sentimientos, necesidades y derechos a la vez que respeta los de los demás en las actividades cooperativas.
+**5.6.** Expresa sus sentimientos, necesidades y derechos a la vez que respeta los de los demás en las actividades cooperativas.
 
-6.1. Participa en la solución de los problemas escolares con seguridad y motivación.
+**6.1.** Participa en la solución de los problemas escolares con seguridad y motivación.
 
-6.2. Realiza propuestas creativas y utiliza sus competencias para abordar proyectos sobre valores sociales.
+**6.2.** Realiza propuestas creativas y utiliza sus competencias para abordar proyectos sobre valores sociales.
 
-6.3. Identifica, define problemas sociales y cívicos e implanta soluciones potencialmente efectivas.
+**6.3.** Identifica, define problemas sociales y cívicos e implanta soluciones potencialmente efectivas.
 
-6.4. Define y formula claramente problemas de convivencia.
+**6.4.** Define y formula claramente problemas de convivencia.
 
-6.5. Razona la importancia de la iniciativa privada en la vida económica y social.
+**6.5.** Razona la importancia de la iniciativa privada en la vida económica y social.
 
-7.1. Sopesa las consecuencias de sus acciones.
+**7.1.** Sopesa las consecuencias de sus acciones.
 
-7.2. Desarrolla actitudes de respeto y solidaridad hacia los demás en situaciones formales e informales de interacción social.
+**7.2.** Desarrolla actitudes de respeto y solidaridad hacia los demás en situaciones formales e informales de interacción social.
 
-7.3. Emplea el pensamiento consecuencial para tomar decisiones éticas.
+**7.3.** Emplea el pensamiento consecuencial para tomar decisiones éticas.
 
-7.4. Identifica ventajas e inconvenientes de una posible solución antes de tomar una decisión ética.
+**7.4.** Identifica ventajas e inconvenientes de una posible solución antes de tomar una decisión ética.
 
 Bloque 2. La comprensión y el respeto en las relaciones interpersonales
 
@@ -3434,73 +3434,73 @@ Bloque 2. La comprensión y el respeto en las relaciones interpersonales
 
 9. Contribuir a la mejora del clima del grupo mostrando actitudes cooperativas y estableciendo relaciones respetuosas.
 
-1.1. Expresa con claridad y coherencia opiniones, sentimientos y emociones.
+**1.1.** Expresa con claridad y coherencia opiniones, sentimientos y emociones.
 
-1.2. Emplea apropiadamente los elementos de la comunicación verbal y no verbal, en consonancia con los sentimientos.
+**1.2.** Emplea apropiadamente los elementos de la comunicación verbal y no verbal, en consonancia con los sentimientos.
 
-1.3. Utiliza la comunicación verbal en relación con la no verbal en exposiciones orales y debates.
+**1.3.** Utiliza la comunicación verbal en relación con la no verbal en exposiciones orales y debates.
 
-1.4. Exponer respetuosamente los argumentos.
+**1.4.** Exponer respetuosamente los argumentos.
 
-2.1. Escucha exposiciones orales y entiende la comunicación desde el punto de vista del que habla.
+**2.1.** Escucha exposiciones orales y entiende la comunicación desde el punto de vista del que habla.
 
-2.2. Dialoga interpretando y dando sentido a lo que oye.
+**2.2.** Dialoga interpretando y dando sentido a lo que oye.
 
-2.3. Realiza actividades cooperativas detectando los sentimientos y pensamientos que subyacen en lo que se está diciendo.
+**2.3.** Realiza actividades cooperativas detectando los sentimientos y pensamientos que subyacen en lo que se está diciendo.
 
-2.4. Colabora en proyectos grupales escuchando activamente, demostrando interés por las otras personas y ayudando a que sigan motivadas para expresarse.
+**2.4.** Colabora en proyectos grupales escuchando activamente, demostrando interés por las otras personas y ayudando a que sigan motivadas para expresarse.
 
-3.1. Expresa abiertamente las propias ideas y opiniones.
+**3.1.** Expresa abiertamente las propias ideas y opiniones.
 
-3.2. Realiza una defensa tranquila y respetuosa de las posiciones personales.
+**3.2.** Realiza una defensa tranquila y respetuosa de las posiciones personales.
 
-3.3. Utiliza el lenguaje positivo.
+**3.3.** Utiliza el lenguaje positivo.
 
-3.4. Se autoafirma con respeto.
+**3.4.** Se autoafirma con respeto.
 
-4.1. Se comunica empleando expresiones para mejorar la comunicación y facilitar el acercamiento con su interlocutor en las conversaciones.
+**4.1.** Se comunica empleando expresiones para mejorar la comunicación y facilitar el acercamiento con su interlocutor en las conversaciones.
 
-4.2. Muestra interés por sus interlocutores.
+**4.2.** Muestra interés por sus interlocutores.
 
-4.3. Comparte sentimientos durante el diálogo.
+**4.3.** Comparte sentimientos durante el diálogo.
 
-4.4. Utiliza los elementos que contribuyen al diálogo.
+**4.4.** Utiliza los elementos que contribuyen al diálogo.
 
-4.5. Reconoce los elementos que bloquean la comunicación en diferentes situaciones.
+**4.5.** Reconoce los elementos que bloquean la comunicación en diferentes situaciones.
 
-5.1. Infiere y da el sentido adecuado a la expresión de los demás.
+**5.1.** Infiere y da el sentido adecuado a la expresión de los demás.
 
-5.2. Utiliza correctamente las estrategias de escucha activa: clarificación, parafraseo, resumen, reestructuración, reflejo de sentimientos.
+**5.2.** Utiliza correctamente las estrategias de escucha activa: clarificación, parafraseo, resumen, reestructuración, reflejo de sentimientos.
 
-5.3. Relaciona diferentes ideas y opiniones para encontrar sus aspectos comunes.
+**5.3.** Relaciona diferentes ideas y opiniones para encontrar sus aspectos comunes.
 
-6.1. Interacciona con empatía.
+**6.1.** Interacciona con empatía.
 
-6.2. Utiliza diferentes habilidades sociales.
+**6.2.** Utiliza diferentes habilidades sociales.
 
-6.3. Sabe contribuir a la cohesión de los grupos sociales a los que pertenece.
+**6.3.** Sabe contribuir a la cohesión de los grupos sociales a los que pertenece.
 
-7.1. Identifica diferentes maneras de ser y actuar.
+**7.1.** Identifica diferentes maneras de ser y actuar.
 
-7.2. Respeta y acepta las diferencias individuales.
+**7.2.** Respeta y acepta las diferencias individuales.
 
-7.3. Valora las cualidades de otras personas.
+**7.3.** Valora las cualidades de otras personas.
 
-7.4. Comprende y aprecia positivamente las diferencias culturales.
+**7.4.** Comprende y aprecia positivamente las diferencias culturales.
 
-8.1. Analiza los problemas que originan los prejuicios sociales.
+**8.1.** Analiza los problemas que originan los prejuicios sociales.
 
-8.2. Expone razonadamente las consecuencias de los prejuicios sociales para las personas del entorno social próximo.
+**8.2.** Expone razonadamente las consecuencias de los prejuicios sociales para las personas del entorno social próximo.
 
-8.3. Detecta y enjuicia críticamente prejuicios sociales detectados en su entorno próximo expresando las conclusiones en trabajos creativos.
+**8.3.** Detecta y enjuicia críticamente prejuicios sociales detectados en su entorno próximo expresando las conclusiones en trabajos creativos.
 
-9.1. Forma parte activa en las dinámicas de grupo.
+**9.1.** Forma parte activa en las dinámicas de grupo.
 
-9.2. Consigue la aceptación de los compañeros.
+**9.2.** Consigue la aceptación de los compañeros.
 
-9.3. Establece y mantiene relaciones emocionales amistosas, basadas en el intercambio de afecto y la confianza mutua.
+**9.3.** Establece y mantiene relaciones emocionales amistosas, basadas en el intercambio de afecto y la confianza mutua.
 
-9.4. Expone mediante historias creativas las características de la amistad.
+**9.4.** Expone mediante historias creativas las características de la amistad.
 
 Bloque 3. La convivencia y los valores sociales
 
@@ -3558,191 +3558,191 @@ Bloque 3. La convivencia y los valores sociales
 
 27. Investigar sobre la prevención de accidentes de tráfico generando iniciativas y alternativas personales.
 
-1.1. Establece relaciones de confianza con los iguales y las personas adultas.
+**1.1.** Establece relaciones de confianza con los iguales y las personas adultas.
 
-1.2. Desarrolla proyectos y resuelve problemas en colaboración.
+**1.2.** Desarrolla proyectos y resuelve problemas en colaboración.
 
-1.3. Pone de manifiesto una actitud abierta hacia los demás compartiendo puntos de vista y sentimientos durante la interacción social en el aula.
+**1.3.** Pone de manifiesto una actitud abierta hacia los demás compartiendo puntos de vista y sentimientos durante la interacción social en el aula.
 
-2.1. Muestra buena disposición a ofrecer y recibir ayuda para el aprendizaje.
+**2.1.** Muestra buena disposición a ofrecer y recibir ayuda para el aprendizaje.
 
-2.2. Recurre a las estrategias de ayuda entre iguales.
+**2.2.** Recurre a las estrategias de ayuda entre iguales.
 
-2.3. Respeta las reglas durante el trabajo en equipo.
+**2.3.** Respeta las reglas durante el trabajo en equipo.
 
-2.4. Utiliza las habilidades del trabajo cooperativo.
+**2.4.** Utiliza las habilidades del trabajo cooperativo.
 
-2.5. Emplea destrezas de interdependencia positiva.
+**2.5.** Emplea destrezas de interdependencia positiva.
 
-2.6. Describe conductas solidarias.
+**2.6.** Describe conductas solidarias.
 
-3.1. Se muestra generoso en su entorno cercano.
+**3.1.** Se muestra generoso en su entorno cercano.
 
-3.2. Es capaz de sensibilizar sobre causas altruistas realizando exposiciones orales sobre su valor y cometidos.
+**3.2.** Es capaz de sensibilizar sobre causas altruistas realizando exposiciones orales sobre su valor y cometidos.
 
-3.3. Colabora en causas altruistas en colaboración con la comunidad educativa.
+**3.3.** Colabora en causas altruistas en colaboración con la comunidad educativa.
 
-4.1. Explica el concepto de norma.
+**4.1.** Explica el concepto de norma.
 
-4.2. Argumenta la necesidad de que existan normas de convivencia en los diferentes espacios de interacción social.
+**4.2.** Argumenta la necesidad de que existan normas de convivencia en los diferentes espacios de interacción social.
 
-4.3. Participa en la elaboración de las normas del colegio.
+**4.3.** Participa en la elaboración de las normas del colegio.
 
-4.4. Infiere la necesidad de las normas de su comunidad educativa.
+**4.4.** Infiere la necesidad de las normas de su comunidad educativa.
 
-4.5. Respeta las normas del centro escolar.
+**4.5.** Respeta las normas del centro escolar.
 
-5.1. Resuelve los conflictos de modo constructivo.
+**5.1.** Resuelve los conflictos de modo constructivo.
 
-5.2. Sigue las fases de la mediación en situaciones reales y simulaciones.
+**5.2.** Sigue las fases de la mediación en situaciones reales y simulaciones.
 
-5.3. Maneja el lenguaje positivo en la comunicación de pensamientos, intenciones y posicionamientos en las relaciones interpersonales.
+**5.3.** Maneja el lenguaje positivo en la comunicación de pensamientos, intenciones y posicionamientos en las relaciones interpersonales.
 
-5.4. Analiza las emociones, sentimientos, posibles pensamientos y puntos de vista de las partes en conflicto.
+**5.4.** Analiza las emociones, sentimientos, posibles pensamientos y puntos de vista de las partes en conflicto.
 
-6.1. Razona el sentido de la responsabilidad social y la justicia social.
+**6.1.** Razona el sentido de la responsabilidad social y la justicia social.
 
-6.2. Identifica y analiza críticamente desigualdades sociales.
+**6.2.** Identifica y analiza críticamente desigualdades sociales.
 
-7.1. Conoce y respeta los derechos y deberes del alumno.
+**7.1.** Conoce y respeta los derechos y deberes del alumno.
 
-7.2. Realiza juicios morales de situaciones escolares.
+**7.2.** Realiza juicios morales de situaciones escolares.
 
-7.3. Justifica sus actuaciones en base a valores personales como la dignidad, la libertad, la autoestima, la seguridad en uno mismo y la capacidad de enfrentarse a los problemas.
+**7.3.** Justifica sus actuaciones en base a valores personales como la dignidad, la libertad, la autoestima, la seguridad en uno mismo y la capacidad de enfrentarse a los problemas.
 
-8.1. Expresa lo que es un dilema moral.
+**8.1.** Expresa lo que es un dilema moral.
 
-8.2. Realiza juicios morales.
+**8.2.** Realiza juicios morales.
 
-8.3. Analiza y resuelve dilemas morales en situaciones reales y simuladas.
+**8.3.** Analiza y resuelve dilemas morales en situaciones reales y simuladas.
 
-8.4. Resuelve dilemas morales en relación a prejuicios relativos a las diferencias culturales.
+**8.4.** Resuelve dilemas morales en relación a prejuicios relativos a las diferencias culturales.
 
-9.1. Argumenta el carácter universal de los derechos humanos.
+**9.1.** Argumenta el carácter universal de los derechos humanos.
 
-9.2. Expone la importancia de que todas las personas disfruten de los derechos básicos: salud, bienestar, alimentación, vestido, vivienda y asistencia médica.
+**9.2.** Expone la importancia de que todas las personas disfruten de los derechos básicos: salud, bienestar, alimentación, vestido, vivienda y asistencia médica.
 
-9.3. Enjuicia críticamente las circunstancias de personas que viven en situación de privación de los derechos básicos.
+**9.3.** Enjuicia críticamente las circunstancias de personas que viven en situación de privación de los derechos básicos.
 
-10.1. Argumenta y expone mediante imágenes la importancia de garantizar la igualdad de derechos y la no discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
+**10.1.** Argumenta y expone mediante imágenes la importancia de garantizar la igualdad de derechos y la no discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
-10.2. Analiza formas de discriminación: racismo, xenofobia, desigualdad de oportunidades.
+**10.2.** Analiza formas de discriminación: racismo, xenofobia, desigualdad de oportunidades.
 
-10.3. Analiza hechos discriminatorios: maltrato, exclusión de minorías étnicas, reclusión en campos de concentración, el holocausto, segregación por enfermedad…
+**10.3.** Analiza hechos discriminatorios: maltrato, exclusión de minorías étnicas, reclusión en campos de concentración, el holocausto, segregación por enfermedad…
 
-10.4. Descubre y enjuicia críticamente casos cercanos de desigualdad y discriminación.
+**10.4.** Descubre y enjuicia críticamente casos cercanos de desigualdad y discriminación.
 
-10.5. Detecta prejuicios y analiza conflictos derivados del uso de estereotipos en el contexto escolar.
+**10.5.** Detecta prejuicios y analiza conflictos derivados del uso de estereotipos en el contexto escolar.
 
-11.1. Valora y respeta la libre expresión.
+**11.1.** Valora y respeta la libre expresión.
 
-11.2. Comprende, interpreta y acepta opiniones diferentes a las propias.
+**11.2.** Comprende, interpreta y acepta opiniones diferentes a las propias.
 
-11.3. Relaciona diferentes culturas y religiones con las formas de pensamiento de personas pertenecientes a ellas.
+**11.3.** Relaciona diferentes culturas y religiones con las formas de pensamiento de personas pertenecientes a ellas.
 
-11.4. Analiza, reflexiona y expresa conclusiones sobre los derechos de libre expresión y opinión, libertad de pensamiento, de conciencia y de religión.
+**11.4.** Analiza, reflexiona y expresa conclusiones sobre los derechos de libre expresión y opinión, libertad de pensamiento, de conciencia y de religión.
 
-12.1. Expone los derechos básicos del niño.
+**12.1.** Expone los derechos básicos del niño.
 
-12.2. Argumenta la necesidad de proteger los derechos básicos del niño.
+**12.2.** Argumenta la necesidad de proteger los derechos básicos del niño.
 
-12.3. Justifica la importancia de que todos los niños reciban ayuda.
+**12.3.** Justifica la importancia de que todos los niños reciban ayuda.
 
-12.4. Razona las consecuencias de la explotación infantil y la trata de niños.
+**12.4.** Razona las consecuencias de la explotación infantil y la trata de niños.
 
-13.1. Expone verbalmente la correlación entre derechos y deberes.
+**13.1.** Expone verbalmente la correlación entre derechos y deberes.
 
-13.2. Razona la valoración de situaciones reales, expuestas en Internet, en relación a los derechos del niño.
+**13.2.** Razona la valoración de situaciones reales, expuestas en Internet, en relación a los derechos del niño.
 
-13.3. Expone mediante trabajos de libre creación las conclusiones de su análisis crítico de las diferencias en la asignación de tareas y responsabilidades en la familia y la comunidad escolar en función del sexo.
+**13.3.** Expone mediante trabajos de libre creación las conclusiones de su análisis crítico de las diferencias en la asignación de tareas y responsabilidades en la familia y la comunidad escolar en función del sexo.
 
 Â
 
-14.1. Enjuicia críticamente actitudes de falta de respeto a la igualdad de oportunidades de hombres y mujeres.
+**14.1.** Enjuicia críticamente actitudes de falta de respeto a la igualdad de oportunidades de hombres y mujeres.
 
-14.2. Colabora con personas de otro sexo en diferentes situaciones escolares.
+**14.2.** Colabora con personas de otro sexo en diferentes situaciones escolares.
 
-14.3. Realiza diferentes tipos de actividades independientemente de su sexo.
+**14.3.** Realiza diferentes tipos de actividades independientemente de su sexo.
 
-15.1. Expone de forma argumentada la importancia de valorar la igualdad de derechos de hombres y mujeres, la corresponsabilidad en las tareas domésticas y el cuidado de la familia.
+**15.1.** Expone de forma argumentada la importancia de valorar la igualdad de derechos de hombres y mujeres, la corresponsabilidad en las tareas domésticas y el cuidado de la familia.
 
-15.2. Realiza trabajos de libre creación investigando casos de falta de corresponsabilidad en el cuidado de la familia presentados en los medios de comunicación.
+**15.2.** Realiza trabajos de libre creación investigando casos de falta de corresponsabilidad en el cuidado de la familia presentados en los medios de comunicación.
 
-15.3. Valora el uso del diálogo para la resolución de posibles conflictos en las relaciones afectivas.
+**15.3.** Valora el uso del diálogo para la resolución de posibles conflictos en las relaciones afectivas.
 
-16.1. Enjuicia críticamente los valores implícitos en diversas situaciones, de acuerdo con los que constituyen la vida en común en una sociedad democrática.
+**16.1.** Enjuicia críticamente los valores implícitos en diversas situaciones, de acuerdo con los que constituyen la vida en común en una sociedad democrática.
 
-16.2. Reflexiona sobre los Derechos y Deberes de la Constitución española.
+**16.2.** Reflexiona sobre los Derechos y Deberes de la Constitución española.
 
-17.1. Explica los derechos y deberes básicos de la Constitución española.
+**17.1.** Explica los derechos y deberes básicos de la Constitución española.
 
-17.2. Realiza sencillos juicios morales fundamentados.
+**17.2.** Realiza sencillos juicios morales fundamentados.
 
-17.3. Participa en el bienestar del entorno próximo basándose en los derechos y deberes básicos de la Constitución española.
+**17.3.** Participa en el bienestar del entorno próximo basándose en los derechos y deberes básicos de la Constitución española.
 
-18.1. Expresa las notas características de la convivencia democrática.
+**18.1.** Expresa las notas características de la convivencia democrática.
 
-18.2. Argumenta la importancia de los valores cívicos en la sociedad democrática.
+**18.2.** Argumenta la importancia de los valores cívicos en la sociedad democrática.
 
-19.1. Comprende, valora y expone por escrito el deber de la aportación ciudadana al bien de la sociedad.
+**19.1.** Comprende, valora y expone por escrito el deber de la aportación ciudadana al bien de la sociedad.
 
-19.2. Explica la función de los impuestos de proporcionar recursos sociales que mejoran la calidad de vida de los ciudadanos.
+**19.2.** Explica la función de los impuestos de proporcionar recursos sociales que mejoran la calidad de vida de los ciudadanos.
 
-19.3. Realiza producciones creativas sobre las consecuencias de no pagar impuestos.
+**19.3.** Realiza producciones creativas sobre las consecuencias de no pagar impuestos.
 
-20.1. Muestra interés por la naturaleza que le rodea y se siente parte integrante de ella.
+**20.1.** Muestra interés por la naturaleza que le rodea y se siente parte integrante de ella.
 
-20.2. Razona los motivos de la conservación de los bienes naturales.
+**20.2.** Razona los motivos de la conservación de los bienes naturales.
 
-20.3. Propone iniciativas para participar en el uso adecuado de bienes naturales razonando los motivos.
+**20.3.** Propone iniciativas para participar en el uso adecuado de bienes naturales razonando los motivos.
 
-21.1. Analiza, explica y expone las causas y consecuencias de la intervención humana en el medio.
+**21.1.** Analiza, explica y expone las causas y consecuencias de la intervención humana en el medio.
 
-21.2. Investiga críticamente la intervención humana en el medio ambiente y comunica los resultados.
+**21.2.** Investiga críticamente la intervención humana en el medio ambiente y comunica los resultados.
 
-21.3. Argumenta comportamientos de defensa y recuperación del equilibrio ecológico y de conservación del medio ambiente.
+**21.3.** Argumenta comportamientos de defensa y recuperación del equilibrio ecológico y de conservación del medio ambiente.
 
-22.1. Toma conciencia de la limitación de los recursos energéticos y explica las consecuencias del agotamiento de las fuentes de energía.
+**22.1.** Toma conciencia de la limitación de los recursos energéticos y explica las consecuencias del agotamiento de las fuentes de energía.
 
-22.2. Investiga los efectos del abuso de determinadas fuentes de energía.
+**22.2.** Investiga los efectos del abuso de determinadas fuentes de energía.
 
-22.3. Realiza trabajos creativos sobre la necesidad del aire no contaminado para la salud y la calidad de vida.
+**22.3.** Realiza trabajos creativos sobre la necesidad del aire no contaminado para la salud y la calidad de vida.
 
-22.4. Expone gráficamente argumentos para rechazar actividades humanas contaminantes.
+**22.4.** Expone gráficamente argumentos para rechazar actividades humanas contaminantes.
 
-23.1. Valora la importancia del cuidado del cuerpo y la salud y de prevenir accidentes domésticos.
+**23.1.** Valora la importancia del cuidado del cuerpo y la salud y de prevenir accidentes domésticos.
 
-23.2. Razona las repercusiones de determinadas conductas de riesgo sobre la salud y la calidad de vida.
+**23.2.** Razona las repercusiones de determinadas conductas de riesgo sobre la salud y la calidad de vida.
 
-23.3. Conoce las prácticas de primeros auxilios.
+**23.3.** Conoce las prácticas de primeros auxilios.
 
-23.4. Expresa las medidas preventivas de los accidentes domésticos más frecuentes.
+**23.4.** Expresa las medidas preventivas de los accidentes domésticos más frecuentes.
 
-24.1. Realiza un uso ético de las nuevas tecnologías.
+**24.1.** Realiza un uso ético de las nuevas tecnologías.
 
-24.2. Conoce el empleo seguro de las nuevas tecnologías.
+**24.2.** Conoce el empleo seguro de las nuevas tecnologías.
 
-24.3. Analiza y enjuicia críticamente los contenidos del entorno digital.
+**24.3.** Analiza y enjuicia críticamente los contenidos del entorno digital.
 
-25.1. Realiza análisis de información digital sobre las razones por las que las personas sienten la necesidad de consumir al ver un anuncio publicitario.
+**25.1.** Realiza análisis de información digital sobre las razones por las que las personas sienten la necesidad de consumir al ver un anuncio publicitario.
 
-25.2. Reflexiona sobre la influencia de la publicidad expresando las conclusiones mediante trabajos creativos.
+**25.2.** Reflexiona sobre la influencia de la publicidad expresando las conclusiones mediante trabajos creativos.
 
-25.3. Realiza exposiciones enjuiciando críticamente hábitos de consumo innecesario.
+**25.3.** Realiza exposiciones enjuiciando críticamente hábitos de consumo innecesario.
 
-26.1. Colabora en campañas escolares sobre la importancia del respeto de las normas de educación vial.
+**26.1.** Colabora en campañas escolares sobre la importancia del respeto de las normas de educación vial.
 
-26.2. Investiga sobre las principales causas de los accidentes de tráfico con la ayuda de las nuevas tecnologías.
+**26.2.** Investiga sobre las principales causas de los accidentes de tráfico con la ayuda de las nuevas tecnologías.
 
-26.3. Expone las consecuencias de diferentes accidentes de tráfico.
+**26.3.** Expone las consecuencias de diferentes accidentes de tráfico.
 
-27.1. Analiza información en prensa en relación con los accidentes de tráfico.
+**27.1.** Analiza información en prensa en relación con los accidentes de tráfico.
 
-27.2. Desarrolla proyectos relacionados con las principales causas de los accidentes de tráfico, sobre los que se informa en diferentes medios de comunicación.
+**27.2.** Desarrolla proyectos relacionados con las principales causas de los accidentes de tráfico, sobre los que se informa en diferentes medios de comunicación.
 
-27.3. Reflexiona sobre el modo en que se podrían haber evitado accidentes de tráfico y expone sus conclusiones.
+**27.3.** Reflexiona sobre el modo en que se podrían haber evitado accidentes de tráfico y expone sus conclusiones.
 
-27.4. Explica las principales medidas que se podrían tomar para prevenir accidentes de tráfico.
+**27.4.** Explica las principales medidas que se podrían tomar para prevenir accidentes de tráfico.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

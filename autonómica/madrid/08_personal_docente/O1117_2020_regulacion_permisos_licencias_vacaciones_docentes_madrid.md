@@ -36,7 +36,7 @@ relaciones:
 
 ## Preámbulo
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 I. COMUNIDAD DE MADRID
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 I. COMUNIDAD DE MADRID
 B) Autoridades y Personal Asamblea de Madrid 1 RESOLUCIÓN de 14 de mayo de 2020, de la Presidencia de la Asamblea de Madrid, por la que se designan los miembros del Tribunal que ha de juzgar las pruebas selectivas para la cobertura de una plaza de personal laboral, con la denominación Auxiliar de Control e Información, reservada para personas con discapacidad intelectual (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 130, del Esta Presidencia, en virtud de lo dispuesto en la base 6.a de la convocatoria para la cobertura de una plaza de personal laboral con la denominación de Auxiliar de Control e Información, reservada para personas con discapacidad intelectual, convocada mediante Resolución de Presidencia de la Asamblea de Madrid de fecha 22 de mayo de 2019, RESUELVE
 Primero Designar los miembros del Tribunal que ha de juzgar las pruebas selectivas para la cobertura de una plaza de personal laboral con la denominación de Auxiliar de Control e Información, reservada para personas con discapacidad intelectual (BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID número 130, del lunes 3 de junio de 2019), convocada mediante Resolución de Presidencia de la Asamblea de Madrid de fecha 22 de mayo de 2019, estableciendo la siguiente composición:
 Presidente: Excmo. Sr. D. Juan Trinidad Martos, Presidente de la Asamblea de Madrid. Suplente: Ilma. Sra. D.a Esther Ruiz Fernández, Secretaria Tercera de la Mesa de la Asamblea de Madrid. Vocales:

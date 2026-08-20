@@ -42,8 +42,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -69,8 +67,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -153,7 +149,7 @@ Consejera de la Presidencia
 
 ## Anexo
 
-CONVENIO DE COLABORACIÓN ENTRE LA JUNTA  DE ANDALUCÍA, LA CONFEDERACIÓN DE EMPRESARIOS  DE ANDALUCÍA Y LAS ENTIDADES FINANCIERAS PARA IMPULSAR LA VENTA DEL PARQUE DE VIVIENDAS LIBRES  EN ANDALUCÍA
+CONVENIO DE COLABORACIÓN ENTRE LA JUNTA DE ANDALUCÍA, LA CONFEDERACIÓN DE EMPRESARIOS DE ANDALUCÍA Y LAS ENTIDADES FINANCIERAS PARA IMPULSAR LA VENTA DEL PARQUE DE VIVIENDAS LIBRES EN ANDALUCÍA
 
 De una parte, por la Junta de Andalucía, la Excma. Sra. doña Carmen Martínez Aguayo, Consejera de Hacienda y Administración Pública, y la Excma. Sra. doña Josefina Cruz Villalón, Consejera de Obras Públicas y Vivienda.
 
@@ -456,21 +452,25 @@ Disposición siguiente
 
 147 de 28/07/2011
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de Justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2011/147/boletin.147.pdf">Descargar boletín nº 147 completo
 
-PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+PUBLIC "-//W3C//DTD HTML
+
+**4.01** Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 Descargar fascículo 1
 
@@ -489,4 +489,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

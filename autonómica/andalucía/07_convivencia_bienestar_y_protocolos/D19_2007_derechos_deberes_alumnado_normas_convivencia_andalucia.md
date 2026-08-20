@@ -45,8 +45,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -72,8 +70,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -106,25 +102,25 @@ En su virtud, en uso de las facultades conferidas por el artículo 46.4 de la le
 
 DISPONGO artículo 1 Objeto. El objeto de la presente Orden es regular la convocatoria de los "II Premios Sociedad de la Información Andaluza" que tendrá las siguientes modalidades:
 
-1.1. Empresa TIC del año. Destinado al reconocimiento de la trayectoria empresarial de la compañía andaluza que más haya destacado en el sector TIC.
+**1.1.** Empresa TIC del año. Destinado al reconocimiento de la trayectoria empresarial de la compañía andaluza que más haya destacado en el sector TIC.
 
-1.2. Mejor Empresa de nueva creación en el sector TIC. Destinado al reconocimiento a la originalidad e innovación de un proyecto empresarial, así como al fomento de la creación de empresas sobre la base de las oportunidades emergentes de Andalucía.
+**1.2.** Mejor Empresa de nueva creación en el sector TIC. Destinado al reconocimiento a la originalidad e innovación de un proyecto empresarial, así como al fomento de la creación de empresas sobre la base de las oportunidades emergentes de Andalucía.
 
-1.3. Cooperación empresarial. Destinado al reconocimiento de la iniciativa de cooperación empresarial que más haya contribuido a favorecer la competitividad a través de las nuevas tecnologías.
+**1.3.** Cooperación empresarial. Destinado al reconocimiento de la iniciativa de cooperación empresarial que más haya contribuido a favorecer la competitividad a través de las nuevas tecnologías.
 
-1.4. Mejor iniciativa a la modernización empresarial. Destinado al reconocimiento de la iniciativa de la empresa que haya emprendido el mejor proyecto de modernización interna a través de la implementación de nuevas tecnologías.
+**1.4.** Mejor iniciativa a la modernización empresarial. Destinado al reconocimiento de la iniciativa de la empresa que haya emprendido el mejor proyecto de modernización interna a través de la implementación de nuevas tecnologías.
 
-1.5. Mejor iniciativa de i-Administración Local. Destinado al reconocimiento de la entidad local que haya emprendido el mejor proyecto de modernización a través de las TIC que haya contribuido a mejorar la calidad de sus servicios y a fomentar la participación ciudadana.
+**1.5.** Mejor iniciativa de i-Administración Local. Destinado al reconocimiento de la entidad local que haya emprendido el mejor proyecto de modernización a través de las TIC que haya contribuido a mejorar la calidad de sus servicios y a fomentar la participación ciudadana.
 
-1.6. I+D+I. (Investigación, Desarrollo e Innovación). Destinado al reconocimiento de la empresa que haya puesto en marcha el mejor proyecto de I+D+I en el ámbito de la Sociedad de la Información y las TIC, en colaboración con investigadores o grupos de investigación andaluces.
+**1.6.** I+D+I. (Investigación, Desarrollo e Innovación). Destinado al reconocimiento de la empresa que haya puesto en marcha el mejor proyecto de I+D+I en el ámbito de la Sociedad de la Información y las TIC, en colaboración con investigadores o grupos de investigación andaluces.
 
-1.7. Mejor proyecto de I+D Universitario. Destinado al reconocimiento del mejor proyecto universitario de I+D en el ámbito de la Sociedad de la Información y las TIC promovido por estudiantes universitarios o recién titulados de las universidades andaluzas.
+**1.7.** Mejor proyecto de I+D Universitario. Destinado al reconocimiento del mejor proyecto universitario de I+D en el ámbito de la Sociedad de la Información y las TIC promovido por estudiantes universitarios o recién titulados de las universidades andaluzas.
 
-1.8. Mejor proyecto de Acción Social. Destinado al reconocimiento del proyecto llevado a cabo por un agente social (de forma individual o colectiva), que más haya contribuido a favorecer la integración social de determinados colectivos sociales gracias a la aplicación y uso de las nuevas tecnologías.
+**1.8.** Mejor proyecto de Acción Social. Destinado al reconocimiento del proyecto llevado a cabo por un agente social (de forma individual o colectiva), que más haya contribuido a favorecer la integración social de determinados colectivos sociales gracias a la aplicación y uso de las nuevas tecnologías.
 
-1.9. Mejor iniciativa o proyecto a la mejora de la calidad de vida de los ciudadanos. Destinado al reconocimiento de la mejor iniciativa puesta en marcha por un agente social (de forma individual o colectiva), que haya favorecido el bienestar social y la mejora de la calidad de vida de la ciudadanía gracias a las nuevas tecnologías.
+**1.9.** Mejor iniciativa o proyecto a la mejora de la calidad de vida de los ciudadanos. Destinado al reconocimiento de la mejor iniciativa puesta en marcha por un agente social (de forma individual o colectiva), que haya favorecido el bienestar social y la mejora de la calidad de vida de la ciudadanía gracias a las nuevas tecnologías.
 
-1.10. Mejor proyecto de divulgación y difusión de las TIC. Destinado a reconocer la mejor iniciativa de comunicación y promoción de la Sociedad de la Información dirigida a la ciudadanía andaluza, que haya contribuido a difundir el uso y aprovechamiento de las TIC.
+**1.10.** Mejor proyecto de divulgación y difusión de las TIC. Destinado a reconocer la mejor iniciativa de comunicación y promoción de la Sociedad de la Información dirigida a la ciudadanía andaluza, que haya contribuido a difundir el uso y aprovechamiento de las TIC.
 
 #### Artículo 2. Candidaturas.
 
@@ -132,23 +128,23 @@ Podrán optar a estos premios, en sus diferentes modalidades, todas las empresas
 
 #### Artículo 3. Premios.
 
-3.1. Los Premios Sociedad de la Información Andaluza no van acompañados de dotación económica alguna.
+**3.1.** Los Premios Sociedad de la Información Andaluza no van acompañados de dotación económica alguna.
 
-3.2. Los premiados serán invitados a un acto público en el que se hará entrega simbólica del reconocimiento otorgado, mediante un galardón diseñado a tal efecto y un diploma acreditativo.
+**3.2.** Los premiados serán invitados a un acto público en el que se hará entrega simbólica del reconocimiento otorgado, mediante un galardón diseñado a tal efecto y un diploma acreditativo.
 
-3.3. Los galardonados podrán hacer publicidad de dicha concesión en cualquier documento informativo especificando el reconocimiento obtenido y el año en que ha sido otorgado, así como publicar y difundir la concesión del Premio en cualquier medio de comunicación.
+**3.3.** Los galardonados podrán hacer publicidad de dicha concesión en cualquier documento informativo especificando el reconocimiento obtenido y el año en que ha sido otorgado, así como publicar y difundir la concesión del Premio en cualquier medio de comunicación.
 
-3.4. La Consejería de Innovación, Ciencia y Empresa, a través de la Secretaría General de Telecomunicaciones y Sociedad de la Información, difundirá públicamente y de forma oficial el nombre de los premiados en cada categoría, por lo que éstas no podrán hacer pública, hasta dicha fecha, la concesión del premio.
+**3.4.** La Consejería de Innovación, Ciencia y Empresa, a través de la Secretaría General de Telecomunicaciones y Sociedad de la Información, difundirá públicamente y de forma oficial el nombre de los premiados en cada categoría, por lo que éstas no podrán hacer pública, hasta dicha fecha, la concesión del premio.
 
 #### Artículo 4. Lugar y plazo de presentación de solicitudes.
 
-4.1. Las solicitudes deberán cumplimentarse en el formulario que figura como Anexo I de la presente Orden y que estará disponible en la dirección de Internet: www.juntadeandalucia.es/innovacioncienciayempresa/premiosSI.
+**4.1.** Las solicitudes deberán cumplimentarse en el formulario que figura como Anexo I de la presente Orden y que estará disponible en la dirección de Internet: www.juntadeandalucia.es/innovacioncienciayempresa/premiosSI.
 
-4.2. Las solicitudes han de ir dirigidas a la Secretaría General de Telecomunicaciones y Sociedad de la Información de la Consejería de Innovación, Ciencia y Empresa, a la atención del "Comité Organizador de los Premios Sociedad de la Información Andaluza", y deberán presentarse en el Registro General de la Consejería de Innovación, Ciencia y Empresa, en la Avda. Albert Einstein, s/n, Edificio World Trade Center. Isla de la Cartuja, CP 41092, Sevilla, o en cualquier otro de los lugares establecidos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+**4.2.** Las solicitudes han de ir dirigidas a la Secretaría General de Telecomunicaciones y Sociedad de la Información de la Consejería de Innovación, Ciencia y Empresa, a la atención del "Comité Organizador de los Premios Sociedad de la Información Andaluza", y deberán presentarse en el Registro General de la Consejería de Innovación, Ciencia y Empresa, en la Avda. Albert Einstein, s/n, Edificio World Trade Center. Isla de la Cartuja, CP 41092, Sevilla, o en cualquier otro de los lugares establecidos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
 
-4.3. La participación en la presente convocatoria no supone coste alguno para los candidatos.
+**4.3.** La participación en la presente convocatoria no supone coste alguno para los candidatos.
 
-4.4. El plazo de presentación de candidaturas se abrirá al día siguiente de publicación de la presente Orden en el BOJA y permanecerá abierto hasta el 30 de abril del 2007.
+**4.4.** El plazo de presentación de candidaturas se abrirá al día siguiente de publicación de la presente Orden en el BOJA y permanecerá abierto hasta el 30 de abril del 2007.
 
 #### Artículo 5. Documentación.
 
@@ -162,7 +158,7 @@ c) Memoria de la empresa.
 
 #### Artículo 6. Valoración de candidaturas.
 
-6.1. La valoración de las candidaturas presentadas a cada premio se llevará a cabo por un Jurado designado por el titular de la Consejería de Innovación, Ciencia y Empresa compuesto por:
+**6.1.** La valoración de las candidaturas presentadas a cada premio se llevará a cabo por un Jurado designado por el titular de la Consejería de Innovación, Ciencia y Empresa compuesto por:
 
 - La titular de la Secretaría General de Telecomunicaciones y Sociedad de la Información, que actuará como Presidenta.
 
@@ -186,11 +182,11 @@ c) Memoria de la empresa.
 
 - Un funcionario de la Consejería de Innovación, Ciencia y Empresa, que actuará como Secretario.
 
-6.2. El fallo del jurado será inapelable. El jurado podrá declarar desierto el premio en alguna de sus modalidades.
+**6.2.** El fallo del jurado será inapelable. El jurado podrá declarar desierto el premio en alguna de sus modalidades.
 
-6.3. El jurado podrá otorgar menciones especiales a los trabajos presentados que no hayan resultado premiados.
+**6.3.** El jurado podrá otorgar menciones especiales a los trabajos presentados que no hayan resultado premiados.
 
-6.4. Los premiados se darán a conocer en el mes de mayo de 2007, mediante Resolución dictada por la titular de la Secretaría General de Telecomunicaciones y Sociedad de la Información.
+**6.4.** Los premiados se darán a conocer en el mes de mayo de 2007, mediante Resolución dictada por la titular de la Secretaría General de Telecomunicaciones y Sociedad de la Información.
 
 #### Disposición final primera. Habilitación para el desarrollo normativo.
 
@@ -213,15 +209,17 @@ Disposición siguiente
 
 25 de 02/02/2007
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2007/25/boletin.25.pdf">Descargar boletín nº 25 completo
 
@@ -238,4 +236,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

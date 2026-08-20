@@ -61,7 +61,9 @@ Madrid, 27 de diciembre de 2007.–La Ministra de Educación y Ciencia, Mercedes
 
 Establecimiento de requisitos respecto a determinados apartados del anexo I del Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, relativo a la memoria para la solicitud de verificación de títulos oficiales
 
-Apartado 1.1 Denominación:
+Apartado
+
+**1.1** Denominación:
 
 1. La denominación de los títulos universitarios oficiales a los que se refiere el apartado anterior, deberá facilitar la identificación de la profesión para cuyo ejercicio habilita y en ningún caso, podrá conducir a error o confusión sobre sus efectos profesionales.
 
@@ -93,7 +95,9 @@ Competencias que los estudiantes deben adquirir:
 
 11. Informar y asesorar a las familias acerca del proceso de enseñanza y aprendizaje y sobre la orientación personal, académica y profesional de sus hijos.
 
-Apartado 4.2 Condiciones de acceso al Máster:
+Apartado
+
+**4.2** Condiciones de acceso al Máster:
 
 Para el ingreso en el Máster se establece como requisito de acceso la acreditación del dominio de las competencias relativas a la especialización que se desee cursar, mediante la realización de una prueba diseñada al efecto por las Universidades, de la que quedarán exentos quienes estén en posesión de alguna de las titulaciones universitarias que se correspondan con la especialización elegida.
 

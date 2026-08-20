@@ -130,7 +130,7 @@ a) Módulos optativos recogidos en el Anexo II.
 b) Módulo optativo de Profundización en idioma extranjero profesional (inglés).
 c) Módulo optativo de diseño propio, cuya impartición requerirá la autorización previa de la Dirección General de Formación Profesional y Enseñanzas de Régimen Especial. Los módulos correspondientes a los apartados a) y b) serán de oferta obligatoria, y el módulo al que se refiere el apartado c) será de oferta voluntaria por los centros del Sistema de Formación Profesional.
 
-5. El centro ofertará, para cada ciclo formativo, entre un mínimo de dos y un máximo de cinco módulos optativos, siguiendo los criterios de la Tabla 1. Tabla 1. OFERTA DEL MÓDULO PROFESIONAL OPTATIVO Oferta obligatoria Tipo de oferta Configuración de la oferta Especialidad del profesorado Módulos  optativos  recogidos  en  el
+5. El centro ofertará, para cada ciclo formativo, entre un mínimo de dos y un máximo de cinco módulos optativos, siguiendo los criterios de la Tabla 1. Tabla 1. OFERTA DEL MÓDULO PROFESIONAL OPTATIVO Oferta obligatoria Tipo de oferta Configuración de la oferta Especialidad del profesorado Módulos optativos recogidos en el
 
 ## Anexo II
 
@@ -138,8 +138,8 @@ c) Módulo optativo de diseño propio, cuya impartición requerirá la autorizac
 
 ## Anexo II
 
-Módulo  optativo  de  Profundización en  idioma  extranjero  profesional (Inglés) (Instrucción cuarta) Se ofertará un (1) módulo:
-Inglés profesional II (GM) para los CFGM Inglés profesional II (GS) para los CFGS Inglés Oferta voluntaria Módulo optativo de diseño propio (Instrucción quinta) Se ofertará un (1) módulo de los diseñados  por  los Departamentos Didácticos Cualquiera de las vinculadas a la familia profesional
+Módulo optativo de Profundización en idioma extranjero profesional (Inglés) (Instrucción cuarta) Se ofertará un (1) módulo:
+Inglés profesional II (GM) para los CFGM Inglés profesional II (GS) para los CFGS Inglés Oferta voluntaria Módulo optativo de diseño propio (Instrucción quinta) Se ofertará un (1) módulo de los diseñados por los Departamentos Didácticos Cualquiera de las vinculadas a la familia profesional
 
 6. Los módulos profesionales optativos, con excepción del módulo de Profundización en idioma extranjero profesional (Inglés), se ofertarán en función de los recursos disponibles en cada centro, y atendiendo en todo caso a las necesidades del sector productivo de su entorno.
 
@@ -338,7 +338,7 @@ Catálogo de módulos profesionales optativos Familia profesional Módulo profes
 • Para ofertarse en el CFGS Enseñanza y Animación Sociodeportiva Resolución de 27 de junio de 2025, de la SGFP, BOE núm. 167, 12/07/2025
 • Educación Física CAN-8000. Juegos y deportes tradicionales de Canarias (Se imparte el módulo completo)
 
-## Anexo VII. de  la  presente
+## Anexo VII. de la presente
 
 Resolución • Educación Física
 
@@ -371,14 +371,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Operaciones y Equipos de Producción Agraria Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado RA1 (45 h), RA2 (43 h), RA3 (43 h), RA4 (28 h), RA5 (43 h) Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado Artes Gráficas CAN-0869A. Impresión digital (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (50 h), RA4 (40 h), RA5 (40 h), RA6 (19 h), RA7 (18 h) Real Decreto 404/2023, de 29 de mayo
 • Procesos y Productos en Artes Gráficas CAN-0880A. Impresión en serigrafía (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (16 h), RA3 (35 h), RA4 (35 h), RA5 (35 h), RA6 (25 h), RA7 (30 h) Real Decreto 1590/2011, de 4 de noviembre
 • Producción en Artes Gráficas CAN-1478A. Organización de los procesos de preimpresión digital (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (40 h), RA4 (40 h), RA5 (40 h), RA6 (40 h), RA7 (20 h), RA8 (20 h) Real Decreto 174/2013, de 8 de marzo
-• Producción en Artes Gráficas CAN-1541A.  Organización  de  los  procesos  de  postimpresión,  transformados  y acabados (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (51 h), RA2 (51 h), RA3 (34 h), RA4 (42 h), RA5 (25 h), RA6 (34 h) Real Decreto 175/2013, de 8 de marzo
-• Producción en Artes Gráficas CAN-1479A. Diseño de productos gráficos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (28 h), RA2 (28 h), RA3 (37 h), RA4 (48 h), RA5 (48 h), RA6 (48 h) Real Decreto 175/2013, de 8 de marzo
-• Procesos y Productos en Artes Gráficas
-
-Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado RA1 (45 h), RA2 (43 h), RA3 (43 h), RA4 (28 h), RA5 (43 h) Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado Artes Gráficas CAN-0869A. Impresión digital (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (50 h), RA4 (40 h), RA5 (40 h), RA6 (19 h), RA7 (18 h) Real Decreto 404/2023, de 29 de mayo
-• Procesos y Productos en Artes Gráficas CAN-0880A. Impresión en serigrafía (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (16 h), RA3 (35 h), RA4 (35 h), RA5 (35 h), RA6 (25 h), RA7 (30 h) Real Decreto 1590/2011, de 4 de noviembre
-• Producción en Artes Gráficas CAN-1478A. Organización de los procesos de preimpresión digital (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (40 h), RA4 (40 h), RA5 (40 h), RA6 (40 h), RA7 (20 h), RA8 (20 h) Real Decreto 174/2013, de 8 de marzo
-• Producción en Artes Gráficas CAN-1541A.  Organización  de  los  procesos  de  postimpresión,  transformados  y acabados (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (51 h), RA2 (51 h), RA3 (34 h), RA4 (42 h), RA5 (25 h), RA6 (34 h) Real Decreto 175/2013, de 8 de marzo
+• Producción en Artes Gráficas CAN-1541A. Organización de los procesos de postimpresión, transformados y acabados (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (51 h), RA2 (51 h), RA3 (34 h), RA4 (42 h), RA5 (25 h), RA6 (34 h) Real Decreto 175/2013, de 8 de marzo
 • Producción en Artes Gráficas CAN-1479A. Diseño de productos gráficos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (28 h), RA2 (28 h), RA3 (37 h), RA4 (48 h), RA5 (48 h), RA6 (48 h) Real Decreto 175/2013, de 8 de marzo
 • Procesos y Productos en Artes Gráficas
 
@@ -430,7 +423,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Equipos Electrónicos
 
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado CAN-1052A. Equipos microprogramables (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (14 h), RA2 (30 h), RA3 (30 h), RA4 (33 h), RA5 (50 h), RA6 (46 h) Real Decreto 1578/2011, de 4 de noviembre • Sistemas Electrónicos CAN-0966A. Robótica industrial (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (20 h), RA2 (15 h), RA3 (58 h), RA4 (15 h), RA5 (30 h) Real Decreto 401/2023, de 29 de mayo
-• Instalaciones Electrotécnicas CAN-1803.  Iniciación  a  tecnologías  de  automatización  y  control  para  sistemas inteligentes (Se imparte el módulo completo)
+• Instalaciones Electrotécnicas CAN-1803. Iniciación a tecnologías de automatización y control para sistemas inteligentes (Se imparte el módulo completo)
 • Para ofertarse en el CFGM Instalaciones de Telecomunicaciones
 • Para ofertarse en el CFGM Instalaciones Eléctricas y Automáticas Resolución de 27 de junio de 2025, de la SGFP, BOE núm. 167, 12/07/2025
 • Sistemas Electrónicos
@@ -537,7 +530,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 
 ### Capítulo IV. del título V del
 
-[Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio CAN-1174A.  Regulación  y  mantenimiento  de  automatismos  en  buques  y embarcaciones (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (24 h), RA2 (64 h), RA3 (24 h), RA4 (64 h), RA5 (30 h), RA6 (64 h) Real Decreto 1072/2012, de 13 de julio
+[Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio CAN-1174A. Regulación y mantenimiento de automatismos en buques y embarcaciones (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (24 h), RA2 (64 h), RA3 (24 h), RA4 (64 h), RA5 (30 h), RA6 (64 h) Real Decreto 1072/2012, de 13 de julio
 • Navegación e Instalaciones Marinas CAN-0120A. Sistemas eléctricos y automáticos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (20 h), RA2 (16 h), RA3 (30 h), RA4 (15 h), RA5 (15 h), RA6 (20 h), RA7 (20 h), RA8 (20 h), RA9 (18 h) Real Decreto 220/2008, de 15 de febrero
 • Organización y Proyectos de Sistemas Energéticos
 • Sistemas Electrotécnicos y Automáticos
@@ -549,7 +542,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Procedimientos de Diagnóstico Clínico y Ortoprotésico CAN-1560A. Estaciones de tratamiento de aguas (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (32 h), RA2 (32 h), RA3 (32 h), RA4 (37 h), RA5 (37 h) Real Decreto 114/2017, de 17 de febrero
 • Organización y Proyectos de Sistemas Energéticos
 • Análisis y Química Industrial CAN-0070A. Ensayos microbiológicos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (45 h), RA2 (45 h), RA3 (40 h), RA4 (40 h) Real Decreto 290/2023, de 18 de abril
-• Análisis y Química Industrial CAN-1701A.  Control  de  organismos  nocivos  en  piscinas  y  otras  instalaciones acuáticas (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (33 h), RA2 (56 h), RA3 (68 h), RA4 (40 h), RA5 (40 h) Real Decreto 1157/2024, de 19 de noviembre
+• Análisis y Química Industrial CAN-1701A. Control de organismos nocivos en piscinas y otras instalaciones acuáticas (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (33 h), RA2 (56 h), RA3 (68 h), RA4 (40 h), RA5 (40 h) Real Decreto 1157/2024, de 19 de noviembre
 • Procesos Diagnósticos Clínicos y Productos Ortoprotésicos
 • Análisis y Química Industrial
 • Procedimientos de Diagnóstico Clínico y Ortoprotésico
@@ -589,7 +582,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Procedimientos de Diagnóstico Clínico y Ortoprotésico CAN-1553A. Control de organismos nocivos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) Real Decreto 283/2019, de 22 de abril
 • Procesos Diagnósticos Clínicos y Productos Ortoprotésicos
 
-Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado RA1 (25 h), RA2 (25 h), RA3 (45 h), RA4 (35 h), RA5 (35 h), RA6 (37 h) CAN-1701A.  Control  de  organismos  nocivos  en  piscinas  y  otras  instalaciones acuáticas (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (33 h), RA2 (56 h), RA3 (68 h), RA4 (40 h), RA5 (40 h) Real Decreto 1157/2024, de 19 de noviembre
+Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado RA1 (25 h), RA2 (25 h), RA3 (45 h), RA4 (35 h), RA5 (35 h), RA6 (37 h) CAN-1701A. Control de organismos nocivos en piscinas y otras instalaciones acuáticas (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (33 h), RA2 (56 h), RA3 (68 h), RA4 (40 h), RA5 (40 h) Real Decreto 1157/2024, de 19 de noviembre
 • Procesos Diagnósticos Clínicos y Productos Ortoprotésicos
 • Análisis y Química Industrial
 • Procedimientos de Diagnóstico Clínico y Ortoprotésico
@@ -614,7 +607,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Procedimientos sanitarios y asistenciales.
 • Intervención Sociocomunitaria.
 • Servicios a la Comunidad. CAN-1806. Diseño de experiencias turísticas innovadoras Resolución de 27 de junio de 2025, de la SGFP, BOE
-• Intervención Sociocomunitaria CAN-1805.  Enseñanza  de  primeros  auxilios  en  la  tercera  edad  y  personas dependientes (Se imparte el módulo completo)
+• Intervención Sociocomunitaria CAN-1805. Enseñanza de primeros auxilios en la tercera edad y personas dependientes (Se imparte el módulo completo)
 • Para ofertarse en el CFGM Atención a Personas en Situación de Dependencia
 
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado (Se imparte el módulo completo)
@@ -628,15 +621,15 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Intervención Sociocomunitaria
 • Servicios a la Comunidad CAN-8000. Juegos y deportes tradicionales de Canarias (Se imparte el módulo completo)
 
-## Anexo VII. de  la  presente
+## Anexo VII. de la presente
 
 Resolución
 • Educación Física
 • Servicios a la Comunidad CAN-1208. Servicios de transporte de viajeros (Se imparte el módulo completo)
-• Para ofertarse en el CFGS  Formación para la movilidad segura y sostenible Real Decreto 555/2012, de 23 de marzo
+• Para ofertarse en el CFGS Formación para la movilidad segura y sostenible Real Decreto 555/2012, de 23 de marzo
 • Organización y Gestión Comercial CAN-1207. Servicios de transporte de mercancías (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (40 h), RA2 (45 h), RA3 (37 h), RA4 (45 h), RA5 (40 h), RA6 (30 h)
-• Para ofertarse en el CFGS  Formación para la movilidad segura y sostenible Real Decreto 555/2012, de 23 de marzo
-• Organización y Gestión Comercial (Para el desarrollo de la parte de este módulo  profesional  que  tiene relación  con  el  transporte  de mercancías  peligrosas,  el profesorado que la imparta tiene que estar habilitado por la DGT, según la Orden de 18 de junio de 1998 del Ministerio de Interior )
+• Para ofertarse en el CFGS Formación para la movilidad segura y sostenible Real Decreto 555/2012, de 23 de marzo
+• Organización y Gestión Comercial (Para el desarrollo de la parte de este módulo profesional que tiene relación con el transporte de mercancías peligrosas, el profesorado que la imparta tiene que estar habilitado por la DGT, según la Orden de 18 de junio de 1998 del Ministerio de Interior )
 
 Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Currículo Especialidad del profesorado Textil, Confección y Piel CAN-0270A. Acabados en confección (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (25 h), RA4 (15 h), RA5 (15 h), RA6 (16 h) Real Decreto 955/2008, de 6 de junio • Patronaje y Confección CAN-0444A. Procesos de ennoblecimiento y estampación (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (30 h), RA2 (40 h), RA3 (40 h), RA4 (50 h), RA5 (40 h), RA6 (15 h) Real Decreto 1580/2011, de 4 de noviembre
 • Procesos y Productos de Textil, Confección y Piel CAN-0587A. Vestuario de espectáculos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (35 h), RA2 (45 h), RA3 (45 h), RA4 (40 h), RA5 (37 h) Real Decreto 1679/2011, de 18 de noviembre • Patronaje y Confección CAN-0593A. Diseño técnico de calzado y complementos (Se seleccionan Resultados de aprendizaje hasta sumar 96 h) RA1 (20 h), RA2 (25 h), RA3 (35 h), RA4 (40 h), RA5 (23 h), RA6 (30 h) Real Decreto 689/2010, de 20 de mayo
@@ -649,7 +642,7 @@ Familia profesional Módulo profesional / Resultados de aprendizaje (RA) Curríc
 • Organización y Procesos de Mantenimiento de Vehículos CAN-1208. Servicios de transporte de viajeros (Se imparte el módulo completo) Real Decreto 555/2012, de 23 de marzo
 • Organización y Gestión Comercial CAN-5076. Seguridad en vehículos con sistemas de alto voltaje (Se imparte el módulo completo) Real Decreto 109/2022, de 8 de febrero
 • Organización y Procesos de Mantenimiento de Vehículos CAN-0052. Mantenimiento mecánico preventivo del vehículo (Se imparte el módulo completo)
-• Para ofertarse en el CFGM  Carrocería
+• Para ofertarse en el CFGM Carrocería
 • Para ofertarse en el CFGM Electromecánica de Maquinaria Real Decreto 1397/2007, de 29 de octubre
 • Mantenimiento de Vehículos CAN-1819. Motores híbridos y eléctricos (Se imparte el módulo completo)
 • Para ofertarse en el CFGM Electromecánica de Vehículos Automóviles.
@@ -806,7 +799,7 @@ DENOMINACIÓN DEL MÓDULO PROFESIONAL:
 (un solo módulo por ciclo)Duración: 96 h ESPECIALIDAD DOCENTE:
 Elementos básicos del currículo Resultados de aprendizaje y criterios de evaluación:
 Contenidos:
-En ________________, a  ____ de ________________ de _____ (Firma Jefatura de Departamento)
+En ________________, a ____ de ________________ de _____ (Firma Jefatura de Departamento)
 
 ## Anexo V
 
@@ -816,7 +809,7 @@ MÓDULOS PROFESIONALES OPTATIVOS DE DISEÑO PROPIO QUE SE OFERTAN POR FAMILIA PR
 RESPONSABLE DE LA PROSPECCIÓN/COORDINACIÓN:
 RESPONSABLE DE LA PROSPECCIÓN/COORDINACIÓN:
 (si procede) Relación de centros educativos con la selección de módulos de diseño propio para su oferta Centro educativo Ciclo formativo Módulo de diseño propio (un solo módulo por ciclo) Observaciones:
-En ________________, a  ____ de ________________ de _____ (Firma docente que ejerce la prospección y coordinación)
+En ________________, a ____ de ________________ de _____ (Firma docente que ejerce la prospección y coordinación)
 
 ## Anexo VI
 

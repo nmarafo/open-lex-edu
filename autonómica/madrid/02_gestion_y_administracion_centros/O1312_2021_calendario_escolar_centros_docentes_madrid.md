@@ -409,7 +409,7 @@ expresamente el Acuerdo de 5 de abril de 2016, del Consejo de Gobierno, por el q
 
 En prueba de su conformidad las partes firman el presente Acuerdo en Madrid, el 26 de abril de 2021, elevándolo al órgano competente para su aprobación.
 
-Pág. 26 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791
+Pág. 26 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791
 
 ## Anexo
 

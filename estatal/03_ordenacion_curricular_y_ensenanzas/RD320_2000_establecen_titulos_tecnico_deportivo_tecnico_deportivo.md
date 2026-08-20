@@ -369,7 +369,7 @@ Técnico Deportivo superior en Fútbol Sala.
 
 3. Duración total de las enseñanzas
 
-3.1 Grado medio.
+**3.1** Grado medio.
 
 Técnico Deportivo en Fútbol
 
@@ -383,7 +383,7 @@ Técnico Deportivo en Fútbol Sala
 
 Horas
 
-3.2 Grado superior.
+**3.2** Grado superior.
 
 Técnico Deportivo superior en Fútbol
 
@@ -399,7 +399,7 @@ Horas
 
 4. Duración y organización de las enseñanzas mínimas
 
-4.1 Grado medio.
+**4.1** Grado medio.
 
 1.er nivel
 
@@ -425,7 +425,7 @@ Horas
 
 Horas
 
-4.2 Grado superior.
+**4.2** Grado superior.
 
 Técnico Deportivo superior en Fútbol
 
@@ -447,49 +447,49 @@ Pruebas de carácter específico y requisitos deportivos para el acceso a las en
 
 1. Objetivo y características generales de las pruebas
 
-1.1 Las pruebas de acceso a las enseñanzas de Técnicos de las distintas especialidades del Fútbol tienen por objetivo que los aspirantes demuestren que poseen la condición física imprescindible y las destrezas específicas necesarias para seguir con aprovechamiento la formación elegida.
+**1.1** Las pruebas de acceso a las enseñanzas de Técnicos de las distintas especialidades del Fútbol tienen por objetivo que los aspirantes demuestren que poseen la condición física imprescindible y las destrezas específicas necesarias para seguir con aprovechamiento la formación elegida.
 
-1.2 Las pruebas estarán compuestas de dos partes. El objetivo de la primera parte de la prueba es evaluar la condición física del aspirante. Será igual para las pruebas de acceso a las enseñanzas de los Técnicos Deportivos de Fútbol y de Fútbol Sala y estará compuesta por los ejercicios que se establecen en el apartado 4 del presente anexo. La segunda parte de la prueba tendrá como objetivo evaluar las destrezas específicas fundamentales de la especialidad de fútbol de la que se trate. Estará compuesta por los ejercicios que se establecen en los apartados 5 y 6 del presente anexo.
+**1.2** Las pruebas estarán compuestas de dos partes. El objetivo de la primera parte de la prueba es evaluar la condición física del aspirante. Será igual para las pruebas de acceso a las enseñanzas de los Técnicos Deportivos de Fútbol y de Fútbol Sala y estará compuesta por los ejercicios que se establecen en el apartado 4 del presente anexo. La segunda parte de la prueba tendrá como objetivo evaluar las destrezas específicas fundamentales de la especialidad de fútbol de la que se trate. Estará compuesta por los ejercicios que se establecen en los apartados 5 y 6 del presente anexo.
 
-1.3 El tribunal de la prueba establecerá los trazados por donde se desarrollarán los ejercicios y el tiempo de referencia para su ejecución.
+**1.3** El tribunal de la prueba establecerá los trazados por donde se desarrollarán los ejercicios y el tiempo de referencia para su ejecución.
 
-1.4 Los aspirantes realizarán cada ejercicio de forma individual.
+**1.4** Los aspirantes realizarán cada ejercicio de forma individual.
 
-1.5 El orden de participación en los ejercicios que componen la prueba se establecerá mediante sorteo.
+**1.5** El orden de participación en los ejercicios que componen la prueba se establecerá mediante sorteo.
 
-1.6 Los participantes en las pruebas de acceso tendrán una sola oportunidad para efectuar cada ejercicio.
+**1.6** Los participantes en las pruebas de acceso tendrán una sola oportunidad para efectuar cada ejercicio.
 
 2. Evaluación de las pruebas
 
-2.1 Los evaluadores del tribunal de acceso valorarán de forma privada e independiente la ejecución de los aspirantes.
+**2.1** Los evaluadores del tribunal de acceso valorarán de forma privada e independiente la ejecución de los aspirantes.
 
-2.2 Los evaluadores estarán ubicados en lugares con campos de visión semejantes.
+**2.2** Los evaluadores estarán ubicados en lugares con campos de visión semejantes.
 
-2.3 Cada ejercicio será valorado teniendo en cuenta exclusivamente el objetivo propuesto para el mismo.
+**2.3** Cada ejercicio será valorado teniendo en cuenta exclusivamente el objetivo propuesto para el mismo.
 
-2.4 La superación de la primera parte de la prueba exigirá a su vez superar todos los ejercicios que la componen.
+**2.4** La superación de la primera parte de la prueba exigirá a su vez superar todos los ejercicios que la componen.
 
-2.5 La superación de la segunda parte de la prueba exigirá haber superado el ejercicio que la conforma.
+**2.5** La superación de la segunda parte de la prueba exigirá haber superado el ejercicio que la conforma.
 
-2.6 En las pruebas de acceso sólo se concederá la calificación de apto o no apto. Para alcanzar la calificación de apto los aspirantes deberán superar las dos partes que componen la prueba.
+**2.6** En las pruebas de acceso sólo se concederá la calificación de apto o no apto. Para alcanzar la calificación de apto los aspirantes deberán superar las dos partes que componen la prueba.
 
 3. El tribunal
 
-3.1 El tribunal de las pruebas tendrá como función desarrollar éstas con arreglo a lo especificado en el presente anexo. Este tribunal, que será nombrado por el órgano competente de la Comunidad Autónoma, previo informe del centro correspondiente, estará compuesto por un presidente, un secretario y tres evaluadores.
+**3.1** El tribunal de las pruebas tendrá como función desarrollar éstas con arreglo a lo especificado en el presente anexo. Este tribunal, que será nombrado por el órgano competente de la Comunidad Autónoma, previo informe del centro correspondiente, estará compuesto por un presidente, un secretario y tres evaluadores.
 
-3.2 La función del presidente del tribunal será garantizar el correcto desarrollo de las pruebas de acceso y de los ejercicios que la componen, comprobando que los objetivos, contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en el presente Real Decreto.
+**3.2** La función del presidente del tribunal será garantizar el correcto desarrollo de las pruebas de acceso y de los ejercicios que la componen, comprobando que los objetivos, contenidos y la evaluación de los ejercicios que componen las pruebas se atienen a lo establecido en el presente Real Decreto.
 
-3.3 La función del secretario es levantar el acta del desarrollo de las pruebas, certificando que el desarrollo se atiene a lo establecido en el presente Real Decreto. También realizará las funciones del presidente en su ausencia.
+**3.3** La función del secretario es levantar el acta del desarrollo de las pruebas, certificando que el desarrollo se atiene a lo establecido en el presente Real Decreto. También realizará las funciones del presidente en su ausencia.
 
-3.4 Los evaluadores realizarán la evaluación de la condición física, la ejecución de las habilidades específicas de los aspirantes, en razón de los criterios establecidos en el presente Real Decreto.
+**3.4** Los evaluadores realizarán la evaluación de la condición física, la ejecución de las habilidades específicas de los aspirantes, en razón de los criterios establecidos en el presente Real Decreto.
 
-3.5 Las personas que actúen como evaluadores en las pruebas de acceso deberán estar en posesión de la siguiente titulación:
+**3.5** Las personas que actúen como evaluadores en las pruebas de acceso deberán estar en posesión de la siguiente titulación:
 
-3.6 En el caso de los ejercicios para evaluar la condición física, los evaluadores deberán estar en posesión de las titulaciones anteriormente citadas o las requeridas para impartir los módulos de entrenamiento deportivo y preparación física, que se determinan en el anexo VI del presente Real Decreto.
+**3.6** En el caso de los ejercicios para evaluar la condición física, los evaluadores deberán estar en posesión de las titulaciones anteriormente citadas o las requeridas para impartir los módulos de entrenamiento deportivo y preparación física, que se determinan en el anexo VI del presente Real Decreto.
 
 4. Primera parte de la prueba de acceso: evaluación de la condición física
 
-4.1 Ejercicios.
+**4.1** Ejercicios.
 
 Ejercicio número 1: evaluación de la velocidad de traslación. Recorrer una distancia de 50 metros, en terreno llano, de firme regular y de trazado recto, en el menor tiempo posible.
 
@@ -501,7 +501,7 @@ Ejercicio número 4: evaluación de la flexibilidad global del tronco y extremid
 
 Ejercicio número 5: evaluación de la potencia muscular general y sus condiciones de aplicación en las palancas óseas. Lanzamiento de un balón medicinal hacia adelante. El peso del balón medicinal será de 5 kg para los hombres y 3 kg para las mujeres.
 
-4.2 Evaluación de los ejercicios.
+**4.2** Evaluación de los ejercicios.
 
 Se considerarán superados los ejercicios de la primera parte cuando el aspirante haya:
 
@@ -519,7 +519,7 @@ Ejercicio 5: lanzado el balón a una distancia superior a 6 metros.
 
 Objetivo: evaluar el nivel de ejecución de las habilidades fundamentales del fútbol.
 
-5.1 Ejercicios.
+**5.1** Ejercicios.
 
 El aspirante tendrá que completar un circuito técnico que se realizará en un campo de fútbol de medidas reglamentarias, utilizando balones reglamentarios de la especialidad y que incluirá, siguiendo el mismo orden, los ejercicios que se indican en este apartado y que se efectuarán o iniciarán, según el caso, en el lugar que se especifica en el gráfico (1):
 
@@ -541,7 +541,7 @@ h) Impulsar el balón para pasarlo por debajo de una valla de 50 cm de altura y 
 
 i) Tres lanzamientos a puerta desde fuera del área.
 
-5.2 Evaluación.
+**5.2** Evaluación.
 
 a) Cada evaluador valorará el conjunto de los ejercicios de 1 a 10 puntos.
 
@@ -551,7 +551,7 @@ b) La evaluación final de esta segunda parte de la prueba de acceso a las ense�
 
 Objetivo: evaluar el nivel de ejecución de las habilidades técnicas fundamentales del Fútbol Sala.
 
-6.1 Ejercicios.
+**6.1** Ejercicios.
 
 El aspirante tendrá que completar un circuito técnico que se realizará en un campo de fútbol sala de medidas reglamentarias, utilizando balones reglamentarios de la especialidad y que incluirá, siguiendo el mismo orden, los ejercicios que se indican en este apartado y que se efectuarán o iniciarán, según el caso, en el lugar que se especifica en el gráfico (2):
 
@@ -573,7 +573,7 @@ h) Impulsar el balón para pasarlo por debajo de una valla de 50 cm de altura y 
 
 i) Tres lanzamientos a puerta desde fuera del área.
 
-6.2 Evaluación.
+**6.2** Evaluación.
 
 a) Cada evaluador valorará el conjunto de los ejercicios de 1 a 10 puntos.
 
@@ -639,9 +639,9 @@ Una temporada se considerará completada cuando el técnico deportivo, en cualqu
 
 2. Descripción del perfil profesional
 
-2.1 Definición genérica del perfil profesional. El certificado de primer nivel de Técnico Deportivo en Fútbol acredita que su titular posee las competencias necesarias para realizar la iniciación al fútbol, así como para promocionar esta modalidad deportiva.
+**2.1** Definición genérica del perfil profesional. El certificado de primer nivel de Técnico Deportivo en Fútbol acredita que su titular posee las competencias necesarias para realizar la iniciación al fútbol, así como para promocionar esta modalidad deportiva.
 
-2.2 Unidades de competencia:
+**2.2** Unidades de competencia:
 
 Instruir en los principios fundamentales de la técnica y la táctica del fútbol.
 
@@ -649,7 +649,7 @@ Conducir y acompañar al equipo durante la práctica deportiva.
 
 Garantizar la seguridad de los deportistas y aplicar en caso necesario los primeros auxilios.
 
-2.3 Capacidades profesionales.
+**2.3** Capacidades profesionales.
 
 Este Técnico debe ser capaz de:
 
@@ -687,7 +687,7 @@ Colaborar con los servicios de asistencia médica de la instalación deportiva.
 
 Detectar la información técnica relacionada con sus funciones profesionales.
 
-2.4 Ubicación en el ámbito deportivo.
+**2.4** Ubicación en el ámbito deportivo.
 
 Ejercerá su actividad en el ámbito de la iniciación deportiva. Se excluye expresamente la enseñanza del fútbol sala.
 
@@ -705,7 +705,7 @@ Empresas de servicios deportivos.
 
 Centros escolares (actividades extraescolares).
 
-2.5 Responsabilidad en las situaciones de trabajo.
+**2.5** Responsabilidad en las situaciones de trabajo.
 
 Este Técnico actuará bajo la supervisión general de Técnicos y/o profesionales de nivel superior al suyo, siéndole requeridas las responsabilidades siguientes:
 
@@ -731,7 +731,7 @@ El cumplimiento de las instrucciones generales procedentes del responsable de la
 
 3. Enseñanzas mínimas
 
-3.1 Bloque común.
+**3.1** Bloque común.
 
 A) Módulo de Bases anatómicas y fisiológicas del deporte.
 
@@ -1099,7 +1099,7 @@ Explicar la incidencia del tabaquismo, la drogadicción y el consumo de bebidas 
 
 Describir las indicaciones y el seguimiento a realizar por los deportistas después de una sesión de entrenamiento o participación en competición, desde el punto de vista de la higiene personal.
 
-3.2 Bloque específico.
+**3.2** Bloque específico.
 
 A) Módulo de Desarrollo profesional.
 
@@ -1479,7 +1479,7 @@ Determinar la secuencia de ejercicios que permitan la adquisición por parte del
 
 Empleando imágenes reales de la ejecución de un determinado gesto técnico, detectar los errores de ejecución, coordinación o sincinesias y proponer ejercicios para su corrección.
 
-3.3 Bloque complementario.
+**3.3** Bloque complementario.
 
 Las Administraciones públicas competentes incluirán en el currículo:
 
@@ -1507,7 +1507,7 @@ Sobre un texto en el idioma que proceda, referido a la especialidad deportiva, s
 
 Aplicar la didáctica adecuada para enseñar un aspecto de la especialidad a discapacitados físicos, psíquicos y sensoriales.
 
-3.4 Bloque de formación práctica. A) Objetivos.
+**3.4** Bloque de formación práctica. A) Objetivos.
 
 El bloque de formación práctica del primer nivel del técnico deportivo en fútbol tiene como finalidad, además de las indicadas en el artículo 5 l.
 
@@ -1547,17 +1547,17 @@ Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
 4. Descripción del perfil profesional
 
-4.1 Definición genérica del perfil profesional.
+**4.1** Definición genérica del perfil profesional.
 
 El título de técnico deportivo en fútbol acredita que su titular posee las competencias necesarias para programar y efectuar la enseñanza del fútbol con vistas al perfeccionamiento de la ejecución técnica y táctica del deportista, así como efectuar el entrenamiento de deportistas y equipos de esta modalidad deportiva.
 
-4.2 Unidades de competencia.
+**4.2** Unidades de competencia.
 
 Programar y efectuar la enseñanza del fútbol y programar y dirigir el entrenamiento de jugadores y equipos de fútbol.
 
 Dirigir a jugadores y equipos durante los partidos de fútbol.
 
-4.3 Capacidades profesionales.
+**4.3** Capacidades profesionales.
 
 Este técnico debe ser capaz de:
 
@@ -1595,7 +1595,7 @@ Detectar e interpretar los cambios tecnológicos, organizativos, económicos y s
 
 Poseer una visión global e integradora del proceso, comprendiendo la función de las instalaciones y equipos y las dimensiones técnicas, pedagógicas, organizativas, económicas y humanas de su trabajo.
 
-4.4 Ubicación en el ámbito deportivo.
+**4.4** Ubicación en el ámbito deportivo.
 
 Este título acredita la adquisición de los conocimientos y de las competencias profesionales suficientes, para asumir sus responsabilidades de forma autónoma o en el seno de un organismo público o empresa privada.
 
@@ -1611,7 +1611,7 @@ Empresas de servicios deportivos.
 
 Centros escolares (actividades extraescolares).
 
-4.5 Responsabilidad en las situaciones de trabajo.
+**4.5** Responsabilidad en las situaciones de trabajo.
 
 A este técnico le son requeridas las responsabilidades siguientes:
 
@@ -1627,7 +1627,7 @@ La dirección técnica de futbolistas y equipos durante la participación en com
 
 5. Enseñanzas mínimas
 
-5.1 Bloque común.
+**5.1** Bloque común.
 
 A) Módulo de Bases anatómicas y fisiológicas del deporte II.
 
@@ -1919,7 +1919,7 @@ Concretar los diferentes factores sociales que intervienen en la demanda de la p
 
 Analizar la diversificación de la demanda de práctica deportiva en la sociedad actual.
 
-5.2 Bloque específico.
+**5.2** Bloque específico.
 
 A) Módulo de Desarrollo Profesional II.
 
@@ -2157,8 +2157,6 @@ Explicar la utilidad de las acciones tácticas del portero en el conjunto de tá
 
 En un supuesto práctico de un equipo de fútbol, diseñar una sesión de entrenamiento de acciones tácticas con posesión y sin posesión del balón.
 
-En un supuesto práctico de un equipo de fútbol, diseñar una sesión de entrenamiento de acciones tácticas con posesión y sin posesión del balón.
-
 Definir los criterios fundamentales del juego determinando los movimientos de los jugadores sin posesión del balón.
 
 En un supuesto práctico de un equipo de fútbol, explicar la organización del juego de ataque y de defensa y establecer los criterios para la evaluación de las actuaciones.
@@ -2249,8 +2247,6 @@ Para un determinado gesto técnico de un portero de fútbol:
 
 Realizar el análisis de gesto técnico.
 
-Proponer una serie de ejercicios específicos para el entrenamiento del gesto técnico.
-
 En función de objetivos propuestos, desarrollar diferentes ejercicios para el entrenamiento técnico de un portero de fútbol.
 
 En un supuesto de dos equipos de fútbol de características dadas, infantiles, juveniles o seniors, programar el entrenamiento técnico de una temporada deportiva, teniendo en cuenta la participación periódica en las respectivas competiciones deportivas.
@@ -2263,7 +2259,7 @@ Definir e identificar los defectos de ejecución técnica más comunes, explican
 
 Definir los criterios para evaluar la progresión de los alumnos en el aprendizaje de la técnica.
 
-5.3 Bloque complementario.
+**5.3** Bloque complementario.
 
 Las Administraciones públicas competentes, incluirán en el currículo:
 
@@ -2283,7 +2279,7 @@ En un supuesto dado utilizar, como usuario, una aplicación informática relativ
 
 Sobre un texto en el idioma que proceda, referido a la especialidad deportiva, seleccionar y traducir los términos relativos a las ciencias del deporte.
 
-5.4 Bloque de formación práctica.
+**5.4** Bloque de formación práctica.
 
 A) Objetivos.
 
@@ -2359,11 +2355,11 @@ Carga horaria del bloque.
 
 7. Descripción del perfil profesional
 
-7.1 Definición genérica del perfil profesional.
+**7.1** Definición genérica del perfil profesional.
 
 El título de Técnico Deportivo superior en Fútbol acredita que su titular posee las competencias necesarias para planificar y dirigir el entrenamiento de deportistas y equipos de fútbol, dirigir la participación de éstos en competiciones de medio y alto nivel, así como dirigir escuelas de fútbol.
 
-7.2 Unidades de competencia.
+**7.2** Unidades de competencia.
 
 Planificar y dirigir el entrenamiento de futbolistas.
 
@@ -2371,7 +2367,7 @@ Programar y dirigir la participación de equipos de fútbol en competiciones de 
 
 Dirigir un departamento, sección o escuela de fútbol.
 
-7.3 Capacidades profesionales.
+**7.3** Capacidades profesionales.
 
 Este técnico debe ser capaz de:
 
@@ -2403,7 +2399,7 @@ Colaborar en el diseño, planificación y dirección técnica de competiciones d
 
 Adaptarse a los cambios tecnológicos, organizativos, económicos y sociales que inciden en la actividad profesional.
 
-7.4 Ubicación en el ámbito deportivo.
+**7.4** Ubicación en el ámbito deportivo.
 
 Este título acredita la adquisición de las competencias profesionales suficientes, para asumir sus responsabilidades de forma autónoma o en el seno de un organismo público o empresa privada.
 
@@ -2431,7 +2427,7 @@ Empresas de servicios deportivos.
 
 Centros de formación de técnicos deportivos de fútbol.
 
-7.5 Responsabilidad en las situaciones de trabajo.
+**7.5** Responsabilidad en las situaciones de trabajo.
 
 A este técnico le son requeridas las responsabilidades siguientes:
 
@@ -2447,7 +2443,7 @@ La dirección técnica de un departamento, sección o escuela de deportes de fú
 
 8. Enseñanzas mínimas
 
-8.1 Bloque común.
+**8.1** Bloque común.
 
 A) Módulo de Biomecánica del deporte.
 
@@ -2697,7 +2693,7 @@ Describir las técnicas de investigación social aplicadas al deporte.
 
 Realizando un seguimiento de los medios de comunicación social, identificar las tendencias de la práctica deportiva en la España del siglo XXI.
 
-8.2 Bloque específico.
+**8.2** Bloque específico.
 
 A) Módulo de Desarrollo Profesional III.
 
@@ -3015,7 +3011,7 @@ En función de objetivos propuestos, desarrollar diferentes ejercicios para el e
 
 Aplicar sin error los criterios para evaluar la progresión técnica de los jugadores de fútbol de un equipo de primera división.
 
-8.3 Bloque complementario.
+**8.3** Bloque complementario.
 
 A) Objetivos.
 
@@ -3029,7 +3025,7 @@ C) Criterios de evaluación.
 
 En un supuesto dado, utilizar los recursos multimedia que corresponda.
 
-8.4 Bloque de formación práctica.
+**8.4** Bloque de formación práctica.
 
 A) Objetivos.
 
@@ -3089,7 +3085,7 @@ Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada se
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
-8.5 Proyecto final.
+**8.5** Proyecto final.
 
 A) Objetivo.
 
@@ -3167,9 +3163,9 @@ Horas
 
 2. Descripción del perfil profesional
 
-2.1 Definición genérica del perfil profesional. El certificado de primer nivel de Técnico Deportivo en Fútbol Sala acredita que su titular posee las competencias necesarias para realizar la iniciación al fútbol sala, así como para promocionar esta modalidad deportiva.
+**2.1** Definición genérica del perfil profesional. El certificado de primer nivel de Técnico Deportivo en Fútbol Sala acredita que su titular posee las competencias necesarias para realizar la iniciación al fútbol sala, así como para promocionar esta modalidad deportiva.
 
-2.2 Unidades de competencia.
+**2.2** Unidades de competencia.
 
 Instruir en los principios fundamentales de la técnica y la táctica del fútbol sala.
 
@@ -3177,7 +3173,7 @@ Conducir y acompañar al equipo durante la práctica deportiva.
 
 Garantizar la seguridad de los deportistas y aplicar en caso necesario los primeros auxilios.
 
-2.3 Capacidades profesionales.
+**2.3** Capacidades profesionales.
 
 Este técnico debe ser capaz de:
 
@@ -3215,7 +3211,7 @@ Colaborar con los servicios de asistencia médica de la instalación deportiva.
 
 Detectar la información técnica relacionada con sus funciones profesionales.
 
-2.4 Ubicación en el ámbito deportivo.
+**2.4** Ubicación en el ámbito deportivo.
 
 Ejercerá su actividad en el ámbito de la iniciación deportiva. Se excluye expresamente la enseñanza del fútbol.
 
@@ -3233,7 +3229,7 @@ Empresas de servicios deportivos.
 
 Centros escolares (actividades extraescolares).
 
-2.5 Responsabilidad en las situaciones de trabajo.
+**2.5** Responsabilidad en las situaciones de trabajo.
 
 Este técnico actuará bajo la supervisión general de técnicos y/o profesionales de nivel superior al suyo, siéndole requeridas las responsabilidades siguientes:
 
@@ -3259,11 +3255,11 @@ El cumplimiento de las instrucciones generales procedentes del responsable de la
 
 3. Enseñanzas mínimas
 
-3.1 Bloque común.
+**3.1** Bloque común.
 
 El bloque común de las enseñanzas de primer nivel de Técnico Deportivo en Fútbol Sala, es igual al expuesto para el primer nivel de técnico deportivo en fútbol.
 
-3.2 Bloque específico.
+**3.2** Bloque específico.
 
 A) Módulo de Desarrollo profesional.
 
@@ -3655,7 +3651,7 @@ Determinar la secuencia de ejercicios que permitan la adquisición por parte del
 
 Utilizando imágenes reales de la ejecución de un determinado gesto técnico, detectar los errores de ejecución, coordinación o sincinesias y proponer ejercicios para su corrección.
 
-3.3 Bloque complementario.
+**3.3** Bloque complementario.
 
 Las Administraciones públicas competentes, incluirán en el currículo:
 
@@ -3683,7 +3679,7 @@ Sobre un texto en el idioma que proceda, referido a la especialidad deportiva, s
 
 Aplicar la didáctica adecuada para enseñar un aspecto de la especialidad a discapacitados físicos, psíquicos y sensoriales.
 
-3.4 Bloque de formación práctica.
+**3.4** Bloque de formación práctica.
 
 A) Objetivos.
 
@@ -3725,17 +3721,17 @@ Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
 4. Descripción del perfil profesional
 
-4.1 Definición genérica del perfil profesional.
+**4.1** Definición genérica del perfil profesional.
 
 El título de Técnico Deportivo en Fútbol Sala acredita que su titular posee las competencias necesarias para programar y efectuar la enseñanza del fútbol sala con vistas al perfeccionamiento de la ejecución técnica y táctica del deportista, así como efectuar el entrenamiento de deportistas y equipos de esta modalidad deportiva.
 
-4.2 Unidades de competencia.
+**4.2** Unidades de competencia.
 
 Programar y efectuar la enseñanza del fútbol sala y programar y dirigir el entrenamiento de jugadores y equipos de fútbol sala.
 
 Dirigir a jugadores y equipos durante los partidos de fútbol sala.
 
-4.3 Capacidades profesionales.
+**4.3** Capacidades profesionales.
 
 Este técnico debe ser capaz de:
 
@@ -3773,7 +3769,7 @@ Detectar e interpretar los cambios tecnológicos, organizativos, económicos y s
 
 Poseer una visión global e integradora del proceso, comprendiendo la función de las instalaciones y equipos, y las dimensiones técnicas, pedagógicas, organizativas, económicas y humanas de su trabajo.
 
-4.4 Ubicación en el ámbito deportivo.
+**4.4** Ubicación en el ámbito deportivo.
 
 Este título acredita la adquisición de los conocimientos y de las competencias profesionales suficientes, para asumir sus responsabilidades de forma autónoma o en el seno de un organismo público o empresa privada.
 
@@ -3791,7 +3787,7 @@ Empresas de servicios deportivos.
 
 Centros escolares (actividades extraescolares).
 
-4.5 Responsabilidad en las situaciones de trabajo.
+**4.5** Responsabilidad en las situaciones de trabajo.
 
 A este técnico le son requeridas las responsabilidades siguientes:
 
@@ -3807,11 +3803,11 @@ La dirección técnica de futbolistas y equipos durante la participación en com
 
 5. Enseñanzas mínimas
 
-5.1 Bloque común.
+**5.1** Bloque común.
 
 El bloque común de las enseñanzas de segundo nivel conducentes al título de Técnico Deportivo en Fútbol Sala, es igual al expuesto para el Técnico Deportivo en Fútbol.
 
-5.2 Bloque específico.
+**5.2** Bloque específico.
 
 A) Módulo de Desarrollo Profesional II.
 
@@ -4115,8 +4111,6 @@ Para un determinado gesto técnico dado de un portero de fútbol sala:
 
 Realizar el análisis de gesto técnico.
 
-Proponer una serie de ejercicios específicos para el entrenamiento del gesto técnico.
-
 En función de objetivos propuestos, desarrollar diferentes ejercicios para el entrenamiento técnico de un portero de fútbol sala.
 
 En un supuesto de dos equipos de fútbol sala de características determinadas, infantiles, juveniles o seniors, programar el entrenamiento técnico de una temporada deportiva, teniendo en cuenta la participación periódica en las respectivas competiciones deportivas.
@@ -4129,7 +4123,7 @@ Definir e identificar los defectos de ejecución técnica más comunes, explican
 
 Definir los criterios para evaluar la progresión de los alumnos en el aprendizaje de la técnica.
 
-5.3 Bloque complementario.
+**5.3** Bloque complementario.
 
 Las Administraciones públicas competentes incluirán en el currículo:
 
@@ -4149,7 +4143,7 @@ En un supuesto dado utilizar, como usuario, una aplicación informática relativ
 
 Sobre un texto en el idioma que proceda, referido a la especialidad deportiva, seleccionar y traducir los términos relativos a las ciencias del deporte.
 
-5.4 Bloque de formación práctica.
+**5.4** Bloque de formación práctica.
 
 A) Objetivos.
 
@@ -4209,11 +4203,11 @@ Horas
 
 7. Descripción del perfil profesional
 
-7.1 Definición genérica del perfil profesional.
+**7.1** Definición genérica del perfil profesional.
 
 El título de Técnico Deportivo superior en Fútbol Sala acredita que su titular posee las competencias necesarias para planificar y dirigir el entrenamiento de deportistas y equipos de fútbol sala, dirigir la participación de éstos en competiciones de medio y alto nivel, así como dirigir escuelas de fútbol.
 
-7.2 Unidades de competencia.
+**7.2** Unidades de competencia.
 
 Planificar y dirigir el entrenamiento de futbolistas.
 
@@ -4221,7 +4215,7 @@ Programar y dirigir la participación de equipos de fútbol sala en competicione
 
 Dirigir un departamento, sección o escuela de fútbol.
 
-7.3 Capacidades profesionales.
+**7.3** Capacidades profesionales.
 
 Este técnico debe ser capaz de:
 
@@ -4253,7 +4247,7 @@ Colaborar en el diseño, planificación y dirección técnica de competiciones d
 
 Adaptarse a los cambios tecnológicos, organizativos, económicos y sociales que inciden en la actividad profesional.
 
-7.4 Ubicación en el ámbito deportivo.
+**7.4** Ubicación en el ámbito deportivo.
 
 Este título acredita la adquisición de las competencias profesionales suficientes, para asumir sus responsabilidades de forma autónoma o en el seno de un organismo público o empresa privada.
 
@@ -4281,7 +4275,7 @@ Empresas de servicios deportivos.
 
 Centros de formación de técnicos deportivos de fútbol sala.
 
-7.5 Responsabilidad en las situaciones de trabajo.
+**7.5** Responsabilidad en las situaciones de trabajo.
 
 A este técnico le son requeridas las responsabilidades siguientes:
 
@@ -4297,11 +4291,11 @@ La dirección técnica de un departamento, sección o escuela de deportes de fú
 
 8. Enseñanzas mínimas
 
-8.1 Bloque común.
+**8.1** Bloque común.
 
 El bloque común de las enseñanzas conducentes al título de Técnico Deportivo superior en Fútbol Sala, es igual al expuesto para el Técnico Deportivo superior en Fútbol.
 
-8.2 Bloque específico.
+**8.2** Bloque específico.
 
 A) Módulo de Desarrollo profesional III.
 
@@ -4667,7 +4661,7 @@ En función de objetivos propuestos, desarrollar diferentes ejercicios para el e
 
 Aplicar sin error los criterios para evaluar la progresión técnica de los jugadores de fútbol de un equipo de categoría nacional.
 
-8.3 Bloque complementario. A) Objetivos.
+**8.3** Bloque complementario. A) Objetivos.
 
 Emplear soportes multimedia para la enseñanza o el entrenamiento de la especialidad deportiva.
 
@@ -4679,7 +4673,7 @@ C) Criterios de evaluación.
 
 En un supuesto dado, utilizar los recursos multimedia que corresponda.
 
-8.4 Bloque de formación práctica.
+**8.4** Bloque de formación práctica.
 
 A) Objetivos.
 
@@ -4739,7 +4733,7 @@ Desarrollo de las prácticas: fichas de seguimiento de las prácticas de cada se
 
 Informe de autoevaluación de las prácticas. Informe de evaluación del tutor.
 
-8.5 Proyecto final.
+**8.5** Proyecto final.
 
 A) Objetivo.
 
@@ -4823,7 +4817,7 @@ Requisitos mínimos de los centros de formación de los Técnicos de las especia
 
 1. Requisitos materiales
 
-1.1 Espacios de uso administrativo y docente genérico.
+**1.1** Espacios de uso administrativo y docente genérico.
 
 Los centros deberán disponer:
 
@@ -4841,7 +4835,7 @@ f) Dependencias para el almacenaje del material, adecuado a las necesidades del 
 
 g) Zona de vestuarios adecuado a la capacidad del centro, en función de lo que disponga la legislación que en cada caso sea aplicable.
 
-1.2 Requisitos de las instalaciones y equipamientos docentes deportivos.
+**1.2** Requisitos de las instalaciones y equipamientos docentes deportivos.
 
 a) Los centros de formación de técnicos deportivos de las especialidades de fútbol dispondrán del espacio suficiente y el equipamiento docente necesario en sus aulas, para atender a los alumnos inscritos en cada nivel y grado de formación de la correspondiente especialidad.
 
@@ -4909,8 +4903,6 @@ Otra titulación universitaria de ciclo largo del área de Humanidades o del ár
 
 Licenciado en Ciencias de la Actividad Física y del Deporte y Licenciado en Derecho.
 
-Otra titulación universitaria de ciclo largo del área de Humanidades o del área de Ciencias Sociales y Jurídicas y acreditar la formación suficiente en la materia.
-
 Licenciado en Psicología y Licenciado en Ciencias de la Actividad Física y del Deporte.
 
 Cualquier titulación universitaria de ciclo largo del área de Ciencias Sociales y Jurídicas y acreditar la formación suficiente en la materia.
@@ -4929,8 +4921,6 @@ Licenciados en Ciencias de la Actividad Física y del Deporte. Licenciado en Der
 
 Técnico Deportivo superior de la especialidad de Fútbol correspondiente.
 
-Técnico Deportivo superior de la especialidad de Fútbol correspondiente.
-
 Licenciado en Psicología.
 
 Licenciado en Ciencias de la Actividad Física y del Deporte.
@@ -4942,8 +4932,6 @@ Aplicación específica deportiva en fútbol.
 Itinerario en rendimiento deportivo en fútbol.
 
 Técnico Deportivo superior de la especialidad de Fútbol de la que se trate.
-
-Licenciado en Ciencias de la Actividad Física y del Deporte.
 
 Licenciado en Ciencias de la Actividad Física y del Deporte.
 

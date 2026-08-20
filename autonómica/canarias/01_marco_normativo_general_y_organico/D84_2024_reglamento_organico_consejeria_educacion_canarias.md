@@ -562,7 +562,7 @@ Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación
 
 1. La Dirección General de Ordenación de las Enseñanzas, Inclusión e Innovación ejercerá, en su ámbito funcional, las competencias previstas en el artículo 19 l.
 
-Decreto  212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
+Decreto 212/1991, de 11 de septiembre, de organización de los Departamentos de la Administración Autonómica de Canarias.
 
 2. Asimismo, le corresponden las competencias de dirección, coordinación, estudio y resolución en materia de ordenación de las enseñanzas, inclusión e innovación no atribuidas específicamente a otro órgano, y en concreto las siguientes:
 a) Establecer la ordenación académica así como elaborar y renovar, en su ámbito de competencia, los currículos, planes y programas de estudios y establecer normas y orientaciones para su implantación.

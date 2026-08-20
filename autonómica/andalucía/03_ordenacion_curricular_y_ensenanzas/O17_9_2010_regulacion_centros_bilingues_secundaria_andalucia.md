@@ -228,7 +228,9 @@ La Comisión de Valoración, a la vista de lo actuado, elevará a la persona tit
 
 1. Son causas de revocación de la calificación:
 a) El incumplimiento de la obligación de mantener los requisitos exigidos para su calificación recogida en el artículo
-b) El incumplimiento por parte de la «ONGD calificada» de la obligación de auditar las cuentas anuales desde su calificación, recogida en el citado artículo 5.3. Por auditoría de cuentas anuales se entiende la revisión y la verificación externa, realizada por persona habilitada para ello, de los documentos contables a fin de dictaminar si las cuentas anuales expresan la imagen fiel del patrimonio, de la situación financiera y de los resultados de la «ONGD calificada», así como de los recursos obtenidos y aplicados en el período examinado y la verificación de la concordancia del informe de gestión con dichas cuentas anuales.
+b) El incumplimiento por parte de la «ONGD calificada» de la obligación de auditar las cuentas anuales desde su calificación, recogida en el citado artículo
+
+**5.3.** Por auditoría de cuentas anuales se entiende la revisión y la verificación externa, realizada por persona habilitada para ello, de los documentos contables a fin de dictaminar si las cuentas anuales expresan la imagen fiel del patrimonio, de la situación financiera y de los resultados de la «ONGD calificada», así como de los recursos obtenidos y aplicados en el período examinado y la verificación de la concordancia del informe de gestión con dichas cuentas anuales.
 
 2. Cuando la AACID tenga indicios que puedan cuestionar la veracidad o el mantenimiento de las circunstancias que sirvieron para la calificación de la ONGD, o de haberse modificado sustancialmente aquellas, podrá revisar, y, en su caso, revocar, la condición de «ONGD calificada», previa instrucción, conforme a los artículos 78 y siguientes de la Ley 30/1992, de 26 de noviembre, del correspondiente expediente, siendo competente para la resolución del mismo la persona titular de la Dirección de la AACID.
 

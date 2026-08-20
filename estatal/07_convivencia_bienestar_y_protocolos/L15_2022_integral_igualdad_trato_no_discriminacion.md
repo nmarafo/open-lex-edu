@@ -441,8 +441,6 @@ La obligación de no discriminación se mantendrá durante todo el periodo poste
 
 3. Las personas titulares de los establecimientos y locales a los que se refieren los apartados anteriores o las organizadoras de espectáculos públicos o actividades recreativas darán a conocer en un espacio visible los criterios y limitaciones que resulten del ejercicio del derecho de admisión. Las administraciones públicas competentes desarrollarán las medidas necesarias para garantizar el cumplimiento de lo dispuesto en este artículo, en particular las de vigilancia e inspección.
 
-Las administraciones públicas competentes desarrollarán las medidas necesarias para garantizar el cumplimiento de lo dispuesto en este artículo, en particular las de vigilancia e inspección.
-
 #### Artículo 22. Medios de comunicación social y publicidad, internet y redes sociales.
 
 1. Todos los medios de comunicación social respetarán el derecho a la igualdad de trato, evitando toda forma de discriminación en el tratamiento y formato accesible de la información, en sus contenidos y su programación.

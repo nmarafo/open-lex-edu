@@ -62,7 +62,7 @@ Las características técnicas generales del sistema de firma y certificado apli
 
 #### Cuarto. Verificación del certificado.
 
-La verificación del certificado podrá realizarse a través de la sede electrónica del Gobierno de Canarias, en la siguiente dirección electrónica: https://sede.gobcan.es/ educacionyuniversidades.
+La verificación del certificado podrá realizarse a través de la sede electrónica del Gobierno de Canarias, en la siguiente dirección electrónica: educacionyuniversidades.
 
 #### Quinto. Actuaciones administrativas automatizadas.
 

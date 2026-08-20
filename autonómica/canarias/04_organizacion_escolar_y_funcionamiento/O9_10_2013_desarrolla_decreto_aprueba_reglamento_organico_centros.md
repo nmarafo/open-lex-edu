@@ -284,18 +284,30 @@ momentos que fije la resolución anual por la que se convoca el procedimiento de
 
 #### Artículo 13. Equipos docentes.
 
-1. Equipos docentes de grupo. 1.1. Las reuniones de estos equipos docentes tienen como función principal la evaluación de los procesos de enseñanza y de aprendizaje del alumnado del grupo. Estarán constituidos por el profesorado que imparte docencia a cada grupo y serán coordinados por el profesorado tutor. 1.2. Las reuniones de equipos docentes de grupo deben articularse, según el calendario establecido por la jefatura de estudios y, como mínimo, de la siguiente forma:
+1. Equipos docentes de grupo.
+
+**1.1.** Las reuniones de estos equipos docentes tienen como función principal la evaluación de los procesos de enseñanza y de aprendizaje del alumnado del grupo. Estarán constituidos por el profesorado que imparte docencia a cada grupo y serán coordinados por el profesorado tutor.
+
+**1.2.** Las reuniones de equipos docentes de grupo deben articularse, según el calendario establecido por la jefatura de estudios y, como mínimo, de la siguiente forma:
 
 a) Reuniones preparatorias en el mes de septiembre para elaborar la programación didáctica.
 b) Reuniones ordinarias, de carácter periódico, para el control del desarrollo y cumplimiento de la programación, y para la organización de actividades, con el propósito de valorar la metodología empleada y consensuar pautas de intervención en el grupo.
 c) Sesiones de evaluación, que se desarrollarán conforme a lo establecido en la normativa de evaluación en vigor, correspondiente a las distintas etapas en las que deben ser tratados y valorados el rendimiento escolar del alumnado, el análisis de los resultados y las propuestas de mejora que se propongan, junto con el uso de los medios y de los recursos didácticos. De cada reunión se levantará acta y se elaborará un informe que servirá también para la redacción de la memoria final.
-d) Reuniones al final del período lectivo ordinario para analizar su resultado final. Las conclusiones y las propuestas correctoras aprobadas se adjuntarán a las actas trimestrales para su posterior incorporación en la memoria final de curso. 1.3. El equipo directivo facilitará a las familias o a los tutores legales la posibilidad de reunirse con el profesorado no tutor del grupo.
+d) Reuniones al final del período lectivo ordinario para analizar su resultado final. Las conclusiones y las propuestas correctoras aprobadas se adjuntarán a las actas trimestrales para su posterior incorporación en la memoria final de curso.
+
+**1.3.** El equipo directivo facilitará a las familias o a los tutores legales la posibilidad de reunirse con el profesorado no tutor del grupo.
 
 2. Equipos docentes de nivel. Los equipos docentes de nivel, de existir en el centro, planificarán sus sesiones de trabajo, conforme a lo establecido en las normas de organización y funcionamiento. Para esta planificación se tendrá en cuenta la existencia de equipos de trabajo que desarrollen programas y proyectos educativos.
 
-3. Equipos docentes de ciclo. 3.1. Las reuniones de los equipos de ciclo tendrán por objeto, como mínimo, evaluar el desarrollo de la práctica docente y aplicar las medidas correctoras que esa evaluación aconseje, dentro del marco de las competencias reconocidas a estos equipos en el Reglamento Orgánico de los centros. Se levantará acta de estas reuniones donde se recogerán los temas tratados y los acuerdos adoptados. 3.2. La jefatura de estudios determinará la periodicidad de las reuniones de los equipos docentes de ciclo, que no podrá ser menor de una mensual. Estas reuniones serán de obligada asistencia para todo el profesorado perteneciente a ellos. 3.3. Según lo establecido en las normas de organización y funcionamiento del centro, una vez cada trimestre, al menos, las reuniones de los equipos de ciclo tendrán por objeto evaluar el desarrollo de la práctica docente, las actividades y los proyectos realizados, las dificultades encontradas y los resultados obtenidos; y aplicar las propuestas de mejora que esa evaluación aconseje. Estas propuestas serán recogidas en un informe que elaborará la persona coordinadora del equipo de ciclo y servirán para la redacción de la memoria final.
+3. Equipos docentes de ciclo.
 
-3.4. Cuando no existan personas coordinadoras de ciclo de Educación Infantil o Educación Primaria, por tener el ciclo una sola unidad, sus funciones serán asumidas por la dirección.
+**3.1.** Las reuniones de los equipos de ciclo tendrán por objeto, como mínimo, evaluar el desarrollo de la práctica docente y aplicar las medidas correctoras que esa evaluación aconseje, dentro del marco de las competencias reconocidas a estos equipos en el Reglamento Orgánico de los centros. Se levantará acta de estas reuniones donde se recogerán los temas tratados y los acuerdos adoptados.
+
+**3.2.** La jefatura de estudios determinará la periodicidad de las reuniones de los equipos docentes de ciclo, que no podrá ser menor de una mensual. Estas reuniones serán de obligada asistencia para todo el profesorado perteneciente a ellos.
+
+**3.3.** Según lo establecido en las normas de organización y funcionamiento del centro, una vez cada trimestre, al menos, las reuniones de los equipos de ciclo tendrán por objeto evaluar el desarrollo de la práctica docente, las actividades y los proyectos realizados, las dificultades encontradas y los resultados obtenidos; y aplicar las propuestas de mejora que esa evaluación aconseje. Estas propuestas serán recogidas en un informe que elaborará la persona coordinadora del equipo de ciclo y servirán para la redacción de la memoria final.
+
+**3.4.** Cuando no existan personas coordinadoras de ciclo de Educación Infantil o Educación Primaria, por tener el ciclo una sola unidad, sus funciones serán asumidas por la dirección.
 
 #### Artículo 14. Tutorías.
 

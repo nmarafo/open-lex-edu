@@ -220,14 +220,19 @@ que la empresa tenga establecidas con carácter interno sobre el comportamiento 
 3. En ningún caso, un módulo podrá desarrollarse en su totalidad en la empresa u organismo equiparado, ni tener asignada una estancia equivalente a más del 65% de la duración total del mismo en la empresa.
 
 4. En el régimen general, la formación en empresa u organismo equiparado se concretará del siguiente modo:
-4.1. En los Certificados Profesionales (Grado C):
+
+**4.1.** En los Certificados Profesionales (Grado C):
 • Los Certificados Profesionales (Grado C), en cualesquiera de sus niveles, tienen carácter dual e incluyen un periodo de formación en empresa de duración variable en régimen general o intensivo.
-• La formación en empresa en régimen general tendrá una duración de entre el 25 y el 35% de la duración total del certificado profesional, e incluirá entre el 10 y el 20% de los resultados de aprendizaje de los módulos profesionales. En el caso de certificados profesionales de nivel 1, la duración de la formación en la empresa será del 20% de la duración total del certificado, ofertándose por defecto en este régimen. 4.2. En los Ciclos Formativos de Grado Básico (nivel 1 de Grado D):
+• La formación en empresa en régimen general tendrá una duración de entre el 25 y el 35% de la duración total del certificado profesional, e incluirá entre el 10 y el 20% de los resultados de aprendizaje de los módulos profesionales. En el caso de certificados profesionales de nivel 1, la duración de la formación en la empresa será del 20% de la duración total del certificado, ofertándose por defecto en este régimen.
+
+**4.2.** En los Ciclos Formativos de Grado Básico (nivel 1 de Grado D):
 • La estancia en empresa u organismo equiparado representará entre el 10 y 20% de los resultados de aprendizaje del ámbito profesional y se realizará, en el ámbito de la Comunidad Autónoma de Canarias, de forma acumulada en el segundo curso con la totalidad de la duración de la estancia. En el primer curso de los Ciclos de Grado Básico, el alumnado cursará la duración completa de los módulos y será evaluado de la totalidad de los resultados de aprendizaje en el centro educativo.
 • La formación en empresa u organismo equiparado representará el 20% de la duración total de la enseñanza (400 horas). La concreción de la ubicación temporal de la formación en empresa se determinará por parte de cada centro y se desarrollará a partir del segundo
 
 trimestre de segundo curso, en jornadas de entre 6 y 8 horas diarias en la empresa durante cuatro días y acudiendo al centro educativo el quinto día. En todo caso, el programa formativo se adaptará a las necesidades de horario y procesos de la empresa, acorde con el perfil profesional del título.
-• En el caso de centros públicos que imparten CFGB, la formación en empresa por parte del alumnado se podrá llevar a cabo en otros centros docentes de la red pública de Canarias, atendiendo al perfil profesional de nivel 1 de cualificación y los requisitos establecidos para el contacto con menores por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor. Para ello será necesario que el centro emisor cuente con la colaboración del centro donde se vaya a realizar la formación y que este cuente con un profesional que desempeñe tareas en el mismo del sector de la familia profesional del CFGB. 4.3. En los Ciclos Formativos de Grado Medio y Superior (niveles 2 y 3 de Grado D):
+• En el caso de centros públicos que imparten CFGB, la formación en empresa por parte del alumnado se podrá llevar a cabo en otros centros docentes de la red pública de Canarias, atendiendo al perfil profesional de nivel 1 de cualificación y los requisitos establecidos para el contacto con menores por la [Ley Orgánica 1/1996](../../../estatal/01_marco_normativo_general_y_organico/LO1_1996_proteccion_juridica_menor_modificacion_parcial_codigo.md), de 15 de enero, de Protección Jurídica del Menor. Para ello será necesario que el centro emisor cuente con la colaboración del centro donde se vaya a realizar la formación y que este cuente con un profesional que desempeñe tareas en el mismo del sector de la familia profesional del CFGB.
+
+**4.3.** En los Ciclos Formativos de Grado Medio y Superior (niveles 2 y 3 de Grado D):
 • La formación en la empresa u organismo equiparado contemplará entre el 10 y el 20% de los resultados de aprendizaje y representará entre el 25 y el 35% de la duración total de la enseñanza (entre 500 y 700 horas), y distribuidas en dos cursos.
 • Para el primer curso, la formación en empresa u organismo equiparado tendrá una duración que puede oscilar entre un mínimo de 100 y un máximo de 200 horas. El mínimo de jornadas de formación en la empresa durante este curso será de 20.
 • Para el segundo curso, de aplicación a partir del curso 2025-2026, se realizará lo que resta de formación en empresa u organismo equiparado hasta alcanzar las horas totales acordadas con el centro educativo, preferentemente en dos periodos separados, debiendo finalizar antes de la fecha establecida en el calendario escolar para la celebración de la sesión de evaluación final de ciclo.
@@ -246,10 +251,11 @@ Curso semanas Horas/jornada Meses 1º 28 7 6 168 1,8 2º 52 13 8 416 29,2 3,3 1�
 Curso semanas Horas/jornada Meses 1º 28 7 6 168 1,8 2º 52 13 8 416 29,2 3,3 1º 24 6 7 168 1,5 2º 52 13 8 416 29,2 3,3 1º 24 6 8 192 1,5 2º 52 13 8 416 30,4 3,3 N.º Jornadas Horas Totales % Horas Dual Curso semanas Horas/jornada Meses 1º 28 7 6 168 1,8 2º 64 16 8 512 34 4,0 1º 24 6 7 168 1,5 2º 64 16 8 512 34 4,0 1º 24 6 8 192 1,5 2º 60 15 8 480 33,6 3,8 N.º Jornadas Horas Totales % Horas Dual En caso de que la empresa u organismo equiparado proponga la contratación laboral de un alumno o alumna que conlleve remuneración, esta debe notificar este hecho al centro educativo dado que el alumnado afectado debe realizar la formación en otra empresa u organismo equiparado en régimen general.
 
 5. En el régimen intensivo, la formación en empresa se distribuirá del siguiente modo:
-5.1. En los Certificados Profesionales (Grado C):
+
+**5.1.** En los Certificados Profesionales (Grado C):
 La formación en empresa en régimen intensivo tendrá una duración de entre el 35 y el 50% de la duración total del certificado profesional, e incluirá al menos el 30% de los resultados de aprendizaje de los módulos profesionales.
 
-5.2. En los Ciclos Formativos de Grado Medio y Superior (niveles 2 y 3 de Grado D):
+**5.2.** En los Ciclos Formativos de Grado Medio y Superior (niveles 2 y 3 de Grado D):
 La duración de la formación en empresa u organismo equiparado contemplará al menos el 30% de los resultados de aprendizaje y representará entre el 35 y 50% de la duración total del ciclo, estableciéndose un mínimo de 700 horas y un máximo de 1.000 horas de formación práctica distribuida entre ambos cursos, preferentemente a partir del mes de febrero, teniendo en cuenta que el segundo curso debe finalizar antes de la fecha establecida en el calendario escolar para la celebración de la sesión de evaluación final de ciclo. Sin menoscabo de lo anterior, una posible distribución de las jornadas diarias en la empresa en este régimen podrían ser, a modo de ejemplo, las siguientes:
 - Para una duración en torno a 700 horas (35%):
 régimen podrían ser, a modo de ejemplo, las siguientes:
@@ -263,9 +269,14 @@ régimen podrían ser, a modo de ejemplo, las siguientes:
 Curso semanas Horas Totales Meses 1º 28 7 6 168 1,75 2º 104 26 8 832 50 6,5 1º 24 6 7 168 1,5 2º 104 26 8 832 50 6,5 1º 24 6 8 192 1,5 2º 100 25 8 800 49,6 6,25 N.º Jornadas Horas/ jornada % Horas Dual Curso semanas Horas Totales Meses 1º 24 6 6 144 1,5 2º 72 18 8 576 36 4,5 1º 20 5 7 140 1,25 2º 72 18 8 576 35,8 4,5 1º 20 5 8 160 1,25 2º 72 18 8 576 36,8 4,5 N.º Jornadas Horas/ jornada % Horas Dual En el caso de que la empresa u organismo equiparado proponga en algún momento del proceso formativo que un alumno o alumna cambie del régimen general al régimen intensivo, la suma total de horas de formación en la empresa entre ambos regímenes debe alcanzar al finalizar el segundo curso el mínimo de 700 horas.
 
 6. Cursos de Especialización (niveles 2 y 3 de Grado E):
-6.1. En régimen general, en aquellos Cursos de Especialización cuyo currículo así lo establezca, se deberá realizar la formación en empresa u organismo equiparado, que contemplará entre el 10 y el 20% de los resultados de aprendizaje y representará entre el 25% y el 35% de la duración total de la enseñanza. 6.2. En régimen intensivo, en aquellos Cursos de Especialización cuyo currículo así lo establezca, se deberá realizar la formación en empresa u organismo equiparado, que
 
-contemplará al menos el 30% de los resultados de aprendizaje y representará entre el 35 y el 50% de la duración total de la enseñanza. 6.3. En los Cursos de Especialización cuyo currículo no contemple específicamente la formación en la empresa, el equipo educativo, previa autorización de la DGFPERE, podrá incorporar un periodo de formación en empresa u organismo equiparado en función de las características de cada formación.
+**6.1.** En régimen general, en aquellos Cursos de Especialización cuyo currículo así lo establezca, se deberá realizar la formación en empresa u organismo equiparado, que contemplará entre el 10 y el 20% de los resultados de aprendizaje y representará entre el 25% y el 35% de la duración total de la enseñanza.
+
+**6.2.** En régimen intensivo, en aquellos Cursos de Especialización cuyo currículo así lo establezca, se deberá realizar la formación en empresa u organismo equiparado, que
+
+contemplará al menos el 30% de los resultados de aprendizaje y representará entre el 35 y el 50% de la duración total de la enseñanza.
+
+**6.3.** En los Cursos de Especialización cuyo currículo no contemple específicamente la formación en la empresa, el equipo educativo, previa autorización de la DGFPERE, podrá incorporar un periodo de formación en empresa u organismo equiparado en función de las características de cada formación.
 
 #### Sexta. Jornada en empresa u organismo equiparado.
 
@@ -466,14 +477,19 @@ e) Apoyar, en los Centros Integrados de Formación Profesional, a los Departamen
 #### Decimotercera. Exenciones de la formación práctica.
 
 1. Podrán quedar exentos, total o parcialmente, de la formación en empresa u organismo equiparado, únicamente en régimen general, quienes acrediten una experiencia laboral correspondiente a un año, en el caso de los Grados D, a tiempo completo o su equivalente, que se corresponda con la misma formación cursada. En el caso de los Grados C y E, se debe acreditar una experiencia laboral mínima de seis meses. La solicitud de exención se presentará, preferentemente, durante el último trimestre del año o al menos un mes antes del inicio de la formación en empresa u organismo equiparado. Para la justificación de la experiencia laboral se podrá aportar la realizada los cinco años anteriores, justificándose de la siguiente manera:
-1.1. Para trabajadores o trabajadoras asalariados/as se solicitará:
+
+**1.1.** Para trabajadores o trabajadoras asalariados/as se solicitará:
 a) **Vida laboral.** Certificación de la Tesorería General de la Seguridad Social, del Instituto Social de la Marina o de la mutualidad a la que estuvieran afiliados/as, donde consten la empresa, categoría laboral y el periodo de contratación.
-b) **Funciones desempeñadas.** Contrato de trabajo o certificación de la empresa donde haya adquirido la experiencia laboral, en la que conste específicamente la duración de los periodos de prestación de contrato, la actividad desarrollada y el intervalo de tiempo en el que se ha desarrollado dicha actividad. 1.2. Para trabajadores o trabajadoras autónomos/as o por cuenta propia se solicitará:
+b) **Funciones desempeñadas.** Contrato de trabajo o certificación de la empresa donde haya adquirido la experiencia laboral, en la que conste específicamente la duración de los periodos de prestación de contrato, la actividad desarrollada y el intervalo de tiempo en el que se ha desarrollado dicha actividad.
+
+**1.2.** Para trabajadores o trabajadoras autónomos/as o por cuenta propia se solicitará:
 a) **Vida laboral.** Certificación de la Tesorería de la Seguridad Social o del Instituto Social de la Marina, con los periodos de alta en la Seguridad Social en el régimen especial correspondiente.
 b) **Funciones desempeñadas.** Descripción de la actividad desarrollada e intervalo de tiempo en el que se ha desarrollado la misma.
 
-1.3. Para becarios:
-Vida laboral y funciones desempeñadas: certificación de la persona responsable de la organización donde se haya prestado la asistencia en la que consten, específicamente, las actividades y funciones realizadas, el año en el que se han realizado y el número total de horas dedicadas a las mismas. 1.4. Para personas voluntarias:
+**1.3.** Para becarios:
+Vida laboral y funciones desempeñadas: certificación de la persona responsable de la organización donde se haya prestado la asistencia en la que consten, específicamente, las actividades y funciones realizadas, el año en el que se han realizado y el número total de horas dedicadas a las mismas.
+
+**1.4.** Para personas voluntarias:
 Vida laboral y funciones desempeñadas: certificación expedida por la entidad de voluntariado en la que se hayan prestado los servicios voluntarios en la que consten, como mínimo, además de los datos personales e identificativos de la persona voluntaria y la entidad de voluntariado, la fecha de incorporación a la entidad y la duración, descripción de las tareas realizadas o funciones asumidas y el lugar donde se haya llevado a cabo la actividad.
 
 2. Podrá quedar exento parcialmente del periodo de formación en la empresa u organismo equiparado, solo en régimen general, aquel alumnado que o bien aporte una acreditación de unidades de competencias superadas en procedimientos de evaluación y acreditación de competencias profesionales o certificados profesionales que estén relacionados con el Grado D que se encuentre cursando. El número de horas requeridas para esta exención dependerá de las horas que conlleven las realizaciones de aprendizaje de los módulos dualizables que se acuerden entre el centro educativo y la empresa u organismo equiparado en el marco del Plan de formación correspondiente.
@@ -503,7 +519,7 @@ Real Decreto 278/2023, de 11 de abril, por el que se establece el calendario de 
 PLAN FORMATIVO EN EMPRESA U ORGANISMO EQUIPARADO RÉGIMEN (General/Intensivo)________________ CURSO: __________ FECHA:_______________ DATOS DE IDENTIFICACIÓN:
 CICLO FORMATIVO CENTRO DE FORMACIÓN:
 ALUMNO/ ALUMNA Nombre y Apellidos: TELÉFONO: Correo electrónico:
-Requiere adaptaciones puesto de trabajo: Sí/ No Especificar: Requiere autorización:  Sí /No Especificar:
+Requiere adaptaciones puesto de trabajo: Sí/ No Especificar: Requiere autorización: Sí /No Especificar:
 DATOS TUTOR/A DE CENTRO EDUCATIVO TELÉFONO: Correo electrónico:
 DATOS EMPRESA: TELÉFONO: Correo electrónico:
 DATOS TUTOR/A DE EMPRESA TELÉFONO: Correo electrónico:
@@ -511,20 +527,20 @@ PERIODOS DE FORMACIÓN EN LA EMPRESA FECHAS: TOTAL HORAS: Varias empresas/ ROTAC
 Sí/NO Puesto ocupado 1:
 Puesto ocupado 2:
 INTERV ALO DE FORMACIÓN (Secuencias) DIARIO: SEMANAL: MENSUAL: OTROS:
-PLAN DE COORDINACIÓN TUTORES (mecanismos de seguimiento de los aprendizajes realizados) Periodicidad de visitas del tutor/a académico a la empresa u organismo equiparado: Visitas a la empresa, Comunicación telefónica: Fechas y duración Comunicación email Videollamadas: fechas y duración FORMACIÓN ESPECÍFICA NO VINCULADA AL CURRÍCULO/CICLO FORMATIVO Dirección General de Formación Profesional  y Enseñanzas de Régimen Especial.
+PLAN DE COORDINACIÓN TUTORES (mecanismos de seguimiento de los aprendizajes realizados) Periodicidad de visitas del tutor/a académico a la empresa u organismo equiparado: Visitas a la empresa, Comunicación telefónica: Fechas y duración Comunicación email Videollamadas: fechas y duración FORMACIÓN ESPECÍFICA NO VINCULADA AL CURRÍCULO/CICLO FORMATIVO Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.
 
 ## Anexo II
 
 PLAN FORMATIVO EN EMPRESA U ORGANISMO EQUIPARADO
 
-CÓDIGO MÓDULO PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS  A REALIZAR DESARROLLADO EN LA EMPRESA DESARROLLADO EN EL CENTRO SUPERADO NO SUPERADO RA 1:
+CÓDIGO MÓDULO PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS A REALIZAR DESARROLLADO EN LA EMPRESA DESARROLLADO EN EL CENTRO SUPERADO NO SUPERADO RA 1:
 RA 2:
 RA 3:
 TAREAS A REALIZAR EN LA EMPRESA RELACIONADAS CON EL RESULTADO DE APRENDIZAJE V ALORACIÓN CUALITATIV A DE LA ADQUISICIÓN DEL RESULTADO DE APRENDIZAJE RESULTADOS DE APRENDIZAJE A
 
-IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo)
+IMPLEMENTAR EN LA EMPRESA (Cumplimentar uno por módulo)
 
-RESULTADOS DE APRENDIZAJE A IMPLEMENTAR EN LA EMPRESA  (Cumplimentar uno por módulo) CÓDIGO MÓDULO PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS  A REALIZAR DESARROLLADO EN LA EMPRESA DESARROLLADO EN EL CENTRO SUPERADO NO SUPERADO RA 1:
+RESULTADOS DE APRENDIZAJE A IMPLEMENTAR EN LA EMPRESA (Cumplimentar uno por módulo) CÓDIGO MÓDULO PROFESIONAL RESULTADOS DE APRENDIZAJE HORAS A REALIZAR DESARROLLADO EN LA EMPRESA DESARROLLADO EN EL CENTRO SUPERADO NO SUPERADO RA 1:
 RA 2:
 RA 3:
 TAREAS A REALIZAR EN LA EMPRESA RELACIONADAS CON EL RESULTADO DE APRENDIZAJE V ALORACIÓN CUALITATIV A DE LA ADQUISICIÓN DEL RESULTADO DE APRENDIZAJE
@@ -533,14 +549,14 @@ OBSERV ACIONES Fdo.: Tutor/tutora centro de formación Fdo.: Tutor/ tutora de em
 
 ## Anexo III
 
-SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA  DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA. SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA  DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA. Fecha______________________/ Curso 20..…../20...….. DATOS DEL CENTRO EDUCATIVO Nombre de Centro Código del centro DIRECTOR O DIRECTORA DEL CENTRO EDUCATIVO Nombre y Apellidos TUTOR O TUTORA DUAL DEL CENTRO EDUCATIVO Nombre y Apellidos DATOS DEL CICLO FORMATIVO (GB, GM, GS)/CURSOS DE ESPECIALIZACIÓN DENOMINACIÓN Curso:
+SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA. SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA. Fecha______________________/ Curso 20..…../20...….. DATOS DEL CENTRO EDUCATIVO Nombre de Centro Código del centro DIRECTOR O DIRECTORA DEL CENTRO EDUCATIVO Nombre y Apellidos TUTOR O TUTORA DUAL DEL CENTRO EDUCATIVO Nombre y Apellidos DATOS DEL CICLO FORMATIVO (GB, GM, GS)/CURSOS DE ESPECIALIZACIÓN DENOMINACIÓN Curso:
 DATOS DEL ALUMNO O ALUMNA Nombre y Apellidos MODALIDAD EN LA QUE PREFIERE PARTICIPAR Prefiero participar en Modalidad en régimen general. Prefiero participar en Modalidad en régimen intensivo.
 
 ## Anexo III
 
 SOLICITUD DE ALUMNADO CON INDICACIÓN DE PREFERENCIA DE RÉGIMEN Y ASIGNACIÓN DE EMPRESA
 
-1. 2. 3. 4. 5. Indicar orden de preferencia en la asignación de centros para la formación en empresa u organismo equiparado, de los indicados por el tutor o tutora del centro educativo (Incluir compromisos con la empresa EJ: el alumno/alumna firmante se compromete a aceptar  y cumplirlas condiciones propuestas por la empresa,  solicita adaptación del puesto de trabajo) Fdo.: Tutor/a Dual centro de formación. Fdo.: Alumno o Alumna.
+1. 2. 3. 4. 5. Indicar orden de preferencia en la asignación de centros para la formación en empresa u organismo equiparado, de los indicados por el tutor o tutora del centro educativo (Incluir compromisos con la empresa EJ: el alumno/alumna firmante se compromete a aceptar y cumplirlas condiciones propuestas por la empresa, solicita adaptación del puesto de trabajo) Fdo.: Tutor/a Dual centro de formación. Fdo.: Alumno o Alumna.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

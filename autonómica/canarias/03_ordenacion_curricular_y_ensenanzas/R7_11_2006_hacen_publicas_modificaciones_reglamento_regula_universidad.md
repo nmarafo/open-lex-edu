@@ -88,12 +88,14 @@ Se puede acceder desde cualquier opción, a las siguientes titulaciones:
 - Relaciones Laborales.
 - Ciencias de la Actividad Física y el Deporte. Anuncios de contratación Consejería de Infraestructuras, Transportes y Vivienda 4274 Instituto Canario de la Vivienda.- Anuncio de 8 de noviembre de 2006, del Secretario, por el que se hace público el concurso, procedimiento abierto y trámite de urgencia, para la contratación de la obra de construcción de 9 viviendas protegidas de promoción pública en Montaña Miraflores, término municipal de Puntagorda (La Palma). Por Resolución de 30 de octubre de 2006, del Presidente del Instituto Canario de la Vivienda, se acuerda la apertura del procedimiento de adjudicación que a continuación se indica:
 
-1. ENTIDAD ADJUDICADORA.
+### 1. Entidad adjudicadora
+
 a) **Organismo.** Instituto Canario de la Vivienda.
 b) **Dependencia que tramita el expediente.** Servicio de Promoción Pública del Instituto Canario de la Vivienda.
 c) **Número de expediente.** TF-050/PP/05.
 
-2. OBJETO DEL CONTRATO.
+### 2. Objeto del contrato
+
 a) **Descripción del objeto.** Construcción de 9 viviendas protegidas de promoción pública en Montaña Miraflores, término municipal de Puntagorda, La Palma.
 b) **Lugar de ejecución.** Puntagorda (La Palma).
 c) Plazo de ejecución o fecha límite de entrega:

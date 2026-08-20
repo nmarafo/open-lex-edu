@@ -33,8 +33,32 @@ relaciones:
 
 ## Preámbulo
 
-Página núm. 8.338 Sevilla, 20 de julio 1996 AYUNTAMIENTO DE VILLANUEVA DEL ARZOBISPO Edicto relativo a aprobación inicial del Proyecto de Urbanización de Prolongación. (PP. 2255/96). 8.408 AYUNTAMIENTO DE POSADAS (CORDOBA) Anuncio. (PP. 2220/96). 8.409 AYUNTAMIENTO DE LUCENA Anuncio por el que se somete a información pública la aprobación inicial del Estudio de Detalle núm. trece, segunda variante, promovido por Hermanos Vico Ruiz. (PP. 2265/96). 8.409 AYUNTAMIENTO DE SAN JUAN DEL PUERTO (HUELVA) Anuncio. (PP. 2363/96). 8.409 AYUNTAMIENTO DE ZUJAR (GRANADA) Anuncio de bases. 8.409 CORREDURIA DE COMERCIO DE DON EMILIO GONZALEZ ESPINAL Anuncio. (PP. 2596/96). 8.409 SDAD. COOP. AND. VIRGEN DE LAS HUERTAS Anuncio. (PP. 2438/96). 8.410 SDAD. COOP. AND. CALVIVA Anuncio de disolución y liquidación. (PP. 2456/96). 8.410 SDAD. COOP. AND. HORNO SAN SILVESTRE Anuncio de disolución y liquidación. (PP. 2457/96). 8.410 SDAD. COOP. AND. COTA Anuncio de disolución y liquidación. (PP. 2478/96). 8.410 PRESIDENCIA LEY 5/1996, de 18 de julio, relativa a la modificación de los artículos 9.1 y 11 de la Ley 8/1987, de 9 de diciembre, por la que se crea la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los servicios de radiodifusión y televisión gestionados por la Junta de Andalucía. El Presidente de la Junta de Andalucía a todos los que la presente vieren, sabed:
-Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY RELATIVA A LA MODIFICACION DE LOS ARTICULOS 9.1 Y 11 DE LA LEY 8/1987, DE 9 DE DICIEMBRE, POR LA QUE SE CREA LA EMPRESA PUBLICA DE LA RADIO Y TELEVISION DE ANDALUCIA Y REGULACION DE LOS SERVICIOS DE RADIODIFUSION Y TELEVISION GESTIONADOS POR LA JUNTA DE ANDALUCIA
+Página núm.
+
+**8.338** Sevilla, 20 de julio 1996 AYUNTAMIENTO DE VILLANUEVA DEL ARZOBISPO Edicto relativo a aprobación inicial del Proyecto de Urbanización de Prolongación. (PP. 2255/96).
+
+**8.408** AYUNTAMIENTO DE POSADAS (CORDOBA) Anuncio. (PP. 2220/96).
+
+**8.409** AYUNTAMIENTO DE LUCENA Anuncio por el que se somete a información pública la aprobación inicial del Estudio de Detalle núm. trece, segunda variante, promovido por Hermanos Vico Ruiz. (PP. 2265/96).
+
+**8.409** AYUNTAMIENTO DE SAN JUAN DEL PUERTO (HUELVA) Anuncio. (PP. 2363/96).
+
+**8.409** AYUNTAMIENTO DE ZUJAR (GRANADA) Anuncio de bases.
+
+**8.409** CORREDURIA DE COMERCIO DE DON EMILIO GONZALEZ ESPINAL Anuncio. (PP. 2596/96).
+
+**8.409** SDAD. COOP. AND. VIRGEN DE LAS HUERTAS Anuncio. (PP. 2438/96).
+
+**8.410** SDAD. COOP. AND. CALVIVA Anuncio de disolución y liquidación. (PP. 2456/96).
+
+**8.410** SDAD. COOP. AND. HORNO SAN SILVESTRE Anuncio de disolución y liquidación. (PP. 2457/96).
+
+**8.410** SDAD. COOP. AND. COTA Anuncio de disolución y liquidación. (PP. 2478/96).
+
+**8.410** PRESIDENCIA LEY 5/1996, de 18 de julio, relativa a la modificación de los artículos 9.1 y 11 de la Ley 8/1987, de 9 de diciembre, por la que se crea la Empresa Pública de la Radio y Televisión de Andalucía y regulación de los servicios de radiodifusión y televisión gestionados por la Junta de Andalucía. El Presidente de la Junta de Andalucía a todos los que la presente vieren, sabed:
+Que el Parlamento de Andalucía ha aprobado y yo, en nombre del Rey y por la autoridad que me confieren la Constitución y el Estatuto de Autonomía, promulgo y ordeno la publicación de la siguiente «LEY RELATIVA A LA MODIFICACION DE LOS ARTICULOS
+
+**9.1** Y 11 DE LA LEY 8/1987, DE 9 DE DICIEMBRE, POR LA QUE SE CREA LA EMPRESA PUBLICA DE LA RADIO Y TELEVISION DE ANDALUCIA Y REGULACION DE LOS SERVICIOS DE RADIODIFUSION Y TELEVISION GESTIONADOS POR LA JUNTA DE ANDALUCIA
 
 ## Exposición de motivos
 

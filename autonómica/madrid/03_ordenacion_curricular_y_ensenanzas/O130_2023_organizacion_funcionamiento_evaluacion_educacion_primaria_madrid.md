@@ -45,16 +45,16 @@ Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la
 
 Pág. 10 los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 17 de enero de 2023.—El Consejero de Economía, Hacienda y Empleo. Por delegación, (Orden de 3 de diciembre de 2021; BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de diciembre de 2021), el Secretario General Técnico, Juan Revuelta González.
 
-Pág. 11 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA DIRECCION GENERAL TRIBUTOS SUBDIRECCION GENERAL VALORACIONES AREA VALORACIONES DE COMPROBACION SERVICIO VALORACION URBANA II Puesto de Trabajo:
-SERV. VALORACION URBANA II Denominación     :
-26 A / B Grupo                :
-N.C.D.               :
-20.953,80 C. Específico      :
+Pág. 11 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA DIRECCION GENERAL TRIBUTOS SUBDIRECCION GENERAL VALORACIONES AREA VALORACIONES DE COMPROBACION SERVICIO VALORACION URBANA II Puesto de Trabajo:
+SERV. VALORACION URBANA II Denominación :
+26 A / B Grupo :
+N.C.D. :
+20.953,80 C. Específico :
 4**9*4*7* CAMINO DE LUCAS,LAURA Cód. identificación:
 Apellidos y Nombre:
 CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA DIRECCION GENERAL TRIBUTOS SUBDIRECCION GENERAL VALORACIONES AREA VALORACIONES DE COMPROBACION SERVICIO VALORACION URBANA III Puesto de Trabajo:
-ARQUITECTO/A TECNICO/A Denominación     :
-25 Grupo                 :
-N.C.D.                :
-13.536,12 C. Específico       :
+ARQUITECTO/A TECNICO/A Denominación :
+25 Grupo :
+N.C.D. :
+13.536,12 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO B (03/997/23)

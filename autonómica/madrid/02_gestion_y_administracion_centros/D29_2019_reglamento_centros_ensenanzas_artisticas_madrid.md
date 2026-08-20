@@ -105,4 +105,4 @@ Se faculta al titular de la consejería competente en materia de Agricultura par
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID. Madrid, a 2 de abril de 2019. El Consejero de Medio Ambiente y Ordenación del Territorio, CARLOS IZQUIERDO TORRES El Presidente, ÁNGEL GARRIDO GARCÍA
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 (03/12.814/19)
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 (03/12.814/19)

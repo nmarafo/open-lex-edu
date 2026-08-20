@@ -40,8 +40,6 @@ Resolución de 21 de julio de 2016, de la Secretaría General para la Administra
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -70,8 +68,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 143
@@ -86,7 +82,7 @@ Histórico del BOJA Boletín número 143 de 27/07/2016
 
 ### Resolución de 21 de julio de 2016, de la Secretaría General para la Administración Pública, por la que se dictan instrucciones para la aplicación de lo dispuesto en el Acuerdo del Consejo de Gobierno, de 21 de junio de 2016, sobre recuperación de la paga extraordinaria del mes de diciembre de 2012.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00095983.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00095983.
 
 Esta disposición incluye elementos no textuales, que no se muestran en esta página. Para visualizarlos, consulte la versión en <a title="Ir al final de la
 disposición" href="
@@ -221,17 +217,17 @@ Sevilla, 21 de julio de 2016.- La Secretaria General, Lidia Sánchez Milán.
 
 Disposición siguiente
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.1. Licitaciones públicas y adjudicaciones
+**5.1.** Licitaciones públicas y adjudicaciones
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 <a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA16-143-00159.pdf"> Descargar boletín nº 143 completo
 
@@ -250,4 +246,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

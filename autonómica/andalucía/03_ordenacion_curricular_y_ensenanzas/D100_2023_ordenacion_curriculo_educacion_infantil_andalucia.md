@@ -62,8 +62,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 90
@@ -78,7 +76,7 @@ Histórico del BOJA Boletín número 90 de 15/05/2023
 
 Decreto 100/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00283496.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00283496.
 
 La Comunidad Autónoma de Andalucía ostenta la competencia compartida para el establecimiento de los planes de estudio, incluida la ordenación curricular, de conformidad con lo dispuesto en el artículo 52.2 del Estatuto de Autonomía para Andalucía, sin perjuicio de lo recogido en el artículo 149.1.30.ª de la Constitución Española, a tenor del cual corresponde al Estado dictar las normas básicas para el desarrollo de su artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
@@ -609,4 +607,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

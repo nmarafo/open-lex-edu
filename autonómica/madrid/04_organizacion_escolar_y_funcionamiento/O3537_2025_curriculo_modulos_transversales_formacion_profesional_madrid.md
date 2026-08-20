@@ -43,23 +43,23 @@ Primero Objeto Se adjudican los puestos de trabajo a los funcionarios que figura
 Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente resolución, salvo que el cese haya sido formalmente diferido o aplazado por el órgano competente. El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable.
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgaMIÉRCOLES 20 DE AGOSTO DE 2025 Pág. 10 no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 7 de agosto de 2025.—La Consejera de Economía, Hacienda y Empleo, por delegación, la Secretaria General Técnica (Orden de 17 de abril de 2024, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 7 de mayo de 2024), P. S. (Orden de la Consejería de Economía, Hacienda y Empleo de 31 de julio de 2025), la Subdirectora General de Régimen Jurídico y Desarrollo Normativo, Marina Serrano Álvarez.
 
-Pág. 11 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA SERVICIO EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA Puesto de Trabajo:
+Pág. 11 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA HACIENDA Y FUNCIÓN PÚBLICA DIRECCION GENERAL PRESUPUESTOS SUBDIRECCION GENERAL MECANISMO DE RECUPERACIÓN Y RESILIENCIA AREA EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA SERVICIO EVALUACION Y CONTROL DEL MECANISMO DE RECUPERACION Y RESILIENCIA Puesto de Trabajo:
 Puesto de Trabajo:
-JEFE DE AREA  EVALUACION Y CONTROL MECANISMO DE RE SERV. EVALUACION Y CONTROL MECANISMO DE RECUPERACI Denominación     :
-Denominación     :
-29 26 A A / B Grupo                :
-Grupo                :
-N.C.D.               :
-N.C.D.               :
-41.058,24 28.167,36 C. Específico      :
-C. Específico      :
+JEFE DE AREA EVALUACION Y CONTROL MECANISMO DE RE SERV. EVALUACION Y CONTROL MECANISMO DE RECUPERACI Denominación :
+Denominación :
+29 26 A A / B Grupo :
+Grupo :
+N.C.D. :
+N.C.D. :
+41.058,24 28.167,36 C. Específico :
+C. Específico :
 ***0444** ***4864** CASANOVA GARCIA,ANA TIRADOS GARCIA,MIGUEL ANGEL Cód. identificación:
 Cód. identificación:
 Apellidos y Nombre:
 Apellidos y Nombre:
 CONSEJERIA MEDIO AMBIENTE, AGRICULTURA E INTERIOR SECRETARIA GENERAL TÉCNICA SUBDIRECCION GENERAL GESTIÓN ECONÓMICO-ADMINISTRATIVA AREA APOYO A LA GESTIÓN DE FONDOS EUROPEOS Puesto de Trabajo:
-JEFE DE AREA DE APOYO A LA GESTION DE FONDOS EUROP Denominación     :
-29 Grupo                 :
-N.C.D.                :
-41.058,24 C. Específico       :
+JEFE DE AREA DE APOYO A LA GESTION DE FONDOS EUROP Denominación :
+29 Grupo :
+N.C.D. :
+41.058,24 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO A (03/13.116/25)

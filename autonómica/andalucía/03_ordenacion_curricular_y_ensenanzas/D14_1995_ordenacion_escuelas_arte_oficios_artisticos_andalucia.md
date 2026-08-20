@@ -75,14 +75,14 @@ Disposición siguiente
 
 1. Disposiciones generales
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
-5.1. Subastas y concursos de obras, suministros y servicios públicos
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
 
-5.2. Otros anuncios
+**5.2.** Otros anuncios
 
 Descargar boletín nº 29 completo

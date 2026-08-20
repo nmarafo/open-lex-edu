@@ -73,7 +73,7 @@ La Inspección Educativa supervisará la aplicación de lo establecido en este d
 
 Los centros educativos deberán adoptar las medidas oportunas para que su proyecto educativo se adecue a lo dispuesto en este decreto durante el curso escolar 2025-2026. Excepcionalmente, los centros educativos que a la entrada en vigor de este decreto tengan implantado un proyecto educativo que requiera la utilización individual de dispositivos digitales dispondrán del curso 2026-2027 para su adaptación completa al contenido del decreto. No obstante, en el curso 2026-2027 no podrán haber incorporado nuevos cursos o grupos al proyecto educativo que requiera la utilización individual de dispositivos digitales. Así mismo, durante el curso 2026-2027 deberán adoptar medidas que garanticen la reducción del número de horas semanales de utilización de dispositivos digitales, la reducción del número de áreas con uso individual de dispositivos digitales y la eliminación
 
-Pág. 23 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 progresiva de tareas académicas evaluables fuera del horario escolar que exijan su ejecución a través de dispositivos digitales.
+Pág. 23 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 progresiva de tareas académicas evaluables fuera del horario escolar que exijan su ejecución a través de dispositivos digitales.
 
 #### Disposición adicional segunda. Centros privados no concertados.
 

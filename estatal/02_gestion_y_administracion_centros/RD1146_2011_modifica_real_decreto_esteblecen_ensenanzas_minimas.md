@@ -266,8 +266,6 @@ Lengua extranjera (Alemán).
 
 Biología y geología.
 
-Biología y geología.
-
 Ciencias de la naturaleza.
 
 Alimentación, nutrición y salud.
@@ -282,8 +280,6 @@ Orientación Profesional e Iniciativa emprendedora.
 
 Educación física.
 
-Educación física.
-
 Filosofía.
 
 Educación ético-cívica.
@@ -291,8 +287,6 @@ Educación ético-cívica.
 Educación para la ciudadanía y los derechos humanos.
 
 Historia y cultura de las religiones
-
-Física y química.
 
 Física y química.
 
@@ -328,19 +322,11 @@ Lengua extranjera (Italiano).
 
 Latín.
 
-Latín.
-
 Cultura clásica.
 
 Lengua castellana y literatura.
 
-Lengua castellana y literatura.
-
 Matemáticas.
-
-Matemáticas.
-
-Música.
 
 Música.
 
@@ -353,10 +339,6 @@ Tecnología.
 Tecnologías.
 
 Tecnología.
-
-Informática.
-
-Informática.
 
 Informática.
 

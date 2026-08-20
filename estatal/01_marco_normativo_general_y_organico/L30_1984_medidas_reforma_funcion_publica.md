@@ -2639,7 +2639,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 2. Sin perjuicio de la homologación que pueda acordar el Gobierno, de acuerdo con las facultades que le reconoce esta Ley, los funcionarios de la Administración de la Seguridad Social se integrarán en la forma que a continuación se establece en los siguientes Cuerpos y Escalas:
 
-2.1 Cuerpo Técnico de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.1** Cuerpo Técnico de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado, Ingeniero Superior o Arquitecto Superior, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Escala de Titulados Superiores del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -2659,13 +2659,13 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Escala Técnica Administrativa del Cuerpo Técnico de la Administración de la Seguridad Social, referida en la Orden ministerial de 4 de julio de 1981.
 
-2.2 Cuerpo de Gestión de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.2** Cuerpo de Gestión de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Diplomado Universitario, Ingeniero Técnico, Arquitecto Técnico o Formación Profesional de Tercer Grado, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Titulados Medios, Escala de Administración del extinguido Servicio de Asistencia a Pensionistas.
 
 – Cuerpo de Titulados Medios, Escala de Administración del extinguido Servicio de Recuperación y Rehabilitación de Minusválidos Físicos y Psíquicos.
 
-2.3 Cuerpo Administrativo de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Bachiller Unificado Polivalente, Bachiller Superior, Formación Profesional de Segundo Grado o equivalente, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.3** Cuerpo Administrativo de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Bachiller Unificado Polivalente, Bachiller Superior, Formación Profesional de Segundo Grado o equivalente, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Escala de Administrativos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -2683,7 +2683,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Escala única del Cuerpo Administrativo referida en la Orden ministerial de 4 de julio de 1981.
 
-2.4 Cuerpo Auxiliar de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Graduado Escolar, Bachiller Elemental, Formación Profesional de Primer Grado o equivalente, pertenezcan a alguno no de los Cuerpos o Escalas siguientes:
+**2.4** Cuerpo Auxiliar de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Graduado Escolar, Bachiller Elemental, Formación Profesional de Primer Grado o equivalente, pertenezcan a alguno no de los Cuerpos o Escalas siguientes:
 
 – Escala de Auxiliares del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -2701,9 +2701,9 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Escala única del Cuerpo Auxiliar referida en la Orden ministerial de 4 de julio de 1981.
 
-2.5 Cuerpo Subalterno de la Administración de la Seguridad Social.
+**2.5** Cuerpo Subalterno de la Administración de la Seguridad Social.
 
-2.5.1 Escala general: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.5.1** Escala general: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Escala de Subalternos del suprimido Instituto de Estudios de Sanidad y Seguridad Social.
 
@@ -2723,7 +2723,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 – Escala única del Cuerpo Subalterno referida en la Orden ministerial de 4 de julio de 1981.
 
-2.5.2 Escala de Oficios Varios: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.5.2** Escala de Oficios Varios: Se integrarán en ella los funcionarios con certificado de escolaridad que pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo Subalterno, Escala de Oficios Especiales del extinguido Instituto Nacional de Previsión, a excepción de la clase de Vigilantes Jurados.
 
@@ -2733,7 +2733,7 @@ Los funcionarios del Cuerpo de Inspectores al Servicio de la Administración Edu
 
 Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
-2.6 Cuerpo de Letrados de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado en Derecho, pertenezcan a algunos de los Cuerpos o Escalas siguientes:
+**2.6** Cuerpo de Letrados de la Administración de la Seguridad Social: Se integrarán en él los funcionarios que, ostentando la titulación de Licenciado en Derecho, pertenezcan a algunos de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Letrados del extinguido Instituto Nacional de Previsión.
 
@@ -2745,9 +2745,9 @@ Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
 – Escala única del Cuerpo de Letrados referida en la Orden ministerial de 4 de julio de 1981.
 
-2.7 Cuerpo de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social.
+**2.7** Cuerpo de Actuarios, Estadísticos y Economistas de la Administración de la Seguridad Social.
 
-2.7.1 Escala de Actuarios: Se integrarán en ella los funcionarios que, ostentando la titulación de Actuario de Seguros o de Licenciado en Ciencias Económicas y Empresariales, especialidad Actuarial o Rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
+**2.7.1** Escala de Actuarios: Se integrarán en ella los funcionarios que, ostentando la titulación de Actuario de Seguros o de Licenciado en Ciencias Económicas y Empresariales, especialidad Actuarial o Rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos o Escalas siguientes:
 
 – Cuerpo de Asesores Matemáticos, Escala de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos, del extinguido Instituto Nacional de Previsión.
 
@@ -2755,13 +2755,13 @@ Estatuto, realizaran las funciones de Conductores en 31 de diciembre de 1979.
 
 – Escala de Asesores Actuariales del Cuerpo de Asesores referida en la Orden ministerial de 4 de julio de 1981.
 
-2.7.2 Escala de Estadísticos y Economistas: Se Integrarán en ella los funcionarios que, ostentando la titulación de Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos y Escalas siguientes:
+**2.7.2** Escala de Estadísticos y Economistas: Se Integrarán en ella los funcionarios que, ostentando la titulación de Licenciado en Ciencias Económicas y Empresariales, salvo la especialidad Actuarial o rama Actuarial y de la Empresa Financiera, pertenezcan a alguno de los Cuerpos y Escalas siguientes:
 
 – Cuerpo de Asesores Matemáticos, Escalas de Asesores Actuariales, Asesores Estadísticos y Asesores Económicos del extinguido Instituto Nacional de Previsión:
 
-2.8 Cuerpo de Intervención y Contabilidad de la Administración de la Seguridad Social: Se integrarán en él los funcionarios del actual Cuerpo de Intervención y Contabilidad de la Seguridad Social que ostenten título de Licenciado, Ingeniero Superior o Arquitecto Superior.
+**2.8** Cuerpo de Intervención y Contabilidad de la Administración de la Seguridad Social: Se integrarán en él los funcionarios del actual Cuerpo de Intervención y Contabilidad de la Seguridad Social que ostenten título de Licenciado, Ingeniero Superior o Arquitecto Superior.
 
-2.9 Los funcionarios que por no reunir en la fecha de entrada en vigor de esta Ley los requisitos de titulación exigidos no puedan ser integrados en los Cuerpos o Escalas de la Administración de la Seguridad Social relacionados, permanecerán en los Cuerpos o Escalas a que pertanecieran en la fecha de entrada en vigor de esta Ley, que se declaran a extinguir.
+**2.9** Los funcionarios que por no reunir en la fecha de entrada en vigor de esta Ley los requisitos de titulación exigidos no puedan ser integrados en los Cuerpos o Escalas de la Administración de la Seguridad Social relacionados, permanecerán en los Cuerpos o Escalas a que pertanecieran en la fecha de entrada en vigor de esta Ley, que se declaran a extinguir.
 
 3. Se autoriza al Gobierno para asimilar y homologar el régimen del personal funcionario de la Administración de la Seguridad Social aI de la Administración del Estado y sus Organismos autónomos.
 
@@ -2933,7 +2933,9 @@ Artículos 12, 17, 24.2 y 3; 29, 40 b) y c); 42, 44, 51, 58, 59, 60.1; 66, 102 y
 
 Artículos 10, 13.8 y 17 de la Ley de Régimen Jurídico de la Administración del Estado, de 26 de julio de 1957, y el artículo 15.2 en cuanto se refiere a las competencias atribuidas por esta Ley a los Delegados del Gobierno y a los Gobernadores Civiles.
 
-Artículos 27.1, 36.1 E. a); 37.1, 38 y 46.2 de Ley de Derechos Pasivos de los Funcionarios de la Administración del Estado, de 21 de abril de 1968.
+Artículos 27.1,
+
+**36.1** E. a); 37.1, 38 y 46.2 de Ley de Derechos Pasivos de los Funcionarios de la Administración del Estado, de 21 de abril de 1968.
 
 [ignorar]Artículo 45.2 del Decreto 2065/1974, de 30 de mayo, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, en relación al personal a que se refiere la disposicion adicional decimosexta 1.
 

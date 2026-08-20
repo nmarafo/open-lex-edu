@@ -168,7 +168,7 @@ b) Atribuir a los Cabildos Insulares, como propias, las competencias que proceda
 
 #### Artículo 15.
 
-1. El Gobierno de Canarias con los Ayuntamientos y Cabildos Insulares y éstos con los Ayuntamientos de su isla, podrán celebrar convenios en los que establezcan  libremente los instrumentos de colaboración previstos para la consecución de fines comunes de interés público.
+1. El Gobierno de Canarias con los Ayuntamientos y Cabildos Insulares y éstos con los Ayuntamientos de su isla, podrán celebrar convenios en los que establezcan libremente los instrumentos de colaboración previstos para la consecución de fines comunes de interés público.
 
 2. A través de los convenios de colaboración las partes podrán coordinar sus políticas de fomento dirigidas a un mismo sector, distribuir las subvenciones otorgadas por una de ellas con referencia al ámbito territorial o población de otra, ejecutar puntualmente obras o servicios de la competencia de una de las partes, compartir las sedes, locales o edificios que sean precisos para el desarrollo de competencias concurrentes; ceder y aceptar la cesión de uso de bienes patrimoniales, desarrollar actividades de carácter prestacional y adoptar las medidas oportunas para alcanzar cualquiera otra finalidad, de contenido análogo a las anteriores.
 
@@ -783,7 +783,7 @@ a) Un representante de la Corporación que será su Presidente.
 b) Representantes de las Asociaciones de distrito.
 c) Vecinos a título individual previa solicitud razonada al Consejo.
 
-3. Los Consejos de Barrio tienen la facultad de informar y proponer soluciones a los problemas específicos del barrio para su conocimiento y eventual discusión por la  Corporación Municipal. A los efectos del párrafo anterior los Ayuntamientos deberán recabar de los Consejos informe en todos aquellos asuntos de trascendencia que afecten a los respectivos barrios.
+3. Los Consejos de Barrio tienen la facultad de informar y proponer soluciones a los problemas específicos del barrio para su conocimiento y eventual discusión por la Corporación Municipal. A los efectos del párrafo anterior los Ayuntamientos deberán recabar de los Consejos informe en todos aquellos asuntos de trascendencia que afecten a los respectivos barrios.
 
 #### Artículo 108.
 
@@ -857,7 +857,7 @@ d) En caso de creación de nuevos municipios.
 
 1. La Comisión Gestora se constituirá en el plazo de tres días, contados desde el de la designación de los Vocales, en sesión extraordinaria convocada al efecto por el Presidente del Gobierno de Canarias.
 
-2. Si subsistiese en su cargo el Alcalde, presidirá la Comisión Gestora y conservará la integridad de sus funciones. En caso de vacar la Alcaldía antes o después de constituirse la Comisión Gestora, ésta será presidida por el Concejal o Vocal gestor que obtenga mayor número de votos en sesión  extraordinaria convocada por el Presidente del Consejo de Gobierno de la Comunidad, ostentando las mismas funciones que las del Alcalde.
+2. Si subsistiese en su cargo el Alcalde, presidirá la Comisión Gestora y conservará la integridad de sus funciones. En caso de vacar la Alcaldía antes o después de constituirse la Comisión Gestora, ésta será presidida por el Concejal o Vocal gestor que obtenga mayor número de votos en sesión extraordinaria convocada por el Presidente del Consejo de Gobierno de la Comunidad, ostentando las mismas funciones que las del Alcalde.
 
 3. Cuando sea precisa la renovación de Vocales gestores, por darse el supuesto previsto en el apatado 1.a) del artículo 114 de la presente Ley, se procederá en la forma determinada en los artículos precedentes.
 
@@ -1116,7 +1116,7 @@ d) Intervención al terminar la sesión al objeto de expresar opinión sobre los
 
 #### Artículo 164. El Registro Municipal de Entidades Ciudadanas tiene por objeto permitir al Ayuntamiento el conocimiento de las existentes, sus objetivos y su representatividad, a fin de llevar a cabo una correcta política municipal de fomento de las mismas.
 
-#### Artículo 165. El Ayuntamiento, a los efectos de esta Ley, reconocerá derechos a aquellas entidades que hayan sido  debidamente inscritas en el Registro Municipal Serán entidades ciudadanas susceptibles de ser inscritas, todas las que estén legalmente constituidas.
+#### Artículo 165. El Ayuntamiento, a los efectos de esta Ley, reconocerá derechos a aquellas entidades que hayan sido debidamente inscritas en el Registro Municipal Serán entidades ciudadanas susceptibles de ser inscritas, todas las que estén legalmente constituidas.
 
 #### Artículo 166. El Registro de entidades se llevará en el Ayuntamiento, en un libro de fichas en las que constarán:
 
@@ -1137,7 +1137,7 @@ f) Certificación del nombre y número de personas que integren la entidad.
 
 #### Artículo 169. Las entidades ciudadanas tendrán, en los términos establecidos en la legislación específica y en esta Ley, los siguientes derechos:
 
-1. A recibir ayudas económicas y a usar los locales municipales de uso público, en función de su representatividad  y actividad.
+1. A recibir ayudas económicas y a usar los locales municipales de uso público, en función de su representatividad y actividad.
 
 2. A ser informadas de los asuntos e iniciativas municipales que puedan ser de su interés, debiendo recibir notificación de las convocatorias y acuerdos que afecten a sus respectivas actividades o ámbito territorial.
 

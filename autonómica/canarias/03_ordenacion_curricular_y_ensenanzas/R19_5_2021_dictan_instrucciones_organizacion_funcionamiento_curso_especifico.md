@@ -51,20 +51,26 @@ Primero.- Dictar instrucciones para la organización y el funcionamiento del Cur
 Segundo.- Facultar a los equipos directivos de los centros educativos para que arbitren el procedimiento más adecuado para que la presente Resolución sea conocida y difundida entre los distintos sectores de la comunidad educativa, haciéndoles llegar copia de la misma cuando así se solicite por la persona interesada y exponiéndose en el tablón de anuncios y en la web del centro.
 Tercero.- Encomendar a la Inspección de Educación la supervisión, asesoramiento y seguimiento en aquellos aspectos que le soliciten los equipos directivos de los centros. Contra el presente acto, que no pone fin a la vía administrativa, cabe interponer en el plazo de un (1) mes recurso de alzada, a contar desde el día siguiente al de su publicación, ante la Viceconsejería de Educación, Universidades y Deportes, sin perjuicio de cualesquiera otros que se estime procedente interponer. Santa Cruz de Tenerife, a 19 de mayo de 2021.- La Directora General de Formación Profesional y Educación de Adultos, Rosario Gañan Pérez.
 
-Folio 4/16
-
 ## Anexo
 
-INSTRUCCIONES  PARA  EL  DESARROLLO  DEL  CURSO  ESPECÍFICO  DE ACCESO  A  CICLOS  FORMATIVOS  DE  GRADO  MEDIO  DE  FORMACIÓN PROFESIONAL (CE2).
+INSTRUCCIONES PARA EL DESARROLLO DEL CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO DE FORMACIÓN PROFESIONAL (CE2).
 
 1. Finalidades del curso Con el Curso Específico de Acceso a Ciclos Formativos de Grado Medio de Formación Profesional se persiguen las siguientes finalidades:
-• Atender  a  personas  que  presentan  dificultades  para  el  acceso  a  la  Formación Profesional.
+• Atender a personas que presentan dificultades para el acceso a la Formación Profesional.
 • Promover una educación integradora con especial hincapié en zonas y grupos con necesidades específicas.
-• Proporcionar a las personas jóvenes y a los adultos que no h ayan  completado  la enseñanza  obligatoria  y  que  se  encuentren  en  riesgo  de  exclusión  social,  una alternativa para la adquisición de las competencias necesarias que les permitan abordar con éxito la Formación Profesional de grado medio.
+• Proporcionar a las personas jóvenes y a los adultos que no h ayan completado la enseñanza obligatoria y que se encuentren en riesgo de exclusión social, una alternativa para la adquisición de las competencias necesarias que les permitan abordar con éxito la Formación Profesional de grado medio.
 
-2. Características del curso 2.1. Objetivo Conseguir que el alumnado adquiera las competencias necesarias que le permitan acceder y cursar con aprovechamiento un ciclo formativo de grado medio de Formación Profesional. 2.2. Duración Este curso tiene una duración mínima de 600 horas que se desarrollarán a lo largo de un único curso escolar y a razón de 18 horas semanales. 2.3. Alumnado al que va dirigido el curso y requisitos de acceso Este curso va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado medio y que tiene 17 años, o más, o los cumple en el año natural en el que inicia el curso. Salvo para el alumnado mayor de edad, o para el que cumpla 18 años en el año natural en que comienza el curso, será requisito indispensable contar con un informe individualizado de propuesta de orientación con visto bueno de la Inspección de Educación. 2.4. Asistencia del alumnado El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o que supere el 50% de faltas de asistencia durante el primer mes, podrá ser dado de baja de oficio. Se le Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 5/16 comunicará  para  que,  en  el  plazo  de  dos  días,  presente  las  alegaciones  que  considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja. En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula. Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido más de un mes desde el inicio del curso  (sin contar el plazo de dos días para la presentación de las alegaciones). 2.5. Incompatibilidades El alumnado matriculado en este curso no podrá simultanear los siguientes estudios:
+2. Características del curso
+
+**2.1.** Objetivo Conseguir que el alumnado adquiera las competencias necesarias que le permitan acceder y cursar con aprovechamiento un ciclo formativo de grado medio de Formación Profesional.
+
+**2.2.** Duración Este curso tiene una duración mínima de 600 horas que se desarrollarán a lo largo de un único curso escolar y a razón de 18 horas semanales.
+
+**2.3.** Alumnado al que va dirigido el curso y requisitos de acceso Este curso va dirigido a alumnado que no cuenta con los requisitos necesarios para el acceso a ciclos formativos de grado medio y que tiene 17 años, o más, o los cumple en el año natural en el que inicia el curso. Salvo para el alumnado mayor de edad, o para el que cumpla 18 años en el año natural en que comienza el curso, será requisito indispensable contar con un informe individualizado de propuesta de orientación con visto bueno de la Inspección de Educación.
+
+**2.4.** Asistencia del alumnado El alumnado que no se incorpore en los primeros ocho (8) días lectivos del curso o que supere el 50% de faltas de asistencia durante el primer mes, podrá ser dado de baja de oficio. Se le -IteeO7v4RVxf comunicará para que, en el plazo de dos días, presente las alegaciones que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja. En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula. Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido más de un mes desde el inicio del curso (sin contar el plazo de dos días para la presentación de las alegaciones).
+
+**2.5.** Incompatibilidades El alumnado matriculado en este curso no podrá simultanear los siguientes estudios:
 • Estudios conducentes a la obtención del Título de Graduado en Educación Secundaria Obligatoria.
 • Formación Profesional Básica.
 • Curso de preparación de la prueba de acceso a ciclos formativos de grado medio. No obstante, el alumnado matriculado en un curso específico podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado medio.
@@ -74,23 +80,14 @@ RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45
 • Ámbito social (ASO)
 • Ámbito científico-tecnológico (ACT)
 • Tutoría (TUO) La carga horaria es la siguiente:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-Folio 5/16 comunicará  para  que,  en  el  plazo  de  dos  días,  presente  las  alegaciones  que  considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja. En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula. Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido más de un mes desde el inicio del curso  (sin contar el plazo de dos días para la presentación de las alegaciones). 2.5. Incompatibilidades El alumnado matriculado en este curso no podrá simultanear los siguientes estudios:
-• Estudios conducentes a la obtención del Título de Graduado en Educación Secundaria Obligatoria.
-• Formación Profesional Básica.
-• Curso de preparación de la prueba de acceso a ciclos formativos de grado medio. No obstante, el alumnado matriculado en un curso específico podrá optar, si así lo desea, por presentarse a la convocatoria de la prueba de acceso a ciclos formativos de grado medio.
+-IteeO7v4RVxf comunicará para que, en el plazo de dos días, presente las alegaciones que considere oportunas. Transcurrido dicho plazo sin haber presentado alegaciones, o si estas no estuviesen lo suficientemente acreditadas a juicio de la dirección del centro, se procederá a darle de baja. En el caso de alumnado que se incorpore al curso una vez iniciado este, le será de aplicación lo establecido en el párrafo anterior, empezando a contarle los plazos desde el día siguiente al de formalización de su matrícula. Las vacantes que se produzcan como consecuencia de lo previsto en los párrafos anteriores serán asignadas al alumnado en lista de reserva, siempre que no haya transcurrido más de un mes desde el inicio del curso (sin contar el plazo de dos días para la presentación de las alegaciones).
 
 3. Estructura del curso específico: ámbitos En el Curso Específico de Acceso a Ciclos Formativos de Grado Medio se establece una estructura con tres ámbitos y una tutoría:
 • Ámbito de comunicación (ACO)
 • Ámbito social (ASO)
 • Ámbito científico-tecnológico (ACT)
 • Tutoría (TUO) La carga horaria es la siguiente:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 6/16 ÁMBITOS/TUTORÍA DURACIÓN SEMANAL Ámbito de comunicación (ACO) 6 horas Ámbito social (ASO) 4 horas Ámbito científico-tecnológico (ACT) 7 horas Tutoría (TUO) 1 hora TOTAL 18 horas Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las siguientes materias de la Educación Secundaria Obligatoria:
+-IteeO7v4RVxf ÁMBITOS/TUTORÍA DURACIÓN SEMANAL Ámbito de comunicación (ACO) 6 horas Ámbito social (ASO) 4 horas Ámbito científico-tecnológico (ACT) 7 horas Tutoría (TUO) 1 hora TOTAL 18 horas Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las siguientes materias de la Educación Secundaria Obligatoria:
 
 1. Ámbito de comunicación:
 a. Lengua Castellana y Literatura
@@ -107,15 +104,13 @@ c. Física y Química
 d. Tecnología
 e. Tecnologías de la Información y la Comunicación
 
-4. Organización del curso específico 4.1. Duración y distribución horaria Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas semanales (con un mínimo de 600 horas). 4.2. Regímenes El curso se puede desarrollar en los regímenes presencial y semipresencial. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
+4. Organización del curso específico
 
-Folio 7/16 Los centros, en el caso de que deseen impartir  una  modalidad  diferente a la autorizada , deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y Educación de Adultos. A  . Régimen presencial La distribución horaria de los ámbitos y de la tutoría será la siguiente:
-ÁMBITOS/TUTORÍA RÉGIMEN PRESENCIAL HORAS SEMANALES Ámbito de comunicación (ACO) 6 Ámbito social (ASO) 4 Ámbito científico-tecnológico (ACT) 7 Tutoría (TUO) 1 TOTAL 18 B  . Régimen semipresencial En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la siguiente:
-ÁMBITOS/TUTORÍA HORAS SEMANALES RÉGIMEN SEMIPRESENCIAL HORAS PRESENCIALES HORAS ONLINE Ámbito de comunicación (ACO) 6 3 3 Ámbito social (ASO) 4 2 2 Ámbito científico-tecnológico (ACT) 7 4 3 Tutoría (TUO) 1 1 0 TOTAL 18 10 8 Durante el primer mes del curso, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo online, toda la actividad lectiva (18 horas) se impartirá presencialmente. A partir de ese mes, se comenzarán a impartir 10 horas presenciales y 8 online. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 6/16 ÁMBITOS/TUTORÍA DURACIÓN SEMANAL Ámbito de comunicación (ACO) 6 horas Ámbito social (ASO) 4 horas Ámbito científico-tecnológico (ACT) 7 horas Tutoría (TUO) 1 hora TOTAL 18 horas Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las siguientes materias de la Educación Secundaria Obligatoria:
+**4.1.** Duración y distribución horaria Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas semanales (con un mínimo de 600 horas).
+
+**4.2.** Regímenes El curso se puede desarrollar en los regímenes presencial y semipresencial. -IteeO7v4RVxf Los centros, en el caso de que deseen impartir una modalidad diferente a la autorizada , deberán remitir solicitud argumentada a la Dirección General de Formación Profesional y Educación de Adultos. A . Régimen presencial La distribución horaria de los ámbitos y de la tutoría será la siguiente:
+ÁMBITOS/TUTORÍA RÉGIMEN PRESENCIAL HORAS SEMANALES Ámbito de comunicación (ACO) 6 Ámbito social (ASO) 4 Ámbito científico-tecnológico (ACT) 7 Tutoría (TUO) 1 TOTAL 18 B . Régimen semipresencial En este régimen, la distribución horaria de los diferentes ámbitos y la tutoría será la siguiente:
+ÁMBITOS/TUTORÍA HORAS SEMANALES RÉGIMEN SEMIPRESENCIAL HORAS PRESENCIALES HORAS ONLINE Ámbito de comunicación (ACO) 6 3 3 Ámbito social (ASO) 4 2 2 Ámbito científico-tecnológico (ACT) 7 4 3 Tutoría (TUO) 1 1 0 TOTAL 18 10 8 Durante el primer mes del curso, con el fin de fomentar el conocimiento del alumnado y su entrenamiento en el uso de los recursos digitales para el posterior desarrollo online, toda la actividad lectiva (18 horas) se impartirá presencialmente. A partir de ese mes, se comenzarán a impartir 10 horas presenciales y 8 online. -IteeO7v4RVxf ÁMBITOS/TUTORÍA DURACIÓN SEMANAL Ámbito de comunicación (ACO) 6 horas Ámbito social (ASO) 4 horas Ámbito científico-tecnológico (ACT) 7 horas Tutoría (TUO) 1 hora TOTAL 18 horas Cada uno de los ámbitos incluye aprendizajes esenciales de los currículos de las siguientes materias de la Educación Secundaria Obligatoria:
 
 1. Ámbito de comunicación:
 a. Lengua Castellana y Literatura
@@ -132,38 +127,28 @@ c. Física y Química
 d. Tecnología
 e. Tecnologías de la Información y la Comunicación
 
-4. Organización del curso específico 4.1. Duración y distribución horaria Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas semanales (con un mínimo de 600 horas). 4.2. Regímenes El curso se puede desarrollar en los regímenes presencial y semipresencial. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
+4. Organización del curso específico
 
-Folio 8/16 4.3. Ratio La ratio mínima será de 20 y la máxima de 30 alumnos/as. 4.4. Centros en los que se imparte Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que la Dirección  General  de  Formación  Profesional  y  Educación  de  Adultos  establezca  en  la planificación anual. 4.5. Profesorado El  profesorado  con  nombramiento  en  los  centros será  el  encargado  de impartir  aquellos ámbitos cuya atribución docente tenga reconocida. En la medida de lo posible, cada ámbito será impartido por un único docente. El profesorado que imparta los ámbitos del curso específico debe pertenecer a alguno de los siguientes cuerpos:
+**4.1.** Duración y distribución horaria Este curso se impartirá durante la totalidad del curso escolar a razón de 18 horas semanales (con un mínimo de 600 horas).
+
+**4.2.** Regímenes El curso se puede desarrollar en los regímenes presencial y semipresencial. -IteeO7v4RVxf .3. Ratio La ratio mínima será de 20 y la máxima de 30 alumnos/as.
+
+**4.4.** Centros en los que se imparte Estos cursos se impartirán en los centros de educación de personas adultas (CEPA) que la Dirección General de Formación Profesional y Educación de Adultos establezca en la planificación anual.
+
+**4.5.** Profesorado El profesorado con nombramiento en los centros será el encargado de impartir aquellos ámbitos cuya atribución docente tenga reconocida. En la medida de lo posible, cada ámbito será impartido por un único docente. El profesorado que imparta los ámbitos del curso específico debe pertenecer a alguno de los siguientes cuerpos:
 • Cuerpo de catedráticos de enseñanza secundaria
 • Cuerpo de profesores de enseñanza secundaria
 • Cuerpo de catedráticos y profesores de escuelas oficiales de idiomas Además, en cada ámbito deben disponer de la siguiente atribución docente:
-ÁMBITO/TUTORÍA ATRIBUCIÓN DOCENTE ACO • Ámbito  de  Comunicación  Lengua  (320) con acreditación mínima B2 en Inglés
-• Ámbito de Comunicación Inglés (310) ASO • Ámbito de Conocimiento Social (303) ACT • Ámbito Científico-Tecnológico (302) TUO • Docentes  que  impartan  uno de  los ámbitos anteriores
+ÁMBITO/TUTORÍA ATRIBUCIÓN DOCENTE ACO • Ámbito de Comunicación Lengua (320) con acreditación mínima B2 en Inglés
+• Ámbito de Comunicación Inglés (310) ASO • Ámbito de Conocimiento Social (303) ACT • Ámbito Científico-Tecnológico (302) TUO • Docentes que impartan uno de los ámbitos anteriores
 
-5. Currículo, programación y evaluación 5.1. Currículo El currículo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo,  se  centrará  en  los  aspectos  esenciales  (criterios  de  evaluación,  estándares  de Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 9/16 aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
+5. Currículo, programación y evaluación
 
-#### Artículo 21. 5.2. Programación Las  programaciones  didácticas  de  los  ámbitos  se  adecuarán  al  nivel  de  competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+**5.1.** Currículo El currículo de referencia para la organización del curso se centrará en las competencias de la Educación Secundaria Obligatoria (ESO). Asimismo, se centrará en los aspectos esenciales (criterios de evaluación, estándares de -IteeO7v4RVxf aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
 
-• Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
-• La metodología que se va a aplicar.
-• Los materiales y recursos didácticos que se van a utilizar.
-• Los procedimientos, instrumentos y criterios de calificación.
-• Las medidas de atención a la diversidad previstas.
-• Las actividades complementarias y extraescolares que se van a realizar.
-• El procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de los ámbitos garantizará la necesaria integración curricular de las materias que lo componen, de forma que el desarrollo de la misma constituya una referencia del ámbito como un todo integrado, no como un desarrollo de materias sin conexión entre sí. En el caso de que algún ámbito no pueda ser impartido por un único docente, la programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma coordinada. La  programación  de  cada  ámbito  será  elaborada  por  el  departamento  de  coordinación didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación General Anual del centro. 5.3. Evaluación La evaluación de cada ámbito se realizará en tres momentos del curso escolar:
+#### Artículo 21.
 
-1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación será informativa.  En  ella  se  tomarán  decisiones  consensuadas  sobre  aspectos  como  la metodología,  necesidades  de  adaptaciones  de  las  programaciones,  respuesta coordinada para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-Folio 9/16 aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
-
-#### Artículo 21. 5.2. Programación Las  programaciones  didácticas  de  los  ámbitos  se  adecuarán  al  nivel  de  competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+**5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
 
 • Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
 • La metodología que se va a aplicar.
@@ -171,15 +156,29 @@ Folio 9/16 aprendizaje, contenidos, etc.) de los currículos de las materias de 
 • Los procedimientos, instrumentos y criterios de calificación.
 • Las medidas de atención a la diversidad previstas.
 • Las actividades complementarias y extraescolares que se van a realizar.
-• El procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de los ámbitos garantizará la necesaria integración curricular de las materias que lo componen, de forma que el desarrollo de la misma constituya una referencia del ámbito como un todo integrado, no como un desarrollo de materias sin conexión entre sí. En el caso de que algún ámbito no pueda ser impartido por un único docente, la programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma coordinada. La  programación  de  cada  ámbito  será  elaborada  por  el  departamento  de  coordinación didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación General Anual del centro. 5.3. Evaluación La evaluación de cada ámbito se realizará en tres momentos del curso escolar:
+• El procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de los ámbitos garantizará la necesaria integración curricular de las materias que lo componen, de forma que el desarrollo de la misma constituya una referencia del ámbito como un todo integrado, no como un desarrollo de materias sin conexión entre sí. En el caso de que algún ámbito no pueda ser impartido por un único docente, la programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma coordinada. La programación de cada ámbito será elaborada por el departamento de coordinación didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación General Anual del centro.
 
-1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación será informativa.  En  ella  se  tomarán  decisiones  consensuadas  sobre  aspectos  como  la metodología,  necesidades  de  adaptaciones  de  las  programaciones,  respuesta coordinada para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 10/16
+**5.3.** Evaluación La evaluación de cada ámbito se realizará en tres momentos del curso escolar:
 
-2. Durante  el  mes  de  enero  o  en  la  primera  quincena  de  febrero  se  desarrollará  la evaluación del primer cuatrimestre (1.ª evaluación).
+1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la metodología, necesidades de adaptaciones de las programaciones, respuesta coordinada para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine. -IteeO7v4RVxf aprendizaje, contenidos, etc.) de los currículos de las materias de la ESO. En cualquier caso, el currículo tendrá por objeto acreditar la adquisición de las competencias recogidas en el anexo II del Real Decreto 1147/2011 de 29 de julio, según se establece en su
 
-3. A final de curso se realizará la 2.ª evaluación (evaluación final). En la primera evaluación y en la evaluación final cada ámbito se calificará con una nota entera  de  1  a  10.  La  calificación  de  cada  ámbito  será  única,  incluso  cuando, excepcionalmente, sea impartido por más de un docente. En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación correspondiente, el ítem "EX" seguido de la calificación final numérica, entre paréntesis, con la que superó dicho ámbito. A. Evaluación del primer cuatrimestre
+#### Artículo 21.
+
+**5.2.** Programación Las programaciones didácticas de los ámbitos se adecuarán al nivel de competencia curricular, a las características del alumnado y a la asignación horaria de los ámbitos Las programaciones deberán incluir, como mínimo, los siguientes apartados:
+
+• Relación entre los criterios de evaluación, contenidos, estándares de aprendizaje y competencias clave.
+• La metodología que se va a aplicar.
+• Los materiales y recursos didácticos que se van a utilizar.
+• Los procedimientos, instrumentos y criterios de calificación.
+• Las medidas de atención a la diversidad previstas.
+• Las actividades complementarias y extraescolares que se van a realizar.
+• El procedimiento de evaluación del desarrollo de la programación y de la práctica docente. La programación de los ámbitos garantizará la necesaria integración curricular de las materias que lo componen, de forma que el desarrollo de la misma constituya una referencia del ámbito como un todo integrado, no como un desarrollo de materias sin conexión entre sí. En el caso de que algún ámbito no pueda ser impartido por un único docente, la programación de dicho ámbito será única y su desarrollo será llevado a cabo de forma coordinada. La programación de cada ámbito será elaborada por el departamento de coordinación didáctica al que pertenezca el profesorado que lo imparta y será incluida en la Programación General Anual del centro.
+
+**5.3.** Evaluación La evaluación de cada ámbito se realizará en tres momentos del curso escolar:
+
+1. Durante el mes de octubre se realizará una evaluación sin notas. Esta evaluación será informativa. En ella se tomarán decisiones consensuadas sobre aspectos como la metodología, necesidades de adaptaciones de las programaciones, respuesta coordinada para nuevas incorporaciones, etc. u otros aspectos que el equipo docente determine. -IteeO7v4RVxf . Durante el mes de enero o en la primera quincena de febrero se desarrollará la evaluación del primer cuatrimestre (1.ª evaluación).
+
+3. A final de curso se realizará la 2.ª evaluación (evaluación final). En la primera evaluación y en la evaluación final cada ámbito se calificará con una nota entera de 1 a 10. La calificación de cada ámbito será única, incluso cuando, excepcionalmente, sea impartido por más de un docente. En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación correspondiente, el ítem "EX" seguido de la calificación final numérica, entre paréntesis, con la que superó dicho ámbito. A. Evaluación del primer cuatrimestre
 
 1. Permitirá, en el caso de no superación de alguno de los ámbitos, establecer cauces de recuperación para la evaluación final.
 
@@ -189,24 +188,18 @@ RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45
 
 2. Asimismo, permitirá el acceso directo, sin prueba, a ciclos formativos de grado medio en las condiciones que determine el proceso de admisión.
 
-3. No  obstante,  para  el  acceso  a  ciclos  formativos  de  grado  medio  de  Enseñanzas Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o alumna únicamente deberá presentarse a la parte específica que se requiera. C. Superación del curso. Cálculo de la nota media en ambas evaluaciones
+3. No obstante, para el acceso a ciclos formativos de grado medio de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o alumna únicamente deberá presentarse a la parte específica que se requiera. C. Superación del curso. Cálculo de la nota media en ambas evaluaciones
 
-1. La  nota  media  del  curso  específico,  tanto  en  la  primera  como  en  la  segunda evaluación, será una nota de 1 a 10, calculada como la media aritmética de las notas de los  ámbitos  de  comunicación,  social  y  científico-tecnológico  y  redondeada  a  dos decimales. La tutoría (TUO) no calificará. Para aquellos ámbitos que están exentos por haber  sido superados  en un curso escolar  anterior,  se tomará  la  calificación final obtenida en su momento en dicho ámbito.
+1. La nota media del curso específico, tanto en la primera como en la segunda evaluación, será una nota de 1 a 10, calculada como la media aritmética de las notas de los ámbitos de comunicación, social y científico-tecnológico y redondeada a dos decimales. La tutoría (TUO) no calificará. Para aquellos ámbitos que están exentos por haber sido superados en un curso escolar anterior, se tomará la calificación final obtenida en su momento en dicho ámbito.
 
 2. La superación del curso específico requiere de una nota media igual o superior a cinco
 (5) puntos.
 
 3. La superación de un ámbito requiere de una nota igual o superior a cinco (5) puntos.
 
-4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
+4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán -IteeO7v4RVxf . Durante el mes de enero o en la primera quincena de febrero se desarrollará la evaluación del primer cuatrimestre (1.ª evaluación).
 
-Folio 10/16
-
-2. Durante  el  mes  de  enero  o  en  la  primera  quincena  de  febrero  se  desarrollará  la evaluación del primer cuatrimestre (1.ª evaluación).
-
-3. A final de curso se realizará la 2.ª evaluación (evaluación final). En la primera evaluación y en la evaluación final cada ámbito se calificará con una nota entera  de  1  a  10.  La  calificación  de  cada  ámbito  será  única,  incluso  cuando, excepcionalmente, sea impartido por más de un docente. En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación correspondiente, el ítem "EX" seguido de la calificación final numérica, entre paréntesis, con la que superó dicho ámbito. A. Evaluación del primer cuatrimestre
+3. A final de curso se realizará la 2.ª evaluación (evaluación final). En la primera evaluación y en la evaluación final cada ámbito se calificará con una nota entera de 1 a 10. La calificación de cada ámbito será única, incluso cuando, excepcionalmente, sea impartido por más de un docente. En el caso de ámbitos que hayan sido superados anteriormente, el alumno o la alumna estará exento de cursarlos. En este caso, se hará constar en el acta de evaluación correspondiente, el ítem "EX" seguido de la calificación final numérica, entre paréntesis, con la que superó dicho ámbito. A. Evaluación del primer cuatrimestre
 
 1. Permitirá, en el caso de no superación de alguno de los ámbitos, establecer cauces de recuperación para la evaluación final.
 
@@ -216,22 +209,20 @@ Folio 10/16
 
 2. Asimismo, permitirá el acceso directo, sin prueba, a ciclos formativos de grado medio en las condiciones que determine el proceso de admisión.
 
-3. No  obstante,  para  el  acceso  a  ciclos  formativos  de  grado  medio  de  Enseñanzas Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o alumna únicamente deberá presentarse a la parte específica que se requiera. C. Superación del curso. Cálculo de la nota media en ambas evaluaciones
+3. No obstante, para el acceso a ciclos formativos de grado medio de Enseñanzas Profesionales de Artes Plásticas y Diseño, y de las Enseñanzas Deportivas, el alumno o alumna únicamente deberá presentarse a la parte específica que se requiera. C. Superación del curso. Cálculo de la nota media en ambas evaluaciones
 
-1. La  nota  media  del  curso  específico,  tanto  en  la  primera  como  en  la  segunda evaluación, será una nota de 1 a 10, calculada como la media aritmética de las notas de los  ámbitos  de  comunicación,  social  y  científico-tecnológico  y  redondeada  a  dos decimales. La tutoría (TUO) no calificará. Para aquellos ámbitos que están exentos por haber  sido superados  en un curso escolar  anterior,  se tomará  la  calificación final obtenida en su momento en dicho ámbito.
+1. La nota media del curso específico, tanto en la primera como en la segunda evaluación, será una nota de 1 a 10, calculada como la media aritmética de las notas de los ámbitos de comunicación, social y científico-tecnológico y redondeada a dos decimales. La tutoría (TUO) no calificará. Para aquellos ámbitos que están exentos por haber sido superados en un curso escolar anterior, se tomará la calificación final obtenida en su momento en dicho ámbito.
 
 2. La superación del curso específico requiere de una nota media igual o superior a cinco
 (5) puntos.
 
 3. La superación de un ámbito requiere de una nota igual o superior a cinco (5) puntos.
 
-4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41 Folio 11/16 tener una nota mínima de cuatro (4) puntos.
+4. Para el cálculo de la nota media, en la evaluación final, todos los ámbitos deberán -IteeO7v4RVxf tener una nota mínima de cuatro (4) puntos.
 
-5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación final, no será posible la superación del curso. D. Certificación Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica  correspondiente.  En  ella  se  reflejarán  las  notas  por  ámbito  y  la calificación final obtenida en el curso en el caso de que se haya superado. E. Repetición del curso El alumnado que no haya superado el curso de formación específico podrá repetirlo por una sola vez. En este caso, deberá matricularse solo de los ámbitos no superados.
+5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación final, no será posible la superación del curso. D. Certificación Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente. En ella se reflejarán las notas por ámbito y la calificación final obtenida en el curso en el caso de que se haya superado. E. Repetición del curso El alumnado que no haya superado el curso de formación específico podrá repetirlo por una sola vez. En este caso, deberá matricularse solo de los ámbitos no superados.
 
-6. Admisión El  proceso  de admisión  y su calendario  serán establecidos anualmente  junto  al  resto  de enseñanzas ofertadas por la Consejería de Educación, Universidades, Cultura y Deportes. Para el curso 2021-2022 se seguirá el procedimiento que se recoge en el apéndice I de este
+6. Admisión El proceso de admisión y su calendario serán establecidos anualmente junto al resto de enseñanzas ofertadas por la Consejería de Educación, Universidades, Cultura y Deportes. Para el curso 2021-2022 se seguirá el procedimiento que se recoge en el apéndice I de este
 
 ## Anexo. El modelo de formulario de solicitud de plaza, los centros donde se puede solicitar
 
@@ -239,15 +230,11 @@ plaza y el modelo de declaración jurada o de responsabilidad de no simultanear 
 
 1. Alumnado que haya cursado y no superado el curso específico en alguna convocatoria anterior por orden de mayor a menor edad.
 
-2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del curso escolar. Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacante. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las medidas necesarias para la superación de los contenidos impartidos. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
+2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del curso escolar. Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacante. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las medidas necesarias para la superación de los contenidos impartidos. -IteeO7v4RVxf tener una nota mínima de cuatro (4) puntos.
 
-Folio 11/16 tener una nota mínima de cuatro (4) puntos.
+5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación final, no será posible la superación del curso. D. Certificación Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica correspondiente. En ella se reflejarán las notas por ámbito y la calificación final obtenida en el curso en el caso de que se haya superado. E. Repetición del curso El alumnado que no haya superado el curso de formación específico podrá repetirlo por una sola vez. En este caso, deberá matricularse solo de los ámbitos no superados.
 
-5. Con una calificación inferior a cuatro (4) puntos en algún ámbito, en la evaluación final, no será posible la superación del curso. D. Certificación Una vez finalizado el curso y realizada la evaluación final, el centro entregará al alumnado la certificación académica  correspondiente.  En  ella  se  reflejarán  las  notas  por  ámbito  y  la calificación final obtenida en el curso en el caso de que se haya superado. E. Repetición del curso El alumnado que no haya superado el curso de formación específico podrá repetirlo por una sola vez. En este caso, deberá matricularse solo de los ámbitos no superados.
-
-6. Admisión El  proceso  de admisión  y su calendario  serán establecidos anualmente  junto  al  resto  de enseñanzas ofertadas por la Consejería de Educación, Universidades, Cultura y Deportes. Para el curso 2021-2022 se seguirá el procedimiento que se recoge en el apéndice I de este
+6. Admisión El proceso de admisión y su calendario serán establecidos anualmente junto al resto de enseñanzas ofertadas por la Consejería de Educación, Universidades, Cultura y Deportes. Para el curso 2021-2022 se seguirá el procedimiento que se recoge en el apéndice I de este
 
 ## Anexo. El modelo de formulario de solicitud de plaza, los centros donde se puede solicitar
 
@@ -255,19 +242,11 @@ plaza y el modelo de declaración jurada o de responsabilidad de no simultanear 
 
 1. Alumnado que haya cursado y no superado el curso específico en alguna convocatoria anterior por orden de mayor a menor edad.
 
-2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del curso escolar. Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacante. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las medidas necesarias para la superación de los contenidos impartidos. Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
+2. Resto del alumnado por orden de mayor a menor edad. Las solicitudes no atendidas permitirán la constitución de una lista de reserva, ordenada siguiendo los criterios anteriores, para las posibles vacantes posteriores al comienzo del curso escolar. Las solicitudes para el curso presentadas fuera de plazo serán incorporadas al final de la lista de reserva por orden de presentación. La lista de reserva permitirá el acceso de nuevo alumnado cuando se genere alguna vacante. Si un alumno o alumna se incorpora al curso desde la lista de reserva, se articularán las medidas necesarias para la superación de los contenidos impartidos. -IteeO7v4RVxf APÉNDICE I Procedimiento y calendario de admisión del curso 2021-2022 Para solicitar plaza en el Curso Específico de Acceso a Ciclos Formativos de Grado Medio se deberá cumplimentar el formulario de la solicitud de plaza y enviarlo al correo electrónico del centro en que el alumno o la alumna desee matricularse, adjuntando, además, la documentación requerida. Para cualquier consulta se debe solicitar cita previa en el centro. CALENDARIO DE ADMISIÓN PARA EL CURSO 2021-2022 CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO PLAZO ACTIVIDAD Del 10 al 24 de junio de 2021 • Presentación de solicitudes 25 de junio de 2021 • Publicación de listas provisionales de admitidos Del 28 al 30 de junio de 2021 • Reclamación a las listas provisionales de admitidos 1 de julio de 2021 • Publicación de listas definitivas de admitidos Del 1 de julio al 1 de agosto de
+• Plazo para interponer recurso de alzada ante la Dirección Territorial de Educación contra las listas definitivas Del 1 al 8 de julio de 2021 • Formalización de matrícula Del 1 al 9 de septiembre de 2021 • Presentación de solicitudes 10 de septiembre de 2021 • Publicación de los listados definitivos del alumnado admitido, ordenados según mejor derecho. Desde el 1 0 de septiembre hasta 1 mes contado a partir de la fecha de inicio del curso específico
+• Formalización de la matrícula, con ocasión de vacante -IteeO7v4RVxf APÉNDICE II Formulario de solicitud de plaza para el curso 2021-2022 CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO
 
-Folio 12/16 APÉNDICE I Procedimiento y calendario de admisión del curso 2021-2022 Para solicitar plaza en el Curso Específico de Acceso a Ciclos Formativos de Grado Medio se deberá cumplimentar el formulario de la solicitud de plaza y enviarlo al correo electrónico del centro  en  que  el  alumno  o  la  alumna  desee  matricularse,  adjuntando,  además,  la documentación requerida. Para cualquier consulta se debe solicitar cita previa en el centro. CALENDARIO DE ADMISIÓN PARA EL CURSO 2021-2022 CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO PLAZO ACTIVIDAD Del 10 al 24 de junio de 2021 • Presentación de solicitudes 25 de junio de 2021 • Publicación de listas provisionales de admitidos Del 28 al 30 de junio de 2021 • Reclamación a las listas provisionales de admitidos 1 de julio de 2021 • Publicación de listas definitivas de admitidos Del  1 de julio al  1 de agosto de
-• Plazo  para  interponer  recurso  de  alzada  ante  la Dirección  Territorial  de  Educación  contra  las  listas definitivas Del 1 al 8 de julio de 2021 • Formalización de matrícula Del 1 al 9 de septiembre de 2021 • Presentación de solicitudes 10 de septiembre de 2021 • Publicación  de  los  listados  definitivos  del  alumnado admitido, ordenados según mejor derecho. Desde el 1 0 de septiembre hasta 1  mes  contado  a  partir  de  la fecha  de  inicio  del  curso específico
-• Formalización de la matrícula, con ocasión de vacante Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-Folio 13/16 APÉNDICE II Formulario de solicitud de plaza para el curso 2021-2022 CURSO ESPECÍFICO DE ACCESO A CICLOS FORMATIVOS DE GRADO MEDIO
-
-1. DATOS DEL SOLICITANTE En __________________________________ a ______ de __________________________ de 20_______ (Firma de la persona solicitante/representante legal) Sr./Sra.  director/a del CEPA:
+1. DATOS DEL SOLICITANTE En __________________________________ a ______ de __________________________ de 20_______ (Firma de la persona solicitante/representante legal) Sr./Sra. director/a del CEPA:
 DATOS DEL/DE LA SOLICITANTE:
 PERSONA FÍSICA Tipo de documento: Documento: Nombre:
 Primer apellido:
@@ -281,13 +260,7 @@ Complemento a la dirección:
 Localidad: País:
 Código postal: Provincia: Municipio:
 Segundo apellido:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-Folio 14/16
-
-2. DATOS FAMILIARES
+-IteeO7v4RVxf . DATOS FAMILIARES
 
 3. DOCUMENTACIÓN QUE SE ADJUNTA Fotocopia del DNI/NIE Fotocopia del DNI/NIE del padre, madre, tutor/a legal (solo menores de edad) Consejo orientador/Propuesta para el Curso Específico de Acceso a CFGM (solo menores de edad) Consentimiento familiar (solo menores de edad) Documento de declaración jurada o de responsabilidad de no simultanear estudios CUMPLIMENTAR SOLO PARA ALUMNADO MENOR DE EDAD:
 PADRE, MADRE O TUTOR/A LEGAL:
@@ -300,27 +273,15 @@ Primer apellido:
 Teléfono fijo: Teléfono móvil: Correo electrónico:
 Segundo apellido:
 Segundo apellido:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-APÉNDICE III Centros autorizados a impartir el curso específico en el curso escolar 2021-2022 El Curso Específico de Acceso a Ciclos Formativos de Grado Medio se impartirá en el curso 2021-2022 y en las modalidades indicadas, siempre que exista demanda suficiente, en los siguientes centros de educación de personas adultas (CEPA):
-ISLA CEPA TELÉFONO CORREO N.º DE GRUPOS PRESENCIALES N.º DE GRUPOS SEMIPRESENCIALES Gran Canaria AAPA Las Palmas II (CEPA San Bartolomé de Tirajana) 928766680 35009656@gobiernodecanarias.org 1 Las Palmas 928248719 35007982@gobiernodecanarias.org 1 Santa Lucía de Tirajana 928753970 35008986@gobiernodecanarias.org 1 Telde-Casco 928692273 35008019@gobiernodecanarias.org 1 La Palma Guayafanta 922174289 38009621@gobiernodecanarias.org 1 Lanzarote Titerroygatra 928800019 35007969@gobiernodecanarias.org 1 Tenerife Acentejo-Tacoronte 922560063 38011111@gobiernodecanarias.org 1 Farola de Santa Cruz 922656647 38009035@gobiernodecanarias.org 1 1 Icod de los Vinos 922815927 38011741@gobiernodecanarias.org 1 Puerto de la Cruz 922384428 38009023@gobiernodecanarias.org 1 Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-Folio 16/16 APÉNDICE IV Declaración jurada o de responsabilidad para la admisión en el curso escolar 2021-2022 Nombre:                                                      Apellidos:
+-IteeO7v4RVxf APÉNDICE III Centros autorizados a impartir el curso específico en el curso escolar 2021-2022 El Curso Específico de Acceso a Ciclos Formativos de Grado Medio se impartirá en el curso 2021-2022 y en las modalidades indicadas, siempre que exista demanda suficiente, en los siguientes centros de educación de personas adultas (CEPA):
+ISLA CEPA TELÉFONO CORREO N.º DE GRUPOS PRESENCIALES N.º DE GRUPOS SEMIPRESENCIALES Gran Canaria AAPA Las Palmas II (CEPA San Bartolomé de Tirajana) 928766680 35009656@gobiernodecanarias.org 1 Las Palmas 928248719 35007982@gobiernodecanarias.org 1 Santa Lucía de Tirajana 928753970 35008986@gobiernodecanarias.org 1 Telde-Casco 928692273 35008019@gobiernodecanarias.org 1 La Palma Guayafanta 922174289 38009621@gobiernodecanarias.org 1 Lanzarote Titerroygatra 928800019 35007969@gobiernodecanarias.org 1 Tenerife Acentejo-Tacoronte 922560063 38011111@gobiernodecanarias.org 1 Farola de Santa Cruz 922656647 38009035@gobiernodecanarias.org 1 1 Icod de los Vinos 922815927 38011741@gobiernodecanarias.org 1 Puerto de la Cruz 922384428 38009023@gobiernodecanarias.org 1 -IteeO7v4RVxf APÉNDICE IV Declaración jurada o de responsabilidad para la admisión en el curso escolar 2021-2022 Nombre: Apellidos:
 DNI/NIE:
-Declaro  bajo  mi  responsabilidad  que  no  me  encuentro  simultaneando  dos  o  más  de  los siguientes estudios en uno o más centros docentes sostenidos con fondos públicos:
+Declaro bajo mi responsabilidad que no me encuentro simultaneando dos o más de los siguientes estudios en uno o más centros docentes sostenidos con fondos públicos:
 • Curso Específico de Acceso a Ciclos Formativos de Grado Medio.
-• Enseñanzas  conducentes  a  la  obtención  del  Título  de  Graduado  en  Educación Secundaria Obligatoria.
+• Enseñanzas conducentes a la obtención del Título de Graduado en Educación Secundaria Obligatoria.
 • Formación Profesional Básica.
-• Curso de preparación para la prueba de acceso a ciclos de grado medio. En                                                                 , a         de                                                    de 20 Fdo.:
-Este documento ha sido firmado electrónicamente por:
-MARIA ROSARIO GAÑAN PEREZ - DIRECTORA GRAL DE FORMACIÓN PROF. Y EDUCACIÓN ADULTOS Fecha: 19/05/2021 - 10:37:03 Este documento ha sido registrado electrónicamente:
-RESOLUCION - Nº: 333 / 2021 - Tomo: 1 - Libro: 570 - Fecha: 19/05/2021 12:39:45 Fecha: 19/05/2021 - 12:39:45 En la dirección https://sede.gobcan.es/sede/verifica_doc?codigo_nde= puede ser comprobada la autenticidad de esta copia, mediante el número de documento electrónico siguiente: 0mumlaxaVblzcLYmSOjx-IteeO7v4RVxf El presente documento ha sido descargado el 20/05/2021 - 07:37:41
-
-## Relaciones Normativas y Fundamentos de Derecho
+• Curso de preparación para la prueba de acceso a ciclos de grado medio. En , a de de 20 Fdo.:
+-IteeO7v4RVxf ## Relaciones Normativas y Fundamentos de Derecho
 
 ### Relaciones Directas
 

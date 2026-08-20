@@ -39,8 +39,6 @@ es/boja/distribucion/boja.xml"/> <link rel="alternate" type="application/atom+xm
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -69,8 +67,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 34
@@ -85,7 +81,7 @@ Histórico del BOJA Boletín número 34 de 19/02/2020
 
 ### Decreto 21/2020, de 17 de febrero, por el que se regulan los criterios y el procedimiento de admisión del alumnado en los centros docentes públicos y privados concertados para cursar las enseñanzas de segundo ciclo de educación infantil, educación primaria, educación especial, educación secundaria obligatoria y bachillerato.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00169991.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00169991.
 
 El artículo 21.3 del Estatuto de Autonomía para Andalucía proclama el derecho de todas las personas a acceder en condiciones de igualdad a los centros educativos sostenidos con fondos públicos y prevé el establecimiento de criterios de admisión, al objeto de garantizarla en condiciones de igualdad y no discriminación.
 
@@ -205,9 +201,9 @@ c) En bachillerato, treinta y cinco.
 
 2. El procedimiento de admisión se aplicará a aquel alumnado que acceda por primera vez a un centro docente público o privado concertado para cursar enseñanzas correspondientes al segundo ciclo de educación infantil, a la educación primaria, a la educación especial, a la educación secundaria obligatoria y al bachillerato.
 
-3. Una vez admitido un alumno o alumna en un centro docente público o privado concertado, queda garantizada su permanencia en el mismo hasta la finalización de las enseñanzas sostenidas con fondos públicos que el centro docente esté autorizado a impartir, sin perjuicio de lo que la normativa vigente contempla sobre requisitos académicos y de edad para cada una de las etapas educativas y de lo establecido en el artículo 2.7.
+3. Una vez admitido un alumno o alumna en un centro docente público o privado concertado, queda garantizada su permanencia en el mismo hasta la finalización de las enseñanzas sostenidas con fondos públicos que el centro docente esté autorizado a impartir, sin perjuicio de lo que la normativa vigente contempla sobre requisitos académicos y de edad para cada una de las etapas educativas y de lo establecido en el artículo
 
-A tales efectos, el cambio de curso, ciclo o etapa no requerirá un nuevo procedimiento de admisión, salvo que coincida con un cambio de centro, sin perjuicio de lo establecido para los centros docentes adscritos.
+**2.7.** A tales efectos, el cambio de curso, ciclo o etapa no requerirá un nuevo procedimiento de admisión, salvo que coincida con un cambio de centro, sin perjuicio de lo establecido para los centros docentes adscritos.
 
 4. Cuando el alumnado de un centro docente público o privado concertado solicite una plaza escolar en otro centro docente sostenido con fondos públicos, se entenderá manifestada la voluntad familiar a la que se refiere el artículo 2.7 y, en consecuencia, salvo que no resultase admitido en alguno de los centros solicitados, perderá el derecho al que se refiere el apartado anterior. El alumnado admitido en el centro solicitado deberá formalizar la matrícula en el mismo si reúne los requisitos académicos para el acceso al curso en el que haya obtenido plaza. De no ser así, el centro docente de origen estará obligado a readmitir su matrícula, para lo que el centro docente que lo admitió remitirá la documentación a aquél.
 
@@ -651,7 +647,9 @@ c) Las plazas que se reservan para el alumnado con necesidades específicas de a
 
 1. La solicitud de plaza escolar será única y se presentará en el centro docente en el que el alumno o alumna pretende ser admitido prioritariamente, sin perjuicio de lo establecido en el artículo 16 de la Ley 39/2015, de 1 de octubre, en cuyo caso, para agilizar el procedimiento, podrá remitirse una copia al centro docente al que se dirige la solicitud.
 
-2. La solicitud deberá acompañarse, en su caso, de la documentación acreditativa a que se refieren los artículos 19, 20.6 y 32.5. Dicha documentación deberá mantener su validez y eficacia a la fecha de finalización del plazo de presentación de las solicitudes y responder a las circunstancias reales del alumno o alumna en dicha fecha.
+2. La solicitud deberá acompañarse, en su caso, de la documentación acreditativa a que se refieren los artículos 19, 20.6 y
+
+**32.5.** Dicha documentación deberá mantener su validez y eficacia a la fecha de finalización del plazo de presentación de las solicitudes y responder a las circunstancias reales del alumno o alumna en dicha fecha.
 
 3. La solicitud correspondiente a una persona menor de edad o mayor de edad sometida a patria potestad prorrogada y tutela deberá ser firmada por alguna de las personas que ejercen su representación legal y que ostentan la guarda y custodia. En el caso de que dicha persona no sea el padre o la madre, deberá presentarse copia autenticada del documento que acredite la tutela legal. En el caso de menores en situación de acogimiento la solicitud será firmada por alguna de las personas que ostentan la guarda y deberá presentarse copia autenticada del documento que acredite el acogimiento.
 
@@ -737,13 +735,17 @@ Las comisiones de garantías de admisión adjudicarán una plaza escolar a los a
 
 Cuando el alumno o alumna requiera recursos específicos que resulten de difícil generalización solo se estimará la solicitud si el centro docente cuenta con ellos. En caso contrario, la solicitud será remitida al correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación, que le asignará una plaza escolar en un centro que disponga de los recursos para su escolarización.
 
-4. Las solicitudes que, directamente o a través de los centros, se presenten en el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación se resolverán por la persona titular del mismo. Si, por no disponer de plazas escolares vacantes, no fuera posible la escolarización del alumnado en el centro o centros docentes solicitados, se ofertarán otros centros docentes que dispongan de plazas escolares vacantes para su elección por la persona solicitante, sin perjuicio de lo dispuesto en el artículo 5.2. Las personas solicitantes deberán realizar la matrícula en el centro asignado en el plazo de dos días hábiles desde el día siguiente al de la notificación realizada por el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía. En caso contrario se entenderá que desisten de la plaza que les ha sido adjudicada y esta podrá ser ofertada a otras personas solicitantes.
+4. Las solicitudes que, directamente o a través de los centros, se presenten en el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía competente en materia de educación se resolverán por la persona titular del mismo. Si, por no disponer de plazas escolares vacantes, no fuera posible la escolarización del alumnado en el centro o centros docentes solicitados, se ofertarán otros centros docentes que dispongan de plazas escolares vacantes para su elección por la persona solicitante, sin perjuicio de lo dispuesto en el artículo
+
+**5.2.** Las personas solicitantes deberán realizar la matrícula en el centro asignado en el plazo de dos días hábiles desde el día siguiente al de la notificación realizada por el correspondiente órgano territorial provincial de la Administración de la Junta de Andalucía. En caso contrario se entenderá que desisten de la plaza que les ha sido adjudicada y esta podrá ser ofertada a otras personas solicitantes.
 
 5. En el caso de que varios hermanos o hermanas participen simultáneamente en el procedimiento extraordinario de escolarización, si uno de ellos obtiene plaza escolar en un centro docente público o privado concertado, la Consejería competente en materia de educación podrá autorizar la matriculación de los demás en el mismo.
 
 Esta actuación también podrá realizarse para el alumnado que figure en la lista de personas solicitantes no admitidas en un centro a la que se refiere el artículo 50.2 y que tenga algún hermano o hermana matriculado en el mismo.
 
-6. En el caso de solicitudes de admisión en el periodo extraordinario de escolarización de alumnos y alumnas que se encuentren bajo la tutela o guarda de la Entidad Pública competente en materia de protección de menores o que procedan de adopción, tendrán prioridad en la admisión en el centro donde estén escolarizados los hijos e hijas de las personas guardadoras o de las familias adoptivas, si los hubiera, o, cuando no los haya, en el que corresponda al domicilio o al lugar de trabajo de alguno de sus padres, madres, tutores o guardadores y, en el caso de los centros docentes privados concertados, en las etapas sostenidas con fondos públicos. A tales efectos, se podrá autorizar en el centro correspondiente un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por unidad escolar respecto de lo recogido en el artículo 5.1. El mismo criterio se seguirá para los hijos e hijas cuyo padre, madre, tutor o guardador legal tenga su puesto de trabajo habitual en el centro. Asimismo, se seguirá este criterio en los centros a los que se refiere el artículo 20.3 para el alumnado que simultanea la educación secundaria con las enseñanzas regladas de música o danza o con programas deportivos incluidos en los niveles del Deporte de Rendimiento de Andalucía, así como para las personas deportistas de alto nivel o alto rendimiento de otras Comunidades Autónomas, y para los y las deportistas con licencia deportiva en vigor en cualquier Sociedad Anónima Deportiva con domicilio social en Andalucía que compita en la máxima categoría nacional.
+6. En el caso de solicitudes de admisión en el periodo extraordinario de escolarización de alumnos y alumnas que se encuentren bajo la tutela o guarda de la Entidad Pública competente en materia de protección de menores o que procedan de adopción, tendrán prioridad en la admisión en el centro donde estén escolarizados los hijos e hijas de las personas guardadoras o de las familias adoptivas, si los hubiera, o, cuando no los haya, en el que corresponda al domicilio o al lugar de trabajo de alguno de sus padres, madres, tutores o guardadores y, en el caso de los centros docentes privados concertados, en las etapas sostenidas con fondos públicos. A tales efectos, se podrá autorizar en el centro correspondiente un incremento de hasta un diez por ciento del número máximo de alumnos y alumnas por unidad escolar respecto de lo recogido en el artículo
+
+**5.1.** El mismo criterio se seguirá para los hijos e hijas cuyo padre, madre, tutor o guardador legal tenga su puesto de trabajo habitual en el centro. Asimismo, se seguirá este criterio en los centros a los que se refiere el artículo 20.3 para el alumnado que simultanea la educación secundaria con las enseñanzas regladas de música o danza o con programas deportivos incluidos en los niveles del Deporte de Rendimiento de Andalucía, así como para las personas deportistas de alto nivel o alto rendimiento de otras Comunidades Autónomas, y para los y las deportistas con licencia deportiva en vigor en cualquier Sociedad Anónima Deportiva con domicilio social en Andalucía que compita en la máxima categoría nacional.
 
 7. Sin perjuicio de lo establecido en los apartados anteriores y en la disposición adicional quinta, en la asignación de plaza escolar se considerará la distribución equilibrada del alumnado con necesidades específicas de apoyo educativo en los términos establecidos en el artículo 32.1 y la escolarización de los hermanos y hermanas en un mismo centro.
 
@@ -873,13 +875,13 @@ Consejero de Educación y Deporte
 
 Disposición siguiente
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 <a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA20-034-00153.pdf"> Descargar boletín nº 34 completo
 
@@ -898,4 +900,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

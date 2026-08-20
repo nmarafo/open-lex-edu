@@ -46,9 +46,9 @@ ArtÃ­culo 3.- El nÃºmero de horas lectivas semanales de carÃ¡cter extraord
 
 ArtÃ­culo 4.- El coste de cada hora extraordinaria serÃ¡ el siguiente:
 
-Profesores de grupo ÂAÂ	2.900 ptas. c/hora.
+Profesores de grupo ÂAÂ 2.900 ptas. c/hora.
 
-Profesores de grupo ÂBÂ	2.000 ptas. c/hora.
+Profesores de grupo ÂBÂ 2.000 ptas. c/hora.
 
 ArtÃ­culo 5.- El gasto originado por las retribuciones correspondientes a las horas extraordinarias reguladas en el presente Decreto no podrÃ¡ ser superior al importe de los crÃ©ditos destinados especÃ­ficamente para estas atenciones, y deberÃ¡ ser imputado a las aplicaciones presupuestarias 18.04.422B.151.01 y 18.04.422C.151.01 ÂHoras lectivas extraordinariasÂ.
 

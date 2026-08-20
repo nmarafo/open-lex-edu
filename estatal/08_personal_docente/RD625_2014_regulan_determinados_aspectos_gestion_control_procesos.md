@@ -177,9 +177,9 @@ En el caso de que se confirme la baja, se consignará el diagnóstico, el tratam
 
 En el caso de que la inspección médica del correspondiente servicio público de salud no reciba contestación de los facultativos o de los servicios médicos, o en caso de discrepar de la misma, podrá acordar el alta médica, efectiva e inmediata. En todo caso, la inspección comunicará a la mutua, dentro del plazo de los cinco días siguientes a la fecha de recepción de la propuesta de alta, la actuación realizada junto con los informes que el facultativo hubiera remitido.
 
-3. Cuando la propuesta de alta formulada por una mutua no fuese resuelta y notificada en el plazo de cinco días establecido en el apartado anterior, la mutua podrá solicitar el alta al Instituto Nacional de la Seguridad Social o, en su caso, al Instituto Social de la Marina, de acuerdo con las competencias previstas en la disposición adicional quincuagésima segunda de la Ley General de la Seguridad Social. La entidad gestora resolverá en el plazo de cuatro días siguientes a su recepción, efectuando las comunicaciones previstas en el artículo 7.5.
+3. Cuando la propuesta de alta formulada por una mutua no fuese resuelta y notificada en el plazo de cinco días establecido en el apartado anterior, la mutua podrá solicitar el alta al Instituto Nacional de la Seguridad Social o, en su caso, al Instituto Social de la Marina, de acuerdo con las competencias previstas en la disposición adicional quincuagésima segunda de la Ley General de la Seguridad Social. La entidad gestora resolverá en el plazo de cuatro días siguientes a su recepción, efectuando las comunicaciones previstas en el artículo
 
-El Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina, realizarán el seguimiento del comportamiento del nuevo procedimiento de gestión y control de los procesos por incapacidad temporal. Asimismo, ambas entidades realizarán el seguimiento del grado de motivación clínica de las propuestas de alta de las mutuas y de respuesta de la inspección médica de los servicios públicos de salud o del Instituto Nacional de Gestión Sanitaria, así como el grado de cumplimiento de los plazos de las distintas entidades en lo que se refiere a las propuestas de alta. En caso de que se detectasen retrasos significativos se propondrán medidas adicionales que aseguren que el procedimiento se desarrolle con el necesario grado de celeridad.
+**7.5.** El Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina, realizarán el seguimiento del comportamiento del nuevo procedimiento de gestión y control de los procesos por incapacidad temporal. Asimismo, ambas entidades realizarán el seguimiento del grado de motivación clínica de las propuestas de alta de las mutuas y de respuesta de la inspección médica de los servicios públicos de salud o del Instituto Nacional de Gestión Sanitaria, así como el grado de cumplimiento de los plazos de las distintas entidades en lo que se refiere a las propuestas de alta. En caso de que se detectasen retrasos significativos se propondrán medidas adicionales que aseguren que el procedimiento se desarrolle con el necesario grado de celeridad.
 
 #### Artículo 7. Tramitación de los partes médicos y expedición de altas médicas por el Instituto Nacional de la Seguridad Social o, en su caso, el Instituto Social de la Marina.
 
@@ -360,8 +360,6 @@ la siguiente redacción:
 Cinco. Se añade un tercer párrafo al apartado 2 del artículo 41 con.
 
 la siguiente redacción:
-
-«A efectos de reconocer el derecho al subsidio, se aplicará lo dispuesto en los párrafos tercero y cuarto del artículo 3.8.»
 
 Seis. Se suprime el párrafo 3.º del artículo 30.2, pasando los actuales párrafos 4.º a 7.º a numerarse como 3.º a 6.º, respectivamente.
 

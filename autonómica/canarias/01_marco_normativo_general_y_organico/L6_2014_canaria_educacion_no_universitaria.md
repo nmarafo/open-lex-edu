@@ -1095,7 +1095,7 @@ d) Pruebas para la obtención del título de Técnico Superior para las personas
 
 5. La atención a la diversidad del alumnado se organizará conforme a los principios de prevención, inclusión, normalización, superación de desigualdades, globalidad, coordinación y corresponsabilidad de todos los miembros de la comunidad educativa, potenciando la apertura del centro al entorno y el uso de las redes de recursos sociales de la comunidad.
 
-6.  La atención a la diversidad es una consideración necesaria para que el sistema educativo en Canarias siga siendo equitativo e inclusivo, pero es, además, una condición necesaria para que sea un sistema educativo de calidad. Un sistema orientado al éxito escolar debe ser a la vez equitativo y de calidad.
+6. La atención a la diversidad es una consideración necesaria para que el sistema educativo en Canarias siga siendo equitativo e inclusivo, pero es, además, una condición necesaria para que sea un sistema educativo de calidad. Un sistema orientado al éxito escolar debe ser a la vez equitativo y de calidad.
 
 [Bloque 56: #a4-4]
 

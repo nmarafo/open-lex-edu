@@ -51,15 +51,15 @@ Consejería de Educación, Formación Profesional, Actividad Física y Deportes 
 En la página 9270, en el Anexo I correspondiente al Calendario de Finalización de Actividades, curso 2025-2026:
 Donde dice:
 Donde dice:
-FORMACIÓN PROFESIONAL DE GRADO D (NIVEL 1): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
-Segundo curso Entrega de calificaciones finales de evaluación  19 de junio Debe decir:
-FORMACIÓN PROFESIONAL DE GRADO D (NIVELES 1, 2, 3): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
-Segundo curso Entrega de calificaciones finales de evaluación  19 de junio Debe decir:
+FORMACIÓN PROFESIONAL DE GRADO D (NIVEL 1): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria 19 de junio
+Segundo curso Entrega de calificaciones finales de evaluación 19 de junio Debe decir:
+FORMACIÓN PROFESIONAL DE GRADO D (NIVELES 1, 2, 3): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria 19 de junio
+Segundo curso Entrega de calificaciones finales de evaluación 19 de junio Debe decir:
 Donde dice:
-FORMACIÓN PROFESIONAL DE GRADO D (NIVEL 1): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
-Segundo curso Entrega de calificaciones finales de evaluación  19 de junio Debe decir:
-FORMACIÓN PROFESIONAL DE GRADO D (NIVELES 1, 2, 3): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria  19 de junio
-Segundo curso Entrega de calificaciones finales de evaluación  19 de junio Las Palmas de Gran Canaria, a 19 de marzo de 2025.- El Director General de Administración de Centros, Escolarización y Servicios Complementarios, David Crego Chaves.
+FORMACIÓN PROFESIONAL DE GRADO D (NIVEL 1): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria 19 de junio
+Segundo curso Entrega de calificaciones finales de evaluación 19 de junio Debe decir:
+FORMACIÓN PROFESIONAL DE GRADO D (NIVELES 1, 2, 3): CICLOS FORMATIVOS DE GRADO BÁSICO, GRADO MEDIO Y GRADO SUPERIOR Primer curso Entrega de calificaciones finales de evaluación extraordinaria 19 de junio
+Segundo curso Entrega de calificaciones finales de evaluación 19 de junio Las Palmas de Gran Canaria, a 19 de marzo de 2025.- El Director General de Administración de Centros, Escolarización y Servicios Complementarios, David Crego Chaves.
 
 ## Relaciones Normativas y Fundamentos de Derecho
 

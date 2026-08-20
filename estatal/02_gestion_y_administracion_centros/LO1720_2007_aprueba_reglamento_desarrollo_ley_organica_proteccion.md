@@ -611,7 +611,7 @@ Sección Segunda. Procedimiento para la autorización de conservación de datos 
 
 3. Asimismo, los datos relativos a empresarios individuales, cuando hagan referencia a ellos en su calidad de comerciantes, industriales o navieros, también se entenderán excluidos del régimen de aplicación de la protección de datos de carácter personal.
 
-4.  Este reglamento no será de aplicación a los datos referidos a personas fallecidas. No obstante, las personas vinculadas al fallecido, por razones familiares o análogas, podrán dirigirse a los responsables de los ficheros o tratamientos que contengan datos de éste con la finalidad de notificar el óbito, aportando acreditación suficiente del mismo, y solicitar, cuando hubiere lugar a ello, la cancelación de los datos.
+4. Este reglamento no será de aplicación a los datos referidos a personas fallecidas. No obstante, las personas vinculadas al fallecido, por razones familiares o análogas, podrán dirigirse a los responsables de los ficheros o tratamientos que contengan datos de éste con la finalidad de notificar el óbito, aportando acreditación suficiente del mismo, y solicitar, cuando hubiere lugar a ello, la cancelación de los datos.
 
 #### Artículo 3. Ámbito territorial de aplicación.
 
@@ -2361,7 +2361,7 @@ Concluidos los trámites previstos en los artículos precedentes, el Director de
 
 2. Si en dicho plazo no se hubiese dictado y notificado resolución expresa, el afectado podrá considerar estimada su solicitud por silencio administrativo positivo.
 
-Sección 2.ª Procedimiento para la autorización  de conservación de datos para fines históricos, estadísticos  o científicos
+Sección 2.ª Procedimiento para la autorización de conservación de datos para fines históricos, estadísticos o científicos
 
 #### Artículo 157. Iniciación del procedimiento.
 

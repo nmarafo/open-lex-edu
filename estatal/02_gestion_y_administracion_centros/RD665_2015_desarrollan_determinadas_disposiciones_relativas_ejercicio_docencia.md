@@ -127,8 +127,6 @@ Educación Plástica, Visual y Audiovisual.
 
 Economía.
 
-Economía.
-
 Iniciación a la Actividad Emprendedora y Empresarial.
 
 (En los centros en los que exista profesorado de la especialidad de Economía, Formación y Orientación Laboral, y Organización y Gestión Comercial, se seguirá este orden de prelación para impartir las materias Economía e Iniciación a la Actividad Emprendedora y Empresarial.).
@@ -189,8 +187,6 @@ Artes Escénicas y Danza.
 
 Latín.
 
-Latín.
-
 Cultura Clásica.
 
 Matemáticas.
@@ -200,8 +196,6 @@ Matemáticas Orientadas a las Enseñanzas Académicas.
 Matemáticas Orientadas a las Enseñanzas Aplicadas.
 
 Matemáticas.
-
-Música.
 
 Música.
 
@@ -218,8 +212,6 @@ Portugués.
 #### Primera. Lengua Extranjera Portugués.
 
 #### Segunda. Lengua Extranjera Portugués.
-
-Tecnología.
 
 Tecnología.
 
@@ -277,8 +269,6 @@ Técnicas de Expresión Gráfico-Plástica Volumen.
 
 Economía.
 
-Economía.
-
 Economía de la Empresa.
 
 Fundamentos de Administración y Gestión.
@@ -286,8 +276,6 @@ Fundamentos de Administración y Gestión.
 Educación física.
 
 Educación Física.
-
-Filosofía.
 
 Filosofía.
 
@@ -665,8 +653,6 @@ Cultura Científica.
 
 ESO/BTO
 
-Cualquier título de Licenciado, Ingeniero o Arquitecto del área de Ciencias Experimentales y de la Salud o de las Enseñanzas Técnicas o cualquier título oficial de Graduado o Graduada de la rama de conocimiento de Ciencias, de Ciencias de la Salud o de Ingeniería y Arquitectura, y además acreditar una experiencia docente o una formación superior adecuada para impartir el currículo de la materia correspondiente.
-
 Física y Química.
 
 ESO/BTO
@@ -908,8 +894,6 @@ Tecnología.
 Se establecen las siguientes correspondencias:
 
 Materias anteriores a la implantación de las modificaciones introducidas en la [Ley Orgánica 2/2006](../01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md), de 3 de mayo,
-
-de Educación, por la [Ley Orgánica 8/2013](../03_ordenacion_curricular_y_ensenanzas/LO462_2016_ecd_regula_procedimiento_incorporacion_alumnado_curso.md), de 9 de diciembre, para la mejora de la calidad educativa,
 
 según su disposición final quinta
 

@@ -405,21 +405,21 @@ Phrase (simple / complexe) Proposition Syntagme ou groupe nominal, verbal… Suj
 
 **3. Texte**
 
-Anaphore (rhétorique: reprise d'un terme; linguistique: terme de reprise) Connecteur (logique, spatial, temporel) Structuration textuelle (organisation, cohésion)  Genre Modalité
+Anaphore (rhétorique: reprise d'un terme; linguistique: terme de reprise) Connecteur (logique, spatial, temporel) Structuration textuelle (organisation, cohésion) Genre Modalité
 
 Période Plan de l'expression / Plan du contenu Premier plan / Second plan Temporalité (succession / simultanéité) Thème / Propos Progressions dans le texte
 
 **4. Enonciation - Discours**
 
-Énonciation  Aspect (accompli / non accompli; inchoatif, duratif, itératif…)  Attitude énonciative (engagement /  détachement) Enonciation / Enoncé Position énonciative Modalisation  Niveau de langue Registre (comique, tragique, épique…) Situation d'énonciation Valeur Textes et formes de discours Enonciation, interaction, usage. Texte argumentatif (démontrer,  convaincre, persuader, délibérer) Texte descriptif Texte narratif  Texte explicatif Point de vue  Récit, narration, narrateur
+Énonciation Aspect (accompli / non accompli; inchoatif, duratif, itératif…) Attitude énonciative (engagement / détachement) Enonciation / Enoncé Position énonciative Modalisation Niveau de langue Registre (comique, tragique, épique…) Situation d'énonciation Valeur Textes et formes de discours Enonciation, interaction, usage. Texte argumentatif (démontrer, convaincre, persuader, délibérer) Texte descriptif Texte narratif Texte explicatif Point de vue Récit, narration, narrateur
 
-Opérations de discours Citation / Reformulation Énonciation rapportée (directe, indirecte, indirecte libre, narrativisée) Pragmatique  Acte de langage (direct et indirect) Auditoire Communication Débat Destinataire Dialogue Explicite / Implicite (présupposition, inférence) Ironie Réception Marques de l'oralité Accent Intonation  Redondance  Rythme  Syntaxe de l'oral
+Opérations de discours Citation / Reformulation Énonciation rapportée (directe, indirecte, indirecte libre, narrativisée) Pragmatique Acte de langage (direct et indirect) Auditoire Communication Débat Destinataire Dialogue Explicite / Implicite (présupposition, inférence) Ironie Réception Marques de l'oralité Accent Intonation Redondance Rythme Syntaxe de l'oral
 
 **5. Langage et variation**
 
 Archaïsme Code Langue et langage Néologisme
 
-Norme Usag  Variation linguistique (dialectes, registres)
+Norme Usag Variation linguistique (dialectes, registres)
 
 B. Textos.
 
@@ -701,69 +701,69 @@ Bloque 2.–Historia del mundo contemporáneo desde el siglo XIX hasta nuestros 
 
 1. La era de la industrialización y el capitalismo desde el siglo XIX hasta 1939:
 
-1.1 Las transformaciones políticas, económicas, sociales, y culturales de la era industrial en Europa, desde el siglo XIX a 1939.
+**1.1** Las transformaciones políticas, económicas, sociales, y culturales de la era industrial en Europa, desde el siglo XIX a 1939.
 
-1.2 Europa y su presencia en el mundo: interrelaciones, colonizaciones, confrontaciones.
+**1.2** Europa y su presencia en el mundo: interrelaciones, colonizaciones, confrontaciones.
 
-1.3 Las Revoluciones liberales y los nacionalismos en Europa durante el siglo XIX.
+**1.3** Las Revoluciones liberales y los nacionalismos en Europa durante el siglo XIX.
 
 2. La Primera mitad del siglo XX: guerras, democracias, totalitarismos, relaciones internacionales (hasta 1945):
 
-2.1 La Primera Guerra mundial y sus consecuencias.
+**2.1** La Primera Guerra mundial y sus consecuencias.
 
-2.2 Los años 1930: las democracias y las crisis.
+**2.2** Los años 1930: las democracias y las crisis.
 
-2.3 Los totalitarismos.
+**2.3** Los totalitarismos.
 
-2.4 La Segunda Guerra mundial: las grandes fases y la política nazi de exterminio.
+**2.4** La Segunda Guerra mundial: las grandes fases y la política nazi de exterminio.
 
 3. El mundo desde 1945 a nuestros días:
 
-3.1 De la sociedad industrial a la sociedad de la comunicación.
+**3.1** De la sociedad industrial a la sociedad de la comunicación.
 
-3.2 Las relaciones internacionales desde 1945.
+**3.2** Las relaciones internacionales desde 1945.
 
-3.3 Europa desde 1947 a nuestros días.
+**3.3** Europa desde 1947 a nuestros días.
 
-3.4 La descolonización y sus consecuencias.
+**3.4** La descolonización y sus consecuencias.
 
-3.5 Iberoamérica.
+**3.5** Iberoamérica.
 
 Bloque 3.–Historia de España y Francia desde el siglo XIX hasta nuestros días.
 
 1. La evolución política de España desde mediados del siglo XIX a los años 1930:
 
-1.1 La construcción del Estado liberal y la Restauración (1833-1923).
+**1.1** La construcción del Estado liberal y la Restauración (1833-1923).
 
-1.2 Las tensiones políticas del periodo de entre guerras: de la dictatura de Primo de Rivera a la Segunda República (1923-1936).
+**1.2** Las tensiones políticas del periodo de entre guerras: de la dictatura de Primo de Rivera a la Segunda República (1923-1936).
 
-1.3 La guerra civil 1936-1939.
+**1.3** La guerra civil 1936-1939.
 
 2. España desde el final de la Guerra Civil (1939) a nuestros días:
 
-2.1 La evolución política: El franquismo, la transición política y la consolidación de la democracia.
+**2.1** La evolución política: El franquismo, la transición política y la consolidación de la democracia.
 
-2.2 Economía, sociedad y cultura.
+**2.2** Economía, sociedad y cultura.
 
-2.3 España en Europa y en el mundo.
+**2.3** España en Europa y en el mundo.
 
 3. La evolución política de Francia, de la búsqueda de un régimen político a la III República (1848 a 1944):
 
-3.1 De la Segunda República (1848) a 1879: en busca de un régimen político.
+**3.1** De la Segunda República (1848) a 1879: en busca de un régimen político.
 
-3.2 La consolidación de la República (1879-1914).
+**3.2** La consolidación de la República (1879-1914).
 
-3.3 La crisis multiforme de la Francia de los años 1930.
+**3.3** La crisis multiforme de la Francia de los años 1930.
 
-3.4 Francia en la Segunda Guerra Mundial.
+**3.4** Francia en la Segunda Guerra Mundial.
 
 4. Francia desde 1945 a nuestros días:
 
-4.1 La evolución política.
+**4.1** La evolución política.
 
-4.2 Economía, sociedad y cultura.
+**4.2** Economía, sociedad y cultura.
 
-4.3 Francia en Europa y en el mundo.
+**4.3** Francia en Europa y en el mundo.
 
 Bloque 4.–Geografía de Europa, España y Francia.
 
@@ -771,25 +771,25 @@ Bloque 4.–Geografía de Europa, España y Francia.
 
 1.1 ¿Qué es Europa?
 
-1.2 La Europa de los Estados y la Unión europea.
+**1.2** La Europa de los Estados y la Unión europea.
 
-1.3 El hecho regional: una región en Francia o en España.
+**1.3** El hecho regional: una región en Francia o en España.
 
 2. España y su territorio:
 
-2.1 Medio natural y social.
+**2.1** Medio natural y social.
 
-2.2 El espacio económico.
+**2.2** El espacio económico.
 
-2.3 Desigualdades espaciales y ordenación del territorio.
+**2.3** Desigualdades espaciales y ordenación del territorio.
 
 3. Francia y su territorio:
 
-3.1 Medio natural y social.
+**3.1** Medio natural y social.
 
-3.2 El espacio económico.
+**3.2** El espacio económico.
 
-3.3 Desigualdades espaciales y ordenación del territorio.
+**3.3** Desigualdades espaciales y ordenación del territorio.
 
 **V. Criterios de evaluación**
 

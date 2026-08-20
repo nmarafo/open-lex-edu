@@ -146,4 +146,4 @@ El desarrollo reglamentario de esta Ley se llevará a efecto por el Consejo de G
 
 #### Disposición final segunda. Entrada en vigor.
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía». Sevilla, 26 de julio de 2021.–El Presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla. Este texto consolidado no tiene valor jurídico. 
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de la Junta de Andalucía». Sevilla, 26 de julio de 2021.–El Presidente de la Junta de Andalucía, Juan Manuel Moreno Bonilla. Este texto consolidado no tiene valor jurídico.

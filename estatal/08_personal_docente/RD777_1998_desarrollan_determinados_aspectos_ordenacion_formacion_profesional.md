@@ -427,7 +427,7 @@ Gestión y Organización de Empresas Agropecuarias
 
 – Ciencias de la Naturaleza y de la Salud.
 
-– Ciencias de la Tierra y del Medio  Ambiente.
+– Ciencias de la Tierra y del Medio Ambiente.
 
 – Tecnología.
 
@@ -435,7 +435,7 @@ Gestión y Organización de los Recursos Naturales y Paisajísticos.
 
 – Ciencias de la Naturaleza y de la Salud.
 
-– Ciencias de la Tierra y del Medio  Ambiente.
+– Ciencias de la Tierra y del Medio Ambiente.
 
 – Tecnología.
 
@@ -1235,7 +1235,7 @@ EDIFICACIÓN Y OBRA CIVIL.
 
 – Hormigón Armado (Construcción y Obras).
 
-– Obras de  Hormigón.
+– Obras de Hormigón.
 
 – Portlandista (Construcción y Obras)
 
@@ -1837,7 +1837,7 @@ MADERA Y MUEBLE
 
 – Ebanista (Madera).
 
-–  Madera (Madera).
+– Madera (Madera).
 
 – Modelista de Fundición (Madera).
 
@@ -2085,11 +2085,7 @@ Equipos e Instalaciones Electrotécnicas.
 
 Electrotecnia.
 
-Electrotecnia.
-
 Instalación y Mantenimiento Electromecánico de Maquinaria y Conducción de Líneas.
-
-Electrotecnia.
 
 Electrotecnia.
 
@@ -2097,11 +2093,7 @@ Mantenimiento Ferroviario.
 
 Electrotecnia.
 
-Electrotecnia.
-
-Montaje y Mantenimiento de Instalaciones de Frío, Climatización y  Producción de Calor.
-
-Electrotecnia.
+Montaje y Mantenimiento de Instalaciones de Frío, Climatización y Producción de Calor.
 
 Electrotecnia.
 
@@ -2173,8 +2165,6 @@ Finca: Superficie de cultivos (1).
 
 5 Ha.
 
-5 Ha.
-
 Explotaciones Agrarias intensivas.
 
 Aula polivalente.
@@ -2192,8 +2182,6 @@ Laboratorio de análisis.
 Taller agrario.
 
 Superficie de cultivos (1).
-
-2 Ha.
 
 2 Ha.
 
@@ -2219,8 +2207,6 @@ Finca: Superficie de cultivos (1).
 
 5 Ha.
 
-5 Ha.
-
 Jardinería.
 
 Aula polivalente.
@@ -2238,8 +2224,6 @@ Laboratorio de análisis.
 Taller agrario.
 
 Superficie de vivero y jardín (1).
-
-1 Ha.
 
 1 Ha.
 
@@ -2265,8 +2249,6 @@ Finca: Espacio natural (1).
 
 5 Ha.
 
-5 Ha.
-
 Gestión y Organización de Empresas Agropecuarias.
 
 Aula polivalente.
@@ -2289,8 +2271,6 @@ Finca: Superficie de cultivos(1).
 
 5 Ha.
 
-5 Ha.
-
 Gestión y Organización de Recursos Naturales y Paisajísticos.
 
 Aula polivalente.
@@ -2308,8 +2288,6 @@ Laboratorio de análisis.
 Taller agrario.
 
 Finca: Espacio natural (1).
-
-5 Ha.
 
 5 Ha.
 
@@ -2339,8 +2317,6 @@ Gimnasio.
 
 90
 
-90
-
 Cuadras (1).
 
 Baja y media montaña (1).
@@ -2357,8 +2333,6 @@ Gimnasio.
 
 90
 
-90
-
 Pista Polideportiva.
 
 44 x 22 m
@@ -2366,8 +2340,6 @@ Pista Polideportiva.
 44x22 m.
 
 Piscina (1).
-
-25 m. largo
 
 25 m. largo
 
@@ -2384,8 +2356,6 @@ Aula polivalente.
 Taller de buceo/embarcación.
 
 Piscina (4 rn de profundidad).
-
-25 m. largo
 
 25 m. largo
 
@@ -2435,8 +2405,6 @@ Laboratorio de pesca.
 
 60
 
-60
-
 Taller de artes y aparejos.
 
 Taller de seguridad y supervivencia.
@@ -2454,8 +2422,6 @@ Aula polivalente.
 40
 
 Laboratorio de pesca.
-
-60
 
 60
 
@@ -2577,8 +2543,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de impresión.
 
 Taller de encuadernación y manipulados.
@@ -2592,8 +2556,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -2637,8 +2599,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de preimpresión.
 
 Producción en Industrias de Artes Gráficas.
@@ -2650,8 +2610,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -2672,8 +2630,6 @@ Aula polivalente.
 Aula de gestión.
 
 Taller de comercio.
-
-90
 
 90
 
@@ -2795,8 +2751,6 @@ Taller de sonido.
 
 90
 
-90
-
 Taller de producciones audiovisuales-.
 
 Realización de Audiovisuales y Espectáculos.
@@ -2821,8 +2775,6 @@ Taller de montaje y postproducción.
 
 90
 
-90
-
 Sonido.
 
 Aula polivalente.
@@ -2838,8 +2790,6 @@ Aula técnica.
 60
 
 Taller de sonido.
-
-90
 
 90
 
@@ -2871,9 +2821,7 @@ Espacio de terreno cercado al aire libre (1).
 
 2.000
 
-2.000
-
-Obras de Hormigón.
+**2.000** Obras de Hormigón.
 
 Aula polivalente.
 
@@ -2887,9 +2835,7 @@ Espacio de terreno cercado al aire libre (1).
 
 2.000
 
-2.000
-
-Operación y Mantenimiento de Maquinaria de Construcción.
+**2.000** Operación y Mantenimiento de Maquinaria de Construcción.
 
 Aula polivalente.
 
@@ -2903,9 +2849,7 @@ Espacio de terreno cercado al aire libre (1).
 
 8.000
 
-8.000
-
-Desarrollo y Aplicación de Proyectos de Construcción.
+**8.000** Desarrollo y Aplicación de Proyectos de Construcción.
 
 Aula polivalente.
 
@@ -3069,8 +3013,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de automatismos.
 
 90
@@ -3093,8 +3035,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de automatismos.
 
 90
@@ -3102,8 +3042,6 @@ Taller de automatismos.
 60
 
 Taller de CNC.
-
-60
 
 60
 
@@ -3129,8 +3067,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de construcciones metálicas.
 
 Tratamientos Superficiales y Térmicos.
@@ -3142,8 +3078,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -3173,8 +3107,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de construcciones metálicas.
 
 Desarrollo de Proyectos Mecánicos.
@@ -3195,8 +3127,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de automatismos.
 
 90
@@ -3214,8 +3144,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -3241,8 +3169,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de automatismos.
 
 90
@@ -3250,8 +3176,6 @@ Taller de automatismos.
 60
 
 Taller de CNC.
-
-60
 
 60
 
@@ -3281,8 +3205,6 @@ Taller de pastelería y panadería.
 
 60
 
-60
-
 Pastelería y Panadería.
 
 Aula polivalente.
@@ -3294,8 +3216,6 @@ Aula polivalente.
 Taller de cocina.
 
 Taller de pastelería y panadería.
-
-60
 
 60
 
@@ -3384,8 +3304,6 @@ Taller de hostelería.
 60
 
 Taller de pastelería y panadería.
-
-60
 
 60
 
@@ -3951,11 +3869,7 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Laboratorio de microbiología.
-
-60
 
 60
 
@@ -3993,8 +3907,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de química industrial.
 
 I 50
@@ -4014,8 +3926,6 @@ Laboratorio de análisis.
 60
 
 Laboratorio de microbiología.
-
-60
 
 60
 
@@ -4039,8 +3949,6 @@ Laboratorios de ensayos.
 
 60
 
-60
-
 Taller de química industrial.
 
 Análisis y Control.
@@ -4061,11 +3969,7 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Laboratorio de microbiología.
-
-60
 
 60
 
@@ -4132,8 +4036,6 @@ Laboratorio de análisis.
 60
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4211,8 +4113,6 @@ Laboratorio de TAC/RM.
 
 60
 
-60
-
 Laboratorio de radiología.
 
 90
@@ -4237,8 +4137,6 @@ Laboratorio de microbiología.
 
 60
 
-60
-
 Ortoprotésica
 
 Aula polivalente.
@@ -4248,8 +4146,6 @@ Aula polivalente.
 40
 
 Laboratorio técnico.
-
-60
 
 60
 
@@ -4359,8 +4255,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de calzado y marroquinería.
 
 Confección.
@@ -4372,8 +4266,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4397,11 +4289,9 @@ Laboratorio de ensayos ,.
 
 60
 
-60
-
 Taller de ennoblecimiento textil.
 
-Producción de Hilatura y  Tejeduría de Calada.
+Producción de Hilatura y Tejeduría de Calada.
 
 Aula polivalente.
 
@@ -4410,8 +4300,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4426,8 +4314,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4451,8 +4337,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de curtición.
 
 Patronaje.
@@ -4473,8 +4357,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Procesos de Confección Industrial.
 
 Aula polivalente.
@@ -4484,8 +4366,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4509,8 +4389,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de ennoblecimiento textil.
 
 Procesos Textiles de Hilatura y Tejeduría de Calada.
@@ -4525,8 +4403,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de hilatura y tejeduría de calada.
 
 Procesos Textiles de Tejeduría de Punto.
@@ -4538,8 +4414,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4559,8 +4433,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de fabricación de cerámica.
 
 Operaciones de Fabricación de Vidrio y Transformados.
@@ -4572,8 +4444,6 @@ Aula polivalente.
 40
 
 Laboratorio de ensayos.
-
-60
 
 60
 
@@ -4597,8 +4467,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de fabricación de cerámica.
 
 Fabricación y Transformación de Productos de Vidrio.
@@ -4619,8 +4487,6 @@ Laboratorio de ensayos.
 
 60
 
-60
-
 Taller de fabricación y transformación de vidrio.
 
 (1) Espacio singular no necesariamente ubicado en el centro docente.
@@ -4637,7 +4503,7 @@ Administración de Empresas.
 
 Diplomado en Ciencias Empresariales.
 
-Diplomado en  Gestión y Administración Pública.
+Diplomado en Gestión y Administración Pública.
 
 Análisis y Química Industrial.
 
@@ -4893,7 +4759,7 @@ MODIFICACIÓN DEL REAL DECRETO 1653/1994 DE 22 DE JULIO POR EL QUE SE ESTABLECE 
 
 3. Enseñanzas mínimas
 
-3.2 Módulos profesionales asociados a una unidad de competencia
+**3.2** Módulos profesionales asociados a una unidad de competencia
 
 **Módulo profesional 1: marketing internacional**
 
@@ -4903,7 +4769,7 @@ CAPACIDADES TERMINALES
 
 CRITERIOS DE EVALUACIÓN
 
-1.1 Analizar las variables que intervienen en el desarrollo de estrategias de marketing internacional.
+**1.1** Analizar las variables que intervienen en el desarrollo de estrategias de marketing internacional.
 
 − Definir el concepto de marketing internacional y, las políticas que lo componen.
 
@@ -4921,7 +4787,7 @@ Calcular la tendencia de la demanda del producto.
 
 Obtener la demanda prevista del producto para un período determinado.
 
-1.2 Definir procedimientos para obtener información relevante en la elaboración de estudios de mercados internacionales.
+**1.2** Definir procedimientos para obtener información relevante en la elaboración de estudios de mercados internacionales.
 
 − Describir los rasgos característicos de las técnicas de investigación de mercados más utilizadas en la prospección de mercados internacionales.
 
@@ -4951,7 +4817,7 @@ Diseñar una encuesta con la que se recojan datos fundamentales para el estudio.
 
 Utilizar aplicaciones informáticas adecuadas.
 
-1.3 Analizar los principales factores que definen la estructura de los canales de distribución en mercados de exportación.
+**1.3** Analizar los principales factores que definen la estructura de los canales de distribución en mercados de exportación.
 
 – Enumerar y describir los canales más usuales de distribución y ventas para la diversificación exportadora de una empresa.
 
@@ -4983,7 +4849,7 @@ Analizar los costes asociados al canal de distribución propuesto.
 
 Identificar posibles problemas logísticos que pueden surgir en el canal de distribución presentado.
 
-1.4 Analizar distintas acciones promocionales que pueden desarrollarse en la aplicación de planes de marketing internacional.
+**1.4** Analizar distintas acciones promocionales que pueden desarrollarse en la aplicación de planes de marketing internacional.
 
 – Describir los distintos tipos de promociones, medios, soportes y formas publicitarias más utilizadas en la práctica habitual de comercio internacional.
 
@@ -5015,7 +4881,7 @@ Describir tres tipos de acciones promocionales posibles de realizar en el país 
 
 Explicar los efectos psicológicos que producen habitualmente en el consumidor cada una de las acciones promocionales definidas.
 
-1.5 Evaluar la posibilidad de implantación de redes comerciales internacionales a partir de unos objetivos definidos.
+**1.5** Evaluar la posibilidad de implantación de redes comerciales internacionales a partir de unos objetivos definidos.
 
 – Explicar las fases que componen un estudio de implantación de redes comerciales y objeto de cada una de ellas.
 
@@ -5033,13 +4899,13 @@ Evaluar la viabilidad de la implantación, aplicando los métodos adecuados.
 
 Presentar el estudio realizado de manera estructurada y homogénea.
 
-1.6 Elaborar presupuestos que valoren la implantación de planes de marketing internacional.
+**1.6** Elaborar presupuestos que valoren la implantación de planes de marketing internacional.
 
 – Enumerar y definir las diferentes partidas que componen un presupuesto de marketing internacional.
 
 – Explicar la función del presupuesto en una empresa y los distintos tipos de desviaciones que se pueden presentar.
 
-–  Dado un conjunto de ingresos y gastos de una empresa previstos para la comercialización internacional de un producto:.
+– Dado un conjunto de ingresos y gastos de una empresa previstos para la comercialización internacional de un producto:.
 
 Clasificar los gastos.
 
@@ -5117,7 +4983,7 @@ CAPACIDADES TERMINALES
 
 CRITERIOS DE EVALUACIÓN
 
-2.1 Aplicar técnicas de comunicación adecuadas en la preparación y desarrollo de relaciones comerciales.
+**2.1** Aplicar técnicas de comunicación adecuadas en la preparación y desarrollo de relaciones comerciales.
 
 – Identificar las innovaciones tecnológicas que aparecen en los procesos de comunicación.
 
@@ -5141,7 +5007,7 @@ Analizar el comportamiento del cliente o proveedor y caracterizado.
 
 Utilizar la técnica de comunicación adecuada a la situación y al interlocutor.
 
-2.2 Aplicar técnicas adecuadas en la negociación de condiciones de operaciones de compra o venta internacional.
+**2.2** Aplicar técnicas adecuadas en la negociación de condiciones de operaciones de compra o venta internacional.
 
 – Identificar las diferentes etapas de un proceso de negociación de condiciones de compraventa internacional.
 
@@ -5169,13 +5035,13 @@ Sintetizar la secuencia del plan.
 
 – Definir los principales parámetros que configuran una oferta presentada a un cliente extranjero.
 
-– Dadas tres ofertas de proveedores extranjeros en las que se expresan condiciones de compra  garantías y nivel de servicio y se definen las necesidades comerciales de la empresa compradora:
+– Dadas tres ofertas de proveedores extranjeros en las que se expresan condiciones de compra garantías y nivel de servicio y se definen las necesidades comerciales de la empresa compradora:
 
 Seleccionar aquella que en términos comparativos ofrece mejores condiciones y se adapta a los objetivos comerciales definidos.
 
 Detectar en la oferta seleccionada posibles puntos que se deban negociar.
 
-2.3 Interpretar la normativa de contratación internacional que regula las operaciones de compraventa.
+**2.3** Interpretar la normativa de contratación internacional que regula las operaciones de compraventa.
 
 – Identificar las fuentes de información jurídicas que afectan y regulan Ia contratación internacional.
 
@@ -5189,7 +5055,7 @@ Detectar en la oferta seleccionada posibles puntos que se deban negociar.
 
 – Dados dos textos legales extranjeros reguladores de la contratación internacional, identificar los aspectos comunes y las posibles contradicciones.
 
-– Interpretar las cláusulas de un contrato tipo de compraventa internacional,  distinguiendo entre las prescriptivas y las potestativas.
+– Interpretar las cláusulas de un contrato tipo de compraventa internacional, distinguiendo entre las prescriptivas y las potestativas.
 
 – Según el Convenio de Naciones Unidas sobre contratos de compraventa internacional de mercancías:
 
@@ -5197,7 +5063,7 @@ Identificar el momento en el que se perfecciona el contrato de compraventa inter
 
 Enumerar las obligaciones contractuales del vendedor y comprador.
 
-2.4 Elaborar el precontrato asociado al proceso de compraventa internacional, de acuerdo con la normativa de contratación internacional.
+**2.4** Elaborar el precontrato asociado al proceso de compraventa internacional, de acuerdo con la normativa de contratación internacional.
 
 – Identificar y explicar los INCOTERMS más comúnmente utilizados en comercio internacional.
 
@@ -5287,7 +5153,7 @@ CAPACIDADES TERMINALES
 
 CRITERIOS DE EVALUACIÓN
 
-6.1 Analizar distintas modalidades de crédito para financiar operaciones de venta internacional.
+**6.1** Analizar distintas modalidades de crédito para financiar operaciones de venta internacional.
 
 – Precisar los conceptos de interés nominal e interés efectivo o tasa anual de equivalencia (TAE) y la forma de calcularlos.
 
@@ -5321,7 +5187,7 @@ Valor de la anualidad fraccionada.
 
 Valor de la anualidad prepagable y postpagable.
 
-6.2 Determinar la cobertura adecuada de posibles riesgos financieros en operaciones comerciales internacionales.
+**6.2** Determinar la cobertura adecuada de posibles riesgos financieros en operaciones comerciales internacionales.
 
 – Analizar los riesgos financieros más habituales asociados a una operación internacional.
 
@@ -5347,7 +5213,7 @@ Relacionar cada uno con la cobertura apropiada.
 
 Justificar la utilización de cada instrumento de cobertura de riesgo financiero.
 
-6.3 Analizar la información relacionada con el mercado de divisas y las implicaciones en el comercio internacional.
+**6.3** Analizar la información relacionada con el mercado de divisas y las implicaciones en el comercio internacional.
 
 – Describir el funcionamiento general del mercado de divisas.
 
@@ -5369,7 +5235,7 @@ Interpretar los datos que se recogen en esa información.
 
 Analizar las fluctuaciones de una determinada divisa y deducir algunas implicaciones que podría tener en una operación comercial convenientemente caracterizada.
 
-6.4 Definir procedimientos para financiar concursos o licitaciones internacionales.
+**6.4** Definir procedimientos para financiar concursos o licitaciones internacionales.
 
 – Identificar e interpretar las diferentes normas de organismos de financiación internacionales aplicables a licitaciones o concursos internacionales.
 
@@ -5379,7 +5245,7 @@ Analizar las fluctuaciones de una determinada divisa y deducir algunas implicaci
 
 – Confeccionar los documentos requeridos en una determinada licitación de un proyecto o suministro internacional.
 
-6.5 Utilizar adecuadamente paquetes informáticos integrados de gestión financiera.
+**6.5** Utilizar adecuadamente paquetes informáticos integrados de gestión financiera.
 
 – Integrar la información de carácter financiero de diferentes bases de datos.
 
@@ -5445,7 +5311,7 @@ CAPACIDADES TERMINALES
 
 CRITERIOS DE EVALUACIÓN
 
-7.1 Analizar distintos medios de pago para operaciones de compraventa internacional.
+**7.1** Analizar distintos medios de pago para operaciones de compraventa internacional.
 
 – Clasificar las modalidades principales de crédito documentario.
 
@@ -5467,7 +5333,7 @@ CRITERIOS DE EVALUACIÓN
 
 Determinar los documentos básicos y complementarios que hay que presentar para gestionar dichos medios en función de la normativa aplicable, usos mercantiles internacionales y condiciones pactadas en el contrato.
 
-7.2 Elaborar la documentación relativa a los medios de pago internacional.
+**7.2** Elaborar la documentación relativa a los medios de pago internacional.
 
 – Identificar para cada medio de pago internacional el documento base que lo representa y explicar el contenido del mismo.
 
@@ -5483,7 +5349,7 @@ Utilizar programas informáticos integrados de comercio internacional para obten
 
 – Identificar la normativa que regula el clausulado de los medios de pago internacionales.
 
-7.3 Analizar las garantías reales y personales asociadas al pago de operaciones de compraventa internacional exigidas en la práctica bancaria.
+**7.3** Analizar las garantías reales y personales asociadas al pago de operaciones de compraventa internacional exigidas en la práctica bancaria.
 
 – Definición del concepto de garantía real y personal.
 
@@ -5503,7 +5369,7 @@ Su automaticidad.
 
 CONTENIDOS BÁSICOS (duración 55 horas).
 
-1.  Medios de pago internacional:
+1. Medios de pago internacional:
 
 a) El crédito documentado.
 
@@ -5537,7 +5403,7 @@ b) Modalidades de garantías.
 
 **4. Profesorado**
 
-4.1 Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de comercio internacional.
+**4.1** Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de comercio internacional.
 
 Módulo profesional
 
@@ -5803,8 +5669,6 @@ Prótesis removible de resina.
 
 Prótesis dentales.
 
-Prótesis dentales.
-
 PRODUCCIÓN EN ARTES GRÁFICAS.
 
 Procesos de manipulados de cartón.
@@ -5919,8 +5783,6 @@ Proyectos de instalaciones térmicas y de fluidos.
 
 – Proyectos de instalaciones de manutención y transporte.
 
-– Desarrollo de proyectos de instalaciones de fluidos, térmicas y de manutención.
-
 (2) Título de Licenciado en Química o Ingeniero Químico.
 
 (3) Título de: Arquitecto, Ingeniero, Arquitecto Técnico o Ingeniero Técnico.
@@ -6011,8 +5873,6 @@ INDUSTRIAS ALIMENTARIAS
 
 ARTES GRÁFICAS
 
-ARTES GRÁFICAS
-
 – Cualquier profesión o especialidad
 
 – Encuadernación y Manipulados de Papel y Cartón.
@@ -6059,8 +5919,6 @@ EDIFICACIÓN Y OBRA CIVIL
 
 ELECTRICIDAD Y ELECTRÓNICA
 
-ELECTRICIDAD Y ELECTRÓNICA
-
 – Cualquier profesión o especialidad
 
 – Equipos Electrónicos de Consumo.
@@ -6082,8 +5940,6 @@ MANTENIMIENTO Y SERVICIOS A LA PRODUCCIÓN
 – Cualquier profesión o especialidad
 
 – Mantenimiento Ferroviario.
-
-HOSTELERÍA Y TURISMO
 
 HOSTELERÍA Y TURISMO
 
@@ -6203,8 +6059,6 @@ TEXTIL, CONFECCIÓN Y PIEL
 
 QUÍMICA
 
-QUÍMICA
-
 – Cualquier profesión o especialidad
 
 – Laboratorio.
@@ -6260,8 +6114,6 @@ TEXTIL, CONFECCIÓN Y PIEL
 – Cualquier profesión o especialidad
 
 – Producción de Tejidos de Punto.
-
-VIDRIO Y CERÁMICA
 
 VIDRIO Y CERÁMICA
 
@@ -6460,8 +6312,6 @@ Ingeniero Técnico de Telecomunicación (todas las especialidades).
 Producción de Audiovisuales, Radio y Espectáculos.
 
 Realización de Audiovisuales y Espectáculos.
-
-Licenciado en Periodismo.
 
 Licenciado en Periodismo.
 
@@ -7175,8 +7025,6 @@ Ingeniero: Agrónomo; de Montes.
 
 OPERACIONES Y EQUIPOS DE PRODUCCIÓN AGRARIA (2).
 
-Licenciado en: Biología; Ciencias Ambientales; Ciencia y Tecnología de los Alimentos; Geología; Química; Veterinaria.
-
 Ingeniero: Agrónomo, de Montes.
 
 Ingeniero Técnico: Agrícola, en todas sus especialidades; Forestal, en todas sus especialidades.
@@ -7218,8 +7066,6 @@ ADMINISTRACIÓN DE EMPRESAS (1).
 Licenciado en: Administración y Dirección de Empresas; Ciencias Actuariales y Financieras; Ciencias Políticas y de la Administración; Economía; Derecho.
 
 PROCESOS DE GESTIÓN ADMINISTRATIVA (2).
-
-Licenciado en: Administración y Dirección de Empresas; Ciencias Actuariales y Financieras; Ciencias Políticas y de la Administración; Economía; Derecho.
 
 Ingeniero en Informática.
 
@@ -7397,8 +7243,6 @@ Ingeniero: Agrónomo; Químico.
 
 OPERACIONES Y EQUIPOS DE ELABORACIÓN DE PRODUCTOS ALIMENTARIOS (2).
 
-Licenciado en: Biología; Bioquímica; Ciencia y Tecnología de los Alimentos; Ciencias Ambientales; Farmacia; Química; Veterinaria.
-
 Ingeniero: Agrónomo; Industrial; Químico.
 
 Ingeniero Técnico: Agrícola, especialidad en Industrias Agrarias y Alimentarias; Industrial, especialidad en Química Industrial.
@@ -7437,15 +7281,13 @@ Licenciado en: Máquinas Navales.
 
 MANTENIMIENTO DE VEHÍCULOS (2).
 
-Ingeniero: Industrial; Aeronáutico; Naval y Oceánico; Agrónomo; de Minas; de Montes.
-
 Licenciado en: Máquinas Navales.
 
 Diplomado en: Máquinas Navales.
 
 Ingeniero Técnico: Industrial, especialidad en Mecánica; Aeronáutico, en todas sus especialidades; Naval, especialidad en Propulsión y Servicios del Buque; Agrícola, especialidad en Mecanización y Construcciones Rurales; de Minas, especialidad en Instalaciones Electromecánicas Mineras.
 
-ORGANIZACIÓN Y PROYECTOS DE  SISTEMAS ENERGÉTICOS (1).
+ORGANIZACIÓN Y PROYECTOS DE SISTEMAS ENERGÉTICOS (1).
 
 Arquitecto.
 

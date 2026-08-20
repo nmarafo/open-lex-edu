@@ -44,11 +44,11 @@ Primero Objeto Se adjudica el puesto de trabajo convocado a la funcionaria que f
 Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo destino obtenido será de tres días. Dicho plazo empezará a contarse a partir del día siguiente al del cese, que deberá efectuarse dentro de los tres días siguientes al de la publicación de la presente Resolución, salvo que el cese haya sido formalmente diferido o aplazado por el órgano competente. El cómputo del plazo posesorio se iniciará cuando finalicen los permisos o licencias que, en su caso, hayan sido concedidas a los interesados, salvo que, por causas justificadas, el órgano que los concedió acuerde suspender el disfrute de los mismos. 2. Si la resolución comporta el reingreso al servicio activo, el plazo de toma de posesión será el que establezca la orden de reingreso, conforme a lo previsto en la normativa aplicable.
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgaMIÉRCOLES 7 DE SEPTIEMBRE DE 2022 Pág. 13 no que la ha dictado, o bien recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello, de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Madrid, a 25 de agosto de 2022.—El Consejero de Economía, Hacienda y Empleo, P. D. (Orden de 3 de diciembre de 2021, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de diciembre de 2021), el Secretario General Técnico, Juan Revuelta González.
 
-Pág. 14 http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA EMPLEO DIRECCION GENERAL TRABAJO SUBDIRECCION GENERAL RELACIONES LABORALES Y NEGOCIACIÓN COLECTIVA AREA DE GESTIÓN ADMINISTRATIVA Puesto de Trabajo:
-AREA DE GESTIÓN ADMINISTRATIVA Denominación     :
-29 A Grupo                :
-N.C.D.               :
-25.509,48 C. Específico      :
+Pág. 14 http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE LIBRE DESIGNACIÓN CONSEJERIA ECONOMÍA, HACIENDA Y EMPLEO VICECONSEJERIA EMPLEO DIRECCION GENERAL TRABAJO SUBDIRECCION GENERAL RELACIONES LABORALES Y NEGOCIACIÓN COLECTIVA AREA DE GESTIÓN ADMINISTRATIVA Puesto de Trabajo:
+AREA DE GESTIÓN ADMINISTRATIVA Denominación :
+29 A Grupo :
+N.C.D. :
+25.509,48 C. Específico :
 **8*98*9* ESTEBANEZ PALACIOS,MARIA ALMUDENA Cód. identificación:
 Apellidos y Nombre:
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO (03/17.018/22)

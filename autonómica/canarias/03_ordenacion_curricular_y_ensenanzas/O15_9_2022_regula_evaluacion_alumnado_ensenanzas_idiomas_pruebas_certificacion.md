@@ -56,7 +56,7 @@ En el ámbito autonómico, la Ley 6/2014, de 25 de julio, Canaria de Educación
 
 Universitaria, complementa esta definición de las enseñanzas de régimen especial, a las
 
-que dedica su 
+que dedica su
 
 ## Capítulo III. , en el que establece que los objetivos de estas enseñanzas,
 
@@ -112,21 +112,21 @@ desarrolló para su ámbito de actuación mediante el Decreto 142/2018, de 8 de
 
 ordenación y el currículo de las enseñanzas y la certificación de idiomas de régimen especial,
 
-regulando en el 
+regulando en el
 
 ## Capítulo IV. los aspectos básicos de la evaluación y promoción del alumnado
 
-que cursa las enseñanzas de idiomas de régimen especial y en el 
+que cursa las enseñanzas de idiomas de régimen especial y en el
 
 ## Capítulo V. la certificación
 
-de idiomas. La 
+de idiomas. La
 
 #### disposición final segunda del citado decreto contiene la atribución expresa. a la consejería competente en materia de educación para dictar, en el ámbito de sus
 
 competencias, cuantas disposiciones sean precisas para su desarrollo y ejecución. Y por
 
-otra parte, en la 
+otra parte, en la
 
 #### disposición transitoria primera se dispone que hasta que no se produzca. el nuevo desarrollo normativo en materia de evaluación y certificación se mantendrán en
 
@@ -286,7 +286,7 @@ objetivos, competencias y contenidos propios del curso.
 
 criterios de evaluación establecidos en los currículos de cada uno de los niveles e idiomas
 
-recogidos en el 
+recogidos en el
 
 ## Anexo 1. º del Decreto 142/2018, de 8 de octubre, por el que se establece
 
@@ -340,7 +340,7 @@ docentes públicos no universitarios de la Comunidad Autónoma de Canarias.
 
 Asimismo, los departamentos de coordinación didáctica deberán concretar en las
 
-programaciones didácticas los aspectos de los currículos establecidos en el 
+programaciones didácticas los aspectos de los currículos establecidos en el
 
 ## Anexo 1. º del
 
@@ -750,7 +750,7 @@ y a lo que se establezca anualmente en los procedimientos de admisión y matríc
 
 2. Prueba de certificación.
 
-2.1. Cada uno de los certificados oficiales de idiomas de los distintos niveles a los que
+**2.1.** Cada uno de los certificados oficiales de idiomas de los distintos niveles a los que
 
 se hace referencia en los artículos 5, 6, 7, 8 y 9 del Decreto 142/2018, de 8 de octubre,
 
@@ -758,7 +758,7 @@ permite el acceso al primer curso del siguiente nivel del idioma correspondiente
 
 Lunes 26 de septiembre de 2022
 
-2.2. En aplicación de lo establecido en el Real Decreto 1/2019, de 11 de enero, en lo
+**2.2.** En aplicación de lo establecido en el Real Decreto 1/2019, de 11 de enero, en lo
 
 que respecta al acceso a las enseñanzas de idiomas mediante la superación de algunas
 
@@ -864,7 +864,7 @@ competencias parciales por actividades de lengua, se tomarán como referencia lo
 
 competencias, contenidos y criterios de evaluación establecidos para cada nivel y actividad
 
-de lengua en los currículos fijados en el 
+de lengua en los currículos fijados en el
 
 ## Anexo 1. º del Decreto 142/2018, de 8 de octubre,
 
@@ -1514,7 +1514,7 @@ prevista a tal efecto.
 
 respetar lo que establece la legislación vigente en materia de protección de datos de carácter
 
-personal, y, en todo caso, lo establecido en la 
+personal, y, en todo caso, lo establecido en la
 
 #### disposición adicional vigesimotercera de la. Ley Orgánica 2/2006, de 3 de mayo, de Educación.
 
@@ -1546,7 +1546,7 @@ ambos procedimientos.
 
 secretaría de este en los siguientes términos:
 
-1.1. Evaluación final de aprovechamiento.
+**1.1.** Evaluación final de aprovechamiento.
 
 La reclamación a las calificaciones obtenidas en la evaluación final de aprovechamiento
 
@@ -1582,7 +1582,7 @@ un informe motivado, que deberá contener además manifestación expresa de la d
 
 modificación o ratificación de la calificación final adoptada.
 
-1.2. Prueba de certificación.
+**1.2.** Prueba de certificación.
 
 La reclamación a las calificaciones obtenidas en la prueba de certificación se presentará
 
@@ -1748,7 +1748,7 @@ sobrepasada esa fecha, hasta la resolución en firme del recurso, si existiera.
 
 establece la legislación vigente en materia de protección de datos de carácter personal, y,
 
-en todo caso, lo establecido en la 
+en todo caso, lo establecido en la
 
 #### disposición adicional vigesimotercera de la Ley Orgánica. 2/2006, de 3 de mayo, de Educación.
 

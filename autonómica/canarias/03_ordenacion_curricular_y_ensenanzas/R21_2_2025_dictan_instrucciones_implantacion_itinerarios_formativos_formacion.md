@@ -146,7 +146,7 @@ A) MÓDULOS DE CARÁCTER GENERAL:
 • Ámbito de Comunicación y competencia social.
 • Ámbito de Ciencias aplicadas y competencia lógica.
 • Ámbito de Prevención y orientación profesional.
-B) MÓDULOS PROFESIONALES:  incluirá los módulos formativos de un certificado profesional de nivel 1.
+B) MÓDULOS PROFESIONALES: incluirá los módulos formativos de un certificado profesional de nivel 1.
 
 #### Novena. Currículo.
 
@@ -305,78 +305,112 @@ CCL, CP, CPSAA, CC, CE y CCECCD. Competencia específica 4. Comunicar en lengua 
 
 4. Competencias específicas, criterios de evaluación y explicación del bloque competencial. Las competencias específicas integran las competencias clave y los saberes del ámbito, y son el eje del currículo del ámbito. Las competencias específicas se organizan en torno a bloques competenciales, que incluyen: el enunciado de la competencia específica, los criterios de evaluación y la explicación del bloque competencial que orienta sobre el proceso de enseñanza y aprendizaje.
 
-Los criterios de evaluación propuestos servirán como referencia para orientar el aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle al máximo sus capacidades y competencias clave. Competencia específica 1.  Aplicar destrezas dirigidas hacia la autodeterminación afrontando desafíos de manera  autónoma  en  diferentes  entornos  (personal,  social  y  laboral)  empleando  apoyos  ajustados  a  sus capacidades,  preferencias y ritmos individuales. Criterios de evaluación Competencias clave 1.1. Identificar objetivos adaptados a diferentes contextos (personal, social y laboral) alineados con sus intereses y preferencias.
+Los criterios de evaluación propuestos servirán como referencia para orientar el aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle al máximo sus capacidades y competencias clave. Competencia específica 1. Aplicar destrezas dirigidas hacia la autodeterminación afrontando desafíos de manera autónoma en diferentes entornos (personal, social y laboral) empleando apoyos ajustados a sus capacidades, preferencias y ritmos individuales. Criterios de evaluación Competencias clave
+
+**1.1.** Identificar objetivos adaptados a diferentes contextos (personal, social y laboral) alineados con sus intereses y preferencias.
 **CCL**
-CPSAA CE CCEC 1.2. Definir  metas  claras,  ajustadas  y  alineadas  con  sus  intereses  y  habilidades, mostrando capacidad para planificar y organizarse en función de sus objetivos.
+CPSAA CE CCEC
+
+**1.2.** Definir metas claras, ajustadas y alineadas con sus intereses y habilidades, mostrando capacidad para planificar y organizarse en función de sus objetivos.
 **CCL**
-CPSAA CE 1.3. Mostrar capacidad de tomar decisiones de manera autónoma, ajustadas al entorno
+CPSAA CE
+
+**1.3.** Mostrar capacidad de tomar decisiones de manera autónoma, ajustadas al entorno
 **CCL**
 CPSAA en el que se encuentra (personal, social y laboral), considerando las consecuencias de sus elecciones y buscando las mejores alternativas según sus circunstancias.
 **CC**
-CE CCEC 1.4. I dentificar sus fortalezas y debilidades en diferentes entornos  (personal, social y laboral)  a través de  la autoevaluación, que le permita potenciar sus habilidades y abordar aspectos de mejora.
+CE CCEC
+
+**1.4.** I dentificar sus fortalezas y debilidades en diferentes entornos (personal, social y laboral) a través de la autoevaluación, que le permita potenciar sus habilidades y abordar aspectos de mejora.
 **CCL**
-CPSAA CE 1.5.  Reconocer  y  autorregular  sus  emociones  en  diferentes  situaciones, particularmente ante desafíos, mostrando autocontrol y capacidad de reflexión.
+CPSAA CE
+
+**1.5.** Reconocer y autorregular sus emociones en diferentes situaciones, particularmente ante desafíos, mostrando autocontrol y capacidad de reflexión.
 **CCL**
 CP CPSAA
 **CC**
 CE CCEC Explicación del bloque competencial:
-Este bloque competencial enfatiza la importancia de la autodeterminación como la capacidad y el derecho de las personas con discapacidad intelectual a tomar el control de sus propias vidas, tomando decisiones de forma autónoma y asumiendo el protagonismo en la planificación y ejecución de sus proyectos personales, sociales y laborales. La toma de decisiones, la autonomía, el empoderamiento y el acceso a apoyos flexibles son pilares fundamentales para su aprendizaje y desarrollo. A través de este bloque competencial se pretende que el alumnado desarrolle la capacidad de tomar decisiones de manera autónoma, evaluando las posibles consecuencias de sus elecciones. Se fomentará que el alumnado desarrolle  habilidades  propias  de la conducta autodeterminada  como  son:  la  resolución  de problemas,  el establecimiento de objetivos, el autoconocimiento y la autogestión personal. El diseño de situaciones de aprendizaje deberá incluir escenarios reales o simulados en los que el alumnado deba tomar decisiones, evalúe alternativas y reflexione sobre los posibles resultados de cada elección. Esto ayuda a reforzar la capacidad de autogestión y la habilidad para afrontar desafíos de manera autónoma en diferentes contextos y situaciones (hogar, trabajo, ocio, vida en comunidad). El bloque competencial destaca la importancia de que el alumnado aprenda a reconocer y autorregular sus emociones. El diseño de las actividades deberá permitir que el alumnado reflexione sobre sus emociones, el autocontrol y adquiera estrategias para gestionar el estrés o la frustración de manera constructiva. Competencia espec ífica 2.  Aplicar hábitos saludables y establecer relaciones interpersonales respetuosas e igualitarias de manera autónoma reconociendo su importancia como elementos de mejora en la calidad de vida. Criterios de evaluación Competencias clave 2.1. Identificar y comprender la importancia de la adquisición de hábitos saludables, tales como una nutrición equilibrada, la práctica regular de ejercicio y el descanso adecuado, reconociendo su impacto positivo en el bienestar físico y emocional.
+Este bloque competencial enfatiza la importancia de la autodeterminación como la capacidad y el derecho de las personas con discapacidad intelectual a tomar el control de sus propias vidas, tomando decisiones de forma autónoma y asumiendo el protagonismo en la planificación y ejecución de sus proyectos personales, sociales y laborales. La toma de decisiones, la autonomía, el empoderamiento y el acceso a apoyos flexibles son pilares fundamentales para su aprendizaje y desarrollo. A través de este bloque competencial se pretende que el alumnado desarrolle la capacidad de tomar decisiones de manera autónoma, evaluando las posibles consecuencias de sus elecciones. Se fomentará que el alumnado desarrolle habilidades propias de la conducta autodeterminada como son: la resolución de problemas, el establecimiento de objetivos, el autoconocimiento y la autogestión personal. El diseño de situaciones de aprendizaje deberá incluir escenarios reales o simulados en los que el alumnado deba tomar decisiones, evalúe alternativas y reflexione sobre los posibles resultados de cada elección. Esto ayuda a reforzar la capacidad de autogestión y la habilidad para afrontar desafíos de manera autónoma en diferentes contextos y situaciones (hogar, trabajo, ocio, vida en comunidad). El bloque competencial destaca la importancia de que el alumnado aprenda a reconocer y autorregular sus emociones. El diseño de las actividades deberá permitir que el alumnado reflexione sobre sus emociones, el autocontrol y adquiera estrategias para gestionar el estrés o la frustración de manera constructiva. Competencia espec ífica 2. Aplicar hábitos saludables y establecer relaciones interpersonales respetuosas e igualitarias de manera autónoma reconociendo su importancia como elementos de mejora en la calidad de vida. Criterios de evaluación Competencias clave
+
+**2.1.** Identificar y comprender la importancia de la adquisición de hábitos saludables, tales como una nutrición equilibrada, la práctica regular de ejercicio y el descanso adecuado, reconociendo su impacto positivo en el bienestar físico y emocional.
 **CCL**
-STEM CPSAA 2.2. Ajustar y mantener hábitos de vida saludable en diferentes entornos (hogar, centro educativo, trabajo, comunidad), aplicando estrategias prácticas y adaptativas
+STEM CPSAA
+
+**2.2.** Ajustar y mantener hábitos de vida saludable en diferentes entornos (hogar, centro educativo, trabajo, comunidad), aplicando estrategias prácticas y adaptativas
 **CCL**
 CP
 
 en el que se encuentra (personal, social y laboral), considerando las consecuencias de sus elecciones y buscando las mejores alternativas según sus circunstancias.
 **CC**
-CE CCEC 1.4. Identificar sus fortalezas y debilidades en diferentes entornos  (personal, social y laboral)  a través de  la autoevaluación, que le permita potenciar sus habilidades y abordar aspectos de mejora.
+CE CCEC
+
+**1.4.** Identificar sus fortalezas y debilidades en diferentes entornos (personal, social y laboral) a través de la autoevaluación, que le permita potenciar sus habilidades y abordar aspectos de mejora.
 **CCL**
-CPSAA CE 1.5.  Reconocer  y  autorregular  sus  emociones  en  diferentes  situaciones, particularmente ante desafíos, mostrando autocontrol y capacidad de reflexión.
+CPSAA CE
+
+**1.5.** Reconocer y autorregular sus emociones en diferentes situaciones, particularmente ante desafíos, mostrando autocontrol y capacidad de reflexión.
 **CCL**
 CP CPSAA
 **CC**
 CE CCEC Explicación del bloque competencial:
-Este bloque competencial enfatiza la importancia de la autodeterminación como la capacidad y el derecho de las personas con discapacidad intelectual a tomar el control de sus propias vidas, tomando decisiones de forma autónoma y asumiendo el protagonismo en la planificación y ejecución de sus proyectos personales, sociales y laborales. La toma de decisiones, la autonomía, el empoderamiento y el acceso a apoyos flexibles son pilares fundamentales para su aprendizaje y desarrollo. A través de este bloque competencial se pretende que el alumnado desarrolle la capacidad de tomar decisiones de manera autónoma, evaluando las posibles consecuencias de sus elecciones. Se fomentará que el alumnado desarrolle  habilidades  propias  de la conducta autodeterminada  como  son:  la  resolución  de problemas,  el establecimiento de objetivos, el autoconocimiento y la autogestión personal. El diseño de situaciones de aprendizaje deberá incluir escenarios reales o simulados en los que el alumnado deba tomar decisiones, evalúe alternativas y reflexione sobre los posibles resultados de cada elección. Esto ayuda a reforzar la capacidad de autogestión y la habilidad para afrontar desafíos de manera autónoma en diferentes contextos y situaciones (hogar, trabajo, ocio, vida en comunidad). El bloque competencial destaca la importancia de que el alumnado aprenda a reconocer y autorregular sus emociones. El diseño de las actividades deberá permitir que el alumnado reflexione sobre sus emociones, el autocontrol y adquiera estrategias para gestionar el estrés o la frustración de manera constructiva. Competencia espec ífica 2.  Aplicar hábitos saludables y establecer relaciones interpersonales respetuosas e igualitarias de manera autónoma reconociendo su importancia como elementos de mejora en la calidad de vida. Criterios de evaluación Competencias clave 2.1. Identificar y comprender la importancia de la adquisición de hábitos saludables, tales como una nutrición equilibrada, la práctica regular de ejercicio y el descanso adecuado, reconociendo su impacto positivo en el bienestar físico y emocional.
+Este bloque competencial enfatiza la importancia de la autodeterminación como la capacidad y el derecho de las personas con discapacidad intelectual a tomar el control de sus propias vidas, tomando decisiones de forma autónoma y asumiendo el protagonismo en la planificación y ejecución de sus proyectos personales, sociales y laborales. La toma de decisiones, la autonomía, el empoderamiento y el acceso a apoyos flexibles son pilares fundamentales para su aprendizaje y desarrollo. A través de este bloque competencial se pretende que el alumnado desarrolle la capacidad de tomar decisiones de manera autónoma, evaluando las posibles consecuencias de sus elecciones. Se fomentará que el alumnado desarrolle habilidades propias de la conducta autodeterminada como son: la resolución de problemas, el establecimiento de objetivos, el autoconocimiento y la autogestión personal. El diseño de situaciones de aprendizaje deberá incluir escenarios reales o simulados en los que el alumnado deba tomar decisiones, evalúe alternativas y reflexione sobre los posibles resultados de cada elección. Esto ayuda a reforzar la capacidad de autogestión y la habilidad para afrontar desafíos de manera autónoma en diferentes contextos y situaciones (hogar, trabajo, ocio, vida en comunidad). El bloque competencial destaca la importancia de que el alumnado aprenda a reconocer y autorregular sus emociones. El diseño de las actividades deberá permitir que el alumnado reflexione sobre sus emociones, el autocontrol y adquiera estrategias para gestionar el estrés o la frustración de manera constructiva. Competencia espec ífica 2. Aplicar hábitos saludables y establecer relaciones interpersonales respetuosas e igualitarias de manera autónoma reconociendo su importancia como elementos de mejora en la calidad de vida. Criterios de evaluación Competencias clave
+
+**2.1.** Identificar y comprender la importancia de la adquisición de hábitos saludables, tales como una nutrición equilibrada, la práctica regular de ejercicio y el descanso adecuado, reconociendo su impacto positivo en el bienestar físico y emocional.
 **CCL**
-STEM CPSAA 2.2. Ajustar y mantener hábitos de vida saludable en diferentes entornos (hogar, centro educativo, trabajo, comunidad), aplicando estrategias prácticas y adaptativas
+STEM CPSAA
+
+**2.2.** Ajustar y mantener hábitos de vida saludable en diferentes entornos (hogar, centro educativo, trabajo, comunidad), aplicando estrategias prácticas y adaptativas
 **CCL**
-CP que promuevan una vida activa y equilibrada. STEM CD CPSAA 2.3. Mostrar la capacidad para tomar decisiones informadas y responsables sobre su salud  y  bienestar,  incluyendo  la  elección  de  alimentos  saludables,  la  práctica  de actividad  física  y  el  establecimiento  de  hábitos  de  descanso,  ya  sea  de  manera autónoma o con apoyos ajustados según sus necesidades.
+CP que promuevan una vida activa y equilibrada. STEM CD CPSAA
+
+**2.3.** Mostrar la capacidad para tomar decisiones informadas y responsables sobre su salud y bienestar, incluyendo la elección de alimentos saludables, la práctica de actividad física y el establecimiento de hábitos de descanso, ya sea de manera autónoma o con apoyos ajustados según sus necesidades.
 **CCL**
-STEM CPSAA CE 2.4. Identificar sus fortalezas y necesidades, tanto físicas como emocionales, y aplicar hábitos saludables que le permitan satisfacerlas de manera responsable.
+STEM CPSAA CE
+
+**2.4.** Identificar sus fortalezas y necesidades, tanto físicas como emocionales, y aplicar hábitos saludables que le permitan satisfacerlas de manera responsable.
 **CCL**
-CPSAA CE 2.5 Identificar  y desarrollar comportamientos de riesgo en relación a conductas de riesgo, adoptando un estilo de vida saludable.
+CPSAA CE
+
+**2.5** Identificar y desarrollar comportamientos de riesgo en relación a conductas de riesgo, adoptando un estilo de vida saludable.
 **CCL**
 CP STEM
 **CD**
-CPSAA 2.6. Comprender y reconocer la sexualidad desde un enfoque integral que promueva los derechos humanos, la diversidad, la educación afectivo-sexual y la prevención de violencias, fomentando relaciones respetuosas, equitativas y consensuadas.
+CPSAA
+
+**2.6.** Comprender y reconocer la sexualidad desde un enfoque integral que promueva los derechos humanos, la diversidad, la educación afectivo-sexual y la prevención de violencias, fomentando relaciones respetuosas, equitativas y consensuadas.
 **CCL**
 CP
 **CD**
 CPSAA CCEC Explicación del bloque competencial:
-Este bloque competencial se orienta hacia el desarrollo de hábitos de vida saludable relacionados con el bienestar físico, emocional y la calidad de vida, en diferentes entornos de manera consciente y responsable. La actividad física desempeña un papel fundamental en la salud y el bienestar de las personas. Su impacto positivo abarca diversas dimensiones: física, emocional, cognitiva y social. Las actividades propuestas a través de situaciones de aprendizaje deberán promover la toma de decisiones informadas sobre la salud y el bienestar. Se facilitarán tareas que contribuyan a la adopción de una nutrición equilibrada,  organización  de  la  actividad  física,  descanso,  uso  saludable  de  las  TIC  y  prevención  de adicciones. Se abordará la educación afectivo sexual de manera accesible, inclusiva e igualitaria incluyendo la prevención de violencias sexuales y considerando  las realidades plurales de los jóvenes con discapacidad intelectual. Competencia específica 3. Desarrollar destrezas que contribuyan a la participación activa en procesos de toma de decisiones comunitarias y políticas basadas en sus derechos y orientadas a la inclusión, a la participación y al desarrollo de la autodeterminación y la vida independiente. Criterios de evaluación Competencias clave 3.1. Conocer y  ejercitar sus derechos fundamentales en contextos de participación comunitaria y política.
+Este bloque competencial se orienta hacia el desarrollo de hábitos de vida saludable relacionados con el bienestar físico, emocional y la calidad de vida, en diferentes entornos de manera consciente y responsable. La actividad física desempeña un papel fundamental en la salud y el bienestar de las personas. Su impacto positivo abarca diversas dimensiones: física, emocional, cognitiva y social. Las actividades propuestas a través de situaciones de aprendizaje deberán promover la toma de decisiones informadas sobre la salud y el bienestar. Se facilitarán tareas que contribuyan a la adopción de una nutrición equilibrada, organización de la actividad física, descanso, uso saludable de las TIC y prevención de adicciones. Se abordará la educación afectivo sexual de manera accesible, inclusiva e igualitaria incluyendo la prevención de violencias sexuales y considerando las realidades plurales de los jóvenes con discapacidad intelectual. Competencia específica 3. Desarrollar destrezas que contribuyan a la participación activa en procesos de toma de decisiones comunitarias y políticas basadas en sus derechos y orientadas a la inclusión, a la participación y al desarrollo de la autodeterminación y la vida independiente. Criterios de evaluación Competencias clave
+
+**3.1.** Conocer y ejercitar sus derechos fundamentales en contextos de participación comunitaria y política.
 **CCL**
 CP CPSAA
 **CC**
-CE CCEC 3.2. Reconocer la importancia de la inclusión y la igualdad en la participación en entornos sociales y comunitarios.
+CE CCEC
+
+**3.2.** Reconocer la importancia de la inclusión y la igualdad en la participación en entornos sociales y comunitarios.
 **CCL**
 CP CPSAA
 **CC**
-CCEC 3.3. Conocer los recursos y servicios disponibles en la comunidad (redes de apoyo, servicios de empleo, educación, sanitarios, asociaciones y servicios sociales) así como el acceso y la documentación necesaria (como portales web, DNI electrónico, certificado  digital,  aplicaciones  móviles,  entre  otros)  para  utilizarlos  de  forma autónoma.
+CCEC
+
+**3.3.** Conocer los recursos y servicios disponibles en la comunidad (redes de apoyo, servicios de empleo, educación, sanitarios, asociaciones y servicios sociales) así como el acceso y la documentación necesaria (como portales web, DNI electrónico, certificado digital, aplicaciones móviles, entre otros) para utilizarlos de forma autónoma.
 **CCL**
 CPSAA
 **CC**
-CE 3.4. Participar en actividades de la comunidad, interactuando con diversos grupos de manera inclusiva y respetuosa.
+CE
+
+**3.4.** Participar en actividades de la comunidad, interactuando con diversos grupos de manera inclusiva y respetuosa.
 **CCL**
 CP
 **CD**
 CPSAA
 **CC**
-CE CCEC 3.5. Adecuar el comportamiento propio al cumplimiento de los principios, valores, derechos y deberes democráticos y constitucionales, identificando los motivos y argumentos que sustentan su validez y rechazando todo tipo de discriminación, especialmente aquella que se da por motivos socio-económicos, de identidad de género, orientación sexual o pertenencia a minorías etnoculturales.
-**CCL**
-CP
-**CD**
-CPSAA
-**CC**
-CCEC 3.6.  Reconocer  movimientos  y  causas  que  generan  una  conciencia  solidaria, promueven la cohesión social y trabajan para la eliminación de la desigualdad.
+CE CCEC
+
+**3.5.** Adecuar el comportamiento propio al cumplimiento de los principios, valores, derechos y deberes democráticos y constitucionales, identificando los motivos y argumentos que sustentan su validez y rechazando todo tipo de discriminación, especialmente aquella que se da por motivos socio-económicos, de identidad de género, orientación sexual o pertenencia a minorías etnoculturales.
 **CCL**
 CP
 **CD**
@@ -384,106 +418,154 @@ CPSAA
 **CC**
 CCEC
 
-Competencia específica 3. Desarrollar destrezas que contribuyan a la participación activa en procesos de toma de decisiones comunitarias y políticas basadas en sus derechos y orientadas a la inclusión, a la participación y al desarrollo de la autodeterminación y la vida independiente. Criterios de evaluación Competencias clave 3.1. Conocer y  ejercitar sus derechos fundamentales en contextos de participación comunitaria y política.
-**CCL**
-CP CPSAA
-**CC**
-CE CCEC 3.2. Reconocer la importancia de la inclusión y la igualdad en la participación en entornos sociales y comunitarios.
-**CCL**
-CP CPSAA
-**CC**
-CCEC 3.3. Conocer los recursos y servicios disponibles en la comunidad (redes de apoyo, servicios de empleo, educación, sanitarios, asociaciones y servicios sociales) así como el acceso y la documentación necesaria (como portales web, DNI electrónico, certificado  digital,  aplicaciones  móviles,  entre  otros)  para  utilizarlos  de  forma autónoma.
-**CCL**
-CPSAA
-**CC**
-CE 3.4. Participar en actividades de la comunidad, interactuando con diversos grupos de manera inclusiva y respetuosa.
+**3.6.** Reconocer movimientos y causas que generan una conciencia solidaria, promueven la cohesión social y trabajan para la eliminación de la desigualdad.
 **CCL**
 CP
 **CD**
 CPSAA
 **CC**
-CE CCEC 3.5. Adecuar el comportamiento propio al cumplimiento de los principios, valores, derechos y deberes democráticos y constitucionales, identificando los motivos y argumentos que sustentan su validez y rechazando todo tipo de discriminación, especialmente aquella que se da por motivos socio-económicos, de identidad de género, orientación sexual o pertenencia a minorías etnoculturales.
+CCEC
+
+Competencia específica 3. Desarrollar destrezas que contribuyan a la participación activa en procesos de toma de decisiones comunitarias y políticas basadas en sus derechos y orientadas a la inclusión, a la participación y al desarrollo de la autodeterminación y la vida independiente. Criterios de evaluación Competencias clave
+
+**3.1.** Conocer y ejercitar sus derechos fundamentales en contextos de participación comunitaria y política.
+**CCL**
+CP CPSAA
+**CC**
+CE CCEC
+
+**3.2.** Reconocer la importancia de la inclusión y la igualdad en la participación en entornos sociales y comunitarios.
+**CCL**
+CP CPSAA
+**CC**
+CCEC
+
+**3.3.** Conocer los recursos y servicios disponibles en la comunidad (redes de apoyo, servicios de empleo, educación, sanitarios, asociaciones y servicios sociales) así como el acceso y la documentación necesaria (como portales web, DNI electrónico, certificado digital, aplicaciones móviles, entre otros) para utilizarlos de forma autónoma.
+**CCL**
+CPSAA
+**CC**
+CE
+
+**3.4.** Participar en actividades de la comunidad, interactuando con diversos grupos de manera inclusiva y respetuosa.
 **CCL**
 CP
 **CD**
 CPSAA
 **CC**
-CCEC 3.6.  Reconocer  movimientos  y  causas  que  generan  una  conciencia  solidaria, promueven la cohesión social y trabajan para la eliminación de la desigualdad.
+CE CCEC
+
+**3.5.** Adecuar el comportamiento propio al cumplimiento de los principios, valores, derechos y deberes democráticos y constitucionales, identificando los motivos y argumentos que sustentan su validez y rechazando todo tipo de discriminación, especialmente aquella que se da por motivos socio-económicos, de identidad de género, orientación sexual o pertenencia a minorías etnoculturales.
+**CCL**
+CP
+**CD**
+CPSAA
+**CC**
+CCEC
+
+**3.6.** Reconocer movimientos y causas que generan una conciencia solidaria, promueven la cohesión social y trabajan para la eliminación de la desigualdad.
 **CCL**
 CP
 **CD**
 CPSAA
 **CC**
 CCEC Explicación del bloque competencial:
-Este bloque competencial se centra en el desarrollo de destrezas que fomenten la participación activa del alumnado en procesos de toma de decisiones comunitarias y políticas como  una condición esencial para construir  sociedades  inclusivas,  democráticas  y  sosteni bles.  La  participación  de  las  personas  con discapacidad  en  la  vida  política  y  social  es  un  derecho  fundamental  respaldado  por  marcos  legales internacionales, como la Convención sobre los Derechos de las Personas con Discapacidad de la ONU. En el desarrollo de este bloque competencial, se promoverá el empoderamiento del alumnado , a partir del ejercicio de s us derechos individuales y grupales,  contribuyendo  a la construcción de una sociedad más inclusiva y equitativa. Se destacará la importancia de conocer los movimientos y organizaciones que luchan por los derechos de personas con discapacidad, y a que desempeñan un papel clave en la defensa de sus derechos  y  en  la  promoción  de  su  participación  activa  a  nivel  local  y  global.  Se  contemplará  el conocimiento de la Constitución española, como norma suprema que recoge los principios y fundamentos que conforman el modelo de convivencia en el territorio español.  Además, se trabajarán las formas de participación social e iniciativa ciudadana y el compromiso social, adoptando una actitud crítica ante las desigualdades y ante todo tipo de discriminación, especialmente la referida al género, la orientación sexual o la pertenencia a minorías etnoculturales. Competencia específica 4. Comunicar en lengua castellana de manera cooperativa y respetuosa, atendiendo a las convenciones propias de los diferentes géneros discursivos y a su adecuación a diferentes ámbitos y contextos, para dar respuesta a necesidades concretas. Criterios de evaluación Competencias clave 4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor o la emisora, en textos orales, escritos y multimodales de diferentes ámbitos.
+Este bloque competencial se centra en el desarrollo de destrezas que fomenten la participación activa del alumnado en procesos de toma de decisiones comunitarias y políticas como una condición esencial para construir sociedades inclusivas, democráticas y sosteni bles. La participación de las personas con discapacidad en la vida política y social es un derecho fundamental respaldado por marcos legales internacionales, como la Convención sobre los Derechos de las Personas con Discapacidad de la ONU. En el desarrollo de este bloque competencial, se promoverá el empoderamiento del alumnado , a partir del ejercicio de s us derechos individuales y grupales, contribuyendo a la construcción de una sociedad más inclusiva y equitativa. Se destacará la importancia de conocer los movimientos y organizaciones que luchan por los derechos de personas con discapacidad, y a que desempeñan un papel clave en la defensa de sus derechos y en la promoción de su participación activa a nivel local y global. Se contemplará el conocimiento de la Constitución española, como norma suprema que recoge los principios y fundamentos que conforman el modelo de convivencia en el territorio español. Además, se trabajarán las formas de participación social e iniciativa ciudadana y el compromiso social, adoptando una actitud crítica ante las desigualdades y ante todo tipo de discriminación, especialmente la referida al género, la orientación sexual o la pertenencia a minorías etnoculturales. Competencia específica 4. Comunicar en lengua castellana de manera cooperativa y respetuosa, atendiendo a las convenciones propias de los diferentes géneros discursivos y a su adecuación a diferentes ámbitos y contextos, para dar respuesta a necesidades concretas. Criterios de evaluación Competencias clave
+
+**4.1.** Comprender e interpretar el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor o la emisora, en textos orales, escritos y multimodales de diferentes ámbitos.
 **CCL**
 **CD**
-CCEC 4.2. Realizar exposiciones orales con diferente grado de planificación sobre temas de interés personal, ecosocial y profesional, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
+CCEC
+
+**4.2.** Realizar exposiciones orales con diferente grado de planificación sobre temas de interés personal, ecosocial y profesional, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
 **CCL**
 CP
 **CD**
-CE CCEC 4.3.  Planificar  la  redacción  de  textos  escritos  y  multimodales  atendiendo  a  la situación comunicativa, destinatario o destinataria, propósito y canal; de ámbito personal y profesional.
+CE CCEC
+
+**4.3.** Planificar la redacción de textos escritos y multimodales atendiendo a la situación comunicativa, destinatario o destinataria, propósito y canal; de ámbito personal y profesional.
 **CCL**
 CP
 **CD**
-CE CCEC 4.4.  Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía
+CE CCEC
+
+**4.4.** Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía
 **CCL**
 CP CPSAA
 
 Explicación del bloque competencial:
-Este bloque competencial se centra en el desarrollo de destrezas que fomenten la participación activa del alumnado en procesos de toma de decisiones comunitarias y políticas como  una condición esencial para construir  sociedades  inclusivas,  democráticas  y  sosteni bles.  La  participación  de  las  personas  con discapacidad  en  la  vida  política  y  social  es  un  derecho  fundamental  respaldado  por  marcos  legales internacionales, como la Convención sobre los Derechos de las Personas con Discapacidad de la ONU. En el desarrollo de este bloque competencial, se promoverá el empoderamiento del alumnado , a partir del ejercicio de s us derechos individuales y grupales,  contribuyendo  a la construcción de una sociedad más inclusiva y equitativa. Se destacará la importancia de conocer los movimientos y organizaciones que luchan por los derechos de personas con discapacidad, y a que desempeñan un papel clave en la defensa de sus derechos  y  en  la  promoción  de  su  participación  activa  a  nivel  local  y  global.  Se  contemplará  el conocimiento de la Constitución española, como norma suprema que recoge los principios y fundamentos que conforman el modelo de convivencia en el territorio español.  Además, se trabajarán las formas de participación social e iniciativa ciudadana y el compromiso social, adoptando una actitud crítica ante las desigualdades y ante todo tipo de discriminación, especialmente la referida al género, la orientación sexual o la pertenencia a minorías etnoculturales. Competencia específica 4. Comunicar en lengua castellana de manera cooperativa y respetuosa, atendiendo a las convenciones propias de los diferentes géneros discursivos y a su adecuación a diferentes ámbitos y contextos, para dar respuesta a necesidades concretas. Criterios de evaluación Competencias clave 4.1. Comprender e interpretar el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor o la emisora, en textos orales, escritos y multimodales de diferentes ámbitos.
+Este bloque competencial se centra en el desarrollo de destrezas que fomenten la participación activa del alumnado en procesos de toma de decisiones comunitarias y políticas como una condición esencial para construir sociedades inclusivas, democráticas y sosteni bles. La participación de las personas con discapacidad en la vida política y social es un derecho fundamental respaldado por marcos legales internacionales, como la Convención sobre los Derechos de las Personas con Discapacidad de la ONU. En el desarrollo de este bloque competencial, se promoverá el empoderamiento del alumnado , a partir del ejercicio de s us derechos individuales y grupales, contribuyendo a la construcción de una sociedad más inclusiva y equitativa. Se destacará la importancia de conocer los movimientos y organizaciones que luchan por los derechos de personas con discapacidad, y a que desempeñan un papel clave en la defensa de sus derechos y en la promoción de su participación activa a nivel local y global. Se contemplará el conocimiento de la Constitución española, como norma suprema que recoge los principios y fundamentos que conforman el modelo de convivencia en el territorio español. Además, se trabajarán las formas de participación social e iniciativa ciudadana y el compromiso social, adoptando una actitud crítica ante las desigualdades y ante todo tipo de discriminación, especialmente la referida al género, la orientación sexual o la pertenencia a minorías etnoculturales. Competencia específica 4. Comunicar en lengua castellana de manera cooperativa y respetuosa, atendiendo a las convenciones propias de los diferentes géneros discursivos y a su adecuación a diferentes ámbitos y contextos, para dar respuesta a necesidades concretas. Criterios de evaluación Competencias clave
+
+**4.1.** Comprender e interpretar el sentido global, la estructura, la información más relevante en función de las necesidades comunicativas y la intención del emisor o la emisora, en textos orales, escritos y multimodales de diferentes ámbitos.
 **CCL**
 **CD**
-CCEC 4.2. Realizar exposiciones orales con diferente grado de planificación sobre temas de interés personal, ecosocial y profesional, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
+CCEC
+
+**4.2.** Realizar exposiciones orales con diferente grado de planificación sobre temas de interés personal, ecosocial y profesional, en diferentes soportes y utilizando de manera eficaz recursos verbales y no verbales.
 **CCL**
 CP
 **CD**
-CE CCEC 4.3.  Planificar  la  redacción  de  textos  escritos  y  multimodales  atendiendo  a  la situación comunicativa, destinatario o destinataria, propósito y canal; de ámbito personal y profesional.
+CE CCEC
+
+**4.3.** Planificar la redacción de textos escritos y multimodales atendiendo a la situación comunicativa, destinatario o destinataria, propósito y canal; de ámbito personal y profesional.
 **CCL**
 CP
 **CD**
-CE CCEC 4.4.  Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía
+CE CCEC
+
+**4.4.** Participar de manera activa y adecuada en interacciones orales informales, en el trabajo en equipo y en situaciones orales formales de carácter dialogado, con actitudes de escucha activa y estrategias de cooperación conversacional y cortesía
 **CCL**
 CP CPSAA lingüística. CE CCEC Explicación del bloque competencial:
-El desarrollo de la competencia comunicativa del alumnado (que incluye la comprensión, la producción y la interacción, tanto orales como escritas y multimodales) requiere destrezas específicas vinculadas y definidas por la diversidad de situaciones, contextos y necesidades personales, culturales y sociales del alumnado. Por ello, se deben desarrollar prácticas discursivas que incidan en la interacción, comprensión y expresión de un catálogo diversificado de textos orales, escritos y multimodales. Las  destrezas  específicas  asociadas  a  la  comprensión  oral  incluyen  anticipar  el  contenido,  retener información relevante en función del propio objetivo, distinguir entre hechos y opiniones, captando el sentido global.  A su vez, la interacción oral requiere conocer las estrategias para tomar y ceder la palabra, desplegar  actitudes  de  escucha  activa,  expresarse  con  fluidez  y  claridad  y  con  el  tono  y  el  registro adecuados, así como poner en juego las estrategias de cortesía y de cooperación conversacional. Las tecnologías de la información y la comunicación facilitan nuevos formatos para la comunicación oral multimodal, tanto síncrona como asíncrona. La comunicación escrita en la actualidad implica saber hacerlo en diferentes soportes y formatos, muchos de ellos de carácter hipertextual y multimodal. Del mismo modo, es  necesario  desplegar  todas  estas  destrezas  comunicativas  en  el  ámbito  profesional,  potenciando  la competencia para leer, entender y producir información relativa al perfil profesional, comunicarse de forma oral y escrita en diferentes formatos y utilizando variedad de soportes (documentales y/o digitales), con precisión y corrección, comprender textos que utilizan un vocabulario y una terminología específica, así como interactuar con otros compañeros y compañeras, comunicándose de forma correcta y asertiva. Competencia específica 5. Buscar y seleccionar información de manera progresivamente autónoma a partir de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de las necesidades detectadas y evitando los riesgos de manipulación y desinformación. Criterios de evaluación Competencias clave 5.1. Aplicar estrategias tanto analógicas como digitales de búsqueda, selección y organización  de  información  referida  al ámbito personal,  social  y  profesional, evaluando su fiabilidad y su pertinencia, evitando los riesgos de manipulación y desinformación.
+El desarrollo de la competencia comunicativa del alumnado (que incluye la comprensión, la producción y la interacción, tanto orales como escritas y multimodales) requiere destrezas específicas vinculadas y definidas por la diversidad de situaciones, contextos y necesidades personales, culturales y sociales del alumnado. Por ello, se deben desarrollar prácticas discursivas que incidan en la interacción, comprensión y expresión de un catálogo diversificado de textos orales, escritos y multimodales. Las destrezas específicas asociadas a la comprensión oral incluyen anticipar el contenido, retener información relevante en función del propio objetivo, distinguir entre hechos y opiniones, captando el sentido global. A su vez, la interacción oral requiere conocer las estrategias para tomar y ceder la palabra, desplegar actitudes de escucha activa, expresarse con fluidez y claridad y con el tono y el registro adecuados, así como poner en juego las estrategias de cortesía y de cooperación conversacional. Las tecnologías de la información y la comunicación facilitan nuevos formatos para la comunicación oral multimodal, tanto síncrona como asíncrona. La comunicación escrita en la actualidad implica saber hacerlo en diferentes soportes y formatos, muchos de ellos de carácter hipertextual y multimodal. Del mismo modo, es necesario desplegar todas estas destrezas comunicativas en el ámbito profesional, potenciando la competencia para leer, entender y producir información relativa al perfil profesional, comunicarse de forma oral y escrita en diferentes formatos y utilizando variedad de soportes (documentales y/o digitales), con precisión y corrección, comprender textos que utilizan un vocabulario y una terminología específica, así como interactuar con otros compañeros y compañeras, comunicándose de forma correcta y asertiva. Competencia específica 5. Buscar y seleccionar información de manera progresivamente autónoma a partir de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de las necesidades detectadas y evitando los riesgos de manipulación y desinformación. Criterios de evaluación Competencias clave
+
+**5.1.** Aplicar estrategias tanto analógicas como digitales de búsqueda, selección y organización de información referida al ámbito personal, social y profesional, evaluando su fiabilidad y su pertinencia, evitando los riesgos de manipulación y desinformación.
 **CCL**
 CP
 **CD**
-CE 5.2.  Elaborar  contenidos  propios  a  partir  de  diferentes  fuentes  de  manera progresivamente autónoma referida al sector personal, social y profesional.
+CE
+
+**5.2.** Elaborar contenidos propios a partir de diferentes fuentes de manera progresivamente autónoma referida al sector personal, social y profesional.
 **CCL**
 **CD**
-CPSAA CE CCEC 5.3. Utilizar estrategias para la protección de datos personales de  manera segura y responsable  en   entornos  virtuales  o  redes  sociales  identificando  riesgos  y desarrollando una actitud crítica y consciente en el uso de la tecnología.
+CPSAA CE CCEC
+
+**5.3.** Utilizar estrategias para la protección de datos personales de manera segura y responsable en entornos virtuales o redes sociales identificando riesgos y desarrollando una actitud crítica y consciente en el uso de la tecnología.
 **CCL**
 CP
 **CD**
 
 lingüística. CE CCEC Explicación del bloque competencial:
-El desarrollo de la competencia comunicativa del alumnado (que incluye la comprensión, la producción y la interacción, tanto orales como escritas y multimodales) requiere destrezas específicas vinculadas y definidas por la diversidad de situaciones, contextos y necesidades personales, culturales y sociales del alumnado. Por ello, se deben desarrollar prácticas discursivas que incidan en la interacción, comprensión y expresión de un catálogo diversificado de textos orales, escritos y multimodales. Las  destrezas  específicas  asociadas  a  la  comprensión  oral  incluyen  anticipar  el  contenido,  retener información relevante en función del propio objetivo, distinguir entre hechos y opiniones, captando el sentido global.  A su vez, la interacción oral requiere conocer las estrategias para tomar y ceder la palabra, desplegar  actitudes  de  escucha  activa,  expresarse  con  fluidez  y  claridad  y  con  el  tono  y  el  registro adecuados, así como poner en juego las estrategias de cortesía y de cooperación conversacional. Las tecnologías de la información y la comunicación facilitan nuevos formatos para la comunicación oral multimodal, tanto síncrona como asíncrona. La comunicación escrita en la actualidad implica saber hacerlo en diferentes soportes y formatos, muchos de ellos de carácter hipertextual y multimodal. Del mismo modo, es  necesario  desplegar  todas  estas  destrezas  comunicativas  en  el  ámbito  profesional,  potenciando  la competencia para leer, entender y producir información relativa al perfil profesional, comunicarse de forma oral y escrita en diferentes formatos y utilizando variedad de soportes (documentales y/o digitales), con precisión y corrección, comprender textos que utilizan un vocabulario y una terminología específica, así como interactuar con otros compañeros y compañeras, comunicándose de forma correcta y asertiva. Competencia específica 5. Buscar y seleccionar información de manera progresivamente autónoma a partir de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de las necesidades detectadas y evitando los riesgos de manipulación y desinformación. Criterios de evaluación Competencias clave 5.1. Aplicar estrategias tanto analógicas como digitales de búsqueda, selección y organización  de  información  referida  al ámbito personal,  social  y  profesional, evaluando su fiabilidad y su pertinencia, evitando los riesgos de manipulación y desinformación.
+El desarrollo de la competencia comunicativa del alumnado (que incluye la comprensión, la producción y la interacción, tanto orales como escritas y multimodales) requiere destrezas específicas vinculadas y definidas por la diversidad de situaciones, contextos y necesidades personales, culturales y sociales del alumnado. Por ello, se deben desarrollar prácticas discursivas que incidan en la interacción, comprensión y expresión de un catálogo diversificado de textos orales, escritos y multimodales. Las destrezas específicas asociadas a la comprensión oral incluyen anticipar el contenido, retener información relevante en función del propio objetivo, distinguir entre hechos y opiniones, captando el sentido global. A su vez, la interacción oral requiere conocer las estrategias para tomar y ceder la palabra, desplegar actitudes de escucha activa, expresarse con fluidez y claridad y con el tono y el registro adecuados, así como poner en juego las estrategias de cortesía y de cooperación conversacional. Las tecnologías de la información y la comunicación facilitan nuevos formatos para la comunicación oral multimodal, tanto síncrona como asíncrona. La comunicación escrita en la actualidad implica saber hacerlo en diferentes soportes y formatos, muchos de ellos de carácter hipertextual y multimodal. Del mismo modo, es necesario desplegar todas estas destrezas comunicativas en el ámbito profesional, potenciando la competencia para leer, entender y producir información relativa al perfil profesional, comunicarse de forma oral y escrita en diferentes formatos y utilizando variedad de soportes (documentales y/o digitales), con precisión y corrección, comprender textos que utilizan un vocabulario y una terminología específica, así como interactuar con otros compañeros y compañeras, comunicándose de forma correcta y asertiva. Competencia específica 5. Buscar y seleccionar información de manera progresivamente autónoma a partir de diferentes fuentes, evaluando su fiabilidad y pertinencia en función de las necesidades detectadas y evitando los riesgos de manipulación y desinformación. Criterios de evaluación Competencias clave
+
+**5.1.** Aplicar estrategias tanto analógicas como digitales de búsqueda, selección y organización de información referida al ámbito personal, social y profesional, evaluando su fiabilidad y su pertinencia, evitando los riesgos de manipulación y desinformación.
 **CCL**
 CP
 **CD**
-CE 5.2.  Elaborar  contenidos  propios  a  partir  de  diferentes  fuentes  de  manera progresivamente autónoma referida al sector personal, social y profesional.
+CE
+
+**5.2.** Elaborar contenidos propios a partir de diferentes fuentes de manera progresivamente autónoma referida al sector personal, social y profesional.
 **CCL**
 **CD**
-CPSAA CE CCEC 5.3. Utilizar estrategias para la protección de datos personales de  manera segura y responsable  en   entornos  virtuales  o  redes  sociales  identificando  riesgos  y desarrollando una actitud crítica y consciente en el uso de la tecnología.
+CPSAA CE CCEC
+
+**5.3.** Utilizar estrategias para la protección de datos personales de manera segura y responsable en entornos virtuales o redes sociales identificando riesgos y desarrollando una actitud crítica y consciente en el uso de la tecnología.
 **CCL**
 CP
 **CD**
 CPSAA CCEC Explicación del bloque competencial:
-Las  destrezas  y  los  procesos  asociados  a  la  búsqueda,  selección  y  tratamiento  de  la  información  son instrumentos imprescindibles para desenvolverse en la sociedad del conocimiento. Por ello, es preciso que el  alumnado  adquiera  las  destrezas  necesarias  para  localizar,  valorar  e  interpretar  la  información  y transformarla en conocimiento, evitando los posibles riesgos de manipulación y desinformación. Se debe facilitar que el alumnado, de forma individual o colectiva, consulte fuentes de información variadas con objetivos  determinados  y  sobre  una  diversidad  de  temas  cercanos  a  su  experiencia  e  interés,  tanto profesional como personal. Las actividades generadas para aplicar esta competencia específica, se adaptarán y contextualizarán a cada certificado profesional, tratando de relacionarlas con los contenidos específicos de cada familia profesional, incluyendo aspectos y elementos próximos al ámbito cultural, social y territorial del alumnado. La competencia abarca aspectos relacionados con la alfabetización informacional y el aprovechamiento adecuado de las estrategias de búsqueda y tratamiento de información. Se promoverá, además, la generación de nuevo conocimiento mediante la edición y desarrollo de contenidos, empleando, fundamentalmente, aplicaciones  digitales.  De  esta  manera,  el  alumnado  puede  desarrollar  la  creatividad  y  el  espíritu  de innovación respondiendo a los retos que se presentan en su vida personal, académica y profesional. Por otra parte, es necesario que el alumnado adquiera  estrategias seguras  para la protección de datos de carácter personal y la competencia digital apropiada para la gestión de trámites con la administración pública (sedes electrónicas), plataformas educativas, portales de empleo, etc, y el uso de otros documentos digitales. Así mismo, se promoverá el  uso seguro y responsable  de las redes sociales y entornos virtuales, tomando conciencia de los riesgos existentes en el intercambio de información  (ciberbullying, sexting, phishing, grooming, suplantación de identidad…) y las adicciones a la tecnología. BLOQUE A. AUTONOMÍA PERSONAL . I. Autodeterminación: autoconocimiento, autonomía, autorregulación y empoderamiento.
+Las destrezas y los procesos asociados a la búsqueda, selección y tratamiento de la información son instrumentos imprescindibles para desenvolverse en la sociedad del conocimiento. Por ello, es preciso que el alumnado adquiera las destrezas necesarias para localizar, valorar e interpretar la información y transformarla en conocimiento, evitando los posibles riesgos de manipulación y desinformación. Se debe facilitar que el alumnado, de forma individual o colectiva, consulte fuentes de información variadas con objetivos determinados y sobre una diversidad de temas cercanos a su experiencia e interés, tanto profesional como personal. Las actividades generadas para aplicar esta competencia específica, se adaptarán y contextualizarán a cada certificado profesional, tratando de relacionarlas con los contenidos específicos de cada familia profesional, incluyendo aspectos y elementos próximos al ámbito cultural, social y territorial del alumnado. La competencia abarca aspectos relacionados con la alfabetización informacional y el aprovechamiento adecuado de las estrategias de búsqueda y tratamiento de información. Se promoverá, además, la generación de nuevo conocimiento mediante la edición y desarrollo de contenidos, empleando, fundamentalmente, aplicaciones digitales. De esta manera, el alumnado puede desarrollar la creatividad y el espíritu de innovación respondiendo a los retos que se presentan en su vida personal, académica y profesional. Por otra parte, es necesario que el alumnado adquiera estrategias seguras para la protección de datos de carácter personal y la competencia digital apropiada para la gestión de trámites con la administración pública (sedes electrónicas), plataformas educativas, portales de empleo, etc, y el uso de otros documentos digitales. Así mismo, se promoverá el uso seguro y responsable de las redes sociales y entornos virtuales, tomando conciencia de los riesgos existentes en el intercambio de información (ciberbullying, sexting, phishing, grooming, suplantación de identidad…) y las adicciones a la tecnología. BLOQUE A. AUTONOMÍA PERSONAL . I. Autodeterminación: autoconocimiento, autonomía, autorregulación y empoderamiento.
 • Autoconocimiento:
-◦ Identificación, reconocimiento y expresión de preferencias, intereses, deseos y necesidades personales. ◦ Realización  de  elecciones  fundamentadas.  Comunicación  eficaz  de  deseos  y  necesidades personales a los demás. ◦ Establecimiento y logro de metas personales: definición de objetivos personales y metas. Uso
+◦ Identificación, reconocimiento y expresión de preferencias, intereses, deseos y necesidades personales. ◦ Realización de elecciones fundamentadas. Comunicación eficaz de deseos y necesidades personales a los demás. ◦ Establecimiento y logro de metas personales: definición de objetivos personales y metas. Uso
 
 5. Saberes básicos propios del ámbito de Comunicación y competencia social. Los saberes básicos del ámbito se nutren de los conocimientos, habilidades y actitudes relacionadas con el desarrollo de la comunicación oral, escrita y multimodal, la autonomía personal, la competencia social y cívica y vida en comunidad. Es un ámbito con carácter transversal que debe entramarse con los saberes de los restantes bloques.
 
 CPSAA CCEC Explicación del bloque competencial:
-Las  destrezas  y  los  procesos  asociados  a  la  búsqueda,  selección  y  tratamiento  de  la  información  son instrumentos imprescindibles para desenvolverse en la sociedad del conocimiento. Por ello, es preciso que el  alumnado  adquiera  las  destrezas  necesarias  para  localizar,  valorar  e  interpretar  la  información  y transformarla en conocimiento, evitando los posibles riesgos de manipulación y desinformación. Se debe facilitar que el alumnado, de forma individual o colectiva, consulte fuentes de información variadas con objetivos  determinados  y  sobre  una  diversidad  de  temas  cercanos  a  su  experiencia  e  interés,  tanto profesional como personal. Las actividades generadas para aplicar esta competencia específica, se adaptarán y contextualizarán a cada certificado profesional, tratando de relacionarlas con los contenidos específicos de cada familia profesional, incluyendo aspectos y elementos próximos al ámbito cultural, social y territorial del alumnado. La competencia abarca aspectos relacionados con la alfabetización informacional y el aprovechamiento adecuado de las estrategias de búsqueda y tratamiento de información. Se promoverá, además, la generación de nuevo conocimiento mediante la edición y desarrollo de contenidos, empleando, fundamentalmente, aplicaciones  digitales.  De  esta  manera,  el  alumnado  puede  desarrollar  la  creatividad  y  el  espíritu  de innovación respondiendo a los retos que se presentan en su vida personal, académica y profesional. Por otra parte, es necesario que el alumnado adquiera  estrategias seguras  para la protección de datos de carácter personal y la competencia digital apropiada para la gestión de trámites con la administración pública (sedes electrónicas), plataformas educativas, portales de empleo, etc, y el uso de otros documentos digitales. Así mismo, se promoverá el  uso seguro y responsable  de las redes sociales y entornos virtuales, tomando conciencia de los riesgos existentes en el intercambio de información  (ciberbullying, sexting, phishing, grooming, suplantación de identidad…) y las adicciones a la tecnología. BLOQUE A. AUTONOMÍA PERSONAL . I. Autodeterminación: autoconocimiento, autonomía, autorregulación y empoderamiento.
+Las destrezas y los procesos asociados a la búsqueda, selección y tratamiento de la información son instrumentos imprescindibles para desenvolverse en la sociedad del conocimiento. Por ello, es preciso que el alumnado adquiera las destrezas necesarias para localizar, valorar e interpretar la información y transformarla en conocimiento, evitando los posibles riesgos de manipulación y desinformación. Se debe facilitar que el alumnado, de forma individual o colectiva, consulte fuentes de información variadas con objetivos determinados y sobre una diversidad de temas cercanos a su experiencia e interés, tanto profesional como personal. Las actividades generadas para aplicar esta competencia específica, se adaptarán y contextualizarán a cada certificado profesional, tratando de relacionarlas con los contenidos específicos de cada familia profesional, incluyendo aspectos y elementos próximos al ámbito cultural, social y territorial del alumnado. La competencia abarca aspectos relacionados con la alfabetización informacional y el aprovechamiento adecuado de las estrategias de búsqueda y tratamiento de información. Se promoverá, además, la generación de nuevo conocimiento mediante la edición y desarrollo de contenidos, empleando, fundamentalmente, aplicaciones digitales. De esta manera, el alumnado puede desarrollar la creatividad y el espíritu de innovación respondiendo a los retos que se presentan en su vida personal, académica y profesional. Por otra parte, es necesario que el alumnado adquiera estrategias seguras para la protección de datos de carácter personal y la competencia digital apropiada para la gestión de trámites con la administración pública (sedes electrónicas), plataformas educativas, portales de empleo, etc, y el uso de otros documentos digitales. Así mismo, se promoverá el uso seguro y responsable de las redes sociales y entornos virtuales, tomando conciencia de los riesgos existentes en el intercambio de información (ciberbullying, sexting, phishing, grooming, suplantación de identidad…) y las adicciones a la tecnología. BLOQUE A. AUTONOMÍA PERSONAL . I. Autodeterminación: autoconocimiento, autonomía, autorregulación y empoderamiento.
 • Autoconocimiento:
-◦ Identificación, reconocimiento y expresión de preferencias, intereses, deseos y necesidades personales. ◦ Realización  de  elecciones  fundamentadas.  Comunicación  eficaz  de  deseos  y  necesidades personales a los demás. ◦ Establecimiento y logro de metas personales: definición de objetivos personales y metas. Uso de habilidades de negociación, compromiso y perseverancia para alcanzarlas.
+◦ Identificación, reconocimiento y expresión de preferencias, intereses, deseos y necesidades personales. ◦ Realización de elecciones fundamentadas. Comunicación eficaz de deseos y necesidades personales a los demás. ◦ Establecimiento y logro de metas personales: definición de objetivos personales y metas. Uso de habilidades de negociación, compromiso y perseverancia para alcanzarlas.
 • Autonomía:
 ◦ Iniciativa y acción personal. La toma de decisiones en la vida cotidiana y realización de acciones necesarias de forma autónoma. ◦ Evaluación de opciones y consecuencias en la toma de decisiones: consideración de múltiples alternativas y sus consecuencias. Toma de decisiones informadas. Evaluación de la efectividad de decisiones previas y ajuste de futuras decisiones basadas en experiencias anteriores.
 • Autorregulación:
-◦ Definición de problemas y búsqueda de soluciones: identificación sistemática de problemas y búsqueda activa de soluciones apropiadas. ◦ Reconocimiento de la independencia y la interdependencia: valoración de la independencia personal y reconocimiento de la interdependencia con otros en la vida cotidiana. ◦ Conocimiento de fortalezas y potencialidades personales y autorregulación: comprensión de los puntos  fuertes  y  potencialidades  personales,  desarrollo  de  estrategias  de  autocontrol  y regulación de la conducta.
+◦ Definición de problemas y búsqueda de soluciones: identificación sistemática de problemas y búsqueda activa de soluciones apropiadas. ◦ Reconocimiento de la independencia y la interdependencia: valoración de la independencia personal y reconocimiento de la interdependencia con otros en la vida cotidiana. ◦ Conocimiento de fortalezas y potencialidades personales y autorregulación: comprensión de los puntos fuertes y potencialidades personales, desarrollo de estrategias de autocontrol y regulación de la conducta.
 • Empoderamiento:
 ◦ Las conductas asertivas y autodefensa. Desarrollo de la conducta asertiva. Fortalecimiento de la confianza personal y el orgullo en los logros obtenidos. ◦ Autoeficacia: desarrollo de una percepción personal positiva y de la capacidad de actuar para alcanzar los resultados esperados. Búsqueda de los apoyos necesarios. ◦ Valoración de la influencia de la autodeterminación en la calidad de vida. Impacto de la autodeterminación en la satisfacción personal y el bienestar general. II. Vida saludable
 • Identificación y comprensión de hábitos saludables: nutrición equilibrada, ejercicio y descanso. Relevancia en el bienestar físico y emocional.
@@ -496,23 +578,23 @@ Las  destrezas  y  los  procesos  asociados  a  la  búsqueda,  selección  y  t
 • Sexualidad. Diversidad sexual. Sexualidad y derechos.
 • Higiene y salud sexual.
 • Relaciones interpersonales: Construcción de relaciones saludables.
-• Prevención de violencias:  violencia digital, acoso sexual, agresión sexual.
+• Prevención de violencias: violencia digital, acoso sexual, agresión sexual.
 
 BLOQUE B. PARTICIPACIÓN SOCIAL Y VIDA EN COMUNIDAD. I. Valores, derechos y deberes democráticos.
-• El ejercicio de una ciudadanía democrática: la participación, la responsabilidad ética y ecosocial, participación  en  proyectos  comunitarios.  Formas  de  participación  social:  voluntariado  y asociacionismo.
-• El  principio  de  no  discriminación:  causas  y  consecuencias.  La  mediación  y  la  resolución  de conflictos como norma de convivencia.
-• Identificación del origen de la desigualdad. La solidaridad con colectivos en situaciones de pobreza, vulnerabilidad  y  exclusión  social.  Reconocimiento  de  las  diferencias  culturales,  sociales  y personales.
-• El  logro  de  la  efectiva  igualdad  de  género.  Manifestaciones  y  conductas  no  sexistas.  El reconocimiento de los derechos LTGBQ+.
+• El ejercicio de una ciudadanía democrática: la participación, la responsabilidad ética y ecosocial, participación en proyectos comunitarios. Formas de participación social: voluntariado y asociacionismo.
+• El principio de no discriminación: causas y consecuencias. La mediación y la resolución de conflictos como norma de convivencia.
+• Identificación del origen de la desigualdad. La solidaridad con colectivos en situaciones de pobreza, vulnerabilidad y exclusión social. Reconocimiento de las diferencias culturales, sociales y personales.
+• El logro de la efectiva igualdad de género. Manifestaciones y conductas no sexistas. El reconocimiento de los derechos LTGBQ+.
 • Implementación de estrategias para la igualdad entre las personas. Reflexión sobre el papel de mujeres y hombres en diferentes contextos (educativo, social y laboral) en el entorno comunitario.
-• Identificación,  comprensión  y  expresión  de  los  derechos  fundamentales  que  garantizan  la participación en contextos comunitarios y políticos para las personas con discapacidad.  Convención Internacional sobre los derechos de las personas con Discapacidad.
+• Identificación, comprensión y expresión de los derechos fundamentales que garantizan la participación en contextos comunitarios y políticos para las personas con discapacidad. Convención Internacional sobre los derechos de las personas con Discapacidad.
 • Inclusión y equidad en la participación social. Valores que fortalecen los entornos comunitarios. Análisis de situaciones de desigualdad y reflexión sobre la equidad y el respeto en las interacciones sociales. II. Recursos comunitarios.
 • Recursos y servicios disponibles en la comunidad (redes de apoyo, servicios de empleo, educación, sanitarios, asociaciones, servicios sociales…).
 • Acceso y documentación necesaria para acceder a los diferentes recursos comunitarios de forma autónoma (portales webs del ayuntamiento, consejerías, etc., DNI electrónico, certificado digital, aplicaciones móviles…). BLOQUE C. COMUNICACIÓN. I. Comunicación
 • Comprensión e interpretación de textos en diversos formatos y contextos. Interpretación global de textos orales, escritos y multimodales. Información relevante según la intención comunicativa del emisor. Finalidad del mensaje, tono y elementos claves en diversos tipos de textos y contextos (personal, académico, profesional y ecosocial).
-• Exposición oral planificada. Preparación y realización de exposiciones orales en temas de  interés personal,  ecosocial o profesional. Uso efectivo de recursos verbales y no verbales. Utilización de soportes adecuados para transmitir ideas de forma clara y coherente, presentaciones y discusiones.
-• Planificación  y  redacción  de  textos  escritos  y  multimodales.  Creación  de  textos  adaptados  a diferentes  situaciones  comunicativas.  Estrategias  para  estructurar  textos  claros  y  efectivos  en contextos personales y profesionales. Integración de elementos multimodales (imágenes, gráficos, recursos digitales).
-• Participación activa y eficaz en interacciones orales.  Habilidades para participar activamente en interacciones orales informales y formales, en equipo o en contextos dialogados. Escucha activa, estrategias de cooperación conversacional y cortesía lingüística adaptada al contexto. II. Alfabetización mediática e informacional.
-• Selección y organización de información en entornos analógicos y digitales . Estrategias efectivas para  la  búsqueda,  selección  y  organización  de  información  en  entornos  analógicos  y  digitales adaptadas  a  necesidades  del  ámbito  personal,  social  y  profesional.  Técnicas  de  filtrado  de información. Métodos para evaluar la fiabilidad y pertinencia de las fuentes en función del objetivo.
+• Exposición oral planificada. Preparación y realización de exposiciones orales en temas de interés personal, ecosocial o profesional. Uso efectivo de recursos verbales y no verbales. Utilización de soportes adecuados para transmitir ideas de forma clara y coherente, presentaciones y discusiones.
+• Planificación y redacción de textos escritos y multimodales. Creación de textos adaptados a diferentes situaciones comunicativas. Estrategias para estructurar textos claros y efectivos en contextos personales y profesionales. Integración de elementos multimodales (imágenes, gráficos, recursos digitales).
+• Participación activa y eficaz en interacciones orales. Habilidades para participar activamente en interacciones orales informales y formales, en equipo o en contextos dialogados. Escucha activa, estrategias de cooperación conversacional y cortesía lingüística adaptada al contexto. II. Alfabetización mediática e informacional.
+• Selección y organización de información en entornos analógicos y digitales . Estrategias efectivas para la búsqueda, selección y organización de información en entornos analógicos y digitales adaptadas a necesidades del ámbito personal, social y profesional. Técnicas de filtrado de información. Métodos para evaluar la fiabilidad y pertinencia de las fuentes en función del objetivo.
 • Análisis y valoración de fuentes de información. Criterios para identificar información confiable y adecuada para cada propósito.
 • Elaboración de contenidos propios a partir de fuentes diversas. Creación de materiales partiendo de diversas fuentes de información. Selección adecuada de fuentes, síntesis y organización de ideas en formatos adecuados según el contexto.
 
@@ -526,49 +608,69 @@ Asimismo, se promueven hábitos responsables, que refuerzan su sentido de perten
 
 3. Competencias específicas del ámbito de Ciencias aplicadas y competencia lógica. Las competencias específicas vinculadas al ámbito de Ciencias aplicadas y competencia lógica son las siguientes:
 Competencia específica 1. Aplicar conceptos matemáticos relacionados con cantidad, espacio y forma, relaciones e incertidumbre para resolver problemas de la vida cotidiana, demostrando autonomía en la solución de situaciones prácticas adaptadas a distintos contextos. Esta competencia específica contribuye al desarrollo de las siguientes competencias clave:
-CCL, STEM y CE. Competencia específica 2. Utilizar herramientas tecnológicas y digitales para organizar y gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Esta competencia específica contribuye con las siguientes competencias clave:  CCL, STEM, CD y CE. Competencia específica 3. Analizar el impacto de las acciones cotidianas y del entorno profesional en el medio natural y social, con el objetivo de reconocer la importancia de adoptar hábitos que reduzcan los efectos negativos sobre el medioambiente y promuevan un desarrollo sostenible. Esta competencia específica contribuye con las siguientes competencias clave:
+CCL, STEM y CE. Competencia específica 2. Utilizar herramientas tecnológicas y digitales para organizar y gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Esta competencia específica contribuye con las siguientes competencias clave: CCL, STEM, CD y CE. Competencia específica 3. Analizar el impacto de las acciones cotidianas y del entorno profesional en el medio natural y social, con el objetivo de reconocer la importancia de adoptar hábitos que reduzcan los efectos negativos sobre el medioambiente y promuevan un desarrollo sostenible. Esta competencia específica contribuye con las siguientes competencias clave:
 CCL, STEM, CPSAA, CC y CCEC.
 
 4. Competencias específicas, criterios de evaluación y explicación del bloque competencial. Las competencias específicas integran las competencias clave y los saberes del ámbito, y son el eje del currículo del ámbito. Las competencias específicas se organizan en torno a bloques competenciales, que incluyen: el enunciado de la competencia específica, los criterios de evaluación y la explicación del bloque competencial que orienta sobre el proceso de enseñanza y aprendizaje. Los criterios de evaluación propuestos servirán como referencia para orientar el aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle al máximo sus capacidades y competencias clave.
 
-Competencia específica 1.  Aplicar conceptos matemáticos relacionados con cantidad, espacio y forma, relaciones e incertidumbre para resolver problemas de la vida cotidiana, demostrando autonomía en la solución de situaciones prácticas adaptadas a distintos contextos. Criterios de evaluación Competencias clave 1.1.  Interpretar y aplicar  cálculos numéricos, magnitudes y medidas en contextos personales y laborales, realizando operaciones de cálculo, clasificación, categoriza - ción, relación y comparación, valorando la precisión y exactitud en las mediciones. STEM 1.2.  Reconocer herramientas de medición comunes (como regla,  balanza, GPS) con el nivel de autonomía apropiado a su contexto aplicando técnicas de estimación y redondeo. STEM
+Competencia específica 1. Aplicar conceptos matemáticos relacionados con cantidad, espacio y forma, relaciones e incertidumbre para resolver problemas de la vida cotidiana, demostrando autonomía en la solución de situaciones prácticas adaptadas a distintos contextos. Criterios de evaluación Competencias clave
+
+**1.1.** Interpretar y aplicar cálculos numéricos, magnitudes y medidas en contextos personales y laborales, realizando operaciones de cálculo, clasificación, categoriza - ción, relación y comparación, valorando la precisión y exactitud en las mediciones. STEM
+
+**1.2.** Reconocer herramientas de medición comunes (como regla, balanza, GPS) con el nivel de autonomía apropiado a su contexto aplicando técnicas de estimación y redondeo. STEM
 **CCL**
-1.3. Comprender datos estadísticos básicos e interpretar gráficos y tablas según el contexto  para  la  toma  de  decisiones  y  manejo  de  la  información  efectiva   en situaciones  tanto personales como laborales.
+
+**1.3.** Comprender datos estadísticos básicos e interpretar gráficos y tablas según el contexto para la toma de decisiones y manejo de la información efectiva en situaciones tanto personales como laborales.
 **CCL**
-STEM 1.4.  Comprender  y  leer  planos  y  diagramas,  reconociendo  sus  elementos  y STEM símbolos, para poder usarlos de manera práctica en su vida personal y en el entorno laboral, facilitando la organización y realización de tareas.
+STEM
+
+**1.4.** Comprender y leer planos y diagramas, reconociendo sus elementos y STEM símbolos, para poder usarlos de manera práctica en su vida personal y en el entorno laboral, facilitando la organización y realización de tareas.
 **CCL**
-1.5. Resolver problemas prácticos cotidianos aplicando las operaciones necesarias para tomar decisiones adecuadas en diferentes situaciones.
+
+**1.5.** Resolver problemas prácticos cotidianos aplicando las operaciones necesarias para tomar decisiones adecuadas en diferentes situaciones.
 **CCL**
 STEM CE Explicación del bloque competencial:
-Este bloque competencial tiene como objetivo desarrollar la capacidad para realizar cálculos numéricos y otras operaciones matemáticas aplicadas a la vida personal y laboral. A través de estos conocimientos, se fomentará la autonomía y la toma de decisiones. El enfoque se centra en el manejo de cantidades, como el dinero y los productos, así como en el uso de magnitudes en distintos contextos (distancia, tiempo, peso, volumen, entre otros). También se trabajarán técnicas de estimación y redondeo, la orientación espacial y temporal, y el uso de herramientas de medición. Las situaciones de aprendizaje se diseñarán para comprender estos conceptos de manera práctica, aplicándolos a contextos reales y, en particular, al ámbito profesional del itinerario formativo. Se llevarán a cabo actividades como la gestión del dinero, la medición de ingredientes, o la interpretación de gráficos y tablas para tomar decisiones informadas en el trabajo. Además, se trabajará con planos y diagramas para facilitar la organización y ejecución de tareas, resolviendo problemas cotidianos que requieran habilidades lógicas y matemáticas. Competencia  específica  2.  Utilizar  herramientas  tecnológicas  y  digitales  para  organizar  y  gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Criterios de evaluación Competencias clave 2.1. Reconocer y utilizar de forma autónoma aplicaciones de ofimática para gestionar actividades laborales y personales, protegiendo la información personal en línea y en aplicaciones de forma segura.
-**CCL**
-STEM
-**CD**
-2.2. Usar configuraciones básicas de accesibilidad del software adaptadas a sus necesidades y características personales (t amaño de texto, lectores de pantalla, accesibilidad, inteligencia artificial,...).
-**CCL**
-STEM
-**CD**
-CE 2.3.  Utilizar  aplicaciones,  herramientas  y  nuevas  tecnologías  que  facilitan  el trabajo, mostrando capacidad de adaptación a las mismas en el entorno personal y laboral.
-**CCL**
-STEM
-**CD**
-CE Explicación del bloque competencial:
-La gran transformación digital a nivel global, supone tanto a nivel tecnológico como social, importantes cambios en la vida cotidiana de las personas y en el mercado de trabajo. La tecnología al servicio de las personas supone el desarrollo y uso de herramientas tecnológicas diseñadas específicamente para mejorar la calidad de vida, la autonomía, y la inclusión social y laboral de personas con discapacidad. En este bloque competencial se tratarán  los beneficios del uso de diferentes herramientas digitales para la gestión autónoma de actividades diarias, tales como aplicaciones para la planificación y organización personal, recordatorios de tareas, etc. Se promoverá el uso de programas de ofimática a nivel usuario como los procesadores de texto, hojas de cálculo y presentaciones que mejoren la inserción laboral. Asimismo, se potenciará el uso de productos de apoyo ajustados a sus características personales y necesidades educativas, que tengan una repercusión directa en su aprendizaje, la empleabilidad, el acceso a la información y participación social.
+Este bloque competencial tiene como objetivo desarrollar la capacidad para realizar cálculos numéricos y otras operaciones matemáticas aplicadas a la vida personal y laboral. A través de estos conocimientos, se fomentará la autonomía y la toma de decisiones. El enfoque se centra en el manejo de cantidades, como el dinero y los productos, así como en el uso de magnitudes en distintos contextos (distancia, tiempo, peso, volumen, entre otros). También se trabajarán técnicas de estimación y redondeo, la orientación espacial y temporal, y el uso de herramientas de medición. Las situaciones de aprendizaje se diseñarán para comprender estos conceptos de manera práctica, aplicándolos a contextos reales y, en particular, al ámbito profesional del itinerario formativo. Se llevarán a cabo actividades como la gestión del dinero, la medición de ingredientes, o la interpretación de gráficos y tablas para tomar decisiones informadas en el trabajo. Además, se trabajará con planos y diagramas para facilitar la organización y ejecución de tareas, resolviendo problemas cotidianos que requieran habilidades lógicas y matemáticas. Competencia específica 2. Utilizar herramientas tecnológicas y digitales para organizar y gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Criterios de evaluación Competencias clave
 
-Competencia  específica  2.  Utilizar  herramientas  tecnológicas  y  digitales  para  organizar  y  gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Criterios de evaluación Competencias clave 2.1. Reconocer y utilizar de forma autónoma aplicaciones de ofimática para gestionar actividades laborales y personales, protegiendo la información personal en línea y en aplicaciones de forma segura.
+**2.1.** Reconocer y utilizar de forma autónoma aplicaciones de ofimática para gestionar actividades laborales y personales, protegiendo la información personal en línea y en aplicaciones de forma segura.
 **CCL**
 STEM
 **CD**
-2.2. Usar configuraciones básicas de accesibilidad del software adaptadas a sus necesidades y características personales (t amaño de texto, lectores de pantalla, accesibilidad, inteligencia artificial,...).
+
+**2.2.** Usar configuraciones básicas de accesibilidad del software adaptadas a sus necesidades y características personales (t amaño de texto, lectores de pantalla, accesibilidad, inteligencia artificial,...).
 **CCL**
 STEM
 **CD**
-CE 2.3.  Utilizar  aplicaciones,  herramientas  y  nuevas  tecnologías  que  facilitan  el trabajo, mostrando capacidad de adaptación a las mismas en el entorno personal y laboral.
+CE
+
+**2.3.** Utilizar aplicaciones, herramientas y nuevas tecnologías que facilitan el trabajo, mostrando capacidad de adaptación a las mismas en el entorno personal y laboral.
 **CCL**
 STEM
 **CD**
 CE Explicación del bloque competencial:
-La gran transformación digital a nivel global, supone tanto a nivel tecnológico como social, importantes cambios en la vida cotidiana de las personas y en el mercado de trabajo. La tecnología al servicio de las personas supone el desarrollo y uso de herramientas tecnológicas diseñadas específicamente para mejorar la calidad de vida, la autonomía, y la inclusión social y laboral de personas con discapacidad. En este bloque competencial se tratarán  los beneficios del uso de diferentes herramientas digitales para la gestión autónoma de actividades diarias, tales como aplicaciones para la planificación y organización personal, recordatorios de tareas, etc. Se promoverá el uso de programas de ofimática a nivel usuario como los procesadores de texto, hojas de cálculo y presentaciones que mejoren la inserción laboral. Asimismo, se potenciará el uso de productos de apoyo ajustados a sus características personales y necesidades educativas, que tengan una repercusión directa en su aprendizaje, la empleabilidad, el acceso a la información y participación social. Competencia específica 3. Analizar el impacto de las acciones cotidianas y del entorno profesional en el medio natural y social, con el objetivo de reconocer la importancia de adoptar hábitos que reduzcan los efectos negativos sobre el medioambiente y promuevan un desarrollo sostenible. Criterios de evaluación Competencias clave 3.1. Reconocer acciones cotidianas y profesionales que afectan al medio natural y social, evaluando las consecuencias en términos de contaminación, consumo de recursos, pérdida de biodiversidad y bienestar social.
+La gran transformación digital a nivel global, supone tanto a nivel tecnológico como social, importantes cambios en la vida cotidiana de las personas y en el mercado de trabajo. La tecnología al servicio de las personas supone el desarrollo y uso de herramientas tecnológicas diseñadas específicamente para mejorar la calidad de vida, la autonomía, y la inclusión social y laboral de personas con discapacidad. En este bloque competencial se tratarán los beneficios del uso de diferentes herramientas digitales para la gestión autónoma de actividades diarias, tales como aplicaciones para la planificación y organización personal, recordatorios de tareas, etc. Se promoverá el uso de programas de ofimática a nivel usuario como los procesadores de texto, hojas de cálculo y presentaciones que mejoren la inserción laboral. Asimismo, se potenciará el uso de productos de apoyo ajustados a sus características personales y necesidades educativas, que tengan una repercusión directa en su aprendizaje, la empleabilidad, el acceso a la información y participación social.
+
+Competencia específica 2. Utilizar herramientas tecnológicas y digitales para organizar y gestionar actividades cotidianas, así como para favorecer su autonomía y empleabilidad, adaptadas a cada contexto. Criterios de evaluación Competencias clave
+
+**2.1.** Reconocer y utilizar de forma autónoma aplicaciones de ofimática para gestionar actividades laborales y personales, protegiendo la información personal en línea y en aplicaciones de forma segura.
+**CCL**
+STEM
+**CD**
+
+**2.2.** Usar configuraciones básicas de accesibilidad del software adaptadas a sus necesidades y características personales (t amaño de texto, lectores de pantalla, accesibilidad, inteligencia artificial,...).
+**CCL**
+STEM
+**CD**
+CE
+
+**2.3.** Utilizar aplicaciones, herramientas y nuevas tecnologías que facilitan el trabajo, mostrando capacidad de adaptación a las mismas en el entorno personal y laboral.
+**CCL**
+STEM
+**CD**
+CE Explicación del bloque competencial:
+La gran transformación digital a nivel global, supone tanto a nivel tecnológico como social, importantes cambios en la vida cotidiana de las personas y en el mercado de trabajo. La tecnología al servicio de las personas supone el desarrollo y uso de herramientas tecnológicas diseñadas específicamente para mejorar la calidad de vida, la autonomía, y la inclusión social y laboral de personas con discapacidad. En este bloque competencial se tratarán los beneficios del uso de diferentes herramientas digitales para la gestión autónoma de actividades diarias, tales como aplicaciones para la planificación y organización personal, recordatorios de tareas, etc. Se promoverá el uso de programas de ofimática a nivel usuario como los procesadores de texto, hojas de cálculo y presentaciones que mejoren la inserción laboral. Asimismo, se potenciará el uso de productos de apoyo ajustados a sus características personales y necesidades educativas, que tengan una repercusión directa en su aprendizaje, la empleabilidad, el acceso a la información y participación social. Competencia específica 3. Analizar el impacto de las acciones cotidianas y del entorno profesional en el medio natural y social, con el objetivo de reconocer la importancia de adoptar hábitos que reduzcan los efectos negativos sobre el medioambiente y promuevan un desarrollo sostenible. Criterios de evaluación Competencias clave
+
+**3.1.** Reconocer acciones cotidianas y profesionales que afectan al medio natural y social, evaluando las consecuencias en términos de contaminación, consumo de recursos, pérdida de biodiversidad y bienestar social.
 **CCL**
 STEM CPSAA
 **CC**
@@ -576,12 +678,14 @@ CCEC 3.2.Identificar prácticas y hábitos que contribuyan a minimizar los impac
 **CCL**
 STEM CPSAA
 **CC**
-CCEC 3.3. Aplicar medidas responsables en la rutina diaria o en el entorno laboral para fomentar un desarrollo sostenible.
+CCEC
+
+**3.3.** Aplicar medidas responsables en la rutina diaria o en el entorno laboral para fomentar un desarrollo sostenible.
 **CCL**
 STEM CPSAA
 **CC**
 CCEC Explicación del bloque competencial:
-La actividad humana ha producido importantes alteraciones en el entorno con un ritmo de avance sin precedentes en la historia de la Tierra. Algunas de estas alteraciones, como el aumento de la temperatura media terrestre, la acumulación de residuos plásticos o la disminución de la disponibilidad de agua potable, podrían poner en grave peligro algunas actividades humanas esenciales, entre las que destaca la producción de alimentos. Durante la implementación de las situaciones de aprendizaje se facilitará que el alumnado, conozca e identifique los posibles riesgos naturales, especialmente los que afectan a las Islas Canarias, potenciados por determinadas actuaciones humanas sobre el medio ambiente (destrucción de hábitats, extinción directa de  especies,  sobreexplotación  de  recursos,  acumulación  de  residuos,  contaminación  atmosférica…) evaluando el impacto que puedan suponer sobre el entorno. Todo ello con el propósito de que el alumnado asuma de forma motivada hábitos sostenibles que reduzcan los impactos medioambientales negativos y promuevan  un  estilo  de  vida  sostenible  y  ecosocialmente  responsable.  Además,  las  actividades  para desarrollar esta competencia deberán estar contextualizadas en los entornos de trabajo de las enseñanzas cursadas,  de  tal  forma  que  asuman  hábitos  de  cuidado  medioambiental  en  relación  a  las  tareas desempeñadas.
+La actividad humana ha producido importantes alteraciones en el entorno con un ritmo de avance sin precedentes en la historia de la Tierra. Algunas de estas alteraciones, como el aumento de la temperatura media terrestre, la acumulación de residuos plásticos o la disminución de la disponibilidad de agua potable, podrían poner en grave peligro algunas actividades humanas esenciales, entre las que destaca la producción de alimentos. Durante la implementación de las situaciones de aprendizaje se facilitará que el alumnado, conozca e identifique los posibles riesgos naturales, especialmente los que afectan a las Islas Canarias, potenciados por determinadas actuaciones humanas sobre el medio ambiente (destrucción de hábitats, extinción directa de especies, sobreexplotación de recursos, acumulación de residuos, contaminación atmosférica…) evaluando el impacto que puedan suponer sobre el entorno. Todo ello con el propósito de que el alumnado asuma de forma motivada hábitos sostenibles que reduzcan los impactos medioambientales negativos y promuevan un estilo de vida sostenible y ecosocialmente responsable. Además, las actividades para desarrollar esta competencia deberán estar contextualizadas en los entornos de trabajo de las enseñanzas cursadas, de tal forma que asuman hábitos de cuidado medioambiental en relación a las tareas desempeñadas.
 
 BLOQUE D I. Cálculo y medida
 • Comprensión y uso de cálculos numéricos, magnitudes y medidas en situaciones laborales y cotidianas. Manejo de cantidades y sus diferencias. Conceptos básicos de longitud, tiempo, peso y volumen para favorecer la autonomía en la vida diaria.
@@ -589,13 +693,13 @@ BLOQUE D I. Cálculo y medida
 • Estadística básica. Interpretación de gráficas y tablas según el contexto.
 • Uso e interpretación de formas y espacios a través de objetos, estructuras y representaciones simples. Representación gráfica. Orientación personal y espacial.
 • Resolución de problemas aplicados a contextos personales y profesionales. Organización de la información y datos sencillos, para la co mprensión de eventos impredecibles ayudando a tomar decisiones seguras en la vida diaria y el trabajo (probabilidad, proporcionalidad, azar,...) II. Ofimática básica, aplicaciones digitales y nuevas tecnologías
-• Configuración  básica  de  accesibilidad  en  software.  Personalización  de  las  opciones  de accesibilidad  en  programas  de  ofimática  y  otras  herramientas  digitales.  Aplicaciones  de accesibilidad. Inteligencia artificial.
+• Configuración básica de accesibilidad en software. Personalización de las opciones de accesibilidad en programas de ofimática y otras herramientas digitales. Aplicaciones de accesibilidad. Inteligencia artificial.
 • Identificación y uso de aplicaciones de ofimática, como procesadores de texto, hojas de cálculo y programas de presentaciones. Uso de contraseñas seguras. Protección de la información personal. Uso de recursos en línea (tutoriales, cursos). Uso de servicios de almacenamiento en la nube para el acceso a archivos desde diferentes dispositivos.
 • Aplicaciones digitales para la gestión y organización personal: aplicaciones de mensajería y correo electrónico. Aplicaciones para la gestión de tareas, calendarios, recordatorios, lista de la compra, notas, aplicaciones de presupuesto y ahorro, comercio electrónico. III. Sostenibilidad aplicada al entorno personal y profesional
 • Identificación de actividades cotidianas que influyen de forma negativa en el medio natural (uso del agua, la energía, gestión de desechos,...). Valoración de la importancia de reducir, reutilizar y reciclar para proteger el medio ambiente.
-• Prácticas para minimizar el impacto ambiental en el entorno personal y laboral.  Sostenibilidad aplicada al sector profesional: acciones a realizar en el lugar de trabajo para cuidar el medio ambiente.
+• Prácticas para minimizar el impacto ambiental en el entorno personal y laboral. Sostenibilidad aplicada al sector profesional: acciones a realizar en el lugar de trabajo para cuidar el medio ambiente.
 • Hábitos respetuosos con el medio ambiente (uso de transporte público, ahorro de energía y consumo responsable) para el beneficio de la comunidad, creando un entorno limpio y saludable para todos.
-• Cuidado  de  los  espacios  naturales  y  públicos.  La  biodiversidad  en  las  Islas  Canarias. Reconocimiento de la importancia de mantener limpios y protegidos los espacios naturales y comunitarios. Uso responsable de los recursos.
+• Cuidado de los espacios naturales y públicos. La biodiversidad en las Islas Canarias. Reconocimiento de la importancia de mantener limpios y protegidos los espacios naturales y comunitarios. Uso responsable de los recursos.
 
 5. Saberes básicos propios del ámbito de Ciencias aplicadas y competencia lógica. Los saberes básicos del ámbito se nutren de los conocimientos, habilidades y actitudes relacionadas con la competencia matemática y competencia en ciencia, tecnología e ingeniería y competencia digital. Es un ámbito con carácter transversal que debe entramarse con los saberes de los restantes bloques. ÁMBITO DE PREVENCIÓN Y ORIENTACIÓN PROFESIONAL.
 
@@ -619,171 +723,236 @@ CCL, STEM, CC, CP, CPSAA, CE y CCEC.
 
 4. Competencias específicas, criterios de evaluación y explicación del bloque competencial. Las competencias específicas integran las competencias clave y los saberes del ámbito, y son el eje del currículo del ámbito. Las competencias específicas se organizan en torno a bloques competenciales, que incluyen: el enunciado de la competencia específica, los criterios de evaluación y la explicación del bloque competencial que orienta sobre el proceso de enseñanza y aprendizaje. Los criterios de evaluación propuestos servirán como referencia para orientar el aprendizaje, permitiendo que cada alumno o alumna avance a su propio ritmo y desarrolle al máximo sus capacidades y competencias clave.
 
-Competencia específica 1: Comprender la relación entre trabajo y salud, identificando los riesgos y daños que la actividad laboral conlleva, aplicando y cumpliendo las medidas de prevención y protección, los protocolos de actuación de los planes de emergencia y las técnicas básicas de primeros auxilios de forma responsable,  para  garantizar  la  salud  y  seguridad  de  los  trabajadores,  con  el  fin  de  desarrollar  las competencias necesarias en materia de prevención de riesgos laborales en su actividad profesional. Criterios de evaluación Competencias clave 1.1. Identificar los conceptos básicos sobre seguridad y salud, y clasificar los factores  de  riesgo  y  los  daños  profesionales  derivados  de  los  mismos, especialmente  las  situaciones  de  riesgo  más  habituales  en  los  entornos  de trabajo relacionados con el perfil profesional.
+Competencia específica 1: Comprender la relación entre trabajo y salud, identificando los riesgos y daños que la actividad laboral conlleva, aplicando y cumpliendo las medidas de prevención y protección, los protocolos de actuación de los planes de emergencia y las técnicas básicas de primeros auxilios de forma responsable, para garantizar la salud y seguridad de los trabajadores, con el fin de desarrollar las competencias necesarias en materia de prevención de riesgos laborales en su actividad profesional. Criterios de evaluación Competencias clave
+
+**1.1.** Identificar los conceptos básicos sobre seguridad y salud, y clasificar los factores de riesgo y los daños profesionales derivados de los mismos, especialmente las situaciones de riesgo más habituales en los entornos de trabajo relacionados con el perfil profesional.
 **CCL**
-STEM CPSAA 1.2. Conocer los derechos y deberes de las personas trabajadoras en materia de Prevención  de  Riesgos  Laborales,  comprendiendo  su  importancia  para  la creación de un entorno laboral seguro y sostenible.
+STEM CPSAA
+
+**1.2.** Conocer los derechos y deberes de las personas trabajadoras en materia de Prevención de Riesgos Laborales, comprendiendo su importancia para la creación de un entorno laboral seguro y sostenible.
 **CCL**
 STEM CPSAA
 **CC**
-1.3. Identificar los riesgos en el entorno de trabajo y los daños profesionales, definiendo las técnicas de prevención y los sistemas de protección necesarios para eliminar o reducir los daños de la salud en su origen y minimizar las consecuencias de los riesgos inevitables.
+
+**1.3.** Identificar los riesgos en el entorno de trabajo y los daños profesionales, definiendo las técnicas de prevención y los sistemas de protección necesarios para eliminar o reducir los daños de la salud en su origen y minimizar las consecuencias de los riesgos inevitables.
 **CCL**
 STEM
 **CC**
-1.4.  Aplicar  correctamente  las  medidas  de  prevención  y  los  protocolos  de actuación ante emergencias según la normativa vigente.
+
+**1.4.** Aplicar correctamente las medidas de prevención y los protocolos de actuación ante emergencias según la normativa vigente.
 **CCL**
 STEM
 **CC**
-1.5. Reconocer y clasificar las distintas formas de gestión de la prevención en la empresa y las formas de representación de las personas trabajadoras en materia  de  prevención  de  riesgos,  según  los  criterios  establecidos  en  la normativa.
+
+**1.5.** Reconocer y clasificar las distintas formas de gestión de la prevención en la empresa y las formas de representación de las personas trabajadoras en materia de prevención de riesgos, según los criterios establecidos en la normativa.
 **CCL**
 **CC**
-1.6. Determinar los requisitos y condiciones para la vigilancia de la salud de las personas trabajadoras como medida preventiva. CPSAA
+
+**1.6.** Determinar los requisitos y condiciones para la vigilancia de la salud de las personas trabajadoras como medida preventiva. CPSAA
 **CC**
-1.7. Identificar y aplicar los procedimientos y las técnicas básicas de primeros auxilios ante distintos tipos de daños y conocer la composición del botiquín para un uso adecuado de los elementos en caso de accidente o emergencia.
+
+**1.7.** Identificar y aplicar los procedimientos y las técnicas básicas de primeros auxilios ante distintos tipos de daños y conocer la composición del botiquín para un uso adecuado de los elementos en caso de accidente o emergencia.
 **CCL**
 CPSAA
 **CC**
 Explicación del bloque competencial:
-Este bloque competencial aborda los aprendizajes necesarios para que el alumnado comprenda la relación entre trabajo y salud, los riesgos que la actividad laboral conlleva y, sobre todo, las habilidades que se deben desarrollar para analizar, aplicar y cumplir las medidas de prevención y protección tanto individual como colectiva, los protocolos de actuación en materia de planes de emergencia y la aplicación de técnicas básicas de primeros auxilios de forma responsable e integrada en todas las actividades. Estos criterios de evaluación permitirán garantizar que el alumnado es competente para aplicar las técnicas y destrezas necesarias para el cuidado de la salud individual y colectiva en un puesto de trabajo concreto. Por ello, las situaciones de aprendizaje irán dirigidas a reconocer los riesgos específicos en el entorno laboral, aplicar las medidas preventivas y los protocolos establecidos en los planes de emergencia, conocer los procedimientos para mantener un entorno laboral seguro, sostenible y saludable así como los derechos y obligaciones respecto al cuidado de la salud individual y colectiva. Competencia específica 2: Elaborar un proyecto de vida personal y profesional que refleje sus intereses, habilidades, destrezas y metas, tomando decisiones informadas sobre su futuro académico y laboral, basado en el autoconocimiento y en el análisis de las diversas opciones educativas y profesionales, libre de estereotipos vocacionales, que fomente su autonomía y crecimiento personal. Criterios de evaluación Competencias clave 2.1. Evaluar los propios intereses, motivaciones, habilidades y destrezas en el proceso de autoconocimiento, señalando las preferencias profesionales y metas en el marco de un proyecto profesional.
+Este bloque competencial aborda los aprendizajes necesarios para que el alumnado comprenda la relación entre trabajo y salud, los riesgos que la actividad laboral conlleva y, sobre todo, las habilidades que se deben desarrollar para analizar, aplicar y cumplir las medidas de prevención y protección tanto individual como colectiva, los protocolos de actuación en materia de planes de emergencia y la aplicación de técnicas básicas de primeros auxilios de forma responsable e integrada en todas las actividades. Estos criterios de evaluación permitirán garantizar que el alumnado es competente para aplicar las técnicas y destrezas necesarias para el cuidado de la salud individual y colectiva en un puesto de trabajo concreto. Por ello, las situaciones de aprendizaje irán dirigidas a reconocer los riesgos específicos en el entorno laboral, aplicar las medidas preventivas y los protocolos establecidos en los planes de emergencia, conocer los procedimientos para mantener un entorno laboral seguro, sostenible y saludable así como los derechos y obligaciones respecto al cuidado de la salud individual y colectiva. Competencia específica 2: Elaborar un proyecto de vida personal y profesional que refleje sus intereses, habilidades, destrezas y metas, tomando decisiones informadas sobre su futuro académico y laboral, basado en el autoconocimiento y en el análisis de las diversas opciones educativas y profesionales, libre de estereotipos vocacionales, que fomente su autonomía y crecimiento personal. Criterios de evaluación Competencias clave
+
+**2.1.** Evaluar los propios intereses, motivaciones, habilidades y destrezas en el proceso de autoconocimiento, señalando las preferencias profesionales y metas en el marco de un proyecto profesional.
 **CCL**
-CPSAA CE CCEC 2.2. Reconocer las cualidades y competencias personales y sociales afines a la actividad profesional relacionada con el perfil del título.
+CPSAA CE CCEC
+
+**2.2.** Reconocer las cualidades y competencias personales y sociales afines a la actividad profesional relacionada con el perfil del título.
 **CCL**
 **CD**
 CPSAA CE
 
-1.5. Reconocer y clasificar las distintas formas de gestión de la prevención en la empresa y las formas de representación de las personas trabajadoras en materia  de  prevención  de  riesgos,  según  los  criterios  establecidos  en  la normativa.
+**1.5.** Reconocer y clasificar las distintas formas de gestión de la prevención en la empresa y las formas de representación de las personas trabajadoras en materia de prevención de riesgos, según los criterios establecidos en la normativa.
 **CCL**
 **CC**
-1.6. Determinar los requisitos y condiciones para la vigilancia de la salud de las personas trabajadoras como medida preventiva. CPSAA
+
+**1.6.** Determinar los requisitos y condiciones para la vigilancia de la salud de las personas trabajadoras como medida preventiva. CPSAA
 **CC**
-1.7. Identificar y aplicar los procedimientos y las técnicas básicas de primeros auxilios ante distintos tipos de daños y conocer la composición del botiquín para un uso adecuado de los elementos en caso de accidente o emergencia.
+
+**1.7.** Identificar y aplicar los procedimientos y las técnicas básicas de primeros auxilios ante distintos tipos de daños y conocer la composición del botiquín para un uso adecuado de los elementos en caso de accidente o emergencia.
 **CCL**
 CPSAA
 **CC**
 Explicación del bloque competencial:
-Este bloque competencial aborda los aprendizajes necesarios para que el alumnado comprenda la relación entre trabajo y salud, los riesgos que la actividad laboral conlleva y, sobre todo, las habilidades que se deben desarrollar para analizar, aplicar y cumplir las medidas de prevención y protección tanto individual como colectiva, los protocolos de actuación en materia de planes de emergencia y la aplicación de técnicas básicas de primeros auxilios de forma responsable e integrada en todas las actividades. Estos criterios de evaluación permitirán garantizar que el alumnado es competente para aplicar las técnicas y destrezas necesarias para el cuidado de la salud individual y colectiva en un puesto de trabajo concreto. Por ello, las situaciones de aprendizaje irán dirigidas a reconocer los riesgos específicos en el entorno laboral, aplicar las medidas preventivas y los protocolos establecidos en los planes de emergencia, conocer los procedimientos para mantener un entorno laboral seguro, sostenible y saludable así como los derechos y obligaciones respecto al cuidado de la salud individual y colectiva. Competencia específica 2: Elaborar un proyecto de vida personal y profesional que refleje sus intereses, habilidades, destrezas y metas, tomando decisiones informadas sobre su futuro académico y laboral, basado en el autoconocimiento y en el análisis de las diversas opciones educativas y profesionales, libre de estereotipos vocacionales, que fomente su autonomía y crecimiento personal. Criterios de evaluación Competencias clave 2.1. Evaluar los propios intereses, motivaciones, habilidades y destrezas en el proceso de autoconocimiento, señalando las preferencias profesionales y metas en el marco de un proyecto profesional.
+Este bloque competencial aborda los aprendizajes necesarios para que el alumnado comprenda la relación entre trabajo y salud, los riesgos que la actividad laboral conlleva y, sobre todo, las habilidades que se deben desarrollar para analizar, aplicar y cumplir las medidas de prevención y protección tanto individual como colectiva, los protocolos de actuación en materia de planes de emergencia y la aplicación de técnicas básicas de primeros auxilios de forma responsable e integrada en todas las actividades. Estos criterios de evaluación permitirán garantizar que el alumnado es competente para aplicar las técnicas y destrezas necesarias para el cuidado de la salud individual y colectiva en un puesto de trabajo concreto. Por ello, las situaciones de aprendizaje irán dirigidas a reconocer los riesgos específicos en el entorno laboral, aplicar las medidas preventivas y los protocolos establecidos en los planes de emergencia, conocer los procedimientos para mantener un entorno laboral seguro, sostenible y saludable así como los derechos y obligaciones respecto al cuidado de la salud individual y colectiva. Competencia específica 2: Elaborar un proyecto de vida personal y profesional que refleje sus intereses, habilidades, destrezas y metas, tomando decisiones informadas sobre su futuro académico y laboral, basado en el autoconocimiento y en el análisis de las diversas opciones educativas y profesionales, libre de estereotipos vocacionales, que fomente su autonomía y crecimiento personal. Criterios de evaluación Competencias clave
+
+**2.1.** Evaluar los propios intereses, motivaciones, habilidades y destrezas en el proceso de autoconocimiento, señalando las preferencias profesionales y metas en el marco de un proyecto profesional.
 **CCL**
-CPSAA CE CCEC 2.2. Reconocer las cualidades y competencias personales y sociales afines a la actividad profesional relacionada con el perfil del título.
+CPSAA CE CCEC
+
+**2.2.** Reconocer las cualidades y competencias personales y sociales afines a la actividad profesional relacionada con el perfil del título.
 **CCL**
 **CD**
-CPSAA CE 2.3. Identificar las principales oportunidades de empleo y de inserción laboral en el  sector  productivo,  analizando  los  requerimientos  actuales  para  el  perfil profesional.
+CPSAA CE
+
+**2.3.** Identificar las principales oportunidades de empleo y de inserción laboral en el sector productivo, analizando los requerimientos actuales para el perfil profesional.
 **CCL**
 **CD**
-CPSAA CE 2.4. Identificar las fortalezas, amenazas y oportunidades propias para la inserción profesional,  así  como  las  estrategias  para  potenciarlas  considerando  las necesidades y capacidades individuales. CPSAA CE CCEC 2.5. Identificar otros itinerarios formativos profesionales relacionados con su perfil profesional,  oportunidades  de  formación  y  aprendizaje  permanente  para  el desarrollo profesional, que mejor se ajusta a sus posibilidades y preferencias.
+CPSAA CE
+
+**2.4.** Identificar las fortalezas, amenazas y oportunidades propias para la inserción profesional, así como las estrategias para potenciarlas considerando las necesidades y capacidades individuales. CPSAA CE CCEC
+
+**2.5.** Identificar otros itinerarios formativos profesionales relacionados con su perfil profesional, oportunidades de formación y aprendizaje permanente para el desarrollo profesional, que mejor se ajusta a sus posibilidades y preferencias.
 **CD**
-CPSAA CE Tomar  decisiones  informadas  sobre  su  futuro  académico  y  laboral, considerando sus necesidades, competencias, destrezas y aspiraciones.
+CPSAA CE Tomar decisiones informadas sobre su futuro académico y laboral, considerando sus necesidades, competencias, destrezas y aspiraciones.
 **CD**
-CPSAA CE 2.7. Elaborar un proyecto de vida personal y laboral que refleje sus intereses, motivaciones,  habilidades,  destrezas  y  metas  profesionales  con  los  ajustes  y apoyos necesarios.
+CPSAA CE
+
+**2.7.** Elaborar un proyecto de vida personal y laboral que refleje sus intereses, motivaciones, habilidades, destrezas y metas profesionales con los ajustes y apoyos necesarios.
 **CCL**
 **CD**
 CPSAA CE Explicación del bloque competencial:
-Este  bloque  pretende  que  el  alumnado  construya  un  proyecto  de  vida  integral  que  contemple  sus intereses y metas con los apoyos y ajustes necesarios. En las situaciones de aprendizaje que se programen, se potenciará la re flexión sobre sus motivaciones y habilidades, favoreciendo los procesos de toma decisiones informadas en relación con su trayectoria profesional. Además, se promoverá la investigación y reconocimiento de oportunidades de formación que puedan potenciar su desarrollo y facilitar su inserción en el mercado laboral. Se fomentará la autoevaluación y la planificación a largo plazo, elementos cruciales para el éxito personal y profesional. Competencia  específica  3: Diseñar  y  desarrollar  un  plan  efectivo  para  la  inserción  laboral  que contemple la exploración de oportunidades de emprendimiento, así como el acceso al mercado de trabajo por cuenta ajena, utilizando las herramientas necesarias  para gestionar de manera autónoma las actividades relacionadas con la búsqueda de empleo activo. Criterios de evaluación Competencias clave 3.1. Conocer oportunidades de emprendimiento, generando ideas que favorezcan el intraemprendimiento, la creación de proyectos propios y el autoempleo.
+Este bloque pretende que el alumnado construya un proyecto de vida integral que contemple sus intereses y metas con los apoyos y ajustes necesarios. En las situaciones de aprendizaje que se programen, se potenciará la re flexión sobre sus motivaciones y habilidades, favoreciendo los procesos de toma decisiones informadas en relación con su trayectoria profesional. Además, se promoverá la investigación y reconocimiento de oportunidades de formación que puedan potenciar su desarrollo y facilitar su inserción en el mercado laboral. Se fomentará la autoevaluación y la planificación a largo plazo, elementos cruciales para el éxito personal y profesional. Competencia específica 3: Diseñar y desarrollar un plan efectivo para la inserción laboral que contemple la exploración de oportunidades de emprendimiento, así como el acceso al mercado de trabajo por cuenta ajena, utilizando las herramientas necesarias para gestionar de manera autónoma las actividades relacionadas con la búsqueda de empleo activo. Criterios de evaluación Competencias clave
+
+**3.1.** Conocer oportunidades de emprendimiento, generando ideas que favorezcan el intraemprendimiento, la creación de proyectos propios y el autoempleo.
 **CCL**
 STEM CPSAA
 **CC**
 CE
 
-2.3. Identificar las principales oportunidades de empleo y de inserción laboral en el  sector  productivo,  analizando  los  requerimientos  actuales  para  el  perfil profesional.
+**2.3.** Identificar las principales oportunidades de empleo y de inserción laboral en el sector productivo, analizando los requerimientos actuales para el perfil profesional.
 **CCL**
 **CD**
-CPSAA CE 2.4. Identificar las fortalezas, amenazas y oportunidades propias para la inserción profesional,  así  como  las  estrategias  para  potenciarlas  considerando  las necesidades y capacidades individuales. CPSAA CE CCEC 2.5. Identificar otros itinerarios formativos profesionales relacionados con su perfil profesional,  oportunidades  de  formación  y  aprendizaje  permanente  para  el desarrollo profesional, que mejor se ajusta a sus posibilidades y preferencias.
+CPSAA CE
+
+**2.4.** Identificar las fortalezas, amenazas y oportunidades propias para la inserción profesional, así como las estrategias para potenciarlas considerando las necesidades y capacidades individuales. CPSAA CE CCEC
+
+**2.5.** Identificar otros itinerarios formativos profesionales relacionados con su perfil profesional, oportunidades de formación y aprendizaje permanente para el desarrollo profesional, que mejor se ajusta a sus posibilidades y preferencias.
 **CD**
-CPSAA CE 2.6.  Tomar  decisiones  informadas  sobre  su  futuro  académico  y  laboral, considerando sus necesidades, competencias, destrezas y aspiraciones.
+CPSAA CE
+
+**2.6.** Tomar decisiones informadas sobre su futuro académico y laboral, considerando sus necesidades, competencias, destrezas y aspiraciones.
 **CD**
-CPSAA CE 2.7. Elaborar un proyecto de vida personal y laboral que refleje sus intereses, motivaciones,  habilidades,  destrezas  y  metas  profesionales  con  los  ajustes  y apoyos necesarios.
+CPSAA CE
+
+**2.7.** Elaborar un proyecto de vida personal y laboral que refleje sus intereses, motivaciones, habilidades, destrezas y metas profesionales con los ajustes y apoyos necesarios.
 **CCL**
 **CD**
 CPSAA CE Explicación del bloque competencial:
-Este  bloque  pretende  que  el  alumnado  construya  un  proyecto  de  vida  integral  que  contemple  sus intereses y metas con los apoyos y ajustes necesarios. En las situaciones de aprendizaje que se programen, se potenciará la re flexión sobre sus motivaciones y habilidades, favoreciendo los procesos de toma decisiones informadas en relación con su trayectoria profesional. Además, se promoverá la investigación y reconocimiento de oportunidades de formación que puedan potenciar su desarrollo y facilitar su inserción en el mercado laboral. Se fomentará la autoevaluación y la planificación a largo plazo, elementos cruciales para el éxito personal y profesional. Competencia  específica  3: Diseñar  y  desarrollar  un  plan  efectivo  para  la  inserción  laboral  que contemple la exploración de oportunidades de emprendimiento, así como el acceso al mercado de trabajo por cuenta ajena, utilizando las herramientas necesarias  para gestionar de manera autónoma las actividades relacionadas con la búsqueda de empleo activo. Criterios de evaluación Competencias clave 3.1. Conocer oportunidades de emprendimiento, generando ideas que favorezcan el intraemprendimiento, la creación de proyectos propios y el autoempleo.
+Este bloque pretende que el alumnado construya un proyecto de vida integral que contemple sus intereses y metas con los apoyos y ajustes necesarios. En las situaciones de aprendizaje que se programen, se potenciará la re flexión sobre sus motivaciones y habilidades, favoreciendo los procesos de toma decisiones informadas en relación con su trayectoria profesional. Además, se promoverá la investigación y reconocimiento de oportunidades de formación que puedan potenciar su desarrollo y facilitar su inserción en el mercado laboral. Se fomentará la autoevaluación y la planificación a largo plazo, elementos cruciales para el éxito personal y profesional. Competencia específica 3: Diseñar y desarrollar un plan efectivo para la inserción laboral que contemple la exploración de oportunidades de emprendimiento, así como el acceso al mercado de trabajo por cuenta ajena, utilizando las herramientas necesarias para gestionar de manera autónoma las actividades relacionadas con la búsqueda de empleo activo. Criterios de evaluación Competencias clave
+
+**3.1.** Conocer oportunidades de emprendimiento, generando ideas que favorezcan el intraemprendimiento, la creación de proyectos propios y el autoempleo.
 **CCL**
 STEM CPSAA
 **CC**
-CE 3.2. Reconocer la importancia del aprendizaje permanente, para el desarrollo profesional de propias y nuevas competencias, como factor clave para el empleo y la adaptación al cambio.
+CE
+
+**3.2.** Reconocer la importancia del aprendizaje permanente, para el desarrollo profesional de propias y nuevas competencias, como factor clave para el empleo y la adaptación al cambio.
 **CCL**
 STEM
 **CD**
-CPSAA CE 3.3.  Utilizar  herramientas  y  fuentes  de  información  para  una  búsqueda  de empleo activa utilizando portales de empleo y redes sociales.
+CPSAA CE
+
+**3.3.** Utilizar herramientas y fuentes de información para una búsqueda de empleo activa utilizando portales de empleo y redes sociales.
 **CCL**
 **CD**
-CPSAA CE 3.4.  Elaborar  un  plan  de  búsqueda  de  empleo  que  contemple  estrategias  y recursos  específicos  (análisis  de  ofertas  de  empleo,  cartas  de  presentación, Currículum  Vitae,  entrevistas  de  trabajo,  entre  otros)  promoviendo  una autoestima positiva que facilite el acceso al mercado laboral.
+CPSAA CE
+
+**3.4.** Elaborar un plan de búsqueda de empleo que contemple estrategias y recursos específicos (análisis de ofertas de empleo, cartas de presentación, Currículum Vitae, entrevistas de trabajo, entre otros) promoviendo una autoestima positiva que facilite el acceso al mercado laboral.
 **CCL**
 **CD**
 CPSAA CE Explicación del bloque competencial:
-Este bloque capacitará al alumnado para la búsqueda activa de empleo, destacando la importancia de las herramientas digitales y las redes sociales en este proceso. La intervención didáctica que se proponga acercará  al  alumnado  al  análisis  crítico  de  ofertas  de  empleo  y  a  la  generación  de  ideas  para  el emprendimiento, fomentando una mentalidad proactiva. Además, se les guiará en las estrategias a seguir para la búsqueda de empleo, la elaboración de un Currículum Vitae, cartas de presentación y a afrontar la entrevista de trabajo con confianza y preparación, exponiendo sus habilidades y experiencias de manera convincente. Competencia específica 4: Comprender la estructura organizativa de una empresa, las características del puesto de trabajo, los derechos y deberes derivados de la relación laboral y las iniciativas para el fomento del empleo de las personas con discapacidad, con el fin de facilitar su adaptación e inclusión  en el entorno laboral. Criterios de evaluación Competencias clave 4.1. Conocer la estructura de una empresa y las características del puesto de trabajo que puede desempeñar.
+Este bloque capacitará al alumnado para la búsqueda activa de empleo, destacando la importancia de las herramientas digitales y las redes sociales en este proceso. La intervención didáctica que se proponga acercará al alumnado al análisis crítico de ofertas de empleo y a la generación de ideas para el emprendimiento, fomentando una mentalidad proactiva. Además, se les guiará en las estrategias a seguir para la búsqueda de empleo, la elaboración de un Currículum Vitae, cartas de presentación y a afrontar la entrevista de trabajo con confianza y preparación, exponiendo sus habilidades y experiencias de manera convincente. Competencia específica 4: Comprender la estructura organizativa de una empresa, las características del puesto de trabajo, los derechos y deberes derivados de la relación laboral y las iniciativas para el fomento del empleo de las personas con discapacidad, con el fin de facilitar su adaptación e inclusión en el entorno laboral. Criterios de evaluación Competencias clave
+
+**4.1.** Conocer la estructura de una empresa y las características del puesto de trabajo que puede desempeñar.
 **CCL**
 STEM
 **CC**
 CE Identificar los derechos y deberes en el ámbito laboral. CCL
 **CC**
-CE 4.3. Comprender los aspectos básicos de la relación laboral, incluyendo tipos de contrato, nómina y seguridad social.
+CE
+
+**4.3.** Comprender los aspectos básicos de la relación laboral, incluyendo tipos de contrato, nómina y seguridad social.
 **CCL**
 STEM CE CPSAA
 
-4.4. Identificar las principales prestaciones y trámites derivados de la suspensión y extinción de la relación laboral.
+**4.4.** Identificar las principales prestaciones y trámites derivados de la suspensión y extinción de la relación laboral.
 **CCL**
 CPSAA
 **CC**
-CE 4.5. Conocer las subvenciones, ayudas y programas para el fomento del empleo de las personas con discapacidad intelectual.
+CE
+
+**4.5.** Conocer las subvenciones, ayudas y programas para el fomento del empleo de las personas con discapacidad intelectual.
 **CCL**
 **CD**
 CPSAA
 **CC**
 CE Explicación del bloque competencial:
-Este bloque competencial está diseñado para empoderar al alumnado con el conocimiento necesario sobre la estructura y funcionamiento de las empresas, así como sobre su propio puesto de trabajo. El conocimiento de la estructura empresarial les permitirá ubicarse en el contexto laboral, comprender cómo su trabajo contribuye al funcionamiento general de la organización y enfrentarse con éxito a las tareas encomendadas. La propuesta didáctica irá dirigida a conocer y entender cómo es el funcionamiento de una empresa, su estructura, las características de su puesto de trabajo, aspectos legales y éticos del trabajo, garantizando que el alumnado entienda sus derechos y deberes como empleados, los documentos propios del ámbito laboral como el contrato, la nómina o la relevancia de la Seguridad  Social en la protección de las personas trabajadoras. Por otra parte, se trabajarán las iniciativas para el fomento del empleo de las personas con discapacidad, los programas de empleo protegido, con el fin de facilitar su adaptación e inclusión  en el entorno laboral. Competencia específica 5:  Demostrar habilidades personales y sociales que faciliten la búsqueda de empleo, la continuidad y  el crecimiento profesional en un entorno laboral cambiante. Criterios de evaluación Competencias clave 5.1. Conocer y analizar la importancia de desarrollar la inteligencia emocional y fortalecer las habilidades blandas para el adecuado desempeño profesional. STEM
+Este bloque competencial está diseñado para empoderar al alumnado con el conocimiento necesario sobre la estructura y funcionamiento de las empresas, así como sobre su propio puesto de trabajo. El conocimiento de la estructura empresarial les permitirá ubicarse en el contexto laboral, comprender cómo su trabajo contribuye al funcionamiento general de la organización y enfrentarse con éxito a las tareas encomendadas. La propuesta didáctica irá dirigida a conocer y entender cómo es el funcionamiento de una empresa, su estructura, las características de su puesto de trabajo, aspectos legales y éticos del trabajo, garantizando que el alumnado entienda sus derechos y deberes como empleados, los documentos propios del ámbito laboral como el contrato, la nómina o la relevancia de la Seguridad Social en la protección de las personas trabajadoras. Por otra parte, se trabajarán las iniciativas para el fomento del empleo de las personas con discapacidad, los programas de empleo protegido, con el fin de facilitar su adaptación e inclusión en el entorno laboral. Competencia específica 5: Demostrar habilidades personales y sociales que faciliten la búsqueda de empleo, la continuidad y el crecimiento profesional en un entorno laboral cambiante. Criterios de evaluación Competencias clave
+
+**5.1.** Conocer y analizar la importancia de desarrollar la inteligencia emocional y fortalecer las habilidades blandas para el adecuado desempeño profesional. STEM
 **CC**
-CE CCEC 5.2. Aplicar habilidades efectivas de trabajo en equipo, participando de manera activa  y  respetuosa  en  actividades  grupales,  mostrando  habilidades  de colaboración, comunicación y resolución de conflictos en el entorno laboral simulado o real.
+CE CCEC
+
+**5.2.** Aplicar habilidades efectivas de trabajo en equipo, participando de manera activa y respetuosa en actividades grupales, mostrando habilidades de colaboración, comunicación y resolución de conflictos en el entorno laboral simulado o real.
 **CCL**
 CP CPSAA
 **CC**
-CE CCEC 5.3.  Mostrar  habilidades  de  adaptación  y  flexibilidad  ante  cambios  en  el entorno, mostrando disposición para aprender y afrontar nuevas situaciones
+CE CCEC
+
+**5.3.** Mostrar habilidades de adaptación y flexibilidad ante cambios en el entorno, mostrando disposición para aprender y afrontar nuevas situaciones
 **CCL**
-CP CPSAA 3.2. Reconocer la importancia del aprendizaje permanente, para el desarrollo profesional de propias y nuevas competencias, como factor clave para el empleo y la adaptación al cambio.
+CP CPSAA
+
+**3.2.** Reconocer la importancia del aprendizaje permanente, para el desarrollo profesional de propias y nuevas competencias, como factor clave para el empleo y la adaptación al cambio.
 **CCL**
 STEM
 **CD**
-CPSAA CE 3.3.  Utilizar  herramientas  y  fuentes  de  información  para  una  búsqueda  de empleo activa utilizando portales de empleo y redes sociales.
+CPSAA CE
+
+**3.3.** Utilizar herramientas y fuentes de información para una búsqueda de empleo activa utilizando portales de empleo y redes sociales.
 **CCL**
 **CD**
-CPSAA CE 3.4.  Elaborar  un  plan  de  búsqueda  de  empleo  que  contemple  estrategias  y recursos  específicos  (análisis  de  ofertas  de  empleo,  cartas  de  presentación, Currículum  Vitae,  entrevistas  de  trabajo,  entre  otros)  promoviendo  una autoestima positiva que facilite el acceso al mercado laboral.
+CPSAA CE
+
+**3.4.** Elaborar un plan de búsqueda de empleo que contemple estrategias y recursos específicos (análisis de ofertas de empleo, cartas de presentación, Currículum Vitae, entrevistas de trabajo, entre otros) promoviendo una autoestima positiva que facilite el acceso al mercado laboral.
 **CCL**
 **CD**
 CPSAA CE Explicación del bloque competencial:
-Este bloque capacitará al alumnado para la búsqueda activa de empleo, destacando la importancia de las herramientas digitales y las redes sociales en este proceso. La intervención didáctica que se proponga acercará  al  alumnado  al  análisis  crítico  de  ofertas  de  empleo  y  a  la  generación  de  ideas  para  el emprendimiento, fomentando una mentalidad proactiva. Además, se les guiará en las estrategias a seguir para la búsqueda de empleo, la elaboración de un Currículum Vitae, cartas de presentación y a afrontar la entrevista de trabajo con confianza y preparación, exponiendo sus habilidades y experiencias de manera convincente. Competencia específica 4: Comprender la estructura organizativa de una empresa, las características del puesto de trabajo, los derechos y deberes derivados de la relación laboral y las iniciativas para el fomento del empleo de las personas con discapacidad, con el fin de facilitar su adaptación e inclusión  en el entorno laboral. Criterios de evaluación Competencias clave 4.1. Conocer la estructura de una empresa y las características del puesto de trabajo que puede desempeñar.
+Este bloque capacitará al alumnado para la búsqueda activa de empleo, destacando la importancia de las herramientas digitales y las redes sociales en este proceso. La intervención didáctica que se proponga acercará al alumnado al análisis crítico de ofertas de empleo y a la generación de ideas para el emprendimiento, fomentando una mentalidad proactiva. Además, se les guiará en las estrategias a seguir para la búsqueda de empleo, la elaboración de un Currículum Vitae, cartas de presentación y a afrontar la entrevista de trabajo con confianza y preparación, exponiendo sus habilidades y experiencias de manera convincente. Competencia específica 4: Comprender la estructura organizativa de una empresa, las características del puesto de trabajo, los derechos y deberes derivados de la relación laboral y las iniciativas para el fomento del empleo de las personas con discapacidad, con el fin de facilitar su adaptación e inclusión en el entorno laboral. Criterios de evaluación Competencias clave
+
+**4.1.** Conocer la estructura de una empresa y las características del puesto de trabajo que puede desempeñar.
 **CCL**
 STEM
 **CC**
 CE Identificar los derechos y deberes en el ámbito laboral. CCL
 **CC**
-CE 4.3. Comprender los aspectos básicos de la relación laboral, incluyendo tipos de contrato, nómina y seguridad social.
+CE
+
+**4.3.** Comprender los aspectos básicos de la relación laboral, incluyendo tipos de contrato, nómina y seguridad social.
 **CCL**
 STEM CE CPSAA con apoyo y estrategias adecuadas.
 **CC**
-CE CCEC 5.4.   Adoptar   decisiones  respetuosas  y  asertivas  para  la  resolución  de problemas en situaciones de trabajo simuladas y reales. CP CPSAA
+CE CCEC
+
+**5.4.** Adoptar decisiones respetuosas y asertivas para la resolución de problemas en situaciones de trabajo simuladas y reales. CP CPSAA
 **CC**
-CE CCEC 5.5. Planificar y gestionar el tiempo destinado a las actividades encomendadas en el entorno laboral, aprendiendo a respetar el ambiente de trabajo, rutinas y momentos  de  descanso,  priorizando  el  orden  de  ejecución  de  las  tareas  y cumpliendo con los plazos establecidos.
+CE CCEC
+
+**5.5.** Planificar y gestionar el tiempo destinado a las actividades encomendadas en el entorno laboral, aprendiendo a respetar el ambiente de trabajo, rutinas y momentos de descanso, priorizando el orden de ejecución de las tareas y cumpliendo con los plazos establecidos.
 **CCL**
 **CD**
 CPSAA CE Explicación del bloque competencial:
-Este bloque competencial se centra en el desarrollo de habilidades blandas que son fundamentales para el desempeño de las actividades laborales propiamente dichas, complementan las habilidades técnicas  y profesionales, que son cada vez más valoradas por las empresas, ya que impactan dire ctamente en la colaboración, la productividad y el ambiente de trabajo. En las situaciones de aprendizaje se fomentará el desarrollo de habilidades sociales esenciales, como la comunicación efectiva, tanto verbal como no verbal, comprender a los demás y fortalecer sus relaciones en el entorno laboral. Asimismo, se emplearán estrategias para el trabajo en equipo, promoviendo la colaboración y el respeto, habilidades fundamentales para una integración exitosa en distintos ámbitos profesionales. Se fomentará la colaboración entre compañeros y compañeras, promoviendo la adaptación a diferentes grupos y el respeto por distintas formas de pensar y actuar. Se trabajará el desarrollo de estrategias para resolver  problemas  de  manera  sencilla  y  con  confianza,  utilizando  el  razonamiento  lógico  y  la creatividad.  Además,  se  brindarán  apoyos  para  mejorar  la  organización  y  la  gestión  del  tiempo, ayudándoles a planificar sus tareas de forma estructurada y a cumplir con sus responsabilidades en el entorno laboral. En conjunto, el aprendizaje de estas habilidades facilitará que el alumnado pueda desenvolverse con mayor autonomía y seguridad en cualquier entorno profesional.
+Este bloque competencial se centra en el desarrollo de habilidades blandas que son fundamentales para el desempeño de las actividades laborales propiamente dichas, complementan las habilidades técnicas y profesionales, que son cada vez más valoradas por las empresas, ya que impactan dire ctamente en la colaboración, la productividad y el ambiente de trabajo. En las situaciones de aprendizaje se fomentará el desarrollo de habilidades sociales esenciales, como la comunicación efectiva, tanto verbal como no verbal, comprender a los demás y fortalecer sus relaciones en el entorno laboral. Asimismo, se emplearán estrategias para el trabajo en equipo, promoviendo la colaboración y el respeto, habilidades fundamentales para una integración exitosa en distintos ámbitos profesionales. Se fomentará la colaboración entre compañeros y compañeras, promoviendo la adaptación a diferentes grupos y el respeto por distintas formas de pensar y actuar. Se trabajará el desarrollo de estrategias para resolver problemas de manera sencilla y con confianza, utilizando el razonamiento lógico y la creatividad. Además, se brindarán apoyos para mejorar la organización y la gestión del tiempo, ayudándoles a planificar sus tareas de forma estructurada y a cumplir con sus responsabilidades en el entorno laboral. En conjunto, el aprendizaje de estas habilidades facilitará que el alumnado pueda desenvolverse con mayor autonomía y seguridad en cualquier entorno profesional.
 
 con apoyo y estrategias adecuadas.
 **CC**
-CE CCEC 5.4.   Adoptar   decisiones  respetuosas  y  asertivas  para  la  resolución  de problemas en situaciones de trabajo simuladas y reales. CP CPSAA
-**CC**
-CE CCEC 5.5. Planificar y gestionar el tiempo destinado a las actividades encomendadas en el entorno laboral, aprendiendo a respetar el ambiente de trabajo, rutinas y momentos  de  descanso,  priorizando  el  orden  de  ejecución  de  las  tareas  y cumpliendo con los plazos establecidos.
-**CCL**
-**CD**
-CPSAA CE Explicación del bloque competencial:
-Este bloque competencial se centra en el desarrollo de habilidades blandas que son fundamentales para el desempeño de las actividades laborales propiamente dichas, complementan las habilidades técnicas  y profesionales, que son cada vez más valoradas por las empresas, ya que impactan dire ctamente en la colaboración, la productividad y el ambiente de trabajo. En las situaciones de aprendizaje se fomentará el desarrollo de habilidades sociales esenciales, como la comunicación efectiva, tanto verbal como no verbal, comprender a los demás y fortalecer sus relaciones en el entorno laboral. Asimismo, se emplearán estrategias para el trabajo en equipo, promoviendo la colaboración y el respeto, habilidades fundamentales para una integración exitosa en distintos ámbitos profesionales. Se fomentará la colaboración entre compañeros y compañeras, promoviendo la adaptación a diferentes grupos y el respeto por distintas formas de pensar y actuar. Se trabajará el desarrollo de estrategias para resolver  problemas  de  manera  sencilla  y  con  confianza,  utilizando  el  razonamiento  lógico  y  la creatividad.  Además,  se  brindarán  apoyos  para  mejorar  la  organización  y  la  gestión  del  tiempo, ayudándoles a planificar sus tareas de forma estructurada y a cumplir con sus responsabilidades en el entorno laboral. En conjunto, el aprendizaje de estas habilidades facilitará que el alumnado pueda desenvolverse con mayor autonomía y seguridad en cualquier entorno profesional.
+CE CCEC
 
 8. Saberes básicos propios del ámbito de Prevención y orientación profesional. Los saberes básicos del ámbito se nutren de los conocimientos, habilidades y actitudes relacionadas con la competencia personal, social y aprender a aprender así como con el desarrollo de la competencia ciudadana y emprendedora. El ámbito de Prevención y orientación profesional se caracteriza por su transversalidad, debiendo integrarse con los saberes de los restantes bloques. BLOQUE E. PREVENCIÓN DE RIESGOS LABORALES I. Prevención y salud laboral
 • El trabajo y la salud. Principios y conceptos básicos de prevención.
 • Riesgos profesionales. Identificación de factores de riesgo en el entorno laboral que pueden afectar la salud y seguridad de los trabajadores.
 • Marco normativo básico sobre prevención de riesgos laborales. Normativa que regula la prevención de riesgos laborales, incluyendo derechos y deberes en relación con la seguridad y salud en el trabajo.
-• Diferencias  entre  riesgo  y  daño  profesional.  Definiciones  y  características  que  distinguen  los conceptos de riesgo y daño en el contexto laboral, así como su impacto en la salud y seguridad de los trabajadores.
-• Daños  derivados  del  trabajo.  Los  accidentes  de  trabajo  y  las  enfermedades  profesionales:
+• Diferencias entre riesgo y daño profesional. Definiciones y características que distinguen los conceptos de riesgo y daño en el contexto laboral, así como su impacto en la salud y seguridad de los trabajadores.
+• Daños derivados del trabajo. Los accidentes de trabajo y las enfermedades profesionales:
 conceptos, dimensiones del problema y otras patologías derivadas de la actividad laboral.
 • Análisis de los tipos de riesgos laborales y sus posibles consecuencias, con especial atención a los accidentes de trabajo y enfermedades profesionales del perfil profesional.
-• Riesgos  relacionados  con  las  condiciones  de  seguridad.  Riesgos  relacionados  con  el  medio ambiente de trabajo, riesgos psicosociales, entre otros.
+• Riesgos relacionados con las condiciones de seguridad. Riesgos relacionados con el medio ambiente de trabajo, riesgos psicosociales, entre otros.
 • Medidas de prevención y protección frente a riesgos laborales y medioambientales que garanticen un entorno de trabajo seguro y sostenible. Protección colectiva e individual.
 • Planes de emergencia y evacuación.
 • El control de la salud de los trabajadores.
@@ -791,10 +960,10 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 • Gestión y organización del trabajo preventivo. Rutinas básicas.
 • Documentación a la que está obligada la empresa: recogida, elaboración y archivo.
 • Aplicación de principios básicos de higiene personal: las normas y los hábitos de higiene personal necesarios para mantener la salud y prevenir riesgos en el entorno laboral.
-• Técnicas  básicas  de  primeros  auxilios  en  situaciones  de  emergencia.  Procedimientos  para  la atención inicial ante accidentes y emergencias en el lugar de trabajo. El botiquín. BLOQUE F. ORIENTACIÓN PROFESIONAL I. Proyecto de vida personal y laboral.
+• Técnicas básicas de primeros auxilios en situaciones de emergencia. Procedimientos para la atención inicial ante accidentes y emergencias en el lugar de trabajo. El botiquín. BLOQUE F. ORIENTACIÓN PROFESIONAL I. Proyecto de vida personal y laboral.
 • Intereses, motivaciones, habilidades, destrezas, metas personales y profesionales.
 • Cualidades y competencias personales afines al perfil profesional.
-• Identificación  de  oportunidades  de  formación  y  desarrollo  profesional.  Reconocimiento  y evaluación de programas, cursos y recursos educativos que faciliten el crecimiento profesional y personal, orientados a la mejora de habilidades y la ampliación de perspectivas laborales.
+• Identificación de oportunidades de formación y desarrollo profesional. Reconocimiento y evaluación de programas, cursos y recursos educativos que faciliten el crecimiento profesional y personal, orientados a la mejora de habilidades y la ampliación de perspectivas laborales.
 • La formación permanente para la empleabilidad.
 • Oportunidades de empleo.
 • Ajustes y apoyos necesarios para alcanzar los intereses profesionales y personales.
@@ -803,11 +972,11 @@ BLOQUE E. PREVENCIÓN DE RIESGOS LABORALES I. Prevención y salud laboral
 • El trabajo y la salud. Principios y conceptos básicos de prevención.
 • Riesgos profesionales. Identificación de factores de riesgo en el entorno laboral que pueden afectar la salud y seguridad de los trabajadores.
 • Marco normativo básico sobre prevención de riesgos laborales. Normativa que regula la prevención de riesgos laborales, incluyendo derechos y deberes en relación con la seguridad y salud en el trabajo.
-• Diferencias  entre  riesgo  y  daño  profesional.  Definiciones  y  características  que  distinguen  los conceptos de riesgo y daño en el contexto laboral, así como su impacto en la salud y seguridad de los trabajadores.
-• Daños  derivados  del  trabajo.  Los  accidentes  de  trabajo  y  las  enfermedades  profesionales:
+• Diferencias entre riesgo y daño profesional. Definiciones y características que distinguen los conceptos de riesgo y daño en el contexto laboral, así como su impacto en la salud y seguridad de los trabajadores.
+• Daños derivados del trabajo. Los accidentes de trabajo y las enfermedades profesionales:
 conceptos, dimensiones del problema y otras patologías derivadas de la actividad laboral.
 • Análisis de los tipos de riesgos laborales y sus posibles consecuencias, con especial atención a los accidentes de trabajo y enfermedades profesionales del perfil profesional.
-• Riesgos  relacionados  con  las  condiciones  de  seguridad.  Riesgos  relacionados  con  el  medio ambiente de trabajo, riesgos psicosociales, entre otros.
+• Riesgos relacionados con las condiciones de seguridad. Riesgos relacionados con el medio ambiente de trabajo, riesgos psicosociales, entre otros.
 • Medidas de prevención y protección frente a riesgos laborales y medioambientales que garanticen un entorno de trabajo seguro y sostenible. Protección colectiva e individual.
 • Planes de emergencia y evacuación.
 • El control de la salud de los trabajadores.
@@ -815,10 +984,10 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 • Gestión y organización del trabajo preventivo. Rutinas básicas.
 • Documentación a la que está obligada la empresa: recogida, elaboración y archivo.
 • Aplicación de principios básicos de higiene personal: las normas y los hábitos de higiene personal necesarios para mantener la salud y prevenir riesgos en el entorno laboral.
-• Técnicas  básicas  de  primeros  auxilios  en  situaciones  de  emergencia.  Procedimientos  para  la atención inicial ante accidentes y emergencias en el lugar de trabajo. El botiquín. BLOQUE F. ORIENTACIÓN PROFESIONAL I. Proyecto de vida personal y laboral.
+• Técnicas básicas de primeros auxilios en situaciones de emergencia. Procedimientos para la atención inicial ante accidentes y emergencias en el lugar de trabajo. El botiquín. BLOQUE F. ORIENTACIÓN PROFESIONAL I. Proyecto de vida personal y laboral.
 • Intereses, motivaciones, habilidades, destrezas, metas personales y profesionales.
 • Cualidades y competencias personales afines al perfil profesional.
-• Identificación  de  oportunidades  de  formación  y  desarrollo  profesional.  Reconocimiento  y evaluación de programas, cursos y recursos educativos que faciliten el crecimiento profesional y personal, orientados a la mejora de habilidades y la ampliación de perspectivas laborales.
+• Identificación de oportunidades de formación y desarrollo profesional. Reconocimiento y evaluación de programas, cursos y recursos educativos que faciliten el crecimiento profesional y personal, orientados a la mejora de habilidades y la ampliación de perspectivas laborales.
 • La formación permanente para la empleabilidad.
 • Oportunidades de empleo.
 • Ajustes y apoyos necesarios para alcanzar los intereses profesionales y personales.
@@ -826,9 +995,9 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 • Toma de decisiones informadas sobre el futuro laboral. Estrategias para analizar y seleccionar opciones relacionadas con la carrera profesional.
 • Elaboración de un proyecto de vida personal, laboral y profesional. II. Búsqueda activa de empleo
 • Autoempleo y emprendimiento.
-• Iniciativas  emprendedoras:  propuestas  y  evaluación  de  proyectos  de  emprendimiento  e intraemprendimiento.
+• Iniciativas emprendedoras: propuestas y evaluación de proyectos de emprendimiento e intraemprendimiento.
 • La autoestima en el proceso de búsqueda de empleo.
-• Investigación  de  portales  de  empleo  y  redes  sociales:  búsqueda  de  oportunidades  laborales utilizando herramientas digitales y plataformas de empleo.
+• Investigación de portales de empleo y redes sociales: búsqueda de oportunidades laborales utilizando herramientas digitales y plataformas de empleo.
 • Análisis y evaluación de ofertas de empleo disponibles. Identificación de requisitos y oportunidades.
 • Planificación de la búsqueda de empleo: métodos, recursos y acciones específicas.
 • Diseño y elaboración de Currículum Vitae adaptado a las características de las ofertas.
@@ -852,9 +1021,9 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 • Toma de decisiones informadas sobre el futuro laboral. Estrategias para analizar y seleccionar opciones relacionadas con la carrera profesional.
 • Elaboración de un proyecto de vida personal, laboral y profesional. II. Búsqueda activa de empleo
 • Autoempleo y emprendimiento.
-• Iniciativas  emprendedoras:  propuestas  y  evaluación  de  proyectos  de  emprendimiento  e intraemprendimiento.
+• Iniciativas emprendedoras: propuestas y evaluación de proyectos de emprendimiento e intraemprendimiento.
 • La autoestima en el proceso de búsqueda de empleo.
-• Investigación  de  portales  de  empleo  y  redes  sociales:  búsqueda  de  oportunidades  laborales utilizando herramientas digitales y plataformas de empleo.
+• Investigación de portales de empleo y redes sociales: búsqueda de oportunidades laborales utilizando herramientas digitales y plataformas de empleo.
 • Análisis y evaluación de ofertas de empleo disponibles. Identificación de requisitos y oportunidades.
 • Planificación de la búsqueda de empleo: métodos, recursos y acciones específicas.
 • Diseño y elaboración de Currículum Vitae adaptado a las características de las ofertas.
@@ -876,77 +1045,61 @@ conceptos, dimensiones del problema y otras patologías derivadas de la activida
 • Habilidades de adaptabilidad y flexibilidad ante el cambio: ajuste de ideas, enfoques, métodos de trabajo y espacios según las necesidades y cambios del entorno laboral.
 • Resolución de problemas: toma de decisiones efectivas y respetuosas en situaciones de trabajo simuladas o reales, buscando soluciones que beneficien al equipo y el entorno laboral.
 • Pensamiento crítico y creatividad: aplicación de habilidades cognitivas para analizar problemas y generar soluciones innovadoras.
-• Gestión  del  tiempo:  Priorización  de  tareas  y  cumplimiento  con  los  plazos  establecidos  en actividades laborales y de búsqueda de empleo.
+• Gestión del tiempo: Priorización de tareas y cumplimiento con los plazos establecidos en actividades laborales y de búsqueda de empleo.
 
 ## Anexo III
 
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (ADG305_1) (RD 107/2008, de 1 de febrero1) Certificado profesional: Operaciones auxiliares administrativas y generales (ADGG0408) Distribución horaria semanal por curso. Operaciones auxiliares de servicios administrativos y generales Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito  de  Comunicación  y  competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0969_1 Técnicas  administrativas  básicas  de oficina 180 5 MF0970_1 Operaciones básicas de comunicación 145 4 MF0971_1 Reproducción y archivo 145 4 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo CCCV  , p. 9383 del BOE núm. 44.
+FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (ADG305_1) (RD 107/2008, de 1 de febrero1) Certificado profesional: Operaciones auxiliares administrativas y generales (ADGG0408) Distribución horaria semanal por curso. Operaciones auxiliares de servicios administrativos y generales Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0969_1 Técnicas administrativas básicas de oficina 180 5 MF0970_1 Operaciones básicas de comunicación 145 4 MF0971_1 Reproducción y archivo 145 4 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 1 Anexo CCCV , p. 9383 del BOE núm. 44.
 
 ## Anexo III
 
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES AUXILIARES DE SERVICIOS ADMINISTRATIVOS Y GENERALES (ADG305_1) (RD 107/2008, de 1 de febrero1)
+## Anexo IV
+
+FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (ADG306_1) (RD 107/2008, de 1 de febrero2) Certificado profesional: Operaciones de grabación y tratamiento de datos y documentos (ADGG0508) Distribución horaria semanal por curso. Operaciones de grabación y tratamiento de datos y documentos Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0971_1 Reproducción y archivo 145 4 MF0973_1 Grabación de datos 145 4 MF0974_1 Tratamiento de datos, textos y documentación 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 2 Anexo CCCVI , p. 9382 del BOE núm. 44.
 
 ## Anexo IV
 
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (ADG306_1) (RD 107/2008, de 1 de febrero2) Certificado profesional: Operaciones de grabación y tratamiento de datos y documentos (ADGG0508) Distribución horaria semanal por curso. Operaciones de grabación y tratamiento de datos y documentos Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0971_1 Reproducción y archivo 145 4 MF0973_1 Grabación de datos 145 4 MF0974_1 Tratamiento de datos, textos y documentación 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 2 Anexo CCCVI  , p. 9382 del BOE núm. 44.
+## Anexo V
 
-## Anexo IV
-
-FAMILIA PROFESIONAL: ADMINISTRACIÓN Y GESTIÓN OPERACIONES DE GRABACIÓN Y TRATAMIENTO DE DATOS Y DOCUMENTOS (ADG306_1) (RD 107/2008, de 1 de febrero2)
+FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) (RD 108/2008, de 1 de febrero3) Certificado profesional: Actividades auxiliares en floristería (AGAJ0108) Distribución horaria semanal por curso. Actividades auxiliares en floristería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1112_1 Operaciones auxiliares de mantenimiento de instalaciones, maquinaria, equipos y herramientas de floristería MF1113_1 Recepción y acondicionamiento de materias primas y materiales de floristería 140 4 MF1114_1 Trabajos auxiliares en la elaboración de composiciones con flores y plantas 140 4 MF1115_1 Servicios básicos de floristería y atención al público 115 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 3 Anexo CCCXLII , p. 9517 del BOE núm. 44.
 
 ## Anexo V
 
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) (RD 108/2008, de 1 de febrero3) Certificado profesional: Actividades auxiliares en floristería (AGAJ0108) Distribución horaria semanal por curso. Actividades auxiliares en floristería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF1112_1 Operaciones auxiliares de mantenimiento de instalaciones,  maquinaria,  equipos  y herramientas de floristería MF1113_1 Recepción  y  acondicionamiento  de  materias primas y materiales de floristería 140 4 MF1114_1 Trabajos  auxiliares  en  la  elaboración  de composiciones con flores y plantas 140 4 MF1115_1 Servicios básicos de floristería y atención al público 115 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 3 Anexo CCCXLII  , p. 9517 del BOE núm. 44.
+## Anexo VI
 
-## Anexo V
-
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN FLORISTERÍA (AGA342_1) (RD 108/2008, de 1 de febrero3)
+FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA (AGA164_1) (RD 1228/2006, de 27 de octubre4) Certificado profesional: Actividades auxiliares en viveros, jardines y centros de jardinería (AGAO0108) Distribución horaria semanal por curso. Actividades auxiliares en viveros, jardines y centros de jardinería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0520_1 Operaciones básicas en viveros y centros de jardinería 180 5 MF0521_1 Operaciones básicas para la instalación de jardines, parques y zonas verdes 180 5 MF0522_1 Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 4 Anexo CLXIV , p.10 del Suplemento del BOE núm. 3.
 
 ## Anexo VI
 
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA (AGA164_1) (RD 1228/2006, de 27 de octubre4) Certificado profesional: Actividades auxiliares en viveros, jardines y centros de jardinería (AGAO0108) Distribución horaria semanal por curso. Actividades auxiliares en viveros, jardines y centros de jardinería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0520_1 Operaciones básicas en viveros y centros de jardinería 180 5 MF0521_1 Operaciones  básicas  para  la  instalación  de jardines, parques y zonas verdes 180 5 MF0522_1 Operaciones básicas para el mantenimiento de jardines, parques y zonas verdes 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 4 Anexo CLXIV  , p.10 del Suplemento del BOE núm. 3.
+## Anexo VII
 
-## Anexo VI
-
-FAMILIA PROFESIONAL: AGRARIA ACTIVIDADES AUXILIARES EN VIVEROS, JARDINES Y CENTROS DE JARDINERÍA (AGA164_1) (RD 1228/2006, de 27 de octubre4)
+FAMILIA PROFESIONAL: COMERCIO Y MARKETING ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) (Orden EFP/63/2021, de 21 de enero5) Certificado profesional: Actividades auxiliares de comercio (COMT0211) Distribución horaria semanal por curso. Actividades auxiliares de comercio Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF1326_1 Preparación de pedidos 70 2 MF1327_1 Operaciones auxiliares en el punto de venta 180 5 MF1328_1 Manipulación y movimientos con transpalés y carretillas de mano 110 3 MF1329_1 Atención básica al cliente 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 5 A nexo VIII , Sec. I, p. 9084 del BOE núm. 25.
 
 ## Anexo VII
 
-FAMILIA PROFESIONAL: COMERCIO Y MARKETING ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) (Orden EFP/63/2021, de 21 de enero5) Certificado profesional: Actividades auxiliares de comercio (COMT0211) Distribución horaria semanal por curso. Actividades auxiliares de comercio Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF1326_1 Preparación de pedidos 70 2 MF1327_1 Operaciones auxiliares en el punto de venta 180 5 MF1328_1 Manipulación y movimientos con transpalés y carretillas de mano 110 3 MF1329_1 Atención básica al cliente 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 5 A  nexo   VIII  , Sec. I, p. 9084 del BOE núm. 25.
+## Anexo VIII
 
-## Anexo VII
-
-FAMILIA PROFESIONAL: COMERCIO Y MARKETING ACTIVIDADES AUXILIARES DE COMERCIO (COM412_1) (Orden EFP/63/2021, de 21 de enero5)
+FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) (RD 295/2004, de 20 de febrero de 20076) Certificado profesional: Operaciones básicas de restaurante y bar (HOTR0208) Distribución horaria semanal por curso. Operaciones básicas de restaurante y bar Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0257_1 Servicio básico de restaurante-bar 255 7 MF0258_1 Aprovisionamiento, bebidas y comidas rápidas 215 6 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 6 Anexo XCII , p. 745 del Suplemento del BOE del núm. 59.
 
 ## Anexo VIII
 
-FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) (RD 295/2004, de 20 de febrero de 20076) Certificado profesional: Operaciones básicas de restaurante y bar (HOTR0208) Distribución horaria semanal por curso. Operaciones básicas de restaurante y bar Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0257_1 Servicio básico de restaurante-bar 255 7 MF0258_1 Aprovisionamiento, bebidas y comidas rápidas 215 6 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 6 Anexo XCII  , p. 745 del Suplemento del BOE del núm. 59.
+## Anexo IX
 
-## Anexo VIII
-
-FAMILIA PROFESIONAL: HOSTELERÍA Y TURISMO OPERACIONES BÁSICAS DE RESTAURANTE Y BAR (HOT092_1) (RD 295/2004, de 20 de febrero de 20076)
+FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) (RD 1087/2005, de 16 de septiembre7) Certificado profesional: Servicios auxiliares de estética (IMPE0108) Distribución horaria semanal por curso. Servicios auxiliares de estética Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0343_1 Higiene y seguridad aplicadas en centros de belleza 70 2 MF0344_1 Cuidados estéticos básicos de uñas 110 3 MF0345_1 Depilación mecánica y decoloración del vello 180 5 MF0346_1 Maquillaje de día 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 7 Anexo CXVIII , p. 255 del Suplemento del BOE del núm. 238.
 
 ## Anexo IX
 
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) (RD 1087/2005, de 16 de septiembre7) Certificado profesional: Servicios auxiliares de estética (IMPE0108) Distribución horaria semanal por curso. Servicios auxiliares de estética Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0343_1 Higiene y seguridad aplicadas en centros de belleza 70 2 MF0344_1 Cuidados estéticos básicos de uñas 110 3 MF0345_1 Depilación mecánica y decoloración del vello 180 5 MF0346_1 Maquillaje de día 110 3 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 7 Anexo CXVIII  , p. 255 del Suplemento del BOE del núm. 238.
-
-## Anexo IX
-
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE ESTÉTICA (IMP118_1) (RD 1087/2005, de 16 de septiembre7)
-
 ## Anexo X
 
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) (RD 295/2004, de 20 de febrero8) Certificado profesional: Servicios auxiliares de peluquería (IMPQ0108) Distribución horaria semanal por curso. Servicios auxiliares de peluquería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito  de  Ciencias  aplicadas  y  competencia lógica 110 3 Ámbito  de  Prevención  y  orientación profesional 145 4 Módulos profesionales MF0058_1 Higiene y asepsia aplicadas a peluquería 110 3 MF0059_1 Montajes para cambios de forma e inicio del peinado 180 5 MF0060_1 Aplicación de cosméticos para los cambios de color del cabello 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 8 Anexo XXII  , p. 164 del Suplemento del BOE del núm. 59.
+FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) (RD 295/2004, de 20 de febrero8) Certificado profesional: Servicios auxiliares de peluquería (IMPQ0108) Distribución horaria semanal por curso. Servicios auxiliares de peluquería Ámbitos Código Real Decreto Denominación del módulo Duración horas anuales 1er Curso 35 semanas (h/s) Módulos de carácter general Ámbito de Comunicación y competencia social 145 4 Ámbito de Ciencias aplicadas y competencia lógica 110 3 Ámbito de Prevención y orientación profesional 145 4 Módulos profesionales MF0058_1 Higiene y asepsia aplicadas a peluquería 110 3 MF0059_1 Montajes para cambios de forma e inicio del peinado 180 5 MF0060_1 Aplicación de cosméticos para los cambios de color del cabello 180 5 Tutoría 35 1 DURACIÓN TOTAL DEL CURSO 905 25 8 Anexo XXII , p. 164 del Suplemento del BOE del núm. 59.
 
 ## Anexo X
-
-FAMILIA PROFESIONAL: IMAGEN PERSONAL SERVICIOS AUXILIARES DE PELUQUERÍA (IMP022_1) (RD 295/2004, de 20 de febrero8)
 
 ## Anexo XI
 
 D./Dña. _______________________________________________________________________________, Secretario/Secretaria del centro _____________________________________________________________, código ___________________ localidad _____________________________________________________, provincia de _______________________________ , en cumplimiento de lo establecido en los artículos 9.6.e) y 158 del [Real Decreto 659/2023](./R5_11_2024_dictan_instrucciones_orientaciones_formacion_dual_empresas.md), de 18 de julio, CERTIFICA:
-Que el/la alumno/alumna D./Dña. __________________________________________________________, con DNI/NIE n.º ______________________, con matrícula en el Itinerario Formativo (1) ________   denominado
-(2)  _________________________________________________,  regulado  por  la  Resolución  (3) _____________________________________________, ha cursado con aprovechamiento la formación en Pre vención de Riesgos Laborales con la competencia específica y saberes básicos que se especifican en el reverso de la presente certificación. Y , para que conste y surta los efectos oportunos, expido el presente certificado en _____________________________, a _____ de ________________ de _________. Vº. Bº Director/Directora: Secretario/Secretaria:
+Que el/la alumno/alumna D./Dña. __________________________________________________________, con DNI/NIE n.º ______________________, con matrícula en el Itinerario Formativo (1) ________ denominado
+(2) _________________________________________________, regulado por la Resolución (3) _____________________________________________, ha cursado con aprovechamiento la formación en Pre vención de Riesgos Laborales con la competencia específica y saberes básicos que se especifican en el reverso de la presente certificación. Y , para que conste y surta los efectos oportunos, expido el presente certificado en _____________________________, a _____ de ________________ de _________. Vº. Bº Director/Directora: Secretario/Secretaria:
 Fdo:_________________________ Fdo:_______________________
 (1) IFE+16 o IFC+21.
 (2) Especificar el nombre del itinerario correspondiente.

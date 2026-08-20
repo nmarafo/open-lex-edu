@@ -38,8 +38,6 @@ Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -68,8 +66,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 104
@@ -84,7 +80,7 @@ Histórico del BOJA Boletín número 104 de 02/06/2023
 
 Acuerdo de 29 de mayo de 2023, del Consejo de Gobierno, por el que se aprueba la formulación de la I Estrategia Cloud de Andalucía 2030.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00284641.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00284641.
 
 Vivimos en un momento en el que la globalización y las tecnologías digitales están transformando radicalmente la vida diaria de las personas y el modo en que la sociedad se organiza a nivel mundial. Los cambios más relevantes y de mayor impacto que se han producido en las últimas décadas en nuestra sociedad son fruto de una revolución tecnológica sin precedentes, que ha cambiado nuestra forma de ver y entender el mundo, modificando las reglas en los ámbitos económico, social y político. Este nuevo escenario no es sólo fruto del proceso de digitalización en el que estamos inmersos, pero son las tecnologías de la información y la comunicación (TIC) las que están habilitando las principales transformaciones.
 
@@ -227,4 +223,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

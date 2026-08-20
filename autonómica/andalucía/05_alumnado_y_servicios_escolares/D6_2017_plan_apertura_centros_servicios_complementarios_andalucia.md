@@ -41,7 +41,7 @@ Boletín Oficial de la Junta de Andalucía - Histórico del BOJA Boletín númer
 
 Consejería de Agricultura, Pesca y Desarrollo Rural Resolución de 18 de enero de 2017, de la Secretaría General Técnica, por la que se adjudica el puesto de trabajo de libre designación, convocado por Resolución que se cita.
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad  con CVE 00106184.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de Verificación de autenticidad con CVE 00106184.
 
 De conformidad con lo previsto en el artículo 25.1 de la Ley 6/1985, de 28 de noviembre, de Ordenación de la Función Pública de la Junta de Andalucía, visto lo dispuesto en el artículo 63 l.
 
@@ -59,17 +59,17 @@ Descargar PDF
 
 Disposición siguiente
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.1. Licitaciones públicas y adjudicaciones
+**5.1.** Licitaciones públicas y adjudicaciones
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 Descargar boletín nº 14 completo
 

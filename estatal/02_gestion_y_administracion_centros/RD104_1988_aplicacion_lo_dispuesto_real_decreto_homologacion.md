@@ -200,22 +200,6 @@ Títulos obtenidos
 
 19 / 19
 
-19 / 19
-
-19 / 19
-
-19 / 19
-
-19 / 19
-
-19 / 19
-
-19 / 19
-
-19 / 19
-
-19 / 19
-
 B. Relación de documentos que se adjuntan (1)
 
 Documentos
@@ -230,15 +214,7 @@ Título o diploma/Certificaciones de exámenes terminales (2)
 
 □
 
-□
-
-□
-
 Certificación académica de estudios extranjeros
-
-□
-
-□
 
 □
 
@@ -246,23 +222,11 @@ Libro de escolaridad/Certificación académica personal de estudios españoles (
 
 □
 
-□
-
-□
-
 Certificación acreditativa de nacionalidad/DNI/Libro de Familia (2)
 
 □
 
-□
-
-□
-
 Otros documentos de carácter académico
-
-□
-
-□
 
 □
 

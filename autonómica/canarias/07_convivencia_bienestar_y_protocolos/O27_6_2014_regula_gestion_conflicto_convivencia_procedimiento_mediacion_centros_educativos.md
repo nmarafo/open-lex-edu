@@ -95,8 +95,6 @@ públicas de Canarias para la gestión de las actuaciones policiales, dentro de 
 
 especial relevancia la información de quienes realizan dichas actuaciones.
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 11 de julio de 2014
 
 De conformidad con lo dispuesto en el Decreto 86/2011, de 8 de julio, del Presidente,
@@ -111,7 +109,7 @@ Por su parte, resulta aplicable de forma transitoria el Reglamento Orgánico de 
 
 extinta Consejería de Presidencia, Justicia y Seguridad, aprobado por Decreto 22/2008, de
 
-19 de febrero, conforme a lo establecido en la 
+19 de febrero, conforme a lo establecido en la
 
 #### disposición transitoria única del Decreto. 331/2011, de 22 de diciembre, por el que se aprueba el Reglamento Orgánico de la Conseje-
 
@@ -166,8 +164,6 @@ Pasarán a formar parte del Registro los datos de quienes, con independencia de 
 formen parte de los Cuerpos de las Policías Locales de Canarias y del Cuerpo General de la
 
 Policía Canaria.
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 11 de julio de 2014
 
@@ -237,15 +233,13 @@ ción de seguridad.
 
 los establecidos en el apartado anterior, los diplomas, las condecoraciones y distinciones, así
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 11 de julio de 2014
 
 como en general aquellas resoluciones o acuerdos administrativos que tengan relevancia en
 
 la vida profesional de las personas inscritas y resulten fehacientemente acreditados.
 
-3. El contenido de los datos se ajustará a la estructura del 
+3. El contenido de los datos se ajustará a la estructura del
 
 ## anexo d. el presente Decreto.
 
@@ -311,8 +305,6 @@ ro correspondiente al tratamiento de datos personales, conforme a la Ley Orgáni
 
 de 13 de diciembre, de Protección de Datos de Carácter Personal.
 
-https://sede.gobcan.es/cpji/boc
-
 Viernes 11 de julio de 2014
 
 #### Disposición Adicional Segunda. Identidad profesional única.
@@ -376,8 +368,6 @@ EL CONSEJERO DE ECONOMÍA,
 HACIENDA Y SEGURIDAD,
 
 Javier González Ortiz.
-
-https://sede.gobcan.es/cpji/boc
 
 Viernes 11 de julio de 2014
 
@@ -525,4 +515,4 @@ observaciones.
 
 CONTENIDO DE LA INSCRIPCIÓN EN EL REGISTRO DE LA POLICÍA CANARIA
 
-ANEXO
+## Anexo.

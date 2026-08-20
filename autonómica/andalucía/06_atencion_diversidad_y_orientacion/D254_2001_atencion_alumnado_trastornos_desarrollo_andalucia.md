@@ -43,8 +43,6 @@ title="Boletín completo - BOJA" type="application/atom+xml" rel="alternate"/> <
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -70,8 +68,6 @@ Fomento de la empleabilidad
 Renovar demanda de empleo
 
 Ofertas de empleo
-
-Más temas
 
 Más temas
 
@@ -150,13 +146,13 @@ Cuando una persona seleccionada para una actividad no pueda asistir, el Jefe del
 
 solicitante.
 
-1.5.5. Actos y procedimiento administrativos (30 horas). Objetivo: Adquirir conocimientos sobre las potestades de la Administración, los actos y el procedimiento administrativo general.
+**1.5.5.** Actos y procedimiento administrativos (30 horas). Objetivo: Adquirir conocimientos sobre las potestades de la Administración, los actos y el procedimiento administrativo general.
 
 Cursos programados: Uno.
 
 Fechas de realización: Del 6 de marzo al 4 de abril de 2002. Fecha límite solicitudes: 6 de febrero de 2002.
 
-1.5.6. Relación de servicio de los funcionarios públicos (30 horas).
+**1.5.6.** Relación de servicio de los funcionarios públicos (30 horas).
 
 Objetivo: Adquirir información actualizada sobre la Función Pública.
 
@@ -274,13 +270,13 @@ Sevilla, 14 de noviembre de 2001.- El Director General, Juan María Cornejo Lóp
 
 PLAN ANUAL DE FORMACION DE LA ESPA PARA EL EJERCICIO ACADEMICO
 
-1.1. Cursos para los Cuerpos de la Policía Local.
+**1.1.** Cursos para los Cuerpos de la Policía Local.
 
 Requisito general: Pertenecer a los Cuerpos de la Policía Local de Andalucía preferentemente como funcionario de carrera, excepto en los casos del curso de Ingreso y en los de
 
 Capacitación, cuando el alumno ingresa por una categoría diferente a la de Policía.
 
-1.1.1. Ingreso (1.390 horas).
+**1.1.1.** Ingreso (1.390 horas).
 
 Objetivo: Proporcionar una formación de base a los aspirantes a Policía.
 
@@ -288,11 +284,11 @@ Requisitos: Este curso forma parte del proceso de selección. Los participantes 
 
 Cursos programados: Uno (XXIII edición).
 
-Fechas de realización: Del 28.10.2002 al 26.9.2003.
+Fechas de realización: Del 28.10.2002 al
 
-Fecha límite solicitudes: 20 de septiembre de 2002.
+**26.9.2003.** Fecha límite solicitudes: 20 de septiembre de 2002.
 
-1.1.2. Capacitación/Actualización para Cabos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Cabo o ingresan en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso de méritos o concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha
+**1.1.2.** Capacitación/Actualización para Cabos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Cabo o ingresan en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso de méritos o concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha
 
 categoría; en el curso de Actualización, recibir una adecuada puesta al día profesional.
 
@@ -342,7 +338,7 @@ Fechas límite de solicitudes:
 
 2.ª edición: 10 de septiembre de 2002 (26 de agosto para quienes hayan de seguir la fase previa).
 
-1.1.3. Capacitación/Actualización para Sargentos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Sargento o ingresen en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha categoría; en el curso de Actualización, recibir una adecuada puesta al día profesional.
+**1.1.3.** Capacitación/Actualización para Sargentos (210 horas). Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Sargento o ingresen en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha categoría; en el curso de Actualización, recibir una adecuada puesta al día profesional.
 
 Particularidades: Por tener los mismos diseños y contenidos curriculares, a estas actividades asistirán, indistintamente, alumnado de capacitación y de actualización. Según los
 
@@ -380,7 +376,7 @@ Fechas de realización:
 
 Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
-1.1.4. Capacitación/Actualización para Suboficiales (210 horas).
+**1.1.4.** Capacitación/Actualización para Suboficiales (210 horas).
 
 Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a la categoría de Suboficial o ingresen en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso-oposición, mediante el
 
@@ -418,7 +414,7 @@ Fechas de realización:
 
 Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
-1.1.5. Capacitación/Actualización para la Escala Técnica (210 horas).
+**1.1.5.** Capacitación/Actualización para la Escala Técnica (210 horas).
 
 Objetivo: Complementar la formación inicial de aquellos funcionarios que acceden a cualquiera de las categorías de la Escala Técnica o ingresen en un Cuerpo de la Policía Local por esta categoría, una vez superado el concurso de méritos o concurso-oposición, mediante el conocimiento de técnicas de gestión de recursos humanos y otras relacionadas con los cometidos asignados a dicha escala; en el curso de
 
@@ -462,7 +458,7 @@ Fechas de realización:
 
 Fechas límite de solicitudes: 10 de septiembre de 2001 (26 de agosto para quienes hayan de seguir cualesquiera de las subfases previas).
 
-1.1.6. Ordenanzas municipales (35 horas).
+**1.1.6.** Ordenanzas municipales (35 horas).
 
 Objetivo: Profundizar en el conocimiento y la aplicación de las ordenanzas del municipio del Policía.
 
@@ -470,7 +466,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 18 al 22 de febrero de 2002. Fecha límite de solicitudes: 11 de enero de 2002.
 
-1.1.7. Protección de personas y edificios (70 horas).
+**1.1.7.** Protección de personas y edificios (70 horas).
 
 Objetivo: Instruir en técnicas y procedimientos para la protección de personas y edificios y de autoprotección
 
@@ -484,7 +480,7 @@ Fechas de realización: Del 3 al 14 de junio de 2002.
 
 Fecha límite de solicitudes: 3 de mayo de 2002.
 
-1.1.8. Actuaciones urgentes en Policía urbanística (35
+**1.1.8.** Actuaciones urgentes en Policía urbanística (35
 
 horas).
 
@@ -494,7 +490,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 14 al 18 de octubre de 2002. Fecha límite solicitudes: 13 de septiembre de 2002.
 
-1.1.9. Violencia contra la mujer (20 horas).
+**1.1.9.** Violencia contra la mujer (20 horas).
 
 Objetivo: Proporcionar formación técnica y pautas de
 
@@ -508,7 +504,7 @@ Fechas de realización: Del 27 al 29 de mayo de 2002.
 
 Fecha límite de solicitudes: 26 de abril de 2002.
 
-1.1.10. Intervención con menores (20 horas).
+**1.1.10.** Intervención con menores (20 horas).
 
 Objetivo: Proporcionar formación técnica y pautas de
 
@@ -518,7 +514,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 25 al 27 de febrero de 2002. Fecha límite de solicitudes: 25 de enero de 2002.
 
-1.1.11. Informática básica (35 horas).
+**1.1.11.** Informática básica (35 horas).
 
 Objetivos: iniciar en el manejo básico de equipos (PC) y herramientas informáticas más usuales en el sistema Windows. Requisitos: Carecer de conocimientos informáticos y disponer de equipos informáticos en la Jefatura.
 
@@ -528,7 +524,7 @@ Fechas de realización: Del 17 al 21 de junio de 2002.
 
 Fecha límite de solicitudes: 17 de mayo de 2002.
 
-1.1.12. Atestados en soporte informático (70 horas).
+**1.1.12.** Atestados en soporte informático (70 horas).
 
 Objetivo: Desarrollar conocimientos y procedimientos
 
@@ -540,7 +536,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 14 al 25 de octubre de 2002. Fecha límite de solicitudes: 13 de septiembre de 2002.
 
-1.1.13. Calidad total en el servicio policial (80 horas). Objetivo: Propiciar la implantación de sistemas de calidad total en los servicios prestados por los Cuerpos de la Policía Local para una mejor atención a la ciudadanía.
+**1.1.13.** Calidad total en el servicio policial (80 horas). Objetivo: Propiciar la implantación de sistemas de calidad total en los servicios prestados por los Cuerpos de la Policía Local para una mejor atención a la ciudadanía.
 
 Requisitos: Pertenecer a los cuadros de mando policiales, preferentemente a la Escala Técnica o a la Ejecutiva.
 
@@ -556,7 +552,7 @@ Fechas de realización:
 
 Fecha límite de solicitudes: 25 de octubre de 2002.
 
-1.1.14. Policía turística (110 horas).
+**1.1.14.** Policía turística (110 horas).
 
 Objetivo: Facilitar contenidos conceptuales, procedimentales y actitudinales para una mejor actuación policial y atención al ciudadano en los municipios con gran afluencia turística. Requisitos: Pertenecer a municipios eminentemente turísticos. Particularidades: Se desarrolla en tres fases presenciales en la Escuela.
 
@@ -572,11 +568,11 @@ Fechas de realización:
 
 Fecha límite de solicitudes: 8 de marzo de 2002.
 
-1.2. Cursos para los Cuerpos de Bomberos.
+**1.2.** Cursos para los Cuerpos de Bomberos.
 
 Requisito general: Pertenecer a los Cuerpos de Bomberos de las Administraciones Locales de Andalucía, preferentemente como funcionario de carrera o laboral fijo.
 
-1.2.1. Investigación de incendios.
+**1.2.1.** Investigación de incendios.
 
 Tipo de actividad: Jornadas de 12 horas lectivas.
 
@@ -588,7 +584,7 @@ Fechas de realización: Días 2 y 3 de mayo de 2002.
 
 Fecha límite de solicitudes: 1 de abril de 2002.
 
-1.2.2. Formación básica (70 horas).
+**1.2.2.** Formación básica (70 horas).
 
 Objetivo: Dotar de una formación básica al Bombero profesional de reciente ingreso.
 
@@ -602,7 +598,7 @@ Cursos programados: Uno (en dos fases presenciales en la ESPA). Fechas de realiz
 
 Fecha límite de solicitudes: 18 de febrero de 2002.
 
-1.2.3. Desescombros y salvamentos, nivel I (35 horas).
+**1.2.3.** Desescombros y salvamentos, nivel I (35 horas).
 
 Objetivo: Adiestrar en técnicas específicas para actuaciones en derrumbamientos de edificios y rescate y salvamento de víctimas sepultadas bajo escombros, principalmente como consecuencia de sismos.
 
@@ -612,7 +608,7 @@ Fechas de realización: Del 7 al 11 de octubre de 2002.
 
 Fecha límite solicitudes: 6 de septiembre de 2002.
 
-1.2.4. Rescate en montaña, nivel I (35 horas).
+**1.2.4.** Rescate en montaña, nivel I (35 horas).
 
 Objetivo: Formar en técnicas de intervención en siniestros que supongan operaciones de rescate de víctimas en zonas montañosas o abruptas.
 
@@ -626,7 +622,7 @@ Fechas de realización: Del 7 al 11 de octubre de 2002
 
 Fecha límite solicitudes: 6 de septiembre de 2002.
 
-1.2.5. Rescate en accidentes de tráfico (35 horas).
+**1.2.5.** Rescate en accidentes de tráfico (35 horas).
 
 Objetivo: Facilitar conocimientos y técnicas operativas para intervenciones en accidentes de tráfico, principalmente cuando haya víctimas atrapadas.
 
@@ -636,7 +632,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite de solicitudes: 23 de agosto de 2002.
 
-1.3. Cursos para el Voluntariado de Protección Civil.
+**1.3.** Cursos para el Voluntariado de Protección Civil.
 
 Requisitos generales:
 
@@ -644,7 +640,7 @@ a) Pertenecer a una Agrupación de Protección Civil registrada en la Consejerí
 
 b) Estar en posesión del diploma de aprovechamiento del curso de Formación básica de Protección Civil.
 
-1.3.1. Extinción de incendios (35 horas).
+**1.3.1.** Extinción de incendios (35 horas).
 
 Objetivo: Formar en el conocimiento del fuego, sus causas y los medios de lucha y autoprotección ante éste.
 
@@ -658,7 +654,7 @@ Fechas de realización: Del 30 de septiembre al 4 de octubre de
 
 Fecha límite solicitudes: 30 de agosto de 2002.
 
-1.3.2. Socorrismo (35 horas).
+**1.3.2.** Socorrismo (35 horas).
 
 Objetivo: Profundizar en técnicas sanitarias en situaciones de urgencia o emergencia.
 
@@ -670,7 +666,7 @@ Fechas de realización: Del 30 de septiembre al 4 de octubre de
 
 Fecha límite solicitudes: 30 de agosto de 2002.
 
-1.3.3. Riesgos naturales (35 horas).
+**1.3.3.** Riesgos naturales (35 horas).
 
 Objetivo: Dotar de formación teórico-práctica sobre los diferentes riesgos naturales más frecuentes en Andalucía (sísmicos, hídricos, meteorológicos, etc.).
 
@@ -680,7 +676,7 @@ Fechas de realización: Del 20 al 24 de mayo de 2002.
 
 Fecha límite solicitudes: 19 de abril de 2002.
 
-1.3.4. Acción social (35 horas).
+**1.3.4.** Acción social (35 horas).
 
 Objetivo: Suministrar técnicas de intervención en crisis, pánico de masas, afrontamiento del estrés, habilidades sociales y dinámica grupal.
 
@@ -688,7 +684,7 @@ Cursos programados: Uno.
 
 Fechas de realización: Del 23 al 27 de septiembre de 2002. Fecha límite solicitudes: 23 de agosto de 2002.
 
-1.4. Cursos comarcales y locales.
+**1.4.** Cursos comarcales y locales.
 
 Las Corporaciones Locales o provinciales interesadas en ser sede para la realización de los cursos y jornadas de carácter desconcentrado que aparecen en este apartado lo solicitarán a las Delegaciones del Gobierno de la Junta de Andalucía antes del 15 de febrero, con el objeto de que cada Delegación elabore un plan provincial con todas ellas y que se integren en el global de la ESPA.
 
@@ -720,7 +716,7 @@ Las clases se desarrollarán en horario vespertino
 
 El seguimiento de la ejecución y la evaluación lo verificará la ESPA a través de los medios e instrumentos que determine.
 
-1.4.1. Para Policía Local.
+**1.4.1.** Para Policía Local.
 
 Requisito general: Funcionarios, preferentemente de carrera, de los Cuerpos de la Policía Local de Andalucía.
 
@@ -836,7 +832,7 @@ Tipo de actividad: Jornadas.
 
 Objetivo: Proporcionar conocimientos sobre la Ley 13/1999, facilitando la actuación policial en estas áreas.
 
-1.4.2. Para los Cuerpos de Bomberos.
+**1.4.2.** Para los Cuerpos de Bomberos.
 
 1.4.2.1. Socorrismo (35 horas).
 
@@ -886,7 +882,7 @@ Objetivo: Dotar de formación eminentemente práctica en técnicas de rescate de
 
 1.4.2.13. Actuación en instalaciones de edificios (35 horas). Objetivo: Instruir sobre las modernas instalaciones de gas, electricidad, climatización, ascensores, etc., que forman parte de las grandes edificaciones y en la correcta actuación en caso de siniestro.
 
-1.4.3. Para el Voluntariado de Protección Civil.
+**1.4.3.** Para el Voluntariado de Protección Civil.
 
 Los cursos comarcales y locales para Protección Civil los podrán solicitar y, en su caso, organizar los municipios cuyas Agrupaciones estén registradas en la Consejería de Gobernación.
 
@@ -996,7 +992,7 @@ Objetivo: Instruir en el manejo, mantenimiento y conservación de equipos de rad
 
 Territorial de Emergencia de Andalucía (PTEAnd) y su concreción a los Servicios Locales/Agrupaciones de P. Civil.
 
-1.5. Cursos a distancia para Policía Local.
+**1.5.** Cursos a distancia para Policía Local.
 
 Con la colaboración del Instituto Andaluz de Administración Pública (IAAP) se celebrarán los cursos que se relacionan, con destino a los Cuerpos de la Policía Local, en la modalidad de a distancia o no presenciales. El alumnado asistirá a una primera sesión presencial en la ESPA donde recibirá, del profesor- tutor, los materiales curriculares y las orientaciones
 
@@ -1004,7 +1000,7 @@ didácticas para realizar el trabajo autónomo en su localidad. A la conclusión
 
 obtención del diploma de asistencia; habrá otra prueba de conocimientos, de carácter voluntario, para quienes deseen optar al diploma de aprovechamiento. La temporalización lectiva del curso corresponde a la estimación del tiempo necesario por el alumnado para la consecución de los objetivos didácticos propuestos.
 
-1.5.1. Actitud policial básica (30 horas).
+**1.5.1.** Actitud policial básica (30 horas).
 
 Objetivo: Propiciar pautas actitudinales de la profesión acordes con los principios básicos y deontológicos de
 
@@ -1024,7 +1020,7 @@ Fecha límite de solicitudes:
 
 - 2.ª edición: 16 de septiembre de 2002.
 
-1.5.2. Técnicas de intervención psicológica (30 horas). Objetivo: Adquirir conocimientos y técnicas para afrontar situaciones de ansiedad, conflictivas y de alto riesgo social, haciendo uso de estrategias y habilidades sociales para solucionarlas positivamente.
+**1.5.2.** Técnicas de intervención psicológica (30 horas). Objetivo: Adquirir conocimientos y técnicas para afrontar situaciones de ansiedad, conflictivas y de alto riesgo social, haciendo uso de estrategias y habilidades sociales para solucionarlas positivamente.
 
 Cursos programados: Dos.
 
@@ -1040,7 +1036,7 @@ Fecha límite de solicitudes:
 
 - 2.ª edición: 24 de septiembre de 2002.
 
-1.5.3. Comunicación y atención al ciudadano, nivel medio (30 horas).
+**1.5.3.** Comunicación y atención al ciudadano, nivel medio (30 horas).
 
 Tipo de curso: Nivel medio.
 
@@ -1056,7 +1052,7 @@ Fechas de realización: Del 20 de febrero al 20 de marzo de
 
 Fecha límite de solicitudes: 21 de enero de 2002.
 
-1.5.4. Técnicas de organización personal del trabajo (30 horas).
+**1.5.4.** Técnicas de organización personal del trabajo (30 horas).
 
 Objetivo: Adquirir técnicas y procedimientos y actitudes que faciliten una mejor organización del trabajo personal.
 
@@ -1073,21 +1069,25 @@ Disposición siguiente
 
 140 de 04/12/2001
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones y concursos
+**2.2.** Oposiciones y concursos
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos"> 5.1. Subastas y concursos de obras, suministros y servicios públicos
+<a href="s5.1" title="5.1. Subastas y concursos de obras, suministros y servicios públicos">
 
-5.2. Otros anuncios
+**5.1.** Subastas y concursos de obras, suministros y servicios públicos
+
+**5.2.** Otros anuncios
 
 <a target="_blank" title="Descargar el boletín completo en PDF" href="../../2001/140/boletin.140.pdf">Descargar boletín nº 140 completo
 
-PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+PUBLIC "-//W3C//DTD HTML
+
+**4.01** Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
 Descargar fascículo 1
 
@@ -1106,4 +1106,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

@@ -61,7 +61,9 @@ anexos_extraidos_pdf: true
 
 45 páginas.
 
-Formato de archivo en PDF/Adobe Acrobat. Tamaño: 381.54 Kb.
+Formato de archivo en PDF/Adobe Acrobat. Tamaño:
+
+**381.54** Kb.
 
 Firma electrónica
 - Descargar

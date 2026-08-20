@@ -1873,4 +1873,4 @@ El desarrollo reglamentario de esta Ley se llevará a efecto de acuerdo con lo d
 
 #### Disposición final cuarta. Entrada en vigor.
 
-La presente Ley entrará en vigor a los treinta días de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 10 de diciembre de 2007.-El Presidente de la Junta de Andalucía, Manuel Chaves González. Este documento es de carácter informativo y no tiene valor jurídico. 
+La presente Ley entrará en vigor a los treinta días de su publicación en el Boletín Oficial de la Junta de Andalucía. Sevilla, 10 de diciembre de 2007.-El Presidente de la Junta de Andalucía, Manuel Chaves González. Este documento es de carácter informativo y no tiene valor jurídico.

@@ -41,18 +41,18 @@ Segundo Plazo de toma de posesión 1. El plazo para tomar posesión del nuevo de
 
 Tercero Recursos La presente Orden pone fin a la vía administrativa y contra la misma podrá interponerse, con carácter potestativo, recurso de reposición en el plazo de un mes ante el mismo órgano que la ha dictado, o bien, recurso contencioso-administrativo, en el plazo de dos meses, ante los Juzgados de lo Contencioso-Administrativo de Madrid, ambos plazos contados a partir del día siguiente a su publicación en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, sin perjuicio de cualquier otro recurso que se estime procedente en derecho, todo ello de conformidad con lo dispuesto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y 46 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción Contencioso-Administrativa. Dado en Madrid, a 19 de julio de 2022.—El Consejero de Economía, Hacienda y Empleo, por delegación, el Secretario General Técnico (Orden de 3 de diciembre de 2021, BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID de 21 de diciembre de 2021), Juan Revuelta González.
 
-http://www.bocm.es D. L.: M. 19.462-1983      ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS 987 ORGANO DE GESTION INSTITUTO REGIONAL DE ARBITRAJE DE CONSUMO SECRETARÍA GENERAL AREA SECRETARIA JUNTA ARBITRAL SERVICIO COORDINACION DE ARBITRAJE SUBSECCION SECRETARIO ARBITRAL I NEGOCIADO SECRETARIA JUNTA ARBITRAL I Puesto de Trabajo:
-NEG. SECRETARIA JUNTA ARBITRAL I Denominación     :
-18 C / D Grupo                :
-N.C.D.               :
-8.051,16 C. Específico      :
+http://www.bocm.es D. L.: M. 19.462-1983 ISSN 1989-4791 RESOLUCIÓN DE CONVOCATORIA DE PROVISIÓN DE PUESTOS POR EL SISTEMA DE CONCURSO DE MÉRITOS 987 ORGANO DE GESTION INSTITUTO REGIONAL DE ARBITRAJE DE CONSUMO SECRETARÍA GENERAL AREA SECRETARIA JUNTA ARBITRAL SERVICIO COORDINACION DE ARBITRAJE SUBSECCION SECRETARIO ARBITRAL I NEGOCIADO SECRETARIA JUNTA ARBITRAL I Puesto de Trabajo:
+NEG. SECRETARIA JUNTA ARBITRAL I Denominación :
+18 C / D Grupo :
+N.C.D. :
+8.051,16 C. Específico :
 *2*80**8* FUENTES BLÁZQUEZ,MIGUEL ÁNGEL Cód. identificación:
 Apellidos y Nombre:
 ORGANO DE GESTION INSTITUTO REGIONAL DE ARBITRAJE DE CONSUMO SECRETARÍA GENERAL AREA COORDINACION DE ARBITRAJE SERVICIO MEDIACION DE ARBITRAJE SUBSECCION MEDIACION DE ARBITRAJE Puesto de Trabajo:
-ADMINISTRATIVO Denominación     :
-16 Grupo                 :
-N.C.D.                :
-7.161,72 C. Específico       :
+ADMINISTRATIVO Denominación :
+16 Grupo :
+N.C.D. :
+7.161,72 C. Específico :
 PUESTO ADJUDICADO ADJUDICATARIO PUESTO LIBERADO
 **C**
 (03/16.005/22)

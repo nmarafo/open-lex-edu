@@ -41,8 +41,6 @@ Corrección de errores de la Resolución de 15 de enero de 2021, de la Delegaci�
 
 ###
 
-###
-
 Becas y ayudas
 
 Buscar trabajo
@@ -71,8 +69,6 @@ Ofertas de empleo
 
 Más temas
 
-Más temas
-
 Empleo público
 
 Boletín 13
@@ -87,7 +83,7 @@ Histórico del BOJA Boletín número 13 de 21/01/2021
 
 ### Corrección de errores de la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan (BOJA extraordinario núm. 6, de 16.1.2021).
 
-Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad  con CVE 00184634.
+Atención: El texto que se muestra a continuación ha sido extraído de los mismos ficheros que se han utilizado para obtener el fichero PDF correspondiente del BOJA oficial y auténtico, habiéndose suprimido todas las imágenes, ciertas tablas y algunos textos de la versión oficial al existir dificultades de edición. Para consultar la versión oficial y auténtica de esta disposición puede descargarse el fichero PDF firmado de la disposición desde la sede electrónica del BOJA o utilizar el servicio de <a title="Verificación de autenticidad" href="1-verificacion"> Verificación de autenticidad con CVE 00184634.
 
 Advertidos errores en la Resolución de 15 de enero de 2021, de la Delegación Territorial de Salud y Familias en Huelva, por la que se adoptan y modulan los niveles de alerta sanitaria y la aplicación de las medidas que corresponden por razón de la salud pública para la contención de la COVID-19, en los municipios que se detallan, que ha sido publicada en el BOJA extraordinario núm. 6, de 16.1.2021, procede su subsanación en los siguientes términos:
 
@@ -497,17 +493,17 @@ CASTAÑO DEL ROBLEDO
 
 Disposición siguiente
 
-2.1. Nombramientos, situaciones e incidencias
+**2.1.** Nombramientos, situaciones e incidencias
 
-2.2. Oposiciones, concursos y otras convocatorias
+**2.2.** Oposiciones, concursos y otras convocatorias
 
 3. Otras disposiciones
 
 4. Administración de justicia
 
-5.1. Licitaciones públicas y adjudicaciones
+**5.1.** Licitaciones públicas y adjudicaciones
 
-5.2. Otros anuncios oficiales
+**5.2.** Otros anuncios oficiales
 
 <a title="Descargar el boletín completo en PDF" target="_blank" href="BOJA21-013-00711.pdf"> Descargar boletín nº 13 completo
 
@@ -526,4 +522,3 @@ Servicios de Información
 ## Información general
 
 ## Síguenos en:
-

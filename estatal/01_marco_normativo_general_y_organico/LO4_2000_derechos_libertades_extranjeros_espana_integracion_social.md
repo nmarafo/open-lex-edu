@@ -362,7 +362,9 @@ Para la realización de actividades económicas por cuenta propia, en calidad de
 
 #### Artículo 36. Permisos especiales.
 
-1. Tendrán derecho al permiso de trabajo los extranjeros que obtengan el permiso de residencia por el procedimiento previsto en el artículo 29.3. Tendrá la duración de un año y se renovará mientras sigan las mismas circunstancias.
+1. Tendrán derecho al permiso de trabajo los extranjeros que obtengan el permiso de residencia por el procedimiento previsto en el artículo
+
+**29.3.** Tendrá la duración de un año y se renovará mientras sigan las mismas circunstancias.
 
 2. Asimismo se renovarán automáticamente sin la concurrencia de los requisitos establecidos en el artículo 35.4 los permisos de trabajo y las autorizaciones administrativas para trabajar, en las que concurran alguna de las siguientes circunstancias:
 

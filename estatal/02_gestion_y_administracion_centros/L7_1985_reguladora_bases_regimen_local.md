@@ -1020,7 +1020,9 @@ Si una Entidad local adoptara actos o acuerdos que atenten gravemente al interé
 
 No son públicas las sesiones de las Comisiones de Gobierno.
 
-2. Los acuerdos que adopten las Corporaciones locales se publican o notifican en la forma prevista en la Ley. Las Ordenanzas, incluidas las normas de los Planes urbanísticos, se publican en el «Boletín Oficial» de la provincia y no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo 65.2. Idéntica regla es de aplicación a los presupuestos, en los términos del artículo 112.3, de esta Ley.
+2. Los acuerdos que adopten las Corporaciones locales se publican o notifican en la forma prevista en la Ley. Las Ordenanzas, incluidas las normas de los Planes urbanísticos, se publican en el «Boletín Oficial» de la provincia y no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo previsto en el artículo
+
+**65.2.** Idéntica regla es de aplicación a los presupuestos, en los términos del artículo 112.3, de esta Ley.
 
 3. Todos los ciudadanos tienen derecho a obtener copias y certificaciones acreditativas de los acuerdos de las Corporaciones locales y sus antecedentes, así como a consultar los archivos y registros en los términos que disponga la legislación de desarrollo del artículo 105, letra b), de la Constitución. La denegación o limitación de este derecho, en todo cuanto afecte a la seguridad y defensa del Estado, la averiguación de los delitos o la intimidad de las personas, deberá verificarse mediante resolución motivada.
 

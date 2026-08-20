@@ -110,12 +110,6 @@ Conservatoriosy Escuelade Arte Dramático,de Danzay Canto
 
 Â
 
-Â
-
-Â
-
-Â
-
 Inscripción (primera vez)Servicios generales
 
 1.050
@@ -124,9 +118,7 @@ Inscripción (primera vez)Servicios generales
 
 1.050
 
-1.450
-
-Matrícula curso completo
+**1.450** Matrícula curso completo
 
 6.550
 
@@ -140,17 +132,9 @@ Matrícula asignaturas sueltas
 
 3.500
 
-2.500
-
-Servicios generales
+**2.500** Servicios generales
 
 **Alumnos de Centros homologados**
-
-Â
-
-Â
-
-Â
 
 Â
 
@@ -160,15 +144,7 @@ Inscripción (primera vez)
 
 –
 
-–
-
-–
-
 Servicios generales
-
-–
-
-–
 
 –
 
@@ -176,12 +152,6 @@ Servicios generales
 
 Â
 
-Â
-
-Â
-
-Â
-
 Inscripción (primera vez)
 
 1.050
@@ -190,9 +160,7 @@ Inscripción (primera vez)
 
 1.050
 
-1.450
-
-Derechos examen (por asignatura)
+**1.450** Derechos examen (por asignatura)
 
 90
 
@@ -200,17 +168,9 @@ Derechos examen (por asignatura)
 
 90
 
-1.170
-
-Servicios generales
+**1.170** Servicios generales
 
 **Examen de reválida o aptitud**
-
-Â
-
-Â
-
-Â
 
 Â
 
@@ -228,19 +188,9 @@ Alumnos oficiales y libres
 
 Â
 
-Â
-
-Â
-
-Â
-
 Por mes
 
 –
-
-3.930
-
-3.930
 
 3.930
 

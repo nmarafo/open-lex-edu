@@ -137,7 +137,9 @@ Decreto 254/2001, de 20 de noviembre.
 a) Referencia expresa a que la subvención se concede al amparo de la presente Orden y que, por tanto, los beneficiarios se someten al régimen establecido en la misma y en la normativa vigente en la materia.
 b) Indicación del beneficiario, de la actividad a realizar y del plazo de ejecución con expresión del inicio del cómputo del mismo.
 c) La cuantía de la subvención, la aplicación presupuestaria del gasto, el presupuesto subvencionado y el porcentaje de ayuda con respecto al presupuesto aceptado.
-d) **La forma y secuencia del pago.** Página núm. 4.832 Sevilla, 2 de abril 2002
+d) **La forma y secuencia del pago.** Página núm.
+
+**4.832** Sevilla, 2 de abril 2002
 
 e) Plazo y forma de justificación por parte del beneficiario del cumplimiento de la finalidad para la que se concede la subvención y de la aplicación de los fondos recibidos, de acuerdo con lo que establezcan las normas reguladoras.
 
@@ -235,19 +237,27 @@ Primera. Instrucciones y medidas de ejecución. Se faculta al Director General d
 
 #### Segunda. Entrada en vigor.
 
-La presente Orden entrará en vigor el día siguiente al de su publicación el Boletín Oficial de la Junta de Andalucía. Sevilla, 26 de febrero de 2002 ALFONSO PERALES PIZARRO Consejero de Gobernación Página núm. 4.834 Sevilla, 2 de abril 2002
+La presente Orden entrará en vigor el día siguiente al de su publicación el Boletín Oficial de la Junta de Andalucía. Sevilla, 26 de febrero de 2002 ALFONSO PERALES PIZARRO Consejero de Gobernación Página núm.
 
-Sevilla, 2 de abril 2002 Página núm. 4.835
+**4.834** Sevilla, 2 de abril 2002
 
-Página núm. 4.836 Sevilla, 2 de abril 2002
+Sevilla, 2 de abril 2002 Página núm.
 
-Sevilla, 2 de abril 2002 Página núm. 4.837
+**4.835** Página núm.
 
-Página núm. 4.838 Sevilla, 2 de abril 2002
+**4.836** Sevilla, 2 de abril 2002
 
-Sevilla, 2 de abril 2002 Página núm. 4.839
+Sevilla, 2 de abril 2002 Página núm.
 
-Página núm. 4.840 Sevilla, 2 de abril 2002
+**4.837** Página núm.
+
+**4.838** Sevilla, 2 de abril 2002
+
+Sevilla, 2 de abril 2002 Página núm.
+
+**4.839** Página núm.
+
+**4.840** Sevilla, 2 de abril 2002
 
 CONSEJERIA DE EMPLEO Y DESARROLLO TECNOLOGICO RESOLUCION de 21 de febrero de 2002, de la Dirección General de Industria, Energía y Minas, relativa al período de presentación de solicitudes para acogerse a la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL). La Orden de 5 de abril de 2000 (BOJA de 11.05.00), modificada por Orden de 12 de septiembre de 2000 (BOJA de 19.10.00), que regula la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL) para el período 2000-2006, autoriza al Director General de Industria, Energía y Minas, mediante Resolución publicada en el BOJA, a determinar los sucesivos períodos de presentación de solicitudes, terminando el último de ellos, como máximo, el 15 de octubre del año 2006. Por Resolución de 21 de diciembre de 2000, el Director General de Industria, Energía y Minas abrió el período de presentación de solicitudes, indicando que para las solicitudes de instalaciones fotovoltaicas conectadas a red el plazo de presentación terminaba el día 2 de abril de 2001, y para las restantes la fecha de cierre sería publicada, al menos con 15 días de antelación, en el Boletín Oficial de la Junta de Andalucía. En consecuencia, el plazo anterior ha permanecido abierto desde el 21 de diciembre de 2000, y el número de solicitudes presentadas y no atendidas desde entonces ya supera el presupuesto asignado este año 2002, lo cual aconseja abrir el plazo de presentación de solicitudes de instalaciones fotovoltaicas conectadas a red y cerrar un mes después el plazo de presentación de todo tipo de solicitudes, excepto para el caso de solicitudes presentadas al amparo de Acuerdos Específicos que se firmen entre la Consejería y otras Consejerías, otras Administraciones o Entes públicos o privados. La gran aceptación social, materializada en el elevado número de solicitudes promovidas por el modelo actual de programa PROSOL, está desbordando su capacidad de respuesta desde el punto de vista presupuestario y de gestión administrativa, por lo que se impone cambiar en el futuro el modelo de programa para continuar hacia el objetivo de consolidar económica, técnica y socialmente el uso de las energías renovables. Se está terminando actualmente la elaboración de una nueva Orden PROSOL en la cual los destinatarios de las ayudas serían las empresas instaladoras, y en cualquier caso se seguirán impulsando acciones de formación, información y desarrollo tecnológico. Por todo ello, y en relación a la concesión de ayudas del Programa Andaluz de Promoción de Instalaciones de Energías Renovables (PROSOL) para el período 2000-2006, esta Dirección General de Industria, Energía y Minas R E S U E L V E
 Primero. Abrir el próximo período de presentación de solicitudes de instalaciones fotovoltaicas conectadas a red el día de la entrada en vigor de la presente Resolución. La selección de solicitudes de instalaciones fotovoltaicas conectadas a red se realizará atendiendo a los criterios de difusión, telemonitorización y años de garantía, que el solicitante deberá acreditar junto con la solicitud. Las solicitudes de instalaciones conectadas a red actualmente en trámite, que aún no dispongan de la autorización de enganche por parte de la empresa distribuidora, tendrán como plazo máximo para acreditar dicha autorización la fecha de cierre del plazo de presentación de solicitudes que se indica en la presente Resolución.
