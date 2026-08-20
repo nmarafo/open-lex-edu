@@ -16,7 +16,7 @@ boletin: BOJA
 numero_boletin: '123'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.juntadeandalucia.es/educacion/portals/web/ced/instrucciones-inicio-curso
+fuente_oficial: https://www.juntadeandalucia.es/organismos/desarrolloeducativoyformacionprofesional.html
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de comienzo de curso
@@ -35,6 +35,8 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
+
 # Resolución de la Viceconsejería de Desarrollo Educativo y Formación Profesional, por la que se dictan instrucciones sobre la organización y funcionamiento de los centros docentes públicos no universitarios para el curso escolar 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.

@@ -95,7 +95,7 @@ Código de la Especialidad Nombre de la especialidad Código Ministerio 349 EQUI
 ### Relaciones Directas
 
 - **Desarrolla**: [**LO3_2022 Ley de Ordenacion e Integracion de la FP**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/LO3_2022_ordenacion_e_integracion_formacion_profesional.md)
-- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/LO276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
+- **Desarrolla**: [**RD276_2007 Reglamento de Ingreso y Acceso a los Cuerpos Docentes**](../../../estatal/08_personal_docente/RD276_2007_aprueba_reglamento_ingreso_accesos_adquisicion_nuevas.md)
 - **Desarrolla**: [**RD5_2015 Estatuto Basico del Empleado Publico (TREBEP)**](../../../estatal/01_marco_normativo_general_y_organico/RDL5_2015_aprueba_texto_refundido_ley_estatuto_basico.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)

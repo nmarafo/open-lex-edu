@@ -15,7 +15,7 @@ boletin: BOC
 numero_boletin: '35'
 estado: Vigente
 redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2025/035/001.html
+fuente_oficial: https://www.gobiernodecanarias.org/educacion/web/estudiantes/admision_alumnado/
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
@@ -33,6 +33,7 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
 # Resolución por la que se aprueban las instrucciones relativas al procedimiento de admisión y matriculación del alumnado para el curso escolar 2025-2026. ## Preámbulo
 
 Oposiciones y concursos Consejería de Política Territorial, Cohesión Territorial y Aguas Secretaría General Técnica.- Resolución de 6 de febrero de 2025, por la que se convoca, por el procedimiento de libre designación, la provisión del puesto de trabajo n.º 10210410, denominado Jefe/a de Servicio de Asuntos Económicos, adscrito al Servicio de Asuntos Económicos de la Agencia Canaria de Protección del Medio Natural. ANTECEDENTES

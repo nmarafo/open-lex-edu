@@ -18696,7 +18696,7 @@ redefinición, determinación, capacidad de adaptación y tolerancia frente a lo
 
 - **Fundamentado en**: [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
 - **Fundamentado en**: [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
-- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- **Fundamentado en**: [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - **Fundamentado en**: [**BOE-A-2014-2222**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)
 - **Fundamentado en**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 - **Fundamentado en**: [**L39_2015 Procedimiento Administrativo Comun**](../../../estatal/01_marco_normativo_general_y_organico/L39_2015_procedimiento_administrativo_comun_administraciones_publicas.md)
@@ -18706,5 +18706,5 @@ redefinición, determinación, capacidad de adaptación y tolerancia frente a lo
 
 - [**L6_2014 Ley Canaria de Educacion**](../01_marco_normativo_general_y_organico/L6_2014_canaria_educacion_no_universitaria.md)
 - [**D81_2010 Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/D81_2010_aprueba_reglamento_organico_centros_docentes_publicos.md)
-- [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/Ds_n_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
+- [**O9_10_2013 Desarrollo del Reglamento Organico de Centros (ROC)**](../04_organizacion_escolar_y_funcionamiento/O9_10_2013_desarrolla_decreto_aprueba_reglamento_organico_centros.md)
 - [**BOE-A-2014-2222**](../../../estatal/03_ordenacion_curricular_y_ensenanzas/RD126_2014_establece_curriculo_basico_educacion_primaria.md)

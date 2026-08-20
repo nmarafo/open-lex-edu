@@ -16,7 +16,7 @@ boletin: BOJA
 numero_boletin: '112'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.juntadeandalucia.es/educacion/portals/web/ced/competencia-digital-docente
+fuente_oficial: https://www.juntadeandalucia.es/organismos/desarrolloeducativoyformacionprofesional/areas/profesorado.html
 clasificacion:
   categoria_canonica: 08_personal_docente
   subcategoria: Formación del profesorado
@@ -36,6 +36,7 @@ relaciones:
   - norma_id: norm-es-rdl-5-2015
   - norma_id: norm-es-lo-2-2006
 ---
+
 # Resolución por la que se dictan instrucciones sobre la organización del procedimiento de acreditación de la competencia digital docente en la Comunidad Autónoma de Andalucía para el curso escolar 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.

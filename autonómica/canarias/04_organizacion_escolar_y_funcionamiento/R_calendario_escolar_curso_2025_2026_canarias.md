@@ -1,9 +1,10 @@
 ---
 id: norm-can-r-calendario-escolar-2025-2026
-codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Canarias
-titulo: Resolución por la que se establece el calendario escolar y las instrucciones
-  para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma
-  de Canarias.
+codigo_sintetizado: Resolución Calendario Escolar Curso 2025-2026 Canarias
+titulo: Resolución de 20 de febrero de 2025, por la que se establece el calendario
+  escolar y se dictan instrucciones para la organización y desarrollo de las actividades
+  de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no
+  universitarias de la Comunidad Autónoma de Canarias.
 jurisdiccion: Canarias
 ambito: Autonómico
 organo_emisor: Consejería de Educación, Formación Profesional, Actividad Física y
@@ -16,7 +17,7 @@ boletin: BOC
 numero_boletin: '110'
 estado: Vigente
 redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2025/110/001.html
+fuente_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Calendario escolar
@@ -34,7 +35,12 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
+fuente_pdf_oficial: https://sede.gobiernodecanarias.org/boc/boc-a-2025-044-886.pdf
 ---
+# Resolución de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
+
+# Resolución de 20 de febrero de 2025, por la que se establece el calendario escolar y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias.
+
 # Resolución por la que se establece el calendario escolar y las instrucciones para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma de Canarias.
 
 ## Preámbulo

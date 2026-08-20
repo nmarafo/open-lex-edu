@@ -16,7 +16,7 @@ boletin: BOCM
 numero_boletin: '151'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.comunidad.madrid/servicios/educacion/instrucciones-inicio-curso
+fuente_oficial: https://www.comunidad.madrid/servicios/educacion
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de comienzo de curso
@@ -35,6 +35,8 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
+
 # Resolución conjunta de las Viceconsejerías de Política Educativa y de Organización Educativa por la que se dictan instrucciones para el comienzo del curso escolar 2025-2026 en centros docentes públicos no universitarios de la Comunidad de Madrid.
 
 ## Preámbulo

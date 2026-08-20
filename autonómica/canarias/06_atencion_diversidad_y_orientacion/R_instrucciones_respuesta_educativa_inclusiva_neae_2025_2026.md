@@ -16,7 +16,7 @@ boletin: BOC
 numero_boletin: '133'
 estado: Vigente
 redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2025/133/001.html
+fuente_oficial: https://www.gobiernodecanarias.org/educacion/web/
 clasificacion:
   categoria_canonica: 06_atencion_diversidad_y_orientacion
   subcategoria: Atención a la diversidad
@@ -34,6 +34,8 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-lo-1-1996
 ---
+
+
 # Resolución por la que se dictan instrucciones relativas a la respuesta educativa inclusiva y la organización de la atención al alumnado con necesidades específicas de apoyo educativo (NEAE) para el curso 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.

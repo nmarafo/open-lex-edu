@@ -124,7 +124,7 @@ Segundo Nivel (TRKI 2) Tercer Nivel (TRKI III) Ministerio de Educación y Cienci
 - **Fundamento de**: [**O28_9_2023 Instrucciones de Organizacion y Funcionamiento de Centros**](../04_organizacion_escolar_y_funcionamiento/O28_9_2023_aprueban_instrucciones_organizacion_funcionamiento_centros_docentes.md)
 - **Fundamento de**: [**Resolucion BOC 82**](./R5_11_2020_dictan_instrucciones_organizacion_funcionamiento_niveles_basico.md)
 - **Fundamento de**: [**Resolucion BOC 44**](./R30_10_2024_dictan_instrucciones_orientaciones_implantacion_desarrollo_grados.md)
-- **Fundamento de**: [**Resolucion BOC 61**](./Osn_inclusion_e_innovacion_dictan_instrucciones_regular.md)
+- **Fundamento de**: [**Resolucion BOC 61**](./R_e_innovacion_dictan_instrucciones_regular.md)
 - **Desarrolla**: [**LO2_2006 Ley Organica de Educacion**](../../../estatal/01_marco_normativo_general_y_organico/LO2_2006_educacion_texto_consolidado_modificaciones_lomloe.md)
 
 ### Fundamentos de Derecho

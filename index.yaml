@@ -1446,6 +1446,27 @@ normas:
     - criterios_evaluacion
     - andalucia
     path: autonómica/andalucía/03_ordenacion_curricular_y_ensenanzas/R12_2_2021_orientaciones_metodologicas_evaluacion_loe_lomloe_andalucia.md
+  norm-and-d-147-2025:
+    id: norm-and-d-147-2025
+    codigo_sintetizado: D147_2025 Ordenacion Grados D y E Formacion Profesional Andalucia
+    titulo: Decreto 147/2025, de 17 de septiembre, por el que se establece la ordenación
+      de las enseñanzas de los Grados D y E del Sistema de Formación Profesional en
+      la Comunidad Autónoma de Andalucía.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Decreto
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: boja_oficial
+    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
+    subcategoria: Formación Profesional
+    tags:
+    - fp_dual
+    - formacion_profesional
+    - grados_d_e
+    - curriculo
+    - andalucia
+    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D147_2025_ordenacion_ensenanzas_grados_d_e_formacion_profesional_andalucia.md
   norm-and-d162-2009:
     id: norm-and-d162-2009
     codigo_sintetizado: ''
@@ -1465,26 +1486,6 @@ normas:
     - supervision_educativa
     - andalucia
     path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D162_2009_reglamento_inspeccion_educativa_andalucia.md
-  norm-and-d-285-2023:
-    id: norm-and-d-285-2023
-    codigo_sintetizado: D285_2023 Ordenacion y Desarrollo FP Dual Andalucia 2025-2026
-    titulo: Decreto 285/2023, de 27 de diciembre, por el que se regula el sistema
-      de Formación Profesional Dual en la Comunidad Autónoma de Andalucía.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Decreto
-    fecha_publicacion: '2023-12-29'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 04_organizacion_escolar_y_funcionamiento
-    subcategoria: Formación Profesional
-    tags:
-    - fp_dual
-    - formacion_profesional
-    - tutor_empresa
-    - curso_2025_2026
-    - andalucia
-    path: autonómica/andalucía/04_organizacion_escolar_y_funcionamiento/D285_2023_ordenacion_desarrollo_fp_dual_andalucia_2025_2026.md
   norm-and-d327-2010:
     id: norm-and-d327-2010
     codigo_sintetizado: ''
@@ -2384,6 +2385,28 @@ normas:
     - formacion_profesorado
     - andalucia
     path: autonómica/andalucía/08_personal_docente/O10_11_2020_competencia_digital_docente_andalucia.md
+  norm-and-o-10-6-2020:
+    id: norm-and-o-10-6-2020
+    codigo_sintetizado: O10_6_2020 Provisión Puestos y Bolsas Trabajo Docentes Andalucía
+    titulo: Orden de 10 de junio de 2020, por la que se regulan los procedimientos
+      de provisión, con carácter provisional, de puestos de trabajo docentes, la movilidad
+      por razón de violencia de género y víctimas de terrorismo, las bolsas de trabajo
+      docentes, así como las bases aplicables al personal integrante de las mismas.
+    jurisdiccion: Andalucía
+    ambito: Autonómico
+    tipo_disposicion: Orden
+    fecha_publicacion: ''
+    estado: Vigente
+    redaccion: boja_oficial
+    categoria_canonica: 08_personal_docente
+    subcategoria: Profesorado interino
+    tags:
+    - profesorado_interino
+    - bolsas_de_trabajo
+    - sipri
+    - provision_puestos
+    - andalucia
+    path: autonómica/andalucía/08_personal_docente/O10_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md
   norm-and-o-11-12-2012:
     id: norm-and-o-11-12-2012
     codigo_sintetizado: O11_12_2012 Adjudicacion Destinos Profesorado Interino Andalucía
@@ -2403,27 +2426,6 @@ normas:
     - adjudicacion_destinos
     - andalucia
     path: autonómica/andalucía/08_personal_docente/O11_12_2012_instrucciones_adjudicacion_destinos_profesorado_interino_andalucia.md
-  norm-and-o-18-6-2020:
-    id: norm-and-o-18-6-2020
-    codigo_sintetizado: O18_6_2020 Bolsas Trabajo Profesorado Interino Andalucia
-    titulo: Orden de 18 de junio de 2020, por la que se regula la constitución, ordenación
-      y gestión de las bolsas de trabajo del personal docente funcionario interino
-      de la Comunidad Autónoma de Andalucía.
-    jurisdiccion: Andalucía
-    ambito: Autonómico
-    tipo_disposicion: Orden
-    fecha_publicacion: '2020-06-24'
-    estado: Vigente
-    redaccion: original
-    categoria_canonica: 08_personal_docente
-    subcategoria: Profesorado interino
-    tags:
-    - profesorado_interino
-    - bolsas_de_trabajo
-    - sipri
-    - adjudicacion_destinos
-    - andalucia
-    path: autonómica/andalucía/08_personal_docente/O18_6_2020_bolsas_trabajo_profesorado_interino_andalucia.md
   norm-and-r-cdd-2025-2026:
     id: norm-and-r-cdd-2025-2026
     codigo_sintetizado: R_Acreditacion Competencia Digital Docente Andalucia 2025-2026
@@ -5446,10 +5448,11 @@ normas:
     path: autonómica/canarias/04_organizacion_escolar_y_funcionamiento/Rsn_de2026_convoca_sistema_libre_designacion_provision.md
   norm-can-r-calendario-escolar-2025-2026:
     id: norm-can-r-calendario-escolar-2025-2026
-    codigo_sintetizado: R_Calendario Escolar Curso 2025-2026 Canarias
-    titulo: Resolución por la que se establece el calendario escolar y las instrucciones
-      para el desarrollo de las actividades del curso 2025-2026 en la Comunidad Autónoma
-      de Canarias.
+    codigo_sintetizado: Resolución Calendario Escolar Curso 2025-2026 Canarias
+    titulo: Resolución de 20 de febrero de 2025, por la que se establece el calendario
+      escolar y se dictan instrucciones para la organización y desarrollo de las actividades
+      de comienzo y finalización del curso 2025-2026, para los centros de enseñanzas
+      no universitarias de la Comunidad Autónoma de Canarias.
     jurisdiccion: Canarias
     ambito: Autonómico
     tipo_disposicion: Resolución
@@ -13777,31 +13780,6 @@ relaciones_grafo:
   destino: norm-and-l17-2007
   articulos_origen: []
   articulos_destino: []
-- origen: norm-and-d-285-2023
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-d-285-2023
-  tipo: fundamentado_en
-  destino: norm-and-l17-2007
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-d-285-2023
-  tipo: fundamentado_en
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-d-285-2023
-  tipo: fundamentado_en
-  destino: norm-es-l-39-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-d-285-2023
-  tipo: fundamentado_en
-  destino: norm-es-l-40-2015
-  articulos_origen: []
-  articulos_destino: []
 - origen: norm-and-d327-2010
   tipo: desarrolla
   destino: norm-es-lo-2-2006
@@ -14923,36 +14901,6 @@ relaciones_grafo:
   articulos_origen: []
   articulos_destino: []
 - origen: norm-and-o-11-12-2012
-  tipo: fundamentado_en
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
-  tipo: desarrolla
-  destino: norm-es-lo-2-2006
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
-  tipo: desarrolla
-  destino: norm-es-rd-276-2007
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
-  tipo: desarrolla
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
-  tipo: fundamentado_en
-  destino: norm-and-l17-2007
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
-  tipo: fundamentado_en
-  destino: norm-es-rdl-5-2015
-  articulos_origen: []
-  articulos_destino: []
-- origen: norm-and-o-18-6-2020
   tipo: fundamentado_en
   destino: norm-es-lo-2-2006
   articulos_origen: []

@@ -16,7 +16,7 @@ boletin: BOC
 numero_boletin: '130'
 estado: Vigente
 redaccion: pdf_oficial_boc
-fuente_oficial: https://www.gobiernodecanarias.org/boc/2025/130/001.html
+fuente_oficial: https://www.gobiernodecanarias.org/educacion/web/centros/
 clasificacion:
   categoria_canonica: 04_organizacion_escolar_y_funcionamiento
   subcategoria: Instrucciones de comienzo de curso
@@ -35,6 +35,8 @@ relaciones:
   - norma_id: norm-es-l-39-2015
   - norma_id: norm-es-l-40-2015
 ---
+
+
 # Resolución por la que se dictan instrucciones para la organización y funcionamiento de los centros docentes públicos no universitarios de la Comunidad Autónoma de Canarias para el curso escolar 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.

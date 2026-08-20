@@ -17,7 +17,7 @@ boletin: BOCM
 numero_boletin: '41'
 estado: Vigente
 redaccion: original
-fuente_oficial: https://www.comunidad.madrid/servicios/educacion/admision-alumnos-linea-0
+fuente_oficial: https://www.comunidad.madrid/servicios/educacion
 clasificacion:
   categoria_canonica: 05_alumnado_y_servicios_escolares
   subcategoria: Admisión de alumnado
@@ -35,6 +35,8 @@ relaciones:
   - norma_id: norm-es-lo-2-2006
   - norma_id: norm-es-l-39-2015
 ---
+
+
 # Orden por la que se dictan instrucciones sobre el proceso de admisión de alumnos en centros docentes sostenidos con fondos públicos que imparten segundo ciclo de Educación Infantil, Educación Primaria, Educación Secundaria Obligatoria y Bachillerato para el curso 2025-2026. ## Preámbulo
 
 El marco competencial establecido en el Estatuto de Autonomía y en la legislación básica estatal atribuye competencias en materia de educación para regular la organización, funcionamiento y directrices pedagógicas de los centros y servicios contemplados en el objeto de la presente disposición.
